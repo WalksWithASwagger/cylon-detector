@@ -145,7 +145,8 @@ const staticTheoryNames: Record<string, string> = {
   // 4. INTEGRATED INFORMATION THEORY
   'Critiques': 'Critiques of Integrated Information Theory',
   'Koch IIT': 'Koch Compares Integrated Information Theory with Panpsychism',
-  
+  'IIT': 'Integrated Information Theory',
+
   // 5. PANPSYCHISMS
   'Micropsychism': 'Micropsychism',
   'Panprotopsychism': 'Panprotopsychism',

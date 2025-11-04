@@ -337,7 +337,8 @@ export const baseData = [
     name: 'Integrated Info',
     children: [
       { name: 'Critiques', value: 1 },
-      { name: 'Koch IIT', value: 1 }
+      { name: 'Koch IIT', value: 1 },
+      { name: 'IIT', value: 1 }
     ],
   },
   {

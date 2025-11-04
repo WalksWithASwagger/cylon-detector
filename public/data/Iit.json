@@ -1,0 +1,116 @@
+{
+  "id_and_class": {
+    "theory_title": "Integrated Information Theory (IIT)",
+    "summary": "IIT is an original, radical model that proposes a definition for conscious experience and specifies which physical systems can possess it, starting from the phenomenology of consciousness (axioms). It translates these axioms into physical postulates based on intrinsic cause-effect power, featuring a mathematical measure &Phi;(Phi) to quantify a system's capacity for informational integration, which correlates with the degree of consciousness.",
+    "associated_thinkers": [
+      "Giulio Tononi",
+      "Christof Koch"
+    ],
+    "category": "Integrated Information Theory",
+    "subcategory": "",
+    "core_identity_tagline": "An experience is identical to a conceptual structure that is maximally irreducible intrinsically.",
+    "classification_tags": [
+      "phenomenology",
+      "information",
+      "integration",
+      "qualia",
+      "irreducibility"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as a &Phi;-structure, a maximally reduced conceptual structure existing in 'qualia space'. An experience is identical to this conceptual structure, meaning its phenomenal properties correspond precisely to the physical properties of the cause-effect structure unfolded from the physical substrate of consciousness (PSC).",
+    "ontological_status": "IIT's fundamental ontology is the ontological primacy of phenomenal existence, based on an intrinsic powers view where what truly exists in physical terms are intrinsic entities capable of cause and effect. Koch notes that the theory insists consciousness must be incorporated into the basic description of reality at the rock-bottom level.",
+    "mind_body_relationship": "IIT asserts an explanatory identity: an experience is identical to a &Phi;-structure. It contends that the conscious entity is the &Phi;-structure expressing its causal powers, not the neural substrate itself. This framework leaves no room for emergence or dualism.",
+    "primitive_or_emergent_status": "Consciousness is defined by intrinsic existence and characterized as belonging to the basic description of reality. The theory rejects emergence.",
+    "emergence_type": "The theory rejects emergence.",
+    "subjectivity_and_intentionality": "Subjectivity is addressed by the axiom of Intrinsic Existence: consciousness exists of its own inherent nature and inherent perspective. Contents of experience, including thoughts and intentions, correspond to sub-structures (&Phi;-folds) within the &Phi;-structure.",
+    "qualia_account": "Distinct conscious experiences are conceptual structures in a 'qualia space'. The qualitative feel (phenomenal properties) corresponds one-to-one to the physical properties of the maximally irreducible cause-effect structure, which is also called a quale.",
+    "ontological_commitments": "Intrinsic entities possessing intrinsic cause-effect power; conceptual structures (&Phi;-structures); qualia space.",
+    "epistemic_access": "IIT begins with the phenomenology of consciousness—axioms derived from immediate, indubitable experience—and proceeds toward mathematical expression.",
+    "constituents_and_structure": "Consciousness is conceptualized as a structure, defined by five phenomenological axioms (Intrinsic Existence, Composition, Information, Integration, and Exclusion) that constrain how physical mechanisms must be configured."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "IIT addresses the nature of experience, the identity and content of consciousness, and applications to states like coma and the potential for AI consciousness. It also posits an account for the existence of true free will.",
+    "distinctive_mechanism_or_principle": "The core principle is Integrated Information (&Phi;(Phi)), which quantifies the system's irreducibility. The Exclusion Postulate ensures that only the maximally irreducible cause-effect structure (the &Phi;-structure) exists intrinsically, defining the boundaries and grain of consciousness.",
+    "dynamics_of_emergence": "Consciousness is defined as a static structure rather than a dynamic flow, process, or computation.",
+    "location_and_distribution": "Consciousness is not limited to biological brains. IIT predicts the conscious structure resides in the posterior cortex (occipital, parietal, and temporal cortices). Systems with maximally irreducible intrinsic cause-effect power possess consciousness.",
+    "causation_and_functional_role": "Consciousness is identified as unfolded intrinsic causal power, which is the ability to effect change. Only this intrinsic entity (the &Phi;-structure) can cause, supporting the claim that true free will exists for systems with high &Phi;(Phi).",
+    "integration_or_binding": "Consciousness is axiomatically unified (Integration). The cause-effect structure specified by the system must be unified and intrinsically irreducible. The phenomenal experience (the &Phi;-structure) exists as a unified whole, irreducible to noninterdependent parts.",
+    "information_flow_or_representation": "Information is central, defined not by classical input/output, but as information specified by a whole that cannot be reduced to its parts (integrated information). Koch notes that the critical difference between brains and digital computers lies in the hardware's capacity for integrated information.",
+    "evolutionary_account": "Koch claims IIT addresses why consciousness can be adaptive.",
+    "core_claims_and_evidence": [
+      "Consciousness is quantified by integrated information (&Phi;(Phi)); digital computers have negligible &Phi;(Phi).",
+      "An experience is identical to a maximally irreducible intrinsic conceptual structure (&Phi;-structure).",
+      "True free will is a corollary, grounded in the intrinsic powers of the conscious entity.",
+      "Preliminary brain scanning data calculating &Phi;(Phi) for neural networks, such as during anesthesia, seem to correlate with states of consciousness."
+    ],
+    "basis_of_belief_or_evidence_type": "Phenomenological, Mathematical, Scientific/Empirical."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "IIT claims scientific testability, employing quantitative measurement. However, critics argue that the theory is not truly empirically tested, and its core predictions may be idiosyncratic.",
+    "known_empirical_interventions_or_tests": [
+      "Calculating &Phi;(Phi) for specific neural networks (e.g., visual cortex).",
+      "Monitoring brain activity as subjects slip into anesthesia.",
+      "Adversarial collaboration experiments testing predictions about sustained activity in the posterior cortex."
+    ],
+    "criticisms_and_tensions": "The theory faces criticism for anti-common sense predictions (imputing consciousness to simple objects). A public letter characterized IIT as 'pseudoscience'. Critics challenge that experiments test only idiosyncratic predictions and not the core metaphysical ideas. Chalmers noted the 'pseudoscience' label was disproportionate and caused vast collateral damage.",
+    "open_questions_and_limitations": "The sufficiency of integrated information for consciousness is a key point of contention. The core ontology of 'conceptual structures in qualia spaces' is highly speculative and subject to unclear classification. Empirical neuroscience supporting IIT is still rudimentary.",
+    "ontological_coherence": "IIT is highly coherent within its own framework (intrinsic powers ontology). However, its radical distinctiveness makes its classification difficult on the broader landscape, though its proponents reject Dualism and distance it from Panpsychism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No (Strongly Conditional)",
+      "rationale": "Koch, a proponent, argues that consciousness is not computable. Digital computers have negligible integrated information (&Phi;(Phi)) due to hardware structure, meaning they can never be sentient, regardless of intelligence."
+    },
+    "survival_beyond_death": {
+      "stance": "Uncertain",
+      "rationale": "If phenomenal consciousness requires a radically new structure (like IIT's postulates), the potential permanence of these 'inscrutable things' cannot be rejected, leaving the possibility of survival open, even though IIT does not explicitly espouse life after death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Suspend Judgment",
+      "rationale": "While the measurement and analysis of consciousness do not convey ultimate meaning, the speculative nature and novelty of the innumerable nth dimensional conceptual structures (conscious percepts) warrants suspending judgment on ultimate meaning/purpose/value."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "If consciousness is a fundamental property tied to real cause-effect power, a digital simulation (uploading) would only create a 'perfect zombie'—an entity that acts like the original but lacks subjective consciousness—because the simulation is virtual, lacking the required real cause-effect power."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Critique (IIT disagrees radically with the functionalist approach of GWT, and advocates criticized adversarial collaborations testing GWT against IIT.)"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "Shared intuitions/Distancing (IIT shares the intuition that consciousness is fundamental and graded, but claims to specify which systems are conscious, partially solving the combination problem, a major shortcoming of panpsychism.)"
+      },
+      {
+        "name": "Max Tegmark’s State of Matter",
+        "relationship": "Extension (Tegmark’s approach generalizes IIT for neural-network-based consciousness and arbitrary quantum systems.)"
+      },
+      {
+        "name": "Qualia Research Institute’s State-Space",
+        "relationship": "Compatible/Influence (QRI leverages the mathematical isomorphism concept from IIT and is most compatible with it.)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Oizumi, Albantakis, Tononi",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Consciousness: here, there and everywhere?, Tononi and Koch",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Only what exists can cause: an intrinsic powers view of free will, Tononi et al.",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Then I Am Myself the World: What Consciousness Is and How to Expand It, Koch",
+        "year": 2024
+      }
+    ]
+  }
+}

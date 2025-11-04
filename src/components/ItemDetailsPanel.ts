@@ -382,10 +382,12 @@ export class ItemDetailsPanel {
             <h1 class="theory-title">${theoryData.id_and_class.theory_title}</h1>
             <div class="theory-category">
               ${theoryData.id_and_class.category}
+              ${theoryData.id_and_class.subcategory ? `
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.5 2L7.5 6L4.5 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
               ${theoryData.id_and_class.subcategory}
+              ` : ''}
             </div>
             <div class="theory-tagline">${theoryData.id_and_class.core_identity_tagline}</div>
           </div>
