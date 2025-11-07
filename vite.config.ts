@@ -16,6 +16,10 @@ export default defineConfig({
     minify: 'esbuild',
     sourcemap: false,
     rollupOptions: {
+      input: {
+        main: './index.html',
+        paper: './paper.html'
+      },
       output: {
         manualChunks: {
           echarts: ['echarts']
