@@ -3,6 +3,10 @@
   "outputDirectory": "dist",
   "rewrites": [
     {
+      "source": "/paper",
+      "destination": "/paper.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }

@@ -1,14 +1,15 @@
 import { defineConfig } from 'vite'
 import tsconfigPaths from 'vite-tsconfig-paths'
+import injectHTML from 'vite-plugin-html-inject'
 
 export default defineConfig({
   plugins: [
-    tsconfigPaths()
+    tsconfigPaths(),
+    injectHTML()
   ],
   server: {
     port: 8080,
-    open: true,
-    historyApiFallback: true
+    open: true
   },
   build: {
     target: 'es2020',
