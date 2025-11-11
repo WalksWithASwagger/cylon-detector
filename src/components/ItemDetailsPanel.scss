@@ -316,6 +316,8 @@
             svg {
               flex-shrink: 0;
               color: #f1f5f9;
+              width: 18px;
+              height: 18px;
             }
           }
         }
@@ -466,8 +468,12 @@
             margin-bottom: 12px;
 
             .implication-icon {
-              font-size: 20px;
-              flex-shrink: 0;
+              display: flex;
+              svg {
+                fill: #ffffff;
+                width: 24px;
+                height: 24px;
+              }
             }
 
             .implication-question {
@@ -524,6 +530,14 @@
           &:hover {
             background: rgba(59, 130, 246, 0.08);
             transform: translateX(2px);
+          }
+        }
+
+        .claim-icon {
+          svg {
+            fill: #ffffff;
+            width: 14px;
+            height: 14px;
           }
         }
 
