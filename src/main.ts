@@ -167,6 +167,14 @@ const initializeComponents = () => {
             y: (event as MouseEvent).clientY - rect.top
           }, 'https://github.com')
         })
+
+        const img = githubLink?.querySelector('img');
+
+        img?.addEventListener('load', () => {
+          if (img?.naturalWidth && img.naturalWidth > 30) {
+            img.style.display = 'none';
+          }
+        });
       }
 
       const kuhnLinks = document.querySelectorAll('a[href*="sciencedirect.com"]')
