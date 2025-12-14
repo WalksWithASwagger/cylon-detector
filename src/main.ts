@@ -147,6 +147,34 @@ const initializeComponents = () => {
 
       window.addEventListener('scroll', onScroll, { passive: true })
     }
+
+    // Source citation tooltip with debounce
+    const sourceCitation = document.querySelector('.source-citation')
+    const sourceTooltip = document.querySelector('.source-tooltip')
+    if (sourceCitation && sourceTooltip) {
+      let hideTimeout: NodeJS.Timeout | null = null
+      const debounceDelay = 300
+
+      const showTooltip = () => {
+        if (hideTimeout) {
+          clearTimeout(hideTimeout)
+          hideTimeout = null
+        }
+        sourceCitation.classList.add('tooltip-visible')
+      }
+
+      const hideTooltip = () => {
+        hideTimeout = setTimeout(() => {
+          sourceCitation.classList.remove('tooltip-visible')
+          hideTimeout = null
+        }, debounceDelay)
+      }
+
+      sourceCitation.addEventListener('mouseenter', showTooltip)
+      sourceCitation.addEventListener('mouseleave', hideTooltip)
+      sourceTooltip.addEventListener('mouseenter', showTooltip)
+      sourceTooltip.addEventListener('mouseleave', hideTooltip)
+    }
     
     const logoContainer = document.querySelector('.logo-container')
     if (logoContainer) {
