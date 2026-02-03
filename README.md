@@ -174,6 +174,16 @@ Theories are organized using Kuhn's taxonomy with structured data following the 
 
 Based on Robert Lawrence Kuhn's 2024 paper "A Landscape of Consciousness" published in Progress in Biophysics and Molecular Biology. The Atlas follows Kuhn's "collect and categorize, not assess and adjudicate" approach, providing a neutral visualization of the consciousness research landscape.
 
+## Scope and Disclaimer
+
+This project is an exploratory and educational visualization.  
+It does not advocate for any particular theory of consciousness and should not be interpreted as an authoritative scientific classification.
+
+## How to Cite
+
+ConsciousnessAtlas.com by Danilo Znamerovszkij.  
+https://consciousnessatlas.com (accessed [date]).
+
 ## License
 
 MIT
