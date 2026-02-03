@@ -206,25 +206,53 @@ main.ca-main {
     }
   }
 
-  footer {
-    margin-top: 4rem;
+  footer.project-meta {
+    margin: 4rem auto 2rem;
     padding-top: 2rem;
-    border-top: 2px solid #f7b801;
-    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    line-height: 1.6;
     font-family: "Outfit", sans-serif;
     font-size: 1rem;
     color: #ffffff;
 
-    a {
-      color: #f7b801;
-      text-decoration: none;
+    h3 {
+      font-family: "Bodoni72C", serif;
+      font-size: 1.8rem;
       font-weight: 600;
-      transition: all 0.3s ease;
+      margin-bottom: 1rem;
+      color: #f7b801;
+      line-height: 1.3;
 
-      &:hover {
-        text-decoration: underline;
-        color: #e6a600;
+      @media (max-width: 768px) {
+        font-size: 1.5rem;
       }
+    }
+
+    p {
+      font-size: 1.05rem;
+      margin-bottom: 1.5rem;
+      color: #ffffff;
+
+      @media (max-width: 768px) {
+        font-size: 1rem;
+      }
+
+      a {
+        color: #f7b801;
+        text-decoration: none;
+        font-weight: 500;
+
+        &:hover {
+          text-decoration: underline;
+          color: #e6a600;
+        }
+      }
+    }
+
+    .meta-links {
+      font-size: 0.9em;
+      margin-top: 1.5rem;
+      margin-bottom: 0;
     }
   }
 

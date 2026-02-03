@@ -171,8 +171,24 @@
       }
     </script>
 
-    <!-- Page-specific canonical URL -->
-    <link rel="canonical" href="https://consciousnessatlas.com" />
+    <link rel="canonical" id="canonical-link" href="https://consciousnessatlas.com" />
+    <script>
+      (function() {
+        function updateCanonical() {
+          const canonicalLink = document.getElementById('canonical-link');
+          if (canonicalLink) {
+            const baseUrl = 'https://consciousnessatlas.com';
+            const path = window.location.pathname;
+            canonicalLink.href = path === '/' ? baseUrl : baseUrl + path;
+          }
+        }
+        updateCanonical();
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', updateCanonical);
+        }
+        window.addEventListener('popstate', updateCanonical);
+      })();
+    </script>
     <link rel="stylesheet" href="/src/styles/main.scss" />
   </head>
   <body>
@@ -415,15 +431,42 @@
         </p>
       </section>
 
-      <footer>
+      <footer class="project-meta" aria-label="Project information and attribution">
+        <h3>About the Creator</h3>
         <p>
-          Built by
-          <a
-            href="https://x.com/danilo_z_j"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Danilo</a
-          >
+          ConsciousnessAtlas.com is an independent project by Danilo Znamerovszkij
+          (<a href="https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/" target="_blank" rel="noopener noreferrer">LinkedIn</a>),
+          a frontend engineer with experience building interactive tools and
+          data visualizations. The project reflects a long-standing interest in
+          consciousness studies, philosophy of mind, and how complex theoretical
+          landscapes can be made more navigable through software.
+        </p>
+
+        <h3>Contact</h3>
+        <p>
+          For feedback, corrections, or research-related inquiries:
+          <a href="mailto:&#100;&#97;&#110;&#105;&#108;&#111;&#46;&#122;&#110;&#97;&#109;&#101;&#114;&#111;&#118;&#115;&#122;&#107;&#105;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
+            &#100;&#97;&#110;&#105;&#108;&#111;&#46;&#122;&#110;&#97;&#109;&#101;&#114;&#111;&#118;&#115;&#122;&#107;&#105;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+          </a>
+        </p>
+
+        <h3>How to Cite</h3>
+        <p>
+          Danilo Znamerovszkij, ConsciousnessAtlas.com. https://consciousnessatlas.com (accessed [date]).
+        </p>
+
+        <h3>Scope</h3>
+        <p>
+          This project is intended as an exploratory and educational resource.
+          It does not advocate for any particular theory of consciousness and
+          should not be interpreted as an authoritative scientific classification.
+        </p>
+
+        <p class="meta-links">
+          Links:
+          <a href="https://github.com/danilo-znamerovszkij/c-atlas" target="_blank" rel="noopener noreferrer">GitHub</a>
+          ·
+          <a href="https://x.com/danilo_z_j" target="_blank" rel="noopener noreferrer">X</a>
         </p>
       </footer>
     </main>

@@ -55,8 +55,18 @@ export class Router {
     })
   }
 
+  private updateCanonicalLink() {
+    const canonicalLink = document.getElementById('canonical-link')
+    if (canonicalLink) {
+      const baseUrl = 'https://consciousnessatlas.com'
+      const path = window.location.pathname
+      canonicalLink.setAttribute('href', path === '/' ? baseUrl : baseUrl + path)
+    }
+  }
+
   private async parseCurrentURL() {
     const path = window.location.pathname
+    this.updateCanonicalLink()
     const segments = path.split('/').filter(segment => segment.length > 0)
     
     if (segments.length >= 2) {
