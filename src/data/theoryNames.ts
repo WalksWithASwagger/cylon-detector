@@ -167,7 +167,7 @@ const staticTheoryNames: Record<string, string> = {
   'Velmans': 'Velmans\'s Reflexive Monism',
   'Strawson Realistic': 'Strawson\'s Realistic Monism and Real Materialism',
   'Polkinghorne': 'Polkinghorne\'s Dual-Aspect Monism',
-  'Teilhard': 'Teilhard de Cardin\'s Evolving Consciousness',
+  'Teilhard': 'Teilhard de Chardin\'s Evolving Consciousness',
   'Atmanspacher': 'Atmanspacher\'s Dual-Aspect Monism',
   'Ramachandran': 'Ramachandran\'s New Physics and Neuroscience',
   'Tegmark': 'Tegmark\'s State of Matter',
