@@ -1,17 +1,29 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "rewrites": [
+  "routes": [
     {
-      "source": "/paper",
-      "destination": "/paper.html"
+      "handle": "filesystem"
     },
     {
-      "source": "/(.*)",
-      "destination": "/index.html"
+      "src": "/paper",
+      "dest": "/paper.html"
+    },
+    {
+      "src": "/.*",
+      "dest": "/index.html"
     }
   ],
   "headers": [
+    {
+      "source": "/index.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=86400, stale-while-revalidate=86400"
+        }
+      ]
+    },
     {
       "source": "/paper",
       "headers": [
