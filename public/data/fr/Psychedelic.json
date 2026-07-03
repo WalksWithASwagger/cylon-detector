@@ -1,0 +1,118 @@
+{
+  "id_and_class": {
+    "theory_title": "Théories psychédéliques de la conscience",
+    "summary": "Ce domaine d'étude examine les enseignements sur la conscience tirés des états induits par les drogues psychédéliques. Alors que les partisans utilisent souvent les expériences profondes, mystiques et altérées (par ex., sentiment d'unité, dissolution de l'ego) pour appuyer des visions non matérialistes comme le panpsychisme ou l'idéalisme, la science dominante utilise les données neurobiologiques associées (comme l'augmentation de l'entropie cérébrale ou l'activité neuronale synchronisée) pour promouvoir des modèles matérialistes comme l'hypothèse du cerveau entropique.",
+    "associated_thinkers": [
+      "Rupert Carhart-Harris",
+      "Karl Friston",
+      "Peter Sjöstedt-Hughes",
+      "Aldous Huxley"
+    ],
+    "category": "États anormaux et altérés",
+    "subcategory": "Conscience psychédélique",
+    "core_identity_tagline": "La conscience comme épistémologie des états altérés",
+    "classification_tags": [
+      "altered states",
+      "neurobiology",
+      "phenomenology",
+      "entropic brain",
+      "mysticism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "L'affirmation centrale est épistémologique : étudier les perturbations de la conscience révèle les mécanismes sous-jacents de la conscience normale (vision physicaliste), ou dévoile la nature fondamentale de la réalité (vision non physicaliste), plutôt que de postuler une identité propre à la conscience elle-même.",
+    "ontological_status": "Ontologie conditionnelle/mixte. Les modèles scientifiques interprètent les résultats de manière physicaliste/fonctionnaliste (par ex., l'hypothèse du cerveau entropique). Les interprétations métaphysiques dérivées de l'expérience subjective penchent souvent vers l'idéalisme ou le panpsychisme.",
+    "mind_body_relationship": "Double interprétation. Les modèles physicalistes voient l'état phénoménal comme un corrélat d'une perturbation neurodynamique spécifique (par ex., effondrement du réseau du mode par défaut). Les visions non physicalistes postulent que le cerveau agit comme un filtre temporairement inhibé par la drogue, permettant l'accès à une conscience non locale/fondamentale.",
+    "primitive_or_emergent_status": "Dépend de l'interprétation. Les modèles physicalistes considèrent l'état psychédélique (haute entropie) comme une dynamique altérée et émergente du cerveau. Les interprétations non physicalistes suggèrent que la drogue relâche des contraintes, révélant une conscience primitive ou fondamentale.",
+    "emergence_type": "Non explicitement qualifiée de faible ou de forte. Les changements phénoménologiques sont caractérisés comme une transition dynamique (transition de phase) vers un état d'entropie élevée ou de dynamique chaotique (criticité) dans le cerveau.",
+    "subjectivity_and_intentionality": "La subjectivité est profondément altérée, souvent caractérisée par des « états expérientiels d'une richesse insondable » incluant la dissolution de l'ego, l'unité (unicité/Oneness), et une perception temporelle altérée. Ces expériences intenses à la première personne constituent le point central de l'étude et de l'interprétation.",
+    "qualia_account": "Les qualia sont amplifiés et qualitativement altérés (par ex., couleurs explosives, sentiments spirituels profonds). Bien que ces expériences mettent au défi la capacité explicative des théories purement quantitatives, elles ne résolvent pas intrinsèquement le « problème difficile » de savoir pourquoi les qualia procurent une sensation quelconque.",
+    "ontological_commitments": "Neurobiologique : changements neurochimiques, motifs d'oscillation neuronale altérés, réduction de l'activité du réseau du mode par défaut (RMD). Les interprétations métaphysiques s'engagent envers une conscience fondamentale, des royaumes non locaux, ou des entités spirituelles.",
+    "epistemic_access": "Double accès : des récits phénoménologiques à la première personne (requis en raison du glissement subjectif radical) corrélés à des données empiriques objectives à la troisième personne (neuro-imagerie et mesures physiologiques).",
+    "constituents_and_structure": "Les dynamiques altérées sont caractérisées par une activité neuronale complexe et chaotique (haute entropie) et souvent par la désynchronisation de réseaux à grande échelle comme le réseau du mode par défaut."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale (altération et amplification qualitatives), conscience de soi (dissolution du soi/de l'ego), émotion et expérience mystique.",
+    "distinctive_mechanism_or_principle": "Modulation des croyances/priors de haut niveau via des neurotransmetteurs (modèle REBUS), conduisant à une entropie cérébrale accrue et à des dynamiques chaotiques (critiques), rappelant un état de conscience primitif ou primaire.",
+    "dynamics_of_emergence": "Transition dynamique d'un état de veille contraint et à faible entropie (fonctionnant juste en dessous de la criticité) vers un état primaire libéré et à haute entropie (fonctionnant près de la criticité) via une intervention pharmacologique.",
+    "location_and_distribution": "À l'échelle du cerveau entier, observée par des changements spécifiques dans les motifs d'oscillation neuronale synchronisée et un effondrement de l'activité hautement organisée au sein du réseau du mode par défaut.",
+    "causation_and_functional_role": "Sur le plan physiologique, les psychédéliques perturbent les processus prédictifs normaux. Sur le plan fonctionnel, les expériences mystiques profondes entraînent des transformations psychologiques et croyantielles à long terme, conférant une valeur ou une finalité subjective.",
+    "integration_or_binding": "Les motifs d'oscillation neuronale synchronisée observés à travers le cerveau durant les états altérés pourraient fournir des indices concernant l'unité (le liage) de l'expérience, appuyant potentiellement les théories du champ électromagnétique.",
+    "information_flow_or_representation": "Les psychédéliques relâchent la précision des croyances/priors de haut niveau, permettant à un flux d'information ascendant (par ex., en provenance du système limbique) de dominer l'expérience consciente, ce qui constitue le mécanisme du modèle REBUS.",
+    "evolutionary_account": "L'état de haute entropie qui en résulte est censé rappeler un état primitif de conscience antérieur à la nature contrainte de la conscience de veille adulte humaine normale.",
+    "core_claims_and_evidence": [
+      "Les états psychédéliques sont corrélés à une entropie cérébrale et une criticité élevées.",
+      "L'expérience est associée à une activité réduite dans les réseaux corticaux, y compris le RMD.",
+      "Le LSD et la kétamine induisent des motifs d'oscillation neuronale synchronisée à travers le cerveau.",
+      "Les expériences mystiques déclenchées par la psilocybine sont corrélées à des effets thérapeutiques comme la réduction de la dépression et de l'anxiété."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirique, phénoménologique, clinique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable par la recherche neurobiologique et clinique corrélant l'intervention chimique avec les changements d'état cérébral et les rapports subjectifs.",
+    "known_empirical_interventions_or_tests": [
+      "Mesure par EEG/IRMf de l'augmentation de l'entropie et de la désynchronisation (par ex., effondrement du RMD)",
+      "Études corrélant l'intensité de l'expérience mystique avec les effets thérapeutiques (par ex., psilocybine chez des patients atteints d'un cancer en phase terminale)",
+      "Analyse de la synchronisation des motifs d'oscillation neuronale"
+    ],
+    "criticisms_and_tensions": "La principale critique philosophique est que la nature subjective profonde de l'expérience ne garantit pas une vérité ontologique (vacuité épistémique). La critique neurobiologique soutient qu'une entropie élevée pourrait être simplement un « bruit cérébral » fonctionnel plutôt qu'une révélation de la conscience fondamentale.",
+    "open_questions_and_limitations": "Ces théories sont généralement reconnues comme insuffisantes pour résoudre le « problème difficile » de la conscience en lui-même. Elles ne traitent que des « problèmes faciles » liés au mécanisme et à la corrélation. Les interprétations non matérialistes sont confrontées à la difficulté de séparer les intuitions véridiques de la simple hallucination (le « problème difficile de la conscience psychédélique »).",
+    "ontological_coherence": "Forte cohérence au sein des cadres matérialistes qui admettent la dynamique/l'entropie cérébrale comme corrélat clé des états conscients. Faible cohérence entre les interprétations non matérialistes (qui remettent en question le physicalisme) et les données empiriques fondamentales (de nature physicaliste)."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditionnel",
+      "rationale": "Si la conscience dérive d'états organisationnels complexes, dynamiques et chaotiques (comme une entropie élevée), l'IA pourrait potentiellement reproduire ces structures. Cependant, les interprétations non matérialistes issues des expériences mystiques rejettent souvent la suffisance computationnelle."
+    },
+    "survival_beyond_death": {
+      "stance": "Oui (conditionnel à l'interprétation non matérialiste)",
+      "rationale": "Les expériences intenses, souvent similaires aux EMI et impliquant une dissolution de l'ego et une « unité », sont interprétées par certains partisans comme la preuve d'une conscience non locale persistant indépendamment du corps et du cerveau."
+    },
+    "meaning_and_purpose": {
+      "stance": "Fortement expérientiel/spirituel",
+      "rationale": "Les expériences psychédéliques induisent souvent des états mystiques et spirituels profonds conduisant à un sens personnel transformateur, une compassion accrue, et des changements dans les systèmes de croyances, remplissant une fonction psychologique et existentielle cruciale."
+    },
+    "virtual_immortality": {
+      "stance": "Ambigu/non nécessaire",
+      "rationale": "Si la conscience est un motif neurodynamique (vision physicaliste), elle pourrait être reproductible. Si elle est fondamentale/spirituelle (vision idéaliste), elle persiste déjà au-delà de la mort, rendant la simulation numérique superflue."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "L'hypothèse du cerveau entropique de Carhart-Harris",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Le principe d'énergie libre et l'inférence active de Friston",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Expériences de mort imminente, survie, vies antérieures",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Idéalismes",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The entropic brain—revisited, R.L. Carhart-Harris",
+        "year": 2018
+      },
+      {
+        "title_with_names": "REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics, R.L. Carhart-Harris and K.J. Friston",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A whole-brain model of the neural entropy increase elicited by psychedelic drugs, R. Herzog et al.",
+        "year": 2023
+      },
+      {
+        "title_with_names": "On the need for metaphysics in psychedelic therapy and research, P. Sjöstedt-Hughes",
+        "year": 2023
+      }
+    ]
+  }
+}

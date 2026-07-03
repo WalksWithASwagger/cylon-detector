@@ -1,0 +1,116 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie de l'information intégrée (IIT)",
+    "summary": "L'IIT est un modèle original et radical qui propose une définition de l'expérience consciente et précise quels systèmes physiques peuvent la posséder, en partant de la phénoménologie de la conscience (axiomes). Elle traduit ces axiomes en postulats physiques fondés sur le pouvoir causal intrinsèque, avec une mesure mathématique &Phi;(Phi) permettant de quantifier la capacité d'intégration informationnelle d'un système, laquelle est corrélée au degré de conscience.",
+    "associated_thinkers": [
+      "Giulio Tononi",
+      "Christof Koch"
+    ],
+    "category": "Théorie de l'information intégrée",
+    "subcategory": "",
+    "core_identity_tagline": "Une expérience est identique à une structure conceptuelle intrinsèquement maximalement irréductible.",
+    "classification_tags": [
+      "phenomenology",
+      "information",
+      "integration",
+      "qualia",
+      "irreducibility"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à une structure-&Phi;, une structure conceptuelle maximalement réduite existant dans « l'espace des qualia ». Une expérience est identique à cette structure conceptuelle, ce qui signifie que ses propriétés phénoménales correspondent précisément aux propriétés physiques de la structure de cause à effet déployée à partir du substrat physique de la conscience (SPC).",
+    "ontological_status": "L'ontologie fondamentale de l'IIT est la primauté ontologique de l'existence phénoménale, fondée sur une conception des pouvoirs intrinsèques selon laquelle ce qui existe véritablement en termes physiques, ce sont des entités intrinsèques capables de causer et d'être affectées. Koch note que la théorie exige que la conscience soit incorporée dans la description fondamentale de la réalité, au niveau le plus élémentaire.",
+    "mind_body_relationship": "L'IIT affirme une identité explicative : une expérience est identique à une structure-&Phi;. Elle soutient que l'entité consciente est la structure-&Phi; exprimant ses pouvoirs causaux, et non le substrat neuronal lui-même. Ce cadre ne laisse aucune place à l'émergence ou au dualisme.",
+    "primitive_or_emergent_status": "La conscience est définie par une existence intrinsèque et caractérisée comme appartenant à la description fondamentale de la réalité. La théorie rejette l'émergence.",
+    "emergence_type": "La théorie rejette l'émergence.",
+    "subjectivity_and_intentionality": "La subjectivité est traitée par l'axiome de l'existence intrinsèque : la conscience existe de par sa nature propre et sa perspective inhérente. Les contenus de l'expérience, y compris les pensées et les intentions, correspondent à des sous-structures (replis-&Phi;) au sein de la structure-&Phi;.",
+    "qualia_account": "Les expériences conscientes distinctes sont des structures conceptuelles dans un « espace des qualia ». La teneur qualitative (les propriétés phénoménales) correspond de manière biunivoque aux propriétés physiques de la structure de cause à effet maximalement irréductible, également appelée quale.",
+    "ontological_commitments": "Des entités intrinsèques possédant un pouvoir causal intrinsèque ; des structures conceptuelles (structures-&Phi;) ; un espace des qualia.",
+    "epistemic_access": "L'IIT part de la phénoménologie de la conscience — des axiomes tirés de l'expérience immédiate et indubitable — pour aboutir à une expression mathématique.",
+    "constituents_and_structure": "La conscience est conçue comme une structure, définie par cinq axiomes phénoménologiques (existence intrinsèque, composition, information, intégration et exclusion) qui contraignent la manière dont les mécanismes physiques doivent être configurés."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "L'IIT traite de la nature de l'expérience, de l'identité et du contenu de la conscience, et de ses applications à des états tels que le coma et le potentiel de conscience de l'IA. Elle postule également une explication de l'existence d'un véritable libre arbitre.",
+    "distinctive_mechanism_or_principle": "Le principe central est l'information intégrée (&Phi;(Phi)), qui quantifie l'irréductibilité du système. Le postulat d'exclusion garantit que seule la structure de cause à effet maximalement irréductible (la structure-&Phi;) existe intrinsèquement, définissant les frontières et le grain de la conscience.",
+    "dynamics_of_emergence": "La conscience est définie comme une structure statique plutôt que comme un flux, un processus ou un calcul dynamique.",
+    "location_and_distribution": "La conscience ne se limite pas aux cerveaux biologiques. L'IIT prédit que la structure consciente réside dans le cortex postérieur (cortex occipital, pariétal et temporal). Les systèmes possédant un pouvoir causal intrinsèque maximalement irréductible possèdent une conscience.",
+    "causation_and_functional_role": "La conscience est identifiée comme un pouvoir causal intrinsèque déployé, qui est la capacité à produire un changement. Seule cette entité intrinsèque (la structure-&Phi;) peut causer, ce qui soutient l'affirmation selon laquelle un véritable libre arbitre existe pour les systèmes à &Phi;(Phi) élevé.",
+    "integration_or_binding": "La conscience est axiomatiquement unifiée (intégration). La structure de cause à effet spécifiée par le système doit être unifiée et intrinsèquement irréductible. L'expérience phénoménale (la structure-&Phi;) existe comme un tout unifié, irréductible à des parties non interdépendantes.",
+    "information_flow_or_representation": "L'information est centrale, définie non pas par une entrée/sortie classique, mais comme l'information spécifiée par un tout qui ne peut être réduit à ses parties (information intégrée). Koch note que la différence critique entre les cerveaux et les ordinateurs numériques réside dans la capacité du matériel à produire de l'information intégrée.",
+    "evolutionary_account": "Koch affirme que l'IIT explique pourquoi la conscience peut être adaptative.",
+    "core_claims_and_evidence": [
+      "La conscience est quantifiée par l'information intégrée (&Phi;(Phi)) ; les ordinateurs numériques ont un &Phi;(Phi) négligeable.",
+      "Une expérience est identique à une structure conceptuelle intrinsèque maximalement irréductible (structure-&Phi;).",
+      "Le véritable libre arbitre est un corollaire, ancré dans les pouvoirs intrinsèques de l'entité consciente.",
+      "Des données préliminaires d'imagerie cérébrale calculant &Phi;(Phi) pour des réseaux neuronaux, par exemple durant l'anesthésie, semblent corrélées aux états de conscience."
+    ],
+    "basis_of_belief_or_evidence_type": "Phénoménologique, Mathématique, Scientifique/Empirique."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "L'IIT revendique une testabilité scientifique, employant une mesure quantitative. Cependant, les critiques soutiennent que la théorie n'est pas véritablement testée empiriquement, et que ses prédictions centrales pourraient être idiosyncrasiques.",
+    "known_empirical_interventions_or_tests": [
+      "Calculer &Phi;(Phi) pour des réseaux neuronaux spécifiques (par ex. le cortex visuel).",
+      "Surveiller l'activité cérébrale à mesure que les sujets glissent vers l'anesthésie.",
+      "Expériences de collaboration contradictoire testant des prédictions sur l'activité soutenue dans le cortex postérieur."
+    ],
+    "criticisms_and_tensions": "La théorie fait face à des critiques pour ses prédictions contraires au sens commun (attribuant la conscience à des objets simples). Une lettre publique a qualifié l'IIT de « pseudoscience ». Les critiques soutiennent que les expériences ne testent que des prédictions idiosyncrasiques et non les idées métaphysiques centrales. Chalmers a noté que l'étiquette de « pseudoscience » était disproportionnée et a causé d'importants dommages collatéraux.",
+    "open_questions_and_limitations": "La suffisance de l'information intégrée pour la conscience est un point de contestation majeur. L'ontologie centrale des « structures conceptuelles dans des espaces de qualia » est hautement spéculative et sujette à une classification incertaine. Les neurosciences empiriques soutenant l'IIT restent rudimentaires.",
+    "ontological_coherence": "L'IIT est hautement cohérente au sein de son propre cadre (ontologie des pouvoirs intrinsèques). Toutefois, sa radicale singularité rend sa classification difficile dans le paysage théorique plus large, même si ses tenants rejettent le dualisme et la distancient du panpsychisme."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Non (fortement conditionnel)",
+      "rationale": "Koch, un tenant de la théorie, soutient que la conscience n'est pas computable. Les ordinateurs numériques ont une information intégrée négligeable (&Phi;(Phi)) en raison de la structure de leur matériel, ce qui signifie qu'ils ne pourront jamais être sentients, quelle que soit leur intelligence."
+    },
+    "survival_beyond_death": {
+      "stance": "Incertain",
+      "rationale": "Si la conscience phénoménale requiert une structure radicalement nouvelle (comme les postulats de l'IIT), la permanence potentielle de ces « choses insondables » ne peut être écartée, laissant la possibilité de la survie ouverte, même si l'IIT n'épouse pas explicitement l'idée d'une vie après la mort."
+    },
+    "meaning_and_purpose": {
+      "stance": "Suspendre le jugement",
+      "rationale": "Bien que la mesure et l'analyse de la conscience ne véhiculent pas de sens ultime, la nature spéculative et la nouveauté des innombrables structures conceptuelles de dimension n (percepts conscients) justifient de suspendre le jugement sur le sens, le but ou la valeur ultimes."
+    },
+    "virtual_immortality": {
+      "stance": "Non",
+      "rationale": "Si la conscience est une propriété fondamentale liée à un véritable pouvoir de cause à effet, une simulation numérique (téléversement) ne créerait qu'un « zombie parfait » — une entité qui agit comme l'original mais dépourvue de conscience subjective — parce que la simulation est virtuelle, dépourvue du pouvoir de cause à effet réel requis."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Critique (l'IIT est radicalement en désaccord avec l'approche fonctionnaliste de la GWT, et ses défenseurs ont critiqué les collaborations contradictoires testant la GWT contre l'IIT.)"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "Intuitions partagées/Distanciation (l'IIT partage l'intuition que la conscience est fondamentale et graduée, mais prétend préciser quels systèmes sont conscients, résolvant partiellement le problème de la combinaison, une lacune majeure du panpsychisme.)"
+      },
+      {
+        "name": "Max Tegmark’s State of Matter",
+        "relationship": "Extension (l'approche de Tegmark généralise l'IIT pour la conscience fondée sur les réseaux de neurones et les systèmes quantiques arbitraires.)"
+      },
+      {
+        "name": "Qualia Research Institute’s State-Space",
+        "relationship": "Compatible/Influence (le QRI reprend le concept d'isomorphisme mathématique de l'IIT et lui est le plus compatible.)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Oizumi, Albantakis, Tononi",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Consciousness: here, there and everywhere?, Tononi and Koch",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Only what exists can cause: an intrinsic powers view of free will, Tononi et al.",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Then I Am Myself the World: What Consciousness Is and How to Expand It, Koch",
+        "year": 2024
+      }
+    ]
+  }
+}

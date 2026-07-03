@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "El Monismo Reflexivo de Velmans",
+    "summary": "El Monismo Reflexivo es una teoría de doble aspecto que postula que la realidad fundamental del universo es una única sustancia básica capaz de manifestarse tanto en formas físicas como en experiencia consciente. Afirma de manera singular que las experiencias conscientes del mundo externo son idénticas al mundo físico-tal-como-se-experimenta, reubicando la conciencia fenoménica fuera del cerebro y en el mundo.",
+    "associated_thinkers": ["Max Velmans"],
+    "category": "Monismos",
+    "subcategory": "Monismo Reflexivo",
+    "core_identity_tagline": "El Cerebro es la Mente Vista desde la Tercera Persona",
+    "classification_tags": [
+      "dual-aspect theory",
+      "phenomenological externalism",
+      "non-reductionist",
+      "mind-body relation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es el aspecto experiencial de la única sustancia básica que constituye el universo; el mundo físico es el mundo tal como es experimentado por el sujeto.",
+    "ontological_status": "Monismo de doble aspecto (en la tradición de Spinoza)",
+    "mind_body_relationship": "La mente y la materia surgen de un 'sustrato psicofísico' común y son dos aspectos de un ser unitario; el cerebro es la mente vista desde una perspectiva externa (en tercera persona).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Las fuentes no especifican el tipo de emergencia, pero la describen como surgida de la 'evolución del universo a partir de algún estado primigenio indiferenciado', en el cual este se diferencia en entidades distinguibles, algunas de las cuales adquieren el potencial de experiencia consciente.",
+    "subjectivity_and_intentionality": "La subjetividad es inherente porque el proceso general es 'reflexivo': el universo se diferencia en partes y se vuelve consciente de sí mismo de múltiples maneras. La teoría busca seguir los contornos de la experiencia ordinaria, que incluye la subjetividad.",
+    "qualia_account": "Los qualia (experiencias cualitativas) se identifican con el 'mundo físico-tal-como-se-experimenta', lo que significa que las experiencias se ubican aproximadamente donde parecen estar (externalismo fenomenológico), en lugar de estar exclusivamente en el cerebro.",
+    "ontological_commitments": "Una única sustancia básica indiferenciada (sustrato monista); formas físicas; experiencia consciente; mundo fenoménico-tal-como-se-experimenta.",
+    "epistemic_access": "Accesible mediante la introspección y la observación subjetiva, considerada igualmente válida que la observación externa (en tercera persona), reflejando el sentido común y la experiencia ordinaria.",
+    "constituents_and_structure": "El universo se diferencia a partir de un estado primigenio en aspectos físicos y experienciales complementarios. Las experiencias, en términos fenomenológicos, poseen extensión y ubicación reales en el espacio fenoménico, correspondiendo aproximadamente a su ubicación aparente."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico, subjetividad, autoconciencia (del universo).",
+    "distinctive_mechanism_or_principle": "Principio reflexivo: el proceso mediante el cual el universo se diferencia en partes y se vuelve consciente de sí mismo. Esto socava la brecha explicativa al unir la experiencia interna con el mundo externo percibido.",
+    "dynamics_of_emergence": "La conciencia es un proceso dinámico que surge de la evolución y diferenciación de la única sustancia básica del universo.",
+    "location_and_distribution": "La mente se distribuye monísticamente como un aspecto de la sustancia básica. La experiencia consciente en sí misma se ubica en el mundo fenoménico externo (externalismo fenomenológico), aproximadamente donde parece estar.",
+    "causation_and_functional_role": "La teoría se centra principalmente en el estatus ontológico más que en el rol funcional explícito. Sin embargo, al situar la mente y la materia en una única realidad, evita implícitamente los problemas de interacción causal que enfrenta el dualismo, buscando alinearse con la experiencia ordinaria, que asume la eficacia mental.",
+    "integration_or_binding": "El mecanismo preciso no se detalla, pero la unificación se logra conceptualmente mediante la identificación de los objetos y eventos experimentados con el mundo físico-tal-como-se-experimenta (por ejemplo, el texto impreso percibido y la experiencia de este son 'una y la misma cosa').",
+    "information_flow_or_representation": "La teoría analiza cómo se relaciona el 'mundo fenoménico' con el 'mundo físico', pero no se apoya principalmente en el procesamiento de información ni en el flujo computacional como mecanismo de la conciencia.",
+    "evolutionary_account": "Las entidades conscientes, como los seres humanos, surgen a través de la 'evolución del universo a partir de algún estado primigenio indiferenciado', lo que sugiere una capacidad de emergencia filogenética inherente a la sustancia básica.",
+    "core_claims_and_evidence": [
+      "El universo está compuesto por una única sustancia básica que se manifiesta tanto en formas físicas como en experiencia consciente.",
+      "El cerebro es la mente humana vista desde una perspectiva externa (en tercera persona).",
+      "Las experiencias fenoménicas se ubican aproximadamente donde parecen estar (externalismo fenomenológico)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, fenomenológico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativo/Conceptual. La teoría es conceptualmente comprobable evaluando su éxito en reconciliar la experiencia ordinaria con los hallazgos científicos, en particular aquellos que entran en conflicto con el fisicalismo reduccionista.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Desafía la presuposición profundamente arraigada de que las experiencias, a diferencia de los objetos físicos, no pueden tener una ubicación o extensión 'real' fuera del cerebro. Pretende desafiar el reduccionismo fisicalista y funcionalista.",
+    "open_questions_and_limitations": "La relación entre el espacio fenoménico (donde parece estar la experiencia) y el espacio 'real' (espacio medido) requiere mayor elaboración.",
+    "ontological_coherence": "Alta coherencia dentro de su marco, ya que evita el problema de la interacción del dualismo y el problema difícil de la conciencia que enfrenta el materialismo, al afirmar que los aspectos mental y físico comparten un sustrato común."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Como monismo, todo está hecho de la misma sustancia básica. Si la IA puede replicar la complejidad física suficiente (el aspecto en tercera persona/cerebro), debería surgir el aspecto dual (la mente/experiencia), ya que la realidad subyacente es psicofísica."
+    },
+    "survival_beyond_death": {
+      "stance": "Incierto",
+      "rationale": "Aunque la sustancia monista fundamental subyacente persiste, la teoría se centra en la conciencia que surge en entidades diferenciadas específicas (por ejemplo, seres humanos). Si el aspecto consciente personal y diferenciado sobrevive a la disolución del cuerpo físico es una cuestión que las fuentes dejan abierta."
+    },
+    "meaning_and_purpose": {
+      "stance": "Posible",
+      "rationale": "Los monismos generalmente sugieren una posición intermedia sobre el sentido/propósito. Dado que la teoría implica que el universo se vuelve 'consciente de sí mismo de múltiples maneras', este proceso reflexivo implica una significación cósmica inherente, aunque no personal, más allá del mero valor humanista."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Si el sustrato físico (el aspecto en tercera persona) puede duplicarse o cargarse perfectamente, el aspecto dual correspondiente (la mente/experiencia en primera persona) también debe preservarse o recrearse, en consonancia con la naturaleza de las teorías monistas."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Monismo de Doble Aspecto de Spinoza",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Reduccionismo Fisicalista",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Funcionalismo",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reflexive monism, Max Velmans",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Wikipedia, the free Encyclopedia, Max Velmans",
+        "year": 2023
+      }
+    ]
+  }
+}

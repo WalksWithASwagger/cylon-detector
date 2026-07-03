@@ -1,0 +1,81 @@
+{
+  "id_and_class": {
+    "theory_title": "“El Punto Ciego” de Frank/Gleiser/Thompson",
+    "summary": "Este marco critica los enfoques materialistas y dualistas tradicionales al afirmar la primacía mutua de la conciencia y la corporeización, argumentando que toda investigación científica ocurre necesariamente dentro del 'horizonte de la conciencia'. Define el 'problema difícil' como un artefacto del 'Punto Ciego' —el fracaso en reconocer la precondición irreducible de la experiencia en la búsqueda de la verdad objetiva— y propone un giro radical hacia la neurofenomenología.",
+    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
+    "category": "Materialism Theories",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "La conciencia como precondición irreducible y bucle extraño corporeizado",
+    "classification_tags": [
+      "embodiment",
+      "phenomenology",
+      "non-reductionism",
+      "strange loop",
+      "critique"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como una precondición irreducible del conocimiento científico que reside dentro de un 'horizonte' ineludible, mutuamente entrelazado con la corporeización.",
+    "ontological_status": "Fisicalismo no reductivo/Realismo fenomenológico (postura inferida, ya que la teoría rechaza explícitamente el reduccionismo y el fisicalismo, pero defiende una visión científicamente informada basada en la primacía de la experiencia y la corporeización. La fuente la clasifica bajo Materialismo/Corporeizado y Enactivo).",
+    "mind_body_relationship": "La relación se describe como un 'bucle extraño', en el que la 'primacía de la conciencia' subsume la corporeización, y la 'primacía de la corporeización' subsume la conciencia, lo que exige una visión integrada.",
+    "primitive_or_emergent_status": "Primitivo/fundamental (la conciencia se caracteriza como una 'precondición irreducible' y una 'primacía ineliminable' del conocimiento, no como algo que surge secuencialmente de la materia física, aunque es mutuamente dependiente de la corporeización).",
+    "emergence_type": "No aplicable (la teoría rechaza el marco del reduccionismo, el fisicalismo y el objetivismo que exigen los argumentos tradicionales de emergencia débil o fuerte. La relación es de 'entrelazamiento').",
+    "subjectivity_and_intentionality": "A la subjetividad (la experiencia en primera persona) se le otorga 'primacía' y es central para la teoría, rechazando los enfoques que buscan comprender la conciencia fuera de esta perspectiva (el Punto Ciego). La intencionalidad se integra implícitamente a través de conceptos asociados como la neurofenomenología.",
+    "qualia_account": "La naturaleza cualitativa de la experiencia (el problema difícil) se descarta como un 'artefacto del Punto Ciego', lo que significa que es un problema incorporado en la metafísica reductiva y no es resoluble en esos términos.",
+    "ontological_commitments": "Primacía de la conciencia, primacía de la corporeización y la relación de bucle extraño entre ambas.",
+    "epistemic_access": "La conciencia se conoce reconociendo que 'usamos ineludiblemente la conciencia para estudiar la conciencia'. El acceso se logra mediante la metodología de la neurofenomenología, que entrelaza relatos en primera persona (fenomenológicos) y en tercera persona (neurociencia).",
+    "constituents_and_structure": "La estructura básica es el 'bucle extraño' mutuamente englobante de la conciencia y la corporeización."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica, experiencia subjetiva en primera persona y la relación necesaria entre quien experimenta y el mundo (corporeización).",
+    "distinctive_mechanism_or_principle": "Identificar el 'Punto Ciego' (la amnesia de la humanidad respecto a la experiencia en la búsqueda de la verdad objetiva) y abogar por un giro hacia la neurofenomenología para incorporar la primacía de la experiencia a la ciencia.",
+    "dynamics_of_emergence": "La conciencia y la corporeización se 'entrelazan mutuamente' de manera dinámica, en lugar de que una dé lugar linealmente a la otra.",
+    "location_and_distribution": "La ubicación es el 'horizonte de la conciencia', que subsume al mundo y está inextricablemente ligado al cuerpo (corporeización).",
+    "causation_and_functional_role": "La conciencia sirve como el contexto necesario (horizonte) y la precondición para la adquisición de conocimiento, incluido el conocimiento científico. Su papel funcional está arraigado en la conexión inseparable entre la mente y los procesos vitales."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable mediante la aplicación de métodos neurofenomenológicos, con el objetivo de producir nuevas experiencias que sirvan como puntos de referencia para el avance tanto de la fenomenología como de la neurociencia.",
+    "known_empirical_interventions_or_tests": [
+      "Neurofenomenología (entrelazando reportes experienciales en primera persona con datos cerebrales en tercera persona)",
+      "Métodos experienciales en primera persona (p. ej., la meditación) para refinar la atención y la conciencia"
+    ],
+    "criticisms_and_tensions": "La teoría está en tensión con las teorías materialistas establecidas porque rechaza el reduccionismo, el fisicalismo y la noción de que la conciencia es una ilusión, argumentando en cambio que dichos enfoques son 'artefactos del Punto Ciego'. Esta ruptura radical desafía los fundamentos centrales de la metodología científica dominante.",
+    "open_questions_and_limitations": "La teoría propone disolver el problema difícil revelando sus premisas erróneas, en lugar de resolverlo dentro de los parámetros científicos tradicionales, lo que exige una revisión importante de la ciencia de la conciencia.",
+    "ontological_coherence": "Alta coherencia dentro de su propio marco, ya que identifica sistemáticamente a las teorías rivales (CCN, dualismo, ilusionismo) como conceptualmente erróneas debido a su adhesión compartida a la cosmovisión del 'Punto Ciego'."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Incierto",
+      "rationale": "La teoría concibe la conciencia como intrínsecamente ligada a la experiencia corporeizada en primera persona dentro de un 'bucle extraño'. Dado que critican el funcionalismo computacional que subyace a la mayoría de los enfoques de la IA, no queda claro si la mera computación no biológica podría lograr esta conciencia irreducible y corporeizada."
+    },
+    "survival_beyond_death": {
+      "stance": "Incierto",
+      "rationale": "La teoría enfatiza la primacía de la corporeización, sugiriendo que la conciencia está ligada al organismo. Sin embargo, su postura no reductiva, que apoya una ciencia basada en la primacía de la experiencia, no descarta la posibilidad de supervivencia, aunque las fuentes no especifican una postura al respecto."
+    },
+    "meaning_and_purpose": {
+      "stance": "Intrínseco/existencial",
+      "rationale": "La teoría busca reclamar el 'lugar central de la experiencia humana en la empresa científica', lo que implica que el sentido y el valor están fundamentalmente presentes en la realidad irreducible de la conciencia y la experiencia."
+    },
+    "virtual_immortality": {
+      "stance": "Improbable",
+      "rationale": "La inmortalidad virtual depende de la digitalización y replicación exitosas de los estados mentales (funcionalismo computacional). Dado que la teoría concibe la conciencia como un fenómeno irreducible y corporeizado —un 'bucle extraño'—, implica fuertemente que la carga mental sería imposible debido a su rechazo de la filosofía reduccionista subyacente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Neurophenomenology", "relationship": "Apoyo/Extensión" },
+      { "name": "Embodied and Enactive Theories", "relationship": "Alineación" },
+      {
+        "name": "Reductionism/Physicalism",
+        "relationship": "Crítica/Rechazo"
+      },
+      { "name": "Francisco Varela’s work", "relationship": "Influencia" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Blind Spot: Why Science Cannot Ignore Human Experience, A. Frank, M. Gleiser, E. Thompson",
+        "year": 2024
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Modelo Proyectivo de la Conciencia",
+    "summary": "El Modelo Proyectivo de la Conciencia (PCM, por sus siglas en inglés) es un marco matemático de la conciencia corporeizada que propone que el Campo de Conciencia (FoC, por sus siglas en inglés) está estructurado por una geometría proyectiva y controlado mediante inferencia activa. Vincula la fenomenología con la función, argumentando que la conciencia es un mecanismo evolucionado que optimiza la integración de información para la resiliencia.",
+    "associated_thinkers": [
+      "David Rudrauf",
+      "Kenneth Williford",
+      "Daniel Bennequin",
+      "Karl Friston"
+    ],
+    "category": "Materialism",
+    "subcategory": "Homeostatic and Affective",
+    "core_identity_tagline": "La conciencia como geometría proyectiva e inferencia activa",
+    "classification_tags": [
+      "mathematical",
+      "embodied",
+      "active inference",
+      "projective geometry",
+      "free energy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como un mecanismo evolucionado que optimiza la integración de información, funcionando como un algoritmo para maximizar la resiliencia. Los estados conscientes reflejan la acción de transformaciones proyectivas.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Conciencia corporeizada, donde la mente no se reduce únicamente a la corporeización, sino que requiere la estructura física; el 'cuerpo vivido' sirve como una representación inferencial crucial del cuerpo real.",
+    "primitive_or_emergent_status": "Emergida",
+    "emergence_type": "Emergencia débil",
+    "subjectivity_and_intentionality": "El PCM da cuenta de la fenomenología espacial de la experiencia subjetiva y vincula la intencionalidad a los procesos afectivos. El FoC encuadra las experiencias seleccionando puntos de vista según las preferencias.",
+    "qualia_account": "La teoría da cuenta de la fenomenología espacial de la experiencia subjetiva, sugiriendo que los estados conscientes surgen mediante transformaciones proyectivas, aunque los detalles específicos de la sensación cualitativa ('qualia') no se proporcionan explícitamente.",
+    "ontological_commitments": "Geometría proyectiva, energía libre, sistemas corporeizados, información sensorial multimodal, huellas de memoria.",
+    "epistemic_access": "Se accede mediante el modelado matemático, el análisis computacional y el estudio de la fenomenología espacial.",
+    "constituents_and_structure": "El Campo de Conciencia (FoC) estructurado por la geometría proyectiva y que se apoya en el 'cuerpo vivido' como interfaz de usuario virtual para la representación y el control."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (fenomenología espacial), percepción, imaginación, acción, procesos afectivos (intencionalidad).",
+    "distinctive_mechanism_or_principle": "Proceso de inferencia activa que controla el FoC espacial, el cual está estructurado por una geometría proyectiva para transformar las expectativas. Las violaciones de la expectativa (energía libre) impulsan la toma de perspectiva.",
+    "dynamics_of_emergence": "Los estados conscientes son un proceso dinámico que surge cuando se aplican transformaciones proyectivas, rigiendo el cambio entre percepción, imaginación y acción.",
+    "location_and_distribution": "Sistémica; la conciencia es corporeizada e implica un sistema predictivo integrador que proyecta una geometría espacial 3D global.",
+    "causation_and_functional_role": "Funciona para maximizar la resiliencia y demostrar ventajas computacionales. La conciencia facilita la representación, simulación, evaluación y control de información y acciones distribuidas espacialmente.",
+    "integration_or_binding": "La integración se logra mediante un sistema predictivo integrador que proyecta una geometría espacial 3D global a la información sensorial multimodal y a las huellas de memoria que acceden al espacio de trabajo consciente.",
+    "information_flow_or_representation": "La conciencia optimiza la integración de información. Los marcos proyectivos rigen cómo la conciencia transforma las expectativas. El 'cuerpo vivido' es una representación inferencial.",
+    "evolutionary_account": "La conciencia evolucionó como un mecanismo para optimizar el procesamiento de información. Los sistemas corporeizados obtuvieron una ventaja evolutiva al desarrollar una cognición integradora del espacio.",
+    "core_claims_and_evidence": [
+      "El campo espacial de la conciencia está estructurado por una geometría proyectiva y controlado mediante inferencia activa.",
+      "La conciencia es un mecanismo evolucionado que optimiza la integración de información para la resiliencia.",
+      "El 'cuerpo vivido' sirve como una representación inferencial crucial y un punto de anclaje para la integridad del yo."
+    ],
+    "basis_of_belief_or_evidence_type": "Matemático, Computacional, Fenomenológico, Funcional"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "Muy consistente dentro de la ontología materialista computacional y funcional, alineándose particularmente con el marco del Principio de Energía Libre."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Si las estructuras matemáticas y computacionales de la geometría proyectiva y la inferencia activa pueden implementarse exitosamente en sistemas artificiales, preferiblemente corporeizados, entonces la conciencia de la IA es posible."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "El modelo está arraigado en la realidad física, enfatizando la conciencia corporeizada y los principios homeostáticos vinculados al cerebro biológico, sin proporcionar una base para la supervivencia posbiológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo funcional",
+      "rationale": "La conciencia se define principalmente como un mecanismo evolucionado para maximizar la resiliencia y optimizar el procesamiento de información, lo que implica un propósito adaptativo más que un sentido cósmico último."
+    },
+    "virtual_immortality": {
+      "stance": "Condicional",
+      "rationale": "Como modelo matemático funcional, la inmortalidad virtual es concebible si las dinámicas complejas requeridas de la estructura proyectiva y el aspecto corporeizado pueden simularse/replicarse perfectamente en un sustrato no biológico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A mathematical model of embodied consciousness, D. Rudrauf et al",
+        "year": 2017
+      }
+    ]
+  }
+}

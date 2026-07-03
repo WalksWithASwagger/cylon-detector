@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Teorías Matemáticas",
+    "summary": "Esta categoría incluye enfoques que utilizan herramientas matemáticas rigurosas para describir la estructura, el nivel, el contenido y la dinámica de la experiencia consciente (visión epistemológica), así como teorías fundacionales que postulan estructuras matemáticas como la base o esencia última de la propia conciencia (visión ontológica).",
+    "associated_thinkers": [
+      "Johannes Kleiner",
+      "Tim Ludwig",
+      "Yucong Duan",
+      "Max Tegmark",
+      "Roger Penrose"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computacional e Informacional",
+    "core_identity_tagline": "La Conciencia como Estructura Matemática Formal",
+    "classification_tags": [
+      "mathematics",
+      "ontology",
+      "formalism",
+      "structure",
+      "computation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica fundamentalmente con, o se deriva de, estructuras, relaciones o espacios matemáticos subyacentes, lo que permite la formalización de las propiedades experienciales.",
+    "ontological_status": "Monismo Condicional (Justificación: Abarca desde el respaldo a modelos tradicionales de Fisicalismo/Materialismo hasta la propuesta de afirmaciones ontológicas de la realidad matemática como fundamento último, lo que trasciende el materialismo estricto.)",
+    "mind_body_relationship": "Altamente variable. Las variantes ontológicas sugieren que tanto el mundo físico como la experiencia mental son manifestaciones secundarias o 'sombras' de la realidad matemática primaria (por ejemplo, el mundo platónico de Penrose). Las variantes epistemológicas sugieren un isomorfismo estructural entre la experiencia fenoménica y el espacio matemático.",
+    "primitive_or_emergent_status": "Variable",
+    "emergence_type": "Variable (Justificación: Las variantes ontológicas sugieren que la conciencia es primitiva/fundamental como parte de la realidad matemática última. Los modelos centrados en la dinámica sugieren una emergencia débil de los estados conscientes a través de relaciones matemáticas complejas.)",
+    "subjectivity_and_intentionality": "La subjetividad y las cualidades fenoménicas se caracterizan formalmente mediante espacios y estructuras matemáticas, con el objetivo de identificar la composición y los dominios que corresponden a los aspectos experimentados de la conciencia.",
+    "qualia_account": "Los qualia, o espacios fenoménicos, se tratan como estructuras matemáticas cuyas características son isomorfas a las propiedades de la experiencia. La teoría intenta garantizar que algo en la experiencia consciente corresponda literalmente a la estructura postulada.",
+    "ontological_commitments": "Estructuras y formas matemáticas; dominios que representan aspectos de la experiencia consciente; realidad platónica abstracta (en algunas variantes).",
+    "epistemic_access": "Se accede mediante métodos formales abstractos, modelización matemática y descripción cuantitativa o estructural rigurosa de las características fenoménicas.",
+    "constituents_and_structure": "Consiste en conjuntos llamados 'dominios' cuyos elementos corresponden a aspectos de las experiencias conscientes, y relaciones o funciones rigurosamente definidas que operan sobre esos dominios."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Estructura, nivel, contenido y dinámica (trayectoria evolutiva, estado estable, flujo de información) de la experiencia consciente.",
+    "distinctive_mechanism_or_principle": "El mecanismo clave es la representación formal rigurosa de la conciencia. Las visiones ontológicas postulan que la conciencia está inherentemente estructurada por leyes matemáticas, de forma similar a la mecánica cuántica.",
+    "dynamics_of_emergence": "La dinámica de la conciencia puede describirse mediante teorías como la teoría de sistemas dinámicos, que caracteriza la trayectoria evolutiva y los estados estables.",
+    "location_and_distribution": "La ubicación es secundaria respecto a la estructura matemática abstracta. En las visiones ontológicas, la ubicación podría ser cósmica o residir en el reino platónico de las formas.",
+    "causation_and_functional_role": "Las matemáticas actúan como el 'lenguaje de la conciencia' necesario para encontrar patrones, periodicidad y relevancia, revelando así relaciones causales y funciones.",
+    "integration_or_binding": "La unidad y la vinculación se cuantifican o describen típicamente mediante estructuras matemáticas formalizadas, como modelos de flujo de información o medidas de complejidad e integración.",
+    "information_flow_or_representation": "La teoría de la información se aplica a menudo para cuantificar el flujo y los valores de entropía dentro de la conciencia. El proyecto central consiste en representar la experiencia consciente en términos de espacios matemáticos.",
+    "evolutionary_account": "No abordado directamente por la teoría central (Justificación: El enfoque de las Teorías Matemáticas se centra generalmente en la estructura instantánea y la esencia fundamental más que en el desarrollo filogenético, aunque respalda teorías como el FEP de Friston que sí tienen relatos evolutivos).",
+    "core_claims_and_evidence": [
+      "La conciencia está constituida por estructuras matemáticas (visión ontológica).",
+      "La experiencia consciente corresponde precisamente a objetos matemáticos y características geométricas.",
+      "Herramientas matemáticas como la teoría de sistemas dinámicos y la teoría de la información pueden cuantificar la dinámica interna de la conciencia."
+    ],
+    "basis_of_belief_or_evidence_type": "Formal/Matemático, Conceptual"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable. Empíricamente comprobable cuando proporciona el marco matemático para teorías científicas específicas (por ejemplo, la Teoría de la Información Integrada).",
+    "known_empirical_interventions_or_tests": "Dependiente de la teoría (Justificación: Este enfoque proporciona el lenguaje formal para otras teorías, como la Teoría de la Información Integrada y el Principio de Energía Libre, que a su vez definen medidas e intervenciones empíricas específicas).",
+    "criticisms_and_tensions": "Criticada por la dificultad de demostrar que el formalismo matemático capta la esencia real de la experiencia consciente en lugar de limitarse a describir correlatos funcionales. Las afirmaciones ontológicas (como que la conciencia está 'hecha de' matemáticas) son altamente controvertidas.",
+    "open_questions_and_limitations": "La principal cuestión sin resolver es cómo tender un puente entre las entidades formales abstractas de las matemáticas y la sensación fenoménica concreta de la experiencia consciente (los qualia).",
+    "ontological_coherence": "Alta coherencia cuando se combina con una ontología platónica o con la Hipótesis del Universo Matemático; enfrenta dificultades para explicar la subjetividad cualitativa cuando se aplica al fisicalismo reductivo estricto."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Si la conciencia se define puramente por una estructura matemática abstracta o una lógica computacional, entonces los sistemas artificiales que realicen esa estructura podrían potencialmente instanciar la conciencia."
+    },
+    "survival_beyond_death": {
+      "stance": "Condicional",
+      "rationale": "Las teorías matemáticas ontológicas (por ejemplo, Tegmark, Penrose) sugieren que el fundamento de la realidad es una estructura matemática eterna, lo que potencialmente permitiría que la conciencia persista más allá del cerebro físico en un sentido abstracto."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cósmico condicional",
+      "rationale": "Si el cosmos es fundamentalmente matemático o está arraigado en formas platónicas, ello implica un significado racional intrínseco a la existencia, aunque no necesariamente un sentido teleológico personal."
+    },
+    "virtual_immortality": {
+      "stance": "Posible",
+      "rationale": "Si la mente se reduce enteramente a una estructura matemática cuantificable o a un flujo de información, entonces este patrón podría, en principio, preservarse e instanciarse en un nuevo sustrato."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Tegmark’s State of Matter",
+        "relationship": "Extensión"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is a mathematical structure of conscious experience?",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality, Max Tegmark",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Shadows of the Mind: A Search for the Missing Science of Consciousness, Roger Penrose",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Consciousness, mathematics, and natural laws, Yucong Duan and Shiming Gong",
+        "year": 2024
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Le matérialisme chrétien et la résurrection des morts de van Inwagen",
+    "summary": "Cette théorie propose une forme de matérialisme chrétien selon laquelle la personne humaine est entièrement une entité matérielle, rejetant ainsi le dualisme des substances pour des raisons à la fois philosophiques et bibliques. Elle soutient que l'identité personnelle par-delà la mort est maintenue par Dieu, qui préserve un « noyau nu » physiquement et causalement continu du corps matériel original jusqu'à la résurrection finale.",
+    "associated_thinkers": ["Peter van Inwagen"],
+    "category": "Physicalisme Non Réductif",
+    "subcategory": "Matérialisme Chrétien",
+    "core_identity_tagline": "Le matérialisme réconcilié avec la résurrection biblique",
+    "classification_tags": [
+      "christian philosophy",
+      "materialism",
+      "personal identity",
+      "theology",
+      "resurrection"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La personne consciente est une chose matérielle qui doit maintenir une continuité matérielle et causale pour conserver son identité personnelle.",
+    "ontological_status": "Matérialisme chrétien (une position physicaliste unique qui intègre l'action divine pour la continuité de l'identité).",
+    "mind_body_relationship": "Théorie de l'identité : la personne (y compris l'esprit) est identique à une chose matérielle, bien que le mécanisme précis de la survie à long terme repose sur la préservation divine.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "La théorie se concentre sur la continuité ontologique (la préservation par Dieu de l'entité matérielle) plutôt que sur des mécanismes spécifiques d'émergence neurologique, mais suppose une explication physicaliste/matérialiste de la conscience durant la vie.",
+    "subjectivity_and_intentionality": "La subjectivité et l'intentionnalité sont des propriétés de la personne/du cerveau matériel, conformément aux positions matérialistes standard, la théorie se concentrant principalement sur la continuité post-mortem plutôt que sur la fonction consciente durant la vie.",
+    "qualia_account": "La théorie se préoccupe principalement de la continuité ontologique, mais suppose implicitement que l'expérience qualitative est un phénomène entièrement physique de l'organisme matériel, conformément à son fondement matérialiste sous-jacent.",
+    "ontological_commitments": "La personne/le corps matériel, les atomes, et le pouvoir de Dieu (pour assurer la continuité matérielle et causale). Elle rejette les substances non physiques comme l'âme.",
+    "epistemic_access": "Accessible par le raisonnement philosophique et l'exégèse théologique, en particulier en se concentrant sur les textes bibliques concernant la mort et la résurrection.",
+    "constituents_and_structure": "Le constituant de base est le corps matériel, en particulier la partie qui maintient la continuité de l'identité après la mort, symbolisée par le « gumnos kókkos » (le noyau nu ou grain nu)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Identité personnelle, survie par-delà la mort, cohérence théologique.",
+    "distinctive_mechanism_or_principle": "Le mécanisme par lequel Dieu préserve une petite portion de la matière originale (un noyau nu) pour assurer la continuité matérielle et causale de la personne entre la mort et la résurrection.",
+    "dynamics_of_emergence": "La conscience naît de l'organisme matériel complexe durant la vie. Sa persistance à travers la mort n'est pas continue, mais assurée par Dieu qui conserve un élément du substrat matériel.",
+    "location_and_distribution": "Située dans le corps/cerveau physique durant la vie. La continuité de l'identité est maintenue par la préservation d'un « gumnos kókkos » après la mort.",
+    "causation_and_functional_role": "La conscience et la vie mentale de la personne sont causalement efficaces au sein du domaine physique, en tant que propriétés de l'entité matérielle.",
+    "integration_or_binding": "La cohérence de la conscience durant la vie est présumée être réalisée par des processus neuronaux au sein du corps matériel, conformément à un cadre matérialiste.",
+    "information_flow_or_representation": "Le traitement conscient repose sur la représentation fonctionnelle et le flux d'information au sein du cerveau matériel.",
+    "evolutionary_account": "L'émergence de la conscience durant la vie suit des processus biologiques et évolutifs, conformément à sa position matérialiste.",
+    "core_claims_and_evidence": [
+      "La personne humaine est une chose matérielle, rejetant le dualisme des substances.",
+      "L'interprétation dualiste traditionnelle des textes du Nouveau Testament sur la résurrection est alambiquée, en faveur d'une lecture matérialiste.",
+      "Dieu doit préserver un « gumnos kókkos » physique de la personne pour assurer la continuité matérielle et causale nécessaire à la résurrection."
+    ],
+    "basis_of_belief_or_evidence_type": "Argument philosophique, exégèse théologique/biblique."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculatif/Conceptuel. Les affirmations centrales concernant la résurrection reposent sur l'argument philosophique/théologique et ne sont pas empiriquement testables par la science.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La théorie a du mal à expliquer comment l'omnipotence peut réassembler une personne dont les atomes ont fluctué et se sont largement dispersés (le dilemme des myriades de duplicatas). De plus, l'argument contre une âme immortelle n'a pas convaincu de nombreux dualistes chrétiens.",
+    "open_questions_and_limitations": "Le mécanisme précis par lequel Dieu préserve le « gumnos kókkos » et assure l'identité personnelle, compte tenu du flux constant et de la dispersion des atomes corporels, demeure une exigence non résolue.",
+    "ontological_coherence": "Cohérente dans la réconciliation du matérialisme avec la doctrine chrétienne, mais repose sur un mécanisme (la préservation divine) qui introduit un élément surnaturel pour assurer la continuité matérielle."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "En tant que théorie matérialiste, la conscience est finalement un produit de l'arrangement physique complexe, ce qui signifie que l'IA devrait, en principe, pouvoir instancier la conscience si le substrat physique requis est atteint."
+    },
+    "survival_beyond_death": {
+      "stance": "Oui (Conditionnel à une intervention divine)",
+      "rationale": "L'objectif principal de la théorie est de fournir un mécanisme (Dieu préservant un noyau nu) permettant à la personne matérielle d'atteindre la résurrection biblique et la survie post-mortem."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmique/Théologique",
+      "rationale": "L'ensemble du cadre repose sur un engagement théologique envers la résurrection des morts, impliquant un sens et une finalité ultimes au sein d'un plan divin."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Puisque la personne est une chose matérielle, le téléversement de l'état physique complet du cerveau devrait, en principe, aboutir à une duplication fonctionnelle du soi conscient, permettant l'immortalité virtuelle."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "Critique" },
+      { "name": "Papineau’s Mind-Brain Identity", "relationship": "Chevauchement" },
+      {
+        "name": "Murphy’s Non-Reductive Physicalism",
+        "relationship": "Compatible"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "Chevauchement" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism and Materialism: Athens and Jerusalem?",
+        "year": 1995
+      },
+      {
+        "title_with_names": "A materialist ontology of the human person",
+        "year": 2007
+      },
+      {
+        "title_with_names": "What is the nature of personal identity?",
+        "year": 2007
+      }
+    ]
+  }
+}

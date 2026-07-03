@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "El Incompatibilismo Duro de Sapolsky",
+    "summary": "Esta perspectiva sostiene que la conciencia es una propiedad emergente compleja que surge únicamente de mecanismos biológicos, ligada indisolublemente a las reglas físicas del universo. Su principal compromiso filosófico es el incompatibilismo duro, que afirma el determinismo biológico y, en consecuencia, niega la existencia del libre albedrío.",
+    "associated_thinkers": ["Robert Sapolsky"],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "‘La Conciencia como Propiedad Emergente Compleja’",
+    "classification_tags": [
+      "determinism",
+      "neurobiology",
+      "physicalism",
+      "emergence",
+      "hard incompatibilism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica con una propiedad emergente compleja que surge de la física y la química del organismo biológico, específicamente el cerebro, y de sus interacciones con el entorno.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Correlación materialista/de identidad: la mente y el yo son estrictamente productos de, o idénticos a, procesos biológicos, en consonancia con las reglas físicas.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil (Inferida): aunque se describe como una 'propiedad emergente compleja' cuya naturaleza es difícil de captar, su fundamento en un determinismo biológico estricto implica que la emergencia debe, en principio, ajustarse por completo a las leyes físicas.",
+    "subjectivity_and_intentionality": "Se reconoce que la subjetividad (qué es la conciencia) existe, pero se afirma que está poco comprendida y es difícil de definir. La intencionalidad y la agencia (el libre albedrío) se rechazan explícitamente por ser incompatibles con el determinismo.",
+    "qualia_account": "Sin explicar: se reconoce el matiz cualitativo de la experiencia, pero se considera que está más allá de la comprensión neurobiológica actual, descrito de manera ambigua como una 'propiedad emergente compleja' que 'lo explica todo y nada'.",
+    "ontological_commitments": "Organismos biológicos, estructuras neurológicas y las reglas físicas del universo.",
+    "epistemic_access": "Se accede mediante la observación de estados neurológicos; sin embargo, se admite que la comprensión de la conciencia fenoménica a nivel neurobiológico es sumamente limitada.",
+    "constituents_and_structure": "La organización compleja de la materia biológica, regida por reglas físicas deterministas."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Libre albedrío (Crítica/Negación); Fenoménica (reconocida como existente pero sin explicar); función neurológica (en el sentido neurológico llano).",
+    "distinctive_mechanism_or_principle": "El principio del incompatibilismo duro, según el cual todos los eventos, incluidos los mentales, están plenamente determinados por causas biológicas y ambientales previas, sin dejar espacio para mecanismos no biológicos o no deterministas.",
+    "dynamics_of_emergence": "La conciencia es un Proceso Dinámico que surge de los procesos complejos y organizados del cerebro.",
+    "location_and_distribution": "Localizada enteramente en el cerebro y el organismo biológico.",
+    "causation_and_functional_role": "La conciencia es causalmente eficaz (no es un mero epifenómeno), pero sus acciones causales están enteramente restringidas por el flujo determinista de los procesos biológicos.",
+    "integration_or_binding": "Se integra implícitamente mediante la organización compleja y la operación determinista del sistema biológico.",
+    "information_flow_or_representation": "Se implica mediante la función biológica basada en reglas físicas fundamentales que rigen los procesos biológicos.",
+    "evolutionary_account": "La conciencia es un producto de la evolución biológica/filogenética, en consonancia con la naturaleza determinista y biológica del organismo.",
+    "core_claims_and_evidence": [
+      "El yo/la mente no es más ni menos que nuestra biología y sus interacciones con el entorno.",
+      "El libre albedrío es filosóficamente imposible de reconciliar con el determinismo biológico.",
+      "La conciencia surge como una propiedad emergente compleja del cerebro biológico.",
+      "La conciencia no es un epifenómeno ilusorio."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (compromiso a priori con el determinismo y el materialismo); Biológica/Neurocientífica."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Premisa filosófica (Determinismo); vinculada empíricamente a la Neurobiología (dado que todos los fenómenos son biológicos).",
+    "known_empirical_interventions_or_tests": "Ninguna especificada en la fuente; se apoya en evidencia biológica y neurológica fundamental que respalda el fisicalismo determinista.",
+    "criticisms_and_tensions": "Sapolsky admite que la definición de conciencia es confusa y depende del ambiguo término 'propiedad emergente compleja'. Externamente, la negación del libre albedrío (el incompatibilismo duro) es una postura filosófica sumamente controvertida.",
+    "open_questions_and_limitations": "La naturaleza y la definición precisas de la conciencia fenoménica siguen estando más allá de la capacidad del autor para comprenderlas o explicarlas plenamente.",
+    "ontological_coherence": "Alta, ya que la teoría se adhiere estrictamente a una ontología fisicalista y determinista, sin introducir elementos no físicos."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conciencia es una propiedad emergente causalmente activa gobernada por reglas físicas de organización biológica compleja, debería, en principio, ser alcanzable en un sistema artificial que replique la complejidad necesaria."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia es únicamente producto del cerebro biológico; por lo tanto, la muerte del cerebro es el fin irrevocable de la existencia personal."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "La naturaleza determinista de la conciencia implica que no hay un sentido o propósito cósmico último; cualquier sentido o valor es necesariamente creado por los propios seres humanos."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Dado que la conciencia es reducible a, y depende de, estados físicos complejos, una duplicación perfecta de estos estados en un sustrato no biológico resultaría en la continuación del yo mental en primera persona, en consonancia con las Teorías Materialistas."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Flanagan’s Constructive Naturalism",
+        "relationship": "Coincidencia"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Determined: A Science of Life without Free Will, R. Sapolsky",
+        "year": 2023
+      },
+      {
+        "title_with_names": "From Stanford to Medspire: an Exclusive Interview with Robert Sapolsky, R. Sapolsky",
+        "year": 2023
+      }
+    ]
+  }
+}

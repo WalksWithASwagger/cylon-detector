@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría del Procesamiento Recurrente de Lamme",
+    "summary": "La Teoría del Procesamiento Recurrente de Lamme (RPT) postula que la conciencia es tanto necesaria como suficiente cuando se producen conexiones de retroalimentación recíprocas (recurrentes) entre áreas neuronales, particularmente en los sistemas sensoriales. Este procesamiento, que ocurre localmente en áreas sensoriales y postsensoriales (Etapa 3), genera experiencia fenoménica sin requerir acceso mediante difusión global.",
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Representacional",
+    "core_identity_tagline": "'La Conciencia como Procesamiento Recurrente en Sistemas Sensoriales'",
+    "classification_tags": [
+      "neuroscience",
+      "visual system",
+      "recurrent connections",
+      "first-order theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como un estado específico de procesamiento recurrente que se sostiene dentro de la circuitería neuronal relevante, como el sistema visual.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Enfoque de identidad/reduccionista, que sostiene que la noción de mente debe orientarse hacia la de cerebro, y que la conciencia es idéntica a un estado de procesamiento recurrente en la circuitería física.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil",
+    "subjectivity_and_intentionality": "La subjetividad (conciencia fenoménica) es el propio estado de procesamiento recurrente. La intencionalidad es portada por el contenido representado dentro de estos bucles (Inferido como una teoría Representacional/de Primer Orden).",
+    "qualia_account": "Los qualia se generan cuando un determinado estado de procesamiento recurrente se sostiene en la circuitería visual relevante, haciendo consciente al estado visual.",
+    "ontological_commitments": "Sistemas sensoriales cerebrales, circuitería neuronal (circuitería visual), conexiones de propagación directa y de retroalimentación.",
+    "epistemic_access": "Accesible mediante medidas neuronales y conductuales, que Lamme sugiere que deberían situarse en pie de igualdad.",
+    "constituents_and_structure": "Circuitos neuronales masivamente interconectados (bucles recurrentes) que involucran conexiones de propagación directa y de retroalimentación."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica",
+    "distinctive_mechanism_or_principle": "El procesamiento recurrente (conexiones de retroalimentación) en áreas sensoriales y postsensoriales (Etapa 3) se considera suficiente para la conciencia.",
+    "dynamics_of_emergence": "Proceso dinámico. Los estados conscientes son el resultado de la actividad dinámica producida por conexiones de retroalimentación que vinculan las áreas visuales con otras regiones cerebrales.",
+    "location_and_distribution": "Localizada en áreas sensoriales y postsensoriales, específicamente activaciones recurrentes en la 'parte posterior de la cabeza'.",
+    "causation_and_functional_role": "La conciencia es el propio estado de procesamiento recurrente. Se implica que el propósito subyacente es orientar la comprensión de la mente hacia el cerebro.",
+    "integration_or_binding": "La integración se logra localmente dentro de los bucles recurrentes en las áreas perceptivas.",
+    "information_flow_or_representation": "La información implica un barrido inicial hacia adelante (registro no consciente) seguido de conexiones de retroalimentación que producen el procesamiento recurrente (conciencia).",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La conciencia requiere sistemas sensoriales masivamente interconectados que involucren conexiones de propagación directa y de retroalimentación (procesamiento recurrente).",
+      "El procesamiento recurrente en áreas sensoriales y postsensoriales es necesario y suficiente para la conciencia fenoménica.",
+      "La percepción consciente se identifica con activaciones recurrentes en la parte posterior de la cabeza (teoría de primer orden)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica, Neurobiológica, Conceptual"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Critica a la Teoría del Espacio de Trabajo Global (GWT) por ser 'toda sobre el acceso pero no sobre el ver'. A su vez, es criticada por Ned Block como una 'forma truncada de la explicación del espacio de trabajo global'.",
+    "open_questions_and_limitations": "Las activaciones recurrentes solo son suficientes para la conciencia dadas ciertas 'condiciones de fondo', como una conectividad intacta con estructuras subcorticales.",
+    "ontological_coherence": "Altamente coherente dentro de la ontología materialista al fundamentar la conciencia enteramente en mecanismos neuronales específicos e identificados."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Como teoría materialista, la conciencia de la IA debe, en principio, ser posible si el patrón requerido de procesamiento recurrente pudiera duplicarse artificialmente en un sustrato no biológico."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia está ligada a la actividad cerebral física y a una circuitería neuronal específica (estados de procesamiento recurrente), lo que sugiere su cese con la muerte corporal."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo Humanista",
+      "rationale": "La teoría se centra en una explicación puramente fisicalista y neurobiológica de la experiencia fenoménica y no respalda ningún sentido o propósito cósmico último."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Dado que la conciencia es el propio estado de procesamiento recurrente, una duplicación perfecta de ese proceso en un nuevo medio (carga) generaría el yo en primera persona, posibilitando la inmortalidad virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a true neural stance on consciousness, Victor Lamme",
+        "year": 2006
+      },
+      {
+        "title_with_names": "How neuroscience will change our view on consciousness, Victor Lamme",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Wu, 2018 (Discussing Lamme's RPT)",
+        "year": 2018
+      }
+    ]
+  }
+}

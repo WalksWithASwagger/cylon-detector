@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "L'âme dans les religions indigènes",
+    "summary": "Cette catégorie rassemble les diverses conceptions de l'âme rencontrées à travers les religions indigènes et populaires du monde entier. Ces croyances impliquent généralement de multiples composantes non physiques de l'âme, dont certaines sont censées disparaître à la mort tandis que d'autres persistent, reflétant des aspects du dualisme traditionnel.",
+    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
+    "category": "Dualismes",
+    "subcategory": "L'âme dans les religions indigènes",
+    "core_identity_tagline": "Croyances multiples, ubiquitaires et durables sur l'âme",
+    "classification_tags": [
+      "indigenous",
+      "folk religion",
+      "soul belief",
+      "dualism",
+      "anthropology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience, ou le « soi », est identifiée comme provenant d'une ou plusieurs substances spirituelles ou non physiques de l'âme, distinctes du corps physique.",
+    "ontological_status": "Dualisme traditionnel/spiritualisme à aspects multiples. Ces systèmes postulent de multiples catégories d'existence distinctes et fondamentales (spirituelle/l'âme et matérielle/le corps).",
+    "mind_body_relationship": "Interaction/corrélation dualiste complexe, souvent partielle. La composante de l'âme informe ou anime le corps, mais certaines composantes de l'âme peuvent survivre au corps physique ou préexister à celui-ci, indiquant une indépendance.",
+    "primitive_or_emergent_status": "Primitif",
+    "emergence_type": "N/A. Puisque l'âme est souvent décrite comme préexistante ou dérivée d'un créateur, elle est considérée comme une entité fondamentale plutôt qu'émergente de processus matériels.",
+    "subjectivity_and_intentionality": "La subjectivité et l'intentionnalité sont inhérentes à l'entité de l'âme non physique elle-même, dont on croit souvent qu'elle choisit la destinée (par exemple, la tradition Ewe) ou définit la personnalité.",
+    "qualia_account": "Non explicitement défini. L'accent est mis sur l'existence et la persistance de l'entité de l'âme, ce qui implique que l'expérience qualitative est une propriété inhérente à la composante spirituelle.",
+    "ontological_commitments": "Le corps physique et de multiples substances d'âme non physiques (par exemple, différents types d'âme, le souffle de vie, les esprits désincarnés).",
+    "epistemic_access": "La connaissance est accessible par la tradition religieuse, le savoir culturel, la croyance personnelle et l'expérience spirituelle ou transformatrice, plutôt que par une observation scientifique systématique à la troisième personne.",
+    "constituents_and_structure": "La structure consciente est composée de multiples types d'âme (par exemple, sept types reconnus par les Fang du Gabon), souvent avec des distinctions hiérarchiques ou fonctionnelles concernant leur sort après la mort."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La survie après la mort, l'identité personnelle, l'existence spirituelle et la destinée.",
+    "distinctive_mechanism_or_principle": "L'origine spirituelle (l'âme dérivée d'un créateur) et l'acquisition par des actions physiques ou rituelles spécifiques (par exemple, le combat, le pèlerinage) sont des principes clés liés à la création ou à l'augmentation de l'âme.",
+    "dynamics_of_emergence": "L'origination spirituelle. L'âme est souvent décrite comme existant depuis ou avant l'incarnation, provenant d'un esprit tout-puissant ou d'un créateur suprême.",
+    "location_and_distribution": "La localisation est individuelle/personnelle, bien que parfois liée à des attributs physiques (comme le souffle ou le sang). Les systèmes de croyance eux-mêmes sont géographiquement omniprésents.",
+    "causation_and_functional_role": "L'âme détermine ou choisit la destinée de l'individu et est la composante qui survit à la mort corporelle.",
+    "integration_or_binding": "Implicite. Bien que de multiples types d'âme puissent exister au sein d'un même individu, le mécanisme par lequel ils se lient en une expérience unifiée unique n'est pas détaillé, mais ils définissent collectivement la personne.",
+    "information_flow_or_representation": "Non explicitement traité. Ces conceptions précèdent les théories modernes du traitement de l'information en tant que facteurs explicatifs de la conscience.",
+    "evolutionary_account": "Non applicable/l'origination spirituelle remplace l'évolution biologique. L'âme est souvent dérivée d'une source ultime, en contraste avec l'évolution phylogénétique naturelle.",
+    "core_claims_and_evidence": [
+      "Les croyances relatives à l'âme constituent des données anthropologiques répandues et persistantes que les études de la conscience devraient reconnaître.",
+      "La personne humaine se compose de multiples composantes distinctes de l'âme, suggérant une configuration complexe de l'identité.",
+      "Certaines parties de l'âme persistent après la mort physique, permettant une survie post-mortem."
+    ],
+    "basis_of_belief_or_evidence_type": "Données anthropologiques, tradition religieuse, histoire culturelle."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculative/anthropologique. En tant que systèmes de croyance anciens, ces conceptions ne sont pas soumises aux méthodes scientifiques modernes d'expérimentation ou de réfutation.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Souvent catégorisées comme « prémodernes » ou « préscientifiques » par les chercheurs traditionnels en raison d'un manque de sophistication philosophique ou de fondement empirique. Aucune affirmation n'est faite selon laquelle ces croyances corroborent rigoureusement le dualisme philosophique moderne.",
+    "open_questions_and_limitations": "La relation entre les divers aspects de l'âme et la conscience phénoménale est définie de manière lâche. Le modèle n'offre pas de mécanisme causal compatible avec la physique contemporaine pour expliquer l'interaction.",
+    "ontological_coherence": "Cohérente en interne au sein de cadres culturels spécifiques mais fondamentalement incompatible avec les cadres ontologiques physicalistes et matérialistes en raison de sa dépendance à des substances non physiques."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Non",
+      "rationale": "La conscience requiert une composante spirituelle (l'âme/l'esprit) dérivée de sources non physiques ou d'un créateur, ce que les systèmes artificiels manqueraient intrinsèquement."
+    },
+    "survival_beyond_death": {
+      "stance": "Oui",
+      "rationale": "La survie post-mortem est une caractéristique centrale, puisque plusieurs composantes de l'âme sont censées persister après la mort du corps biologique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmique/existentiel",
+      "rationale": "Les systèmes de croyance impliquent un sens ultime en postulant la préexistence, l'origination spirituelle à partir d'un créateur, et une structure globale régissant la destinée individuelle."
+    },
+    "virtual_immortality": {
+      "stance": "Non",
+      "rationale": "L'immortalité s'accomplit par la persistance de l'âme spirituelle originelle, et ne peut être obtenue par la duplication technologique ou la simulation des motifs fonctionnels du corps physique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "Recoupement"
+      },
+      {
+        "name": "Historical and Traditional Dualisms",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Soul in Islamic Philosophy",
+        "relationship": "Recoupement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Soul: concepts in indigenous religions, C. Rivière",
+        "year": 1987
+      },
+      {
+        "title_with_names": "The concept of soul in Chinese folk religion, S. Harrell",
+        "year": 1979
+      }
+    ]
+  }
+}

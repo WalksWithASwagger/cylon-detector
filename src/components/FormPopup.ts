@@ -1,5 +1,6 @@
 import { mockApiSubmit, isApiAvailable } from '@/utils/apiMock'
 import analytics from '@/utils/analytics'
+import { t } from '@/utils/i18n'
 
 export class FormPopup {
   private container: HTMLElement
@@ -22,8 +23,8 @@ export class FormPopup {
       <div class="form-overlay" id="form-overlay">
         <div class="form-popup">
           <div class="form-header">
-            <h3>Send Feedback</h3>
-            <button class="form-close" id="form-close" aria-label="Close form">
+            <h3>${t('form.title')}</h3>
+            <button class="form-close" id="form-close" aria-label="${t('form.closeAriaLabel')}">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <line x1="18" y1="6" x2="6" y2="18"></line>
                 <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -32,45 +33,45 @@ export class FormPopup {
           </div>
           <form class="form-content" id="feedback-form">
             <div class="form-group">
-              <label for="feedback-name">Name (optional)</label>
-              <input 
-                type="text" 
-                id="feedback-name" 
-                name="name" 
-                placeholder="Your name"
-                aria-label="Your name"
+              <label for="feedback-name">${t('form.nameLabel')}</label>
+              <input
+                type="text"
+                id="feedback-name"
+                name="name"
+                placeholder="${t('form.namePlaceholder')}"
+                aria-label="${t('form.nameAriaLabel')}"
               />
             </div>
             <div class="form-group">
-              <label for="feedback-email">Email (optional)</label>
-              <input 
-                type="email" 
-                id="feedback-email" 
-                name="email" 
-                placeholder="your@email.com"
-                aria-label="Your email"
+              <label for="feedback-email">${t('form.emailLabel')}</label>
+              <input
+                type="email"
+                id="feedback-email"
+                name="email"
+                placeholder="${t('form.emailPlaceholder')}"
+                aria-label="${t('form.emailAriaLabel')}"
               />
             </div>
             <div class="form-group">
-              <label for="feedback-message">Message *</label>
-              <textarea 
-                id="feedback-message" 
-                name="message" 
-                placeholder="Share your thoughts, suggestions, or questions..."
+              <label for="feedback-message">${t('form.messageLabel')}</label>
+              <textarea
+                id="feedback-message"
+                name="message"
+                placeholder="${t('form.messagePlaceholder')}"
                 rows="4"
                 required
-                aria-label="Your message"
+                aria-label="${t('form.messageAriaLabel')}"
               ></textarea>
             </div>
             <div class="form-actions">
-              <button type="button" class="form-cancel" id="form-cancel">Cancel</button>
+              <button type="button" class="form-cancel" id="form-cancel">${t('form.cancel')}</button>
               <button type="submit" class="form-submit" id="form-submit">
-                <span class="submit-text">Send Message</span>
+                <span class="submit-text">${t('form.send')}</span>
                 <span class="submit-loading" style="display: none;">
                   <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <path d="M21 12a9 9 0 11-6.219-8.56"/>
                   </svg>
-                  Sending...
+                  ${t('form.sending')}
                 </span>
               </button>
             </div>
@@ -120,7 +121,7 @@ export class FormPopup {
     }
 
     if (!data.message.trim()) {
-      this.showError('Please enter a message')
+      this.showError(t('form.errors.messageRequired'))
       return
     }
 
@@ -151,7 +152,7 @@ export class FormPopup {
 
       if (response.success) {
         analytics.trackFormSubmission('feedback', true)
-        this.showSuccess('Message sent successfully!')
+        this.showSuccess(t('form.success'))
         this.form.reset()
         setTimeout(() => this.hide(), 1500)
       } else {
@@ -160,7 +161,7 @@ export class FormPopup {
     } catch (error) {
       console.error('Form submission error:', error)
       analytics.trackFormSubmission('feedback', false, error instanceof Error ? error.message : 'Unknown error')
-      this.showError('Failed to send message. Please try again.')
+      this.showError(t('form.errors.sendFailedRetry'))
     } finally {
       submitBtn.disabled = false
       submitText.style.display = 'flex'

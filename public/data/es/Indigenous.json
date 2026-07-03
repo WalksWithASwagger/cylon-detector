@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "El alma en las religiones indígenas",
+    "summary": "Esta categoría reúne los diversos conceptos del alma que se encuentran en las religiones indígenas y populares de todo el mundo. Estas creencias suelen involucrar múltiples componentes anímicos no físicos, algunos de los cuales se cree que desaparecen con la muerte mientras que otros perduran, reflejando aspectos del dualismo tradicional.",
+    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
+    "category": "Dualismos",
+    "subcategory": "El alma en las religiones indígenas",
+    "core_identity_tagline": "Creencias sobre el alma múltiples, ubicuas y resistentes al tiempo",
+    "classification_tags": [
+      "indigenous",
+      "folk religion",
+      "soul belief",
+      "dualism",
+      "anthropology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia, o el 'yo', se identifica como originada en, o constituida por, una o más sustancias anímicas espirituales o no físicas, distintas del cuerpo físico.",
+    "ontological_status": "Dualismo tradicional/Espiritualismo de aspectos múltiples. Estos sistemas postulan múltiples categorías de existencia fundamentales y distintas (espiritual/anímica y material/corporal).",
+    "mind_body_relationship": "Interacción/correlación dualista compleja, a menudo parcial. El componente anímico informa o anima al cuerpo, pero ciertos componentes anímicos pueden sobrevivir o preexistir al cuerpo físico, indicando independencia.",
+    "primitive_or_emergent_status": "Primitivo",
+    "emergence_type": "N/A. Dado que a menudo se describe al alma como preexistente o derivada de un creador, se la considera una entidad fundamental más que emergente de procesos materiales.",
+    "subjectivity_and_intentionality": "La subjetividad y la intencionalidad son inherentes a la entidad anímica no física misma, la cual a menudo se cree que elige el destino (por ejemplo, en la tradición ewe) o define la condición de persona.",
+    "qualia_account": "No se define explícitamente. El enfoque está en la existencia y persistencia de la entidad anímica, lo que implica que la experiencia cualitativa es una propiedad inherente del componente espiritual.",
+    "ontological_commitments": "El cuerpo físico y múltiples sustancias anímicas no físicas (por ejemplo, diferentes tipos de alma, aliento de vida, espíritus desencarnados).",
+    "epistemic_access": "El conocimiento se accede a través de la tradición religiosa, el conocimiento cultural, la creencia personal y la experiencia espiritual o transformadora, más que mediante la observación científica sistemática en tercera persona.",
+    "constituents_and_structure": "La estructura consciente está compuesta por múltiples tipos de alma (por ejemplo, siete tipos reconocidos por los fang de Gabón), a menudo con distinciones jerárquicas o funcionales respecto a su destino tras la muerte."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La supervivencia más allá de la muerte, la identidad personal, la existencia espiritual y el destino.",
+    "distinctive_mechanism_or_principle": "El origen espiritual (el alma derivada de un creador) y la adquisición mediante acciones físicas o rituales específicas (por ejemplo, el combate, la peregrinación) son principios clave relacionados con la creación o el aumento del alma.",
+    "dynamics_of_emergence": "Origen espiritual. A menudo se describe al alma como existente desde antes de la encarnación, originándose en un espíritu todopoderoso o creador supremo.",
+    "location_and_distribution": "La ubicación es individual/personal, aunque en ocasiones se liga a atributos físicos (como el aliento o la sangre). Los sistemas de creencias mismos son geográficamente ubicuos.",
+    "causation_and_functional_role": "El alma determina o selecciona el destino del individuo y es el componente que sobrevive a la muerte corporal.",
+    "integration_or_binding": "Implícita. Aunque puedan existir múltiples tipos de alma dentro de un individuo, el mecanismo por el cual se integran en una experiencia unificada única no se detalla, pero colectivamente definen a la persona.",
+    "information_flow_or_representation": "No se discute explícitamente. Estos conceptos son anteriores a las teorías modernas del procesamiento de información como factores explicativos de la conciencia.",
+    "evolutionary_account": "No aplicable/el origen espiritual reemplaza a la evolución biológica. El alma a menudo se deriva de una fuente última, en contraste con la evolución filogenética natural.",
+    "core_claims_and_evidence": [
+      "Las creencias sobre el alma son datos antropológicos generalizados y persistentes que los estudios de la conciencia deberían reconocer.",
+      "La persona humana consta de múltiples componentes anímicos distintos, lo que sugiere una configuración compleja de la identidad.",
+      "Ciertas partes del alma perduran tras la muerte física, permitiendo la supervivencia post mortem."
+    ],
+    "basis_of_belief_or_evidence_type": "Datos antropológicos, tradición religiosa, historia cultural."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativa/Antropológica. Como sistemas de creencias ancestrales, estos conceptos no están sujetos a los métodos científicos modernos de experimentación o refutación.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "A menudo son categorizados como 'premodernos' o 'precientíficos' por los investigadores dominantes debido a la falta de sofisticación filosófica o fundamento empírico. No se afirma que estas creencias corroboren rigurosamente el dualismo filosófico moderno.",
+    "open_questions_and_limitations": "La relación entre los diversos aspectos del alma y la conciencia fenomenal está definida de manera laxa. El modelo no ofrece un mecanismo causal compatible con la física contemporánea para explicar la interacción.",
+    "ontological_coherence": "Internamente coherente dentro de marcos culturales específicos, pero fundamentalmente inconsistente con los marcos ontológicos fisicalistas y materialistas debido a la dependencia de sustancias no físicas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "La conciencia requiere un componente espiritual (alma/espíritu) derivado de fuentes no físicas o de un creador, del cual los sistemas artificiales carecerían intrínsecamente."
+    },
+    "survival_beyond_death": {
+      "stance": "Sí",
+      "rationale": "La supervivencia post mortem es un rasgo central, ya que se postula que varios componentes del alma perduran tras la muerte del cuerpo biológico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cósmico/Existencial",
+      "rationale": "Los sistemas de creencias implican un sentido último al postular la preexistencia, el origen espiritual a partir de un creador, y una estructura general que gobierna el destino individual."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "La inmortalidad se logra mediante la persistencia del alma espiritual original, y no puede obtenerse mediante la duplicación tecnológica o la simulación de los patrones funcionales del cuerpo físico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Historical and Traditional Dualisms",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Soul in Islamic Philosophy",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Soul: concepts in indigenous religions, C. Rivière",
+        "year": 1987
+      },
+      {
+        "title_with_names": "The concept of soul in Chinese folk religion, S. Harrell",
+        "year": 1979
+      }
+    ]
+  }
+}

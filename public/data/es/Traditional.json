@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Dualismos Históricos y Tradicionales",
+    "summary": "Esta categoría abarca teorías dualistas prevalentes a lo largo de milenios, que a menudo asumen un aspecto no físico de la mente (como un alma) separado del cuerpo físico. Estos dualismos, incluyendo los presentes en la filosofía antigua y en las principales tradiciones religiosas (como las religiones abrahámicas y ciertas escuelas indias), afirman que la realidad consiste en al menos dos categorías ontológicas distintas: física y no física.",
+    "associated_thinkers": [
+      "Plato",
+      "René Descartes (Modern Start)",
+      "Richard Swinburne",
+      "J.P. Moreland"
+    ],
+    "category": "Dualisms",
+    "subcategory": "Historical/Traditional Dualism",
+    "core_identity_tagline": "'La Conciencia como Sustancia No Física Separada (Alma)'",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "soul",
+      "religion",
+      "classical philosophy",
+      "nonphysical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica con una sustancia no física (a menudo llamada alma o espíritu) que es independiente del cerebro y del cuerpo.",
+    "ontological_status": "Dualismo de Sustancias",
+    "mind_body_relationship": "Típicamente caracterizada como Interaccionismo, donde los estados físicos causan estados mentales, y viceversa, lo que requiere que el mundo físico no sea causalmente cerrado.",
+    "primitive_or_emergent_status": "Primitivo",
+    "emergence_type": "N/A",
+    "subjectivity_and_intentionality": "La subjetividad es inherente a la sustancia no física (alma/espíritu), que actúa como el experimentador en primera persona o el 'yo'. La intencionalidad a menudo se considera una propiedad de esta sustancia mental distinta.",
+    "qualia_account": "Los rasgos cualitativos (qualia) residen enteramente dentro de la sustancia no física (mente/alma), que es distinta de la materia física.",
+    "ontological_commitments": "Materia física/cerebro y una sustancia no física separada (alma, espíritu, purusha).",
+    "epistemic_access": "Generalmente conocida a través de la intuición común, la reflexión filosófica y las tradiciones religiosas/espirituales, más que mediante la ciencia empírica.",
+    "constituents_and_structure": "Dos tipos distintos de sustancia: física (extensa) y no física (inextensa, mental)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Experiencia fenoménica, identidad personal, supervivencia más allá de la muerte, valores morales y el concepto del yo.",
+    "distinctive_mechanism_or_principle": "Interacción entre las sustancias física y no física radicalmente distintas, resultando en el célebre 'problema de la interacción'.",
+    "dynamics_of_emergence": "La conciencia es una característica persistente de la sustancia no física, que existe independientemente de los procesos físicos dinámicos.",
+    "location_and_distribution": "La parte física (cuerpo/cerebro) es local; la parte no física (alma) es separada y no localizada, existiendo con independencia de las restricciones físicas.",
+    "causation_and_functional_role": "Los estados mentales (de la sustancia no física) desempeñan un papel causal al afectar el mundo físico, y el alma fundamenta la identidad personal.",
+    "integration_or_binding": "La unidad (vinculación) es inherente a la sustancia no física unificada e indivisible (el alma).",
+    "information_flow_or_representation": "La información o representación es una propiedad de la sustancia mental, que se caracteriza como enteramente teleológica e inherentemente intencional.",
+    "evolutionary_account": "Generalmente no abordado, ya que la conciencia (alma) suele considerarse una creación o componente dado fundamental, más que un producto evolutivo.",
+    "core_claims_and_evidence": [
+      "La realidad consiste en dos sustancias irreducibles: física y no física (alma/espíritu)",
+      "El alma fundamenta la identidad personal y sobrevive a la muerte corporal",
+      "La causación mental es real: los estados no físicos afectan a los estados físicos",
+      "La intuición y la creencia extendida (especialmente en las religiones abrahámicas) respaldan la existencia de un alma separada"
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, Religioso/Tradicional, Intuitivo"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativo/Filosófico",
+    "known_empirical_interventions_or_tests": "N/A",
+    "criticisms_and_tensions": "Enfrenta el problema de la interacción (cómo una sustancia no física causa un cambio físico), el problema de la falta de parsimonia (la navaja de Ockham) y la falta de conocimiento científico objetivo respecto al alma.",
+    "open_questions_and_limitations": "El mecanismo fundamental que permite la interacción entre sustancias físicas y no físicas (problema de la interacción) no está resuelto.",
+    "ontological_coherence": "Inconsistente con el supuesto común en la ciencia de la clausura causal del mundo físico."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No (en su mayoría)",
+      "rationale": "La conciencia requiere una sustancia no física radicalmente separada (alma) no determinada causalmente por el mundo físico; por lo tanto, las inteligencias no biológicas no pueden experimentar una verdadera conciencia interior."
+    },
+    "survival_beyond_death": {
+      "stance": "Sí",
+      "rationale": "El alma/espíritu no físico, al ser independiente del cuerpo, proporciona el mecanismo más claro para que el yo en primera persona sobreviva a la disolución del cuerpo físico, dominando en las tradiciones religiosas."
+    },
+    "meaning_and_purpose": {
+      "stance": "Sentido/Propósito/Valor Último",
+      "rationale": "El dualismo está estrechamente vinculado a sistemas de creencias religiosas (p. ej., religiones abrahámicas) que atribuyen inherentemente un sentido, propósito y valor cósmicos a la existencia y a la vida humana."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Cargar el cerebro no lograría duplicar el componente no físico necesario (alma) requerido para la conciencia, impidiendo así la inmortalidad virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism (Generic)",
+        "relationship": "Identidad"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Superposición"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Contraste/Extensión"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism, Howard Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Theosophy, Theosophy Wiki",
+        "year": 2023
+      }
+    ]
+  }
+}

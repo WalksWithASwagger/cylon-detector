@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría de las Críticas",
+    "summary": "Esta entrada representa la función escéptica esencial y omnipresente dentro de los estudios de la conciencia, que cuestiona sistemáticamente la coherencia explicativa, la validez empírica y los supuestos metafísicos de todas las teorías propuestas de la conciencia. Destaca las tensiones conceptuales persistentes, como la brecha explicativa y el enigma correlación-causación, obligando a las teorías a defender su consistencia interna y su fundamento empírico.",
+    "associated_thinkers": [
+      "R.L. Kuhn",
+      "Critics of specific theories (e.g., Hakwan Lau, Scott Aaronson)",
+      "Proponents of Challenge Theories (e.g., Thomas Nagel, Sam Harris)"
+    ],
+    "category": "Teorías Desafiantes",
+    "subcategory": "Crítica/Escepticismo",
+    "core_identity_tagline": "La Función Escéptica Esencial",
+    "classification_tags": [
+      "critique",
+      "skepticism",
+      "meta-problem",
+      "tension",
+      "adjudication"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La crítica se identifica como la evaluación y diagnóstico sistemático de fallas explicativas (por ejemplo, brechas explicativas, falta de coherencia, garantía empírica insuficiente) inherentes a todas las explicaciones en competencia sobre la conciencia.",
+    "ontological_status": "Postura epistemológica/metodológica (la crítica evalúa principalmente las afirmaciones de conocimiento y las metodologías de otras teorías, en lugar de presentar una ontología positiva propia.)",
+    "mind_body_relationship": "No aplicable (como concepto metodológico, la crítica analiza la coherencia de las propuestas ontológicas existentes, como los intentos de resolver el problema mente-cuerpo, sin proponer su propia solución positiva.)",
+    "primitive_or_emergent_status": "Ninguno (la crítica es una práctica discursiva y analítica, no una propiedad fundamental ni un proceso emergente de la realidad.)",
+    "emergence_type": "No aplicable (el concepto es puramente metodológico.)",
+    "subjectivity_and_intentionality": "Las críticas a menudo se centran en el fracaso de las teorías fisicalistas para explicar la experiencia subjetiva en primera persona (subjetividad) y la direccionalidad del pensamiento (intencionalidad), argumentando que estos aspectos son pasados por alto por los modelos puramente cuantitativos.",
+    "qualia_account": "Herramienta de evaluación (la crítica utiliza la dimensión cualitativa de la experiencia —los qualia— como el desafío principal contra las explicaciones materialistas y reduccionistas, destacando el 'problema difícil' como un déficit analítico no resuelto.)",
+    "ontological_commitments": "Los compromisos varían según la crítica específica que se emplee; no existe una ontología unitaria de la 'Teoría de las Críticas', aunque a menudo se apoya en el compromiso de que la cosmovisión científica actual es incompleta o defectuosa.",
+    "epistemic_access": "Análisis conceptual, comprobaciones de consistencia lógica, experimentos mentales filosóficos (por ejemplo, los zombis, Mary la neurofisióloga), y comparación de paradigmas científicos en competencia.",
+    "constituents_and_structure": "Tensiones conceptuales, conflictos lógicos no resueltos, y limitaciones epistémicas inherentes (por ejemplo, la distinción epistemología-ontología, el enigma correlación-causación)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Todos los aspectos (la crítica se aplica universalmente a todas las afirmaciones teóricas realizadas sobre la conciencia fenoménica, la conciencia de acceso, la autoconciencia y la agencia.)",
+    "distinctive_mechanism_or_principle": "Identificar y diagnosticar enfermedades explicativas en las teorías, como la circularidad, la inconsistencia o el fracaso en dar cuenta de los qualia/la subjetividad.",
+    "dynamics_of_emergence": "No aplicable (la crítica es un marco para el análisis crítico, no un proceso dinámico en la realidad.)",
+    "location_and_distribution": "Discursivo/académico (opera dentro del discurso filosófico y científico, impulsando la necesidad de mejores explicaciones.)",
+    "causation_and_functional_role": "Su función principal es la higiene intelectual: diagnosticar fallas conceptuales y empíricas en lugar de proponer mecanismos causales de la conciencia.",
+    "integration_or_binding": "La crítica cuestiona las explicaciones existentes de la integración y unidad de la experiencia, como los debates sobre si la integración de información se instancia espacial o temporalmente.",
+    "information_flow_or_representation": "La crítica a menudo se centra en la limitación explicativa percibida de las explicaciones puramente cuantitativas o representacionales para capturar la cualidad de la experiencia subjetiva.",
+    "evolutionary_account": "No aplicable (la crítica en sí no es una teoría evolutiva, aunque juzga la plausibilidad evolutiva de otras teorías.)",
+    "core_claims_and_evidence": [
+      "Las críticas destacan la profunda intratabilidad y el misterio del problema mente-cuerpo.",
+      "El desafío principal es el fracaso en tender un puente lógico o empírico entre las descripciones físicas objetivas (datos en tercera persona) y la experiencia subjetiva (hechos fenoménicos en primera persona).",
+      "Teorías específicas (como la Teoría de la Información Integrada) son criticadas por ser incomprobables o por promover afirmaciones que carecen de la garantía empírica necesaria."
+    ],
+    "basis_of_belief_or_evidence_type": "Análisis conceptual/filosófico (dependencia de la identificación de inconsistencias lógicas y epistemológicas en los argumentos a favor y en contra de teorías específicas.)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Comprobable en relación con afirmaciones teóricas específicas (la crítica genera desafíos explícitos que inician programas de investigación empírica, como experimentos de colaboración adversarial, para verificar o falsear predicciones específicas.)",
+    "known_empirical_interventions_or_tests": [
+      "Experimentos de colaboración adversarial (diseñados para comprobar predicciones contrastantes de teorías en competencia como la TII y la Teoría del Espacio de Trabajo Global)",
+      "Experimentos mentales (por ejemplo, el argumento del zombi, el argumento del conocimiento) utilizados como pruebas conceptuales contra las afirmaciones fisicalistas"
+    ],
+    "criticisms_and_tensions": "Los críticos argumentan que el escepticismo excesivo (por ejemplo, tildar teorías de pseudociencia) es desproporcionado y perjudicial para un campo científico inmaduro. Además, las críticas a menudo diagnostican problemas sin ofrecer soluciones constructivas.",
+    "open_questions_and_limitations": "La limitación última es la cuestión de si la conciencia es intrínsecamente insoluble para la cognición humana (misterianismo) o si el bloqueo conceptual es meramente temporal debido a las limitaciones explicativas actuales.",
+    "ontological_coherence": "Alta coherencia como herramienta metateórica, ya que su propósito es analizar la coherencia de otras teorías, pero no ofrece una ontología interna que pueda ser juzgada frente al panorama metafísico más amplio."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "La crítica destaca la dificultad de verificar la verdadera percatación interna en la IA, enfatizando que la complejidad computada podría conducir solo a una conciencia *aparente* (el desafío de la simulación), lo que hace que ciertas afirmaciones sean poco confiables."
+    },
+    "survival_beyond_death": {
+      "stance": "Incierto",
+      "rationale": "La crítica reconoce que si se confirmaran empíricamente fenómenos altamente anómalos (como Experiencias Cercanas a la Muerte verificables), esto falsearía instantáneamente los modelos de producción materialistas, desplazando el respaldo teórico hacia hipótesis de supervivencia no física."
+    },
+    "meaning_and_purpose": {
+      "stance": "Diagnostica la falta de un significado último",
+      "rationale": "Las críticas cuestionan frecuentemente las explicaciones materialistas y reduccionistas por no lograr racionalizar un significado o valor último, dejando solo la autocreación humanística de propósito."
+    },
+    "virtual_immortality": {
+      "stance": "Condicional",
+      "rationale": "La crítica sostiene que, sin resolver el rompecabezas metafísico de qué *es* la conciencia (por ejemplo, demostrar que la carga preserva perfectamente el yo en primera persona), la inmortalidad virtual sigue siendo conceptualmente problemática y no verificada."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Meta-Problem of Consciousness",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Influencia"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, R.L. Kuhn",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Integrated Information Theory of Consciousness as Pseudoscience, S.M. Fleming et al.",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The mystery of consciousness, S. Harris",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False, T. Nagel",
+        "year": 2012
+      }
+    ]
+  }
+}

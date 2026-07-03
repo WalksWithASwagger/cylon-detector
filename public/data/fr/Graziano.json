@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "La théorie du schéma d'attention",
+    "summary": "Cette théorie postule que la conscience émerge lorsque le cerveau construit un modèle interne rapide et simplifié — un schéma d'attention — de son propre processus d'attention. Le cerveau interprète et rapporte à tort cette représentation interne comme une essence subjective et non physique, ou une « caricature de soi », alors qu'il s'agit fondamentalement d'un produit computationnel.",
+    "associated_thinkers": [
+      "Michael Graziano"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "La conscience comme caricature de soi évoluée de l'attention",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "functionalism",
+      "evolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à la représentation interne, ou au modèle simplifié, que le cerveau se fait de son propre mécanisme d'attention (le schéma d'attention), ce qui constitue un exemple spécifique de pensée d'ordre supérieur.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "La conscience est le rapport généré par une machine biologique de traitement de l'information (le cerveau) via l'évaluation de ses données internes, ce qui signifie que les états mentaux sont computationnels et entièrement physiques.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "La subjectivité (le sentiment d'une « essence fantomatique et non physique ») est le rapport trompeur généré par le schéma d'attention interne du cerveau. L'intentionnalité est implicitement prise en compte, puisque la fonction première du modèle qui en résulte est la surveillance de l'attention pour contrôler les actions dans le monde.",
+    "qualia_account": "La conscience est décrite comme une « caricature de soi » ou un rapport illusoire d'une essence non physique, suggérant une explication déflationniste ou illusionniste des qualia, proche de la position de Daniel Dennett.",
+    "ontological_commitments": "Cerveaux biologiques, mécanismes de traitement de l'information et représentations internes (le schéma d'attention).",
+    "epistemic_access": "La conscience est accessible au système lui-même par introspection (évaluation de ses données internes), amenant le système à revendiquer la conscience, mais sa véritable nature computationnelle ne peut être établie que par une analyse scientifique à la troisième personne (la science).",
+    "constituents_and_structure": "Un modèle ou une représentation computationnelle (le schéma d'attention) développé pour surveiller et réguler le propre mécanisme d'attention du cerveau."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale (comme rapport/revendication interne généré), Attention, Contrôle de l'action.",
+    "distinctive_mechanism_or_principle": "La construction et le maintien d'un modèle interne simplifié (le schéma d'attention) du processus d'attention, ancré dans les principes de l'ingénierie de contrôle.",
+    "dynamics_of_emergence": "La conscience est un trait dynamique et évolué, provenant d'une stratégie computationnelle qui génère le schéma d'attention interne.",
+    "location_and_distribution": "Localisée au sein du système biologique de traitement de l'information du cerveau.",
+    "causation_and_functional_role": "Le rôle fonctionnel du schéma d'attention est de surveiller et de réguler l'attention du cerveau afin de contrôler les actions dans le monde. La capacité qui en résulte permet au système de revendiquer la conscience.",
+    "integration_or_binding": "Le mécanisme précis d'intégration des données sensorielles dans le schéma d'attention n'est pas détaillé dans les sources, mais la théorie implique une intégration nécessaire à la surveillance et à la régulation de l'attention globale.",
+    "information_flow_or_representation": "Le traitement de l'information est central ; le cerveau doit gérer une profusion d'informations en développant une représentation simplifiée de son propre état (le schéma d'attention).",
+    "evolutionary_account": "Le trait de conscience a évolué pour offrir un avantage adaptatif : surveiller et réguler l'attention afin de contrôler efficacement les actions dans l'environnement.",
+    "core_claims_and_evidence": [
+      "Le cerveau développe un « modèle rapide et approximatif » de son propre processus d'attention (le schéma d'attention).",
+      "Le cerveau rapporte ce modèle interne comme une « essence fantomatique et non physique » ou une « caricature de soi ».",
+      "La capacité à revendiquer la conscience repose sur des calculs dérivés de l'ingénierie de contrôle."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiologique, Computationnel, Évolutif, Philosophique."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La théorie explique comment un système peut *revendiquer* la conscience mais fait face à la limite générale, partagée par des modèles fonctionnalistes similaires, de prouver ou d'expliquer de manière concluante la teneur subjective réelle (le problème du « y a-t-il quelqu'un à la maison »), qui demeure éternellement incertaine, de l'aveu même du théoricien.",
+    "open_questions_and_limitations": "Le système, en s'appuyant sur l'introspection, ne peut déterminer en interne que sa revendication de conscience repose purement sur des calculs. L'observateur externe ne peut jamais réellement savoir s'il existe une expérience intérieure dans le système.",
+    "ontological_coherence": "Hautement cohérente au sein du cadre matérialiste, en accord avec d'autres approches fonctionnalistes et computationnelles visant à expliquer la revendication de conscience sans invoquer de substances non physiques."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Puisque la conscience est définie comme un processus computationnel (la création d'un schéma d'attention), en principe, des systèmes artificiels mettant en œuvre l'architecture computationnelle nécessaire pourraient devenir conscients. De plus, les observateurs procéderont inévitablement à l'attribution sociale de conscience à des systèmes d'IA suffisamment complexes qui agissent comme s'ils étaient conscients."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "En tant que théorie matérialiste/neurobiologique, la conscience est liée au substrat physique (la machine biologique de traitement de l'information), excluant toute survie au-delà de la décomposition du corps."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "La conscience offre une finalité évolutive adaptative (surveiller et réguler l'attention pour le contrôle de l'action), mais n'implique aucun sens ultime ou cosmique, en cohérence avec le matérialisme."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Si la conscience est réalisée comme une structure computationnelle (le schéma d'attention), et si cette structure ainsi que les systèmes de traitement de l'information pertinents peuvent être téléversés avec précision vers un support non biologique, l'immortalité virtuelle est théoriquement possible."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "True nature of consciousness: solving the biggest mystery of your mind, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rethinking Consciousness: A Scientific Theory of Subjective Experience, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Can consciousness be non-biological?, M. Graziano",
+        "year": 2014
+      }
+    ]
+  }
+}

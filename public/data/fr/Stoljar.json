@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "La vision épistémique et le physicalisme non standard de Stoljar",
+    "summary": "Cette théorie défend le physicalisme contre les arguments anti-matérialistes en introduisant l'hypothèse de l'ignorance, qui postule que nous ignorons profondément un type de fait ou de propriété physique pertinent pour la conscience. Elle soutient que le prétendu problème de compatibilité entre la conscience et le physicalisme naît de nos limites épistémiques actuelles, et non d'un défaut ontologique du physicalisme lui-même.",
+    "associated_thinkers": ["Daniel Stoljar"],
+    "category": "Matérialisme",
+    "subcategory": "Philosophique",
+    "core_identity_tagline": "Le physicalisme défendu par l'ignorance épistémique",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ignorance hypothesis",
+      "compatibility problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est un phénomène physique, constitué par un type de fait ou de propriété physique actuellement inconnu de nous. Les états conscients dépendent d'autres choses et ne sont pas fondamentaux.",
+    "ontological_status": "Physicalisme non standard",
+    "mind_body_relationship": "La conscience est identique à des propriétés physiques (identité de type occurrence) ou nécessitée par elles, mais la nature spécifique de cette propriété physique est inconnue en raison de l'ignorance épistémique. Cette relation défend le physicalisme comme une vérité empirique.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence épistémique. Ceci est justifié car, bien que la théorie défende le physicalisme (suggérant une émergence faible ou une identité en principe), la caractéristique déterminante est que les faits physiques pertinents sont actuellement inconnaissables par les méthodes standards, maintenant un fossé explicatif fondé sur l'ignorance.",
+    "subjectivity_and_intentionality": "La subjectivité et l'intentionnalité sont finalement réalisées par les propriétés physiques inconnues pertinentes pour la conscience, en cohérence avec l'ontologie physicaliste globale défendue par la théorie. Le mécanisme de réalisation spécifique est actuellement inconnu.",
+    "qualia_account": "Le ressenti qualitatif (les qualia) correspond à des faits ou propriétés physiques spécifiques et inconnus. Les arguments anti-physicalistes fondés sur les qualia (comme l'argument de la concevabilité) échouent car ils présupposent faussement une connaissance complète de ces faits physiques sous-jacents.",
+    "ontological_commitments": "Les propriétés physiques, spécifiquement un type de fait ou de propriété physique pertinent pour la conscience, dont la nature est actuellement profondément ignorée. Également engagée envers l'existence de la conscience et la structure globale du physicalisme.",
+    "epistemic_access": "L'accès est actuellement profondément limité par l'« hypothèse de l'ignorance », ce qui signifie que nous ne pouvons pas pleinement connaître les faits physiques pertinents pour la conscience en utilisant les méthodes scientifiques actuelles. Cependant, une « science de la conscience » limitée établissant des lois empiriques est possible.",
+    "constituents_and_structure": "Les états conscients sont des structures dépendantes réalisées par, mais non des propriétés fondamentales du monde physique ; leur réalisation dépend des faits physiques actuellement inconnus."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale (traitant spécifiquement des arguments contre sa compatibilité avec le physicalisme).",
+    "distinctive_mechanism_or_principle": "L'hypothèse de l'ignorance : l'idée que nous ignorons le type de fait/propriété physique pertinent nécessaire pour expliquer pleinement la conscience, sapant ainsi les arguments anti-physicalistes qui supposent une connaissance physique complète.",
+    "dynamics_of_emergence": "La conscience naît comme une propriété dépendante des systèmes physiques. Le processus dynamique réel de dépendance envers les faits physiques inconnus reste à découvrir.",
+    "location_and_distribution": "Le cerveau et le corps, réalisée par les faits physiques spécifiques que nous ignorons, en cohérence avec le physicalisme.",
+    "causation_and_functional_role": "La théorie se concentre sur la compatibilité métaphysique plutôt que sur le rôle fonctionnel. Les états conscients ne sont pas fondamentaux et « dépendent d'autres choses ». Le pouvoir causal est censé résider dans le domaine physique pleinement compris (une fois l'ignorance surmontée).",
+    "integration_or_binding": "Non spécifiée. Le problème du liage est présumé résolu par la découverte et la caractérisation éventuelles des faits physiques actuellement inconnus sous-tendant la conscience.",
+    "information_flow_or_representation": "Non spécifié. La théorie se concentre sur la défense métaphysique du physicalisme plutôt que sur des mécanismes cognitifs ou informationnels spécifiques.",
+    "evolutionary_account": "La théorie est compatible avec une explication évolutive physicaliste standard, selon laquelle la conscience est apparue comme un résultat évolutif de l'organisation biologique complexe, réalisée par les propriétés physiques inconnues.",
+    "core_claims_and_evidence": [
+      "L'argument de la concevabilité et l'argument de la connaissance contre le physicalisme ne sont pas convaincants car ils présupposent faussement une connaissance complète des faits physiques pertinents pour la conscience.",
+      "Les états conscients ne sont pas fondamentaux et dépendent d'autres choses (physiques).",
+      "Le physicalisme est une vérité empirique, non un argument a priori, et est actuellement défendable par l'hypothèse de l'ignorance."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (analyse et défense conceptuelles)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement contrainte. Stoljar estime qu'une science de la conscience établissant des lois empiriques est possible, bien qu'il doute qu'une théorie systématique complète puisse être construite.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La théorie repose sur la supposition d'une ignorance profonde concernant des faits physiques clés, ce que les critiques pourraient considérer comme un report de l'explication. Elle critique également le « physicalisme standard » tout en demeurant elle-même non traditionnelle.",
+    "open_questions_and_limitations": "L'identité et la nature précises des faits ou propriétés physiques pertinents pour la conscience demeurent inconnues. La possibilité d'atteindre une connaissance systématique des lois régissant la conscience est également jugée peu plausible par Stoljar.",
+    "ontological_coherence": "Cohérence élevée, car elle fournit un cadre philosophique autonome conçu pour soutenir le physicalisme contre les arguments d'incompatibilité, déplaçant le fardeau de l'explication ontologique (pour l'instant) vers la limitation épistémique."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "En tant que défense du physicalisme, la théorie affirme que la conscience est physique. Par conséquent, en principe, tout système artificiel réalisant les faits physiques nécessaires (même ceux actuellement inconnus) devrait devenir conscient."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience dépend de faits et processus physiques, et n'est pas fondamentale. Lors de la destruction du substrat physique (le cerveau), la conscience cesse d'exister, en cohérence avec le physicalisme."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En cohérence avec son engagement physicaliste fondamental, la théorie ne fournit aucune base pour un sens ou une finalité cosmique ultime ; le sens est construit par des agents conscients."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Si la conscience est entièrement physique, le soi mental à la première personne est potentiellement téléchargeable, à condition que le substrat physique complexe (y compris les propriétés inconnues identifiées dans l'hypothèse de l'ignorance) puisse être dupliqué dans un support non biologique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Conceivability Argument",
+        "relationship": "Critique/Réponse"
+      },
+      {
+        "name": "Knowledge Argument",
+        "relationship": "Critique/Réponse"
+      },
+      {
+        "name": "Standard Physicalism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Kind’s Dualism 2.0",
+        "relationship": "Partenaire de débat/Projet commun"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Physicalism, D. Stoljar",
+        "year": 2010
+      }
+    ]
+  }
+}

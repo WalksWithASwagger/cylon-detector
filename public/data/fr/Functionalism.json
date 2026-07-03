@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Fonctionnalisme",
+    "summary": "Le fonctionnalisme postule que les états mentaux sont définis par leurs relations causales les uns avec les autres, avec les entrées sensorielles et avec les sorties comportementales, indépendamment du support physique (substrat) dans lequel ils sont réalisés. L'essence de la conscience est déterminée par la manière dont les états mentaux fonctionnent ou opèrent, plutôt que par leur composition matérielle.",
+    "associated_thinkers": [
+      "Ned Block",
+      "J.J.C. Smart",
+      "Janet Levin"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Philosophique",
+    "core_identity_tagline": "Les états mentaux sont des états fonctionnels définis par leur rôle causal",
+    "classification_tags": [
+      "functional role",
+      "multiple realizability",
+      "computational",
+      "causal relations"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Les états mentaux sont identifiés comme des états fonctionnels, constitués par leurs relations causales, leurs rôles, leurs résultats et leurs sorties, ce qui implique qu'ils sont réalisables dans tout substrat prenant en charge ces fonctions.",
+    "ontological_status": "Physicalisme (au sens large, agnostique quant à la substance). La théorie est classée sous le matérialisme, mais elle est métaphysiquement agnostique quant aux substances non physiques, se concentrant principalement sur la description fonctionnelle des états mentaux.",
+    "mind_body_relationship": "Les états mentaux sont des états fonctionnels identiques aux rôles fonctionnels réalisés ou instanciés dans un substrat physique, conduisant à des « thèses d'identité des états fonctionnels ».",
+    "primitive_or_emergent_status": "Émergent. La conscience naît de l'organisation fonctionnelle réalisée par un substrat suffisamment complexe (comme le tissu neural ou les puces informatiques).",
+    "emergence_type": "Émergence faible. Puisque la fonction est définissable et potentiellement multiplement réalisable dans différents substrats, la propriété mentale émergente est, en principe, explicable par la structure fonctionnelle sous-jacente et les lois physiques.",
+    "subjectivity_and_intentionality": "La subjectivité et l'intentionnalité sont expliquées en termes d'organisation fonctionnelle spécifique et de relations causales. Par exemple, dans des théories fonctionnalistes apparentées, l'intentionnalité est comprise via la représentation de second ordre des états mentaux.",
+    "qualia_account": "La théorie peine traditionnellement à rendre compte des qualia phénoménaux, y répondant souvent en affirmant que le ressenti qualitatif est entièrement épuisé par le rôle fonctionnel, ou en s'associant à des théories représentationnelles.",
+    "ontological_commitments": "Les rôles fonctionnels ou les relations causales sont les entités critiques. La théorie suppose l'existence de substrats capables d'instancier l'information et l'architecture fonctionnelle, qu'il s'agisse de tissu neural ou de puces informatiques.",
+    "epistemic_access": "La conscience est accédée et comprise en analysant le fonctionnement des états mentaux à travers leurs relations causales avec les entrées sensorielles et les sorties comportementales, souvent associée aux perspectives computationnelles et à la troisième personne.",
+    "constituents_and_structure": "Les états mentaux sont composés de relations causales définies entre les entrées sensorielles, les états internes et les sorties comportementales. Ces relations constituent la structure fonctionnelle de l'esprit."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Les états psychologiques (se souvenir, penser, créer) et les exigences structurelles pour la conscience phénoménale ; elle fournit le fondement de la conscience de l'IA et de l'immortalité virtuelle.",
+    "distinctive_mechanism_or_principle": "Le principe de la réalisabilité multiple, affirmant que la réalisation d'un état mental est indépendante du substrat physique, dépendant uniquement de l'instanciation de la fonction requise.",
+    "dynamics_of_emergence": "La conscience se réalise comme un processus ou une activité fonctionnelle chaque fois que les relations fonctionnelles nécessaires (telles que celles définies par des algorithmes ou un flux causal) sont présentes dans un système physique.",
+    "location_and_distribution": "Distribuée partout où l'organisation fonctionnelle est réalisée avec succès, que le substrat soit du tissu neural ou des composants informatiques câblés.",
+    "causation_and_functional_role": "Les fonctions, les rôles et les sorties sont déterminants. Les états mentaux sont causalement efficaces parce qu'ils sont définis par leurs relations causales au sein du système (rôle fonctionnel).",
+    "integration_or_binding": "L'intégration est réalisée par l'accomplissement réussi d'architectures fonctionnelles complexes où de multiples entrées et états internes sont causalement liés pour produire des sorties unifiées.",
+    "information_flow_or_representation": "L'information est centrale, en particulier dans le fonctionnalisme computationnel, où les modèles computationnels classiques (algorithmes) illustrent les exigences fonctionnelles des états mentaux.",
+    "evolutionary_account": "Non abordé directement, mais entièrement compatible avec les explications évolutives puisque la théorie est classée sous le matérialisme, ce qui suggère que la conscience est un mécanisme évolué conférant des avantages adaptatifs ou de survie via des processus fonctionnels.",
+    "core_claims_and_evidence": [
+      "Les états mentaux sont constitués par leurs relations causales les uns avec les autres et avec les entrées/sorties.",
+      "Les états mentaux sont identiques à des états fonctionnels (thèses d'identité des états fonctionnels).",
+      "La nature du substrat n'a pas d'importance, seules les fonctions accomplies comptent.",
+      "Elle sert de fondement théorique à l'« immortalité virtuelle »."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (définitions conceptuelles), computationnelle (via les théories computationnelles de l'esprit)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement et empiriquement testable. Les expériences de pensée (comme le remplacement de substrat) sondent ses limites conceptuelles, et la réalisation computationnelle (l'IA) teste son application empirique.",
+    "known_empirical_interventions_or_tests": "L'expérience de pensée du remplacement par puces de silicium est utilisée conceptuellement pour tester si la conscience phénoménale est préservée lorsque le rôle fonctionnel est maintenu à travers un changement de substrat.",
+    "criticisms_and_tensions": "Elle est fortement critiquée pour son incapacité à rendre compte de la conscience phénoménale (qualia) en ne décrivant que le rôle fonctionnel, ce qui conduit au défi du « problème difficile » selon lequel les rôles fonctionnels pourraient ne pas épuiser la nature de l'expérience consciente.",
+    "open_questions_and_limitations": "La question majeure non résolue est de savoir si l'expérience consciente est entièrement épuisée par le rôle fonctionnel. On ne sait pas clairement comment les définitions fonctionnelles capturent pleinement les aspects subjectifs et qualitatifs de l'expérience.",
+    "ontological_coherence": "Hautement cohérente avec les ontologies physicalistes au sens large. Bien que définie par un défenseur comme un « rival incompatible » du physicalisme réductif sur le plan métaphysique, elle fournit la caractérisation fonctionnelle requise pour les projets réductionnistes."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "Le fonctionnalisme soutient que la conscience repose sur la fonction, non sur la biologie. Si les fonctions correctes peuvent être réalisées computationnellement dans des substrats non biologiques, la conscience de l'IA est possible en principe et certaine si le matérialisme est vrai."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditionnel/Non",
+      "rationale": "En tant que théorie physicaliste, la conscience est liée au substrat. La survie au-delà de la mort du corps biologique n'est possible que si l'état mental fonctionnel peut être transféré avec succès (téléchargé) vers un nouveau substrat continu (immortalité virtuelle)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "Le fonctionnalisme décrit le mécanisme par lequel l'esprit/la conscience opère dans un monde physique, fournissant des capacités d'agentivité et de réflexion, mais n'offre aucune justification pour un sens ou une téléologie cosmique ultime, s'alignant sur la position générale du matérialisme."
+    },
+    "virtual_immortality": {
+      "stance": "Réalisable",
+      "rationale": "Le fonctionnalisme sert de fondement théorique à l'immortalité virtuelle. Si le rôle fonctionnel du soi mental peut être parfaitement dupliqué et téléchargé vers un nouveau support, le soi mental à la première personne est préservé."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Homuncular Functionalism (Lycan)",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "Compatible/Rivale"
+      },
+      {
+        "name": "Neurofunctionalism (Prinz)",
+        "relationship": "Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism? (N. Block)",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Is Functionalism? Consciousness, Function, and Representation (N. Block)",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Functionalism (J. Levin)",
+        "year": 2023
+      }
+    ]
+  }
+}

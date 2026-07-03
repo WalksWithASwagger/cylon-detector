@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Émergence (principe de la conscience)",
+    "summary": "L'émergence est la thèse philosophique selon laquelle des propriétés qualitativement nouvelles, telles que la conscience ou les états psychologiques, naissent de propriétés physiques sous-jacentes entièrement régies par les lois physiques. Elle se distingue principalement en émergence faible, réductible en principe, et émergence forte, fondamentalement non réductible et pouvant nécessiter de nouvelles lois physiques.",
+    "associated_thinkers": [
+      "David Chalmers",
+      "Paul Davies",
+      "George Ellis"
+    ],
+    "category": "Théories du matérialisme",
+    "subcategory": "Philosophique",
+    "core_identity_tagline": "Propriétés qualitativement nouvelles naissant de systèmes physiques",
+    "classification_tags": [
+      "emergentism",
+      "reductionism",
+      "non-reductive",
+      "physicalism",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme une propriété ou un état psychologique qualitativement nouveau naissant de propriétés physiques. Ce concept définit la relation entre l'esprit et la matière sur la base de la réductibilité ou de la non-réductibilité à la physique fondamentale.",
+    "ontological_status": "Hautement variable/Contesté. L'émergence faible soutient le physicalisme réductif. L'émergence forte implique souvent un physicalisme non réductif ou la nécessité d'élargir la conception de la nature, exigeant potentiellement de nouvelles lois fondamentales (dualisme naturaliste ou dualisme des propriétés).",
+    "mind_body_relationship": "Émergentiste. L'esprit naît du corps (systèmes physiques complexes). La nature de la relation dépend du type d'émergence : l'émergence faible suggère une réduction en principe ; l'émergence forte suggère une non-réductibilité même en principe, impliquant souvent une causalité descendante.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "À la fois faible et forte. L'émergence faible implique une réductibilité en principe (bien que difficile en pratique), tandis que l'émergence forte implique que le phénomène est impossible à expliquer par réduction, même en principe, nécessitant des lois psychophysiques fondamentales.",
+    "subjectivity_and_intentionality": "L'émergence fournit le cadre pour expliquer *comment* la subjectivité naît de parties non subjectives. Si l'émergence forte est en jeu, les propriétés subjectives résultantes (comme les qualia) sont fondamentalement non déductibles des lois physiques régissant le domaine de bas niveau.",
+    "qualia_account": "Les qualia sont les propriétés nouvelles et qualitativement inédites (par exemple, les qualités sensorielles) qui naissent du système physique. L'émergence forte considère la conscience (et donc les qualia) comme le cas le plus clair d'un phénomène fortement émergent, fondamentalement irréductible aux faits physiques sous-jacents.",
+    "ontological_commitments": "Les propriétés physiques et les lois physiques. Pour l'émergence forte, cet engagement s'étend éventuellement à de nouvelles lois ou principes psychophysiques fondamentaux, particulièrement ceux liés à la causalité descendante.",
+    "epistemic_access": "Pour l'émergence faible, l'accès est potentiellement réalisable via la science fondamentale (en principe). Pour l'émergence forte, le phénomène est épistémiquement inaccessible ou non déductible de la physique de bas niveau, posant un défi durable à l'explication scientifique.",
+    "constituents_and_structure": "Un système où l'entité globale ou ses propriétés nouvelles sont (ou semblent être) plus que la somme de toutes leurs parties, naissant d'agencements complexes d'atomes physiques, tels que les neurones biologiques."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Le phénomène, la subjectivité, les qualia. Elle traite de l'existence et de l'irréductibilité des propriétés conscientes, en enrichissant diverses théories spécifiques.",
+    "distinctive_mechanism_or_principle": "Le principe est l'affirmation que des propriétés nouvelles et qualitativement distinctes naissent à des niveaux de complexité supérieurs, ce qui est souvent opposé aux hypothèses réductionnistes de la science dominante.",
+    "dynamics_of_emergence": "La conscience est une propriété dynamique qui naît lorsqu'une certaine sorte d'agencement complexe de composants physiques (par exemple, les neurones biologiques) se rassemble, produisant des propriétés absentes des composants pris isolément. L'émergence forte peut impliquer une causalité descendante.",
+    "location_and_distribution": "Typiquement localisée dans des systèmes biologiques complexes (par exemple, les cerveaux), bien que les partisans de l'émergence forte puissent soutenir que la conscience de l'IA est possible si une complexité physique suffisante est atteinte, indépendamment du substrat.",
+    "causation_and_functional_role": "Variable. L'émergence faible s'aligne sur la causalité physique standard. L'émergence forte postule souvent une causalité descendante, où les niveaux hiérarchiques supérieurs émergents exercent une force causale sur les niveaux inférieurs, conférant à la propriété émergente des pouvoirs causaux.",
+    "integration_or_binding": "La propriété émergente résultante représente elle-même l'intégration des composants de bas niveau en un tout unifié, générant des propriétés non réductibles à la somme des parties.",
+    "information_flow_or_representation": "L'information est impliquée comme un médium pour les propriétés émergentes (par exemple, dans la théorie de l'information émergente, un esprit non matériel influence le corps via des phénomènes informationnels hiérarchiques et émergents), mais elle n'est pas le mécanisme central du principe général.",
+    "evolutionary_account": "La conscience, si elle est émergente, est présumée être apparue par étapes évolutives lorsque certains seuils de complexité physique ont été franchis, procurant des avantages adaptatifs (par exemple, permettant des systèmes qui sont plus que la somme de leurs parties).",
+    "core_claims_and_evidence": [
+      "Des propriétés qualitativement nouvelles et inédites naissent de propriétés physiques (revendication générale).",
+      "L'émergence faible soutient le physicalisme en montrant que les phénomènes nouveaux sont fondés sur des lois simples (revendication faible).",
+      "L'émergence forte exige de nouvelles lois psychophysiques fondamentales et suggère l'irréductibilité, remettant en question le physicalisme (revendication forte)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, conceptuelle"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculative et philosophiquement controversée. L'émergence faible est scientifiquement alignée en principe. L'émergence forte est difficile à tester empiriquement car elle postule des phénomènes non déductibles de la science fondamentale.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Elle est critiquée par les physicalistes réductionnistes (comme les matérialistes éliminativistes) comme ayant peu de valeur explicative, étant superflue, ou agissant comme une « reformulation d'un miracle » qui échoue à expliquer *comment* la complexité inconsciente engendre la conscience. L'émergence forte remet spécifiquement en question la clôture causale du monde physique.",
+    "open_questions_and_limitations": "La distinction fondamentale entre l'émergence faible (réductibilité en principe) et l'émergence forte (non-réductibilité en principe) demeure un problème philosophique ouvert, déterminant si elle ne fait que décrire des phénomènes complexes ou si elle change fondamentalement l'ontologie.",
+    "ontological_coherence": "L'émergence faible est cohérente au sein de l'ontologie matérialiste/physicaliste. L'émergence forte est hautement controversée, car son exigence de non-déductibilité et de causalité descendante met à rude épreuve la cohérence avec la théorie physique standard."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditionnel/Probable",
+      "rationale": "Si la conscience est faiblement émergente, la conscience de l'IA est certaine étant donné une complexité suffisante. Si elle est fortement émergente, la conscience de l'IA demeure possible si des propriétés non physiques émergent d'une complexité physique non biologique, en fonction des lois méta-psychophysiques impliquées."
+    },
+    "survival_beyond_death": {
+      "stance": "Improbable (émergence faible) ; Possible (émergence forte)",
+      "rationale": "L'émergence faible, étant proche du matérialisme, exclut la survie. L'émergence forte, particulièrement sous la forme du dualisme émergent, pourrait théoriquement générer une substance non physique (esprit/âme) dépendante du cerveau physique mais non strictement identique à lui, permettant une existence indépendante potentielle après la mort, bien que cela reste spéculatif."
+    },
+    "meaning_and_purpose": {
+      "stance": "Possiblement",
+      "rationale": "L'émergence, surtout l'émergence forte combinée à des concepts comme la causalité descendante, offre un cadre où des propriétés de niveau supérieur telles que la conscience et ses valeurs associées pourraient posséder un pouvoir causal authentique, soutenant potentiellement un but ou un sens cosmique, selon l'ontologie résultante."
+    },
+    "virtual_immortality": {
+      "stance": "Probable (émergence faible) ; Hautement conditionnelle (émergence forte)",
+      "rationale": "Si la conscience est faiblement émergente, la duplication des états physiques dupliquerait les états mentaux (probable). Si elle est fortement émergente, les propriétés non réductibles et la possible causalité descendante devraient être parfaitement capturées et recréées dans le nouveau support, posant des défis techniques et conceptuels significatifs, voire insurmontables."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Reductionism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Biological Naturalism (Searle)",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Re-emergence of Emergence: the Emergentist Hypothesis from Science to Religion, P. Clayton and P. Davies",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Strong and weak emergence, D. Chalmers",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Why reductionism does not work, G.F.R. Ellis",
+        "year": 2019
+      }
+    ]
+  }
+}

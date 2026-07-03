@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "La Sintiencia de Pereira",
+    "summary": "Esta teoría postula que la conciencia tiene dos modalidades distintas: la sintiencia fundamental, caracterizada por sensaciones básicas como el dolor y el hambre, y la conciencia cognitiva de nivel superior, que implica pensamiento abstracto y representación. La afirmación central es que la capacidad cognitiva depende de este estado sintiente subyacente, el cual está biológicamente fundado en sistemas homeostáticos.",
+    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "category": "Materialism",
+    "subcategory": "Homeostatic and Affective",
+    "core_identity_tagline": "La conciencia como un sistema de dos niveles fundado en la sintiencia",
+    "classification_tags": [
+      "sentience",
+      "homeostatic",
+      "neurobiological",
+      "dual-modality",
+      "clinical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es un sistema biológico compuesto por la sintiencia (correlacionada con el control dinámico de la homeostasis bioquímica) y la conciencia cognitiva (correlacionada con patrones de actividad bioeléctrica en las redes neuronales).",
+    "ontological_status": "Fisicalismo/Naturalismo (inferido a partir de su clasificación bajo el Materialismo y su enfoque en los correlatos fisiológicos/neuronales)",
+    "mind_body_relationship": "Las modalidades conscientes (sintiencia y cognición) dependen funcionalmente de, y tienen correlatos fisiológicos precisos dentro de, el organismo biológico, específicamente los sistemas homeostáticos y las redes neuronales.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil (justificada por su estricta fundamentación en procesos biológicos/fisiológicos observables y medibles, lo que sugiere que, en principio, es explicable por las leyes físicas, a pesar de su complejidad.)",
+    "subjectivity_and_intentionality": "La subjetividad surge de la sintiencia, la capacidad de sentir sensaciones básicas (p. ej., hambre, dolor). La intencionalidad está presente en la conciencia cognitiva a través de la elaboración de representaciones lingüísticas e imaginativas.",
+    "qualia_account": "Los qualia se explican mediante la modalidad fundamental de la sintiencia, que corresponde directamente a la capacidad de sentir sensaciones básicas y cualitativas (p. ej., dolor, sed).",
+    "ontological_commitments": "Sistemas fisiológicos que controlan la homeostasis bioquímica; patrones de actividad bioeléctrica en las redes neuronales; organización neuronal jerárquica.",
+    "epistemic_access": "Se accede mediante el estudio de los correlatos fisiológicos, particularmente en relación con el control dinámico de la homeostasis, y clínicamente mediante la observación de respuestas sintientes básicas.",
+    "constituents_and_structure": "Un sistema jerárquico de dos niveles: la sintiencia (fundamento homeostático de bajo nivel) y la conciencia cognitiva (procesamiento representacional de alto nivel)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (sensaciones básicas/sintiencia); conciencia cognitiva (pensamiento/representación); diagnóstico clínico de los trastornos de la conciencia.",
+    "distinctive_mechanism_or_principle": "El principio de dependencia funcional, según el cual la conciencia cognitiva de nivel superior depende estrictamente de, y está sostenida por, la modalidad de nivel inferior de la sintiencia, arraigada en los sistemas homeostáticos.",
+    "dynamics_of_emergence": "La conciencia surge a través de una relación jerárquica en la que la existencia de la sintiencia básica, vinculada al control fisiológico, constituye una base necesaria para la emergencia del funcionamiento cognitivo.",
+    "location_and_distribution": "Los correlatos centrales se distribuyen a través de los sistemas fisiológicos responsables del control homeostático (para la sintiencia) y las redes neuronales (para el procesamiento cognitivo).",
+    "causation_and_functional_role": "La sintiencia cumple la función vital de regular los procesos fisiológicos para mantener la homeostasis y la continuidad de la vida. Proporciona la retroalimentación consciente necesaria para la regulación biológica básica.",
+    "integration_or_binding": "No se especifica. (Justificado por el enfoque de la teoría en la distinción y la relación jerárquica entre las modalidades conscientes, más que en el mecanismo de unificación de las entradas sensoriales.)",
+    "information_flow_or_representation": "La conciencia cognitiva implica el procesamiento y la elaboración de representaciones lingüísticas e imaginativas, que ocurre en las redes neuronales.",
+    "evolutionary_account": "No se especifica en detalle, pero se infiere que es adaptativa y evolutiva, vinculando las modalidades de la conciencia a imperativos biológicos fundamentales como la supervivencia y el mantenimiento de la homeostasis.",
+    "core_claims_and_evidence": [
+      "La conciencia cognitiva depende de la sintiencia, pero no a la inversa.",
+      "La sintiencia se correlaciona con la capacidad de control dinámico de la homeostasis bioquímica.",
+      "La capacidad de sentir sensaciones básicas (sintiencia) es el requisito mínimo para la conciencia mínima (relevante para el diagnóstico clínico)."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurocientífico, Clínico/Médico, Filosófico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable mediante la evaluación e intervención clínica, especialmente al analizar la conciencia mínima en estados vegetativos o bajo anestesia.",
+    "known_empirical_interventions_or_tests": [
+      "Evaluación de la capacidad de sentir sensaciones básicas (hambre, dolor) como criterio para diagnosticar trastornos prolongados de la conciencia."
+    ],
+    "criticisms_and_tensions": "No se ofrecen críticas explícitas en el material fuente. (Justificación: el material fuente es descriptivo y no incluye un discurso crítico sobre esta teoría en particular.)",
+    "open_questions_and_limitations": "Los mecanismos fisiológicos y bioeléctricos explícitos que sustentan los límites estrictos y la dependencia jerárquica entre la sintiencia y la conciencia cognitiva aún deben elucidarse por completo. Las pruebas de cognición superior podrían ser inadecuadas para evaluar todos los estados de conciencia.",
+    "ontological_coherence": "Muy consistente dentro de los límites del naturalismo, vinculando dos aspectos distintos de la conciencia a sistemas fisiológicos concretos y observables."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Si los sistemas artificiales pueden replicar completamente los sistemas fisiológicos que rigen la homeostasis bioquímica dinámica (necesaria para la sintiencia) y la actividad de red bioeléctrica necesaria (para la cognición), entonces la conciencia artificial es posible."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que la conciencia depende estrictamente de sistemas biológicos funcionales (control de la homeostasis y redes neuronales), se presume que cesa con la disolución irreversible del cuerpo y el cerebro."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanístico",
+      "rationale": "La teoría se centra en el papel funcional y adaptativo de la conciencia en el mantenimiento de la estabilidad biológica (homeostasis) y en la posibilitación de la cognición flexible, sin proporcionar una base para un propósito cósmico o último."
+    },
+    "virtual_immortality": {
+      "stance": "Condicional",
+      "rationale": "Teóricamente posible solo si los patrones dinámicos homeostáticos y bioeléctricos específicos identificados como correlatos de la sintiencia y la cognición pueden digitalizarse y replicarse perfectamente en un medio no biológico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The role of sentience in the theory of consciousness and medical practice, A. Pereira Jr.",
+        "year": 2021
+      }
+    ]
+  }
+}

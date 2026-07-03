@@ -1,0 +1,81 @@
+{
+  "id_and_class": {
+    "theory_title": "« L'Angle Mort » de Frank/Gleiser/Thompson",
+    "summary": "Ce cadre critique les approches matérialistes et dualistes traditionnelles en affirmant la primauté mutuelle de la conscience et de l'incarnation, soutenant que toute investigation scientifique se déroule nécessairement à l'intérieur de l'« horizon de la conscience ». Il définit le « problème difficile » comme un artefact de l'« Angle Mort » — l'incapacité à reconnaître la précondition irréductible de l'expérience dans la quête de la vérité objective — et propose un basculement radical vers la neurophénoménologie.",
+    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
+    "category": "Materialism Theories",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "La conscience comme précondition irréductible et boucle étrange incarnée",
+    "classification_tags": [
+      "embodiment",
+      "phenomenology",
+      "non-reductionism",
+      "strange loop",
+      "critique"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme une précondition irréductible de la connaissance scientifique, résidant à l'intérieur d'un « horizon » inéluctable, mutuellement enveloppée avec l'incarnation.",
+    "ontological_status": "Physicalisme non réductif/Réalisme phénoménologique (Position inférée, la théorie rejetant explicitement le réductionnisme et le physicalisme, tout en préconisant une vision scientifiquement informée fondée sur la primauté de l'expérience et de l'incarnation. La source la classe sous Matérialisme/Incarné et Énactif.)",
+    "mind_body_relationship": "La relation est décrite comme une « boucle étrange », où la « primauté de la conscience » subsume l'incarnation, et la « primauté de l'incarnation » subsume la conscience, nécessitant une vision intégrée.",
+    "primitive_or_emergent_status": "Primitif/Fondamental (La conscience est caractérisée comme une « précondition irréductible » et une « primauté inéliminable » de la connaissance, et non comme quelque chose qui naîtrait séquentiellement de la matière physique, bien qu'elle soit mutuellement dépendante de l'incarnation.)",
+    "emergence_type": "Non applicable (La théorie rejette le cadre du réductionnisme, du physicalisme et de l'objectivisme qui nécessiterait des arguments d'émergence faible ou forte traditionnels. La relation est celle d'un « enveloppement mutuel ».)",
+    "subjectivity_and_intentionality": "La subjectivité (l'expérience à la première personne) se voit accorder une « primauté » et occupe une place centrale dans la théorie, qui rejette les approches cherchant à comprendre la conscience en dehors de cette perspective (l'Angle Mort). L'intentionnalité est implicitement intégrée à travers des concepts associés comme la neurophénoménologie.",
+    "qualia_account": "La nature qualitative de l'expérience (le problème difficile) est écartée en tant qu'« artefact de l'Angle Mort », c'est-à-dire un problème inscrit dans la métaphysique réductrice, et qui n'est pas soluble dans ces termes.",
+    "ontological_commitments": "Primauté de la conscience, primauté de l'incarnation, et la relation en boucle étrange entre les deux.",
+    "epistemic_access": "La conscience est connue en reconnaissant que « nous utilisons inéluctablement la conscience pour étudier la conscience ». L'accès est obtenu par la méthodologie de la neurophénoménologie, qui tresse les récits à la première personne (phénoménologiques) et à la troisième personne (neuroscientifiques).",
+    "constituents_and_structure": "La structure de base est la « boucle étrange » mutuellement englobante de la conscience et de l'incarnation."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale, l'expérience subjective à la première personne, et la relation nécessaire entre celui qui fait l'expérience et le monde (incarnation).",
+    "distinctive_mechanism_or_principle": "Identifier l'« Angle Mort » (l'amnésie de l'humanité à l'égard de l'expérience dans la poursuite de la vérité objective) et préconiser un basculement vers la neurophénoménologie afin d'intégrer la primauté de l'expérience à la science.",
+    "dynamics_of_emergence": "La conscience et l'incarnation s'« enveloppent mutuellement » de manière dynamique plutôt que l'une donnant linéairement naissance à l'autre.",
+    "location_and_distribution": "Le lieu est l'« horizon de la conscience », qui subsume le monde et est indissociablement lié au corps (incarnation).",
+    "causation_and_functional_role": "La conscience sert de contexte nécessaire (horizon) et de précondition à l'acquisition de connaissances, y compris scientifiques. Son rôle fonctionnel s'enracine dans le lien indissociable entre l'esprit et les processus vitaux."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable par l'application de méthodes neurophénoménologiques, visant à produire de nouvelles expériences servant de points de référence pour faire progresser à la fois la phénoménologie et la neuroscience.",
+    "known_empirical_interventions_or_tests": [
+      "La neurophénoménologie (tressage des rapports expérientiels à la première personne avec les données cérébrales à la troisième personne)",
+      "Les méthodes expérientielles à la première personne (par exemple, la méditation) pour affiner l'attention et la conscience"
+    ],
+    "criticisms_and_tensions": "La théorie est en tension avec les théories matérialistes établies, car elle rejette le réductionnisme, le physicalisme et l'idée que la conscience est une illusion, soutenant au contraire que de telles approches sont des « artefacts de l'Angle Mort ». Ce départ radical remet en cause les fondements mêmes de la méthodologie scientifique dominante.",
+    "open_questions_and_limitations": "La théorie propose de dissoudre le problème difficile en révélant ses prémisses erronées, plutôt qu'en le résolvant dans les paramètres scientifiques traditionnels, ce qui nécessite une refonte majeure de la science de la conscience.",
+    "ontological_coherence": "Grande cohérence au sein de son propre cadre, dans la mesure où elle identifie systématiquement les théories concurrentes (CNC, dualisme, illusionnisme) comme conceptuellement défaillantes en raison de leur adhésion commune à la vision du monde de l'« Angle Mort »."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Incertaine",
+      "rationale": "La théorie considère la conscience comme intrinsèquement liée à l'expérience incarnée à la première personne au sein d'une « boucle étrange ». Puisqu'elle critique le fonctionnalisme computationnel qui sous-tend la plupart des approches de l'IA, il n'est pas clair qu'un simple calcul non biologique puisse atteindre cette conscience irréductible et incarnée."
+    },
+    "survival_beyond_death": {
+      "stance": "Incertaine",
+      "rationale": "La théorie insiste sur la primauté de l'incarnation, suggérant que la conscience est liée à l'organisme. Toutefois, sa position non réductive, soutenant une science fondée sur la primauté de l'expérience, n'exclut pas des possibilités de survie, bien que les sources ne précisent pas de position à ce sujet."
+    },
+    "meaning_and_purpose": {
+      "stance": "Intrinsèque/Existentiel",
+      "rationale": "La théorie vise à retrouver la « place centrale de l'expérience humaine dans l'entreprise scientifique », impliquant que le sens et la valeur sont fondamentalement présents dans la réalité irréductible de la conscience et de l'expérience."
+    },
+    "virtual_immortality": {
+      "stance": "Improbable",
+      "rationale": "L'immortalité virtuelle repose sur la numérisation et la réplication réussies des états mentaux (fonctionnalisme computationnel). Puisque la théorie considère la conscience comme un phénomène irréductible et incarné — une « boucle étrange » — elle implique fortement que le téléchargement de l'esprit serait impossible, en raison de son rejet de la philosophie réductionniste sous-jacente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Neurophenomenology", "relationship": "Soutien/Extension" },
+      { "name": "Embodied and Enactive Theories", "relationship": "Alignement" },
+      {
+        "name": "Reductionism/Physicalism",
+        "relationship": "Critique/Rejet"
+      },
+      { "name": "Francisco Varela’s work", "relationship": "Influence" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Blind Spot: Why Science Cannot Ignore Human Experience, A. Frank, M. Gleiser, E. Thompson",
+        "year": 2024
+      }
+    ]
+  }
+}

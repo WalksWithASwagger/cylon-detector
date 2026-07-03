@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "La Teoría del Esquema de la Atención de Graziano",
+    "summary": "Esta teoría postula que la conciencia surge cuando el cerebro construye un modelo interno rápido y simplificado —un esquema de atención— de su propio proceso de atención. El cerebro interpreta y reporta erróneamente esta representación interna como una esencia subjetiva y no física, o una 'autocaricatura', aun cuando en el fondo se trate de un producto computacional.",
+    "associated_thinkers": [
+      "Michael Graziano"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "La Conciencia como Autocaricatura Evolucionada de la Atención",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "functionalism",
+      "evolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica con la representación interna del cerebro, o el modelo simplificado de su propio mecanismo de atención (el esquema de atención), que es un ejemplo específico de pensamiento de orden superior.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La conciencia es el reporte generado por una máquina biológica de procesamiento de información (el cerebro) mediante la evaluación de sus datos internos, lo que implica que los estados mentales son computacionales y enteramente físicos.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil",
+    "subjectivity_and_intentionality": "La subjetividad (el sentido de una 'esencia fantasmal y no física') es el reporte engañoso generado por el esquema de atención interno del cerebro. La intencionalidad se explica implícitamente, ya que la función primaria del modelo resultante es el monitoreo de la atención para controlar las acciones en el mundo.",
+    "qualia_account": "La conciencia se describe como una 'autocaricatura' o un reporte ilusorio de una esencia no física, lo que sugiere una explicación deflacionaria o ilusionista de los qualia, semejante a la visión de Daniel Dennett.",
+    "ontological_commitments": "Cerebros biológicos, mecanismos de procesamiento de información y representaciones internas (el esquema de atención).",
+    "epistemic_access": "El sistema mismo accede a la conciencia mediante la introspección (la evaluación de sus datos internos), lo que lleva al sistema a afirmar que es consciente, pero su verdadera naturaleza computacional solo puede determinarse mediante el análisis científico en tercera persona (la ciencia).",
+    "constituents_and_structure": "Un modelo o representación computacional (el esquema de atención) desarrollado para monitorear y regular el propio mecanismo de atención del cerebro."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (como reporte/afirmación interna generada), Atención, Control de la Acción.",
+    "distinctive_mechanism_or_principle": "La construcción y el mantenimiento de un modelo interno simplificado (el esquema de atención) del proceso de atención, arraigado en principios de la ingeniería de control.",
+    "dynamics_of_emergence": "La conciencia es un rasgo dinámico y evolucionado, que se origina en una estrategia computacional que genera el esquema de atención interno.",
+    "location_and_distribution": "Ubicada dentro del sistema biológico de procesamiento de información del cerebro.",
+    "causation_and_functional_role": "El rol funcional del esquema de atención es monitorear y regular la atención del cerebro para controlar las acciones en el mundo. La capacidad resultante permite que el sistema afirme ser consciente.",
+    "integration_or_binding": "El mecanismo preciso para integrar los datos sensoriales en el esquema de atención no se detalla en las fuentes, pero la teoría implica la integración necesaria para monitorear y regular la atención en su conjunto.",
+    "information_flow_or_representation": "El procesamiento de información es central; el cerebro debe manejar una profusión de información desarrollando una representación simplificada de su propio estado (el esquema de atención).",
+    "evolutionary_account": "El rasgo de la conciencia evolucionó para proporcionar un beneficio adaptativo: monitorear y regular la atención a fin de controlar eficientemente las acciones en el entorno.",
+    "core_claims_and_evidence": [
+      "El cerebro desarrolla un 'modelo rápido y aproximado' de su propio proceso de atención (el esquema de atención).",
+      "El cerebro reporta este modelo interno como una 'esencia fantasmal y no física' o una 'autocaricatura'.",
+      "La capacidad de afirmar ser consciente se basa en cómputos derivados de la ingeniería de control."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiológica, Computacional, Evolutiva, Filosófica."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La teoría explica cómo un sistema puede *afirmar* ser consciente, pero enfrenta la limitación general, compartida por modelos funcionalistas similares, de no poder demostrar o explicar de manera concluyente el matiz subjetivo real (el problema de si 'hay alguien ahí'), que sigue siendo eternamente incierto, incluso según admite el propio proponente.",
+    "open_questions_and_limitations": "El sistema, al depender de la introspección, no puede determinar internamente que su afirmación de conciencia se basa únicamente en cómputos. El observador externo nunca puede saber con certeza si existe experiencia interna en el sistema.",
+    "ontological_coherence": "Altamente coherente dentro del marco Materialista, en consonancia con otros enfoques funcionalistas y computacionales para explicar la afirmación de conciencia sin invocar sustancias no físicas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Dado que la conciencia se define como un proceso computacional (la creación de un esquema de atención), en principio los sistemas artificiales que implementen la arquitectura computacional necesaria podrían volverse conscientes. Además, los observadores inevitablemente harán la atribución social de conciencia a sistemas de IA suficientemente complejos que actúen como si fueran conscientes."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como teoría Materialista/Neurobiológica, la conciencia está ligada al sustrato físico (la máquina biológica de procesamiento de información), lo que impide la supervivencia más allá de la descomposición del cuerpo."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "La conciencia proporciona un propósito evolutivo adaptativo (monitorear y regular la atención para el control de la acción), pero no implica ningún sentido último o cósmico, en consonancia con el Materialismo."
+    },
+    "virtual_immortality": {
+      "stance": "Posible",
+      "rationale": "Si la conciencia se realiza como una estructura computacional (el esquema de atención), y si esta estructura y los sistemas de procesamiento de información relevantes pueden cargarse con precisión en un medio no biológico, la inmortalidad virtual es teóricamente posible."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Coincidencia"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "True nature of consciousness: solving the biggest mystery of your mind, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rethinking Consciousness: A Scientific Theory of Subjective Experience, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Can consciousness be non-biological?, M. Graziano",
+        "year": 2014
+      }
+    ]
+  }
+}

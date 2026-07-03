@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "El Monismo Realista y la Teoría del Materialismo Real de Strawson",
+    "summary": "Esta teoría afirma que la conciencia, o la experiencia fenoménica, es enteramente física y es el hecho más cierto de nuestra existencia. Por lo tanto, el fisicalismo o materialismo 'real' debe implicar panpsiquismo, lo que significa que las propiedades fenoménicas son intrínsecas a toda la materia/energía física fundamental y no radicalmente emergentes. Esta visión pretende fundamentar la experiencia subjetiva directamente dentro de una ontología física expandida y realista.",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "Monismos",
+    "subcategory": "Monismo Realista",
+    "core_identity_tagline": "La Conciencia es Enteramente Física y Experiencial",
+    "classification_tags": [
+      "physicalism",
+      "panpsychism",
+      "monism",
+      "experience"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia, como fenómeno experiencial, se identifica como enteramente física, lo que implica que la materia física fundamental (como la energía) es intrínsecamente un fenómeno que involucra experiencia.",
+    "ontological_status": "Monismo realista / fisicalismo real (implica panpsiquismo)",
+    "mind_body_relationship": "Identidad de tokens: lo mental/experiencial 'simplemente es' físico, lo que sugiere que las neuronas, por ejemplo, tienen propiedades experienciales no capturadas por la física y la neurofisiología actuales.",
+    "primitive_or_emergent_status": "Primitivo (o derivado composicionalmente de propiedades primitivas).",
+    "emergence_type": "La teoría rechaza la emergencia 'radical', argumentando que la conciencia debe ser inherente a la naturaleza física fundamental de la realidad, ya que de lo contrario se negaría su existencia, lo cual se considera absurdo. La experiencia consciente surge mediante la composición de propiedades experienciales fundamentales.",
+    "subjectivity_and_intentionality": "La subjetividad (la experiencia consciente, el 'qué se siente ser') se afirma como el hecho más cierto de la existencia y el punto de partida obligatorio para cualquier fisicalismo realista. La intencionalidad se incluye dentro de esta realidad física expandida.",
+    "qualia_account": "Los qualia (la sensación cualitativa) se afirman como concretamente reales y enteramente materiales, entendidos como propiedades intrínsecas y no reducibles de las entidades físicas fundamentales (panpsiquismo).",
+    "ontological_commitments": "Un único objeto o cosa fundamental y concreta (monismo), que se define como físico pero abarca propiedades experienciales/fenoménicas. Esto incluye toda la materia física, como la energía, que involucra experiencia.",
+    "epistemic_access": "Principalmente a través de la introspección y la experiencia en primera persona, ya que esta experiencia se considera el hecho natural dado fundamental, cuya realidad es más cierta que cualquier otra cosa.",
+    "constituents_and_structure": "Los bloques básicos de construcción son las entidades físicas fundamentales (energía/materia) que poseen propiedades fenoménicas o protofenoménicas. La estructura general es la de una realidad única y unificada.",
+    "basis_of_belief_or_evidence_type": "Argumento filosófico y metafísico, basado en una apreciación realista de la realidad concreta de la conciencia y en los límites conceptuales del fisicalismo reduccionista actual."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica, incluyendo la sensación, la percepción sensorial y el pensamiento consciente explícito.",
+    "distinctive_mechanism_or_principle": "El principio de que la coherencia lógica requiere aceptar la naturaleza experiencial de los constituyentes físicos fundamentales, resolviendo así la brecha explicativa al cambiar la definición de lo físico.",
+    "dynamics_of_emergence": "La conciencia es un rasgo fundamental, no estrictamente emergente a partir de componentes no conscientes. La conciencia de nivel superior surge a través de la agregación o combinación de estas propiedades experienciales fundamentales.",
+    "location_and_distribution": "Distribuida en todo lugar donde haya materia o energía física, incluyendo dentro de las neuronas en los organismos biológicos.",
+    "causation_and_functional_role": "Dado que lo mental es enteramente físico por definición, debe participar plenamente en la estructura causal del mundo físico, resolviendo así el problema de la causación mental inherente al dualismo.",
+    "integration_or_binding": "La unidad de la experiencia debe lograrse resolviendo el 'problema de la combinación' inherente al panpsiquismo, explicando cómo las experiencias a nivel micro se combinan en sujetos de experiencia a nivel macro.",
+    "information_flow_or_representation": "El procesamiento de información es secundario a, o está constituido por, las propiedades experienciales fundamentales de la materia. (La información es implícita más que estar explícitamente definida como el mecanismo central.)",
+    "evolutionary_account": "La conciencia es fundamental, por lo que la evolución es un proceso mediante el cual surgen estructuras físicas complejas que pueden agregar o expresar de formas complejas esta propiedad experiencial inherente.",
+    "core_claims_and_evidence": [
+      "El pleno reconocimiento de la realidad de la experiencia es el punto de partida obligatorio para un fisicalismo realista.",
+      "La negación de la experiencia consciente se argumenta que es 'la afirmación más tonta jamás hecha'.",
+      "El fisicalismo real necesita el panpsiquismo, asumiendo la imposibilidad de la emergencia radical.",
+      "Los fenómenos experienciales son físicos, lo que requiere una expansión de lo que abarca lo físico."
+    ],
+    "basis_of_belief_or_evidence_type": "Evidencia filosófica y fenomenológica (la certeza de la experiencia)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "De derivación conceptual; la teoría exige una reforma de la física fundamental para incluir propiedades experienciales, lo que dificulta la comprobación empírica estándar dentro de los paradigmas científicos actuales.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Fuertemente criticada por los fisicalistas tradicionales por redefinir conceptualmente lo 'físico' para incluir propiedades experienciales. La teoría todavía enfrenta el 'problema de la combinación' del panpsiquismo (cómo las experiencias a nivel micro se fusionan en una experiencia subjetiva compleja y unificada).",
+    "open_questions_and_limitations": "El problema no resuelto más significativo es encontrar una solución razonable al problema de la combinación.",
+    "ontological_coherence": "Alta, siempre que se acepte la definición ampliada de fisicalismo. Se propone como la solución más parsimoniosa para cualquier fisicalista que sea realista respecto a la experiencia.",
+    "basis_of_belief_or_evidence_type": "Filosófico y fenomenológico"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conciencia es una propiedad intrínseca de las entidades físicas fundamentales (panpsiquismo), entonces la tecnología avanzada debería poder manipular estos aspectos micropsíquicos en sistemas artificiales para generar una conciencia interior compleja, ya que todo está hecho de la misma sustancia experiencial."
+    },
+    "survival_beyond_death": {
+      "stance": "Improbable (posibilidad remota)",
+      "rationale": "Aunque es un monismo, el marco es explícitamente 'materialista real' y fundamentalmente fisicalista, lo que hace improbable la supervivencia más allá de la disolución del cuerpo físico, de forma similar a las teorías puramente materialistas."
+    },
+    "meaning_and_purpose": {
+      "stance": "Posiblemente",
+      "rationale": "Como forma de monismo que incorpora experiencia fundamental e intrínseca, evita la conclusión nihilista a menudo asociada con el materialismo deflacionario, dejando espacio para que el sentido o propósito último se vincule a la naturaleza de la realidad misma."
+    },
+    "virtual_immortality": {
+      "stance": "Probablemente",
+      "rationale": "Si la conciencia es una propiedad regular e intrínseca de la organización física, una hipertecnología avanzada capaz de duplicar perfectamente el estado físico en un sustrato no biológico también debería duplicar el estado consciente correspondiente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsiquismo",
+        "relationship": "Implicación"
+      },
+      {
+        "name": "Monismo Russelliano",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Materialismo Eliminativo / Ilusionismo",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Teoría de la Identidad Mente-Cerebro",
+        "relationship": "Extensión"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism, Galen Strawson",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      },
+      {
+        "title_with_names": "What is Panpsychism, Galen Strawson",
+        "year": 2011
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría del Dualismo Interaccionista",
+    "summary": "Esta teoría postula que la realidad consiste en dos categorías ontológicas distintas: un cerebro físico y una sustancia no física separada (mente/alma).\nLa afirmación explicativa central es que estas dos sustancias interactúan causalmente, lo que significa que la mente no física puede influir en el cuerpo físico, y viceversa.",
+    "associated_thinkers": [],
+    "category": "Dualisms",
+    "subcategory": "Interactionist",
+    "core_identity_tagline": "Sustancias Físicas y No Físicas Separadas que Interactúan",
+    "classification_tags": [
+      "substance dualism",
+      "mental causation",
+      "nonphysical",
+      "interactionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia requiere una sustancia (o parte) no física separada que existe junto al cerebro físico, donde la interacción entre ambas explica los estados mentales y el comportamiento.",
+    "ontological_status": "Dualismo de Sustancias (típicamente implícito)",
+    "mind_body_relationship": "Interaccionista (Interacción Causal)",
+    "primitive_or_emergent_status": "Primitivo (la sustancia no física es separada/fundamental)",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "La subjetividad reside en la sustancia no física separada (mente/alma), que es intrínsecamente en primera persona. La intencionalidad se concibe como una propiedad mental central e irreducible.",
+    "qualia_account": "Los qualia son rasgos cualitativos irreducibles de la sustancia o aspecto mental no físico.",
+    "ontological_commitments": "Sustancias físicas (cerebro/materia) y una sustancia no física separada (mente/alma/espíritu).",
+    "epistemic_access": "La introspección proporciona acceso en primera persona a la sustancia mental no física, mientras que el cerebro se estudia mediante observación en tercera persona.",
+    "constituents_and_structure": "Dos sustancias o componentes distintos e interactuantes: el cerebro/cuerpo físico y el alma/mente/espíritu no física."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (irreducible); Autoconciencia; Agencia (Libre Albedrío).",
+    "distinctive_mechanism_or_principle": "Interacción causal entre la sustancia mental no física y el cerebro físico, permitiendo que lo mental influya en el ámbito físico (causación descendente).",
+    "dynamics_of_emergence": "Propiedad estática (de la sustancia no física), aunque la interacción entre lo físico y lo no físico es dinámica y continua.",
+    "location_and_distribution": "El componente físico (cerebro) está localizado en el espacio; el componente no físico (mente/alma) es separado o independiente, a veces concebido como no extenso.",
+    "causation_and_functional_role": "La conciencia (la mente no física) ejerce fuerza causal sobre el cerebro/cuerpo físico y es causalmente afectada por él, posibilitando el control consciente y la agencia.",
+    "integration_or_binding": "La integración probablemente se atribuye a la naturaleza simple, indivisible y fundamentalmente unificada de la sustancia mental no física, más que a un proceso físico.",
+    "information_flow_or_representation": "El flujo de información implica una comunicación bidireccional entre las esferas física (estado cerebral) y no física (estado mental).",
+    "evolutionary_account": "No, la conciencia se explica mediante la existencia o creación fundamental del componente no físico, no a través de la evolución filogenética materialista tradicional.",
+    "core_claims_and_evidence": [
+      "La conciencia requiere una sustancia no física separada además del cerebro físico.",
+      "Los estados mentales ejercen influencia causal sobre los estados físicos (causación mental).",
+      "El problema de la interacción percibido a menudo se funda en supuestos obsoletos de la física de bolas de billar del siglo XIX."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico; Fenomenológico; Conceptual."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Altamente especulativo/Difícil de comprobar empíricamente",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principal crítica es el 'problema acuciante' de la causación mental, específicamente el identificar un mecanismo concebible por el cual lo no físico afecta a lo físico. También enfrenta tensiones respecto a la ley física de la conservación de la energía y la clausura causal del ámbito físico.",
+    "open_questions_and_limitations": "La limitación central es proporcionar una explicación coherente del mecanismo de interacción, particularmente en lo referente a posibles violaciones de las leyes físicas o al problema de la sobredeterminación.",
+    "ontological_coherence": "Altamente inconsistente con el materialismo científico contemporáneo, ya que requiere postular dos categorías ontológicas distintas y violar la clausura causal del mundo físico."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No (en su mayoría)",
+      "rationale": "De ser cierta, la conciencia requiere una sustancia no física radicalmente separada (alma) independiente del mundo físico; los sistemas no biológicos no pueden poseer este componente necesario."
+    },
+    "survival_beyond_death": {
+      "stance": "Sí",
+      "rationale": "El dualismo postula una sustancia no física separada (el alma) que es independiente del cerebro biológico y, por lo tanto, capaz de sobrevivir a la muerte corporal."
+    },
+    "meaning_and_purpose": {
+      "stance": "Sí",
+      "rationale": "Al postular un componente no físico irreducible, la teoría del dualismo interaccionista típicamente respalda un sentido, propósito o valor trascendente, a menudo vinculado a una realidad ampliada."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "La inmortalidad virtual requiere duplicar la mente mediante la duplicación del cerebro físico; este procedimiento fracasaría porque el componente no físico esencial requerido para la conciencia en primera persona estaría ausente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "Teoría contrastante"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Extensión/Alternativa"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "Tipo/Superposición"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Interactionism (philosophy of mind)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Dualism, H. Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Substance of Consciousness: A Comprehensive Defense of Contemporary Substance Dualism, B. Rickabaugh and J.P. Moreland",
+        "year": 2023
+      }
+    ]
+  }
+}

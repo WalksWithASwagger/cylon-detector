@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría de la Identidad Mente-Cerebro",
+    "summary": "Esta teoría filosófica clásica de la conciencia postula que los estados, eventos o procesos mentales son estrictamente idénticos a estados, eventos o procesos específicos que ocurren en el cerebro. Funciona como el ejemplo paradigmático del materialismo al sostener que la conciencia es enteramente física.",
+    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "category": "Materialismo",
+    "subcategory": "Filosófica",
+    "core_identity_tagline": "Los Estados Mentales Son Estados Cerebrales",
+    "classification_tags": [
+      "identity",
+      "reductionism",
+      "physicalism",
+      "classical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia (los estados/procesos mentales) es literalmente idéntica a los estados/procesos físicos del cerebro. Se trata de una afirmación de identidad en sentido fuerte, similar a comparar el Lucero del Alba y el Lucero Vespertino con Venus.",
+    "ontological_status": "Fisicalismo/Materialismo Reductivo",
+    "mind_body_relationship": "Teoría de la identidad: los eventos mentales y los eventos físicos son la misma cosa, radicalmente idénticos, lo que significa que los 'dos' no pueden separarse.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil",
+    "subjectivity_and_intentionality": "La subjetividad y la intencionalidad son estrictamente idénticas a ciertos estados físicos. La postura implica que preguntar por qué una sensación acompaña a un estado físico está mal planteado, porque son una y la misma cosa.",
+    "qualia_account": "Los qualia (la experiencia sentida), como el dolor o ver el rojo, son literalmente idénticos a estados físicos específicos del cerebro, como el disparo de neuronas específicas de nocicepción.",
+    "ontological_commitments": "Estados y procesos físicos del cerebro. La teoría se compromete con que la conciencia sea enteramente física.",
+    "epistemic_access": "El conocimiento de estas identidades se basa en la investigación empírica a posteriori, requiriendo que la ciencia descubra qué estados físicos corresponden a qué estados mentales.",
+    "constituents_and_structure": "La conciencia consiste en los estados y procesos físicos específicos que se encuentran en el cerebro, organizados de manera que son sinónimos de estados mentales."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica, de Acceso",
+    "distinctive_mechanism_or_principle": "El principio de una relación de identidad rigurosa aplicado para correlacionar tipos mentales (por ejemplo, el dolor) con tipos físicos (por ejemplo, el disparo de fibras C).",
+    "dynamics_of_emergence": "La conciencia es una consecuencia de procesos biológicos, identificada específicamente con la dinámica física del cerebro.",
+    "location_and_distribution": "Localizada enteramente dentro del cerebro.",
+    "causation_and_functional_role": "La causación mental queda resuelta implícitamente porque los estados mentales son estados físicos, que poseen eficacia causal y roles funcionales.",
+    "integration_or_binding": "La integración se realiza en la organización compleja del estado cerebral físico idéntico. Como afirmación filosófica, no especifica un mecanismo neurobiológico distinto para la vinculación.",
+    "information_flow_or_representation": "El contenido o las representaciones mentales son equivalentes a los estados físicos que los encarnan, ajustándose a las leyes físicas.",
+    "evolutionary_account": "La conciencia es un producto físico evolucionado que surge de cerebros biológicos.",
+    "core_claims_and_evidence": [
+      "Los estados mentales son estrictamente idénticos a estados cerebrales.",
+      "Esta identidad se descubre a posteriori mediante evidencia empírica que vincula eventos mentales (por ejemplo, el dolor) con actividad neuronal específica."
+    ],
+    "basis_of_belief_or_evidence_type": "Inferencia filosófica respaldada por evidencia empírica acumulada de correlación."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable en principio mediante el mapeo de correlaciones entre estados mentales y físicos específicos.",
+    "known_empirical_interventions_or_tests": "Evidencia de correlación empírica (por ejemplo, vinculando el dolor con el disparo de neuronas específicas de nocicepción).",
+    "criticisms_and_tensions": "Generalmente se considera socavada en su forma original por objeciones, sobre todo la realizabilidad múltiple (el mismo estado mental podría realizarse mediante mecanismos físicos distintos). El desafío filosófico central es la 'brecha explicativa', o por qué los estados cerebrales se sienten como algo.",
+    "open_questions_and_limitations": "La teoría tiene dificultades para resolver la intuición de que los zombis filosóficos (criaturas físicamente idénticas pero carentes de conciencia) son concebibles, lo que implica que los 'dos' pueden separarse. No distingue claramente qué tipos de actividad neuronal constituyen la conciencia.",
+    "ontological_coherence": "Muy coherente dentro de una ontología fisicalista reductiva estricta, pero enfrenta tensión con las intuiciones fenomenológicas básicas sobre la subjetividad y los qualia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sí",
+      "rationale": "Dado que la TIMC afirma que la conciencia es reducible a procesos físicos, si esos procesos físicos específicos pueden reproducirse en un sustrato artificial no biológico, la conciencia queda necesariamente instanciada."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia es estrictamente idéntica a la integridad funcional y física del cerebro; su disolución con la muerte provoca la cesación permanente del yo consciente."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "Como teoría materialista, la TIMC no implica sentido ni propósito cósmico último. El sentido y el valor son propiedades emergentes creadas por agentes humanos conscientes."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Si la conciencia (el patrón físico preciso) puede escanearse y duplicarse/subirse perfectamente a un nuevo medio físico (digital o de otro tipo), la teoría garantiza la supervivencia del yo consciente idéntico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Tye’s Contingentism",
+        "relationship": "Influencia"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mind/brain identity theory, J.J.C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "We must shed our metaphysical assumptions, David Papineau",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Mind-Brain Identity Theory, István Aranyosi",
+        "year": ""
+      }
+    ]
+  }
+}

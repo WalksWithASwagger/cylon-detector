@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "El Neurofuncionalismo de Prinz: La Atención Engendra la Experiencia",
+    "summary": "Esta teoría sostiene que la conciencia surge de la atención, que facilita el flujo de información perceptual hacia los sistemas de memoria en una etapa intermedia del procesamiento. Este proceso depende fundamentalmente del disparo neuronal sincronizado y da como resultado una representación integrada del estímulo que conserva el punto de vista.",
+    "associated_thinkers": ["Jesse Prinz"],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "La Conciencia como Representación Intermedia Atendida",
+    "classification_tags": [
+      "attention",
+      "neurofunctionalism",
+      "perceptual",
+      "representational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica con el proceso mediante el cual una representación integrada del estímulo que conserva el punto de vista se vuelve disponible para la memoria de trabajo debido al mecanismo de la atención.",
+    "ontological_status": "Fisicalismo Reductivo",
+    "mind_body_relationship": "Prinz postula una \"respuesta neurofuncional\" al problema mente-cuerpo, que combina los roles funcionales con su realización neurobiológica subyacente, de modo que los estados mentales quedan plenamente contenidos dentro del materialismo.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil",
+    "subjectivity_and_intentionality": "La subjetividad es intrínseca al 'formato que conserva el punto de vista' de la representación que el proceso de atención pone a disposición. Toda la conciencia es perceptual, lo que significa que la intencionalidad (la direccionalidad) es clave, pero la autoconciencia no se experimenta directamente.",
+    "qualia_account": "La teoría intenta sintetizar los hallazgos empíricos para ofrecer una explicación materialista completa que contrarreste el problema difícil. Los qualia se explican como las representaciones integradas que resultan del proceso de atención.",
+    "ontological_commitments": "El disparo neuronal sincronizado, las etapas de procesamiento perceptual y las representaciones de información.",
+    "epistemic_access": "Es accesible mediante la exploración empírica y el modelado con base neurocientífica, que combina datos funcionales y neurobiológicos.",
+    "constituents_and_structure": "Los componentes fundamentales son representaciones integradas en una etapa intermedia del procesamiento, restringidas y posibilitadas por el disparo neuronal sincronizado."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica, Perceptual.",
+    "distinctive_mechanism_or_principle": "La atención, que modifica el flujo de información utilizando el disparo neuronal sincronizado para poner representaciones de información perceptual intermedia a disposición de los sistemas de memoria.",
+    "dynamics_of_emergence": "La conciencia es un proceso dinámico que surge cuando la información perceptual alcanza la etapa 'intermedia' específica y el mecanismo de atención actúa sobre ella.",
+    "location_and_distribution": "Localizada en una etapa específica e intermedia del procesamiento perceptual.",
+    "causation_and_functional_role": "La conciencia es causalmente eficaz, y cumple la función de poner la información perceptual fácilmente disponible para los sistemas que permiten un comportamiento flexible.",
+    "integration_or_binding": "La integración se logra mediante el proceso de atención, que unifica las propiedades del estímulo en un único formato, que conserva el punto de vista, accesible para la memoria de trabajo.",
+    "information_flow_or_representation": "El flujo de información se modifica mediante la atención para otorgar acceso a los sistemas de memoria, y la conciencia depende enteramente de representaciones integradas.",
+    "evolutionary_account": "La conciencia evolucionó para poner la información perceptual a disposición de los sistemas que permiten un comportamiento flexible, aportando una ventaja adaptativa. (Justificación: basada en la función explícitamente declarada de la conciencia de permitir un comportamiento flexible.)",
+    "core_claims_and_evidence": [
+      "La conciencia depende de la atención y surge en la etapa intermedia del procesamiento perceptual.",
+      "Este proceso depende del disparo neuronal sincronizado.",
+      "Toda experiencia consciente es perceptual, y sirve para permitir un comportamiento flexible.",
+      "La teoría ofrece una explicación completa dentro del materialismo, resolviendo el problema difícil de Chalmers."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurocientífica, Funcional, Filosófica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable",
+    "known_empirical_interventions_or_tests": "La teoría cuenta con el respaldo de evidencia que vincula el disparo neuronal sincronizado con la unidad y la duración temporal de la experiencia, lo que sirve de base para sus afirmaciones neurobiológicas.",
+    "criticisms_and_tensions": "La afirmación de Prinz de contar con una 'teoría satisfactoria y sorprendentemente completa' enteramente dentro del materialismo es rechazada por críticos como David Chalmers, quien sostiene que ninguna explicación puramente física puede dar cuenta de la experiencia consciente.",
+    "open_questions_and_limitations": "La limitación central, abordada por la propia teoría, es convencer a los críticos (como Chalmers) de que una descripción puramente funcional y neurobiológica basta para explicar la experiencia fenoménica, a pesar de los argumentos filosóficos en contra del fisicalismo.",
+    "ontological_coherence": "Altamente coherente, ya que combina explícitamente el funcionalismo y la neurobiología en un marco materialista consistente, con el objetivo de resolver los desafíos dualistas tradicionales."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Dado que la teoría identifica la conciencia como un proceso neurofuncional específico de poner información a disposición de la memoria mediante la atención, esta función computacional debería ser alcanzable en sistemas no biológicos suficientemente avanzados."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como teoría contenida enteramente dentro del materialismo, la conciencia depende por completo y es generada por la organización y los procesos biológicos del cerebro (por ejemplo, el disparo neuronal sincronizado), y cesa con la destrucción del cerebro."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "La función de la conciencia es pragmática: poner la información perceptual a disposición para un comportamiento flexible. Opera dentro de un paradigma materialista que, por lo general, implica que el sentido y el propósito son autocreados, no cósmicos."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Dado su fundamento en el neurofuncionalismo y su aspiración a una explicación materialista completa, la duplicación funcional perfecta del sistema representacional basado en la atención en un sustrato no biológico debería preservar el yo consciente original en primera persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Chalmers’s hard problem of consciousness",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Coincidencia"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Brain: How Attention Engenders Experience, Jesse J. Prinz",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The conscious brain, Christopher Mole",
+        "year": 2013
+      }
+    ]
+  }
+}

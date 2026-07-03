@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Théories d'ordre supérieur de la conscience",
+    "summary": "Les théories d'ordre supérieur (HOT) postulent que ce qui rend une perception consciente est la présence d'un état cognitif l'accompagnant, portant sur cette perception. Ce mécanisme est un processus à deux niveaux, où la conscience phénoménale est la saisie de niveau supérieur des perceptions ou états mentaux de premier ordre.",
+    "associated_thinkers": [
+      "Peter Carruthers",
+      "David Rosenthal",
+      "Joseph LeDoux",
+      "Hakwan Lau"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Représentationnelle",
+    "core_identity_tagline": "La conscience comme représentation d'ordre supérieur",
+    "classification_tags": [
+      "representation",
+      "cognitive",
+      "two-level process",
+      "inner-sense theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience phénoménale est identifiée à la saisie ou représentation de niveau supérieur (un état cognitif ou une pensée) dirigée vers un état mental ou une perception de premier ordre.",
+    "ontological_status": "Physicalisme réductif/fonctionnalisme (justification : en tant que théorie matérialiste, elle réduit la conscience à des processus fonctionnels/cognitifs mis en œuvre par le cerveau, souvent formulés en termes mentalistes).",
+    "mind_body_relationship": "La conscience naît de la relation causale entre deux niveaux mentaux (états de premier et de second ordre), tous deux entièrement réalisés par des processus physiques dans le cerveau.",
+    "primitive_or_emergent_status": "Émergente",
+    "emergence_type": "Émergence faible (justification : en tant que théorie matérialiste centrale, la conscience est considérée comme réductible en principe, même si la réduction est formulée en termes mentalistes ou fonctionnels plutôt qu'en neurophysiologie directe).",
+    "subjectivity_and_intentionality": "La subjectivité naît lorsque l'état de premier ordre est l'objet d'une pensée de second ordre, conférant une dimension d'« apparence » ou de conscience de soi. L'intentionnalité opère aux deux niveaux : de premier ordre (concernant le monde) et de second ordre (concernant l'état de premier ordre).",
+    "qualia_account": "Les qualia, ou caractère phénoménal, s'expliquent par la présence de l'état cognitif d'ordre supérieur accompagnant la perception, dans le but d'expliquer réductivement la conscience phénoménale en termes mentalistes.",
+    "ontological_commitments": "Les états mentaux de premier ordre (perceptions/sensations), les états cognitifs de second ordre (pensées/représentations), et les réseaux corticaux complexes (par exemple, le cortex préfrontal) qui instancient ces représentations.",
+    "epistemic_access": "Accessible par l'introspection (les états conscients étant des états dont nous avons conscience) et par la modélisation en troisième personne des architectures cognitives et des motifs d'activation neuronale corrélés (par exemple, le monitorage perceptif de la réalité).",
+    "constituents_and_structure": "Une structure de traitement à deux niveaux, comprenant des représentations de premier ordre (information sensorielle) et des représentations cognitives de second ordre (pensées ou perceptions) dirigées vers ces états de premier ordre."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale ; la conscience de soi (en tant que conscience de ses propres états) ; la conscience émotionnelle (dans la variante de LeDoux).",
+    "distinctive_mechanism_or_principle": "La présence d'un état cognitif ou méta-état l'accompagnant (la représentation ou pensée d'ordre supérieur) qui cible un état mental de niveau inférieur, le transformant ainsi de non conscient en conscient.",
+    "dynamics_of_emergence": "La conscience est un phénomène dynamique et processuel naissant de la relation à deux niveaux entre la représentation sensorielle et la structure cognitive de surveillance (par exemple, la causation effective dans la HOT actualiste, ou la disponibilité dans la HOT dispositionnaliste).",
+    "location_and_distribution": "Localisée principalement dans les régions corticales associées à la fonction cognitive d'ordre supérieur et à la métacognition, comme le cortex préfrontal (CPF), par contraste avec les théories de « l'arrière de la tête ».",
+    "causation_and_functional_role": "L'état d'ordre supérieur confère la conscience à l'état de niveau inférieur (HOT actualiste). Le rôle fonctionnel consiste typiquement à rendre le contenu de la perception de premier ordre disponible pour un traitement cognitif flexible et un compte rendu.",
+    "integration_or_binding": "L'intégration est présumée se produire, peut-être implicitement par l'intégration fonctionnelle permise par la représentation d'ordre supérieur unifiée, ou par des mécanismes de mémoire reliant les représentations perceptives (comme noté dans la variante de Lau).",
+    "information_flow_or_representation": "La conscience est réalisée par un flux d'information aboutissant à des représentations de représentations (représentations de second ordre) qui « étiquettent » ou catégorisent l'entrée sensorielle de premier ordre.",
+    "evolutionary_account": "Les mécanismes conscients auraient évolué à partir de processus plus simples, permettant potentiellement des expériences émotionnelles complexes et une conscience centrée sur soi grâce à des réseaux cognitifs généraux d'origine corticale.",
+    "core_claims_and_evidence": [
+      "La conscience phénoménale est médiée par un état cognitif portant sur la perception (processus à deux niveaux).",
+      "Les états conscients se distinguent des états non conscients par la présence d'une représentation d'ordre supérieur.",
+      "La vision aveugle (blindsight) s'explique par l'existence d'une représentation de premier ordre sans la représentation d'ordre supérieur correspondante."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (expliquant la distinction conscient/non conscient), cognitive, modélisation neuroscientifique (par exemple, études sur la vision aveugle)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable (en particulier en ce qui concerne la différence entre le traitement de premier ordre et l'activité corticale d'ordre supérieur correspondante).",
+    "known_empirical_interventions_or_tests": "Des données empiriques sont souvent recherchées par la comparaison entre perception consciente et perception non consciente (comme la vision aveugle) pour tester l'existence ou l'activité de la représentation d'ordre supérieur requise.",
+    "criticisms_and_tensions": "Critiquée pour la difficulté à préciser la relation exacte requise entre la pensée d'ordre supérieur et la perception de premier ordre pour conférer la conscience, ce qui entraîne des insuffisances dans la description du contenu. L'approche de la « double représentation » est perçue comme conceptuellement mystérieuse.",
+    "open_questions_and_limitations": "La nature précise de la relation devant exister entre un état d'ordre supérieur et une perception de premier ordre pour que la conscience émerge demeure une question ouverte. La théorie se heurte également à l'objection générale concernant le fossé explicatif s'agissant des qualia.",
+    "ontological_coherence": "Hautement cohérente au sein d'une ontologie physicaliste/matérialiste et fonctionnaliste, s'appuyant sur des concepts scientifiquement traitables comme la représentation et les états cognitifs."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "En tant que théorie matérialiste fondée sur des structures cognitives et représentationnelles, la conscience est fondamentalement computationnelle ou fonctionnelle, ce qui signifie que des systèmes d'IA avancés capables d'auto-surveillance et de formation de représentations de haut niveau pourraient accéder à la conscience."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est entièrement réalisée par des mécanismes cérébraux complexes d'origine corticale ; elle ne peut donc pas subsister au-delà de la dégradation du substrat biologique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "Naissant de processus biologiques émergents, la conscience procure l'autoréflexion et l'agentivité, mais n'implique aucune téléologie cosmique ultime, ce qui s'accorde avec la position déflationniste du matérialisme."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Si la conscience est entièrement définie par des relations représentationnelles et fonctionnelles, une duplication et un téléchargement parfaits de ces états cognitifs complexes dans un support non biologique devraient préserver le soi mental en première personne."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Représentationnalisme de premier ordre",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Théorie du schéma attentionnel (Graziano)",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Théorie de l'espace de travail global",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Théorie de la surveillance perceptive de la réalité de Lau",
+        "relationship": "Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Higher-Order Theories of Consciousness, Peter Carruthers",
+        "year": 2020
+      },
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, Joseph LeDoux and Richard Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      }
+    ]
+  }
+}

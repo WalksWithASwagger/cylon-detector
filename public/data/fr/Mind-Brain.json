@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie de l'identité esprit-cerveau",
+    "summary": "Cette théorie philosophique classique de la conscience postule que les états, événements ou processus mentaux sont strictement identiques à des états, événements ou processus spécifiques se produisant dans le cerveau. Elle fonctionne comme l'exemple paradigmatique du matérialisme en affirmant que la conscience est entièrement physique.",
+    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "category": "Matérialisme",
+    "subcategory": "Philosophique",
+    "core_identity_tagline": "Les états mentaux sont des états cérébraux",
+    "classification_tags": [
+      "identity",
+      "reductionism",
+      "physicalism",
+      "classical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience (les états/processus mentaux) est littéralement identique aux états/processus physiques du cerveau. Il s'agit d'une revendication d'identité au sens fort, comparable à l'assimilation de l'Étoile du matin et de l'Étoile du soir à Vénus.",
+    "ontological_status": "Physicalisme réductif/Matérialisme",
+    "mind_body_relationship": "Théorie de l'identité : les événements mentaux et les événements physiques sont les mêmes choses, radicalement identiques, ce qui signifie que les « deux » ne peuvent se dissocier.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "La subjectivité et l'intentionnalité sont strictement identiques à certains états physiques. Ce point de vue implique que demander pourquoi un ressenti accompagne un état physique est erroné, car ils ne font qu'un.",
+    "qualia_account": "Les qualia (l'expérience ressentie), comme la douleur ou la vision du rouge, sont littéralement identiques à des états physiques spécifiques du cerveau, tels que l'activation de neurones nociceptifs spécifiques.",
+    "ontological_commitments": "Les états et processus physiques du cerveau. La théorie s'engage envers l'idée que la conscience est entièrement physique.",
+    "epistemic_access": "La connaissance de ces identités repose sur une investigation empirique a posteriori, exigeant que la science découvre quels états physiques correspondent à quels états mentaux.",
+    "constituents_and_structure": "La conscience est constituée des états et processus physiques spécifiques présents dans le cerveau, organisés de manière à être synonymes des états mentaux."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale, accès",
+    "distinctive_mechanism_or_principle": "Le principe d'une relation d'identité rigoureuse appliquée pour corréler des types mentaux (par exemple, la douleur) avec des types physiques (par exemple, l'activation des fibres C).",
+    "dynamics_of_emergence": "La conscience est une conséquence de processus biologiques, spécifiquement identifiée avec la dynamique physique du cerveau.",
+    "location_and_distribution": "Entièrement localisée dans le cerveau.",
+    "causation_and_functional_role": "La causalité mentale est implicitement résolue car les états mentaux sont des états physiques, qui possèdent une efficacité causale et des rôles fonctionnels.",
+    "integration_or_binding": "L'intégration est réalisée dans l'organisation complexe de l'état cérébral physique identique. En tant que revendication philosophique, elle ne spécifie pas de mécanisme neurobiologique distinct pour le liage.",
+    "information_flow_or_representation": "Le contenu mental ou les représentations équivalent aux états physiques qui les incarnent, en conformité avec les lois physiques.",
+    "evolutionary_account": "La conscience est un produit physique évolué naissant des cerveaux biologiques.",
+    "core_claims_and_evidence": [
+      "Les états mentaux sont strictement identiques aux états cérébraux.",
+      "Cette identité est découverte a posteriori grâce à des données empiriques reliant les événements mentaux (par exemple, la douleur) et une activité neuronale spécifique."
+    ],
+    "basis_of_belief_or_evidence_type": "Inférence philosophique soutenue par des preuves empiriques croissantes de corrélation."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable en principe en établissant des corrélations entre des états mentaux et physiques spécifiques.",
+    "known_empirical_interventions_or_tests": "Preuves de corrélation empirique (par exemple, reliant la douleur à l'activation de neurones nociceptifs spécifiques).",
+    "criticisms_and_tensions": "Généralement considérée comme affaiblie dans sa forme originale par des objections, notamment la réalisabilité multiple (le même état mental pourrait être réalisé par différents mécanismes physiques). Le défi philosophique central est le « fossé explicatif », ou pourquoi les états cérébraux procurent une sensation particulière.",
+    "open_questions_and_limitations": "La théorie peine à résoudre l'intuition selon laquelle les zombies philosophiques (des créatures physiquement identiques mais dépourvues de conscience) sont concevables, ce qui implique que les « deux » peuvent se dissocier. Elle ne distingue pas clairement quels types d'activité neuronale constituent la conscience.",
+    "ontological_coherence": "Hautement cohérente au sein d'une ontologie physicaliste strictement réductive, mais confrontée à une tension avec les intuitions phénoménologiques fondamentales concernant la subjectivité et les qualia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "Puisque la théorie de l'identité esprit-cerveau affirme que la conscience est réductible à des processus physiques, si ces processus physiques spécifiques peuvent être reproduits dans un substrat artificiel non biologique, la conscience est nécessairement instanciée."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est strictement identique à l'intégrité fonctionnelle et physique du cerveau ; sa dissolution à la mort entraîne la cessation permanente du soi conscient."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie matérialiste, la théorie de l'identité esprit-cerveau n'implique aucun sens ou finalité cosmique ultime. Le sens et la valeur sont des propriétés émergentes créées par les agents conscients humains."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Si la conscience (le motif physique précis) peut être scannée et parfaitement dupliquée/téléchargée dans un nouveau support physique (numérique ou autre), la théorie garantit la survie du soi conscient identique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Tye’s Contingentism",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mind/brain identity theory, J.J.C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "We must shed our metaphysical assumptions, David Papineau",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Mind-Brain Identity Theory, István Aranyosi",
+        "year": ""
+      }
+    ]
+  }
+}

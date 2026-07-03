@@ -1,0 +1,141 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie sensorimotrice (énactive) de la conscience (la conception « Out of Our Heads » de Noë)",
+    "summary": "Cette théorie rejette l'hypothèse selon laquelle la conscience se produirait exclusivement à l'intérieur du cerveau, soutenant que les processus cérébraux internes à eux seuls sont insuffisants pour engendrer l'expérience. La conscience est fondamentalement une activité, un processus mis en œuvre par l'interaction dynamique, continue et habile entre le cerveau, le corps et l'environnement.",
+    "associated_thinkers": [
+      "Alva Noë",
+      "Kevin O’Regan"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Relationnelle",
+    "core_identity_tagline": "La conscience comme interaction active avec le monde",
+    "classification_tags": [
+      "relational",
+      "embodied",
+      "enactive",
+      "externalism",
+      "activity"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme l'activité consistant à surveiller, à rester en contact, à prêter attention et à interagir avec le monde. C'est le processus d'accès qui permet au monde de « se manifester » pour l'organisme, défini par un engagement actif.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "L'esprit est l'activité engendrée par le cerveau, le corps et l'environnement fonctionnant ensemble. Le cerveau fournit le substrat mécanique nécessaire mais n'est pas suffisant pour la conscience ; il est le lieu des symboles, non la conscience elle-même.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "La subjectivité (la façon dont le monde « se manifeste pour nous ») et l'intentionnalité naissent de l'engagement actif et habile de l'organisme avec l'environnement, influencé par le contexte, l'intérêt, la connaissance et la compréhension.",
+    "qualia_account": "Les qualia sont implicitement considérés comme faisant partie de la densité, du détail et de la robustesse des expériences réelles qui naissent de l'interaction continue avec le monde, ce qui distingue la conscience véritable de la simple expérience onirique.",
+    "ontological_commitments": "L'environnement physique, le cerveau/corps biologique, et l'interaction/activité dynamique entre eux.",
+    "epistemic_access": "L'accès exige de regarder au-delà de la tête, vers le rôle proactif de l'organisme et son acquisition de compétences dans le monde, en déplaçant l'attention des événements cérébraux internes vers l'action et l'interaction externes.",
+    "constituents_and_structure": "Le système dynamique et interconnecté comprenant le cerveau, les systèmes sensorimoteurs du corps et l'environnement extérieur."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale, agentivité, accès (en tant qu'accomplissement)",
+    "distinctive_mechanism_or_principle": "L'engagement actif et continu entre l'organisme et son environnement. La conscience est située dans cette boucle d'interaction/activité, et non dans le seul état cérébral interne.",
+    "dynamics_of_emergence": "La conscience est un processus dynamique consistant à rester en contact et à interagir avec le monde, continuellement mis en œuvre par l'organisme.",
+    "location_and_distribution": "Distribuée à travers l'ensemble du système formé par le cerveau, le corps et l'environnement ; située « hors de nos têtes ».",
+    "causation_and_functional_role": "La conscience est proactive, permettant à l'organisme d'accéder au monde et de le mettre en œuvre, servant à guider une action délibérée, contextuelle et habile en vue de la survie et de la compréhension.",
+    "integration_or_binding": "L'intégration s'accomplit par la cohérence avec laquelle le monde « se manifeste pour nous », grâce à l'implication active et habile de l'organisme et à son attention portée au monde.",
+    "information_flow_or_representation": "L'information est accédée et façonnée de manière proactive par l'interaction et les compétences de l'organisme, définissant le sens de l'environnement.",
+    "evolutionary_account": "La conscience serait apparue pour permettre l'accès au monde et médiatiser le sens par une interaction incarnée et habile, ce qui suggère un net avantage adaptatif pour la survie.",
+    "core_claims_and_evidence": [
+      "La conscience est l'activité d'engagement continu avec le monde.",
+      "La densité et la robustesse de l'expérience réelle (par contraste avec les rêves) confirment la nécessité de l'interaction externe.",
+      "Le cerveau est le lieu mécanique des symboles, mais l'activité elle-même est la conscience."
+    ],
+    "basis_of_belief_or_evidence_type": "Argument philosophique, intuition phénoménologique, critique de l'internalisme traditionnel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principale tension consiste à expliquer précisément comment l'interaction constitue la conscience en un sens fort, plutôt que de simplement la permettre ou l'influencer. Les critiques rejettent l'idée que l'étude des événements cérébraux internes soit insuffisante pour comprendre la conscience.",
+    "open_questions_and_limitations": "La théorie manque d'une définition claire de la façon dont l'interaction/activité externe constitue l'expérience intérieure ou les qualia, et de la façon de distinguer rigoureusement cette activité du simple traitement non conscient.",
+    "ontological_coherence": "Cohérente au sein d'un cadre philosophique externaliste et incarné, remettant directement en cause les postulats fondamentaux de l'internalisme matérialiste et du dualisme."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Incertaine/Conditionnelle",
+      "rationale": "Le calcul standard est insuffisant ; la conscience n'est possible que si les systèmes d'IA parviennent à une incarnation complète, à des compétences et à une interaction continue et autonome avec un monde (répondant aux mêmes exigences que celles imposées aux organismes vivants)."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est inséparable de la boucle physique continue et active impliquant le cerveau et le corps interagissant avec le monde ; sa cessation signifie la fin de l'activité consciente."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "La conscience permet à l'agent d'acquérir contexte, connaissance et compréhension, lui conférant la capacité d'attribuer du sens aux interactions et de guider un comportement proactif, mais elle n'implique aucun dessein transcendant."
+    },
+    "virtual_immortality": {
+      "stance": "Hautement improbable",
+      "rationale": "Le téléchargement des seuls processus internes du cerveau (le « lieu mécanique ») ne peut capturer l'activité interactive externe et continue, non circonscrite au cerveau, que constitue la conscience selon cette définition."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Énactivisme (Varela et Thompson)",
+        "relationship": "Cadre constitutif"
+      },
+      {
+        "name": "Psychologie écologique (James J. Gibson)",
+        "relationship": "Influence fondatrice"
+      },
+      {
+        "name": "Phénoménologie incarnée (Maurice Merleau-Ponty)",
+        "relationship": "Influence philosophique"
+      },
+      {
+        "name": "Hypothèse de l'esprit étendu (Andy Clark et David Chalmers)",
+        "relationship": "Partiellement compatible / chevauchement"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception et circuits partagés",
+        "relationship": "Apparentée / complémentaire (perception active, modèle des circuits partagés)"
+      },
+      {
+        "name": "Matérialisme internaliste",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Dualisme",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Is consciousness an illusion, Alva Noë",
+        "year": 2007
+      },
+      {
+        "title_with_names": "O’Regan, K., & Noë, A. A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–1031.",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Noë, A. Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness.",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Varela, F., Thompson, E., & Rosch, E. The Embodied Mind: Cognitive Science and Human Experience.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Gibson, J.J. The Ecological Approach to Visual Perception.",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Hurley, S. L. (1998). Consciousness in Action. Harvard University Press."
+      },
+      {
+        "title_with_names": "Hurley, S. (2008). The Shared Circuits Model (SCM): How control, mirroring, and simulation can enable imitation, deliberation, and mindreading. Behavioral and Brain Sciences, 31(1)."
+      }
+    ]
+  }
+}

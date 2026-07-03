@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Le naturalisme constructif de Flanagan",
+    "summary": "Cette théorie affirme que la conscience humaine n'est ni miraculeuse ni mystérieuse, offrant une vision synthétique puissante où les aspects subjectifs et phénoménaux sont pleinement reconnus tout en étant entièrement expliqués par leurs bases neuronales, résidant sans reste dans le cerveau. Flanagan cherche à concilier une métaphysique naturaliste de l'esprit avec la compréhension grandissante du fonctionnement du cerveau.",
+    "associated_thinkers": [
+      "Owen Flanagan"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Philosophique",
+    "core_identity_tagline": "« La conscience comme naturalisme constructif neurophilosophique »",
+    "classification_tags": [
+      "physicalism",
+      "neurophilosophy",
+      "emergence",
+      "subjectivity",
+      "causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme un ensemble hétérogène d'événements et de processus partageant la propriété d'être vécus ; fondamentalement, l'esprit et le cerveau ne font qu'un.",
+    "ontological_status": "Physicalisme / Naturalisme constructif",
+    "mind_body_relationship": "L'esprit et le cerveau sont identiques, n'étant qu'une seule et même chose vue sous deux perspectives différentes ; le fossé entre les points de vue subjectif et objectif est épistémique, non ontologique.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence forte (Flanagan reconnaît des propriétés naturelles émergentes qui, bien qu'obéissant aux lois physiques, ne sont pas réductibles à la physique.)",
+    "subjectivity_and_intentionality": "La conscience subjective est réelle et joue un rôle causal important. La subjectivité s'accumule à la première personne car les individus possèdent une intégrité organismique. L'intentionnalité est implicitement expliquée par le fait que le cerveau est une « machine darwinienne » où l'holisme du sens est vrai.",
+    "qualia_account": "Les aspects subjectifs et phénoménaux de la conscience se voient pleinement reconnus comme réels, bien qu'il soit conseillé de se méfier d'une dépendance exclusive à la phénoménologie, car elle peut favoriser des illusions sur la nature de la conscience.",
+    "ontological_commitments": "La réalité matérielle ; les cerveaux biologiques complexes (décrits comme des « machines darwiniennes » de processeurs parallèles) ; les propriétés naturelles émergentes.",
+    "epistemic_access": "Par l'intégration neurophilosophique de la métaphysique naturaliste et des neurosciences empiriques, tout en reconnaissant que l'auto-rapport peut être erroné.",
+    "constituents_and_structure": "La conscience est un ensemble hétérogène de processus vécus réalisés dans le cerveau, lequel est envisagé comme un système massivement bien connecté de processeurs parallèles interagissant abondamment."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale, la subjectivité, le rôle causal/l'agentivité.",
+    "distinctive_mechanism_or_principle": "La conscience naît de propriétés naturelles émergentes au sein du cerveau qui facilitent la causalité mentale, par exemple des idées naissant dans une région corticale (le cortex préfrontal) faisant appel à des informations d'une autre (le cortex associatif pariétal).",
+    "dynamics_of_emergence": "La conscience est un ensemble dynamique d'événements et de processus naissant de l'interaction massive et parallèle des processeurs au sein du cerveau.",
+    "location_and_distribution": "Réside sans reste dans le cerveau.",
+    "causation_and_functional_role": "La pensée consciente joue un rôle causal important dans l'exécution de l'action, rejetant directement l'épiphénoménalisme. La causalité mentale est liée au cerveau, dépendant de mécanismes neuronaux.",
+    "binding_and_unity": "L'unité et le liage sont implicitement réalisés par la fonction du cerveau en tant que « système massivement bien connecté de processeurs parallèles » où l'holisme du sens est atteint.",
+    "information_flow_or_representation": "L'information est traitée de manière holistique au sein du système hautement connecté de processeurs parallèles ; les états mentaux sont réalisés physiquement de manières uniques au sein du cerveau individuel.",
+    "evolutionary_account": "S'appuie implicitement sur l'évolution, envisageant l'esprit comme étant le cerveau, une « machine darwinienne ». L'implication philosophique est explorée à travers le « neuroexistentialisme » — le choc entre les images scientifique et humaniste des personnes."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable (fondée sur la congruence avec les neurosciences grandissantes).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Doit défendre l'affirmation selon laquelle la conscience est réelle et causalement efficace tout en demeurant entièrement liée au cerveau. Doit également traiter le « fossé épistémique » (la différence entre l'apparence à la première personne et la description à la troisième personne) sans postuler un fossé ontologique.",
+    "open_questions_and_limitations": "Le « problème vraiment difficile » pour la théorie consiste à trouver « du sens dans un monde matériel » (« neuroexistentialisme »). Le cadre explicatif repose sur une compréhension du fonctionnement du cerveau « encore sommaire mais grandissante ».",
+    "ontological_coherence": "Cohérente au sein de son cadre défini de naturalisme constructif, unissant l'identité physique à des propriétés émergentes non réductives. Elle s'oppose à l'épiphénoménalisme et au matérialisme éliminativiste strict."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "En tant que théorie physicaliste forte où la conscience réside entièrement dans le cerveau, la réalisation des processus neuronaux émergents complexes requis dans des systèmes artificiels permettrait conceptuellement la conscience de l'IA."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est entièrement constituée par des processus cérébraux physiques et leurs propriétés émergentes, interdisant toute survie après la destruction du substrat biologique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "Le fondement matérialiste implique l'absence de finalité cosmique ultime. Flanagan aborde les préoccupations existentielles liées à la recherche de « sens dans un monde matériel » (neuroexistentialisme), suggérant que le but doit être auto-créé."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Si le soi conscient est identique aux processus complexes du cerveau (y compris les propriétés émergentes et les rôles causaux), une réplication parfaite et avancée de ce système dans des supports non biologiques devrait, en principe, réaliser l'immortalité virtuelle."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Emergence",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Reconsidered, Owen Flanagan",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Problem of the Soul, Owen Flanagan",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Really Hard Problem: Meaning in a Material World, Owen Flanagan",
+        "year": 2007
+      }
+    ]
+  }
+}

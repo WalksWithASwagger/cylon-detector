@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría Causal de las Vistas de Smolin",
+    "summary": "Esta teoría propone una completitud relacional y realista de la teoría cuántica, afirmando que el universo se construye fundamentalmente a partir de una colección de 'vistas de eventos', definidas por la información disponible desde su pasado causal. La conciencia se identifica con las vistas raras, específicas, que son sin precedentes o únicas en la historia universal.",
+    "associated_thinkers": ["Lee Smolin"],
+    "category": "Teorías Cuánticas",
+    "subcategory": "Teoría Cuántica Relacional/Causal",
+    "core_identity_tagline": "La Conciencia como Vistas Causales Novedosas o Únicas",
+    "classification_tags": [
+      "relational physics",
+      "quantum theory",
+      "realism",
+      "restricted panpsychism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Se propone que la conciencia es un aspecto de (o idéntica a) las vistas de eventos que son novedosas o únicas dentro de la historia universal. Este enfoque integra los qualia directamente en la física.",
+    "ontological_status": "Fisicalismo Relacional Realista/Panpsiquismo Restringido. La teoría se plantea como una completitud 'realista' de la mecánica cuántica que resulta en una forma restringida de panpsiquismo.",
+    "mind_body_relationship": "La mente (percepciones/qualia conscientes) es un aspecto de la realidad física subyacente, específicamente de las 'vistas de eventos', que son los seres (beables) de la teoría.",
+    "primitive_or_emergent_status": "Primitivo/fundamental (para las vistas novedosas). La conciencia se define como un aspecto fundamental de entidades relacionales específicas (vistas), seleccionadas por un principio físico, en lugar de emerger de procesos físicos complejos.",
+    "emergence_type": "Principio de selección/aspecto fundamental. La conciencia no surge mediante una acumulación estándar, sino a través de una distinción física entre estados relacionales comunes (rutinarios) y novedosos (únicos).",
+    "subjectivity_and_intentionality": "Una unidad elemental de conciencia es la vista parcial completa del universo vista desde un evento (un 'yo momentáneo'). La subjetividad está así enraizada en la naturaleza perspectival única de la vista causal del evento.",
+    "qualia_account": "Se hipotetiza que los qualia son aspectos de las vistas novedosas de eventos, lo que sirve para incorporarlos en el marco completado de la física.",
+    "ontological_commitments": "Las entidades relacionales llamadas 'vistas de eventos' (definidas por la información de su pasado causal, como la transferencia de energía y momento) son los 'beables' fundamentales del universo.",
+    "epistemic_access": "Se conoce conceptualmente mediante la construcción teórica de una completitud realista de la mecánica cuántica. La comprobación empírica podría ser posible mediante experimentos que involucren sistemas cuánticos, análogos a los propuestos para teorías relacionadas.",
+    "constituents_and_structure": "Los bloques básicos de construcción son las vistas de eventos, que forman un 'universo causal' compuesto de vistas parciales de sí mismo. La conciencia corresponde a la estructura novedosa de estas vistas."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico, autoconciencia (como 'yo momentáneo').",
+    "distinctive_mechanism_or_principle": "Un principio de selección basado físicamente que distingue los eventos conscientes: solo aquellas 'vistas' que son novedosas, sin precedentes o únicas en la historia del universo se asocian con percepciones conscientes.",
+    "dynamics_of_emergence": "La conciencia se asocia con 'instancias o momentos de experiencia consciente' correspondientes a eventos definidos por su historia causal relacional.",
+    "location_and_distribution": "Localizada en eventos raros cuyas vistas causales se consideran novedosas. La distribución sigue un panpsiquismo restringido, donde los aspectos conscientes no son ubicuos sino que están limitados por el principio de selección.",
+    "causation_and_functional_role": "La conciencia es un aspecto intrínseco de los beables relacionales fundamentales. Dado que la teoría integra los qualia en la física, la conciencia es causalmente relevante, aunque su rol funcional preciso (por ejemplo, el control) no se define explícitamente en el material fuente.",
+    "integration_or_binding": "El problema de la integración o vinculación se aborda definiendo la unidad elemental de conciencia como la vista parcial completa del universo vista desde ese evento.",
+    "information_flow_or_representation": "La información, específicamente la historia causal (predecesores, transferencia de energía y momento), es el contenido que define la 'vista' que constituye la unidad consciente.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Los beables de la realidad son las vistas de eventos (información causal).",
+      "La percepción consciente está restringida a las vistas novedosas o únicas de eventos.",
+      "La teoría intenta ser una completitud realista de la mecánica cuántica."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, física teórica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativo, pero potencialmente comprobable de forma conceptual. El trabajo de Smolin apunta a una descripción completa de los procesos físicos, lo que sugiere una integración final con la ciencia empírica.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La complejidad de definir e identificar físicamente las vistas de eventos 'novedosas' o 'únicas' introduce desafíos. Como forma de panpsiquismo restringido, debe conciliar la presencia y ausencia de propiedades fenoménicas entre diferentes tipos de eventos físicos.",
+    "open_questions_and_limitations": "La metodología explícita para aplicar el principio de selección de 'novedad/unicidad' y formalizar el yo momentáneo resultante requiere mayor desarrollo.",
+    "ontological_coherence": "Coherente dentro del marco propuesto, con el objetivo de incorporar los qualia a la física mediante la expansión de la definición de realidad fundamental."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Los sistemas de IA podrían potencialmente alcanzar la conciencia si sus procesos computacionales generan vistas causales de eventos genuinamente novedosas y únicas que cumplan con los criterios de selección, aunque esto no está garantizado para los procesos computacionales rutinarios."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia está ligada a eventos físicos y sus vistas causales en el universo. No se describe ningún mecanismo para que estas vistas persistan de manera independiente una vez que se disuelve el sustrato físico subyacente (el cerebro/la serie de eventos)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Indeterminado",
+      "rationale": "La teoría se centra en la ontología física fundamental de la conciencia (cómo encajan los qualia en la física) y no aborda inherentemente el significado cósmico o la teleología."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "La duplicación digital probablemente reproduciría vistas 'comunes y rutinarias', que se hipotetiza explícitamente que no se correlacionan con percepciones conscientes. La verdadera conciencia virtual requeriría generar novedad, lo cual parece improbable mediante la mera simulación."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Rovelli's Relational Physics",
+        "relationship": "Influencia/solapamiento"
+      },
+      {
+        "name": "Panpsychism (Micropsychism)",
+        "relationship": "Restricción/contraste"
+      },
+      {
+        "name": "Bohm’s Implicate-Explicate Order",
+        "relationship": "Influencia contextual"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On the Place of Qualia in a Relational Universe, Lee Smolin",
+        "year": 2020
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "El Dualismo Tomista de Stump",
+    "summary": "Esta teoría presenta el relato de Santo Tomás de Aquino sobre el alma humana como una forma de dualismo no cartesiano. Postula el alma como un componente esencialmente inmaterial o configuracional que, no obstante, se realiza dentro de componentes materiales, permitiendo la reconciliación de la materialidad humana con la supervivencia del espíritu tras la muerte corporal.",
+    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "category": "Dualisms",
+    "subcategory": "Philosophical",
+    "core_identity_tagline": "Alma Inmaterial No Cartesiana Realizada en la Materia",
+    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia, o el alma/espíritu humano, es una sustancia esencialmente inmaterial o configuracional que se realiza en componentes materiales (el cuerpo).",
+    "ontological_status": "Dualismo de Sustancias (Variante No Cartesiana/Tomista)",
+    "mind_body_relationship": "El alma/espíritu inmaterial se realiza en componentes materiales, dando cabida tanto a la naturaleza material de la persona ('polvo eres') como a la supervivencia del espíritu tras la muerte ('el espíritu volverá a Dios').",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Fuerte/No Reduccionista (Justificación: El alma se describe como conservando una esencia inmaterial que persiste independientemente del cuerpo, lo que indica que no es completamente reducible a los procesos materiales de los que surge).",
+    "subjectivity_and_intentionality": "La subjetividad y la intencionalidad se asientan fundamentalmente en el alma inmaterial/configuracional, como lo evidencia su capacidad de persistir como espíritu tras la disolución corporal.",
+    "qualia_account": "Los qualia se asocian con las propiedades del componente del alma inmaterial/configuracional que se realiza en el cuerpo material.",
+    "ontological_commitments": "Cuerpo material (sujeto a disolución, como el 'polvo') y un alma/espíritu esencialmente inmaterial o configuracional capaz de existencia independiente.",
+    "epistemic_access": "Se accede principalmente a través del argumento filosófico y la interpretación teológica de textos fundacionales o intuiciones relativas a la naturaleza humana y la supervivencia espiritual.",
+    "constituents_and_structure": "La persona humana es una entidad compuesta en la que el alma actúa como la forma o estructura configuracional realizada por los componentes materiales del cuerpo."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Subjetividad en primera persona, identidad personal, supervivencia más allá de la muerte.",
+    "distinctive_mechanism_or_principle": "La naturaleza no cartesiana del alma humana le permite ser inherentemente configuracional, uniendo a la persona física, a la vez que mantiene su existencia independiente como componente inmaterial, dando así cabida tanto a la existencia material como a la supervivencia espiritual.",
+    "dynamics_of_emergence": "El alma se realiza en el cuerpo material durante la vida. Con la muerte, mientras el cuerpo se disuelve ('polvo eres'), el espíritu persiste como el elemento no material ('el espíritu volverá a Dios').",
+    "location_and_distribution": "El alma es intrínsecamente inmaterial o configuracional, pero se realiza o instancia en el cuerpo material durante la vida. Tras la muerte, el alma no está localizada respecto al mundo físico.",
+    "causation_and_functional_role": "La teoría se centra en la ontología más que en la función, pero se implica que la función del alma es necesaria para una identidad personal coherente y su persistencia a través de la vida y más allá.",
+    "integration_or_binding": "El alma/espíritu sirve como el principio unificador y configuracional (forma) que une los componentes materiales en un único ser humano.",
+    "information_flow_or_representation": "La teoría se centra en la composición ontológica (materia y forma/espíritu) más que en mecánicas de procesamiento informacional o representacional.",
+    "evolutionary_account": "La teoría se funda en la filosofía escolástica histórica, pero las interpretaciones modernas probablemente acomodarían la complejidad biológica como una condición necesaria para la realización del alma, permitiendo así la emergencia.",
+    "core_claims_and_evidence": [
+      "El alma es no cartesiana y configuracional, realizada en componentes materiales.",
+      "Un ser humano es un objeto material (en consonancia con Génesis 3:19).",
+      "La persona humana sobrevive a la muerte porque el espíritu continúa existiendo (en consonancia con Eclesiastés 12:7)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico y Teológico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Mayormente conceptual, centrada en la coherencia filosófica y la consistencia metafísica con las doctrinas religiosas sobre la vida y la muerte.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Intenta abordar la crítica filosófica común de que el dualismo cartesiano tradicional se considera ampliamente falso o incoherente, particularmente en lo relativo al problema de la interacción.",
+    "open_questions_and_limitations": "El mecanismo preciso por el cual una esencia inmaterial/configuracional se 'realiza' en componentes materiales, y cómo esta esencia sostiene la conciencia post mortem, queda sin definir en el material fuente.",
+    "ontological_coherence": "Alta coherencia dentro de su marco metafísico tomista definido, específicamente diseñado para armonizar la existencia de un cuerpo material con un elemento espiritual perdurable."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Si la conciencia está ligada a un alma esencialmente inmaterial o configuracional realizada en materia biológica, los sistemas artificiales construidos únicamente a partir de componentes físicos probablemente carecerían de este constituyente no físico necesario, a menos que las leyes psicofísicas que generan el alma pudieran aplicarse a sustratos no biológicos."
+    },
+    "survival_beyond_death": {
+      "stance": "Sí",
+      "rationale": "La teoría está explícitamente construida para dar cabida a la persistencia del espíritu/alma, que es la sede de la conciencia de la persona, tras la disolución del cuerpo."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cósmico/Teológico",
+      "rationale": "El marco está enraizado en la filosofía escolástica cristiana, integrando doctrinas bíblicas sobre la creación y el retorno del espíritu a Dios, proporcionando así un sentido y propósito últimos."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Como variante del dualismo de sustancias que requiere una sustancia no física (el alma), la duplicación únicamente de la estructura física (como en la inmortalidad virtual) omitiría el componente no físico esencial necesario para la continuidad del yo."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Distinción (mientras el dualismo de propiedades niega el dualismo de sustancias, el dualismo tomista busca trascender la dicotomía tradicional entre sustancia y reduccionismo material.)"
+      },
+      {
+        "name": "Substance Dualism (Cartesian)",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "Superposición"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Non-Cartesian Substance Dualism and Materialism Without Reductionism, Eleonore Stump",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Summa Theologiae, St. Thomas Aquinas",
+        "year": "c. 1265-1274"
+      }
+    ]
+  }
+}

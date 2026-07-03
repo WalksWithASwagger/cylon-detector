@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "El Panpsiquismo de Goff",
+    "summary": "Goff argumenta que la conciencia es un rasgo fundamental y ubicuo del mundo físico, posicionándola como la mejor esperanza para resolver el problema difícil que el materialismo no logra abordar. Afirma que las ciencias físicas, con su lenguaje puramente cuantitativo, no pueden dar cuenta de la naturaleza cualitativa (cualitatividad) o del aspecto subjetivo de la experiencia, lo que exige un cambio en nuestra comprensión fundamental de la ciencia (el Error de Galileo).",
+    "associated_thinkers": ["Philip Goff"],
+    "category": "Panpsiquismos",
+    "subcategory": "Panpsiquismo",
+    "core_identity_tagline": "La Conciencia como Rasgo Fundamental y Ubicuo de la Realidad",
+    "classification_tags": [
+      "panpsychism",
+      "cosmopsychism",
+      "qualia",
+      "subjectivity",
+      "russellian monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como un rasgo fundamental y ubicuo del mundo físico. Concretamente, Goff explora el panpsiquismo a través del prisma del Monismo Russelliano, donde las propiedades fenomenales o protomentales son la naturaleza intrínseca de la materia fundamental.",
+    "ontological_status": "Panpsiquismo (a menudo formalizado como una variante del Monismo Russelliano, que conduce al Panpsiquismo Híbrido o al Cosmopsiquismo Agentivo, donde el universo es un agente consciente)",
+    "mind_body_relationship": "La mente (la conciencia/protoconciencia) es la naturaleza intrínseca del mundo físico. Esta relación evita las dificultades causales del dualismo al postular que las propiedades mentales son inseparables del tejido físico, alineándose con un materialismo ampliado.",
+    "primitive_or_emergent_status": "La conciencia es Primitiva/Fundamental en el nivel más bajo de la realidad. Sin embargo, los sujetos humanos de experiencia se consideran entidades Fuertemente Emergentes, mientras que sus propiedades fenomenales son Débilmente Emergentes (Panpsiquismo Híbrido).",
+    "emergence_type": "Emergencia Híbrida (Emergencia Fuerte para los sujetos de experiencia; Emergencia Débil para las propiedades fenomenales).",
+    "subjectivity_and_intentionality": "La subjetividad es un aspecto central e irreducible de la conciencia (lo que significa que la experiencia es 'para alguien') que refuta el materialismo. Las experiencias subjetivas son realizadas por sujetos fuertemente emergentes. La intencionalidad se explica implícitamente dentro del marco de la experiencia fenomenal, aunque no se detalla explícitamente como un mecanismo distinto en las fuentes.",
+    "qualia_account": "Los qualia (cualidades sensoriales o cualitatividad) son propiedades fundamentales de la realidad y no pueden reducirse al lenguaje puramente cuantitativo de la física, el cual tiene una limitación explicativa inherente. El panpsiquismo resuelve el problema difícil postulando que estas cualidades existen fundamentalmente.",
+    "ontological_commitments": "La conciencia (o protoconciencia) como propiedades fundamentales de las entidades físicas. En la variante cosmológica, el propio universo es un individuo consciente último o un agente que responde a valores.",
+    "epistemic_access": "La perspectiva en primera persona y la certeza subjetiva son la evidencia primaria y fundacional de la conciencia, que la ciencia debe incorporar corrigiendo el 'Error de Galileo' (la exclusión de la conciencia de la investigación científica).",
+    "constituents_and_structure": "Los bloques de construcción básicos son las propiedades fenomenales fundamentales o entidades protoconscientes (entidades de nivel micro) o, alternativamente, el universo como una única entidad consciente holística (cosmopsiquismo). Estos elementos se agregan para formar sistemas conscientes complejos, planteando el Problema de la Combinación."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conciencia fenomenal (cualitatividad y subjetividad), el problema difícil de la conciencia, y la teleología cósmica (en el Cosmopsiquismo Agentivo).",
+    "distinctive_mechanism_or_principle": "El principio primario es la necesidad metafísica: la conciencia debe ser fundamental para evitar la brecha explicativa y resolver el problema difícil. En el Cosmopsiquismo Agentivo, la causación teleológica (intención dirigida a un fin) del cosmos consciente explica el ajuste fino.",
+    "dynamics_of_emergence": "El desafío radica en la combinación de propiedades protoconscientes de nivel micro en experiencia consciente de nivel macro, que Goff intenta resolver mediante el Panpsiquismo Híbrido, donde el sujeto emerge fuertemente y las cualidades débilmente.",
+    "location_and_distribution": "La conciencia es ubicua, permeando el mundo físico. En el Cosmopsiquismo, la conciencia fundamental se localiza en el universo como un todo.",
+    "causation_and_functional_role": "En el nivel cósmico (Cosmopsiquismo Agentivo), la conciencia funciona como un agente que explica el ajuste fino cósmico y la aparición de la vida/mente. Para los sujetos individuales, la conciencia es la fuente del valor y la identidad. El problema de la combinación debe resolverse para establecer una causación coherente de los micro- a los macrosujetos."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativo. La teoría busca resolver tensiones conceptuales y metafísicas (como el problema difícil), pero la afirmación fundamental de que la conciencia es ubicua es difícil de comprobar empíricamente, lo que da lugar a críticas de que el panpsiquismo llega a un 'callejón sin salida cognitivo'.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La tensión principal es el Problema de la Combinación: cómo las propiedades microfenoménicas se combinan o agregan para formar propiedades macrofenoménicas complejas (como la conciencia humana). El rechazo de Goff a que las descripciones cuantitativas puedan capturar la cualidad también es criticado por los defensores de las teorías basadas en la información.",
+    "open_questions_and_limitations": "La resolución exitosa del problema de la combinación es necesaria para que la teoría sea viable. Además, explicar por completo cómo surgen sujetos fuertemente emergentes a partir de propiedades fenomenales débilmente emergentes sigue siendo un desafío teórico abierto.",
+    "ontological_coherence": "Alta. La teoría es internamente consistente, al argumentar que adoptar el panpsiquismo permite una postura realista sobre la conciencia mientras se alinea con una comprensión ampliada del fisicalismo, ofreciendo una alternativa parsimoniosa al dualismo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probablemente",
+      "rationale": "Si la conciencia es una propiedad intrínseca de la materia/energía, entonces los componentes físicos de los sistemas de IA poseerían propiedades protoconscientes. La realización de la conciencia plena de la IA dependería de si la tecnología avanzada puede resolver el problema de la combinación en el sustrato artificial."
+    },
+    "survival_beyond_death": {
+      "stance": "Poco probable (posibilidad remota)",
+      "rationale": "Aunque la conciencia es fundamental, la supervivencia de la conciencia individual, unificada y personal (el macrosujeto) es difícil dado que la teoría depende de una estructura organizativa específica (el cerebro) para la macroexperiencia. El éxito depende de si el sujeto emergente persiste fuera del mecanismo biológico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cósmico/Último",
+      "rationale": "El Cosmopsiquismo Agentivo/Teleológico de Goff implica que el propio universo es una mente consciente con intención dirigida a un fin, sugiriendo un sentido y propósito último y cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Probablemente",
+      "rationale": "Dado que el sustrato físico (el hardware digital) está compuesto de componentes fundamentalmente conscientes (protoconciencia), la inmortalidad virtual es alcanzable si la organización consciente (resolviendo el problema de la combinación) puede replicarse perfectamente en el nuevo medio."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Monismo Russelliano", "relationship": "Extensión" },
+      { "name": "Cosmopsiquismo", "relationship": "Extensión" },
+      { "name": "Teoría de la Información Integrada", "relationship": "Crítica" },
+      { "name": "Teorías Materialistas", "relationship": "Crítica" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Galileo’s Error: Foundations for a New Science of Consciousness, Philip Goff",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Why? the Purpose of the Universe, Philip Goff",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Putting consciousness first: replies to critics, Philip Goff",
+        "year": 2021
+      }
+    ]
+  }
+}

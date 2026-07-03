@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "La société de l'esprit de Minsky",
+    "summary": "La théorie postule que la cognition et l'intelligence humaines émergent des interactions parallèles et non conscientes de nombreux éléments fonctionnels spécialisés et semi-indépendants appelés « agents », situés dans le cerveau. La conscience elle-même est considérée comme un « terme fourre-tout », utilisé de manière ambiguë pour désigner un ensemble de ces différents processus cognitifs et de conscience, plutôt qu'une entité unique et unifiée.",
+    "associated_thinkers": ["Marvin Minsky"],
+    "category": "Matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "« La conscience comme terme fourre-tout pour des agents »",
+    "classification_tags": [
+      "computational",
+      "modularity",
+      "agents",
+      "functionalism",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à une description collective de haut niveau utilisée pour une variété de processus et de phénomènes émergents (par ex. des types de mémoire, des consciences spécialisées) générés par des agents computationnels sous-jacents dans le cerveau.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "L'esprit/la conscience est entièrement produit par, et constitue une description de haut niveau de, l'organisation et des activités physiques d'unités computationnelles spécialisées (« agents ») dans le cerveau. C'est l'organisation qui est cruciale, non le substrat matériel.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (justification : en tant que cadre matérialiste computationnel, la structure et l'organisation des états mentaux, bien que complexes, sont fondamentalement réductibles aux interactions définies des agents non conscients, impliquant l'absence de « magie » irréductible au-delà de la description de haut niveau.)",
+    "subjectivity_and_intentionality": "La subjectivité (le sens du soi) apparaît comme un processus de haut niveau : la capacité du système à construire un modèle de lui-même en tant qu'être dans un monde et à utiliser ce modèle pour penser à un niveau élevé à son passé et à son futur. L'intentionnalité est portée par la production des agents spécialisés.",
+    "qualia_account": "Les qualia sont implicitement écartés comme faisant partie du « terme fourre-tout » trompeur de la conscience, qui détourne l'attention des processus sous-jacents complexes. La théorie disséque diverses formes de conscience (par ex. se souvenir d'un sentiment par opposition à se souvenir de mots) mais rejette une teneur phénoménale irréductible.",
+    "ontological_commitments": "Agents cognitifs spécialisés, niveaux d'organisation hiérarchiques, structures cérébrales physiques (par ex. colonnes corticales) et descriptions computationnelles de haut niveau.",
+    "epistemic_access": "Principalement par l'étude de l'organisation computationnelle, des fonctions et des relations des composants cérébraux de haut niveau (« agents »), plutôt qu'en se concentrant sur les neurones de bas niveau ou l'introspection subjective.",
+    "constituents_and_structure": "Des unités de traitement simples, dénuées d'esprit et spécialisées appelées « agents », organisées en un vaste réseau de machines coopérantes et semi-indépendantes, résultant de la spécialisation et de l'association au cours de l'évolution."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Accès, Cognition, Mémoire, Conscience de soi (comme construction de modèles), Planification, Résolution de problèmes, Multiples types de conscience différents.",
+    "distinctive_mechanism_or_principle": "L'architecture de la Société de l'esprit, où une fonctionnalité complexe de haut niveau est obtenue par la coopération massive et hiérarchique, et les descriptions de haut niveau qui en résultent, d'agents simples et non conscients.",
+    "dynamics_of_emergence": "Processus dynamique. La conscience se développe par le processus historique de regroupement de neurones se spécialisant et s'associant, menant à une organisation hiérarchique de plus en plus complexe (multiples niveaux d'organisation cérébrale).",
+    "location_and_distribution": "Distribuée à travers de multiples niveaux d'organisation dans le cerveau, conçu comme un grand réseau d'ordinateurs spécialisés. Les tenants soutiennent qu'il est vain de chercher un emplacement physique unique pour la « conscience », car il s'agit d'un terme composite.",
+    "causation_and_functional_role": "La conscience décrit des fonctions de contrôle de haut niveau telles que reconnaître des erreurs, développer de nouveaux objectifs et construire des modèles du soi pour générer des propositions de planification et des historiques contrefactuels. Cette fonction composite offre une valeur adaptative pour la survie.",
+    "integration_or_binding": "L'intégration se produit implicitement via les interactions complexes entre les centaines d'agents spécialisés, dont les productions sont interprétées comme des descriptions unifiées de haut niveau (pensées de niveau 5).",
+    "information_flow_or_representation": "L'information est traitée hiérarchiquement à travers les niveaux d'organisation. Les descriptions de haut niveau sont primordiales, nécessitant une machinerie cognitive spécialisée (agents) à de nombreux niveaux au-dessus de l'activité neurophysiologique.",
+    "evolutionary_account": "La cognition/l'esprit est le produit final d'une vaste histoire évolutive où des progrès ont été réalisés par la spécialisation et l'association entre neurones primitifs, menant finalement à des structures organisationnelles complexes différentes de celles des animaux antérieurs.",
+    "core_claims_and_evidence": [
+      "La conscience est une étiquette composite et métaphorique pour des processus divers (un « terme fourre-tout »).",
+      "L'architecture sous-jacente est un vaste réseau de machines biologiques spécialisées (agents).",
+      "Comprendre l'activité neuronale de bas niveau est insuffisant pour expliquer les pensées et processus cognitifs de haut niveau."
+    ],
+    "basis_of_belief_or_evidence_type": "Computationnel, Philosophique (perspective de l'IA), Neurobiologique (hiérarchie organisationnelle)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement et computationnellement testable (justification : puisque la conscience est définie purement par des mécanismes fonctionnels et une hiérarchie organisationnelle, les principes peuvent être mis en œuvre et testés au sein de systèmes artificiels avancés).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La critique principale adressée à la recherche de la conscience est que les chercheurs perdent leur temps à chercher un « endroit dans le cerveau où se trouve la conscience » unique, alors qu'il ne s'agit que d'un mot pour de nombreux processus. Elle fait aussi face aux critiques classiques du fonctionnalisme réductif concernant le rejet des qualia subjectifs authentiques.",
+    "open_questions_and_limitations": "La limite réside dans la tâche immense consistant à déterminer précisément comment chacun des processus composants regroupés sous le « terme fourre-tout » fonctionne et comment ils s'interrelient.",
+    "ontological_coherence": "Hautement cohérente au sein d'un cadre physicaliste mettant l'accent sur une organisation computationnelle complexe et une décomposition fonctionnelle, en accord avec la position philosophique du fonctionnalisme."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "Si la conscience résulte des interactions computationnelles nécessaires et des descriptions de haut niveau d'agents spécialisés, des systèmes artificiels capables d'instancier cette forme spécifique d'organisation de haut niveau devraient être conscients."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience dépend entièrement de l'existence physique et de l'organisation fonctionnelle du cerveau/de la machine biologique ; sa dissolution implique la fin permanente de l'esprit."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste/Pragmatique",
+      "rationale": "La finalité fonctionnelle de l'organisation cognitive complexe (la conscience) est d'aider l'organisme à naviguer dans le monde, à faire des plans et à se modéliser lui-même, procurant un sens subjectif mais n'impliquant aucune finalité cosmique globale."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Puisque l'esprit est défini par ses motifs informationnels et son organisation fonctionnelle (description de haut niveau), une duplication totale ou un téléversement vers un support non biologique capable de reproduire ces interactions complexes transférerait l'identité consciente originale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Society of Mind, Marvin Minsky",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Why is Consciousness So Mysterious?, Marvin Minsky",
+        "year": 2007
+      }
+    ]
+  }
+}

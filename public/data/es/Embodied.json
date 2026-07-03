@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Cognición Corporeizada",
+    "summary": "Este concepto postula que la mente es intrínsecamente corporeizada, lo que significa que la estructura del pensamiento y del significado depende fundamentalmente de los sistemas sensoriomotores del cuerpo y de las experiencias emocionales. Argumenta que el cuerpo y su interacción con el entorno son una parte integral de lo que es la conciencia, no meramente de lo que hace.",
+    "associated_thinkers": [
+      "George Lakoff",
+      "Mark Johnson"
+    ],
+    "category": "Materialism Theories",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "La conciencia como experiencia fundamentalmente corporeizada",
+    "classification_tags": [
+      "embodiment",
+      "sensorimotor",
+      "cognition",
+      "materialism",
+      "non-reductive"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia y el pensamiento se identifican como productos significativos generados por circuitos neuronales conectados al cuerpo, caracterizando la experiencia corporeizada, donde la estructura del pensamiento proviene de la naturaleza del cuerpo.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La mente está profundamente corporeizada; la estructura misma de los pensamientos depende de los sistemas sensoriomotores y las emociones del cuerpo, extendiendo el sustrato necesario de la mente más allá del cerebro únicamente.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil (inferida, ya que es una teoría materialista que implica que la conciencia es reducible en principio, aunque su complejidad es alta.)",
+    "subjectivity_and_intentionality": "La subjetividad está ligada a la experiencia corporeizada; la intencionalidad (direccionalidad del pensamiento) es inherente a la manera en que las ideas abstractas y el lenguaje son corporeizados metafóricamente por los sistemas sensoriomotores.",
+    "qualia_account": "Los qualia se caracterizan por los sistemas sensoriomotores y emocionales del cuerpo, los cuales dan lugar a, o constituyen, la 'experiencia corporeizada'.",
+    "ontological_commitments": "Circuitos neuronales físicos, los sistemas sensoriomotores del cuerpo, las emociones y las metáforas derivadas de la experiencia corporal.",
+    "epistemic_access": "Accesible mediante el estudio de las conexiones entre los circuitos neuronales, el cuerpo y la experiencia vivida, dentro de una perspectiva naturalista y basada en la ciencia.",
+    "constituents_and_structure": "Circuitos neuronales conectados a los sistemas sensoriomotores y emocionales del cuerpo, que estructuran las ideas abstractas y el lenguaje metafóricamente."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (como integral al cuerpo), cognición, ideas abstractas, lenguaje, emociones.",
+    "distinctive_mechanism_or_principle": "El principio es que el pensamiento se vuelve significativo mediante circuitos neuronales conectados al cuerpo, y la estructura de nuestros pensamientos está determinada por la naturaleza de los sistemas del cuerpo (p. ej., los sistemas sensoriomotores).",
+    "dynamics_of_emergence": "La conciencia es un proceso dinámico en el que los conceptos abstractos dependen en gran medida de metáforas básicas derivadas de la experiencia corporal continua.",
+    "location_and_distribution": "La mente se distribuye a través de los sistemas sensoriomotores del cuerpo físico, no solo localizada en el cerebro.",
+    "causation_and_functional_role": "El papel funcional es proporcionar un pensamiento significativo, ya que la comprensión no puede ocurrir sin involucrar los sistemas del cuerpo. La conciencia es integral al funcionamiento adaptativo.",
+    "integration_or_binding": "La integración ocurre mediante la conexión unificada de los circuitos neuronales con el cuerpo, vinculando los sistemas sensoriales, motores y emocionales en una experiencia corporeizada cohesiva.",
+    "information_flow_or_representation": "La información se representa en gran medida a través de metáforas derivadas de la experiencia corporal, estructurando conceptos abstractos con base en los sistemas sensoriomotores.",
+    "evolutionary_account": "No se detalla explícitamente en la fuente, pero se alinea con la perspectiva materialista de que la conciencia evolucionó mediante rasgos seleccionados, extendiendo el alcance de la selección para incluir la interacción cuerpo-entorno.",
+    "core_claims_and_evidence": [
+      "La mente es intrínsecamente corporeizada, yendo más allá de la necesidad trivial de un cerebro.",
+      "La estructura misma de nuestros pensamientos proviene de la naturaleza del cuerpo.",
+      "Los conceptos abstractos son en gran medida metafóricos, basados en la experiencia corporal."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, Lingüístico-cognitivo, Empírico (basado en vincular la actividad neuronal con la experiencia corporal)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable (inferido, ya que trata con circuitos neuronales y sistemas fisiológicos medibles).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Se critica implícitamente al señalar que la cognición y la conciencia no son lo mismo, lo que plantea dudas sobre si explicar el pensamiento corporeizado basta para explicar la conciencia fenoménica.",
+    "open_questions_and_limitations": "El medio preciso por el cual la cognición corporeizada se traduce en conciencia fenoménica, dado que los conceptos de cognición y conciencia suelen ser distintos.",
+    "ontological_coherence": "Muy coherente dentro de una ontología fisicalista, abrazando específicamente una forma extendida o no trivial de materialismo al integrar todo el cuerpo en la estructura del pensamiento."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Si la conciencia requiere una corporeización específica, los sistemas artificiales solo podrían volverse conscientes si el materialismo logra construir un sustrato no biológico que replique perfectamente los sistemas corporales y sensoriomotores necesarios."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia depende intrincadamente de la existencia y el funcionamiento del cuerpo biológico y sus sistemas; no puede persistir una vez que esos componentes físicos dejan de funcionar."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanístico",
+      "rationale": "Como teoría materialista, se alinea con la perspectiva de que no hay un sentido cósmico último, pero la conciencia proporciona la base para crear un sentido y un valor autodeterminados."
+    },
+    "virtual_immortality": {
+      "stance": "Incierto",
+      "rationale": "La duplicación requiere reproducir todo el sistema corporeizado y sus mecanismos sensoriomotores, añadiendo órdenes de complejidad significativos, potencialmente insuperables, más allá de simplemente replicar la actividad cerebral."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Enactivism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Projective Consciousness Model (PCM)",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Philosophy in the Flesh: the Embodied Mind and its Challenge to Western Thought, G. Lakoff and M. Johnson",
+        "year": 1999
+      },
+      {
+        "title_with_names": "How philosophy illuminates the physical world, G. Lakoff",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, and E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, E. Thompson",
+        "year": 2002
+      }
+    ]
+  }
+}

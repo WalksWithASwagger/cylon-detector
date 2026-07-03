@@ -1,0 +1,114 @@
+{
+  "id_and_class": {
+    "theory_title": "Sintaxis Neuronal y Ritmos Autocausados de Buzsáki",
+    "summary": "Esta teoría presenta el cerebro como un sistema autoorganizado y un 'dispositivo de predicción' que genera continuamente patrones y ritmos intrínsecos (sintaxis neuronal). La cognición se entiende como acción internalizada que emerge cuando el cerebro se desconecta de sus sensores para examinar escenarios de tipo '¿qué pasaría si?'. El significado se adquiere posteriormente cuando estos patrones internos se fundamentan mediante interacciones con el entorno basadas en la acción.",
+    "associated_thinkers": [
+      "György Buzsáki"
+    ],
+    "category": "Teorías del Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "‘La Conciencia como Ritmos Neuronales Autocausados Fundamentados en la Acción’",
+    "classification_tags": [
+      "neurobiological",
+      "rhythms",
+      "action-based cognition",
+      "emergentism",
+      "predictive processing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia, si se desarrolla a partir de esta teoría de la cognición, se identifica con la temporización oscilatoria autoemergente y los correspondientes patrones neuronales dinámicos y autoorganizados (la sintaxis neuronal). El cerebro fundamentalmente crea, no procesa, la información.",
+    "ontological_status": "Fisicalismo / Materialismo",
+    "mind_body_relationship": "La mente (la cognición/conciencia) se relaciona con el cuerpo como funciones autocausadas que surgen del sistema nervioso central, extremadamente complejo. Esto funciona como una correlación de identidad o emergente dentro de un marco materialista.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil (Justificada por su clasificación dentro del Materialismo, que postula que la conciencia puede explicarse completamente mediante estados físicos, aunque surja de procesos complejos).",
+    "subjectivity_and_intentionality": "Se infiere que la subjetividad surge de la perspectiva 'de dentro hacia afuera', en la que el cerebro proyecta y pone a prueba activamente hipótesis frente al mundo. La intencionalidad está vinculada al propósito del cerebro como dispositivo de predicción centrado en generar y anticipar las consecuencias de la acción.",
+    "qualia_account": "No se proporciona explícitamente. La teoría se centra principalmente en los mecanismos de la cognición. Implica que las cualidades fenoménicas surgirían de la organización de la sintaxis neuronal compleja, en consonancia con su clasificación como teoría materialista neurobiológica.",
+    "ontological_commitments": "Ensamblajes neuronales, ritmos cerebrales dinámicos, conectividad/dinámica preexistente en los sistemas corticales y sintaxis neuronal.",
+    "epistemic_access": "Observación y modelización de la actividad neuronal, específicamente la medición en tercera persona de la actividad eléctrica (temporización oscilatoria y ritmos) y las funciones cognitivas resultantes.",
+    "constituents_and_structure": "Organización jerárquica de ritmos cerebrales anidados (temporización oscilatoria) y acoplamiento de frecuencia cruzada, que sostiene secuencias de ensamblajes celulares autoorganizados. La estructura es dinámica y metaestable."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Cognición, Memoria, Planificación, Autoconciencia (como acción internalizada). La teoría se centra en mecanismos que potencialmente pueden explicar la conciencia fenoménica.",
+    "distinctive_mechanism_or_principle": "La temporización oscilatoria autoemergente ('los ritmos del cerebro') que sirve como organizador fundamental de la información neuronal (la sintaxis neuronal). La cognición es explícitamente acción internalizada.",
+    "dynamics_of_emergence": "Proceso dinámico. La cognición surge cuando el cerebro utiliza su dinámica intrínseca y autoorganizada para simular consecuencias (acción internalizada), y se sostiene mediante interacciones perpetuas entre múltiples osciladores de red.",
+    "location_and_distribution": "Redes corticales e hipocampales, centrándose particularmente en cómo las estructuras cerebrales a gran escala y las ondas electroencefalográficas (EEG) organizan la información.",
+    "causation_and_functional_role": "La actividad cerebral es fundamentalmente autocausada, impulsada por un imperativo de poner a prueba hipótesis y predecir las consecuencias de las acciones. La función consiste en reestructurar los ritmos internos para generar mapas cognitivos destinados a la memoria y la planificación, exaptados de circuitos básicos de regulación corporal.",
+    "integration_or_binding": "La sintaxis neuronal organiza y segmenta la información neuronal mediante diversos ritmos cerebrales, incluyendo el acoplamiento jerárquico y de frecuencia cruzada. La semántica se vincula a estos patrones neuronales espontáneos mediante una correspondencia con las entradas externas/consecuencias de la acción.",
+    "information_flow_or_representation": "El cerebro crea información en lugar de absorberla. El flujo de información es 'de dentro hacia afuera': el cerebro llena el mundo con acción, y las entradas externas seleccionan y modifican los patrones neuronales espontáneos, dotándolos de significado (semántica).",
+    "evolutionary_account": "La cognición (incluyendo la planificación y la memoria) se explica mediante la exaptación y expansión de circuitos y algoritmos que originalmente servían a funciones corporales necesarias, como la regulación de procesos metabólicos y energéticos.",
+    "core_claims_and_evidence": [
+      "El cerebro es un dispositivo de predicción que interactúa con el entorno a través de la acción y reestructurando los ritmos internos.",
+      "La actividad neuronal espontánea y la temporización oscilatoria autoemergente son la fuente y el organizador de las capacidades cognitivas.",
+      "La semántica es seleccionada externamente por el mundo, modificando los patrones neuronales preexistentes (sin sentido) mediante correspondencia durante la interacción basada en la acción.",
+      "La cognición (memoria, planificación) surge a través de la exaptación de circuitos que regulan funciones corporales metabólicas."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírico, Modelización Neurobiológica/Fisiológica, basada en conceptos como los ritmos cerebrales, la sintaxis neuronal y la actividad celular."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable (las pruebas se centran en la generación de ritmos neuronales, el acoplamiento de frecuencia cruzada y las secuencias de ensamblajes neuronales como correlatos de las funciones cognitivas).",
+    "known_empirical_interventions_or_tests": [
+      "Medición y análisis de los ritmos cerebrales jerárquicos y el acoplamiento de frecuencia cruzada.",
+      "Estudios que demuestran la consolidación de trazas de memoria durante los patrones de onda aguda-ondulación (sharp wave-ripple) del sueño."
+    ],
+    "criticisms_and_tensions": "La principal tensión conceptual es que explicar la cognición de alto nivel (como la sintaxis neuronal, la memoria y la planificación) no equivale a explicar la conciencia fenoménica ('qué es realmente la conciencia').",
+    "open_questions_and_limitations": "¿Aborda suficientemente la explicación exitosa de la cognición compleja y sus mecanismos neuronales subyacentes el 'problema difícil' de la conciencia fenoménica? La propia teoría debe desarrollarse hasta convertirse en una teoría de la conciencia para responder a esto.",
+    "ontological_coherence": "Altamente coherente. La teoría encaja bien dentro del Materialismo Neurobiológico y Computacional, alineándose consistentemente con conceptos relacionados como los Circuitos y Ciclos Cerebrales y las Teorías Predictivas Descendentes."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sí",
+      "rationale": "Como teoría materialista/neurobiológica, implica que la conciencia es enteramente física. Si los mecanismos (sintaxis neuronal, ritmos autocausados, fundamentación basada en la acción) pueden implementarse en sistemas no biológicos, la conciencia de la IA es alcanzable en principio."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia/cognición se explica como originada únicamente en la dinámica específica y altamente compleja de la materia cerebral biológica. La supervivencia más allá del cese de estos procesos materiales queda excluida."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "El enfoque se centra en el cerebro como mecanismo de supervivencia y comprobación de hipótesis evolucionado para la ventaja adaptativa. En consonancia con el Materialismo, no proporciona un sentido, propósito o valor cósmico último, solo los creados por la agencia humana."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Asumiendo que la conciencia se realiza estrictamente mediante los patrones neuronales, los ritmos y los mapas cognitivos descritos, una duplicación perfecta de este sistema altamente integrado en un medio no biológico debería preservar el yo mental original en primera persona, haciendo alcanzable la inmortalidad virtual en principio."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Brain Circuits and Cycles (9.2.11)",
+        "relationship": "Superposición"
+      },
+      {
+        "name": "Top-Down Predictive Theories (9.5.1)",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Electromagnetic Field Theories (9.3)",
+        "relationship": "Posible alineación"
+      },
+      {
+        "name": "Integrated Information Theory (12)",
+        "relationship": "Contraste (enfoque mecanicista frente a fenoménico/axiomático)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Brain from inside Out, György Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rhythms of the Brain, György Buzsáki",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Cognition from the body-brain partnership: exaptation of memory, György Buzsáki and David Tingley",
+        "year": 2023
+      },
+      {
+        "title_with_names": "If the brain is the answer, what was the question? Review of Buzsáki, György. The Brain from Inside Out, Alex Gomez-Marin",
+        "year": 2021
+      }
+    ]
+  }
+}

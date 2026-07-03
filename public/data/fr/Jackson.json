@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Le représentationnalisme diaphane de Jackson et l'argument de la connaissance",
+    "summary": "Le représentationnalisme diaphane de Frank Jackson postule que le caractère phénoménal de l'expérience perceptive est entièrement épuisé par son contenu représentationnel, ce qui signifie que nous « voyons directement à travers » l'expérience jusqu'aux propriétés de l'objet. Cette position a été développée principalement pour saper la conclusion de sa propre célèbre expérience de pensée, l'Argument de la Connaissance, qui argumentait auparavant contre le physicalisme.",
+    "associated_thinkers": ["Frank Jackson"],
+    "category": "Théories matérialistes",
+    "subcategory": "Représentationnel",
+    "core_identity_tagline": "« Le caractère phénoménal est épuisé par le contenu représentationnel »",
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "physicalism defense",
+      "epistemology",
+      "intentionality"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience (le caractère phénoménal) est identifiée comme le contenu représentationnel des états mentaux pertinents qui remplit certaines conditions, souvent lié aux propriétés de l'objet de l'expérience.",
+    "ontological_status": "Physicalisme réductif. (Justification : l'objectif principal de la théorie est de vaincre l'Argument de la Connaissance, préservant ainsi la suffisance du physicalisme/matérialisme concernant la conscience phénoménale).",
+    "mind_body_relationship": "Identité. La nature phénoménale est épuisée par les contenus fonctionnels et intentionnels (les faits représentationnels), qui sont instanciés physiquement.",
+    "primitive_or_emergent_status": "Émergent. (Justification : la conscience est entièrement capturée par le contenu représentationnel instancié par des processus physiques, ce qui signifie qu'elle n'est pas fondamentale à la réalité).",
+    "emergence_type": "Émergence faible. (Justification : en tant que défense du physicalisme réductif, les propriétés phénoménales sont entièrement capturées par, ou identiques aux, contenus physiques/représentationnels et rôles fonctionnels, ce qui implique une dérivabilité en principe).",
+    "subjectivity_and_intentionality": "La subjectivité est prise en compte par la thèse de la diaphanéité : accéder à la nature de l'expérience revient simplement à accéder aux propriétés de son objet. L'intentionnalité, le caractère « à propos de » des états mentaux, est centrale, car l'expérience est essentiellement représentationnelle.",
+    "qualia_account": "Les qualia (le caractère phénoménal) sont entièrement expliqués par, ou épuisés par, les contenus représentationnels des états mentaux pertinents. Ceci vise à démontrer qu'aucune connaissance non physique (comme « ce que cela fait de voir du rouge ») ne demeure inexpliquée par les faits physiques/représentationnels.",
+    "ontological_commitments": "Représentations mentales, faits physiques, et le rôle fonctionnel/les contenus intentionnels des états mentaux.",
+    "epistemic_access": "L'introspection soutient la thèse diaphane en ne révélant que des objets externes et leurs propriétés, et non des caractéristiques intrinsèques de l'expérience elle-même. L'étude scientifique à la troisième personne du contenu représentationnel est donc adéquate.",
+    "constituents_and_structure": "La structure de la conscience est entièrement déterminée par les contenus intentionnels ou la nature représentationnelle des états mentaux ; les faits représentationnels forment un ensemble suffisant pour capturer l'expérience perceptive."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale (spécifiquement la nature qualitative de l'expérience perceptive/des qualia).",
+    "distinctive_mechanism_or_principle": "La diaphanéité (transparence) de l'expérience perceptive. La conscience est le résultat de représentations d'objets, où le sujet « voit directement à travers » l'état perceptif jusqu'aux propriétés de l'objet.",
+    "dynamics_of_emergence": "Propriété statique. (Justification : le modèle identifie la conscience au contenu représentationnel/à la structure intentionnelle, mettant l'accent sur l'identité de l'état final plutôt que sur un processus dynamique de génération. Les sources ne détaillent pas les dynamiques temporelles)",
+    "location_and_distribution": "Située dans les états mentaux instanciés par le traitement représentationnel du cerveau.",
+    "causation_and_functional_role": "L'expérience consciente est épuisée par le rôle fonctionnel et le contenu représentationnel. Les faits représentationnels suffisent à capturer l'expérience perceptive complète.",
+    "integration_or_binding": "Réalisée implicitement grâce à la nature exhaustive des contenus intentionnels qui composent l'ensemble de l'expérience perceptive. (Justification : le mécanisme explicite de liage n'est pas détaillé dans les sources, mais l'unification est supposée dans « l'ensemble ».)",
+    "information_flow_or_representation": "Les représentations mentales élèvent le pouvoir explicatif des notions/imageries perçues intérieurement au-delà des simples états neuronaux, épuisant la nature expérientielle.",
+    "evolutionary_account": "La conscience est présumée avoir évolué comme partie de la machinerie représentationnelle du cerveau. (Justification : ceci est déduit de sa classification comme théorie matérialiste, mais aucun compte-rendu spécifique n'est donné par Jackson dans les sources.)",
+    "core_claims_and_evidence": [
+      "L'expérience est diaphane (transparente) : les propriétés phénoménales sont des propriétés de l'objet de l'expérience.",
+      "Le représentationnalisme fort affirme que la manière dont une expérience représente les choses épuise entièrement sa nature expérientielle.",
+      "L'Argument de la Connaissance échoue car l'apprentissage phénoménal se réduit à des faits représentationnels, préservant ainsi le physicalisme."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique/conceptuel (fondé sur une analyse logique des concepts phénoménaux et de la nature de l'introspection)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable. (Le succès de la théorie repose sur l'argument philosophique selon lequel le contenu représentationnel peut logiquement épuiser le caractère phénoménal, résolvant ainsi des expériences de pensée comme l'Argument de la Connaissance).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La tension principale est que les critiques soutiennent que le représentationnalisme ne réfute pas logiquement l'Argument de la Connaissance, car une version représentationnaliste du « défi de Mary » maintient la difficulté pour le physicalisme.",
+    "open_questions_and_limitations": "Les conditions précises dans lesquelles le contenu représentationnel capture le caractère phénoménal doivent être spécifiées, et la cohérence conceptuelle de la réduction entière des propriétés phénoménales aux propriétés intentionnelles demeure contestée.",
+    "ontological_coherence": "Hautement cohérente dans un cadre physicaliste réductif, puisque toute sa motivation est de préserver le physicalisme en éliminant les propriétés phénoménales irréductibles (« qualia »)."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "Si la conscience est épuisée par le contenu représentationnel et le rôle fonctionnel, et que ces propriétés peuvent être réalisées de manière computationnelle, alors les systèmes d'IA peuvent atteindre la conscience."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La théorie est une défense du matérialisme/physicalisme, impliquant que la conscience est liée uniquement au système physique (le cerveau ou son équivalent fonctionnel/représentationnel), empêchant toute survie au-delà de la cessation biologique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie matérialiste, elle n'offre aucun sens ou finalité ultime en dehors de ce que les humains créent pour eux-mêmes."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Puisque le caractère phénoménal est entièrement capturé par le contenu fonctionnel/représentationnel, une duplication parfaite (téléversement) de ces contenus préserverait le soi mental original à la première personne."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Knowledge Argument (Mary's Room)",
+        "relationship": "Critique/Origine"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Fondement"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The knowledge argument, diaphanousness, representationalism, Frank Jackson",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, Frank Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "What Mary Didn’t Know, Frank Jackson",
+        "year": 1986
+      }
+    ]
+  }
+}

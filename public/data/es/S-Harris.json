@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "El Misterio de la Conciencia de S. Harris",
+    "summary": "Esta perspectiva, ofrecida como un desafío más que como una teoría prescriptiva, enmarca la conciencia como un misterio infranqueable que no puede resolverse por medios puramente físicos. Harris argumenta que las descripciones físicas son 'mudas' respecto a la experiencia subjetiva; lo único que atestigua la sintiencia es la propia conciencia, creando una brecha explicativa fundamental. Se mantiene pesimista respecto a que la ciencia pueda disipar este misterio.",
+    "associated_thinkers": ["Sam Harris"],
+    "category": "Teorías Desafiantes",
+    "subcategory": "Misterio de la Conciencia",
+    "core_identity_tagline": "‘La Conciencia como una Brecha Infranqueable’",
+    "classification_tags": [
+      "mysterianism",
+      "skepticism",
+      "anti-reductionism",
+      "introspection"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como subjetividad o sintiencia, la cual es fundamentalmente misteriosa e inexplicable mediante procesos puramente físicos.",
+    "ontological_status": "Escéptico/Misterianismo (Justificado: la posición afirma la intractabilidad filosófica y la naturaleza infranqueable del problema mente-cuerpo, alineándose con los principios centrales del misterianismo, aunque sin adoptar una ontología alternativa específica.)",
+    "mind_body_relationship": "Brecha Infranqueable / Correlación No Reductiva (Justificado: Harris afirma que, si bien los procesos físicos correlacionan con la conciencia, ningún análisis de estos procesos puede derivar lógicamente una descripción de la conciencia, dejando una brecha infranqueable.)",
+    "primitive_or_emergent_status": "Misterio (Justificado: Harris se niega a respaldar plenamente la emergencia, afirmando que, aunque la conciencia pueda ser el producto legal del procesamiento inconsciente, no encuentra que esa afirmación resulte significativa para explicar la sintiencia.)",
+    "emergence_type": "Misterio / Inexplicado (Justificado: la premisa central es que el mecanismo que vincula la complejidad con la sintiencia es fundamentalmente desconocido y probablemente incognoscible para la inteligencia humana, lo que impide clasificarlo bajo la emergencia estándar.)",
+    "subjectivity_and_intentionality": "La subjetividad es la única atestación de la conciencia; la única pista sobre la subjetividad es la subjetividad misma.",
+    "qualia_account": "Los qualia (lo que se siente ser algo) son el fenómeno respecto al cual los eventos físicos son 'mudos', creando así el misterio infranqueable.",
+    "ontological_commitments": "Procesos físicos y sintiencia irreducible (Justificado: asume la existencia de ambos dominios, pero se compromete con la irreducibilidad de la segunda basándose en la evidencia introspectiva, más que en la descripción física.)",
+    "epistemic_access": "La introspección es la única forma de descubrir verdades sobre la conciencia; la ciencia/observación en tercera persona es intrínsecamente limitada para disipar el misterio.",
+    "constituents_and_structure": "Misterio (Justificado: la teoría no propone constituyentes ni estructura específicos, ya que su enfoque está en la inadecuación fundamental de las descripciones físicas complejas para dar cuenta de la experiencia subjetiva.)"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica, Sintiencia (Se centra por completo en el mero hecho de que el universo está iluminado por la sintiencia.)",
+    "distinctive_mechanism_or_principle": "Ninguno (Justificado: la premisa central es el fracaso de todos los principios físicos/mecanicistas actuales y previsibles para explicar la subjetividad.)",
+    "dynamics_of_emergence": "Ninguna articulada (Justificado: la relación entre la complejidad física y la conciencia es lo que Harris considera misterioso e inexplicable, rechazando la posibilidad de articular una dinámica de derivación.)",
+    "location_and_distribution": "Desconocida/Misteriosa (Justificado: aunque la conciencia correlaciona con el cerebro, la teoría rechaza explícitamente confinar la explicación de la conciencia a una ubicación o distribución física, ya que el mundo físico no arroja evidencia de la conciencia.)",
+    "causation_and_functional_role": "Desconocido/Irreducible (Justificado: el poder causal no se explica por la complejidad inconsciente. La presencia de la sintiencia es un misterio último y no una adaptación funcional que pueda describirse de forma reductiva.)",
+    "integration_or_binding": "No abordado (Justificado: la teoría se centra en la existencia metafísica de la sintiencia misma, más que en los problemas estructurales de la percepción unificada.)",
+    "information_flow_or_representation": "El procesamiento inconsciente de información podría correlacionar legalmente con la conciencia, pero esta descripción se rechaza por insuficiente para explicar la sintiencia.",
+    "evolutionary_account": "No abordado explícitamente (Justificado: el enfoque está en el enigma metafísico de la conciencia *ahora*, más que en sus orígenes filogenéticos.)",
+    "core_claims_and_evidence": [
+      "No existe evidencia de la conciencia en el mundo físico; los eventos físicos son mudos respecto a 'lo que se siente' ser ellos.",
+      "Lo único que atestigua la existencia de la conciencia es la propia conciencia (la subjetividad).",
+      "El análisis de procesos puramente físicos nunca podrá derivar una descripción de la conciencia."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, Introspección, Escepticismo"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente incomprobable (Justificado: si la brecha es infranqueable, como afirma Harris, el misterio no puede disiparse mediante la ciencia empírica tal como se practica actualmente.)",
+    "known_empirical_interventions_or_tests": "Ninguna (Justificado: el marco es un diagnóstico del fracaso de la ciencia para abordar el problema difícil y no propone pruebas empíricas para el misterio en sí.)",
+    "criticisms_and_tensions": "Funciona principalmente como una crítica al reduccionismo y al optimismo científico respecto a la conciencia, clasificando el problema como un misterio último, lo cual los reduccionistas rechazan por considerarlo pesimismo (misterianismo).",
+    "open_questions_and_limitations": "La limitación fundamental es la incapacidad de entender cómo se relaciona la conciencia con el procesamiento inconsciente de información o la complejidad, lo que hace inexplicable el origen de la sintiencia.",
+    "ontological_coherence": "Internamente coherente (como posición escéptica), pero fundamentalmente incompatible con el fisicalismo reductivo y con teorías que afirman una solución mecanicista al problema difícil."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "Si la conciencia es subjetividad irreducible ausente de las descripciones físicas, entonces la computación avanzada (la IA, que es pura complejidad física) no logrará generar sintiencia genuina."
+    },
+    "survival_beyond_death": {
+      "stance": "No (Condicional)",
+      "rationale": "Como naturalista, Harris se alinea implícitamente con la idea de que la conciencia está ligada al organismo físico, lo que significa que su terminación produce una inexistencia permanente, a pesar del misterio de su naturaleza mientras está vivo."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "El misterio no implica un propósito cósmico, pero Harris propugna hallar verdades personales a través de la introspección, alineándose con una espiritualidad y un sentido autodescubiertos (naturalizados)."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Si la conciencia no puede explicarse mediante procesos puramente físicos, entonces la duplicación o la transferencia digital del sustrato físico no lograría capturar ni recrear el yo subjetivo esencial."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "relationship": "Coincidencia"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Compatible (como un rechazo del realismo ingenuo respecto a la explicación física, aunque Harris sigue afirmando la realidad de la conciencia)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mystery of consciousness (Part I & II), Sam Harris",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Explorations in Consciousness: Death Psychedelics and Mystical Experience",
+        "year": 2023
+      }
+    ]
+  }
+}

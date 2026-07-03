@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Le réalisme structurel de Loorits",
+    "summary": "Cette théorie postule que les expériences conscientes sont des phénomènes entièrement structurels résidant dans le cerveau sous forme de motifs d'ordre supérieur complexes dans l'activité neuronale. Elle résout le problème difficile en soutenant que les qualia, bien qu'ils paraissent qualitatifs et non structurels, sont en réalité des structures compositionnelles complexes, perçues à tort comme des propriétés monadiques par le motif neuronal lui-même.",
+    "associated_thinkers": ["Kristjan Loorits"],
+    "category": "Matérialisme",
+    "subcategory": "Relationnelle",
+    "core_identity_tagline": "La conscience comme motifs neuronaux entièrement structurels",
+    "classification_tags": [
+      "structuralism",
+      "qualia",
+      "neural patterns",
+      "internalism",
+      "illusionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à des motifs complexes d'ordre supérieur dans l'activité neuronale, qui sont intrinsèquement des phénomènes structurels. Les qualia sont des structures compositionnelles de vastes réseaux d'associations inconscientes.",
+    "ontological_status": "Réalisme structurel (physicalisme)",
+    "mind_body_relationship": "Identité/Réduction (les expériences conscientes sont des phénomènes structurels résidant dans le cerveau et analysables en termes entièrement structurels).",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (inférée, la théorie affirmant que la conscience est entièrement structurelle et analysable en termes physiques, ce qui s'inscrit dans un cadre matérialiste réductionniste malgré la résolution conceptuelle du problème difficile).",
+    "subjectivity_and_intentionality": "La subjectivité naît du fait que le motif neuronal complexe perçoit à tort ses propres propriétés structurelles hautement complexes comme des qualités simples et monadiques. Les expériences conscientes sont conçues comme des structures objectives existant dans le monde.",
+    "qualia_account": "Les qualia sont des phénomènes entièrement structurels — des structures compositionnelles d'associations inconscientes — qui sont simplement *perçus* par le système comme non structurels ou qualitatifs (phénomènes perspectivaux).",
+    "ontological_commitments": "Motifs neuronaux complexes d'ordre supérieur ; structures objectives existant dans le monde ; vastes réseaux d'associations inconscientes.",
+    "epistemic_access": "Accessible par l'analyse objective (en termes entièrement structurels) et par l'introspection (qui révèle la nature monadique perçue à tort). Potentiellement accessible directement grâce à une technologie appropriée de stimulation cérébrale.",
+    "constituents_and_structure": "Des motifs neuronaux complexes dans le cerveau, analysables en termes entièrement structurels. Ces structures s'étendent parfois pour inclure des éléments de l'environnement socio-physique."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale, le problème difficile (qualia), et le problème de la vie privée/localisation.",
+    "distinctive_mechanism_or_principle": "Le mécanisme est la génération d'un motif neuronal complexe qui perçoit à tort sa propre complexité structurelle comme monadique et qualitative, créant ainsi l'« apparence » subjective de qualia non structurels.",
+    "dynamics_of_emergence": "Processus dynamique (la conscience existe sous forme de motifs dans l'activité neuronale, ce qui suggère un processus continu et dynamique).",
+    "location_and_distribution": "Principalement circonscrite au cerveau (« internaliste ») dans les processus neuronaux, mais la structure peut parfois s'étendre pour inclure des éléments de l'environnement.",
+    "causation_and_functional_role": "Le matériel source se concentre sur l'identité structurelle et l'épistémologie de la conscience, non sur son rôle causal fonctionnel explicite."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable (la prédiction repose sur le développement de technologies de stimulation cérébrale).",
+    "known_empirical_interventions_or_tests": [
+      "La prédiction selon laquelle une technologie appropriée de stimulation cérébrale devrait révéler directement au sujet éprouvant la nature structurelle des qualia."
+    ],
+    "criticisms_and_tensions": "Loorits a relevé une tension interne : bien que les qualia puissent être relationnels « en coulisses », ils échappent encore à la description scientifique tant qu'ils sont subjectivement ressentis comme intrinsèques, ce qui signifie que le problème difficile persiste en un certain sens.",
+    "open_questions_and_limitations": "La limite consiste à rendre compte de la persistance phénoménale du sentiment intrinsèque des qualia lorsque le sujet n'a pas conscience de leurs composantes structurelles/relationnelles sous-jacentes.",
+    "ontological_coherence": "Hautement cohérente au sein d'un cadre physicaliste attaché au réalisme structurel, réduisant les propriétés phénoménales à des faits structurels concernant le cerveau. Elle s'accorde modestement avec l'illusionnisme en expliquant les « apparences non structurelles » comme perspectivales."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "En tant que théorie matérialiste identifiant la conscience à des motifs neuronaux structurels, ces motifs sont conceptuellement reproductibles dans des substrats computationnels non biologiques."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La théorie définit la conscience comme un phénomène entièrement structurel résidant dans des cerveaux biologiques ; par conséquent, la conscience cesserait à l'arrêt de ces processus neuronaux."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie matérialiste, elle offre une explication physicaliste de la conscience phénoménale mais ne soutient aucun sens ou dessein ultime et cosmique."
+    },
+    "virtual_immortality": {
+      "stance": "Oui (probable)",
+      "rationale": "La conscience étant identifiée entièrement à des propriétés physiques structurelles (motifs neuronaux), la duplication de ces motifs dans un support non biologique devrait aboutir à une continuation parfaite du soi conscient, conformément aux principes du matérialisme/fonctionnalisme."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Matérialisme éliminativiste / illusionnisme",
+        "relationship": "Extension/Soutien (Loorits soutient l'idée que les caractéristiques non structurelles sont entièrement structurelles, considérant les « apparences » comme des phénomènes perspectivaux)"
+      },
+      {
+        "name": "Théories représentationnelles",
+        "relationship": "Chevauchement (la théorie repose sur la représentation structurelle des qualia, bien que perçue à tort)"
+      },
+      {
+        "name": "Fonctionnalisme",
+        "relationship": "Compatible (se concentre sur la fonction/le rôle des structures plutôt que sur le substrat, permettant une réalisation dans différents supports)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Structural qualia: a solution to the hard problem of consciousness, K. Loorits",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The location and boundaries of consciousness: a structural realist approach, K. Loorits",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Phenomenal Consciousness as a Structure in Our Brains, K. Loorits",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Qualities in the world, in science, and in consciousness, K. Loorits",
+        "year": 2022
+      }
+    ]
+  }
+}

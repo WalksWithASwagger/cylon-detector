@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Enactivismo",
+    "summary": "El enactivismo postula que las actividades mentales y la cognición surgen de la interacción dinámica y recíproca entre un organismo vivo y su entorno, mediada por sus procesos sensoriomotores. La conciencia se concibe como una actividad corporeizada, lo que hace incoherente la idea de una mente sin cuerpo.",
+    "associated_thinkers": [
+      "Francisco Varela",
+      "Eleanor Rosch",
+      "Evan Thompson"
+    ],
+    "category": "Materialism",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "La cognición mediante la interacción dinámica organismo-entorno",
+    "classification_tags": [
+      "embodied",
+      "cognition",
+      "dynamic",
+      "interaction",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Las actividades mentales se identifican como actividades corporeizadas que emergen de los intercambios dinámicos y bidireccionales entre un organismo y su entorno, regulados por procesos sensoriomotores.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La mente y la vida mental se ramifican a través del cuerpo y el entorno, lo que significa que no pueden reducirse simplemente a procesos cerebrales dentro de la cabeza. La relación es de interacción dinámica y correlación, denominada a menudo 'dinamismo corporeizado'.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia natural. La conciencia surge a través de etapas evolutivas de cognición y protoconciencia. El enfoque busca explicar la transición de la vida a la mente utilizando el mismo tipo de procesos que permiten la transición de lo inanimado a la vida.",
+    "subjectivity_and_intentionality": "La subjetividad se explora a través de la primacía de la experiencia vivida (fenomenología). La intencionalidad (direccionalidad del pensamiento) se explica mediante la idea de que la mente constituye activamente sus objetos, trayendo el mundo a la conciencia o desvelándolo mediante la interacción.",
+    "qualia_account": "La metodología asociada a la teoría, la neurofenomenología, enfatiza la naturaleza irreducible de la experiencia consciente y de la experiencia vivida. Si bien los detalles mecanísticos de la generación de los qualia no se detallan explícitamente en el texto proporcionado, el enfoque recae en la cualidad directa y vivida de la experiencia.",
+    "ontological_commitments": "Sistemas vivos, interacciones organismo-entorno, procesos sensoriomotores y restricciones autoorganizadoras. El enfoque se caracteriza a veces como una ruptura ontológica que enfatiza la primacía de la corporeización.",
+    "epistemic_access": "La experiencia vivida es el punto de partida necesario y el hilo conductor de la investigación ('neurofenomenología'), que debe vincularse sistemáticamente con los avances de la biología y la ciencia cognitiva.",
+    "constituents_and_structure": "Criaturas vivas autocreadoras, autoorganizadoras, autoadaptadoras y autosostenidas, cuya mente surge de interacciones recíprocas continuas (dinamismo corporeizado)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica (estudiada mediante la neurofenomenología), cognición (como actividades corporeizadas) y agencia (los organismos como agentes activos).",
+    "distinctive_mechanism_or_principle": "Intercambios bidireccionales continuos, iterativos y dinámicos entre el organismo y su entorno, mediados por procesos sensoriomotores.",
+    "dynamics_of_emergence": "La conciencia es un proceso dinámico, continuo y temporal, donde los estados internos autoorganizados emergen como compensaciones desencadenadas por perturbaciones ambientales, en lugar de únicamente como representaciones internas.",
+    "location_and_distribution": "La ubicación de la conciencia está distribuida o 'situada en el mundo', ramificándose a través del cuerpo y el entorno, excediendo los límites del cerebro por sí solo.",
+    "causation_and_functional_role": "Permite que los organismos sean agentes activos que se autorregulan, mantienen su integridad y recrean persistentemente su capacidad de autocreación.",
+    "integration_or_binding": "La integración está implícita en la definición del sistema organismo-entorno como la unidad de análisis y en la naturaleza autoorganizadora y autosostenida resultante del organismo vivo.",
+    "information_flow_or_representation": "A menudo enmarca la cognición como no representacional, contrastando con las teorías de representación interna. Los estados internos se describen como compensaciones autoorganizadas desencadenadas por perturbaciones, no como representaciones de asuntos externos.",
+    "evolutionary_account": "La conciencia evolucionó a través de etapas de cognición y protoconciencia seleccionadas debido a rasgos que favorecían la aptitud en entornos desafiantes.",
+    "core_claims_and_evidence": [
+      "La cognición/las actividades mentales están constituidas por actividades corporeizadas.",
+      "El organismo moldea activamente, y es moldeado por, su entorno de manera iterativa.",
+      "La neurofenomenología, una extensión del enactivismo, intenta vincular sistemáticamente la experiencia vivida irreducible (primera persona) con la neurociencia (tercera persona)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico (fenomenológico), teórico, biológico/evolutivo."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable mediante la aplicación de la neurofenomenología, que coordina descripciones en primera persona con datos neurobiológicos en tercera persona.",
+    "known_empirical_interventions_or_tests": [
+      "Métodos de investigación neurofenomenológicos (p. ej., entrevistas microfenomenológicas) ",
+      "Investigaciones sobre la experiencia de los límites del yo utilizando datos neurológicos y fenomenológicos "
+    ],
+    "criticisms_and_tensions": "El principal desafío metodológico radica en recabar un reporte e interpretación precisos en primera persona y correlacionarlos sistemáticamente con datos neurocientíficos objetivos.",
+    "open_questions_and_limitations": "No cierra por completo la brecha explicativa en un sentido reductivo, sino que busca ampliar y enriquecer los recursos para abordarla.",
+    "ontological_coherence": "Alta. El enfoque utiliza la fenomenología para naturalizar sus investigaciones alineándolas con la biología y la ciencia cognitiva, buscando la consistencia interna entre el mundo vivido y la descripción científica."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "El enactivismo es una teoría materialista (corporeizada). El materialismo generalmente sostiene que la conciencia de la IA debe ser posible en principio, siempre que la complejidad organizativa física y corporeizada necesaria (incluida la capacidad de interactuar dinámicamente con un entorno) se replique en el sistema artificial."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia está estrechamente ligada al organismo vivo y corporeizado y a sus procesos biológicos. Dado que el organismo es físico, se espera que la conciencia cese con la muerte biológica (postura materialista estándar)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanístico",
+      "rationale": "Como teoría materialista, el enactivismo no ofrece evidencia de un sentido o propósito cósmico último, reconociendo solamente el sentido y el valor que los humanos crean para sí mismos mediante la agencia y la interacción."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Si el enactivismo es correcto, la inmortalidad virtual sería alcanzable si los procesos complejos y dinámicos que constituyen la mente corporeizada y autoorganizada pudieran duplicarse o simularse perfectamente en un medio no biológico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied Cognition",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Neurophenomenology",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Ecological Psychology (Gibson’s)",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dynamic Systems Approach",
+        "relationship": "Influencia"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, Francisco Varela, Eleanor Rosch, Evan Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Enactivism, Daniel Hutto",
+        "year": 2023
+      }
+    ]
+  }
+}

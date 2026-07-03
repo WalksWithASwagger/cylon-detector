@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Los Orígenes Antiguos de la Conciencia de Feinberg y Mallatt",
+    "summary": "Esta teoría propone que la conciencia fenoménica surgió mucho antes en la historia evolutiva de lo que a menudo se asume, coincidiendo con la gran explosión cámbrica hace 520-560 millones de años. Argumenta que el desarrollo de los primeros cerebros complejos convirtió comportamientos reflejos simples en un mundo interior unificado de experiencias subjetivas, lo que significa que todos los vertebrados, y posiblemente algunos invertebrados, son conscientes.",
+    "associated_thinkers": [
+      "Todd Feinberg",
+      "Jon Mallatt"
+    ],
+    "category": "Teorías del Materialismo",
+    "subcategory": "Evolución Filogenética",
+    "core_identity_tagline": "La conciencia surgió con los primeros cerebros complejos",
+    "classification_tags": [
+      "evolution",
+      "neurobiological",
+      "comparative",
+      "vertebrates",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como un mundo interior unificado de experiencias subjetivas que surge de características biológicas y neurobiológicas específicas establecidas tempranamente en la evolución de los vertebrados.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La mente (conciencia) es el producto emergente de estructuras cerebrales biológicas complejas.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil (Justificación: como teoría materialista de la conciencia basada en la neurobiología evolutiva, se asume que la conciencia es completamente reducible, en principio, a su base física con el avance científico suficiente.)",
+    "subjectivity_and_intentionality": "La subjetividad es el 'mundo interior unificado de experiencias subjetivas' creado por la estructura cerebral compleja. La intencionalidad es una función resultante que evolucionó a partir de comportamientos reflejos simples.",
+    "qualia_account": "Los qualia (experiencias subjetivas) se explican como el resultado de características biológicas y neurobiológicas específicas que surgieron con los primeros cerebros complejos.",
+    "ontological_commitments": "Cerebros complejos, características biológicas y neurobiológicas específicas, patrones neurales.",
+    "epistemic_access": "Se accede mediante la investigación y comparación de características biológicas y neurobiológicas de especies contemporáneas frente al registro fósil (evidencia en tercera persona).",
+    "constituents_and_structure": "Características biológicas y neurobiológicas de cerebros complejos, particularmente aquellas que se originaron durante la explosión cámbrica."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica",
+    "distinctive_mechanism_or_principle": "El surgimiento evolutivo de cerebros complejos (hace 520-560 millones de años) dotados de un conjunto integral de características biológicas y neurobiológicas suficientes para transitar de reflejos simples a experiencia subjetiva unificada.",
+    "dynamics_of_emergence": "Proceso dinámico ligado a la historia filogenética; la conciencia surgió incrementalmente a medida que los comportamientos reflejos simples evolucionaron hacia un mundo interior unificado.",
+    "location_and_distribution": "Localizada en los sistemas nerviosos de todos los vertebrados y potencialmente algunos invertebrados complejos (artrópodos y cefalópodos).",
+    "causation_and_functional_role": "La conciencia funciona como el resultado evolutivo del cerebro creando experiencia a partir de comportamientos simples; su papel último es adaptativo, potenciando las capacidades de supervivencia.",
+    "integration_or_binding": "La integración se logra mediante los cerebros complejos que crean un 'mundo interior unificado' de experiencia.",
+    "information_flow_or_representation": "Se asume que el procesamiento y la representación de información están organizados por la estructura cerebral compleja evolucionada para crear experiencia subjetiva.",
+    "evolutionary_account": "La conciencia evolucionó significativamente antes (hace 520-560 millones de años) de lo que sugieren los modelos estándar, originándose junto con los cerebros complejos de la explosión cámbrica.",
+    "core_claims_and_evidence": [
+      "La conciencia surgió durante la explosión cámbrica (hace 520-560 millones de años).",
+      "Todos los vertebrados son y siempre han sido conscientes.",
+      "La complejidad de estos cerebros antiguos convirtió los reflejos simples en un mundo interior unificado de experiencia subjetiva."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiológico comparado, filogenético/evolutivo, filosófico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable mediante el estudio comparativo continuo de características neurobiológicas entre especies divergentes.",
+    "known_empirical_interventions_or_tests": "Análisis neurobiológico comparativo de vertebrados e invertebrados existentes frente a escalas de tiempo evolutivas y criterios anatómicos.",
+    "criticisms_and_tensions": "Se señala que la teoría desafía el modelo estándar de la evolución de la conciencia. Su afirmación de marketing de resolver el 'problema difícil' es presentada como menos definitiva por los propios autores.",
+    "open_questions_and_limitations": "No está claro cómo la teoría proporciona una solución original al 'problema difícil' de la experiencia fenoménica.",
+    "ontological_coherence": "Coherente con una ontología materialista y evolutiva fundamental, situando a la conciencia firmemente dentro de la ciencia biológica."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sí",
+      "rationale": "Como teoría materialista, no hay una prohibición de principio contra la reproducción artificial de la estructura física compleja necesaria para que surja la conciencia."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia se entiende como un producto de procesos neurales biológicos (cerebros complejos) que cesan con la muerte biológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanístico",
+      "rationale": "Como la conciencia es un mecanismo biológico evolucionado, no ofrece un sentido o propósito cósmico último más allá de la función adaptativa y la autocreación humana."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Dado que la conciencia está enteramente ligada a características físicas (estructura cerebral compleja evolucionada), la duplicación de esas características en un nuevo medio debería preservar el yo mental, haciendo alcanzable la inmortalidad virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Standard-Model Theory (of Consciousness Evolution)",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ancient Origins of Consciousness: How the Brain Created Experience, Todd Feinberg and Jon Mallatt",
+        "year": 2016
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Psicología Ecológica de Gibson",
+    "summary": "Gibson propone un enfoque corporeizado, situado y no representacional de la percepción, argumentando que la información está directamente disponible en el entorno (invariantes) y se percibe en términos de afordancias. Este enfoque ofrece una tercera vía más allá del cognitivismo y el conductismo, y puede inferirse cautelosamente como una explicación de la conciencia.",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Corporeizado y Enactivo",
+    "core_identity_tagline": "La Conciencia como Percepción Corporeizada y Situada de Afordancias",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se entiende, por extensión, como una función de la interacción continua y el flujo informacional dentro del sistema organismo-entorno, caracterizada por la percepción directa de invariantes y afordancias, en lugar de representaciones mentales internas.",
+    "ontological_status": "Fisicalismo/Realismo Directo",
+    "mind_body_relationship": "La mente/percepción es continua con la acción, centrándose en el sistema organismo-entorno como unidad de análisis, y rechazando la idea de que la mente sea reducible únicamente a procesos dentro de la cabeza.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil",
+    "subjectivity_and_intentionality": "La subjetividad está constituida por la relación dinámica y situada del organismo con el entorno (sistema organismo-entorno). La intencionalidad (la direccionalidad del pensamiento) se explica mediante la percepción de afordancias, que son posibilidades de acción inherentes al entorno.",
+    "qualia_account": "La teoría es no representacional y se alinea generalmente con posturas que rechazan los datos sensoriales internos (qualia) tal como se conciben tradicionalmente, favoreciendo la percepción directa de las propiedades ambientales (invariantes y afordancias).",
+    "ontological_commitments": "Sistema organismo-entorno, información óptica (invariantes), afordancias.",
+    "epistemic_access": "Accesible mediante el estudio de la relación entre el organismo y su entorno socio-físico, en lugar de la introspección centrada en estados internos.",
+    "constituents_and_structure": "La estructura de la conciencia/percepción se basa en la relación funcional entre el organismo y el entorno, enfatizando la continuidad entre percepción y acción."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Percepción/Cognición, Fenoménica (por inferencia cautelosa)",
+    "distinctive_mechanism_or_principle": "Percepción directa de invariantes ambientales (elementos inmutables en el flujo óptico) y afordancias (oportunidades de acción que ofrece el entorno).",
+    "dynamics_of_emergence": "El énfasis recae en el flujo dinámico y la continuidad dentro del sistema organismo-entorno, en lugar de la emergencia a partir de estructuras neuronales discretas y localizadas.",
+    "location_and_distribution": "Situada dentro del sistema organismo-entorno, extendiéndose más allá del cerebro y del interior de la cabeza.",
+    "causation_and_functional_role": "La percepción funciona para guiar el comportamiento adaptativo y mejora la aptitud biológica al detectar invariantes y oportunidades de acción (afordancias).",
+    "integration_or_binding": "La integración es inherente a la aprehensión directa y unificada del sistema organismo-entorno como una única unidad de análisis.",
+    "information_flow_or_representation": "Rechaza los modelos de procesamiento de información; la información es externa (invariantes) y es accedida directamente por los sistemas perceptivos sin necesidad de una construcción interna de representaciones.",
+    "evolutionary_account": "El énfasis en las afordancias sugiere que este sistema perceptivo evolucionó porque proporcionaba un evidente valor de supervivencia y mejoraba la aptitud biológica.",
+    "core_claims_and_evidence": [
+      "La percepción está directamente relacionada con el estímulo únicamente, sin requerir inferencia ni representaciones mentales internas.",
+      "Los objetos primarios de la percepción son las afordancias, no cualidades sensoriales particulares.",
+      "La unidad de análisis para comprender la percepción es el sistema organismo-entorno.",
+      "La teoría rechaza la premisa de la pobreza del estímulo común en los modelos cognitivistas."
+    ],
+    "basis_of_belief_or_evidence_type": "Experimental, Filosófica, Ecológica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable, en particular dentro de la psicología ecológica y los estudios de percepción.",
+    "known_empirical_interventions_or_tests": "Observación empírica de la percepción y análisis detallado de los campos de interacción organismo-entorno.",
+    "criticisms_and_tensions": "La teoría critica las teorías dominantes de la percepción, atacando específicamente tanto al conductismo como al cognitivismo/procesamiento de la información. Su extensión a la conciencia fenoménica es especulativa y está sujeta al escepticismo de quienes están comprometidos con las teorías de la representación interna.",
+    "open_questions_and_limitations": "La teoría central aborda la percepción y la cognición; su aplicación o extensión para explicar la conciencia fenoménica (el aspecto de 'qué se siente ser') requiere una inferencia cautelosa.",
+    "ontological_coherence": "Altamente coherente dentro de su ontología materialista ecológica, situada y antirreduccionista, pero entra en conflicto fundamental con las teorías que dependen de la manipulación de símbolos cognitivos."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Posible",
+      "rationale": "Si la conciencia es producto de una interacción directa y situada dentro de un sistema organismo-entorno (como implica esta teoría materialista), entonces la IA podría alcanzar la conciencia si se diseñara para corporeizarse e interactuar dentro de un entorno físico capaz de percibir afordancias."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoría se clasifica dentro del materialismo, centrándose en el organismo biológico vivo y su entorno físico. No se postula ningún componente no físico que pudiera sobrevivir a la muerte corporal."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanista/Adaptativo",
+      "rationale": "El rol funcional primario de la percepción es el comportamiento adaptativo mediante la detección de afordancias, en consonancia con una visión materialista donde el sentido es creado por los seres humanos en su entorno para la supervivencia y el florecimiento."
+    },
+    "virtual_immortality": {
+      "stance": "Condicional",
+      "rationale": "Como la conciencia está ligada a la unidad física organismo-entorno, la inmortalidad virtual solo sería alcanzable si las interacciones esenciales, corporeizadas y no representacionales, pudieran capturarse y simularse perfectamente en un nuevo medio físico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Direct Perception Theory",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

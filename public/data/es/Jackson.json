@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "El Representacionalismo Diáfano y el Argumento del Conocimiento de Jackson",
+    "summary": "El Representacionalismo Diáfano de Frank Jackson postula que el carácter fenoménico de la experiencia perceptiva se agota en su contenido representacional, es decir, 'vemos a través' de la experiencia hasta las propiedades del objeto. Esta posición fue desarrollada principalmente para socavar la conclusión de su propio y célebre experimento mental, el Argumento del Conocimiento, que anteriormente argumentaba en contra del Fisicalismo.",
+    "associated_thinkers": ["Frank Jackson"],
+    "category": "Materialism Theories",
+    "subcategory": "Representational",
+    "core_identity_tagline": "‘El Carácter Fenoménico se Agota en el Contenido Representacional’",
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "physicalism defense",
+      "epistemology",
+      "intentionality"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia (el carácter fenoménico) se identifica como el contenido representacional de los estados mentales relevantes que cumple ciertas condiciones, a menudo vinculadas a las propiedades del objeto de la experiencia.",
+    "ontological_status": "Fisicalismo Reductivo. (Justificación: el objetivo principal de la teoría es refutar el Argumento del Conocimiento, preservando así la suficiencia del fisicalismo/materialismo respecto a la conciencia fenoménica).",
+    "mind_body_relationship": "Identidad. La naturaleza fenoménica se agota en los contenidos funcionales e intencionales (hechos representacionales), que están instanciados físicamente.",
+    "primitive_or_emergent_status": "Emergente. (Justificación: la conciencia queda plenamente capturada por el contenido representacional instanciado por procesos físicos, lo que implica que no es fundamental para la realidad).",
+    "emergence_type": "Emergencia Débil. (Justificación: como defensa fisicalista reductiva, las propiedades fenoménicas quedan plenamente capturadas por, o son idénticas a, los contenidos físicos/representacionales y los roles funcionales, lo que implica derivabilidad en principio).",
+    "subjectivity_and_intentionality": "La subjetividad se explica mediante la tesis de la diafanidad: acceder a la naturaleza de la experiencia consiste simplemente en acceder a las propiedades de su objeto. La intencionalidad, el 'estar dirigido hacia' de los estados mentales, es central, dado que la experiencia es esencialmente representacional.",
+    "qualia_account": "Los qualia (el carácter fenoménico) quedan plenamente explicados o agotados por los contenidos representacionales de los estados mentales relevantes. Esto pretende mostrar que ningún conocimiento no físico (como 'lo que se siente al ver rojo') queda sin explicar por los hechos físicos/representacionales.",
+    "ontological_commitments": "Representaciones mentales, hechos físicos, y el rol funcional/los contenidos intencionales de los estados mentales.",
+    "epistemic_access": "La introspección respalda la tesis diáfana al revelar solo objetos externos y sus propiedades, no rasgos intrínsecos de la experiencia misma. El estudio científico en tercera persona del contenido representacional resulta, por tanto, adecuado.",
+    "constituents_and_structure": "La estructura de la conciencia queda determinada enteramente por los contenidos intencionales o la naturaleza representacional de los estados mentales; los hechos representacionales forman un conjunto suficiente para capturar la experiencia perceptiva."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica (en particular la naturaleza cualitativa de la experiencia perceptiva/qualia).",
+    "distinctive_mechanism_or_principle": "La diafanidad (transparencia) de la experiencia perceptiva. La conciencia es el resultado de representaciones de objetos, donde el sujeto 've a través' del estado perceptivo hasta las propiedades del objeto.",
+    "dynamics_of_emergence": "Propiedad estática. (Justificación: el modelo identifica la conciencia con el contenido representacional/la estructura intencional, centrándose en la identidad del estado final más que en un proceso dinámico de generación. Las fuentes no detallan dinámicas temporales)",
+    "location_and_distribution": "Ubicada en los estados mentales instanciados por el procesamiento representacional del cerebro.",
+    "causation_and_functional_role": "La experiencia consciente se agota en el rol funcional y el contenido representacional. Los hechos representacionales son suficientes para capturar la experiencia perceptiva completa.",
+    "integration_or_binding": "Se logra implícitamente mediante la naturaleza exhaustiva de los contenidos intencionales que componen la experiencia perceptiva. (Justificación: el mecanismo explícito de vinculación no se detalla en las fuentes, pero la unificación se asume en el 'conjunto'.)",
+    "information_flow_or_representation": "Las representaciones mentales elevan el poder explicativo de las nociones/imágenes percibidas internamente por encima de los meros estados neuronales, agotando la naturaleza experiencial.",
+    "evolutionary_account": "Se presume que la conciencia evolucionó como parte de la maquinaria representacional del cerebro. (Justificación: esto se infiere de su clasificación como Teoría Materialista, pero Jackson no ofrece un relato específico en las fuentes.)",
+    "core_claims_and_evidence": [
+      "La experiencia es diáfana (transparente): las propiedades fenoménicas son propiedades del objeto de la experiencia.",
+      "El representacionalismo fuerte sostiene que el modo en que una experiencia representa las cosas agota por completo su naturaleza experiencial.",
+      "El Argumento del Conocimiento fracasa porque el aprendizaje fenoménico se reduce a hechos representacionales, preservando así el fisicalismo."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica/Conceptual (basada en el análisis lógico de los conceptos fenoménicos y la naturaleza de la introspección)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable. (El éxito de la teoría descansa en el argumento filosófico de que el contenido representacional puede agotar lógicamente el carácter fenoménico, resolviendo así experimentos mentales como el Argumento del Conocimiento).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principal tensión reside en que los críticos argumentan que el representacionalismo no rechaza lógicamente el Argumento del Conocimiento, ya que una versión representacionalista del 'desafío de Mary' mantiene la dificultad para el fisicalismo.",
+    "open_questions_and_limitations": "Deben especificarse las condiciones precisas bajo las cuales el contenido representacional captura el carácter fenoménico, y sigue siendo cuestionada la coherencia conceptual de reducir por completo las propiedades fenoménicas a propiedades intencionales.",
+    "ontological_coherence": "Altamente coherente dentro de un marco fisicalista reductivo, dado que toda su motivación consiste en preservar el fisicalismo eliminando las propiedades fenoménicas irreducibles ('qualia')."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sí",
+      "rationale": "Si la conciencia se agota en el contenido representacional y el rol funcional, y estas propiedades pueden realizarse computacionalmente, entonces los sistemas de IA pueden alcanzar la conciencia."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoría es una defensa del Materialismo/Fisicalismo, lo que implica que la conciencia está ligada únicamente al sistema físico (el cerebro o su equivalente funcional/representacional), impidiendo la supervivencia más allá del cese biológico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "Como teoría materialista, no ofrece ningún sentido o propósito último fuera de lo que los seres humanos crean para sí mismos."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Dado que el carácter fenoménico queda plenamente capturado por el contenido funcional/representacional, una duplicación perfecta (mediante subida de la mente) de esos contenidos preservaría el yo mental original en primera persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Knowledge Argument (Mary's Room)",
+        "relationship": "Crítica/Origen"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Superposición"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The knowledge argument, diaphanousness, representationalism, Frank Jackson",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, Frank Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "What Mary Didn’t Know, Frank Jackson",
+        "year": 1986
+      }
+    ]
+  }
+}

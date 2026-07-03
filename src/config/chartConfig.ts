@@ -1,5 +1,11 @@
 import type { EChartsOption } from 'echarts'
 import { getTheoryFullName } from '@/data/theoryNames'
+import { getTaxonomyDict } from '@/utils/i18n'
+
+export function getDisplayLabel(englishKey: string): string {
+  const { categories, subcategories, shortLabels } = getTaxonomyDict()
+  return categories[englishKey] || subcategories[englishKey] || shortLabels[englishKey] || englishKey
+}
 
 const mysticPalette = {
   mainColors: [
@@ -513,9 +519,9 @@ export const getChartOptions = (): EChartsOption => {
           show: true,
           formatter: function (params: any) {
             if (params.data.parent === undefined) {
-              return `{title|${params.name}}`
+              return `{title|${getDisplayLabel(params.name)}}`
             }
-            return params.name
+            return getDisplayLabel(params.name)
           },
           rich: {
             title: {

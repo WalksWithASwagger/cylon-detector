@@ -1,3 +1,5 @@
+import { getTaxonomyDict } from '../utils/i18n'
+
 const staticTheoryNames: Record<string, string> = {
   // 1.1 Philosophical Theories
   'Eliminative': 'Eliminative Materialism / Illusionism',
@@ -251,5 +253,5 @@ const staticTheoryNames: Record<string, string> = {
 export const theoryFullNames = staticTheoryNames
 
 export function getTheoryFullName(shortName: string): string {
-  return staticTheoryNames[shortName] || shortName
+  return getTaxonomyDict().fullNames[shortName] || staticTheoryNames[shortName] || shortName
 }

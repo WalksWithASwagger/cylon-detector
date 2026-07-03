@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie des modèles de systèmes adaptatifs complexes",
+    "summary": "Cette théorie modélise la conscience comme le résultat émergent et adaptatif du cerveau, considéré comme un réseau dynamique d'interactions complexes et non linéaires. La conscience incarne des caractéristiques propres aux systèmes adaptatifs complexes (SAC), telles que l'imprévisibilité, la dynamique chaotique et les principes d'auto-organisation.",
+    "associated_thinkers": [],
+    "category": "Matérialisme",
+    "subcategory": "Computationnel et Informationnel",
+    "core_identity_tagline": "La conscience comme résultat dynamique et émergent d'un SAC",
+    "classification_tags": [
+      "complex systems",
+      "emergentism",
+      "non-linear",
+      "functionalism",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée au comportement intelligent, dynamique et adaptatif résultant des interactions complexes et non linéaires au sein du cerveau, lequel fonctionne comme un système adaptatif complexe.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "Émergentiste. L'esprit naît en tant que propriétés émergentes des interactions hautement complexes et non linéaires du système physique (le cerveau).",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible, tendant vers une émergence forte en raison de la nature hautement chaotique et imprévisible de la dynamique du système.",
+    "subjectivity_and_intentionality": "La subjectivité résulte implicitement de la complexité interne et de la capacité du système à s'auto-organiser ; l'intentionnalité s'explique par la nécessité de médier les entrées sensorielles et les sorties comportementales afin de résoudre des problèmes (SAC intelligent).",
+    "qualia_account": "Les qualia sont identifiés à des propriétés émergentes résultant directement de la dynamique collective, complexe et non linéaire du substrat physique sous-jacent.",
+    "ontological_commitments": "Les réseaux dynamiques, les interactions complexes et non linéaires, l'information, et les propriétés émergentes qui en résultent.",
+    "epistemic_access": "Accessible par l'observation et la modélisation mathématique de la dynamique du système, en particulier les comportements imprévisibles, chaotiques et non linéaires caractéristiques des systèmes complexes.",
+    "constituents_and_structure": "La structure de base est un réseau dynamique de composants en interaction (neurones/assemblées neuronales) organisé hiérarchiquement, caractérisé par la non-linéarité et des relations chaotiques."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal (en tant que propriété émergente), accès (par l'adaptation), et agentivité (le système résolvant des problèmes).",
+    "distinctive_mechanism_or_principle": "Des principes d'auto-organisation et des mécanismes d'adaptation fondés sur une dynamique non linéaire, permettant au système de modifier son comportement et de créer de la nouveauté.",
+    "dynamics_of_emergence": "Processus dynamique. La conscience résulte d'événements continus, auto-organisés et déclencheurs de changement à travers différents niveaux organisationnels, impliquant souvent des seuils et des interactions récursives.",
+    "location_and_distribution": "Systémique. La conscience est distribuée à travers l'ensemble du réseau dynamique du cerveau/organisme.",
+    "causation_and_functional_role": "La conscience fonctionne comme un « SAC intelligent » dont l'objectif premier est la résolution de problèmes, la médiation d'entrées sensorielles complexes, et la production d'une sortie comportementale flexible et adaptative pour la survie.",
+    "integration_or_binding": "L'intégration est une propriété intrinsèque du système complexe, où « le comportement collectif peut ne pas être prévisible à partir des comportements de ses composants », assurant l'unité de la production consciente.",
+    "information_flow_or_representation": "Le traitement de l'information se caractérise par des interactions non linéaires et récursives, le distinguant du traitement simple, linéaire ou algorithmique.",
+    "evolutionary_account": "La conscience a évolué en tant que SAC intelligent pour produire les propriétés émergentes nécessaires à la résolution complexe de problèmes et à l'avantage de survie, en médiant les entrées et les sorties.",
+    "core_claims_and_evidence": [
+      "Le cerveau est un système adaptatif complexe dont la production consciente présente une non-linéarité et des caractéristiques chaotiques.",
+      "La conscience dépend de l'histoire, de seuils et d'interactions récursives, reflétant sa nature de SAC.",
+      "Modéliser la conscience comme un SAC intelligent révèle son rôle adaptatif dans la résolution de problèmes entre entrée sensorielle et sortie comportementale."
+    ],
+    "basis_of_belief_or_evidence_type": "Computationnel, modélisation mathématique, théorie des systèmes, neurophilosophique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement et computationnellement testable, fondée sur la quantification de la complexité, du chaos et de la dynamique non linéaire au sein des réseaux neuronaux.",
+    "known_empirical_interventions_or_tests": "Tests analysant la relation non linéaire et chaotique entre les entrées et sorties de systèmes complexes, et évaluant les réponses comportementales adaptatives à la suite de perturbations.",
+    "criticisms_and_tensions": "La théorie est souvent critiquée, comme d'autres approches fonctionnalistes, pour décrire la *structure* du comportement systémique émergent sans expliquer la nature fondamentale de l'expérience subjective (qualia).",
+    "open_questions_and_limitations": "Le seuil précis ou les caractéristiques spécifiques au sein de la dynamique chaotique requises pour l'émergence de la conscience phénoménale (par opposition au traitement complexe non conscient) demeurent indéterminés.",
+    "ontological_coherence": "Hautement cohérente au sein d'un cadre physicaliste, définissant la conscience en fonction de son rôle fonctionnel adaptatif résultant de la complexité physique."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conscience est principalement le comportement émergent et adaptatif d'un réseau auto-organisé suffisamment complexe, ces attributs sont théoriquement reproductibles dans des systèmes artificiels avancés."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est enracinée dans la réalité physique des réseaux dynamiques au sein du corps (le cerveau), impliquant une cessation lors de la dissolution du substrat biologique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Pragmatique/existentiel",
+      "rationale": "Le rôle fonctionnel de la conscience est l'adaptation et la résolution de problèmes pour la survie, suggérant que le sens n'est inhérent qu'à l'existence persistante du système, non à un plan cosmique."
+    },
+    "virtual_immortality": {
+      "stance": "Possible/conditionnel",
+      "rationale": "L'immortalité virtuelle serait possible si la dynamique complexe, non linéaire et auto-organisée du SAC biologique pouvait être capturée et maintenue dans un support non biologique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Fonctionnalisme",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Matérialisme émergent de Bunge",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Attracteur chaotique et systèmes autopoïétiques de Combs",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Théories prédictives (descendantes)",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness as an intelligent complex adaptive system: a neuroanthropological perspective, C. Laughlin",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Emergence and the mind, M. Bunge",
+        "year": 1977
+      }
+    ]
+  }
+}

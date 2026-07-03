@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría relativista de Lahav",
+    "summary": "Esta teoría caracteriza la conciencia como un fenómeno físico relativo a las mediciones realizadas por un 'marco de referencia cognitivo'. De manera análoga a la velocidad en física, distintos observadores que operan en distintos marcos cognitivos manifestarán diferentes propiedades físicas (percatación consciente para uno mismo frente a actividad cerebral medida para otro) al observar el mismo fenómeno.",
+    "associated_thinkers": [
+      "Nir Lahav",
+      "Z.A. Neemeh"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Relacional",
+    "core_identity_tagline": "La Conciencia como Fenómeno Físico Relativo a un Marco de Referencia Cognitivo",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Las experiencias conscientes se identifican como surgidas del proceso de medición física en relación con un 'marco de referencia cognitivo'.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La relación es relativista: el mismo fenómeno subyacente se manifiesta como percatación consciente (desde el marco interno) o como actividad cerebral (desde un marco externo) según el contexto de medición. Esto sugiere una identidad o correlación dependiente del marco.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "No se detalla explícitamente, pero es probable que se trate de Emergencia Débil, ya que se apoya en principios físicos establecidos (o análogos a ellos) (relatividad, medición) en lugar de postular nuevas leyes fundamentales para la existencia de la conciencia misma.",
+    "subjectivity_and_intentionality": "La subjetividad es inherente a la definición del 'marco de referencia cognitivo'; dos personas, al estar en marcos cognitivos distintos, experimentan la conciencia de manera diferente. La intencionalidad (la direccionalidad del pensamiento) no se aborda explícitamente en las fuentes proporcionadas.",
+    "qualia_account": "Los qualia se explican implícitamente como propiedades físicas subjetivas manifestadas dentro de un marco de referencia cognitivo específico, aunque la naturaleza cualitativa intrínseca de la experiencia misma no se detalla.",
+    "ontological_commitments": "La realidad física, los procesos de medición física, y un 'marco de referencia cognitivo' que se establece por analogía con la física relativista.",
+    "epistemic_access": "El acceso depende del marco: dentro del propio marco cognitivo se experimenta la percatación consciente; desde un marco cognitivo separado, solo puede medirse la actividad cerebral.",
+    "constituents_and_structure": "La conciencia está estructurada por el propio proceso de medición física, dando lugar a diferentes propiedades o manifestaciones físicas según el marco de referencia."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Percatación consciente, manifestación física de propiedades.",
+    "distinctive_mechanism_or_principle": "El principio de que la conciencia es relativa a la medición física en un marco de referencia cognitivo, en lugar de ser creada por cómputos.",
+    "dynamics_of_emergence": "La conciencia surge dinámicamente del proceso de medición física. Distintas mediciones físicas en distintos marcos de referencia producen diferentes manifestaciones de experiencia consciente y actividad cerebral.",
+    "location_and_distribution": "Localizada en relación con el 'marco de referencia cognitivo' del observador.",
+    "causation_and_functional_role": "Las experiencias conscientes surgen 'debido a' el propio proceso de medición física. La conciencia no surge de procesos computacionales realizados por el cerebro.",
+    "integration_or_binding": "No se aborda explícitamente, pero se asume que está unificada dentro de un único marco de referencia cognitivo.",
+    "information_flow_or_representation": "Se señala explícitamente que el procesamiento de información (cómputo) *no* es el origen de las experiencias conscientes; la conciencia surge del proceso subyacente de medición física.",
+    "evolutionary_account": "Este ámbito no se aborda en el material fuente proporcionado.",
+    "core_claims_and_evidence": [
+      "La conciencia es un fenómeno físico relativo a las mediciones de un marco de referencia cognitivo.",
+      "Las experiencias conscientes surgen debido al proceso de medición física.",
+      "El cerebro no crea las experiencias conscientes mediante cómputos."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumento conceptual/teórico basado en la analogía con la física (relatividad)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable, ya que la teoría aborda la definición de fenómenos físicos y mediciones, aunque la comprobación empírica depende del desarrollo de mecanismos para poner a prueba la analogía del marco cognitivo.",
+    "known_empirical_interventions_or_tests": "No se enumeran intervenciones o pruebas empíricas específicas en las fuentes.",
+    "criticisms_and_tensions": "La fuente proporciona una descripción, no una sección crítica. La tensión potencial radica en traducir la analogía de la relatividad física (como la velocidad) en procesos cognitivos o neurobiológicos verificables y no metafóricos.",
+    "open_questions_and_limitations": "La instanciación física o neuronal precisa, y la definición del 'marco de referencia cognitivo', siguen siendo una cuestión abierta.",
+    "ontological_coherence": "Coherente dentro de un marco fisicalista que permite que las propiedades físicas fundamentales sean relativas a un observador o proceso de medición."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Dado que la teoría postula que la conciencia surge de la medición física, no del cómputo, los sistemas de IA requerirían procesos de medición física no computacionales que constituyan un marco de referencia cognitivo, haciéndolo condicional a una implementación de hardware que vaya más allá del simple cómputo."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "Este ámbito no se aborda en el material fuente proporcionado."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "Este ámbito no se aborda en el material fuente proporcionado."
+    },
+    "virtual_immortality": {
+      "stance": "Improbable",
+      "rationale": "Dado que la conciencia es no computacional y depende del proceso de medición física, la inmortalidad virtual estándar (cargar software/datos) es improbable, aunque la duplicación física del sistema físico relativista podría, en teoría, ser posible."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories of consciousness",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Computational Theories of Mind",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "Influencia"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}

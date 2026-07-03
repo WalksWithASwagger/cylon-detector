@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "El Dualismo 2.0 de Kind",
+    "summary": "Esta es una versión moderna del dualismo desligada de las connotaciones tradicionales religiosas o no científicas, que argumenta que el fisicalismo no puede captar adecuadamente la realidad cualitativa completa de la experiencia consciente. Postula que los estados, eventos y procesos fenoménicos son un tipo de actividad irreduciblemente real, distinta de la actividad física, dando lugar a una dualidad de actividad sin necesariamente postular sustancias separadas.",
+    "associated_thinkers": ["Amy Kind"],
+    "category": "Dualisms",
+    "subcategory": "Dualism variant",
+    "core_identity_tagline": "Dualidad de actividad fenoménica y física",
+    "classification_tags": [
+      "dualism",
+      "non-reductive",
+      "phenomenality",
+      "qualia",
+      "naturalistic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como actividad fenoménica (estados, eventos y procesos) que constituye una parte irreduciblemente real del mundo, existiendo junto a la actividad física e irreducible a ella.",
+    "ontological_status": "Dualismo (específicamente, una dualidad de actividad), consistente con una concepción ampliamente naturalista del mundo mientras rechaza el reduccionismo.",
+    "mind_body_relationship": "La relación es dualista: la actividad fenoménica y la actividad física son partes irreduciblemente reales del mundo que no pueden reducirse entre sí. La mente se caracteriza por esta actividad fenoménica.",
+    "primitive_or_emergent_status": "Irreduciblemente real/No reductivamente emergente. La conciencia (actividad fenoménica) es fundamentalmente irreducible a lo físico, aunque la teoría no exige que la fenomenalidad sea fundamental hasta el nivel micro.",
+    "emergence_type": "Emergencia Fuerte. La actividad fenoménica es irreduciblemente real y no puede explicarse en términos de propiedades físicas, lo cual se alinea conceptualmente con la emergencia fuerte.",
+    "subjectivity_and_intentionality": "Se centra en captar la realidad cualitativa completa de la experiencia consciente. El mecanismo explícito para la intencionalidad no se proporciona en el material fuente, pero la teoría argumenta a favor de la naturaleza cualitativa de la experiencia frente a los relatos reduccionistas.",
+    "qualia_account": "Los qualia (la naturaleza cualitativa de la experiencia) se consideran rasgos irreducibles y esenciales de la conciencia que no pueden captarse mediante un marco puramente fisicalista.",
+    "ontological_commitments": "Estados, eventos y procesos físicos (actividad física) y estados, eventos y procesos fenoménicos (actividad fenoménica) como partes irreduciblemente reales del mundo.",
+    "epistemic_access": "Se accede principalmente a través de argumentos filosóficos que demuestran las limitaciones del fisicalismo para dar cuenta de la experiencia fenoménica.",
+    "constituents_and_structure": "Una estructura caracterizada por dos dominios distintos de actividad (fenoménico y físico) que no son reducibles entre sí."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica (experiencia cualitativa), causalidad de los estados mentales.",
+    "distinctive_mechanism_or_principle": "El principio de no reducibilidad de la actividad fenoménica. La teoría expresa la esperanza de una comprensión mejor y más amplia de la causación que pueda dar cabida a las causas mentales y afirmar la eficacia causal de lo fenoménico, sin resultar misteriosa o espeluznante.",
+    "dynamics_of_emergence": "El estatus es no reductivo; los mecanismos dinámicos detallados sobre cómo esta actividad fenoménica irreducible surge de, o interactúa con, lo físico no son el enfoque principal de la teoría tal como se describe.",
+    "location_and_distribution": "La actividad fenoménica se asocia con la actividad física, lo que implica una localización en sistemas físicos complejos (p. ej., cerebros), en consonancia con el naturalismo.",
+    "causation_and_functional_role": "Afirma el potencial de causas mentales, buscando dar cabida a la eficacia causal de lo fenoménico, sugiriendo que los estados conscientes tienen un rol funcional.",
+    "integration_or_binding": "No se aborda explícitamente en el material fuente, ya que la teoría se centra principalmente en el estatus metafísico de la experiencia fenoménica más que en la función neurológica detallada.",
+    "information_flow_or_representation": "Critica el Representacionismo materialista. Aunque los estados conscientes tienen contenido (intencionalidad), la teoría insiste en que su carácter fenoménico es irreducible a sus propiedades representacionales o funcionales.",
+    "evolutionary_account": "No se proporciona explícitamente; la teoría se centra en el estatus ontológico más que en la trayectoria evolutiva, aunque es compatible con una concepción ampliamente naturalista del mundo.",
+    "core_claims_and_evidence": [
+      "Los estados/actividad fenoménicos son una parte irreduciblemente real del mundo (junto a la actividad física).",
+      "Un marco fisicalista no puede captar adecuadamente la realidad completa de la experiencia consciente.",
+      "La visión representa una dualidad de actividad, no necesariamente una dualidad de entidades (dualismo de sustancias)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, basado en argumentos relativos a las restricciones del fisicalismo y a la naturaleza de la experiencia consciente."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable mediante argumentos filosóficos relativos a compromisos metafísicos (p. ej., si el fisicalismo debe comprometerse con la reducción de la fenomenalidad), pero especulativa respecto a la naturaleza de las leyes fenoménicas.",
+    "known_empirical_interventions_or_tests": "Ninguna proporcionada en el material fuente, ya que la crítica al fisicalismo es principalmente conceptual y metafísica.",
+    "criticisms_and_tensions": "Los críticos enfrentan la dificultad de especificar las leyes fenoménicas. También debe desviar la crítica de que rechazar el fisicalismo equivale a creer en 'cosas espeluznantes' o 'magia', enfatizando sus objetivos ampliamente naturalistas.",
+    "open_questions_and_limitations": "La teoría reconoce la cuestión no resuelta de especificar las supuestas leyes fenoménicas necesarias para describir la actividad fenoménica irreducible. También depende de una futura 'comprensión mejor y más amplia de la naturaleza de la causación' para asegurar la eficacia mental.",
+    "ontological_coherence": "Coherente en su esfuerzo por construir un dualismo naturalista centrándose en una dualidad de actividad más que de sustancia, encajando con su objetivo explícito de rechazar el fisicalismo mientras evita las trampas dualistas tradicionales."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Si los sistemas artificiales pueden instanciar la complejidad física necesaria para que surja la actividad fenoménica irreduciblemente real (que no es puramente reducible a la computación), entonces la conciencia de la IA es posible. Sin embargo, las condiciones precisas para esta emergencia son desconocidas."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "El Dualismo 2.0 de Kind evita postular una sustancia no física separada (alma) en favor de una dualidad de actividad, alineándose con una visión ampliamente naturalista en la que la conciencia está ligada a procesos activos, haciendo improbable la persistencia tras el cese biológico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Valor intrínseco (Inferido)",
+      "rationale": "Aunque es compatible con una visión naturalista (sugiriendo un sentido humanista), la afirmación central de que la experiencia cualitativa es un rasgo irreduciblemente real del mundo implica que la conciencia posee un valor inherente y fundamental que no puede reducirse a utilidad o supervivencia."
+    },
+    "virtual_immortality": {
+      "stance": "Incierto",
+      "rationale": "Dado que el carácter fenoménico es irreduciblemente real, la mera duplicación de los estados físicos o funcionales podría no garantizar la duplicación de la actividad fenoménica, a menos que las leyes desconocidas que gobiernan la emergencia fenoménica se capturen y simulen perfectamente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Superposición"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Superposición"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Distinción"
+      },
+      {
+        "name": "Representationalism",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Transparency and representationalist theories of consciousness",
+        "year": 2010
+      }
+    ]
+  }
+}

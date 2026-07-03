@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Representacionalismo de Primer Orden",
+    "summary": "El Representacionalismo de Primer Orden (FOR) busca explicar la conciencia reduciéndola a estados intencionales externos, dirigidos hacia el mundo. Sostiene que el carácter fenoménico de la experiencia está enteramente determinado por el contenido de la representación, identificando los qualia con las propiedades externas que la experiencia representa que tienen los objetos.",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "Teorías del Materialismo",
+    "subcategory": "Representacional",
+    "core_identity_tagline": "La Conciencia como Estados Intencionales Externos, Dirigidos hacia el Mundo",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Los aspectos fenoménicos de las experiencias perceptivas son una y la misma cosa que las propiedades externas y reales del mundo que la experiencia representa que tienen los objetos.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Teoría de la identidad/Correlación reduccionista. Los estados mentales se identifican con representaciones realizadas en estados cerebrales que adquieren funciones informacionales específicas.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil",
+    "subjectivity_and_intentionality": "La intencionalidad (la direccionalidad del pensamiento) es primaria. La subjetividad está enteramente determinada por el contenido representacional, ya que las representaciones sensoriales están directamente disponibles para el sujeto.",
+    "qualia_account": "Los qualia (el carácter fenoménico) se identifican con el contenido representacional (representacionalismo fuerte) o con las propiedades externas representadas por la experiencia, resolviendo así el problema difícil mediante una explicación reductiva.",
+    "ontological_commitments": "Representaciones mentales, estados cerebrales que adquieren funciones informacionales, circuitería sensorial/perceptiva.",
+    "epistemic_access": "Accesible mediante métodos en tercera persona centrados en los correlatos neuronales y la difusión global de las representaciones, complementados por el autoinforme.",
+    "constituents_and_structure": "Representaciones sensoriales de primer orden y contenidos no conceptuales, difundidos globalmente en el cerebro."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica, Conciencia de acceso, Experiencia sensorial.",
+    "distinctive_mechanism_or_principle": "La conciencia surge cuando los estados cerebrales adquieren, típicamente mediante selección natural, la función de portar información relevante sobre objetos externos, convirtiéndose así en representaciones mentales.",
+    "dynamics_of_emergence": "La conciencia surge dinámicamente cuando los contenidos no conceptuales se difunden globalmente por todo el cerebro para su acceso y utilización.",
+    "location_and_distribution": "Los correlatos neuronales de la conciencia específica incluyen la actividad en la corteza sensorial y núcleos talámicos específicos, vinculándose al procesamiento recurrente en áreas perceptivas.",
+    "causation_and_functional_role": "La conciencia funciona para poner la información perceptiva a disposición de sistemas que permiten un comportamiento flexible, la formación de creencias y la selección de acciones.",
+    "integration_or_binding": "La integración se logra mediante la disponibilidad de la información sensorial (representaciones) a través de redes cognitivas globales (coincidiendo con la difusión global).",
+    "information_flow_or_representation": "Las representaciones de primer orden fluyen directamente desde los estímulos externos; el procesamiento de información es crucial para convertir los estados cerebrales en representaciones aptas para la conciencia.",
+    "evolutionary_account": "La conciencia evolucionó mediante selección natural, mediante la cual los estados cerebrales adquirieron la función de portar información que mejora las capacidades adaptativas del organismo.",
+    "core_claims_and_evidence": [
+      "Las propiedades fenoménicas son idénticas a propiedades externas y reales del mundo representadas por la experiencia.",
+      "La experiencia consciente coincide con la difusión global de contenidos no conceptuales de primer orden en el cerebro.",
+      "Los estados conscientes son representaciones cuyo contenido determina plenamente el sentir subjetivo."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (reducción conceptual, enfoque en la intencionalidad) y Empírica (datos de correlación neurocientífica)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable",
+    "known_empirical_interventions_or_tests": [
+      "Mapeo de los correlatos neuronales de la conciencia general y específica (corteza sensorial, núcleos talámicos)",
+      "Estudios que correlacionan la conciencia con la difusión global de contenido de primer orden"
+    ],
+    "criticisms_and_tensions": "Enfrenta el desafío general de las teorías representacionales: explicar la fenomenología únicamente en términos de intencionalidad. Los críticos cuestionan cómo la mera representación o el contenido informacional pueden dar cuenta plenamente del sentir cualitativo (qualia).",
+    "open_questions_and_limitations": "El mecanismo preciso mediante el cual el contenido de una representación no conceptual determina el 'qué se siente' subjetivo sigue siendo una brecha explicativa, aunque sus defensores sostienen que el aspecto fenoménico se resuelve mediante la identidad con propiedades externas.",
+    "ontological_coherence": "Altamente coherente dentro de una ontología materialista reductiva y funcionalista."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sí",
+      "rationale": "Como teoría materialista en la que la conciencia depende del contenido informacional y de la arquitectura funcional, los sistemas artificiales podrían instanciar conciencia si realizan las estructuras representacionales y funciones informacionales necesarias."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia se realiza enteramente mediante procesos cerebrales físicos; se descarta la supervivencia más allá de la destrucción del sustrato biológico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo Humanista",
+      "rationale": "Como teoría materialista, no fundamenta ningún sentido o propósito cósmico último, solo el sentido generado por los propios agentes conscientes."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Si el yo en primera persona está enteramente capturado por el contenido representacional y los estados informacionales, una duplicación perfecta (carga) de estos estados en un medio no biológico debería preservar el yo mental original."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Crítica/Contraste"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Extensión/Solapamiento"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Compatible/Solapamiento"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Influencia"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

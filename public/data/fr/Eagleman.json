@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Le possibilianisme d'Eagleman",
+    "summary": "Cette perspective plaide pour une ouverture intellectuelle (le possibilianisme) à l'égard de la conscience, rejetant les dogmes métaphysiques rigides. Sur le plan mécanistique, elle envisage la conscience comme une représentation hautement abstraite, de haut niveau (semblable à un PDG), qui filtre des processus neuronaux sous-jacents massifs, servant principalement à surveiller la réussite des objectifs et à intervenir lors d'événements surprenants. La théorie souligne que si l'esprit dépend intégralement du cerveau, la nature de l'expérience subjective (les qualia) demeure un mystère profond, peut-être conceptuellement insoluble.",
+    "associated_thinkers": [
+      "David Eagleman"
+    ],
+    "category": "Théories du Défi",
+    "subcategory": "",
+    "core_identity_tagline": "« La conscience comme représentation abstraite de haut niveau »",
+    "classification_tags": [
+      "possibilianism",
+      "abstraction",
+      "mysterianism",
+      "functionalism",
+      "skepticism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à une représentation abstraite, de haut niveau, de l'activité neuronale sous-jacente, nécessaire pour résumer la complexité et fixer des objectifs à long terme.",
+    "ontological_status": "Possibilianisme agnostique. Il reconnaît le lien empirique solide avec le physicalisme, mais reste ouvert à des explications alternatives (non matérialistes) en raison de la difficulté conceptuelle du problème difficile.",
+    "mind_body_relationship": "Dépendance intégrale. La conscience dépend intégralement du cerveau, comme le démontrent les effets des lésions cérébrales, mais la nature de cette relation de dépendance est explicitement laissée en suspens (c'est-à-dire nécessité contre suffisance).",
+    "primitive_or_emergent_status": "Émergente/Incertaine. La conscience est décrite comme reposant au sommet d'une machinerie complexe, ce qui implique l'émergence, bien que le « ressenti » subjectif soit considéré comme un mystère non résolu susceptible de contester l'émergence pure.",
+    "emergence_type": "Incertain. Si la corrélation observée implique une émergence à partir de processus physiques, l'incapacité à expliquer conceptuellement comment surgit le ressenti qualitatif suggère la nécessité possible de facteurs non matériels si le matérialisme s'avère insuffisant.",
+    "subjectivity_and_intentionality": "La subjectivité (le « ressenti ») est reconnue comme le mystère central que la science et les mathématiques actuelles ne peuvent expliquer. L'intentionnalité est implicitement traitée par les représentations abstraites de haut niveau liées à la surveillance des états d'objectifs (par exemple, succès/échec).",
+    "qualia_account": "Les qualia (l'expérience intérieure) sont reconnus comme fondamentalement mystérieux, dépourvus de toute explication théorique actuelle. L'incapacité à établir un pont conceptuel entre les processus physiques et l'expérience qualitative est soulignée comme une limite critique pour toutes les théories actuelles.",
+    "ontological_commitments": "S'engage sur l'existence d'un substrat neuronal massif et de représentations abstraites de haut niveau. En raison du mystère des qualia, elle maintient une ouverture intellectuelle quant à la possibilité d'éléments physiques ou non physiques supplémentaires, actuellement inconnus.",
+    "epistemic_access": "La conscience est vécue comme une abstraction de haut niveau (à la première personne). Elle est accessible scientifiquement par corrélation avec les états cérébraux (à la troisième personne), notamment lorsque des lésions affectent l'expérience consciente.",
+    "constituents_and_structure": "Des niveaux successifs d'abstraction construits sur une machinerie neuronale complexe sous-jacente, structurés pour fournir un résumé de haut niveau nécessaire à l'orientation et à l'intervention."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Accès (en tant que résumé abstrait), Agentivité (fonction de PDG), Phénoménale (en tant que mystère irréductible/défi).",
+    "distinctive_mechanism_or_principle": "Le « modèle du PDG » ou « abstraction de haut niveau », dans lequel la conscience fonctionne comme un gestionnaire préoccupé uniquement par des résultats complexes et par la fixation d'objectifs à long terme, ignorant généralement la machinerie de bas niveau sous-jacente sauf en cas de surprise.",
+    "dynamics_of_emergence": "La conscience est un processus dynamique naissant de niveaux successifs d'abstraction au sein du cerveau, privilégiant un traitement efficace plutôt que l'intégration brute des données.",
+    "location_and_distribution": "Localisée dans le cerveau, avec une activité reposant « au sommet d'une quantité massive de machinerie », ce qui suggère une dépendance à des systèmes neuronaux hautement organisés.",
+    "causation_and_functional_role": "La conscience permet la prise de décision de haut niveau, la planification et la surveillance de l'accomplissement des objectifs (par exemple, succès ou échec), remplissant une fonction adaptative en concentrant les ressources lorsque les résultats sont incertains ou surprenants.",
+    "integration_or_binding": "L'intégration s'opère par la création de représentations hautement abstraites, de haut niveau, synthétisant des quantités massives d'activité sous-jacente en résumés cohérents et simples.",
+    "information_flow_or_representation": "L'information est fortement filtrée et abstraite en représentations de haut niveau, réduisant la « tempête électrique neuronale » à de simples résumés fonctionnels.",
+    "evolutionary_account": "La fonction d'abstraction a probablement évolué pour accroître l'efficacité et la valeur adaptative en minimisant la charge computationnelle et en concentrant l'attention uniquement sur les informations d'ordre supérieur nécessaires ou sur les anomalies.",
+    "core_claims_and_evidence": [
+      "La conscience est une représentation abstraite de haut niveau (modèle du PDG).",
+      "La conscience est profondément mystérieuse ; nous ne pouvons pas encore imaginer une théorie qui explique le « ressenti ».",
+      "L'esprit dépend intégralement du cerveau (étayé par des preuves cliniques de lésions cérébrales)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirique (neurosciences), Conceptuelle, Philosophique (agnostique/possibilianiste)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Partiellement testable empiriquement en ce qui concerne le modèle d'abstraction fonctionnelle (rôle de PDG) et ses corrélats neuronaux, mais le problème philosophique central du ressenti subjectif est jugé conceptuellement intraitable.",
+    "known_empirical_interventions_or_tests": "Observation des corrélations entre les changements biologiques (par exemple, lésions cérébrales) et les changements d'état conscient, confirmant la dépendance.",
+    "criticisms_and_tensions": "Les critiques notent que cette position constitue un diagnostic du problème plutôt qu'une solution, offrant une ouverture philosophique sans prescription scientifique. Elle est fondamentalement sceptique à l'égard des affirmations réductionnistes actuelles.",
+    "open_questions_and_limitations": "La limite principale est le « problème difficile » : pourquoi l'abstraction de haut niveau procure-t-elle un ressenti ? On ignore si l'absence de solution relève d'un manque d'imagination ou d'une réfutation du matérialisme.",
+    "ontological_coherence": "Cohérente au sein du cadre possibilianiste, car elle intègre fidèlement à la fois les contraintes empiriques (dépendance cérébrale) et le fossé conceptuel/explicatif reconnu."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable (Conditionnel)",
+      "rationale": "Si la conscience est avant tout une fonction abstractive de haut niveau, une IA suffisamment complexe pourrait instancier cette fonction. Toutefois, le mystère du « ressenti » subjectif (qualia) demeure un obstacle conceptuel ouvert."
+    },
+    "survival_beyond_death": {
+      "stance": "Non (Conditionnel)",
+      "rationale": "L'esprit est explicitement considéré comme « dépendant intégralement du cerveau ». Cependant, la philosophie possibilianiste admet que la science future pourrait révéler des composantes non physiques actuellement inimaginables permettant la survie."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incertain/Humaniste",
+      "rationale": "En tant que théorie de défi sceptique, elle évite tout engagement cosmique ou ultime (possibilianisme). Le sens est dérivé de manière humaniste de la fonction de la conscience (fixation d'objectifs et exercice de l'agentivité)."
+    },
+    "virtual_immortality": {
+      "stance": "Possible (Conditionnel)",
+      "rationale": "Si la conscience est réduite avec succès à une représentation abstraite de haut niveau reposant sur une machinerie biologique, ces représentations pourraient, en principe, être téléchargées, à condition de surmonter la complexité technologique et de préserver le « ressenti » subjectif."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Le modèle des esquisses multiples de Dennett",
+        "relationship": "Chevauchement (en réduisant la conscience à un mécanisme fonctionnel/représentationnel nécessaire)"
+      },
+      {
+        "name": "Mystérianisme",
+        "relationship": "Chevauchement (en concluant que la nature fondamentale des qualia peut être conceptuellement inaccessible)"
+      },
+      {
+        "name": "Théories du matérialisme",
+        "relationship": "Critique (conteste la suffisance du matérialisme tout en acceptant la dépendance au cerveau)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Beyond God and atheism: why I am a ‘possibilian’",
+        "year": 2010
+      },
+      {
+        "title_with_names": "What is Consciousness? (Closer To Truth)",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is brain and mind the same thing? (Closer To Truth)",
+        "year": 2011
+      }
+    ]
+  }
+}

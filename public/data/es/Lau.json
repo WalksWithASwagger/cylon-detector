@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría del Monitoreo de la Realidad Perceptiva de Lau",
+    "summary": "Esta teoría de orden superior con base empírica propone que la percepción consciente ocurre cuando una representación de orden superior (HOR) específica valida una representación sensorial de primer orden como un reflejo fiable del mundo externo. La HOR actúa como una interfaz entre la percepción y la cognición, proporcionando el sentido subjetivo de justificación para la experiencia consciente.",
+    "associated_thinkers": [
+      "Hakwan Lau"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Representacional",
+    "core_identity_tagline": "'La Conciencia como Monitoreo de la Realidad Perceptiva'",
+    "classification_tags": [
+      "higher-order theory",
+      "representationalism",
+      "metacognition",
+      "functionalism",
+      "neurobiological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es un mecanismo funcional o interfaz entre la percepción y la cognición, instanciada por representaciones de orden superior que monitorean la fiabilidad y el estatus epistémico de los estados sensoriales de primer orden.",
+    "ontological_status": "Fisicalismo / Funcionalismo",
+    "mind_body_relationship": "La conciencia es idéntica a la actividad funcional específica de los mecanismos neuronales de orden superior (probablemente en la corteza prefrontal) que monitorean las representaciones sensoriales de primer orden. Se trata de una explicación materialista basada en la función cerebral.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil. La conciencia es una función que surge de estructuras organizativas complejas específicas (HOR) en el cerebro, lo que sugiere que es explicable o reducible en principio, en consonancia con su clasificación materialista.",
+    "subjectivity_and_intentionality": "La subjetividad surge de la conexión de la conciencia con la formación de creencias y la justificación epistémica a nivel subjetivo. La intencionalidad es portada por la representación perceptiva de primer orden que está siendo monitoreada.",
+    "qualia_account": "El 'qué se siente ser' subjetivo se explica por representaciones de orden superior que acceden a señales perceptivas analógicas de nivel inferior más ricas. La naturaleza analógica de estas señales determina la similitud subjetiva en relación con otras experiencias posibles.",
+    "ontological_commitments": "Representaciones perceptivas de primer orden, representaciones de monitoreo de orden superior (HORs), y mecanismos neuronales específicos ubicados principalmente en la corteza prefrontal.",
+    "epistemic_access": "Accesible mediante la investigación empírica y el modelado neuronal, centrados en las similitudes entre la percepción consciente y los mecanismos de metacognición sensorial. La HOR misma es un proceso subpersonal, pero su resultado conduce a inferencias subjetivamente justificadas para el agente.",
+    "constituents_and_structure": "La estructura involucra un proceso de dos niveles: representaciones de primer orden (sensoriales) que son etiquetadas o monitoreadas por representaciones de orden superior (cognitivas/metacognitivas), formando una interfaz mecanicista entre percepción y cognición."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (percepción y qualia), Cognitiva (metacognición, formación de creencias), De acceso (como consecuencia potencial).",
+    "distinctive_mechanism_or_principle": "El funcionamiento de una representación de orden superior (HOR) como una 'etiqueta o marca' que indica la fiabilidad percibida de las representaciones sensoriales de primer orden (Monitoreo de la Realidad Perceptiva), distinguiéndola de la fantasía o el ruido neuronal.",
+    "dynamics_of_emergence": "La conciencia surge dinámicamente con la instanciación del mecanismo funcional específico de la HOR, sirviendo como una interfaz crítica entre la entrada sensorial y el procesamiento cognitivo.",
+    "location_and_distribution": "El mecanismo probablemente reside dentro de la corteza prefrontal de los mamíferos, fuera de las regiones sensoriales primarias, solapándose con áreas responsables de la metacognición perceptiva.",
+    "causation_and_functional_role": "La HOR actúa como un mecanismo de compuerta para dirigir la información sensorial fiable hacia un procesamiento cognitivo posterior, asegurando que el agente pueda distinguir la realidad de la fantasía de manera fiable.",
+    "integration_or_binding": "La representación de orden superior accede a percepciones analógicas más ricas y de nivel inferior de las representaciones de primer orden, lo que implica que este proceso de monitoreo facilita la integración necesaria para una experiencia fenoménica unificada.",
+    "information_flow_or_representation": "La información fluye desde representaciones sensoriales espacialmente 'analógicas' (de primer orden) hacia sistemas cognitivos de orden superior, habilitando ventajas computacionales y determinando el carácter cualitativo.",
+    "evolutionary_account": "La teoría es consistente con una explicación evolutiva, ya que incorpora un discriminador (análogo a la IA) que mejora la supervivencia al diferenciar de manera fiable las percepciones verdaderas del mundo de las imágenes autogeneradas o el ruido.",
+    "core_claims_and_evidence": [
+      "La percepción consciente requiere una representación de orden superior que valide la entrada sensorial de primer orden como fiable.",
+      "Los mecanismos neuronales de la percepción consciente se solapan con los de la metacognición sensorial (cortezas prefrontal y parietal).",
+      "La teoría explica coherentemente la ceguera cortical (blindsight) como la ocurrencia de una representación de primer orden sin la correspondiente representación de orden superior necesaria."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica/Neurocientífica Cognitiva, Funcionalista"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable mediante el mapeo y la comparación de los correlatos neuronales de la percepción consciente y la metacognición sensorial, y mediante el poder predictivo respecto de los fenómenos de ceguera cortical.",
+    "known_empirical_interventions_or_tests": [
+      "Estudios de neuroimagen que correlacionan la actividad prefrontal/parietal con la metacognición sensorial y la percepción consciente."
+    ],
+    "criticisms_and_tensions": "Lau critica a los modelos rivales, posicionando la teoría como un enfoque 'centrista' superior e intermedio entre la Teoría del Espacio de Trabajo Global (demasiado centrada en el acceso) y las teorías puramente locales/recurrentes (demasiado centradas en las áreas sensoriales tempranas). Enfrenta la dificultad estándar de explicar por qué el monitoreo/la metacognición debería producir el 'qué se siente ser' cualitativo.",
+    "open_questions_and_limitations": "Necesita fundamentar plenamente la ambiciosa afirmación de que una representación mecanicista y analógica, accedida por una etiqueta de orden superior, puede explicar completamente la cualidad subjetiva de la experiencia.",
+    "ontological_coherence": "Altamente coherente dentro de un marco materialista neurobiológico y funcionalista."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Como teoría funcionalista, la conciencia depende de la implementación de la arquitectura informacional/funcional correcta (el mecanismo HOR). Si esta arquitectura puede instanciarse en un robot o programa informático, la conciencia artificial es posible."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia está explícitamente ligada a mecanismos neuronales específicos y especializados ubicados en el cerebro biológico (p. ej., la corteza prefrontal), sin dejar lugar a la persistencia tras la muerte biológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo Humanista",
+      "rationale": "El rol primario del mecanismo es funcional (distinguir la realidad de la fantasía y dirigir la información). No ofrece ningún propósito cósmico o último más allá de las ventajas adaptativas conferidas por este mecanismo biológico."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Si la arquitectura funcional e informacional específica, incluida la naturaleza analógica de las representaciones, pudiera cargarse y ejecutarse perfectamente en un sustrato no biológico, el yo mental en primera persona se preservaría porque la conciencia está definida por esa estructura funcional."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Instancia Específica/Extensión"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Crítica (Posicionada como una alternativa intermedia superior)"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Crítica (Posicionada como una alternativa intermedia superior)"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Compatible (Comparte un enfoque funcionalista/cognitivo para explicar las afirmaciones conscientes)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness, metacognition, & perceptual reality monitoring, Hakwan Lau",
+        "year": 2019
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Is consciousness a battle between your beliefs and perceptions?, Hakwan Lau",
+        "year": 2019
+      }
+    ]
+  }
+}

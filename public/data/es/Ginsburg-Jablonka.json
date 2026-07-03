@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "El Aprendizaje Asociativo Durante la Evolución de Ginsburg y Jablonka",
+    "summary": "Esta teoría propone que la fuerza impulsora en la transición hacia la conciencia básica o mínima durante la evolución fue la adquisición de capacidades de aprendizaje complejas. El marcador específico es el 'aprendizaje asociativo ilimitado', que permite a un organismo atribuir valor motivacional a estímulos o acciones novedosos y complejos para el aprendizaje futuro.",
+    "associated_thinkers": [
+      "Simona Ginsburg",
+      "Eva Jablonka"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Evolución Filogenética",
+    "core_identity_tagline": "'La Conciencia como Aprendizaje Asociativo Ilimitado'",
+    "classification_tags": [
+      "evolution",
+      "learning",
+      "minimal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como el surgimiento de capacidades de aprendizaje asociativo ilimitado en organismos en evolución.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La conciencia es enteramente física, resultando del producto de cerebros biológicos con mecanismos de aprendizaje complejos, alineándose con el materialismo/fisicalismo.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil",
+    "subjectivity_and_intentionality": "La subjetividad es la consecuencia de la capacidad computacional compleja habilitada por el aprendizaje asociativo ilimitado, que vincula estímulos/acciones externos con valores motivacionales internos, posibilitando así el aprendizaje futuro intencional y dirigido a metas.",
+    "qualia_account": "Los qualia (experiencia fenoménica básica/mínima) se implican como propiedades resultantes del funcionamiento exitoso del aprendizaje asociativo ilimitado, aunque el sentir cualitativo exacto no se detalla explícitamente en el material fuente.",
+    "ontological_commitments": "Cerebros biológicos evolucionados, organización neural, y mecanismos de aprendizaje complejos (aprendizaje asociativo ilimitado).",
+    "epistemic_access": "Accesible principalmente mediante la observación en tercera persona de comportamientos de aprendizaje a través de especies (el marcador evolutivo) e investigación biológica.",
+    "constituents_and_structure": "Las estructuras y redes neurales complejas que facilitan el aprendizaje asociativo ilimitado."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico (conciencia mínima), aprendizaje, y adaptación",
+    "distinctive_mechanism_or_principle": "El aprendizaje asociativo ilimitado (UAL), definido como la capacidad de atribuir valor motivacional a un estímulo o acción novedoso, compuesto y no inductor de reflejos, y utilizar esta base para el aprendizaje subsiguiente.",
+    "dynamics_of_emergence": "Desarrollo gradual e incremental a lo largo de escalas de tiempo filogenéticas, impulsado por presiones selectivas que favorecen capacidades de aprendizaje cada vez más flexibles y complejas.",
+    "location_and_distribution": "Localizada en las estructuras neurales biológicas de organismos capaces de aprendizaje asociativo ilimitado.",
+    "causation_and_functional_role": "La conciencia, impulsada por el UAL, posibilita el comportamiento adaptativo, la supervivencia, y el aprendizaje flexible respecto a señales ambientales novedosas y estados motivacionales internos.",
+    "integration_or_binding": "La integración se logra implícitamente mediante el procesamiento complejo necesario para que el UAL vincule estímulos externos dispares y estados motivacionales internos.",
+    "information_flow_or_representation": "El flujo de información implica procesar estímulos novedosos y complejos y asociarlos con valor motivacional, que luego se usa como información almacenada para el aprendizaje futuro.",
+    "evolutionary_account": "La conciencia surgió porque la evolución favoreció el desarrollo del aprendizaje asociativo ilimitado como un rasgo altamente adaptativo, identificando al UAL como el marcador evolutivo específico para la transición hacia la conciencia básica.",
+    "core_claims_and_evidence": [
+      "El aprendizaje durante la evolución es la fuerza impulsora de la transición hacia la conciencia básica",
+      "El marcador evolutivo es el 'aprendizaje asociativo ilimitado' (UAL)",
+      "El UAL permite atribuir valor motivacional a estímulos o acciones novedosos y compuestos para el aprendizaje futuro"
+    ],
+    "basis_of_belief_or_evidence_type": "Evolutivo, biológico, conceptual"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable/Verificable",
+    "known_empirical_interventions_or_tests": "Estudios comparativos de las capacidades de aprendizaje asociativo entre diversas especies para identificar el umbral conductual específico correspondiente al 'aprendizaje asociativo ilimitado'.",
+    "criticisms_and_tensions": "Como teoría materialista basada en mecanismos funcionales, enfrenta implícitamente el desafío explicativo de dar cuenta del aspecto cualitativo (qualia) de la conciencia mínima, frecuentemente denominado el problema difícil.",
+    "open_questions_and_limitations": "La teoría se centra en el surgimiento de la conciencia básica; los mecanismos precisos que gobiernan la transición hacia la conciencia de orden superior, el lenguaje, y la autoconciencia siguen siendo cuestiones abiertas.",
+    "ontological_coherence": "Altamente coherente dentro de un marco materialista puramente naturalista y evolutivo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Como teoría materialista donde la conciencia está ligada a un mecanismo específico y definible (UAL), es probable que este mecanismo pudiera instanciarse computacionalmente en sistemas artificiales, dando lugar a la conciencia en la IA."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia está intrínsecamente ligada a estructuras organizativas biológicas evolucionadas, lo que implica que cesa tras el cese irreversible de esos procesos físicos."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanístico",
+      "rationale": "En consonancia con las teorías materialistas, la conciencia es un rasgo evolutivo adaptativo, que proporciona beneficios organizativos, pero implica que no hay un sentido o propósito cósmico último más allá del valor creado por el ser humano."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Dado que la conciencia se explica mediante mecanismos físicos replicables (UAL), una duplicación perfecta de los patrones y vías neurales subyacentes en un medio no biológico debería ser posible, resultando en inmortalidad virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Feinberg and Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Evolution of the Sensitive Soul - Learning and the Origins of Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Picturing the Mind - Consciousness through the Lens of Evolution",
+        "year": 2022
+      }
+    ]
+  }
+}

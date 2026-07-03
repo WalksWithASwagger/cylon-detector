@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "La Synchronicité et l'Inconscient Collectif chez Jung",
+    "summary": "Ce cadre postule que la synchronicité, une coïncidence significative dépourvue de connexion causale, est un principe fondamental de la réalité au même titre que la causalité. Il relie cette connexion acausale à une réalité plus profonde, holistique et psychophysiquement neutre, à partir de laquelle émergent les états mentaux conscients.",
+    "associated_thinkers": ["Carl Jung", "Wolfgang Pauli"],
+    "category": "États Anormaux et Altérés",
+    "subcategory": "Cadre Conceptuel",
+    "core_identity_tagline": "« La Conscience reliée par un Sens Acausal »",
+    "classification_tags": [
+      "synchronicity",
+      "collective unconscious",
+      "dual-aspect monism",
+      "acausal parallelism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est fondamentalement liée au domaine qualitatif du sens, émergeant d'une réalité psychophysiquement neutre qui sous-tend à la fois les domaines mental et physique.",
+    "ontological_status": "Monisme à double aspect (fondé sur la conjecture de Pauli-Jung, proposant une réalité sous-jacente neutre) ou Idéalisme (le plus souvent associé à la vision du monde de Jung)",
+    "mind_body_relationship": "L'esprit et la matière sont des aspects dérivés et corrélés d'une seule réalité sous-jacente, psychophysiquement neutre, reliés par un parallélisme acausal (la synchronicité).",
+    "primitive_or_emergent_status": "Émergent (les états mentaux conscients émergent de l'inconscient, qui est lui-même enraciné dans une réalité psychophysiquement neutre primitive).",
+    "emergence_type": "Émergence forte (implicitement requise, puisque la conscience se rapporte à un principe acausal de rang égal à la causalité, suggérant une irréductibilité aux lois physiques connues).",
+    "subjectivity_and_intentionality": "La subjectivité naît de l'émergence des états mentaux conscients à partir de l'inconscient collectif. L'intentionnalité est centrale, car les corrélations sont médiées par le sens qualitatif (la « monnaie » de la synchronicité).",
+    "qualia_account": "Les propriétés phénoménales qualitatives sont implicitement liées au sens qualitatif inhérent au domaine psychophysiquement neutre, et sont corrélées avec des facteurs d'ordonnancement (les archétypes) qui émergent de l'inconscient collectif.",
+    "ontological_commitments": "Réalité psychophysiquement neutre, inconscient collectif, et archétypes (comme facteurs d'ordonnancement).",
+    "epistemic_access": "Accessible par l'introspection, les phénomènes psychologiques (conceptions de la psychologie des profondeurs), et la reconnaissance de coïncidences significatives anormales (la synchronicité).",
+    "constituents_and_structure": "La structure organisationnelle centrale est le niveau psychophysiquement neutre, qui est fondamentalement holistique et comprend l'inconscient collectif. Cette composante n'est pas séparée entre les individus."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale (en remettant en cause les explications matérialistes), connexion non locale entre les esprits, et la composante collective de l'inconscient.",
+    "distinctive_mechanism_or_principle": "La synchronicité : un principe de connexion acausal ou une coïncidence significative d'événements mentaux et physiques.",
+    "dynamics_of_emergence": "Les états mentaux conscients émergent dynamiquement du domaine inconscient (par analogie avec la mesure physique/l'effondrement des ondes).",
+    "location_and_distribution": "La composante de l'inconscient collectif est non locale et non séparée entre les individus, existant au sein d'une réalité holistique sous-jacente.",
+    "causation_and_functional_role": "Opère par le parallélisme acausal ; les archétypes fonctionnent comme des facteurs d'ordonnancement organisant les manifestations mentales et physiques. L'existence de la synchronicité remet fondamentalement en cause la causalité matérialiste classique.",
+    "integration_or_binding": "L'intégration et le liage se produisent de façon holistique via la réalité sous-jacente psychophysiquement neutre et les archétypes agissant comme facteurs d'ordonnancement.",
+    "information_flow_or_representation": "Les corrélations entre les domaines mental et physique sont médiées par le sens qualitatif, plutôt que par l'information statistique quantitative.",
+    "evolutionary_account": "Le matériau source se concentre sur la corrélation métaphysique entre l'esprit et la réalité plutôt que sur une origine phylogénétique détaillée ou un rôle adaptatif de la conscience.",
+    "core_claims_and_evidence": [
+      "La synchronicité est un principe de connexion acausal de rang égal à la causalité.",
+      "Une réalité psychophysiquement neutre sous-tend les domaines mental et physique, reliés par un sens qualitatif.",
+      "L'inconscient collectif, peuplé d'archétypes, relie les individus de manière non locale."
+    ],
+    "basis_of_belief_or_evidence_type": "Spéculation philosophique et psychologique, conceptions de la psychologie des profondeurs, et analogies tirées de concepts de la théorie quantique."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculatif (hautement théorique et reposant sur des concepts non locaux et des événements anormaux, rendant les tests empiriques traditionnels difficiles).",
+    "known_empirical_interventions_or_tests": "N/A (aucun test empirique canonique propre à cette théorie n'est répertorié dans les sources, car il s'agit principalement d'un cadre conceptuel lié à la cognition anormale).",
+    "criticisms_and_tensions": "Critiquée car peu de scientifiques acceptent littéralement l'inconscient collectif. Les analogies établies entre la synchronicité acausale et l'intrication quantique sont critiquées comme potentiellement superficielles ou « forcées artificiellement ».",
+    "open_questions_and_limitations": "La principale limite consiste à fournir des preuves empiriques de l'inconscient collectif et à établir le mécanisme de la corrélation acausale. Le cadre doit s'appuyer sur l'acceptation de visions du monde non matérialistes.",
+    "ontological_coherence": "Cohérent avec des ontologies non matérialistes telles que l'Idéalisme, le Panpsychisme et le Dualisme. Il est fondamentalement contradictoire avec les explications strictement matérialistes."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Incertain (Conditionnel)",
+      "rationale": "Si la conscience est enracinée dans une réalité psychophysique fondamentale et non locale (l'inconscient collectif), les systèmes artificiels auraient besoin d'un mécanisme pour accéder à cette réalité ou y participer, rendant sa réalisation hautement conditionnelle."
+    },
+    "survival_beyond_death": {
+      "stance": "Probable",
+      "rationale": "La théorie implique une réalité élargie et non locale (l'inconscient collectif/domaine neutre) où les éléments archétypaux persistent, en cohérence avec les vues autorisant un état de conscience après la mort biologique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Ultime/Cosmique",
+      "rationale": "Le cadre est centré sur un sens qualitatif inhérent et des facteurs d'ordonnancement téléologiques (les archétypes), suggérant une finalité cosmique qui s'étend au-delà de la nécessité humaniste ou biologique."
+    },
+    "virtual_immortality": {
+      "stance": "Improbable (Conditionnel)",
+      "rationale": "L'immortalité virtuelle repose sur la duplication numérique du soi individuel. Puisque la conscience est dérivée d'une source collective et non locale, reproduire l'état conscient personnel émergent spécifique dans une simulation sans capturer la source non physique échouerait probablement à préserver le soi original à la première personne."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Conjecture de Pauli-Jung",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Monisme à Double Aspect",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Idéalismes",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Théories Quantiques",
+        "relationship": "Chevauchement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Synchronicity",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Pauli–Jung conjecture and its relatives: a formally augmented outline, H. Atmanspacher",
+        "year": 2020
+      }
+    ]
+  }
+}

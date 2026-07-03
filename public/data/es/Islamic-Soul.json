@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría del Alma Islámica",
+    "summary": "Este marco filosófico dualista postula que la persona humana está esencialmente compuesta por un cuerpo físico y una sustancia independiente y no física, a menudo llamada el alma o *nafs*, generada o colocada por Dios. La teoría aborda la relación entre el alma y el cuerpo, afirmando la independencia y persistencia del alma tras la muerte.",
+    "associated_thinkers": [
+      "al-Kindî",
+      "al-Farabi",
+      "Avicenna",
+      "Averroes",
+      "Hamza Yusuf",
+      "Seyyed Hossein Nasr"
+    ],
+    "category": "Dualismos",
+    "subcategory": "El Alma en la Filosofía Islámica",
+    "core_identity_tagline": "El Alma/Nafs como Luz Espiritual colocada por Dios",
+    "classification_tags": [
+      "substance dualism",
+      "theology",
+      "spiritual light",
+      "afterlife",
+      "immaterial"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como una 'luz espiritual' que Dios ha colocado en el ser humano, residiendo en el alma no física o *nafs*.",
+    "ontological_status": "Dualismo de Sustancias (existe una sustancia no física separada e independiente —el alma— junto al cuerpo físico).",
+    "mind_body_relationship": "La relación está configurada por la unificación del alma con el cuerpo, el efecto del alma sobre el cuerpo, su independencia, y su separación tras la muerte del cuerpo. El alma actúa como el principio organizador y sustentador central del cuerpo, aunque el alma se relaciona accidentalmente con un cuerpo particular (visión de Avicena).",
+    "primitive_or_emergent_status": "Primitivo/Creado",
+    "emergence_type": "N/A (el alma se considera una sustancia independiente, generada o emanada a menudo por inteligencias divinas o por Dios, en lugar de emerger de procesos físicos).",
+    "subjectivity_and_intentionality": "La subjetividad es inherente al alma no física (*nafs*, que significa yo/psique), la cual es la fuente de la conciencia. La intencionalidad y el pensamiento se realizan a través de facultades jerárquicas del alma, que culminan en la facultad racional.",
+    "qualia_account": "La experiencia cualitativa es intrínseca al alma no física o 'luz espiritual' que constituye la conciencia, lo que significa que la sensación de la experiencia reside en esta esencia inmaterial.",
+    "ontological_commitments": "Cuerpos físicos, almas/espíritus sustanciales no físicos, y una realidad ontológica superior (por ejemplo, inteligencias separadas o Dios) que es la fuente última del alma.",
+    "epistemic_access": "La conciencia se accede mediante la evaluación filosófica/teológica y la práctica espiritual, como el recuerdo de Dios usado para 'pulir el espejo del alma'.",
+    "constituents_and_structure": "El constituyente básico es el alma inmaterial (*nafs*), que puede tener una estructura jerárquica de facultades (por ejemplo, nutritiva, sensorial, imaginativa y racional, tal como describe Averroes).",
+    "scope_of_consciousness": "La conciencia fenomenal, los procesos intelectivos, y la autoconciencia (a través del *nafs*)."
+  },
+  "mechanism_and_dynamics": {
+    "distinctive_mechanism_or_principle": "La función de la conciencia está mediada por una luz espiritual (el alma) que, al unificarse con el cuerpo, actúa como su principio organizador y sustentador, afectando la existencia del cuerpo.",
+    "dynamics_of_emergence": "No aplicable/Creación (el alma es una sustancia creada o emanada y no surge dinámicamente de los procesos cerebrales físicos).",
+    "location_and_distribution": "El alma no física está unificada con el cuerpo físico, actuando como su forma o principio organizador durante la vida, pero es capaz de una existencia independiente.",
+    "causation_and_functional_role": "El alma ejerce influencia causal al sustentar el cuerpo y habilitar facultades superiores como el pensamiento racional. Sin embargo, como todos los dualismos de sustancias, el mecanismo de la interacción físico-no física está sujeto al problema de la causación mental.",
+    "integration_or_binding": "La integración se logra mediante el alma, que actúa como una realidad única y sustancial que informa y unifica las diversas facultades y componentes del cuerpo.",
+    "information_flow_or_representation": "La información se procesa jerárquicamente a través de las facultades del alma, dando lugar a funciones cognitivas cada vez más complejas, que culminan en el alma racional/intelectiva.",
+    "evolutionary_account": "No se basa principalmente en la evolución filogenética (justificación: la teoría está arraigada en explicaciones teológicas y filosóficas de la creación, más que en procesos evolutivos materiales, aunque Averroes describe una jerarquía de facultades en el alma).",
+    "core_claims_and_evidence": [
+      "El alma es una sustancia inmaterial (*nafs*) central en la existencia humana.",
+      "La conciencia es fundamentalmente una 'luz espiritual' otorgada por Dios a los seres humanos.",
+      "El alma es independiente del cuerpo y preserva su individualidad al separarse tras la muerte."
+    ],
+    "basis_of_belief_or_evidence_type": "Teológica, filosófica, fenomenológica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativa/filosófica (justificación: la teoría se basa en la existencia de una sustancia espiritual y no material —el alma— que no es accesible mediante los métodos científicos actuales en tercera persona, colocándola fuera de la investigación empírica estándar).",
+    "known_empirical_interventions_or_tests": "Ninguna (justificación: en las fuentes no se hace referencia a intervenciones empíricas diseñadas para probar la existencia u operación de la luz espiritual o del *nafs* inmaterial).",
+    "criticisms_and_tensions": "Como otras formas de dualismo de sustancias, esta teoría enfrenta el desafío de explicar una continuidad ontológica, causal o epistemológica coherente entre el alma no física y el cerebro físico (el problema de la interacción mente-cuerpo).",
+    "open_questions_and_limitations": "La naturaleza precisa de la composición del alma y cómo interactúa causalmente con el cuerpo físico, así como la cuestión de si el alma preserva una individualidad completa y autoconsciente en su estado separado tras la muerte.",
+    "ontological_coherence": "Coherente dentro de un marco dualista y teísta en el que una fuente Divina (Dios) provee o emana la sustancia no física (el alma), sosteniendo una realidad multinivel."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "Si la conciencia requiere un alma no física que es creada o emanada divinamente, los sistemas de inteligencia artificial (IA), que son puramente materiales, no pueden alcanzar una conciencia verdadera."
+    },
+    "survival_beyond_death": {
+      "stance": "Sí",
+      "rationale": "El alma es una sustancia independiente considerada 'eviterna' (con principio pero sin fin) que se separa del cuerpo en la muerte, permitiendo la supervivencia y la continuación del desarrollo en un estado metacósmico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Último/Cósmico",
+      "rationale": "La conciencia y el alma están fundamentalmente ligadas a Dios y a la creación, imbuyendo a la existencia humana de un sentido y propósito últimos y de raíz divina."
+    },
+    "virtual_immortality": {
+      "stance": "Imposible",
+      "rationale": "La inmortalidad virtual depende de duplicar la estructura neuronal física. Dado que la conciencia requiere una sustancia anímica no física, replicar solo los componentes físicos daría como resultado una entidad no consciente, haciendo imposible la persistencia en primera persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Swinburne’s Substance Dualism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Stump’s Thomistic Dualism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Historical and Traditional Dualisms",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Indian Cosmic Consciousness (Idealism)",
+        "relationship": "Comparación/Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Soul-Body Relation in İslamic Philosophy",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Arabic and Islamic psychology and philosophy of mind, Alfred Ivry",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Hamza Yusuf on Consciousness",
+        "year": 2023
+      }
+    ]
+  }
+}

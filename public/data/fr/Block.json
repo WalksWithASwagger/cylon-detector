@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Le réductionnisme biologique de Block",
+    "summary": "Block plaide pour une conception physicaliste réductive de la conscience phénoménale, la distinguant nettement de l'accès cognitif. Il propose que la conscience phénoménale soit réductible à des propriétés neurobiologiques spécifiques, telles que les activités électrochimiques et les systèmes intégrés complexes présents dans les régions cérébrales sensorielles et post-sensorielles.",
+    "associated_thinkers": [
+      "Ned Block"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Philosophique",
+    "core_identity_tagline": "La conscience phénoménale comme activité électrochimique neurobiologique",
+    "classification_tags": [
+      "physicalism",
+      "reductionism",
+      "neurobiology",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Les états phénoménaux sont littéralement identiques à des types spécifiques d'états neurobiologiques, caractérisés par leur nature électrochimique.",
+    "ontological_status": "Physicalisme réductif",
+    "mind_body_relationship": "Théorie de l'identité esprit-cerveau (en tant que candidate solide pour la réduction), où les états mentaux sont identiques aux états cérébraux physiques.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (Justification : le réductionnisme implique que la conscience est entièrement explicable et réductible à des propriétés physiques de niveau inférieur, ce qui correspond à la définition de l'émergence faible.)",
+    "subjectivity_and_intentionality": "La subjectivité est liée à la machinerie biologique spécifique requise pour la réduction. Soutient le représentationnalisme de premier ordre, reliant le caractère phénoménal directement au contenu intentionnel de premier ordre.",
+    "qualia_account": "Les qualia sont identifiés à (ou réductibles à) des propriétés neurobiologiques et électrochimiques spécifiques du système intégré du cerveau.",
+    "ontological_commitments": "L'activité électrochimique des neurones, des circuits neuronaux spécifiques et la connectivité avec des structures sous-corticales comme le thalamus.",
+    "epistemic_access": "Accessible par l'investigation scientifique visant à trouver la propriété physique qui remplit le rôle fonctionnel de la conscience, en examinant particulièrement la base neuronale de la conscience phénoménale.",
+    "constituents_and_structure": "Des étincelles neurophysiologiques se propageant et des neurotransmetteurs chimiques se diffusant, composant un système complexe et intégré."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale, la conscience sensorielle (la distinguant explicitement de l'accès cognitif/la conscience d'accès).",
+    "distinctive_mechanism_or_principle": "La réduction neurobiologique fondée sur la nature électrochimique du cerveau. La perception consciente est associée à des activations récurrentes dans les aires perceptives (comme l'aire visuelle V5), distinctes de la diffusion globale requise pour l'accès cognitif.",
+    "dynamics_of_emergence": "La conscience naît du système magnifiquement complexe et intégré de l'activité électrochimique. La phénoménologie de premier ordre pourrait favoriser causalement la diffusion globale, inversant l'hypothèse de théories comme la théorie de l'espace de travail global.",
+    "location_and_distribution": "Localisée dans les systèmes sensoriels et peut-être post-sensoriels (par exemple, le cortex visuel) nécessitant une connectivité avec le thalamus. La conscience phénoménale est considérée comme « débordant » l'accessibilité cognitive.",
+    "causation_and_functional_role": "L'accent principal porte sur l'identité plutôt que sur la fonction. La conscience phénoménale pourrait être un facteur causal favorisant la diffusion globale pour l'accès cognitif.",
+    "integration_or_binding": "Réalisée par l'organisation intégrée et complexe de l'activité électrochimique du système neuronal.",
+    "information_flow_or_representation": "Favorise le représentationnalisme de premier ordre, postulant que le caractère phénoménal est représenté par un contenu intentionnel analogique et fin dans des mémoires à court terme, disponible pour des pensées d'ordre supérieur.",
+    "evolutionary_account": "Suppose une origine évolutive de la machinerie biologique requise, cohérente avec le physicalisme, mais les revendications évolutives spécifiques ne constituent pas le point central de la théorie.",
+    "core_claims_and_evidence": [
+      "La conscience phénoménale est réductible à sa base physique en neurobiologie.",
+      "La nature électrochimique des systèmes neuronaux est la candidate pour la réduction de la conscience.",
+      "La conscience phénoménale déborde de l'accessibilité cognitive, ce qui signifie que nous avons plus d'expérience que nous ne pouvons en rapporter.",
+      "La perception consciente est identifiée à des boucles récurrentes actives dans les aires perceptives ainsi qu'à des conditions de fond."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (défense du réductionnisme), empirique (recours à des exemples et données neurobiologiques)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable (nécessite d'identifier avec succès la propriété physique qui réalise littéralement le rôle phénoménal).",
+    "known_empirical_interventions_or_tests": "Investigation de l'activité neuronale et des corrélations (par exemple, activité électrochimique, boucles récurrentes) dans les systèmes sensoriels et post-sensoriels pour trouver le candidat à la réduction neurobiologique.",
+    "criticisms_and_tensions": "Critiquée pour ne pas combler le fossé explicatif en ne rendant pas l'énoncé d'identité intelligible. Block lui-même soutient que le fonctionnalisme métaphysique et le physicalisme réductif sont des rivaux incompatibles. Des expériences de pensée comme les « qualia évanescents » remettent en question la nécessité d'un matériel biologique spécifique pour la phénoménologie.",
+    "open_questions_and_limitations": "Le défi principal est de trouver la propriété physique spécifique qui achève avec succès la réduction (la « seconde étape »). Il faut expliquer pleinement pourquoi la machinerie biologique spécifique est nécessaire aux qualia.",
+    "ontological_coherence": "Cohérente avec l'ontologie matérialiste ; hautement cohérente avec la théorie de l'identité esprit-cerveau. Block considère sa position comme incompatible avec le fonctionnalisme en tant que revendication métaphysique."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Non",
+      "rationale": "Si la conscience est réductible à la nature électrochimique/biologique spécifique du tissu neural, alors les systèmes non biologiques (comme l'IA numérique) dépourvus de cette composition physique spécifique ne peuvent instancier une véritable conscience phénoménale."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "Puisque la conscience est identifiée à des processus biologiques du cerveau et y est réductible, la destruction du cerveau entraîne la cessation de la conscience."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incertain",
+      "rationale": "En tant que pure réduction physicaliste, la théorie n'offre aucun sens ou finalité cosmique, bien qu'elle permette implicitement un sens humaniste créé par l'organisme conscient (commun à la plupart des théories du matérialisme)."
+    },
+    "virtual_immortality": {
+      "stance": "Non",
+      "rationale": "Block suggère que la phénoménologie dépend de la nature de notre machinerie biologique. Puisque l'immortalité virtuelle repose sur une réplication computationnelle/fonctionnelle dans un support non biologique, le caractère phénoménal (les qualia) serait probablement perdu lors du transfert."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Higher-Order Theories (HOT)",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Consciousness, accessibility, and the mesh between psychology and neuroscience",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Functional reduction",
+        "year": 2008
+      }
+    ]
+  }
+}

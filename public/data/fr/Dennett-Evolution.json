@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "L'évolution des esprits selon Dennett",
+    "summary": "Ce cadre théorique avance que l'esprit et la conscience résultent entièrement de l'évolution par sélection naturelle, en soulignant que l'organisation complexe (le dessein, les raisons, la compétence) est apparue sans nécessiter de concepteur ou de raisonneur conscient. Il explique le développement des esprits humains à travers des niveaux successifs et purement matériels d'abstraction et de complexité.",
+    "associated_thinkers": [
+      "Daniel Dennett"
+    ],
+    "category": "Théories du Matérialisme",
+    "subcategory": "Évolution Phylogénétique",
+    "core_identity_tagline": "Des esprits évolués par sélection naturelle, sans magie",
+    "classification_tags": [
+      "evolution",
+      "naturalism",
+      "phylogenetic",
+      "materialism",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience et l'esprit sont identifiés comme des processus physiques hautement complexes — une panoplie évoluée d'outils de pensée bâtie sur des processus matériels, où la « magie » de l'esprit s'accomplit sans magie.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "Théorie de l'identité/réductionniste. Les états mentaux sont entièrement le produit de cerveaux biologiques, pleinement expliqués par des états physiques, ce qui est cohérent avec la position matérialiste plus large de Dennett.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible. La conscience est entièrement explicable en principe par les processus physiques sous-jacents, ce qui rejette la nécessité d'une émergence forte ou d'une intervention non physique.",
+    "subjectivity_and_intentionality": "La subjectivité est construite par des structures organisationnelles évoluées, telles que le « centre de gravité narratif ». L'intentionnalité (le fait d'être « à propos de » quelque chose) apparaît lorsque des amas compliqués de molécules développent la capacité d'avoir une signification ou un contenu.",
+    "qualia_account": "Les qualia (le ressenti qualitatif) sont traités comme des « illusions utilisateur » incohérentes et illusoires — des réseaux neuronaux complexes et activés résultant du processus évolutif, plutôt que des propriétés mentales intrinsèques et inanalysables.",
+    "ontological_commitments": "Le monde physique, les lois naturelles, les cerveaux biologiques, et les processus de sélection naturelle.",
+    "epistemic_access": "La perspective à la troisième personne de la science, en particulier au moyen de la méthode de l'hétérophénoménologie, qui traite les affirmations introspectives comme des données à expliquer, et non comme des comptes rendus véridiques de la réalité mentale.",
+    "constituents_and_structure": "La structure de l'esprit consiste en une panoplie élaborée d'« outils de pensée » évolués et de niveaux organisationnels hiérarchiques bâtis sur l'évolution biologique."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "L'origine phylogénétique, le contenu, la structure de l'esprit, la conscience (déflatée/illusoire), la conscience de soi (comme construction narrative).",
+    "distinctive_mechanism_or_principle": "L'immense puissance de l'évolution par sélection naturelle, qui crée des résultats caractérisés par des « raisons sans raisonneur, un dessein sans concepteur, et une compétence sans compréhension ».",
+    "dynamics_of_emergence": "La conscience est apparue à travers un processus graduel et incrémental de développement mental au fil de l'histoire phylogénétique, traçable depuis les premières formes de vie jusqu'aux esprits humains.",
+    "location_and_distribution": "Localisée dans les cerveaux complexes des organismes supérieurs, en particulier les humains, où une organisation avancée de l'activité neuronale soutient des « outils de pensée » complexes.",
+    "causation_and_functional_role": "L'esprit est apparu parce qu'il procurait un avantage adaptatif renforçant la fitness dans des environnements exigeants. Sa fonction est de permettre des comportements et une cognition complexes, tels que l'autoréflexion.",
+    "integration_or_binding": "L'intégration est réalisée par l'évolution de la fixation et de la propagation du contenu dans le cerveau, qui se rassemble en une sorte d'histoire de vie ou de « centre de gravité narratif ».",
+    "information_flow_or_representation": "L'évolution permet au cerveau de traiter l'information de telle sorte que différentes régions cérébrales génèrent de « multiples brouillons » qui rivalisent pour l'attention (la « célébrité » dans le cerveau), formant un flux narratif.",
+    "evolutionary_account": "La conscience est un accomplissement évolutif non magique, où les organismes ont développé des capacités complexes telles que la modélisation, la prédiction et la simulation, culminant dans l'introspection humaine et la pensée abstraite.",
+    "core_claims_and_evidence": [
+      "L'origine des esprits peut être expliquée par l'évolution biologique sans recourir à des éléments non physiques.",
+      "La complexité de l'esprit humain est l'aboutissement de l'évolution, produisant des « outils de pensée » spécialisés.",
+      "Les propriétés phénoménales sont des illusions incohérentes issues d'une activité neuronale complexe et évoluée."
+    ],
+    "basis_of_belief_or_evidence_type": "Argument philosophique, biologie évolutive, logique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable au regard de la cohérence biologique et néo-darwinienne ; indirectement soutenue par des découvertes neuroscientifiques corrélées à des modèles fonctionnalistes.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Critiquée pour contourner le « problème difficile » en affirmant que la conscience (les qualia) est une illusion ou un pseudo-problème. Les opposants questionnent l'avantage évolutif de l'expérience subjective si elle n'est qu'une illusion ou un épiphénomène.",
+    "open_questions_and_limitations": "Ne fournit pas d'explication directe du ressenti subjectif de l'expérience, mais seulement une explication de la raison pour laquelle nous *rapportons* avoir une telle expérience.",
+    "ontological_coherence": "Hautement cohérente, utilisant l'évolution darwinienne comme un « acide universel » pour ancrer tous les aspects de l'esprit, y compris les concepts traditionnellement non matériels, fermement dans une ontologie strictement physicaliste."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "La conscience étant entièrement matérielle et résultant d'une organisation complexe (fonctionnalisme/matérialisme), il n'existe aucune interdiction de principe empêchant des intelligences non biologiques d'accéder à la conscience si la complexité adéquate est reproduite."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est entièrement liée au cerveau physique ; la mort entraîne une non-existence irrévocable et permanente, à moins que le soi ne soit préservé numériquement (immortalité virtuelle)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "Le processus évolutif fonctionne selon un « dessein sans concepteur », ce qui signifie qu'il n'existe aucun sens ou dessein cosmique inhérent ; le sens est auto-créé par les humains conscients."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Si la conscience s'explique entièrement par l'organisation physique/fonctionnelle évoluée du cerveau, alors une duplication parfaite de ces schémas et voies neuronaux dans un support non biologique devrait préserver le soi mental à la première personne."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Multiple Drafts Model",
+        "relationship": "Fondement"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Lycan’s Homuncular Functionalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Darwin’s Dangerous Idea: Evolution and the Meanings of Life, Daniel Dennett",
+        "year": 1995
+      }
+    ]
+  }
+}

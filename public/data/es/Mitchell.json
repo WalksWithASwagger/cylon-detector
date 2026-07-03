@@ -1,0 +1,93 @@
+{
+  "id_and_class": {
+    "theory_title": "Los Agentes Libres de Mitchell",
+    "summary": "Esta teoría sostiene que el libre albedrío, o la agencia, es un fenómeno real que emerge enteramente del funcionamiento puramente físico del cerebro. Enfatiza la trayectoria evolutiva mediante la cual los sistemas nerviosos desarrollaron la capacidad de aprender, modelar, predecir y simular, permitiendo que los seres vivos tomen decisiones reales.",
+    "associated_thinkers": ["Kevin Mitchell"],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "Agentes Libres a Partir del Funcionamiento Puramente Físico del Cerebro",
+    "classification_tags": [
+      "neuroscience",
+      "agency",
+      "free will",
+      "evolutionary",
+      "physicalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia y el comportamiento se identifican como productos emergentes que surgen enteramente del funcionamiento físico y los patrones de actividad neuronal en el cerebro.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Identidad/Emergentista. Los pensamientos se instancian físicamente en patrones de actividad neuronal, lo que significa que el 'fantasma' es la máquina en funcionamiento.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil",
+    "subjectivity_and_intentionality": "La subjetividad y el sentido del 'yo' se explican como aspectos de la máquina física en funcionamiento. La intencionalidad surge de facultades evolucionadas que permiten al organismo modelar, predecir y simular el mundo para posibilitar una agencia orientada a metas.",
+    "qualia_account": "El matiz cualitativo se explica implícitamente como un producto del funcionamiento físico complejo del cerebro y de patrones específicos de actividad neuronal. El material de origen no detalla explícitamente la naturaleza de los qualia fenoménicos más allá de afirmar que emergen físicamente.",
+    "ontological_commitments": "Cerebros físicos, sistemas nerviosos, patrones de actividad neuronal.",
+    "epistemic_access": "Es accesible mediante la investigación científica objetiva en tercera persona de los mecanismos puramente físicos del cerebro.",
+    "constituents_and_structure": "Patrones de actividad neuronal dentro del sistema nervioso, altamente complejo y evolucionado."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Agencia, Libre albedrío, Conciencia, Autoconciencia, Planificación, Introspección.",
+    "distinctive_mechanism_or_principle": "La evolución biológica de los sistemas nerviosos que proporciona la capacidad de aprender, modelar, predecir y simular, culminando en una agencia y una capacidad de elección individuales genuinas.",
+    "dynamics_of_emergence": "La conciencia y la agencia son procesos dinámicos que surgieron a través de una trayectoria evolutiva específica, desde la materia inerte hasta sistemas nerviosos complejos.",
+    "location_and_distribution": "Localizada en el funcionamiento físico del cerebro; instanciada en patrones de actividad neuronal.",
+    "causation_and_functional_role": "La conciencia, específicamente la agencia (el libre albedrío), es causalmente eficaz. Su función es permitir capacidades de alto nivel, como el razonamiento y la introspección, necesarias para que los seres sintientes modelen y den forma a su futuro.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "El procesamiento de información permite el desarrollo de facultades para modelar, predecir y simular resultados, alcanzando su punto máximo en la capacidad humana para la imaginación y la introspección.",
+    "evolutionary_account": "Evolucionó desde la materia inerte a través de la aparición de los sistemas nerviosos, ofreciendo una ventaja adaptativa que posibilita la elección y las funciones cognitivas superiores necesarias para la supervivencia.",
+    "core_claims_and_evidence": [
+      "La agencia individual (el libre albedrío) es real, no una ilusión.",
+      "La conciencia y el comportamiento emergen enteramente del funcionamiento puramente físico del cerebro.",
+      "Facultades como el modelado y la simulación se desarrollaron mediante la evolución del sistema nervioso.",
+      "Los pensamientos se instancian físicamente en patrones de actividad neuronal."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica, Evolutiva"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente restringida (por datos neurobiológicos y evolutivos); el mecanismo de la emergencia de la agencia está conceptualmente fundamentado en el fisicalismo.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La teoría es cuestionada por deterministas duros y escépticos del libre albedrío. Es significativa precisamente porque defiende un libre albedrío 'real' manteniendo a la vez un compromiso inflexible con el fisicalismo, lo que la distingue de muchas otras visiones materialistas.",
+    "open_questions_and_limitations": "Los mecanismos precisos que detallan cómo los procesos puramente físicos del cerebro generan una agencia y una experiencia subjetiva no ilusorias aún deben especificarse por completo.",
+    "ontological_coherence": "Altamente coherente dentro de una ontología materialista evolutiva que acepta la identidad de la mente y los procesos cerebrales."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sí",
+      "rationale": "La conciencia y la agencia son fenómenos enteramente físicos que emergen de sistemas complejos. Por lo tanto, dado un avance tecnológico suficiente, los sistemas artificiales pueden instanciar el funcionamiento físico necesario y alcanzar la conciencia."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia depende enteramente del funcionamiento puramente físico y de los patrones de actividad dentro del cerebro biológico; el 'fantasma' es la máquina en funcionamiento, lo que implica su cese con la muerte cerebral."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanista/Evolutivo",
+      "rationale": "La agencia permite a los individuos moldear conscientemente su futuro y actuar con propósito, proporcionando un sentido interno y creado, pero el orden cósmico subyacente es materialista (emerge de la materia inerte)."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Como teoría fisicalista, la inmortalidad virtual es alcanzable en principio si los patrones esenciales de actividad neuronal y la agencia emergente que sustentan pueden duplicarse a la perfección en medios no biológicos."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Free Agents, K. J. Mitchell",
+        "year": 2023
+      }
+    ]
+  }
+}

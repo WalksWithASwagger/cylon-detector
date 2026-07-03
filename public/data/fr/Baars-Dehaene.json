@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "La théorie de l'espace de travail global de Baars et Dehaene",
+    "summary": "Cette théorie postule que la conscience réside dans une information multisensorielle et multi-cognitive spécifique qui atteint une présence à l'échelle du cerveau et une large accessibilité. Elle conçoit la conscience comme un « théâtre » intérieur où cette information est diffusée globalement, réconciliant la capacité limitée du contenu conscient momentané avec l'accès à une vaste mémoire à long terme.",
+    "associated_thinkers": [
+      "Bernard Baars",
+      "Stanislas Dehaene"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "La conscience comme accessibilité globale de l'information",
+    "classification_tags": [
+      "neurobiological",
+      "information",
+      "access",
+      "cognitive",
+      "broadcasting"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à la disponibilité globale instantanée et à la large accessibilité d'une information spécifique et intégrée à travers de nombreux systèmes modulaires spécialisés du cerveau.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "Identité/corrélation. L'esprit (la conscience) est identifié à, ou fortement corrélé avec, les processus spécifiques et biologiquement réalisés de diffusion globale de l'information dans le cerveau.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible. En tant que théorie matérialiste/neurobiologique fondamentale, elle suppose que la conscience émerge de fonctions cérébrales biologiques complexes mais en principe explicables, ce qui signifie que la conscience est réductible en principe.",
+    "subjectivity_and_intentionality": "La subjectivité provient des contenus uniquement intégrés de l'espace de travail global ; l'intentionnalité (la direction de la pensée) est inhérente à l'information multi-cognitive et liée aux objectifs qui accède à l'espace de travail.",
+    "qualia_account": "L'expérience phénoménale (qualia) est expliquée en proposant un mécanisme strictement biologique pour la conscience. Les qualia correspondent au contenu de l'information multisensorielle intégrée et rapportable qui est largement accessible au sein de l'espace de travail global.",
+    "ontological_commitments": "Mécanismes neuronaux spécifiques, réseaux et le substrat physique de la conscience (SPC), en particulier les motifs étendus et intégrés du flux d'information au sein du cerveau.",
+    "epistemic_access": "Accessible par des méthodes à la troisième personne, notamment la neuro-imagerie et la modélisation informatique, qui étudient les motifs d'activation cérébrale corrélés (par ex. les événements « d'embrasement » global) correspondant à l'expérience consciente.",
+    "constituents_and_structure": "Un « théâtre » ou espace de travail intérieur où l'information est sélectivement amplifiée et diffusée à travers un réseau distribué de modules cérébraux spécialisés."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale, Accès, Mémoire",
+    "distinctive_mechanism_or_principle": "La diffusion globale et l'accessibilité de l'information, permettant à un contenu unique et cohérent d'être rendu disponible simultanément à de nombreux modules spécialisés et non conscients.",
+    "dynamics_of_emergence": "Les états conscients sont des événements dynamiques qui apparaissent lorsque l'information surmonte la compétition et est diffusée à travers le réseau cortical étendu (l'espace de travail global).",
+    "location_and_distribution": "À l'échelle du cerveau, englobant des zones étendues, particulièrement associées aux régions frontales et pariétales (souvent caractérisée comme une théorie de « l'avant de la tête » par opposition aux théories de « l'arrière de la tête » comme la TII).",
+    "causation_and_functional_role": "La diffusion globale constitue la conscience. Fonctionnellement, elle permet un contrôle flexible et une réconciliation entre le contenu conscient momentané limité et les ressources de la mémoire à long terme.",
+    "integration_or_binding": "L'intégration est réalisée par la diffusion étendue, à l'échelle du cerveau, d'un « ensemble total » cohérent d'informations dans l'espace de travail global.",
+    "information_flow_or_representation": "L'information circule depuis des modules spécialisés, entre en compétition pour un accès global et, une fois gagnante, est diffusée globalement, la rendant disponible pour un traitement cognitif par de multiples systèmes.",
+    "evolutionary_account": "Compatible (bien que la TEG soit elle-même mécanistique plutôt que phylogénétique). En tant que théorie matérialiste/neurobiologique, elle implique que la conscience est apparue par des mécanismes évolutifs sélectionnant pour son utilité cognitive, comme une meilleure gestion de l'information et un comportement flexible.",
+    "core_claims_and_evidence": [
+      "La conscience consiste en la présence à l'échelle du cerveau et la large accessibilité d'une information multisensorielle et multi-cognitive spécifique.",
+      "La diffusion globale constitue la conscience, plutôt que d'être simplement causée par elle.",
+      "La conscience est un phénomène strictement biologique cohérent avec les données neurobiologiques.",
+      "De nouvelles architectures machines doivent utiliser des calculs d'espace de travail global pour parvenir à la conscience."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiologique, Computationnel, Empirique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable",
+    "known_empirical_interventions_or_tests": "Études de neuro-imagerie et de modélisation informatique utilisées pour examiner ses affirmations. Elle est implicitement soumise au débat « neurogéographique » opposant les théories de « l'avant de la tête » aux théories postérieures.",
+    "criticisms_and_tensions": "Critiquée pour se concentrer sur « l'accès » plutôt que sur l'expérience phénoménale véritable, comme l'illustre la critique selon laquelle la théorie « ne concerne que l'accès, pas le fait de voir ». Elle fait face à une tension quant à savoir si la diffusion globale est nécessaire ou simplement une conséquence de la conscience.",
+    "open_questions_and_limitations": "Ne traite pas pleinement le « problème difficile » — pourquoi le mécanisme de l'accessibilité globale devrait produire une expérience subjective qualitative.",
+    "ontological_coherence": "Hautement cohérente au sein d'un cadre physicaliste, ne s'appuyant que sur des fonctions cérébrales et des mécanismes informationnels établis pour rendre compte de la conscience."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "Puisque la théorie définit la conscience en termes de calculs et d'architectures de traitement de l'information, et que ses tenants suggèrent que de nouvelles architectures machines pourraient être fondées sur ces calculs, la conscience de l'IA est possible en principe."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est comprise comme dépendant entièrement de processus cérébraux biologiques spécifiques et complexes, qui cessent à la mort biologique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie matérialiste/neurobiologique, elle n'impose pas de sens ou de finalité cosmique ultime, mais la conscience assure des fonctions essentielles (comme la réconciliation mémorielle et la conscience intégrée) qui sous-tendent l'agentivité humaine et la valeur auto-créée."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Si la conscience est entièrement expliquée par l'organisation computationnelle et le flux d'information du cerveau, une duplication ou un téléversement parfait de ces mécanismes dans un substrat non biologique devrait préserver le soi mental à la première personne."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Edelman’s Neural Darwinism and Reentrant Neural Circuitry",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Rivalité"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A Cognitive Theory of Consciousness",
+        "year": 1988
+      },
+      {
+        "title_with_names": "In the Theater of Consciousness",
+        "year": 1997
+      },
+      {
+        "title_with_names": "Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework, Dehaene and Naccache",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Biology of consciousness, Edelman, Garlly, Baars",
+        "year": 2011
+      }
+    ]
+  }
+}

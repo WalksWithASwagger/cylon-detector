@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "El Posibilianismo de Eagleman",
+    "summary": "Esta perspectiva aboga por la apertura intelectual (Posibilianismo) respecto a la conciencia, rechazando los dogmas metafísicos rígidos. Mecánicamente, concibe la conciencia como una representación abstracta de alto nivel (similar a un director ejecutivo) que filtra vastos procesos neuronales subyacentes, sirviendo principalmente para monitorear el éxito de las metas e intervenir durante eventos sorprendentes. La teoría enfatiza que, aunque la mente depende integralmente del cerebro, la naturaleza de la experiencia subjetiva (los qualia) sigue siendo un misterio profundo, quizá conceptualmente insoluble.",
+    "associated_thinkers": [
+      "David Eagleman"
+    ],
+    "category": "Teorías Desafiantes",
+    "subcategory": "",
+    "core_identity_tagline": "‘La Conciencia como Representación Abstracta de Alto Nivel’",
+    "classification_tags": [
+      "possibilianism",
+      "abstraction",
+      "mysterianism",
+      "functionalism",
+      "skepticism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como una representación abstracta de alto nivel de la actividad neuronal subyacente, necesaria para resumir la complejidad y establecer metas a largo plazo.",
+    "ontological_status": "Posibilianismo agnóstico. Reconoce el fuerte vínculo empírico con el fisicalismo, pero permanece abierto a explicaciones alternativas (no materialistas) debido a la dificultad conceptual del problema difícil.",
+    "mind_body_relationship": "Dependencia integral. La conciencia depende integralmente del cerebro, como demuestran los efectos del daño cerebral, pero la relación de dependencia se deja explícitamente como una cuestión abierta (es decir, necesidad frente a suficiencia).",
+    "primitive_or_emergent_status": "Emergente/Incierto. La conciencia se describe como algo que cabalga sobre una maquinaria compleja, lo que implica emergencia, aunque la 'sensación' subjetiva se considera un misterio no resuelto que podría desafiar la emergencia pura.",
+    "emergence_type": "Incierto. Si bien la correlación observada implica emergencia a partir de procesos físicos, la incapacidad de explicar cómo surge la sensación cualitativa sugiere la posible necesidad de factores no materiales si el materialismo resulta insuficiente.",
+    "subjectivity_and_intentionality": "La subjetividad (la 'sensación') se reconoce como el misterio central que la ciencia y las matemáticas actuales no pueden explicar. La intencionalidad se aborda implícitamente mediante las representaciones abstractas de alto nivel relacionadas con el monitoreo de los estados de metas (por ejemplo, éxito/fracaso).",
+    "qualia_account": "Los qualia (la experiencia interior) se reconocen como fundamentalmente misteriosos, careciendo de cualquier explicación teórica actual. La incapacidad de tender un puente conceptual entre los procesos físicos y la experiencia cualitativa se destaca como una limitación crítica para todas las teorías actuales.",
+    "ontological_commitments": "Se compromete con la existencia de un sustrato neuronal masivo y representaciones abstractas de alto nivel. Debido al misterio de los qualia, mantiene una apertura intelectual respecto a la posibilidad de elementos adicionales, actualmente desconocidos, físicos o no físicos.",
+    "epistemic_access": "La conciencia se experimenta como una abstracción de alto nivel (primera persona). Se accede a ella científicamente mediante la correlación con estados cerebrales (tercera persona), particularmente cuando el daño afecta la experiencia consciente.",
+    "constituents_and_structure": "Niveles sucesivos de abstracción construidos sobre una maquinaria neuronal compleja subyacente, estructurados para proporcionar un resumen de alto nivel necesario para la orientación y la intervención."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Acceso (como resumen abstraído), Agencia (función de director ejecutivo), Fenoménica (como misterio/desafío irreducible).",
+    "distinctive_mechanism_or_principle": "El 'Modelo del Director Ejecutivo' o 'abstracción de alto nivel', en el que la conciencia funciona como un gerente preocupado solo por los resultados complejos y por establecer metas a largo plazo, ignorando generalmente la maquinaria de bajo nivel subyacente salvo que se produzca una sorpresa.",
+    "dynamics_of_emergence": "La conciencia es un proceso dinámico que surge de niveles sucesivos de abstracción dentro del cerebro, centrado en un procesamiento eficiente más que en la integración de datos en bruto.",
+    "location_and_distribution": "Localizada en el cerebro, con actividad que cabalga 'sobre una cantidad masiva de maquinaria', lo que sugiere una dependencia de sistemas neuronales altamente organizados.",
+    "causation_and_functional_role": "La conciencia permite la toma de decisiones de alto nivel, la planificación y el monitoreo del cumplimiento de metas (por ejemplo, éxito o fracaso), cumpliendo una función adaptativa al enfocar recursos cuando los resultados son inciertos o sorprendentes.",
+    "integration_or_binding": "La integración ocurre mediante la creación de representaciones abstractas de alto nivel, que sintetizan cantidades masivas de actividad subyacente en resúmenes cohesivos y simples.",
+    "information_flow_or_representation": "La información se filtra y abstrae intensamente en representaciones de alto nivel, reduciendo la 'tormenta eléctrica de actividad neuronal' a resúmenes simples y funcionales.",
+    "evolutionary_account": "La función de abstracción probablemente evolucionó para aumentar la eficiencia y la aptitud biológica al minimizar la carga computacional y enfocar la atención solo en la información de orden superior necesaria o en las anomalías.",
+    "core_claims_and_evidence": [
+      "La conciencia es una representación abstraída de alto nivel (Modelo del Director Ejecutivo).",
+      "La conciencia es profundamente misteriosa; aún no podemos imaginar una teoría que explique la 'sensación'.",
+      "La mente depende integralmente del cerebro (respaldado por evidencia clínica de daño cerebral)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírico (neurociencia), Conceptual, Filosófico (Agnóstico/Posibiliano)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Parcialmente comprobable de forma empírica en lo que respecta al modelo funcional de abstracción (rol de director ejecutivo) y sus correlatos neuronales, pero el problema filosófico central de la sensación subjetiva se considera conceptualmente intratable.",
+    "known_empirical_interventions_or_tests": "Observación de correlaciones entre cambios en la biología (por ejemplo, daño cerebral) y cambios en el estado consciente, confirmando la dependencia.",
+    "criticisms_and_tensions": "Los críticos señalan que la postura es un diagnóstico del problema más que una solución, ofreciendo apertura filosófica sin prescripción científica. Es fundamentalmente escéptica respecto a las afirmaciones reduccionistas actuales.",
+    "open_questions_and_limitations": "La limitación principal es el 'Problema Difícil': ¿por qué la abstracción de alto nivel se siente como algo? No se sabe si la falta de solución es un fallo de imaginación o una falsación del materialismo.",
+    "ontological_coherence": "Coherente dentro del marco posibiliano, ya que incorpora fielmente tanto las restricciones empíricas (dependencia cerebral) como la brecha conceptual/explicativa reconocida."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable (Condicional)",
+      "rationale": "Si la conciencia es principalmente una función abstractiva de alto nivel, una IA suficientemente compleja podría instanciar esta función. Sin embargo, el misterio de la 'sensación' subjetiva (qualia) sigue siendo una barrera conceptual abierta."
+    },
+    "survival_beyond_death": {
+      "stance": "No (Condicional)",
+      "rationale": "Se considera explícitamente que la mente depende 'integralmente del cerebro'. Sin embargo, la filosofía posibiliana admite que la ciencia futura podría revelar componentes no físicos actualmente inimaginables que permitan la supervivencia."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incierto/Humanista",
+      "rationale": "Como teoría desafiante escéptica, evita cualquier compromiso cósmico o último (Posibilianismo). El sentido se deriva humanísticamente de la función de la conciencia (establecer metas y ejercer agencia)."
+    },
+    "virtual_immortality": {
+      "stance": "Posible (Condicional)",
+      "rationale": "Si la conciencia se reduce con éxito a una representación abstracta de alto nivel que cabalga sobre la maquinaria biológica, estas representaciones podrían, en principio, ser transferidas digitalmente, siempre que se supere la complejidad tecnológica y se preserve la 'sensación' subjetiva."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Coincidencia (al reducir la conciencia a un mecanismo funcional/representacional necesario)"
+      },
+      {
+        "name": "Mysterianism",
+        "relationship": "Coincidencia (al concluir que la naturaleza fundamental de los qualia puede ser conceptualmente inaccesible)"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Crítica (Cuestiona la suficiencia del materialismo pese a aceptar la dependencia del cerebro)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Beyond God and atheism: why I am a ‘possibilian’",
+        "year": 2010
+      },
+      {
+        "title_with_names": "What is Consciousness? (Closer To Truth)",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is brain and mind the same thing? (Closer To Truth)",
+        "year": 2011
+      }
+    ]
+  }
+}

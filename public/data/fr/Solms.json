@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "L'Affect comme Source Cachée de la Conscience de Solms",
+    "summary": "Cette théorie identifie la forme élémentaire de la conscience à l'affect (le ressenti) et situe son mécanisme physiologique dans le tronc cérébral supérieur, fonctionnant comme une forme étendue d'homéostasie. Elle applique le principe de l'énergie libre de Friston, soutenant que l'expérience affective (plaisir/déplaisir) est le mécanisme efficace que les organismes complexes utilisent pour surveiller l'incertitude environnementale et optimiser le comportement de survie.",
+    "associated_thinkers": ["Mark Solms"],
+    "category": "Matérialisme",
+    "subcategory": "Homéostatique et Affectif",
+    "core_identity_tagline": "L'Affect comme Forme Fondatrice de la Conscience",
+    "classification_tags": [
+      "affect",
+      "homeostasis",
+      "free energy principle",
+      "brainstem",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience, dans sa forme élémentaire de subjectivité sensible, est constituée par l'affect (les sentiments), qui opérationnalise la minimisation de l'énergie libre (une incertitude inattendue est ressentie comme du déplaisir, tandis que ses diminutions sont ressenties comme du plaisir).",
+    "ontological_status": "Monisme à double aspect (interprété dans un cadre physicaliste). Ce modèle envisage les phénomènes physiologiques et psychologiques comme des manifestations doubles d'un processus sous-jacent unique, réductible à des causes physiques unitaires, s'alignant sur le Matérialisme dans son application pratique aux mécanismes biologiques.",
+    "mind_body_relationship": "À double aspect ; les phénomènes physiologiques et psychologiques sont des manifestations complémentaires d'un processus unitaire sous-jacent unique (analogie de la décharge électrique), plutôt que l'un causant l'autre.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (justification : le mécanisme fonctionnel de la conscience est affirmé être réductible à des lois physiques, telle que la loi de l'énergie libre, suggérant que bien que la conscience puisse sembler nouvelle, elle est explicable en principe par la physique fondamentale.)",
+    "subjectivity_and_intentionality": "La subjectivité sensible est littéralement constituée par l'affect, qui permet à l'organisme de résister proactivement à l'entropie. L'intentionnalité naît du fait que les systèmes auto-organisateurs doivent constamment « poser » des questions sur leur énergie libre (leurs besoins existentiels) afin de déterminer leurs actions.",
+    "qualia_account": "Les qualia sont expliqués comme des variables catégorielles « codées en couleur » ou « aromatisées » (les affects, par exemple, la soif contre la peur) qui codent efficacement les multiples besoins des organismes complexes, évitant une « explosion combinatoire » computationnellement complexe pour l'optimisation de la survie.",
+    "ontological_commitments": "Lois physiques (comme la loi de l'énergie libre), processus physiologiques (l'homéostasie étendue), et les structures spécifiques du tronc cérébral supérieur/système réticulaire activateur.",
+    "epistemic_access": "Accessible par l'investigation des événements neurophysiologiques correspondants (à la troisième personne) et par la réalité indubitable de l'expérience affective à la première personne.",
+    "constituents_and_structure": "La structure essentielle est le mécanisme homéostatique étendu réalisé dans le tronc cérébral supérieur, où la conscience corticale est subordonnée à cette conscience fondatrice du tronc cérébral."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal (subjectivité affective/sensible) ; Agentivité ; Optimisation de la survie.",
+    "distinctive_mechanism_or_principle": "L'opérationnalisation du Principe de l'Énergie Libre (PEL) sous forme d'états affectifs (plaisir/déplaisir) dans le tronc cérébral supérieur, qui guide le comportement de l'organisme vers la stabilité.",
+    "dynamics_of_emergence": "La conscience est un processus dynamique naissant de la nécessité, pour les systèmes auto-organisateurs, de surveiller leurs besoins existentiels et de générer des actions prédictives afin de minimiser l'incertitude attendue.",
+    "location_and_distribution": "Le mécanisme fondateur est situé dans le tronc cérébral supérieur/système réticulaire activateur. La conscience corticale (le contenu) est rendue possible par, et subordonnée à, cette conscience affective du tronc cérébral (le niveau).",
+    "causation_and_functional_role": "L'affect joue un rôle causal crucial en fonctionnant comme un algorithme hautement efficace pour surveiller les interactions environnementales, modifier le comportement et optimiser la survie dans des contextes imprévisibles.",
+    "integration_or_binding": "L'intégration des besoins biologiques conflictuels (par exemple, la peur contre la somnolence) est réalisée efficacement en les codant comme des affects distincts et qualitatifs (qualia/arômes), ce qui permet une résolution contextuelle sans calcul excessif.",
+    "information_flow_or_representation": "La conscience est associée à des systèmes de traitement de l'information qui doivent s'engager proactivement avec le monde concernant des besoins existentiels ; l'affect est le ressenti associé à la surveillance des changements de l'incertitude attendue (l'information).",
+    "evolutionary_account": "La conscience, sous forme d'affect, aurait évolué comme le mécanisme (algorithme) le plus efficace permettant aux organismes complexes de faire face à des environnements imprévisibles et de gérer de multiples besoins contextuels pour la survie.",
+    "core_claims_and_evidence": [
+      "L'affect est la forme fondatrice de la conscience, ayant son origine dans le tronc cérébral supérieur.",
+      "Le mécanisme central se réduit à la loi de l'énergie libre de Friston, rendant la conscience mathématiquement tractable.",
+      "La conscience fait partie de la nature et naît d'une résistance proactive à l'entropie.",
+      "Les lésions du tronc cérébral supérieur suppriment invariablement la conscience, ce qui soutient son rôle fondateur."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiologique, Phénoménologique, Computationnel (PEL)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable (spécifiquement concernant le rôle du tronc cérébral et la nature de l'affect).",
+    "known_empirical_interventions_or_tests": [
+      "Corrélation entre la perte de conscience et les lésions du système réticulaire activateur (tronc cérébral supérieur).",
+      "Investigation empirique des paramètres du PEL corrélés au plaisir/déplaisir subjectif."
+    ],
+    "criticisms_and_tensions": "La théorie doit argumenter de manière convaincante contre la vision traditionnelle selon laquelle le tronc cérébral ne régule que le *niveau* de conscience (éveil/coma) et non son *contenu qualitatif*. Son auto-description comme monisme à double aspect est philosophiquement subtile, étant donné sa classification comme Théorie du Matérialisme fondée sur des mécanismes physiologiques.",
+    "open_questions_and_limitations": "Le mécanisme précis expliquant pourquoi la résistance proactive à l'entropie « procure une sensation » à l'organisme, au-delà de l'affirmation de sa nécessité fonctionnelle, demeure un domaine nécessitant une explication plus poussée.",
+    "ontological_coherence": "Haute cohérence. Le cadre intègre avec succès l'expérience subjective au sein d'un système naturaliste mathématiquement tractable régi par des lois physiques (le PEL), soutenant une compréhension physiquement ancrée de l'esprit."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la théorie est correcte, un système auto-organisateur artificiellement conscient peut être conçu, à condition que le système soit conçu pour résister proactivement à l'entropie et gérer des besoins existentiels, générant des états affectifs en rétroaction."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "En tant que Théorie du Matérialisme, la conscience dépend entièrement du cerveau biologique et de ses processus physiques, ce qui implique une non-existence permanente à la mort de l'organisme."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste/Biologique",
+      "rationale": "Le cœur de la conscience est enraciné dans l'impératif biologique de survie (éviter l'oubli et minimiser l'énergie libre), ce qui soutient un sens biologiquement et humainement construit, mais aucune finalité cosmique ultime."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "En tant que Théorie du Matérialisme, le soi mental à la première personne est, en principe, téléchargeable, à condition que les mécanismes physiques complexes (y compris la dynamique affective et homéostatique) puissent être intégralement dupliqués dans un substrat synthétique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Influence/Extension"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Critique/Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The hard problem of consciousness and the free energy principle",
+        "year": 2018
+      },
+      {
+        "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Précis of the hidden spring: a journey to the source of consciousness",
+        "year": 2021
+      }
+    ]
+  }
+}

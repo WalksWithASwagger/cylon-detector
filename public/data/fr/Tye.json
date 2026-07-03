@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Le contingentisme de Tye",
+    "summary": "Cette théorie affirme que les états phénoménaux conscients sont littéralement identiques à des états physiques ou cérébraux spécifiques dans notre monde réel. Cependant, et c'est crucial, cette identité est comprise comme contingente, ce qui signifie qu'elle n'est pas métaphysiquement nécessaire dans tous les mondes possibles. Cette affirmation modale vise à résoudre le problème difficile en acceptant que la concevabilité de zombies philosophiques (duplicatas physiques non conscients) est sans pertinence pour la vérité du physicalisme dans le monde réel.",
+    "associated_thinkers": [
+      "Michael Tye",
+      "Herbert Feigl",
+      "Ullin Place",
+      "J.J.C. Smart"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Représentationnel",
+    "core_identity_tagline": "« La conscience comme identité physique contingente »",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "representationalism",
+      "modal philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Le caractère phénoménal (Q) est identifié comme étant une seule et même chose qu'une propriété physique (R), où R peut inclure des états fonctionnels ou des états postulés par le représentationnalisme. Cette identité n'est vraie que de manière contingente dans notre monde.",
+    "ontological_status": "Physicalisme réductif (compris largement pour inclure le fonctionnalisme et le représentationnalisme), bien que Tye ait plus tard exprimé une certaine distance vis-à-vis d'un physicalisme réductif complet.",
+    "mind_body_relationship": "Théorie de l'identité contingente. Les états mentaux (sensations) sont littéralement identiques à des états physiques/processus cérébraux, mais cette identité est un fait contingent, non une nécessité dans tous les mondes possibles.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "La subjectivité et le caractère phénoménal sont réduits à, ou identifiés avec, le contenu représentationnel (représentationnalisme de premier ordre). Le caractère phénoménal est fixé non seulement par les états actuels mais aussi par les états passés (« l'histoire compte crucialement pour la phénoménologie »).",
+    "qualia_account": "Le caractère qualitatif (Q) est identique à une propriété physique (R). La capacité d'imaginer Q sans R (zombies) est reconnue comme intelligible mais rejetée comme non pertinente parce qu'elle décrit seulement un monde métaphysiquement possible, et non le monde réel, résolvant ainsi l'écart explicatif.",
+    "ontological_commitments": "Des états physiques de quelque sorte, englobant des états neurophysiologiques, des états fonctionnels, et des contenus représentationnels, qui sont ancrés dans des états microphysiques.",
+    "epistemic_access": "La conscience est accédée par l'expérience subjective (phénoménologie) et étudiée par l'analyse philosophique et modale, utilisée pour argumenter en faveur de la nature contingente de sa réalisation physique.",
+    "constituents_and_structure": "La conscience consiste en des états physiques (R) réalisés dans le cerveau, ou de manière équivalente, des contenus représentationnels, où l'histoire de l'individu est cruciale pour déterminer le caractère phénoménal à un moment donné."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "États phénoménaux (qualia), le problème difficile de la conscience, et sa relation aux états physiques.",
+    "distinctive_mechanism_or_principle": "Le principe selon lequel les énoncés d'identité concernant la conscience (Q=R) peuvent être contingents, distinguant le cas de la conscience des identités scientifiques nécessaires typiques (comme eau=H2O), éliminant ainsi l'énigme explicative.",
+    "dynamics_of_emergence": "La conscience est un phénomène physique dans le monde réel. Bien qu'elle ait pu évoluer graduellement (les vues évolutives ultérieures de Tye), la dynamique centrale est la relation d'identité contingente elle-même.",
+    "location_and_distribution": "Les états physiques (R) auxquels la conscience est identique se situent dans le cerveau, incluant des états neurophysiologiques, des états fonctionnels, ou des états représentationnels.",
+    "causation_and_functional_role": "Si le physicalisme est vrai, la conscience est physique et donc son efficacité causale et les questions d'émergence peuvent être traitées de manière satisfaisante au sein de la clôture causale du monde physique.",
+    "integration_or_binding": "La théorie se concentre principalement sur la relation d'identité du caractère phénoménal. L'intégration est traitée implicitement par les mécanismes sous-jacents des états physiques, fonctionnels ou représentationnels, conformément à un cadre réductionniste.",
+    "information_flow_or_representation": "La théorie est compatible avec le représentationnalisme, envisageant les expériences de manière représentationnaliste et largement réductionniste, où le caractère phénoménal est identique au contenu représentationnel.",
+    "evolutionary_account": "La conscience n'était pas absente avant un moment évolutif spécifique mais était fondamentale (proto-conscience toujours présente), tandis que des états conscients variés sont apparus graduellement, traitant du « flou » dans l'évaluation évolutive de la conscience.",
+    "core_claims_and_evidence": [
+      "Les états phénoménaux sont contingentement identiques à des états physiques (Q=R) dans le monde réel.",
+      "Le problème difficile se dissout lorsqu'on réalise que la possibilité concevable de Q sans R (zombie) ne renvoie qu'à un monde métaphysiquement possible, et non au monde réel.",
+      "Cette position présente la meilleure défense philosophique du physicalisme réductif."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, conceptuel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculative/conceptuelle. L'affirmation centrale repose sur des arguments philosophiques modaux sur l'identité et la nécessité plutôt que sur la falsification ou vérification empirique de l'identité elle-même.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Le principe central repose sur le fait de soutenir que l'identité des états conscients est contingente tandis que d'autres énoncés d'identité scientifiques sont nécessaires, ce que les critiques pourraient contester. L'argument reconnaît la concevabilité des zombies philosophiques tout en niant leur pertinence pour le monde réel.",
+    "open_questions_and_limitations": "Tye a finalement exprimé des doutes concernant un physicalisme réductif complet, estimant qu'un élément de la conscience ne peut être capturé par des réductions de niveau supérieur, ce qui l'a conduit vers une forme de panpsychisme.",
+    "ontological_coherence": "Hautement cohérente dans le cadre du physicalisme orthodoxe a posteriori, fournissant un outil philosophique pour maintenir le physicalisme face à l'argument de la connaissance."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conscience est contingentement identique à des états physiques/fonctionnels/représentationnels dans notre monde, et que ces états peuvent être instanciés dans des systèmes non biologiques, alors la conscience de l'IA est possible en principe."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est contingente à, et identique à, des processus cérébraux physiques dans le monde réel ; la dissolution du cerveau entraîne la fin du soi conscient à la première personne."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie enracinée dans le matérialisme et le physicalisme réductif, elle n'offre aucun fondement pour un sens ou une finalité cosmique ultime au-delà de ce qui est créé par les agents humains conscients."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Puisque la conscience phénoménale est identifiée à des états physiques (R), dupliquer R, par exemple via le téléversement numérique, téléverserait avec succès Q, rendant l'immortalité virtuelle atteignable en principe."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "Extension/déplacement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A New Solution to the Hard Problem of Consciousness, Michael Tye",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Representationalism and the Transparency of Experience, Michael Tye",
+        "year": 2002
+      }
+    ]
+  }
+}

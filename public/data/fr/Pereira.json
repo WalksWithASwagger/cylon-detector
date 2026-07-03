@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "La Sentience selon Pereira",
+    "summary": "Cette théorie postule que la conscience présente deux modalités distinctes : une sentience fondamentale, caractérisée par des sensations basiques comme la douleur et la faim, et une conscience cognitive de niveau supérieur, impliquant la pensée abstraite et la représentation. L'affirmation centrale est que la capacité cognitive dépend de cet état sentient sous-jacent, lui-même ancré biologiquement dans des systèmes homéostatiques.",
+    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "category": "Materialism",
+    "subcategory": "Homeostatic and Affective",
+    "core_identity_tagline": "La conscience comme système à deux niveaux ancré dans la sentience",
+    "classification_tags": [
+      "sentience",
+      "homeostatic",
+      "neurobiological",
+      "dual-modality",
+      "clinical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est un système biologique composite constitué de la sentience (corrélée au contrôle dynamique de l'homéostasie biochimique) et de la conscience cognitive (corrélée aux motifs d'activité bioélectrique dans les réseaux neuronaux).",
+    "ontological_status": "Physicalisme/Naturalisme (Inféré de sa catégorisation sous Matérialisme et de son accent sur les corrélats physiologiques/neuronaux)",
+    "mind_body_relationship": "Les modalités conscientes (sentience et cognition) dépendent fonctionnellement de l'organisme biologique, et notamment des systèmes homéostatiques et des réseaux neuronaux, avec lesquels elles présentent des corrélats physiologiques précis.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (Justifiée par son ancrage strict dans des processus biologiques/physiologiques observables et mesurables, suggérant qu'elle est, en principe, explicable par les lois physiques, malgré sa complexité.)",
+    "subjectivity_and_intentionality": "La subjectivité naît de la sentience, la capacité à ressentir des sensations basiques (par exemple, la faim, la douleur). L'intentionnalité est présente dans la conscience cognitive à travers l'élaboration de représentations linguistiques et imagées.",
+    "qualia_account": "Les qualia sont expliqués par la modalité fondamentale de la sentience, qui correspond directement à la capacité de ressentir des sensations basiques et qualitatives (par exemple, la douleur, la soif).",
+    "ontological_commitments": "Systèmes physiologiques régulant l'homéostasie biochimique ; motifs d'activité bioélectrique dans les réseaux neuronaux ; organisation neuronale hiérarchique.",
+    "epistemic_access": "Accessible par l'étude des corrélats physiologiques, notamment en lien avec le contrôle dynamique de l'homéostasie, et cliniquement par l'observation des réponses sentientes basiques.",
+    "constituents_and_structure": "Un système hiérarchique à deux niveaux : la sentience (fondement de bas niveau, homéostatique) et la conscience cognitive (traitement représentationnel de haut niveau)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale (sensations basiques/sentience) ; conscience cognitive (pensée/représentation) ; diagnostic clinique des troubles de la conscience.",
+    "distinctive_mechanism_or_principle": "Le principe de dépendance fonctionnelle, selon lequel la conscience cognitive de haut niveau est strictement conditionnée et soutenue par la modalité de plus bas niveau qu'est la sentience, elle-même enracinée dans les systèmes homéostatiques.",
+    "dynamics_of_emergence": "La conscience naît d'une relation hiérarchique où l'existence de la sentience basique, liée au contrôle physiologique, constitue une base nécessaire à l'émergence du fonctionnement cognitif.",
+    "location_and_distribution": "Les corrélats centraux sont répartis entre les systèmes physiologiques responsables du contrôle homéostatique (pour la sentience) et les réseaux neuronaux (pour le traitement cognitif).",
+    "causation_and_functional_role": "La sentience remplit la fonction vitale de réguler les processus physiologiques afin de maintenir l'homéostasie et la continuation de la vie. Elle fournit la rétroaction consciente nécessaire à la régulation biologique de base.",
+    "integration_or_binding": "Non spécifié. (Justifié par le fait que la théorie se concentre sur la distinction et la relation hiérarchique entre les modalités conscientes, plutôt que sur le mécanisme d'unification des entrées sensorielles.)",
+    "information_flow_or_representation": "La conscience cognitive implique le traitement et l'élaboration de représentations linguistiques et imagées, qui se produisent dans les réseaux neuronaux.",
+    "evolutionary_account": "Non précisé en détail, mais inféré comme adaptatif et évolutif, reliant les modalités de la conscience à des impératifs biologiques fondamentaux tels que la survie et le maintien de l'homéostasie.",
+    "core_claims_and_evidence": [
+      "La conscience cognitive dépend de la sentience, mais l'inverse n'est pas vrai.",
+      "La sentience est corrélée à la capacité de contrôle dynamique de l'homéostasie biochimique.",
+      "La capacité à ressentir des sensations basiques (sentience) constitue l'exigence minimale pour une conscience minimale (pertinente pour le diagnostic clinique)."
+    ],
+    "basis_of_belief_or_evidence_type": "Neuroscientifique, clinique/médical, philosophique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable par l'évaluation et l'intervention cliniques, en particulier pour l'analyse de la conscience minimale dans les états végétatifs ou sous anesthésie.",
+    "known_empirical_interventions_or_tests": [
+      "Évaluation de la capacité à ressentir des sensations basiques (faim, douleur) comme critère de diagnostic des troubles prolongés de la conscience."
+    ],
+    "criticisms_and_tensions": "Aucune critique explicite n'est fournie dans le matériau source. (Justification : le matériau source est descriptif et ne comporte pas de discours critique sur cette théorie en particulier.)",
+    "open_questions_and_limitations": "Les mécanismes physiologiques et bioélectriques explicites qui réalisent les frontières strictes et la dépendance hiérarchique entre sentience et conscience cognitive restent à pleinement élucider. Les tests de cognition supérieure pourraient être inadéquats pour évaluer tous les états de conscience.",
+    "ontological_coherence": "Très cohérente dans les limites du naturalisme, reliant deux aspects distincts de la conscience à des systèmes physiologiques concrets et observables."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditionnelle",
+      "rationale": "Si des systèmes artificiels peuvent répliquer intégralement les systèmes physiologiques régissant l'homéostasie biochimique dynamique (requise pour la sentience) et l'activité de réseau bioélectrique nécessaire (pour la cognition), alors la conscience artificielle est possible."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "Comme la conscience dépend strictement de systèmes biologiques fonctionnels (contrôle de l'homéostasie et réseaux neuronaux), elle est présumée cesser lors de la dissolution irréversible du corps et du cerveau."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "La théorie se concentre sur le rôle fonctionnel et adaptatif de la conscience dans le maintien de la stabilité biologique (homéostasie) et l'activation d'une cognition flexible, sans fournir de fondement pour un but cosmique ou ultime."
+    },
+    "virtual_immortality": {
+      "stance": "Conditionnelle",
+      "rationale": "Théoriquement possible uniquement si les motifs homéostatiques et bioélectriques dynamiques spécifiques identifiés comme corrélats de la sentience et de la cognition peuvent être parfaitement numérisés et reproduits dans un support non biologique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The role of sentience in the theory of consciousness and medical practice, A. Pereira Jr.",
+        "year": 2021
+      }
+    ]
+  }
+}

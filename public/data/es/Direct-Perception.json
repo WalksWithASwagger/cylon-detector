@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría de la Percepción Directa",
+    "summary": "Esta teoría postula que toda la información necesaria para la percepción es externa al observador y proviene únicamente de las propiedades del estímulo distal.\nLa conciencia perceptiva es una relación de conciencia directa e inanalizable hacia objetos externos, que opera sin la ayuda de inferencia interna, memoria o la construcción de representaciones.",
+    "associated_thinkers": [
+      "Ned Block (as describer of direct realist/naïve realist views)"
+    ],
+    "category": "Materialism",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "‘La percepción como conciencia directa del estímulo distal’",
+    "classification_tags": [
+      "perception",
+      "realism",
+      "non-representational",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia fenoménica, particularmente su carácter perceptivo, se identifica como una relación de conciencia directa —probablemente una relación primitiva e inanalizable de familiaridad (acquaintance)— con objetos o propiedades en el entorno.",
+    "ontological_status": "Realismo directo / Realismo ingenuo (una forma de fisicalismo).",
+    "mind_body_relationship": "El carácter fenoménico está 'constituido por el objeto' en el sentido de que la existencia y la individuación de una experiencia perceptiva dependen directamente del objeto externo, lo que sugiere una relación constitutiva directa y no mediada.",
+    "primitive_or_emergent_status": "Primitivo (se sugiere que la relación de conciencia directa en sí misma es una relación primitiva e inanalizable de familiaridad).",
+    "emergence_type": "No aplicable (la relación de conciencia central se describe como primitiva e inanalizable, lo que hace que el concepto de emergencia no sea aplicable al acto consciente inmediato en sí mismo).",
+    "subjectivity_and_intentionality": "La experiencia subjetiva en primera persona (carácter fenoménico) está constituida directamente por el objeto externo (intencionalidad). Por lo tanto, la intencionalidad es no representacional, logrando la direccionalidad simplemente al depender del objeto externo mismo.",
+    "qualia_account": "La sensación cualitativa (carácter fenoménico) está constituida por el objeto. Si una experiencia es de un objeto diferente, tiene un carácter fenoménico diferente, incluso si es subjetivamente indistinguible (p. ej., de una alucinación perfecta).",
+    "ontological_commitments": "El estímulo distal (objetos y propiedades externos en el entorno) y una relación primitiva e inanalizable de familiaridad (conciencia directa).",
+    "epistemic_access": "El conocimiento del mundo se accede directamente a través de la percepción, en lugar de a través de la representación interna o la introspección de los estados mentales mediadores.",
+    "constituents_and_structure": "La conciencia está estructurada únicamente por las propiedades del estímulo distal. El bloque de construcción fundamental es la relación directa de 'familiaridad' con la entidad peculiar (como un dato sensorial) o con los objetos/propiedades del entorno."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica (específicamente la conciencia perceptiva).",
+    "distinctive_mechanism_or_principle": "La ausencia de procesamiento intermedio; la conciencia surge de la detección directa de información externa sin la ayuda de procesos cognitivos internos (inferencia, memoria, construcción de representaciones).",
+    "dynamics_of_emergence": "La teoría se centra en la naturaleza de la relación de conciencia inmediata como primitiva, en lugar de describir un proceso dinámico de cómo esta relación surge o cambia con el tiempo.",
+    "location_and_distribution": "La información requerida para la percepción es externa al observador (externa al cerebro/cuerpo, residiendo en el estímulo distal). Sin embargo, la experiencia fenoménica consciente se instancia en el observador.",
+    "causation_and_functional_role": "El papel funcional primario es permitir que el observador perciba un objeto con precisión basándose únicamente en el estímulo distal, prescindiendo de los procesos cognitivos tradicionales que podrían construir representaciones.",
+    "integration_or_binding": "No se especifica. Se presume que la integración de las distinciones fenoménicas es una característica de la relación primitiva e inanalizable de familiaridad con el objeto mismo, en lugar de un proceso de vinculación computacional o informacional.",
+    "information_flow_or_representation": "La información fluye directamente desde el mundo externo (estímulo distal) hacia la percepción del observador, rechazando la necesidad de la construcción interna de representaciones mentales.",
+    "evolutionary_account": "No se aborda explícitamente en las fuentes proporcionadas. (La variante de la psicología ecológica, la teoría de Gibson, implica un ajuste evolutivo entre el organismo y el entorno, pero la DPT en sí se centra en el mecanismo no representacional).",
+    "core_claims_and_evidence": [
+      "La percepción se basa únicamente en las propiedades del estímulo distal, sin la ayuda de inferencia o memoria.",
+      "El carácter fenoménico de la experiencia está constituido por el objeto; un cambio en el objeto necesariamente implica un cambio en el carácter fenoménico.",
+      "La relación de conciencia es una relación primitiva e inanalizable de familiaridad que no es una cuestión de representación."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico y conceptual (defensa del realismo ingenuo frente a las teorías representacionales, apoyándose en experimentos mentales que distinguen entre la percepción verídica y la alucinación subjetivamente indistinguible)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable (mediante experimentos mentales). La comprobación empírica para aislar una 'relación primitiva e inanalizable de familiaridad' pura, separada del procesamiento cognitivo, es un reto.",
+    "known_empirical_interventions_or_tests": "Ninguna se enumera explícitamente en la fuente, que se centra en las implicaciones conceptuales de la teoría, como comparar el carácter fenoménico de la percepción real frente a la alucinación subjetivamente indistinguible.",
+    "criticisms_and_tensions": "Una tensión importante es la implicación de que las experiencias subjetivamente indistinguibles (p. ej., ver un tomate real frente a alucinar uno idéntico) deben necesariamente tener caracteres fenoménicos diferentes, porque la experiencia fenoménica depende de la existencia del objeto externo.",
+    "open_questions_and_limitations": "La naturaleza precisa de la 'relación primitiva e inanalizable de familiaridad' permanece sin definir. La teoría debe dar cuenta de la diferencia en el carácter fenoménico entre los objetos reales y las experiencias ilusorias o alucinatorias subjetivamente indistinguibles.",
+    "ontological_coherence": "Coherente dentro de una ontología estrictamente fisicalista/realista que rechaza la mediación de propiedades fenoménicas internas, pero cuestionada por hechos fenomenológicos como las alucinaciones, donde la naturaleza constituida por el objeto se desmorona."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Incierto",
+      "rationale": "Si la relación primitiva de familiaridad depende fundamentalmente de estructuras biológicas específicas necesarias para acoplarse directamente a los estímulos distales, la conciencia de la IA podría ser imposible. Dado que la teoría es fisicalista/materialista, si el mecanismo directo subyacente puede reproducirse, la conciencia de la IA es posible."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoría enfatiza la dependencia de la experiencia respecto del entorno físico externo (estímulo distal) y se clasifica bajo el materialismo, lo que sugiere que la conciencia está ligada al organismo físico y a su entorno."
+    },
+    "meaning_and_purpose": {
+      "stance": "Condicional",
+      "rationale": "La teoría se ocupa principalmente de la mecánica de la percepción, no de la realidad o existencia últimas. Como teoría materialista, recae por defecto en el sentido, propósito y valor humanísticos creados por nosotros mismos."
+    },
+    "virtual_immortality": {
+      "stance": "Incierto",
+      "rationale": "La inmortalidad virtual requiere la duplicación perfecta de la conciencia. Dado que el carácter fenoménico está constituido por el objeto, un yo virtual podría no conservar su carácter fenoménico original si carece de una verdadera 'relación de conciencia directa' con el entorno físico real."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Naïve Realist Theories",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Solapamiento (comparte la postura antirrepresentacional)"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "Crítica (rechaza la mediación por representación)"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Crítica (implícita, ya que el carácter fenoménico se basa en la constitución del objeto, no en el rol funcional)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Direct Perception Theory",
+        "year": "APA website"
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking, N. Block",
+        "year": "2023"
+      }
+    ]
+  }
+}

@@ -1,5 +1,8 @@
 import { generateSlug } from '../utils/slugUtils'
 import globalState from '../utils/globalState'
+import { loadTheoryByName } from '../utils/routing'
+import { t } from '../utils/i18n'
+import { getAllTheoryNames } from '../config/chartConfig'
 
 export class SearchBar {
   private container: HTMLElement
@@ -22,10 +25,10 @@ export class SearchBar {
 
   private async loadTheories() {
     try {
-      const { theoryFullNames } = await import('../data/theoryNames')
-      this.allTheories = Object.entries(theoryFullNames).map(([name, title]) => ({
+      const { getTheoryFullName } = await import('../data/theoryNames')
+      this.allTheories = getAllTheoryNames().map(name => ({
         name,
-        title
+        title: getTheoryFullName(name)
       }))
     } catch (error) {
       console.error('Failed to load theory names:', error)
@@ -34,20 +37,13 @@ export class SearchBar {
   }
 
   private async loadAndNavigateToTheory(theoryName: string) {
-    const fileName = `${theoryName}.json`
-    const filePath = `/data/${fileName}`
-    
     try {
-      const response = await fetch(filePath)
-      if (response.ok) {
-        const slug = generateSlug(theoryName)
-        const category = globalState.getTheoryCategory(theoryName) || 'neurobiological'
-        this.router.navigateToTheory(category, slug)
-      } else {
-        console.warn(`Theory ${theoryName} not found`)
-      }
+      await loadTheoryByName(theoryName, this.router.getCurrentLocale())
+      const slug = generateSlug(theoryName)
+      const category = globalState.getTheoryCategory(theoryName) || 'neurobiological'
+      this.router.navigateToTheory(category, slug)
     } catch (error) {
-      console.error(`Error loading theory ${theoryName}:`, error)
+      console.warn(`Theory ${theoryName} not found`)
     }
   }
 
@@ -59,22 +55,22 @@ export class SearchBar {
             <circle cx="11" cy="11" r="8"></circle>
             <path d="m21 21-4.35-4.35"></path>
           </svg>
-          <input 
-            type="text" 
-            id="theory-search" 
-            placeholder="Search theories..." 
+          <input
+            type="text"
+            id="theory-search"
+            placeholder="${t('searchBar.placeholder')}"
             autocomplete="off"
-            aria-label="Search theories"
+            aria-label="${t('searchBar.ariaLabel')}"
             aria-describedby="search-dropdown"
             role="combobox"
             aria-expanded="false"
             aria-haspopup="listbox"
           />
         </div>
-        <div class="search-dropdown" 
-             id="search-dropdown" 
-             role="listbox" 
-             aria-label="Search results"></div>
+        <div class="search-dropdown"
+             id="search-dropdown"
+             role="listbox"
+             aria-label="${t('searchBar.resultsAriaLabel')}"></div>
       </div>
     `
 

@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie computationnelle",
+    "summary": "Les théories computationnelles de l'esprit proposent que l'esprit fonctionne comme un ordinateur, considérant les états mentaux comme des rôles fonctionnels définis par des instructions ou algorithmes systématiques, étape par étape, indépendamment du substrat physique sous-jacent. Ces théories ont favorisé l'essor des sciences cognitives en émulant des capacités de type mental telles que le raisonnement et la perception.",
+    "associated_thinkers": [
+      "Nick Bostrom",
+      "James Reggia"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Computationnel et Informationnel",
+    "core_identity_tagline": "La conscience comme algorithme et computation",
+    "classification_tags": [
+      "computation",
+      "functionalism",
+      "AI",
+      "reductionism",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience (ou les états mentaux en général) est identifiée à l'exécution de computations d'un type particulier et identifiable. Les états mentaux sont définis par leur rôle fonctionnel ou leur résultat, non par leur constitution interne ou leur substrat matériel.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "Identité/fonctionnaliste. Les états mentaux sont des états fonctionnels qui peuvent être instanciés (ou réalisés) dans toute forme de matière capable de traiter de l'information, comme le tissu neuronal ou les puces informatiques.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible. Conformément au cadre matérialiste, on suppose que les propriétés mentales, bien que de haut niveau, peuvent en principe être pleinement expliquées ou réduites aux processus computationnels et physiques sous-jacents fondamentaux, même si l'explication pratique est complexe.",
+    "subjectivity_and_intentionality": "L'intentionnalité (la directionnalité de la pensée) s'explique par des symboles cognitifs pouvant être manipulés pour décrire des concepts. La subjectivité (conscience phénoménale) reste un défi, l'accent étant principalement mis sur la fonctionnalité externe et le traitement de l'information plutôt que sur l'expérience intérieure.",
+    "qualia_account": "Incertain/déflationniste. La théorie peine à fournir une démonstration convaincante de la conscience phénoménale, se concentrant plutôt sur la saisie des corrélats cognitifs et comportementaux. Certaines approches proches de cette vision pourraient traiter les qualia comme illusoires ou incohérents, tandis que d'autres affirment qu'ils correspondent à des états computationnels intégrés et rapportables.",
+    "ontological_commitments": "Les algorithmes, les instructions systématiques étape par étape, les machines de Turing (modèles abstraits de computation), et tout substrat physique capable d'instancier de l'information.",
+    "epistemic_access": "Principalement par la modélisation computationnelle, la simulation, et la mesure objective des capacités de traitement de l'information et des corrélats comportementaux.",
+    "constituents_and_structure": "Des routines d'instructions systématiques étape par étape (algorithmes), généralement modélisées à l'aide de structures computationnelles abstraites comme les machines de Turing."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Accès (par ex. accès global à l'information), mémoire, structure des connaissances, perception, raisonnement, résolution de problèmes, et compréhension linguistique. La conscience phénoménale (qualia) est souvent exclue ou traitée comme un problème non résolu.",
+    "distinctive_mechanism_or_principle": "Le principe selon lequel exécuter des computations d'un type spécifique (traitement algorithmique) est à la fois nécessaire et suffisant pour la conscience.",
+    "dynamics_of_emergence": "Algorithmique/systématique. La conscience résulte du traitement systématique de l'information via des algorithmes, permettant l'émulation de capacités de type mental.",
+    "location_and_distribution": "L'emplacement est fonctionnel plutôt que matériel ; la conscience réside partout où les fonctions computationnelles nécessaires sont instanciées, que ce soit dans le tissu neuronal biologique ou dans des puces informatiques non biologiques.",
+    "causation_and_functional_role": "Les états mentaux sont causalement efficaces parce qu'ils sont des états fonctionnels réalisés dans le monde physique. Le rôle fonctionnel consiste à organiser le traitement de l'information, permettant des capacités telles que la planification, la prise de décision et la résolution de problèmes.",
+    "integration_or_binding": "Réalisée implicitement par le traitement complexe de l'information et l'intégration de fonctions computationnelles spécialisées nécessaires aux capacités cognitives comme la structure des connaissances et le raisonnement.",
+    "information_flow_or_representation": "Les états mentaux sont de l'information abstraite ou des symboles cognitifs manipulés algorithmiquement par le substrat physique sous-jacent pour produire la pensée et la compréhension.",
+    "evolutionary_account": "Non explicitement traité par la théorie centrale dans les sources, mais compatible avec la vision matérialiste générale selon laquelle la conscience est un produit évolué de la complexité neurobiologique, spécifiquement destiné au traitement et à la computation adaptatifs.",
+    "core_claims_and_evidence": [
+      "Exécuter des computations d'un type particulier et identifiable est à la fois nécessaire et suffisant pour la conscience.",
+      "Les états mentaux sont déterminés uniquement par leurs résultats ou rôles fonctionnels, indépendamment du support physique.",
+      "La modélisation computationnelle est une méthodologie acceptée pour l'étude scientifique de la conscience."
+    ],
+    "basis_of_belief_or_evidence_type": "Computationnel, philosophique (fonctionnalisme), et logique."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable. La méthodologie consiste à utiliser la modélisation computationnelle pour évaluer si des systèmes simulent avec succès des corrélats neurobiologiques, cognitifs et comportementaux connus du traitement conscient.",
+    "known_empirical_interventions_or_tests": [
+      "Développement et test de modèles computationnels et de simulations machines des corrélats cognitifs."
+    ],
+    "criticisms_and_tensions": "Critiquée comme une analogie historique assimilant l'esprit à la « science du jour ». La principale tension est l'absence d'une démonstration convaincante de la conscience machine phénoménale, ce qui conduit à la critique selon laquelle elle ne traite que les « problèmes faciles » (la fonction) en ignorant le « problème difficile » (l'expérience).",
+    "open_questions_and_limitations": "La question clé non résolue est de savoir si l'exécution de computations, quelle que soit leur complexité, suffit véritablement à produire la conscience phénoménale (« ce que cela fait d'être »).",
+    "ontological_coherence": "Cohérente au sein des cadres physicalistes et fonctionnalistes réductionnistes, reposant sur la prémisse que toute réalité mentale peut être réduite au traitement de l'information ou à la structure algorithmique."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "Puisque le fonctionnalisme computationnel postule que la conscience résulte de l'exécution du bon type de computation, la conscience de l'IA est non seulement possible mais inévitable, étant donné la croissance exponentielle de la sophistication computationnelle des intelligences non biologiques."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est liée à une réalisation physique ou fonctionnelle dans un substrat. La survie traditionnelle après la mort est niée, mais une continuation reste possible uniquement par le téléchargement numérique de l'esprit (immortalité virtuelle)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie du Matérialisme, elle ne soutient aucun sens ou but cosmique ultime ; le sens et la valeur sont considérés comme des phénomènes émergents, auto-créés, résultant des fonctions complexes des êtres conscients."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Si la conscience est purement computationnelle/fonctionnelle (c'est-à-dire que son essence est algorithmique), alors une duplication parfaite des schémas fonctionnels du cerveau dans un support non biologique préserverait le moi mental à la première personne, rendant l'immortalité virtuelle atteignable en principe."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Fonctionnalisme",
+        "relationship": "Principe fondamental"
+      },
+      {
+        "name": "Fonctionnalisme computationnel",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Matérialisme éliminativiste/Illusionnisme",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Théorie de l'information intégrée",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The computational theory of mind, Michael Rescorla",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The rise of machine consciousness: studying consciousness with computational models, James Reggia",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      }
+    ]
+  }
+}

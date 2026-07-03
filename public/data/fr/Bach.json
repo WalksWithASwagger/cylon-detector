@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "La théorie du chef d'orchestre cortical de Bach",
+    "summary": "Cette théorie offre une explication fonctionnelle de la conscience phénoménale, proposant que des structures corticales, en particulier une entité computationnelle appelée le « chef d'orchestre », sont entraînées par un apprentissage guidé par la récompense afin de réguler l'activité cérébrale. La conscience est identifiée à la mémoire reconstruite d'avoir eu une expérience, intégrée dans un protocole de réflexion et d'apprentissage.",
+    "associated_thinkers": [
+      "Joscha Bach"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "La conscience comme mémoire la plus récente",
+    "classification_tags": [
+      "functionalism",
+      "memory",
+      "computation",
+      "reflection",
+      "attention"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience phénoménale est identifiée fonctionnellement à la mémoire la plus récente de ce à quoi le cortex préfrontal a prêté attention, stockée et recréée via le protocole du chef d'orchestre. L'actualité de l'expérience elle-même est considérée comme sans importance.",
+    "ontological_status": "Physicalisme/matérialisme (en tant que modèle fonctionnaliste de la conscience ancré dans les structures computationnelles du cerveau).",
+    "mind_body_relationship": "Les états conscients sont réalisés par des structures computationnelles spécifiques au sein du cortex (le chef d'orchestre et son protocole intégré), reflétant une relation de réalisation/identité fonctionnelle cohérente avec le matérialisme.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (l'état conscient est entièrement expliqué et dérivé des fonctions et structures des mécanismes corticaux sous-jacents et de l'apprentissage guidé par la récompense.)",
+    "subjectivity_and_intentionality": "Le « chef d'orchestre » dirige l'attention et intègre les processus dans un protocole utilisé pour la réflexion et la génération d'un modèle de soi cohérent, ce qui rend compte de la subjectivité et de l'intentionnalité.",
+    "qualia_account": "Les qualia (la conscience phénoménale) sont compris fonctionnellement comme la mémoire ou la reconstruction d'avoir eu une expérience, reflétée dans le protocole du chef d'orchestre.",
+    "ontological_commitments": "Structures corticales, structures computationnelles (« le chef d'orchestre »), signaux d'apprentissage guidés par la récompense et protocoles informationnels intégrés.",
+    "epistemic_access": "La conscience est accessible par la réflexion sur le protocole intégré par le chef d'orchestre.",
+    "constituents_and_structure": "Le chef d'orchestre, identifié fonctionnellement comme une structure computationnelle probablement associée au cortex préfrontal dorsolatéral, au cortex cingulaire antérieur et à l'insula antérieure, agit comme le mécanisme central de cohérence en générant un protocole de réflexion."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale (définie comme mémoire de l'expérience) ; Conscience d'accès ; Réflexion ; Conscience de soi (comme modèle de soi cohérent).",
+    "distinctive_mechanism_or_principle": "La structure computationnelle du « chef d'orchestre », entraînée par un apprentissage guidé par la récompense, régule les autres fonctionnalités corticales et intègre l'information attendue dans un protocole.",
+    "dynamics_of_emergence": "La conscience est un processus dynamique découlant de l'entraînement et du fonctionnement continu du chef d'orchestre, se manifestant comme le protocole mémoriel constamment mis à jour et reconstructible.",
+    "location_and_distribution": "Localisée fonctionnellement dans les systèmes régulateurs du cerveau, impliquant probablement le cortex préfrontal dorsolatéral, le cortex cingulaire antérieur et l'insula antérieure.",
+    "causation_and_functional_role": "Le chef d'orchestre assure la fonction exécutive, dirige l'attention et intègre l'expérience. La conscience elle-même permet la cohérence centrale et la réflexion/l'apprentissage.",
+    "integration_or_binding": "Le chef d'orchestre est le lieu unique où l'expérience est intégrée dans le protocole, procurant la cohérence centrale.",
+    "information_flow_or_representation": "Le flux d'information est régulé par le chef d'orchestre et intégré dans un protocole. La conscience phénoménale implique la réactivation de ce protocole via des liens et paramètres stockés (mémoire).",
+    "evolutionary_account": "Les structures corticales soutenant la fonctionnalité du chef d'orchestre résultent d'un apprentissage guidé par la récompense, suggérant une trajectoire évolutive adaptative.",
+    "core_claims_and_evidence": [
+      "La conscience est une explication fonctionnelle fondée sur une structure computationnelle appelée le « chef d'orchestre ».",
+      "La conscience phénoménale est la mémoire la plus récente de ce à quoi le chef d'orchestre a prêté attention.",
+      "Le chef d'orchestre intègre l'expérience dans un protocole utilisé pour la réflexion et l'apprentissage.",
+      "Un cerveau sans chef d'orchestre fonctionnerait comme un « somnambule », dépourvu de cohérence centrale et de réflexion."
+    ],
+    "basis_of_belief_or_evidence_type": "Computationnel, Fonctionnaliste, Sciences cognitives."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable/modélisable (définie par des conditions nécessaires et suffisantes liées à des structures computationnelles et corticales).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La tension principale réside dans la définition de la conscience phénoménale comme simple mémoire de l'expérience, contournant le problème difficile en affirmant que l'actualité de l'expérience elle-même est sans importance.",
+    "open_questions_and_limitations": "La théorie repose fortement sur une définition fonctionnelle qui évite d'expliquer la nature qualitative intrinsèque de « ce que cela fait » d'avoir cette expérience, se concentrant plutôt sur la mémoire accessible qui en résulte.",
+    "ontological_coherence": "Hautement cohérente au sein des paradigmes fonctionnaliste et matérialiste, offrant un compte rendu complet, quoique déflationniste, ancré dans la neurobiologie computationnelle."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "Bach est optimiste quant à la conscience de l'IA, car définir la conscience fonctionnellement comme une mémoire de l'expérience simplifie sa mise en œuvre dans des systèmes artificiels capables de calcul et de rapport sur cette mémoire."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "En tant que théorie matérialiste liant la conscience à des structures corticales et computationnelles spécifiques (le chef d'orchestre), la conscience cesse lorsque le substrat physique défaille."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste/Dérivé",
+      "rationale": "En tant que théorie du matérialisme, elle ne suggère aucun sens cosmique ultime. Le sens et la finalité sont dérivés en interne via la capacité du chef d'orchestre à créer un modèle de soi cohérent et à guider la fonction exécutive fondée sur l'apprentissage guidé par la récompense."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Puisque la conscience est définie comme un protocole informationnel/une mémoire découlant d'une structure computationnelle, la duplication et le téléversement parfaits de cet état fonctionnel vers un support non biologique devraient aboutir à l'immortalité virtuelle."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Similarité/Compatible"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Similarité/Compatible"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Contraste (la théorie du chef d'orchestre cortical est fonctionnaliste, contrairement à la définition structurelle de la TII)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The cortical conductor theory: towards addressing consciousness in AI models, Joscha Bach",
+        "year": 2019
+      }
+    ]
+  }
+}

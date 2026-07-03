@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "L'argument de Hardcastle contre les sceptiques du matérialisme",
+    "summary": "Cette position soutient que le désaccord persistant entre les matérialistes et les sceptiques (comme ceux préoccupés par le fossé explicatif) est fondamentalement une différence d'attitude à l'égard de l'entreprise scientifique. Hardcastle affirme que la conscience est un phénomène physique non mystérieux que la science empirique finira par expliquer, et que la difficulté des sceptiques à accepter ce résultat provient d'une défaillance de leur propre cadre conceptuel, non d'un échec du matérialisme lui-même.",
+    "associated_thinkers": [
+      "Valerie Gray Hardcastle"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Philosophique",
+    "core_identity_tagline": "L'intuition sceptique est un échec conceptuel, non un défaut matérialiste",
+    "classification_tags": [
+      "philosophical",
+      "materialism",
+      "explanatory gap",
+      "conceptual analysis",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience fait partie du monde physique, tout comme le reste, et les matérialistes présument qu'un énoncé d'identité finira par être découvert pour elle.",
+    "ontological_status": "Matérialisme engagé",
+    "mind_body_relationship": "La relation est une relation d'identité, où les états conscients sont identiques aux états physiques. L'absence actuelle d'un énoncé d'identité « intelligible » est perçue comme un problème d'attitude plutôt que d'ontologie.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (déduite, car Hardcastle a une « foi totale et absolue » que la science telle qu'actuellement conçue finira un jour par expliquer la conscience, ce qui implique une réductibilité en principe.)",
+    "subjectivity_and_intentionality": "La fixation des sceptiques sur des aspects qualitatifs irréductibles (subjectivité/qualia) est présentée comme une erreur conceptuelle. Hardcastle évoque par ailleurs les états mentaux comme des agents causalement efficaces (intentionnalité) au sein d'un cadre physicaliste.",
+    "qualia_account": "L'incapacité des sceptiques à imaginer comment l'activité neuronale capture les aspects qualitatifs est un échec conceptuel ou une question d'« attitude » de leur part, qui ne « fait pas le poids » face à la science. Les qualia sont pleinement pris en compte par l'éventuel énoncé d'identité scientifique.",
+    "ontological_commitments": "Le monde physique, régi par la méthode scientifique ; l'activité neuronale et les structures dynamiques complexes ; les états mentaux causalement efficaces (dans certains contextes).",
+    "epistemic_access": "L'investigation empirique est l'approche appropriée pour expliquer la conscience. Le scepticisme philosophique doit s'en remettre à la capacité de la science à fournir un énoncé d'identité correct.",
+    "constituents_and_structure": "La conscience est caractérisée comme une structure dynamique de niveau inférieur sous-tendant notre traitement de l'information, dérivée de l'organisation du cerveau physique."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale (particulièrement la nature du fossé explicatif la concernant), la causalité mentale, la cognition incarnée.",
+    "distinctive_mechanism_or_principle": "Le principe est méthodologique et attitudinal : accepter les prémisses du naturalisme et de l'explication scientifique, dissolvant ainsi le « problème difficile » en un non-problème. Le mécanisme physique sous-jacent repose sur la structure dynamique et le traitement de l'information.",
+    "dynamics_of_emergence": "La conscience est un processus dynamique naissant de l'activité neuronale, telle qu'une structure dynamique de niveau inférieur sous-tendant le traitement de l'information. Son explication éventuelle sera une identification de « fait brut », similaire aux lois de la physique.",
+    "location_and_distribution": "Principalement localisée dans le cerveau biologique, bien qu'elle propose une vision plus nuancée où la conscience pourrait être « localisée dans le monde extérieur tout autant qu'à l'intérieur de la tête ».",
+    "causation_and_functional_role": "Les états mentaux peuvent être désignés comme des agents causalement efficaces pour certains comportements. La vision de Hardcastle garantit que la base matérielle soutient la causalité mentale.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "La conscience implique un traitement de l'information ; Hardcastle envisage la conscience comme une structure dynamique sous-tendant notre traitement de l'information.",
+    "evolutionary_account": "S'appuie implicitement sur un contexte évolutif, cohérent avec le matérialisme, mais non explicitement détaillé dans cet argument philosophique spécifique.",
+    "core_claims_and_evidence": [
+      "La division entre matérialistes et sceptiques repose sur des différences fondamentales dans la compréhension de l'entreprise scientifique.",
+      "Les matérialistes ont une foi absolue que la science finira par expliquer la conscience comme elle a expliqué d'autres mystères.",
+      "Le fossé explicatif est entretenu par la conviction préalable des sceptiques quant au caractère mystérieux de la conscience.",
+      "Pour résoudre la difficulté, les sceptiques « doivent modifier leurs concepts » ou risquer de voir leurs idées écartées par la science."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (défense des prémisses), empirique (foi en la capacité scientifique)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable en principe, la position reposant sur la prédiction que la science finira par réussir à expliquer la conscience via un énoncé d'identité.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Les sceptiques soutiennent que les matérialistes échouent à rendre l'énoncé d'identité requis « intelligible, plausible, raisonnable », ne parvenant ainsi pas à combler le fossé explicatif. Sa position risque d'être qualifiée de simple question d'« attitude » plutôt que d'argument philosophique substantiel.",
+    "open_questions_and_limitations": "Hardcastle concède que l'énoncé d'identité spécifique pour la conscience n'a pas encore été trouvé et que rien de ce qu'elle dit ne suffira à convaincre ceux déjà attachés au caractère mystérieux de la conscience.",
+    "ontological_coherence": "Hautement cohérente au sein d'un cadre purement naturaliste et matérialiste, à condition d'accepter la prémisse que tous les faits concernant la conscience sont finalement des faits physiques, même actuellement inconnus."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "La position de Hardcastle est fermement matérialiste, affirmant que la conscience est un produit du monde physique. Par conséquent, en principe, tout système physique suffisamment complexe, biologique ou artificiel, doit être capable de conscience si les structures physiques requises sont réalisées."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "Le matérialisme soutient que la conscience est uniquement le produit du cerveau biologique. Une fois le cerveau mort, la conscience cesse d'exister."
+    },
+    "meaning_and_purpose": {
+      "stance": "Conditionnel",
+      "rationale": "En tant que théorie matérialiste, elle n'implique aucun sens ou finalité ultime ou cosmique, mais reconnaît que les humains peuvent créer un sens, une finalité et une valeur humanistes pour eux-mêmes."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Puisque la conscience est entièrement physique et non mystérieuse, le soi à la première personne est réductible à des motifs physiques. Si ces motifs peuvent être parfaitement dupliqués et téléchargés vers un support non biologique, l'immortalité virtuelle est possible."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "David Chalmers's Hard Problem Arguments",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Chevauchement (partage une attitude déflationniste envers l'intuition subjective)"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The why of consciousness: a non-issue for materialists",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Locating Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "On the matter of minds and mental causation",
+        "year": 1998
+      }
+    ]
+  }
+}

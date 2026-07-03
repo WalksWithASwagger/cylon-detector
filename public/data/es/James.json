@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "La Ausencia de un Problema Difícil en la Psicología de William James",
+    "summary": "Esta perspectiva, basada en una interpretación de la obra de William James, invierte el paradigma del Problema Difícil al argumentar que la conciencia no es un misterio de experiencia subjetiva, sino un mecanismo evolucionado diseñado para resolver el 'problema de selección'. Este mecanismo incrementa la aptitud del organismo al seleccionar respuestas adaptativas entre una proliferación de opciones generadas por un cerebro complejo, favoreciendo resultados alineados con los intereses a largo plazo del cerebro.",
+    "associated_thinkers": ["William James", "Tracy Witham"],
+    "category": "Materialismo",
+    "subcategory": "Evolución Filogenética",
+    "core_identity_tagline": "La Conciencia como Mecanismo de Selección Adaptativa",
+    "classification_tags": [
+      "evolution",
+      "functionalism",
+      "deflationary",
+      "selection problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como un mecanismo de selección que ejerce presión a favor de las actuaciones que mejor sirven a los intereses más permanentes del organismo, arraigado en la asignación de preferencias hacia ciertas sensaciones (fines de facto).",
+    "ontological_status": "Funcionalista/Fisicalista (Justificación: la teoría disuelve el Problema Difícil al asignar a la conciencia un rol puramente funcional y adaptativo, alineándola con el objetivo del Materialismo de explicar la conciencia únicamente mediante sistemas físicos).",
+    "mind_body_relationship": "La conciencia está funcionalmente vinculada a procesos cerebrales complejos, específicamente relacionada con la formación de 'reflejos cerebrales' donde las preferencias influyen en las interacciones entre el organismo y su entorno.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil (Justificación: la conciencia emerge como una necesidad adaptativa cuando la complejidad cerebral produce una proliferación de opciones de respuesta no óptimas, lo que implica emergencia a partir de una organización física sofisticada).",
+    "subjectivity_and_intentionality": "La subjetividad se aborda de manera funcional, en la medida en que la conciencia confiere preferencias por unas sensaciones sobre otras, determinando así el origen de los 'fines de facto' (objetivos intencionales) del organismo.",
+    "qualia_account": "El Problema Difícil (explicar los qualia o el 'qué se siente al ser') se disuelve esencialmente al desplazar el foco hacia el problema funcional que resuelve la conciencia (el problema de selección).",
+    "ontological_commitments": "Cerebros biológicos complejos, situaciones ambientales que requieren selección adaptativa, y funciones psicológicas evolucionadas (mecanismos de selección, preferencias).",
+    "epistemic_access": "Se accede principalmente mediante el análisis de su papel funcional en el aumento de la aptitud del organismo y en la selección de comportamientos (análisis evolutivo en tercera persona).",
+    "constituents_and_structure": "Una estructura cerebral compleja capaz de sostener una proliferación de opciones de respuesta, combinada con un mecanismo de selección superpuesto que prioriza los resultados adaptativos."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Agencia, selección de respuestas adaptativas, asignación de preferencias (aspectos funcionales de la conciencia).",
+    "distinctive_mechanism_or_principle": "El mecanismo consiste en que la conciencia actúa como una presión de selección, garantizando que los comportamientos complejos favorezcan los intereses permanentes y a largo plazo del organismo.",
+    "dynamics_of_emergence": "Un proceso dinámico que surge en cerebros suficientemente complejos como para generar opciones de respuesta en competencia, sirviendo para filtrar o seleccionar el resultado más ventajoso, formando así 'fines de facto' a partir de sensaciones preferidas.",
+    "location_and_distribution": "Se localiza en cerebros que han alcanzado una complejidad suficiente para enfrentar el 'problema de selección'.",
+    "causation_and_functional_role": "La conciencia es causalmente eficaz al ejercer presión sobre las actuaciones que promueven la aptitud; su función es resolver el 'problema de selección' inherente a los sistemas complejos."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable/Empíricamente plausible (Justificación: se fundamenta en principios evolutivos y de aptitud biológica, compatibles con el estudio científico, lo que la clasifica dentro de la Evolución Filogenética).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principal tensión conceptual es si la conciencia realmente encaja, incluso a primera vista, para abordar el 'problema de selección' tal como se describe.",
+    "open_questions_and_limitations": "El ajuste preciso entre la conciencia y el 'problema de selección' sigue siendo una cuestión abierta, al igual que la comprensión de la implicación de los esquemas de 'reflejo cerebral'.",
+    "ontological_coherence": "Coherente dentro de un marco funcionalista y evolutivo, ya que evita los compromisos metafísicos tradicionales al redefinir el problema de la conciencia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conciencia es principalmente un mecanismo funcional de selección, entonces cualquier sistema artificial que alcanzara suficiente complejidad y requiriera un mecanismo similar para priorizar resultados adaptativos probablemente se consideraría consciente."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Esta interpretación de la conciencia está firmemente arraigada en la necesidad biológica evolucionada y en la función del cerebro, sin ofrecer ninguna posibilidad de persistencia tras la muerte biológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Pragmático",
+      "rationale": "El sentido y el propósito están ligados a la función biológica: aumentar la aptitud evolutiva y alcanzar 'los intereses más permanentes del dueño del cerebro'."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Al tratarse de una teoría funcionalista, la duplicación o carga del mecanismo de selección subyacente y de la organización funcional debería resultar en la continuación exitosa de la conciencia."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Chalmers’s Hard Problem",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Principles of Psychology, William James",
+        "year": 1890
+      }
+    ]
+  }
+}

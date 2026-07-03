@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "El Darwinismo Neuronal y los Circuitos Neuronales Reentrantes de Edelman",
+    "summary": "Esta es una teoría puramente biológica y materialista que postula que la conciencia surge de la morfología cerebral compleja y la selección evolutiva. El mecanismo central involucra el Núcleo Dinámico, definido por una señalización recursiva, masiva y continua (reentrada) entre grupos neuronales, especialmente en el sistema talamocortical, que permite discriminaciones de orden superior.",
+    "associated_thinkers": [
+      "Gerald Edelman",
+      "Giulio Tononi"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "‘La Conciencia como Discriminaciones Neuronales Reentrantes’",
+    "classification_tags": [
+      "neural selectional system",
+      "reentry",
+      "dynamic core",
+      "biological",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica con el resultado de discriminaciones de orden superior que surgen de las interacciones reentrantes en el núcleo dinámico del sistema talamocortical.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La mente y los estados mentales son enteramente físicos, producto exclusivo de los procesos biológicos del cerebro (una teoría profundamente materialista).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil",
+    "subjectivity_and_intentionality": "La subjetividad es inherente a la actividad del organismo individual y refleja sus propiedades fenotípicas únicas y su historia vital. La intencionalidad se refleja en la naturaleza selectiva del sistema, que favorece las respuestas adaptativas.",
+    "qualia_account": "Los qualia se definen como discriminaciones de orden superior posibilitadas por la estructura y la dinámica neuronal subyacentes. El problema difícil de los qualia se descarta por estar mal planteado, ya que una teoría descriptiva no puede replicar la experiencia subjetiva que explica.",
+    "ontological_commitments": "Cerebros biológicos, grupos neuronales, circuitería neuronal reentrante y cambios en la eficacia sináptica.",
+    "epistemic_access": "Se accede principalmente mediante la investigación científica y la descripción en tercera persona de la estructura neuroanatómica y la dinámica neuronal, reconociendo que esto no puede replicar la experiencia en primera persona.",
+    "constituents_and_structure": "Repertorios de circuitos variantes, grupos neuronales funcionalmente plásticos y fibras recíprocas masivamente paralelas dentro del sistema talamocortical (el Núcleo Dinámico)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica, Conciencia Primaria (el presente recordado), Conciencia de Orden Superior (sentido del yo, lenguaje), Unidad/Vinculación.",
+    "distinctive_mechanism_or_principle": "El Darwinismo Neuronal (Teoría de la Selección de Grupos Neuronales, TSGN) combinado con la organización del Núcleo Dinámico mediante circuitería neuronal reentrante.",
+    "dynamics_of_emergence": "La conciencia es un proceso dinámico que surge de la integración de numerosas entradas mediante interacciones reentrantes, generando una secuencia continua de distintos estados metaestables a lo largo del tiempo.",
+    "location_and_distribution": "Localizada predominantemente en los circuitos talamocorticales (el Núcleo Dinámico).",
+    "causation_and_functional_role": "Su rol funcional es posibilitar discriminaciones de orden superior, que conducen a respuestas adaptativas. La conciencia de orden superior permite la planificación y la conciencia de ser consciente.",
+    "integration_or_binding": "Se logra mediante la reentrada, que impone correlaciones sobre grupos neuronales diversos e interactuantes, favoreciendo circuitos sincrónicamente activos a través de áreas cerebrales distribuidas.",
+    "information_flow_or_representation": "El procesamiento de información es selectivo (darwiniano) y depende de la selección de circuitos degenerados basada en la experiencia, en lugar de ser instructivo.",
+    "evolutionary_account": "La conciencia evolucionó en dos etapas: la Conciencia Primaria surgió cuando la categorización perceptual se vinculó, mediante la reentrada, con la memoria (el 'presente recordado'); la Conciencia de Orden Superior surgió más tarde con el desempeño lingüístico y la memoria conceptual.",
+    "core_claims_and_evidence": [
+      "La conciencia es un resultado puramente biológico y profundamente materialista de la selección evolutiva (Darwinismo Neuronal).",
+      "El Núcleo Dinámico integra las entradas para generar estados conscientes mediante circuitería neuronal reentrante.",
+      "Los qualia son las discriminaciones de orden superior que implican estas dinámicas neuronales.",
+      "La reentrada resuelve el problema de la vinculación al sincronizar la actividad cortical distribuida."
+    ],
+    "basis_of_belief_or_evidence_type": "Biológica, Evolutiva, Neurofisiológica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable",
+    "known_empirical_interventions_or_tests": [
+      "Estudios que investigan el papel de la actividad neuronal reentrante en el sistema talamocortical.",
+      "Mediciones de la estructura y la dinámica neuronal que se correlacionan con diferencias en los qualia."
+    ],
+    "criticisms_and_tensions": "Los críticos siguen sin convencerse de que este marco materialista explique plenamente la existencia subjetiva y fenoménica de los qualia, y consideran que el rechazo del problema difícil por parte de Edelman es insuficiente.",
+    "open_questions_and_limitations": "La teoría no puede, por definición, transmitir la experiencia en primera persona (el 'rojo del rojo') mediante una descripción científica en tercera persona, lo que deja una brecha experiencial.",
+    "ontological_coherence": "Altamente coherente dentro de un marco ontológico estrictamente materialista, neurobiológico y darwiniano."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Como teoría biológica mecanicista, la conciencia debería ser posible en sistemas artificiales si los mecanismos de circuitería neuronal selectiva y reentrante se implementan de manera suficiente y correcta en sustratos no biológicos. Sus proponentes sugirieron que diseñar un artefacto consciente es factible."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia depende enteramente de las operaciones físicas del cerebro biológico; por lo tanto, cesa con la muerte del organismo."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "La teoría se funda en funciones evolutivas y adaptativas, lo que implica que el sentido y el propósito son propiedades emergentes creadas por los agentes conscientes, y no rasgos cósmicos fundamentales."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Dado que la conciencia es producto de dinámicas y funciones físico-estructurales específicas (Darwinismo Neuronal/Núcleo Dinámico), una duplicación perfecta o una carga de estos mecanismos en un medio digital preservaría el yo mental en primera persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Coincidencia"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Extensión"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neural Darwinism: the Theory of Neuronal Group Selection, G.M. Edelman",
+        "year": 1987
+      },
+      {
+        "title_with_names": "A Universe of Consciousness: How Matter Becomes Imagination, G.M. Edelman and G. Tononi",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Naturalizing consciousness: a theoretical framework, G. Edelman",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Biology of consciousness, G. Edelman, J. Garlly, B. Baars",
+        "year": 2011
+      }
+    ]
+  }
+}

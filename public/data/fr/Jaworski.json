@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "L'hylémorphisme de Jaworski",
+    "summary": "La théorie de Jaworski affirme que la conscience est fondamentalement un phénomène structurel découlant de l'hylémorphisme, le principe ontologique fondamental selon lequel la structure rend compte des pouvoirs et des capacités des individus physiques. En définissant les expériences conscientes comme des activités structurées du percevant, la théorie prétend résoudre le problème difficile de la conscience et situer les phénomènes mentaux sans difficulté au sein du monde naturel.",
+    "associated_thinkers": ["William Jaworski"],
+    "category": "Matérialisme",
+    "subcategory": "Relationnelle",
+    "core_identity_tagline": "« La conscience comme structure et pouvoirs fondamentaux »",
+    "classification_tags": [
+      "hylomorphism",
+      "structure",
+      "physicalism",
+      "powers",
+      "mind-body solution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme un phénomène structurel — les activités et capacités hautement organisées et coordonnées naissant des matériaux physiques qui composent le percevant.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "Identité structurelle. Les phénomènes mentaux sont des phénomènes structurels et font donc partie du monde physique. Le problème classique du corps et de l'esprit est envisagé comme un sous-produit des conceptions du monde qui rejettent la structure comme principe ontologique fondamental.",
+    "primitive_or_emergent_status": "Émergente",
+    "emergence_type": "Les sources ne précisent pas s'il s'agit d'une émergence faible ou forte. Étant donné que la structure explique entièrement le caractère phénoménal, cela suggère une conception visant la réduction à la structure, ou une émergence faible, compatible avec sa classification matérialiste.",
+    "subjectivity_and_intentionality": "La subjectivité naît de la coordination qui unifie les activités des sous-systèmes du percevant en un tout. L'intentionnalité est implicitement prise en compte comme l'un des pouvoirs ou capacités fondamentaux conférés par la structure physique spécifique.",
+    "qualia_account": "Le caractère phénoménal de l'expérience est entièrement expliqué en décrivant la structure sous-jacente du percevant, y compris ses sous-systèmes perceptifs, leurs pouvoirs spécifiques, et la coordination globale qui unifie ces activités.",
+    "ontological_commitments": "Les matériaux physiques et la structure, la structure étant supposée être un principe ontologique et explicatif fondamental, responsable de la détermination des pouvoirs et capacités des individus.",
+    "epistemic_access": "La conscience est accessible par l'analyse et la description de la structure physique du percevant et de la coordination de ses sous-systèmes perceptifs.",
+    "constituents_and_structure": "Les éléments constitutifs de base sont les matériaux physiques combinés à une structure spécifique ; la structure globale dicte les capacités conscientes et unifie diverses activités (comme les expériences perceptives) en l'activité du percevant dans son ensemble."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale (explique le caractère phénoménal/les qualia) et perceptive (les expériences perceptives sont un type d'activité structurée).",
+    "distinctive_mechanism_or_principle": "Le principe de l'hylémorphisme, selon lequel l'organisation globale de la matière détermine ses pouvoirs fondamentaux, faisant de la conscience une propriété structurelle inhérente à tout système physique suffisamment complexe.",
+    "dynamics_of_emergence": "La conscience se manifeste comme des « activités structurées » (par exemple, les expériences perceptives). C'est un processus dynamique défini par la coordination et l'unification des sous-systèmes.",
+    "location_and_distribution": "Circonscrite aux matériaux physiques possédant la structure requise, en particulier au sein du corps du percevant (par exemple, le cerveau humain et ses sous-systèmes associés).",
+    "causation_and_functional_role": "La structure est responsable des pouvoirs et capacités de l'individu. Les phénomènes mentaux étant structurels et faisant partie du monde physique, ils possèdent une efficacité causale inhérente.",
+    "integration_or_binding": "L'unité de l'expérience consciente (l'intégration) est réalisée par la « coordination qui unifie » les activités des divers sous-systèmes perceptifs en l'activité intégrée du percevant dans son ensemble.",
+    "information_flow_or_representation": "La conscience naît d'activités structurées spécifiques, comme les expériences perceptives, qui reposent sur l'organisation interne et les pouvoirs du percevant, plutôt que sur de simples modèles abstraits de traitement de l'information.",
+    "evolutionary_account": "Explication justifiée : il est noté que la conscience s'inscrit « sans difficulté dans le monde naturel », tout comme la vie, ce qui implique qu'elle est le résultat naturel et non mystérieux de l'évolution, bien que les étapes phylogénétiques précises ne soient pas détaillées dans le matériel source.",
+    "core_claims_and_evidence": [
+      "La structure est un principe ontologique fondamental qui détermine les pouvoirs et capacités d'un individu.",
+      "Le caractère phénoménal de l'expérience est entièrement expliqué en décrivant la structure du percevant.",
+      "Les problèmes du corps et de l'esprit ne sont que des sous-produits du rejet du principe de l'hylémorphisme."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique et ontologique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable. L'argument central est métaphysique, offrant un cadre (l'hylémorphisme) pour dissoudre le problème, ce qui est philosophiquement testable en analysant ses prémisses.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principale tension de la théorie tient à la nécessité, pour les non-adhérents, d'accepter la structure comme principe ontologique fondamental capable d'expliquer tous les aspects subjectifs. Les critiques du physicalisme rejetteraient la prémisse selon laquelle la structure seule suffit à dissoudre le problème difficile.",
+    "open_questions_and_limitations": "Le cadre théorique nécessite un travail approfondi pour préciser exactement comment les structures neuronales ou biologiques observées correspondent de manière exhaustive au caractère phénoménal perçu, même si le fondement métaphysique est accepté.",
+    "ontological_coherence": "Hautement cohérente. La théorie est spécifiquement formulée pour établir une cohérence interne en veillant à ce que les phénomènes mentaux conscients soient nécessairement des parties structurelles intégrées du monde physique, résolvant ainsi les problèmes philosophiques qu'elle s'est donnés."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conscience résulte directement de l'obtention d'une structure et d'une organisation physiques complexes spécifiques (hylémorphisme), alors tout système artificiel conçu pour posséder cette structure et ces pouvoirs requis instancierait une conscience véritable."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est inextricablement liée au matériau physique hautement organisé de l'individu. La cessation ou la décomposition de cette structure implique la fin de la conscience."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "Classée dans le matérialisme, la conscience est le produit de phénomènes naturels et structurels. Tout sens ou dessein est donc engendré par les capacités et activités structurelles des êtres humains au sein du monde naturel, plutôt que d'être cosmiquement inhérent."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Si la conscience est entièrement définie par la « structure » complexe et les « pouvoirs » qui en résultent, alors dupliquer ou télécharger cet agencement structurel complet dans un nouveau substrat non biologique devrait préserver le soi conscient, conformément à l'aspect fonctionnaliste de la théorie."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Fonctionnalisme",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Théorie de l'identité corps-esprit",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Le dualisme néo-thomiste de Feser",
+        "relationship": "Apparentée"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem, William Jaworski",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Hylomorphism and the construct of consciousness, William Jaworski",
+        "year": 2020
+      }
+    ]
+  }
+}

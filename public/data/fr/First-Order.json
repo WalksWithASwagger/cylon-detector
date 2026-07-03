@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Représentationnalisme de premier ordre",
+    "summary": "Le représentationnalisme de premier ordre (FOR) cherche à expliquer la conscience en la réduisant à des états intentionnels externes, dirigés vers le monde. Il affirme que le caractère phénoménal de l'expérience est entièrement déterminé par le contenu de la représentation, identifiant les qualia aux propriétés externes que l'expérience représente les objets comme possédant.",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "Théories du matérialisme",
+    "subcategory": "Représentationnelle",
+    "core_identity_tagline": "La conscience comme états intentionnels externes, dirigés vers le monde",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Les aspects phénoménaux des expériences perceptives sont une seule et même chose que les propriétés externes et réelles que l'expérience représente les objets comme possédant.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "Théorie de l'identité/corrélation réductionniste. Les états mentaux sont identifiés à des représentations réalisées dans des états cérébraux qui acquièrent des fonctions informationnelles spécifiques.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "L'intentionnalité (le caractère dirigé de la pensée) est première. La subjectivité est entièrement déterminée par le contenu représentationnel, les représentations sensorielles étant directement disponibles pour le sujet.",
+    "qualia_account": "Les qualia (le caractère phénoménal) sont identifiés au contenu représentationnel (représentationnalisme fort) ou aux propriétés externes représentées par l'expérience, résolvant ainsi le problème difficile par une explication réductrice.",
+    "ontological_commitments": "Les représentations mentales, les états cérébraux acquérant des fonctions informationnelles, les circuits sensoriels/perceptifs.",
+    "epistemic_access": "Accessible par des méthodes en troisième personne se concentrant sur les corrélats neuronaux et la diffusion globale des représentations, complétées par l'auto-évaluation.",
+    "constituents_and_structure": "Les représentations sensorielles de premier ordre et les contenus non conceptuels, diffusés globalement dans le cerveau."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale, la conscience d'accès, l'expérience sensorielle.",
+    "distinctive_mechanism_or_principle": "La conscience naît lorsque des états cérébraux acquièrent, typiquement par sélection naturelle, la fonction de porter une information pertinente concernant des objets externes, devenant ainsi des représentations mentales.",
+    "dynamics_of_emergence": "La conscience naît dynamiquement lorsque des contenus non conceptuels sont diffusés globalement dans le cerveau en vue de leur accès et de leur utilisation.",
+    "location_and_distribution": "Les corrélats neuronaux de la conscience spécifique incluent l'activité du cortex sensoriel et de noyaux thalamiques spécifiques, en lien avec le traitement récurrent dans les aires perceptives.",
+    "causation_and_functional_role": "La conscience a pour fonction de rendre l'information perceptive disponible pour les systèmes permettant un comportement flexible, la formation de croyances et la sélection de l'action.",
+    "integration_or_binding": "L'intégration est réalisée par la disponibilité de l'information sensorielle (représentations) à travers les réseaux cognitifs globaux (concomitante à la diffusion globale).",
+    "information_flow_or_representation": "Les représentations de premier ordre découlent directement des stimuli externes ; le traitement de l'information est essentiel pour transformer des états cérébraux en représentations propices à la conscience.",
+    "evolutionary_account": "La conscience a évolué par sélection naturelle, les états cérébraux ayant acquis la fonction de porter une information qui améliore les capacités adaptatives de l'organisme.",
+    "core_claims_and_evidence": [
+      "Les propriétés phénoménales sont identiques aux propriétés externes et réelles représentées par l'expérience.",
+      "L'expérience consciente coïncide avec la diffusion globale de contenus non conceptuels de premier ordre dans le cerveau.",
+      "Les états conscients sont des représentations dont le contenu détermine entièrement le ressenti subjectif."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (réduction conceptuelle, accent sur l'intentionnalité) et empirique (données de corrélation neuroscientifiques)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable",
+    "known_empirical_interventions_or_tests": [
+      "Cartographie des corrélats neuronaux de la conscience générale et spécifique (cortex sensoriel, noyaux thalamiques)",
+      "Études corrélant la conscience avec la diffusion globale du contenu de premier ordre"
+    ],
+    "criticisms_and_tensions": "Se heurte au défi général des théories représentationnelles : expliquer la phénoménologie uniquement en termes d'intentionnalité. Les critiques questionnent comment la seule représentation ou le seul contenu informationnel peut rendre pleinement compte du ressenti qualitatif (qualia).",
+    "open_questions_and_limitations": "Le mécanisme précis par lequel le contenu d'une représentation non conceptuelle détermine le ressenti subjectif demeure une lacune explicative, bien que les partisans soutiennent que l'aspect phénoménal est résolu par son identité avec des propriétés externes.",
+    "ontological_coherence": "Hautement cohérente au sein d'une ontologie matérialiste réductrice et fonctionnaliste."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "En tant que théorie matérialiste où la conscience dépend du contenu informationnel et de l'architecture fonctionnelle, les systèmes artificiels pourraient instancier la conscience s'ils réalisent les structures représentationnelles et les fonctions informationnelles nécessaires."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est entièrement réalisée par des processus cérébraux physiques ; la survie au-delà de la destruction du substrat biologique est exclue."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie du matérialisme, elle ne rationalise aucun sens ou dessein cosmique ultime, seulement un sens engendré par les agents conscients eux-mêmes."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Si le soi en première personne est entièrement capturé par le contenu représentationnel et les états informationnels, une duplication parfaite (téléchargement) de ces états dans un support non biologique devrait préserver le soi mental originel."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Théories d'ordre supérieur",
+        "relationship": "Critique/Contraste"
+      },
+      {
+        "name": "Théorie du traitement récurrent",
+        "relationship": "Extension/Chevauchement"
+      },
+      {
+        "name": "Théorie de l'espace de travail global",
+        "relationship": "Compatible/Chevauchement"
+      },
+      {
+        "name": "Thèse de la transparence",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

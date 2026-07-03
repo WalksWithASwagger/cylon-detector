@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Le panpsychisme de Wallace à l'intérieur de la physique",
+    "summary": "David Wallace propose une conception panpsychiste selon laquelle la conscience est identifiée à la nature intrinsèque des entités physiques fondamentales, plutôt qu'à une force ou une caractéristique séparée. Cette approche se veut une synthèse évitant les problèmes du matérialisme standard (l'absence d'explication de la conscience) et du dualisme (l'absence de rôle causal pour la conscience dans un système physique clos).",
+    "associated_thinkers": ["David Wallace"],
+    "category": "Panpsychismes",
+    "subcategory": "Panpsychisme à l'intérieur de la physique",
+    "core_identity_tagline": "La conscience comme nature intrinsèque de la physique",
+    "classification_tags": [
+      "panpsychism",
+      "philosophy of physics",
+      "intrinsic properties",
+      "causal role"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à la nature intrinsèque des entités physiques fondamentales ; elle constitue la réalité sous-jacente que la physique ne décrit qu'en termes de relations quantitatives.",
+    "ontological_status": "Panpsychisme (plus précisément, une variante non traditionnelle visant une synthèse métaphysique du dualisme et du matérialisme).",
+    "mind_body_relationship": "La conscience est inséparable du monde physique et le constitue, agissant comme la nature intrinsèque de la matière et de l'énergie. Cela évite le problème de l'interaction propre au dualisme traditionnel.",
+    "primitive_or_emergent_status": "Primitif/Fondamental. Wallace est favorable à l'idée que la conscience est fondamentale et irréductible.",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "Non détaillé explicitement. L'accent principal porte sur le positionnement métaphysique de la conscience au sein de la réalité fondamentale, plutôt que sur les détails psychologiques de la subjectivité.",
+    "qualia_account": "Les qualia sont implicitement expliqués comme des propriétés de la nature phénoménale intrinsèque des entités physiques fondamentales qui composent la réalité.",
+    "ontological_commitments": "Des entités physiques fondamentales (champs et particules) possédant des propriétés intrinsèques, proto-phénoménales, qui constituent la conscience.",
+    "epistemic_access": "Inférence conceptuelle/philosophique. Wallace soutient que, la physique ne décrivant mathématiquement que des structures relationnelles, la nature intrinsèque de ces entités doit être déduite philosophiquement.",
+    "constituents_and_structure": "Les constituants de base sont les entités physiques fondamentales (champs et particules) dont la nature intrinsèque est la conscience."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale, agentivité causale, ontologie fondamentale.",
+    "distinctive_mechanism_or_principle": "La conscience agit comme le facteur causal « à l'intérieur » de la physique en constituant la nature intrinsèque des entités physiques. Lorsque des entités agissent les unes sur les autres, c'est la conscience qui « exerce la causation », lui conférant ainsi un rôle causal tout en préservant la clôture causale du physique.",
+    "dynamics_of_emergence": "Propriété statique/fondamentale. La conscience est la nature fondamentale sous-jacente de la réalité, non une propriété qui apparaît dynamiquement ou temporellement.",
+    "location_and_distribution": "Partout ; la conscience se situe « à l'intérieur du monde physique » en tant que nature intrinsèque de toutes les entités physiques.",
+    "causation_and_functional_role": "La conscience est causalement efficace parce qu'elle constitue la nature intrinsèque des processus physiques eux-mêmes, résolvant le problème dualiste de l'absence de rôle causal pour l'esprit.",
+    "integration_or_binding": "Non explicitement traité dans les sources fournies. Wallace se concentre sur l'existence fondamentale et le rôle causal, laissant de côté le problème de la combinaison inhérent au panpsychisme.",
+    "information_flow_or_representation": "La physique fournit une théorie mathématique des relations entre entités (information relationnelle), et la conscience est la nature intrinsèque non quantitative qui sous-tend ces relations (ce qui « insuffle la vie dans les équations »).",
+    "evolutionary_account": "Non détaillé explicitement. La théorie porte sur la nature fondamentale de la réalité, laquelle précède l'évolution biologique.",
+    "core_claims_and_evidence": [
+      "La conscience est réelle et fondamentale, existant au niveau le plus élémentaire de la nature.",
+      "La conscience agit comme la nature intrinsèque des entités physiques, fournissant ainsi le pouvoir causal au sein de la physique.",
+      "Les lois de la physique décrivent des relations de manière quantitative mais non la nature intrinsèque des entités."
+    ],
+    "basis_of_belief_or_evidence_type": "Synthèse philosophique et métaphysique."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculatif/Conceptuel. La théorie traite de la nature intrinsèque, non relationnelle, des entités physiques, ce qui la rend fondamentalement difficile à tester empiriquement.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Doit répondre au problème de la combinaison (comment la micro-conscience se combine en macro-conscience). Wallace note que cette conception panpsychiste contredit l'idée selon laquelle la conscience ferait s'effondrer la fonction d'onde, laquelle constitue une théorie quantique de la conscience apparentée mais distincte.",
+    "open_questions_and_limitations": "Le mécanisme précis par lequel les propriétés micro-conscientes se combinent pour former des expériences subjectives complexes et unifiées demeure un défi philosophique ouvert.",
+    "ontological_coherence": "Hautement cohérente en tant que position métaphysique, visant à intégrer fondamentalement la conscience à la réalité sans postuler de forces supplémentaires non physiques qui violeraient la clôture causale de la physique."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conscience est la nature intrinsèque de toute matière/énergie décrite par la physique, alors tout système physique, y compris une architecture d'IA suffisamment complexe, serait nécessairement conscient."
+    },
+    "survival_beyond_death": {
+      "stance": "Improbable (hypothèse lointaine)",
+      "rationale": "Bien que la conscience elle-même soit fondamentale et omniprésente (panpsychisme), la structure intégrée spécifique qui définit la conscience *personnelle* est liée à l'agencement physique complexe (par exemple, le cerveau). La persistance de cette structure spécifique au-delà de la dissolution biologique demeure incertaine."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incertain/Possible",
+      "rationale": "En tant que variante du panpsychisme, la théorie permet potentiellement un sens ou une finalité ultime puisque la conscience est fondamentale, mais les sources ne précisent pas la position de Wallace sur cette implication."
+    },
+    "virtual_immortality": {
+      "stance": "Probablement",
+      "rationale": "Puisque la conscience est la nature intrinsèque sous-tendant la structure physique, une duplication numérique parfaite des structures physiques et relationnelles du cerveau décrites par la physique reproduirait vraisemblablement la nature consciente intrinsèque correspondante."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dualism",
+        "relationship": "Critique/Synthèse"
+      },
+      {
+        "name": "Materialism",
+        "relationship": "Critique/Synthèse"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Chevauchement/Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Physics of the Observer, David Wallace",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Physics of consciousness, David Wallace",
+        "year": 2016
+      },
+      {
+        "title_with_names": "What Is Panpsychism, David Wallace",
+        "year": 2016
+      }
+    ]
+  }
+}

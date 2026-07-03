@@ -1,0 +1,92 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie du couplage éphaptique",
+    "summary": "Cette théorie postule que les neurones génèrent des champs électriques suffisamment puissants et précisément situés pour influencer instantanément l'excitabilité électrique des neurones adjacents (couplage éphaptique). Si ce couplage se produit largement à travers le cerveau, il est proposé comme la base physique sous-jacente contribuant à constituer une théorie du champ électromagnétique de la conscience.",
+    "associated_thinkers": [
+      "Chen"
+    ],
+    "category": "Théories du Matérialisme",
+    "subcategory": "Champ Électromagnétique",
+    "core_identity_tagline": "La conscience comme influence neuronale quasi instantanée via des champs électriques",
+    "classification_tags": [
+      "electromagnetic field",
+      "neurobiological",
+      "neural dynamics",
+      "coupling"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est potentiellement constituée ou soutenue par la dynamique collective des champs électromagnétiques résultant des influences électriques non synaptiques instantanées (couplage éphaptique) entre neurones.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "Identité/corrélation (l'esprit correspond à des processus/champs physiques dans le cerveau)",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "Le couplage éphaptique étant principalement un mécanisme biophysique d'influence neuronale, son explication de la subjectivité et de l'intentionnalité est renvoyée au champ électromagnétique résultant ou au cadre plus large qu'il soutient.",
+    "qualia_account": "Le mécanisme de couplage spécifique ne traite pas explicitement des qualia, mais les théories plus larges du champ électromagnétique qu'il soutient placent parfois l'expérience phénoménale à leur ordre du jour explicatif.",
+    "ontological_commitments": "Les neurones, les champs électriques et les influences neuronales non synaptiques quasi instantanées.",
+    "epistemic_access": "Accessible par l'observation et la modélisation des phénomènes biophysiques, en se concentrant sur les effets des champs électriques sur l'activité neuronale.",
+    "constituents_and_structure": "Des champs électriques générés par des neurones électrogènes, qui influencent l'excitabilité des neurones voisins pour organiser l'activité cérébrale à grande échelle."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal (implicitement, dans la mesure où il soutient les théories généralisées du champ électromagnétique de la conscience)",
+    "distinctive_mechanism_or_principle": "L'influence non synaptique des champs électriques (couplage éphaptique) permettant une communication électrique quasi instantanée entre neurones voisins.",
+    "dynamics_of_emergence": "La conscience est un processus dynamique résultant du couplage instantané et de la synchronisation permis par des champs électriques changeant rapidement à travers le tissu cérébral.",
+    "location_and_distribution": "Largement distribuée dans le tissu cérébral, partout où un couplage éphaptique significatif se produit entre les neurones.",
+    "causation_and_functional_role": "Influencer instantanément l'excitabilité électrique des neurones voisins, facilitant potentiellement l'intégration et la synchronisation rapides nécessaires à la conscience.",
+    "integration_or_binding": "L'intégration ou le liage est censé se produire via l'influence et la synchronisation étendues permises par le couplage éphaptique quasi instantané à travers des réseaux neuronaux distribués.",
+    "information_flow_or_representation": "Le traitement de l'information repose sur le transfert instantané d'influence électrique entre neurones en dehors des voies synaptiques traditionnelles.",
+    "evolutionary_account": "Doit s'accorder avec la valeur adaptative d'une communication neuronale rapide et intégrée au cours de l'évolution phylogénétique du système nerveux central, conformément à sa classification sous Théories du Matérialisme.",
+    "core_claims_and_evidence": [
+      "Les neurones produisent des champs électriques suffisamment puissants pour influencer quasi instantanément l'excitabilité neuronale voisine.",
+      "Le couplage éphaptique, s'il est étendu, contribue à constituer une théorie du champ électromagnétique de la conscience."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirique (repose sur la biophysique et l'observation physiologique de l'activité et des champs neuronaux)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Se heurte à la difficulté générale, commune à toutes les théories du Matérialisme, d'expliquer comment un mécanisme physique (le couplage électrique) donne naissance à une expérience subjective et phénoménale.",
+    "open_questions_and_limitations": "Une question ouverte majeure est de savoir si le couplage éphaptique se produit de manière suffisamment étendue dans le tissu cérébral pour constituer un champ global capable d'expliquer la conscience.",
+    "ontological_coherence": "Hautement cohérente avec l'ontologie matérialiste ; elle fournit un mécanisme biophysique pour l'émergence de champs électriques complexes dans le cerveau."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conscience repose sur des phénomènes de champ physique résultant de l'activité et du couplage électriques, les systèmes artificiels capables de générer des effets de champ complexes analogues devraient atteindre la conscience, conformément à la catégorie plus large du Matérialisme."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "En tant que théorie du Matérialisme, la conscience est liée au substrat physique fonctionnel (le cerveau et ses champs électriques), excluant toute survie après la mort corporelle."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie purement physique dérivée de mécanismes neurobiologiques et électromagnétiques, elle n'implique aucun sens ou but cosmique ultime."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Si la dynamique neuronale précise et les champs électriques qui en résultent, y compris le couplage éphaptique, peuvent être fidèlement reproduits ou simulés dans des supports non biologiques, alors l'immortalité virtuelle est plausible, conformément au Matérialisme."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Théories du champ électromagnétique",
+        "relationship": "Soutien"
+      },
+      {
+        "name": "Théorie du champ CEMI",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Théories neurobiologiques",
+        "relationship": "Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Ephaptic coupling",
+        "year": 2020
+      }
+    ]
+  }
+}

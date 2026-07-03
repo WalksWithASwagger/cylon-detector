@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Representación Neuronal, Vinculación, Coherencia y Competencia de Thagard",
+    "summary": "Esta teoría atribuye las experiencias conscientes a las interacciones de cuatro mecanismos cerebrales empíricamente plausibles: representación neuronal, vinculación, coherencia y competencia. Sostiene que la conciencia surge de estas interacciones a lo largo del cerebro, ofreciendo una explicación con base científica para fenómenos conscientes complejos como los sueños, el humor y la autoconciencia.",
+    "associated_thinkers": ["Paul Thagard"],
+    "category": "Materialism",
+    "subcategory": "Representational",
+    "core_identity_tagline": "‘La Conciencia Construida por Mecanismos Neuronales’",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "binding",
+      "physicalism",
+      "coherence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como el resultado emergente de las interacciones entre mecanismos cerebrales específicos: representación neuronal, vinculación, coherencia y competencia.",
+    "ontological_status": "Fisicalismo Reductivo/Materialismo (esta postura se infiere porque la teoría se clasifica dentro del Materialismo y busca explicar por completo la conciencia como un producto biológico no misterioso del cerebro).",
+    "mind_body_relationship": "Identidad/Reducción (las experiencias conscientes se explican plenamente mediante, y surgen de, estados y procesos cerebrales físicos, en consonancia con una alta confianza fisicalista).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil (inferida, dado que la teoría se basa en neurociencia estricta y empíricamente fundamentada y sostiene que la conciencia no es un misterio una vez comprendida su construcción por parte de los cerebros, lo que sugiere reducibilidad en principio.)",
+    "subjectivity_and_intentionality": "Las experiencias subjetivas, incluidas las percepciones, sensaciones, emociones y pensamientos abstractos (como la autorreflexión), se explican mediante las complejas interacciones de los cuatro mecanismos cerebrales centrales.",
+    "qualia_account": "Los qualia (experiencias fenoménicas como ver el color o sentir dolor) se explican de manera integral mediante el funcionamiento de los cuatro mecanismos cerebrales (representación neuronal, vinculación, coherencia, competencia).",
+    "ontological_commitments": "Cerebros biológicos, representaciones neuronales y sus procesos dinámicos (vinculación, coherencia, competencia), a menudo modelados computacionalmente.",
+    "epistemic_access": "Se accede principalmente mediante hallazgos neurocientíficos empíricos y modelado computacional, con validación buscada a través de la coherencia explicativa.",
+    "constituents_and_structure": "La estructura consiste en mecanismos neuronales (representación, vinculación, coherencia, competencia) que operan dinámicamente a través de áreas cerebrales, incluidos mecanismos que utilizan 'células de tiempo' para rastrear experiencias."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico (percepciones, sensaciones, emociones), autoconciencia (autovaloración, autorreflexión), temporalidad, sueños, humor, sobrecogimiento religioso.",
+    "distinctive_mechanism_or_principle": "La acción combinada e interactiva de la representación neuronal, la vinculación, la coherencia y la competencia entre representaciones neuronales.",
+    "dynamics_of_emergence": "Los estados conscientes son un proceso dinámico que surge de las interacciones y la competencia entre representaciones neuronales, en consonancia con hallazgos neurocientíficos recientes sobre el rastreo de experiencias a lo largo del tiempo.",
+    "location_and_distribution": "Ubicada en el cerebro biológico; específicamente distribuida a través de las interacciones de mecanismos en áreas de todo el cerebro.",
+    "causation_and_functional_role": "La conciencia es central para la vida humana (p. ej., la moralidad, el romance). La teoría implica eficacia causal al explicar cómo los mecanismos cerebrales físicos construyen las experiencias conscientes y permiten funciones mentales complejas.",
+    "integration_or_binding": "La vinculación es uno de los cuatro mecanismos clave cuya interacción explica la conciencia, proporcionando la unificación de la experiencia.",
+    "information_flow_or_representation": "La representación neuronal es un mecanismo central; la conciencia resulta de la competencia entre estas representaciones, vinculando rasgos mentales complejos con mecanismos neuronales compartidos.",
+    "evolutionary_account": "La conciencia es un producto de los cerebros, lo que implica que surgió mediante la evolución filogenética. El enfoque distingue a los animales conscientes de entidades no conscientes como las plantas y las bacterias.",
+    "core_claims_and_evidence": [
+      "Las experiencias conscientes resultan de la interacción de los mecanismos de representación neuronal, vinculación, coherencia y competencia.",
+      "Los mecanismos explican experiencias complejas, incluidas la autovaloración, el humor y el sobrecogimiento religioso.",
+      "La teoría cuenta con respaldo empírico, en consonancia con hallazgos sobre cómo las células de tiempo permiten a los cerebros rastrear experiencias.",
+      "La teoría aplica la coherencia explicativa para evaluar la conciencia en bots y bestias."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica, Neurocientífica, Computacional"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable (se sostiene que los mecanismos son empíricamente plausibles y la teoría se construye sobre neurociencia estricta, empleando la coherencia explicativa como piedra de toque metodológica.)",
+    "known_empirical_interventions_or_tests": "La teoría es coherente con hallazgos neurocientíficos recientes sobre cómo las células de tiempo permiten a los cerebros rastrear experiencias. (No se detallan en la fuente intervenciones experimentales específicas destinadas a verificar o falsar la teoría.)",
+    "criticisms_and_tensions": "No se citan críticas externas específicas en el material fuente, lo que indica que la crítica es mínima o aún no está ampliamente documentada en el contexto proporcionado.",
+    "open_questions_and_limitations": "El mecanismo preciso por el cual los cuatro procesos generan el sentimiento subjetivo de 'qué se siente ser' (qualia) no está plenamente elaborado, lo cual es una limitación estándar para las explicaciones fisicalistas reductivas.",
+    "ontological_coherence": "Altamente coherente dentro de un marco fisicalista, afirmando que la conciencia es física y está enteramente construida por mecanismos cerebrales, resolviendo el 'misterio' de la conciencia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "La teoría sugiere que, si bien las computadoras actuales no son conscientes, los nuevos modelos de IA generativa cuentan con mecanismos similares a los humanos, lo que podría permitir cierto grado de conciencia, especialmente si los cuatro mecanismos cerebrales centrales pueden modelarse o replicarse computacionalmente."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como Teoría Materialista, la conciencia depende enteramente del cerebro biológico; por lo tanto, la muerte del cerebro provoca la inexistencia permanente de la persona y la conciencia."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "Como Teoría Materialista, se adhiere a una explicación fisicalista que en general excluye el sentido o propósito cósmico último, reconociendo solo el sentido y el valor creados por los propios seres humanos."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Si la Teoría Materialista explica la conciencia enteramente mediante mecanismos físicos (representación neuronal, vinculación, coherencia, competencia), entonces el yo mental en primera persona es subible y la inmortalidad virtual es alcanzable mediante tecnología avanzada capaz de duplicar esos procesos físicos."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dreams, Jokes, and Songs: How Brains Build Consciousness, Paul Thagard",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Bots and Beasts, Paul Thagard",
+        "year": 2021
+      }
+    ]
+  }
+}

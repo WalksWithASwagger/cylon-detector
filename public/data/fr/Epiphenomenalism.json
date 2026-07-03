@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie de l'épiphénoménalisme",
+    "summary": "Cette théorie postule que la conscience est un produit non réductible du cerveau biologique, mais que les états mentaux n'ont absolument aucun pouvoir causal sur la réalité physique. Notre conscience subjective est réelle, pourtant notre perception selon laquelle nos pensées causent nos actions est erronée, car la conscience est entièrement inerte, comme l'écume sur une vague de l'océan.",
+    "associated_thinkers": [
+      "David Chalmers (Classifier)",
+      "Frank Jackson (Related Thinker)"
+    ],
+    "category": "Théories du matérialisme",
+    "subcategory": "Philosophique",
+    "core_identity_tagline": "La conscience est réelle mais causalement inerte.",
+    "classification_tags": [
+      "property dualism",
+      "non-reductive physicalism",
+      "mental causation",
+      "causal closure",
+      "illusion"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme des propriétés phénoménales ontologiquement distinctes des propriétés physiques, mais causalement dépendantes d'elles (Physique → Phénoménal).",
+    "ontological_status": "Forme faible de dualisme ou physicalisme non réductif. Elle affirme la clôture causale complète du physique.",
+    "mind_body_relationship": "Les états mentaux sont entièrement le produit des cerveaux biologiques. Les états physiques causent les états phénoménaux, mais les états phénoménaux n'ont aucun effet causal sur le physique (causalité unidirectionnelle).",
+    "primitive_or_emergent_status": "Émergent. La conscience est uniquement le produit des cerveaux biologiques.",
+    "emergence_type": "Les propriétés sont irréductibles et ontologiquement distinctes des propriétés physiques, ce qui suggère une forme d'émergence forte pour la propriété phénoménale, même si elle est causalement inerte. (Justifié sur la base de la revendication d'irréductibilité.)",
+    "subjectivity_and_intentionality": "La conscience d'être conscient est réelle. La subjectivité (les propriétés phénoménales) est ontologiquement distincte. Le sentiment de causalité mentale est illusoire.",
+    "qualia_account": "Les propriétés phénoménales (qualia) sont réelles et ontologiquement distinctes des propriétés physiques, mais elles sont épiphénoménales et donc causalement inertes.",
+    "ontological_commitments": "Les états physiques (cerveaux) et les propriétés phénoménales ontologiquement distinctes (états mentaux) qui en émergent.",
+    "epistemic_access": "La conscience est connue par introspection, mais le sentiment d'agentivité causale dérivé de cette introspection est trompeur (une sorte d'illusion ou de tour).",
+    "constituents_and_structure": "La conscience est une propriété émergente ou un sous-produit du fonctionnement du cerveau biologique, assimilée à « de l'écume sur une vague de l'océan »."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale (la conscience d'être conscient). Elle traite explicitement de la causalité/agentivité mentale et la nie.",
+    "distinctive_mechanism_or_principle": "Le principe de la « clôture causale du physique » dicte que les états mentaux, quelle que soit leur nature, doivent être des sous-produits entièrement inertes.",
+    "dynamics_of_emergence": "Les états mentaux sont générés dynamiquement uniquement par le cerveau biologique, tout événement mental conscient impliquant un traitement inconscient préalable.",
+    "location_and_distribution": "Entièrement localisée dans le cerveau physique et biologique.",
+    "causation_and_functional_role": "Les états mentaux n'ont aucun pouvoir causal. L'esprit est entièrement inerte et il n'y a pas de « causalité descendante » ; la conscience est un sous-produit non fonctionnel.",
+    "integration_or_binding": "L'unification de l'expérience est implicitement réalisée par les processus physiques complexes sous-jacents dans le cerveau qui produisent l'état phénoménal unifié. (Justifié : l'accent est mis sur l'absence de causalité sortante, non sur les mécanismes de l'unité interne.)",
+    "information_flow_or_representation": "Le traitement de l'information est entièrement physique/inconscient, et l'expérience phénoménale est un résultat parallèle non causal de ce traitement.",
+    "evolutionary_account": "Implicitement compatible avec l'évolution, la conscience étant un produit des cerveaux biologiques. La réalité de la propriété suggère qu'elle est apparue par l'évolution, bien que son absence de fonction signifie qu'elle n'a pas été sélectionnée pour son efficacité causale. (Justifié sur la base de la classification sous les théories du matérialisme.)",
+    "core_claims_and_evidence": [
+      "La conscience est entièrement physique, uniquement le produit des cerveaux biologiques.",
+      "Les états mentaux sont ontologiquement distincts des états physiques (dualisme des propriétés).",
+      "Les états mentaux ne possèdent aucun pouvoir causal en raison de la clôture causale complète du physique."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (motivé principalement par le fardeau explicatif de la causalité mentale et l'engagement envers la clôture causale du physique)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement contestée. Son affirmation principale — que les états conscients sont dépourvus de force causale — est contre-intuitive et difficile à tester empiriquement, car elle implique de prouver l'absence d'un lien causal.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La théorie est contre-intuitive parce qu'il nous semble fortement que nos états phénoménalement conscients ont une importance causale. Elle force l'acceptation que notre sentiment de causalité mentale (les pensées causant des choses) est une « sorte d'illusion ou de tour ».",
+    "open_questions_and_limitations": "L'intégration de la causalité mentale est centrale, l'épiphénoménalisme résolvant le problème en niant la causalité, mais cela exige d'accepter un résultat hautement contre-intuitif.",
+    "ontological_coherence": "Cohérence élevée au sein d'une ontologie matérialiste engagée envers la clôture causale complète du physique, réalisant une forme faible de dualisme tout en évitant les problèmes interactionnistes."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conscience n'est qu'un sous-produit non causal (l'écume) des processus physiques dans le cerveau, reproduire ces processus physiques dans l'IA devrait produire les mêmes états conscients sans que les états mentaux non causaux n'entravent la réplication fonctionnelle."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est entièrement physique et uniquement le produit des cerveaux biologiques. Cette dépendance physique exclut toute survie au-delà de la mort corporelle."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie philosophique matérialiste, elle ne fournit aucun sens ou finalité ultime. La conscience étant causalement inerte, elle ne peut conférer de valeur téléologique cosmique."
+    },
+    "virtual_immortality": {
+      "stance": "Hautement probable",
+      "rationale": "La nature inerte de la conscience signifie que le téléchargement des états physiques dupliquerait nécessairement les états mentaux épiphénoménaux. L'« écume » inerte devrait avoir peu d'incidence sur l'atteinte de l'immortalité virtuelle."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Forme faible/Type"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Forme plus faible/Chevauchement"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "Alternative similaire mais moins populaire"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Contraste (le dualisme émergent affirme l'efficacité causale, l'épiphénoménalisme la nie)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Facing up to the Problem of Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "La théorie du monisme réaliste et du matérialisme réel de Strawson",
+    "summary": "Cette théorie affirme que la conscience, ou l'expérience phénoménale, est entièrement physique et constitue le fait le plus certain de notre existence. Par conséquent, le physicalisme ou le matérialisme « réel » doit impliquer le panpsychisme, ce qui signifie que les propriétés phénoménales sont intrinsèques à toute matière physique fondamentale (énergie/matière) et ne sont pas radicalement émergentes. Cette conception vise à ancrer l'expérience subjective directement dans une ontologie physique élargie et réaliste.",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "Monismes",
+    "subcategory": "Monisme réaliste",
+    "core_identity_tagline": "La conscience est entièrement physique et expérientielle",
+    "classification_tags": [
+      "physicalism",
+      "panpsychism",
+      "monism",
+      "experience"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience, en tant que phénomène expérientiel, est identifiée comme entièrement physique, ce qui implique que la matière physique fondamentale (comme l'énergie) est intrinsèquement un phénomène impliquant l'expérience.",
+    "ontological_status": "Monisme réaliste / physicalisme réel (implique le panpsychisme)",
+    "mind_body_relationship": "Identité de token : le mental/expérientiel « n'est rien d'autre que » le physique, ce qui suggère que les neurones, par exemple, possèdent des propriétés expérientielles non saisies par la physique et la neurophysiologie actuelles.",
+    "primitive_or_emergent_status": "Primitif (ou dérivé par composition de propriétés primitives).",
+    "emergence_type": "La théorie rejette l'émergence « radicale », soutenant que la conscience doit être inhérente à la nature physique fondamentale de la réalité, sans quoi son existence serait niée, ce qui est jugé absurde. L'expérience consciente apparaît par la composition de propriétés expérientielles fondamentales.",
+    "subjectivity_and_intentionality": "La subjectivité (l'expérience consciente, le « quelque chose que cela fait d'être ») est affirmée comme le fait le plus certain de l'existence et le point de départ obligatoire de tout physicalisme réaliste. L'intentionnalité est incluse dans cette réalité physique élargie.",
+    "qualia_account": "Les qualia (le ressenti qualitatif) sont affirmés comme concrètement réels et entièrement matériels, compris comme des propriétés intrinsèques et non réductibles des entités physiques fondamentales (panpsychisme).",
+    "ontological_commitments": "Un objet ou une chose concrète fondamentale unique (monisme), définie comme physique mais englobant des propriétés expérientielles/phénoménales. Cela inclut toute matière physique, telle que l'énergie, comme impliquant l'expérience.",
+    "epistemic_access": "Principalement par l'introspection et l'expérience à la première personne, cette expérience étant considérée comme le fait naturel fondamental donné dont la réalité est plus certaine que toute autre chose.",
+    "constituents_and_structure": "Les briques de base sont des entités physiques fondamentales (énergie/matière) possédant des propriétés phénoménales ou proto-phénoménales. La structure globale est celle d'une réalité unique et unifiée.",
+    "basis_of_belief_or_evidence_type": "Argument philosophique et métaphysique, fondé sur une appréciation réaliste de la réalité concrète de la conscience et sur les limites conceptuelles du physicalisme réductionniste actuel."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale, incluant le sentiment, la sensation et la pensée consciente explicite.",
+    "distinctive_mechanism_or_principle": "Le principe selon lequel la cohérence logique exige d'accepter la nature expérientielle des constituants physiques fondamentaux, résolvant ainsi le fossé explicatif en modifiant la définition du physique.",
+    "dynamics_of_emergence": "La conscience est une caractéristique fondamentale, non strictement émergente de composants non conscients. La conscience de niveau supérieur apparaît par l'agrégation ou la combinaison de ces propriétés expérientielles fondamentales.",
+    "location_and_distribution": "Distribuée partout où il y a matière ou énergie physique, y compris au sein des neurones des organismes biologiques.",
+    "causation_and_functional_role": "Puisque le mental est entièrement physique par définition, il doit participer pleinement à la structure causale du monde physique, résolvant ainsi le problème de la causation mentale inhérent au dualisme.",
+    "integration_or_binding": "L'unité de l'expérience doit être obtenue en résolvant le « problème de la combinaison » inhérent au panpsychisme, expliquant comment les expériences de niveau micro se combinent en sujets d'expérience de niveau macro.",
+    "information_flow_or_representation": "Le traitement de l'information est secondaire par rapport aux propriétés expérientielles fondamentales de la matière, ou constitué par elles. (L'information est implicite plutôt qu'explicitement définie comme le mécanisme central.)",
+    "evolutionary_account": "La conscience étant fondamentale, l'évolution est un processus par lequel apparaissent des structures physiques complexes capables d'agréger ou d'exprimer cette propriété expérientielle inhérente de manière complexe.",
+    "core_claims_and_evidence": [
+      "La pleine reconnaissance de la réalité de l'expérience est le point de départ obligatoire d'un physicalisme réaliste.",
+      "Le déni de l'expérience consciente est présenté comme « l'affirmation la plus stupide jamais faite ».",
+      "Le physicalisme réel nécessite le panpsychisme, en supposant l'impossibilité de l'émergence radicale.",
+      "Les phénomènes expérientiels sont physiques, ce qui exige une extension de ce que le physique implique."
+    ],
+    "basis_of_belief_or_evidence_type": "Preuve philosophique et phénoménologique (la certitude de l'expérience)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "D'origine conceptuelle ; la théorie exige une réforme de la physique fondamentale afin d'y inclure des propriétés expérientielles, rendant les tests empiriques standards difficiles dans les paradigmes scientifiques actuels.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Fortement critiquée par les physicalistes traditionnels pour avoir redéfini conceptuellement le « physique » afin d'y inclure des propriétés expérientielles. La théorie fait toujours face au « problème de la combinaison » du panpsychisme (comment les expériences de niveau micro fusionnent en une expérience subjective complexe et unifiée).",
+    "open_questions_and_limitations": "La question non résolue la plus importante est de trouver une solution raisonnable au problème de la combinaison.",
+    "ontological_coherence": "Élevée, pourvu que l'on accepte la définition élargie du physicalisme. Elle est proposée comme la solution la plus parcimonieuse pour tout physicaliste réaliste quant à l'expérience.",
+    "basis_of_belief_or_evidence_type": "Philosophique et phénoménologique"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conscience est une propriété intrinsèque des entités physiques fondamentales (panpsychisme), une technologie avancée devrait pouvoir manipuler ces aspects micropsychiques dans des systèmes artificiels pour engendrer une conscience intérieure complexe, tout étant constitué de la même substance expérientielle."
+    },
+    "survival_beyond_death": {
+      "stance": "Improbable (hypothèse lointaine)",
+      "rationale": "Bien qu'il s'agisse d'un monisme, le cadre est explicitement « matérialiste réel » et fondamentalement physicaliste, rendant la survie au-delà de la dissolution du corps physique improbable, à l'instar des théories purement matérialistes."
+    },
+    "meaning_and_purpose": {
+      "stance": "Possiblement",
+      "rationale": "En tant que forme de monisme incorporant une expérience fondamentale et intrinsèque, elle évite la conclusion nihiliste souvent associée au matérialisme déflationniste, laissant place à un sens ou une finalité ultimes liés à la nature même de la réalité."
+    },
+    "virtual_immortality": {
+      "stance": "Probablement",
+      "rationale": "Si la conscience est une propriété régulière et intrinsèque de l'organisation physique, une hyper-technologie avancée capable de dupliquer parfaitement l'état physique dans un substrat non biologique devrait également dupliquer l'état conscient correspondant."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "Implication"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism, Galen Strawson",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      },
+      {
+        "title_with_names": "What is Panpsychism, Galen Strawson",
+        "year": 2011
+      }
+    ]
+  }
+}

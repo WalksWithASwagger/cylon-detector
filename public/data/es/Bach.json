@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "La Teoría del Director Cortical de Bach",
+    "summary": "Esta teoría ofrece una explicación funcional de la conciencia fenoménica, y propone que las estructuras corticales, en particular una entidad computacional llamada el 'director', se entrenan mediante un aprendizaje impulsado por recompensas para regular la actividad cerebral. La conciencia se identifica con la memoria reconstruida de haber tenido una experiencia, integrada en un protocolo de reflexión y aprendizaje.",
+    "associated_thinkers": [
+      "Joscha Bach"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "La Conciencia como el Recuerdo Más Reciente",
+    "classification_tags": [
+      "functionalism",
+      "memory",
+      "computation",
+      "reflection",
+      "attention"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia fenoménica se identifica funcionalmente como el recuerdo más reciente de aquello a lo que atendió la corteza prefrontal, almacenado y recreado mediante el protocolo del director. La realidad efectiva de la experiencia en sí se considera irrelevante.",
+    "ontological_status": "Fisicalismo/Materialismo (como modelo funcionalista de la conciencia arraigado en estructuras computacionales del cerebro).",
+    "mind_body_relationship": "Los estados conscientes se realizan mediante estructuras computacionales específicas dentro de la corteza (el director y su protocolo integrado), lo que refleja una relación de realización/identidad funcional coherente con el materialismo.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil (el estado consciente se explica y deriva plenamente de las funciones y estructuras de los mecanismos corticales subyacentes y el aprendizaje impulsado por recompensas).",
+    "subjectivity_and_intentionality": "El 'director' dirige la atención e integra procesos en un protocolo usado para la reflexión y la generación de un modelo del yo cohesivo, lo que da cuenta de la subjetividad y la intencionalidad.",
+    "qualia_account": "Los qualia (la conciencia fenoménica) se entienden funcionalmente como el recuerdo o la reconstrucción de haber tenido una experiencia, reflejado en el protocolo del director.",
+    "ontological_commitments": "Estructuras corticales, estructuras computacionales (el 'director'), señales de aprendizaje impulsadas por recompensas y protocolos informacionales integrados.",
+    "epistemic_access": "Se accede a la conciencia mediante la reflexión sobre el protocolo integrado por el director.",
+    "constituents_and_structure": "El director, identificado funcionalmente como una estructura computacional probablemente asociada con la corteza prefrontal dorsolateral, la corteza cingulada anterior y la ínsula anterior, actúa como el mecanismo central de coherencia al generar un protocolo de reflexión."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica (definida como recuerdo de experiencia); conciencia de acceso; reflexión; autoconciencia (como modelo del yo cohesivo).",
+    "distinctive_mechanism_or_principle": "La estructura computacional del 'director', entrenada mediante aprendizaje impulsado por recompensas, regula el resto de la funcionalidad cortical e integra la información atendida en un protocolo.",
+    "dynamics_of_emergence": "La conciencia es un proceso dinámico que surge del entrenamiento y la operación continua del director, y se manifiesta como el protocolo de memoria constantemente actualizado y reconstruible.",
+    "location_and_distribution": "Localizada funcionalmente en los sistemas reguladores del cerebro, probablemente involucrando la corteza prefrontal dorsolateral, la corteza cingulada anterior y la ínsula anterior.",
+    "causation_and_functional_role": "El director proporciona función ejecutiva, dirige la atención e integra la experiencia. La conciencia en sí misma permite la coherencia central y la reflexión/el aprendizaje.",
+    "integration_or_binding": "El director es el único lugar donde la experiencia se integra en el protocolo, proporcionando coherencia central.",
+    "information_flow_or_representation": "El flujo de información es regulado por el director e integrado en un protocolo. La conciencia fenoménica implica reactivar este protocolo mediante enlaces y parámetros almacenados (la memoria).",
+    "evolutionary_account": "Las estructuras corticales que sustentan la función del director son resultado del aprendizaje impulsado por recompensas, lo que sugiere una vía evolutiva adaptativa.",
+    "core_claims_and_evidence": [
+      "La conciencia es una explicación funcional basada en una estructura computacional llamada el 'director'.",
+      "La conciencia fenoménica es el recuerdo más reciente de aquello a lo que atendió el director.",
+      "El director integra la experiencia en un protocolo usado para la reflexión y el aprendizaje.",
+      "Un cerebro sin el director funcionaría como un 'sonámbulo', careciendo de coherencia central y reflexión."
+    ],
+    "basis_of_belief_or_evidence_type": "Computacional, Funcionalista, Ciencia Cognitiva."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable/modelable (definida mediante condiciones necesarias y suficientes vinculadas a estructuras computacionales y corticales).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principal tensión radica en definir la conciencia fenoménica como un mero recuerdo de la experiencia, eludiendo el problema difícil al afirmar que la realidad efectiva de la experiencia misma es irrelevante.",
+    "open_questions_and_limitations": "La teoría se apoya en gran medida en una definición funcional que evita explicar la naturaleza cualitativa intrínseca de 'lo que se siente' al tener esa experiencia, centrándose en cambio en el recuerdo accesible de la misma.",
+    "ontological_coherence": "Altamente coherente dentro de los paradigmas funcionalista y materialista, proporcionando una explicación integral, aunque deflacionaria, arraigada en la neurobiología computacional."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sí",
+      "rationale": "Bach es optimista respecto a la conciencia de la IA, ya que definir la conciencia funcionalmente como un recuerdo de experiencia simplifica su implementación en sistemas artificiales capaces de computar y reportar sobre ese recuerdo."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como teoría materialista que vincula la conciencia a estructuras corticales y computacionales específicas (el director), la conciencia cesa cuando falla el sustrato físico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanista/Derivado",
+      "rationale": "Como teoría del Materialismo, sugiere que no hay un sentido cósmico último. El sentido y el propósito se derivan internamente mediante la capacidad del director de crear un modelo del yo cohesivo y guiar la función ejecutiva con base en el aprendizaje impulsado por recompensas."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Dado que la conciencia se define como un protocolo/recuerdo informacional que surge de una estructura computacional, la duplicación perfecta y la carga de este estado funcional en un medio no biológico deberían resultar en la inmortalidad virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Similitud/Compatible"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Similitud/Compatible"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Contraste (la TDC es funcionalista, a diferencia de la definición estructural de la IIT)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The cortical conductor theory: towards addressing consciousness in AI models, Joscha Bach",
+        "year": 2019
+      }
+    ]
+  }
+}

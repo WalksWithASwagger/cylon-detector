@@ -1,0 +1,93 @@
+{
+  "id_and_class": {
+    "theory_title": "La Multiplicité, la Durée, la Perception et la Mémoire chez Bergson",
+    "summary": "Cette théorie non réductionniste conçoit la conscience comme une réalité dynamique et incessamment temporelle, caractérisée par la « durée » et la « multiplicité », qui est fondamentalement mémoire. Le cerveau ne génère pas la conscience, mais agit comme un filtre, limitant une conscience accablante afin de permettre une action focalisée dans le monde.",
+    "associated_thinkers": ["Henri Bergson"],
+    "category": "États Anormaux et Altérés",
+    "subcategory": "Multiplicité, Durée, Perception, Mémoire",
+    "core_identity_tagline": "La Conscience comme Mémoire Filtrée et Pure Durée",
+    "classification_tags": [
+      "duration",
+      "memory",
+      "dualism",
+      "filter_theory",
+      "non-reductive"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme « la mémoire prise dans son ensemble » et une « substance incessamment dynamique et intrinsèquement temporelle de la réalité », se manifestant comme un mouvement continu entre la pure perception (images) et la pure mémoire.",
+    "ontological_status": "Franchement dualiste. Bergson affirme la réalité à la fois de la matière et de l'esprit, posant un terrain intermédiaire (pure perception/images) entre le réalisme et l'idéalisme.",
+    "mind_body_relationship": "Corrélation interactionniste/non réductionniste. La relation est intime, mais le rôle du cerveau est strictement de transmission et de filtration ; il ne génère pas la conscience/l'esprit.",
+    "primitive_or_emergent_status": "Primitif/Fondamental. La conscience est considérée comme une substance existante (« esprit ») que le cerveau filtre, plutôt que comme quelque chose qui émerge de processus physiques.",
+    "emergence_type": "Non applicable. La conscience est envisagée comme une substance/réalité dynamique fondamentale existante (esprit), et non comme une propriété émergente de la matière.",
+    "subjectivity_and_intentionality": "La subjectivité est enracinée dans la « durée », la multiplicité qualitative qui constitue les données immédiates de la conscience. L'intentionnalité s'exprime par la capacité de la conscience à anticiper l'avenir via la mémoire et à permettre un « acte libre appelé choix ».",
+    "qualia_account": "Le sentiment qualitatif (« ce que cela fait ») est rendu compte par la « multiplicité » et la « durée » en tant que données immédiates, hétérogènes et continues de la conscience. La matière elle-même est comprise comme « seulement des images », reliant directement la réalité phénoménale à la matière.",
+    "ontological_commitments": "L'esprit (ou l'âme/l'esprit/la conscience humaine) ; la matière (comme images) ; la pure perception ; la pure mémoire ; la durée (comme temps qualitatif).",
+    "epistemic_access": "Introspection (la conscience comme donnée immédiate de la conscience) et argumentation philosophique.",
+    "constituents_and_structure": "La structure de la conscience est caractérisée par la durée et la multiplicité, organisée comme un mouvement continu entre la pure perception et la pure mémoire."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale, mémoire, agentivité (choix), conscience de soi (implicitement, la conscience étant mémoire personnelle).",
+    "distinctive_mechanism_or_principle": "Le cerveau fonctionne comme un filtre ou une barrière empêchant une conscience accablante et non filtrée d'atteindre la conscience personnelle, permettant ainsi la focalisation et l'action pratique. La conscience opère sur la base de la durée (temps qualitatif).",
+    "dynamics_of_emergence": "La conscience est un flux dynamique et temporel, fabriquant activement l'avenir par le choix et produisant du temps via la mémoire. Elle se définit par une succession sans extériorité réciproque.",
+    "location_and_distribution": "Le cerveau (composante matérielle) est le lieu du mécanisme de filtration et de la transmission sensorielle/motrice. La conscience elle-même (« esprit ») est vaste, tourbillonnante à l'extérieur, ou non locale.",
+    "causation_and_functional_role": "La conscience permet un « acte libre appelé choix » qui fabrique l'avenir et produit du temps. La fonction du cerveau est de transmettre les perceptions à la conscience et de transmettre en retour les ordres d'action au corps.",
+    "integration_or_binding": "L'intégration est inhérente au fait que la conscience est « la mémoire prise dans son ensemble » et le mouvement continu entre la pure perception et la pure mémoire.",
+    "information_flow_or_representation": "L'information est traitée via la pure perception, où « les images sont tout ce que nous percevons ». Le cerveau transmet ces images des organes à la conscience.",
+    "evolutionary_account": "La fonction du cerveau comme filtre est adaptative, permettant une action pratique et focalisée dans le monde en protégeant la conscience personnelle d'une conscience vaste et stupéfiante. (Aucune origine phylogénétique explicite à partir du non-vivant n'est fournie, la conscience étant considérée comme fondamentale.)",
+    "core_claims_and_evidence": [
+      "Le cerveau est un filtre de la conscience, non son générateur, empêchant une conscience accablante.",
+      "La conscience est fondamentalement mémoire et durée, opérant comme une succession sans extériorité réciproque.",
+      "La matière ne diffère pas en nature de la représentation ; la matière n'est qu'images."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, Phénoménologique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculatif/Conceptuel. La théorie, enracinée dans des distinctions philosophiques entre durée et multiplicité, est principalement non empirique et non mécaniste, contrastant avec les théories matérialistes.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Bergson reconnaissait les difficultés théoriques traditionnelles du dualisme. Ses vues constituent un défi pour les Théories du Matérialisme. Les critiques de tels modèles de filtre/transmission peinent à concilier l'affirmation de non-génération avec les vastes données neuroscientifiques reliant le contenu de la conscience à l'activité cérébrale.",
+    "open_questions_and_limitations": "Le problème central demeure la manière dont le cerveau/corps (matière) et l'esprit/l'âme (conscience) interagissent, et précisément comment fonctionne le mécanisme de filtration.",
+    "ontological_coherence": "Hautement cohérente, fondée sur une analyse philosophique rigoureuse conçue pour surmonter l'impasse conceptuelle du parallélisme métaphysique en posant la durée comme la propriété ontologique centrale de l'esprit."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Non",
+      "rationale": "La conscience est définie comme un esprit/mémoire non computationnel associé à la durée, qui est intrinsèquement non mécaniste. Les systèmes artificiels fondés sur le calcul sont peu susceptibles de saisir cette substance temporelle fondamentale.",
+      "justification": "Déduit de la nature strictement non matérialiste et non mécaniste des concepts centraux."
+    },
+    "survival_beyond_death": {
+      "stance": "Possible",
+      "rationale": "Puisque le cerveau est un filtre plutôt qu'un générateur de conscience (esprit/mémoire), cela suggère que la conscience est indépendante du corps physique et pourrait persister après la mort corporelle.",
+      "justification": "La théorie de Bergson « pourrait même permettre une certaine forme de survie après la mort »."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmique/Existentiel",
+      "rationale": "La conscience est définie comme une substance fondamentale et dynamique (« esprit ») capable d'un « acte libre appelé choix », impliquant une finalité intrinsèque au-delà des contraintes purement humanistes ou biologiques.",
+      "justification": "Déduit de sa nature « franchement dualiste » et de son association avec l'esprit et le choix."
+    },
+    "virtual_immortality": {
+      "stance": "Non",
+      "rationale": "L'immortalité virtuelle repose sur le téléchargement d'états computationnels ou physiques. Puisque la conscience est un esprit/mémoire non réductionniste (pure durée) qui n'est que filtré par le cerveau physique, dupliquer les états neuronaux ne dupliquerait pas l'entité consciente.",
+      "justification": "Déduit de la définition non matérialiste et non fonctionnaliste de la conscience."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Le modèle de filtre de William James", "relationship": "Compatible" },
+      { "name": "Dualisme des Substances", "relationship": "Identité/Chevauchement" },
+      { "name": "Théorie du Processus", "relationship": "Influence" },
+      { "name": "Neurophénoménologie (Varela)", "relationship": "Influence" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
+        "year": 1889
+      },
+      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Life and Consciousness (Mind-Energy)",
+        "year": 1920
+      }
+    ]
+  }
+}

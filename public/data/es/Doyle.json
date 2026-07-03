@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Grabador y Reproductor de Experiencia (ERR) de Doyle",
+    "summary": "La teoría ERR postula la conciencia como un modelo de información, en el que la mente consiste en información inmaterial (como el software). Funciona reproduciendo experiencias pasadas —incluidos detalles sensoriales y emocionales— cuando las percepciones actuales se les asemejan, proporcionando un valor de supervivencia crucial para el organismo.",
+    "associated_thinkers": [
+      "Bob Doyle"
+    ],
+    "category": "Teorías del Materialismo",
+    "subcategory": "Computacional e Informacional",
+    "core_identity_tagline": "‘La Conciencia como Reproducción de Información’",
+    "classification_tags": [
+      "information",
+      "memory",
+      "binding",
+      "survival",
+      "biological model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como información inmaterial, que es grabada y reproducida (re-presentada) por ensamblajes neuronales estructurados en el cerebro. Se afirma que el tratamiento de la información vincula lo físico y lo fenoménico en una \"doble realización\".",
+    "ontological_status": "Fisicalismo (basado en la información). La teoría se clasifica dentro del Materialismo, pero postula que la información misma podría ser fundamental, sugiriendo una visión monista informacional o de doble aspecto arraigada en un sustrato físico.",
+    "mind_body_relationship": "La información almacenada en neuronas 'conectadas entre sí' físicamente realiza tanto estados fenoménicos como estados de información, lo que sugiere una conexión intrínseca o 'doble vida' en la que la información sirve de puente entre lo físico y lo fenoménico.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil. La conciencia surge de la organización y el procesamiento complejos de la información dentro de las estructuras neuronales, en lugar de ser un ingrediente fundamental de la realidad.",
+    "subjectivity_and_intentionality": "La intencionalidad (el significado) es evocada por la reproducción de experiencias pasadas que se asemejan a la percepción actual, lo que guía la reacción adecuada del organismo. La subjetividad es inherente a la 're-presentación' de la experiencia original en primera persona y de la emoción que la acompaña.",
+    "qualia_account": "Los qualia se explican como los componentes de la experiencia original (cualidades sensoriales y emoción) que se vinculan entre sí durante el almacenamiento inicial y se reproducen (re-presentan) durante la reproducción, en lugar de ensamblarse algorítmicamente.",
+    "ontological_commitments": "Información inmaterial; ensamblajes neuronales (neuronas conectadas entre sí); estructuras de información (en el cerebro).",
+    "epistemic_access": "Accesible mediante la modelización de la arquitectura de procesamiento de información y la observación de las reacciones conductuales a la información (que define la 'conciencia informacional').",
+    "constituents_and_structure": "Estructuras de información almacenadas en ensamblajes neuronales (neuronas que se han conectado entre sí, basándose en principios hebbianos)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico, Unidad de la Experiencia (Vinculación), Memoria, Comportamiento Adaptativo.",
+    "distinctive_mechanism_or_principle": "El mecanismo del Grabador y Reproductor de Experiencia (ERR), que dicta que una mente primitiva mínima solo necesita 'reproducir' experiencias pasadas almacenadas (en lugar de recuperar representaciones) cuando es estimulada por experiencias actuales similares.",
+    "dynamics_of_emergence": "Proceso dinámico. La conciencia se define funcionalmente como una propiedad de una entidad que reacciona dinámicamente de forma adecuada a la información de su entorno.",
+    "location_and_distribution": "Localizada en estructuras de información dentro del cerebro (ensamblajes neuronales) que graban y reproducen experiencias.",
+    "causation_and_functional_role": "La conciencia proporciona valor de supervivencia al permitir que el organismo recuerde experiencias pasadas relevantes, guiando sus acciones y permitiendo que la entidad reaccione adecuadamente a la información del entorno.",
+    "integration_or_binding": "El problema de la vinculación se resuelve porque todos los componentes sensoriales y el contenido emocional que los acompaña se vinculan entre sí durante la grabación inicial y permanecen vinculados durante la reproducción, eliminando la necesidad de un ensamblaje algorítmico.",
+    "information_flow_or_representation": "La información es inmaterial, como el software. Se almacena en estructuras cerebrales y se 're-presenta' directamente como experiencia al ser estimulada por la percepción externa.",
+    "evolutionary_account": "La conciencia evolucionó debido a su 'evidente relevancia (valor de supervivencia)' al permitir que el organismo recupere y utilice experiencias pasadas al enfrentarse a nuevas percepciones.",
+    "core_claims_and_evidence": [
+      "La mente es información inmaterial, distinta del procesamiento digital de información.",
+      "La conciencia se define como la propiedad de una entidad que reacciona adecuadamente a la información de su entorno.",
+      "La conciencia se logra mediante la reproducción instantánea (re-presentación) de experiencias almacenadas e integradas en ensamblajes neuronales (ERR)."
+    ],
+    "basis_of_belief_or_evidence_type": "Conceptual; Computacional (Modelo de Información); Filosófico."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable. La teoría se basa en principios neurobiológicos (Hebb) y en la teoría de la información, lo que sugiere una posible comprobabilidad mediante la modelización de cómo se realizan el almacenamiento y la reproducción de información compleja en los sistemas neuronales.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principal tensión conceptual reside en describir la mente como información inmaterial mientras se afirma explícitamente que el cerebro no procesa información digital, lo que exige una definición de información distinta de los modelos informáticos convencionales.",
+    "open_questions_and_limitations": "La naturaleza precisa de la 'doble realización' de la información —cómo la información conecta los procesos físicos con la experiencia consciente— necesita una explicación detallada para constituir una teoría fundamental de la conciencia.",
+    "ontological_coherence": "Coherente internamente como modelo de información, pero su dependencia de la información inmaterial desafía el materialismo reductivo estricto, empujando su clasificación hacia el límite del fisicalismo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Dado que la conciencia se define funcionalmente en términos informacionales (reaccionar adecuadamente a la información) y la mente se compara con el software, los sistemas artificiales deberían poder instanciar las estructuras de información necesarias para lograr la conciencia, siempre que puedan reproducir la complejidad de la experiencia integrada."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia está vinculada a la realización física de estructuras de información dentro de ensamblajes neuronales biológicos; por lo tanto, cesa con la disolución del cuerpo y el cerebro."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "La teoría explica la conciencia en términos de valor de supervivencia adaptativa, en consonancia con un marco materialista que, en general, no justifica un sentido o propósito cósmico último."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Si la mente es información inmaterial (software) grabada en el cerebro, entonces la duplicación perfecta de esta estructura de información en un medio no biológico debería preservar el yo mental en primera persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "Extensión (Es un modelo computacional/informacional específico, no digital)"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Compatible (Se basa en la identidad fuerte entre las experiencias almacenadas y las neuronas físicamente 'conectadas entre sí')"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Recorder and Reproducer, Bob Doyle",
+        "year": null
+      }
+    ]
+  }
+}

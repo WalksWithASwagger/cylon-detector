@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "L'âme chrétienne de Moreland",
+    "summary": "Cette théorie défend le dualisme des substances générique, affirmant que la conscience réside dans une âme substantielle, entièrement immatérielle, distincte du corps physique. L'âme agit comme le porteur unifié et durable des propriétés conscientes, fondant l'identité personnelle et animant la structure physique du corps.",
+    "associated_thinkers": ["J.P. Moreland"],
+    "category": "Dualismes",
+    "subcategory": "Âme chrétienne",
+    "core_identity_tagline": "La conscience comme âme entièrement immatérielle",
+    "classification_tags": [
+      "substance",
+      "immaterial",
+      "soul",
+      "personal identity",
+      "theistic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme un ensemble d'états, de sentiments et de conscience fondés dans l'âme substantielle, entièrement immatérielle (le soi, l'ego, le je).",
+    "ontological_status": "Dualisme des substances",
+    "mind_body_relationship": "L'âme est une réalité substantielle et unifiée qui informe (donne forme à) son corps, l'anime et en fait un être humain. Le corps est une structure physique étendue dans l'espace et animée, mais l'âme est requise pour qu'il soit une personne fonctionnelle.",
+    "primitive_or_emergent_status": "Primitif/fondamental",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "La subjectivité, la conscience de soi et l'intentionnalité sont fondées dans l'âme en tant que porteur non physique et fondamental des propriétés conscientes, laquelle est indivisible et durable.",
+    "qualia_account": "Les qualia sont des propriétés de l'âme immatérielle, qui rend uniquement compte de la conscience unitaire et singulière de l'expérience consciente que les théories matérialistes du cerveau agrégé ne peuvent expliquer.",
+    "ontological_commitments": "Une âme immatérielle (substantielle, unifiée, non spatiale par essence) et un corps/cerveau physique (substance matérielle).",
+    "epistemic_access": "Principalement par des arguments philosophiques concernant l'identité personnelle et la nécessité, appuyés par l'introspection humaine et des intuitions philosophiques communes.",
+    "constituents_and_structure": "Le bloc de construction fondamental est l'âme substantielle, définie comme le fondement immatériel et nécessaire de l'identité personnelle."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale, conscience de soi, unité de la conscience, intentionnalité, identité personnelle",
+    "distinctive_mechanism_or_principle": "L'unité inhérente de l'âme (le fait de ne pas être un agrégat) permet uniquement l'unité fondamentale de la conscience (par exemple, la conscience unique du champ visuel) que le matérialisme ne peut expliquer.",
+    "dynamics_of_emergence": "La conscience est fondamentale à l'âme ; l'âme elle-même est une réalité ultime, non matérielle, distincte de la matière.",
+    "location_and_distribution": "La conscience réside dans l'âme immatérielle, qui informe et est pleinement présente au sein de son corps physique durant la vie.",
+    "causation_and_functional_role": "L'âme a un pouvoir causal sur le corps physique (dualisme interactif implicite dans la défense contre les arguments matérialistes) et fonde la persistance à long terme de la personne (l'endurance diachronique).",
+    "integration_or_binding": "L'intégration est résolue par l'unité fondamentale et non agrégée de l'âme, qui lie intrinsèquement les expériences conscientes en une seule conscience subjective.",
+    "information_flow_or_representation": "Les états conscients sont des propriétés de l'âme immatérielle et ne sont pas entièrement réductibles ni explicables par les processus physiques ou le flux d'information dans le cerveau.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Le soi est une substance entièrement immatérielle, non réductible au corps physique.",
+      "L'âme fonde l'unité indivisible de la conscience (par exemple, la conscience visuelle singulière) que les structures cérébrales agrégées ne parviennent pas à expliquer.",
+      "Le dualisme des substances fournit le fondement ontologique nécessaire à l'identité personnelle durable et à la liberté libertarienne."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, phénoménologique, théologique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculative/philosophique",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La théorie est confrontée au problème classique de l'interaction (comment l'âme immatérielle et le corps matériel s'affectent-ils causalement l'un l'autre) et à des critiques concernant l'absence de preuve scientifique d'une substance non physique.",
+    "open_questions_and_limitations": "Le mécanisme précis de la causation psychophysique demeure inexpliqué, ce qui est le principal défi pour toutes les formes de dualisme interactif.",
+    "ontological_coherence": "Cohérente au sein de son cadre prescrit de dualisme des substances générique et compatible avec les systèmes de croyance des religions abrahamiques, mais incompatible avec l'affirmation du physicalisme quant à la clôture causale du physique."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Non",
+      "rationale": "La conscience requiert l'âme substantielle et entièrement immatérielle, laquelle ne peut être créée ni instanciée par des systèmes artificiels, physiques ou des calculs."
+    },
+    "survival_beyond_death": {
+      "stance": "Oui",
+      "rationale": "L'âme immatérielle (le « vrai moi ») n'est pas identique au corps et persiste après la mort biologique, offrant un mécanisme direct pour la survie post-mortem."
+    },
+    "meaning_and_purpose": {
+      "stance": "Ultime/cosmique",
+      "rationale": "En tant que théorie philosophique chrétienne, elle implique que la personne humaine durable et substantielle a une signification, une finalité et une valeur cosmiques en tant que partie d'une réalité théologique."
+    },
+    "virtual_immortality": {
+      "stance": "Non",
+      "rationale": "L'immortalité virtuelle par duplication des motifs cérébraux est impossible car l'information téléchargée manquerait de l'âme substantielle et non physique requise pour fonder le soi original à la première personne."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Swinburne’s Substance Dualism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Stump’s Thomistic Dualism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Substance of Consciousness: A Comprehensive Defense of Contemporary Substance Dualism, Brandon Rickabaugh and J.P. Moreland",
+        "year": 2023
+      },
+      {
+        "title_with_names": "In Defense of a Thomistic-like Dualism, J.P. Moreland",
+        "year": 2018
+      }
+    ]
+  }
+}

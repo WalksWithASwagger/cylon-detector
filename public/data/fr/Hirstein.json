@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Mindmelding de Hirstein",
+    "summary": "William Hirstein soutient que le principal obstacle empêchant une explication physique directe de l'esprit conscient est l'« hypothèse de la vie privée » (assumption of privacy), qui est infondée. En supprimant cette hypothèse métaphysique — l'idée qu'une personne ne peut jamais faire l'expérience des états conscients d'une autre —, la motivation à créer des dualismes contrariants, des panpsychismes et des théories affirmant l'insolubilité du problème s'effondre.",
+    "associated_thinkers": ["William Hirstein"],
+    "category": "Matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "La conscience expliquée en rejetant la vie privée métaphysique",
+    "classification_tags": [
+      "privacy",
+      "physicalism",
+      "neuroscience",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est un phénomène physique explicable en termes purement physiques, à condition d'écarter la fausse prémisse philosophique d'une vie privée intrinsèque.",
+    "ontological_status": "Physicalisme / Physicalisme réductionniste (déduit : la théorie vise à contrer les ontologies non physicalistes en défendant une explication pleinement physique et est classée sous Matérialisme.)",
+    "mind_body_relationship": "Identité (déduit : en visant à expliquer l'esprit conscient en « termes purement physiques », la théorie soutient fondamentalement une position d'identité esprit-cerveau, surmontant les barrières conceptuelles qui motivent le dualisme.)",
+    "primitive_or_emergent_status": "Émergent (déduit : en tant que théorie matérialiste/neurobiologique, la conscience est présumée résulter de processus physiques sous-jacents complexes plutôt que d'être fondamentale.)",
+    "emergence_type": "Émergence faible ou réduction (justification : l'objectif est de montrer que la conscience peut être expliquée physiquement et sans reste, ce qui indique que les propriétés sont réductibles ou faiblement émergentes en principe.)",
+    "subjectivity_and_intentionality": "La subjectivité est conçue comme pleinement compatible avec une explication physicaliste une fois que l'« hypothèse de la vie privée » — qui crée l'illusion d'une distance métaphysique — est rejetée.",
+    "qualia_account": "Le ressenti qualitatif de la conscience est fondamentalement pris en compte au sein d'une explication physicaliste, une fois dissous le besoin conceptuel d'explications non physiques (induit par l'hypothèse de la vie privée).",
+    "ontological_commitments": "Processus physiques et mécanismes neurobiologiques (déduit : la théorie relève de la catégorie Matérialisme, ce qui suggère que la réalité physique, en particulier le cerveau, en est le substrat.)",
+    "epistemic_access": "Principalement par l'investigation scientifique et neurobiologique objective à la troisième personne, appuyée par la prise de conscience philosophique que la difficulté apparente d'accéder aux états d'autrui à la première personne n'est pas une barrière métaphysique.",
+    "constituents_and_structure": "Mécanismes et structures neuronaux (déduit de sa classification sous Théories neurobiologiques.)"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale (l'accent est mis sur l'explication de la nature de l'esprit conscient en des termes qui réfutent les théories non physicalistes, lesquelles se concentrent souvent sur les qualia et la subjectivité).",
+    "distinctive_mechanism_or_principle": "Le rejet ou la mise en cause de l'« hypothèse de la vie privée » constitue le principe explicatif central, permettant de résoudre l'esprit conscient par une explication physique standard.",
+    "dynamics_of_emergence": "Le mécanisme est implicitement neurobiologique et dynamique, conformément aux autres théories de sa catégorie. Les dynamiques précises ne sont pas détaillées dans les sources fournies.",
+    "location_and_distribution": "Localisée dans le cerveau (déduit de sa classification comme théorie matérialiste neurobiologique.)",
+    "causation_and_functional_role": "La conscience possède une efficacité causale compatible avec la causation physique, la théorie visant à fournir une explication « purement physique » qui défait le dualisme.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Le flux/traitement de l'information est implicitement considéré comme le fondement de la conscience, conformément aux autres théories matérialistes, une fois les barrières conceptuelles levées.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "L'« hypothèse de la vie privée » (l'impossibilité métaphysique de partager des états conscients) conduit faussement à des théories non physicalistes de la conscience.",
+      "L'esprit conscient peut être expliqué en termes purement physiques si des erreurs conceptuelles comme l'hypothèse de la vie privée sont surmontées."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (critique des barrières métaphysiques) et neurobiologique/empirique déduite (comme fondement de l'explication positive « purement physique »)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable, la revendication principale reposant sur la réfutation d'une prémisse philosophique (l'« hypothèse de la vie privée »). La testabilité empirique dépend du succès de la théorie physicaliste positive qui en découle.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principale critique porterait probablement sur la question de savoir si le simple fait d'identifier l'« hypothèse de la vie privée » comme l'erreur suffit réellement à combler le fossé explicatif et à fournir une explication physique complète et détaillée de la conscience.",
+    "open_questions_and_limitations": "La théorie doit finalement présenter la description physique positive et détaillée qui explique la conscience (par exemple, des corrélats ou mécanismes neuronaux spécifiques) une fois l'obstacle philosophique levé.",
+    "ontological_coherence": "Hautement cohérente avec les cadres ontologiques physicalistes et matérialistes, son objectif étant explicitement de démontrer la suffisance des explications physiques."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Puisque la théorie cherche une explication « purement physique » de la conscience et est classée comme Matérialisme, il n'existe aucune interdiction de principe à la création d'une IA consciente."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La théorie est un modèle matérialiste visant à défaire les dualismes. Le matérialisme soutient que la conscience est uniquement un produit du cerveau biologique, ce qui signifie qu'elle cesse à la mort biologique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "Les théories du matérialisme affirment généralement que, si les humains peuvent créer du sens et de la valeur pour eux-mêmes, il n'existe pas de sens ou de but cosmique ultime."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Si la conscience est entièrement explicable en termes physiques (comme le soutient Hirstein), alors le téléchargement des schémas et voies neuronales complets d'une personne préserverait, en principe, le moi mental à la première personne."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Dualisme des substances", "relationship": "Critique" },
+      { "name": "Panpsychismes", "relationship": "Critique" },
+      { "name": "Théorie de l'identité esprit-cerveau", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
+        "year": 2012
+      }
+    ]
+  }
+}

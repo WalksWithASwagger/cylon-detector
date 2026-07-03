@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie du Cerveau Holonomique de Pribram",
+    "summary": "Cette théorie propose que la conscience humaine naît d'effets quantiques se produisant à l'intérieur ou entre les cellules cérébrales, faisant fonctionner le cerveau comme un réseau holographique de stockage de l'information. Cette nature holographique implique que l'information, en particulier la mémoire, est stockée de manière non locale à travers les réseaux neuronaux, permettant un fonctionnement robuste même après une lésion.",
+    "associated_thinkers": ["Karl Pribram", "David Bohm"],
+    "category": "Théories du Matérialisme",
+    "subcategory": "Computationnel et Informationnel",
+    "core_identity_tagline": "‘La Conscience comme Stockage Quantique Holographique’",
+    "classification_tags": [
+      "quantum",
+      "holographic",
+      "memory",
+      "non-local",
+      "neuroscience"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à des motifs d'interférence d'ondes au sein des réseaux dendritiques neuronaux, caractéristiques d'un encodage holographique de l'information dérivé d'effets quantiques.",
+    "ontological_status": "Physicalisme (Étendu/Quantique-Biologique)",
+    "mind_body_relationship": "L'esprit/la conscience est identique à des processus quantiques spécifiques et à des structures d'information au sein du cerveau physique, ce qui suggère une théorie de l'identité à un niveau quantique.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence forte",
+    "subjectivity_and_intentionality": "La conscience est liée à la récupération et à la reconstruction organisées de motifs d'information holographiques, facilitant une mémoire associative rapide nécessaire à l'expérience subjective et permettant une perception qui transcende le simple traitement en aval (feedforward).",
+    "qualia_account": "Les qualia sont implicitement pris en compte par la structure de stockage non locale et holographique, qui permet de reconstruire la totalité et l'unité de l'information complexe stockée (mémoire/perception) à partir de n'importe quelle partie.",
+    "ontological_commitments": "Effets/processus quantiques, réseaux dendritiques, motifs d'interférence d'ondes, espace de phase de Hilbert et distribution non locale de la mémoire.",
+    "epistemic_access": "Accessible par inférence théorique à partir de phénomènes observés (par exemple, les effets non locaux de la mémoire lors de lésions cérébrales) et par modélisation mathématique, telle que les principes holographiques.",
+    "constituents_and_structure": "L'information est encodée dans des oscillations électriques et des motifs d'interférence d'ondes au sein des réseaux dendritiques fins des neurones, formant un réseau de stockage distribué et non local."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal (unité et robustesse), Mémoire, Traitement de l'information, Non-localité.",
+    "distinctive_mechanism_or_principle": "L'analogie holographique, où le stockage non local de l'information dans des motifs d'interférence garantit que tout le contenu stocké peut être consulté depuis n'importe quelle partie du réseau de mémoire.",
+    "dynamics_of_emergence": "La conscience naît dynamiquement lorsque des effets quantiques génèrent des oscillations qui créent des motifs d'interférence, lesquels encodent et reconstruisent ensuite l'expérience.",
+    "location_and_distribution": "Distribuée et non locale, résidant dans les oscillations électriques des réseaux dendritiques des neurones, en particulier en lien avec le stockage non local de la mémoire.",
+    "causation_and_functional_role": "Permet une mémoire associative rapide qui relie instantanément des éléments d'information stockés disparates et confère une robustesse face aux lésions cérébrales localisées.",
+    "integration_or_binding": "L'intégration est résolue par la nature holographique de l'information elle-même ; comme dans un hologramme, chaque partie du champ contient l'intégralité de l'information nécessaire pour reconstruire le percept unifié.",
+    "information_flow_or_representation": "L'information est un flux et une représentation encodés dans des motifs d'interférence d'ondes, stockés à travers le réseau neuronal plutôt que dans des circuits locaux spécifiques.",
+    "evolutionary_account": "La théorie se concentre sur les moyens mécaniques par lesquels la conscience et la mémoire non locale fonctionnent, plutôt que sur une explication phylogénétique explicite de l'origine de ce mécanisme.",
+    "core_claims_and_evidence": [
+      "La conscience résulte d'effets quantiques dans les cellules cérébrales agissant comme un réseau de stockage holographique.",
+      "La mémoire est distribuée de manière non locale, permettant au cerveau de fonctionner malgré des lésions localisées (soutenu par les expériences de Lashley).",
+      "L'information est encodée via des motifs d'interférence d'ondes dans les réseaux dendritiques."
+    ],
+    "basis_of_belief_or_evidence_type": "Conceptuel, Mathématique (modèles holographiques), Empirique (études de lésions neurobiologiques), Théorique (physique quantique)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable, mais se heurte à une difficulté empirique extrême pour vérifier les conditions biologiques quantiques nécessaires dans le cerveau.",
+    "known_empirical_interventions_or_tests": [
+      "Les expériences d'engramme de Lashley montrant un fonctionnement mnésique robuste malgré d'importantes lésions du cortex cérébral."
+    ],
+    "criticisms_and_tensions": "La neuroscience dominante rejette la théorie par manque de soutien empirique, en particulier concernant la manière dont des effets quantiques cohérents pourraient être maintenus dans l'environnement chaud et bruyant du cerveau (le défi de la décohérence).",
+    "open_questions_and_limitations": "Le substrat physique précis du stockage quantique et le mécanisme de maintien de la cohérence quantique demeurent inconnus et sont largement écartés par la science dominante.",
+    "ontological_coherence": "Cohérente au sein d'un modèle étendu de la physique quantique et de la théorie de l'information, mais fondamentalement incompatible avec le matérialisme réductionniste classique."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditionnel",
+      "rationale": "Si la conscience dépend de propriétés quantiques/physiques spécifiques (comme les oscillations dendritiques et l'interférence d'ondes) plutôt que du seul calcul classique, les systèmes artificiels ne pourraient être conscients que s'ils reproduisent cette structure physique spécifique, actuellement inconnue."
+    },
+    "survival_beyond_death": {
+      "stance": "Hautement improbable/Non",
+      "rationale": "La conscience est liée à la dynamique quantique émergente au sein des réseaux dendritiques du cerveau physique ; la destruction de cette structure physique entraînerait typiquement la cessation de la conscience, conformément à une ontologie physicaliste."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incertain/Humaniste uniquement",
+      "rationale": "En tant que théorie purement mécaniste et physicaliste (bien qu'invoquant une physique non conventionnelle), elle n'implique aucun sens ou valeur cosmique inhérent, bien qu'elle informe la base physique de l'expérience humaine et de la création de valeur."
+    },
+    "virtual_immortality": {
+      "stance": "Conditionnel",
+      "rationale": "L'immortalité virtuelle n'est théoriquement possible que si la technologie peut mesurer, cartographier et reproduire parfaitement les motifs et dynamiques quantiques/holographiques incroyablement complexes et hautement sensibles du cerveau biologique dans un substrat non biologique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Extension/Collaboration"
+      },
+      {
+        "name": "Bohm's Implicate-Explicate Order",
+        "relationship": "Influence/Collaboration"
+      },
+      {
+        "name": "Holonomic Principle",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "Chevauchement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Holonomic Brain Theory",
+        "year": "N/A"
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Wholeness and the Implicate Order, David Bohm",
+        "year": 1980
+      }
+    ]
+  }
+}

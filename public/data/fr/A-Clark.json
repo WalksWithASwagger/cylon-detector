@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "Esprit étendu",
+    "summary": "Cette théorie postule que les processus cognitifs ne se limitent pas strictement au cerveau biologique mais s'étendent à l'environnement extérieur (externalisme actif). Lorsqu'un organisme humain se lie à une entité externe dans une interaction bidirectionnelle, un système couplé se forme, qui agit comme un système cognitif à part entière. Retirer la composante externe dégrade la compétence comportementale du système, tout comme le ferait le retrait d'une partie du cerveau.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "David Chalmers"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Relationnelle",
+    "core_identity_tagline": "« L'esprit comme système cognitif couplé »",
+    "classification_tags": [
+      "externalism",
+      "embodiment",
+      "cognition",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme une fonction du système cognitif couplé dans son ensemble, englobant à la fois les processus neuronaux internes et les outils/l'environnement externes, en soulignant sa dépendance à l'externalisme actif.",
+    "ontological_status": "Physicalisme (fonctionnaliste/relationnel)",
+    "mind_body_relationship": "Corrélation/Extension. L'esprit est une propriété émergente ou un processus fonctionnel distribué à travers le cerveau, le corps et l'environnement pertinent, ce qui remet en cause la conception traditionnelle selon laquelle l'esprit serait circonscrit au crâne.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "Les sources se concentrent principalement sur le rôle fonctionnel de la cognition et la compétence comportementale, sans préciser explicitement comment naissent la subjectivité phénoménale ou l'intentionnalité. La subjectivité est implicitement traitée comme une caractéristique du système cognitif en fonctionnement, où qu'il se situe.",
+    "qualia_account": "La théorie se concentre sur l'extension des processus cognitifs et l'obtention d'une compétence comportementale, mais les sources ne précisent pas explicitement comment les qualia phénoménaux (la dimension qualitative de l'expérience) sont pris en compte ou étendus au sein du système couplé.",
+    "ontological_commitments": "Le cerveau, le corps, les objets/outils externes et l'environnement physique, tous participant activement à un rôle causal au sein du système couplé.",
+    "epistemic_access": "Accessible par l'étude de l'interaction bidirectionnelle et du rôle causal actif de toutes les composantes du système couplé, en se concentrant sur la compétence comportementale et les circuits cognitifs.",
+    "constituents_and_structure": "Un « système couplé » composé de l'organisme humain (cerveau et corps) lié à des entités externes (monde social et matériel) dans une interaction bidirectionnelle, formant un tout intégré et sans coupure."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Cognition, compétence comportementale (la conscience phénoménale est implicitement supposée résider au sein du système étendu, mais l'accent est mis sur le fonctionnel).",
+    "distinctive_mechanism_or_principle": "L'externalisme actif, où les entités externes jouent un rôle causal actif dans les processus cognitifs, créant un « système couplé » fonctionnellement intégré.",
+    "dynamics_of_emergence": "Processus dynamique. Les esprits émergent du « flux coloré » du cerveau, du corps et du monde social/matériel en formant des « touts d'une étonnante fluidité ».",
+    "location_and_distribution": "Distribuée/étendue. Les processus cognitifs se déploient au-delà du cerveau circonscrit au crâne, englobant l'environnement et les outils externes.",
+    "causation_and_functional_role": "Les composantes du système couplé jouent un rôle causal actif et gouvernent conjointement le comportement, permettant à l'esprit de faciliter une interaction adaptative avec le monde.",
+    "integration_or_binding": "L'intégration s'opère par l'interaction bidirectionnelle active entre l'organisme et l'entité externe, formant un tout cognitif intégré et sans coupure.",
+    "information_flow_or_representation": "Le traitement de l'information repose sur des représentations qui sont étendues pour inclure le rôle participatif de l'environnement dans les processus cognitifs.",
+    "evolutionary_account": "La théorie est compatible avec un cadre évolutionniste selon lequel les capacités prédictives du cerveau sont facilitées par la conscience et la conformité aux réalités externes, ce qui suggère un rôle adaptatif pour l'extension cognitive.",
+    "core_claims_and_evidence": [
+      "Les processus cognitifs s'étendent au-delà des limites du cerveau pour inclure des entités externes.",
+      "Le système couplé agit comme un système cognitif à part entière, toutes ses composantes jouant un rôle causal actif.",
+      "Le retrait de la composante externe dégrade la compétence comportementale du système."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, argument conceptuel (fonctionnaliste)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable/conditionnelle",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La théorie se heurte à une tension philosophique concernant l'emplacement et les limites précises de l'esprit, remettant en cause la priorité traditionnellement accordée aux processus internes, biologiques et neuronaux.",
+    "open_questions_and_limitations": "La théorie se concentre fortement sur les processus cognitifs, laissant ouverte la question de savoir comment la conscience phénoménale elle-même s'étend ou est vécue à travers le système couplé.",
+    "ontological_coherence": "Hautement cohérente. La théorie propose une explication matérialiste/fonctionnaliste cohérente en redéfinissant le substrat requis pour la cognition au-delà du crâne."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "La théorie s'aligne sur le fonctionnalisme computationnel, suggérant que si les processus cognitifs et les relations fonctionnelles peuvent être instanciés artificiellement, l'esprit peut s'étendre à des prothèses cognitives, ce qui rend plausible la conscience de l'IA."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditionnelle",
+      "rationale": "Bien qu'ancrée dans le matérialisme (qui nie généralement la survie), si le soi essentiel est défini par un motif fonctionnel distribué susceptible de subsister indépendamment de son substrat biologique, la survie de ce motif pourrait être possible."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie matérialiste, elle ne suggère aucun sens, dessein ou valeur cosmique ; le sens est plutôt créé par l'organisme humain."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "L'immortalité virtuelle est plausible car la théorie conçoit l'esprit comme un motif fonctionnel intrinsèquement extensible via des « prothèses cognitives » externes, et sa réplication dans un support non biologique est cohérente avec ses bases fonctionnalistes."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Théories incarnées et énactives",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Fonctionnalisme computationnel",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Traitement prédictif",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Extended Mind, Andy Clark and David Chalmers",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Supersizing the Mind: Embodiment, Action, and Cognitive Extension, Andy Clark",
+        "year": 2010
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie de la résonance adaptative (ART) de Grossberg",
+    "summary": "La théorie de Grossberg établit que tous les états conscients sont des états résonants résultant de l'interaction entre des motifs sensoriels ascendants et des attentes descendantes apprises. Ce fondement théorique, la Théorie de la résonance adaptative (ART), explique comment le cerveau s'auto-organise pour consciemment porter attention, catégoriser, reconnaître et prédire des phénomènes dans un monde dynamique. Elle affirme que les variétés de ces résonances cérébrales représentent une avancée vers la résolution du problème difficile de la conscience.",
+    "associated_thinkers": [
+      "Stephen Grossberg"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Computationnel et Informationnel",
+    "core_identity_tagline": "« Les états conscients comme états résonants »",
+    "classification_tags": [
+      "computation",
+      "resonance",
+      "neurobiological",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à un état résonant persistant résultant de l'interaction entre des motifs ascendants et des attentes descendantes apprises, capable de soutenir la conscience attentive lorsqu'il inclut des cellules sélectives de caractéristiques représentant les qualia. L'esprit est conçu comme une activité, ou un verbe, non une entité statique.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "Identité/moniste. L'esprit est l'activité (un verbe, non un nom) du cerveau physique, régie par des lois mécanistiquement similaires conservées à travers les systèmes cellulaires.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible. Compte tenu de sa classification comme théorie du Matérialisme reposant sur des structures computationnelles et des lois biologiques conservées, la conscience est censée être pleinement explicable par, bien que peut-être pas intuitivement réductible à, des processus de niveau inférieur.",
+    "subjectivity_and_intentionality": "L'intentionnalité (reconnaissance, prédiction, apprentissage) est régulée par la conscience attentive, laquelle se réalise dans l'état résonant. La subjectivité s'explique par l'inclusion de cellules sélectives de caractéristiques représentant les qualia au sein de ces états.",
+    "qualia_account": "Les qualia sont identifiés à des cellules sélectives de caractéristiques incluses dans l'état résonant persistant, soutenant la conscience attentive. Grossberg suggère que cela contribue à traiter le problème difficile de la conscience.",
+    "ontological_commitments": "Les états résonants, les structures computationnelles, les motifs sensoriels ascendants, les attentes descendantes, et les lois conservées de la mémoire et de l'activation à court et à long terme à travers les systèmes biologiques.",
+    "epistemic_access": "Accessible par la modélisation neuronale et cognitive, l'observation de données cérébrales, et l'analyse de la manière dont les humains perçoivent et connaissent consciemment les choses.",
+    "constituents_and_structure": "Un état résonant établi par l'interaction continue entre les entrées sensorielles ascendantes et les attentes descendantes apprises, régi par des lois communes de la mémoire à court et à long terme."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal, conscience attentive, apprentissage, reconnaissance, prédiction, régulation de l'action.",
+    "distinctive_mechanism_or_principle": "La Théorie de la résonance adaptative (ART), selon laquelle un état résonant persistant et maximalement irréductible entre les voies ascendantes et descendantes est affirmé être la condition nécessaire et suffisante de la conscience (tous les états conscients sont des états résonants).",
+    "dynamics_of_emergence": "Processus dynamique. La conscience se réalise comme un état résonant dynamique qui interagit continuellement avec les processus cognitifs comme l'apprentissage et la prédiction, et les régule.",
+    "location_and_distribution": "Localisée au sein des structures cérébrales, en particulier où des cellules sélectives de caractéristiques représentant les qualia sont incluses dans l'état résonant.",
+    "causation_and_functional_role": "La conscience attentive régule des actions qui interagissent avec des processus cognitifs comme l'apprentissage, la reconnaissance et la prédiction. Elle confère la capacité d'apprendre et de catégoriser de manière autonome des objets et événements dans un monde changeant."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement et computationnellement testable, s'appuyant sur ses fondements dans les modèles cognitifs et neuronaux.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Aucune critique externe majeure spécifique n'est détaillée dans les sources, mais des tensions générales communes aux théories matérialistes s'appliquent (par ex. la difficulté de saisir pleinement la qualité subjective/les qualia par le biais de définitions purement fonctionnelles).",
+    "open_questions_and_limitations": "La théorie vise à résoudre le problème difficile, ce qui indique que définir pleinement la relation entre les états résonants et l'expérience phénoménale demeure un défi en cours.",
+    "ontological_coherence": "Cohérente au sein des cadres ontologiques computationnels et matérialistes, alignant la nature de la conscience directement sur l'activité cérébrale fonctionnelle."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "La théorie est un modèle fonctionnaliste où la conscience résulte de la réalisation de structures computationnelles spécifiques et de lois conservées. Si ces structures computationnelles (états résonants) peuvent être mises en œuvre dans un matériel non biologique, la conscience de l'IA est possible."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est fondamentalement liée à l'activité résonante physiquement instanciée du cerveau biologique, n'offrant aucune voie conceptuelle de persistance après la mort corporelle."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie matérialiste centrée sur l'auto-organisation et la fonction adaptative du cerveau (apprentissage, prédiction, survie), elle n'implique aucun sens ou but ultime ou cosmique en dehors de l'expérience humaine."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Si l'esprit est fonctionnellement défini comme un système d'activités computationnelles (états résonants), alors une reproduction suffisamment complète de cette structure dans un support non biologique devrait, en principe, préserver le moi mental à la première personne."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Théorie du chef d'orchestre cortical de Bach",
+        "relationship": "Similarité (approche fonctionnaliste)"
+      },
+      {
+        "name": "Modèle des brouillons multiples de Dennett",
+        "relationship": "Similarité (approche fonctionnaliste)"
+      },
+      {
+        "name": "Théorie du schéma d'attention de Graziano",
+        "relationship": "Similarité (approche fonctionnaliste)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Adaptive Resonance Theory: how a brain learns to consciously attend, learn, and recognize a changing world, Stephen Grossberg",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The resonant brain: how attentive conscious seeing regulates action sequences that interact with attentive cognitive learning, recognition, and prediction, Stephen Grossberg",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Conscious Mind, Resonant Brain: How Each Brain Makes a Mind, Stephen Grossberg",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Towards solving the hard problem of consciousness: the varieties of brain resonances and the conscious experiences that they support, Stephen Grossberg",
+        "year": 2017
+      }
+    ]
+  }
+}

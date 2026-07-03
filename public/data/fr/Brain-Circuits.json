@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Théories des circuits et cycles cérébraux",
+    "summary": "Cet ensemble de théories plus anciennes attribue la conscience au fonctionnement de structures neurophysiologiques à grande échelle et à une activité électrique dynamique, telles que les voies latérales, le système réticulaire activateur, les radiations thalamocorticales verticales (circuits) et le déclenchement neuronal synchrone (cycles, comme les ondes EEG) à travers de larges régions cérébrales. Ces explications sont généralement jugées insuffisantes en elles-mêmes et ont évolué vers des théories neurobiologiques contemporaines plus sophistiquées.",
+    "associated_thinkers": [
+      "Field of Neuroscience/Neurobiology (General)"
+    ],
+    "category": "Théories du matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "La conscience comme structures et oscillations neuronales à grande échelle",
+    "classification_tags": [
+      "neurobiology",
+      "materialism",
+      "neural circuits",
+      "oscillations",
+      "synchrony"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à la fonction ou au produit de structures cérébrales complexes à grande échelle (circuits) et à l'activité électrique synchrone massive qui en résulte (cycles) au sein du cerveau biologique.",
+    "ontological_status": "Physicalisme (matérialisme réductif)",
+    "mind_body_relationship": "Identité/corrélation. Les états mentaux sont identiques à, ou directement corrélés avec, des états physiques spécifiques de circuits neuronaux à grande échelle et de motifs dynamiques.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (implicite : découle de l'organisation complexe de composants physiques connus, cohérente avec le réductionnisme neurobiologique classique).",
+    "subjectivity_and_intentionality": "Se concentre sur la fourniture du substrat physique nécessaire aux états conscients ; le mécanisme spécifique générant une subjectivité ou une intentionnalité irréductible à la première personne est souvent sous-développé ou renvoyé aux théories successeurs.",
+    "qualia_account": "La teneur qualitative spécifique de l'expérience (qualia) n'est pas directement expliquée par cette théorie, qui se concentre principalement sur les mécanismes organisationnels (circuits et cycles) corrélés à la conscience.",
+    "ontological_commitments": "Structures neuronales à grande échelle (par ex. voies, système réticulaire activateur, cortex), électrophysiologie neuronale (déclenchement synchrone) et cycles cérébraux mesurables (par ex. ondes EEG).",
+    "epistemic_access": "Principalement par des méthodes empiriques, en particulier la mesure et l'analyse de l'activité électrique cérébrale (EEG) et l'étude des voies neuronales à grande échelle et de la neurophysiologie fonctionnelle.",
+    "constituents_and_structure": "De vastes réseaux de neurones et leurs motifs de déclenchement synchrone organisés en structures telles que les voies thalamocorticales et corticales latérales."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale, activation et éveil (comme conditions de fond nécessaires).",
+    "distinctive_mechanism_or_principle": "Le fonctionnement de structures cérébrales à grande échelle et la synchronie de l'activité électrique, telles que les voies cortico-thalamiques récurrentes et le déclenchement synchrone massif produisant des cycles cérébraux (par ex. ondes gamma).",
+    "dynamics_of_emergence": "La conscience est un processus dynamique découlant du déclenchement synchrone de nombreux neurones à travers de larges régions corticales, produisant des ondes EEG mesurables.",
+    "location_and_distribution": "Distribuée à travers des circuits et voies à grande échelle, incluant le cortex cérébral, le thalamus et le système réticulaire activateur.",
+    "causation_and_functional_role": "Le pouvoir causal s'exerce ascendant (bottom-up), l'activité neuronale et les cycles synchrones régulant et médiant les états conscients. La fonction est d'intégrer et de coordonner l'information à travers des régions disparates.",
+    "integration_or_binding": "L'intégration est réalisée par une activité neuronale synchrone (par ex. ondes gamma) à travers des zones cérébrales largement distribuées, reliées par des voies à grande échelle.",
+    "information_flow_or_representation": "L'information est traitée et transférée de manière bidirectionnelle (par ex. boucles cortico-thalamiques) via des impulsions électrophysiologiques et le déclenchement synchrone de groupes neuronaux.",
+    "evolutionary_account": "Non détaillé explicitement, mais présumé être le produit d'une évolution biologique ayant abouti à une organisation cérébrale complexe nécessaire à la génération de la conscience.",
+    "core_claims_and_evidence": [
+      "La conscience implique des circuits cérébraux à grande échelle (voies latérales, système réticulaire activateur, voies thalamocorticales) et des cycles (ondes EEG).",
+      "Le transfert d'information bidirectionnel dans les voies cortico-thalamiques récurrentes régule les états conscients, diminué lors de la perte de conscience.",
+      "La théorie de l'intégration dendritique (TID) relie des mécanismes de niveau cellulaire (cellules pyramidales de couche 5) dans ces circuits à l'expérience consciente."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirique, Neurophysiologique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable par des mesures neurophysiologiques (par ex. EEG, imagerie fonctionnelle) suivant la synchronisation et l'activité cérébrales à grande échelle dans les circuits identifiés.",
+    "known_empirical_interventions_or_tests": [
+      "Mesure EEG des bandes de fréquence (par ex. ondes gamma à 40 Hz) associées aux états conscients.",
+      "Études du transfert d'information bidirectionnel dans les voies cortico-thalamiques pendant les états conscients versus inconscients."
+    ],
+    "criticisms_and_tensions": "La critique principale est que ces théories sont insuffisantes en elles-mêmes pour expliquer la conscience, nécessitant une évolution vers des modèles plus sophistiqués. Elles traitent de la corrélation et du processus, mais échouent souvent à expliquer pleinement la nature de l'expérience phénoménale (le « ce que c'est »).",
+    "open_questions_and_limitations": "Ne définit pas pleinement ce qu'« est » la conscience au-delà des processus physiques impliqués ; décrit principalement des processus critiques alternatifs générant la conscience mais est jugée insuffisante à elle seule.",
+    "ontological_coherence": "Élevée. Hautement cohérente avec le physicalisme réductif fondamental et la neurobiologie dominante, s'appuyant sur des structures et mécanismes biologiques connus et mesurables."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "Si la conscience est entièrement le produit de circuits neuronaux physiques spécifiques et de motifs d'activité dynamique, alors ces mécanismes peuvent, en principe, être parfaitement dupliqués dans des substrats non biologiques, permettant la conscience de l'IA."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "En tant que théorie du matérialisme, la conscience est entièrement liée au cerveau biologique ; la cessation de ces circuits et cycles neuronaux spécifiques signifie la fin de la conscience."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En cohérence avec le matérialisme, la théorie n'offre aucun sens ou finalité cosmique ultime ; tout sens est créé par les entités conscientes elles-mêmes."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Puisque le soi à la première personne est identifié à l'organisation physique complexe de motifs et de voies neuronaux, une duplication parfaite de ces circuits dans un support non biologique devrait préserver la conscience phénoménale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Extension/Chevauchement"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "Raffinement"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "Chevauchement (les cycles cérébraux sont liés aux champs électromagnétiques)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Brain circuits and cycles theories (General Discussion)",
+        "year": ""
+      },
+      {
+        "title_with_names": "Cellular mechanisms of conscious processing, J. Aru et al.",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Criticality supports cross-frequency cortical-thalamic information transfer during conscious states, D. Toker et al.",
+        "year": 2024
+      }
+    ]
+  }
+}

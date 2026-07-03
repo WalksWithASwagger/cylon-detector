@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Le modèle des esquisses multiples de Dennett",
+    "summary": "Cette théorie neurobiologique rejette l'idée d'un « Théâtre cartésien » central où la conscience serait observée. Elle postule plutôt que le contenu conscient émerge de flux de traitement de l'information parallèles et multipistes (« esquisses multiples ») qui rivalisent pour l'attention, l'esquisse gagnante atteignant une « célébrité dans le cerveau ». L'intégration continue de ces moments forme le sens subjectif du soi, caractérisé comme un « centre de gravité narrative ».",
+    "associated_thinkers": [
+      "Daniel Dennett",
+      "Patricia Churchland",
+      "Paul Churchland",
+      "Keith Frankish"
+    ],
+    "category": "Théories du matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "La conscience comme esquisses multiples et gravité narrative",
+    "classification_tags": [
+      "eliminative materialism",
+      "illusionism",
+      "functionalism",
+      "narrative",
+      "evolutionary"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à un « flux ou une séquence narrative » continuellement révisé résultant de processus d'interprétation parallèles dans le cerveau. Les propriétés phénoménales subjectives (qualia) sont définies comme des « illusions d'utilisateur » ou des constructions neuronales incohérentes.",
+    "ontological_status": "Physicalisme / matérialisme éliminativiste",
+    "mind_body_relationship": "Identité/Réduction. Les états mentaux sont entièrement réductibles à des états physiques, et la conception ordinaire de l'esprit (psychologie populaire) est radicalement fausse, destinée à être finalement supplantée par les neurosciences.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible. Justifiée par le fait que la théorie soutient que la conscience peut être entièrement réduite à, ou expliquée par, des processus physiques fondamentaux, ce qui étaye une vision matérialiste réductionniste et rejette en principe l'émergence forte.",
+    "subjectivity_and_intentionality": "La subjectivité (le « soi ») est conceptualisée comme une construction fictionnelle distribuée appelée « centre de gravité narrative ». L'intentionnalité (le contenu) est priorisée et considérée comme une fonction de amas compliqués de molécules, précédant le besoin de conscience.",
+    "qualia_account": "Les qualia sont rejetés comme des concepts illusoires et incohérents. Ils sont expliqués comme des « illusions d'utilisateur » — des réseaux neuronaux activés complexes qui nous disposent à croire que nous possédons des propriétés phénoménales intrinsèques et inanalysables.",
+    "ontological_commitments": "Cerveaux physiques et leurs processus biologiques. Des « motifs réels » qui sont différentes versions de ce qui existe réellement, représentées par l'image scientifique (physique, chimie, biologie moléculaire et neurophysiologie).",
+    "epistemic_access": "Exclusivement par la perspective à la troisième personne de la science, appelée « hétérophénoménologie ». L'introspection à la première personne et les croyances sur les états internes sont traitées comme des données à expliquer, non nécessairement comme des comptes rendus véridiques de la réalité mentale.",
+    "constituents_and_structure": "Un « ensemble d'agences semi-indépendantes » ou de régions/modules cérébraux, générant des interprétations parallèles (« esquisses multiples ») soumises à une édition continue."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale (dégonflée/éliminée) ; Accès ; Conscience de soi (comme structure narrative) ; Contenu/Intentionnalité.",
+    "distinctive_mechanism_or_principle": "La suppression de la métaphore du « Théâtre cartésien ». Le mécanisme implique la compétition entre différentes régions/modules cérébraux (esquisses) pour les ressources de traitement, aboutissant à une « célébrité dans le cerveau » pour le gagnant, qui détermine le contenu du moment conscient.",
+    "dynamics_of_emergence": "La conscience est un processus dynamique — un flux de révisions éditoriales et de formation narrative dans le temps. Elle apparaît graduellement par sélection naturelle, mettant l'accent sur des « raisons sans raisonneur » et une « conception sans concepteur ».",
+    "location_and_distribution": "Distribuée à travers le cerveau. Nie explicitement l'existence d'un emplacement central unique ou d'un observateur intérieur.",
+    "causation_and_functional_role": "Fonctionnellement, la conscience est un engagement informationnel et réactif complexe avec le monde. Son rôle évolutif est de fournir une adaptation intérieure qui améliore la valeur adaptative et le succès reproductif.",
+    "integration_or_binding": "L'intégration est réalisée rétrospectivement par la coalescence de moments conscients continus en une histoire de vie cohérente (le « centre de gravité narrative »).",
+    "information_flow_or_representation": "Traitement parallèle et multipiste d'interprétations et d'élaborations, menant à un flux narratif. Le contenu précède la conscience, permettant à des amas complexes de molécules d'avoir un sens.",
+    "evolutionary_account": "La conscience et les esprits ont évolué par sélection naturelle, en partant de niveaux bactériens et en progressant via la création d'outils de pensée (comme le langage) nécessaires pour comprendre des phénomènes tels que la conscience elle-même.",
+    "core_claims_and_evidence": [
+      "Il n'existe pas de « Théâtre cartésien » ni de témoin intérieur observant l'expérience consciente.",
+      "La conscience se compose « d'esquisses multiples » rivalisant pour la « célébrité dans le cerveau ».",
+      "Le soi subjectif est une construction fonctionnelle (« centre de gravité narrative »).",
+      "Les qualia sont rejetés comme des propriétés illusoires et incohérentes."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (éliminativisme), Évolutif/Biologique, Computationnel (fonctionnalisme), Sciences cognitives (hétérophénoménologie)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable. Dennett préconise une mise à l'épreuve par des méthodes objectives à la troisième personne (hétérophénoménologie) plutôt que de s'appuyer sur une introspection trompeuse.",
+    "known_empirical_interventions_or_tests": "Les sources ne mentionnent pas d'interventions expérimentales nommées spécifiques, mais la théorie s'appuie sur des données obtenues via les procédures standards des sciences cognitives et des méthodologies à la troisième personne (« hétérophénoménologie »).",
+    "criticisms_and_tensions": "La critique principale est que la théorie échoue à traiter la conscience phénoménale (le problème difficile) en la déclarant illusoire, amenant les critiques à soutenir que Dennett résout les « problèmes faciles » tout en évitant le mystère central. Son déni des qualia est considéré comme un mouvement critique exigeant l'adhésion à des prémisses contre-intuitives.",
+    "open_questions_and_limitations": "Nécessite de surmonter l'intuition de sens commun sur l'expérience intérieure, ce que beaucoup jugent une « tâche ardue ». La possibilité que le problème difficile ne « s'évapore » pas demeure une tension ouverte.",
+    "ontological_coherence": "Hautement cohérente au sein d'un cadre matérialiste purement réductif et déflationniste, cohérente avec la conviction que la conscience peut être entièrement expliquée par la physique et les neurosciences."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "En tant que théorie fortement matérialiste enracinée dans le fonctionnalisme/le computationnalisme, elle soutient que la conscience est entièrement physique et que le fonctionnalisme computationnel est vrai. Par conséquent, les intelligences non biologiques atteignant une IA très puissante doivent finalement accéder à la conscience."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "Dans les théories du matérialisme, la mort du cerveau et du corps biologiques entraîne une non-existence irrévocable et permanente de la personne."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "Les théories du matérialisme ne rationalisent pas un sens ou une finalité cosmique ultime, mettant plutôt l'accent sur le sens et la valeur humanistes que les individus créent pour eux-mêmes."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Si la conscience est entièrement physique et réductible au traitement de l'information (comme le soutient la théorie), le soi mental à la première personne pourrait être téléversé/dupliqué vers un support non biologique, rendant l'immortalité virtuelle réalisable, moyennant une technologie suffisante."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Chevauchement (base philosophique centrale)"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "Similarité (approche fonctionnaliste)"
+      },
+      {
+        "name": "Global Workspace Theory (GWT)",
+        "relationship": "Comparaison (les deux rejettent le Théâtre cartésien et se concentrent sur l'accès informationnel, bien qu'elles diffèrent sur des points spécifiques)"
+      },
+      {
+        "name": "Higher-Order Thought Theories",
+        "relationship": "Chevauchement (le modèle de Dennett est souvent considéré comme une forme de théorie d'ordre supérieur en priorisant le contenu cognitif)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Explained, Daniel C. Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Eliminative Materialism and the Propositional Attitudes, Paul Churchland",
+        "year": 1981
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Le physicalisme non théorique de Nagasawa",
+    "summary": "Cette théorie affirme que le monde est entièrement physique, mais qu'il contient des faits physiques spécifiques sur la conscience qui ne peuvent être saisis ou expliqués même par des théories complètes des sciences physiques. Elle fonctionne comme une formulation alternative du physicalisme qui cherche à concilier l'ontologie physique avec les échecs apparents des théories réductionnistes à saisir la conscience phénoménale.",
+    "associated_thinkers": ["Yujin Nagasawa"],
+    "category": "Physicalisme Non Réductif",
+    "subcategory": "Formulation Alternative du Physicalisme",
+    "core_identity_tagline": "Le physicalisme au-delà de la théorie physique",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ontology",
+      "monism",
+      "nontheoretical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est constituée de faits physiques fondés sur des entités qui existent en dehors du cadre conceptuel de la science physique théorique complète.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "L'esprit/la conscience est identique à la réalité physique ; cependant, certains faits sur la conscience sont inaccessibles à la connaissance théorique traditionnelle (fossé épistémique), ce qui nécessite une compréhension fondée sur les entités plutôt que sur la théorie de cette identité.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence forte",
+    "subjectivity_and_intentionality": "L'expérience subjective est fondée sur des faits physiques spécifiques et « non théoriques » qui ne peuvent être saisis par une explication scientifique complète, préservant ainsi le mystère épistémique de la subjectivité tout en affirmant sa nature physique.",
+    "qualia_account": "Les faits relatifs aux qualia sont des faits physiques, mais ils appartiennent au domaine de la réalité physique qui échappe à la saisie des théories physiques actuelles ou complètes.",
+    "ontological_commitments": "La réalité physique, les entités physiques, et les faits physiques non théoriques.",
+    "epistemic_access": "Épistémologiquement limité par la théorie scientifique traditionnelle ; l'accès conceptuel est dérivé de l'analyse philosophique des arguments contre le physicalisme traditionnel (passant de l'épistémologie à l'ontologie).",
+    "constituents_and_structure": "La conscience est fondée sur des faits ou des propriétés physiques spécifiques, fondés sur des entités, inhérents à la structure physique des systèmes conscients."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale (implicitement ; dérivée de son intérêt pour des débats comme l'Argument de la Connaissance)",
+    "distinctive_mechanism_or_principle": "L'existence de faits physiques sur la conscience qui sont « non théoriques » (fondés sur des entités plutôt que définissables par des lois théoriques), nécessitant un changement dans la formulation standard du physicalisme.",
+    "dynamics_of_emergence": "Les détails dynamiques sont limités car les faits relatifs à la conscience sont définis comme « non théoriques » ; l'émergence est présumée fondée sur l'existence d'entités physiques complexes appropriées.",
+    "location_and_distribution": "Le monde physique ; associée à des entités physiques spécifiques (par ex., des mécanismes neuronaux) qui contiennent les faits non saisis.",
+    "causation_and_functional_role": "Non explicitement détaillé dans les sources ; on suppose qu'elle adhère à la causalité physique standard dans les limites d'un monde entièrement physique.",
+    "integration_or_binding": "Non défini, la théorie se concentrant principalement sur la définition métaphysique et le fossé épistémique plutôt que sur des dynamiques internes de traitement spécifiques.",
+    "information_flow_or_representation": "La saisie de l'information est implicitement incomplète via les théories physiques, limitée par l'existence de faits physiques non théoriques.",
+    "evolutionary_account": "Non spécifié ; supposé être un trait évolué du monde entièrement physique (puisqu'il s'agit d'une forme de physicalisme).",
+    "core_claims_and_evidence": [
+      "Le monde est entièrement physique, mais contient des faits physiques que les théories complètes des sciences physiques ne peuvent saisir.",
+      "La méthodologie établit des parallèles entre l'Argument de la Connaissance (l'esprit) et les arguments sur la connaissance de Dieu (la religion) pour établir des lacunes de connaissance non théoriques."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable (via des arguments philosophiques) ; empiriquement limitée/spéculative en raison de la définition des « faits non théoriques ».",
+    "known_empirical_interventions_or_tests": "Non spécifié ; repose sur des arguments conceptuels/épistémologiques (par ex., la critique de l'Argument de la Connaissance) plutôt que sur des tests empiriques de ses affirmations centrales.",
+    "criticisms_and_tensions": "Fait face à la tension inhérente à la définition du physicalisme en faisant appel à des aspects de la réalité qui échappent nécessairement à une théorisation scientifique complète, risquant une ambiguïté ontologique. C'est une défense contre les échecs du physicalisme traditionnel.",
+    "open_questions_and_limitations": "La nature précise et la structure des faits physiques non théoriques, ainsi que la justification de leur caractère intrinsèquement insaisissable, demeurent des questions ouvertes.",
+    "ontological_coherence": "Haute cohérence interne pour son objectif spécifique (traiter le fossé épistémique tout en maintenant le physicalisme), mais remet en question la portée et les principes traditionnels de l'ontologie physicaliste standard."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Puisque le monde est entièrement physique et que la conscience est ancrée dans des faits physiques fondés sur des entités, des systèmes artificiels complexes pourraient, en principe, instancier les faits physiques non théoriques nécessaires."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "En tant que forme de physicalisme, la conscience est liée au monde physique, et rien n'indique qu'elle permette une persistance après la dissolution du substrat physique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "L'ontologie est strictement physique, ce qui n'implique pas intrinsèquement un sens ou une finalité cosmique ultime, bien qu'elle reconnaisse des faits physiques inaccessibles à la théorie scientifique."
+    },
+    "virtual_immortality": {
+      "stance": "Conditionnelle (Limitée technologiquement)",
+      "rationale": "Si l'entité physique spécifique (ou sa configuration) incarnant les faits de conscience non théoriques peut être parfaitement dupliquée ou téléversée sur un support non biologique, l'immortalité virtuelle est techniquement possible, bien que hautement difficile."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Physicalism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Critique/Alternative"
+      },
+      {
+        "name": "The Knowledge Argument",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "God and Phenomenal Consciousness: A Novel Approach to Knowledge Arguments",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Anything non-physical about the mind? Closer to truth",
+        "year": 2012
+      }
+    ]
+  }
+}

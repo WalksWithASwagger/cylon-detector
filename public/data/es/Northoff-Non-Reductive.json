@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "La Teoría de la Neurofilosofía No Reductiva de Northoff",
+    "summary": "Esta teoría es principalmente una estrategia metodológica diseñada para analizar la intrincada relación entre el cerebro y la mente, conectando de manera sistemática y bilateral los conceptos filosóficos y las teorías ontológicas con los datos empíricos de la neurociencia. Su objetivo es proporcionar una comprensión de la subjetividad sin reducir los conceptos mentales a hechos físicos.",
+    "associated_thinkers": ["Georg Northoff"],
+    "category": "Fisicalismo No Reductivo",
+    "subcategory": "Neurofilosofía No Reductiva",
+    "core_identity_tagline": "Herramienta Metodológica en la Interfaz entre Filosofía y Neurociencia",
+    "classification_tags": [
+      "neurophilosophy",
+      "methodology",
+      "spatiotemporal",
+      "sentience",
+      "non-reduction"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "El enfoque es principalmente metodológico, centrado en la relación rigurosa entre conceptos y hechos. La dimensión fundamental de la conciencia (la sentiencia) se identifica como una estructura intrínsecamente temporoespacial resultante de la actividad espontánea del cerebro.",
+    "ontological_status": "Fisicalismo No Reductivo",
+    "mind_body_relationship": "Los estados conscientes se conciben en términos espaciotemporales dinámicos, complementando y ampliando su caracterización cognitiva sin reducir lo mental a lo físico. Los rasgos mentales se consideran anidados dentro de la actividad del cerebro.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "No Reducción Metodológica. (Justificación: el enfoque explícito consiste en mantener la irreducibilidad de los conceptos mentales al tiempo que se afirma una base física, en consonancia con los objetivos filosóficos del fisicalismo no reductivo).",
+    "subjectivity_and_intentionality": "El enfoque metodológico está orientado a proporcionar una comprensión de la subjetividad de la conexión cerebro-mente. Rasgos mentales como la intencionalidad se consideran aspectos desprendidos de la realidad temporoespacial dinámica y compleja subyacente del cerebro.",
+    "qualia_account": "Explica la capacidad de sentir, definida como 'sentiencia', una dimensión básica y fundamental de la conciencia que surge de la integración por parte del cerebro de las entradas del cuerpo y del entorno dentro de su matriz temporoespacial.",
+    "ontological_commitments": "La actividad cerebral, las relaciones espaciotemporales (escalas anidadas) y la capacidad funcional para la sentiencia.",
+    "epistemic_access": "Se accede mediante una conexión sistemática y bilateral entre conceptos teóricos y datos cerebrales empíricos. Se centra en el análisis de la actividad y la estructura cerebrales (neurociencia espaciotemporal) más que en las relaciones típicas de entrada-salida.",
+    "constituents_and_structure": "Mecanismos temporoespaciales que estructuran la actividad espontánea del cerebro, organizados como escalas anidadas (como muñecas rusas) dentro de la matriz cerebral en curso."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Sentiencia (capacidad de sentir), y la forma/estructura/organización de la conciencia.",
+    "distinctive_mechanism_or_principle": "La estrategia metodológica de vincular modelos conceptuales con datos empíricos de manera no reductiva y sistemática. Mecánicamente, la sentiencia surge de mecanismos neuroecológicos y neurovisceralmente específicos que son intrínsecamente temporoespaciales.",
+    "dynamics_of_emergence": "La conciencia es un proceso dinámico que surge de la integración continua de entradas ambientales y corporales dentro de la matriz temporoespacial en curso del cerebro, dando lugar a una secuencia de diferentes estados metaestables.",
+    "location_and_distribution": "Se localiza en mecanismos neuroecológicos y neurovisceralmente específicos, derivados de la actividad espontánea del cerebro.",
+    "causation_and_functional_role": "El papel funcional de este modelo es metodológico, proporcionando una estrategia sistemática para comprender mejor la conexión cerebro-mente. La sentiencia subyacente proporciona la capacidad básica de sentir y es mediada por mecanismos temporoespaciales.",
+    "integration_or_binding": "La integración de diferentes entradas provenientes del cuerpo y el entorno ocurre dentro de la matriz temporoespacial en curso del cerebro para generar la sentiencia.",
+    "information_flow_or_representation": "La información se analiza a través de su relación y estructura espaciotemporal, enfatizando la actividad cerebral más que la relación entrada-cognición-salida de la ciencia cognitiva.",
+    "evolutionary_account": "No se aborda explícitamente. (Justificación: la descripción principal se centra en la metodología y los mecanismos actuales, no en el desarrollo filogenético).",
+    "core_claims_and_evidence": [
+      "El enfoque requiere una vinculación sistemática entre conceptos teóricos y datos cerebrales empíricos para obtener conocimientos válidos sobre la conexión cerebro-mente.",
+      "La sentiencia surge mediante mecanismos temporoespaciales intrínsecos relacionados con la actividad espontánea del cerebro.",
+      "Los rasgos mentales se conceptualizan como escalas pequeñas y desprendidas, anidadas dentro de la actividad espaciotemporal más amplia del cerebro."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico (marco metodológico) y Empírico (derivado de la investigación en neurociencia espaciotemporal)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Comprobable empírica y conceptualmente, ya que se define como una estrategia metodológica aplicada a datos de neurociencia espaciotemporal.",
+    "known_empirical_interventions_or_tests": "Estudios que emplean neurociencia espaciotemporal, centrados en analizar la actividad cerebral, la estructura y las relaciones espaciotemporales.",
+    "criticisms_and_tensions": "No se enumeran críticas explícitas contra esta teoría en particular, aunque busca disolver problemas filosóficos generales como el problema mente-cuerpo desplazando el foco hacia la relación mundo-cerebro.",
+    "open_questions_and_limitations": "Se requiere mayor detalle sobre cómo se anidan las diferentes escalas espaciotemporales y cómo esto captura de manera integral los rasgos mentales.",
+    "ontological_coherence": "Altamente coherente dentro de los parámetros del Fisicalismo No Reductivo, argumentando que su metodología permite estudiar el dominio mental subjetivo junto a los hechos físicos objetivos sin una reducción forzada."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Al ser un enfoque fisicalista no reductivo, la conciencia está ligada a la instanciación de dinámicas complejas específicas (mecanismos temporoespaciales); si estas dinámicas pueden replicarse artificialmente, la conciencia en la IA debería ser posible."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoría se fundamenta en mecanismos físicos del cerebro (actividad neuroecológica, neurovisceral, matriz espontánea). El cese de estos procesos físicos implica el cese de la estructura consciente emergente (sentiencia)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incierto",
+      "rationale": "La teoría es principalmente metodológica, centrada en la mecánica y la estructura de la conciencia más que en un sentido cósmico último. Sin embargo, su postura no reductiva es compatible con afirmar un sentido y un valor que surgen de la subjetividad."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Si la conciencia emerge de dinámicas espaciotemporales complejas y no reductivas, entonces existe la posibilidad teórica de que una replicación y carga perfectas de estos patrones complejos preserven exitosamente el yo consciente en primera persona, en consonancia con los aspectos funcionalistas implícitos en esta categoría."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Northoff’s Temporo-Spatial Sentience",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Body Problem",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why is there Sentience? G. Northoff",
+        "year": 2021
+      },
+      {
+        "title_with_names": "My way to non-reductive neurophilosophy, G. Northoff",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Spatiotemporal neuroscience – what is it and why we need it, G. Northoff et al.",
+        "year": 2020
+      }
+    ]
+  }
+}

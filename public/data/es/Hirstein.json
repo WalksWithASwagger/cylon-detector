@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "La Fusión de Mentes de Hirstein",
+    "summary": "William Hirstein sostiene que el principal obstáculo que impide una explicación física directa de la mente consciente es la infundada 'suposición de privacidad'. Al eliminar este supuesto metafísico —la idea de que una persona nunca puede experimentar los estados conscientes de otra— se socava la motivación para crear dualismos, panpsiquismos y teorías que afirman la insolubilidad del problema.",
+    "associated_thinkers": ["William Hirstein"],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "La conciencia explicada al rechazar la privacidad metafísica",
+    "classification_tags": [
+      "privacy",
+      "physicalism",
+      "neuroscience",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es un fenómeno físico explicable en términos físicos directos, siempre que se descarte la premisa filosófica falsa de una privacidad intrínseca.",
+    "ontological_status": "Fisicalismo / Fisicalismo Reductivo (Inferido: la teoría busca contrarrestar las ontologías no fisicalistas argumentando a favor de una explicación plenamente física, y se clasifica dentro del Materialismo).",
+    "mind_body_relationship": "Identidad (Inferido: al pretender explicar la mente consciente en 'términos directamente físicos', la teoría respalda fundamentalmente una postura de identidad mente-cerebro, superando las barreras conceptuales que motivan el dualismo).",
+    "primitive_or_emergent_status": "Emergente (Inferido: como teoría Materialista/Neurobiológica, se presupone que la conciencia surge de complejos procesos físicos subyacentes en lugar de ser fundamental).",
+    "emergence_type": "Emergencia Débil o Reducción (Justificación: el objetivo es mostrar que la conciencia puede explicarse física y completamente, lo que indica que las propiedades son reducibles o débilmente emergentes en principio).",
+    "subjectivity_and_intentionality": "Se concibe la subjetividad como plenamente compatible con una explicación fisicalista una vez que se rechaza la 'suposición de privacidad', que crea la ilusión de una distancia metafísica.",
+    "qualia_account": "El carácter cualitativo de la conciencia queda fundamentalmente explicado dentro de una explicación fisicalista, una vez que se disuelve la necesidad conceptual de explicaciones no físicas (impulsada por la suposición de privacidad).",
+    "ontological_commitments": "Procesos físicos y mecanismos neurobiológicos (Inferido: la teoría se ubica dentro de la categoría del Materialismo, lo que sugiere que la realidad física, específicamente el cerebro, es el sustrato).",
+    "epistemic_access": "Principalmente a través de la investigación científica y neurobiológica objetiva, en tercera persona, respaldada por la constatación filosófica de que la aparente dificultad de acceder en primera persona a los estados de otros no constituye una barrera metafísica.",
+    "constituents_and_structure": "Mecanismos y estructuras neuronales (Inferido a partir de su clasificación dentro de las Teorías Neurobiológicas)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica (el enfoque consiste en explicar la naturaleza de la mente consciente en términos que refutan las teorías no fisicalistas, que a menudo se centran en los qualia y la subjetividad).",
+    "distinctive_mechanism_or_principle": "El rechazo o la refutación de la 'suposición de privacidad' conceptual es el principio explicativo central, que permite resolver la mente consciente mediante una explicación física estándar.",
+    "dynamics_of_emergence": "El mecanismo es implícitamente neurobiológico y dinámico, en consonancia con otras teorías de su categoría. Las dinámicas específicas no se detallan en las fuentes proporcionadas.",
+    "location_and_distribution": "Localizada en el cerebro (Inferido a partir de su clasificación como Teoría Materialista Neurobiológica).",
+    "causation_and_functional_role": "La conciencia posee una eficacia causal compatible con la causación física, ya que la teoría pretende ofrecer una explicación 'directamente física' que derrota al dualismo.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Se supone implícitamente que el flujo/procesamiento de información es la base de la conciencia, en consonancia con otras teorías Materialistas, una vez eliminadas las barreras conceptuales.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La 'suposición de privacidad' (la imposibilidad metafísica de compartir estados conscientes) conduce falsamente a teorías no fisicalistas de la conciencia.",
+      "La mente consciente puede explicarse en términos directamente físicos si se superan errores conceptuales como la suposición de privacidad."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (crítica de las barreras metafísicas) y Neurobiológica/Empírica inferida (como base para la explicación positiva 'directamente física')."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable, ya que la afirmación principal se basa en refutar una premisa filosófica (la 'suposición de privacidad'). La comprobabilidad empírica depende del éxito de la teoría fisicalista implícita subsiguiente.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La crítica principal probablemente se centraría en si el simple hecho de identificar la 'suposición de privacidad' como el error basta realmente para cerrar la brecha explicativa y ofrecer una explicación física completa y detallada de la conciencia.",
+    "open_questions_and_limitations": "La teoría debe, en última instancia, presentar la descripción física positiva detallada que explique la conciencia (por ejemplo, correlatos o mecanismos neuronales específicos) una vez eliminado el obstáculo filosófico.",
+    "ontological_coherence": "Altamente coherente con los marcos ontológicos fisicalistas y materialistas, ya que su objetivo es demostrar explícitamente la suficiencia de las explicaciones físicas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Dado que la teoría busca una explicación 'directamente física' de la conciencia y se clasifica como Materialismo, no existe una prohibición de principio para crear una IA consciente."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoría es un modelo Materialista que pretende derrotar los dualismos. El materialismo sostiene que la conciencia es únicamente producto del cerebro biológico, lo que implica que cesa con la muerte biológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanístico",
+      "rationale": "Las Teorías Materialistas generalmente afirman que, si bien los seres humanos pueden crear sentido y valor para sí mismos, no existe un sentido o propósito cósmico último."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Si la conciencia es totalmente explicable en términos físicos (como argumenta Hirstein), entonces cargar los patrones y vías neuronales completos de una persona debería, en principio, preservar el yo mental en primera persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "Crítica" },
+      { "name": "Panpsychisms", "relationship": "Crítica" },
+      { "name": "Mind-Brain Identity Theory", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
+        "year": 2012
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id_and_class": {
+    "theory_title": "Koch Compara la Teoría de la Información Integrada con el Panpsiquismo",
+    "summary": "Esta entrada expone la comparación de Christof Koch entre la Teoría de la Información Integrada (IIT) y el Panpsiquismo, argumentando que ambas comparten la intuición de que la conciencia es una propiedad intrínseca y fundamental de la realidad. Sin embargo, la IIT se presenta como superior porque articula criterios específicos (cuantificados por Phi, $Phi$) para la conciencia, resuelve el problema de la combinación mediante el Postulado de Exclusión, y ofrece un programa de investigación empírico concreto, a diferencia del panpsiquismo tradicional.",
+    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
+    "category": "Teoría de la Información Integrada",
+    "subcategory": "Comparación/Crítica",
+    "core_identity_tagline": "IIT: Una Teoría Fundamentalmente Consciente que Resuelve el Problema de la Combinación del Panpsiquismo",
+    "classification_tags": [
+      "iit",
+      "panpsychism",
+      "intrinsic",
+      "fundamental",
+      "comparison"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como poder causal intrínseco desplegado, lo cual es fundamentalmente similar a la visión del panpsiquismo de la conciencia como algo intrínseco, pero especificado matemáticamente como una estructura conceptual máximamente irreducible (estructura-$Phi$).",
+    "ontological_status": "Panpsiquista/Monista (Justificación: la comparación se apoya en la premisa compartida de que la conciencia es intrínseca y fundamental a la realidad, alineando conceptualmente a la IIT con el panpsiquismo, aunque la IIT especifica criterios matemáticos estrictos que el panpsiquismo tradicional no posee.)",
+    "mind_body_relationship": "Identidad Explicativa (la experiencia es idéntica a una estructura-$Phi$ desplegada a partir del sustrato físico). La relación es intrínseca, no requiere dualismo ni emergencia, pero exige una configuración física específica.",
+    "primitive_or_emergent_status": "Fundamental",
+    "emergence_type": "Ninguno (Justificación: Koch argumenta que la IIT no deja espacio para la emergencia, en consonancia con la naturaleza fundamental de la conciencia.)",
+    "subjectivity_and_intentionality": "La subjetividad (experiencia) es la estructura conceptual máximamente irreducible (estructura-$Phi$), la cual es inherentemente para sí misma. La intencionalidad corresponde a subestructuras (pliegues-$Phi$) dentro de esta estructura.",
+    "qualia_account": "La IIT ofrece una explicación matemática detallada de cómo la fenomenología (aspectos cualitativos) puede ser capturada mediante consideraciones cuantitativas (poderes causales intrínsecos), contrarrestando a quienes critican que los marcos cuantitativos no pueden capturar la cualidad. Los qualia son idénticos a las estructuras conceptuales máximamente irreducibles (estructura-$Phi$) en el espacio de qualia.",
+    "ontological_commitments": "Propiedad intrínseca y fundamental de la realidad; poder causa-efecto; estructuras conceptuales (estructuras-$Phi$) que existen en el espacio de qualia; sustratos físicos de la conciencia (PSC).",
+    "epistemic_access": "Accesible mediante la comprobabilidad científica, el modelado matemático riguroso (medición de $Phi$), y fundamentada en la fenomenología de la experiencia (axiomas).",
+    "constituents_and_structure": "La conciencia es una estructura conceptual máximamente reducida (una forma vista desde dentro) en un 'espacio de qualia' cuasi-dimensional, determinada por la estructura causa-efecto de un sistema físico."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Cualidad/Qualia, Integración/Unidad, Especificidad/Información",
+    "distinctive_mechanism_or_principle": "El Postulado de Exclusión: este dictamen especifica qué agregado de entidades (por ejemplo, neuronas) existe como una entidad consciente unitaria al poseer una cantidad máxima de información integrada ($Phi$). Este mecanismo resuelve el problema de la combinación del panpsiquismo.",
+    "dynamics_of_emergence": "Propiedad Estática (Justificación: la conciencia es una propiedad intrínseca de configuraciones específicas, no un flujo dinámico o un proceso como la computación. El foco está en la estructura/existencia.)",
+    "location_and_distribution": "La conciencia está graduada y ampliamente distribuida (intuición compartida con el panpsiquismo); en el cerebro, se localiza en la estructura causal máximamente integrada (por ejemplo, la corteza posterior).",
+    "causation_and_functional_role": "La entidad intrínseca (la conciencia) posee poder causa-efecto y puede restringir su pasado y futuro. Se afirma que la IIT explica por qué la conciencia es adaptativa, algo que el panpsiquismo tradicional no logra.",
+    "integration_or_binding": "La integración es un axioma de la conciencia, que exige que la experiencia sea unificada e irreducible. El Postulado de Exclusión determina qué todos integrados cuentan como entidades conscientes unitarias.",
+    "information_flow_or_representation": "La conciencia es una propiedad teórico-informacional de los sistemas. La cantidad de conciencia se cuantifica mediante la información integrada ($Phi$), que caracteriza la irreducibilidad del sistema.",
+    "evolutionary_account": "La capacidad de la conciencia de ser adaptativa (que proporciona una ventaja selectiva) se presenta como una superioridad de la IIT frente al panpsiquismo, el cual generalmente tiene dificultades para justificar la relevancia funcional de la conciencia fundamental.",
+    "core_claims_and_evidence": [
+      "La IIT resuelve el problema de la combinación al articular qué sistemas son conscientes ($Phi$ máximo) mediante el postulado de exclusión.",
+      "La IIT ofrece un programa de investigación conceptual y potencialmente empírico, a diferencia del panpsiquismo tradicional.",
+      "La conciencia es estructura, no función ni computación; las computadoras digitales no pueden ser sintientes debido a su información integrada insignificante.",
+      "La IIT ofrece una prueba de principio de cómo las cualidades primarias cuantitativas se corresponden con cualidades secundarias (fenomenales)."
+    ],
+    "basis_of_belief_or_evidence_type": "Fenomenológico, Matemático, Científico (fundamento axiomático que conduce a proposiciones comprobables)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable (Koch enfatiza que la IIT ofrece un programa de investigación empírico calculando $Phi$ y poniendo a prueba predicciones específicas.)",
+    "known_empirical_interventions_or_tests": [
+      "Cálculo de $Phi$ para redes neuronales específicas en el cerebro humano (por ejemplo, la corteza visual)",
+      "Datos de neuroimagen que correlacionan el cálculo de $Phi$ con estados de conciencia (por ejemplo, durante la anestesia)",
+      "Experimentos de colaboración adversarial que ponen a prueba predicciones sobre estructuras causales en la corteza posterior"
+    ],
+    "criticisms_and_tensions": "La IIT es criticada por hacer predicciones contrarias al sentido común (atribuyendo conciencia a objetos simples) y ha sido calificada de 'pseudociencia' por un grupo considerable de investigadores. Los críticos consideran que los resultados de las pruebas empíricas adversariales son insuficientes para justificar la teoría central.",
+    "open_questions_and_limitations": "La neurociencia empírica que respalda a la IIT sigue siendo rudimentaria, y se desconoce si la estructura hipotética que causa la conciencia ('espacio de qualia') puede ser manipulada por la tecnología.",
+    "ontological_coherence": "Alta (Justificación: la IIT afirma con fuerza su consistencia interna, sosteniendo que no deja espacio para la emergencia ni el dualismo al definir la experiencia fenomenal como idénticamente vinculada a la estructura-$Phi$ máximamente irreducible y a la existencia física operacionalmente mediante el poder causa-efecto. La IIT se distancia del panpsiquismo al imponer criterios estrictos.)"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "Koch argumenta que la IIT discrepa fundamentalmente de la visión funcionalista necesaria para la conciencia de la IA, afirmando que las computadoras digitales nunca serán sintientes porque la estructura de su hardware resulta en una información integrada ($Phi$) insignificante, sin importar su potencia computacional o inteligencia."
+    },
+    "survival_beyond_death": {
+      "stance": "Incierto",
+      "rationale": "La supervivencia depende de la naturaleza desconocida y de la manipulabilidad tecnológica de la estructura no reducible de la realidad (espacio de qualia) postulada por la IIT. Aunque no se descarta alguna forma de persistencia, la supervivencia en primera persona es una cuestión abierta."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incierto",
+      "rationale": "Aunque las especulativas e innumerables estructuras de dimensión n de la IIT son lo bastante novedosas como para suspender el juicio respecto al sentido último, la medición y el análisis centrales de la conciencia que transmite la teoría no ofrecen un sentido, propósito o valor último."
+    },
+    "virtual_immortality": {
+      "stance": "Incierto",
+      "rationale": "El mind-uploading es imposible si la conciencia es una estructura asociada a la física de sistemas complejos (como sostiene la IIT) en lugar de un mero algoritmo. La carga resultaría en un 'deepfake' carente de experiencia subjetiva, a menos que una tecnología avanzada pueda manipular la estructura-$Phi$ que causa la conciencia."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsiquismo",
+        "relationship": "Intuición Compartida/Crítica"
+      },
+      {
+        "name": "Funcionalismo Computacional",
+        "relationship": "Crítica (conciencia no computable)"
+      },
+      {
+        "name": "El Error de Galileo (Philip Goff)",
+        "relationship": "Crítica (Koch contradice la afirmación de Goff de que los aspectos cualitativos no pueden ser capturados por marcos cuantitativos.)"
+      },
+      {
+        "name": "Teoría del Espacio de Trabajo Global",
+        "relationship": "Contraste (implícito, respecto a la ubicación y la necesidad de la recurrencia/difusión global)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reflections of a natural scientist on panpsychism, Christof Koch",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t be Computed, Christof Koch",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Then I Am Myself the World: What Consciousness Is and How to Expand It, Christof Koch",
+        "year": 2024
+      },
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Masafumi Oizumi, Larissa Albantakis, Giulio Tononi",
+        "year": 2014
+      }
+    ]
+  }
+}

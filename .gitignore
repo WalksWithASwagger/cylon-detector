@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 /src/data/THEORY.md
+TECHNICAL_DOCUMENTATION.md
+GITHUB_LINK_GUIDE.md
+CLAUDE.md
 
 # Editor directories and files
 .vscode/*

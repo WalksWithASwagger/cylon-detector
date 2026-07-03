@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "La valeur fonctionnelle selon Cleeremans et Tallon-Baudry",
+    "summary": "Cette théorie suggère que la conscience phénoménale a évolué parce qu'elle confère une valeur fonctionnelle en ajoutant un degré de liberté crucial au comportement fondé sur la récompense. Elle propose que l'expérience subjective agit comme une « monnaie mentale » qui attribue une valeur intrinsèque aux états conscients, permettant la comparaison et l'unification d'expériences diverses.",
+    "associated_thinkers": [
+      "Axel Cleeremans",
+      "Catherine Tallon-Baudry"
+    ],
+    "category": "Théories du Matérialisme",
+    "subcategory": "Évolution Phylogénétique",
+    "core_identity_tagline": "La conscience comme valeur fonctionnelle et monnaie mentale",
+    "classification_tags": [
+      "functionalism",
+      "evolution",
+      "phenomenal worthiness",
+      "intrinsic value"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience phénoménale est identifiée comme possédant une valeur fonctionnelle intrinsèque, agissant comme une monnaie mentale qui dote les états conscients d'une valeur en vue de l'optimisation comportementale.",
+    "ontological_status": "Matérialisme",
+    "mind_body_relationship": "La conscience est un trait biologique évolué, lié à la machinerie neuronale régissant le comportement fondé sur la récompense. La relation vise à réduire le problème difficile à un problème de fonction.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "La subjectivité résulte de la nécessité d'un espace commun, centré sur le sujet, requis pour comparer et évaluer des expériences diverses (la « monnaie mentale »). L'intentionnalité est implicitement liée au comportement orienté vers un but, fondé sur la récompense.",
+    "qualia_account": "Les qualia (l'expérience phénoménale) sont expliqués fonctionnellement par le fait de posséder une valeur intrinsèque, ce qui permet de réduire le problème difficile à un problème de fonction.",
+    "ontological_commitments": "Les mécanismes biologiques soutenant le comportement fondé sur la récompense ; des systèmes capables de comparer et d'évaluer des états internes.",
+    "epistemic_access": "Accessible par l'étude de la manière dont l'expérience phénoménale procure une valeur fonctionnelle dans la prise de décision, la recherche sur les émotions, et la recherche sur la conscience.",
+    "constituents_and_structure": "Un espace commun centré sur le sujet, résultant de la machinerie sélectionnée par l'évolution du comportement fondé sur la récompense."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal, valeur fonctionnelle, expérience unifiée",
+    "distinctive_mechanism_or_principle": "L'hypothèse de la dignité phénoménale (« phenomenal worthiness ») postule que la conscience a évolué en attribuant une valeur intrinsèque (une « monnaie mentale ») aux expériences, permettant la comparaison croisée de besoins très différents et l'optimisation de la prise de décision dans des contextes fondés sur la récompense.",
+    "dynamics_of_emergence": "La conscience est apparue par l'évolution phylogénétique et la sélection, ajoutant un degré de liberté important à la machinerie existante du comportement fondé sur la récompense.",
+    "location_and_distribution": "Localisée chez les organismes possédant la machinerie biologique nécessaire pour l'apprentissage fondé sur la récompense et la comparaison de valeurs intrinsèques.",
+    "causation_and_functional_role": "La conscience joue un rôle actif et causal. Sa fonction est de fournir une monnaie commune (une valeur intrinsèque) pour comparer des états subjectifs divers, potentiellement concurrents, afin d'optimiser le comportement.",
+    "integration_or_binding": "L'unification est réalisée du fait que l'expérience phénoménale se loge dans un espace commun centré sur le sujet, qui facilite la comparaison simultanée de toutes les valeurs intrinsèques.",
+    "information_flow_or_representation": "Des flux d'information représentant des expériences diverses sont traités et se voient attribuer une valeur intrinsèque (la dignité phénoménale) en vue de la comparaison et de la régulation du comportement.",
+    "evolutionary_account": "La conscience a évolué et a été sélectionnée parce qu'elle procure un avantage fonctionnel en ajoutant un degré de liberté au comportement fondé sur la récompense, optimisant la survie et l'exploration.",
+    "core_claims_and_evidence": [
+      "La conscience phénoménale possède une valeur fonctionnelle, rejetant la vision épiphénoméniste classique.",
+      "La conscience a évolué parce qu'elle confère un degré de liberté important au comportement fondé sur la récompense.",
+      "L'expérience phénoménale agit comme une « monnaie mentale » permettant la comparaison unifiée d'états internes divers."
+    ],
+    "basis_of_belief_or_evidence_type": "Évolutif, fonctionnel/neuroscientifique, philosophique (réduction à la fonction)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable",
+    "known_empirical_interventions_or_tests": "Des mesures étudiant la relation entre les rapports subjectifs de valeur intrinsèque, l'unification de l'expérience, et la prise de décision dans des contextes fondés sur la récompense.",
+    "criticisms_and_tensions": "Les non-matérialistes critiquent cette théorie pour sa tentative de réduire le problème difficile à un problème de fonction, jugeant cela inadéquat pour expliquer l'aspect qualitatif de l'expérience elle-même.",
+    "open_questions_and_limitations": "La principale limite est de fournir une explication mécanistique de la raison pour laquelle la valeur fonctionnelle procure un ressenti, plutôt que de simplement affirmer que ce ressenti a une utilité fonctionnelle.",
+    "ontological_coherence": "Hautement cohérente au sein d'une ontologie matérialiste, dans la mesure où elle vise à réduire l'expérience phénoménale à une propriété biologique empiriquement évoluée et fonctionnellement bénéfique."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "En tant que théorie matérialiste centrée sur la fonction et les mécanismes évolués, si la machinerie permettant l'évaluation intrinsèque et la comparaison (la monnaie mentale) peut être réalisée dans des substrats artificiels, la conscience de l'IA est possible."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience est une propriété évoluée de la machinerie biologique, liée aux nécessités fonctionnelles de l'organisme, ce qui s'accorde avec le rejet matérialiste de la survie post-mortem."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "La conscience remplit une fonction adaptative et biologique (l'optimisation du comportement fondé sur la récompense), n'impliquant aucun sens cosmique ultime, ce qui s'accorde avec le Matérialisme."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Compte tenu de ses fortes racines fonctionnalistes au sein du Matérialisme, l'immortalité virtuelle serait atteignable en principe si les dynamiques fonctionnelles et les mécanismes responsables de l'attribution de valeur intrinsèque pouvaient être dupliqués de manière non biologique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Top-Down Predictive Theories",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness matters: phenomenal experience has functional value, Axel Cleeremans, Catherine Tallon-Baudry",
+        "year": 2022
+      }
+    ]
+  }
+}

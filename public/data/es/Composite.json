@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría Compuesta",
+    "summary": "Esta teoría, clasificada dentro de los Dualismos, postula en general que la persona humana es una entidad compuesta formada por dos elementos distintos pero íntimamente unificados, típicamente un alma/forma inmaterial y un cuerpo material. Busca evitar la separación radical del dualismo cartesiano mientras mantiene la irreducibilidad de la conciencia, argumentando que el alma actúa como la forma sustancial del cuerpo.",
+    "associated_thinkers": [],
+    "category": "Dualisms",
+    "subcategory": "Composite Dualism",
+    "core_identity_tagline": "La Conciencia como Compuesto Unificado de Alma/Cuerpo",
+    "classification_tags": [
+      "dualism",
+      "composite",
+      "hylomorphism",
+      "immaterial"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como la actividad o función de la entidad compuesta (el cuerpo animado por el alma), que surge de la forma no material (alma) realizada en los componentes materiales. (Inferido a partir de su clasificación dentro de los Dualismos y su proximidad al Dualismo Tomista en las fuentes)",
+    "ontological_status": "Dualismo (Compuesto/Hilemórfico)",
+    "mind_body_relationship": "La mente (alma) es la forma sustancial del cuerpo, creando un compuesto unificado. Esta relación es íntima y no cartesiana, en la que la forma es necesaria para que el cuerpo vivo sea lo que es.",
+    "primitive_or_emergent_status": "Primitivo (el alma/forma es fundamental para la composición de la persona, que es la entidad consciente).",
+    "emergence_type": "La teoría se centra en la unidad estructural de la sustancia compuesta más que en la emergencia en el sentido fisicalista reduccionista. La forma inmaterial es un principio de organización irreducible.",
+    "subjectivity_and_intentionality": "La subjetividad reside en la naturaleza irreducible en primera persona del alma/forma, que está indivisiblemente unificada, lo que permite contenidos de pensamiento determinados e intencionales.",
+    "qualia_account": "Los qualia se explican como los rasgos cualitativos que surgen de la actividad del compuesto unificado alma-cuerpo, que no puede reducirse a descripciones físicas puramente cuantitativas.",
+    "ontological_commitments": "Alma/forma inmaterial; cuerpo material; una única entidad compuesta unificada (la persona).",
+    "epistemic_access": "Accesible tanto mediante la observación en tercera persona de los procesos del cuerpo físico como mediante la introspección necesaria en primera persona de las actividades/forma mentales.",
+    "constituents_and_structure": "Una única sustancia unificada (la persona) compuesta de dos principios fundamentalmente diferentes, pero integrados: un alma/forma inmaterial/configuracional y componentes materiales (cuerpo)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Autoconciencia, Agencia (como actividad de la entidad compuesta unificada).",
+    "distinctive_mechanism_or_principle": "El alma/forma actúa como el principio organizador (forma) que actualiza las capacidades del cuerpo material, resultando en actividad consciente [Inferido a partir de conceptos relacionados en 7.5].",
+    "dynamics_of_emergence": "La conciencia se entiende como una actividad dinámica del compuesto animado por el alma, más que como una propiedad estática.",
+    "location_and_distribution": "Localizada en el cuerpo u organismo vivo unificado.",
+    "causation_and_functional_role": "La actividad mental/alma informa y anima al cuerpo, proporcionando una influencia causal de arriba hacia abajo esencial para la agencia y las funciones cognitivas unificadas.",
+    "integration_or_binding": "La mente/alma proporciona inherentemente la unidad de la conciencia, ya que funciona como la forma sustancial de todo el cuerpo/persona.",
+    "information_flow_or_representation": "Involucrada implícitamente, ya que las actividades mentales requieren representación, pero la estructura compuesta garantiza fundamentalmente la unidad consciente indivisible.",
+    "evolutionary_account": "No queda claro a partir de las fuentes proporcionadas; en general, la inclusión de un componente no material irreducible sugiere que el alma/forma no es puramente un producto de los mecanismos darwinianos estándar.",
+    "core_claims_and_evidence": [
+      "La unidad de la conciencia no puede explicarse únicamente mediante un agregado de partes físicas del cerebro.",
+      "El alma (forma) informa al cuerpo físico, haciendo que la persona humana sea una realidad sustancial unificada.",
+      "La evidencia conceptual se basa en refutar la suficiencia del materialismo reduccionista para dar cuenta de la naturaleza cualitativa del pensamiento."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, Metafísico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable (mediante argumentación filosófica); empíricamente especulativa, ya que la forma no material es difícil de verificar mediante métodos en tercera persona.",
+    "known_empirical_interventions_or_tests": "Se basa en refutar las brechas explicativas de las teorías puramente físicas (p. ej., argumentos concernientes a los qualia o la unidad del yo). (No se enumeran pruebas empíricas positivas específicas en las fuentes para esta entrada.)",
+    "criticisms_and_tensions": "Enfrenta el problema de la causación mental: explicar cómo la forma no física interactúa causalmente con el mundo físico sin violar la clausura causal de la física.",
+    "open_questions_and_limitations": "La estructura precisa y las leyes que gobiernan el alma/forma no material y su interacción con el componente físico siguen siendo desconocidas.",
+    "ontological_coherence": "Internamente coherente, ya que postula a la persona como una única sustancia unificada (evitando los problemas del dualismo de sustancias cartesiano), pero entra en conflicto fundamental con las ontologías fisicalistas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "Si la conciencia requiere un alma/forma/componente no físico específico (que no se genera automáticamente mediante la computación), los sistemas artificiales basados únicamente en mecanismos físicos no pueden lograr una verdadera conciencia interior."
+    },
+    "survival_beyond_death": {
+      "stance": "Sí",
+      "rationale": "El alma/forma inmaterial es capaz de subsistir o existir con independencia del cuerpo material tras la muerte, apoyando la supervivencia post mortem."
+    },
+    "meaning_and_purpose": {
+      "stance": "Sí",
+      "rationale": "Los dualismos a menudo respaldan un sentido/propósito/valor último, frecuentemente relacionado con el componente no material y potencialmente con marcos teológicos."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Duplicar los procesos físicos del cerebro sería insuficiente, ya que el componente no físico necesario (el alma/forma) está ausente en una carga puramente digital."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "Contraste (el Dualismo Compuesto enfatiza la unidad más que la separación estricta de dos entidades distintas)"
+      },
+      {
+        "name": "Stump’s Thomistic Dualism",
+        "relationship": "Superposición (a menudo considerado el marco filosófico clásico para esta visión compuesta)"
+      },
+      {
+        "name": "Feser’s Neo-Thomistic Dualism",
+        "relationship": "Superposición (Feser aboga por una estructura compuesta neoaristotélica/neotomista)"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Compatible (ambas mantienen la irreducibilidad, pero el Dualismo Compuesto a menudo trata la forma no material como más fundamental que emergente de la complejidad)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualisms (Section 15)",
+        "year": ""
+      },
+      {
+        "title_with_names": "Stump’s Thomistic Dualism [Description of the soul as an essentially immaterial/configurational state realized in material components]",
+        "year": 1995
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "La Mente en la Vida de Thompson",
+    "summary": "Esta teoría postula una continuidad profunda entre la vida y la mente, afirmando que los rasgos autoorganizadores y autoproductores de la vida biológica (autopoiesis) son el fundamento de la cognición. La mente se entiende como una versión enriquecida y sintiente de estas propiedades organizativas fundamentales, situada dinámicamente a través del cuerpo y el entorno, no solo del cerebro.",
+    "associated_thinkers": [
+      "Evan Thompson",
+      "Humberto Maturana",
+      "Francisco Varela"
+    ],
+    "category": "Materialism Theories",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "La mente como vida autoorganizadora enriquecida",
+    "classification_tags": [
+      "embodied",
+      "enactive",
+      "autopoiesis",
+      "phenomenology",
+      "dynamic systems"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como los rasgos dinámicos y enriquecidos de la vida (sintiencia) que están corporeizados y situados en el mundo, autoorganizándose.",
+    "ontological_status": "Fisicalismo naturalista (con enfoque corporeizado/enactivo)",
+    "mind_body_relationship": "La vida mental es vida corporal, lo que implica una continuidad ontológica profunda en la que la mente se ramifica a través del cuerpo y el entorno y no es reducible simplemente a procesos cerebrales dentro de la cabeza.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergente (no reductiva/no jerárquica). La mente emerge como una versión enriquecida de los rasgos autoorganizadores de la vida, sin buscar un cierre reductivo de la brecha explicativa.",
+    "subjectivity_and_intentionality": "La subjetividad (la individualidad) se explica desde sus fundamentos dando cuenta de la autonomía propia de los seres vivos y cognitivos. La intencionalidad surge de compensaciones autoorganizadas desencadenadas por perturbaciones, en lugar de representaciones de estados externos.",
+    "qualia_account": "Los qualia están ligados a las dinámicas autoorganizadoras de la acción, la percepción y la emoción, lo que exige relatos fenomenológicos más ricos de la estructura de la experiencia vivida para abordar la brecha explicativa.",
+    "ontological_commitments": "Rasgos autoorganizadores de la vida, organización autopoiética, ecuaciones de sistemas dinámicos y experiencia vivida (fenomenología).",
+    "epistemic_access": "Requiere que los relatos científicos de la mente y la vida se nutran de relatos fenomenológicos más ricos de la experiencia vivida (fenomenología naturalizada).",
+    "constituents_and_structure": "Un núcleo de propiedades formales u organizativas compartidas por la vida y la mente; caracterizado por sistemas dinámicos que describen cambios de estado a lo largo del tiempo como trayectorias en un espacio de estados."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (sintiencia), individualidad, subjetividad, acción, percepción, emoción, conciencia del tiempo.",
+    "distinctive_mechanism_or_principle": "El principio de continuidad profunda entre la vida y la mente, aprovechando la organización autopoiética y la teoría de sistemas dinámicos para explicar la conciencia.",
+    "dynamics_of_emergence": "La conciencia es un fenómeno dinámico e intrínsecamente temporal, donde los estados conscientes son generados por compensaciones autoorganizadas que siguen a perturbaciones en la dinámica intrínseca del sistema.",
+    "location_and_distribution": "La mente está distribuida y situada, con sus raíces ramificándose a través del cuerpo y el entorno, en lugar de confinarse únicamente al cerebro.",
+    "causation_and_functional_role": "La conciencia es crucial para la autonomía de los seres vivos e implica compensaciones autoorganizadas necesarias para mantener la integridad frente a perturbaciones externas.",
+    "integration_or_binding": "Se logra mediante la unidad intrínseca y la organización autoproductora (autopoiética) del sistema vivo, lo que implica un concepto unificado de 'vida-mente'. (No se proporciona en la fuente un mecanismo neuronal específico de vinculación.)",
+    "information_flow_or_representation": "Las entradas se conceptualizan como perturbaciones a la dinámica intrínseca del sistema, más que como instrucciones a seguir o representaciones internas de estados de cosas externos.",
+    "evolutionary_account": "La conciencia emergió como una versión enriquecida de las propiedades autoorganizadoras fundamentales de la vida, sugiriendo una continuidad en la que la transición de lo inanimado a la vida posibilitó la transición de la vida a la mente.",
+    "core_claims_and_evidence": [
+      "La vida y la mente comparten un núcleo de propiedades formales u organizativas.",
+      "La vida mental está corporeizada y situada, extendiéndose más allá de los procesos cerebrales dentro de la cabeza.",
+      "El enfoque explica la individualidad y la subjetividad desde sus fundamentos, dando cuenta de la autonomía propia de los seres vivos y cognitivos.",
+      "La cognición es un fenómeno intrínsecamente temporal expresado en ecuaciones de evolución (enfoque de sistemas dinámicos)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, fenomenológico, biológico (teoría de sistemas dinámicos, autopoiesis)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable e informada empíricamente; depende de alinear los relatos científicos (como los modelos de sistemas dinámicos) con los relatos fenomenológicos.",
+    "known_empirical_interventions_or_tests": "Utiliza explicaciones de sistemas dinámicos caracterizadas por conjuntos de ecuaciones de evolución (marco de modelado conceptual). (No se enumeran paradigmas experimentales canónicos específicos en la fuente.)",
+    "criticisms_and_tensions": "Criticada por los reduccionistas estrictos por no lograr un cierre reductivo de la brecha explicativa; enfrenta el desafío filosófico de naturalizar la fenomenología rica (la experiencia vivida) dentro de un marco científico.",
+    "open_questions_and_limitations": "No pretende cerrar la brecha explicativa en un sentido reductivo, sino enriquecer los recursos para abordarla. La necesidad de relatos fenomenológicos más ricos es un requisito clave.",
+    "ontological_coherence": "Alta. La teoría es internamente consistente dentro de su marco de dinamismo corporeizado y organización continua vida-mente, sirviendo como pilar de la categoría de teorías corporeizadas y enactivas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional/incierto",
+      "rationale": "La conciencia depende de la organización específica y autoproductora (autopoiética) de la vida biológica. Si la IA pudiera instanciar esta propiedad esencial de la vida, y no solo la computación o la simulación, la conciencia podría seguirse."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia está fundamentalmente ligada a las dinámicas autoorganizadoras del cuerpo vivo y biológico situado en el mundo. La disolución de este sistema implica el fin de la entidad consciente."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanístico/emergente",
+      "rationale": "La conciencia proporciona autonomía y agencia a los sistemas vivos, fundamentando el valor intrínseco en la experiencia vivida y autoproductora, en consonancia con el naturalismo, pero sin teleología cósmica derivada de la teoría misma."
+    },
+    "virtual_immortality": {
+      "stance": "Improbable",
+      "rationale": "La mente no es reducible a los procesos cerebrales y la computación por sí solos (dado que la entrada es perturbación, no instrucción). Duplicar la organización autoproductora y profundamente corporeizada de la 'vida-mente' en un sustrato digital probablemente sería imposible."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Enactivism",
+        "relationship": "Componente central"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Frank/Gleiser/Thompson’s “The Blind Spot”",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Process Theory",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Autopoiesis and Cognition: the Realization of the Living, Humberto Maturana and Francisco Varela",
+        "year": 1980
+      },
+      {
+        "title_with_names": "The Blind Spot: Why Science Cannot Ignore Human Experience, Adam Frank, Marcello Gleiser, and Evan Thompson",
+        "year": 2024
+      }
+    ]
+  }
+}

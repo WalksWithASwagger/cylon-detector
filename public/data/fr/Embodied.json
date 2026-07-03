@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "La Cognition Incarnée",
+    "summary": "Ce concept postule que l'esprit est intrinsèquement incarné, ce qui signifie que la structure de la pensée et du sens dépend fondamentalement des systèmes sensorimoteurs du corps et des expériences émotionnelles. Il soutient que le corps et son interaction avec l'environnement font partie intégrante de ce qu'est la conscience, et non simplement de ce qu'elle fait.",
+    "associated_thinkers": [
+      "George Lakoff",
+      "Mark Johnson"
+    ],
+    "category": "Materialism Theories",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "La conscience comme expérience fondamentalement incarnée",
+    "classification_tags": [
+      "embodiment",
+      "sensorimotor",
+      "cognition",
+      "materialism",
+      "non-reductive"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience et la pensée sont identifiées comme des productions signifiantes générées par des circuits neuronaux connectés au corps, caractérisant l'expérience incarnée, où la structure de la pensée provient de la nature du corps.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "L'esprit est profondément incarné ; la structure même des pensées repose sur les systèmes sensorimoteurs et les émotions du corps, étendant le substrat nécessaire de l'esprit au-delà du seul cerveau.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (Inférée, s'agissant d'une théorie matérialiste impliquant que la conscience est réductible en principe, malgré une grande complexité.)",
+    "subjectivity_and_intentionality": "La subjectivité est liée à l'expérience incarnée ; l'intentionnalité (la directionnalité de la pensée) est inhérente à la manière dont les idées abstraites et le langage sont métaphoriquement incarnés par les systèmes sensorimoteurs.",
+    "qualia_account": "Les qualia sont caractérisés par les systèmes sensorimoteurs et émotionnels du corps, qui donnent naissance à l'« expérience incarnée » ou la constituent.",
+    "ontological_commitments": "Circuits neuronaux physiques, systèmes sensorimoteurs du corps, émotions, et métaphores issues de l'expérience corporelle.",
+    "epistemic_access": "Accessible par l'étude des connexions entre les circuits neuronaux, le corps et l'expérience vécue, dans une perspective naturaliste fondée sur la science.",
+    "constituents_and_structure": "Des circuits neuronaux connectés aux systèmes sensorimoteurs et émotionnels du corps, structurant les idées abstraites et le langage de manière métaphorique."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale (en tant que partie intégrante du corps), cognition, idées abstraites, langage, émotions.",
+    "distinctive_mechanism_or_principle": "Le principe selon lequel la pensée est rendue signifiante par des circuits neuronaux connectés au corps, et la structure de nos pensées est déterminée par la nature des systèmes du corps (par exemple, les systèmes sensorimoteurs).",
+    "dynamics_of_emergence": "La conscience est un processus dynamique où les concepts abstraits reposent fortement sur des métaphores de base issues de l'expérience corporelle continue.",
+    "location_and_distribution": "L'esprit est réparti dans l'ensemble des systèmes sensorimoteurs du corps physique, et non simplement localisé dans le cerveau.",
+    "causation_and_functional_role": "Le rôle fonctionnel consiste à fournir une pensée signifiante, la compréhension ne pouvant se produire sans l'engagement des systèmes du corps. La conscience est partie intégrante du fonctionnement adaptatif.",
+    "integration_or_binding": "L'intégration se produit par la connexion unifiée des circuits neuronaux au corps, liant les systèmes sensoriels, moteurs et émotionnels en une expérience incarnée cohérente.",
+    "information_flow_or_representation": "L'information est représentée en grande partie par des métaphores issues de l'expérience corporelle, structurant les concepts abstraits à partir des systèmes sensorimoteurs.",
+    "evolutionary_account": "Non détaillé explicitement dans la source, mais en accord avec la perspective matérialiste selon laquelle la conscience a évolué via des traits sélectionnés, étendant le champ de la sélection à l'interaction corps-environnement.",
+    "core_claims_and_evidence": [
+      "L'esprit est intrinsèquement incarné, allant au-delà du simple besoin trivial d'un cerveau.",
+      "La structure même de nos pensées provient de la nature du corps.",
+      "Les concepts abstraits sont largement métaphoriques, fondés sur l'expérience corporelle."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, linguistique cognitive, empirique (fondé sur le lien entre l'activité neuronale et l'expérience corporelle)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable (Inférée, dans la mesure où elle traite de circuits neuronaux et de systèmes physiologiques mesurables).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Elle est implicitement critiquée par le fait que la cognition et la conscience ne sont pas identiques, ce qui soulève la question de savoir si expliquer la pensée incarnée suffit à expliquer la conscience phénoménale.",
+    "open_questions_and_limitations": "Le moyen précis par lequel la cognition incarnée se traduit en conscience phénoménale, les concepts de cognition et de conscience étant souvent distincts.",
+    "ontological_coherence": "Très cohérente au sein d'une ontologie physicaliste, adoptant en particulier une forme étendue ou non triviale de matérialisme en intégrant le corps tout entier dans la structure de la pensée."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditionnelle",
+      "rationale": "Si la conscience requiert une incarnation spécifique, les systèmes artificiels ne pourraient devenir conscients que si le matérialisme parvient à construire un substrat non biologique reproduisant parfaitement les systèmes corporels et sensorimoteurs nécessaires."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience dépend intimement de l'existence et du fonctionnement du corps biologique et de ses systèmes ; elle ne peut subsister une fois que ces composants physiques cessent de fonctionner."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "En tant que théorie matérialiste, elle s'accorde avec l'idée qu'il n'existe pas de sens cosmique ultime, mais la conscience fournit le fondement permettant de créer un sens et des valeurs autodéterminés."
+    },
+    "virtual_immortality": {
+      "stance": "Incertaine",
+      "rationale": "La duplication requiert de reproduire l'ensemble du système incarné et ses mécanismes sensorimoteurs, ajoutant des ordres de complexité considérables, potentiellement insurmontables, au-delà de la simple réplication de l'activité cérébrale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Enactivism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Projective Consciousness Model (PCM)",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Chevauchement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Philosophy in the Flesh: the Embodied Mind and its Challenge to Western Thought, G. Lakoff and M. Johnson",
+        "year": 1999
+      },
+      {
+        "title_with_names": "How philosophy illuminates the physical world, G. Lakoff",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, and E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, E. Thompson",
+        "year": 2002
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Le panpsychisme fondé sur l'information quantique de Faggin",
+    "summary": "Cette théorie postule que la conscience et le libre arbitre sont des propriétés fondamentales des systèmes quantiques existant dans des états quantiques purs, reposant de manière cruciale sur l'intrication quantique non locale. Elle identifie la conscience comme la réalité intérieure subjective de ces systèmes quantiques, vécue comme des qualia définis et privés.",
+    "associated_thinkers": [
+      "Federico Faggin",
+      "G.M. D’Ariano"
+    ],
+    "category": "Théories quantiques",
+    "subcategory": "Panpsychisme fondé sur l'information quantique",
+    "core_identity_tagline": "La conscience comme information quantique dans des états purs",
+    "classification_tags": [
+      "quantum",
+      "panpsychism",
+      "information",
+      "non-local",
+      "free will"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme la réalité intérieure subjective d'un système quantique dans un état quantique pur, mathématiquement représentée par l'information quantique.",
+    "ontological_status": "Panpsychisme (fondé sur l'information quantique)",
+    "mind_body_relationship": "Double aspect (explication justifiée : l'aspect mental est la réalité subjective privée et qualitative décrite par l'information quantique, qui est une propriété intrinsèque et inséparable de certains systèmes physiques — les états quantiques purs.)",
+    "primitive_or_emergent_status": "Primitif",
+    "emergence_type": "Non applicable (primitif)",
+    "subjectivity_and_intentionality": "La subjectivité est inhérente car un état quantique pur est conscient de son propre état ; cette expérience est intrinsèquement privée. L'intentionnalité, en particulier la créativité et l'imagination, émerge de cette couche quantique non algorithmique fondamentale.",
+    "qualia_account": "Les qualia sont l'expérience subjective directe et non numérique de l'état d'un système quantique, caractérisée par la nature définie et intégrée des états quantiques purs.",
+    "ontological_commitments": "Les systèmes quantiques dans des états quantiques purs, l'information quantique et l'intrication quantique sont des engagements ontologiques fondamentaux, existant dans une couche de réalité régie par la physique quantique.",
+    "epistemic_access": "Déduite conceptuellement en trouvant un isomorphisme entre les propriétés phénoménales de la conscience (confidentialité, caractère défini) et les caractéristiques intrinsèques des états quantiques (non-clonabilité, intégration).",
+    "constituents_and_structure": "L'information quantique et l'intrication sont les blocs constitutifs de base, fournissant la structure définitive et intégrée de la conscience.",
+    "location_and_distribution": "Omniprésente (explication justifiée : en tant que forme de panpsychisme, la conscience ou la proto-conscience est implicitement distribuée à travers la réalité partout où se trouvent des systèmes quantiques dans des états purs.)"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal, libre arbitre, créativité",
+    "distinctive_mechanism_or_principle": "Le mécanisme clé est l'existence de systèmes quantiques dans un état quantique pur, permettant des propriétés non algorithmiques telles que le libre arbitre et la créativité qui ne peuvent exister dans un univers classique et déterministe.",
+    "dynamics_of_emergence": "Processus dynamique (explication justifiée : la conscience permet des actions complexes et créatives comme l'imagination et l'intuition, suggérant un processus dynamique et non déterministe surgissant de la mécanique quantique sous-jacente.)",
+    "location_and_distribution": "Systèmes quantiques dans des états quantiques purs/couche quantique fondamentale",
+    "causation_and_functional_role": "La conscience, par le biais de l'intrication quantique, possède une efficacité causale en construisant des pensées et en générant des propriétés non algorithmiques comme la véritable créativité et le libre arbitre."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculative (explication justifiée : la théorie repose sur un isomorphisme conceptuel entre les propriétés quantiques fondamentales et l'expérience phénoménale, manquant de tests empiriques actuels pour la vérification ou la falsification de son postulat central.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Fait face au scepticisme général dirigé vers les théories quantiques de la conscience par les neuroscientifiques et physiciens traditionnels. Doit résoudre le problème de la combinaison inhérent au panpsychisme — expliquer comment les micro-expériences s'assemblent en une macro-conscience complexe.",
+    "open_questions_and_limitations": "Le mécanisme précis par lequel les états quantiques dans le cerveau (ou tout système complexe) se rapportent à l'émergence d'expériences macro-conscientes spécifiques (le problème de la combinaison) est une limitation reconnue.",
+    "ontological_coherence": "Hautement cohérente en interne, hautement spéculative en externe (explication justifiée : la théorie maintient une cohérence interne en faisant correspondre les axiomes phénoménaux avec les axiomes quantiques mais nécessite un changement fondamental de l'ontologie matérialiste acceptée de la physique.)"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Non",
+      "rationale": "La conscience est fondamentalement non algorithmique et non reproductible, résidant dans une couche quantique inaccessible aux machines déterministes et classiques, quelle que soit leur intelligence."
+    },
+    "survival_beyond_death": {
+      "stance": "Probable",
+      "rationale": "Puisque la conscience est fondée sur des propriétés quantiques fondamentales et non réductibles, il est émis l'hypothèse qu'elle pourrait continuer à exister après la mort du corps biologique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmique/existentiel (explication justifiée : en plaçant la conscience et le libre arbitre non algorithmique à la couche fondamentale de la réalité, l'univers est intrinsèquement créatif et possède des qualités qui impliquent une valeur et un but intrinsèques.)"
+    },
+    "virtual_immortality": {
+      "stance": "Non",
+      "rationale": "Si la conscience est non algorithmique et ne peut être réduite à des mécanismes classiques, elle ne peut pas être parfaitement simulée ou téléversée sur un ordinateur numérique, empêchant l'immortalité virtuelle."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychisms",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "Compatible (orientation quantique)"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Chevauchement (accent sur l'intégration/l'irréductibilité)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Hard problem and free will: an information-theoretical approach, G.M. D’Ariano and Federico Faggin",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Possibilities are quantum, Federico Faggin",
+        "year": 2023
+      }
+    ]
+  }
+}

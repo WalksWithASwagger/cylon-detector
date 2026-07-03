@@ -1,23 +1,31 @@
 import { ChartContainer } from './ChartContainer'
 import { ItemDetailsPanel } from './ItemDetailsPanel'
-import { getChartOptions, getAllTheoryNames, setMobileLabelVisibility, refreshChartData } from '@/config/chartConfig'
+import { ChartLevelBar, type LevelBarItem } from './ChartLevelBar'
+import { getChartOptions, getAllTheoryNames, setMobileLabelVisibility, refreshChartData, baseData, getDisplayLabel } from '@/config/chartConfig'
 import { getTheoryFullName } from '@/data/theoryNames'
-import { Router } from '@/utils/routing'
+import { Router, loadTheoryByName } from '@/utils/routing'
 import { generateSlug } from '@/utils/slugUtils'
 import globalState from '@/utils/globalState'
 import analytics from '@/utils/analytics'
+import { t } from '@/utils/i18n'
 
 export class TheoryChart {
   private chartContainer: ChartContainer
   private itemDetailsPanel: ItemDetailsPanel
+  private levelBar: ChartLevelBar
   private router: Router
   private currentTheoryIndex: number = 0
   private allTheoryNames: string[] = []
+  private currentPath: string[] = []
 
   constructor(containerId: string, router: Router) {
     this.chartContainer = new ChartContainer(containerId)
     this.router = router
     this.itemDetailsPanel = new ItemDetailsPanel('item-details')
+    this.levelBar = new ChartLevelBar('chart-level-bar', {
+      onSelect: (name) => this.selectFromLevelBar(name),
+      onBack: () => this.goBack()
+    })
   }
 
   initialize() {
@@ -27,6 +35,7 @@ export class TheoryChart {
     this.setupChartEvents()
     this.setupResizeHandler()
     this.setupKeyboardNavigation()
+    this.syncLevelBar()
   }
 
   updateData(newOptions: any) {
@@ -49,7 +58,7 @@ export class TheoryChart {
       chart.on('mouseover', (params: any) => {
         if (params.data && tooltip && params.data.parent !== undefined && params.data.parent !== 'Materialism') {
           const fullName = getTheoryFullName(params.data.name)
-          tooltip.textContent = fullName || 'Unknown'
+          tooltip.textContent = fullName || t('misc.unknown')
           tooltip.style.left = params.event.offsetX + 10 + 'px'
           tooltip.style.top = params.event.offsetY - 10 + 'px'
           tooltip.classList.add('visible')
@@ -66,9 +75,7 @@ export class TheoryChart {
         if (params.data && params.data.name) {
           this.handleTheoryClick(params.data)
         } else {
-          setMobileLabelVisibility(false)
-          this.refreshChartWithNewData()
-
+          this.goBack()
         }
       })
     }
@@ -180,7 +187,7 @@ export class TheoryChart {
         setMobileLabelVisibility(true)
         this.refreshChartWithNewData()
       }
-      
+
       const chart = this.chartContainer.getChart()
       if (chart) {
         chart.dispatchAction({
@@ -188,32 +195,25 @@ export class TheoryChart {
           targetNodeId: theoryData.name
         })
       }
-      
+
       this.itemDetailsPanel.hide()
+      this.currentPath.push(theoryData.name)
+      this.syncLevelBar()
       return
     }
-    
+
     setMobileLabelVisibility(false)
 
     const theoryName = theoryData.name
-    const fileName = `${theoryName}.json`
-    const filePath = `/data/${fileName}`
-    fetch(filePath)
-      .then(response => {
-        if (response.ok) {
-          const slug = generateSlug(theoryName)
-          const category = globalState.getTheoryCategory(theoryName) || theoryData.parent?.toLowerCase() || 'neurobiological'
-          
-          // Track page view for theory navigation
-          analytics.trackPageView(theoryName, category, theoryData.parent)
-          
-          this.router.navigateToTheory(category, slug)
-        } else {
-          // Track page view for generic theory display
-          const category = theoryData.parent?.toLowerCase() || 'unknown'
-          analytics.trackPageView(theoryName, category, theoryData.parent)
-          this.itemDetailsPanel.show(theoryData.name)
-        }
+    loadTheoryByName(theoryName, this.router.getCurrentLocale())
+      .then(() => {
+        const slug = generateSlug(theoryName)
+        const category = globalState.getTheoryCategory(theoryName) || theoryData.parent?.toLowerCase() || 'neurobiological'
+
+        // Track page view for theory navigation
+        analytics.trackPageView(theoryName, category, theoryData.parent)
+
+        this.router.navigateToTheory(category, slug)
       })
       .catch(() => {
         // Track page view for error case
@@ -233,6 +233,72 @@ export class TheoryChart {
       (newOptions.series[0] as any).data = refreshChartData()
     }
     this.chartContainer.setOption(newOptions)
+  }
+
+  private getNodeAtPath(path: string[]): any | null {
+    let nodes: any[] = baseData
+    let node: any = null
+    for (const segment of path) {
+      node = nodes.find((n: any) => n.name === segment)
+      if (!node) return null
+      nodes = node.children || []
+    }
+    return node
+  }
+
+  private getChildrenAtPath(path: string[]): any[] {
+    if (path.length === 0) return baseData
+    return this.getNodeAtPath(path)?.children || []
+  }
+
+  private buildLevelBarItems(path: string[]): LevelBarItem[] {
+    return this.getChildrenAtPath(path).map((child: any) => ({
+      name: child.name,
+      label: child.children ? getDisplayLabel(child.name) : (getTheoryFullName(child.name) || child.name),
+      hasChildren: !!child.children
+    }))
+  }
+
+  private syncLevelBar() {
+    const label = this.currentPath.length === 0
+      ? 'Overview'
+      : getDisplayLabel(this.currentPath[this.currentPath.length - 1])
+    this.levelBar.setState(label, this.currentPath.length > 0, this.buildLevelBarItems(this.currentPath))
+  }
+
+  private selectFromLevelBar(name: string) {
+    const node = this.getNodeAtPath([...this.currentPath, name])
+    if (!node) return
+    this.chartContainer.resetZoomPan()
+    this.handleTheoryClick({ ...node, parent: this.currentPath[this.currentPath.length - 1] })
+  }
+
+  private goBack() {
+    if (this.currentPath.length === 0) return
+
+    this.chartContainer.resetZoomPan()
+    this.currentPath.pop()
+    const chart = this.chartContainer.getChart()
+
+    if (this.currentPath.length === 0) {
+      setMobileLabelVisibility(false)
+      chart?.setOption(getChartOptions(), true)
+    } else {
+      const parentName = this.currentPath[this.currentPath.length - 1]
+      if (parentName !== 'Materialism') {
+        setMobileLabelVisibility(true)
+        this.refreshChartWithNewData()
+      } else {
+        setMobileLabelVisibility(false)
+      }
+      chart?.dispatchAction({
+        type: 'sunburstRootToNode',
+        targetNodeId: parentName
+      })
+    }
+
+    this.itemDetailsPanel.hide()
+    this.syncLevelBar()
   }
 
 }

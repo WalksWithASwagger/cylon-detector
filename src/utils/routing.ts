@@ -1,24 +1,33 @@
 import type { TheoryData } from '../types/theory'
-import { generateSlug } from './slugUtils'
+import { generateSlug, resolveTheoryFileStem } from './slugUtils'
+import { SITE_ORIGIN, DEFAULT_LOCALE, parseLocaleFromPath, buildLocalizedPath } from '../shared/site'
+import type { Locale } from '../shared/site'
+import { t } from './i18n'
 
 const theoryCache = new Map<string, TheoryData>()
 
-async function loadTheoryByName(theoryName: string): Promise<TheoryData> {
-  if (theoryCache.has(theoryName)) {
-    return theoryCache.get(theoryName)!
+export async function loadTheoryByName(theoryName: string, locale: Locale = DEFAULT_LOCALE): Promise<TheoryData> {
+  const cacheKey = `${locale}:${theoryName}`
+  if (theoryCache.has(cacheKey)) {
+    return theoryCache.get(cacheKey)!
   }
-  const fileName = `${theoryName}.json`
-  const filePath = `/data/${fileName}`
-  
+  // theoryName may be a raw chart taxonomy name ("A. Clark", "Buzsáki") that
+  // doesn't literally match its content filename - resolve through the same
+  // slugify+title-case transform the actual files were named with.
+  const fileName = `${resolveTheoryFileStem(theoryName)}.json`
+  const filePath = locale === DEFAULT_LOCALE ? `/data/${fileName}` : `/data/${locale}/${fileName}`
+
   try {
     const response = await fetch(filePath)
     if (!response.ok) {
+      if (locale !== DEFAULT_LOCALE) return loadTheoryByName(theoryName, DEFAULT_LOCALE)
       throw new Error(`Failed to load theory data: ${response.statusText}`)
     }
     const theoryData = await response.json() as TheoryData
-    theoryCache.set(theoryName, theoryData)
+    theoryCache.set(cacheKey, theoryData)
     return theoryData
   } catch (error) {
+    if (locale !== DEFAULT_LOCALE) return loadTheoryByName(theoryName, DEFAULT_LOCALE)
     throw new Error(`Failed to load theory data: ${error}`)
   }
 }
@@ -26,6 +35,7 @@ async function loadTheoryByName(theoryName: string): Promise<TheoryData> {
 export class Router {
   private static instance: Router
   private currentTheory: TheoryData | null = null
+  private currentLocale: Locale = DEFAULT_LOCALE
   private onTheoryChange: ((theory: TheoryData | null, error?: string) => void) | null = null
   private onLoading: ((category: string, theory: string) => void) | null = null
 
@@ -58,26 +68,26 @@ export class Router {
   private updateCanonicalLink() {
     const canonicalLink = document.getElementById('canonical-link')
     if (canonicalLink) {
-      const baseUrl = 'https://consciousnessatlas.com'
       const path = window.location.pathname
-      canonicalLink.setAttribute('href', path === '/' ? baseUrl : baseUrl + path)
+      canonicalLink.setAttribute('href', path === '/' ? SITE_ORIGIN : SITE_ORIGIN + path)
     }
+  }
+
+  public getCurrentLocale(): Locale {
+    return this.currentLocale
   }
 
   private async parseCurrentURL() {
     const path = window.location.pathname
     this.updateCanonicalLink()
-    const segments = path.split('/').filter(segment => segment.length > 0)
-    
+    const { locale, pathWithoutLocale } = parseLocaleFromPath(path)
+    this.currentLocale = locale
+    const segments = pathWithoutLocale.split('/').filter(segment => segment.length > 0)
+
     if (segments.length >= 2) {
       const category = segments[0]
       const theory = segments[1]
-      
-      const theoryName = theory
-        .split('-')
-        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-        .join('-')
-      
+
       this.onLoading?.(category, theory)
       
       try {
@@ -87,7 +97,7 @@ export class Router {
       } catch (error) {
         console.error('Failed to load theory:', error)
         this.currentTheory = null
-        this.onTheoryChange?.(null, error instanceof Error ? error.message : 'Unknown error')
+        this.onTheoryChange?.(null, error instanceof Error ? error.message : t('misc.unknownError'))
       }
     } else {
       this.currentTheory = null
@@ -96,16 +106,11 @@ export class Router {
   }
 
   private async loadTheory(category: string, theory: string): Promise<TheoryData> {
-    const theoryName = theory
-      .split('-')
-      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-      .join('-')
-    
-    return await loadTheoryByName(theoryName)
+    return await loadTheoryByName(theory, this.currentLocale)
   }
 
   public navigateToTheory(category: string, theory: string) {
-    const newPath = `/${category}/${theory}`
+    const newPath = buildLocalizedPath(`/${category}/${theory}`, this.currentLocale)
     window.history.pushState({}, '', newPath)
     this.parseCurrentURL()
   }
@@ -115,7 +120,7 @@ export class Router {
   }
 
   public goHome() {
-    window.history.pushState({}, '', '/')
+    window.history.pushState({}, '', buildLocalizedPath('/', this.currentLocale))
     this.parseCurrentURL()
   }
 

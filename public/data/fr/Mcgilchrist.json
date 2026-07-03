@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "L'idéalisme relationnel et processuel-créatif de McGilchrist",
+    "summary": "La conscience est irréductible, primordiale, et constitue la « substance » fondamentale du cosmos, envisagée comme un processus créatif. La matière n'est pas une substance séparée mais une « phase » dérivée de la conscience, nécessaire à l'obtention d'une expérience individualisée. Le rôle premier du cerveau est de médiatiser et de façonner cette conscience omniprésente, ce qui se reflète dans les modes contrastés des deux hémisphères cérébraux.",
+    "associated_thinkers": ["Iain McGilchrist"],
+    "category": "Idéalismes",
+    "subcategory": "Idéalisme relationnel, processuel-créatif",
+    "core_identity_tagline": "La conscience est la substance du cosmos",
+    "classification_tags": [
+      "idealism",
+      "primordial",
+      "relational",
+      "creative process",
+      "dual-aspect monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme un processus créatif irréductible, primordial et omniprésent qui constitue le cosmos. La matière est une phase de la conscience.",
+    "ontological_status": "Idéalisme (idéalisme objectif/réaliste)",
+    "mind_body_relationship": "Le cerveau médiatise la conscience, façonnant et actualisant les expériences ressenties par le corps (modèle de permission/contrainte). La matière (y compris le cerveau) est une phase de la conscience, à l'image de la glace comme phase de l'eau.",
+    "primitive_or_emergent_status": "Primitif/fondamental",
+    "emergence_type": "La conscience elle-même est primitive. Des phénomènes supérieurs comme la capacité de valeur émergent du processus créatif de la conscience primordiale.",
+    "subjectivity_and_intentionality": "La subjectivité est inhérente car la conscience est fondamentalement relationnelle, toujours « de » quelque chose. Le cosmos possède une intentionnalité, étant « attiré depuis l'avant » par des attracteurs.",
+    "qualia_account": "Les qualia sont compris comme les qualités de certains éléments au sein de la conscience présentant une résistance et une permanence relatives (la matière), vécues différemment selon le mode d'attention (biais hémisphérique).",
+    "ontological_commitments": "La conscience primordiale (Fondement de l'Être), la matière (comme phase de la conscience), la relation/les relata.",
+    "epistemic_access": "Principalement par l'introspection et l'examen phénoménologique, la conscience étant le « fait naturel fondamental donné ». Soutenu par l'interprétation des différences d'expérience liées à la fonction hémisphérique.",
+    "constituents_and_structure": "La conscience est un processus créatif. La structure est caractérisée par la relation (tout est relationnel) et les deux modes distincts d'appréhension médiatisés par les hémisphères (présentification vs re-présentation)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal, subjectivité, agentivité, conscience de soi, valeur/but, créativité.",
+    "distinctive_mechanism_or_principle": "Le principe de médiation, selon lequel le cerveau ne cause pas la conscience mais la permet et la façonne. Également, la tension créative naissant des modes attentionnels opposés des hémisphères cérébraux.",
+    "dynamics_of_emergence": "La conscience est un processus dynamique et créatif, évoluant constamment vers un but ou une finalité (« attirée depuis l'avant, par des attracteurs »).",
+    "location_and_distribution": "Omniprésente, constituant le cosmos. L'expression/le façonnage local se produit via le cerveau.",
+    "causation_and_functional_role": "La conscience est primordiale, non causée par le cerveau. Le cosmos a un but téléologique (« direction ») motivé par le besoin du Fondement de l'Être de se connaître lui-même, accroissant la complexité et la capacité de valeur.",
+    "integration_or_binding": "Réalisée par la nature relationnelle de la conscience elle-même et médiatisée par la fonction holistique et unificatrice de l'hémisphère cérébral droit.",
+    "information_flow_or_representation": "L'hémisphère gauche génère la « re-présentation » (abstractions/cartes) ; l'hémisphère droit fournit la « présentification » (le monde vécu). La matière est en définitive une abstraction de la conscience.",
+    "evolutionary_account": "L'évolution est le processus par lequel la conscience cosmique découvre et fait avancer « la beauté, la vérité et la bonté », augmentant la réactivité et la capacité de valeur chez les êtres vivants.",
+    "core_claims_and_evidence": [
+      "La conscience est irréductible, primordiale, et constitue la substance du cosmos.",
+      "La matière est une phase dérivée de la conscience (comme la glace est une phase de l'eau).",
+      "Le cerveau médiatise la conscience plutôt que de la produire.",
+      "Les deux hémisphères cérébraux appréhendent le monde de manières opposées, faisant advenir différents mondes d'expérience (présentification vs re-présentation)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, phénoménologique, interprétation neuroscientifique."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculatif/conceptuel. L'hypothèse centrale repose sur l'interprétation de preuves neuroscientifiques et phénoménologiques existantes (spécialisation hémisphérique), plutôt que sur de nouvelles prédictions empiriques idéalistes testables.",
+    "known_empirical_interventions_or_tests": "Aucune explicitement spécifiée dans la source pour valider l'ontologie idéaliste. (Justification : fondée sur les limites de la source ; l'argument de McGilchrist se concentre sur l'interprétation philosophique de la neurophysiologie plutôt que sur la conception de nouveaux tests empiriques pour la thèse de la conscience primordiale.)",
+    "criticisms_and_tensions": "Les critiques de l'idéalisme soutiennent qu'il échoue à expliquer l'apparente indépendance et structure du monde physique. La force de la théorie repose largement sur l'interprétation nuancée de la spécialisation hémisphérique, qui fait l'objet d'un débat continu.",
+    "open_questions_and_limitations": "McGilchrist note la difficulté de prouver si le cerveau médiatise ou produit véritablement la conscience, les résultats empiriques semblant identiques dans les deux cas.",
+    "ontological_coherence": "Hautement cohérente au sein de son cadre idéaliste, résolvant la scission corps-esprit en posant la conscience comme unique réalité fondamentale. En forte tension avec le physicalisme réductionniste."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Incertain/conditionnel",
+      "rationale": "La conscience étant primordiale et relationnelle, exprimer l'individualité requiert une médiation complexe. Un simple calcul fonctionnel échouerait probablement à saisir les propriétés requises, mais un système conçu pourrait potentiellement médiatiser la conscience s'il possède la structure nécessaire pour ce faire."
+    },
+    "survival_beyond_death": {
+      "stance": "Oui, probable",
+      "rationale": "La conscience étant la substance fondamentale du cosmos et primitive, le soi individuel, bien que dissolvant son médiateur physique (le cerveau), persisterait au sein du fondement cosmique de l'Être."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmique/téléologique",
+      "rationale": "Le cosmos a un but et une direction, motivés par la conscience fondamentale visant à se connaître elle-même et à découvrir davantage de valeur (beauté, vérité et bonté)."
+    },
+    "virtual_immortality": {
+      "stance": "Improbable/non applicable",
+      "rationale": "La conscience n'est pas réductible au motif neuronal (la matière, étant une « phase » de la conscience, est médiatisée). Téléverser le motif seul échouerait probablement à reproduire le processus conscient d'origine, résultant en une simple abstraction ou simulation dépourvue d'expérience subjective authentique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Hoffman's Conscious Realism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Nagel’s Mind and Cosmos",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Idealisms",
+        "relationship": "Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Matter with Things: Our Brains, Our Delusions and the Unmaking of the World, I. McGilchrist",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Consciousness Is the Stuff of the Cosmos, I. McGilchrist",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Master and His Emissary: the Divided Brain and the Making of the Western World, I. McGilchrist",
+        "year": 2009
+      }
+    ]
+  }
+}

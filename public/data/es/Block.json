@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Reduccionismo Biológico de Block",
+    "summary": "Block defiende una explicación fisicalista reductiva de la conciencia fenoménica, distinguiéndola claramente del acceso cognitivo. Propone que la conciencia fenoménica es reducible a propiedades neurobiológicas específicas, como las actividades electroquímicas y los sistemas complejos e integrados que se encuentran en las regiones cerebrales sensoriales y postsensoriales.",
+    "associated_thinkers": [
+      "Ned Block"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Filosófica",
+    "core_identity_tagline": "La Conciencia Fenoménica como Actividad Electroquímica Neurobiológica",
+    "classification_tags": [
+      "physicalism",
+      "reductionism",
+      "neurobiology",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Los estados fenoménicos son literalmente idénticos a tipos específicos de estados neurobiológicos, caracterizados por su naturaleza electroquímica.",
+    "ontological_status": "Fisicalismo Reductivo",
+    "mind_body_relationship": "Teoría de la Identidad Mente-Cerebro (como candidata fuerte para la reducción), donde los estados mentales son idénticos a estados cerebrales físicos.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil (Justificación: el reduccionismo implica que la conciencia es enteramente explicable y reducible a propiedades físicas de nivel inferior, ajustándose a la definición de emergencia débil.)",
+    "subjectivity_and_intentionality": "La subjetividad está ligada a la maquinaria biológica específica requerida para la reducción. Respalda el Representacionalismo de Primer Orden, vinculando el carácter fenoménico directamente con el contenido intencional de primer orden.",
+    "qualia_account": "Los qualia se identifican con (o son reducibles a) las propiedades neurobiológicas y electroquímicas específicas del sistema integrado del cerebro.",
+    "ontological_commitments": "La actividad electroquímica de las neuronas, circuitos neuronales específicos y la conectividad con estructuras subcorticales como el tálamo.",
+    "epistemic_access": "Accesible mediante la investigación científica centrada en hallar la propiedad física que cumple el rol funcional de la conciencia, examinando en particular la base neuronal de la conciencia fenoménica.",
+    "constituents_and_structure": "Chispas neurofisiológicas que se propagan y transmisores neuroquímicos que se difunden, componiendo un sistema complejo e integrado."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia Fenoménica, conciencia sensorial (distinguiéndola explícitamente del acceso cognitivo/conciencia de acceso).",
+    "distinctive_mechanism_or_principle": "Reducción neurobiológica basada en la naturaleza electroquímica del cerebro. La percepción consciente se asocia con activaciones recurrentes en áreas perceptivas (como el área visual V5), distintas de la difusión global requerida para el acceso cognitivo.",
+    "dynamics_of_emergence": "La conciencia surge del sistema magníficamente complejo e integrado de la actividad electroquímica. La fenomenología de primer orden puede promover causalmente la difusión global, invirtiendo el supuesto de teorías como la Teoría del Espacio de Trabajo Global.",
+    "location_and_distribution": "Localizada en sistemas sensoriales y quizás postsensoriales (por ejemplo, la corteza visual), requiriendo conectividad con el tálamo. Se considera que la conciencia fenoménica 'desborda' la accesibilidad cognitiva.",
+    "causation_and_functional_role": "El foco principal está en la identidad, más que en la función. La conciencia fenoménica puede ser un factor causal que promueva la difusión global para el acceso cognitivo.",
+    "integration_or_binding": "Se logra mediante la organización integrada y compleja de la actividad electroquímica del sistema neuronal.",
+    "information_flow_or_representation": "Favorece el Representacionalismo de Primer Orden, postulando que el carácter fenoménico se representa mediante contenido intencional analógico y de grano fino en los almacenes de memoria a corto plazo, disponible para los pensamientos de orden superior.",
+    "evolutionary_account": "Asume un origen evolutivo de la maquinaria biológica requerida, en consonancia con el fisicalismo, aunque las afirmaciones evolutivas específicas no son el foco central de la teoría.",
+    "core_claims_and_evidence": [
+      "La conciencia fenoménica es reducible a su base física en la neurobiología.",
+      "La naturaleza electroquímica de los sistemas neuronales es la candidata para la reducción de la conciencia.",
+      "La conciencia fenoménica desborda la accesibilidad cognitiva, lo que significa que tenemos más experiencia de la que podemos reportar.",
+      "La percepción consciente se identifica con bucles recurrentes activos en áreas perceptivas más condiciones de fondo."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (defensa del reduccionismo), Empírica (apelación a ejemplos y datos neurobiológicos)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable (requiere identificar con éxito la propiedad física que realiza literalmente el rol fenoménico).",
+    "known_empirical_interventions_or_tests": "Investigación de la actividad neuronal y las correlaciones (por ejemplo, actividad electroquímica, bucles recurrentes) en sistemas sensoriales y postsensoriales para hallar la candidata a reducción neurobiológica.",
+    "criticisms_and_tensions": "Se le critica por no cerrar la brecha explicativa al no volver inteligible el enunciado de identidad. El propio Block sostiene que el funcionalismo metafísico y el fisicalismo reductivo son rivales incompatibles. Experimentos mentales como los 'qualia que se desvanecen' desafían la necesidad de un hardware biológico específico para la fenomenología.",
+    "open_questions_and_limitations": "El principal desafío es hallar la propiedad física específica que complete con éxito la reducción (el 'segundo paso'). Debe explicar plenamente por qué la maquinaria biológica específica es necesaria para los qualia.",
+    "ontological_coherence": "Consistente con la ontología Materialista; muy consistente con la teoría de la Identidad Mente-Cerebro. Block considera su postura incompatible con el Funcionalismo como afirmación metafísica."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "Si la conciencia es reducible a la naturaleza electroquímica/biológica específica del tejido neuronal, entonces los sistemas no biológicos (como la IA digital) que carecen de esta composición física específica no pueden instanciar una verdadera conciencia fenoménica."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que la conciencia se identifica con procesos biológicos del cerebro y es reducible a ellos, la destrucción del cerebro implica el cese de la conciencia."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incierto",
+      "rationale": "Como una reducción puramente fisicalista, la teoría no ofrece sentido ni propósito cósmico, aunque permite implícitamente el sentido humanista creado por el organismo consciente (común a la mayoría de las teorías del Materialismo)."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Block sugiere que la fenomenología depende de la naturaleza de nuestra maquinaria biológica. Dado que la inmortalidad virtual depende de la réplica computacional/funcional en un medio no biológico, el carácter fenoménico (los qualia) probablemente se perdería en la transferencia."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Higher-Order Theories (HOT)",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Consciousness, accessibility, and the mesh between psychology and neuroscience",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Functional reduction",
+        "year": 2008
+      }
+    ]
+  }
+}

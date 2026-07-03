@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Monisme russellien",
+    "summary": "Le monisme russellien postule que le monde physique, décrit par la physique uniquement en termes de structure et de relations, possède une nature intrinsèque (quiddités) qui est phénoménale ou proto-phénoménale. Cette approche intègre la conscience à la réalité fondamentale tout en évitant les problèmes traditionnels du dualisme et du matérialisme réductionniste.",
+    "associated_thinkers": [
+      "Bertrand Russell",
+      "Torin Alter",
+      "Yujin Nagasawa",
+      "David Chalmers",
+      "Philip Goff",
+      "Daniel Stoljar"
+    ],
+    "category": "Monismes",
+    "subcategory": "Monisme philosophique",
+    "core_identity_tagline": "Les propriétés phénoménales sont la nature intrinsèque de la matière fondamentale",
+    "classification_tags": [
+      "monism",
+      "panprotopsychism",
+      "physicalism",
+      "quidditism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience (ou proto-conscience) est la nature ou propriété intrinsèque et catégorique (« quiddités » ou « inscrutables ») sous-jacente à la structure relationnelle de la réalité physique décrite par la physique.",
+    "ontological_status": "Monisme neutre ou monisme physique ou monisme phénoménal (selon la variante) ; fondamentalement moniste.",
+    "mind_body_relationship": "L'esprit et le monde physique sont profondément imbriqués, les propriétés mentales constituant la nature intrinsèque des entités physiques fondamentales (les bases catégoriques des dispositions physiques).",
+    "primitive_or_emergent_status": "Primitif (au niveau fondamental de la réalité, en tant que propriétés phénoménales ou proto-phénoménales des micro-entités).",
+    "emergence_type": "Non applicable (les propriétés sont primitives/intrinsèques). L'agrégation macroscopique de la conscience est parfois caractérisée comme un problème de combinaison, plutôt que comme une émergence.",
+    "subjectivity_and_intentionality": "La subjectivité est inhérente parce que les entités physiques fondamentales sont imprégnées de propriétés phénoménales. L'articulation détaillée de l'intentionnalité n'est pas explicitement précisée dans le matériau source de cette théorie.",
+    "qualia_account": "Les qualia correspondent aux propriétés phénoménales (ou à leurs précurseurs) qui constituent la nature intrinsèque de la matière fondamentale.",
+    "ontological_commitments": "Des entités physiques fondamentales (par ex. électrons, quarks) instanciées avec des propriétés catégoriques/intrinsèques (quiddités/inscrutables) qui sont phénoménales ou proto-phénoménales.",
+    "epistemic_access": "La science empirique n'accède qu'à la structure relationnelle de la réalité, mais la nature intrinsèque (quiddités phénoménales/proto-phénoménales) est inaccessible à la physique et n'est atteinte que par la spéculation philosophique.",
+    "constituents_and_structure": "La physique décrit la structure et la dynamique spatio-temporelles/relationnelles ; des quiddités phénoménales ou proto-phénoménales sous-tendent cette structure. Peut être de niveau micro ou cosmique (monisme de priorité)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Les propriétés phénoménales et la nature intrinsèque de la réalité ultime.",
+    "distinctive_mechanism_or_principle": "Le principe clé est l'existence de propriétés catégoriques intrinsèques inobservées (« quiddités ») de la matière qui sont phénoménales, ancrant ainsi la conscience dans la réalité fondamentale sans étendre l'ontologie physique des relations.",
+    "dynamics_of_emergence": "La conscience apparaît par la combinaison de propriétés phénoménales/proto-phénoménales fondamentales. Le processus repose sur la résolution du « problème de la combinaison », soit comment des micro-propriétés produisent des macro-expériences complexes.",
+    "location_and_distribution": "Située dans les propriétés intrinsèques des entités physiques fondamentales de niveau micro, ou potentiellement instanciée par l'univers dans son ensemble (monisme de priorité).",
+    "causation_and_functional_role": "Évite le problème de l'exclusion causale du dualisme en intégrant la conscience aux propriétés fondamentales du monde physique, ce qui signifie que la conscience sous-tend la réalité physique elle-même.",
+    "integration_or_binding": "L'intégration doit se produire par un mécanisme combinant les propriétés phénoménales microphysiques en macro-expériences complexes et unifiées (le « problème de la combinaison »).",
+    "information_flow_or_representation": "Se concentre principalement sur la nature intrinsèque (quiddité) sous-jacente aux relations/à la structure physiques, plutôt que sur le détail des mécanismes de flux informationnel.",
+    "evolutionary_account": "La théorie permet des variantes où la conscience évolue à partir de propriétés proto-phénoménales, en particulier dans les systèmes où la conscience évolue.",
+    "core_claims_and_evidence": [
+      "La physique ne décrit que la structure relationnelle de la réalité.",
+      "La nature intrinsèque de la matière fondamentale (quiddités) est inaccessible à la science empirique.",
+      "Ces propriétés intrinsèques sont phénoménales ou proto-phénoménales."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, conceptuel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculatif/Conceptuel. Ses affirmations fondamentales concernant les propriétés intrinsèques sont généralement hors de portée de l'accès empirique ou de la modélisation mathématique.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Le défi principal est le problème de la combinaison, qui est crucial : expliquer comment des propriétés microphysiques se combinent pour former une conscience macroscopique complexe et intégrée. Si le panprotopsychisme est retenu, la théorie fait face au problème consistant à dériver la conscience (les qualia) de propriétés proto-phénoménales.",
+    "open_questions_and_limitations": "Une résolution réussie du problème de la combinaison est nécessaire pour que la théorie devienne la solution la plus prometteuse au problème corps-esprit. La nature précise des « inscrutables » demeure un débat interne majeur (phénoménal, proto-phénoménal, physique ou neutre).",
+    "ontological_coherence": "Hautement cohérente sur le plan métaphysique, car elle intègre la conscience à la réalité fondamentale, résolvant ainsi efficacement le problème de l'interaction auquel se heurte le dualisme."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probablement",
+      "rationale": "Si la conscience est intrinsèque à la matière/énergie, et que le problème de la combinaison peut être maîtrisé technologiquement, alors les systèmes artificiels construits à partir de substrats physiques devraient parvenir à la conscience."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditionnel",
+      "rationale": "La survie est improbable pour l'agrégat conscient individuel à moins que le mécanisme de combinaison ne soit préservé ou que la théorie ne s'aligne sur une conception moniste cosmique, car la conscience individuelle (la combinaison macroscopique) se dissoudrait vraisemblablement à la mort biologique."
+    },
+    "meaning_and_purpose": {
+      "stance": "Possiblement",
+      "rationale": "Les monismes permettent généralement un sens/une finalité/une valeur ultimes. Si le monisme russellien adopte une forme de monisme de priorité avec une conscience en évolution, une finalité cosmique peut être impliquée."
+    },
+    "virtual_immortality": {
+      "stance": "Probablement",
+      "rationale": "Une réalité à substance unique devrait permettre l'immortalité virtuelle, à condition qu'une technologie avancée puisse manipuler et exploiter les propriétés micropsychiques pour reproduire fidèlement l'agrégat conscient macroscopique sous forme numérique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Panprotopsychism",
+        "relationship": "Variante"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Materialism/Physicalism",
+        "relationship": "Synthèse"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is Russellian Monism?, T. Alter and Y. Nagasawa",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Russellian Monism, T. Alter and D. Pereboom",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2016
+      }
+    ]
+  }
+}

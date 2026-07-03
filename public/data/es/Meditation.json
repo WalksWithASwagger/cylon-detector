@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "La Meditación y el Cerebro",
+    "summary": "Este enfoque examina la meditación como un estado alterado de conciencia que induce cambios medibles en la actividad cerebral, apoyando la idea de que los estados conscientes están altamente correlacionados con funciones y ritmos cerebrales específicos, como la modulación de las ondas alfa. Hallazgos como la reducción de la sincronización durante estados de trance profundo proporcionan restricciones empíricas para las teorías fisicalistas que enfatizan la integración cerebral global.",
+    "associated_thinkers": [
+      "Catherine Kerr",
+      "Anne Trafton",
+      "Madhav Goyal",
+      "Shayla Love"
+    ],
+    "category": "Estados Anómalos y Alterados",
+    "subcategory": "Estados Alterados",
+    "core_identity_tagline": "La conciencia correlacionada con ritmos cerebrales alterados",
+    "classification_tags": [
+      "neurobiology",
+      "altered states",
+      "brain synchronization",
+      "EEG"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica a través de su correlación medible con cambios dinámicos en la actividad cerebral, específicamente en los patrones alterados de ondas cerebrales y los niveles de integración neuronal inducidos por las prácticas meditativas.",
+    "ontological_status": "Fisicalismo (correlativo)",
+    "mind_body_relationship": "La correlación es fuerte, ya que los cambios en el estado consciente (meditación) se correlacionan de manera consistente con cambios específicos en la función cerebral (ritmos neuronales y sincronización/desincronización).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil",
+    "subjectivity_and_intentionality": "Se accede a la subjetividad a través de relatos en primera persona de estados alterados (por ejemplo, el cese del pensamiento). La intencionalidad, como la atención sostenida, está vinculada directamente a la regulación neuronal dinámica de los ritmos cerebrales.",
+    "qualia_account": "Se asume que los qualia están correlacionados con, o constituidos por, cambios específicos y medibles en los patrones de ondas cerebrales y en los niveles de integración neuronal o su ausencia.",
+    "ontological_commitments": "Patrones neuronales, ritmos cerebrales específicos (ondas alfa) y el estado de integración/desincronización global dentro de la corteza.",
+    "epistemic_access": "Se logra correlacionando informes introspectivos (en primera persona) de la experiencia meditativa con mediciones objetivas (en tercera persona) de la actividad fisiológica cerebral (por ejemplo, EEG).",
+    "constituents_and_structure": "El estado consciente está organizado por ritmos cerebrales, particularmente el patrón dinámico de sincronización (integración) o desincronización entre regiones cerebrales."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico (estados alterados), de acceso (atención, sensación) e integración/unidad.",
+    "distinctive_mechanism_or_principle": "El principio es el control dinámico y autorregulado de los ritmos cerebrales alfa, particularmente en la corteza sensorial, que suprime la información sensorial irrelevante y potencia la regulación neuronal dinámica requerida para la conciencia focalizada.",
+    "dynamics_of_emergence": "La conciencia es un proceso dinámico; los estados alterados emergen cuando la práctica mental focalizada (meditación) manipula activamente la sincronización cerebral y ritmos específicos a lo largo del tiempo.",
+    "location_and_distribution": "Se distribuye a través de patrones de ondas cerebrales y sincronización entre regiones del cerebro, incluida la corteza sensorial primaria, lo que respalda la idea de la conciencia como un campo unificado o una actividad de red integrada.",
+    "causation_and_functional_role": "La conciencia es instrumental para lograr la autorregulación y beneficios terapéuticos (por ejemplo, alivio de la ansiedad, alivio del dolor). La práctica meditativa cumple la función de regular dinámicamente la actividad neuronal para obtener beneficios cognitivos.",
+    "integration_or_binding": "La integración/unidad está vinculada a la sincronización cerebral general; el cese del pensamiento (el estado meditativo más elevado) se correlaciona con una reducción de la sincronización cerebral general, lo que implica que la conciencia funciona como una unidad integrada.",
+    "information_flow_or_representation": "El procesamiento de la información se ve afectado, ya que el control de las ondas alfa disminuye la probabilidad de que estímulos extraños capten la atención, regulando así cómo las cosas impactan en la conciencia.",
+    "evolutionary_account": "El enfoque se centra en caracterizar los estados cerebrales actuales; no proporciona un relato filogenético explícito sobre el origen o el papel adaptativo de la conciencia o de la meditación misma. Este campo se apoya en la capacidad cerebral evolucionada para inducir estados alterados.",
+    "core_claims_and_evidence": [
+      "La meditación altera patrones específicos de ondas cerebrales, como los ritmos alfa, en la corteza sensorial primaria.",
+      "Los estados meditativos profundos (nirodha-samāpatti) se correlacionan con una reducción de la sincronización cerebral general, en consonancia con los modelos que vinculan la conciencia con la integración.",
+      "La atención plena (mindfulness) mejora la regulación neuronal dinámica, lo que ayuda a suprimir la información sensorial distractora."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica, neurobiológica, fenomenológica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Altamente comprobable empíricamente",
+    "known_empirical_interventions_or_tests": [
+      "EEG/neuroimagen para medir la modulación de ondas alfa en meditadores",
+      "Estudios comparativos de la sincronización cerebral durante el trance profundo, el sueño y la anestesia (por ejemplo, propofol, ketamina)"
+    ],
+    "criticisms_and_tensions": "Los fenómenos proporcionan un fuerte respaldo a las teorías materialistas, pero a menudo se critican por abordar solo los 'problemas fáciles' (correlatos neuronales) en lugar de explicar la naturaleza subjetiva fundamental (el problema difícil). Las teorías no físicas son difíciles de descartar, ya que también podrían ser compatibles con los cambios neuronales observados.",
+    "open_questions_and_limitations": "La limitación es que, pese a los hallazgos empíricos claros respecto de los mecanismos neuronales, los estudios no ofrecen una revelación ontológica sobre la esencia de la conciencia ni sobre por qué los cambios fisiológicos deberían dar lugar a una experiencia subjetiva sentida.",
+    "ontological_coherence": "Alta coherencia dentro del paradigma materialista, respaldando en particular modelos como la Teoría del Espacio de Trabajo Global y la Teoría de la Información Integrada, al validar empíricamente el vínculo entre la conciencia y la actividad cerebral integrada/sincronizada."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional/Probable",
+      "rationale": "Si la conciencia depende de dinámicas como la sincronización y la integración, tal como se muestra en los estados humanos alterados, un sistema de IA diseñado podría potencialmente alcanzar estados análogos si esas dinámicas pueden replicarse computacionalmente. Los datos en sí mismos no descartan la conciencia de la IA."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "El enfoque se centra estrictamente en que los estados conscientes dependen de una actividad fisiológica compleja y medible en el cerebro biológico (por ejemplo, la sincronización neuronal), lo que implica el cese al morir biológicamente."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "La meditación aporta un valor pragmático al alterar la función cognitiva (por ejemplo, alivio del dolor, enfoque) y al mejorar el bienestar, pero los mecanismos subyacentes no sugieren ningún propósito cósmico último para la conciencia."
+    },
+    "virtual_immortality": {
+      "stance": "Improbable",
+      "rationale": "Si bien las correlaciones físicas son sólidas, la investigación aborda principalmente la manipulación biológica en tiempo real. Lograr la inmortalidad virtual requiere la duplicación total de la estructura neurobiológica y rítmica subyacente para una persistencia permanente, una hazaña que exige supuestos que exceden el alcance de este fenómeno por sí solo."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Psychedelic Theories of Consciousness",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Meditation programs for psychological stress and well-being - a systematic review and meta-analysis, Goyal, Madhav et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Effects of mindfulness meditation training on anticipatory alpha modulation in primary somatosensory cortex, Kerr, Catherine et al.",
+        "year": 2011
+      },
+      {
+        "title_with_names": "What happens to the brain during consciousness-ending meditation?, Love, Shayla",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Benefits of Meditation, Trafton, Anne",
+        "year": 2011
+      }
+    ]
+  }
+}

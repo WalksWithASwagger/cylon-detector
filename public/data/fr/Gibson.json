@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "La psychologie écologique de Gibson",
+    "summary": "Gibson propose une approche incarnée, située et non représentationnelle de la perception, soutenant que l'information est directement disponible dans l'environnement (invariants) et qu'elle est perçue en termes d'affordances. Cette approche offre une troisième voie au-delà du cognitivisme et du behaviorisme, et peut être prudemment envisagée comme une explication de la conscience.",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Incarnée et Énactive",
+    "core_identity_tagline": "La conscience comme perception incarnée et située des affordances",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est comprise, par extension, comme une fonction de l'interaction continue et du flux informationnel au sein du système organisme-environnement, caractérisée par la perception directe des invariants et des affordances, plutôt que par des représentations mentales internes.",
+    "ontological_status": "Physicalisme/Réalisme direct",
+    "mind_body_relationship": "L'esprit/la perception est continu avec l'action, le système organisme-environnement étant l'unité d'analyse, ce qui rejette l'idée que l'esprit soit uniquement réductible à des processus internes à la tête.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "La subjectivité est constituée par la relation dynamique et située de l'organisme à l'environnement (système organisme-environnement). L'intentionnalité (le caractère dirigé de la pensée) s'explique par la perception des affordances, qui sont des possibilités d'action inhérentes à l'environnement.",
+    "qualia_account": "La théorie est non représentationnelle et s'aligne généralement sur les positions qui rejettent les données sensorielles internes (qualia) telles que traditionnellement conçues, privilégiant la perception directe des propriétés environnementales (invariants et affordances).",
+    "ontological_commitments": "Système organisme-environnement, information optique (invariants), affordances.",
+    "epistemic_access": "Accessible par l'étude de la relation entre l'organisme et son environnement socio-physique, plutôt que par une introspection centrée sur les états internes.",
+    "constituents_and_structure": "La structure de la conscience/perception repose sur la relation fonctionnelle entre l'organisme et l'environnement, en mettant l'accent sur la continuité de la perception et de l'action."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Perception/Cognition, Phénoménale (par inférence prudente)",
+    "distinctive_mechanism_or_principle": "Perception directe des invariants environnementaux (éléments invariables du flux optique) et des affordances (possibilités d'action offertes par l'environnement).",
+    "dynamics_of_emergence": "L'accent est mis sur le flux dynamique et la continuité au sein du système organisme-environnement, plutôt que sur une émergence à partir de structures neuronales discrètes et localisées.",
+    "location_and_distribution": "Située au sein du système organisme-environnement, s'étendant au-delà du cerveau et de l'intérieur de la tête.",
+    "causation_and_functional_role": "La perception a pour fonction de guider le comportement adaptatif et d'améliorer la valeur adaptative (fitness) en détectant les invariants et les opportunités d'action (affordances).",
+    "integration_or_binding": "L'intégration est inhérente à l'appréhension directe et unifiée du système organisme-environnement en tant qu'unité d'analyse unique.",
+    "information_flow_or_representation": "Rejette les modèles de traitement de l'information ; l'information est externe (invariants) et directement accessible aux systèmes perceptifs sans nécessiter de construction interne de représentations.",
+    "evolutionary_account": "L'accent mis sur les affordances suggère que ce système perceptif a évolué parce qu'il offrait une valeur de survie évidente et améliorait la valeur adaptative.",
+    "core_claims_and_evidence": [
+      "La perception est directement liée au seul stimulus, sans nécessiter ni inférence ni représentations mentales internes.",
+      "Les objets premiers de la perception sont les affordances, et non des qualités sensorielles particulières.",
+      "L'unité d'analyse pour comprendre la perception est le système organisme-environnement.",
+      "La théorie rejette le postulat de la pauvreté du stimulus courant dans les modèles cognitivistes."
+    ],
+    "basis_of_belief_or_evidence_type": "Expérimental, Philosophique, Écologique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable, en particulier dans le cadre de la psychologie écologique et des études sur la perception.",
+    "known_empirical_interventions_or_tests": "Observation empirique de la perception et analyse détaillée des champs d'interaction organisme-environnement.",
+    "criticisms_and_tensions": "La théorie critique les théories dominantes de la perception, s'attaquant à la fois au behaviorisme et au cognitivisme/traitement de l'information. Son extension à la conscience phénoménale est spéculative et suscite le scepticisme de ceux qui adhèrent aux théories de la représentation interne.",
+    "open_questions_and_limitations": "La théorie centrale porte sur la perception et la cognition ; son application ou son extension à l'explication de la conscience phénoménale (l'aspect « ce que cela fait d'être ») nécessite une inférence prudente.",
+    "ontological_coherence": "Hautement cohérente au sein de son ontologie matérialiste écologique, située et anti-réductionniste, mais entre fondamentalement en conflit avec les théories reposant sur la manipulation de symboles cognitifs."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Si la conscience est le produit d'une interaction directe et située au sein d'un système organisme-environnement (comme le suggère cette théorie matérialiste), alors l'IA pourrait accéder à la conscience si elle était conçue pour s'incarner et interagir au sein d'un environnement physique capable de percevoir des affordances."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La théorie est classée dans le matérialisme, en se concentrant sur l'organisme biologique vivant et son environnement physique. Aucune composante non physique susceptible de survivre à la mort corporelle n'est postulée."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste/Adaptatif",
+      "rationale": "Le rôle fonctionnel premier de la perception est le comportement adaptatif par la détection des affordances, ce qui est cohérent avec une conception matérialiste selon laquelle le sens est créé par les êtres humains dans leur environnement, pour la survie et l'épanouissement."
+    },
+    "virtual_immortality": {
+      "stance": "Conditionnelle",
+      "rationale": "La conscience étant liée à l'unité physique organisme-environnement, l'immortalité virtuelle ne serait atteignable que si les interactions incarnées et non représentationnelles essentielles pouvaient être parfaitement capturées et simulées dans un nouveau support physique."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Théorie de la perception directe",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Énactivisme",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Théories computationnelles",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

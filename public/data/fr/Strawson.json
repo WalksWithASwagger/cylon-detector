@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Le panpsychisme de Strawson",
+    "summary": "Strawson soutient que tout philosophe adoptant une vision réaliste du physicalisme doit accepter que tous les phénomènes physiques sont intrinsèquement expérientiels ou phénoménaux, ce qui conduit au panpsychisme (ou panexpérientialisme) comme conclusion nécessaire du « matérialisme réel ». L'existence de l'expérience consciente, étant le fait le plus certain, ne peut être niée par un véritable physicalisme.",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "Panpsychismes",
+    "subcategory": "Panexpérientialisme",
+    "core_identity_tagline": "« Le matérialisme réel entraîne le panpsychisme »",
+    "classification_tags": [
+      "real materialism",
+      "panexperientialism",
+      "monism",
+      "physicalism",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience (l'expérience) est identifiée comme une propriété phénoménale intrinsèque et non réductible de toute matière physique fondamentale ou énergie (panexpérientialisme).",
+    "ontological_status": "Monisme réaliste / Matérialisme réel",
+    "mind_body_relationship": "Théorie de l'identité (au sens fort). Les phénomènes mentaux sont considérés comme des phénomènes physiques concrets car le physicalisme réel englobe tous les phénomènes réels, y compris l'expérience.",
+    "primitive_or_emergent_status": "Primitif/Fondamental",
+    "emergence_type": "Non applicable (la conscience est primitive). La théorie s'appuie sur l'impossibilité d'une émergence « radicale » pour soutenir son affirmation selon laquelle le panpsychisme est entraîné par le physicalisme.",
+    "subjectivity_and_intentionality": "Le caractère subjectif de l'expérience (les caractéristiques du « ce que cela fait d'être ») est un fait naturel concret et fondamental donné, que tout physicaliste réaliste doit reconnaître.",
+    "qualia_account": "Les qualia sont des propriétés réelles, concrètes et physiques du monde ; leur négation est considérée comme « l'affirmation la plus stupide jamais formulée ».",
+    "ontological_commitments": "Les composants physiques ultimes (énergie/matière physique) et les propriétés phénoménales/expérientielles qui leur sont inhérentes.",
+    "epistemic_access": "Principalement par l'introspection (l'expérience est le phénomène dont l'existence est la plus certaine) et l'argumentation philosophique, par laquelle le panpsychisme est logiquement dérivé d'une compréhension réaliste du physicalisme.",
+    "constituents_and_structure": "Les constituants de base sont la matière physique, fondamentalement porteuse d'expérience, de sorte que toute énergie peut être supposée être un phénomène impliquant de l'expérience."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale (expérience/qualia).",
+    "distinctive_mechanism_or_principle": "Le principe selon lequel tous les phénomènes concrets sont physiques, combiné au fait que l'expérience est un phénomène concret et ne peut radicalement émerger, dicte que l'expérience est intrinsèque à la physique fondamentale.",
+    "dynamics_of_emergence": "La conscience est fondamentale, non émergente de manière dynamique au sens radical. Si l'émergence radicale est rejetée, la théorie soutient le panexpérientialisme.",
+    "location_and_distribution": "Omniprésente, associée à chaque partie ou aspect de la réalité physique, à l'instar des champs et particules fondamentaux.",
+    "causation_and_functional_role": "La conscience, étant physique, s'intègre sans problème dans le monde naturel. (Le rôle causal spécifique des expériences individuelles est impliqué par leur statut physique mais non détaillé dans les sources).",
+    "integration_or_binding": "La théorie fait face au problème de la combinaison du panpsychisme (comment les expériences de niveau micro se combinent-elles en sujets conscients macroscopiques). Ce problème doit être résolu pour que le panpsychisme devienne la théorie gagnante. (Aucun mécanisme de solution spécifique n'est détaillé par Strawson dans les sources).",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "Strawson accepte que la conscience est physique et suggère que la réponse appropriée à sa nature pourrait être « l'acceptation sans attente de compréhension », à l'instar de la dualité onde-particule.",
+    "core_claims_and_evidence": [
+      "La conscience est entièrement physique.",
+      "La négation de l'expérience consciente est l'affirmation la plus stupide jamais formulée.",
+      "Le physicalisme réel entraîne le panpsychisme étant donné l'impossibilité de l'émergence radicale."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, Conceptuel, Phénoménologique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable. Il s'agit d'une proposition métaphysique dérivée de prémisses philosophiques sur la nature du monde physique. Nagasawa note que le panpsychisme, même s'il est vrai, pourrait atteindre une « impasse cognitive » car il ne peut être prouvé.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Largement considérée comme « absurde » par certains critiques. Elle souffre du problème de la combinaison, nécessitant une explication de la manière dont les expériences de niveau micro s'agrègent pour produire des propriétés macrophénoménales.",
+    "open_questions_and_limitations": "Trouver une solution raisonnable au problème de la combinaison est nécessaire pour que cette vision devienne la solution la plus prometteuse au problème corps-esprit.",
+    "ontological_coherence": "Hautement cohérente au sein de la définition élargie proposée du matérialisme/physicalisme (« monisme réaliste »), visant à résoudre le problème corps-esprit en intégrant la conscience à la réalité physique ultime."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probablement",
+      "rationale": "Si la conscience est une propriété irréductible de chaque entité physique élémentaire, alors l'IA, étant composée de matière physique, devrait également posséder une conscience intérieure, à condition que le problème de la combinaison puisse être résolu et que les aspects micropsychiques puissent être manipulés par une technologie avancée."
+    },
+    "survival_beyond_death": {
+      "stance": "Improbable (hypothèse lointaine)",
+      "rationale": "Bien que le monde soit imprégné de conscience, la survie nécessite d'inverser le processus complexe par lequel des éléments microscopiques se coalisent en une conscience macroscopique, ce qui semble difficile pour la survie à la première personne lors de la dissolution du cerveau."
+    },
+    "meaning_and_purpose": {
+      "stance": "Possible",
+      "rationale": "Le panpsychisme est positionné entre le matérialisme (aucun but ultime) et le dualisme/idéalisme (but ultime), suggérant un sens/but/valeur ultimes possibles."
+    },
+    "virtual_immortality": {
+      "stance": "Probablement",
+      "rationale": "Si la conscience est une propriété intrinsèque et régulière du tissu de la réalité, une technologie avancée pourrait potentiellement apprendre les régularités nécessaires pour agréger ou manipuler des forces micropsychiques afin de dupliquer ou de téléverser la conscience."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Panpsychism",
+        "relationship": "Compatible/Influence"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Recouvrement/Synthèse"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism and Other Essays, Galen Strawson",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      }
+    ]
+  }
+}

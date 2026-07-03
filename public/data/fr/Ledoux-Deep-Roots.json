@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "La théorie des racines profondes de la conscience de LeDoux",
+    "summary": "Cette théorie envisage la conscience et le comportement humains à travers le prisme de l'histoire évolutive profonde, avançant que la conscience est apparue relativement récemment comme un produit sophistiqué des circuits cognitifs corticaux. Elle retrace comment les capacités de survie fondamentales, héritées des tout premiers organismes, ont été renforcées par l'évolution des systèmes nerveux, menant finalement à la conscience.",
+    "associated_thinkers": ["Joseph LeDoux"],
+    "category": "Théories du Matérialisme",
+    "subcategory": "Évolution Phylogénétique",
+    "core_identity_tagline": "La conscience comme produit émergent de mécanismes de survie renforcés.",
+    "classification_tags": [
+      "evolution",
+      "neurobiology",
+      "materialism",
+      "phylogeny",
+      "survival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme un ensemble d'états cognitifs corticaux issus du renforcement évolutif de capacités de survie profondément enracinées.",
+    "ontological_status": "Physicalisme réductif",
+    "mind_body_relationship": "La conscience est un phénomène entièrement physique, qui émerge du fonctionnement évolutif du cerveau et du système nerveux biologiques.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "La théorie relie la conscience à la nécessité évolutive de renforcer la survie et l'épanouissement. La subjectivité (comme le ressenti de la peur) apparaît comme une expression récente des circuits cognitifs corticaux, distincte des anciens circuits de survie non conscients.",
+    "qualia_account": "Le texte décrivant cette théorie se concentre sur l'histoire évolutive et les circuits de survie plutôt que sur les qualia eux-mêmes, mais conformément à sa position matérialiste, les qualia sont implicitement traités comme des expressions complexes des circuits cognitifs corticaux, dotés d'une histoire évolutive peu profonde comparée à celle des circuits de survie.",
+    "ontological_commitments": "Les systèmes nerveux évolués, les cerveaux biologiques, et les circuits de survie défensifs.",
+    "epistemic_access": "Accessible par le suivi de la chronologie évolutive, l'étude de la neurobiologie comparée, et l'analyse des comportements de résolution de problèmes et de survie des premiers organismes.",
+    "constituents_and_structure": "Des systèmes nerveux évolués, menant à des circuits cognitifs corticaux (pour la conscience) qui se construisent sur des circuits de survie défensifs profondément enracinés."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience phénoménale (en particulier le suivi de son émergence phylogénétique), le comportement, et les ressentis émotionnels.",
+    "distinctive_mechanism_or_principle": "La conscience résulte de l'évolution des systèmes nerveux qui renforcent la capacité d'un organisme à survivre et à s'épanouir, retraçant son origine jusqu'aux problèmes résolus par les tout premiers organismes vivants.",
+    "dynamics_of_emergence": "La conscience est un processus dynamique caractérisé par une « histoire moins profonde » d'émergence, en tant qu'expression récente des circuits cognitifs corticaux bâtis sur d'anciens circuits de survie défensifs.",
+    "location_and_distribution": "L'expérience consciente elle-même est localisée dans des circuits cognitifs corticaux récents, qui s'appuient sur des apports de circuits de survie sous-corticaux profondément enracinés.",
+    "causation_and_functional_role": "La conscience a pour fonction de renforcer la survie et l'épanouissement en permettant un traitement flexible et cognitif, comme la reconnaissance des menaces et la réponse à celles-ci (par exemple, le ressenti conscient de la peur).",
+    "core_claims_and_evidence": [
+      "La clé pour comprendre la conscience humaine réside dans le fait d'envisager l'évolution à travers le prisme des premiers organismes vivants.",
+      "La conscience a des « racines profondes » remontant au début de la vie, établies par les circuits de survie fondamentaux.",
+      "La conscience (par exemple, le ressenti de la peur) est une expression récente des circuits cognitifs corticaux."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiologique, évolutif, scientifique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable",
+    "known_empirical_interventions_or_tests": "Des études retraçant le développement phylogénétique des systèmes nerveux et comparant les circuits de survie défensifs entre les espèces.",
+    "criticisms_and_tensions": "En l'absence de critiques spécifiques dans le texte fourni, la critique générale applicable aux théories du Matérialisme est l'incapacité à expliquer l'essence qualitative de la conscience (le problème difficile), malgré la compréhension de sa base biologique et de son évolution.",
+    "open_questions_and_limitations": "Les étapes précises menant à l'émergence de l'expérience subjective, distinguant les circuits cognitifs corticaux responsables des ressentis conscients (histoire peu profonde) des mécanismes de survie non conscients (histoire profonde), demeurent des questions ouvertes.",
+    "ontological_coherence": "Hautement cohérente au sein d'un cadre matérialiste et naturaliste évolutif."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "En tant que théorie matérialiste centrée sur des mécanismes biologiques émergents, si les fonctions évolutives et de survie nécessaires peuvent être reproduites dans un substrat artificiel, la conscience de l'IA devrait être possible en principe."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience dépend explicitement du cerveau biologique évolué et de ses circuits cognitifs corticaux, qui cessent de fonctionner à la mort."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste uniquement",
+      "rationale": "Conformément au Matérialisme, la conscience remplit principalement la fonction biologique de renforcer la survie et l'épanouissement, sans offrir de sens ou de téléologie cosmique inhérent au-delà de ce que les humains créent eux-mêmes."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "Puisque la conscience est comprise comme purement physique et émergente d'un traitement biologique complexe de l'information, la duplication du schéma neuronal devrait, en principe, permettre l'immortalité virtuelle."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "LeDoux's Higher-Order Theory of Emotional Consciousness",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Feinberg/Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "Chevauchement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Deep History of Ourselves: the Four-Billion-Year Story of How We Got Conscious Brains, Joseph LeDoux",
+        "year": 2019
+      },
+      {
+        "title_with_names": "As soon as there was life, there was danger: the deep history of survival behaviours and the shallower history of consciousness, Joseph LeDoux",
+        "year": 2021
+      }
+    ]
+  }
+}

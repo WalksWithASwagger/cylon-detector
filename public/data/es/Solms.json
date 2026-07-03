@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "El Afecto como el Manantial Oculto de la Conciencia, de Solms",
+    "summary": "Esta teoría identifica la forma elemental de la conciencia con el afecto (el sentimiento) y sitúa su mecanismo fisiológico en el tronco encefálico superior, funcionando como una forma extendida de homeostasis. Aplica el principio de energía libre de Friston, argumentando que la experiencia afectiva (placer/displacer) es el mecanismo eficiente que los organismos complejos utilizan para monitorear la incertidumbre ambiental y optimizar el comportamiento de supervivencia.",
+    "associated_thinkers": ["Mark Solms"],
+    "category": "Materialismo",
+    "subcategory": "Homeostático y Afectivo",
+    "core_identity_tagline": "El Afecto como Forma Fundacional de la Conciencia",
+    "classification_tags": [
+      "affect",
+      "homeostasis",
+      "free energy principle",
+      "brainstem",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia, en su forma elemental de subjetividad sintiente, está constituida por el afecto (los sentimientos), el cual opera la minimización de la energía libre (la incertidumbre inesperada se siente como displacer, mientras que sus disminuciones se sienten como placer).",
+    "ontological_status": "Monismo de Doble Aspecto (interpretado dentro de un marco Fisicalista). Este modelo concibe los fenómenos fisiológicos y psicológicos como manifestaciones duales de un único proceso subyacente, reducible a causas físicas unitarias, alineándose con el Materialismo en su aplicación práctica a los mecanismos biológicos.",
+    "mind_body_relationship": "De doble aspecto; los fenómenos fisiológicos y psicológicos son manifestaciones complementarias de un único proceso unitario subyacente (analogía de la descarga eléctrica), en lugar de que uno cause al otro.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil (Justificación: se afirma que el mecanismo funcional de la conciencia es reducible a leyes físicas, como la ley de la energía libre, lo que sugiere que, aunque la conciencia pueda parecer novedosa, es explicable en principio mediante la física fundamental.)",
+    "subjectivity_and_intentionality": "La subjetividad sintiente está literalmente constituida por el afecto, que permite al organismo resistir proactivamente la entropía. La intencionalidad surge porque los sistemas autoorganizados deben 'preguntarse' crónicamente sobre su energía libre (necesidades existenciales) para determinar sus acciones.",
+    "qualia_account": "Los qualia se explican como variables categóricas 'codificadas por color' o 'con sabor propio' (afectos, por ejemplo, sed frente a miedo) que codifican eficientemente las múltiples necesidades de los organismos complejos, evitando una 'explosión combinatoria' computacionalmente compleja para la optimización de la supervivencia.",
+    "ontological_commitments": "Leyes físicas (como la ley de la energía libre), procesos fisiológicos (homeostasis extendida) y las estructuras específicas del tronco encefálico superior/sistema reticular activador.",
+    "epistemic_access": "Accesible mediante la investigación de los eventos neurofisiológicos correspondientes (en tercera persona) y la realidad indubitable de la experiencia afectiva en primera persona.",
+    "constituents_and_structure": "La estructura esencial es el mecanismo homeostático extendido realizado en el tronco encefálico superior, donde la conciencia cortical depende de esta conciencia fundacional del tronco encefálico."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico (subjetividad afectiva/sintiente); Agencia; Optimización de la Supervivencia.",
+    "distinctive_mechanism_or_principle": "La operacionalización del Principio de Energía Libre (FEP) en forma de estados afectivos (placer/displacer) en el tronco encefálico superior, que guía el comportamiento del organismo hacia la estabilidad.",
+    "dynamics_of_emergence": "La conciencia es un proceso dinámico que surge de la necesidad de los sistemas autoorganizados de monitorear sus necesidades existenciales y generar acciones predictivas para minimizar la incertidumbre esperada.",
+    "location_and_distribution": "El mecanismo fundacional se localiza en el tronco encefálico superior/sistema reticular activador. La conciencia cortical (el contenido) es posibilitada por, y depende de, esta conciencia afectiva del tronco encefálico (el nivel).",
+    "causation_and_functional_role": "El afecto desempeña un papel causal crucial al funcionar como un algoritmo altamente eficiente para monitorear las interacciones con el entorno, modificar el comportamiento y optimizar la supervivencia en contextos impredecibles.",
+    "integration_or_binding": "La integración de necesidades biológicas contrapuestas (por ejemplo, miedo frente a somnolencia) se logra eficientemente al codificarlas como afectos distintos y cualitativos (qualia/sabores), lo que permite una resolución dependiente del contexto sin un cálculo excesivo.",
+    "information_flow_or_representation": "La conciencia se asocia con sistemas de procesamiento de información que deben involucrarse proactivamente con el mundo en relación con las necesidades existenciales; el afecto es el sentimiento asociado al monitoreo de los cambios en la incertidumbre esperada (información).",
+    "evolutionary_account": "La conciencia, en forma de afecto, evolucionó como el mecanismo (algoritmo) más eficiente para permitir que los organismos complejos afronten entornos impredecibles y gestionen múltiples necesidades dependientes del contexto para la supervivencia.",
+    "core_claims_and_evidence": [
+      "El afecto es la forma fundacional de la conciencia, originado en el tronco encefálico superior.",
+      "El mecanismo central se reduce a la ley de energía libre de Friston, haciendo la conciencia matemáticamente tratable.",
+      "La conciencia forma parte de la naturaleza y surge de la resistencia proactiva a la entropía.",
+      "El daño al tronco encefálico superior elimina de manera fiable la conciencia, respaldando su papel fundacional."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiológico, Fenomenológico, Computacional (FEP)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable (específicamente en relación con el papel del tronco encefálico y la naturaleza del afecto).",
+    "known_empirical_interventions_or_tests": [
+      "Correlación entre la pérdida de conciencia y el daño al sistema reticular activador (tronco encefálico superior).",
+      "Investigación empírica de los parámetros del FEP correlacionados con el placer/displacer subjetivos."
+    ],
+    "criticisms_and_tensions": "La teoría debe argumentar de manera convincente contra la visión tradicional de que el tronco encefálico solo regula el *nivel* de conciencia (vigilia/coma) y no su *contenido cualitativo*. Su autodescripción como monismo de doble aspecto es filosóficamente sutil, dada su categorización como Teoría del Materialismo basada en mecanismos fisiológicos.",
+    "open_questions_and_limitations": "El mecanismo preciso que explica cómo la resistencia proactiva a la entropía 'se siente como algo' para el organismo, más allá de afirmar su necesidad funcional, sigue siendo un área que requiere mayor explicación.",
+    "ontological_coherence": "Alta coherencia. El marco incorpora con éxito la experiencia subjetiva dentro de un sistema naturalista matemáticamente tratable regido por leyes físicas (FEP), sosteniendo una comprensión de la mente físicamente fundamentada."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la teoría es correcta, se puede diseñar un sistema autoorganizado artificialmente consciente, siempre que el sistema esté diseñado para resistir proactivamente la entropía y gestionar necesidades existenciales, generando estados afectivos como retroalimentación."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como Teoría del Materialismo, la conciencia depende enteramente del cerebro biológico y de sus procesos físicos, lo que implica una no existencia permanente tras la muerte del organismo."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanista/Biológico",
+      "rationale": "El núcleo de la conciencia se arraiga en el imperativo biológico de supervivencia (evitar la aniquilación y minimizar la energía libre), lo que respalda un sentido biológico y construido humanísticamente, pero sin un propósito cósmico último."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Como Teoría del Materialismo, el yo mental en primera persona es, en principio, transferible, siempre que los mecanismos físicos complejos (incluidas las dinámicas afectivas y homeostáticas) puedan duplicarse de manera integral en un sustrato sintético."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Influencia/Extensión"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Crítica/Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The hard problem of consciousness and the free energy principle",
+        "year": 2018
+      },
+      {
+        "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Précis of the hidden spring: a journey to the source of consciousness",
+        "year": 2021
+      }
+    ]
+  }
+}

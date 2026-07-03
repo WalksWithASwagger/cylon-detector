@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Materialismo Eliminativo/Ilusionismo",
+    "summary": "Esta posición fisicalista maximalista sostiene que nuestra visión de sentido común de la mente (psicología popular) es una teoría radicalmente falsa que debe ser desplazada por una neurociencia completada. La conciencia fenoménica, incluidos los qualia, se considera un tipo de ilusión generada por el cerebro: una adaptación interna, contingente y evolutiva que aumentó la aptitud biológica.",
+    "associated_thinkers": [
+      "Patricia Churchland",
+      "Paul Churchland",
+      "Daniel Dennett",
+      "Keith Frankish"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Filosófica",
+    "core_identity_tagline": "“La Conciencia como Ilusión Generada por el Cerebro”",
+    "classification_tags": [
+      "physicalism",
+      "illusionism",
+      "reductionism",
+      "folk psychology",
+      "maximalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia no se identifica como una entidad ontológica genuina (según se la entiende convencionalmente), sino como una ilusión engañosa o ilusión de usuario generada por procesos físicos cerebrales complejos y subyacentes.",
+    "ontological_status": "Fisicalismo Maximalista",
+    "mind_body_relationship": "La concepción de sentido común de los fenómenos psicológicos (la mente) es radicalmente falsa y será desplazada por completo (eliminada) por el marco conceptual de una neurociencia completada (estados cerebrales), en lugar de ser reducida sin fisuras.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil (Justificación: la teoría postula que la ilusión surge de procesos físicos complejos y rechaza explícitamente la necesidad de propiedades mentales irreducibles y misteriosas, en consonancia con la emergencia débil, aunque el propio concepto de 'conciencia' se elimine como entidad.)",
+    "subjectivity_and_intentionality": "La subjetividad y los contenidos intencionales de la psicología popular son ilusorios o incoherentes, y deben reconstituirse dentro del marco conceptual de una neurociencia completada.",
+    "qualia_account": "Los qualia (rasgos cualitativos de la conciencia fenoménica) se rechazan como ilusorios e incoherentes, entendidos en cambio como 'ilusiones de usuario' generadas por redes neuronales complejas y activadas que nos disponen a informar sobre experiencias.",
+    "ontological_commitments": "Entidades físicas descritas por la imagen científica (física, química, biología molecular y neurofisiología). Las entidades mentales de sentido común son negadas/eliminadas.",
+    "epistemic_access": "El conocimiento de la conciencia debe obtenerse a través del punto de vista objetivo, en tercera persona, de la ciencia, tratando la introspección solo como 'datos por explicar', usando métodos como la heterofenomenología.",
+    "constituents_and_structure": "Estructuras físicas y neurofisiológicas, como redes neuronales complejas, que generan la ilusión como adaptación interna."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (como ilusión), de Acceso (como funciones computacionales), Autoconciencia (como 'centro de gravedad narrativo').",
+    "distinctive_mechanism_or_principle": "El principio de desplazamiento/eliminación, mediante el cual la ontología y los principios defectuosos de la psicología popular son reemplazados por los conceptos de una neurociencia completada. La propia ilusión es una adaptación interna que aumenta la aptitud biológica.",
+    "dynamics_of_emergence": "La ilusión de la conciencia es una adaptación interna, contingente y evolutiva. Los 'patrones reales' subyacentes a la experiencia manifiesta están verdaderamente representados por la descripción física y científica.",
+    "location_and_distribution": "Localizada enteramente en el cerebro biológico (o en sistemas físicos capaces de instanciar los procesos complejos requeridos).",
+    "causation_and_functional_role": "La conciencia (la ilusión/el concepto) funciona como una adaptación contingente que aumentó la aptitud y el éxito reproductivo del organismo.",
+    "integration_or_binding": "La integración se logra mediante la actividad neuronal compleja subyacente y el procesamiento de información que da lugar a la formación de la experiencia fenoménica reportada, a menudo descrita funcionalmente (por ejemplo, el modelo de borradores múltiples de Dennett, que conduce a la 'fama en el cerebro').",
+    "information_flow_or_representation": "El procesamiento de información en el cerebro genera la ilusión, a menudo descrito mediante interpretaciones paralelas y multipista y una revisión editorial continua que conduce a una corriente narrativa.",
+    "evolutionary_account": "La conciencia es una adaptación interna, contingente y evolucionada que aumentó la aptitud y el éxito reproductivo, ilustrando un diseño sin diseñador y razones sin razonador.",
+    "core_claims_and_evidence": [
+      "La psicología de sentido común es una teoría radicalmente falsa que debe ser desplazada por una neurociencia completada.",
+      "La conciencia fenoménica (los qualia) es una ilusión o ilusión de usuario generada por redes neuronales complejas.",
+      "La ilusión de la conciencia es una adaptación interna, contingente y evolutiva que aumentó la aptitud biológica."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica, Evolutiva, Conceptual, Empírica Anticipada (dependencia de la neurociencia futura)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable (la verificación depende de la capacidad de una futura neurociencia completada para desplazar y reemplazar por completo a la psicología popular).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Los críticos sostienen que la teoría no logra dar cuenta de la realidad concreta de la experiencia subjetiva y los qualia. Se le critica por ignorar las propiedades emergentes del sistema nervioso central o por comprometerse implícitamente con la negación de un contenido determinado del pensamiento.",
+    "open_questions_and_limitations": "La teoría depende enteramente de la culminación exitosa de la neurociencia para justificar el desplazamiento de la psicología popular, una tarea aún no lograda. Le cuesta hacer inteligible para los escépticos filosóficos la identificación de la conciencia con la actividad neuronal.",
+    "ontological_coherence": "Alta (la teoría es máximamente coherente con la ontología fisicalista al eliminar explícitamente las propiedades mentales irreducibles y ver toda la realidad a través de la imagen científica.)"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sí",
+      "rationale": "Dado que la conciencia es una ilusión compleja generada por procesos físicos/computacionales (una adaptación que aumenta la aptitud), la inteligencia no biológica (la IA) debe poder replicar en principio estos procesos e instanciar la ilusión/funcionalidad resultante."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como teoría materialista maximalista, la conciencia está enteramente ligada a los procesos físicos complejos del cerebro biológico y cesa con la muerte biológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "Como teoría materialista, implica que no hay sentido ni propósito último en el cosmos; el valor y el sentido son construcciones humanas derivadas de capacidades evolucionadas."
+    },
+    "virtual_immortality": {
+      "stance": "Sí",
+      "rationale": "Si la conciencia (la ilusión) queda enteramente explicada por la descripción física y funcional subyacente del cerebro, entonces la duplicación perfecta de esos estados en un medio no biológico (la subida de la mente) preservaría el yo mental en primera persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Feser’s Neo-Thomistic Dualism",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Eliminative Materialism and the Propositional Attitudes, Paul Churchland",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel C. Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Neurophilosophy: Toward a Unified Science of the Mind-Brain, Patricia Churchland",
+        "year": 1986
+      }
+    ]
+  }
+}

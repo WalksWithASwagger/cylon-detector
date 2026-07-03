@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Dualismes historiques et traditionnels",
+    "summary": "Cette catégorie englobe des théories dualistes répandues à travers les millénaires, supposant souvent un aspect non physique de l'esprit (tel qu'une âme) distinct du corps physique. Ces dualismes, y compris ceux trouvés dans la philosophie antique et les grandes traditions religieuses (comme les religions abrahamiques et certaines écoles indiennes), affirment que la réalité consiste en au moins deux catégories ontologiques distinctes : physique et non physique.",
+    "associated_thinkers": [
+      "Plato",
+      "René Descartes (Modern Start)",
+      "Richard Swinburne",
+      "J.P. Moreland"
+    ],
+    "category": "Dualismes",
+    "subcategory": "Dualisme historique/traditionnel",
+    "core_identity_tagline": "« La conscience comme substance non physique séparée (l'âme) »",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "soul",
+      "religion",
+      "classical philosophy",
+      "nonphysical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à une substance non physique (souvent appelée l'âme ou l'esprit) qui est indépendante du cerveau et du corps.",
+    "ontological_status": "Dualisme des substances",
+    "mind_body_relationship": "Typiquement caractérisée comme un interactionnisme, où les états physiques causent des états mentaux, et inversement, ce qui requiert que le monde physique ne soit pas causalement clos.",
+    "primitive_or_emergent_status": "Primitif",
+    "emergence_type": "N/A",
+    "subjectivity_and_intentionality": "La subjectivité est inhérente à la substance non physique (l'âme/l'esprit), qui agit comme l'instance expérientielle à la première personne, ou le « je ». L'intentionnalité est souvent envisagée comme une propriété de cette substance mentale distincte.",
+    "qualia_account": "Les traits qualitatifs (les qualia) résident entièrement dans la substance non physique (l'esprit/l'âme), qui est distincte de la matière physique.",
+    "ontological_commitments": "La matière/le cerveau physiques et une substance non physique séparée (l'âme, l'esprit, purusha).",
+    "epistemic_access": "Généralement connue par l'intuition commune, la réflexion philosophique et les traditions religieuses/spirituelles, plutôt que par la science empirique.",
+    "constituents_and_structure": "Deux types distincts de substance : physique (étendue) et non physique (non étendue, mentale)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Expérience phénoménale, identité personnelle, survie après la mort, valeurs morales et concept de soi.",
+    "distinctive_mechanism_or_principle": "L'interaction entre les substances physique et non physique radicalement distinctes, entraînant le fameux « problème de l'interaction ».",
+    "dynamics_of_emergence": "La conscience est une caractéristique persistante de la substance non physique, existant indépendamment des processus physiques dynamiques.",
+    "location_and_distribution": "La partie physique (le corps/le cerveau) est locale ; la partie non physique (l'âme) est séparée et non localisée, existant indépendamment des contraintes physiques.",
+    "causation_and_functional_role": "Les états mentaux (de la substance non physique) jouent un rôle causal en affectant le monde physique, et l'âme fonde l'identité personnelle.",
+    "integration_or_binding": "L'unité (le liage) est inhérente à la substance non physique (l'âme) unifiée et indivisible.",
+    "information_flow_or_representation": "L'information ou la représentation est une propriété de la substance mentale, laquelle est caractérisée comme foncièrement téléologique et intrinsèquement intentionnelle.",
+    "evolutionary_account": "Habituellement non abordé, la conscience (l'âme) étant souvent considérée comme une création fondamentale ou un composant donné, plutôt qu'un produit évolutif.",
+    "core_claims_and_evidence": [
+      "La réalité consiste en deux substances irréductibles : physique et non physique (âme/esprit)",
+      "L'âme fonde l'identité personnelle et survit à la mort corporelle",
+      "La causation mentale est réelle : les états non physiques affectent les états physiques",
+      "L'intuition et la croyance répandue (particulièrement dans les religions abrahamiques) soutiennent l'existence d'une âme séparée"
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, religieux/traditionnel, intuitif"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculative/philosophique",
+    "known_empirical_interventions_or_tests": "N/A",
+    "criticisms_and_tensions": "Confrontée au problème de l'interaction (comment une substance non physique cause un changement physique), au problème de la non-parcimonie (rasoir d'Occam), et à l'absence de connaissance scientifique objective concernant l'âme.",
+    "open_questions_and_limitations": "Le mécanisme fondamental permettant l'interaction entre les substances physique et non physique (le problème de l'interaction) demeure non résolu.",
+    "ontological_coherence": "Incohérente avec l'hypothèse courante en science de la clôture causale du monde physique."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Non (majoritairement)",
+      "rationale": "La conscience requiert une substance radicalement séparée et non physique (l'âme) non causalement déterminée par le monde physique ; par conséquent, les intelligences non biologiques ne peuvent connaître une véritable conscience intérieure."
+    },
+    "survival_beyond_death": {
+      "stance": "Oui",
+      "rationale": "L'âme/esprit non physique, étant indépendante du corps, fournit le mécanisme le plus clair permettant au soi à la première personne de survivre à la dissolution du corps physique, dominant les traditions religieuses."
+    },
+    "meaning_and_purpose": {
+      "stance": "Sens/finalité/valeur ultimes",
+      "rationale": "Le dualisme est étroitement lié aux systèmes de croyance religieux (par exemple, les religions abrahamiques) qui attribuent intrinsèquement un sens, une finalité et une valeur cosmiques à l'existence et à la vie humaine."
+    },
+    "virtual_immortality": {
+      "stance": "Non",
+      "rationale": "Le téléchargement du cerveau ne parviendrait pas à reproduire la composante non physique nécessaire (l'âme) requise pour la conscience, empêchant ainsi l'immortalité virtuelle."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism (Generic)",
+        "relationship": "Identité"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Contraste/Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism, Howard Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Theosophy, Theosophy Wiki",
+        "year": 2023
+      }
+    ]
+  }
+}

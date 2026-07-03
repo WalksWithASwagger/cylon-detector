@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "El Fisicalismo No Reductivo de Murphy",
+    "summary": "Esta teoría sostiene que la conciencia es enteramente física, surgiendo únicamente de cerebros biológicos, aunque las propiedades o estados mentales se consideran ontológicamente distintos e irreducibles a los estados físicos subyacentes. Busca proporcionar una explicación no dualista de la persona humana que sea filosóficamente sólida, científicamente compatible y teológicamente aceptable.",
+    "associated_thinkers": ["Nancey Murphy"],
+    "category": "Fisicalismo No Reductivo",
+    "subcategory": "Fisicalismo No Reductivo",
+    "core_identity_tagline": "La Mente es una Propiedad Física Irreduciblemente Distinta",
+    "classification_tags": [
+      "physicalism",
+      "irreducibility",
+      "causal efficacy",
+      "theistic compatibility"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia (estados o propiedades mentales) se identifica como algo distinto pero enteramente dependiente y generado por los estados físicos del cerebro, compartiendo con frecuencia rasgos con el dualismo de propiedades.",
+    "ontological_status": "Fisicalismo No Reductivo",
+    "mind_body_relationship": "Los estados mentales son enteramente físicos en su origen (causalmente generados por el cerebro), pero son ontológicamente irreducibles. Esta relación se caracteriza a menudo por la causación descendente.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Fuerte (Inferida, justificada por la dependencia de Murphy de la teoría de sistemas, la teoría del caos y la causación descendente para lograr la irreducibilidad en principio y derrotar el determinismo reduccionista).",
+    "subjectivity_and_intentionality": "Se asume que estos rasgos mentales son propiedades/aspectos reales e irreducibles del organismo humano en su totalidad, necesarios para la conciencia.",
+    "qualia_account": "Las propiedades fenoménicas cualitativas son estados mentales irreducibles que surgen de los procesos físicos del cerebro. El núcleo de la teoría reside en mantener la realidad de estas propiedades mientras rechaza el reduccionismo.",
+    "ontological_commitments": "Sustancia física; propiedades o estados mentales no reducibles; organización causal jerárquica (causación descendente).",
+    "epistemic_access": "La conciencia es cognoscible tanto a través de la investigación filosófica, que demuestra su irreducibilidad, como de su compatibilidad con la neurociencia cognitiva empírica.",
+    "constituents_and_structure": "La única sustancia es enteramente física; los estados mentales son características de sistema de nivel superior de este organismo físico, que surgen mediante dinámicas complejas y no lineales.",
+    "epistemic_access": "Accesible mediante argumentos filosóficos que demuestran la no reducibilidad, junto con hallazgos empíricos de la neurociencia cognitiva ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal; Propiedades Mentales (incluida la intencionalidad); Eficacia Causal; Autoconciencia (inferida a través de una antropología no dualista).",
+    "distinctive_mechanism_or_principle": "Antirreduccionismo causal mediante la Causación Descendente (causación del todo hacia las partes) y recurso a la teoría de sistemas complejos (teoría del caos, dinámicas no lineales) para argumentar que los estados mentales ejercen una fuerza causal real sobre el cerebro físico.",
+    "dynamics_of_emergence": "Los estados mentales emergen dinámicamente como características irreducibles del sistema a partir de la organización compleja de los cerebros biológicos.",
+    "location_and_distribution": "Localizada dentro del cerebro/cuerpo biológico; la conciencia es una característica emergente e inseparable de la persona humana (unidad psicosomática).",
+    "causation_and_functional_role": "La conciencia (los estados mentales) es causalmente eficaz y no inerte. La causación descendente permite que el contenido mental de nivel superior restrinja o afecte a los procesos neuronales de nivel inferior.",
+    "integration_or_binding": "La persona humana unificada se concibe como un sistema jerárquico complejo en el que la conciencia funciona como un todo unificado, habilitando poderes causales que reflejan la unidad del sistema.",
+    "information_flow_or_representation": "El procesamiento de información ocurre en el cerebro biológico, dando lugar a estados mentales cuyas propiedades irreducibles se conservan en el nivel no reductivo.",
+    "evolutionary_account": "La conciencia es únicamente el producto de cerebros biológicos. La evolución de la complejidad conduce a propiedades mentales emergentes e irreducibles.",
+    "core_claims_and_evidence": [
+      "Los estados conscientes son enteramente físicos, pero poseen propiedades mentales irreducibles que desafían una explicación completa mediante las leyes físicas",
+      "La consistencia teológica se logra rechazando el dualismo e interpretando el 'alma' como referida a la persona viviente en su totalidad",
+      "La irreducibilidad se asegura invocando la causación descendente y la teoría de la complejidad para resistir el determinismo reduccionista"
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, Neurocientífico (compatibilidad), Teológico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable frente a argumentos filosóficos (como la clausura causal) y consistente con la evidencia empírica que muestra una fuerte correlación mente-cerebro.",
+    "known_empirical_interventions_or_tests": [
+      "Estudios de localización en neurociencia (utilizados para argumentar a favor de la dependencia física)"
+    ],
+    "criticisms_and_tensions": "Los críticos argumentan que combinar irreducibilidad, superveniencia y eficacia causal conduce a una inconsistencia y a la impotencia causal de las propiedades mentales (el desafío de la sobredeterminación). También enfrenta escepticismo respecto a definir 'no reductivo en principio'.",
+    "open_questions_and_limitations": "Carece de una explicación clara y no contradictoria de cómo las propiedades mentales pueden ser no reductivas en principio mientras residen estrictamente dentro de un mundo físico causalmente cerrado.",
+    "ontological_coherence": "Alta coherencia conceptual al proporcionar una antropología no dualista, pero enfrenta desafíos filosóficos significativos respecto a la mecánica de la clausura causal y la irreducibilidad de las propiedades."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conciencia es una propiedad emergente no reducible, pero enteramente física, de sistemas físicos complejos (el 'tipo correcto' de física), debería poder instanciarse en sustratos artificiales suficientemente complejos."
+    },
+    "survival_beyond_death": {
+      "stance": "No, con excepción condicional",
+      "rationale": "Dado que la conciencia depende enteramente del cerebro biológico, perece con la muerte corporal. La supervivencia requiere un mecanismo externo específico, como la intervención divina (resurrección de los muertos)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Último",
+      "rationale": "La teoría se despliega a menudo dentro de un marco teísta (antropología cristiana) para respaldar un sentido, propósito y valor últimos derivados de las intenciones de Dios para la persona psicosomática."
+    },
+    "virtual_immortality": {
+      "stance": "Altamente probable",
+      "rationale": "Suponiendo una duplicación perfecta del sistema físico complejo necesario (el cerebro), las propiedades mentales emergentes e irreducibles también deben duplicarse, asegurando la continuidad en primera persona si la tecnología puede alcanzar esa complejidad."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Solapamiento (a menudo vista como una forma de dualismo de propiedades)"
+      },
+      {
+        "name": "Emergence (Strong)",
+        "relationship": "Influencia (requiere causación descendente para la coherencia filosófica)"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "Crítica (señala explícitamente oposición a los dualismos antropológicos de cuerpo y alma)"
+      },
+      {
+        "name": "Polkinghorne's Dual-Aspect Monism",
+        "relationship": "Compatible (comparte el objetivo de un fisicalismo teísta no dualista y la dependencia de la información/el patrón/la complejidad)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "For Non-reductive physicalism, Nancey Murphy",
+        "year": 2018
+      },
+      {
+        "title_with_names": "What is human mind in a theistic world?, Nancey Murphy",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Whatever Happened to the Soul?, Warren Brown, H. Newton Maloney, Nancey Murphy",
+        "year": 1998
+      }
+    ]
+  }
+}

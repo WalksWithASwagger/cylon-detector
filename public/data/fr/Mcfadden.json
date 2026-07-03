@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie de l'information électromagnétique consciente de McFadden",
+    "summary": "Cette théorie propose que le substrat de la conscience soit le champ électromagnétique (EM) du cerveau, et non la matière neuronale, et que les champs EM résolvent le problème du liage en intégrant intrinsèquement l'information dans l'espace. La conscience est définie comme une information physiquement intégrée et causalement active, encodée dans ce champ global.",
+    "associated_thinkers": ["Johnjoe McFadden"],
+    "category": "Matérialisme",
+    "subcategory": "Champ Électromagnétique",
+    "core_identity_tagline": "« La conscience comme information électromagnétique physiquement intégrée »",
+    "classification_tags": [
+      "electromagnetic field",
+      "information",
+      "binding",
+      "causal activity",
+      "scientific dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est une information physiquement intégrée et causalement active, encodée dans le champ électromagnétique (EM) global du cerveau, mise en œuvre sous forme d'algorithmes opérant dans l'espace.",
+    "ontological_status": "Dualisme scientifique (enraciné dans la différence entre matière et énergie, mais classé sous Matérialisme)",
+    "mind_body_relationship": "La conscience (champ EM) est générée par le cerveau physique (matière neuronale), mais est ontologiquement distincte en tant que champ d'énergie ; il s'agit donc d'un dualisme scientifique enraciné dans la différence entre matière et énergie.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence forte (justification : la théorie décrit la conscience comme un champ d'énergie émergent doté de propriétés causales distinctes — l'information physiquement intégrée — qui ne peut être réduit à la matière neuronale qui le génère, suggérant une irréductibilité de principe.)",
+    "subjectivity_and_intentionality": "La subjectivité est implicite dans la nature de la conscience en tant qu'information intégrée (gestalt) générée par le champ EM, qui permet au système de produire des pensées et de les rapporter au monde extérieur.",
+    "qualia_account": "La théorie traite les qualia en affirmant que le champ EM fournit la base intrinsèque et spatialement intégrée de la conscience, rendant compte de l'expérience phénoménale et résolvant le problème du liage.",
+    "ontological_commitments": "La matière neuronale, les champs électromagnétiques (EM), l'information physiquement intégrée.",
+    "epistemic_access": "Accessible par l'observation externe de critères objectifs pour les champs EM conscients (générant une information gestalt) et empiriquement par des corrélats tels que la détection EEG des champs électriques liés à la conscience.",
+    "constituents_and_structure": "Le champ électromagnétique global du cerveau, organisé par des algorithmes traités spatialement pour former une information intégrée (gestalt)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal (qualia/liage), intégration de l'information, action causale consciente, rapport/communication.",
+    "distinctive_mechanism_or_principle": "Le champ EM agit comme le substrat spatial instantané de la conscience, permettant à l'information d'être intégrée à travers l'espace, ce qui le distingue de l'intégration temporelle conventionnelle du traitement neuronal ou informatique typique.",
+    "dynamics_of_emergence": "La conscience est un processus dynamique mis en œuvre par des algorithmes qui opèrent dans l'espace au sein du champ EM, plutôt que dans le temps, permettant au système de produire de l'information intégrée.",
+    "location_and_distribution": "Le champ électromagnétique (EM) global du cerveau, agissant comme l'espace de travail global du cerveau.",
+    "causation_and_functional_role": "Causalement actif, agissant comme l'espace de travail global du cerveau pour produire une information gestalt qui est ensuite communiquée à l'extérieur via un système moteur.",
+    "integration_or_binding": "Résout le problème du liage en réalisant une information physiquement intégrée à travers l'espace via le champ EM, contrairement aux théories neuronales qui reposent sur une intégration simplement mise en œuvre dans le temps.",
+    "information_flow_or_representation": "L'information circule à travers le champ EM, où elle est encodée comme information physiquement intégrée. On suppose que la stabilité du contenu de la mémoire de travail réside principalement dans les champs électriques.",
+    "evolutionary_account": "La théorie se concentre sur le mécanisme, non sur la phylogénie. (Justification : bien que classée parmi les théories matérialistes/champ électromagnétique, le mécanisme décrit est purement physique et limité à la fonction actuelle du cerveau, sans préciser l'origine ou le développement adaptatif du mécanisme de champ EM lui-même.)",
+    "core_claims_and_evidence": [
+      "Le substrat de la conscience est le champ EM du cerveau, et non la matière neuronale.",
+      "La conscience est une information physiquement intégrée et causalement active dans le champ EM global.",
+      "La stabilité de la mémoire de travail est fortement corrélée aux champs EM (EEG) plutôt qu'aux états neuronaux, ce qui soutient l'affirmation d'un substrat de type champ EM."
+    ],
+    "basis_of_belief_or_evidence_type": "Conceptuel, neurophysiologique (données EEG/mémoire de travail)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable (par ex. distinguer les champs EM conscients des non conscients)",
+    "known_empirical_interventions_or_tests": [
+      "Études de corrélation entre la stabilité du contenu de la mémoire de travail et les champs électriques du cerveau (EEG)"
+    ],
+    "criticisms_and_tensions": "Les théories du champ électromagnétique demeurent controversées et sont souvent négligées par de nombreux neurobiologistes et philosophes. Les critiques se demandent si les champs EM possèdent à eux seuls la complexité nécessaire pour rendre compte de la conscience phénoménale.",
+    "open_questions_and_limitations": "La mesure dans laquelle les champs EM sont véritablement causatifs, plutôt que simplement corrélatifs, reste une question ouverte.",
+    "ontological_coherence": "Cohérente avec une ontologie physicaliste élargie qui accorde un statut physique et un pouvoir causal à des champs d'énergie distincts de la matière (dualisme scientifique)."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Faisable",
+      "rationale": "La théorie soutient qu'une conscience artificielle est une voie faisable si un matériel novateur peut recréer l'intégration spatiale nécessaire et la dynamique des champs EM, mettant en œuvre les algorithmes spatiaux de la conscience."
+    },
+    "survival_beyond_death": {
+      "stance": "Non (conditionnel à la persistance du champ EM)",
+      "rationale": "La conscience est une propriété de champ émergente du cerveau biologique. Sa persistance après la mort exige le maintien ou la reconstitution de la structure du champ EM, laquelle dépend de l'activité physique sous-jacente."
+    },
+    "meaning_and_purpose": {
+      "stance": "Non spécifié/Humaniste",
+      "rationale": "L'accent est mis sur le mécanisme physique et le substrat (champ EM/information) requis pour l'expérience, sans offrir de sens ou de téléologie cosmique intrinsèque au-delà de la fonction opérationnelle du système. (Justification déduite.)"
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Puisque la conscience est définie comme une information encodée dans un champ et non comme de purs processus neuronaux, la duplication ou le transfert numérique vers un matériel non biologique capable d'héberger la structure de champ EM nécessaire et la dynamique de traitement spatial devrait être possible en principe."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Théorie de l'information intégrée",
+        "relationship": "Critique (critique l'IIT pour son recours à l'intégration temporelle, alors que la CEMI se concentre sur l'intégration spatiale)"
+      },
+      {
+        "name": "Motifs conscients et non conscients de Pockett",
+        "relationship": "Chevauchement (partage la prémisse fondamentale selon laquelle le champ EM est le siège de la conscience)"
+      },
+      {
+        "name": "Théorie de l'espace de travail global",
+        "relationship": "Chevauchement (le champ EM agit comme l'espace de travail global du cerveau)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Synchronous firing and its influence on the brain’s electromagnetic field, Johnjoe McFadden",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Integrating information in the brain’s EM field: the cemi field theory of consciousness, Johnjoe McFadden",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Consciousness: matter or EMF?, Johnjoe McFadden",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "La théorie relativiste de Lahav",
+    "summary": "Cette théorie caractérise la conscience comme un phénomène physique relatif aux mesures effectuées par un « référentiel cognitif ». Par analogie avec la vitesse en physique, différents observateurs opérant dans différents référentiels cognitifs manifesteront des propriétés physiques différentes (conscience éprouvée pour soi-même contre activité cérébrale mesurée pour autrui) en observant le même phénomène.",
+    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "category": "Matérialisme",
+    "subcategory": "Relationnelle",
+    "core_identity_tagline": "La conscience comme phénomène physique relatif à un référentiel cognitif",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Les expériences conscientes sont identifiées comme naissant du processus de mesure physique relative à un « référentiel cognitif ».",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "La relation est relativiste : le même phénomène sous-jacent se manifeste comme conscience éprouvée (depuis le référentiel interne) ou comme activité cérébrale (depuis un référentiel externe) selon le contexte de mesure. Cela suggère une identité ou une corrélation dépendante du référentiel.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Non explicitement détaillé, mais vraisemblablement une émergence faible, la théorie s'appuyant sur des principes physiques établis (ou analogues) (relativité, mesure) plutôt que de postuler de nouvelles lois fondamentales pour l'existence de la conscience elle-même.",
+    "subjectivity_and_intentionality": "La subjectivité est inhérente à la définition du « référentiel cognitif » ; deux personnes, se trouvant dans des référentiels cognitifs différents, éprouvent la conscience différemment. L'intentionnalité (le caractère dirigé de la pensée) n'est pas explicitement abordée dans les sources fournies.",
+    "qualia_account": "Les qualia sont implicitement pris en compte comme des propriétés physiques subjectives se manifestant au sein d'un référentiel cognitif spécifique, bien que la nature qualitative intrinsèque de l'expérience elle-même ne soit pas détaillée.",
+    "ontological_commitments": "La réalité physique, les processus de mesure physique, et un « référentiel cognitif » construit par analogie avec la physique relativiste.",
+    "epistemic_access": "L'accès dépend du référentiel : au sein de son propre référentiel cognitif, la conscience éprouvée est vécue ; depuis un référentiel cognitif distinct, seule l'activité cérébrale peut être mesurée.",
+    "constituents_and_structure": "La conscience est structurée par le processus de mesure physique lui-même, aboutissant à différentes propriétés ou manifestations physiques selon le référentiel considéré."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "La conscience éprouvée, la manifestation physique des propriétés.",
+    "distinctive_mechanism_or_principle": "Le principe selon lequel la conscience est relative à la mesure physique au sein d'un référentiel cognitif, plutôt que d'être créée par des calculs.",
+    "dynamics_of_emergence": "La conscience naît dynamiquement du processus de mesure physique. Différentes mesures physiques effectuées dans différents référentiels produisent différentes manifestations de l'expérience consciente et de l'activité cérébrale.",
+    "location_and_distribution": "Localisée relativement au « référentiel cognitif » de l'observateur.",
+    "causation_and_functional_role": "Les expériences conscientes naissent « en raison » du processus de mesure physique lui-même. La conscience ne naît pas de processus computationnels effectués par le cerveau.",
+    "integration_or_binding": "Non explicitement abordé, mais supposé unifié au sein d'un même référentiel cognitif.",
+    "information_flow_or_representation": "Le traitement de l'information (le calcul) est explicitement noté comme n'étant *pas* à l'origine des expériences conscientes ; la conscience naît du processus sous-jacent de mesure physique.",
+    "evolutionary_account": "Ce champ n'est pas abordé dans le matériel source fourni.",
+    "core_claims_and_evidence": [
+      "La conscience est un phénomène physique relatif aux mesures d'un référentiel cognitif.",
+      "Les expériences conscientes naissent en raison du processus de mesure physique.",
+      "Le cerveau ne crée pas les expériences conscientes par des calculs."
+    ],
+    "basis_of_belief_or_evidence_type": "Argument conceptuel/théorique fondé sur une analogie avec la physique (relativité)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable, la théorie traitant de la définition des phénomènes physiques et de la mesure, bien que les tests empiriques dépendent du développement de mécanismes permettant de tester l'analogie du référentiel cognitif.",
+    "known_empirical_interventions_or_tests": "Aucune intervention ou test empirique spécifique n'est répertorié dans les sources.",
+    "criticisms_and_tensions": "La source fournit une description, non une section critique. Une tension potentielle réside dans la traduction de l'analogie de la relativité physique (comme la vitesse) en processus cognitifs ou neurobiologiques vérifiables et non métaphoriques.",
+    "open_questions_and_limitations": "L'instanciation physique ou neuronale précise et la définition du « référentiel cognitif » demeurent une question ouverte.",
+    "ontological_coherence": "Cohérente au sein d'un cadre physicaliste qui admet que des propriétés physiques fondamentales puissent être relatives à un observateur ou à un processus de mesure."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditionnelle",
+      "rationale": "La théorie postulant que la conscience naît de la mesure physique et non du calcul, les systèmes d'IA nécessiteraient des processus de mesure physique non computationnels constituant un référentiel cognitif, ce qui rend la conscience conditionnelle à une implémentation matérielle allant au-delà du simple calcul."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "Ce champ n'est pas abordé dans le matériel source fourni."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "Ce champ n'est pas abordé dans le matériel source fourni."
+    },
+    "virtual_immortality": {
+      "stance": "Improbable",
+      "rationale": "La conscience étant non computationnelle et dépendante du processus de mesure physique, l'immortalité virtuelle standard (téléchargement de logiciels/données) est improbable, bien que la duplication physique du système relativiste puisse théoriquement être possible."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Théories relationnelles de la conscience",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Théories computationnelles de l'esprit",
+        "relationship": "Critique"
+      },
+      {
+        "name": "La physique relationnelle de Rovelli",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}

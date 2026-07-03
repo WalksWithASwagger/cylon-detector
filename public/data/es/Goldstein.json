@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "El Problema Mente-Cuerpo de Goldstein",
+    "summary": "Esta teoría afirma que la conciencia consiste enteramente en materia cerebral, rechazando los estados no materiales. Sin embargo, centra el problema mente-cuerpo en la idea de que, si bien los procesos físicos pueden ser analizados por completo por la ciencia (la descripción externa), la descripción interna y subjetiva de una persona (pensamientos, emociones, sentimientos) no puede derivarse ni ser plenamente accedida por esa descripción puramente física, lo que pone de relieve una brecha explicativa persistente.",
+    "associated_thinkers": [
+      "Rebecca Newberger Goldstein"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Filosófica",
+    "core_identity_tagline": "'La Conciencia como Materia Cerebral No Derivable'",
+    "classification_tags": [
+      "explanatory gap",
+      "materialism",
+      "subjectivity",
+      "description"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia, que abarca pensamientos internos, percepciones, emociones, sueños y estados de sentimiento, se identifica como enteramente materia cerebral, aunque la descripción subjetiva e interna de esa materia cerebral sea inaccesible para un análisis científico externo completo.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Los estados conscientes son radicalmente idénticos a estados cerebrales (Teoría de la Identidad Materialista), pero la complejidad conceptual de la descripción subjetiva (interna) no puede deducirse del análisis descriptivo del estado físico (externo) del cerebro.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil/Brecha Explicativa. La conciencia es en última instancia material, pero su descripción subjetiva no puede, ni siquiera en principio, derivarse de la descripción objetiva del sustrato físico.",
+    "subjectivity_and_intentionality": "La subjetividad es la 'descripción interna' de ser una persona (pensamientos, emociones, sueños), a la que un análisis completo del cerebro físico no puede acceder ni describir plenamente. Los estados intencionales se basan enteramente en materia cerebral.",
+    "qualia_account": "Los qualia (estados de sentimiento) son aspectos de la descripción interna de la experiencia consciente que son enteramente materia cerebral pero que no pueden articularse plenamente mediante el vocabulario puramente físico de la ciencia.",
+    "ontological_commitments": "Cuerpos y cerebros físicos. Rechazo explícito de los estados o sustancias no materiales (rechaza el dualismo).",
+    "epistemic_access": "La descripción interna se conoce principalmente a través de la perspectiva en primera persona, como al crear un personaje en una novela. El enfoque científico en tercera persona (analizar el cerebro) está inherentemente limitado para acceder a este conocimiento.",
+    "constituents_and_structure": "La materia subyacente básica es 'enteramente materia cerebral'. La estructura central gira en torno a la tensión entre la descripción física/analizable y la descripción interna/inaccesible de una única realidad material."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": [
+      "Fenoménico",
+      "Intencionalidad"
+    ],
+    "distinctive_mechanism_or_principle": "El principio se centra en la no derivabilidad de la descripción subjetiva e interna de una persona a partir de un análisis objetivo y completo de su cuerpo y cerebro físicos, a pesar de la identidad ontológica entre lo mental y lo físico.",
+    "dynamics_of_emergence": "El énfasis es filosófico y descriptivo, resaltando la separación informacional/conceptual entre las descripciones física y mental, más que un mecanismo de desarrollo temporal o sistémico.",
+    "location_and_distribution": "Localizada únicamente en cuerpos y cerebros físicos.",
+    "causation_and_functional_role": "La conciencia, en tanto estados intencionales y estados de sentimiento, es materia cerebral física. Como visión materialista, los estados mentales son causalmente eficaces en tanto estados cerebrales físicos."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Filosófico/Conceptual. La afirmación central versa sobre las limitaciones inherentes de la ciencia descriptiva para acceder a la subjetividad, lo cual no es falsable por medios empíricos.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La teoría enfrenta la tensión inherente del Materialismo de Tipo B: aceptar la afirmación ontológica de que la conciencia es enteramente física, mientras se sostiene una brecha explicativa (epistémica) potencialmente irreducible respecto de la naturaleza de la experiencia subjetiva.",
+    "open_questions_and_limitations": "La principal limitación es la persistente incapacidad de la ciencia para salvar la brecha descriptiva entre los estados cerebrales y la riqueza de la experiencia en primera persona, incluso si la realidad subyacente es monista.",
+    "ontological_coherence": "Muy coherente dentro de marcos fisicalistas que reconocen el problema difícil como principalmente epistémico, no ontológico, como el Materialismo de Tipo B."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Dado que la teoría es fundamentalmente materialista y rechaza las sustancias no materiales, la conciencia de la IA debería ser posible en principio si los sistemas computacionales o físicos pueden instanciar las configuraciones necesarias de 'materia cerebral', aun cuando la experiencia subjetiva resultante permanezca opaca al análisis externo."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia es enteramente 'materia cerebral' e inseparable del cuerpo físico, y la teoría rechaza explícitamente el dualismo, a menudo asociado con la supervivencia después de la muerte."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incierto",
+      "rationale": "Si bien es ontológicamente fisicalista, el énfasis de la teoría en la riqueza irreducible de la vida interior de la persona implica un valor profundo e inherente en la subjetividad, aunque no exige un propósito cósmico o último."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Si los estados conscientes son idénticos a estados cerebrales físicos (materia cerebral), entonces una duplicación o subida perfecta de esos estados físicos a un nuevo medio debería, lógicamente, preservar el yo mental original en primera persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Stoljar’s Epistemic View and Non-Standard Physicalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dualisms",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "Visión Contrastante"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why a Mind-Body Problem?",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is consciousness irreducible?",
+        "year": 2011
+      }
+    ]
+  }
+}

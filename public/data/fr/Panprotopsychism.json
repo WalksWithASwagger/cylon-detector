@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Panprotopsychisme",
+    "summary": "Le panprotopsychisme est une variante du panpsychisme selon laquelle les entités physiques fondamentales possèdent des propriétés qui ne sont pas conscientes en elles-mêmes mais qui sont « protophénoménales ». Ces propriétés protophénoménales doivent se combiner dans des structures complexes (comme les cerveaux) pour engendrer une conscience phénoménale émergente.",
+    "associated_thinkers": ["David Chalmers", "Philip Goff"],
+    "category": "Panpsychismes",
+    "subcategory": "Panprotopsychisme",
+    "core_identity_tagline": "Les propriétés protophénoménales se combinent pour engendrer la conscience",
+    "classification_tags": [
+      "protophenomenal",
+      "panpsychism",
+      "emergence",
+      "qualia",
+      "russellian-monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée comme une macro-expérience émergente résultant de la combinaison et de la complexification de propriétés protophénoménales fondamentales et non conscientes.",
+    "ontological_status": "Panpsychisme émergentiste (souvent classé sous le monisme russellien)",
+    "mind_body_relationship": "L'esprit (la conscience phénoménale) est fortement ou faiblement émergent du substrat physique, dont la nature intrinsèque consiste en des propriétés protophénoménales. Ce lien vise à éviter les problèmes causaux du dualisme traditionnel.",
+    "primitive_or_emergent_status": "Émergent (la conscience phénoménale est émergente, mais ses propriétés sous-jacentes sont primitives/fondamentales)",
+    "emergence_type": "Peut être une émergence faible ou forte, selon que les propriétés phénoménales sont déductibles, même en principe, des faits protophénoménaux non conscients.",
+    "subjectivity_and_intentionality": "La subjectivité n'apparaît qu'au niveau macroscopique complexe lorsque les éléments protophénoménaux se combinent. Les propriétés fondamentales elles-mêmes sont non vécues ou constituent de « minces qualités non vécues ».",
+    "qualia_account": "Les qualia (propriétés phénoménales) sont engendrés par la combinaison de propriétés protophénoménales fondamentales, passant de « minces qualités non vécues » à des qualités vécues.",
+    "ontological_commitments": "Des propriétés protophénoménales (la base catégorielle des entités physiques), des champs physiques fondamentaux, et les propriétés phénoménales émergentes.",
+    "epistemic_access": "Principalement la déduction philosophique (résolvant le problème difficile en postulant des propriétés intrinsèques cachées de la matière) et l'analyse conceptuelle, plutôt que l'observation empirique.",
+    "constituents_and_structure": "Des entités physiques fondamentales possédant des propriétés protophénoménales qui s'organisent en macro-structures complexes (par ex. des cerveaux) capables d'engendrer la conscience."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale, Subjectivité.",
+    "distinctive_mechanism_or_principle": "Le mécanisme de combinaison crucial mais actuellement inconnu, nécessaire pour transformer des éléments protophénoménaux non conscients en une expérience consciente unifiée et complexe.",
+    "dynamics_of_emergence": "La conscience apparaît dynamiquement lorsqu'un certain niveau de combinaison structurelle complexe des propriétés protophénoménales fondamentales est atteint.",
+    "location_and_distribution": "Les propriétés protophénoménales sont omniprésentes dans les entités physiques fondamentales ; la conscience phénoménale est localisée dans des systèmes biologiques complexes (par ex. les cerveaux) capables de les combiner.",
+    "causation_and_functional_role": "La conscience phénoménale émergente possède typiquement une efficacité causale, héritant de son rôle causal par son ancrage dans la nature intrinsèque (protophénoménale) de la réalité physique. Cela confère un rôle fonctionnel (par ex. un avantage adaptatif de survie) à la conscience.",
+    "integration_or_binding": "Requiert une solution au « problème de la combinaison » : expliquer comment des éléments protophénoménaux non conscients s'intègrent pour former une macro-expérience subjective unifiée.",
+    "information_flow_or_representation": "Implique la transformation des propriétés protophénoménales sous-jacentes (qui constituent la base catégorielle de la structure physique et des dispositions relationnelles) en une structure de niveau macro vécue comme un contenu phénoménal.",
+    "evolutionary_account": "On présume que le mécanisme de combinaison a évolué dans des systèmes biologiques complexes (comme les systèmes nerveux animaux) afin de conférer un avantage adaptatif par la conscience émergente.",
+    "core_claims_and_evidence": [
+      "La conscience est ancrée dans des propriétés protophénoménales fondamentales et non conscientes d'entités de niveau micro.",
+      "La théorie évite l'écart physique du matérialisme en postulant des propriétés mentales intrinsèques de la matière.",
+      "Le problème de la combinaison demeure le principal défi conceptuel pour la viabilité de la théorie."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (résolution de l'écart explicatif et du problème difficile, analyse conceptuelle des propriétés physiques fondamentales)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Hautement spéculative/Conceptuellement testable. Traite de propriétés fondamentales généralement inaccessibles à la science empirique actuelle.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principale tension est le « problème de la combinaison » : expliquer comment des propriétés fondamentales non conscientes s'articulent pour produire une conscience subjective complexe. Les critiques soutiennent qu'introduire la proto-conscience ne fait que reporter le problème difficile.",
+    "open_questions_and_limitations": "La nature précise du mécanisme de combinaison demeure une question ouverte, et déterminer si la conscience résultante est fortement ou faiblement émergente n'est pas résolu.",
+    "ontological_coherence": "Vise à constituer un terrain d'entente cohérent entre le matérialisme et le dualisme, ancrant la mentalité dans la nature intrinsèque de la réalité tout en permettant l'émergence à des échelles macroscopiques."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probablement",
+      "rationale": "Si la conscience résulte d'un mécanisme de combinaison de propriétés fondamentales, alors les systèmes artificiels construits à partir de matériaux physiques possédant ces propriétés pourraient devenir conscients, à condition que la structure de combinaison nécessaire puisse être conçue."
+    },
+    "survival_beyond_death": {
+      "stance": "Improbable (hypothèse lointaine)",
+      "rationale": "La conscience phénoménale est liée à la structure complexe émergente (par ex. le cerveau) ; lorsque cette structure se dissout à la mort, la conscience complexe disparaît, ne laissant subsister que le substrat protophénoménal persistant et non conscient."
+    },
+    "meaning_and_purpose": {
+      "stance": "Possible",
+      "rationale": "En tant que variété de panpsychisme, elle postule un aspect mental fondamental de la réalité, suggérant des possibilités de sens ou de valeur cosmiques au-delà des explications strictement matérialistes."
+    },
+    "virtual_immortality": {
+      "stance": "Probablement",
+      "rationale": "Si les règles de combinaison des propriétés protophénoménales omniprésentes en un soi phénoménal peuvent être comprises et parfaitement dupliquées dans un substrat non biologique, l'immortalité virtuelle devrait être réalisable."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Micropsychism",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Panqualityism",
+        "relationship": "Recouvrement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Consciousness and its place in nature, D. Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Panpsychism, P. Goff, W. Seager, and S. Allen-Hermanson",
+        "year": 2022
+      }
+    ]
+  }
+}

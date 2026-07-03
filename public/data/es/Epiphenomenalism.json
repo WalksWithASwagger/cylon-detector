@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría del Epifenomenalismo",
+    "summary": "Esta teoría postula que la conciencia es un producto no reducible del cerebro biológico, pero los estados mentales no tienen absolutamente ningún poder causal sobre la realidad física. Nuestra percatación subjetiva es real, pero nuestra percepción de que nuestros pensamientos causan acciones es errónea, ya que la conciencia es enteramente inerte, como espuma sobre una ola del océano.",
+    "associated_thinkers": [
+      "David Chalmers (Classifier)",
+      "Frank Jackson (Related Thinker)"
+    ],
+    "category": "Teorías del Materialismo",
+    "subcategory": "Filosófica",
+    "core_identity_tagline": "La conciencia es real pero causalmente inerte.",
+    "classification_tags": [
+      "property dualism",
+      "non-reductive physicalism",
+      "mental causation",
+      "causal closure",
+      "illusion"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como propiedades fenoménicas que son ontológicamente distintas de las propiedades físicas pero que dependen causalmente de ellas (Físico → Fenoménico).",
+    "ontological_status": "Forma débil de Dualismo o Fisicalismo No Reductivo. Afirma la clausura causal completa de lo físico.",
+    "mind_body_relationship": "Los estados mentales son enteramente producto de cerebros biológicos. Los estados físicos causan estados fenoménicos, pero los estados fenoménicos no tienen efecto causal alguno sobre lo físico (causación unidireccional).",
+    "primitive_or_emergent_status": "Emergente. La conciencia es únicamente producto de cerebros biológicos.",
+    "emergence_type": "Las propiedades son irreducibles y ontológicamente distintas de las propiedades físicas, lo que sugiere una forma de emergencia fuerte para la propiedad fenoménica, aunque sea causalmente inerte. (Justificado a partir de la afirmación de irreducibilidad).",
+    "subjectivity_and_intentionality": "La percatación de la conciencia es real. La subjetividad (las propiedades fenoménicas) es ontológicamente distinta. La sensación de causación mental es ilusoria.",
+    "qualia_account": "Las propiedades fenoménicas (los qualia) son reales y ontológicamente distintas de las propiedades físicas, pero son epifenómenos y, por tanto, causalmente inertes.",
+    "ontological_commitments": "Estados físicos (cerebros) y propiedades fenoménicas ontológicamente distintas (estados mentales) que emergen de ellos.",
+    "epistemic_access": "La conciencia se conoce a través de la introspección, pero la sensación de agencia causal derivada de esa introspección es engañosa (una especie de ilusión o truco).",
+    "constituents_and_structure": "La conciencia es una propiedad emergente o subproducto del funcionamiento del cerebro biológico, comparada con 'espuma sobre una ola del océano'."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica (percatación). Aborda explícitamente y niega la causación/agencia mental.",
+    "distinctive_mechanism_or_principle": "El principio de la 'clausura causal de lo físico' dicta que los estados mentales, sea cual sea su naturaleza, deben ser subproductos enteramente inertes.",
+    "dynamics_of_emergence": "Los estados mentales son generados dinámicamente únicamente por el cerebro biológico, y todo evento mental consciente implica un procesamiento inconsciente previo.",
+    "location_and_distribution": "Enteramente localizada en el cerebro físico y biológico.",
+    "causation_and_functional_role": "Los estados mentales no tienen poderes causales. La mente es enteramente inerte y no existe una 'causación descendente'; la conciencia es un subproducto no funcional.",
+    "integration_or_binding": "La unificación de la experiencia se logra implícitamente mediante los procesos físicos complejos subyacentes en el cerebro que producen el estado fenoménico unificado. (Justificado: el énfasis está en la ausencia de causalidad saliente, no en los mecanismos de unidad interna).",
+    "information_flow_or_representation": "El procesamiento de la información es enteramente físico/inconsciente, y la experiencia fenoménica es un producto paralelo no causal de ese procesamiento.",
+    "evolutionary_account": "Implícitamente compatible con la evolución, ya que la conciencia es producto de cerebros biológicos. La realidad de la propiedad sugiere que surgió mediante la evolución, aunque su falta de función implica que no fue seleccionada por su eficacia causal. (Justificado a partir de su clasificación bajo Materialism Theories).",
+    "core_claims_and_evidence": [
+      "La conciencia es enteramente física, producto únicamente de cerebros biológicos.",
+      "Los estados mentales son ontológicamente distintos de los estados físicos (Dualismo de Propiedades).",
+      "Los estados mentales no poseen poder causal debido a la clausura causal completa de lo físico."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (impulsada principalmente por la carga explicativa de la causación mental y el compromiso con la clausura causal física)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente cuestionada. Su afirmación principal —que los estados conscientes carecen de fuerza causal— es contraintuitiva y difícil de comprobar empíricamente, ya que implica probar un vínculo causal negativo.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La teoría es contraintuitiva porque nos parece con fuerza que nuestros estados fenoménicamente conscientes importan causalmente. Obliga a aceptar que nuestra sensación de causación mental (los pensamientos que causan cosas) es 'una especie de ilusión o truco'.",
+    "open_questions_and_limitations": "La integración de la causación mental es central, ya que el Epifenomenalismo resuelve el problema negando la causación, pero esto exige aceptar un resultado altamente contraintuitivo.",
+    "ontological_coherence": "Alta coherencia dentro de una ontología materialista comprometida con la clausura causal completa de lo físico, logrando una forma débil de dualismo mientras evita los problemas del interaccionismo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conciencia es meramente un subproducto no causal (espuma) de procesos físicos en el cerebro, replicar esos procesos físicos en una IA debería producir los mismos estados conscientes sin que los estados mentales no causales impidan la réplica funcional."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia es enteramente física y producto únicamente de cerebros biológicos. Esta dependencia física impide la supervivencia más allá de la muerte corporal."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "Como teoría materialista filosófica, no ofrece sentido ni propósito último. Dado que la conciencia es causalmente inerte, no puede conferir un valor teleológico cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Altamente probable",
+      "rationale": "La naturaleza inerte de la conciencia implica que subir los estados físicos duplicaría necesariamente los estados mentales epifenoménicos. La 'espuma' inerte debería tener poco impacto en el logro de la inmortalidad virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Forma débil/Tipo"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Forma más débil/Solapamiento"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "Alternativa similar pero menos popular"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Contraste (el Dualismo Emergente afirma la eficacia causal, el Epifenomenalismo la niega)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Facing up to the Problem of Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      }
+    ]
+  }
+}

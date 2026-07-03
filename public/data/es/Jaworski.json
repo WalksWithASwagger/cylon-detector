@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "Hilemorfismo de Jaworski",
+    "summary": "La teoría de Jaworski sostiene que la conciencia es fundamentalmente un fenómeno estructural que surge del hilemorfismo, el principio ontológico básico según el cual la estructura da cuenta de los poderes y capacidades de los individuos físicos. Al definir las experiencias conscientes como actividades estructuradas del perceptor, la teoría afirma resolver el problema difícil de la conciencia y situar los fenómenos mentales sin problemas dentro del mundo natural.",
+    "associated_thinkers": [
+      "William Jaworski"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Relacional",
+    "core_identity_tagline": "'La Conciencia como Estructura y Poderes Fundamentales'",
+    "classification_tags": [
+      "hylomorphism",
+      "structure",
+      "physicalism",
+      "powers",
+      "mind-body solution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica como un fenómeno estructural: las actividades y capacidades altamente organizadas y coordinadas que surgen de los materiales físicos que componen al perceptor.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Identidad Estructural. Los fenómenos mentales son fenómenos estructurales y, por lo tanto, parte del mundo físico. El problema clásico mente-cuerpo se considera un subproducto de las cosmovisiones que rechazan la estructura como principio ontológico básico.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Las fuentes no especifican si es débil o fuerte. Dado que la estructura explica plenamente el carácter fenoménico, esto sugiere una postura orientada a la reducción a la estructura, o Emergencia Débil, compatible con su clasificación materialista.",
+    "subjectivity_and_intentionality": "La subjetividad surge de la coordinación que unifica las actividades de los subsistemas del perceptor en un todo. La intencionalidad se explica implícitamente como uno de los poderes o capacidades fundamentales conferidos por la estructura física específica.",
+    "qualia_account": "El carácter fenoménico de la experiencia se explica plenamente describiendo la estructura subyacente del perceptor, incluidos los subsistemas perceptivos, sus poderes específicos, y la coordinación general que unifica estas actividades.",
+    "ontological_commitments": "Materiales físicos y estructura, donde se asume que la estructura es un principio ontológico y explicativo básico, responsable de determinar los poderes y capacidades de los individuos.",
+    "epistemic_access": "La conciencia se accede mediante el análisis y la descripción de la estructura física del perceptor y la coordinación de sus subsistemas perceptivos.",
+    "constituents_and_structure": "Los componentes básicos son materiales físicos combinados con una estructura específica; la estructura general dicta las capacidades conscientes y unifica diversas actividades (como las experiencias perceptivas) en la actividad del perceptor como un todo."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (explica el carácter fenoménico/qualia) y Perceptiva (las experiencias perceptivas son un tipo de actividad estructurada).",
+    "distinctive_mechanism_or_principle": "El principio del Hilemorfismo, según el cual la organización general de la materia dicta sus poderes fundamentales, haciendo de la conciencia una propiedad estructural inherente de un sistema físico suficientemente complejo.",
+    "dynamics_of_emergence": "La conciencia se manifiesta como 'actividades estructuradas' (p. ej., experiencias perceptivas). Es un proceso dinámico definido por la coordinación y unificación de subsistemas.",
+    "location_and_distribution": "Localizada en los materiales físicos que poseen la estructura requerida, específicamente dentro del cuerpo del perceptor (p. ej., el cerebro humano y sus subsistemas asociados).",
+    "causation_and_functional_role": "La estructura es responsable de los poderes y capacidades del individuo. Como los fenómenos mentales son estructurales y parte del mundo físico, poseen eficacia causal inherente.",
+    "integration_or_binding": "La unidad de la experiencia consciente (integración) se logra mediante la 'coordinación que unifica' las actividades de los diversos subsistemas perceptivos en la actividad integrada del perceptor como un todo.",
+    "information_flow_or_representation": "La conciencia surge de actividades estructuradas específicas, como las experiencias perceptivas, que dependen de la organización interna y los poderes del perceptor, en lugar de depender únicamente de modelos abstractos de procesamiento de información.",
+    "evolutionary_account": "Explicación Justificada: se señala que la conciencia encaja 'sin problemas en el mundo natural', al igual que la vida, lo que implica que es un resultado natural y no misterioso de la evolución, aunque los pasos filogenéticos específicos no se detallan en el material fuente.",
+    "core_claims_and_evidence": [
+      "La estructura es un principio ontológico básico que determina los poderes y capacidades de un individuo.",
+      "El carácter fenoménico de la experiencia se explica plenamente describiendo la estructura del perceptor.",
+      "Los problemas mente-cuerpo son meros subproductos de rechazar el principio del hilemorfismo."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica y Ontológica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente Comprobable. El argumento central es metafísico, y ofrece un marco (el hilemorfismo) para disolver el problema, el cual es comprobable filosóficamente analizando sus premisas.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principal tensión de la teoría es la necesidad de que los no adherentes acepten la estructura como un principio ontológico básico capaz de explicar todos los aspectos subjetivos. Los críticos del fisicalismo rechazarían la premisa de que la estructura por sí sola es suficiente para disolver el problema difícil.",
+    "open_questions_and_limitations": "El marco teórico requiere un trabajo extenso para especificar con precisión cómo las estructuras neuronales o biológicas observadas corresponden exhaustivamente al carácter fenoménico percibido, incluso si se acepta el fundamento metafísico.",
+    "ontological_coherence": "Altamente Coherente. La teoría está específicamente formulada para establecer una consistencia interna, asegurando que los fenómenos mentales conscientes sean necesariamente partes estructurales integradas del mundo físico, resolviendo así sus problemas filosóficos designados."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probable",
+      "rationale": "Si la conciencia es un resultado directo de alcanzar una estructura y organización física compleja específica (hilemorfismo), entonces cualquier sistema artificial diseñado para poseer esa estructura y esos poderes requeridos instanciaría una conciencia genuina."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia está ligada inextricablemente al material físico altamente organizado del individuo. El cese o descomposición de esta estructura implica la terminación de la conciencia."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo Humanista",
+      "rationale": "Clasificada como Materialismo, la conciencia es un producto de fenómenos estructurales naturales. Por lo tanto, cualquier sentido o propósito es generado por las capacidades y actividades estructurales de los seres humanos dentro del mundo natural, en lugar de ser cósmicamente inherente."
+    },
+    "virtual_immortality": {
+      "stance": "Posible",
+      "rationale": "Si la conciencia se define enteramente por la intrincada 'estructura' y sus 'poderes' resultantes, entonces duplicar o cargar este arreglo estructural integral en un nuevo sustrato no biológico debería preservar el yo consciente, en consonancia con el aspecto funcionalista de la teoría."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Body Identity Theory",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Feser’s Neo-Thomistic Dualism",
+        "relationship": "Relacionada"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem, William Jaworski",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Hylomorphism and the construct of consciousness, William Jaworski",
+        "year": 2020
+      }
+    ]
+  }
+}

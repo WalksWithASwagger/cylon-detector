@@ -1,0 +1,93 @@
+{
+  "id_and_class": {
+    "theory_title": "Les agents libres de Mitchell",
+    "summary": "Cette théorie affirme que le libre arbitre, ou l'agentivité, est un phénomène réel qui émerge entièrement du fonctionnement purement physique du cerveau. Elle met l'accent sur le parcours évolutif par lequel les systèmes nerveux ont développé la capacité d'apprendre, de modéliser, de prédire et de simuler, permettant aux êtres vivants de faire de véritables choix.",
+    "associated_thinkers": ["Kevin Mitchell"],
+    "category": "Matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "Des agents libres issus du fonctionnement purement physique du cerveau",
+    "classification_tags": [
+      "neuroscience",
+      "agency",
+      "free will",
+      "evolutionary",
+      "physicalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience et le comportement sont identifiés comme des produits émergents découlant entièrement du fonctionnement et des motifs physiques de l'activité neuronale dans le cerveau.",
+    "ontological_status": "Physicalisme",
+    "mind_body_relationship": "Identité/émergentiste. Les pensées sont physiquement instanciées dans des motifs d'activité neuronale, ce qui signifie que le « fantôme » est la machine à l'œuvre.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible",
+    "subjectivity_and_intentionality": "La subjectivité et le sens du « soi » sont expliqués comme des aspects de la machine physique à l'œuvre. L'intentionnalité découle de facultés évoluées permettant à l'organisme de modéliser, de prédire et de simuler le monde afin de permettre une agentivité orientée vers des buts.",
+    "qualia_account": "La teneur qualitative est implicitement expliquée comme un produit du fonctionnement physique complexe du cerveau et de motifs spécifiques d'activité neuronale. La source ne détaille pas explicitement la nature des qualia phénoménaux au-delà d'affirmer qu'ils émergent physiquement.",
+    "ontological_commitments": "Cerveaux physiques, systèmes nerveux, motifs d'activité neuronale.",
+    "epistemic_access": "Accessible par l'investigation scientifique objective à la troisième personne des mécanismes purement physiques du cerveau.",
+    "constituents_and_structure": "Des motifs d'activité neuronale au sein du système nerveux hautement complexe et évolué."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Agentivité, Libre arbitre, Conscience, Conscience de soi, Planification, Introspection.",
+    "distinctive_mechanism_or_principle": "L'évolution biologique des systèmes nerveux procurant la capacité d'apprendre, de modéliser, de prédire et de simuler, aboutissant à une agentivité et un choix individuels véritables.",
+    "dynamics_of_emergence": "La conscience et l'agentivité sont des processus dynamiques apparus au cours d'une trajectoire évolutive spécifique, de la matière inerte aux systèmes nerveux complexes.",
+    "location_and_distribution": "Localisée dans le fonctionnement physique du cerveau ; instanciée dans des motifs d'activité neuronale.",
+    "causation_and_functional_role": "La conscience, en particulier l'agentivité (le libre arbitre), est causalement efficace. Sa fonction est de permettre des capacités de haut niveau comme le raisonnement et l'introspection, nécessaires aux êtres sensibles pour modéliser et façonner leur avenir.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Le traitement de l'information permet le développement de facultés pour modéliser, prédire et simuler des résultats, atteignant un sommet dans la capacité humaine d'imagination et d'introspection.",
+    "evolutionary_account": "Évoluée à partir de la matière inerte via l'émergence des systèmes nerveux, offrant un avantage adaptatif permettant le choix et les fonctions cognitives supérieures nécessaires à la survie.",
+    "core_claims_and_evidence": [
+      "L'agentivité individuelle (le libre arbitre) est réelle, non une illusion.",
+      "La conscience et le comportement émergent entièrement du fonctionnement purement physique du cerveau.",
+      "Des facultés comme la modélisation et la simulation se sont développées par l'évolution du système nerveux.",
+      "Les pensées sont physiquement instanciées dans des motifs d'activité neuronale."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, Évolutif"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement contraint (par des données neurobiologiques et évolutives) ; le mécanisme d'émergence de l'agentivité est conceptuellement ancré dans le physicalisme.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La théorie est contestée par les déterministes stricts et les sceptiques du libre arbitre. Elle est notable précisément parce qu'elle défend un libre arbitre « réel » tout en maintenant un engagement sans compromis envers le physicalisme, la distinguant de nombreuses autres positions matérialistes.",
+    "open_questions_and_limitations": "Les mécanismes précis par lesquels des processus cérébraux purement physiques génèrent une agentivité non illusoire et une expérience subjective restent à préciser entièrement.",
+    "ontological_coherence": "Hautement cohérente au sein d'une ontologie matérialiste évolutionniste qui accepte l'identité des processus de l'esprit et du cerveau."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Oui",
+      "rationale": "La conscience et l'agentivité sont des phénomènes entièrement physiques émergeant de systèmes complexes. Par conséquent, moyennant une avancée technologique suffisante, des systèmes artificiels peuvent instancier le fonctionnement physique nécessaire et accéder à la conscience."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La conscience dépend entièrement du fonctionnement purement physique et des motifs d'activité au sein du cerveau biologique ; le « fantôme » est la machine à l'œuvre, ce qui implique une cessation à la mort cérébrale."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humaniste/Évolutionniste",
+      "rationale": "L'agentivité permet aux individus de façonner consciemment leur avenir et d'agir avec un but, procurant un sens interne et créé, mais l'ordre cosmique sous-jacent est matérialiste (émergeant de la matière inerte)."
+    },
+    "virtual_immortality": {
+      "stance": "Oui",
+      "rationale": "En tant que théorie physicaliste, l'immortalité virtuelle est réalisable en principe si les motifs essentiels d'activité neuronale et l'agentivité émergente qu'ils soutiennent peuvent être dupliqués avec perfection dans des supports non biologiques."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Free Agents, K. J. Mitchell",
+        "year": 2023
+      }
+    ]
+  }
+}

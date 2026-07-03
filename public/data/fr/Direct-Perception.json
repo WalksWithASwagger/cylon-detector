@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "La Théorie de la Perception Directe",
+    "summary": "Cette théorie postule que toute l'information nécessaire à la perception est externe à l'observateur et provient uniquement des propriétés du stimulus distal.\nLa conscience perceptuelle est une relation de conscience directe et inanalysable envers les objets externes, opérant sans le recours à l'inférence interne, à la mémoire ou à la construction de représentations.",
+    "associated_thinkers": [
+      "Ned Block (as describer of direct realist/naïve realist views)"
+    ],
+    "category": "Materialism",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "« La perception comme conscience directe du stimulus distal »",
+    "classification_tags": [
+      "perception",
+      "realism",
+      "non-representational",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience phénoménale, en particulier son caractère perceptuel, est identifiée comme une relation de conscience directe — vraisemblablement une relation d'acquaintance primitive et inanalysable — envers des objets ou des propriétés de l'environnement.",
+    "ontological_status": "Réalisme direct / Réalisme naïf (une forme de physicalisme).",
+    "mind_body_relationship": "Le caractère phénoménal est « constitué par l'objet », en ce sens que l'existence et l'individuation d'une expérience perceptuelle dépendent directement de l'objet externe, ce qui suggère une relation constitutive directe et non médiatisée.",
+    "primitive_or_emergent_status": "Primitif (la relation de conscience directe elle-même est présentée comme une relation d'acquaintance primitive et inanalysable).",
+    "emergence_type": "N/A (la relation de conscience centrale est décrite comme primitive et inanalysable, rendant le concept d'émergence non applicable à l'acte conscient immédiat lui-même).",
+    "subjectivity_and_intentionality": "L'expérience subjective à la première personne (le caractère phénoménal) est directement constituée par l'objet externe (intentionnalité). L'intentionnalité est ainsi non représentationnelle, atteignant sa directionnalité simplement en dépendant de l'objet externe lui-même.",
+    "qualia_account": "Le ressenti qualitatif (caractère phénoménal) est constitué par l'objet. Si une expérience porte sur un objet différent, elle a un caractère phénoménal différent, même si elle est subjectivement indiscernable (par exemple, d'une hallucination parfaite).",
+    "ontological_commitments": "Le stimulus distal (objets et propriétés externes de l'environnement) et une relation d'acquaintance primitive et inanalysable (la conscience directe).",
+    "epistemic_access": "La connaissance du monde est accessible directement par la perception, plutôt que par une représentation interne ou une introspection des états mentaux médiateurs.",
+    "constituents_and_structure": "La conscience est structurée par les seules propriétés du stimulus distal. L'élément constitutif fondamental est la « relation d'acquaintance » directe envers l'entité particulière (comme une donnée sensorielle) ou envers les objets/propriétés de l'environnement."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale (spécifiquement la conscience perceptuelle).",
+    "distinctive_mechanism_or_principle": "L'absence de traitement intermédiaire ; la conscience naît de la détection directe de l'information externe, sans l'aide de processus cognitifs internes (inférence, mémoire, construction de représentations).",
+    "dynamics_of_emergence": "La théorie se concentre sur la nature de la relation de conscience immédiate en tant que primitive, plutôt que de décrire un processus dynamique par lequel cette relation naîtrait ou changerait au fil du temps.",
+    "location_and_distribution": "L'information requise pour la perception est externe à l'observateur (externe au cerveau/corps, résidant dans le stimulus distal). Cependant, l'expérience phénoménale consciente est instanciée chez l'observateur.",
+    "causation_and_functional_role": "Le rôle fonctionnel principal est de permettre à l'observateur de percevoir un objet avec précision sur la seule base du stimulus distal, en contournant les processus cognitifs traditionnels susceptibles de construire des représentations.",
+    "integration_or_binding": "Non spécifié. L'intégration des distinctions phénoménales est présumée être une caractéristique de la relation d'acquaintance primitive et inanalysable envers l'objet lui-même, plutôt qu'un processus de liage computationnel ou informationnel.",
+    "information_flow_or_representation": "L'information circule directement du monde externe (stimulus distal) vers la perception de l'observateur, rejetant la nécessité d'une construction interne de représentations mentales.",
+    "evolutionary_account": "Non explicitement abordé dans les sources fournies. (La variante de la psychologie écologique, la théorie de Gibson, implique une adéquation évolutive entre l'organisme et l'environnement, mais la DPT elle-même se concentre sur le mécanisme non représentationnel).",
+    "core_claims_and_evidence": [
+      "La perception repose uniquement sur les propriétés du stimulus distal, sans l'aide de l'inférence ou de la mémoire.",
+      "Le caractère phénoménal de l'expérience est constitué par l'objet ; un changement d'objet nécessite un changement de caractère phénoménal.",
+      "La relation de conscience est une relation d'acquaintance primitive et inanalysable, qui n'est pas affaire de représentation."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique et conceptuel (défense du réalisme naïf contre les théories représentationnelles, s'appuyant sur des expériences de pensée distinguant la perception véridique de l'hallucination subjectivement indiscernable)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable (par des expériences de pensée). Les tests empiriques visant à isoler une « relation d'acquaintance primitive inanalysable » distincte du traitement cognitif sont difficiles à mener.",
+    "known_empirical_interventions_or_tests": "Aucune n'est explicitement répertoriée dans la source, qui se concentre sur les implications conceptuelles de la théorie, telles que la comparaison du caractère phénoménal de la perception réelle et de l'hallucination subjectivement indiscernable.",
+    "criticisms_and_tensions": "Une tension majeure réside dans l'implication selon laquelle des expériences subjectivement indiscernables (par exemple, voir une véritable tomate ou halluciner une tomate identique) doivent nécessairement avoir des caractères phénoménaux différents, puisque l'expérience phénoménale dépend de l'existence de l'objet externe.",
+    "open_questions_and_limitations": "La nature précise de la « relation d'acquaintance primitive inanalysable » demeure indéfinie. La théorie doit rendre compte de la différence de caractère phénoménal entre les objets réels et les expériences illusoires ou hallucinatoires subjectivement indiscernables.",
+    "ontological_coherence": "Cohérente au sein d'une ontologie physicaliste/réaliste stricte qui rejette la médiation par des propriétés phénoménales internes, mais mise à l'épreuve par des faits phénoménologiques comme les hallucinations, où la nature constituée par l'objet s'effondre."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Incertaine",
+      "rationale": "Si la relation d'acquaintance primitive dépend fondamentalement de structures biologiques spécifiques nécessaires au couplage direct avec les stimuli distaux, la conscience de l'IA pourrait être impossible. La théorie étant physicaliste/matérialiste, si le mécanisme direct sous-jacent peut être reproduit, la conscience de l'IA est possible."
+    },
+    "survival_beyond_death": {
+      "stance": "Non",
+      "rationale": "La théorie souligne la dépendance de l'expérience envers l'environnement physique externe (stimulus distal) et est classée sous Matérialisme, suggérant que la conscience est liée à l'organisme physique et à son environnement."
+    },
+    "meaning_and_purpose": {
+      "stance": "Conditionnel",
+      "rationale": "La théorie concerne principalement la mécanique de la perception, non la réalité ultime ou l'existence. En tant que théorie matérialiste, elle se rabat par défaut sur un sens, un but et des valeurs humanistes, créés par nous-mêmes."
+    },
+    "virtual_immortality": {
+      "stance": "Incertaine",
+      "rationale": "L'immortalité virtuelle requiert la duplication parfaite de la conscience. Le caractère phénoménal étant constitué par l'objet, un soi virtuel pourrait échouer à conserver son caractère phénoménal original s'il lui manque une véritable « relation de conscience directe » envers l'environnement physique réel."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Naïve Realist Theories",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Chevauchement (partage la position anti-représentationnelle)"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "Critique (rejette la médiation par la représentation)"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Critique (implicite, le caractère phénoménal étant fondé sur la constitution par l'objet, et non sur le rôle fonctionnel)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Direct Perception Theory",
+        "year": "APA website"
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking, N. Block",
+        "year": "2023"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "El Funcionalismo Homuncular de Lycan",
+    "summary": "Esta teoría sostiene que la conciencia es enteramente física y funcional, y consiste en un sistema de procesamiento de información jerárquicamente organizado. La conciencia surge específicamente de representaciones de segundo orden, que funcionan como un mecanismo de sentido interno dirigido hacia los propios estados mentales de orden inferior del sistema.",
+    "associated_thinkers": ["William Lycan"],
+    "category": "Materialism",
+    "subcategory": "Representational",
+    "core_identity_tagline": "‘La Conciencia como Representación de Segundo Orden y Atención Interna’",
+    "classification_tags": [
+      "functionalism",
+      "representationalism",
+      "higher-order",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia (la mente) se identifica como la organización funcional de un sistema de procesamiento de información, explicada enteramente por la intencionalidad y la representación de segundo orden de los estados mentales. Los qualia se identifican con los contenidos intencionales de estas representaciones.",
+    "ontological_status": "Fisicalismo Reductivo/Materialismo. Lycan defiende el materialismo en general.",
+    "mind_body_relationship": "Teoría de la Identidad, específicamente Funcionalismo (o Teleofuncionalismo), donde los estados mentales se definen por su rol funcional dentro del sistema físico.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia Débil. Es una explicación materialista que sostiene que la naturaleza fenoménica se agota en hechos funcionales y representacionales, lo que implica que lo mental surge de, y es plenamente explicable por, los procesos físicos subyacentes (una postura necesaria para evitar poner en aprietos al materialismo).",
+    "subjectivity_and_intentionality": "La intencionalidad (o 'aboutness') y la organización funcional explican por completo la mente/conciencia (la 'hegemonía de la representación'). La subjetividad surge del funcionamiento de mecanismos de atención interna dirigidos a estados de orden inferior (explicación del sentido interno).",
+    "qualia_account": "Las características cualitativas (qualia) se conciben representacionalmente; son objetos intencionales (representata) de la experiencia, lo que significa que no hay ningún 'parche mental' no físico o no representacional involucrado. Los qualia se agotan en la naturaleza intencional/representacional de los estados mentales relevantes.",
+    "ontological_commitments": "Componentes físicos (sin partes ni propiedades no físicas), sistemas de procesamiento de información funcionalmente organizados, contenidos intencionales y estados mentales de segundo orden.",
+    "epistemic_access": "La conciencia se conoce mediante la introspección (que produce hechos inefables, de grano fino y perspectivales, lo que explica la 'brecha explicativa') y mediante el modelado científico en tercera persona de la organización funcional y las capacidades representacionales del cerebro.",
+    "constituents_and_structure": "Los seres humanos son sistemas intencionales jerárquicamente compuestos (organización homuncular) cuyas capacidades representacionales se comprenden en términos de función biológica."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica (explicada representacionalmente), percatación y acceso privilegiado.",
+    "distinctive_mechanism_or_principle": "El funcionamiento de mecanismos de atención interna dirigidos a estados psicológicos de orden inferior, que crea la conciencia como una representación de segundo orden (explicación del sentido interno).",
+    "dynamics_of_emergence": "La conciencia es una propiedad dinámica realizada en la función biológica y la organización funcional del cerebro, en consonancia con la idea de la mente como un verbo (proceso) más que como un sustantivo (cosa).",
+    "location_and_distribution": "Localizada dentro del cerebro, en particular en los mecanismos de atención interna dirigidos a estados psicológicos de orden inferior.",
+    "causation_and_functional_role": "La causación mental se afirma implícitamente mediante el rol funcional de los estados mentales. La conciencia funciona como un sistema de atención interna/sentido interno, proporcionando representaciones de segundo orden de los estados mentales de primer orden.",
+    "integration_or_binding": "La integración o unificación de la experiencia se logra implícitamente mediante la organización funcional que subyace a la representación de segundo orden de los estados mentales (aunque los detalles específicos del mecanismo de vinculación no son prominentes en los extractos de las fuentes, se basa en la organización funcional).",
+    "information_flow_or_representation": "El procesamiento de información es central; la conciencia se describe en términos de sistemas de procesamiento de información funcionalmente organizados. La 'hegemonía de la representación' significa que la intencionalidad y la representación son los elementos explicativos centrales.",
+    "evolutionary_account": "La teoría es en general compatible con las explicaciones evolutivas comunes a los marcos materialistas y funcionalistas, asumiendo que la organización funcional responsable de la representación y la conciencia evolucionó con fines adaptativos, aunque las fuentes no ofrecen detalles filogenéticos específicos.",
+    "core_claims_and_evidence": [
+      "La conciencia se explica exhaustivamente mediante la organización funcional y la representación de segundo orden.",
+      "Los qualia son objetos intencionales (representata) y su naturaleza se agota en el contenido representacional.",
+      "La 'brecha explicativa' percibida es real pero se debe únicamente a la naturaleza inefable y de grano fino de los hechos fenoménicos, no a un fracaso del materialismo."
+    ],
+    "basis_of_belief_or_evidence_type": "Defensa filosófica (defensa del materialismo/funcionalismo) y análisis conceptual."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Comprobable conceptualmente y, en principio, empíricamente. Si la naturaleza fenoménica se agota en el rol funcional/representacional, una demostración neurocientífica/computacional adecuada de esos roles debería bastar, aunque Lycan enfatiza la naturaleza filosófica de los argumentos contra el materialismo.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "El intento de Lycan de refutar el argumento del conocimiento (el experimento mental de Mary) argumentando que el carácter fenoménico se agota en el carácter representacional es rechazado por los críticos. Estos cuestionan si los roles funcionales pueden realmente capturar los aspectos cualitativos de la experiencia.",
+    "open_questions_and_limitations": "La limitación central es convencer a los escépticos (como Jackson, antes de su retractación) de que la reducción de los qualia a contenido representacional/funcional realmente disuelve el misterio fenoménico.",
+    "ontological_coherence": "Altamente coherente dentro de una ontología fisicalista/materialista. Su objetivo explícito es mostrar que la experiencia consciente (incluidos los qualia) es plenamente compatible con el fisicalismo al identificarla con roles funcionales y representacionales."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sí",
+      "rationale": "Como teoría funcionalista, si los sistemas artificiales pueden realizar la organización funcional necesaria y las capacidades representacionales de segundo orden, deben ser, en principio, conscientes."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoría es estrictamente materialista y postula que la conciencia se realiza enteramente dentro del cerebro físico funcionalmente organizado; por lo tanto, no puede persistir tras la muerte corporal."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo humanista",
+      "rationale": "En consonancia con su fundamento materialista, la conciencia permite la intencionalidad y la agencia, proporcionando un sentido creado por el propio sistema biológico, pero sin implicar ningún propósito cósmico último."
+    },
+    "virtual_immortality": {
+      "stance": "Probable",
+      "rationale": "Dado que la conciencia se define mediante la organización funcional y el contenido representacional, una duplicación funcional perfecta (subida de la mente) de los patrones y vías neuronales a un medio no biológico preservaría, en principio, el yo mental en primera persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories of Consciousness",
+        "relationship": "Superposición/Extensión"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Extensión/Contraste"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Clasificación/Fundamento"
+      },
+      {
+        "name": "Jackson’s Representationalism and the Knowledge Argument",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Consciousness and Experience",
+        "year": 1996
+      },
+      {
+        "title_with_names": "The Plurality of Consciousness",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Representational theories of consciousness, W. G. Lycan",
+        "year": 2019
+      }
+    ]
+  }
+}

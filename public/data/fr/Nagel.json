@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "L'esprit et le cosmos de Nagel",
+    "summary": "Cette perspective remet en question la conception matérialiste néo-darwinienne dominante de la nature, en soutenant qu'elle ne parvient pas à rendre compte de la nature irréductible de l'expérience subjective, ou de « ce que cela fait » d'être un organisme conscient. Elle propose que l'esprit doive être incorporé comme un principe fondamental de la nature elle-même.",
+    "associated_thinkers": ["Thomas Nagel"],
+    "category": "Théories du défi",
+    "subcategory": "L'esprit et le cosmos de Nagel",
+    "core_identity_tagline": "L'esprit comme principe fondamental de la nature",
+    "classification_tags": [
+      "subjectivity",
+      "anti-reductionism",
+      "panpsychism",
+      "philosophical critique",
+      "secular monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est fondamentalement une expérience subjective — « ce que c'est pour le sujet lui-même » — qui résiste à toute réduction à des descriptions purement physiques et à la troisième personne.",
+    "ontological_status": "Défi philosophique (penchant vers le monisme universel/panpsychisme)",
+    "mind_body_relationship": "Critique la conception actuelle de la relation corps-esprit, affirmant que nous n'avons aucune conception de la manière dont les aspects physiques et phénoménologiques pourraient être liés ou identiques.",
+    "primitive_or_emergent_status": "Primitif (ou fondamental)",
+    "emergence_type": "Contesté/Rejeté",
+    "subjectivity_and_intentionality": "La subjectivité (la qualité de « ce que c'est ») constitue le cœur même de la conscience. L'intentionnalité est implicitement non réductible aux seuls faits physiques.",
+    "qualia_account": "Les qualia (qualités ressenties) sont au cœur du problème, et Nagel soutient qu'aucune explication objective ou physicaliste actuellement formulée ne peut rendre compte de leur réalité subjective.",
+    "ontological_commitments": "Rejet de la conception matérialiste néo-darwinienne de la nature. Engagement envers la conscience comme trait de la réalité exigeant une compréhension laïque élargie de la nature, impliquant possiblement des éléments mentaux de base universellement disponibles.",
+    "epistemic_access": "Principalement par l'introspection à la première personne et l'analyse philosophique de l'expérience subjective, soutenant que connaître tous les faits objectifs est insuffisant pour connaître les faits subjectifs.",
+    "constituents_and_structure": "La solution ultime est conjecturée comme impliquant une composition à partir d'éléments de base universellement disponibles qui possèdent intrinsèquement des propriétés mentales, en cohérence avec une structure panpsychiste."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale, expérience subjective, défi à l'agentivité/la cognition (en critiquant le matérialisme).",
+    "distinctive_mechanism_or_principle": "Se concentre principalement sur la mise en évidence des limites conceptuelles du réductionnisme physique plutôt que sur la formulation d'un mécanisme définitif. Sur le plan mécanistique, sa solution suggère que la conscience émerge par la composition d'éléments fondamentaux de nature panpsychiste.",
+    "dynamics_of_emergence": "La conscience serait inhérente à la composition d'éléments de base universellement disponibles, plutôt que d'émerger tardivement dans l'évolution par le biais de lois spécialisées.",
+    "location_and_distribution": "Universelle/systémique (déduite des tendances vers le monisme universel/panpsychisme) ou inhérente à la trame de la nature.",
+    "causation_and_functional_role": "Principalement critique, s'opposant à la vision matérialiste selon laquelle la conscience est un épiphénomène inerte. Si l'esprit est un principe fondamental, cela implique un rôle organisateur irréductible dans le cosmos.",
+    "integration_or_binding": "Censée être résolue par la composition, où des éléments mentaux au niveau micro s'agrègent pour former la conscience humaine complexe.",
+    "information_flow_or_representation": "Le traitement de l'information seul est insuffisant pour expliquer la conscience, à moins qu'il ne traite de l'aspect subjectif irréductible.",
+    "evolutionary_account": "Rejette le compte rendu matérialiste néo-darwinien comme fondamentalement défaillant, car il ne peut expliquer l'esprit. Propose que l'esprit doive être incorporé comme un principe fondamental opérant tout au long de l'histoire naturelle.",
+    "core_claims_and_evidence": [
+      "Le caractère subjectif de l'expérience est central à la conscience, capturé par « ce que cela fait » d'être un organisme.",
+      "La conscience pose une énigme conceptuelle fondamentale que la science ne peut actuellement saisir.",
+      "Le réductionnisme psychophysique est une prémisse erronée d'une vision matérialiste plus large.",
+      "L'explication ultime pourrait impliquer la conscience comme un aspect fondamental et universellement distribué de la nature."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, conceptuel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Incertain/principalement conceptuel. La force de la théorie réside dans son diagnostic de l'écart explicatif, non dans une vérification empirique. Son alternative suggérée (le panpsychisme) est hautement spéculative.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Critiquée pour se replier sur le « mystérianisme » et pour rejeter les cadres scientifiques établis (le matérialisme néo-darwinien) sans offrir d'ontologie laïque concrète, solide et détaillée comme alternative.",
+    "open_questions_and_limitations": "Nagel admet n'avoir « aucune conception » de la manière dont une explication des phénomènes mentaux en termes physiques pourrait fonctionner. L'alternative proposée (le panpsychisme) doit relever le défi de la manière dont des micro-éléments se combinent pour former des esprits complexes.",
+    "ontological_coherence": "Cohérente en tant que défi au réductionnisme ; sa suggestion ontologique positive (le panpsychisme) maintient une cohérence au sein d'un cadre moniste large mais manque de détails mécanistiques."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Incertain/conditionnel",
+      "rationale": "En tant que critique du fonctionnalisme et du réductionnisme, la position de Nagel suggère que les entités purement computationnelles dépourvues de propriétés mentales fondamentales sont vraisemblablement des zombies philosophiques ; le résultat dépend de la capacité future de l'IA à instancier les principes mentaux universels postulés."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditionnel",
+      "rationale": "Si la conscience est une propriété universelle et fondamentale plutôt qu'un émergent biologique, son essence pourrait persister après la dissolution corporelle (déduit des tendances panpsychistes), bien que probablement sans conservation de l'identité personnelle."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmique",
+      "rationale": "Cherche explicitement à incorporer l'esprit comme principe naturel fondamental pour surmonter le « caractère dénué de sens » impliqué par le matérialisme, suggérant une finalité ou une valeur cosmique inhérente et non théiste."
+    },
+    "virtual_immortality": {
+      "stance": "Improbable/conditionnel",
+      "rationale": "L'irréductibilité de l'expérience subjective implique que la duplication des seuls motifs physiques/fonctionnels échouerait à transférer la conscience originale à la première personne."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Le problème difficile de la conscience de Chalmers",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Le mystère ultime de McGinn (mystérianisme)",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Panpsychismes",
+        "relationship": "Extension"
+      },
+      {
+        "name": "L'identité esprit-cerveau de Papineau",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is It Like to Be a Bat?",
+        "year": 1974
+      },
+      {
+        "title_with_names": "The View from Nowhere",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Panpsychism (in Mortal Questions)",
+        "year": 1979
+      }
+    ]
+  }
+}
