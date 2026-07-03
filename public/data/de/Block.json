@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Blocks biologischer Reduktionismus",
+    "summary": "Block plädiert für eine reduktive physikalistische Erklärung des phänomenalen Bewusstseins und grenzt es scharf vom kognitiven Zugriff ab. Er schlägt vor, dass phänomenales Bewusstsein auf spezifische neurobiologische Eigenschaften reduzierbar ist, etwa die elektrochemischen Aktivitäten und komplexen integrierten Systeme, die sich in sensorischen und postsensorischen Gehirnregionen finden.",
+    "associated_thinkers": [
+      "Ned Block"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "Phänomenales Bewusstsein als neurobiologische elektrochemische Aktivität",
+    "classification_tags": [
+      "physicalism",
+      "reductionism",
+      "neurobiology",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phänomenale Zustände sind buchstäblich identisch mit bestimmten Arten neurobiologischer Zustände, die durch ihre elektrochemische Natur gekennzeichnet sind.",
+    "ontological_status": "Reduktiver Physikalismus",
+    "mind_body_relationship": "Geist-Gehirn-Identitätstheorie (als starker Kandidat für die Reduktion), bei der mentale Zustände identisch mit physischen Gehirnzuständen sind.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (Begründung: Der Reduktionismus impliziert, dass Bewusstsein vollständig erklärbar und auf physische Eigenschaften niedrigerer Ebene reduzierbar ist, was der Definition der schwachen Emergenz entspricht.)",
+    "subjectivity_and_intentionality": "Die Subjektivität ist an die spezifische biologische Maschinerie gebunden, die für die Reduktion erforderlich ist. Unterstützt den Repräsentationalismus erster Ordnung und verknüpft den phänomenalen Charakter direkt mit intentionalem Gehalt erster Ordnung.",
+    "qualia_account": "Qualia werden mit den spezifischen neurobiologischen und elektrochemischen Eigenschaften des integrierten Systems des Gehirns identifiziert (oder auf diese reduziert).",
+    "ontological_commitments": "Elektrochemische Aktivität von Neuronen, spezifische neuronale Schaltkreise und Konnektivität mit subkortikalen Strukturen wie dem Thalamus.",
+    "epistemic_access": "Zugänglich über wissenschaftliche Untersuchung, die sich darauf konzentriert, die physische Eigenschaft zu finden, welche die funktionale Rolle des Bewusstseins ausfüllt, insbesondere durch die Untersuchung der neuronalen Grundlage des phänomenalen Bewusstseins.",
+    "constituents_and_structure": "Sich ausbreitende neurophysiologische Funken und diffundierende neurochemische Transmitter, die ein komplexes und integriertes System bilden."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein, sensorisches Bewusstsein (das ausdrücklich vom kognitiven Zugriff/Zugriffsbewusstsein abgegrenzt wird).",
+    "distinctive_mechanism_or_principle": "Neurobiologische Reduktion auf Grundlage der elektrochemischen Natur des Gehirns. Bewusste Wahrnehmung ist mit rekurrenten Aktivierungen in Wahrnehmungsarealen (wie dem visuellen Areal V5) verbunden und unterscheidet sich vom globalen Broadcasting, das für den kognitiven Zugriff erforderlich ist.",
+    "dynamics_of_emergence": "Bewusstsein geht aus dem großartig komplexen und integrierten System elektrochemischer Aktivität hervor. Die Phänomenologie erster Ordnung kann das globale Broadcasting kausal befördern und damit die Annahme von Theorien wie der Theorie des globalen Arbeitsraums umkehren.",
+    "location_and_distribution": "Lokalisiert in sensorischen und vielleicht postsensorischen Systemen (z. B. dem visuellen Kortex), die Konnektivität mit dem Thalamus erfordern. Es wird angenommen, dass das phänomenale Bewusstsein die kognitive Zugänglichkeit ‚überfließt‘.",
+    "causation_and_functional_role": "Der Hauptfokus liegt eher auf der Identität als auf der Funktion. Das phänomenale Bewusstsein kann ein kausaler Faktor bei der Beförderung des globalen Broadcasting für den kognitiven Zugriff sein.",
+    "integration_or_binding": "Erreicht durch die integrierte und komplexe Organisation der elektrochemischen Aktivität des neuronalen Systems.",
+    "information_flow_or_representation": "Bevorzugt den Repräsentationalismus erster Ordnung und postuliert, dass der phänomenale Charakter durch analogen, feinkörnigen intentionalen Gehalt in Kurzzeitgedächtnisspeichern repräsentiert wird, der Gedanken höherer Ordnung zur Verfügung steht.",
+    "evolutionary_account": "Setzt einen evolutionären Ursprung der erforderlichen biologischen Maschinerie voraus, im Einklang mit dem Physikalismus, doch spezifische evolutionäre Behauptungen sind nicht der Kernfokus der Theorie.",
+    "core_claims_and_evidence": [
+      "Phänomenales Bewusstsein ist auf seine physische Grundlage in der Neurobiologie reduzierbar.",
+      "Die elektrochemische Natur neuronaler Systeme ist der Kandidat für die Reduktion des Bewusstseins.",
+      "Phänomenales Bewusstsein fließt die kognitive Zugänglichkeit über, was bedeutet, dass wir mehr Erfahrung haben, als wir berichten können.",
+      "Bewusste Wahrnehmung wird mit aktiven rekurrenten Schleifen in Wahrnehmungsarealen plus Hintergrundbedingungen identifiziert."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (Verteidigung des Reduktionismus), Empirisch (Rückgriff auf neurobiologische Beispiele und Daten)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar (erfordert die erfolgreiche Identifikation der physischen Eigenschaft, die die phänomenale Rolle buchstäblich realisiert).",
+    "known_empirical_interventions_or_tests": "Untersuchung neuronaler Aktivität und Korrelationen (z. B. elektrochemische Aktivität, rekurrente Schleifen) in sensorischen und postsensorischen Systemen, um den Kandidaten für die neurobiologische Reduktion zu finden.",
+    "criticisms_and_tensions": "Kritisiert dafür, die Erklärungslücke nicht zu schließen, indem die Identitätsaussage nicht verständlich gemacht wird. Block selbst argumentiert, dass der metaphysische Funktionalismus und der reduktive Physikalismus inkompatible Rivalen sind. Gedankenexperimente wie ‚verblassende Qualia‘ fordern die Notwendigkeit spezifischer biologischer Hardware für die Phänomenologie heraus.",
+    "open_questions_and_limitations": "Die zentrale Herausforderung besteht darin, die spezifische physische Eigenschaft zu finden, welche die Reduktion erfolgreich vollendet (der ‚zweite Schritt‘). Es muss vollständig erklärt werden, warum die spezifische biologische Maschinerie für Qualia notwendig ist.",
+    "ontological_coherence": "Vereinbar mit der materialistischen Ontologie; hochgradig vereinbar mit der Geist-Gehirn-Identitätstheorie. Block betrachtet seine Position als unvereinbar mit dem Funktionalismus als metaphysischer Behauptung."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Nein",
+      "rationale": "Wenn Bewusstsein auf die spezifische elektrochemische/biologische Natur neuronalen Gewebes reduzierbar ist, dann können nichtbiologische Systeme (wie digitale KI), denen diese spezifische physische Zusammensetzung fehlt, kein echtes phänomenales Bewusstsein instanziieren."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Da Bewusstsein mit biologischen Prozessen des Gehirns identifiziert und auf diese reduzierbar ist, zieht die Zerstörung des Gehirns das Erlöschen des Bewusstseins nach sich."
+    },
+    "meaning_and_purpose": {
+      "stance": "Ungewiss",
+      "rationale": "Als rein physikalistische Reduktion liefert die Theorie keinen kosmischen Sinn oder Zweck, wenngleich sie implizit einen humanistischen, vom bewussten Organismus geschaffenen Sinn erlaubt (gemeinsam den meisten Materialismustheorien)."
+    },
+    "virtual_immortality": {
+      "stance": "Nein",
+      "rationale": "Block legt nahe, dass die Phänomenologie von der Natur unserer biologischen Maschinerie abhängt. Da die virtuelle Unsterblichkeit auf komputationaler/funktionaler Replikation in einem nichtbiologischen Medium beruht, würde der phänomenale Charakter (die Qualia) bei der Übertragung wahrscheinlich verloren gehen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Higher-Order Theories (HOT)",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Consciousness, accessibility, and the mesh between psychology and neuroscience",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Functional reduction",
+        "year": 2008
+      }
+    ]
+  }
+}

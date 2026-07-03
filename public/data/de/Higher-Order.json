@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Theorien höherer Ordnung des Bewusstseins",
+    "summary": "Theorien höherer Ordnung (Higher-Order Theories, HOT) postulieren, dass das, was eine Wahrnehmung bewusst macht, das Vorhandensein eines begleitenden kognitiven Zustands über diese Wahrnehmung ist. Dieser Mechanismus ist ein zweistufiger Prozess, bei dem das phänomenale Bewusstsein das höherstufige Erfassen von Wahrnehmungen oder mentalen Zuständen erster Ordnung ist.",
+    "associated_thinkers": [
+      "Peter Carruthers",
+      "David Rosenthal",
+      "Joseph LeDoux",
+      "Hakwan Lau"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Repräsentational",
+    "core_identity_tagline": "Bewusstsein als Repräsentation höherer Ordnung",
+    "classification_tags": [
+      "representation",
+      "cognitive",
+      "two-level process",
+      "inner-sense theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phänomenales Bewusstsein wird als das höherstufige Erfassen oder die höherstufige Repräsentation (ein kognitiver Zustand oder Gedanke) identifiziert, das bzw. die auf einen mentalen Zustand oder eine Wahrnehmung erster Ordnung gerichtet ist.",
+    "ontological_status": "Reduktiver Physikalismus/Funktionalismus (Begründung: Als materialistische Theorie reduziert sie Bewusstsein auf funktionale/kognitive Prozesse, die vom Gehirn umgesetzt werden, oft in mentalistischen Begriffen formuliert.)",
+    "mind_body_relationship": "Bewusstsein entsteht durch das kausale Verhältnis zwischen zwei mentalen Ebenen (Zuständen erster und zweiter Ordnung), die beide vollständig durch physische Prozesse im Gehirn realisiert werden.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (Begründung: Als materialistische Kerntheorie gilt Bewusstsein im Prinzip als reduzierbar, auch wenn die Reduktion eher in mentalistischen oder funktionalen Begriffen als in direkter Neurophysiologie formuliert wird.)",
+    "subjectivity_and_intentionality": "Subjektivität entsteht, wenn der Zustand erster Ordnung das Objekt eines Gedankens zweiter Ordnung ist, was eine Dimension des ‚Scheinens‘ oder des Selbstbewusstseins verleiht. Intentionalität wirkt auf beiden Ebenen: erster Ordnung (über die Welt) und zweiter Ordnung (über den Zustand erster Ordnung).",
+    "qualia_account": "Qualia bzw. der phänomenale Charakter werden durch das Vorhandensein des begleitenden kognitiven Zustands höherer Ordnung über die Wahrnehmung erklärt, mit dem Ziel, phänomenales Bewusstsein reduktiv in mentalistischen Begriffen zu erklären.",
+    "ontological_commitments": "Mentale Zustände erster Ordnung (Wahrnehmungen/Empfindungen), kognitive Zustände zweiter Ordnung (Gedanken/Repräsentationen) und komplexe kortikale Netzwerke (z. B. der präfrontale Kortex), die diese Repräsentationen instanziieren.",
+    "epistemic_access": "Zugänglich über Introspektion (da bewusste Zustände Zustände sind, deren wir uns gewahr sind) und über die Dritte-Person-Modellierung der kognitiven Architekturen und korrelierten neuronalen Aktivierungsmuster (z. B. der perzeptuellen Realitätsüberwachung).",
+    "constituents_and_structure": "Eine zweistufige Verarbeitungsstruktur aus Repräsentationen erster Ordnung (sensorische Information) und kognitiven Repräsentationen zweiter Ordnung (Gedanken oder Wahrnehmungen), die auf diese Zustände erster Ordnung gerichtet sind."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein; Selbstbewusstsein (als Gewahrsein der eigenen Zustände); emotionales Bewusstsein (in LeDoux' Variante).",
+    "distinctive_mechanism_or_principle": "Das Vorhandensein eines begleitenden kognitiven oder Meta-Zustands (der Repräsentation oder des Gedankens höherer Ordnung), der auf einen tieferstufigen mentalen Zustand zielt und ihn dadurch von unbewusst zu bewusst verwandelt.",
+    "dynamics_of_emergence": "Bewusstsein ist ein dynamisches, prozessuales Phänomen, das aus dem zweistufigen Verhältnis zwischen der sensorischen Repräsentation und der überwachenden kognitiven Struktur entsteht (z. B. aktuale Verursachung in der aktualistischen HOT oder Verfügbarkeit in der dispositionalistischen HOT).",
+    "location_and_distribution": "Primär lokalisiert in kortikalen Regionen, die mit höherstufiger kognitiver Funktion und Metakognition assoziiert sind, wie dem präfrontalen Kortex (PFC), im Gegensatz zu den Theorien vom ‚hinteren Teil des Kopfes‘.",
+    "causation_and_functional_role": "Der Zustand höherer Ordnung verleiht dem tieferstufigen Zustand Bewusstsein (aktualistische HOT). Die funktionale Rolle besteht typischerweise darin, den Gehalt der Wahrnehmung erster Ordnung für flexible kognitive Verarbeitung und Berichterstattung verfügbar zu machen.",
+    "integration_or_binding": "Es wird angenommen, dass Integration erfolgt, vielleicht implizit durch die von der vereinheitlichten Repräsentation höherer Ordnung ermöglichte funktionale Integration oder durch Gedächtnismechanismen, die perzeptuelle Repräsentationen verknüpfen (wie in Laus Variante angemerkt).",
+    "information_flow_or_representation": "Bewusstsein wird durch einen Informationsfluss erreicht, der zu Repräsentationen von Repräsentationen (Repräsentationen zweiter Ordnung) führt, welche die sensorische Eingabe erster Ordnung ‚markieren‘ oder kategorisieren.",
+    "evolutionary_account": "Bewusste Mechanismen entwickelten sich aus einfacheren Prozessen und ermöglichten potenziell komplexe emotionale Erfahrungen und ein selbstbezogenes Gewahrsein durch kortikal basierte allgemeine Netzwerke der Kognition.",
+    "core_claims_and_evidence": [
+      "Phänomenales Bewusstsein wird durch einen kognitiven Zustand über die Wahrnehmung vermittelt (zweistufiger Prozess).",
+      "Bewusste Zustände werden von unbewussten Zuständen durch das Vorhandensein einer Repräsentation höherer Ordnung unterschieden.",
+      "Blindsehen wird durch das Vorhandensein einer Repräsentation erster Ordnung ohne die entsprechende Repräsentation höherer Ordnung erklärt."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (Erklärung der Unterscheidung bewusst/unbewusst), Kognitiv, neurowissenschaftliche Modellierung (z. B. Blindsehen-Studien)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar (insbesondere hinsichtlich des Unterschieds zwischen Verarbeitung erster Ordnung und entsprechender Aktivität höherer Ordnung im Kortex).",
+    "known_empirical_interventions_or_tests": "Empirische Belege werden oft durch Vergleiche von bewusster und unbewusster Wahrnehmung (wie beim Blindsehen) gesucht, um das Vorhandensein oder die Aktivität der erforderlichen Repräsentation höherer Ordnung zu prüfen.",
+    "criticisms_and_tensions": "Kritisiert wegen der Schwierigkeit, das genaue erforderliche Verhältnis zwischen dem Gedanken höherer Ordnung und der Wahrnehmung erster Ordnung zu spezifizieren, das Bewusstsein verleiht, was zu Unzulänglichkeiten in der Gehaltsbeschreibung führt. Der Ansatz der ‚doppelten Repräsentation‘ gilt als konzeptuell mysteriös.",
+    "open_questions_and_limitations": "Die genaue Natur des Verhältnisses, das zwischen einem Zustand höherer Ordnung und einer Wahrnehmung erster Ordnung bestehen muss, damit Bewusstsein entsteht, bleibt eine offene Frage. Sie steht zudem vor dem allgemeinen Einwand bezüglich der Erklärungslücke bei den Qualia.",
+    "ontological_coherence": "Hochgradig kohärent innerhalb einer physikalistischen/materialistischen und funktionalistischen Ontologie, gestützt auf wissenschaftlich handhabbare Konzepte wie Repräsentation und kognitive Zustände."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Als materialistische Theorie, die auf kognitiven und repräsentationalen Strukturen beruht, ist Bewusstsein grundlegend komputational oder funktional, was bedeutet, dass fortgeschrittene KI-Systeme, die zur Selbstüberwachung und zur Bildung höherstufiger Repräsentationen fähig sind, Bewusstsein erlangen könnten."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein wird vollständig durch komplexe, kortikal basierte Gehirnmechanismen realisiert; daher kann es über den Zusammenbruch des biologischen Substrats hinaus nicht fortbestehen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Da es aus emergenten biologischen Prozessen hervorgeht, ermöglicht Bewusstsein Selbstreflexion und Handlungsträgerschaft, impliziert aber keine letztgültige kosmische Teleologie, im Einklang mit der deflationären Haltung des Materialismus."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn Bewusstsein vollständig durch repräsentationale und funktionale Beziehungen definiert ist, sollte eine vollkommene Duplikation und das Hochladen dieser komplexen kognitiven Zustände in ein nichtbiologisches Medium das mentale Selbst der Ersten-Person bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "Erweiterung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Higher-Order Theories of Consciousness, Peter Carruthers",
+        "year": 2020
+      },
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, Joseph LeDoux and Richard Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id_and_class": {
+    "theory_title": "Buzsákis neuronale Syntax und selbstverursachte Rhythmen",
+    "summary": "Diese Theorie stellt das Gehirn als selbstorganisiertes System und als ein 'vorhersagendes Gerät' dar, das kontinuierlich intrinsische Muster und Rhythmen (neuronale Syntax) erzeugt. Kognition wird als internalisierte Handlung verstanden, die entsteht, wenn sich das Gehirn von seinen Sensoren löst, um 'Was-wäre-wenn'-Szenarien zu untersuchen. Bedeutung wird später erworben, wenn diese inneren Muster durch handlungsbasierte Interaktionen mit der Umwelt geerdet werden.",
+    "associated_thinkers": [
+      "György Buzsáki"
+    ],
+    "category": "Theorien des Materialismus",
+    "subcategory": "Neurobiologisch",
+    "core_identity_tagline": "‚Bewusstsein als selbstverursachte neuronale Rhythmen, geerdet in Handlung‘",
+    "classification_tags": [
+      "neurobiological",
+      "rhythms",
+      "action-based cognition",
+      "emergentism",
+      "predictive processing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird, sofern es aus dieser Theorie der Kognition entwickelt wird, mit selbst hervorgegangenem oszillatorischem Timing und den entsprechenden dynamischen, selbstorganisierten neuronalen Mustern (neuronale Syntax) identifiziert. Das Gehirn erzeugt grundlegend Information, es verarbeitet sie nicht.",
+    "ontological_status": "Physikalismus / Materialismus",
+    "mind_body_relationship": "Der Geist (Kognition/Bewusstsein) verhält sich zum Körper als selbstverursachte Funktionen, die aus dem außerordentlich komplexen zentralen Nervensystem hervorgehen. Dies fungiert als Identität oder emergente Korrelation innerhalb eines materialistischen Rahmens.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (gerechtfertigt durch die Einordnung unter den Materialismus, der ansetzt, dass Bewusstsein vollständig durch physische Zustände erklärt werden kann, auch wenn es aus komplexen Prozessen hervorgeht).",
+    "subjectivity_and_intentionality": "Subjektivität wird als aus der 'Von-innen-nach-außen'-Perspektive entstehend abgeleitet, bei der das Gehirn aktiv Hypothesen gegen die Welt projiziert und prüft. Intentionalität ist an den Zweck des Gehirns als vorhersagendes Gerät gebunden, das darauf ausgerichtet ist, die Konsequenzen von Handlungen zu erzeugen und vorherzusagen.",
+    "qualia_account": "Nicht explizit bereitgestellt. Die Theorie konzentriert sich primär auf die Mechanismen der Kognition. Sie impliziert, dass phänomenale Qualitäten aus der Organisation komplexer neuronaler Syntax hervorgehen würden, im Einklang mit ihrer Einordnung als neurobiologische Theorie des Materialismus.",
+    "ontological_commitments": "Neuronale Verbände, dynamische Gehirnrhythmen, vorbestehende Konnektivität/Dynamik in kortikalen Systemen sowie neuronale Syntax.",
+    "epistemic_access": "Beobachtung und Modellierung neuronaler Aktivität, insbesondere die Messung elektrischer Aktivität aus der Dritte-Person-Perspektive (oszillatorisches Timing und Rhythmen) und der daraus resultierenden kognitiven Funktionen.",
+    "constituents_and_structure": "Hierarchische Organisation verschachtelter Gehirnrhythmen (oszillatorisches Timing) und Kreuzfrequenzkopplung, die selbstorganisierte Sequenzen von Zellverbänden stützen. Die Struktur ist dynamisch und metastabil."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kognition, Gedächtnis, Planung, Selbstgewahrsein (als internalisierte Handlung). Die Theorie konzentriert sich auf Mechanismen, die phänomenales Bewusstsein potenziell erklären können.",
+    "distinctive_mechanism_or_principle": "Selbst hervorgegangenes oszillatorisches Timing ('Rhythmen des Gehirns'), das als grundlegender Organisator neuronaler Information (neuronale Syntax) dient. Kognition ist ausdrücklich internalisierte Handlung.",
+    "dynamics_of_emergence": "Dynamischer Prozess. Kognition entsteht, wenn das Gehirn seine intrinsische selbstorganisierte Dynamik nutzt, um Konsequenzen zu simulieren (internalisierte Handlung), und sie wird durch fortwährende Interaktionen zwischen mehreren Netzwerkoszillatoren aufrechterhalten.",
+    "location_and_distribution": "Kortikale und hippocampale Netzwerke, mit besonderem Fokus darauf, wie großräumige Gehirnstrukturen und Elektroenzephalogramm-(EEG-)Wellen Information organisieren.",
+    "causation_and_functional_role": "Gehirnaktivität ist grundlegend selbstverursacht, angetrieben von einem Imperativ, Hypothesen zu prüfen und die Konsequenzen von Handlungen vorherzusagen. Die Funktion besteht darin, interne Rhythmen umzustrukturieren, um kognitive Karten für Gedächtnis und Planung zu erzeugen, exaptiert aus grundlegenden Schaltkreisen der Körperregulation.",
+    "integration_or_binding": "Die neuronale Syntax organisiert und segmentiert neuronale Information über diverse Gehirnrhythmen, einschließlich hierarchischer und Kreuzfrequenzkopplung. Semantik bindet sich über den Abgleich mit äußeren Eingaben/Handlungskonsequenzen an diese spontanen neuronalen Muster.",
+    "information_flow_or_representation": "Das Gehirn erzeugt Information, anstatt sie aufzunehmen. Der Informationsfluss ist 'von innen nach außen': Das Gehirn füllt die Welt mit Handlung, und äußere Eingaben wählen spontane neuronale Muster aus und modifizieren sie, wodurch sie Bedeutung (Semantik) erhalten.",
+    "evolutionary_account": "Kognition (einschließlich Planung und Gedächtnis) wird durch die Exaptation und Erweiterung von Schaltkreisen und Algorithmen erklärt, die ursprünglich notwendigen Körperfunktionen dienten, etwa der Regulierung metabolischer und energetischer Prozesse.",
+    "core_claims_and_evidence": [
+      "Das Gehirn ist ein vorhersagendes Gerät, das durch Handlung mit der Umwelt interagiert und interne Rhythmen umstrukturiert.",
+      "Spontane Neuronenaktivität und selbst hervorgegangenes oszillatorisches Timing sind die Quelle und der Organisator kognitiver Fähigkeiten.",
+      "Semantik wird extern durch die Welt ausgewählt und modifiziert vorbestehende neuronale Muster (Kauderwelsch) über den Abgleich während handlungsbasierter Interaktion.",
+      "Kognition (Gedächtnis, Planung) entsteht durch die Exaptation von Schaltkreisen, die metabolische Körperfunktionen regulieren."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch, Neurobiologische/Physiologische Modellierung, gestützt auf Konzepte wie Gehirnrhythmen, neuronale Syntax und zelluläre Aktivität."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar (Tests konzentrieren sich auf die Erzeugung neuronaler Rhythmen, Kreuzfrequenzkopplung und Sequenzen von Neuronenverbänden als Korrelate kognitiver Funktionen).",
+    "known_empirical_interventions_or_tests": [
+      "Messung und Analyse hierarchischer Gehirnrhythmen und Kreuzfrequenzkopplung.",
+      "Studien, die die Konsolidierung von Gedächtnisspuren während Sharp-Wave-Ripple-Mustern des Schlafs nachweisen."
+    ],
+    "criticisms_and_tensions": "Die wesentliche konzeptuelle Spannung besteht darin, dass die Erklärung höherstufiger Kognition (wie neuronale Syntax, Gedächtnis und Planung) nicht gleichbedeutend mit der Erklärung phänomenalen Bewusstseins ist ('was Bewusstsein tatsächlich ist').",
+    "open_questions_and_limitations": "Adressiert die erfolgreiche Erklärung komplexer Kognition und ihrer zugrunde liegenden neuronalen Mechanismen das 'schwere Problem' des phänomenalen Bewusstseins hinreichend? Die Theorie selbst muss zu einer Theorie des Bewusstseins weiterentwickelt werden, um dies zu beantworten.",
+    "ontological_coherence": "Hochgradig kohärent. Die Theorie fügt sich gut in den neurobiologischen und computationalen Materialismus ein und stimmt konsistent mit verwandten Konzepten wie Gehirnschaltkreisen und -zyklen sowie Top-down-prädiktiven Theorien überein."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Als materialistische/neurobiologische Theorie impliziert sie, dass Bewusstsein vollständig physisch ist. Wenn die Mechanismen (neuronale Syntax, selbstverursachte Rhythmen, handlungsbasierte Erdung) in nichtbiologischen Systemen implementiert werden können, ist KI-Bewusstsein im Prinzip erreichbar."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein/Kognition wird als ausschließlich aus der spezifischen, hochkomplexen Dynamik biologischer Gehirnmaterie hervorgehend erklärt. Ein Überleben über das Aufhören dieser materiellen Prozesse hinaus ist ausgeschlossen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Der Fokus liegt auf dem Gehirn als Überlebens- und Hypothesenprüfungsmechanismus, der sich zum adaptiven Vorteil entwickelt hat. Im Einklang mit dem Materialismus bietet sie keinen letztgültigen kosmischen Sinn, Zweck oder Wert, sondern nur solche, die durch menschliche Handlungsfähigkeit geschaffen werden."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Unter der Annahme, dass Bewusstsein strikt durch die beschriebenen neuronalen Muster, Rhythmen und kognitiven Karten realisiert wird, sollte eine perfekte Duplizierung dieses hochintegrierten Systems in ein nichtbiologisches Medium das ursprüngliche mentale Selbst aus der Ersten-Person-Perspektive bewahren und virtuelle Unsterblichkeit im Prinzip erreichbar machen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Brain Circuits and Cycles (9.2.11)",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Top-Down Predictive Theories (9.5.1)",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Electromagnetic Field Theories (9.3)",
+        "relationship": "Mögliche Übereinstimmung"
+      },
+      {
+        "name": "Integrated Information Theory (12)",
+        "relationship": "Kontrast (mechanistischer vs. phänomenaler/axiomatischer Fokus)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Brain from inside Out, György Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rhythms of the Brain, György Buzsáki",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Cognition from the body-brain partnership: exaptation of memory, György Buzsáki and David Tingley",
+        "year": 2023
+      },
+      {
+        "title_with_names": "If the brain is the answer, what was the question? Review of Buzsáki, György. The Brain from Inside Out, Alex Gomez-Marin",
+        "year": 2021
+      }
+    ]
+  }
+}

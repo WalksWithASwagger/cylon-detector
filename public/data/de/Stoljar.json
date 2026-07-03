@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Stoljars epistemische Sichtweise und nicht-standardmäßiger Physikalismus",
+    "summary": "Diese Theorie verteidigt den Physikalismus gegen anti-materialistische Argumente, indem sie die Unwissenheitshypothese einführt, die postuliert, dass wir uns einer Art physischer Tatsache oder Eigenschaft, die für das Bewusstsein relevant ist, zutiefst nicht bewusst sind. Sie argumentiert, dass das vermeintliche Vereinbarkeitsproblem zwischen Bewusstsein und Physikalismus aus unseren gegenwärtigen epistemischen Grenzen erwächst und nicht aus einem ontologischen Mangel des Physikalismus selbst.",
+    "associated_thinkers": ["Daniel Stoljar"],
+    "category": "Materialismus",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "Physikalismus, verteidigt über epistemische Unwissenheit",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ignorance hypothesis",
+      "compatibility problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein ist ein physisches Phänomen, das durch eine Art physischer Tatsache oder Eigenschaft konstituiert wird, die uns gegenwärtig unbekannt ist. Bewusste Zustände sind von anderen Dingen abhängig und nicht fundamental.",
+    "ontological_status": "Nicht-standardmäßiger Physikalismus",
+    "mind_body_relationship": "Bewusstsein ist identisch mit physischen Eigenschaften (Token-Identität) oder wird von ihnen notwendig gemacht, doch die spezifische Natur dieser physischen Eigenschaft ist aufgrund epistemischer Unwissenheit unbekannt. Dieses Verhältnis verteidigt den Physikalismus als eine empirische Wahrheit.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Epistemische Emergenz. Dies ist gerechtfertigt, weil die Theorie zwar den Physikalismus verteidigt (was schwache Emergenz oder Identität im Prinzip nahelegt), das bestimmende Merkmal aber darin besteht, dass die relevanten physischen Tatsachen mit den üblichen Methoden gegenwärtig nicht erkennbar sind, was eine auf Unwissenheit beruhende Erklärungslücke aufrechterhält.",
+    "subjectivity_and_intentionality": "Subjektivität und Intentionalität werden letztlich durch die unbekannten physischen Eigenschaften realisiert, die für das Bewusstsein relevant sind, im Einklang mit der von der Theorie verteidigten physikalistischen Gesamtontologie. Der spezifische Realisierungsmechanismus ist gegenwärtig unbekannt.",
+    "qualia_account": "Das qualitative Erleben (Qualia) entspricht bestimmten, unbekannten physischen Tatsachen oder Eigenschaften. Anti-physikalistische Argumente auf Grundlage der Qualia (wie das Vorstellbarkeitsargument) scheitern, weil sie fälschlich ein vollständiges Wissen über diese zugrunde liegenden physischen Tatsachen voraussetzen.",
+    "ontological_commitments": "Physische Eigenschaften, insbesondere eine Art physischer Tatsache oder Eigenschaft, die für das Bewusstsein relevant ist und deren Natur gegenwärtig zutiefst unbekannt ist. Zudem festgelegt auf die Existenz des Bewusstseins und die Gesamtstruktur des Physikalismus.",
+    "epistemic_access": "Der Zugang ist gegenwärtig durch die ‚Unwissenheitshypothese‘ zutiefst begrenzt, was bedeutet, dass wir die für das Bewusstsein relevanten physischen Tatsachen mit den gegenwärtigen wissenschaftlichen Methoden nicht vollständig erkennen können. Eine begrenzte ‚Wissenschaft des Bewusstseins‘, die empirische Gesetze etabliert, ist jedoch möglich.",
+    "constituents_and_structure": "Bewusste Zustände sind abhängige Strukturen, die durch die physische Welt realisiert werden, aber keine fundamentalen Eigenschaften von ihr sind; ihre Realisierung hängt von den gegenwärtig unbekannten physischen Tatsachen ab."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (insbesondere die Behandlung von Argumenten gegen seine Vereinbarkeit mit dem Physikalismus).",
+    "distinctive_mechanism_or_principle": "Die Unwissenheitshypothese: Der Gedanke, dass wir die relevante Art physischer Tatsache/Eigenschaft, die zur vollständigen Erklärung des Bewusstseins erforderlich ist, nicht kennen, und damit anti-physikalistische Argumente untergraben, die ein vollständiges physisches Wissen voraussetzen.",
+    "dynamics_of_emergence": "Bewusstsein geht als eine abhängige Eigenschaft physischer Systeme hervor. Der tatsächliche dynamische Prozess der Abhängigkeit von den unbekannten physischen Tatsachen muss noch entdeckt werden.",
+    "location_and_distribution": "Das Gehirn und der Körper, realisiert durch die spezifischen physischen Tatsachen, die wir nicht kennen, im Einklang mit dem Physikalismus.",
+    "causation_and_functional_role": "Die Theorie konzentriert sich eher auf die metaphysische Vereinbarkeit als auf die funktionale Rolle. Bewusste Zustände sind nicht fundamental und ‚hängen von anderen Dingen ab‘. Es wird impliziert, dass die kausale Kraft innerhalb des vollständig verstandenen physischen Bereichs liegt (wenn die Unwissenheit überwunden ist).",
+    "integration_or_binding": "Nicht spezifiziert. Es wird angenommen, dass das Bindungsproblem durch die schließliche Entdeckung und Charakterisierung der gegenwärtig unbekannten physischen Tatsachen, die dem Bewusstsein zugrunde liegen, gelöst wird.",
+    "information_flow_or_representation": "Nicht spezifiziert. Die Theorie konzentriert sich auf die metaphysische Verteidigung des Physikalismus statt auf spezifische kognitive oder informationelle Mechanismen.",
+    "evolutionary_account": "Die Theorie ist mit einer standardmäßigen physikalistischen evolutionären Erklärung vereinbar, wonach Bewusstsein als evolutionäres Ergebnis komplexer biologischer Organisation entstand, realisiert durch die unbekannten physischen Eigenschaften.",
+    "core_claims_and_evidence": [
+      "Das Vorstellbarkeitsargument und das Wissensargument gegen den Physikalismus sind nicht überzeugend, weil sie fälschlich ein vollständiges Wissen über die für das Bewusstsein relevanten physischen Tatsachen voraussetzen.",
+      "Bewusste Zustände sind nicht fundamental und hängen von anderen (physischen) Dingen ab.",
+      "Der Physikalismus ist eine empirische Wahrheit, kein Argument a priori, und ist gegenwärtig über die Unwissenheitshypothese verteidigbar."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (begriffliche Analyse und Verteidigung)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch eingeschränkt. Stoljar glaubt, dass eine Wissenschaft des Bewusstseins, die empirische Gesetze etabliert, möglich ist, bezweifelt jedoch, dass eine vollständige systematische Theorie errichtet werden kann.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Die Theorie beruht auf der Annahme einer zutiefst reichenden Unwissenheit hinsichtlich zentraler physischer Tatsachen, was Kritiker als ein Aufschieben der Erklärung betrachten mögen. Sie kritisiert außerdem den ‚Standard-Physikalismus‘, bleibt aber selbst nicht-traditionell.",
+    "open_questions_and_limitations": "Die genaue Identität und Natur der für das Bewusstsein relevanten physischen Tatsachen oder Eigenschaften bleiben unbekannt. Auch die Möglichkeit, ein systematisches Wissen über die das Bewusstsein bestimmenden Gesetze zu erlangen, hält Stoljar für unplausibel.",
+    "ontological_coherence": "Hohe Kohärenz, da sie einen in sich geschlossenen philosophischen Rahmen bietet, der darauf angelegt ist, den Physikalismus gegen Unvereinbarkeitsargumente zu behaupten, indem sie die Last (vorerst) von der ontologischen Erklärung auf die epistemische Begrenzung verlagert."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Als eine Verteidigung des Physikalismus behauptet die Theorie, dass Bewusstsein physisch ist. Daher sollte im Prinzip jedes künstliche System, das die notwendigen physischen Tatsachen (selbst die gegenwärtig unbekannten) realisiert, bewusst werden."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist von physischen Tatsachen und Prozessen abhängig und nicht fundamental. Bei der Zerstörung des physischen Substrats (des Gehirns) hört das Bewusstsein auf zu existieren, im Einklang mit dem Physikalismus."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Im Einklang mit ihrer grundlegenden physikalistischen Verpflichtung liefert die Theorie keine Grundlage für einen letztgültigen kosmischen Sinn oder Zweck; Sinn wird von bewussten Akteuren konstruiert."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn Bewusstsein vollständig physisch ist, ist das mentale Selbst in der Ersten-Person-Perspektive potenziell hochladbar, sofern das komplexe physische Substrat (einschließlich der in der Unwissenheitshypothese identifizierten unbekannten Eigenschaften) in einem nichtbiologischen Medium dupliziert werden kann."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Conceivability Argument",
+        "relationship": "Kritik/Erwiderung"
+      },
+      {
+        "name": "Knowledge Argument",
+        "relationship": "Kritik/Erwiderung"
+      },
+      {
+        "name": "Standard Physicalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Kind’s Dualism 2.0",
+        "relationship": "Debattenpartner/Gemeinsames Projekt"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Physicalism, D. Stoljar",
+        "year": 2010
+      }
+    ]
+  }
+}

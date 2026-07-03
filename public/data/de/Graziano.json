@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "Aufmerksamkeitsschema-Theorie",
+    "summary": "Diese Theorie postuliert, dass Bewusstsein entsteht, wenn das Gehirn ein schnelles, vereinfachtes, internes Modell – ein Aufmerksamkeitsschema – seines eigenen Aufmerksamkeitsprozesses konstruiert. Das Gehirn deutet diese interne Repräsentation fälschlich als eine subjektive, nichtphysische Essenz oder eine ‚Selbst-Karikatur‘ und berichtet sie als solche, obwohl sie grundlegend ein computationales Produkt ist.",
+    "associated_thinkers": [
+      "Michael Graziano"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Neurobiologisch",
+    "core_identity_tagline": "Bewusstsein als evolvierte Selbst-Karikatur der Aufmerksamkeit",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "functionalism",
+      "evolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als die interne Repräsentation des Gehirns beziehungsweise als vereinfachtes Modell seines eigenen Aufmerksamkeitsmechanismus (das Aufmerksamkeitsschema) identifiziert, welches ein spezifisches Beispiel für ein Denken höherer Ordnung ist.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Bewusstsein ist der Bericht, der von einer biologischen, informationsverarbeitenden Maschine (dem Gehirn) durch die Auswertung ihrer internen Daten erzeugt wird, was bedeutet, dass mentale Zustände computational und vollständig physisch sind.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität (das Gefühl einer ‚geisterhaften, nichtphysischen Essenz‘) ist der irreführende Bericht, der vom internen Aufmerksamkeitsschema des Gehirns erzeugt wird. Intentionalität wird implizit berücksichtigt, da die primäre Funktion des resultierenden Modells die Aufmerksamkeitsüberwachung zur Steuerung von Handlungen in der Welt ist.",
+    "qualia_account": "Bewusstsein wird als eine ‚Selbst-Karikatur‘ oder ein illusorischer Bericht über eine nichtphysische Essenz beschrieben, was auf eine deflationäre oder illusionistische Erklärung der Qualia hindeutet, ähnlich der Auffassung von Daniel Dennett.",
+    "ontological_commitments": "Biologische Gehirne, informationsverarbeitende Mechanismen und interne Repräsentationen (das Aufmerksamkeitsschema).",
+    "epistemic_access": "Bewusstsein wird vom System selbst über Introspektion (die Auswertung seiner internen Daten) zugänglich gemacht, was das System dazu führt, Bewusstsein für sich zu beanspruchen; seine tatsächliche computationale Natur kann jedoch nur durch wissenschaftliche Analyse aus der Dritte-Person-Perspektive (Wissenschaft) bestimmt werden.",
+    "constituents_and_structure": "Ein computationales Modell beziehungsweise eine Repräsentation (das Aufmerksamkeitsschema), das entwickelt wurde, um den eigenen Aufmerksamkeitsmechanismus des Gehirns zu überwachen und zu regulieren."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (als erzeugter interner Bericht/Anspruch), Aufmerksamkeit, Handlungssteuerung.",
+    "distinctive_mechanism_or_principle": "Die Konstruktion und Aufrechterhaltung eines vereinfachten internen Modells (des Aufmerksamkeitsschemas) des Aufmerksamkeitsprozesses, verwurzelt in Prinzipien der Regelungstechnik.",
+    "dynamics_of_emergence": "Bewusstsein ist ein dynamisches, evolviertes Merkmal, das aus einer computationalen Strategie hervorgeht, die das interne Aufmerksamkeitsschema erzeugt.",
+    "location_and_distribution": "Innerhalb des biologischen, informationsverarbeitenden Systems des Gehirns angesiedelt.",
+    "causation_and_functional_role": "Die funktionale Rolle des Aufmerksamkeitsschemas besteht darin, die Aufmerksamkeit des Gehirns zu überwachen und zu regulieren, um Handlungen in der Welt zu steuern. Die daraus resultierende Fähigkeit erlaubt es dem System, Bewusstsein für sich zu beanspruchen.",
+    "integration_or_binding": "Der genaue Mechanismus zur Integration sensorischer Daten in das Aufmerksamkeitsschema wird in den Quellen nicht ausgeführt, doch die Theorie impliziert eine Integration, die zur Überwachung und Regulierung der Gesamtaufmerksamkeit notwendig ist.",
+    "information_flow_or_representation": "Die Informationsverarbeitung ist zentral; das Gehirn muss eine Fülle von Informationen bewältigen, indem es eine vereinfachte Repräsentation seines eigenen Zustands (das Aufmerksamkeitsschema) entwickelt.",
+    "evolutionary_account": "Das Merkmal des Bewusstseins hat sich entwickelt, um einen adaptiven Nutzen zu bieten: die Überwachung und Regulierung der Aufmerksamkeit zur effizienten Steuerung von Handlungen in der Umwelt.",
+    "core_claims_and_evidence": [
+      "Das Gehirn entwickelt ein ‚schnelles und grobes Modell‘ seines eigenen Aufmerksamkeitsprozesses (das Aufmerksamkeitsschema).",
+      "Das Gehirn berichtet dieses interne Modell als eine ‚geisterhafte, nichtphysische Essenz‘ oder eine ‚Selbst-Karikatur‘.",
+      "Die Fähigkeit, Bewusstsein für sich zu beanspruchen, beruht auf Berechnungen, die aus der Regelungstechnik abgeleitet sind."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiologisch, Computational, Evolutionär, Philosophisch."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch testbar",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Die Theorie erklärt, wie ein System Bewusstsein für sich *beanspruchen* kann, sieht sich jedoch der allgemeinen, mit ähnlichen funktionalistischen Modellen geteilten Grenze gegenüber, das tatsächliche subjektive Fühlen (das ‚Ist jemand zu Hause?‘-Problem) schlüssig zu beweisen oder zu erklären, welches – nach eigenem Eingeständnis des Vertreters – auf ewig ungewiss bleibt.",
+    "open_questions_and_limitations": "Da sich das System auf Introspektion stützt, kann es intern nicht feststellen, dass sein Anspruch auf Bewusstsein rein auf Berechnungen beruht. Der externe Beobachter kann niemals wirklich wissen, ob im System eine innere Erfahrung vorliegt.",
+    "ontological_coherence": "Hochgradig kohärent innerhalb des materialistischen Rahmens, im Einklang mit anderen funktionalistischen und computationalen Ansätzen, die den Anspruch auf Bewusstsein erklären, ohne nichtphysische Substanzen heranzuziehen."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Da Bewusstsein als ein computationaler Prozess definiert wird (die Erzeugung eines Aufmerksamkeitsschemas), könnten künstliche Systeme, die die notwendige computationale Architektur implementieren, im Prinzip bewusst werden. Darüber hinaus werden Beobachter hinreichend komplexen KI-Systemen, die sich so verhalten, als wären sie bewusst, unweigerlich sozial Bewusstsein zuschreiben."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Als materialistische/neurobiologische Theorie ist Bewusstsein an das physische Substrat (die biologische, informationsverarbeitende Maschine) gebunden, was ein Überleben über den Zerfall des Körpers hinaus ausschließt."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Bewusstsein bietet einen adaptiven, evolutionären Zweck (die Überwachung und Regulierung der Aufmerksamkeit zur Handlungssteuerung), impliziert jedoch keinen letzten oder kosmischen Sinn, im Einklang mit dem Materialismus."
+    },
+    "virtual_immortality": {
+      "stance": "Möglich",
+      "rationale": "Wenn das Bewusstsein als eine computationale Struktur (das Aufmerksamkeitsschema) realisiert ist und wenn diese Struktur sowie die relevanten informationsverarbeitenden Systeme akkurat auf ein nichtbiologisches Medium hochgeladen werden können, ist virtuelle Unsterblichkeit theoretisch möglich."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Vereinbar"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "True nature of consciousness: solving the biggest mystery of your mind, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rethinking Consciousness: A Scientific Theory of Subjective Experience, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Can consciousness be non-biological?, M. Graziano",
+        "year": 2014
+      }
+    ]
+  }
+}

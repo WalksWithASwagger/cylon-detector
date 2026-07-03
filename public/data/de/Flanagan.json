@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Flanagans konstruktiver Naturalismus",
+    "summary": "Diese Theorie behauptet, dass das menschliche Bewusstsein weder ein Wunder noch ein Mysterium ist, und bietet eine kraftvolle synthetische Sichtweise, in der die subjektiven, phänomenalen Aspekte vollständig anerkannt und zugleich gänzlich durch ihre neuronalen Grundlagen erklärt werden, indem sie restlos im Gehirn angesiedelt sind. Flanagan sucht eine naturalistische Metaphysik des Geistes mit dem reifenden Verständnis der Funktionsweise des Gehirns zu verzahnen.",
+    "associated_thinkers": [
+      "Owen Flanagan"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "‚Bewusstsein als neurophilosophischer konstruktiver Naturalismus‘",
+    "classification_tags": [
+      "physicalism",
+      "neurophilosophy",
+      "emergence",
+      "subjectivity",
+      "causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als eine heterogene Menge von Ereignissen und Prozessen identifiziert, die die Eigenschaft teilen, erfahren zu werden; grundlegend sind Geist und Gehirn ein und dasselbe.",
+    "ontological_status": "Physikalismus / Konstruktiver Naturalismus",
+    "mind_body_relationship": "Geist und Gehirn sind identisch, sie sind ein und dasselbe, aus zwei verschiedenen Perspektiven betrachtet; die Kluft zwischen subjektiver und objektiver Sichtweise ist epistemisch, nicht ontologisch.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Starke Emergenz (Flanagan erkennt emergente natürliche Eigenschaften an, die, obwohl sie physikalischen Gesetzen gehorchen, nicht auf die Physik reduzierbar sind.)",
+    "subjectivity_and_intentionality": "Das subjektive Bewusstsein ist real und spielt eine wichtige kausale Rolle. Subjektivität fällt erstpersonal an, weil Individuen eine organismische Integrität besitzen. Intentionalität wird implizit dadurch erklärt, dass das Gehirn eine ‚Darwin-Maschine‘ ist, in der der Bedeutungsholismus zutrifft.",
+    "qualia_account": "Den subjektiven, phänomenalen Aspekten des Bewusstseins wird ihr volles Recht als real zugestanden, wenngleich vor dem alleinigen Vertrauen auf die Phänomenologie gewarnt wird, da sie Illusionen über die Natur des Bewusstseins begünstigen kann.",
+    "ontological_commitments": "Materielle Realität; komplexe biologische Gehirne (beschrieben als ‚Darwin-Maschinen‘ paralleler Prozessoren); emergente natürliche Eigenschaften.",
+    "epistemic_access": "Durch die neurophilosophische Integration von naturalistischer Metaphysik und empirischer Neurowissenschaft, unter Anerkennung, dass die Selbstauskunft irrig sein kann.",
+    "constituents_and_structure": "Bewusstsein ist eine heterogene Menge erfahrener Prozesse, die im Gehirn realisiert werden, das als ein massiv gut vernetztes System paralleler Prozessoren betrachtet wird, die umfassend miteinander interagieren."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein, Subjektivität, kausale Rolle/Handlungsträgerschaft.",
+    "distinctive_mechanism_or_principle": "Bewusstsein geht aus emergenten natürlichen Eigenschaften innerhalb des Gehirns hervor, die die mentale Verursachung ermöglichen, etwa indem Ideen, die in einer kortikalen Region entstehen (z. B. im präfrontalen Kortex), Informationen aus einer anderen (z. B. dem parietalen Assoziationskortex) abrufen.",
+    "dynamics_of_emergence": "Bewusstsein ist eine dynamische Menge von Ereignissen und Prozessen, die aus der massiven, parallelen Interaktion von Prozessoren innerhalb des Gehirns hervorgeht.",
+    "location_and_distribution": "Es ist restlos im Gehirn angesiedelt.",
+    "causation_and_functional_role": "Bewusstes Denken spielt eine wichtige kausale Rolle bei der Handlungsausführung, was den Epiphänomenalismus direkt zurückweist. Die mentale Verursachung ist an das Gehirn gebunden und beruht auf neuronalen Mechanismen.",
+    "binding_and_unity": "Einheit und Bindung werden implizit durch die Funktion des Gehirns als ‚massiv gut vernetztes System paralleler Prozessoren‘ erreicht, in dem der Bedeutungsholismus erzielt wird.",
+    "information_flow_or_representation": "Information wird holistisch innerhalb des hochgradig vernetzten Systems paralleler Prozessoren verarbeitet; mentale Zustände werden im individuellen Gehirn auf einzigartige Weise physisch realisiert.",
+    "evolutionary_account": "Beruht implizit auf der Evolution und betrachtet den Geist als das Gehirn, eine ‚Darwin-Maschine‘. Die philosophische Implikation wird durch den ‚Neuroexistenzialismus‘ erkundet – den Zusammenstoß zwischen dem wissenschaftlichen und dem humanistischen Bild des Menschen."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar (auf Grundlage der Übereinstimmung mit der reifenden Neurowissenschaft).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Muss die Behauptung verteidigen, dass Bewusstsein real und kausal wirksam ist und zugleich vollständig an das Gehirn gebunden bleibt. Muss außerdem die ‚epistemische Kluft‘ (den Unterschied zwischen dem erstpersonalen Anschein und der drittpersonalen Beschreibung) behandeln, ohne eine ontologische Kluft zu postulieren.",
+    "open_questions_and_limitations": "Das ‚wirklich schwere Problem‘ für die Theorie besteht darin, ‚Sinn in einer materiellen Welt‘ zu finden (‚Neuroexistenzialismus‘). Der Erklärungsrahmen beruht auf einem ‚noch skizzenhaften, aber reifenden Verständnis‘ der Gehirnfunktion.",
+    "ontological_coherence": "Kohärent innerhalb ihres definierten Rahmens des konstruktiven Naturalismus, der die physische Identität mit nicht-reduktiven emergenten Eigenschaften vereint. Sie steht dem Epiphänomenalismus und dem strengen eliminativen Materialismus entgegen."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Als starke physikalistische Theorie, in der Bewusstsein vollständig im Gehirn angesiedelt ist, würde die Realisierung der erforderlichen komplexen emergenten neuronalen Prozesse in künstlichen Systemen KI-Bewusstsein begrifflich ermöglichen."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein wird vollständig durch physische Gehirnprozesse und ihre emergenten Eigenschaften konstituiert, was ein Überleben nach der Zerstörung des biologischen Substrats ausschließt."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Die materialistische Grundlage impliziert keinen letztgültigen kosmischen Zweck. Flanagan behandelt die existenziellen Anliegen, ‚Sinn in einer materiellen Welt‘ zu finden (Neuroexistenzialismus), und legt nahe, dass der Zweck selbst geschaffen werden muss."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn das bewusste Selbst identisch mit den komplexen Prozessen des Gehirns ist (einschließlich emergenter Eigenschaften und kausaler Rollen), sollte eine perfekte, fortgeschrittene Replikation dieses Systems in nichtbiologischen Medien im Prinzip virtuelle Unsterblichkeit erreichen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Emergence",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Reconsidered, Owen Flanagan",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Problem of the Soul, Owen Flanagan",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Really Hard Problem: Meaning in a Material World, Owen Flanagan",
+        "year": 2007
+      }
+    ]
+  }
+}

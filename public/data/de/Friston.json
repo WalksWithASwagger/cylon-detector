@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Fristons Prinzip der freien Energie und aktive Inferenz",
+    "summary": "Diese Theorie konzeptualisiert Bewusstsein als einen natürlichen Prozess, der aus der Minimierung 'freier Energie' hervorgeht, also der Differenz zwischen dem inneren Modell eines Organismus (perzeptuelle Erwartungen) und den Sinneseingaben in Echtzeit. Bewusstsein fungiert daher als der evolvierte Mechanismus zum Simulieren von Weltszenarien und zum Reduzieren von Vorhersagefehlern, um das Überleben zu sichern und die Homöostase aufrechtzuerhalten.",
+    "associated_thinkers": [
+      "Karl Friston"
+    ],
+    "category": "Theorien des Materialismus",
+    "subcategory": "Homöostatisch und affektiv",
+    "core_identity_tagline": "Bewusstsein als aktive Inferenz und minimierte Überraschung",
+    "classification_tags": [
+      "active inference",
+      "free energy",
+      "predictive processing",
+      "process theory",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als ein natürlicher Prozess der Inferenz identifiziert, insbesondere als das interne emergente Modell, das die freie Energie (Überraschung) gemäß dem Prinzip der freien Energie überwacht und minimiert und dadurch die repräsentationalen Fähigkeiten physischer/Gehirnsysteme optimiert.",
+    "ontological_status": "Physikalismus; oft als markovscher Monismus bezeichnet, der die Unterscheidung von Geist/Materie als dialektisch statt als ontologisch betrachtet.",
+    "mind_body_relationship": "Monistisch/Identität. Die Theorie schlägt vor, dass Bewusstsein das natürliche Ergebnis der selbstorganisierenden Prozesse des physischen/Gehirnsystems ist und die vertrauten Dialektiken zwischen Geist und Materie auflöst.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz. Bewusstsein wird als nichts mehr und nichts weniger als ein natürlicher Prozess (wie Evolution oder Wetter) betrachtet, der aus komplexen, selbstorganisierenden physischen Systemen hervorgeht.",
+    "subjectivity_and_intentionality": "Subjektivität (Erste-Person-Perspektive) wird durch die informationelle Geometrie gerahmt, die entsteht, wenn die internen Zustände eines Systems von den externen Zuständen unterschieden werden können (markovscher Monismus). Intentionalität spiegelt sich im Prozess der aktiven Inferenz wider, der das Erschließen der Ursachen von Sinneszuständen und das Navigieren in der Welt umfasst.",
+    "qualia_account": "Die Theorie ist in Bezug auf das schwere Problem hochgradig deflationär und behandelt Bewusstsein als einen zu verstehenden Prozess anstatt als ein 'Ding', dessen qualitative Attribute definiert werden müssten. Qualia wären, sofern anerkannt, Epiphänomene oder Aspekte des internen generativen Modells, das für die Inferenz erforderlich ist.",
+    "ontological_commitments": "Physische/Gehirnsysteme, komplexe selbstorganisierende Systeme, intrinsische und extrinsische Informationsgeometrien sowie das Konzept der Inferenz/des Prozesses.",
+    "epistemic_access": "Bewusstsein wird durch die mathematische Formalisierung des Prinzips der freien Energie erkannt und untersucht, was eine objektive Analyse der Prozesse ermöglicht, die die Vorstellung von Bewusstsein hervorbringen.",
+    "constituents_and_structure": "Interne generative Modelle (Hierarchie der prädiktiven Verarbeitung), die auf Grundlage von dynamischem Gleichgewicht und Attraktoren in selbstorganisierenden Systemen operieren."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (als evolvierter Mechanismus), Wahrnehmung, Handlung, Inferenz, Überleben.",
+    "distinctive_mechanism_or_principle": "Das Prinzip der freien Energie (FEP), das besagt, dass alle selbstorganisierenden Systeme freie Energie (oder 'Überraschung') minimieren müssen und Handlung und Wahrnehmung durch aktive Inferenz antreiben.",
+    "dynamics_of_emergence": "Dynamischer Prozess. Bewusstsein entsteht, wenn das Selbstbelegen (der Prozess, durch den Systeme Stabilität über Attraktoren erreichen) 'zeitliche Dicke' oder 'kontrafaktische Tiefe' gewinnt, was Inferenzen über zukünftige Handlungen erlaubt.",
+    "location_and_distribution": "Lokalisiert im physischen Gehirnsystem; kortikale Reaktionen werden als der Versuch des Gehirns betrachtet, freie Energie zu minimieren.",
+    "causation_and_functional_role": "Bewusstsein erfüllt eine adaptive und funktionale Rolle als der evolvierte Mechanismus zum Simulieren von Szenarien, zum Überwachen und Minimieren freier Energie, um das Überleben (Homöostase) zu fördern und in der Welt zu navigieren.",
+    "integration_or_binding": "Integration ist im Aufbau eines einzigen internen emergenten Modells impliziert, das die äußere Welt vorhersagt und globale Überraschung/Vorhersagefehler minimiert.",
+    "information_flow_or_representation": "Die Informationsverarbeitung ist um Vorhersage herum strukturiert, wobei interne Modelle (perzeptuelle Erwartungen) mit der Sinneseingabe verglichen werden und das Lernen auf der Minimierung der freien Energie des Gehirns beruht.",
+    "evolutionary_account": "Bewusstsein ist ein evolvierter Mechanismus, der aus dem grundlegenden biologischen Imperativ hervorgeht, Vorhersagefehler zu minimieren und die körperliche Physiologie zu regulieren (Überleben).",
+    "core_claims_and_evidence": [
+      "Bewusstsein ist das natürliche Ergebnis des Prinzips der freien Energie für Handlung und Wahrnehmung (aktive Inferenz).",
+      "Die Minimierung von Überraschung ist entscheidend, weil ein Versagen dabei die Existenz des Systems bedroht.",
+      "Bewusstsein ist Inferenz über die eigene Zukunft, die auf einem internen Modell davon beruht, wie Empfindungen erzeugt werden.",
+      "Der metaphysische Stempel der Theorie ist der markovsche Monismus, der darauf abzielt, die Geist-Materie-Dialektik aufzulösen."
+    ],
+    "basis_of_belief_or_evidence_type": "Computational, Mathematisch, Theoretische Neurowissenschaft/Physik."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell und empirisch mit überprüfbaren Modellen verknüpft (z. B. in Neurobiologie und Psychologie) durch ihren Rückgriff auf die Formalisierung repräsentationaler Fähigkeiten physischer Systeme.",
+    "known_empirical_interventions_or_tests": "Die Prinzipien des FEP bilden die Grundlage für Modelle, die in empirischer Arbeit zu veränderten Zuständen (z. B. der Entropic Brain Hypothesis unter Psychedelika) und verwandten Theorien der Wahrnehmung und Kognition genutzt werden.",
+    "criticisms_and_tensions": "Kritisiert dafür, hochgradig deflationär und schwer mit der Ersten-Person-Realität phänomenaler Erfahrung (das schwere Problem) in Einklang zu bringen zu sein, da sie Bewusstsein lediglich als mathematischen Prozess oder 'natürliches Ergebnis' betrachtet. Friston findet es schwierig, sich mit der philosophischen Prämisse des Bewusstseins als eines 'Dings' auseinanderzusetzen.",
+    "open_questions_and_limitations": "Die Theorie steht vor der Herausforderung zu erklären, wie ein natürlicher Prozess der Inferenzminimierung die *Vorstellung* oder *Illusion* hervorbringt, dass subjektive Erfahrung existiert, ohne Bewusstsein als ein 'Ding' zu definieren.",
+    "ontological_coherence": "Hoch. Die Theorie ist intern kohärent und nutzt den markovschen Monismus, um mentale Prozesse und physische Materie in einen einheitlichen, deskriptiven Rahmen zu integrieren."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Als eine starke materialistische Theorie: Wenn Bewusstsein vollständig durch computationale Prozesse der Inferenz und Repräsentationsminimierung erklärt wird, dann müssen nichtbiologische Systeme, die diese Prozesse ausführen können, im Prinzip letztlich Bewusstsein erlangen."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist ein emergenter natürlicher Prozess, der unmittelbar an die funktionale Dynamik und das physische Substrat des biologischen Gehirns gebunden ist; daher kann es den körperlichen Verfall nicht überleben."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Der grundlegende Imperativ des bewussten Prozesses ist das Überleben (Minimierung von Überraschung/Aufrechterhaltung der Homöostase). Die Theorie rechtfertigt keinen letztgültigen kosmischen Sinn oder Zweck, im Einklang mit allgemeinen materialistischen Perspektiven."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Da Bewusstsein als emergenter, formalisierter Prozess der Inferenzoptimierung verstanden wird, sollte die perfekte Duplizierung der Informationsverarbeitung und repräsentationalen Dynamik des Gehirns in einem nichtbiologischen Medium für die Fortsetzung des mentalen Selbst ausreichen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Clark's Predictive Processing",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Carhart-Harris’s Entropic Brain Hypothesis",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Projective Consciousness Model",
+        "relationship": "Erweiterung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A theory of cortical responses, K. Friston",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Active interference: a process theory, K. Friston et al",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Mathematics of Mind-Time, K. Friston",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Sentience and the origins of consciousness: from cartesian duality to markovian monism, K. Friston, W. Wiese, J.A. Hobson",
+        "year": 2020
+      }
+    ]
+  }
+}

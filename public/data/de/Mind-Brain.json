@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Geist-Gehirn-Identitätstheorie",
+    "summary": "Diese klassische philosophische Bewusstseinstheorie postuliert, dass mentale Zustände, Ereignisse oder Prozesse streng identisch mit bestimmten Zuständen, Ereignissen oder Prozessen sind, die im Gehirn ablaufen. Sie fungiert als Musterbeispiel des Materialismus, indem sie behauptet, dass Bewusstsein vollständig physisch ist.",
+    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "category": "Materialismus",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "Mentale Zustände sind Gehirnzustände",
+    "classification_tags": [
+      "identity",
+      "reductionism",
+      "physicalism",
+      "classical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein (mentale Zustände/Prozesse) ist buchstäblich identisch mit physischen Zuständen/Prozessen des Gehirns. Dies ist eine Identitätsbehauptung im starken Sinne, ähnlich dem Vergleich von Morgenstern und Abendstern mit der Venus.",
+    "ontological_status": "Reduktiver Physikalismus/Materialismus",
+    "mind_body_relationship": "Identitätstheorie: Mentale Ereignisse und physische Ereignisse sind dieselben Dinge, radikal identisch, was bedeutet, dass die ‚zwei‘ nicht auseinandertreten können.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität und Intentionalität sind streng identisch mit bestimmten physischen Zuständen. Die Auffassung impliziert, dass die Frage, warum ein Gefühl einen physischen Zustand begleitet, verfehlt ist, weil sie ein und dasselbe sind.",
+    "qualia_account": "Qualia (erlebtes Empfinden), wie Schmerz oder das Sehen von Rot, sind buchstäblich identisch mit bestimmten physischen Zuständen des Gehirns, etwa dem Feuern nozizeptiv-spezifischer Neuronen.",
+    "ontological_commitments": "Physische Zustände und Prozesse des Gehirns. Die Theorie ist darauf festgelegt, dass Bewusstsein gänzlich physisch ist.",
+    "epistemic_access": "Das Wissen über diese Identitäten beruht auf empirischer Untersuchung a posteriori und erfordert, dass die Wissenschaft entdeckt, welche physischen Zustände welchen mentalen Zuständen entsprechen.",
+    "constituents_and_structure": "Bewusstsein besteht aus den bestimmten physischen Zuständen und Prozessen, die sich im Gehirn finden und so organisiert sind, dass sie mit mentalen Zuständen gleichbedeutend sind."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal, Zugriff",
+    "distinctive_mechanism_or_principle": "Das Prinzip der strengen Identitätsrelation, angewandt, um mentale Arten (z. B. Schmerz) mit physischen Arten (z. B. dem Feuern von C-Fasern) zu korrelieren.",
+    "dynamics_of_emergence": "Bewusstsein ist eine Folge biologischer Prozesse, die spezifisch mit der physischen Dynamik des Gehirns identifiziert wird.",
+    "location_and_distribution": "Vollständig innerhalb des Gehirns lokalisiert.",
+    "causation_and_functional_role": "Die mentale Verursachung ist implizit gelöst, weil mentale Zustände physische Zustände sind, die kausale Wirksamkeit und funktionale Rollen besitzen.",
+    "integration_or_binding": "Integration wird in der komplexen Organisation des identischen physischen Gehirnzustands realisiert. Als philosophische Behauptung spezifiziert sie keinen eigenen neurobiologischen Mechanismus für die Bindung.",
+    "information_flow_or_representation": "Mentaler Gehalt oder Repräsentationen sind äquivalent zu den physischen Zuständen, die sie verkörpern, und folgen physikalischen Gesetzen.",
+    "evolutionary_account": "Bewusstsein ist ein evolviertes physisches Produkt, das aus biologischen Gehirnen hervorgeht.",
+    "core_claims_and_evidence": [
+      "Mentale Zustände sind streng identisch mit Gehirnzuständen.",
+      "Diese Identität wird a posteriori durch empirische Belege entdeckt, die mentale Ereignisse (z. B. Schmerz) und bestimmte neuronale Aktivität verknüpfen."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophische Schlussfolgerung, gestützt durch sich anhäufende empirische Belege der Korrelation."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Im Prinzip empirisch überprüfbar durch die Kartierung von Korrelationen zwischen bestimmten mentalen und physischen Zuständen.",
+    "known_empirical_interventions_or_tests": "Belege empirischer Korrelation (z. B. die Verknüpfung von Schmerz mit dem Feuern nozizeptiv-spezifischer Neuronen).",
+    "criticisms_and_tensions": "In ihrer ursprünglichen Form gilt sie durch Einwände allgemein als untergraben, am bekanntesten durch die multiple Realisierbarkeit (derselbe mentale Zustand könnte durch unterschiedliche physische Mechanismen realisiert werden). Die zentrale philosophische Herausforderung ist die ‚Erklärungslücke‘ bzw. warum sich Gehirnzustände nach etwas anfühlen.",
+    "open_questions_and_limitations": "Die Theorie hat Schwierigkeiten, die Intuition aufzulösen, dass philosophische Zombies (physisch identische Geschöpfe ohne Bewusstsein) vorstellbar sind, was impliziert, dass die ‚zwei‘ auseinandertreten können. Sie unterscheidet nicht klar, welche Arten neuronaler Aktivität Bewusstsein konstituieren.",
+    "ontological_coherence": "Hochgradig kohärent innerhalb einer strengen reduktiven physikalistischen Ontologie, steht jedoch in Spannung zu grundlegenden phänomenologischen Intuitionen hinsichtlich Subjektivität und Qualia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Da die Geist-Gehirn-Identitätstheorie behauptet, dass Bewusstsein auf physische Prozesse reduzierbar ist, wird Bewusstsein notwendigerweise instanziiert, wenn diese bestimmten physischen Prozesse in einem künstlichen, nichtbiologischen Substrat reproduziert werden können."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist streng identisch mit der funktionalen und physischen Integrität des Gehirns; dessen Auflösung beim Tod führt zum dauerhaften Erlöschen des bewussten Selbst."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als materialistische Theorie zieht die Geist-Gehirn-Identitätstheorie keinen letztgültigen kosmischen Sinn und Zweck nach sich. Sinn und Wert sind emergente Eigenschaften, die von bewussten menschlichen Akteuren geschaffen werden."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Wenn das Bewusstsein (das präzise physische Muster) gescannt und perfekt dupliziert/in ein neues physisches Medium (digital oder anderweitig) hochgeladen werden kann, garantiert die Theorie das Überleben des identischen bewussten Selbst."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Tye’s Contingentism",
+        "relationship": "Einfluss"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mind/brain identity theory, J.J.C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "We must shed our metaphysical assumptions, David Papineau",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Mind-Brain Identity Theory, István Aranyosi",
+        "year": ""
+      }
+    ]
+  }
+}

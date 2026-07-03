@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Eliminativer Materialismus/Illusionismus",
+    "summary": "Diese maximalistische physikalistische Position vertritt die Auffassung, dass unser alltagspsychologisches Verständnis des Geistes (Alltagspsychologie) eine radikal falsche Theorie ist, die durch eine vollendete Neurowissenschaft verdrängt werden muss. Das phänomenale Bewusstsein einschließlich der Qualia wird als eine Art vom Gehirn erzeugte Illusion aufgefasst – eine kontingente, evolutionäre, innere Anpassung, die die Fitness erhöhte.",
+    "associated_thinkers": [
+      "Patricia Churchland",
+      "Paul Churchland",
+      "Daniel Dennett",
+      "Keith Frankish"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "„Bewusstsein als vom Gehirn erzeugte Illusion“",
+    "classification_tags": [
+      "physicalism",
+      "illusionism",
+      "reductionism",
+      "folk psychology",
+      "maximalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird nicht als eine genuine ontologische Entität (im herkömmlichen Verständnis) identifiziert, sondern als eine irreführende Illusion oder Nutzer-Illusion, die von komplexen, zugrunde liegenden physischen Gehirnprozessen erzeugt wird.",
+    "ontological_status": "Maximalistischer Physikalismus",
+    "mind_body_relationship": "Die alltagspsychologische Auffassung psychologischer Phänomene (des Geistes) ist radikal falsch und wird durch den begrifflichen Rahmen einer vollendeten Neurowissenschaft (Gehirnzustände) vollständig verdrängt (eliminiert), statt reibungslos reduziert zu werden.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (Begründung: Die Theorie postuliert, dass die Illusion aus komplexen physischen Prozessen hervorgeht, und lehnt ausdrücklich die Notwendigkeit irreduzibler, mysteriöser mentaler Eigenschaften ab, im Einklang mit der schwachen Emergenz, auch wenn der Begriff des ‚Bewusstseins‘ selbst als Entität eliminiert wird.)",
+    "subjectivity_and_intentionality": "Die Subjektivität und die intentionalen Gehalte der Alltagspsychologie sind entweder illusorisch oder inkohärent und müssen innerhalb des begrifflichen Rahmens einer vollendeten Neurowissenschaft neu konstituiert werden.",
+    "qualia_account": "Qualia (qualitative Merkmale des phänomenalen Bewusstseins) werden als illusorisch und inkohärent zurückgewiesen und stattdessen als ‚Nutzer-Illusionen‘ verstanden, die von komplexen aktivierten neuronalen Netzwerken erzeugt werden und uns dazu veranlassen, über Erfahrungen zu berichten.",
+    "ontological_commitments": "Physische Entitäten, wie sie vom wissenschaftlichen Bild (Physik, Chemie, Molekularbiologie und Neurophysiologie) beschrieben werden. Alltagspsychologische mentale Entitäten werden geleugnet/eliminiert.",
+    "epistemic_access": "Wissen über das Bewusstsein muss durch die objektive Dritte-Person-Perspektive der Wissenschaft gewonnen werden, wobei die Introspektion nur als ‚zu erklärende Daten‘ behandelt wird, unter Verwendung von Methoden wie der Heterophänomenologie.",
+    "constituents_and_structure": "Physische und neurophysiologische Strukturen wie komplexe neuronale Netzwerke, die die Illusion als innere Anpassung erzeugen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (als Illusion), Zugriff (als komputationale Funktionen), Selbstbewusstsein (als ‚Zentrum der narrativen Schwerkraft‘).",
+    "distinctive_mechanism_or_principle": "Das Prinzip der Verdrängung/Elimination, bei dem die fehlerhafte Ontologie und die Prinzipien der Alltagspsychologie durch die Begriffe einer vollendeten Neurowissenschaft ersetzt werden. Die Illusion selbst ist eine innere Anpassung, die die Fitness erhöht.",
+    "dynamics_of_emergence": "Die Illusion des Bewusstseins ist eine kontingente, evolutionäre, innere Anpassung. Die ‚realen Muster‘, die der manifesten Erfahrung zugrunde liegen, werden durch die wissenschaftliche, physische Beschreibung wahrheitsgemäß repräsentiert.",
+    "location_and_distribution": "Vollständig im biologischen Gehirn lokalisiert (oder in physischen Systemen, die in der Lage sind, die erforderlichen komplexen Prozesse zu instanziieren).",
+    "causation_and_functional_role": "Bewusstsein (die Illusion/der Begriff) fungiert als kontingente Anpassung, die die Fitness und den Fortpflanzungserfolg des Organismus erhöhte.",
+    "integration_or_binding": "Integration wird durch die zugrunde liegende komplexe neuronale Aktivität und Informationsverarbeitung erreicht, die zur Bildung der berichteten phänomenalen Erfahrung führt und oft funktional beschrieben wird (z. B. Dennetts Modell der multiplen Entwürfe, das zu ‚Ruhm im Gehirn‘ führt).",
+    "information_flow_or_representation": "Die Informationsverarbeitung im Gehirn erzeugt die Illusion, oft beschrieben durch parallele, mehrspurige Interpretationen und fortlaufende redaktionelle Überarbeitung, die zu einem narrativen Strom führt.",
+    "evolutionary_account": "Bewusstsein ist eine evolvierte, kontingente, innere Anpassung, die die Fitness und den Fortpflanzungserfolg erhöhte und Design ohne Designer sowie Gründe ohne Vernünftler veranschaulicht.",
+    "core_claims_and_evidence": [
+      "Die Alltagspsychologie ist eine radikal falsche Theorie, die durch eine vollendete Neurowissenschaft verdrängt werden muss.",
+      "Das phänomenale Bewusstsein (die Qualia) ist eine Illusion oder Nutzer-Illusion, die von komplexen neuronalen Netzwerken erzeugt wird.",
+      "Die Illusion des Bewusstseins ist eine kontingente, evolutionäre innere Anpassung, die die Fitness erhöhte."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch, Evolutionär, Konzeptuell, Antizipiert Empirisch (Angewiesenheit auf künftige Neurowissenschaft)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell überprüfbar (die Verifikation hängt von der Fähigkeit einer künftigen vollendeten Neurowissenschaft ab, die Alltagspsychologie vollständig zu verdrängen und zu ersetzen).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kritiker argumentieren, dass die Theorie die konkrete Realität der subjektiven Erfahrung und der Qualia nicht erklären kann. Sie wird dafür kritisiert, entweder die emergenten Eigenschaften des zentralen Nervensystems zu ignorieren oder sich implizit auf die Leugnung des bestimmten Gehalts von Gedanken festzulegen.",
+    "open_questions_and_limitations": "Die Theorie ist vollständig auf die erfolgreiche Vollendung der Neurowissenschaft angewiesen, um die Verdrängung der Alltagspsychologie zu rechtfertigen – eine Aufgabe, die noch nicht erreicht ist. Es fällt ihr schwer, die Identifikation des Bewusstseins mit neuronaler Aktivität für philosophische Skeptiker verständlich zu machen.",
+    "ontological_coherence": "Hoch (Die Theorie ist maximal kohärent mit der physikalistischen Ontologie, indem sie irreduzible mentale Eigenschaften ausdrücklich eliminiert und die gesamte Realität durch das wissenschaftliche Bild betrachtet.)"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Da Bewusstsein eine komplexe Illusion ist, die von physischen/komputationalen Prozessen erzeugt wird (eine fitnesserhöhende Anpassung), muss nichtbiologische Intelligenz (KI) diese Prozesse im Prinzip replizieren und die daraus resultierende Illusion/Funktionalität instanziieren können."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Als maximalistische materialistische Theorie ist das Bewusstsein vollständig an die komplexen physischen Prozesse des biologischen Gehirns gebunden und endet mit dem biologischen Tod."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als materialistische Theorie impliziert sie keinen letztgültigen Sinn und Zweck im Kosmos; Wert und Sinn sind menschliche Konstrukte, die aus evolvierten Fähigkeiten hervorgehen."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Wenn das Bewusstsein (die Illusion) vollständig durch die zugrunde liegende physische und funktionale Beschreibung des Gehirns erklärt wird, dann würde eine perfekte Duplikation dieser Zustände in einem nichtbiologischen Medium (Uploading) das mentale Selbst in der Ersten-Person-Perspektive bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Feser’s Neo-Thomistic Dualism",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Eliminative Materialism and the Propositional Attitudes, Paul Churchland",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel C. Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Neurophilosophy: Toward a Unified Science of the Mind-Brain, Patricia Churchland",
+        "year": 1986
+      }
+    ]
+  }
+}

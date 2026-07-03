@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Prädiktive Theorien (Top-down)",
+    "summary": "Diese Perspektive betrachtet das Gehirn als eine dynamische Vorhersagemaschine, in der bewusste Wahrnehmung intern erzeugt wird, indem Top-down-Erwartungen (Vorhersagen) mit Bottom-up-Sinnesdaten (Vorhersagefehlern) kombiniert werden. Bewusstsein entsteht als ein funktionaler Mechanismus, der genaue Vorhersage, Gewahrsein und reaktionsfähiges Verhalten zum Überleben ermöglicht.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "Richard Gregory",
+      "Karl Friston",
+      "Rudolfo Llinas"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Homöostatisch und affektiv",
+    "core_identity_tagline": "Bewusstsein als aktive Vorhersagesynthese",
+    "classification_tags": [
+      "prediction",
+      "computation",
+      "functionalism",
+      "top-down",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als die komplexe Synthese aus prädiktiver Erwartung und Sinneseingabe identifiziert, die aus der Top-down-Signalgebung hervorgeht, welche Vorhersagen über die Ursachen der Sinneseingabe vermittelt.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Geist (bewusste Wahrnehmung) ist eine Funktion oder ein Prozess, der vollständig in physischen Gehirnmechanismen (prädiktive Verarbeitung) verwurzelt ist und die Erfahrung von Körper und Welt vermittelt.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität entsteht aus der internen Synthese von Vorhersage und Empfindung, die Gewahrsein und Reaktionsfähigkeit ermöglicht. Intentionalität (Gerichtetheit des Denkens) ist der Ausrichtung des Systems auf das Antizipieren von Ergebnissen und das Minimieren von Vorhersagefehlern inhärent.",
+    "qualia_account": "Die Theorie konzentriert sich in erster Linie auf die Funktion und den Prozess der Wahrnehmung durch Vorhersage. Qualia stehen implizit in Beziehung zu den internen Modellen oder Repräsentationen, die das prädiktive Gehirn erzeugt, wenngleich das subjektive 'Erleben' eine Herausforderung für die rein mechanistische Sicht bleibt.",
+    "ontological_commitments": "Biologische Gehirne, prädiktive Modelle, Sinnessignale, Erwartungsfehler und Top-down-/Bottom-up-Signalwege.",
+    "epistemic_access": "Zugänglich über die Entwicklung eines systematischen Verständnisses von Vorhersage als einem grundlegenden Funktionsprinzip des Gehirns, indem analysiert wird, wie Sinnesdaten mit vorbestehenden Überzeugungen ('Priors') integriert werden.",
+    "constituents_and_structure": "Das bewusste System ist als dynamische Vorhersagemaschine strukturiert, die Top-down-Signale (Vorhersagen) und Bottom-up-Signale (Vorhersagefehler) nutzt."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (Wahrnehmung), Kognition, Handlung, Gewahrsein, Reaktionsfähigkeit",
+    "distinctive_mechanism_or_principle": "Das Prinzip ist die kontinuierliche Minimierung von Vorhersagefehlern (Annäherung an bayessche Inferenz), wobei Bewusstsein mit der aktiven, Top-down gerichteten prädiktiven Signalgebung im Gehirn verknüpft ist.",
+    "dynamics_of_emergence": "Bewusstsein emergiert dynamisch und ermöglicht die entscheidende biologische Fähigkeit, die Umwelt kontinuierlich vorherzusagen und auf sie zu reagieren.",
+    "location_and_distribution": "Gehirnbasiert, verteilt in neuronalen Netzen, die an Top-down-Signalgebung und rekurrenten Bahnen beteiligt sind, mit einer Warnung vor einer rein 'schädelgebundenen' neurozentrischen Sicht.",
+    "causation_and_functional_role": "Bewusstsein erleichtert adaptives Verhalten und die Auswahl optimaler Handlungen, indem es einen raschen Vergleich zwischen realen Ereignissen und kontrafaktischen Simulationen ermöglicht. Die übergeordnete Funktion ist das Überleben durch die Minimierung von 'Überraschung' durch die Umwelt.",
+    "integration_or_binding": "Integration wird durch die kontinuierliche Synthese prädiktiver Erwartungen und eintreffender Sinnesinformation erreicht, was zu kohärenter Wahrnehmung führt.",
+    "information_flow_or_representation": "Information fließt über Top-down-Signale, die Vorhersagen vermitteln, und Bottom-up-Signale, die Vorhersagefehler vermitteln, und nähert sich der bayesschen Inferenz an.",
+    "evolutionary_account": "Entwickelte sich aus dem grundlegenden biologischen Antrieb des Überlebens und ermöglichte prädiktive Fähigkeiten, die für aktive Bewegung und das effektive Navigieren in komplexen Umgebungen entscheidend sind.",
+    "core_claims_and_evidence": [
+      "Bewusste mentale Zustände sind mit Top-down-Signalgebung verknüpft, die Vorhersagen über sensorische Ursachen vermittelt",
+      "Das Gehirn operiert als leistungsfähige, dynamische Vorhersagemaschine",
+      "Wahrnehmung ist eine komplexe Synthese aus prädiktiver Erwartung und Sinneseingabe",
+      "Bewusstsein entstand, um prädiktive Fähigkeiten zu erleichtern, die für das Überleben wesentlich sind"
+    ],
+    "basis_of_belief_or_evidence_type": "Computational, Neurobiologisch, Evolutionär"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar (abhängig von spezifischen mechanistischen Modellen, z. B. in Bezug auf das Prinzip der freien Energie).",
+    "known_empirical_interventions_or_tests": "Angedeutete Methoden umfassen die Messung neurologischer Reaktionen im Zusammenhang mit prädiktiver Kodierung und die Prüfung der Dynamik von Erwartungsfehlern (z. B. Studien im Zusammenhang mit aktiver Inferenz).",
+    "criticisms_and_tensions": "Die wesentliche Kritik, die für funktionale Theorien üblich ist, besteht im Scheitern, das subjektive 'Warum' zu erklären – warum der Prozess der Vorhersage und Synthese in erlebter Erfahrung (Qualia) resultieren sollte und nicht bloß in funktionaler Ausgabe.",
+    "open_questions_and_limitations": "Die zentrale Grenze besteht in der Überbrückung der Kluft zwischen der funktionalen/computationalen Beschreibung von Vorhersage und der phänomenalen Realisierung des Bewusstseins. Das Modell konzentriert sich stark darauf, 'wie' das Gehirn arbeitet, anstatt darauf, 'was' Bewusstsein grundlegend ist.",
+    "ontological_coherence": "Hochgradig konsistent mit materialistischen, funktionalistischen und emergentistischen Ontologien."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn Bewusstsein primär als die computationale Funktion verstanden wird, Vorhersagen zu erzeugen und zu prüfen, um Wahrnehmung zu synthetisieren, dann sollten hinreichend komplexe KI-Systeme, die diese Funktionen ausführen, bewusst werden."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Die Theorie gründet Bewusstsein in den evolvierten biologischen Prozessen des Gehirns. Bewusstsein ist an das physische Substrat gebunden und würde mit dem biologischen Tod aufhören."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistisch/Evolutionär",
+      "rationale": "Bewusstsein entwickelte sich, um das grundlegende biologische Problem des Überlebens und der Anpassung zu lösen, und verleiht Zweck durch die Maximierung der Fitness, beinhaltet jedoch keinen kosmischen Sinn."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Die computationale und funktionale Natur der Theorie legt nahe, dass die prädiktive Organisation, die das Selbst konstituiert, im Prinzip digitalisiert und in einem nichtbiologischen Substrat nachgebildet werden könnte, was eine funktionale Fortsetzung ermöglicht."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Seth’s “Beast Machine” Theory",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Kontrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Machine: How Our Minds Predict and Shape Reality, A. Clark",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Brain from inside Out, G. Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A Predictive Processing perspective on the mind-body problem, R.L. Kuhn",
+        "year": 2024
+      }
+    ]
+  }
+}

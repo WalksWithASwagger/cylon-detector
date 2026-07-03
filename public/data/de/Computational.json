@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Computationale Theorie",
+    "summary": "Computationale Theorien des Geistes schlagen vor, dass der Geist wie ein Computer funktioniert, und betrachten mentale Zustände als funktionale Rollen, die durch systematische, schrittweise Anweisungen oder Algorithmen definiert werden, unabhängig vom zugrunde liegenden physischen Substrat. Diese Theorien trieben den Aufstieg der Kognitionswissenschaft voran, indem sie geistesartige Fähigkeiten wie Schlussfolgern und Wahrnehmung nachahmten.",
+    "associated_thinkers": [
+      "Nick Bostrom",
+      "James Reggia"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Computational und informationell",
+    "core_identity_tagline": "Bewusstsein als Algorithmus und Berechnung",
+    "classification_tags": [
+      "computation",
+      "functionalism",
+      "AI",
+      "reductionism",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Das Bewusstsein (oder mentale Zustände im Allgemeinen) wird mit der Durchführung von Berechnungen einer bestimmten, entdeckbaren Art identifiziert. Mentale Zustände werden durch ihre funktionale Rolle oder ihren Output definiert, nicht durch ihre innere Beschaffenheit oder ihr materielles Substrat.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Identität/funktionalistisch. Mentale Zustände sind funktionale Zustände, die in jeder Form von Materie instanziiert (oder realisiert) werden können, die zur Informationsverarbeitung fähig ist, etwa neuronalem Gewebe oder Computerchips.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz. Im Einklang mit dem materialistischen Rahmen wird angenommen, dass mentale Eigenschaften, obgleich hochstufig, im Prinzip vollständig auf die grundlegenden zugrunde liegenden computationalen und physischen Prozesse erklärt oder reduziert werden können, auch wenn die praktische Erklärung komplex ist.",
+    "subjectivity_and_intentionality": "Intentionalität (Gerichtetheit des Denkens) wird über kognitive Symbole erklärt, die manipuliert werden können, um Begriffe zu beschreiben. Subjektivität (phänomenales Bewusstsein) bleibt eine Herausforderung, da der Fokus primär auf externer Funktionalität und Informationsverarbeitung liegt und nicht auf innerer Erfahrung.",
+    "qualia_account": "Ungewiss/deflationär. Die Theorie tut sich schwer, eine überzeugende Demonstration des phänomenalen Bewusstseins zu liefern, und konzentriert sich stattdessen auf die Erfassung kognitiver und behavioraler Korrelate. Manche mit dieser Sichtweise verbundenen Ansätze behandeln Qualia möglicherweise als illusorisch oder inkohärent, während andere behaupten, sie entsprächen integrierten, berichtbaren computationalen Zuständen.",
+    "ontological_commitments": "Algorithmen, systematische schrittweise Anweisungen, Turing-Maschinen (abstrakte Berechnungsmodelle) und jedes physische Substrat, das Information instanziieren kann.",
+    "epistemic_access": "Primär durch computationale Modellierung, Simulation und objektive Messung von Informationsverarbeitungsfähigkeiten und behavioralen Korrelaten.",
+    "constituents_and_structure": "Routinen systematischer, schrittweiser Anweisungen (Algorithmen), typischerweise modelliert mittels abstrakter Berechnungsstrukturen wie Turing-Maschinen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Zugriff (z. B. globaler Zugriff auf Information), Gedächtnis, Wissensstruktur, Wahrnehmung, Schlussfolgern, Problemlösen und sprachliches Verstehen. Phänomenales Bewusstsein (Qualia) wird oft ausgeschlossen oder als ungelöstes Problem behandelt.",
+    "distinctive_mechanism_or_principle": "Das Prinzip, dass die Durchführung von Berechnungen einer spezifischen Art (algorithmische Verarbeitung) sowohl notwendig als auch hinreichend für das Bewusstsein ist.",
+    "dynamics_of_emergence": "Algorithmisch/systematisch. Das Bewusstsein entsteht durch die systematische Verarbeitung von Information mittels Algorithmen, was die Nachahmung geistesartiger Fähigkeiten ermöglicht.",
+    "location_and_distribution": "Der Ort ist funktional statt materiell; das Bewusstsein befindet sich überall dort, wo die notwendigen computationalen Funktionen instanziiert werden, ob in biologischem neuronalem Gewebe oder in nicht-biologischen Computerchips.",
+    "causation_and_functional_role": "Mentale Zustände sind kausal wirksam, weil sie funktionale Zustände sind, die in der physischen Welt realisiert werden. Die funktionale Rolle besteht darin, die Informationsverarbeitung zu organisieren und Fähigkeiten wie Planung, Entscheidungsfindung und Problemlösen zu ermöglichen.",
+    "integration_or_binding": "Implizit erreicht durch die komplexe Verarbeitung von Information und die Integration spezialisierter computationaler Funktionen, die für kognitive Fähigkeiten wie Wissensstruktur und Schlussfolgern notwendig sind.",
+    "information_flow_or_representation": "Mentale Zustände sind abstrakte Information oder kognitive Symbole, die vom zugrunde liegenden physischen Substrat algorithmisch manipuliert werden, um Denken und Verstehen zu erzeugen.",
+    "evolutionary_account": "In den Quellen von der Kerntheorie nicht ausdrücklich behandelt, aber vereinbar mit der allgemeinen materialistischen Sichtweise, dass das Bewusstsein ein evolviertes Produkt neurobiologischer Komplexität ist, speziell für adaptive Verarbeitung und Berechnung.",
+    "core_claims_and_evidence": [
+      "Die Durchführung von Berechnungen einer bestimmten, entdeckbaren Art ist sowohl notwendig als auch hinreichend für das Bewusstsein.",
+      "Mentale Zustände werden allein durch ihre Outputs oder funktionalen Rollen bestimmt, unabhängig vom physischen Medium.",
+      "Computationale Modellierung ist eine anerkannte Methodik zur wissenschaftlichen Untersuchung des Bewusstseins."
+    ],
+    "basis_of_belief_or_evidence_type": "Computational, philosophisch (Funktionalismus) und logisch."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch testbar. Die Methodik beinhaltet den Einsatz computationaler Modellierung, um zu beurteilen, ob Systeme bekannte neurobiologische, kognitive und behaviorale Korrelate bewusster Verarbeitung erfolgreich simulieren.",
+    "known_empirical_interventions_or_tests": [
+      "Entwicklung und Erprobung computationaler Modelle und maschineller Simulationen kognitiver Korrelate."
+    ],
+    "criticisms_and_tensions": "Kritisiert als historische Analogie, die den Geist mit der 'Wissenschaft des jeweiligen Zeitalters' vergleicht. Die zentrale Spannung ist das Fehlen einer überzeugenden Demonstration phänomenalen maschinellen Bewusstseins, was zu der Kritik führt, dass sie nur die 'leichten Probleme' (Funktion) adressiert, während sie das 'schwere Problem' (Erfahrung) ignoriert.",
+    "open_questions_and_limitations": "Das zentrale ungelöste Problem ist, ob die Durchführung von Berechnungen, unabhängig von ihrer Komplexität, tatsächlich hinreicht, um phänomenales Bewusstsein ('wie es ist') hervorzubringen.",
+    "ontological_coherence": "Kohärent innerhalb der reduktiven physikalistischen und funktionalistischen Rahmen, gestützt auf die Prämisse, dass alle mentale Realität auf Informationsverarbeitung oder algorithmische Struktur reduziert werden kann."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Da der computationale Funktionalismus behauptet, das Bewusstsein sei das Ergebnis der Durchführung der richtigen Art von Berechnung, ist KI-Bewusstsein nicht nur möglich, sondern unvermeidlich, angesichts des exponentiellen Wachstums computationaler Raffinesse in nicht-biologischen Intelligenzen."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Das Bewusstsein ist an die physische oder funktionale Realisierung in einem Substrat gebunden. Ein traditionelles Überleben nach dem Tod wird verneint, doch eine Fortsetzung ist allein durch digitales Mind-Uploading (virtuelle Unsterblichkeit) möglich."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als Materialismus-Theorie stützt sie keinen letztgültigen kosmischen Sinn oder Zweck; Sinn und Wert gelten als emergente, selbstgeschaffene Phänomene, die aus den komplexen Funktionen bewusster Wesen hervorgehen."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Wenn das Bewusstsein rein computational/funktional ist (d. h. sein Wesen ist algorithmisch), dann würde eine perfekte Duplizierung der funktionalen Muster des Gehirns in einem nicht-biologischen Medium das mentale Selbst der ersten Person bewahren, wodurch virtuelle Unsterblichkeit im Prinzip erreichbar wird."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Kernprinzip"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The computational theory of mind, Michael Rescorla",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The rise of machine consciousness: studying consciousness with computational models, James Reggia",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      }
+    ]
+  }
+}

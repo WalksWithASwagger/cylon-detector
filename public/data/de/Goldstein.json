@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Goldsteins Leib-Seele-Problem",
+    "summary": "Diese Theorie behauptet, dass Bewusstsein vollständig aus Gehirnmaterie besteht, und weist nicht-materielle Zustände zurück. Sie stellt das Leib-Seele-Problem jedoch auf den Gedanken, dass zwar physische Prozesse von der Wissenschaft vollständig analysiert werden können (die externe Beschreibung), die interne subjektive Beschreibung einer Person (Gedanken, Emotionen, Gefühle) jedoch nicht aus dieser rein physischen Beschreibung abgeleitet oder durch sie vollständig zugänglich gemacht werden kann, was eine beständige Erklärungslücke hervorhebt.",
+    "associated_thinkers": [
+      "Rebecca Newberger Goldstein"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "‚Bewusstsein als nicht-ableitbarer Gehirnstoff‘",
+    "classification_tags": [
+      "explanatory gap",
+      "materialism",
+      "subjectivity",
+      "description"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein, das innere Gedanken, Wahrnehmungen, Emotionen, Träume und Zustände des Fühlens umfasst, wird als vollständig Gehirnstoff identifiziert, wobei die subjektive, interne Beschreibung dieses Gehirnstoffs einer vollständigen externen wissenschaftlichen Analyse unzugänglich ist.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Bewusste Zustände sind radikal identisch mit Gehirnzuständen (materialistische Identitätstheorie), doch die begriffliche Komplexität der subjektiven (internen) Beschreibung kann nicht aus der deskriptiven Analyse des physischen (externen) Gehirnzustands abgeleitet werden.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz/Erklärungslücke. Bewusstsein ist letztlich materiell, doch seine subjektive Beschreibung kann selbst im Prinzip nicht aus der objektiven Beschreibung des physischen Substrats abgeleitet werden.",
+    "subjectivity_and_intentionality": "Subjektivität ist die ‚innere Beschreibung‘ davon, eine Person zu sein (Gedanken, Emotionen, Träume), auf die eine vollständige Analyse des physischen Gehirns nicht vollständig zugreifen oder die sie nicht vollständig beschreiben kann. Intentionale Zustände beruhen vollständig auf Gehirnstoff.",
+    "qualia_account": "Qualia (Zustände des Fühlens) sind Aspekte der internen Beschreibung der bewussten Erfahrung, die vollständig Gehirnstoff sind, aber durch das rein physische Vokabular der Wissenschaft nicht vollständig artikulierbar sind.",
+    "ontological_commitments": "Physische Körper und Gehirne. Ausdrückliche Zurückweisung nicht-materieller Zustände oder Substanzen (weist den Dualismus zurück).",
+    "epistemic_access": "Die interne Beschreibung wird in erster Linie durch die Erste-Person-Perspektive erkannt, etwa beim Erschaffen einer Figur in einem Roman. Der wissenschaftliche Dritte-Person-Ansatz (die Analyse des Gehirns) ist von Natur aus begrenzt im Zugang zu diesem Wissen.",
+    "constituents_and_structure": "Der grundlegende zugrunde liegende Stoff ist ‚vollständig Gehirnstoff‘. Die Kernstruktur dreht sich um die Spannung zwischen der physischen/analysierbaren Beschreibung und der inneren/unzugänglichen Beschreibung einer einzigen materiellen Realität."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": [
+      "Phänomenal",
+      "Intentionalität"
+    ],
+    "distinctive_mechanism_or_principle": "Das Prinzip dreht sich um die Nicht-Ableitbarkeit der subjektiven, internen Beschreibung einer Person aus einer vollständigen, objektiven Analyse ihres physischen Körpers und Gehirns, trotz der ontologischen Identität des Mentalen und des Physischen.",
+    "dynamics_of_emergence": "Der Fokus ist philosophisch und deskriptiv und betont die informationelle/begriffliche Trennung zwischen physischen und mentalen Beschreibungen, statt einen zeitlichen oder systemischen Entwicklungsmechanismus.",
+    "location_and_distribution": "Ausschließlich in den physischen Körpern und Gehirnen angesiedelt.",
+    "causation_and_functional_role": "Bewusstsein, als intentionale Zustände und Zustände des Fühlens, ist physischer Gehirnstoff. Als materialistische Sichtweise sind mentale Zustände als physische Gehirnzustände kausal wirksam."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Philosophisch/Konzeptuell. Die zentrale Behauptung betrifft die inhärenten Grenzen der deskriptiven Wissenschaft beim Zugang zur Subjektivität, was mit empirischen Mitteln nicht falsifizierbar ist.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Die Theorie sieht sich der inhärenten Spannung des Typ-B-Materialismus gegenüber: Sie akzeptiert die ontologische Behauptung, dass Bewusstsein vollständig physisch ist, behauptet zugleich aber eine potenziell nicht schließbare erklärende (epistemische) Lücke hinsichtlich der Natur der subjektiven Erfahrung.",
+    "open_questions_and_limitations": "Die zentrale Grenze ist die beständige Unfähigkeit der Wissenschaft, die deskriptive Lücke zwischen Gehirnzuständen und dem Reichtum der Erste-Person-Erfahrung zu überbrücken, selbst wenn die zugrunde liegende Realität monistisch ist.",
+    "ontological_coherence": "Hochgradig kohärent innerhalb physikalistischer Rahmen, die das schwere Problem als in erster Linie epistemisch und nicht ontologisch anerkennen, wie der Typ-B-Materialismus."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Da die Theorie grundlegend materialistisch ist und nicht-materielle Substanzen zurückweist, sollte KI-Bewusstsein im Prinzip möglich sein, wenn komputationale oder physische Systeme die notwendigen Konfigurationen des ‚Gehirnstoffs‘ instanziieren können, auch wenn die resultierende subjektive Erfahrung der externen Analyse undurchsichtig bleibt."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist vollständig ‚Gehirnstoff‘ und untrennbar vom physischen Körper, und die Theorie weist den Dualismus ausdrücklich zurück, der oft mit einem Überleben nach dem Tod verbunden wird."
+    },
+    "meaning_and_purpose": {
+      "stance": "Ungewiss",
+      "rationale": "Obwohl ontologisch physikalistisch, impliziert der Fokus der Theorie auf das irreduzibel reiche Innenleben der Person einen tiefen, inhärenten Wert der Subjektivität, ohne jedoch einen kosmischen oder letztgültigen Zweck vorzuschreiben."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn bewusste Zustände identisch mit physischen Gehirnzuständen (Gehirnstoff) sind, dann sollte eine perfekte Duplikation oder das Uploading dieser physischen Zustände in ein neues Medium logisch das ursprüngliche mentale Selbst in der Ersten-Person-Perspektive bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Stoljar’s Epistemic View and Non-Standard Physicalism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Dualisms",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "Gegensätzliche Sichtweise"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why a Mind-Body Problem?",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is consciousness irreducible?",
+        "year": 2011
+      }
+    ]
+  }
+}

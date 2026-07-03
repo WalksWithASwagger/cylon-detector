@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Doyles Erfahrungsrekorder und -reproduzierer (ERR)",
+    "summary": "Die ERR-Theorie setzt Bewusstsein als Informationsmodell an, bei dem der Geist aus immaterieller Information (wie Software) besteht. Er funktioniert, indem er vergangene Erfahrungen – einschließlich sensorischer Details und Emotion – wiedergibt, wenn aktuelle Wahrnehmungen ihnen ähneln, und verleiht dem Organismus dadurch entscheidenden Überlebenswert.",
+    "associated_thinkers": [
+      "Bob Doyle"
+    ],
+    "category": "Theorien des Materialismus",
+    "subcategory": "Computational und informationell",
+    "core_identity_tagline": "‚Bewusstsein als Informationswiedergabe‘",
+    "classification_tags": [
+      "information",
+      "memory",
+      "binding",
+      "survival",
+      "biological model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als immaterielle Information identifiziert, die von strukturierten neuronalen Verbänden im Gehirn aufgezeichnet und reproduziert (re-präsentiert) wird. Der Umgang mit Information soll das Physische und das Phänomenale in einer \"doppelten Realisierung\" verbinden.",
+    "ontological_status": "Physikalismus (informationsbasiert). Die Theorie wird dem Materialismus zugeordnet, setzt aber an, dass Information selbst fundamental sein könnte, was auf eine informationelle monistische oder Doppelaspekt-Sicht hindeutet, die in einem physischen Substrat verwurzelt ist.",
+    "mind_body_relationship": "In 'zusammengeschalteten' physischen Neuronen gespeicherte Information realisiert sowohl phänomenale Zustände als auch Informationszustände, was auf eine intrinsische Verbindung oder ein 'Doppelleben' hindeutet, in dem Information das Physische und das Phänomenale überbrückt.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz. Bewusstsein entsteht aus der komplexen Organisation und Verarbeitung von Information innerhalb neuronaler Strukturen, anstatt eine fundamentale Zutat der Realität zu sein.",
+    "subjectivity_and_intentionality": "Intentionalität (Bedeutung) wird durch die Reproduktion vergangener Erfahrungen hervorgerufen, die der aktuellen Wahrnehmung ähneln, was die angemessene Reaktion des Organismus leitet. Subjektivität ist der 'Re-Präsentation' der ursprünglichen Erfahrung aus der Ersten-Person-Perspektive und der begleitenden Emotion inhärent.",
+    "qualia_account": "Qualia werden als die Bestandteile der ursprünglichen Erfahrung erklärt (sensorische Qualitäten und Emotion), die während der anfänglichen Speicherung miteinander gebunden und während der Wiedergabe reproduziert (re-präsentiert) werden, anstatt algorithmisch zusammengesetzt zu werden.",
+    "ontological_commitments": "Immaterielle Information; neuronale Verbände (zusammengeschaltete Neuronen); Informationsstrukturen (im Gehirn).",
+    "epistemic_access": "Zugänglich über die Modellierung der Informationsverarbeitungsarchitektur und die Beobachtung von Verhaltensreaktionen auf Information (Definition von 'Informationsbewusstsein').",
+    "constituents_and_structure": "Informationsstrukturen, die in neuronalen Verbänden gespeichert sind (Neuronen, die auf Grundlage Hebb'scher Prinzipien zusammengeschaltet wurden)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal, Einheit der Erfahrung (Bindung), Gedächtnis, adaptives Verhalten.",
+    "distinctive_mechanism_or_principle": "Der Mechanismus des Erfahrungsrekorders und -reproduzierers (ERR), der besagt, dass ein minimaler primitiver Geist nur vergangene, gespeicherte Erfahrungen 'wiedergeben' muss (anstatt Repräsentationen abzurufen), wenn er durch ähnliche aktuelle Erfahrungen stimuliert wird.",
+    "dynamics_of_emergence": "Dynamischer Prozess. Bewusstsein wird funktional als eine Eigenschaft einer Entität definiert, die dynamisch angemessen auf Information in ihrer Umwelt reagiert.",
+    "location_and_distribution": "Lokalisiert in Informationsstrukturen innerhalb des Gehirns (neuronale Verbände), die Erfahrungen aufzeichnen und reproduzieren.",
+    "causation_and_functional_role": "Bewusstsein verleiht Überlebenswert, indem es dem Organismus erlaubt, vergangene relevante Erfahrungen abzurufen, Handlungen zu leiten und der Entität zu ermöglichen, angemessen auf Umweltinformation zu reagieren.",
+    "integration_or_binding": "Das Bindungsproblem wird gelöst, weil alle sensorischen Bestandteile und der begleitende emotionale Gehalt während der anfänglichen Aufzeichnung miteinander gebunden werden und während der Reproduktion gebunden bleiben, wodurch die Notwendigkeit einer algorithmischen Zusammensetzung entfällt.",
+    "information_flow_or_representation": "Information ist immateriell, wie Software. Sie wird in Gehirnstrukturen gespeichert und bei Stimulation durch äußere Wahrnehmung direkt als Erfahrung 're-präsentiert'.",
+    "evolutionary_account": "Bewusstsein entwickelte sich aufgrund seiner 'offensichtlichen Relevanz (Überlebenswert)', indem es dem Organismus ermöglicht, vergangene Erfahrungen abzurufen und zu nutzen, wenn er mit neuen Wahrnehmungen konfrontiert wird.",
+    "core_claims_and_evidence": [
+      "Der Geist ist immaterielle Information, verschieden von digitaler Informationsverarbeitung.",
+      "Bewusstsein wird als die Eigenschaft einer Entität definiert, die angemessen auf Information in ihrer Umwelt reagiert.",
+      "Bewusstsein wird durch die augenblickliche Reproduktion (Re-Präsentation) gespeicherter, integrierter Erfahrungen in neuronalen Verbänden erreicht (ERR)."
+    ],
+    "basis_of_belief_or_evidence_type": "Konzeptuell; Computational (Informationsmodell); Philosophisch."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell überprüfbar. Die Theorie stützt sich auf neurobiologische Prinzipien (Hebb) und Informationstheorie, was eine mögliche Überprüfbarkeit durch die Modellierung nahelegt, wie komplexe Informationsspeicherung und -reproduktion in neuronalen Systemen realisiert werden.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Die wesentliche konzeptuelle Spannung liegt darin, den Geist als immaterielle Information zu beschreiben, während zugleich explizit festgestellt wird, dass das Gehirn keine digitale Information verarbeitet, was eine Definition von Information erfordert, die sich von konventionellen Rechenmodellen unterscheidet.",
+    "open_questions_and_limitations": "Die präzise Natur der 'doppelten Realisierung' von Information – wie Information physische Prozesse und bewusste Erfahrung verbindet – bedarf einer detaillierten Erklärung, um eine fundamentale Theorie des Bewusstseins zu bilden.",
+    "ontological_coherence": "Intern kohärent als Informationsmodell, doch ihr Rückgriff auf immaterielle Information stellt den strikten reduktiven Materialismus infrage und rückt ihre Einordnung an die Grenze des Physikalismus."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Da Bewusstsein funktional in Informationsbegriffen definiert ist (angemessene Reaktion auf Information) und der Geist mit Software verglichen wird, sollten künstliche Systeme in der Lage sein, die notwendigen Informationsstrukturen zu instanziieren, um Bewusstsein zu erlangen, sofern sie die Komplexität integrierter Erfahrung reproduzieren können."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist an die physische Realisierung von Informationsstrukturen innerhalb biologischer neuronaler Verbände gebunden; daher endet es mit der Auflösung von Körper und Gehirn."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Die Theorie erklärt Bewusstsein anhand des adaptiven Überlebenswerts, im Einklang mit einem materialistischen Rahmen, der im Allgemeinen keinen letztgültigen kosmischen Sinn oder Zweck rechtfertigt."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Wenn der Geist immaterielle Information (Software) ist, die im Gehirn aufgezeichnet wird, dann sollte die perfekte Duplizierung dieser Informationsstruktur in einem nichtbiologischen Medium das mentale Selbst aus der Ersten-Person-Perspektive bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "Erweiterung (Es ist ein spezifisches, nicht-digitales computationales/informationelles Modell)"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Kompatibel (Beruht auf der starken Identität zwischen gespeicherten Erfahrungen und den physisch 'zusammengeschalteten' Neuronen)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Recorder and Reproducer, Bob Doyle",
+        "year": null
+      }
+    ]
+  }
+}

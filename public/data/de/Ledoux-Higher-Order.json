@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "LeDoux’ Theorie höherer Ordnung des emotionalen Bewusstseins",
+    "summary": "Diese Theorie vertritt die Auffassung, dass bewusste emotionale Gefühle wie Furcht sich nicht grundlegend von perzeptuellen bewussten Erfahrungen unterscheiden, und argumentiert, dass beide aus kortikal fundierten allgemeinen kognitiven Netzwerken (General Networks of Cognition, GNC) hervorgehen, die Repräsentationen höherer Ordnung (Higher-Order Representations, HORs) von Informationen niederer Ordnung erzeugen. Das Wesen des phänomenalen Bewusstseins liegt in einer Re-Repräsentation eines vorausgehenden Zustands höherer Ordnung, der als HOROR (Higher-Order Representation of a Representation, Repräsentation höherer Ordnung einer Repräsentation) bezeichnet wird.",
+    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "category": "Materialismus",
+    "subcategory": "Repräsentational",
+    "core_identity_tagline": "Bewusstsein als Repräsentation höherer Ordnung emotionaler und perzeptueller Zustände",
+    "classification_tags": [
+      "neurobiology",
+      "emotion",
+      "higher-order",
+      "representation",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als ein Zustand dritter Ordnung (HOROR) identifiziert, genauer als die angemessene Repräsentation höherer Ordnung (HOR) von Informationen niederer Ordnung, die durch kortikal fundierte allgemeine kognitive Netzwerke (General Networks of Cognition, GNC) instanziiert wird.",
+    "ontological_status": "Physikalismus. Die Theorie ist materialistisch und argumentiert, dass Bewusstsein aus einem einzigen System im Gehirn hervorgeht, das in kortikalen Schaltkreisen instanziiert ist.",
+    "mind_body_relationship": "Identität/kausale Abhängigkeit. Mentale Zustände (bewusste emotionale Gefühle und perzeptuelle Erfahrungen) sind vollständig von spezifischen physischen Prozessen und Netzwerken (GNC, kortikale Schaltkreise) abhängig und in ihnen instanziiert.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (Begründung: Als detaillierte neurobiologische/materialistische Theorie, die sich auf entdeckbare neuronale Mechanismen konzentriert, wird angenommen, dass die Komplexität des Bewusstseins prinzipiell aus physischen Prozessen ableitbar ist.)",
+    "subjectivity_and_intentionality": "Subjektivität (die emotionale, selbstbewusste Erfahrung) entsteht, wenn das Selbst in den HOROR-Zustand einbezogen wird. Intentionalität wird erreicht, weil Bewusstsein grundlegend repräsentational ist (HORs von Informationen).",
+    "qualia_account": "Phänomenale Erfahrung besteht darin, die angemessene HOR von Informationen niederer Ordnung zu haben, welche ein gedankenähnlicher Zustand ist, der die phänomenale, introspektiv zugängliche Erfahrung instanziiert. Die Theorie zielt darauf ab, das subjektive „Wie-es-ist“ zu erklären, das durch diese Repräsentationen höherer Ordnung vermittelt wird.",
+    "ontological_commitments": "Kortikal fundierte allgemeine kognitive Netzwerke (General Networks of Cognition, GNC), Repräsentationen höherer Ordnung (HORs), neuronale Schaltkreise (z. B. PFC, sensorischer Kortex) und Informationen niederer Ordnung.",
+    "epistemic_access": "Introspektion (passives Bemerken und aktives Prüfen) führt zu phänomenaler Erfahrung. Die zugrunde liegenden Mechanismen sind über neurobiologische Forschung und kognitive Modellierung zugänglich.",
+    "constituents_and_structure": "Ein mehrstufiges hierarchisches Modell, das primäre Zustände niederer Ordnung (sensorischer Kortex), sekundäre Zustände niederer Ordnung (Gedächtnisareale), Zustände unterhalb der höheren Ordnung (mesokortikaler PFC) und Zustände höherer Ordnung (granulärer PFC) umfasst, die Informationen indexieren und re-repräsentieren, um mentale Modelle zu konstruieren."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein, emotionales Bewusstsein (z. B. Furcht), perzeptuelles Bewusstsein, Selbstbewusstsein (als ein „Ensemble des Seins“) und bewusste Handlungsfähigkeit.",
+    "distinctive_mechanism_or_principle": "Die Instanziierung einer Repräsentation höherer Ordnung einer Repräsentation (HOROR), welche der notwendige kognitive Zustand dritter Ordnung für bewusste Erfahrung ist. Dieser Mechanismus ist gedankenähnlich und nicht-inferenziell und macht eine nichtbewusste HOR introspektiv gewahr.",
+    "dynamics_of_emergence": "Bewusstsein ist ein Produkt komplexer, mehrstufiger hierarchischer Verarbeitung, die dynamisch durch kognitive Interpretation entsteht und insbesondere dazu dient, ein Gefühl mentaler Einheit aufrechtzuerhalten.",
+    "location_and_distribution": "Kortikale Strukturen, insbesondere der präfrontale Kortex (PFC) (granuläre und subgranuläre Areale), der die GNC und die Zustände höherer Ordnung beherbergt und mit sensorischen und Gedächtniskortizes (Zustände niederer Ordnung) interagiert.",
+    "causation_and_functional_role": "Die Bildung von HORORs ermöglicht bewusste Erfahrung (Gefühle der Furcht, Wahrnehmung), stellt bewusste Handlungsfähigkeit bereit und ermöglicht den Ausdruck abstrakter mentalesischer Narrative, die offenes Verhalten und sprachlichen Ausdruck antreiben.",
+    "integration_or_binding": "Integration erfolgt durch die kognitive Zusammensetzung, bei der nichtbewusste subkortikale Eingänge mit anderen neuronalen Signalen verschmelzen, um bewusste emotionale Erfahrungen zu bilden. Zustände höherer Ordnung re-repräsentieren verschiedene andere Zustände, um im Arbeitsgedächtnis vereinheitlichte mentale Modelle zu konstruieren.",
+    "information_flow_or_representation": "Information schreitet von perzeptuellen/bedrohungsbezogenen Repräsentationen erster Ordnung über nichtbewusste HORs zu bewussten HORORs voran, welche gedankenähnliche, introspektiv zugängliche Zustände sind.",
+    "evolutionary_account": "Bewusstsein entstand spät in der Evolution, aufbauend auf vorherigen „Daseinsbereichen“ (körperlich, neuronal, kognitiv), wobei Nervensysteme sich entwickelten, um das Überleben zu verbessern, was letztlich zu hochentwickelten bewussten Gehirnen führte.",
+    "core_claims_and_evidence": [
+      "Bewusste Erfahrungen (emotionale und perzeptuelle) entstehen aus einem einzigen System im Gehirn (kortikal fundierte GNC).",
+      "Bewusste Gefühle sind Zustände höherer Ordnung, die in kortikalen Schaltkreisen instanziiert sind.",
+      "Phänomenales Bewusstsein beinhaltet das Vorhandensein eines Zustands dritter Ordnung (HOROR), welcher ein introspektives Gewahrsein einer nichtbewussten HOR ist.",
+      "Die Theorie weist die traditionelle Auffassung zurück, dass emotionale Zustände angeboren und ausschließlich in subkortikalen Arealen programmiert seien."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiologisch, Kognitiv"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar, insbesondere durch die Prüfung der Korrelation zwischen bewusster Erfahrung und Aktivitätsmustern in den beschriebenen spezifischen hierarchischen kortikalen Netzwerken (z. B. PFC-Beteiligung bei der Erzeugung von HOROR-Zuständen).",
+    "known_empirical_interventions_or_tests": "Stützt sich auf die Identifikation von Aktivität in kortikalen Strukturen (z. B. PFC sowie sensorische/Gedächtnisareale), die der hierarchischen Repräsentationsverarbeitung entspricht, im Einklang mit der Forschung zu kognitiven und metakognitiven Funktionen.",
+    "criticisms_and_tensions": "Sie steht vor der allgemeinen Herausforderung, die an Theorien höherer Ordnung (HOT) gerichtet wird, nämlich der Natur des Zustands höherer Ordnung selbst, insbesondere wie eine gedankenähnliche Repräsentation einen Zustand erster Ordnung bewusst macht (das von Block für die allgemeine HOT festgestellte „Mysterium“). Sie stellt zudem traditionelle Auffassungen der Lokalisierung von Emotionen infrage.",
+    "open_questions_and_limitations": "Die Möglichkeit bewusster Handlungsfähigkeit (Willensfreiheit), die aus dem resultierenden bewussten mentalen Modell hervorgeht, ist nach wie vor Gegenstand der Debatte.",
+    "ontological_coherence": "Hoch. Die Theorie liefert einen detaillierten neurokognitiven Pfad für Bewusstsein und emotionale Erfahrung, der in hohem Maße mit dem Materialismus und einer naturalistischen Erklärung im Einklang steht."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Als materialistische, funktionale Theorie, die auf hierarchischer Informationsverarbeitung (GNC/HORORs) beruht, ist Bewusstsein prinzipiell in nichtbiologischen Systemen replizierbar, die in der Lage sind, die notwendigen komputationalen und repräsentationalen Strukturen zu instanziieren."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist vollständig ein Produkt der äußerst komplexen, physisch instanziierten biologischen Systeme (kortikale Schaltkreise und GNC) und bietet keine Ressourcen für ein Überleben jenseits der physischen Existenz des Körpers."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Bewusstsein ist ein evolvierter biologischer Mechanismus, der das Überleben verbessert und selbstzentrierte emotionale Zustände ermöglicht, doch die Theorie postuliert keinen letztgültigen, kosmischen oder transzendentalen Sinn oder Zweck."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Da das Selbst der Ersten Person in komplexen, funktionalen und repräsentationalen Zuständen des Gehirns fundiert ist, würde eine perfekte Duplikation dieser physischen Zustände mittels Uploading-Technologie prinzipiell das Selbst bewahren und virtuelle Unsterblichkeit erreichen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Traditional Higher-Order Thought Theory (HOT)",
+        "relationship": "Verfeinerung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, J. LeDoux and R. Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Four Realms of Existence - A New Theory of Being Human, J. LeDoux",
+        "year": 2023
+      }
+    ]
+  }
+}

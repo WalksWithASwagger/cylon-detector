@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Tyes Kontingentismus",
+    "summary": "Diese Theorie behauptet, dass phänomenale bewusste Zustände in unserer tatsächlichen Welt buchstäblich mit spezifischen physischen Zuständen oder Gehirnzuständen identisch sind. Entscheidend ist jedoch, dass diese Identität als kontingent verstanden wird, das heißt, sie ist nicht über alle möglichen Welten hinweg metaphysisch notwendig. Diese modale Behauptung soll das schwere Problem lösen, indem sie akzeptiert, dass die Vorstellbarkeit philosophischer Zombies (unbewusster physischer Duplikate) für die Wahrheit des Physikalismus in der tatsächlichen Welt irrelevant ist.",
+    "associated_thinkers": [
+      "Michael Tye",
+      "Herbert Feigl",
+      "Ullin Place",
+      "J.J.C. Smart"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Repräsentational",
+    "core_identity_tagline": "‚Bewusstsein als kontingente physische Identität‘",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "representationalism",
+      "modal philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Der phänomenale Charakter (Q) wird als ein und dasselbe wie eine physische Eigenschaft (R) identifiziert, wobei R funktionale Zustände oder vom Repräsentationalismus postulierte Zustände umfassen kann. Diese Identität besteht in unserer Welt nur kontingent.",
+    "ontological_status": "Reduktiver Physikalismus (weit gefasst, sodass er Funktionalismus und Repräsentationalismus einschließt), obwohl Tye später Distanz zu einem durchgängigen reduktiven Physikalismus ausdrückte.",
+    "mind_body_relationship": "Kontingente Identitätstheorie. Mentale Zustände (Empfindungen) sind buchstäblich mit physischen Zuständen/Gehirnprozessen identisch, doch diese Identität ist eine kontingente Tatsache, keine Notwendigkeit in allen möglichen Welten.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität und phänomenaler Charakter werden auf repräsentationalen Gehalt reduziert bzw. mit ihm identifiziert (First-Order Representationalism). Der phänomenale Charakter wird nicht nur durch gegenwärtige, sondern auch durch vergangene Zustände festgelegt („die Geschichte ist für die Phänomenologie von entscheidender Bedeutung“).",
+    "qualia_account": "Der qualitative Charakter (Q) ist mit einer physischen Eigenschaft (R) identisch. Die Fähigkeit, sich Q ohne R vorzustellen (Zombies), wird als verständlich anerkannt, aber als irrelevant abgetan, weil sie nur eine metaphysisch mögliche Welt beschreibt, nicht die tatsächliche Welt, und dadurch die Erklärungslücke auflöst.",
+    "ontological_commitments": "Physische Zustände jeglicher Art, die neurophysiologische Zustände, funktionale Zustände und repräsentationale Gehalte umfassen, welche in mikrophysischen Zuständen fundiert sind.",
+    "epistemic_access": "Bewusstsein wird durch subjektive Erfahrung (Phänomenologie) zugänglich und mittels philosophischer und modaler Analyse untersucht, die verwendet wird, um für die kontingente Natur seiner physischen Realisierung zu argumentieren.",
+    "constituents_and_structure": "Bewusstsein besteht aus physischen Zuständen (R), die im Gehirn realisiert sind, oder äquivalent aus repräsentationalen Gehalten, wobei die Geschichte des Individuums entscheidend für die Bestimmung des phänomenalen Charakters zu einem gegebenen Zeitpunkt ist."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenale Zustände (Qualia), das schwere Problem des Bewusstseins und dessen Verhältnis zu physischen Zuständen.",
+    "distinctive_mechanism_or_principle": "Das Prinzip, dass Identitätsaussagen über das Bewusstsein (Q=R) kontingent sein können, wodurch der Fall des Bewusstseins von typischen notwendigen wissenschaftlichen Identitäten (wie Wasser=H2O) unterschieden und so das Erklärungsrätsel beseitigt wird.",
+    "dynamics_of_emergence": "Bewusstsein ist ein physisches Phänomen in der tatsächlichen Welt. Obwohl es sich allmählich entwickelt haben könnte (Tyes spätere evolutionäre Auffassungen), ist die zentrale Dynamik die kontingente Identitätsrelation selbst.",
+    "location_and_distribution": "Die physischen Zustände (R), mit denen Bewusstsein identisch ist, sind im Gehirn lokalisiert, einschließlich neurophysiologischer Zustände, funktionaler Zustände oder repräsentationaler Zustände.",
+    "causation_and_functional_role": "Wenn der Physikalismus wahr ist, ist Bewusstsein physisch, und somit lassen sich seine kausale Wirksamkeit und Emergenzfragen zufriedenstellend innerhalb der kausalen Geschlossenheit der physischen Welt behandeln.",
+    "integration_or_binding": "Die Theorie konzentriert sich vorrangig auf die Identitätsrelation des phänomenalen Charakters. Integration wird implizit durch die zugrunde liegenden Mechanismen physischer, funktionaler oder repräsentationaler Zustände gehandhabt, im Einklang mit einem reduktionistischen Rahmen.",
+    "information_flow_or_representation": "Die Theorie ist mit dem Repräsentationalismus vereinbar und betrachtet Erfahrungen in repräsentationalistischer und weitgehend reduktionistischer Weise, wobei der phänomenale Charakter mit dem repräsentationalen Gehalt identisch ist.",
+    "evolutionary_account": "Bewusstsein war vor einem bestimmten evolutionären Moment nicht abwesend, sondern grundlegend (Proto-Bewusstsein war stets vorhanden), während variierende bewusste Zustände allmählich auftraten, was die ‚Vagheit‘ bei der evolutionären Einschätzung des Bewusstseins adressiert.",
+    "core_claims_and_evidence": [
+      "Phänomenale Zustände sind in der tatsächlichen Welt kontingent mit physischen Zuständen identisch (Q=R).",
+      "Das schwere Problem löst sich auf, sobald man erkennt, dass die vorstellbare Möglichkeit von Q ohne R (Zombie) sich nur auf eine metaphysisch mögliche Welt bezieht, nicht auf die tatsächliche Welt.",
+      "Die Auffassung bietet die beste philosophische Verteidigung des reduktiven Physikalismus."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch, Konzeptuell"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekulativ/Konzeptuell. Die zentrale Behauptung stützt sich auf modale philosophische Argumente über Identität und Notwendigkeit statt auf empirische Falsifikation oder Verifikation der Identität selbst.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Der Kerngrundsatz beruht darauf, die Identität bewusster Zustände als kontingent zu halten, während andere wissenschaftliche Identitätsaussagen notwendig sind, was Kritiker infrage stellen könnten. Das Argument erkennt die Vorstellbarkeit philosophischer Zombies an, verneint aber ihre Relevanz für die tatsächliche Welt.",
+    "open_questions_and_limitations": "Tye äußerte letztlich Zweifel an einem durchgängigen reduktiven Physikalismus und glaubte, dass ein Element des Bewusstseins nicht durch höherstufige Reduktionen erfasst werden kann, was ihn zu einer Form des Panpsychismus führte.",
+    "ontological_coherence": "In hohem Maße kohärent innerhalb des Rahmens des orthodoxen A-posteriori-Physikalismus und bietet ein philosophisches Werkzeug, um den Physikalismus angesichts des Wissensarguments aufrechtzuerhalten."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn Bewusstsein in unserer Welt kontingent mit physischen/funktionalen/repräsentationalen Zuständen identisch ist und diese Zustände in nichtbiologischen Systemen instanziiert werden können, dann ist KI-Bewusstsein prinzipiell möglich."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist in der tatsächlichen Welt von physischen Gehirnprozessen abhängig und mit ihnen identisch; die Auflösung des Gehirns bringt das Ende des bewussten Selbst der Ersten Person mit sich."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als eine im Materialismus und reduktiven Physikalismus verwurzelte Theorie bietet sie keine Grundlage für letztgültigen kosmischen Sinn oder Zweck über das hinaus, was von bewussten menschlichen Akteuren geschaffen wird."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Da das phänomenale Bewusstsein mit physischen Zuständen (R) identifiziert wird, würde eine Duplikation von R, etwa durch digitales Uploading, erfolgreich Q hochladen, wodurch virtuelle Unsterblichkeit prinzipiell erreichbar wird."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "Erweiterung/Verschiebung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A New Solution to the Hard Problem of Consciousness, Michael Tye",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Representationalism and the Transparency of Experience, Michael Tye",
+        "year": 2002
+      }
+    ]
+  }
+}

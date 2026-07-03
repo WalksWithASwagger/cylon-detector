@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Funktionalismus",
+    "summary": "Der Funktionalismus postuliert, dass mentale Zustände durch ihre kausalen Beziehungen zueinander, zu sensorischen Eingaben und zu Verhaltensausgaben definiert sind, unabhängig von dem physischen Medium (Substrat), in dem sie realisiert werden. Das Wesen des Bewusstseins wird dadurch bestimmt, wie mentale Zustände funktionieren oder operieren, und nicht dadurch, woraus sie materiell zusammengesetzt sind.",
+    "associated_thinkers": [
+      "Ned Block",
+      "J.J.C. Smart",
+      "Janet Levin"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "Mentale Zustände sind funktionale Zustände, die durch ihre kausale Rolle definiert sind",
+    "classification_tags": [
+      "functional role",
+      "multiple realizability",
+      "computational",
+      "causal relations"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Mentale Zustände werden als funktionale Zustände identifiziert, die durch ihre kausalen Beziehungen, Rollen, Ergebnisse und Ausgaben konstituiert werden, was impliziert, dass sie in jedem Substrat realisierbar sind, das diese Funktionen unterstützt.",
+    "ontological_status": "Physikalismus (im weiten Sinne, agnostisch gegenüber der Substanz). Die Theorie wird unter den Materialismus eingeordnet, ist jedoch metaphysisch agnostisch hinsichtlich nichtphysischer Substanzen und konzentriert sich vorrangig auf die funktionale Beschreibung mentaler Zustände.",
+    "mind_body_relationship": "Mentale Zustände sind funktionale Zustände, identisch mit den funktionalen Rollen, die in einem physischen Substrat realisiert oder instanziiert werden, was zu ‚Thesen der funktionalen Zustandsidentität‘ führt.",
+    "primitive_or_emergent_status": "Emergent. Bewusstsein entsteht aus der funktionalen Organisation, die von einem hinreichend komplexen Substrat (wie neuronalem Gewebe oder Computerchips) realisiert wird.",
+    "emergence_type": "Schwache Emergenz. Da die Funktion definierbar und potenziell in verschiedenen Substraten mehrfach realisierbar ist, ist die emergente mentale Eigenschaft im Prinzip durch die zugrunde liegende funktionale Struktur und physikalische Gesetze erklärbar.",
+    "subjectivity_and_intentionality": "Subjektivität und Intentionalität werden anhand der spezifischen funktionalen Organisation und kausalen Beziehungen erklärt. In verwandten funktionalistischen Theorien wird die Intentionalität beispielsweise über eine Repräsentation zweiter Ordnung mentaler Zustände verstanden.",
+    "qualia_account": "Die Theorie hat traditionell Schwierigkeiten, phänomenale Qualia zu erklären, und begegnet ihnen oft, indem sie behauptet, das qualitative Erleben werde vollständig durch die funktionale Rolle erschöpft, oder indem sie sie mit repräsentationalen Theorien koppelt.",
+    "ontological_commitments": "Funktionale Rollen oder kausale Beziehungen sind die entscheidenden Entitäten. Die Theorie setzt die Existenz von Substraten voraus, die in der Lage sind, Information und funktionale Architektur zu instanziieren, sei es neuronales Gewebe oder Computerchips.",
+    "epistemic_access": "Bewusstsein wird erschlossen und verstanden, indem analysiert wird, wie mentale Zustände durch ihre kausalen Beziehungen zu sensorischen Eingaben und Verhaltensausgaben funktionieren, oft verbunden mit komputationalen und Dritte-Person-Perspektiven.",
+    "constituents_and_structure": "Mentale Zustände setzen sich aus kausalen Beziehungen zusammen, die zwischen sensorischen Eingaben, internen Zuständen und Verhaltensausgaben definiert sind. Diese Beziehungen konstituieren die funktionale Struktur des Geistes."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Psychologische Zustände (Erinnern, Denken, Schaffen) und die strukturellen Voraussetzungen für phänomenales Bewusstsein; liefert die Grundlage für das Bewusstsein künstlicher Intelligenz und die virtuelle Unsterblichkeit.",
+    "distinctive_mechanism_or_principle": "Das Prinzip der multiplen Realisierbarkeit, das besagt, dass die Realisierung mentaler Zustände unabhängig vom physischen Substrat ist und nur davon abhängt, dass die erforderliche Funktion instanziiert wird.",
+    "dynamics_of_emergence": "Bewusstsein wird als funktionaler Prozess oder als Aktivität realisiert, wann immer die notwendigen funktionalen Beziehungen (wie sie etwa durch Algorithmen oder kausalen Fluss definiert sind) innerhalb eines physischen Systems vorhanden sind.",
+    "location_and_distribution": "Verteilt, wo immer die funktionale Organisation erfolgreich realisiert wird, unabhängig davon, ob das Substrat neuronales Gewebe oder fest verdrahtete Rechenkomponenten sind.",
+    "causation_and_functional_role": "Funktionen, Rollen und Ausgaben sind ausschlaggebend. Mentale Zustände sind kausal wirksam, weil sie durch ihre kausalen Beziehungen innerhalb des Systems definiert sind (funktionale Rolle).",
+    "integration_or_binding": "Integration wird durch die erfolgreiche Realisierung komplexer funktionaler Architekturen erreicht, in denen mehrere Eingaben und interne Zustände kausal miteinander in Beziehung stehen, um einheitliche Ausgaben zu erzeugen.",
+    "information_flow_or_representation": "Information ist zentral, insbesondere im komputationalen Funktionalismus, in dem klassische Rechenmodelle (Algorithmen) die funktionalen Anforderungen mentaler Zustände beispielhaft verkörpern.",
+    "evolutionary_account": "Nicht direkt behandelt, aber vollständig mit evolutionären Erklärungen vereinbar, da die Theorie unter den Materialismus eingeordnet wird, was nahelegt, dass Bewusstsein ein evolvierter Mechanismus ist, der über funktionale Prozesse einen adaptiven oder Überlebensvorteil verleiht.",
+    "core_claims_and_evidence": [
+      "Mentale Zustände werden durch ihre kausalen Beziehungen zueinander und zu Eingaben/Ausgaben konstituiert.",
+      "Mentale Zustände sind identisch mit funktionalen Zuständen (Thesen der funktionalen Zustandsidentität).",
+      "Die Beschaffenheit des Substrats ist unerheblich, allein die ausgeführten Funktionen zählen.",
+      "Sie dient als theoretische Grundlage für die ‚virtuelle Unsterblichkeit‘."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (begriffliche Definitionen), Komputational (über komputationale Theorien des Geistes)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell und empirisch überprüfbar. Gedankenexperimente (wie der Substrataustausch) loten ihre konzeptuellen Grenzen aus, und die komputationale Realisierung (KI) testet ihre empirische Anwendung.",
+    "known_empirical_interventions_or_tests": "Das Gedankenexperiment des Siliziumchip-Austauschs wird konzeptuell verwendet, um zu prüfen, ob das phänomenale Bewusstsein erhalten bleibt, wenn die funktionale Rolle über einen Substratwechsel hinweg aufrechterhalten wird.",
+    "criticisms_and_tensions": "Sie wird stark dafür kritisiert, das phänomenale Bewusstsein (die Qualia) nicht erklären zu können, indem sie nur die funktionale Rolle beschreibt, was zur Herausforderung des ‚schweren Problems‘ führt, dass funktionale Rollen möglicherweise nicht die Natur der bewussten Erfahrung erschöpfen.",
+    "open_questions_and_limitations": "Die zentrale ungelöste Frage ist, ob die bewusste Erfahrung vollständig durch die funktionale Rolle erschöpft wird. Es ist unklar, wie funktionale Definitionen die subjektiven, qualitativen Aspekte der Erfahrung vollständig erfassen.",
+    "ontological_coherence": "Hochgradig kohärent mit weiten physikalistischen Ontologien. Obwohl er von einem Vertreter aus metaphysischen Gründen als ‚inkompatibler Rivale‘ des reduktiven Physikalismus definiert wird, liefert er die für reduktive Vorhaben erforderliche funktionale Charakterisierung."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Der Funktionalismus vertritt die Auffassung, dass Bewusstsein auf Funktion und nicht auf Biologie beruht. Wenn die richtigen Funktionen komputational in nichtbiologischen Substraten realisiert werden können, ist KI-Bewusstsein im Prinzip möglich und sicher, sofern der Materialismus wahr ist."
+    },
+    "survival_beyond_death": {
+      "stance": "Bedingt/Nein",
+      "rationale": "Als physikalistische Theorie ist Bewusstsein an das Substrat gebunden. Ein Überleben über den Tod des biologischen Körpers hinaus ist nur möglich, wenn der funktionale mentale Zustand erfolgreich auf ein neues, fortbestehendes Substrat übertragen (hochgeladen) werden kann (virtuelle Unsterblichkeit)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Der Funktionalismus beschreibt den Mechanismus, durch den Geist/Bewusstsein innerhalb einer physischen Welt operiert, und stellt Fähigkeiten für Handlungsträgerschaft und Reflexion bereit, bietet aber keine Begründung für einen letztgültigen kosmischen Sinn oder eine Teleologie, im Einklang mit der allgemeinen Haltung des Materialismus."
+    },
+    "virtual_immortality": {
+      "stance": "Erreichbar",
+      "rationale": "Der Funktionalismus dient als theoretische Grundlage für die virtuelle Unsterblichkeit. Wenn die funktionale Rolle des mentalen Selbst perfekt dupliziert und auf ein neues Medium hochgeladen werden kann, bleibt das mentale Selbst in der Ersten-Person-Perspektive erhalten."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Homuncular Functionalism (Lycan)",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "Kompatibel/Rivale"
+      },
+      {
+        "name": "Neurofunctionalism (Prinz)",
+        "relationship": "Erweiterung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism? (N. Block)",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Is Functionalism? Consciousness, Function, and Representation (N. Block)",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Functionalism (J. Levin)",
+        "year": 2023
+      }
+    ]
+  }
+}

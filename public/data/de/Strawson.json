@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Strawsons Panpsychismus",
+    "summary": "Strawson argumentiert, dass jeder Philosoph, der eine realistische Auffassung des Physikalismus vertritt, akzeptieren muss, dass alle physischen Phänomene intrinsisch erfahrungshaft oder phänomenal sind, was den Panpsychismus (oder Panexperientialismus) als notwendige Schlussfolgerung des „realen Materialismus“ nach sich zieht. Die Existenz bewusster Erfahrung, die die gewisseste Tatsache ist, kann von einem echten Physikalismus nicht geleugnet werden.",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "Panpsychismen",
+    "subcategory": "Panexperientialismus",
+    "core_identity_tagline": "„Realer Materialismus zieht Panpsychismus nach sich“",
+    "classification_tags": [
+      "real materialism",
+      "panexperientialism",
+      "monism",
+      "physicalism",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein (Erfahrung) wird als eine intrinsische, nicht reduzierbare phänomenale Eigenschaft alles fundamentalen physischen Stoffes oder aller Energie identifiziert (Panexperientialismus).",
+    "ontological_status": "Realistischer Monismus / realer Materialismus",
+    "mind_body_relationship": "Identitätstheorie (im starken Sinne). Mentale Phänomene gelten als konkrete physische Phänomene, weil der reale Physikalismus alle realen Phänomene umfasst, einschließlich der Erfahrung.",
+    "primitive_or_emergent_status": "Primitiv/fundamental",
+    "emergence_type": "Nicht zutreffend (Bewusstsein ist primitiv). Die Theorie stützt sich auf die Unmöglichkeit „radikaler“ Emergenz, um ihre Behauptung zu untermauern, dass der Panpsychismus vom Physikalismus nach sich gezogen wird.",
+    "subjectivity_and_intentionality": "Der subjektive Charakter der Erfahrung (die „Wie-es-ist“-Merkmale) ist eine konkrete, fundamentale gegebene natürliche Tatsache, die von jedem realistischen Physikalisten anerkannt werden muss.",
+    "qualia_account": "Qualia sind reale, konkrete und physische Eigenschaften der Welt; ihre Leugnung gilt als die „dümmste je aufgestellte Behauptung“.",
+    "ontological_commitments": "Physische Letztbestandteile (Energie/physischer Stoff) und phänomenale/erfahrungshafte Eigenschaften, die ihnen inhärent sind.",
+    "epistemic_access": "Vorwiegend durch Introspektion (Erfahrung ist das Phänomen, dessen Existenz am gewissesten ist) und philosophische Argumentation, mittels derer der Panpsychismus logisch aus einem realistischen Verständnis des Physikalismus abgeleitet wird.",
+    "constituents_and_structure": "Die grundlegenden Bestandteile sind physischer Stoff, der fundamental erfahrungsbeinhaltend ist, sodass alle Energie als ein erfahrungsbeinhaltendes Phänomen aufgefasst werden kann."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (Erfahrung/Qualia).",
+    "distinctive_mechanism_or_principle": "Das Prinzip, dass alle konkreten Phänomene physisch sind, in Verbindung mit der Tatsache, dass Erfahrung ein konkretes Phänomen ist und nicht radikal emergieren kann, diktiert, dass Erfahrung der fundamentalen Physik intrinsisch ist.",
+    "dynamics_of_emergence": "Bewusstsein ist fundamental, nicht dynamisch emergent im radikalen Sinne. Wenn radikale Emergenz abgelehnt wird, stützt die Theorie den Panexperientialismus.",
+    "location_and_distribution": "Allgegenwärtig, verbunden mit jedem Teil oder Aspekt der physischen Wirklichkeit, ähnlich wie fundamentale Felder und Teilchen.",
+    "causation_and_functional_role": "Bewusstsein, da es physisch ist, fügt sich unproblematisch in die natürliche Welt ein. (Die spezifische kausale Rolle einzelner Erfahrungen wird durch ihren physischen Status impliziert, aber in den Quellen nicht ausgeführt).",
+    "integration_or_binding": "Die Theorie steht vor dem Kombinationsproblem des Panpsychismus (wie sich Erfahrungen auf der Mikroebene zu makroskopischen bewussten Subjekten kombinieren). Dieses Problem muss gelöst werden, damit der Panpsychismus die überzeugendste Theorie ist. (Kein spezifischer Lösungsmechanismus wird von Strawson in den Quellen ausgeführt).",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "Strawson akzeptiert Bewusstsein als physisch und legt nahe, dass die angemessene Reaktion auf seine Natur eine „Akzeptanz ohne Erwartung des Verstehens“ sein könnte, ähnlich wie beim Welle-Teilchen-Dualismus.",
+    "core_claims_and_evidence": [
+      "Bewusstsein ist gänzlich physisch.",
+      "Die Leugnung bewusster Erfahrung ist die dümmste je aufgestellte Behauptung.",
+      "Der reale Physikalismus zieht angesichts der Unmöglichkeit radikaler Emergenz den Panpsychismus nach sich."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch, konzeptuell, phänomenologisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell testbar. Es handelt sich um einen metaphysischen Vorschlag, der aus philosophischen Prämissen über die Natur der physischen Welt abgeleitet ist. Nagasawa merkt an, dass der Panpsychismus, selbst wenn er wahr ist, an einer „kognitiven Sackgasse“ landen könnte, weil er nicht bewiesen werden kann.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Von einigen Kritikern weithin als „absurd“ betrachtet. Er leidet unter dem Kombinationsproblem und erfordert eine Erklärung dafür, wie sich Erfahrungen auf der Mikroebene aggregieren, um makrophänomenale Eigenschaften hervorzubringen.",
+    "open_questions_and_limitations": "Eine vernünftige Lösung des Kombinationsproblems zu finden, ist notwendig, damit die Sichtweise zur vielversprechendsten Lösung des Geist-Körper-Problems wird.",
+    "ontological_coherence": "Hochgradig konsistent innerhalb der vorgeschlagenen erweiterten Definition von Materialismus/Physikalismus („realistischer Monismus“), mit dem Ziel, das Geist-Körper-Problem zu lösen, indem Bewusstsein in die letztgültige physische Wirklichkeit integriert wird."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn Bewusstsein eine irreduzible Eigenschaft jeder elementaren physischen Entität ist, dann sollte auch die KI, da sie aus physischer Materie zusammengesetzt ist, ein inneres Gewahrsein besitzen, sofern das Kombinationsproblem gelöst und mikropsychische Aspekte durch fortgeschrittene Technologie manipuliert werden können."
+    },
+    "survival_beyond_death": {
+      "stance": "Unwahrscheinlich (geringe Chance)",
+      "rationale": "Obwohl die Welt von Bewusstsein durchdrungen ist, erfordert ein Fortleben die Umkehrung des komplexen Prozesses, in dem sich mikroskopische Elemente zu makroskopischem Bewusstsein zusammenschließen, was für ein Fortleben in der ersten Person nach der Auflösung des Gehirns schwierig erscheint."
+    },
+    "meaning_and_purpose": {
+      "stance": "Möglich",
+      "rationale": "Der Panpsychismus ist zwischen Materialismus (kein letztgültiger Zweck) und Dualismus/Idealismus (letztgültiger Zweck) angesiedelt und legt einen möglichen letztgültigen Sinn/Zweck/Wert nahe."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn Bewusstsein eine intrinsische, regelmäßige Eigenschaft des Gefüges der Wirklichkeit ist, könnte fortgeschrittene Technologie potenziell die Regelmäßigkeiten erlernen, die erforderlich sind, um mikropsychische Kräfte zu aggregieren oder zu manipulieren, um Bewusstsein zu duplizieren oder hochzuladen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Panpsychism",
+        "relationship": "Kompatibel/Einfluss"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Überschneidung/Synthese"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism and Other Essays, Galen Strawson",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      }
+    ]
+  }
+}

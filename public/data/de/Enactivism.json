@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Enaktivismus",
+    "summary": "Der Enaktivismus postuliert, dass mentale Aktivitäten und Kognition aus der dynamischen, reziproken Interaktion zwischen einem lebenden Organismus und seiner Umwelt hervorgehen, vermittelt durch dessen sensomotorische Prozesse. Bewusstsein wird als eine verkörperte Aktivität aufgefasst, was die Vorstellung eines Geistes ohne Körper unstimmig macht.",
+    "associated_thinkers": [
+      "Francisco Varela",
+      "Eleanor Rosch",
+      "Evan Thompson"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Verkörpert und enaktiv",
+    "core_identity_tagline": "Kognition durch dynamische Organismus-Umwelt-Interaktion",
+    "classification_tags": [
+      "embodied",
+      "cognition",
+      "dynamic",
+      "interaction",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Mentale Aktivitäten werden als verkörperte Aktivitäten identifiziert, die aus dem dynamischen, wechselseitigen Austausch zwischen einem Organismus und seiner Umgebung hervorgehen und durch sensomotorische Prozesse reguliert werden.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Geist und mentales Leben verzweigen sich durch Körper und Umwelt, was bedeutet, dass sie nicht einfach auf Hirnprozesse im Kopf reduziert werden können. Die Beziehung ist eine der dynamischen Interaktion und Ko-Relation, oft als „verkörperter Dynamismus“ bezeichnet.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Natürliche Emergenz. Das Bewusstsein entsteht über evolutionäre Stufen der Kognition und des Proto-Bewusstseins. Der Ansatz versucht, den Übergang vom Leben zum Geist mit derselben Art von Prozessen zu erklären, die den Übergang vom Nicht-Leben zum Leben ermöglichen.",
+    "subjectivity_and_intentionality": "Subjektivität wird über den Vorrang der gelebten Erfahrung (Phänomenologie) erschlossen. Intentionalität (Gerichtetheit des Denkens) wird durch die Vorstellung erklärt, dass der Geist seine Objekte aktiv konstituiert, indem er die Welt zum Gewahrsein bringt oder sie durch Interaktion erschließt.",
+    "qualia_account": "Die zugehörige Methodik der Theorie, die Neurophänomenologie, betont die irreduzible Natur der bewussten Erfahrung und der gelebten Erfahrung. Während die mechanistischen Details der Qualia-Erzeugung im vorliegenden Text nicht ausdrücklich ausgeführt werden, liegt der Fokus auf der unmittelbaren, gelebten Qualität der Erfahrung.",
+    "ontological_commitments": "Lebende Systeme, Organismus-Umwelt-Interaktionen, sensomotorische Prozesse und selbstorganisierende Beschränkungen. Der Ansatz wird bisweilen als ein ontologischer Durchbruch charakterisiert, der den Vorrang der Verkörperung betont.",
+    "epistemic_access": "Die gelebte Erfahrung ist der notwendige Ausgangspunkt und Leitfaden der Untersuchung („Neurophänomenologie“), der systematisch mit Fortschritten in Biologie und Kognitionswissenschaft verknüpft werden muss.",
+    "constituents_and_structure": "Selbsterschaffende, selbstorganisierende, selbstanpassende, selbsterhaltende Lebewesen, deren Geist aus kontinuierlichen reziproken Interaktionen hervorgeht (verkörperter Dynamismus)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (untersucht über Neurophänomenologie), Kognition (als verkörperte Aktivitäten) und Handlungsfähigkeit (Organismen als aktive Akteure).",
+    "distinctive_mechanism_or_principle": "Kontinuierlicher, iterativer und dynamischer wechselseitiger Austausch zwischen dem Organismus und seiner Umwelt, vermittelt durch sensomotorische Prozesse.",
+    "dynamics_of_emergence": "Bewusstsein ist ein dynamischer, fortlaufender, zeitlicher Prozess, in dem selbstorganisierte innere Zustände als durch Umweltstörungen ausgelöste Kompensationen entstehen, statt allein als innere Repräsentationen.",
+    "location_and_distribution": "Der Ort des Bewusstseins ist verteilt bzw. „in der Welt situiert“ und verzweigt sich durch Körper und Umwelt, wodurch er die Grenzen des Gehirns allein überschreitet.",
+    "causation_and_functional_role": "Ermöglicht es Organismen, aktive Akteure zu sein, die sich selbst regulieren, ihre Selbstintegrität aufrechterhalten und ihre Fähigkeit zur Selbsterschaffung beharrlich neu hervorbringen.",
+    "integration_or_binding": "Integration ist implizit in der Definition des Organismus-Umwelt-Systems als Analyseeinheit und in der daraus resultierenden selbstorganisierenden, selbsterhaltenden Natur des lebenden Organismus enthalten.",
+    "information_flow_or_representation": "Fasst Kognition häufig als nicht-repräsentational auf, im Gegensatz zu Theorien der inneren Repräsentation. Innere Zustände werden als selbstorganisierte, durch Störungen ausgelöste Kompensationen beschrieben, nicht als Repräsentationen äußerer Sachverhalte.",
+    "evolutionary_account": "Das Bewusstsein entwickelte sich über Stufen der Kognition und des Proto-Bewusstseins, die aufgrund fitnessfördernder Merkmale in herausfordernden Umwelten selektiert wurden.",
+    "core_claims_and_evidence": [
+      "Kognition/mentale Aktivitäten werden durch verkörperte Aktivitäten konstituiert.",
+      "Der Organismus formt seine Umwelt aktiv und wird zugleich iterativ von ihr geformt.",
+      "Die Neurophänomenologie, eine Erweiterung des Enaktivismus, versucht, die irreduzible gelebte Erfahrung (erste Person) systematisch mit der Neurowissenschaft (dritte Person) zu verknüpfen."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (phänomenologisch), theoretisch, biologisch/evolutionär."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar durch die Anwendung der Neurophänomenologie, die Beschreibungen aus der ersten Person mit neurobiologischen Daten aus der dritten Person koordiniert.",
+    "known_empirical_interventions_or_tests": [
+      "Neurophänomenologische Forschungsmethoden (z. B. mikrophänomenologische Interviews) ",
+      "Untersuchungen der Erfahrung der Grenzen des Selbst mithilfe neurologischer und phänomenologischer Daten "
+    ],
+    "criticisms_and_tensions": "Die zentrale methodologische Herausforderung liegt darin, genaue Berichte und Deutungen aus der ersten Person zu gewinnen und sie systematisch mit objektiven neurowissenschaftlichen Daten zu korrelieren.",
+    "open_questions_and_limitations": "Überbrückt die Erklärungslücke nicht vollständig im reduktiven Sinne, sondern sucht die Ressourcen zu ihrer Behandlung zu erweitern und zu bereichern.",
+    "ontological_coherence": "Hoch. Der Ansatz nutzt die Phänomenologie, um seine Untersuchungen zu naturalisieren, indem er sie mit Biologie und Kognitionswissenschaft in Einklang bringt und dabei innere Konsistenz zwischen der gelebten Welt und der wissenschaftlichen Beschreibung anstrebt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Der Enaktivismus ist eine Materialismus-Theorie (verkörpert). Der Materialismus vertritt im Allgemeinen die Auffassung, dass KI-Bewusstsein prinzipiell möglich sein muss, sofern die notwendige physische und verkörperte organisatorische Komplexität (einschließlich der Fähigkeit zur dynamischen Interaktion mit einer Umwelt) im künstlichen System nachgebildet wird."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Das Bewusstsein ist eng an den verkörperten, lebenden Organismus und seine biologischen Prozesse gebunden. Da der Organismus physisch ist, wird erwartet, dass das Bewusstsein mit dem biologischen Tod erlischt (Standardposition des Materialismus)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als Materialismus-Theorie liefert der Enaktivismus keinen Beleg für einen letztgültigen kosmischen Sinn oder Zweck und erkennt nur den Sinn und Wert an, den Menschen durch Handlungsfähigkeit und Interaktion für sich selbst schaffen."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Wenn der Enaktivismus zutrifft, dann wäre virtuelle Unsterblichkeit erreichbar, sofern die komplexen, dynamischen Prozesse, die den verkörperten, selbstorganisierenden Geist konstituieren, in einem nichtbiologischen Medium perfekt nachgebildet oder simuliert werden könnten."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied Cognition",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Neurophenomenology",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Ecological Psychology (Gibson’s)",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Dynamic Systems Approach",
+        "relationship": "Einfluss"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, Francisco Varela, Eleanor Rosch, Evan Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Enactivism, Daniel Hutto",
+        "year": 2023
+      }
+    ]
+  }
+}

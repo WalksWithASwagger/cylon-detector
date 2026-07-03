@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Andrews’ Bewusstsein ohne komplexe Gehirne",
+    "summary": "Diese Perspektive kritisiert die neurozentrische Voreingenommenheit in der Bewusstseinsforschung, die annimmt, dass nur komplexe Säugetiergehirne Bewusstsein stützen können. Sie schlägt vor, dass Bewusstsein über vielfältige physische Systeme hinweg mehrfach realisierbar ist, und plädiert für die Untersuchung einfacherer Tiere (wie Bienen oder Kraken), um grundlegende statt kontingente Merkmale der Empfindungsfähigkeit zu identifizieren.",
+    "associated_thinkers": [
+      "Kristin Andrews"
+    ],
+    "category": "Materialismustheorien",
+    "subcategory": "Phylogenetische Evolution",
+    "core_identity_tagline": "Bewusstsein realisiert über mehrere einfache Systeme",
+    "classification_tags": [
+      "evolution",
+      "animal minds",
+      "multiple realizability",
+      "comparative cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als die zugrunde liegende Kapazität identifiziert, die robuste Verhaltensprofile (z. B. Schmerzvermeidung, Nährstoffsuche) ermöglicht, welche von sehr unterschiedlichen physischen Systemen instanziiert werden können (mehrfache Realisierbarkeit).",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Bewusstsein korreliert mit physischen Prozessen und wird durch diese instanziiert, doch dieses Verhältnis ist flexibel und lässt nichtkomplexe und phylogenetisch entfernte neuronale Substrate (mehrfache Realisierbarkeit) zu, im Gegensatz zu strikten Identitätstheorien, die sich nur auf komplexe Gehirne konzentrieren.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität und Intentionalität werden aus den robusten Verhaltensprofilen abgeleitet, die Tiere zeigen (z. B. zielgerichtete Bewegung zu erwünschten Reizen), was darauf hindeutet, dass diese mentalen Fähigkeiten mit vielfältigen physischen Mechanismen verbunden sind.",
+    "qualia_account": "Der Ansatz setzt die Existenz phänomenaler Erfahrung (Empfindungsfähigkeit) bei einfacheren Tieren voraus und zielt darauf ab, die wesentliche physische Grundlage des Bewusstseins zu identifizieren, unabhängig von komplexen Gehirnmerkmalen, die traditionell mit Qualia in Verbindung gebracht werden.",
+    "ontological_commitments": "Physische Systeme, die zu empfindungsfähigem Verhalten in der Lage sind, insbesondere vielfältige neurologische Systeme (Kopffüßer, Gliederfüßer, Wirbeltiere).",
+    "epistemic_access": "In erster Linie zugänglich durch Beobachtung und Analyse eines robusten Profils adaptiver Verhaltensweisen bei vielfältigen Arten, zusammen mit allgemeinen Bewusstseinsmarkern (z. B. Selbsterkennung, Reaktion auf Stimulation).",
+    "constituents_and_structure": "Die spezifische physische Struktur ist variabel (mehrfache Realisierbarkeit) und konzentriert sich auf die notwendige Organisation innerhalb biologischer Systeme, potenziell einschließlich einfacher neuronaler Schaltkreise, statt auf spezifische Strukturen wie den zerebralen Kortex."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (Empfindungsfähigkeit), Adaptives Verhalten, Lernen, Selbstbewusstsein (untersucht durch Marker).",
+    "distinctive_mechanism_or_principle": "Das Prinzip der mehrfachen Realisierbarkeit, das behauptet, dass mentale Fähigkeiten nicht auf komplexe neuronale Architekturen von Säugetieren beschränkt sind, und die Forschung darauf ausrichtet, universelle Verhaltensmarker des Bewusstseins bei phylogenetisch entfernten Arten zu identifizieren.",
+    "dynamics_of_emergence": "Entwickelt durch phylogenetische Entwicklung, möglicherweise nur einmal in einem gemeinsamen wurmartigen Vorfahren oder unabhängig in verschiedenen Abstammungslinien (z. B. Gliederfüßer, Kopffüßer, Wirbeltiere) entstanden.",
+    "location_and_distribution": "Verteilt über verschiedene Organismen im Baum des Lebens (z. B. Bienen, Kraken, Würmer), was den neurozentrischen Fokus auf die Lokalisierung bei höheren Säugetieren infrage stellt.",
+    "causation_and_functional_role": "Bewusstsein fungiert als adaptiver Vorteil, der es Organismen ermöglicht, Überlebensprobleme wie Schmerzvermeidung und Nährstoffsuche zu lösen, und flexibles Verhalten unterstützt.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Verwandte Forschung befasst sich mit Schlüsselthemen wie der mentalen Repräsentation, doch die Kerntheorie betont Verhaltensprofile, die mit Erfahrung verbunden sind.",
+    "evolutionary_account": "Bewusstsein entstand durch Evolution und wurde für seine Rolle bei der Verstärkung des Überlebens selektiert; die Untersuchung mehrerer Instanzen evolvierten Bewusstseins hilft, wesentliche Merkmale von kontingenten zu entwirren (das ‚N = 1-Problem‘).",
+    "core_claims_and_evidence": [
+      "Die ausschließliche Konzentration auf komplexe Säugetiergehirne (wie bei Primaten) führt zu einem ‚N = 1-Problem‘, das die Identifizierung wahrhaft wesentlicher Merkmale des Bewusstseins verhindert.",
+      "Empfindungsfähigkeit hat sich auf der Erde wahrscheinlich nur wenige Male entwickelt, oder vielleicht nur einmal in einem entfernten gemeinsamen Vorfahren.",
+      "Robuste Verhaltensprofile (z. B. das Wegbewegen von schmerzhaften Reizen) rechtfertigen die Hypothese, dass einfachere Tiere bewusst sind."
+    ],
+    "basis_of_belief_or_evidence_type": "Vergleichende Biologie, Philosophisch, Empirisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar durch vergleichende Verhaltensstudien, wenngleich herausfordernd aufgrund der Grenzen der artenübergreifenden Bewertung.",
+    "known_empirical_interventions_or_tests": [
+      "Analyse der in der Cambridge-Deklaration identifizierten Bewusstseinsmarker (z. B. homologe Gehirnschaltkreise, Spiegel-Selbsterkennung)",
+      "Verhaltensbeobachtung adaptiver Reaktionen (z. B. Schmerzvermeidung, Nährstoffsuche)"
+    ],
+    "criticisms_and_tensions": "Widerspricht der vorherrschenden konventionellen Auffassung in der Bewusstseinsforschung, die ein komplexes Gehirn für das Bewusstsein voraussetzt. Wenn Bewusstsein bei entfernten Vorfahren gefunden wird, werden Theorien infrage gestellt, die sich auf spezialisierte Gehirnregionen stützen (wie der zerebrale Kortex für die Informationsintegration).",
+    "open_questions_and_limitations": "Das ‚N = 1-Problem‘ bleibt bestehen, wenn Empfindungsfähigkeit nur einmal in einem sehr alten Vorfahren entstanden ist, was bedeutet, dass das wesentliche zugrunde liegende Merkmal in Bezug auf Empfindungsfähigkeit weiterhin unbekannt ist.",
+    "ontological_coherence": "Kohärent innerhalb eines breit physikalistischen Rahmens, dient als methodologische Kritik an materialistischen Theorien, die hinsichtlich des notwendigen physischen Substrats übermäßig spezifisch sind."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn Bewusstsein über vielfältige biologische Systeme hinweg mehrfach realisierbar ist, ist es höchst wahrscheinlich, dass es in nichtbiologischen (künstlichen) Systemen instanziiert werden kann, die die notwendige funktionale Organisation und Verhaltenskomplexität erreichen, wobei das Verständnis tierischer Geister für dieses Ziel entscheidend ist."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Als Theorie, die im Materialismus und in der phylogenetischen Evolution verwurzelt ist, ist Bewusstsein grundlegend von physischer/biologischer Hardware abhängig und postuliert keine nichtphysische Substanz, die zum postmortalen Überleben fähig wäre."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistisch/Adaptiv",
+      "rationale": "Der Fokus liegt auf der evolvierten funktionalen und adaptiven Rolle des Bewusstseins bei der Förderung von Überleben und Gedeihen, was einen humanistischen Sinn stützt, der aus der biologischen Existenz statt aus einer kosmischen Teleologie abgeleitet wird."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Das zentrale Konzept der ‚mehrfachen Realisierbarkeit‘ impliziert, dass das bewusste mentale Selbst in nichtbiologischer Hardware reproduziert werden könnte, sofern die funktionalen Eigenschaften genau dupliziert werden."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Überschneidung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is it like to be a crab?, Kristin Andrews",
+        "year": ""
+      },
+      {
+        "title_with_names": "How to Study Animal Minds, Kristin Andrews",
+        "year": 2020
+      },
+      {
+        "title_with_names": "What has feelings?, Kristin Andrews and Jonathan Birch",
+        "year": 2023
+      }
+    ]
+  }
+}

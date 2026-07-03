@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Searles biologischer Naturalismus",
+    "summary": "Der biologische Naturalismus postuliert, dass Bewusstsein ein reales, irreduzibles, subjektives biologisches Merkmal des Gehirns ist, das vollständig von neurobiologischen Prozessen niedrigerer Ebene verursacht und als Systemmerkmal höherer Ebene realisiert wird. Dieser Ansatz sucht das Leib-Seele-Problem zu lösen, indem er das wissenschaftliche Weltbild akzeptiert und zugleich die Erste-Person-Ontologie der bewussten Erfahrung anerkennt.",
+    "associated_thinkers": ["John Searle"],
+    "category": "Materialismus",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "Bewusstsein als irreduzibles biologisches Merkmal des Gehirns",
+    "classification_tags": [
+      "biological",
+      "naturalism",
+      "causal_reductionism",
+      "first-person_ontology",
+      "irreducible"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusste Zustände werden als reale Teile der realen Welt identifiziert, die Systemmerkmale höherer Ebene des Gehirns sind und als Zustände des Gewahrseins, der Empfindungsfähigkeit oder des Fühlens definiert werden, die während des Wachzustands fortbestehen.",
+    "ontological_status": "Physikalismus (biologischer Naturalismus). Er vertritt die Auffassung, dass Bewusstsein als subjektive, qualitative biologische Eigenschaft Teil der Natur ist, und weist Versuche zurück, es zu ‚naturalisieren‘, indem seine subjektive Ontologie geleugnet wird.",
+    "mind_body_relationship": "Bewusste Zustände werden kausal auf Gehirnprozesse niedrigerer Ebene reduziert (kausale Reduzierbarkeit), sind aber ontologisch auf diese Prozesse irreduzibel, weil Bewusstsein eine subjektive (Erste-Person-)Ontologie hat, während seine Grundlage eine objektive (Dritte-Person-)Ontologie hat.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Die Quellen ordnen die Art der Emergenz nicht ausdrücklich ein. Da Bewusstsein vollständig von physischen Prozessen verursacht wird (Materialismus) und dennoch ontologisch irreduzibel ist, nimmt dieses Modell eine einzigartige Stellung in der physikalistischen Landschaft ein, indem es eine robuste, nicht-eliminierbare emergente Realität behauptet, die streng an die biologische Kausalität gebunden ist.",
+    "subjectivity_and_intentionality": "Bewusste Zustände sind ontologisch subjektiv (existieren nur, wie sie von einem Subjekt erfahren werden), und die meisten bewussten Zustände sind intentional (handeln von Objekten und Sachverhalten oder verweisen auf sie).",
+    "qualia_account": "Bewusste Zustände sind ihrem Wesen nach qualitativ, in dem Sinne, dass es ein bestimmtes qualitatives Erleben gibt, in irgendeinem bestimmten bewussten Zustand zu sein, und dieses qualitative Erleben ist ein realer und irreduzibler Teil der Welt.",
+    "ontological_commitments": "Biologische Gehirne und ihre neurobiologischen Prozesse niedrigerer Ebene; bewusste Zustände, die durch qualitatives Erleben, ontologische Subjektivität, Einheit und Intentionalität gekennzeichnet sind.",
+    "epistemic_access": "Bewusstsein wird direkt durch Introspektion (Erste-Person-Perspektive) und indirekt durch die Untersuchung seiner kausalen Grundlage in Gehirnprozessen niedrigerer Ebene (Dritte-Person-Objektivität) erkannt.",
+    "constituents_and_structure": "Bewusstsein existiert als ein einziges einheitliches Bewusstseinsfeld und ist ein Merkmal höherer Ebene des Gehirnsystems, das wesentliche Merkmale wie qualitatives Erleben und Subjektivität besitzt."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (qualitatives Erleben), Intentionalität und kausale Wirksamkeit.",
+    "distinctive_mechanism_or_principle": "Das Prinzip besagt, dass alle bewussten Zustände zuverlässig und universell von Gehirnprozessen niedrigerer Ebene verursacht und als Systemmerkmale realisiert werden und dabei als eine reale biologische Maschine funktionieren.",
+    "dynamics_of_emergence": "Ein dynamischer Prozess, der fortlaufend durch andauernde neuronale Aktivität verursacht wird und in einem Zustand subjektiven Gewahrseins (Bewusstsein) resultiert, der mit dem Erwachen aus traumlosem Schlaf beginnt.",
+    "location_and_distribution": "Im biologischen Gehirn lokalisiert, spezifisch im Gehirn als Merkmale höherer Ebene oder als Systemmerkmale realisiert.",
+    "causation_and_functional_role": "Bewusste Zustände funktionieren kausal (kausale Wirksamkeit) als reale Teile der realen Welt und liefern eine Grundlage für intentionales Handeln und die Interaktion mit der Umwelt.",
+    "integration_or_binding": "Bewusste Zustände werden als Teil eines einzigen einheitlichen Bewusstseinsfeldes erfahren, wenngleich der spezifische Mechanismus für diese neuronale Vereinheitlichung in den Quellen nicht ausgeführt wird.",
+    "information_flow_or_representation": "Bewusste Zustände sind weitgehend intentional (handeln von etwas), was bedeutet, dass sie Gehalt umfassen; Searle stellt das Bewusstsein dem Gehalt voran.",
+    "evolutionary_account": "Impliziert. Der Rahmen des ‚biologischen Naturalismus‘ setzt voraus, dass Bewusstsein als biologisches Merkmal entstand, im Einklang mit einer wissenschaftsbasierten, naturalistischen Perspektive, wenngleich spezifische evolutionäre Details nicht angegeben werden.",
+    "core_claims_and_evidence": [
+      "Bewusste Zustände sind reale Teile der realen Welt und können nicht eliminiert oder auf etwas anderes reduziert werden (ontologische Irreduzibilität).",
+      "Alle bewussten Zustände werden von Gehirnprozessen niedrigerer Ebene verursacht, was durch eine überwältigende Menge an Belegen erwiesen ist (kausale Reduzierbarkeit).",
+      "Bewusste Zustände werden im Gehirn als Merkmale höherer Ebene oder als Systemmerkmale realisiert."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (Bestimmung wesentlicher Merkmale) und Empirisch (neurowissenschaftliche Belege für die Geist-Gehirn-Korrelation)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Im Prinzip empirisch überprüfbar, da die Theorie erfordert, die genauen kausalen Einzelheiten zu finden, wie Gehirnprozesse niedrigerer Ebene Bewusstsein verursachen.",
+    "known_empirical_interventions_or_tests": "Die Theorie wird allgemein durch empirische Belege aus der Neurowissenschaft gestützt, die die Verbindung zwischen Bewusstsein und Gehirnaktivität zeigen (z. B. Gehirnschädigung, Gehirnstimulation).",
+    "criticisms_and_tensions": "Kritiker bestreiten die Behauptung, dass die kausale Verbindung zwischen Gehirnzuständen und Bewusstsein vollständig erwiesen sei. Eine Spannung besteht darin, den Materialismus aufrechtzuerhalten und zugleich zu argumentieren, dass Bewusstsein ontologisch subjektiv und auf objektive physische Prozesse irreduzibel ist.",
+    "open_questions_and_limitations": "Die spezifischen Einzelheiten, wie genau Bewusstsein durch Gehirnprozesse verursacht wird, sind unbekannt, was eine künstliche Replikation von Bewusstsein verhindert.",
+    "ontological_coherence": "Hoch. Die Theorie ist in sich kohärent, indem sie Bewusstsein als ein spezifisches biologisches Merkmal der Natur definiert und dadurch das traditionelle Leib-Seele-Problem umgeht, indem sie eine notwendige kausale, aber nicht-ontologische Identität behauptet."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt/Möglich",
+      "rationale": "Searle lehnt Bewusstsein durch Simulation ab (Argument des chinesischen Zimmers), argumentiert aber, dass eine künstliche Maschine, die denselben Mechanismus implementiert, bewusst sein könnte, sofern der kausal hinreichende biologische Mechanismus bekannt ist, da Bewusstsein nicht strikt biologische Neuronen erfordert, sondern nur hinreichende kausale Kraft."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist vollständig physisch und ausschließlich das Produkt biologischer Gehirne; daher bedeutet der Tod von Gehirn und Körper eine unwiderrufliche, dauerhafte Nichtexistenz."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als materialistische Theorie hat der biologische Naturalismus Schwierigkeiten, einen letztgültigen kosmischen Sinn oder Zweck zu begründen, wenngleich ein humanistischer, von uns selbst geschaffener Sinn möglich bleibt."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Wenn Bewusstsein vollständig durch physische/biologische Zustände erklärbar ist, dann würde die Duplikation dieser Zustände (und ihrer kausalen Beziehungen) in einem nichtbiologischen Medium im Prinzip das Uploading und die Fortsetzung des mentalen Selbst in der Ersten-Person-Perspektive erlauben."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Überschneidung/Weiterentwicklung (Eine anspruchsvollere Form des Materialismus auf Grundlage der Gehirnidentität)"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Kontrast (Beide sind biologische Naturalisten, doch Dennett stellt Gehalt/Funktion voran, während Searle Bewusstsein/Subjektivität voranstellt)"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Kritik (Searle weist diese und andere traditionelle Theorien als irrelevant zurück, wenn man von einem modernen wissenschaftlichen Weltbild ausgeht)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Rediscovery of Mind",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Biological naturalism",
+        "year": 2007
+      },
+      {
+        "title_with_names": "What things are conscious?",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Consciousness and Language",
+        "year": 2002
+      }
+    ]
+  }
+}

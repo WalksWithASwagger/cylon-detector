@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Jacksons diaphaner Repräsentationalismus und das Wissensargument",
+    "summary": "Frank Jacksons diaphaner Repräsentationalismus postuliert, dass der phänomenale Charakter perzeptueller Erfahrung durch ihren repräsentationalen Gehalt erschöpft wird, was bedeutet, dass wir „geradewegs durch“ die Erfahrung hindurch auf die Eigenschaften des Objekts blicken. Diese Position wurde in erster Linie entwickelt, um die Schlussfolgerung seines eigenen berühmten Gedankenexperiments, des Wissensarguments, zu untergraben, das zuvor gegen den Physikalismus argumentiert hatte.",
+    "associated_thinkers": ["Frank Jackson"],
+    "category": "Materialismustheorien",
+    "subcategory": "Repräsentational",
+    "core_identity_tagline": "‚Der phänomenale Charakter wird durch den repräsentationalen Gehalt erschöpft‘",
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "physicalism defense",
+      "epistemology",
+      "intentionality"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein (phänomenaler Charakter) wird als der repräsentationale Gehalt der relevanten mentalen Zustände identifiziert, der bestimmte Bedingungen erfüllt und oft mit den Eigenschaften des Erfahrungsobjekts verknüpft ist.",
+    "ontological_status": "Reduktiver Physikalismus. (Begründung: Das vorrangige Ziel der Theorie besteht darin, das Wissensargument zu widerlegen und dadurch die Hinlänglichkeit des Physikalismus/Materialismus hinsichtlich des phänomenalen Bewusstseins aufrechtzuerhalten.)",
+    "mind_body_relationship": "Identität. Die phänomenale Natur wird durch die funktionalen und intentionalen Gehalte (repräsentationale Tatsachen) erschöpft, die physisch instanziiert sind.",
+    "primitive_or_emergent_status": "Emergent. (Begründung: Bewusstsein wird vollständig durch den von physischen Prozessen instanziierten repräsentationalen Gehalt erfasst, was bedeutet, dass es nicht fundamental für die Realität ist.)",
+    "emergence_type": "Schwache Emergenz. (Begründung: Als reduktiv-physikalistische Verteidigung werden die phänomenalen Eigenschaften vollständig durch die physischen/repräsentationalen Gehalte und funktionalen Rollen erfasst oder sind mit ihnen identisch, was eine prinzipielle Ableitbarkeit impliziert.)",
+    "subjectivity_and_intentionality": "Subjektivität wird durch die Diaphanitätsthese erklärt: Der Zugang zur Natur der Erfahrung ist schlicht der Zugang zu den Eigenschaften ihres Objekts. Intentionalität, das „Gerichtetsein-auf“ mentaler Zustände, ist zentral, da Erfahrung wesentlich repräsentational ist.",
+    "qualia_account": "Qualia (phänomenaler Charakter) werden vollständig durch die repräsentationalen Gehalte der relevanten mentalen Zustände erklärt bzw. erschöpft. Dies soll zeigen, dass kein nichtphysisches Wissen (wie etwa „wie es ist, Rot zu sehen“) durch physische/repräsentationale Tatsachen unerklärt bleibt.",
+    "ontological_commitments": "Mentale Repräsentationen, physische Tatsachen sowie die funktionale Rolle / die intentionalen Gehalte mentaler Zustände.",
+    "epistemic_access": "Die Introspektion stützt die Diaphanitätsthese, indem sie nur äußere Objekte und deren Eigenschaften offenbart, nicht aber intrinsische Merkmale der Erfahrung selbst. Ein wissenschaftliches Studium des repräsentationalen Gehalts aus der Dritte-Person-Perspektive ist somit hinreichend.",
+    "constituents_and_structure": "Die Struktur des Bewusstseins wird vollständig durch die intentionalen Gehalte bzw. die repräsentationale Natur der mentalen Zustände bestimmt; die repräsentationalen Tatsachen bilden ein Paket, das ausreicht, um die perzeptuelle Erfahrung zu erfassen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (insbesondere die qualitative Natur der perzeptuellen Erfahrung / der Qualia).",
+    "distinctive_mechanism_or_principle": "Diaphanität (Transparenz) der perzeptuellen Erfahrung. Bewusstsein ist das Resultat von Repräsentationen von Objekten, bei denen das Subjekt „geradewegs durch“ den perzeptuellen Zustand hindurch auf die Eigenschaften des Objekts blickt.",
+    "dynamics_of_emergence": "Statische Eigenschaft. (Begründung: Das Modell identifiziert Bewusstsein mit dem repräsentationalen Gehalt / der intentionalen Struktur und konzentriert sich auf die Endzustands-Identität statt auf einen dynamischen Erzeugungsprozess. Die Quellen führen keine zeitlichen Dynamiken aus.)",
+    "location_and_distribution": "Lokalisiert in den mentalen Zuständen, die durch die repräsentationale Verarbeitung des Gehirns instanziiert werden.",
+    "causation_and_functional_role": "Bewusste Erfahrung wird durch funktionale Rolle und repräsentationalen Gehalt erschöpft. Die repräsentationalen Tatsachen reichen aus, um die vollständige perzeptuelle Erfahrung zu erfassen.",
+    "integration_or_binding": "Implizit erreicht durch die umfassende Natur der intentionalen Gehalte, die das perzeptuelle Erfahrungspaket ausmachen. (Begründung: Ein expliziter Bindungsmechanismus wird in den Quellen nicht ausgeführt, doch die Vereinheitlichung wird im „Paket“ vorausgesetzt.)",
+    "information_flow_or_representation": "Mentale Repräsentationen erhöhen die Erklärungskraft innerlich wahrgenommener Vorstellungen/Bilder gegenüber bloßen neuronalen Zuständen und erschöpfen die erfahrungsmäßige Natur.",
+    "evolutionary_account": "Es wird angenommen, dass Bewusstsein als Teil der repräsentationalen Maschinerie des Gehirns evolviert ist. (Begründung: Dies wird aus seiner Klassifikation als Materialismustheorie abgeleitet, doch Jackson gibt in den Quellen keine spezifische Erklärung.)",
+    "core_claims_and_evidence": [
+      "Erfahrung ist diaphan (transparent): Phänomenale Eigenschaften sind Eigenschaften des Erfahrungsobjekts.",
+      "Der starke Repräsentationalismus behauptet, dass die Art, wie eine Erfahrung Dinge repräsentiert, ihre erfahrungsmäßige Natur vollständig erschöpft.",
+      "Das Wissensargument scheitert, weil phänomenales Lernen auf repräsentationale Tatsachen reduziert wird und somit der Physikalismus bewahrt bleibt."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch/Konzeptuell (basierend auf logischer Analyse phänomenaler Begriffe und der Natur der Introspektion)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell überprüfbar. (Der Erfolg der Theorie beruht auf dem philosophischen Argument, dass repräsentationaler Gehalt den phänomenalen Charakter logisch erschöpfen kann und dadurch Gedankenexperimente wie das Wissensargument auflöst.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Die wesentliche Spannung besteht darin, dass Kritiker argumentieren, der Repräsentationalismus weise das Wissensargument logisch nicht zurück, da eine repräsentationalistische Fassung der ‚Mary-Herausforderung‘ die Schwierigkeit für den Physikalismus aufrechterhält.",
+    "open_questions_and_limitations": "Die genauen Bedingungen, unter denen repräsentationaler Gehalt den phänomenalen Charakter erfasst, müssen spezifiziert werden, und die begriffliche Kohärenz einer vollständigen Reduktion phänomenaler Eigenschaften auf intentionale Eigenschaften bleibt umstritten.",
+    "ontological_coherence": "In hohem Maße kohärent innerhalb eines reduktiv-physikalistischen Rahmens, da ihre gesamte Motivation darin besteht, den Physikalismus durch die Eliminierung irreduzibler phänomenaler Eigenschaften („Qualia“) aufrechtzuerhalten."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Wenn Bewusstsein durch repräsentationalen Gehalt und funktionale Rolle erschöpft wird und diese Eigenschaften komputational realisiert werden können, dann können KI-Systeme Bewusstsein erreichen."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Die Theorie ist eine Verteidigung des Materialismus/Physikalismus, was impliziert, dass Bewusstsein ausschließlich an das physische System (das Gehirn oder sein funktionales/repräsentationales Äquivalent) gebunden ist und ein Überleben nach dem biologischen Aufhören ausschließt."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als materialistische Theorie bietet sie keinen letztgültigen Sinn oder Zweck außerhalb dessen, was Menschen für sich selbst schaffen."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Da der phänomenale Charakter vollständig durch den funktionalen/repräsentationalen Gehalt erfasst wird, würde eine perfekte Duplikation (Uploading) dieser Gehalte das ursprüngliche mentale Selbst der Ersten Person bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Knowledge Argument (Mary's Room)",
+        "relationship": "Kritik/Ursprung"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Kontrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The knowledge argument, diaphanousness, representationalism, Frank Jackson",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, Frank Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "What Mary Didn’t Know, Frank Jackson",
+        "year": 1986
+      }
+    ]
+  }
+}

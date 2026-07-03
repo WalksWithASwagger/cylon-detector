@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Eigenschaftsdualismus",
+    "summary": "Der Eigenschaftsdualismus postuliert, dass die physische Substanz zwar die einzige fundamentale Substanz ist, es jedoch zwei irreduzible Kategorien von Eigenschaften gibt: physische und mentale. Mentale Eigenschaften, wie das bewusste Erleben, werden von physischen Gehirnen erzeugt, können jedoch nicht auf physische Eigenschaften allein reduziert oder durch diese vollständig erklärt werden.",
+    "associated_thinkers": [
+      "David Chalmers (for Naturalistic Dualism, a variant); historically influenced by numerous philosophers seeking to preserve mental reality within a monist substance framework."
+    ],
+    "category": "Dualismen",
+    "subcategory": "Eigenschaftsdualismus",
+    "core_identity_tagline": "Eine Substanz, zwei irreduzible Eigenschaften (mentale und physische)",
+    "classification_tags": [
+      "irreducible properties",
+      "non-reductive",
+      "physicalism",
+      "dualism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein besteht aus mentalen Eigenschaften oder Aspekten (z. B. Gedanken, Begriffe, Ideen), die grundlegend nicht auf physische Eigenschaften reduzierbar sind, auch wenn beide von physischen Systemen (Gehirnen) instanziiert werden.",
+    "ontological_status": "Physikalismus (der Substanz) / Eigenschaftsdualismus (der Eigenschaften).",
+    "mind_body_relationship": "Der Geist (mentale Eigenschaften) ist nicht reduzierbar und ontologisch von physischen Eigenschaften verschieden, wird jedoch vollständig von physischen Zuständen (Gehirnen) erzeugt.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Starke Emergenz (da mentale Eigenschaften prinzipiell irreduzibel und allein durch physische Gesetze unerklärlich sind).",
+    "subjectivity_and_intentionality": "Subjektivität (phänomenales Erleben in der ersten Person) entsteht als inhärente, nicht reduzierbare Eigenschaft/Aspekt der physischen menschlichen Person. Intentionalität ist implizit als eine der fundamentalen mentalen Eigenschaften/Aspekte eingeschlossen.",
+    "qualia_account": "Qualia (qualitativ gefühlte Erfahrungen) sind die irreduziblen mentalen Eigenschaften, die sich einer Definition rein in Begriffen mikrophysischer Eigenschaften allein widersetzen.",
+    "ontological_commitments": "Physische Substanz (Materie) und nicht reduzierbare mentale Eigenschaften (einschließlich Gedanken, Begriffe, Ideen).",
+    "epistemic_access": "Zugänglich sowohl über die Beobachtung der physischen Grundlage (Gehirne) aus der dritten Person als auch über die Introspektion der emergenten Eigenschaften (Subjektivität) aus der ersten Person.",
+    "constituents_and_structure": "Die physische Substanz besteht aus den Bestandteilen der fundamentalen Physik, die zu komplexen Strukturen (Gehirnen) organisiert sind, welche die mentalen Eigenschaften erzeugen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenale Eigenschaften, Gedanken, Begriffe und Ideen.",
+    "distinctive_mechanism_or_principle": "Das Prinzip der Irreduzibilität mentaler Eigenschaften, das besagt, dass phänomenale Aspekte von physischen Eigenschaften verschieden sind.",
+    "dynamics_of_emergence": "Mentale Eigenschaften entstehen, wenn physische Materie ein bestimmtes Maß an Komplexität erreicht (d. h. das Gehirn).",
+    "location_and_distribution": "In physischen Objekten (menschlichen Personen/Gehirnen) lokalisiert.",
+    "causation_and_functional_role": "Mentale Eigenschaften sind kausal wirksam und beeinflussen die physische Welt (eine Position, die im Gegensatz zum Epiphänomenalismus steht).",
+    "integration_or_binding": "Nicht ausdrücklich ausgeführt. Es wird angenommen, dass Integration innerhalb der physischen Gehirnstruktur stattfindet, die die vereinheitlichte mentale Eigenschaft/Aspekt erzeugt.",
+    "information_flow_or_representation": "Mentale Eigenschaften/Aspekte umfassen Begriffe und Ideen, was eine Beteiligung an komplexer informationeller/repräsentationaler Verarbeitung impliziert.",
+    "evolutionary_account": "Nicht ausdrücklich ausgeführt. Die Entstehung der Eigenschaften ist abhängig von der Evolution biologischer Komplexität, die sie hervorbringen kann.",
+    "core_claims_and_evidence": [
+      "Menschliche Personen sind vollständig physische Objekte, die aus fundamentalen physischen Bestandteilen zusammengesetzt sind.",
+      "Mentale Eigenschaften (z. B. phänomenales Bewusstsein) werden von physischen Gehirnen erzeugt, sind jedoch auf physische Eigenschaften allein nicht reduzierbar.",
+      "Das mögliche Scheitern der Supervenienz wird durch Vorstellbarkeitsargumente (z. B. philosophische Zombies) aufgezeigt."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch; konzeptuell (behandelt die scheinbare Unzulänglichkeit eines rein reduktiven Physikalismus)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell/Philosophisch (die Überprüfbarkeit beruht auf der logischen Möglichkeit und den Implikationen kontrafaktischer Szenarien wie philosophischer Zombies).",
+    "known_empirical_interventions_or_tests": "Gedankenexperimente mit physisch ununterscheidbaren ‚Zombies‘ oder Menschen mit invertiertem Farbspektrum (Scheitern der Supervenienz).",
+    "criticisms_and_tensions": "Es muss geklärt werden, wie unterschiedliche mentale Zustände aus genau demselben mikrophysischen Zustand entstehen, wenn die Supervenienz scheitert. Kritiker argumentieren, dass die Motivationen für den Eigenschaftsdualismus letztlich zum Substanzdualismus führen.",
+    "open_questions_and_limitations": "Die genaue Weise, in der mentale Eigenschaften kausalen Einfluss auf das physische Gehirn ausüben (mentale Verursachung), bleibt umstritten und bedarf einer Spezifizierung.",
+    "ontological_coherence": "Hohe interne Konsistenz, steht jedoch in Spannung, wenn es darum geht, rigoros aufrechtzuerhalten, dass nicht reduzierbare Eigenschaften allein aus einer monistischen physischen Welt entstehen und innerhalb dieser kausal wirksam sein können."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt",
+      "rationale": "KI könnte bewusst sein, wenn nicht-biologische Systeme die spezifische komplexe physische Organisation instanziieren können, die erforderlich ist, um die beschriebenen irreduziblen mentalen Eigenschaften zu erzeugen."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein besteht aus Eigenschaften, die vom physischen Gehirn erzeugt werden. Diese Eigenschaften hören auf zu existieren, wenn die physische Substanz (Gehirn/Körper) beim Tod zerfällt."
+    },
+    "meaning_and_purpose": {
+      "stance": "Unbestimmt/Neutral",
+      "rationale": "Die Theorie konzentriert sich auf ontologische Kategorien und Eigenschaftsbeziehungen; sie akzeptiert eine grundlegend physische Substanz und befürwortet keine kosmische Teleologie."
+    },
+    "virtual_immortality": {
+      "stance": "Möglich",
+      "rationale": "Wenn Bewusstsein eine emergente Eigenschaft einer spezifischen physischen Organisation ist, sollte die Replikation dieses vollständigen physischen Zustands (der Gehirnstruktur) in einem nicht-biologischen Substrat dieselben mentalen Eigenschaften erzeugen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Überschneidung/Kompatibel (oft als gleichbedeutend oder eng verwandt behandelt)"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "Kritik/Kontrast (lehnt den Substanzdualismus ab, hält aber am Eigenschaftsdualismus fest)"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Kritik/Kontrast (der Eigenschaftsdualismus gesteht mentalen Zuständen im Allgemeinen kausale Wirksamkeit zu, anders als der Epiphänomenalismus)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Dualism in the Philosophy of Mind, Dean Zimmerman",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Mind-Body Problem and Metaphysics: an Argument from Consciousness to Mental Substance, Ralph Weir",
+        "year": 2023
+      }
+    ]
+  }
+}

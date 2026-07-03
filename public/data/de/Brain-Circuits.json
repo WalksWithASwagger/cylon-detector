@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Theorien zu Hirnschaltkreisen und -zyklen",
+    "summary": "Diese Gruppe älterer Theorien führt das Bewusstsein auf die Funktionsweise großskaliger neurophysiologischer Strukturen und dynamischer elektrischer Aktivität zurück, etwa laterale Bahnen, das retikuläre Aktivierungssystem, vertikale thalamokortikale Ausstrahlungen (Schaltkreise) sowie synchrones neuronales Feuern (Zyklen, wie EEG-Wellen) über weite Hirnregionen hinweg. Diese Erklärungen gelten für sich genommen im Allgemeinen als unzureichend und haben sich zu ausgefeilteren, zeitgenössischen neurobiologischen Theorien weiterentwickelt.",
+    "associated_thinkers": [
+      "Field of Neuroscience/Neurobiology (General)"
+    ],
+    "category": "Theorien des Materialismus",
+    "subcategory": "Neurobiologisch",
+    "core_identity_tagline": "Bewusstsein als großskalige neuronale Strukturen und Oszillationen",
+    "classification_tags": [
+      "neurobiology",
+      "materialism",
+      "neural circuits",
+      "oscillations",
+      "synchrony"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Das Bewusstsein wird mit der Funktion oder dem Produkt komplexer, großskaliger Hirnstrukturen (Schaltkreise) und der daraus resultierenden massiven synchronen elektrischen Aktivität (Zyklen) innerhalb des biologischen Gehirns identifiziert.",
+    "ontological_status": "Physikalismus (reduktiver Materialismus)",
+    "mind_body_relationship": "Identität/Korrelation. Mentale Zustände sind identisch mit spezifischen physischen Zuständen großskaliger neuronaler Schaltkreise und dynamischer Muster oder korrelieren unmittelbar mit ihnen.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (implizit: entsteht aus der komplexen Organisation bekannter physischer Komponenten, im Einklang mit dem klassischen neurobiologischen Reduktionismus).",
+    "subjectivity_and_intentionality": "Der Schwerpunkt liegt darauf, das physische Substrat bereitzustellen, das für bewusste Zustände erforderlich ist; der spezifische Mechanismus zur Erzeugung einer irreduziblen Erste-Person-Subjektivität oder Intentionalität bleibt häufig unentwickelt oder wird auf Nachfolgetheorien verschoben.",
+    "qualia_account": "Der spezifische qualitative Gehalt der Erfahrung (Qualia) wird von dieser Theorie nicht unmittelbar erklärt, da sie sich in erster Linie auf die organisatorischen Mechanismen (Schaltkreise und Zyklen) konzentriert, die mit dem Bewusstsein korrelieren.",
+    "ontological_commitments": "Großskalige neuronale Strukturen (z. B. Bahnen, retikuläres Aktivierungssystem, Kortex), neuronale Elektrophysiologie (synchrones Feuern) sowie messbare Hirnzyklen (z. B. EEG-Wellen).",
+    "epistemic_access": "Primär über empirische Methoden, insbesondere die Messung und Analyse elektrischer Hirnaktivität (EEG) sowie die Untersuchung großskaliger neuronaler Bahnen und funktionaler Neurophysiologie.",
+    "constituents_and_structure": "Großskalige Netzwerke von Neuronen und ihre synchronen Feuermuster, organisiert in Strukturen wie den thalamokortikalen und lateralen kortikalen Bahnen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein, Erregung (Arousal) und Wachheit (als notwendige Hintergrundbedingungen).",
+    "distinctive_mechanism_or_principle": "Die Funktionsweise großskaliger Hirnstrukturen und die Synchronie elektrischer Aktivität, etwa rekurrente kortiko-thalamische Bahnen und massives synchrones Feuern, das Hirnzyklen erzeugt (z. B. Gamma-Wellen).",
+    "dynamics_of_emergence": "Das Bewusstsein ist ein dynamischer Prozess, der aus dem synchronen Feuern einer massiven Zahl von Neuronen über weite kortikale Regionen hinweg entsteht und in messbaren EEG-Wellen resultiert.",
+    "location_and_distribution": "Verteilt über großskalige Schaltkreise und Bahnen, einschließlich der Großhirnrinde, des Thalamus und des retikulären Aktivierungssystems.",
+    "causation_and_functional_role": "Die kausale Wirkung entfaltet sich bottom-up, wobei neuronale Aktivität und synchrone Zyklen bewusste Zustände regulieren und vermitteln. Die Funktion besteht darin, Informationen über verschiedene Regionen hinweg zu integrieren und zu koordinieren.",
+    "integration_or_binding": "Die Integration wird durch synchrone neuronale Aktivität (z. B. Gamma-Wellen) über weiträumig verteilte, durch großskalige Bahnen verbundene Hirnareale erreicht.",
+    "information_flow_or_representation": "Informationen werden bidirektional (z. B. in kortiko-thalamischen Schleifen) durch elektrophysiologische Impulse und synchrones Feuern neuronaler Gruppen verarbeitet und übertragen.",
+    "evolutionary_account": "Nicht ausdrücklich dargelegt, jedoch als Produkt der biologischen Evolution vorausgesetzt, die zu der komplexen Hirnorganisation geführt hat, die zur Erzeugung von Bewusstsein erforderlich ist.",
+    "core_claims_and_evidence": [
+      "Das Bewusstsein umfasst großskalige Hirnschaltkreise (laterale Bahnen, retikuläres Aktivierungssystem, thalamokortikale Bahnen) und Zyklen (EEG-Wellen).",
+      "Der bidirektionale Informationstransfer in rekurrenten kortiko-thalamischen Bahnen reguliert bewusste Zustände und ist beim Bewusstseinsverlust vermindert.",
+      "Die Dendritische Integrationstheorie (DIT) verknüpft Mechanismen auf zellulärer Ebene (Pyramidenzellen der Schicht 5) in diesen Schaltkreisen mit der bewussten Erfahrung."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch, neurophysiologisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar durch neurophysiologische Messungen (z. B. EEG, funktionelle Bildgebung), die die großskalige Hirnsynchronisation und -aktivität in den identifizierten Schaltkreisen erfassen.",
+    "known_empirical_interventions_or_tests": [
+      "EEG-Messung von Frequenzbändern (z. B. 40-Hz-Gamma-Wellen), die mit bewussten Zuständen assoziiert sind.",
+      "Untersuchungen zum bidirektionalen Informationstransfer in kortiko-thalamischen Bahnen bei bewussten gegenüber unbewussten Zuständen."
+    ],
+    "criticisms_and_tensions": "Der Hauptkritikpunkt besteht darin, dass diese Theorien für sich allein nicht ausreichen, um das Bewusstsein zu erklären, und die Weiterentwicklung zu ausgefeilteren Modellen erfordern. Sie behandeln Korrelation und Prozess, versäumen es jedoch häufig, die Natur der phänomenalen Erfahrung (das „Was es ist“) vollständig zu erklären.",
+    "open_questions_and_limitations": "Definiert nicht vollständig, was Bewusstsein jenseits der beteiligten physischen Prozesse „ist“; beschreibt in erster Linie alternative kritische Prozesse bei der Erzeugung von Bewusstsein, gilt aber für sich genommen als unzureichend.",
+    "ontological_coherence": "Hoch. In hohem Maße vereinbar mit einem grundlegenden reduktiven Physikalismus und der etablierten Neurobiologie, da sie sich auf bekannte, messbare biologische Strukturen und Mechanismen stützt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Wenn das Bewusstsein vollständig das Produkt spezifischer physischer neuronaler Schaltkreise und dynamischer Aktivitätsmuster ist, dann lassen sich diese Mechanismen im Prinzip in nichtbiologischen Substraten perfekt nachbilden, wodurch ein KI-Bewusstsein möglich würde."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Als Theorie des Materialismus bindet sie das Bewusstsein vollständig an das biologische Gehirn; das Erlöschen dieser spezifischen neuronalen Schaltkreise und Zyklen bedeutet das Ende des Bewusstseins."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Im Einklang mit dem Materialismus bietet die Theorie keinen letzten kosmischen Sinn oder Zweck; jeder Sinn wird von bewussten Wesen selbst geschaffen."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Da das Erste-Person-Selbst mit der komplexen physischen Organisation neuronaler Muster und Bahnen identifiziert wird, sollte die perfekte Nachbildung dieser Schaltkreise in einem nichtbiologischen Medium das phänomenale Bewusstsein bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Erweiterung/Überschneidung"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "Verfeinerung"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "Überschneidung (Hirnzyklen stehen in Beziehung zu elektromagnetischen Feldern)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Brain circuits and cycles theories (General Discussion)",
+        "year": ""
+      },
+      {
+        "title_with_names": "Cellular mechanisms of conscious processing, J. Aru et al.",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Criticality supports cross-frequency cortical-thalamic information transfer during conscious states, D. Toker et al.",
+        "year": 2024
+      }
+    ]
+  }
+}

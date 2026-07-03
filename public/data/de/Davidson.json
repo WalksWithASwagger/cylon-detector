@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "Davidsons anomaler Monismus",
+    "summary": "Der anomale Monismus geht davon aus, dass jedes mentale Ereignis mit einem physischen Ereignis identisch ist (Token-Identität), und wahrt damit eine monistische Ontologie. Zugleich besteht die Theorie darauf, dass es keine strikten, ausnahmslosen Naturgesetze gibt, die mentale Begriffe (Typen) mit physischen Begriffen verbinden, woraus die Irreduzibilität der Psychologie auf die Physik folgt. Diese doppelte Behauptung löst den scheinbaren Konflikt zwischen mentaler Verursachung und der kausalen Vollständigkeit der physischen Welt auf.",
+    "associated_thinkers": ["Donald Davidson"],
+    "category": "Monismen",
+    "subcategory": "Anomaler Monismus",
+    "core_identity_tagline": "Mentale Token sind physisch, mentale Typen sind anomal",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "token identity",
+      "property dualism",
+      "mental causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Mentale Entitäten (bestimmte zeit- und raumgebundene Objekte und Ereignisse, oder Token) sind physische Entitäten. Mentale Begriffe sind jedoch per Definition oder Naturgesetz nicht auf physische Begriffe reduzierbar.",
+    "ontological_status": "Monismus (Token-Identitäts-Physikalismus/Eigenschaftsdualismus). Die Theorie vertritt die Ansicht, dass mentale Ereignisse eine physische Ontologie haben.",
+    "mind_body_relationship": "Token-Identität: Mentale Ereignisse sind mit physischen Ereignissen identisch. Dies wird durch das Argument der Unmöglichkeit von Typ-Identitäten zwischen mentalen und physischen Eigenschaften begründet. Die Theorie ist eine Form des Eigenschaftsdualismus.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Starke Emergenz. (Begründung: Die mentalen Eigenschaften sind prinzipiell irreduzibel und können nicht durch strikte psychophysische Gesetze erfasst werden, was mit starker Irreduzibilität übereinstimmt.)",
+    "subjectivity_and_intentionality": "Die Theorie behandelt das intentionale Wesen mentaler Phänomene (z. B. das Gerichtetsein) als eine Eigenschaft, die mentale Phänomene von physischen Gesetzen oder Dingen unterscheidet.",
+    "qualia_account": "Das qualitative Erleben (Qualia) wird der weiter gefassten Kategorie mentaler Eigenschaften/Begriffe zugeordnet, die anomal sind – das heißt, sie unterliegen keiner Reduktion durch physische Begriffe oder Gesetze.",
+    "ontological_commitments": "Physische Entitäten und Ereignisse (Token); irreduzible mentale Eigenschaften/Begriffe (Typen).",
+    "epistemic_access": "Erkennbar durch philosophische Analyse der Kausalität und der besonderen Anforderungen psychologischer Erklärung, die keine ausnahmslosen Gesetze wie die Physik hervorbringen kann.",
+    "constituents_and_structure": "Die Bestandteile sind physische Entitäten/Ereignisse, das Bewusstsein ist jedoch durch mentale Begriffe/Eigenschaften strukturiert, die irreduzibel sind."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Mentale Ereignisse (Token); mentale Verursachung; Intentionalität.",
+    "distinctive_mechanism_or_principle": "Mentaler Anomalismus: die Behauptung, dass es keine Naturgesetze gibt, die mentale Phänomene mit physischen Phänomenen verbinden, obwohl mentale Ereignisse physische Ereignisse verursachen und alle Kausalbeziehungen durch Naturgesetze gestützt sind (die Token-Identität wird durch die Unmöglichkeit der Typ-Identität begründet).",
+    "dynamics_of_emergence": "Bewusste mentale Zustände treten als einzigartige physische Ereignisse (Token) auf, gekennzeichnet dadurch, dass sie nicht durch strikte prädiktive Gesetze wie in der Grundlagenphysik regiert werden können.",
+    "location_and_distribution": "Die mentalen Ereignisse sind physische Entitäten und somit im Gehirn/physischen Substrat angesiedelt.",
+    "causation_and_functional_role": "Mentale Ereignisse besitzen echte kausale Kräfte und verursachen physische Ereignisse.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Mentale Phänomene sind durch ihr intentionales Wesen definiert, das sich radikal von rein physischen Gesetzen zu unterscheiden scheint.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Mentale Ereignisse (Token) sind mit physischen Ereignissen identisch.",
+      "Mentale Eigenschaften (Typen) sind nicht auf physische Begriffe oder Naturgesetze reduzierbar.",
+      "Mentale Ereignisse besitzen echte kausale Kräfte und verursachen physische Ereignisse.",
+      "Die Psychologie kann keine ausnahmslosen Gesetze zur Vorhersage menschlicher Gedanken und Handlungen hervorbringen (mentaler Anomalismus)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (deduktives Argument auf der Grundlage dreier Prämissen über Kausalität und nomologischen Charakter)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell/Philosophisch. (Begründung: Die Kernbehauptungen der Theorie beruhen auf philosophischer Notwendigkeit hinsichtlich der Natur von Kausalität und psychologischer Erklärung.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Die Hauptspannung entsteht aus der Verbindung dreier Behauptungen: (i) mentale Verursachung existiert, (ii) alle Verursachung ist gesetzesgestützt, und (iii) es gibt keine psychophysischen Gesetze. Diese Verbindung erscheint auf den ersten Blick inkonsistent oder widersprüchlich.",
+    "open_questions_and_limitations": "Der Rahmen muss vollständig erklären, wie mentale Verursachung stattfinden kann, wenn es keine strikten Gesetze gibt, die die mentalen Eigenschaftstypen mit den physischen Eigenschaftstypen verbinden (das Problem der kausalen Wirksamkeit der anomalen Eigenschaften).",
+    "ontological_coherence": "Die interne Konsistenz ist gegeben, sofern die drei fundamentalen Prämissen als gültig akzeptiert werden, da die Schlussfolgerung der Token-Identität in ihnen eingebettet ist. Die Theorie teilt Merkmale mit dem nicht-reduktiven Physikalismus."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Möglich",
+      "rationale": "Da die Ontologie grundlegend monistisch ist (alle mentalen Ereignisse sind physische Ereignisse), ist KI-Bewusstsein prinzipiell möglich, wenn die relevanten komplexen physischen Systeme in künstlichen Medien nachgebildet werden können, wenngleich das Fehlen vorhersagbarer mentaler Gesetze (Anomalismus) die Einschätzung erschwert."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Mentale Ereignisse sind von physischen Ereignissen abhängig (Token-Identität). Ein Überleben über die Zerstörung des biologischen Substrats hinaus ist unter dieser materialistischen Annahme ausgeschlossen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als ontologisch-monistische Theorie steht sie im Einklang mit materialistischen Kategorien, die einen letzten Sinn oder Zweck jenseits dessen, was Menschen für sich selbst schaffen, im Allgemeinen nicht begründen."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wird das physische Substrat (das Gehirnmuster) dupliziert, so sollten auch die mentalen Ereignisse (die mit diesen Token identisch sind) dupliziert werden, wodurch virtuelle Unsterblichkeit erreichbar wird, ähnlich wie bei anderen nicht-reduktiv-physikalistischen Auffassungen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Non-Reductive Physicalism", "relationship": "Überschneidung" },
+      { "name": "Property Dualism", "relationship": "Überschneidung" },
+      {
+        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+    ]
+  }
+}

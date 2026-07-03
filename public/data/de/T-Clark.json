@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "T. Clarks Content-Hypothesen-Theorie",
+    "summary": "Diese Theorie postuliert, dass phänomenales Bewusstsein der repräsentationale Gehalt ist, der aus der hinreichend strukturierten Verarbeitung eines kognitiven Systems abgeleitet wird . Bewusste Erfahrung ist kategorial subjektiv und grundlegend mit dem physischen Gehirn verknüpft und wirkt als ein materielles, vom Gehirn instanziiertes Phänomen .",
+    "associated_thinkers": ["Thomas Clark"],
+    "category": "Materialismus",
+    "subcategory": "Repräsentational",
+    "core_identity_tagline": "Phänomenales Bewusstsein als strukturierter repräsentationaler Gehalt",
+    "classification_tags": [
+      "representational",
+      "subjective",
+      "materialist",
+      "cognitive",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phänomenales Bewusstsein wird als der repräsentationale Gehalt der hinreichend strukturierten repräsentationalen Verarbeitung eines kognitiven Systems identifiziert .",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Identität/Emergentistisch. Bewusstsein wird als ein streng physisches, vom Gehirn instanziiertes Phänomen beschrieben .",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz. Bewusstsein geht aus hinreichend komplexer und strukturierter materieller Verarbeitung hervor (eine Kernannahme einer materialistischen Position) .",
+    "subjectivity_and_intentionality": "Bewusste Erfahrung ist kategorial subjektiv, weil sie nur für das bewusste System existiert . Subjektivität ist an die Endlichkeit des selbstreflexiven Systems gebunden, die es daran hindert, seinen eigenen Anfang oder sein eigenes Ende zu bezeugen, und fungiert als ein ‚untranszendierbares Objekt‘ .",
+    "qualia_account": "Qualia (grundlegende sensorische Qualitäten) sind epistemische Primitive, die sich einer weiteren Repräsentation widersetzen, was ihren nicht-zerlegbaren, monadischen Charakter erklärt .",
+    "ontological_commitments": "Kognitive Systeme, strukturierte repräsentationale Verarbeitung, repräsentationaler Gehalt und epistemische Primitive .",
+    "epistemic_access": "Bewusstsein wird durch die Analyse der Struktur des repräsentationalen Gehalts und der funktionalen Beschränkungen des selbstreflexiven kognitiven Systems untersucht .",
+    "constituents_and_structure": "Die Grundstruktur umfasst hinreichend strukturierte repräsentationale Verarbeitung innerhalb eines selbstreflexiven kognitiven Systems . Die von diesem System erschaffene phänomenale Welt ist subjektiv gegen ihr eigenes Verschwinden immun ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal, Subjektivität, grundlegende sensorische Qualitäten",
+    "distinctive_mechanism_or_principle": "Das Wirken epistemischer Primitive, die sich einer weiteren Repräsentation widersetzen, verbunden mit hinreichend strukturierter repräsentationaler Verarbeitung .",
+    "dynamics_of_emergence": "Dynamischer Prozess. Bewusstsein wird durch die fortlaufende Aktivität (Verarbeitung) innerhalb eines hinreichend strukturierten kognitiven Systems erzeugt .",
+    "location_and_distribution": "Lokalisiert innerhalb des kognitiven Systems (Gehirn), wo es streng physisch instanziiert ist .",
+    "causation_and_functional_role": "Die funktionale Rolle des Bewusstseins ist mit der Natur eines selbstreflexiven kognitiven Systems verknüpft und ermöglicht es diesem, eine subjektive Welt unabhängig von seiner objektiven Existenz zu erschaffen .",
+    "integration_or_binding": "Integration ist im Prozess impliziert, der ‚hinreichend strukturierte repräsentationale Verarbeitung‘ erzeugt, um vereinheitlichten Gehalt zu bilden .",
+    "information_flow_or_representation": "Bewusstsein ist das Endprodukt bzw. der Gehalt eines repräsentationalen Informationsflusses, der strukturiert und selbstreflexiv ist .",
+    "evolutionary_account": "Bewusstsein ist mit der Endlichkeit eines selbstreflexiven kognitiven Systems verknüpft und entsteht, um das System davor zu bewahren, seine eigene Nichtexistenz zu erfahren .",
+    "core_claims_and_evidence": [
+      "Phänomenales Bewusstsein ist der repräsentationale Gehalt eines hinreichend strukturierten Verarbeitungssystems .",
+      "Grundlegende sensorische Qualitäten besitzen einen monadischen Charakter, da sie epistemische Primitive sind, die sich einer weiteren Repräsentation widersetzen .",
+      "Das Modell ist mit der Integrierten Informationstheorie, der Global-Workspace-Theorie und dem Predictive Processing konsistent ."
+    ],
+    "basis_of_belief_or_evidence_type": "Konzeptuell, Philosophisch, Komputational (antizipierte Bestätigung in der Wissenschaft der Repräsentation) "
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell überprüfbar. Sie sucht Bestätigung aus ‚Entwicklungen in der Wissenschaft der Repräsentation und des repräsentationalen Gehalts‘ .",
+    "known_empirical_interventions_or_tests": "Es werden keine spezifischen Tests aufgeführt, doch das Modell ist konsistent mit (und könnte somit informiert werden durch) Forschung im Zusammenhang mit der Integrierten Informationstheorie (IIT), der Global-Workspace-Theorie (GWT) und dem Predictive Processing .",
+    "criticisms_and_tensions": "Wie andere repräsentationale Theorien steht sie wahrscheinlich vor der Herausforderung zu erklären, wie qualitative, irreduzible phänomenale Erfahrung vollständig allein durch strukturierten informationellen Gehalt erklärt wird .",
+    "open_questions_and_limitations": "Die explizite empirische Bestätigung der Content-Hypothese und die detaillierte Struktur der erforderlichen repräsentationalen Verarbeitung bleiben offen .",
+    "ontological_coherence": "In hohem Maße kohärent und fundiert das Bewusstsein vollständig innerhalb einer naturalistischen und materialistischen Ontologie ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Da Bewusstsein als ein streng physisches Phänomen postuliert wird, das aus hinreichend strukturierter Verarbeitung resultiert, sollte die Replikation dieser Struktur in fortgeschrittenen künstlichen Systemen Bewusstsein ermöglichen ."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein (für das persönliche Selbst) / Ja (für generische Subjektivität)",
+      "rationale": "Individuelles Bewusstsein ist eine physische Instanziierung und löst sich mit dem Hirntod auf. Allerdings legt eine ‚generische subjektive Kontinuität‘ nahe, dass Bewusstsein in anderen Kontexten fortbesteht, wenngleich nicht als das verstorbene Individuum ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Existenziell/Intrinsisch",
+      "rationale": "Bewusstsein, angetrieben durch die Endlichkeit des selbstreflexiven Systems, erschafft von sich aus eine innere Welt und liefert einen Zweck, der mit der Aufrechterhaltung subjektiver Kontinuität verknüpft ist ."
+    },
+    "virtual_immortality": {
+      "stance": "Bedingt",
+      "rationale": "Als materialistische Theorie ist ein persönlicher Bewusstseinstransfer möglich, wenn die definierende ‚hinreichend strukturierte repräsentationale Verarbeitung‘ präzise in einem nichtbiologischen Medium dupliziert werden kann ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Konsistent"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Konsistent"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "Konsistent"
+      },
+      {
+        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "relationship": "Einfluss"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Locating consciousness: why experience can’t be objectified, T. Clark",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Death, nothingness, and subjectivity, T. Clark",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Personal Communication, T. Clark",
+        "year": 2024
+      }
+    ]
+  }
+}

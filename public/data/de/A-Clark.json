@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "Extended Mind",
+    "summary": "Diese Theorie vertritt die Auffassung, dass kognitive Prozesse nicht strikt auf das biologische Gehirn beschränkt sind, sondern sich in die äußere Umwelt hinein erstrecken (aktiver Externalismus). Wenn ein menschlicher Organismus sich in einer wechselseitigen Interaktion mit einer externen Entität verbindet, entsteht ein gekoppeltes System, das für sich genommen als kognitives System fungiert. Die Entfernung der externen Komponente mindert die Verhaltenskompetenz des Systems, ähnlich wie die Entfernung eines Teils des Gehirns.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "David Chalmers"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Relational",
+    "core_identity_tagline": "„Geist als gekoppeltes kognitives System“",
+    "classification_tags": [
+      "externalism",
+      "embodiment",
+      "cognition",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als Funktion des gesamten gekoppelten kognitiven Systems identifiziert, das sowohl innere neuronale Prozesse als auch externe Werkzeuge/die Umwelt umfasst, wobei seine Abhängigkeit vom aktiven Externalismus betont wird.",
+    "ontological_status": "Physikalismus (funktionalistisch/relational)",
+    "mind_body_relationship": "Korrelation/Erweiterung. Der Geist ist eine emergente Eigenschaft oder ein funktionaler Prozess, der über Gehirn, Körper und relevante Umwelt verteilt ist, was die traditionelle Auffassung infrage stellt, der Geist sei an den Schädel gebunden.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Die Quellen konzentrieren sich vorwiegend auf die funktionale Rolle der Kognition und die Verhaltenskompetenz, nicht ausdrücklich darauf, wie phänomenale Subjektivität oder Intentionalität entstehen. Subjektivität wird implizit als Merkmal des funktionierenden kognitiven Systems behandelt, wo immer es sich befindet.",
+    "qualia_account": "Die Theorie konzentriert sich auf die Erweiterung kognitiver Prozesse und das Erreichen von Verhaltenskompetenz, doch die Quellen legen nicht ausdrücklich dar, wie phänomenale Qualia (die qualitative Dimension der Erfahrung) innerhalb des gekoppelten Systems erklärt oder erweitert werden.",
+    "ontological_commitments": "Gehirn, Körper, externe Objekte/Werkzeuge und die physische Umwelt, die alle eine aktive kausale Rolle innerhalb des gekoppelten Systems spielen.",
+    "epistemic_access": "Zugänglich durch die Untersuchung der wechselseitigen Interaktion und der aktiven kausalen Rolle aller Komponenten im gekoppelten System, mit Fokus auf Verhaltenskompetenz und kognitive Schaltkreise.",
+    "constituents_and_structure": "Ein ‚gekoppeltes System‘, das aus dem menschlichen Organismus (Gehirn und Körper) besteht, der in einer wechselseitigen Interaktion mit externen Entitäten (der sozialen und materiellen Welt) verbunden ist und ein nahtloses, integriertes Ganzes bildet."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kognition, Verhaltenskompetenz (es wird impliziert, dass das phänomenale Bewusstsein innerhalb des erweiterten Systems angesiedelt ist, doch der Fokus ist funktional).",
+    "distinctive_mechanism_or_principle": "Aktiver Externalismus, bei dem externe Entitäten eine aktive kausale Rolle in kognitiven Prozessen spielen und ein funktional integriertes ‚gekoppeltes System‘ bilden.",
+    "dynamics_of_emergence": "Dynamischer Prozess. Geistiges entsteht aus dem ‚farbenfrohen Fluss‘ von Gehirn, Körper sowie sozialer/materieller Welt als ‚überraschend nahtlose Ganzheiten‘.",
+    "location_and_distribution": "Verteilt/erweitert. Kognitive Prozesse erstrecken sich über das schädelgebundene Gehirn hinaus und umfassen die Umwelt und externe Werkzeuge.",
+    "causation_and_functional_role": "Die Komponenten im gekoppelten System spielen eine aktive kausale Rolle und steuern gemeinsam das Verhalten, wodurch der Geist eine adaptive Interaktion mit der Welt ermöglicht.",
+    "integration_or_binding": "Integration erfolgt durch die aktive wechselseitige Interaktion zwischen dem Organismus und der externen Entität, die ein nahtloses, integriertes kognitives Ganzes bildet.",
+    "information_flow_or_representation": "Die Informationsverarbeitung stützt sich auf Repräsentationen, die so erweitert werden, dass sie die partizipative Rolle der Umwelt beim Antrieb kognitiver Prozesse einschließen.",
+    "evolutionary_account": "Die Theorie ist mit einem evolutionären Rahmen vereinbar, in dem die prädiktiven Fähigkeiten des Gehirns durch das Gewahrsein und die Anpassung an äußere Realitäten begünstigt werden, was auf eine adaptive Rolle der kognitiven Erweiterung hindeutet.",
+    "core_claims_and_evidence": [
+      "Kognitive Prozesse erstrecken sich über die Grenze des Gehirns hinaus und schließen externe Entitäten ein.",
+      "Das gekoppelte System fungiert für sich genommen als kognitives System, wobei alle Komponenten eine aktive kausale Rolle spielen.",
+      "Die Entfernung der externen Komponente mindert die Verhaltenskompetenz des Systems."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch, konzeptuelles Argument (funktionalistisch)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell überprüfbar/bedingt",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Die Theorie steht vor einer philosophischen Spannung hinsichtlich der genauen Verortung und Abgrenzung des Geistes und stellt die traditionelle Vorrangstellung innerer, biologischer und neuronaler Prozesse infrage.",
+    "open_questions_and_limitations": "Die Theorie konzentriert sich stark auf kognitive Prozesse und lässt die Frage offen, wie das phänomenale Bewusstsein selbst über das gekoppelte System hinweg erweitert oder erfahren wird.",
+    "ontological_coherence": "Hochgradig kohärent. Die Theorie liefert eine konsistente materialistische/funktionalistische Erklärung, indem sie das für die Kognition erforderliche Substrat über den Schädel hinaus neu definiert."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Die Theorie steht im Einklang mit dem komputationalen Funktionalismus und legt nahe, dass der Geist auf kognitive Prothesen ausgeweitet werden kann, sofern kognitive Prozesse und funktionale Beziehungen künstlich instanziiert werden können, was ein KI-Bewusstsein plausibel macht."
+    },
+    "survival_beyond_death": {
+      "stance": "Bedingt",
+      "rationale": "Obwohl sie im Materialismus wurzelt (der ein Überleben im Allgemeinen bestreitet), könnte das Überleben eines Musters möglich sein, wenn das wesentliche Selbst durch ein verteiltes, funktionales Muster definiert wird, das unabhängig von seinem biologischen Substrat fortbestehen kann."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als materialistische Theorie legt sie keinen kosmischen Sinn, Zweck oder Wert nahe; Sinn wird stattdessen vom menschlichen Organismus geschaffen."
+    },
+    "virtual_immortality": {
+      "stance": "Möglich",
+      "rationale": "Virtuelle Unsterblichkeit ist plausibel, weil die Theorie den Geist als funktionales Muster betrachtet, das durch externe ‚kognitive Prothesen‘ von Natur aus erweiterbar ist, und eine Replikation in einem nichtbiologischen Medium mit ihrer funktionalistischen Grundlage vereinbar ist."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Computational functionalism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "Kompatibel"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Extended Mind, Andy Clark and David Chalmers",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Supersizing the Mind: Embodiment, Action, and Cognitive Extension, Andy Clark",
+        "year": 2010
+      }
+    ]
+  }
+}

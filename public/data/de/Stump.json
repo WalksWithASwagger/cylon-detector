@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Stumps thomistischer Dualismus",
+    "summary": "Diese Theorie präsentiert die Auffassung des heiligen Thomas von Aquin über die menschliche Seele als eine nicht-kartesische Form des Dualismus. Sie postuliert die Seele als einen wesenhaft immateriellen oder konfigurationalen Bestandteil, der dennoch in materiellen Bestandteilen realisiert ist, was die Versöhnung der menschlichen Materialität mit dem Überleben des Geistes nach dem körperlichen Tod ermöglicht.",
+    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "category": "Dualismen",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "Nicht-kartesische immaterielle Seele, realisiert in Materie",
+    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein, oder die menschliche Seele/der menschliche Geist, ist eine wesenhaft immaterielle oder konfigurationale Substanz, die in materiellen Bestandteilen (dem Körper) realisiert ist.",
+    "ontological_status": "Substanzdualismus (nicht-kartesische/thomistische Variante)",
+    "mind_body_relationship": "Die immaterielle Seele/der immaterielle Geist ist in materiellen Bestandteilen realisiert und trägt sowohl der materiellen Natur der Person Rechnung (‚Staub bist du‘) als auch dem Überleben des Geistes nach dem Tod (‚der Geist wird zu Gott zurückkehren‘).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Starke Emergenz/Nicht-reduktiv (Begründung: Die Seele wird als eine unabhängig vom Körper fortbestehende immaterielle Essenz beschrieben, was darauf hindeutet, dass sie nicht vollständig auf die materiellen Prozesse reduzierbar ist, aus denen sie hervorgeht.)",
+    "subjectivity_and_intentionality": "Subjektivität und Intentionalität sind grundlegend in der immateriellen/konfigurationalen Seele verortet, wie ihre Fähigkeit belegt, als Geist nach dem körperlichen Zerfall fortzubestehen.",
+    "qualia_account": "Qualia werden mit den Eigenschaften des immateriellen/konfigurationalen Seelenbestandteils verbunden, der im materiellen Körper realisiert ist.",
+    "ontological_commitments": "Materieller Körper (dem Zerfall unterworfen, wie ‚Staub‘) und eine wesenhaft immaterielle oder konfigurationale Seele/ein Geist, der zu unabhängiger Existenz fähig ist.",
+    "epistemic_access": "Primär zugänglich über philosophische Argumentation und theologische Auslegung grundlegender Texte oder Intuitionen über die menschliche Natur und das spirituelle Überleben.",
+    "constituents_and_structure": "Die menschliche Person ist eine zusammengesetzte Entität, in der die Seele als die Form oder konfigurationale Struktur wirkt, die durch die materiellen Bestandteile des Körpers realisiert wird."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Subjektivität in der ersten Person, personale Identität, Überleben nach dem Tod.",
+    "distinctive_mechanism_or_principle": "Die nicht-kartesische Natur der menschlichen Seele erlaubt es ihr, inhärent konfigurational zu sein und die physische Person zusammenzuhalten, während sie zugleich ihre unabhängige Existenz als immaterieller Bestandteil bewahrt und so sowohl die materielle Existenz als auch das spirituelle Überleben ermöglicht.",
+    "dynamics_of_emergence": "Die Seele ist während des Lebens im materiellen Körper realisiert. Im Tod zerfällt der Körper (‚Staub bist du‘), während der Geist als das nicht-materielle Element fortbesteht (‚der Geist wird zu Gott zurückkehren‘).",
+    "location_and_distribution": "Die Seele ist von sich aus immateriell oder konfigurational, wird aber während des Lebens im materiellen Körper realisiert oder instanziiert. Nach dem Tod ist die Seele relativ zur physischen Welt nicht-lokalisiert.",
+    "causation_and_functional_role": "Die Theorie konzentriert sich auf die Ontologie statt auf die Funktion, doch es wird impliziert, dass die Funktion der Seele für eine kohärente personale Identität und die Persistenz während des Lebens und darüber hinaus notwendig ist.",
+    "integration_or_binding": "Die Seele/der Geist dient als das vereinheitlichende, konfigurationale Prinzip (Form), das die materiellen Bestandteile zu einem einzigen menschlichen Wesen bindet.",
+    "information_flow_or_representation": "Die Theorie konzentriert sich auf die ontologische Zusammensetzung (Materie und Form/Geist) statt auf informationelle oder repräsentationale Verarbeitungsmechanismen.",
+    "evolutionary_account": "Die Theorie gründet auf historischer scholastischer Philosophie, doch moderne Auslegungen würden biologische Komplexität wahrscheinlich als notwendige Bedingung für die Realisierung der Seele auffassen und so Emergenz ermöglichen.",
+    "core_claims_and_evidence": [
+      "Die Seele ist nicht-kartesisch und konfigurational, realisiert in materiellen Bestandteilen.",
+      "Ein menschliches Wesen ist ein materielles Objekt (in Übereinstimmung mit Genesis 3,19).",
+      "Die menschliche Person überlebt den Tod, weil der Geist weiter existiert (in Übereinstimmung mit Prediger 12,7)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch und theologisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Weitgehend konzeptuell, mit Fokus auf philosophische Kohärenz und metaphysische Konsistenz mit religiösen Lehren über Leben und Tod.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Sie versucht, der verbreiteten philosophischen Kritik zu begegnen, dass der traditionelle kartesische Dualismus weithin als falsch oder inkohärent gilt, insbesondere im Hinblick auf das Interaktionsproblem.",
+    "open_questions_and_limitations": "Der genaue Mechanismus, durch den eine immaterielle/konfigurationale Essenz in materiellen Bestandteilen ‚realisiert‘ wird und wie diese Essenz das Bewusstsein nach dem Tod aufrechterhält, bleibt vom Quellenmaterial undefiniert.",
+    "ontological_coherence": "Hohe Kohärenz innerhalb ihres definierten thomistischen metaphysischen Rahmens, der speziell darauf ausgelegt ist, die Existenz eines materiellen Körpers mit einem fortdauernden spirituellen Element in Einklang zu bringen."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt",
+      "rationale": "Wenn Bewusstsein an eine wesenhaft immaterielle oder konfigurationale Seele gebunden ist, die in biologischer Materie realisiert wird, würden künstliche Systeme, die nur aus physischen Bestandteilen konstruiert sind, diesen notwendigen nicht-physischen Bestandteil wahrscheinlich vermissen lassen, es sei denn, die die Seele erzeugenden psychophysischen Gesetze könnten auf nicht-biologische Substrate anwendbar sein."
+    },
+    "survival_beyond_death": {
+      "stance": "Ja",
+      "rationale": "Die Theorie ist ausdrücklich darauf angelegt, die Persistenz des Geistes/der Seele, der/die der Sitz des Bewusstseins der Person ist, nach dem Zerfall des Körpers zu ermöglichen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Kosmisch/Theologisch",
+      "rationale": "Der Rahmen wurzelt in der christlichen scholastischen Philosophie und integriert biblische Lehren über die Schöpfung und die Rückkehr des Geistes zu Gott und liefert dadurch letztgültigen Sinn und Zweck."
+    },
+    "virtual_immortality": {
+      "stance": "Nein",
+      "rationale": "Als eine Variante des Substanzdualismus, die eine nichtphysische Substanz (die Seele) erfordert, würde die Duplizierung allein der physischen Struktur (wie bei der virtuellen Unsterblichkeit) den wesentlichen nichtphysischen Bestandteil auslassen, der für die Kontinuität des Selbst notwendig ist."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Unterscheidung (Während der Eigenschaftsdualismus den Substanzdualismus verneint, sucht der thomistische Dualismus die traditionelle Dichotomie zwischen Substanz und materiellem Reduktionismus zu überwinden.)"
+      },
+      {
+        "name": "Substance Dualism (Cartesian)",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "Überschneidung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Non-Cartesian Substance Dualism and Materialism Without Reductionism, Eleonore Stump",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Summa Theologiae, St. Thomas Aquinas",
+        "year": "c. 1265-1274"
+      }
+    ]
+  }
+}

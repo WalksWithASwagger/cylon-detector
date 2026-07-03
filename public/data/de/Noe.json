@@ -1,0 +1,117 @@
+{
+  "id_and_class": {
+    "theory_title": "Sensomotorische (enaktive) Bewusstseinstheorie (Noës Ansatz aus „Out of Our Heads“)",
+    "summary": "Diese Theorie weist die Annahme zurück, dass Bewusstsein ausschließlich im Gehirn stattfindet, und argumentiert, dass innere Gehirnprozesse allein nicht ausreichen, um Erfahrung hervorzubringen. Bewusstsein ist grundlegend eine Aktivität oder ein Prozess, der durch die dynamische, kontinuierliche und kompetente Interaktion zwischen Gehirn, Körper und Umwelt vollzogen wird.",
+    "associated_thinkers": [
+      "Alva Noë",
+      "Kevin O’Regan"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Relational",
+    "core_identity_tagline": "Bewusstsein als aktive Weltinteraktion",
+    "classification_tags": [
+      "relational",
+      "embodied",
+      "enactive",
+      "externalism",
+      "activity"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als die Aktivität identifiziert, die Welt im Blick zu behalten, mit ihr in Kontakt zu bleiben, ihr Aufmerksamkeit zu schenken und mit ihr zu interagieren. Es ist der Prozess des Zugreifens auf die Welt und des Ermöglichens, dass die Welt für den Organismus ‚in Erscheinung tritt‘, definiert durch aktives Engagement.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Der Geist ist die Aktivität, die durch das Zusammenwirken von Gehirn, Körper und Umwelt erzeugt wird. Das Gehirn stellt das notwendige mechanische Substrat bereit, ist aber nicht hinreichend für das Bewusstsein; es ist der Ort der Symbole, nicht des Bewusstseins selbst.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität (wie die Welt ‚für uns in Erscheinung tritt‘) und Intentionalität entstehen aus dem aktiven, kompetenten Engagement des Organismus mit der Umwelt, beeinflusst von Kontext, Interesse, Wissen und Verständnis.",
+    "qualia_account": "Es wird impliziert, dass Qualia Teil der Dichte, Detailliertheit und Robustheit realer Erfahrungen sind, die aus der kontinuierlichen Weltinteraktion hervorgehen und wahres Bewusstsein von bloßen Traumerfahrungen unterscheiden.",
+    "ontological_commitments": "Physische Umwelt, biologisches Gehirn/biologischer Körper und die dynamische Interaktion/Aktivität zwischen ihnen.",
+    "epistemic_access": "Der Zugang erfordert den Blick über den Kopf hinaus auf die proaktive Rolle des Organismus und den Erwerb von Fertigkeiten in der Welt, wobei sich der Fokus von inneren Gehirnereignissen auf äußeres Handeln und Interaktion verlagert.",
+    "constituents_and_structure": "Das dynamische, vernetzte System aus dem Gehirn, den sensomotorischen Systemen des Körpers und der äußeren Umwelt."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal, Handlungsträgerschaft, Zugriff (als Leistung)",
+    "distinctive_mechanism_or_principle": "Aktives und kontinuierliches Engagement zwischen dem Organismus und seiner Umgebung. Bewusstsein ist in dieser Interaktions-/Aktivitätsschleife verortet, nicht im inneren Gehirnzustand allein.",
+    "dynamics_of_emergence": "Bewusstsein ist ein dynamischer Prozess des In-Kontakt-Bleibens und Interagierens mit der Welt, der vom Organismus kontinuierlich vollzogen wird.",
+    "location_and_distribution": "Verteilt über das gesamte System aus Gehirn, Körper und Umwelt; verortet ‚außerhalb unserer Köpfe‘.",
+    "causation_and_functional_role": "Bewusstsein ist proaktiv und ermöglicht dem Organismus den Zugriff auf die Welt und deren Vollzug; es dient der Steuerung bewussten, kontextbezogenen und kompetenten Handelns zum Zweck des Überlebens und Verstehens.",
+    "integration_or_binding": "Integration wird durch die Kohärenz des ‚In-Erscheinung-Tretens der Welt für uns‘ erreicht, die aus dem kompetenten, aktiven Engagement des Organismus und seiner Zuwendung zur Welt resultiert.",
+    "information_flow_or_representation": "Information wird proaktiv durch die Interaktion und die Fertigkeiten des Organismus erfasst und geformt, was die Bedeutung der Umwelt bestimmt.",
+    "evolutionary_account": "Bewusstsein entstand, um den Zugang zur Welt zu ermöglichen und Bedeutung durch verkörperte und kompetente Interaktion zu vermitteln, was auf einen starken adaptiven Überlebensvorteil hindeutet.",
+    "core_claims_and_evidence": [
+      "Bewusstsein ist die Aktivität des kontinuierlichen Engagements mit der Welt.",
+      "Die Dichte und Robustheit realer Erfahrung (im Gegensatz zu Träumen) stützt die Notwendigkeit äußerer Interaktion.",
+      "Das Gehirn ist der mechanische Ort der Symbole, doch die Aktivität selbst ist das Bewusstsein."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisches Argument, phänomenologische Einsicht, Kritik am traditionellen Internalismus"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell überprüfbar",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Die Hauptspannung besteht darin, genau zu erklären, wie die Interaktion Bewusstsein in einem starken Sinne ist, statt es lediglich zu ermöglichen oder zu beeinflussen. Kritiker weisen die These zurück, die Untersuchung innerer Gehirnereignisse sei zum Verständnis des Bewusstseins unzureichend.",
+    "open_questions_and_limitations": "Der Theorie fehlt eine klare Bestimmung, wie die äußere Interaktion/Aktivität die innere Erfahrung oder Qualia konstituiert und wie diese Aktivität rigoros von bloßer nichtbewusster Verarbeitung zu unterscheiden ist.",
+    "ontological_coherence": "Kohärent innerhalb eines externalistischen und verkörperten philosophischen Rahmens, der die grundlegenden Prämissen des internalistischen Materialismus und des Dualismus direkt infrage stellt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ungewiss/bedingt",
+      "rationale": "Standardberechnung ist unzureichend; Bewusstsein ist nur möglich, wenn KI-Systeme volle Verkörperung, Fertigkeiten und eine kontinuierliche, autonome Interaktion mit einer Welt erreichen (also denselben Anforderungen genügen, die an lebende Organismen gestellt werden)."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist untrennbar mit der kontinuierlichen, aktiven physischen Schleife verbunden, in der Gehirn und Körper mit der Welt interagieren; sein Aufhören bedeutet die Beendigung der bewussten Aktivität."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Bewusstsein ermöglicht es dem Handelnden, Kontext, Wissen und Verständnis zu erwerben, und verleiht ihm die Fähigkeit, Interaktionen Bedeutung zuzuschreiben und proaktives Verhalten zu steuern, impliziert jedoch keinen transzendenten Zweck."
+    },
+    "virtual_immortality": {
+      "stance": "Höchst unplausibel",
+      "rationale": "Das Hochladen allein der inneren Prozesse des Gehirns (des ‚mechanischen Ortes‘) kann die nicht an das Gehirn gebundene, äußere und kontinuierliche interaktive Aktivität, die als Bewusstsein definiert ist, nicht erfassen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Enactivism (Varela & Thompson)", "relationship": "Konstitutiver Rahmen" },
+      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "Grundlegender Einfluss" },
+      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "Philosophischer Einfluss" },
+      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "Teilweise kompatibel / überschneidend" },
+      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "Verwandt / komplementär (aktive Wahrnehmung, Modell geteilter Schaltkreise)" },
+      { "name": "Internalist Materialism", "relationship": "Kritik" },
+      { "name": "Dualism", "relationship": "Kritik" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
+        "year": 2010
+      },
+      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Is consciousness an illusion, Alva Noë",
+        "year": 2007
+      },
+      {
+        "title_with_names": "O’Regan, K., & Noë, A. A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–1031.",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Noë, A. Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness.",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Varela, F., Thompson, E., & Rosch, E. The Embodied Mind: Cognitive Science and Human Experience.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Gibson, J.J. The Ecological Approach to Visual Perception.",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Hurley, S. L. (1998). Consciousness in Action. Harvard University Press."
+      },
+      {
+        "title_with_names": "Hurley, S. (2008). The Shared Circuits Model (SCM): How control, mirroring, and simulation can enable imitation, deliberation, and mindreading. Behavioral and Brain Sciences, 31(1)."
+      }
+    ]
+  }
+}

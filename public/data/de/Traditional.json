@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Historische und traditionelle Dualismen",
+    "summary": "Diese Kategorie umfasst dualistische Theorien, die über Jahrtausende hinweg verbreitet waren und oft einen nichtphysischen Aspekt des Geistes (etwa eine Seele) annehmen, der vom physischen Körper getrennt ist. Diese Dualismen, einschließlich jener in der antiken Philosophie und in großen religiösen Traditionen (wie den abrahamitischen Religionen und bestimmten indischen Schulen), behaupten, dass die Wirklichkeit aus mindestens zwei verschiedenen ontologischen Kategorien besteht: der physischen und der nichtphysischen.",
+    "associated_thinkers": [
+      "Plato",
+      "René Descartes (Modern Start)",
+      "Richard Swinburne",
+      "J.P. Moreland"
+    ],
+    "category": "Dualismen",
+    "subcategory": "Historischer/Traditioneller Dualismus",
+    "core_identity_tagline": "‚Bewusstsein als separate nichtphysische Substanz (Seele)‘",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "soul",
+      "religion",
+      "classical philosophy",
+      "nonphysical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird mit einer nichtphysischen Substanz (oft Seele oder Geist genannt) identifiziert, die vom Gehirn und Körper unabhängig ist.",
+    "ontological_status": "Substanzdualismus",
+    "mind_body_relationship": "Typischerweise als Interaktionismus charakterisiert, bei dem physische Zustände mentale Zustände verursachen und umgekehrt, was erfordert, dass die physische Welt nicht kausal geschlossen ist.",
+    "primitive_or_emergent_status": "Primitiv",
+    "emergence_type": "N/A",
+    "subjectivity_and_intentionality": "Subjektivität ist der nichtphysischen Substanz (Seele/Geist) inhärent, die als der erlebende in der ersten Person oder das ‚Ich‘ fungiert. Intentionalität wird oft als eine Eigenschaft dieser eigenständigen mentalen Substanz betrachtet.",
+    "qualia_account": "Qualitative Merkmale (Qualia) liegen vollständig innerhalb der nichtphysischen Substanz (Geist/Seele), die von der physischen Materie verschieden ist.",
+    "ontological_commitments": "Physische Materie/Gehirn und eine separate nichtphysische Substanz (Seele, Geist, Purusha).",
+    "epistemic_access": "Allgemein erkannt durch alltägliche Intuition, philosophisches Nachdenken sowie religiöse/spirituelle Traditionen, weniger durch empirische Wissenschaft.",
+    "constituents_and_structure": "Zwei verschiedene Arten von Substanz: physische (ausgedehnte) und nichtphysische (unausgedehnte, mentale)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Erleben, personale Identität, Überleben nach dem Tod, moralische Werte und der Begriff des Selbst.",
+    "distinctive_mechanism_or_principle": "Interaktion zwischen den radikal verschiedenen physischen und nichtphysischen Substanzen, was zum berüchtigten ‚Interaktionsproblem‘ führt.",
+    "dynamics_of_emergence": "Bewusstsein ist ein beständiges Merkmal der nichtphysischen Substanz, das unabhängig von dynamischen physischen Prozessen existiert.",
+    "location_and_distribution": "Der physische Teil (Körper/Gehirn) ist lokal; der nichtphysische Teil (Seele) ist getrennt und nicht-lokalisiert und existiert unabhängig von physischen Beschränkungen.",
+    "causation_and_functional_role": "Mentale Zustände (der nichtphysischen Substanz) spielen eine kausale Rolle bei der Beeinflussung der physischen Welt, und die Seele begründet die personale Identität.",
+    "integration_or_binding": "Einheit (Bindung) ist der vereinten, unteilbaren nichtphysischen Substanz (Seele) inhärent.",
+    "information_flow_or_representation": "Information oder Repräsentation ist eine Eigenschaft der mentalen Substanz, die als durch und durch teleologisch und inhärent intentional charakterisiert wird.",
+    "evolutionary_account": "Wird typischerweise nicht behandelt, da Bewusstsein (die Seele) oft als eine fundamentale Schöpfung oder ein gegebener Bestandteil betrachtet wird und nicht als evolutionäres Produkt.",
+    "core_claims_and_evidence": [
+      "Die Wirklichkeit besteht aus zwei irreduziblen Substanzen: der physischen und der nichtphysischen (Seele/Geist)",
+      "Die Seele begründet die personale Identität und überlebt den körperlichen Tod",
+      "Mentale Verursachung ist real: nichtphysische Zustände beeinflussen physische Zustände",
+      "Intuition und weit verbreiteter Glaube (insbesondere in den abrahamitischen Religionen) stützen die Existenz einer separaten Seele"
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch, religiös/traditionell, intuitiv"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekulativ/Philosophisch",
+    "known_empirical_interventions_or_tests": "N/A",
+    "criticisms_and_tensions": "Steht vor dem Interaktionsproblem (wie eine nichtphysische Substanz physische Veränderungen verursacht), dem Problem der mangelnden Sparsamkeit (Ockhams Rasiermesser) und dem Fehlen objektiven wissenschaftlichen Wissens über die Seele.",
+    "open_questions_and_limitations": "Der grundlegende Mechanismus, der die Interaktion zwischen physischen und nichtphysischen Substanzen ermöglicht (Interaktionsproblem), ist ungelöst.",
+    "ontological_coherence": "Unvereinbar mit der in der Wissenschaft verbreiteten Annahme der kausalen Geschlossenheit der physischen Welt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Nein (überwiegend)",
+      "rationale": "Bewusstsein erfordert eine radikal separate, nichtphysische Substanz (Seele), die nicht kausal von der physischen Welt bestimmt ist; daher können nicht-biologische Intelligenzen kein wahres inneres Gewahrsein erfahren."
+    },
+    "survival_beyond_death": {
+      "stance": "Ja",
+      "rationale": "Die nichtphysische Seele/der nichtphysische Geist, die vom Körper unabhängig sind, bieten den klarsten Mechanismus dafür, dass das Selbst in der ersten Person den Zerfall des physischen Körpers überlebt, und beherrschen die religiösen Traditionen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Letztgültiger Sinn/Zweck/Wert",
+      "rationale": "Der Dualismus ist eng mit religiösen Glaubenssystemen (z. B. den abrahamitischen Religionen) verbunden, die der Existenz und dem menschlichen Leben inhärent kosmischen Sinn, Zweck und Wert zuschreiben."
+    },
+    "virtual_immortality": {
+      "stance": "Nein",
+      "rationale": "Das Hochladen des Gehirns würde den notwendigen nichtphysischen Bestandteil (die Seele), der für das Bewusstsein erforderlich ist, nicht duplizieren und damit die virtuelle Unsterblichkeit verhindern."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism (Generic)",
+        "relationship": "Identität"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Kontrast/Erweiterung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism, Howard Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Theosophy, Theosophy Wiki",
+        "year": 2023
+      }
+    ]
+  }
+}

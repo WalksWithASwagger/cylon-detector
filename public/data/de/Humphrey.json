@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Humphreys mentale Repräsentationen und Gehirnattraktoren",
+    "summary": "Diese materialistische Theorie betrachtet das phänomenale Bewusstsein als eine späte evolutionäre Entwicklung, die nur bei bestimmten komplexen Arten vorhanden ist. Empfindungen werden in einem zweistufigen Prozess erzeugt: dem Sammeln sensorischer Informationen, gefolgt von einem interpretativen „bewussten Lesen“, das mentale Repräsentationen mit phänomenalen Eigenschaften (Qualia) hervorbringt, die häufig durch komplexe Attraktorzustände im Gehirn stabilisiert werden.",
+    "associated_thinkers": ["Nicholas Humphrey"],
+    "category": "Materialismus",
+    "subcategory": "Repräsentational",
+    "core_identity_tagline": "Phänomenales Bewusstsein als evolvierte mentale Repräsentationen in Attraktoren",
+    "classification_tags": [
+      "evolutionary",
+      "representation",
+      "qualia",
+      "attractor states",
+      "phenomenal self"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als mentale Repräsentationen (von uns erzeugte Ideen) von Reizen identifiziert, genauer als jene Eigenschaften, die während der interpretativen Stufe („bewusstes Lesen“) entstehen und in komplexen Attraktorzuständen im Gehirn stabilisiert werden.",
+    "ontological_status": "Materialismus / Reduktiver Physikalismus",
+    "mind_body_relationship": "Geisteszustände (Empfindungen/Repräsentationen) werden vom physischen Gehirn erzeugt. Obwohl phänomenale Eigenschaften keine buchstäblichen Eigenschaften von Gehirnzuständen sind, sind sie Geisteszustände (Repräsentationen), die vom Gehirn erdacht werden, was eine Abhängigkeit impliziert.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität entsteht aus der interpretativen Stufe, die ein psychologisch eindrucksvolles Selbstgefühl erzeugt – ein „phänomenales Selbst“ –, das auf Repräsentationen davon beruht, wie Reize den Organismus beeinflussen. Intentionalität ist darin inhärent, dass Empfindungen Repräsentationen von Reizen sind.",
+    "qualia_account": "Qualia sind die „phänomenalen Eigenschaften“, die nur auf der interpretativen Stufe (dem bewussten Lesen) entstehen. Sie werden als mentale Repräsentationen erzeugt, die durch mathematisch komplexe Attraktorzustände im Gehirn verfeinert und stabilisiert werden.",
+    "ontological_commitments": "Mentale Repräsentationen, Gehirnattraktorzustände, Efferenzkopien und neuronale Rückkopplungsschleifen, die die Repräsentationen stabilisieren.",
+    "epistemic_access": "Zugänglich über objektive Ansätze aus der Dritte-Person-Perspektive, insbesondere durch die Rekonstruktion der evolutionären Schritte (Forward Engineering) und die Untersuchung neuronaler Mechanismen, auch wenn die Erfahrung selbst hochgradig subjektiv ist („wie es ist, ich zu sein“).",
+    "constituents_and_structure": "Neuronale Rückkopplungsschleifen, die rekursiv und zeitlich gedehnt werden, sich in mathematisch komplexen Attraktorzuständen stabilisieren und interne Repräsentationen (wie einen inneren Text) erzeugen, welche die phänomenale Erfahrung konstituieren."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (Empfindungsfähigkeit), Erzeugung von Qualia und das phänomenale Selbst.",
+    "distinctive_mechanism_or_principle": "Ein zweistufiges Verarbeitungssystem (sensorischer Input gefolgt von bewusstem Lesen/Interpretation), bei dem Repräsentationen durch komplexe Gehirnattraktorzustände verfeinert und stabilisiert werden. Dieser Prozess hat seinen Ursprung in der Überwachung primitiver evaluativer Reaktionen mittels „Efferenzkopien“.",
+    "dynamics_of_emergence": "Bewusstsein ist ein dynamischer Prozess, der allmählich durch natürliche Selektion entstand, ausgehend von primitiven evaluativen Reaktionen und fortschreitend über die Verfeinerung und Stabilisierung hin zu komplexer, rekursiver neuronaler Aktivität.",
+    "location_and_distribution": "Lokalisiert im biologischen Gehirn, insbesondere in neuronalen Rückkopplungsschleifen, die komplexe mentale Repräsentationen und Attraktorzustände tragen können. Es wird als eine relativ späte evolutionäre Erfindung betrachtet, was eine nicht-graduelle Verteilung nahelegt (z. B. vorhanden bei Säugetieren und Vögeln, aber nicht bei Hummern oder Fröschen).",
+    "causation_and_functional_role": "Die primäre funktionale Rolle besteht darin, dem Organismus einen Anpassungsvorteil im „Fitnessspiel“ zu verschaffen, und zwar durch die Emergenz des phänomenalen Selbst und die Fähigkeit, Reize zu überwachen und zu interpretieren (ein Fühlen).",
+    "integration_or_binding": "Integration wird erreicht, indem sich neuronale Rückkopplungsschleifen in komplexen Attraktorzuständen stabilisieren, welche die vereinheitlichten Qualitäten der sensorischen Qualia erzeugen.",
+    "information_flow_or_representation": "Information fließt in zwei Stufen: sensorischer Input (sensorischer Text) gefolgt von interpretativer Repräsentation (bewusstes Lesen), wobei das Gehirn eine interne Repräsentation (inneren Text) der Reize erzeugt.",
+    "evolutionary_account": "Bewusstsein ist eine relativ späte evolutionäre Anpassung, die durch natürliche Selektion („Forward Engineering“) aus primitiven Tierreaktionen erfunden wurde und dem Subjekt psychologische Vorteile verschafft.",
+    "core_claims_and_evidence": [
+      "Bewusstsein ist eine vom Gehirn erzeugte mentale Repräsentation (Idee), keine buchstäbliche Abbildung von Gehirnaktivität.",
+      "Phänomenale Eigenschaften (Qualia) entstehen nur auf der interpretativen Verarbeitungsstufe (bewusstes Lesen).",
+      "Die Erfindung des „phänomenalen Selbst“ verschaffte Anpassungsvorteile im Fitnessspiel.",
+      "Das schwere Problem wird als „das falsche Problem“ betrachtet, weil es fälschlicherweise ein neuronales Korrelat sucht, das auf phänomenale Eigenschaften abbildet."
+    ],
+    "basis_of_belief_or_evidence_type": "Evolutionär, Neuropsychologisch, Philosophisch/Konzeptuell."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar. Die Theorie postuliert spezifische evolutionäre Kontrollpunkte und Gehirndynamiken (Attraktorzustände, Efferenzkopien), die mit phänomenaler Erfahrung und Artenverteilung korrelieren sollten.",
+    "known_empirical_interventions_or_tests": "Die Theorie impliziert eine Prüfung der Verteilung des phänomenalen Bewusstseins über Arten hinweg (z. B. die Unterscheidung von Säugetieren/Vögeln von weniger komplexen Tieren wie Echsen/Fröschen). Sie lenkt die Forschung zudem davon weg, eine direkte Abbildung zwischen Gehirnaktivität und phänomenalen Eigenschaften zu erwarten.",
+    "criticisms_and_tensions": "Eine mögliche Spannung besteht darin, wie die mathematisch komplexen Attraktorzustände die scheinbar unerklärlichen Qualitäten der sensorischen Qualia hervorbringen („aus dem Nichts“). Humphrey weist zudem die Prämisse des schweren Problems zurück, was eine zentrale Spannung mit nichtmaterialistischen Positionen bleibt.",
+    "open_questions_and_limitations": "Die genaue Bestimmung des evolutionären Grenzpunkts für Arten, die phänomenales Bewusstsein besitzen, bleibt eine offene Frage. Der Mechanismus, durch den komplexe Attraktorzustände in spezifische qualitative Empfindungen übersetzt werden, bedarf weiterer Ausarbeitung.",
+    "ontological_coherence": "Kohärent innerhalb eines strikt materialistischen und deflationären Rahmens, da sie Bewusstsein und Qualia als komplexe, aber letztlich physische Repräsentationen wegzuerklären sucht und dadurch die traditionelle Geist-Körper-Schwierigkeit umgeht, die das schwere Problem aufwirft."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Da Bewusstsein in einer materialistischen Theorie durch komplexe Informationsverarbeitung, Repräsentationen und Attraktorzustände im Gehirn realisiert wird, sollten künstliche Systeme, die diese Mechanismen replizieren können, prinzipiell bewusst werden."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist vollständig vom evolvierten biologischen Gehirn und seinen spezifischen neuronalen Mechanismen (Repräsentationen und Attraktorzuständen) abhängig. Der Tod des Gehirns bringt das Aufhören des Bewusstseins mit sich, im Einklang mit dem Materialismus."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Die Theorie ist strikt in einen evolutionären Kontext eingebettet, in dem Bewusstsein aus Anpassungsvorteilen im „Fitnessspiel“ entsteht, was nahelegt, dass Sinn und Zweck vom Menschen geschaffen oder subjektiv sind und nicht kosmisch oder letztgültig."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn Bewusstsein vollständig durch die spezifischen neuronalen Muster, Repräsentationen und Attraktorzustände erklärbar ist, die das Gehirn erzeugt (Materialismustheorien), dann sollte eine perfekte Duplikation dieser funktionalen Dynamiken in ein nichtbiologisches Medium das mentale Selbst der Ersten Person bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Thought Theory",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Überschneidung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Sentience: the Invention of Consciousness, Nicholas Humphrey",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The invention of consciousness, Nicholas Humphrey",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Seeing and somethingness, Nicholas Humphrey",
+        "year": 2022
+      }
+    ]
+  }
+}

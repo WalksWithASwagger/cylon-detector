@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Theorie des Epiphänomenalismus",
+    "summary": "Diese Theorie postuliert, dass Bewusstsein ein nicht-reduzierbares Produkt des biologischen Gehirns ist, mentale Zustände jedoch absolut keine kausale Wirkung auf die physische Realität haben. Unser subjektives Gewahrsein ist real, doch unsere Wahrnehmung, dass unsere Gedanken Handlungen verursachen, ist irrig, da das Bewusstsein vollkommen inert ist, wie Schaum auf einer Meereswelle.",
+    "associated_thinkers": [
+      "David Chalmers (Classifier)",
+      "Frank Jackson (Related Thinker)"
+    ],
+    "category": "Materialismustheorien",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "Bewusstsein ist real, aber kausal inert.",
+    "classification_tags": [
+      "property dualism",
+      "non-reductive physicalism",
+      "mental causation",
+      "causal closure",
+      "illusion"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als phänomenale Eigenschaften identifiziert, die ontologisch von physischen Eigenschaften verschieden, aber kausal von ihnen abhängig sind (Physisch → Phänomenal).",
+    "ontological_status": "Schwache Form des Dualismus oder nicht-reduktiver Physikalismus. Sie bejaht die vollständige kausale Geschlossenheit des Physischen.",
+    "mind_body_relationship": "Mentale Zustände sind gänzlich das Produkt biologischer Gehirne. Physische Zustände verursachen phänomenale Zustände, doch phänomenale Zustände haben keine kausale Wirkung auf das Physische (einseitig gerichtete Kausalität).",
+    "primitive_or_emergent_status": "Emergent. Bewusstsein ist ausschließlich das Produkt biologischer Gehirne.",
+    "emergence_type": "Die Eigenschaften sind irreduzibel und ontologisch von physischen Eigenschaften verschieden, was auf eine Form der starken Emergenz für die phänomenale Eigenschaft hindeutet, auch wenn diese kausal inert ist. (Begründet auf Grundlage der Irreduzibilitätsbehauptung.)",
+    "subjectivity_and_intentionality": "Das Gewahrsein des Bewusstseins ist real. Die Subjektivität (phänomenale Eigenschaften) ist ontologisch verschieden. Der Eindruck mentaler Verursachung ist illusorisch.",
+    "qualia_account": "Phänomenale Eigenschaften (Qualia) sind real und ontologisch von physischen Eigenschaften verschieden, doch sie sind Epiphänomene und damit kausal inert.",
+    "ontological_commitments": "Physische Zustände (Gehirne) und ontologisch verschiedene phänomenale Eigenschaften (mentale Zustände), die aus ihnen hervorgehen.",
+    "epistemic_access": "Bewusstsein wird durch Introspektion erkannt, doch der Eindruck kausaler Handlungsträgerschaft, der aus dieser Introspektion abgeleitet wird, ist irreführend (eine Art Illusion oder Trick).",
+    "constituents_and_structure": "Bewusstsein ist eine emergente Eigenschaft oder ein Nebenprodukt der Funktion des biologischen Gehirns, vergleichbar mit ‚Schaum auf einer Meereswelle‘."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (Gewahrsein). Es behandelt und verneint ausdrücklich mentale Verursachung/Handlungsträgerschaft.",
+    "distinctive_mechanism_or_principle": "Das Prinzip der ‚kausalen Geschlossenheit des Physischen‘ diktiert, dass mentale Zustände, welcher Natur auch immer, vollständig inerte Nebenprodukte sein müssen.",
+    "dynamics_of_emergence": "Mentale Zustände werden dynamisch ausschließlich vom biologischen Gehirn erzeugt, wobei allen bewussten mentalen Ereignissen eine vorausgehende unbewusste Verarbeitung zugrunde liegt.",
+    "location_and_distribution": "Vollständig im physischen, biologischen Gehirn lokalisiert.",
+    "causation_and_functional_role": "Mentale Zustände haben keine kausalen Kräfte. Der Geist ist vollständig inert, und es gibt keine ‚Top-down-Verursachung‘; Bewusstsein ist ein nichtfunktionales Nebenprodukt.",
+    "integration_or_binding": "Die Vereinheitlichung der Erfahrung wird implizit durch die zugrunde liegenden komplexen physischen Prozesse im Gehirn erreicht, die den einheitlichen phänomenalen Zustand hervorbringen. (Begründung: Der Fokus liegt auf dem Fehlen ausgehender Kausalität, nicht auf der internen Mechanik der Einheit.)",
+    "information_flow_or_representation": "Die Informationsverarbeitung ist vollständig physisch/unbewusst, und die phänomenale Erfahrung ist ein nicht-kausaler paralleler Output dieser Verarbeitung.",
+    "evolutionary_account": "Implizit mit der Evolution vereinbar, da Bewusstsein ein Produkt biologischer Gehirne ist. Die Realität der Eigenschaft legt nahe, dass sie durch Evolution entstand, wobei ihr Mangel an Funktion bedeutet, dass sie nicht wegen ihrer kausalen Wirksamkeit selektiert wurde. (Begründet auf Grundlage der Einordnung unter die Materialismustheorien.)",
+    "core_claims_and_evidence": [
+      "Bewusstsein ist vollständig physisch, ausschließlich das Produkt biologischer Gehirne.",
+      "Mentale Zustände sind ontologisch von physischen Zuständen verschieden (Eigenschaftsdualismus).",
+      "Mentale Zustände besitzen aufgrund der vollständigen kausalen Geschlossenheit des Physischen keine kausale Kraft."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (in erster Linie getrieben von der Erklärungslast der mentalen Verursachung und dem Bekenntnis zur physischen kausalen Geschlossenheit)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell herausgefordert. Ihre zentrale Behauptung – dass bewussten Zuständen kausale Kraft fehlt – ist kontraintuitiv und empirisch schwer zu überprüfen, da sie den Nachweis einer negativen kausalen Verbindung erfordert.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Die Theorie ist kontraintuitiv, weil es uns stark so vorkommt, als seien unsere phänomenal bewussten Zustände kausal von Bedeutung. Sie erzwingt die Annahme, dass unser Eindruck mentaler Verursachung (Gedanken, die Dinge bewirken) eine ‚Art Illusion oder Trick‘ ist.",
+    "open_questions_and_limitations": "Die Integration der mentalen Verursachung ist zentral, da der Epiphänomenalismus das Problem löst, indem er die Kausalität leugnet, dies jedoch die Annahme eines höchst kontraintuitiven Ergebnisses erfordert.",
+    "ontological_coherence": "Hohe Kohärenz innerhalb einer materialistischen Ontologie, die sich der vollständigen kausalen Geschlossenheit des Physischen verpflichtet, wodurch eine schwache Form des Dualismus erreicht und zugleich interaktionistische Probleme vermieden werden."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn Bewusstsein lediglich ein nicht-kausales Nebenprodukt (Schaum) physischer Prozesse im Gehirn ist, sollte die Replikation dieser physischen Prozesse in KI dieselben bewussten Zustände hervorbringen, ohne dass die nicht-kausalen mentalen Zustände die funktionale Replikation behindern."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist vollständig physisch und ausschließlich das Produkt biologischer Gehirne. Diese physische Abhängigkeit schließt ein Überleben über den körperlichen Tod hinaus aus."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als philosophische Materialismustheorie liefert sie keinen letztgültigen Sinn und Zweck. Da das Bewusstsein kausal inert ist, kann es keinen kosmischen teleologischen Wert verleihen."
+    },
+    "virtual_immortality": {
+      "stance": "Höchst wahrscheinlich",
+      "rationale": "Die inerte Natur des Bewusstseins bedeutet, dass das Uploaden der physischen Zustände notwendigerweise die epiphänomenalen mentalen Zustände duplizieren würde. Der inerte ‚Schaum‘ sollte kaum Einfluss auf die Erreichung virtueller Unsterblichkeit haben."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Schwache Form/Typ"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Schwächere Form/Überschneidung"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "Ähnliche, aber weniger verbreitete Alternative"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Kontrast (Emergenter Dualismus bejaht die kausale Wirksamkeit, der Epiphänomenalismus verneint sie)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Facing up to the Problem of Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      }
+    ]
+  }
+}

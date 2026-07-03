@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Meditation und das Gehirn",
+    "summary": "Dieser Ansatz untersucht Meditation als einen veränderten Bewusstseinszustand, der messbare Veränderungen der Hirnaktivität hervorruft, und stützt die Auffassung, dass bewusste Zustände in hohem Maße mit spezifischen Hirnfunktionen und -rhythmen korrelieren, etwa der Modulation von Alphawellen. Befunde wie die Reduktion der Synchronisation während tiefer Trancezustände liefern empirische Beschränkungen für physikalistische Theorien, die die globale Hirnintegration betonen.",
+    "associated_thinkers": [
+      "Catherine Kerr",
+      "Anne Trafton",
+      "Madhav Goyal",
+      "Shayla Love"
+    ],
+    "category": "Anomale und veränderte Zustände",
+    "subcategory": "Veränderte Zustände",
+    "core_identity_tagline": "Bewusstsein korreliert mit veränderten Hirnrhythmen",
+    "classification_tags": [
+      "neurobiology",
+      "altered states",
+      "brain synchronization",
+      "EEG"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Das Bewusstsein wird über seine messbare Korrelation mit dynamischen Veränderungen der Hirnaktivität identifiziert, insbesondere mit veränderten Hirnwellenmustern und Ebenen neuronaler Integration, die durch meditative Praktiken hervorgerufen werden.",
+    "ontological_status": "Physikalismus (korrelativ)",
+    "mind_body_relationship": "Die Korrelation ist stark, da Veränderungen des Bewusstseinszustands (Meditation) durchgängig mit spezifischen Veränderungen der Hirnfunktion (neuronale Rhythmen und Synchronisation/Desynchronisation) korrelieren.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität wird über Erste-Person-Berichte veränderter Zustände (z. B. Aufhören des Denkens) zugänglich. Intentionalität, etwa anhaltende Aufmerksamkeit, ist unmittelbar mit der dynamischen neuronalen Regulation von Hirnrhythmen verknüpft.",
+    "qualia_account": "Es wird angenommen, dass Qualia mit spezifischen, messbaren Veränderungen der Hirnwellenmuster und Ebenen neuronaler Integration korrelieren oder durch sie konstituiert werden.",
+    "ontological_commitments": "Neuronale Muster, spezifische Hirnrhythmen (Alphawellen) und der Zustand globaler Integration/Desynchronisation innerhalb des Kortex.",
+    "epistemic_access": "Erreicht durch die Korrelation introspektiver (Erste-Person-)Berichte meditativer Erfahrung mit objektiven (Dritte-Person-)Messungen physiologischer Hirnaktivität (z. B. EEG).",
+    "constituents_and_structure": "Der bewusste Zustand wird durch Hirnrhythmen organisiert, insbesondere durch das dynamische Muster der Synchronisation (Integration) oder Desynchronisation zwischen Hirnregionen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (veränderte Zustände), Zugriff (Aufmerksamkeit, Empfindung) und Integration/Einheit.",
+    "distinctive_mechanism_or_principle": "Das Prinzip ist die dynamische, selbstregulierte Steuerung der Alpha-Hirnrhythmen, insbesondere im sensorischen Kortex, die irrelevante sensorische Information unterdrückt und die für ein fokussiertes Bewusstsein erforderliche dynamische neuronale Regulation verstärkt.",
+    "dynamics_of_emergence": "Das Bewusstsein ist ein dynamischer Prozess; veränderte Zustände treten hervor, wenn fokussierte mentale Praxis (Meditation) die Hirnsynchronisation und spezifische Rhythmen im Laufe der Zeit aktiv manipuliert.",
+    "location_and_distribution": "Verteilt über Hirnwellenmuster und Synchronisation zwischen Hirnregionen, einschließlich des primären sensorischen Kortex, was die Vorstellung des Bewusstseins als ein einheitliches Feld oder integrierte Netzwerkaktivität stützt.",
+    "causation_and_functional_role": "Das Bewusstsein ist maßgeblich für das Erreichen von Selbstregulation und therapeutischem Nutzen (z. B. Angstlinderung, Schmerzlinderung). Die meditative Praxis erfüllt die Funktion, die neuronale Aktivität zum kognitiven Nutzen dynamisch zu regulieren.",
+    "integration_or_binding": "Integration/Einheit ist an die gesamte Hirnsynchronisation gebunden; das Aufhören des Denkens (höchster meditativer Zustand) korreliert mit einer reduzierten gesamten Hirnsynchronisation, was impliziert, dass das Bewusstsein als eine integrierte Einheit funktioniert.",
+    "information_flow_or_representation": "Die Informationsverarbeitung ist betroffen, da die Steuerung der Alphawellen die Wahrscheinlichkeit verringert, dass äußere Reize die Aufmerksamkeit an sich reißen, und dadurch reguliert, wie Dinge auf das Bewusstsein einwirken.",
+    "evolutionary_account": "Der Ansatz konzentriert sich auf die Charakterisierung gegenwärtiger Hirnzustände; er liefert keine ausdrückliche phylogenetische Erklärung für den Ursprung oder die adaptive Rolle des Bewusstseins oder der Meditation selbst. Dieses Feld stützt sich auf die evolvierte Hirnkapazität, veränderte Zustände hervorzurufen.",
+    "core_claims_and_evidence": [
+      "Meditation verändert spezifische Hirnwellenmuster, etwa Alpharhythmen, im primären sensorischen Kortex.",
+      "Tiefe meditative Zustände (nirodha-samāpatti) korrelieren mit einer reduzierten gesamten Hirnsynchronisation, im Einklang mit Modellen, die das Bewusstsein mit Integration verknüpfen.",
+      "Achtsamkeit verbessert die dynamische neuronale Regulation und hilft, ablenkende sensorische Information zu unterdrücken."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch, neurobiologisch, phänomenologisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Hochgradig empirisch testbar",
+    "known_empirical_interventions_or_tests": [
+      "EEG/Neurobildgebung zur Messung der Alphawellenmodulation bei Meditierenden ",
+      "Vergleichsstudien zur Hirnsynchronisation während tiefer Trance, Schlaf und Anästhesie (z. B. Propofol, Ketamin) "
+    ],
+    "criticisms_and_tensions": "Die Phänomene liefern eine starke Stütze für Materialismustheorien, werden aber häufig dafür kritisiert, nur die ‚leichten Probleme‘ (neuronale Korrelate) zu behandeln, statt die grundlegende subjektive Natur (das schwere Problem) zu erklären. Nichtphysische Theorien sind schwer auszuschließen, da sie ebenfalls mit den beobachteten neuronalen Veränderungen vereinbar sein könnten.",
+    "open_questions_and_limitations": "Die Beschränkung besteht darin, dass die Studien trotz klarer empirischer Befunde zu neuronalen Mechanismen keine ontologische Enthüllung über die Essenz des Bewusstseins liefern oder darüber, warum physiologische Veränderungen zu einer gefühlten subjektiven Erfahrung führen sollten.",
+    "ontological_coherence": "Hohe Kohärenz innerhalb des Materialismusparadigmas, insbesondere zur Stützung von Modellen wie der Global Workspace Theory und der Integrierten Informationstheorie, indem sie die Verbindung zwischen Bewusstsein und integrierter/synchronisierter Hirnaktivität empirisch validiert."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt/wahrscheinlich",
+      "rationale": "Wenn das Bewusstsein von Dynamiken wie Synchronisation und Integration abhängt, wie in veränderten menschlichen Zuständen gezeigt, könnte ein technisch gebautes KI-System potenziell analoge Zustände erreichen, sofern sich diese Dynamiken computational nachbilden lassen. Die Daten selbst schließen ein KI-Bewusstsein nicht aus."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Der Fokus liegt strikt darauf, dass bewusste Zustände von komplexer, messbarer physiologischer Aktivität im biologischen Gehirn (z. B. neuronaler Synchronisation) abhängen, was ein Erlöschen beim biologischen Tod impliziert."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Meditation bietet pragmatischen Wert, indem sie die kognitive Funktion verändert (z. B. Schmerzlinderung, Fokus) und das Wohlbefinden steigert, doch die zugrunde liegenden Mechanismen legen keinen letztgültigen kosmischen Zweck des Bewusstseins nahe."
+    },
+    "virtual_immortality": {
+      "stance": "Unwahrscheinlich",
+      "rationale": "Zwar sind die physischen Korrelate stark, doch die Forschung befasst sich vorrangig mit der Echtzeit-Manipulation biologischer ‚Wetware‘. Virtuelle Unsterblichkeit zu erreichen erfordert die vollständige Duplizierung der zugrunde liegenden neurobiologischen und rhythmischen Struktur für dauerhaftes Fortbestehen – ein Unterfangen, das Annahmen jenseits der Reichweite dieses Phänomens allein verlangt."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Psychedelic Theories of Consciousness",
+        "relationship": "Überschneidung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Meditation programs for psychological stress and well-being - a systematic review and meta-analysis, Goyal, Madhav et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Effects of mindfulness meditation training on anticipatory alpha modulation in primary somatosensory cortex, Kerr, Catherine et al.",
+        "year": 2011
+      },
+      {
+        "title_with_names": "What happens to the brain during consciousness-ending meditation?, Love, Shayla",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Benefits of Meditation, Trafton, Anne",
+        "year": 2011
+      }
+    ]
+  }
+}

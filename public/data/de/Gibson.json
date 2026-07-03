@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Gibsons ökologische Psychologie",
+    "summary": "Gibson schlägt einen verkörperten, situierten und nicht-repräsentationalen Zugang zur Wahrnehmung vor und argumentiert, dass Information direkt in der Umwelt verfügbar ist (Invarianten) und in Form von Affordanzen wahrgenommen wird. Dieser Ansatz bietet einen dritten Weg jenseits von Kognitivismus und Behaviorismus und kann vorsichtig als Erklärung für das Bewusstsein herangezogen werden.",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Verkörpert und enaktiv",
+    "core_identity_tagline": "Bewusstsein als verkörperte, situierte Wahrnehmung von Affordanzen",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird in erweiterter Form als eine Funktion der kontinuierlichen Interaktion und des Informationsflusses innerhalb des Organismus-Umwelt-Systems verstanden, charakterisiert durch die direkte Wahrnehmung von Invarianten und Affordanzen statt durch innere mentale Repräsentationen.",
+    "ontological_status": "Physikalismus/direkter Realismus",
+    "mind_body_relationship": "Geist/Wahrnehmung steht in Kontinuität mit dem Handeln und richtet den Fokus auf das Organismus-Umwelt-System als Analyseeinheit, wobei die Vorstellung zurückgewiesen wird, der Geist sei allein auf Prozesse im Kopf reduzierbar.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität wird durch das dynamische, situierte Verhältnis des Organismus zur Umwelt (Organismus-Umwelt-System) konstituiert. Intentionalität (die Gerichtetheit des Denkens) wird durch die Wahrnehmung von Affordanzen erklärt, das heißt der Handlungsmöglichkeiten, die der Umwelt inhärent sind.",
+    "qualia_account": "Die Theorie ist nicht-repräsentational und steht generell im Einklang mit Auffassungen, die innere Sinnesdaten (Qualia) im traditionellen Verständnis ablehnen und stattdessen die direkte Wahrnehmung von Umwelteigenschaften (Invarianten und Affordanzen) bevorzugen.",
+    "ontological_commitments": "Organismus-Umwelt-System, optische Information (Invarianten), Affordanzen.",
+    "epistemic_access": "Zugänglich durch die Untersuchung des Verhältnisses zwischen dem Organismus und seiner sozio-physischen Umwelt statt durch eine auf innere Zustände gerichtete Introspektion.",
+    "constituents_and_structure": "Die Struktur des Bewusstseins/der Wahrnehmung beruht auf dem funktionalen Verhältnis zwischen Organismus und Umwelt und betont die Kontinuität von Wahrnehmung und Handlung."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Wahrnehmung/Kognition, Phänomenal (durch vorsichtige Inferenz)",
+    "distinctive_mechanism_or_principle": "Direkte Wahrnehmung von Umweltinvarianten (unveränderlichen Elementen im optischen Fluss) und Affordanzen (Handlungsmöglichkeiten, die die Umwelt bietet).",
+    "dynamics_of_emergence": "Der Fokus liegt auf dem dynamischen Fluss und der Kontinuität innerhalb des Organismus-Umwelt-Systems statt auf einer Emergenz aus diskreten, lokalisierten neuronalen Strukturen.",
+    "location_and_distribution": "Situiert innerhalb des Organismus-Umwelt-Systems, das über das Gehirn und den Kopf hinausreicht.",
+    "causation_and_functional_role": "Wahrnehmung dient der Steuerung adaptiven Verhaltens und erhöht die Fitness, indem sie Invarianten und Handlungsmöglichkeiten (Affordanzen) erfasst.",
+    "integration_or_binding": "Integration ist der direkten und einheitlichen Erfassung des Organismus-Umwelt-Systems als einer einzigen Analyseeinheit inhärent.",
+    "information_flow_or_representation": "Lehnt Modelle der Informationsverarbeitung ab; Information ist extern (Invarianten) und wird von den Wahrnehmungssystemen direkt erfasst, ohne dass eine innere Konstruktion von Repräsentationen erforderlich wäre.",
+    "evolutionary_account": "Die Betonung der Affordanzen legt nahe, dass sich dieses Wahrnehmungssystem entwickelt hat, weil es einen offensichtlichen Überlebenswert bot und die Fitness erhöhte.",
+    "core_claims_and_evidence": [
+      "Wahrnehmung steht in direktem Bezug allein zum Reiz und erfordert weder Inferenz noch innere mentale Repräsentationen.",
+      "Die primären Objekte der Wahrnehmung sind Affordanzen, nicht bestimmte sinnliche Qualitäten.",
+      "Die Analyseeinheit für das Verständnis der Wahrnehmung ist das Organismus-Umwelt-System.",
+      "Die Theorie weist die in kognitivistischen Modellen verbreitete Prämisse von der Armut des Reizes zurück."
+    ],
+    "basis_of_belief_or_evidence_type": "Experimentell, Philosophisch, Ökologisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar, insbesondere innerhalb der ökologischen Psychologie und der Wahrnehmungsforschung.",
+    "known_empirical_interventions_or_tests": "Empirische Beobachtung der Wahrnehmung und detaillierte Analyse der Interaktionsfelder zwischen Organismus und Umwelt.",
+    "criticisms_and_tensions": "Die Theorie kritisiert die vorherrschenden Wahrnehmungstheorien und greift dabei sowohl den Behaviorismus als auch den Kognitivismus/die Informationsverarbeitung an. Ihre Ausweitung auf das phänomenale Bewusstsein ist spekulativ und wird von Anhängern innerer Repräsentationstheorien mit Skepsis betrachtet.",
+    "open_questions_and_limitations": "Die Kerntheorie behandelt Wahrnehmung und Kognition; die Anwendung oder Ausweitung auf die Erklärung des phänomenalen Bewusstseins (den Aspekt des ‚Wie-es-ist‘) erfordert eine vorsichtige Inferenz.",
+    "ontological_coherence": "Innerhalb ihrer ökologischen und situierten antireduktionistischen materialistischen Ontologie hochgradig kohärent, steht aber in fundamentalem Widerspruch zu Theorien, die auf kognitiver Symbolmanipulation beruhen."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Möglich",
+      "rationale": "Wenn Bewusstsein ein Produkt der direkten, situierten Interaktion innerhalb eines Organismus-Umwelt-Systems ist (wie es diese materialistische Theorie nahelegt), dann könnte KI Bewusstsein erlangen, sofern sie so konstruiert wird, dass sie eine physische Umwelt verkörpert und mit ihr interagiert und dabei Affordanzen wahrnehmen kann."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Die Theorie ist dem Materialismus zugeordnet und konzentriert sich auf den lebenden, biologischen Organismus und seine physische Umwelt. Es wird keine nichtphysische Komponente postuliert, die den körperlichen Tod überdauern könnte."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistisch/Adaptiv",
+      "rationale": "Die primäre funktionale Rolle der Wahrnehmung ist adaptives Verhalten durch die Erfassung von Affordanzen, im Einklang mit einer materialistischen Auffassung, wonach Sinn von Menschen in ihrer Umwelt zum Zweck des Überlebens und Gedeihens geschaffen wird."
+    },
+    "virtual_immortality": {
+      "stance": "Bedingt",
+      "rationale": "Da das Bewusstsein an die physische Organismus-Umwelt-Einheit gebunden ist, wäre virtuelle Unsterblichkeit nur erreichbar, wenn die wesentlichen verkörperten, nicht-repräsentationalen Interaktionen vollkommen erfasst und in einem neuen physischen Medium simuliert werden könnten."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Direct Perception Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

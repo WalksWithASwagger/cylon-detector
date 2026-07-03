@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Theorie der direkten Wahrnehmung",
+    "summary": "Diese Theorie postuliert, dass alle für die Wahrnehmung notwendige Information außerhalb des Beobachters liegt und ausschließlich aus den Eigenschaften des distalen Reizes stammt.\nDas Wahrnehmungsbewusstsein ist eine direkte und unanalysierbare Gewahrseinsrelation zu äußeren Objekten, die ohne die Hilfe innerer Inferenz, Erinnerung oder der Konstruktion von Repräsentationen operiert.",
+    "associated_thinkers": [
+      "Ned Block (as describer of direct realist/naïve realist views)"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Verkörpert und enaktiv",
+    "core_identity_tagline": "‚Wahrnehmung als direktes Gewahrsein des distalen Reizes‘",
+    "classification_tags": [
+      "perception",
+      "realism",
+      "non-representational",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Das phänomenale Bewusstsein, insbesondere sein Wahrnehmungscharakter, wird als eine direkte Gewahrseinsrelation — vermutlich eine primitive, unanalysierbare Bekanntschaftsrelation — zu Objekten oder Eigenschaften in der Umwelt identifiziert.",
+    "ontological_status": "Direkter Realismus / naiver Realismus (eine Form des Physikalismus).",
+    "mind_body_relationship": "Der phänomenale Charakter ist „objekt-konstituiert“ in dem Sinne, dass die Existenz und Individuation einer Wahrnehmungserfahrung direkt vom äußeren Objekt abhängen, was eine nicht-vermittelte, direkte konstitutive Relation nahelegt.",
+    "primitive_or_emergent_status": "Primitiv (Die direkte Gewahrseinsrelation selbst wird als eine primitive, unanalysierbare Bekanntschaftsrelation aufgefasst).",
+    "emergence_type": "Nicht zutreffend (Die zentrale Gewahrseinsrelation wird als primitiv und unanalysierbar beschrieben, wodurch das Konzept der Emergenz auf den unmittelbaren bewussten Akt selbst nicht anwendbar ist).",
+    "subjectivity_and_intentionality": "Die subjektive Erfahrung der ersten Person (phänomenaler Charakter) wird direkt durch das äußere Objekt konstituiert (Intentionalität). Intentionalität ist somit nicht-repräsentational und erreicht ihre Gerichtetheit einfach dadurch, dass sie vom äußeren Objekt selbst abhängt.",
+    "qualia_account": "Das qualitative Erleben (phänomenaler Charakter) ist objekt-konstituiert. Wenn eine Erfahrung von einem anderen Objekt handelt, hat sie einen anderen phänomenalen Charakter, selbst wenn sie subjektiv nicht unterscheidbar ist (z. B. von einer perfekten Halluzination).",
+    "ontological_commitments": "Distaler Reiz (äußere Objekte und Eigenschaften in der Umwelt) und eine primitive, unanalysierbare Bekanntschaftsrelation (direktes Gewahrsein).",
+    "epistemic_access": "Das Wissen über die Welt wird direkt durch die Wahrnehmung erlangt, statt durch innere Repräsentation oder Introspektion der vermittelnden mentalen Zustände.",
+    "constituents_and_structure": "Das Bewusstsein ist allein durch die Eigenschaften des distalen Reizes strukturiert. Der grundlegende Baustein ist die direkte „Bekanntschaftsrelation“ zu der eigentümlichen Entität (etwa einem Sinnesdatum) oder zu Objekten/Eigenschaften in der Umwelt."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (speziell das Wahrnehmungsbewusstsein).",
+    "distinctive_mechanism_or_principle": "Das Fehlen zwischengeschalteter Verarbeitung; das Bewusstsein entsteht aus der direkten Detektion äußerer Information ohne die Hilfe innerer kognitiver Prozesse (Inferenz, Erinnerung, Konstruktion von Repräsentationen).",
+    "dynamics_of_emergence": "Die Theorie konzentriert sich auf die Natur der unmittelbaren Gewahrseinsrelation als primitiv, statt einen dynamischen Prozess zu beschreiben, wie diese Relation entsteht oder sich über die Zeit verändert.",
+    "location_and_distribution": "Die für die Wahrnehmung erforderliche Information liegt außerhalb des Beobachters (außerhalb von Gehirn/Körper, im distalen Reiz). Die bewusste phänomenale Erfahrung jedoch ist im Beobachter instanziiert.",
+    "causation_and_functional_role": "Die primäre funktionale Rolle besteht darin, dem Beobachter zu ermöglichen, ein Objekt allein auf Grundlage des distalen Reizes akkurat wahrzunehmen und dabei traditionelle kognitive Prozesse zu umgehen, die Repräsentationen konstruieren könnten.",
+    "integration_or_binding": "Nicht spezifiziert. Die Integration phänomenaler Unterscheidungen wird als ein Merkmal der primitiven, unanalysierbaren Bekanntschaftsrelation zum Objekt selbst angenommen, statt als komputationaler oder informationeller Bindungsprozess.",
+    "information_flow_or_representation": "Information fließt direkt von der äußeren Welt (distaler Reiz) zur Wahrnehmung des Beobachters, wobei die Notwendigkeit einer inneren Konstruktion mentaler Repräsentationen abgelehnt wird.",
+    "evolutionary_account": "In den vorliegenden Quellen nicht ausdrücklich behandelt. (Die Variante der ökologischen Psychologie, Gibsons Theorie, impliziert eine evolutionäre Passung zwischen Organismus und Umwelt, doch die Theorie der direkten Wahrnehmung selbst konzentriert sich auf den nicht-repräsentationalen Mechanismus).",
+    "core_claims_and_evidence": [
+      "Die Wahrnehmung beruht allein auf den Eigenschaften des distalen Reizes, ohne die Hilfe von Inferenz oder Erinnerung.",
+      "Der phänomenale Charakter der Erfahrung ist objekt-konstituiert; eine Veränderung des Objekts erfordert eine Veränderung des phänomenalen Charakters.",
+      "Die Gewahrseinsrelation ist eine primitive, unanalysierbare Bekanntschaftsrelation, die keine Angelegenheit der Repräsentation ist."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch und konzeptuell (Verteidigung des naiven Realismus gegen repräsentationale Theorien, gestützt auf Gedankenexperimente, die zwischen veridischer Wahrnehmung und subjektiv nicht unterscheidbarer Halluzination differenzieren)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell prüfbar (mittels Gedankenexperimenten). Empirische Prüfung, um eine rein „unanalysierbare primitive Bekanntschaftsrelation“ getrennt von kognitiver Verarbeitung zu isolieren, ist schwierig.",
+    "known_empirical_interventions_or_tests": "In der Quelle nicht ausdrücklich aufgeführt; diese konzentriert sich auf die konzeptuellen Implikationen der Theorie, etwa den Vergleich des phänomenalen Charakters realer Wahrnehmung mit dem einer subjektiv nicht unterscheidbaren Halluzination.",
+    "criticisms_and_tensions": "Eine wesentliche Spannung ist die Implikation, dass subjektiv nicht unterscheidbare Erfahrungen (z. B. das Sehen einer echten Tomate gegenüber der Halluzination einer identischen) notwendigerweise verschiedene phänomenale Charaktere haben müssen, weil die phänomenale Erfahrung von der Existenz des äußeren Objekts abhängt.",
+    "open_questions_and_limitations": "Die genaue Natur der „primitiven, unanalysierbaren Bekanntschaftsrelation“ bleibt undefiniert. Die Theorie muss den Unterschied im phänomenalen Charakter zwischen realen Objekten und subjektiv nicht unterscheidbaren illusorischen oder halluzinatorischen Erfahrungen erklären.",
+    "ontological_coherence": "Kohärent innerhalb einer strikt physikalistischen/realistischen Ontologie, die die Vermittlung durch innere phänomenale Eigenschaften ablehnt, jedoch herausgefordert durch phänomenologische Tatsachen wie Halluzinationen, bei denen die objekt-konstituierte Natur zusammenbricht."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ungewiss",
+      "rationale": "Wenn die primitive Bekanntschaftsrelation grundlegend von spezifischen biologischen Strukturen abhängt, die für die direkte Kopplung an distale Reize notwendig sind, könnte KI-Bewusstsein unmöglich sein. Da die Theorie physikalistisch/materialistisch ist, ist KI-Bewusstsein möglich, sofern der zugrunde liegende direkte Mechanismus reproduziert werden kann."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Die Theorie betont die Abhängigkeit der Erfahrung von der äußeren physischen Umwelt (distaler Reiz) und ist unter Materialismus eingeordnet, was nahelegt, dass das Bewusstsein an den physischen Organismus und seine Umwelt gebunden ist."
+    },
+    "meaning_and_purpose": {
+      "stance": "Bedingt",
+      "rationale": "Die Theorie befasst sich primär mit der Mechanik der Wahrnehmung, nicht mit der letztgültigen Realität oder Existenz. Als materialistische Theorie greift sie standardmäßig auf einen humanistischen Sinn, Zweck und Wert zurück, den wir selbst schaffen."
+    },
+    "virtual_immortality": {
+      "stance": "Ungewiss",
+      "rationale": "Virtuelle Unsterblichkeit erfordert die perfekte Nachbildung des Bewusstseins. Da der phänomenale Charakter objekt-konstituiert ist, könnte ein virtuelles Selbst seinen ursprünglichen phänomenalen Charakter nicht bewahren, wenn ihm eine echte „direkte Gewahrseinsrelation“ zur realen physischen Umwelt fehlt."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Naïve Realist Theories",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Überschneidung (teilt anti-repräsentationale Haltung)"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "Kritik (lehnt Vermittlung durch Repräsentation ab)"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Kritik (impliziert, da der phänomenale Charakter auf Objektkonstitution und nicht auf funktionaler Rolle beruht)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Direct Perception Theory",
+        "year": "APA website"
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking, N. Block",
+        "year": "2023"
+      }
+    ]
+  }
+}

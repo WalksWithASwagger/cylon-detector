@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Crick und Kochs neuronale Korrelate des Bewusstseins (NCC)",
+    "summary": "Diese Theorie schlägt ein wissenschaftliches Programm vor, um das neuronale Korrelat des Bewusstseins (NCC) zu identifizieren, definiert als die minimalen Aktivitäten im Gehirn, die gemeinsam hinreichend und notwendig für jede spezifische bewusste Wahrnehmung oder subjektive Erfahrung sind. Sie behauptet, dass Bewusstsein vollständig physisch ist und vollständig auf diese spezifischen Hirnaktivitäten reduziert werden kann.",
+    "associated_thinkers": [
+      "Francis Crick",
+      "Christof Koch"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Neurobiologisch",
+    "core_identity_tagline": "Bewusstsein als minimale Hirnaktivität",
+    "classification_tags": [
+      "neurobiological",
+      "reductionism",
+      "qualia",
+      "neurophysiology",
+      "macroscopic materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein (phänomenales Bewusstsein/Qualia) wird als das neuronale Korrelat des Bewusstseins (NCC) identifiziert, dem präzisen minimalen Muster neuronaler Aktivität im Gehirn, das für subjektive Erfahrung notwendig und hinreichend ist.",
+    "ontological_status": "Reduktiver Physikalismus/Materialismus. Der NCC-Ansatz gilt als makroskopischer Materialismus.",
+    "mind_body_relationship": "Identitätstheorie. Mentale Zustände sind vollständig mit den physischen NCC-Zuständen identisch und werden vollständig durch sie erklärt.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz. Vereinbar mit einer reduktiven materialistischen Position, in der Bewusstsein als Produkt des biologischen Gehirns prinzipiell durch physikalische Gesetze niedrigerer Ebene erklärbar ist, auch wenn die explizite Verknüpfung derzeit schwer fassbar bleibt.",
+    "subjectivity_and_intentionality": "Subjektivität (inneres Gewahrsein) und phänomenale Erfahrung korrelieren direkt mit dem identifizierten NCC oder sind mit ihm identisch. Intentionalität würde in ähnlicher Weise durch die physischen Prozesse erklärt, die das NCC konstituieren.",
+    "qualia_account": "Qualia (der qualitative Gehalt der Erfahrung) werden mit den minimalen neuronalen Aktivitäten (NCC) identifiziert, die gemeinsam hinreichend für eine spezifische bewusste Wahrnehmung sind, wobei der Mechanismus dieser Identität die zentrale Herausforderung des ‚schweren Problems‘ bleibt.",
+    "ontological_commitments": "Biologische Gehirne, Neuronen, elektrophysiologische Aktivität (Aktionspotenziale), neurochemische Transmitterflüsse und spezifische rekurrente Hirnschaltkreise.",
+    "epistemic_access": "Zugang über wissenschaftliche Beobachtung aus der Dritte-Person-Perspektive (Neurophysiologie, Hirnscans), korreliert mit Berichten aus der Erste-Person-Perspektive über bewusste Erfahrung.",
+    "constituents_and_structure": "Die Struktur besteht aus spezifischen neuronalen Verbänden und dynamischen elektrischen/chemischen Aktivitätsmustern (z. B. Aktionspotenzialen, Transmitterflüssen, rekurrenten Schaltkreisen), die in Schlüsselregionen des Gehirns wie dem Kortex lokalisiert sind."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (subjektive Erfahrung, Qualia) sowie das damit verbundene, für Bewusstsein notwendige Gewahrsein/Erregungsniveau.",
+    "distinctive_mechanism_or_principle": "Die Suche nach und die Definition des neuronalen Korrelats des Bewusstseins (NCC): der spezifischen minimalen neuronalen Aktivitäten, die für subjektive Erfahrung notwendig und hinreichend sind.",
+    "dynamics_of_emergence": "Dynamischer Prozess. Bewusstsein geht aus dem integrierten System sich ausbreitender neurophysiologischer Impulse und diffundierender neurochemischer Transmitter hervor.",
+    "location_and_distribution": "In spezifischen Hirnarealen lokalisiert. Frühe Kandidaten umfassten das Claustrum (als ‚Dirigent‘, der Perzepte koordiniert); spätere Kandidaten konzentrierten sich auf den posterioren zerebralen Kortex (die temporo-parieto-okzipitale ‚Hot Zone‘).",
+    "causation_and_functional_role": "Bewusstsein wird direkt durch die NCC-Aktivität verursacht und ist mit ihr identisch. NCC-Mechanismen (Impulse, Flüsse, Schaltkreise) werden als konstitutiv für das phänomenale Bewusstsein betrachtet.",
+    "integration_or_binding": "Es wird angenommen, dass sie durch einen neuronalen Mechanismus erreicht wird, der als ‚Dirigent‘ fungiert (z. B. das Claustrum) und Eingaben aus verschiedenen kortikalen Regionen koordiniert, um integrierte bewusste Perzepte zu erzeugen.",
+    "information_flow_or_representation": "Konzentriert sich auf die physische Repräsentation und den Fluss von Information über elektrophysiologische und neurochemische Signalübertragung innerhalb der neuronalen Schaltkreise.",
+    "evolutionary_account": "Die im Materialismus verwurzelte Theorie nimmt implizit an, dass sich Bewusstsein über phylogenetische Prozesse entwickelte, die für die Entwicklung des Nervensystems verantwortlich sind, auch wenn dies nicht im Mittelpunkt der NCC-Definition selbst steht.",
+    "core_claims_and_evidence": [
+      "Bewusstsein wird vollständig durch die minimale Hirnaktivität (NCC) erklärt, die gemeinsam hinreichend und notwendig für eine spezifische bewusste Wahrnehmung ist.",
+      "NCC-Mechanismen umfassen neuronale elektrophysiologische Aktionspotenziale, neurochemische Transmitterflüsse und rekurrente Hirnschaltkreise.",
+      "Das NCC ist empirisch beobachtbar (z. B. die Suche nach der Hot Zone im posterioren zerebralen Kortex).",
+      "Es wurde kein eindeutiges NCC schlüssig entdeckt (belegt durch den verlorenen Chalmers-Koch-Wetteinsatz im Jahr 2023)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch, wissenschaftlich, neurobiologisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch testbar. Die Suche nach dem NCC ist als wissenschaftliches Programm definiert, das nach testbaren biologischen Grundlagen des Bewusstseins sucht.",
+    "known_empirical_interventions_or_tests": [
+      "Identifizierung spezifischer Neuronencluster oder Hirnregionen (wie des Claustrums oder des posterioren Kortex), die während bewusster Erfahrung aktiv sind.",
+      "Messung elektrophysiologischer Aktivität (z. B. Aktionspotenziale und neuronale Schaltkreise)."
+    ],
+    "criticisms_and_tensions": "Die zentrale Spannung ist die ‚Erklärungslücke‘: Die Identifizierung einer Korrelation (NCC) erklärt nicht die Identitätsaussage, wie physische Aktivität (Impulse/Chemikalien) buchstäblich phänomenalen Gehalt (Qualia) erzeugt. Das Ausbleiben der Identifizierung eines ‚eindeutigen‘ NCC nach jahrzehntelanger Forschung ist eine praktische Grenze.",
+    "open_questions_and_limitations": "Die Theorie versäumt es, die grundlegende Verbindung zwischen physischen Mechanismen (neuronaler Aktivität) und subjektiver Erfahrung (phänomenalem Bewusstsein) zu erklären. Die Unterscheidung zwischen Korrelation und Kausalität bleibt ein Kritikpunkt.",
+    "ontological_coherence": "Hochgradig kohärent innerhalb der materialistischen/physikalistischen Ontologie und dient als ambitioniertes Beispiel dafür, wie Bewusstsein auf Materie reduziert werden könnte."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Wenn Bewusstsein vollständig auf physische Organisationsmuster (NCC) reduzierbar ist, dann sollten auch nichtbiologische Systeme, die diese präzisen Muster replizieren können, bewusst werden, sofern keine technologischen Beschränkungen entgegenstehen."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Als materialistische Theorie ist Bewusstsein vollständig vom physischen Gehirn abhängig; das Aussetzen der Hirnfunktion bedeutet das Ende des Bewusstseins."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "In Übereinstimmung mit dem Materialismus ist Bewusstsein ein biologisches Produkt von Evolution und Physik, das keinen letzten kosmischen Sinn oder keine Teleologie verleiht, außer dem, was Menschen für sich selbst schaffen."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Wenn die NCC-Zustände perfekt gemessen und in einem digitalen oder künstlichen Medium repliziert werden können (Hochladen des Geistes), wäre das resultierende System funktional und phänomenal identisch und würde prinzipiell virtuelle Unsterblichkeit erreichen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Recurrent Processing Theory (Lamme)",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Überschneidung/Kontrast"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kontrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a neurobiological theory of consciousness, F. Crick and C. Koch",
+        "year": 1990
+      },
+      {
+        "title_with_names": "What is the function of the claustrum?, F. Crick and C. Koch",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Quest for Consciousness: a Neurobiological Approach, C. Koch",
+        "year": 2004
+      }
+    ]
+  }
+}

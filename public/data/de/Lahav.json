@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "Lahavs relativistische Theorie",
+    "summary": "Diese Theorie charakterisiert Bewusstsein als ein physisches Phänomen, das relativ zu den von einem ‚kognitiven Bezugssystem‘ vorgenommenen Messungen ist. Analog zur Geschwindigkeit in der Physik werden verschiedene Beobachter, die in verschiedenen kognitiven Bezugssystemen operieren, beim Beobachten desselben Phänomens unterschiedliche physische Eigenschaften manifestieren (bewusstes Gewahrsein für sich selbst gegenüber gemessener Gehirnaktivität für einen anderen).",
+    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "category": "Materialismus",
+    "subcategory": "Relational",
+    "core_identity_tagline": "Bewusstsein als ein physisches Phänomen relativ zu einem kognitiven Bezugssystem",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusste Erfahrungen werden als das identifiziert, was durch den Prozess der physischen Messung relativ zu einem ‚kognitiven Bezugssystem‘ entsteht.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Das Verhältnis ist relativistisch: Dasselbe zugrunde liegende Phänomen manifestiert sich je nach Messkontext als bewusstes Gewahrsein (aus dem inneren Bezugssystem) oder als Gehirnaktivität (aus einem äußeren Bezugssystem). Dies deutet auf eine bezugssystemabhängige Identität oder Korrelation hin.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Nicht ausdrücklich ausgeführt, aber wahrscheinlich schwache Emergenz, da sie sich auf etablierte (oder analoge) physikalische Prinzipien (Relativität, Messung) stützt, statt neue fundamentale Gesetze für die Existenz des Bewusstseins selbst zu postulieren.",
+    "subjectivity_and_intentionality": "Subjektivität ist der Definition des ‚kognitiven Bezugssystems‘ inhärent; zwei Personen, die sich in verschiedenen kognitiven Bezugssystemen befinden, erfahren Bewusstsein unterschiedlich. Intentionalität (die Gerichtetheit des Denkens) wird in den bereitgestellten Quellen nicht ausdrücklich behandelt.",
+    "qualia_account": "Qualia werden implizit als subjektive physische Eigenschaften erklärt, die sich innerhalb eines bestimmten kognitiven Bezugssystems manifestieren, wobei die intrinsische qualitative Natur der Erfahrung selbst jedoch nicht ausgeführt wird.",
+    "ontological_commitments": "Physische Realität, physische Messprozesse und ein aus der relativistischen Physik analogisiertes ‚kognitives Bezugssystem‘.",
+    "epistemic_access": "Der Zugang ist bezugssystemabhängig: Innerhalb des eigenen kognitiven Bezugssystems wird bewusstes Gewahrsein erfahren; aus einem gesonderten kognitiven Bezugssystem kann nur Gehirnaktivität gemessen werden.",
+    "constituents_and_structure": "Bewusstsein wird durch den physischen Messprozess selbst strukturiert, was je nach Bezugssystem zu unterschiedlichen physischen Eigenschaften oder Manifestationen führt."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Bewusstes Gewahrsein, physische Manifestation von Eigenschaften.",
+    "distinctive_mechanism_or_principle": "Das Prinzip, dass Bewusstsein relativ zur physischen Messung in einem kognitiven Bezugssystem ist, statt durch Berechnungen erzeugt zu werden.",
+    "dynamics_of_emergence": "Bewusstsein entsteht dynamisch aus dem Prozess der physischen Messung. Verschiedene physische Messungen in verschiedenen Bezugssystemen ergeben unterschiedliche Manifestationen bewusster Erfahrung und Gehirnaktivität.",
+    "location_and_distribution": "Lokalisiert relativ zum ‚kognitiven Bezugssystem‘ des Beobachters.",
+    "causation_and_functional_role": "Bewusste Erfahrungen entstehen ‚aufgrund‘ des physischen Messprozesses selbst. Bewusstsein entsteht nicht aus komputationalen Prozessen, die vom Gehirn ausgeführt werden.",
+    "integration_or_binding": "Nicht ausdrücklich behandelt, aber innerhalb eines einzigen kognitiven Bezugssystems als vereinheitlicht angenommen.",
+    "information_flow_or_representation": "Die Informationsverarbeitung (Berechnung) wird ausdrücklich *nicht* als Ursprung bewusster Erfahrungen genannt; Bewusstsein entsteht aus dem zugrunde liegenden Prozess der physischen Messung.",
+    "evolutionary_account": "Dieses Feld wird im bereitgestellten Quellenmaterial nicht behandelt.",
+    "core_claims_and_evidence": [
+      "Bewusstsein ist ein physisches Phänomen, das relativ zu den Messungen eines kognitiven Bezugssystems ist.",
+      "Bewusste Erfahrungen entstehen aufgrund des Prozesses der physischen Messung.",
+      "Das Gehirn erzeugt bewusste Erfahrungen nicht durch Berechnungen."
+    ],
+    "basis_of_belief_or_evidence_type": "Konzeptuelles/theoretisches Argument auf der Grundlage einer Analogie zur Physik (Relativität)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell überprüfbar, da die Theorie sich mit der Definition physischer Phänomene und der Messung befasst, wobei die empirische Prüfung jedoch von der Entwicklung von Mechanismen zur Überprüfung der Analogie des kognitiven Bezugssystems abhängt.",
+    "known_empirical_interventions_or_tests": "In den Quellen werden keine spezifischen empirischen Interventionen oder Tests aufgeführt.",
+    "criticisms_and_tensions": "Die Quelle liefert eine Beschreibung, keinen Kritikabschnitt. Eine potenzielle Spannung liegt darin, die Analogie der physikalischen Relativität (wie der Geschwindigkeit) in überprüfbare, nicht-metaphorische kognitive oder neurobiologische Prozesse zu übersetzen.",
+    "open_questions_and_limitations": "Die genaue physische oder neuronale Instanziierung und Definition des ‚kognitiven Bezugssystems‘ bleibt eine offene Frage.",
+    "ontological_coherence": "Kohärent innerhalb eines physikalistischen Rahmens, der zulässt, dass fundamentale physische Eigenschaften relativ zu einem Beobachter oder Messprozess sind."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt",
+      "rationale": "Da die Theorie postuliert, dass Bewusstsein aus physischer Messung und nicht aus Berechnung entsteht, würden KI-Systeme nicht-komputationale physische Messprozesse benötigen, die ein kognitives Bezugssystem konstituieren, was dies von einer über bloße Berechnung hinausgehenden Hardwareumsetzung abhängig macht."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "Dieses Feld wird im bereitgestellten Quellenmaterial nicht behandelt."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "Dieses Feld wird im bereitgestellten Quellenmaterial nicht behandelt."
+    },
+    "virtual_immortality": {
+      "stance": "Unwahrscheinlich",
+      "rationale": "Da Bewusstsein nicht-komputational und vom Prozess der physischen Messung abhängig ist, ist eine standardmäßige virtuelle Unsterblichkeit (das Hochladen von Software/Daten) unwahrscheinlich, wenngleich eine physische Duplikation des relativistischen physischen Systems theoretisch möglich sein könnte."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories of consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Computational Theories of Mind",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "Einfluss"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}

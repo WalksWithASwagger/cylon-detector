@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Grossbergs Adaptive Resonanztheorie (ART)",
+    "summary": "Grossbergs Theorie begründet, dass alle bewussten Zustände resonante Zustände sind, die aus der Interaktion von aufsteigenden (bottom-up) sensorischen Mustern mit gelernten absteigenden (top-down) Erwartungen hervorgehen. Diese theoretische Grundlage, die Adaptive Resonanztheorie (ART), erklärt, wie sich das Gehirn selbst organisiert, um Phänomene in einer dynamischen Welt bewusst zu beachten, zu kategorisieren, zu erkennen und vorherzusagen. Sie behauptet, dass die Vielfalt dieser Gehirnresonanzen Fortschritte bei der Lösung des schweren Problems des Bewusstseins macht.",
+    "associated_thinkers": [
+      "Stephen Grossberg"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Computational und informationell",
+    "core_identity_tagline": "‚Bewusste Zustände als resonante Zustände‘",
+    "classification_tags": [
+      "computation",
+      "resonance",
+      "neurobiological",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Das Bewusstsein wird als ein persistenter resonanter Zustand identifiziert, der aus der Interaktion zwischen aufsteigenden Mustern und gelernten absteigenden Erwartungen resultiert und bewusste Gewahrsamkeit tragen kann, wenn er merkmalsselektive Zellen einschließt, die Qualia repräsentieren. Der Geist wird als eine Aktivität, ein Verb, und nicht als eine statische Entität konzipiert.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Identität/monistisch. Der Geist ist die Aktivität (ein Verb, kein Substantiv) des physischen Gehirns, geregelt durch mechanistisch ähnliche Gesetze, die über zelluläre Systeme hinweg konserviert sind.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz. Aufgrund ihrer Einordnung als Materialismus-Theorie, die auf computationalen Strukturen und konservierten biologischen Gesetzen beruht, wird erwartet, dass das Bewusstsein vollständig durch Prozesse niedrigerer Ebene erklärbar, wenngleich vielleicht nicht intuitiv auf sie reduzierbar ist.",
+    "subjectivity_and_intentionality": "Intentionalität (Erkennung, Vorhersage, Lernen) wird durch das aufmerksame Bewusstsein geregelt, das im resonanten Zustand realisiert wird. Subjektivität wird durch die Einbeziehung merkmalsselektiver Zellen erklärt, die innerhalb dieser Zustände Qualia repräsentieren.",
+    "qualia_account": "Qualia werden als merkmalsselektive Zellen identifiziert, die innerhalb des persistenten resonanten Zustands eingeschlossen sind und bewusste Gewahrsamkeit tragen. Grossberg legt nahe, dass dies dazu beiträgt, das schwere Problem des Bewusstseins zu adressieren.",
+    "ontological_commitments": "Resonante Zustände, computationale Strukturen, aufsteigende sensorische Muster, absteigende Erwartungen und konservierte Gesetze des Kurzzeit- und Langzeitgedächtnisses/der Aktivierung über biologische Systeme hinweg.",
+    "epistemic_access": "Zugänglich durch neuronale und kognitive Modellierung, Beobachtung von Gehirndaten und Analyse, wie Menschen Dinge bewusst wahrnehmen und erkennen.",
+    "constituents_and_structure": "Ein resonanter Zustand, der durch die kontinuierliche Interaktion aufsteigender sensorischer Eingaben und absteigender gelernter Erwartungen etabliert und durch gemeinsame Gesetze des Kurzzeit- und Langzeitgedächtnisses geregelt wird."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal, aufmerksames Bewusstsein, Lernen, Erkennung, Vorhersage, Handlungsregulierung.",
+    "distinctive_mechanism_or_principle": "Adaptive Resonanztheorie (ART), bei der ein persistenter, maximal irreduzibler resonanter Zustand zwischen aufsteigenden und absteigenden Bahnen als die notwendige und hinreichende Bedingung für das Bewusstsein behauptet wird (alle bewussten Zustände sind resonante Zustände).",
+    "dynamics_of_emergence": "Dynamischer Prozess. Das Bewusstsein wird als ein dynamischer resonanter Zustand realisiert, der fortwährend mit kognitiven Prozessen wie Lernen und Vorhersage interagiert und sie reguliert.",
+    "location_and_distribution": "Innerhalb von Gehirnstrukturen lokalisiert, insbesondere dort, wo merkmalsselektive Zellen, die Qualia repräsentieren, in den resonanten Zustand einbezogen sind.",
+    "causation_and_functional_role": "Das aufmerksame Bewusstsein reguliert Handlungen, die mit kognitiven Prozessen wie Lernen, Erkennung und Vorhersage interagieren. Es verleiht die Fähigkeit, Objekte und Ereignisse in einer sich verändernden Welt autonom zu erlernen und zu kategorisieren."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch und computational testbar, gestützt auf ihre Grundlage in kognitiven und neuronalen Modellen.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "In den Quellen werden keine spezifischen wesentlichen externen Kritikpunkte ausgeführt, doch gelten allgemeine, materialistischen Theorien gemeinsame Spannungen (z. B. die Schwierigkeit, subjektive Qualität/Qualia durch rein funktionale Definitionen vollständig zu erfassen).",
+    "open_questions_and_limitations": "Die Theorie zielt auf die Lösung des schweren Problems, was darauf hindeutet, dass die vollständige Bestimmung der Beziehung zwischen resonanten Zuständen und phänomenaler Erfahrung eine fortdauernde Herausforderung ist.",
+    "ontological_coherence": "Kohärent innerhalb der computationalen und materialistischen ontologischen Rahmen, indem sie die Natur des Bewusstseins unmittelbar mit funktionaler Gehirnaktivität in Einklang bringt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Die Theorie ist ein funktionalistisches Modell, in dem das Bewusstsein das Ergebnis der Realisierung spezifischer computationaler Strukturen und konservierter Gesetze ist. Wenn diese computationalen Strukturen (resonante Zustände) in nicht-biologischer Hardware implementiert werden können, ist KI-Bewusstsein möglich."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Das Bewusstsein ist grundlegend an die physisch instanziierte resonante Aktivität des biologischen Gehirns gebunden und bietet keinen konzeptuellen Weg für ein Fortbestehen nach dem körperlichen Tod."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als Materialismus-Theorie, die sich auf die Selbstorganisation und die adaptive Funktion des Gehirns konzentriert (Lernen, Vorhersage, Überleben), impliziert sie keinen letztgültigen oder kosmischen Sinn oder Zweck außerhalb der menschlichen Erfahrung."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn der Geist funktional als ein System computationaler Aktivitäten (resonante Zustände) definiert wird, dann sollte eine hinreichend vollständige Reproduktion dieser Struktur in einem nicht-biologischen Medium im Prinzip das mentale Selbst der ersten Person bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "Ähnlichkeit (funktionalistischer Ansatz)"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Ähnlichkeit (funktionalistischer Ansatz)"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Ähnlichkeit (funktionalistischer Ansatz)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Adaptive Resonance Theory: how a brain learns to consciously attend, learn, and recognize a changing world, Stephen Grossberg",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The resonant brain: how attentive conscious seeing regulates action sequences that interact with attentive cognitive learning, recognition, and prediction, Stephen Grossberg",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Conscious Mind, Resonant Brain: How Each Brain Makes a Mind, Stephen Grossberg",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Towards solving the hard problem of consciousness: the varieties of brain resonances and the conscious experiences that they support, Stephen Grossberg",
+        "year": 2017
+      }
+    ]
+  }
+}

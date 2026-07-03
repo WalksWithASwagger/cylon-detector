@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Papineaus Geist-Gehirn-Identität",
+    "summary": "Diese Theorie verteidigt den neurobiologischen Physikalismus, indem sie behauptet, dass bewusste Zustände grundlegend und buchstäblich identisch mit bestimmten Gehirnzuständen sind. Sie behauptet, dass diese Identität a posteriori durch wissenschaftliche Schlussfolgerung entdeckt wird, und hält daran fest, dass die immerwährende ‚Erklärungslücke‘ ein irreführendes Artefakt tief verwurzelter dualistischer Intuitionen ist.",
+    "associated_thinkers": ["David Papineau"],
+    "category": "Materialismus",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "‚Bewusstsein als grundlegende Geist-Gehirn-Identität‘",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "abduction",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusste Zustände (wie Schmerz) sind streng identisch mit bestimmten physischen Gehirnzuständen (wie dem Feuern von Neuronen in einem bestimmten Areal). Sie werden nicht bloß durch diese physischen Zustände verursacht oder erzeugt.",
+    "ontological_status": "Reduktiver Physikalismus (starke Geist-Gehirn-Identität)",
+    "mind_body_relationship": "Strenge Identitätstheorie. Mentale Zustände sind physisch identisch mit bestimmten neuronalen Zuständen; ihr Verhältnis ist ein Verhältnis der Tatsache (Identität a posteriori).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz. Da mentale Zustände identisch mit physischen Zuständen sind, sind sie letztlich auf physikalische Gesetze reduzierbar oder durch diese erklärbar, auch wenn die Identität empirisch (a posteriori) entdeckt werden muss.",
+    "subjectivity_and_intentionality": "Die Subjektivität (das Gefühl des ‚Wie-es-ist‘) ist schlicht eine Eigenschaft des physischen Gehirnzustands selbst, nämlich das, wie es sich ‚anfühlt‘, wenn er instanziiert wird. Intentionalität wird durch die physische Funktion des identifizierten Gehirnzustands ererbt.",
+    "qualia_account": "Qualia sind identisch mit den zugrunde liegenden physischen Eigenschaften des Gehirnzustands. Das Mysterium um die Qualia wird auf ein irreführendes ‚spontanes dualistisches Denken‘ zurückgeführt, das das Gefühl fälschlich vom physischen Zustand trennt.",
+    "ontological_commitments": "Physische Zustände; spezifische neuronale Prozesse; die kausale Geschlossenheit des physischen Bereichs.",
+    "epistemic_access": "Zugang a posteriori durch wissenschaftliche und empirische Beobachtung, gestützt auf abduktive Schlussfolgerung aus Korrelationen (die Feststellung, dass zwei Dinge stets zur gleichen Zeit am gleichen Ort sind).",
+    "constituents_and_structure": "Bewusstsein wird durch komplexe organisatorische Zustände biologischer Materie konstituiert, die spezifisch durch das präzise Feuern von Teilmengen von Neuronen (z. B. nozizeptiv-spezifischer Neuronen) definiert sind."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal, Subjektivität, kausale Wirksamkeit.",
+    "distinctive_mechanism_or_principle": "Die kausale Geschlossenheit des Physischen garantiert, dass mentale Ereignisse physische Ereignisse sein müssen. Die Identität wird durch erfolgreiche Korrelationen a posteriori bestätigt, die von der Neurowissenschaft etabliert werden.",
+    "dynamics_of_emergence": "Bewusstsein ist ein permanentes Merkmal des identifizierten physischen Gehirnzustands, was die Fragen auflöst, warum oder wie die ‚zwei‘ zusammengehören.",
+    "location_and_distribution": "Lokalisiert in bestimmten Gehirnzuständen (z. B. Feuermustern von Neuronen in nozizeptiven Systemen), wobei die Identität allgemein für alle materialistischen und physikalistischen Theorien gilt.",
+    "causation_and_functional_role": "Bewusstsein ist kausal wirksam, weil es ein physischer Zustand ist, der der kausalen Geschlossenheit der Physik gehorcht. Seine Funktion ist dem physischen Verhalten des identifizierten Gehirnzustands inhärent.",
+    "integration_or_binding": "Implizit dadurch erreicht, dass die Erfahrung, obgleich komplex, einem einzigen, definierbaren zugrunde liegenden physischen Ereignis entspricht (z. B. entspricht einheitlicher Schmerz einem komplexen Feuern nozizeptiver Neuronen).",
+    "information_flow_or_representation": "Phänomenale Begriffe, die zur Beschreibung des Bewusstseins verwendet werden (Erste-Person-Berichte), gelten als vage und unpräzise und verschleiern oft das zugrunde liegende materielle Wesen, das die Wissenschaft zu identifizieren sucht.",
+    "evolutionary_account": "Nicht ausdrücklich ausgeführt, aber durch ihre Grundlage im neurobiologischen Physikalismus und die Anerkennung von Korrelationsdaten aus biologischen Organismen impliziert.",
+    "core_claims_and_evidence": [
+      "Bewusste Zustände sind radikal identisch mit physischen Zuständen, was bedeutet, dass sie begrifflich nicht ‚auseinandertreten‘ können.",
+      "Das Rätsel des Bewusstseins wird gelöst, indem die dualistischen Voraussetzungen zurückgewiesen werden, die die ‚Erklärungslücke‘ nähren.",
+      "Philosophische Zombies sind metaphysisch unmöglich, wenngleich aufgrund der Vagheit phänomenaler Begriffe vorstellbar.",
+      "Geist-Gehirn-Identitäten werden durch die Beobachtung starker raumzeitlicher Korrelationen und durch Erklärungskraft mittels Abduktion etabliert."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch, Empirisch, Abduktiv"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar (bedingt). Beruht darauf, strenge neurowissenschaftliche Belege zu finden, die die Identitätsbehauptungen stützen, wenngleich die Vagheit phänomenaler Begriffe die Bestimmung des notwendigen physischen Korrelats erschwert.",
+    "known_empirical_interventions_or_tests": "Korrelationsstudien, die bestimmte, komplexe Gehirnzustände (z. B. gemessene Feuermuster von Neuronen) mit entsprechenden subjektiven Erfahrungen (z. B. Schmerzberichten) verknüpfen.",
+    "criticisms_and_tensions": "Kritiker argumentieren, dass das Argument die Gültigkeit des Physikalismus bloß voraussetzt, anstatt die Identität zu beweisen. Die Theorie ist anfällig für den Einwand, dass selbst vollkommenes Wissen über die physischen Korrelate das subjektive Gefühl nicht logisch notwendig macht (das Wissensargument).",
+    "open_questions_and_limitations": "Die vage Natur subjektiver (phänomenaler) Begriffe verhindert die strenge Identifikation eines einzigen, präzisen materiellen Wesens für einen gegebenen bewussten Zustand (eine ‚Schimäre‘).",
+    "ontological_coherence": "Intern hochgradig kohärent und vollkommen vereinbar mit den Standardgrundsätzen der reduktiven materialistischen/physikalistischen Ontologie, insbesondere der kausalen Geschlossenheit der Physik."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Wenn bewusste Zustände grundlegend identisch mit bestimmten Konfigurationen von Materie und Prozess sind, dann müssen diese Zustände in jedem Medium reproduzierbar sein, das in der Lage ist, die notwendigen physischen Konfigurationen und die Komplexität zu realisieren, einschließlich künstlicher Systeme."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist streng von der spezifischen Organisation biologischer Gehirnprozesse abhängig und mit ihr identisch. Sein Fortbestehen ist nach dem irreversiblen Erlöschen dieses physischen Systems unmöglich."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als Theorie, die in einem strengen Physikalismus wurzelt, betrachtet sie den Geist als Produkt natürlicher Prozesse und bietet keine Grundlage für einen kosmischen oder transzendenten Sinn oder Zweck über den hinaus, der durch menschliche Handlungsträgerschaft geschaffen wird."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Da Bewusstsein die spezifische physische Organisation des Gehirns ist, ist die perfekte Duplikation (das Uploading) dieser Struktur in ein neues physisches Substrat im Prinzip hinreichend, um die bewusste Identität zu bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "David Chalmers' Hard Problem",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Papineau, D., The problem of consciousness",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Papineau, D., We must shed our metaphysical assumptions",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Papineau, D., Could there be a science of consciousness?",
+        "year": 2003
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Eaglemans Possibilianismus",
+    "summary": "Diese Perspektive plädiert für intellektuelle Offenheit (Possibilianismus) in Bezug auf das Bewusstsein und lehnt starre metaphysische Dogmen ab. Mechanistisch betrachtet fasst sie das Bewusstsein als eine hochgradig abstrakte Repräsentation hoher Ordnung auf (vergleichbar mit einem CEO), die die massiven zugrunde liegenden neuronalen Prozesse filtert und in erster Linie dazu dient, den Erfolg von Zielen zu überwachen und bei überraschenden Ereignissen einzugreifen. Die Theorie betont, dass der Geist zwar integral vom Gehirn abhängig ist, die Natur der subjektiven Erfahrung (Qualia) jedoch ein tiefgreifendes, vielleicht begrifflich unlösbares Rätsel bleibt.",
+    "associated_thinkers": [
+      "David Eagleman"
+    ],
+    "category": "Herausforderungstheorien",
+    "subcategory": "",
+    "core_identity_tagline": "„Das Bewusstsein als abstrakte Repräsentation hoher Ordnung“",
+    "classification_tags": [
+      "possibilianism",
+      "abstraction",
+      "mysterianism",
+      "functionalism",
+      "skepticism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Das Bewusstsein wird als eine abstrakte Repräsentation hoher Ordnung der zugrunde liegenden neuronalen Aktivität identifiziert, die notwendig ist, um Komplexität zusammenzufassen und langfristige Ziele zu setzen.",
+    "ontological_status": "Agnostischer Possibilianismus. Er erkennt die starke empirische Verbindung zum Physikalismus an, bleibt aber aufgrund der begrifflichen Schwierigkeit des schweren Problems offen für alternative (nicht-materialistische) Erklärungen.",
+    "mind_body_relationship": "Integrale Abhängigkeit. Das Bewusstsein ist integral vom Gehirn abhängig, wie die Auswirkungen von Hirnschäden zeigen, doch das Abhängigkeitsverhältnis wird ausdrücklich als offene Frage belassen (d. h. Notwendigkeit vs. Hinlänglichkeit).",
+    "primitive_or_emergent_status": "Emergent/ungewiss. Das Bewusstsein wird als etwas beschrieben, das auf komplexer Maschinerie aufsitzt, was Emergenz nahelegt, wobei das subjektive „Erleben“ als ungelöstes Rätsel gilt, das die reine Emergenz infrage stellen könnte.",
+    "emergence_type": "Ungewiss. Während die beobachtete Korrelation eine Emergenz aus physischen Prozessen nahelegt, deutet die Unfähigkeit, begrifflich zu erklären, wie das qualitative Erleben entsteht, auf die mögliche Notwendigkeit nicht-materieller Faktoren hin, falls der Materialismus unzureichend ist.",
+    "subjectivity_and_intentionality": "Die Subjektivität (das „Erleben“) wird als das zentrale Rätsel anerkannt, das die gegenwärtige Wissenschaft und Mathematik nicht erklären können. Die Intentionalität wird implizit durch die abstrakten Repräsentationen hoher Ordnung behandelt, die mit der Überwachung von Zielzuständen (z. B. Erfolg/Misserfolg) zusammenhängen.",
+    "qualia_account": "Qualia (die innere Erfahrung) werden als grundlegend rätselhaft anerkannt, ohne jede gegenwärtige theoretische Erklärung. Die Unfähigkeit, physische Prozesse und qualitative Erfahrung begrifflich zu überbrücken, wird als entscheidende Grenze aller gegenwärtigen Theorien hervorgehoben.",
+    "ontological_commitments": "Legt sich auf die Existenz eines massiven neuronalen Substrats und abstrakter Repräsentationen hoher Ordnung fest. Aufgrund des Rätsels der Qualia bewahrt sie intellektuelle Offenheit gegenüber der Möglichkeit zusätzlicher, derzeit unbekannter physischer oder nicht-physischer Elemente.",
+    "epistemic_access": "Das Bewusstsein wird als Abstraktion hoher Ordnung erfahren (erste Person). Es wird wissenschaftlich über die Korrelation mit Hirnzuständen zugänglich gemacht (dritte Person), insbesondere wenn Schäden die bewusste Erfahrung beeinträchtigen.",
+    "constituents_and_structure": "Aufeinanderfolgende Abstraktionsebenen, die auf der zugrunde liegenden komplexen neuronalen Maschinerie aufbauen und so strukturiert sind, dass sie eine für Steuerung und Eingriff notwendige Zusammenfassung hoher Ordnung liefern."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Zugriff (als abstrahierte Zusammenfassung), Handlungsfähigkeit (CEO-Funktion), Phänomenal (als irreduzibles Rätsel/Herausforderung).",
+    "distinctive_mechanism_or_principle": "Das „CEO-Modell“ bzw. die „Abstraktion hoher Ordnung“, wonach das Bewusstsein als ein Manager fungiert, der sich nur um komplexe Ergebnisse und das Setzen langfristiger Ziele kümmert und die zugrunde liegende Maschinerie niederer Ebene im Allgemeinen ignoriert, sofern er nicht überrascht wird.",
+    "dynamics_of_emergence": "Das Bewusstsein ist ein dynamischer Prozess, der aus aufeinanderfolgenden Abstraktionsebenen im Gehirn hervorgeht und sich auf effiziente Verarbeitung statt auf die Integration von Rohdaten konzentriert.",
+    "location_and_distribution": "Im Gehirn lokalisiert, wobei die Aktivität „auf einer riesigen Menge an Maschinerie“ aufsitzt, was eine Abhängigkeit von hochgradig organisierten neuronalen Systemen nahelegt.",
+    "causation_and_functional_role": "Das Bewusstsein ermöglicht Entscheidungsfindung, Planung und Überwachung der Zielerreichung auf hoher Ebene (z. B. Erfolg oder Misserfolg) und erfüllt eine adaptive Funktion, indem es Ressourcen bündelt, wenn Ergebnisse ungewiss oder überraschend sind.",
+    "integration_or_binding": "Die Integration erfolgt durch die Erzeugung hochgradig abstrakter Repräsentationen hoher Ordnung, die massive Mengen zugrunde liegender Aktivität zu kohärenten, einfachen Zusammenfassungen synthetisieren.",
+    "information_flow_or_representation": "Informationen werden stark gefiltert und zu Repräsentationen hoher Ordnung abstrahiert, wodurch der „Blitzsturm neuronaler Aktivität“ auf einfache, funktionale Zusammenfassungen reduziert wird.",
+    "evolutionary_account": "Die Abstraktionsfunktion entwickelte sich wahrscheinlich, um Effizienz und Fitness zu steigern, indem sie die Rechenlast minimiert und die Aufmerksamkeit nur auf notwendige Informationen höherer Ordnung oder auf Anomalien richtet.",
+    "core_claims_and_evidence": [
+      "Das Bewusstsein ist eine abstrahierte Repräsentation hoher Ordnung (CEO-Modell).",
+      "Das Bewusstsein ist tiefgreifend rätselhaft; wir können uns noch keine Theorie vorstellen, die das „Erleben“ erklärt.",
+      "Der Geist ist integral vom Gehirn abhängig (gestützt durch klinische Belege für Hirnschäden)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch (Neurowissenschaft), begrifflich, philosophisch (agnostisch/possibilianisch)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Teilweise empirisch testbar hinsichtlich des funktionalen Abstraktionsmodells (CEO-Rolle) und seiner neuronalen Korrelate, doch das philosophische Kernproblem des subjektiven Erlebens gilt als begrifflich unlösbar.",
+    "known_empirical_interventions_or_tests": "Beobachtung von Korrelationen zwischen Veränderungen der Biologie (z. B. Hirnschäden) und Veränderungen des Bewusstseinszustands, was die Abhängigkeit bestätigt.",
+    "criticisms_and_tensions": "Kritiker merken an, dass die Haltung eine Diagnose des Problems und keine Lösung ist und philosophische Offenheit ohne wissenschaftliche Vorschrift bietet. Sie steht den gegenwärtigen reduktionistischen Ansprüchen grundlegend skeptisch gegenüber.",
+    "open_questions_and_limitations": "Die vorrangige Grenze ist das „schwere Problem“: Warum fühlt sich Abstraktion hoher Ordnung nach etwas an? Es ist unbekannt, ob das Fehlen einer Lösung ein Versagen der Vorstellungskraft oder eine Falsifikation des Materialismus ist.",
+    "ontological_coherence": "Kohärent innerhalb des possibilianischen Rahmens, da sie sowohl empirische Beschränkungen (Hirnabhängigkeit) als auch die anerkannte begriffliche/erklärende Lücke getreu einbezieht."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich (bedingt)",
+      "rationale": "Wenn das Bewusstsein in erster Linie eine abstrahierende Funktion hoher Ordnung ist, könnte eine hinreichend komplexe KI diese Funktion instanziieren. Das Rätsel des subjektiven „Erlebens“ (Qualia) bleibt jedoch eine offene begriffliche Barriere."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein (bedingt)",
+      "rationale": "Der Geist gilt ausdrücklich als „integral vom Gehirn abhängig“. Die possibilianische Philosophie lässt jedoch zu, dass die künftige Wissenschaft derzeit unvorstellbare nicht-physische Komponenten enthüllen könnte, die ein Fortleben ermöglichen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Ungewiss/humanistisch",
+      "rationale": "Als skeptische Herausforderungstheorie vermeidet sie eine kosmische oder letzte Festlegung (Possibilianismus). Sinn wird humanistisch aus der Funktion des Bewusstseins abgeleitet (Ziele setzen und Handlungsfähigkeit ausüben)."
+    },
+    "virtual_immortality": {
+      "stance": "Möglich (bedingt)",
+      "rationale": "Wenn das Bewusstsein erfolgreich auf eine abstrakte Repräsentation hoher Ordnung reduziert wird, die auf biologischer Maschinerie aufsitzt, könnten diese Repräsentationen im Prinzip hochgeladen werden, sofern die technologische Komplexität überwunden und das subjektive „Erleben“ bewahrt wird."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Überschneidung (bei der Reduktion des Bewusstseins auf einen notwendigen funktionalen/repräsentationalen Mechanismus)"
+      },
+      {
+        "name": "Mysterianism",
+        "relationship": "Überschneidung (in der Schlussfolgerung, dass die grundlegende Natur der Qualia begrifflich unzugänglich sein könnte)"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Kritik (Stellt die Hinlänglichkeit des Materialismus infrage, obwohl die Abhängigkeit vom Gehirn akzeptiert wird)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Beyond God and atheism: why I am a ‘possibilian’",
+        "year": 2010
+      },
+      {
+        "title_with_names": "What is Consciousness? (Closer To Truth)",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is brain and mind the same thing? (Closer To Truth)",
+        "year": 2011
+      }
+    ]
+  }
+}

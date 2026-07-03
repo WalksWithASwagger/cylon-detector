@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "Ginsburgs und Jablonkas assoziatives Lernen während der Evolution",
+    "summary": "Diese Theorie schlägt vor, dass die treibende Kraft beim Übergang zum grundlegenden oder minimalen Bewusstsein während der Evolution der Erwerb komplexer Lernfähigkeiten war. Der spezifische Marker ist ‚unbegrenztes assoziatives Lernen‘, das es einem Organismus ermöglicht, neuartigen, komplexen Reizen oder Handlungen einen motivationalen Wert für zukünftiges Lernen zuzuschreiben.",
+    "associated_thinkers": [
+      "Simona Ginsburg",
+      "Eva Jablonka"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Phylogenetische Evolution",
+    "core_identity_tagline": "‚Bewusstsein als unbegrenztes assoziatives Lernen‘",
+    "classification_tags": [
+      "evolution",
+      "learning",
+      "minimal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als das Aufkommen unbegrenzter assoziativer Lernfähigkeiten in sich entwickelnden Organismen identifiziert.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Bewusstsein ist vollständig physisch und resultiert aus dem Produkt biologischer Gehirne mit komplexen Lernmechanismen, im Einklang mit Materialismus/Physikalismus.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität ist die Folge der komplexen komputationalen Kapazität, die durch unbegrenztes assoziatives Lernen ermöglicht wird und externe Reize/Handlungen mit inneren motivationalen Werten verknüpft, wodurch intentionales, zielgerichtetes zukünftiges Lernen ermöglicht wird.",
+    "qualia_account": "Qualia (grundlegende/minimale phänomenale Erfahrung) werden als Eigenschaften angedeutet, die aus der erfolgreichen Funktion des unbegrenzten assoziativen Lernens hervorgehen, obwohl das genaue qualitative Fühlen im Quellenmaterial nicht ausdrücklich dargelegt wird.",
+    "ontological_commitments": "Evolvierte biologische Gehirne, neuronale Organisation und komplexe Lernmechanismen (unbegrenztes assoziatives Lernen).",
+    "epistemic_access": "Zugänglich in erster Linie durch Beobachtung von Lernverhalten über Arten hinweg (der evolutionäre Marker) aus der Dritte-Person-Perspektive und durch biologische Untersuchung.",
+    "constituents_and_structure": "Die komplexen neuronalen Strukturen und Netzwerke, die das unbegrenzte assoziative Lernen ermöglichen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (minimales Bewusstsein), Lernen und Anpassung",
+    "distinctive_mechanism_or_principle": "Unbegrenztes assoziatives Lernen (UAL), definiert als die Fähigkeit, einem neuartigen, zusammengesetzten, nicht reflexauslösenden Reiz oder einer Handlung einen motivationalen Wert zuzuschreiben und diese Grundlage für nachfolgendes Lernen zu nutzen.",
+    "dynamics_of_emergence": "Graduelle, inkrementelle Entwicklung über phylogenetische Zeiträume, getrieben durch den Selektionsdruck, der zunehmend flexible und komplexe Lernfähigkeiten begünstigt.",
+    "location_and_distribution": "Lokalisiert in den biologischen neuronalen Strukturen von Organismen, die zu unbegrenztem assoziativem Lernen fähig sind.",
+    "causation_and_functional_role": "Bewusstsein, getrieben durch UAL, ermöglicht adaptives Verhalten, Überleben und flexibles Lernen in Bezug auf neuartige Umweltreize und innere motivationale Zustände.",
+    "integration_or_binding": "Integration wird implizit durch die komplexe Verarbeitung erreicht, die notwendig ist, damit UAL disparate externe Reize und innere motivationale Zustände verknüpfen kann.",
+    "information_flow_or_representation": "Der Informationsfluss umfasst die Verarbeitung neuartiger, komplexer Reize und ihre Assoziation mit motivationalem Wert, der dann als gespeicherte Information für zukünftiges Lernen verwendet wird.",
+    "evolutionary_account": "Bewusstsein entstand, weil die Evolution die Entwicklung des unbegrenzten assoziativen Lernens als höchst adaptives Merkmal begünstigte und UAL als spezifischen evolutionären Marker für den Übergang zum grundlegenden Bewusstsein identifizierte.",
+    "core_claims_and_evidence": [
+      "Lernen während der Evolution ist die treibende Kraft für den Übergang zum grundlegenden Bewusstsein",
+      "Der evolutionäre Marker ist ‚unbegrenztes assoziatives Lernen‘ (UAL)",
+      "UAL ermöglicht die Zuschreibung motivationalen Werts zu neuartigen, zusammengesetzten Reizen oder Handlungen für zukünftiges Lernen"
+    ],
+    "basis_of_belief_or_evidence_type": "Evolutionär, Biologisch, Konzeptuell"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar/Verifizierbar",
+    "known_empirical_interventions_or_tests": "Vergleichende Studien assoziativer Lernfähigkeiten über verschiedene Arten hinweg, um die spezifische Verhaltensschwelle zu identifizieren, die dem ‚unbegrenzten assoziativen Lernen‘ entspricht.",
+    "criticisms_and_tensions": "Als Materialismustheorie, die auf funktionalen Mechanismen beruht, steht sie implizit vor der erklärerischen Herausforderung, den qualitativen Aspekt (Qualia) des minimalen Bewusstseins zu erklären, der oft als schweres Problem bezeichnet wird.",
+    "open_questions_and_limitations": "Die Theorie konzentriert sich auf das Aufkommen des grundlegenden Bewusstseins; die genauen Mechanismen, die den Übergang zum höherstufigen Bewusstsein, zur Sprache und zum Selbstbewusstsein steuern, bleiben offene Fragen.",
+    "ontological_coherence": "In hohem Maße kohärent innerhalb eines rein naturalistischen und evolutionären materialistischen Rahmens."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Als Materialismustheorie, bei der Bewusstsein an einen spezifischen, definierbaren Mechanismus (UAL) gebunden ist, ist es wahrscheinlich, dass dieser Mechanismus in künstlichen Systemen komputational instanziiert werden könnte, was zu Bewusstsein in der KI führt."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist intrinsisch mit evolvierten, biologischen organisatorischen Strukturen verknüpft, was bedeutet, dass es mit dem irreversiblen Erlöschen dieser physischen Prozesse aufhört."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Im Einklang mit den Materialismustheorien ist Bewusstsein ein adaptives evolutionäres Merkmal, das organisatorische Vorteile bietet, aber keinen letztgültigen kosmischen Sinn oder Zweck über den menschlich geschaffenen Wert hinaus impliziert."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Da Bewusstsein durch replizierbare physische Mechanismen (UAL) erklärt wird, sollte eine perfekte Duplikation der zugrunde liegenden neuronalen Muster und Bahnen in einem nichtbiologischen Medium möglich sein, was zu virtueller Unsterblichkeit führt."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Feinberg and Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "Kompatibel"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Evolution of the Sensitive Soul - Learning and the Origins of Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Picturing the Mind - Consciousness through the Lens of Evolution",
+        "year": 2022
+      }
+    ]
+  }
+}

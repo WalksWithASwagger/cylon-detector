@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "Pereiras Empfindungsfähigkeit",
+    "summary": "Diese Theorie postuliert, dass das Bewusstsein zwei distinkte Modalitäten besitzt: eine grundlegende Empfindungsfähigkeit, gekennzeichnet durch basale Gefühle wie Schmerz und Hunger, und ein höherstufiges kognitives Bewusstsein, das abstraktes Denken und Repräsentation umfasst. Die Kernaussage lautet, dass die kognitive Fähigkeit von diesem zugrunde liegenden empfindungsfähigen Zustand abhängt, der biologisch in homöostatischen Systemen verankert ist.",
+    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "category": "Materialismus",
+    "subcategory": "Homöostatisch und affektiv",
+    "core_identity_tagline": "Bewusstsein als zweistufiges System, gegründet auf Empfindungsfähigkeit",
+    "classification_tags": [
+      "sentience",
+      "homeostatic",
+      "neurobiological",
+      "dual-modality",
+      "clinical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein ist ein zusammengesetztes biologisches System, bestehend aus Empfindungsfähigkeit (korreliert mit der dynamischen Steuerung biochemischer Homöostase) und kognitivem Bewusstsein (korreliert mit Mustern bioelektrischer Aktivität in neuronalen Netzwerken).",
+    "ontological_status": "Physikalismus/Naturalismus (abgeleitet aus seiner Einordnung unter Materialismus und dem Fokus auf physiologische/neuronale Korrelate)",
+    "mind_body_relationship": "Die Bewusstseinsmodalitäten (Empfindungsfähigkeit und Kognition) sind funktional abhängig vom biologischen Organismus und besitzen präzise physiologische Korrelate in ihm, insbesondere in homöostatischen Systemen und neuronalen Netzwerken.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (begründet durch die strikte Verankerung in beobachtbaren und messbaren biologischen/physiologischen Prozessen, was nahelegt, dass sie trotz ihrer Komplexität prinzipiell durch physikalische Gesetze erklärbar ist.)",
+    "subjectivity_and_intentionality": "Subjektivität entsteht aus der Empfindungsfähigkeit, der Fähigkeit, basale Empfindungen zu fühlen (z. B. Hunger, Schmerz). Intentionalität ist im kognitiven Bewusstsein durch die Ausarbeitung sprachlicher und bildlicher Repräsentationen gegeben.",
+    "qualia_account": "Qualia werden über die grundlegende Modalität der Empfindungsfähigkeit erklärt, die direkt der Fähigkeit entspricht, basale, qualitative Empfindungen zu fühlen (z. B. Schmerz, Durst).",
+    "ontological_commitments": "Physiologische Systeme, die die biochemische Homöostase steuern; Muster bioelektrischer Aktivität in neuronalen Netzwerken; hierarchische neuronale Organisation.",
+    "epistemic_access": "Zugänglich durch die Untersuchung physiologischer Korrelate, insbesondere im Zusammenhang mit der dynamischen Steuerung der Homöostase, und klinisch durch die Beobachtung basaler empfindungsfähiger Reaktionen.",
+    "constituents_and_structure": "Ein hierarchisches, zweistufiges System: Empfindungsfähigkeit (niederstufiges, homöostatisches Fundament) und kognitives Bewusstsein (höherstufige, repräsentationale Verarbeitung)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (basale Empfindungen/Empfindungsfähigkeit); kognitives Bewusstsein (Denken/Repräsentation); klinische Diagnose von Bewusstseinsstörungen.",
+    "distinctive_mechanism_or_principle": "Das Prinzip der funktionalen Abhängigkeit, wonach das höherstufige kognitive Bewusstsein strikt von der niederstufigen Modalität der Empfindungsfähigkeit abhängt und von ihr getragen wird, die in homöostatischen Systemen verwurzelt ist.",
+    "dynamics_of_emergence": "Das Bewusstsein entsteht durch eine hierarchische Beziehung, in der die Existenz einer basalen Empfindungsfähigkeit, verknüpft mit physiologischer Steuerung, eine notwendige Grundlage für die Emergenz kognitiver Funktionen bildet.",
+    "location_and_distribution": "Die zentralen Korrelate sind über die für die homöostatische Steuerung zuständigen physiologischen Systeme (für die Empfindungsfähigkeit) und die neuronalen Netzwerke (für die kognitive Verarbeitung) verteilt.",
+    "causation_and_functional_role": "Die Empfindungsfähigkeit erfüllt die vitale Funktion, physiologische Prozesse zur Aufrechterhaltung der Homöostase und der Fortdauer des Lebens zu regulieren. Sie liefert die für die grundlegende biologische Regulation notwendige bewusste Rückmeldung.",
+    "integration_or_binding": "Nicht spezifiziert. (Begründet durch den Fokus der Theorie auf die Unterscheidung und hierarchische Beziehung zwischen den Bewusstseinsmodalitäten statt auf den Mechanismus zur Vereinheitlichung sensorischer Eingaben.)",
+    "information_flow_or_representation": "Kognitives Bewusstsein umfasst die Verarbeitung und Ausarbeitung sprachlicher und bildlicher Repräsentationen, die in neuronalen Netzwerken erfolgt.",
+    "evolutionary_account": "Im Detail nicht spezifiziert, aber vermutlich adaptiv und evolutionär, indem die Bewusstseinsmodalitäten mit grundlegenden biologischen Imperativen wie Überleben und Aufrechterhaltung der Homöostase verknüpft werden.",
+    "core_claims_and_evidence": [
+      "Kognitives Bewusstsein hängt von der Empfindungsfähigkeit ab, aber nicht umgekehrt.",
+      "Empfindungsfähigkeit korreliert mit der Fähigkeit zur dynamischen Steuerung der biochemischen Homöostase.",
+      "Die Fähigkeit, basale Empfindungen zu fühlen (Empfindungsfähigkeit), ist die Mindestvoraussetzung für ein minimales Bewusstsein (relevant für die klinische Diagnose)."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurowissenschaftlich, klinisch/medizinisch, philosophisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar durch klinische Beurteilung und Intervention, insbesondere bei der Analyse minimalen Bewusstseins in vegetativen Zuständen oder unter Narkose.",
+    "known_empirical_interventions_or_tests": [
+      "Beurteilung der Fähigkeit, basale Empfindungen (Hunger, Schmerz) zu fühlen, als Maßstab für die Diagnose langanhaltender Bewusstseinsstörungen."
+    ],
+    "criticisms_and_tensions": "Im Quellenmaterial werden keine ausdrücklichen Kritikpunkte genannt. (Begründung: Das Quellenmaterial ist deskriptiv und enthält keinen kritischen Diskurs zu dieser spezifischen Theorie.)",
+    "open_questions_and_limitations": "Die genauen physiologischen und bioelektrischen Mechanismen, die die strikten Grenzen und die hierarchische Abhängigkeit zwischen Empfindungsfähigkeit und kognitivem Bewusstsein realisieren, bleiben vollständig aufzuklären. Tests höherer Kognition könnten zur Beurteilung aller Bewusstseinszustände unzureichend sein.",
+    "ontological_coherence": "Innerhalb der Grenzen des Naturalismus in hohem Maße konsistent, indem zwei distinkte Aspekte des Bewusstseins mit konkreten, beobachtbaren physiologischen Systemen verknüpft werden."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt",
+      "rationale": "Wenn künstliche Systeme sowohl die physiologischen Systeme, die die dynamische biochemische Homöostase steuern (erforderlich für Empfindungsfähigkeit), als auch die notwendige bioelektrische Netzwerkaktivität (für Kognition) vollständig nachbilden können, dann ist künstliches Bewusstsein möglich."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Da das Bewusstsein strikt von funktionierenden biologischen Systemen abhängt (Steuerung der Homöostase und neuronale Netzwerke), wird angenommen, dass es mit der irreversiblen Auflösung von Körper und Gehirn endet."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Die Theorie konzentriert sich auf die funktionale, adaptive Rolle des Bewusstseins bei der Aufrechterhaltung der biologischen Stabilität (Homöostase) und der Ermöglichung flexibler Kognition und bietet keine Grundlage für einen kosmischen oder letztgültigen Zweck."
+    },
+    "virtual_immortality": {
+      "stance": "Bedingt",
+      "rationale": "Theoretisch nur dann möglich, wenn die spezifischen dynamischen homöostatischen und bioelektrischen Muster, die als Korrelate von Empfindungsfähigkeit und Kognition identifiziert wurden, perfekt digitalisiert und in einem nichtbiologischen Medium nachgebildet werden können."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Kompatibel"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The role of sentience in the theory of consciousness and medical practice, A. Pereira Jr.",
+        "year": 2021
+      }
+    ]
+  }
+}

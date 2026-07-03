@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Theorie der Kritiken",
+    "summary": "Dieser Eintrag steht für die wesentliche und durchgängige skeptische Funktion innerhalb der Bewusstseinsforschung, die systematisch die erklärende Kohärenz, die empirische Gültigkeit und die metaphysischen Annahmen aller vorgeschlagenen Bewusstseinstheorien in Frage stellt. Er hebt anhaltende konzeptuelle Spannungen hervor, etwa die Erklärungslücke und das Korrelations-Kausalitäts-Dilemma, und zwingt Theorien dazu, ihre interne Konsistenz und empirische Fundierung zu verteidigen.",
+    "associated_thinkers": [
+      "R.L. Kuhn",
+      "Critics of specific theories (e.g., Hakwan Lau, Scott Aaronson)",
+      "Proponents of Challenge Theories (e.g., Thomas Nagel, Sam Harris)"
+    ],
+    "category": "Herausforderungstheorien",
+    "subcategory": "Kritik/Skeptizismus",
+    "core_identity_tagline": "Die wesentliche skeptische Funktion",
+    "classification_tags": [
+      "critique",
+      "skepticism",
+      "meta-problem",
+      "tension",
+      "adjudication"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kritik wird als die systematische Beurteilung und Diagnose erklärender Mängel (z. B. Erklärungslücken, mangelnde Kohärenz, unzureichende empirische Rechtfertigung) bestimmt, die allen konkurrierenden Erklärungen des Bewusstseins innewohnen.",
+    "ontological_status": "Erkenntnistheoretische/methodologische Haltung (Kritik beurteilt vorrangig die Wissensansprüche und Methodologien anderer Theorien, statt eine positive Ontologie vorzulegen.)",
+    "mind_body_relationship": "Nicht anwendbar (Als methodologisches Konzept analysiert die Kritik die Kohärenz bestehender ontologischer Vorschläge, etwa Versuche zur Lösung des Leib-Seele-Problems, ohne eine eigene positive Lösung vorzuschlagen.)",
+    "primitive_or_emergent_status": "Weder noch (Kritik ist eine diskursive und analytische Praxis, keine fundamentale Eigenschaft und kein emergenter Prozess der Realität.)",
+    "emergence_type": "Nicht anwendbar (Das Konzept ist rein methodologisch.)",
+    "subjectivity_and_intentionality": "Kritiken konzentrieren sich häufig auf das Versagen physikalistischer Theorien, die subjektive Erste-Person-Erfahrung (Subjektivität) und die Gerichtetheit des Denkens (Intentionalität) zu erklären, und argumentieren, dass diese Aspekte von rein quantitativen Modellen verfehlt werden.",
+    "qualia_account": "Beurteilungsinstrument (Die Kritik setzt die qualitative Dimension der Erfahrung – die Qualia – als die vorrangige Herausforderung gegen materialistische und reduktionistische Erklärungen ein und hebt das 'schwere Problem' als ungelösten analytischen Mangel hervor.)",
+    "ontological_commitments": "Die Festlegungen variieren je nach der jeweils eingesetzten Kritik; es gibt keine einheitliche Ontologie einer 'Theorie der Kritiken', wenngleich sie oft auf der Festlegung beruht, dass das gegenwärtige wissenschaftliche Weltbild unvollständig oder fehlerhaft ist.",
+    "epistemic_access": "Begriffsanalyse, Prüfung auf logische Konsistenz, philosophische Gedankenexperimente (z. B. Zombies, Mary die Neurophysiologin) und Vergleich konkurrierender wissenschaftlicher Paradigmen.",
+    "constituents_and_structure": "Konzeptuelle Spannungen, ungelöste logische Konflikte und inhärente erkenntnistheoretische Grenzen (z. B. die Unterscheidung von Erkenntnistheorie und Ontologie, das Korrelations-Kausalitäts-Dilemma)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Alle Aspekte (Kritik gilt universell für alle theoretischen Aussagen über phänomenales Bewusstsein, Zugriffsbewusstsein, Selbstgewahrsein und Handlungsträgerschaft.)",
+    "distinctive_mechanism_or_principle": "Das Erkennen und Diagnostizieren erklärender Krankheiten in Theorien, etwa Zirkularität, Inkonsistenz oder das Versagen, Qualia/Subjektivität zu erklären.",
+    "dynamics_of_emergence": "Nicht anwendbar (Kritik ist ein Rahmen für kritische Analyse, kein dynamischer Prozess in der Realität.)",
+    "location_and_distribution": "Diskursiv/akademisch (Sie wirkt innerhalb des philosophischen und wissenschaftlichen Diskurses und treibt den Bedarf an besseren Erklärungen voran.)",
+    "causation_and_functional_role": "Ihre primäre Funktion ist die intellektuelle Hygiene: das Diagnostizieren konzeptueller und empirischer Mängel, statt kausale Mechanismen des Bewusstseins vorzuschlagen.",
+    "integration_or_binding": "Kritik stellt bestehende Erklärungen der Integration und Einheit der Erfahrung in Frage, etwa Debatten darüber, ob Informationsintegration räumlich oder zeitlich instanziiert wird.",
+    "information_flow_or_representation": "Kritik konzentriert sich oft auf die vermeintliche erklärende Beschränkung rein quantitativer oder repräsentationaler Erklärungen bei der Erfassung der Qualität subjektiver Erfahrung.",
+    "evolutionary_account": "Nicht anwendbar (Kritik ist selbst keine evolutionäre Theorie, obgleich sie die evolutionäre Plausibilität anderer Theorien beurteilt.)",
+    "core_claims_and_evidence": [
+      "Kritiken heben die tiefgreifende Unlösbarkeit und das Rätsel des Leib-Seele-Problems hervor.",
+      "Die zentrale Herausforderung ist das Versagen, objektive physische Beschreibungen (Dritte-Person-Daten) logisch oder empirisch mit der subjektiven Erfahrung (phänomenalen Erste-Person-Tatsachen) zu verbinden.",
+      "Spezifische Theorien (wie die Integrierte Informationstheorie) werden dafür kritisiert, untestbar zu sein oder Behauptungen zu vertreten, denen die notwendige empirische Rechtfertigung fehlt."
+    ],
+    "basis_of_belief_or_evidence_type": "Konzeptuelle/philosophische Analyse (Stützt sich auf das Aufdecken logischer und erkenntnistheoretischer Inkonsistenzen in Argumenten für und gegen spezifische Theorien.)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testbar in Bezug auf spezifische theoretische Behauptungen (Kritik erzeugt explizite Herausforderungen, die empirische Forschungsprogramme anstoßen, etwa Experimente in adversarialer Kollaboration, um gezielte Vorhersagen zu verifizieren oder zu falsifizieren.)",
+    "known_empirical_interventions_or_tests": [
+      "Experimente in adversarialer Kollaboration (angelegt, um gegensätzliche Vorhersagen konkurrierender Theorien wie der IIT und der Global-Workspace-Theorie zu prüfen)",
+      "Gedankenexperimente (z. B. das Zombie-Argument, das Wissensargument), die als konzeptuelle Tests gegen physikalistische Behauptungen eingesetzt werden"
+    ],
+    "criticisms_and_tensions": "Kritiker argumentieren, dass ein übermäßiger Skeptizismus (z. B. das Brandmarken von Theorien als Pseudowissenschaft) unverhältnismäßig ist und dem noch jungen wissenschaftlichen Feld schadet. Überdies diagnostizieren Kritiken oft Probleme, ohne konstruktive Lösungen anzubieten.",
+    "open_questions_and_limitations": "Die letztliche Beschränkung ist die Frage, ob das Bewusstsein der menschlichen Kognition von Natur aus unlösbar ist (Mysterianismus) oder ob die konzeptuelle Blockade lediglich vorübergehend ist, bedingt durch gegenwärtige erklärende Beschränkungen.",
+    "ontological_coherence": "Hohe Kohärenz als meta-theoretisches Instrument, da ihr Zweck darin besteht, die Kohärenz anderer zu analysieren; sie bietet jedoch keine eigene Ontologie, an der sie im Rahmen der weiteren metaphysischen Landschaft gemessen werden könnte."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt",
+      "rationale": "Kritik hebt die Schwierigkeit hervor, ein echtes inneres Gewahrsein in einer KI zu verifizieren, und betont, dass berechnete Komplexität möglicherweise nur zu *scheinbarem* Bewusstsein führt (die Simulations-Herausforderung), wodurch bestimmte Behauptungen nicht vertrauenswürdig werden."
+    },
+    "survival_beyond_death": {
+      "stance": "Ungewiss",
+      "rationale": "Kritik anerkennt, dass hochgradig anomale Phänomene (wie verifizierbare Nahtoderfahrungen), sofern sie empirisch bestätigt würden, materialistische Erzeugungsmodelle augenblicklich falsifizieren und die theoretische Unterstützung hin zu nichtphysischen Überlebenshypothesen verschieben würden."
+    },
+    "meaning_and_purpose": {
+      "stance": "Diagnostiziert das Fehlen letztgültigen Sinns",
+      "rationale": "Kritiken fordern häufig materialistische und reduktionistische Erklärungen dahingehend heraus, dass sie letztgültigen Sinn oder Wert nicht zu rationalisieren vermögen, sodass nur die humanistische Selbstschaffung von Zweck bleibt."
+    },
+    "virtual_immortality": {
+      "stance": "Bedingt",
+      "rationale": "Kritik hält daran fest, dass die virtuelle Unsterblichkeit konzeptuell problematisch und unverifiziert bleibt, solange das metaphysische Rätsel dessen, was das Bewusstsein *ist*, nicht gelöst ist (z. B. der Nachweis, dass ein Uploading das Erste-Person-Selbst perfekt bewahrt)."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Meta-Problem of Consciousness",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Einfluss"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, R.L. Kuhn",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Integrated Information Theory of Consciousness as Pseudoscience, S.M. Fleming et al.",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The mystery of consciousness, S. Harris",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False, T. Nagel",
+        "year": 2012
+      }
+    ]
+  }
+}

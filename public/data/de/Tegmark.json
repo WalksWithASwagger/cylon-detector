@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Tegmarks Zustand der Materie",
+    "summary": "Tegmark schlägt vor, dass sich das Bewusstsein als ein bestimmter Zustand der Materie verstehen lässt, den er 'Perceptronium' nennt und der durch charakteristische Fähigkeiten der Informationsverarbeitung definiert ist. Ausgehend von der Prämisse, dass alle Existenz physisch ist, sucht die Theorie nach Prinzipien, die bewusste, komplexe Informationsverarbeitung von nicht-bewusster Verarbeitung unterscheiden.",
+    "associated_thinkers": ["Max Tegmark"],
+    "category": "Monismen",
+    "subcategory": "",
+    "core_identity_tagline": "Bewusstsein als ein Zustand der Materie: Perceptronium",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "information",
+      "mathematics",
+      "perceptronium"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Das Bewusstsein wird als die subjektive Erfahrung oder das 'Empfinden' identifiziert, das entsteht, wenn Information auf bestimmte komplexe Weisen verarbeitet wird, und den als 'Perceptronium' bezeichneten Zustand der Materie konstituiert.",
+    "ontological_status": "Physikalismus / Monismus",
+    "mind_body_relationship": "Es wird ein Identitätsverhältnis impliziert, bei dem die subjektive Erfahrung (Geist) als ein bestimmter physischer Zustand (ein Zustand der Materie/Informationsverarbeitung) identifiziert wird.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität wird als die 'Weise, wie sich Information anfühlt, wenn sie auf bestimmte komplexe Weisen verarbeitet wird' definiert. Intentionalität wird implizit als eine komplexe, hochstufige informationelle Fähigkeit behandelt, die durch Perceptronium erreichbar ist.",
+    "qualia_account": "Qualia sind implizit das 'Empfinden' (die subjektive Erfahrung), das mit den spezifischen Informationsverarbeitungskonfigurationen des Perceptroniums verbunden ist und durch vier Prinzipien formalisiert wird: Information, Integration, Unabhängigkeit und Dynamik.",
+    "ontological_commitments": "Physische Systeme, Information. Die Theorie gründet auf der umfassenderen ontologischen Behauptung, dass die gesamte Realität eine fundamentale mathematische Struktur ist.",
+    "epistemic_access": "Das Bewusstsein wird über die objektiven physischen und mathematischen Prinzipien, die den Informationsfluss regieren (Information, Integration, Unabhängigkeit und Dynamik), erschlossen und erkannt.",
+    "constituents_and_structure": "Die Struktur ist 'Perceptronium', ein Zustand der Materie, der durch vier Prinzipien definiert ist: Information, Integration, Unabhängigkeit und Dynamik. Dieser Rahmen verallgemeinert die Theorie der integrierten Information (IIT) für beliebige Quantensysteme."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (subjektive Erfahrung/Empfinden) und Zugriff (für das Bewusstsein erforderliche Informationsverarbeitung).",
+    "distinctive_mechanism_or_principle": "Die Definition des Perceptroniums über die Anwendung von vier distinkten Prinzipien (Information, Integration, Unabhängigkeit und Dynamik) auf die Informationsverarbeitung in physischen Systemen.",
+    "dynamics_of_emergence": "Das Bewusstsein ist eine dynamische Anordnung oder ein Zustand der Materie. Die erkundeten Prinzipien könnten auch die Emergenz der Zeit einschließen.",
+    "location_and_distribution": "Lokalisiert in physischen Systemen (z. B. neuronalen Netzen oder beliebigen Quantensystemen), die die spezifischen Kriterien der Informationsverarbeitung erfüllen, die das Perceptronium definieren.",
+    "causation_and_functional_role": "Das Bewusstsein ist entscheidend für die Bewertung von Information und wird als funktional wichtig für zentrale Anforderungen wie die Versorgung komatöser Patienten oder die Kommunikation mit fortgeschrittener KI betrachtet. Die Verursachung ist streng physisch.",
+    "integration_or_binding": "Integration ist eines der vier Prinzipien, die das Perceptronium definieren, was nahelegt, dass sie ein entscheidender Mechanismus für einheitliche bewusste Erfahrung ist.",
+    "information_flow_or_representation": "Information ist grundlegend, da das Bewusstsein das subjektive Empfinden verarbeiteter Information ist. Der Mechanismus wird vollständig von informationellen Prinzipien angetrieben.",
+    "evolutionary_account": "Der Ansatz steht abseits materialistischer Theorien, in denen das Bewusstsein eine Kontingenz der Evolution ist, und setzt es stattdessen mit der zugrunde liegenden mathematischen Natur der Realität in Beziehung.",
+    "core_claims_and_evidence": [
+      "Das Bewusstsein ist ein 'Zustand der Materie' (Perceptronium).",
+      "Das Bewusstsein wird durch die Prinzipien Information, Integration, Unabhängigkeit und Dynamik definiert.",
+      "Die Erklärung muss sich streng an die physischen Gesetze halten und dabei 'keine zusätzliche geheime Zutat' verwenden."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch, mathematisch, computational"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar",
+    "known_empirical_interventions_or_tests": "Die Verallgemeinerung der Theorie der integrierten Information impliziert Relevanz für die Messfunktion der IIT (die Quantifizierung von Bewusstseinsgraden). Die Theorie ist darauf angelegt, konkrete Probleme wie die Beurteilung komatöser Patienten und fortgeschrittener KI zu behandeln.",
+    "criticisms_and_tensions": "Als Verallgemeinerung der IIT erbt sie deren bestehende Kritiken, etwa die Schwierigkeit, das subjektive Empfinden rein durch physische und informationelle Prinzipien zu erklären.",
+    "open_questions_and_limitations": "Das genaue mathematische Prinzip, das bewusste Verarbeitung von unbewusster Verarbeitung unterscheidet, muss noch gefunden werden.",
+    "ontological_coherence": "Innerhalb einer starken physikalistisch/mathematisch-monistischen Ontologie hochgradig kohärent, da sie sich streng an die physischen Gesetze hält und nicht-physische Komponenten ablehnt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Die Theorie ist streng physikalistisch ('Es ist alles Physik') und definiert das Bewusstsein als einen durch komplexe Informationsverarbeitung erreichbaren Zustand der Materie. Daher können künstliche Systeme diesen Zustand prinzipiell erreichen."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Das Bewusstsein ist ein emergenter Zustand der Materie (Perceptronium) des physischen Gehirns. Der irreversible Tod und die Auflösung des physischen Substrats würden das Aufhören des Bewusstseins mit sich bringen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Ungewiss/Nur humanistisch",
+      "rationale": "Die Grundlegung in Physik und mathematischer Struktur legt typischerweise keinen letzten kosmischen Zweck nahe, im Einklang mit deflationären physikalistischen Auffassungen. Die Theorie schlägt keine kosmische Teleologie ausdrücklich vor."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wenn das Bewusstsein ein spezifischer informationeller Zustand der Materie ist, der durch mathematische/physische Prinzipien definiert wird, könnte dieser Zustand potenziell durch fortgeschrittene Technologie perfekt dupliziert oder in ein nicht-biologisches Medium hochgeladen werden."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Mathematical Universe Hypothesis",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Vereinbar"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness is a state of matter",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality",
+        "year": 2014
+      }
+    ]
+  }
+}

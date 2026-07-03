@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Lammes Theorie der rekurrenten Verarbeitung",
+    "summary": "Lammes Theorie der rekurrenten Verarbeitung (Recurrent Processing Theory, RPT) postuliert, dass Bewusstsein sowohl notwendig als auch hinreichend ist, wenn reziproke (rekurrente) Rückkopplungsverbindungen zwischen neuronalen Arealen auftreten, insbesondere in den sensorischen Systemen. Diese Verarbeitung, die lokal in sensorischen und post-sensorischen Arealen (Stufe 3) stattfindet, erzeugt phänomenale Erfahrung, ohne einen globalen Ausstrahlungszugriff zu erfordern.",
+    "associated_thinkers": ["Victor Lamme"],
+    "category": "Materialismus",
+    "subcategory": "Repräsentational",
+    "core_identity_tagline": "„Bewusstsein als rekurrente Verarbeitung in sensorischen Systemen“",
+    "classification_tags": [
+      "neuroscience",
+      "visual system",
+      "recurrent connections",
+      "first-order theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als ein spezifischer Zustand rekurrenter Verarbeitung identifiziert, der innerhalb relevanter neuronaler Schaltkreise wie des visuellen Systems vorliegt.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Identitäts-/reduktionistischer Ansatz, der argumentiert, dass der Begriff des Geistes sich hin zu dem des Gehirns bewegen muss und dass Bewusstsein identisch mit einem Zustand rekurrenter Verarbeitung in physischen Schaltkreisen ist.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Subjektivität (phänomenales Bewusstsein) ist der Zustand rekurrenter Verarbeitung selbst. Intentionalität wird von dem innerhalb dieser Schleifen repräsentierten Gehalt getragen (erschlossen als repräsentationale Theorie erster Ordnung).",
+    "qualia_account": "Qualia werden erzeugt, wenn ein bestimmter Zustand rekurrenter Verarbeitung des relevanten visuellen Schaltkreises vorliegt, wodurch der visuelle Zustand bewusst wird.",
+    "ontological_commitments": "Sensorische Systeme des Gehirns, neuronale Schaltkreise (visuelle Schaltkreise), vorwärtsgerichtete und rückgekoppelte Verbindungen.",
+    "epistemic_access": "Zugänglich über neuronale und verhaltensbezogene Maße, die Lamme zufolge gleichberechtigt behandelt werden sollten.",
+    "constituents_and_structure": "Massiv vernetzte neuronale Schaltkreise (rekurrente Schleifen), die vorwärtsgerichtete und rückgekoppelte Verbindungen umfassen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal",
+    "distinctive_mechanism_or_principle": "Rekurrente Verarbeitung (Rückkopplungsverbindungen) in sensorischen und post-sensorischen Arealen (Stufe 3) gilt als hinreichend für Bewusstsein.",
+    "dynamics_of_emergence": "Dynamischer Prozess. Bewusste Zustände sind das Ergebnis dynamischer Aktivität, die von Rückkopplungsverbindungen erzeugt wird, welche visuelle Areale mit anderen Hirnregionen verknüpfen.",
+    "location_and_distribution": "Lokalisiert in sensorischen und post-sensorischen Arealen, insbesondere rekurrente Aktivierungen im ‚hinteren Teil des Kopfes‘.",
+    "causation_and_functional_role": "Bewusstsein ist der spezifische Zustand rekurrenter Verarbeitung selbst. Der zugrunde liegende Zweck wird implizit darin gesehen, das Verständnis des Geistes hin zum Gehirn zu bewegen.",
+    "integration_or_binding": "Integration wird lokal innerhalb der rekurrenten Schleifen in perzeptuellen Arealen erreicht.",
+    "information_flow_or_representation": "Information umfasst einen anfänglichen Vorwärtsdurchlauf (unbewusste Registrierung), gefolgt von Rückkopplungsverbindungen, die rekurrente Verarbeitung (Bewusstsein) erzeugen.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Bewusstsein erfordert massiv vernetzte sensorische Systeme mit vorwärtsgerichteten und rückgekoppelten Verbindungen (rekurrente Verarbeitung).",
+      "Rekurrente Verarbeitung in sensorischen und post-sensorischen Arealen ist notwendig und hinreichend für phänomenales Bewusstsein.",
+      "Bewusste Wahrnehmung wird mit rekurrenten Aktivierungen im hinteren Teil des Kopfes identifiziert (Theorie erster Ordnung)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch, Neurobiologisch, Konzeptuell"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kritisiert die Global-Workspace-Theorie (GWT) als ‚ganz auf Zugriff, aber nicht auf Sehen bezogen‘. Wird selbst von Ned Block als ‚verkürzte Form der Global-Workspace-Erklärung‘ kritisiert.",
+    "open_questions_and_limitations": "Rekurrente Aktivierungen sind nur bei bestimmten ‚Hintergrundbedingungen‘ hinreichend für Bewusstsein, etwa bei intakter Konnektivität mit subkortikalen Strukturen.",
+    "ontological_coherence": "Hochgradig kohärent innerhalb der materialistischen Ontologie, indem sie Bewusstsein vollständig in spezifischen, identifizierten neuronalen Mechanismen verankert."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Als materialistische Theorie muss ein KI-Bewusstsein im Prinzip möglich sein, sofern sich das erforderliche Muster rekurrenter Verarbeitung künstlich in einem nichtbiologischen Substrat duplizieren ließe."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist an physische Gehirnaktivität und spezifische neuronale Schaltkreise (Zustände rekurrenter Verarbeitung) gebunden, was ein Aufhören mit dem körperlichen Tod nahelegt."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Die Theorie konzentriert sich auf eine rein physikalistische, neurobiologische Erklärung der phänomenalen Erfahrung und stützt keinen letztgültigen kosmischen Sinn oder Zweck."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Da Bewusstsein der Zustand rekurrenter Verarbeitung selbst ist, würde eine vollkommene Duplikation dieses Prozesses auf ein neues Medium (Upload) das Selbst der Ersten-Person erzeugen und virtuelle Unsterblichkeit ermöglichen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "Überschneidung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a true neural stance on consciousness, Victor Lamme",
+        "year": 2006
+      },
+      {
+        "title_with_names": "How neuroscience will change our view on consciousness, Victor Lamme",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Wu, 2018 (Discussing Lamme's RPT)",
+        "year": 2018
+      }
+    ]
+  }
+}

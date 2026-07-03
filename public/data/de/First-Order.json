@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Repräsentationalismus erster Ordnung",
+    "summary": "Der Repräsentationalismus erster Ordnung (First-Order Representationalism, FOR) sucht Bewusstsein zu erklären, indem er es auf äußere, weltgerichtete intentionale Zustände reduziert. Er behauptet, dass der phänomenale Charakter der Erfahrung vollständig durch den Gehalt der Repräsentation bestimmt wird, und identifiziert Qualia mit den äußeren Eigenschaften, als deren Träger die Erfahrung die Objekte repräsentiert.",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "Materialistische Theorien",
+    "subcategory": "Repräsentational",
+    "core_identity_tagline": "Bewusstsein als äußere, weltgerichtete intentionale Zustände",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Die phänomenalen Aspekte perzeptueller Erfahrungen sind ein und dasselbe wie die äußeren, realen Eigenschaften, als deren Träger die Erfahrung die Objekte repräsentiert.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Identitätstheorie/reduktionistische Korrelation. Mentale Zustände werden mit Repräsentationen identifiziert, die in Gehirnzuständen realisiert sind, welche spezifische informationstragende Funktionen erworben haben.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Intentionalität (die Gerichtetheit des Denkens) ist primär. Subjektivität wird vollständig durch den repräsentationalen Gehalt bestimmt, da sinnliche Repräsentationen dem Subjekt unmittelbar verfügbar sind.",
+    "qualia_account": "Qualia (der phänomenale Charakter) werden mit dem repräsentationalen Gehalt (starker Repräsentationalismus) oder mit den durch die Erfahrung repräsentierten äußeren Eigenschaften identifiziert und lösen so das schwere Problem durch reduktive Erklärung.",
+    "ontological_commitments": "Mentale Repräsentationen, Gehirnzustände, die informationstragende Funktionen erwerben, sensorische/perzeptuelle Schaltkreise.",
+    "epistemic_access": "Zugänglich über Dritte-Person-Methoden mit Fokus auf neuronale Korrelate und die globale Ausstrahlung von Repräsentationen, ergänzt durch Selbstbericht.",
+    "constituents_and_structure": "Sensorische Repräsentationen erster Ordnung und nicht-begriffliche Gehalte, die im Gehirn global ausgestrahlt werden."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein, Zugriffsbewusstsein, sinnliche Erfahrung.",
+    "distinctive_mechanism_or_principle": "Bewusstsein entsteht, wenn Gehirnzustände – typischerweise durch natürliche Selektion – die Funktion erwerben, für äußere Objekte relevante Information zu tragen, und dadurch zu mentalen Repräsentationen werden.",
+    "dynamics_of_emergence": "Bewusstsein entsteht dynamisch, indem nicht-begriffliche Gehalte zum Zwecke des Zugriffs und der Nutzung global im gesamten Gehirn ausgestrahlt werden.",
+    "location_and_distribution": "Zu den neuronalen Korrelaten spezifischen Bewusstseins gehören Aktivität im sensorischen Kortex und in bestimmten thalamischen Kernen, mit Verbindung zur rekurrenten Verarbeitung in perzeptuellen Arealen.",
+    "causation_and_functional_role": "Bewusstsein hat die Funktion, perzeptuelle Information Systemen verfügbar zu machen, die flexibles Verhalten, Überzeugungsbildung und Handlungsauswahl ermöglichen.",
+    "integration_or_binding": "Integration wird durch die Verfügbarkeit sinnlicher Information (Repräsentationen) über globale kognitive Netzwerke hinweg erreicht (gemeinsam mit der globalen Ausstrahlung auftretend).",
+    "information_flow_or_representation": "Repräsentationen erster Ordnung fließen unmittelbar aus äußeren Reizen; die Informationsverarbeitung ist entscheidend, um Gehirnzustände in bewusstseinsgeeignete Repräsentationen zu überführen.",
+    "evolutionary_account": "Bewusstsein entwickelte sich durch natürliche Selektion, wobei Gehirnzustände die Funktion erwarben, Information zu tragen, die die adaptiven Fähigkeiten des Organismus verbessert.",
+    "core_claims_and_evidence": [
+      "Phänomenale Eigenschaften sind identisch mit den äußeren, realen Eigenschaften, die durch die Erfahrung repräsentiert werden.",
+      "Bewusste Erfahrung tritt gemeinsam mit der globalen Ausstrahlung nicht-begrifflicher Gehalte erster Ordnung im Gehirn auf.",
+      "Bewusste Zustände sind Repräsentationen, deren Gehalt das subjektive Erleben vollständig bestimmt."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (konzeptuelle Reduktion, Fokus auf Intentionalität) und empirisch (neurowissenschaftliche Korrelationsdaten)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar",
+    "known_empirical_interventions_or_tests": [
+      "Kartierung neuronaler Korrelate allgemeinen und spezifischen Bewusstseins (sensorischer Kortex, thalamische Kerne)",
+      "Studien, die Bewusstsein mit der globalen Ausstrahlung von Gehalten erster Ordnung korrelieren"
+    ],
+    "criticisms_and_tensions": "Steht vor der allgemeinen Herausforderung repräsentationaler Theorien: Phänomenologie rein in Begriffen der Intentionalität zu erklären. Kritiker stellen infrage, wie bloße Repräsentation oder Informationsgehalt das qualitative Erleben (Qualia) vollständig erklären kann.",
+    "open_questions_and_limitations": "Der genaue Mechanismus, durch den der Gehalt einer nicht-begrifflichen Repräsentation das subjektive ‚Wie-es-ist‘ bestimmt, bleibt eine Erklärungslücke, auch wenn Befürworter argumentieren, dass der phänomenale Aspekt durch die Identität mit äußeren Eigenschaften aufgelöst wird.",
+    "ontological_coherence": "Hochgradig kohärent innerhalb einer reduktiven materialistischen und funktionalistischen Ontologie."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Als materialistische Theorie, in der Bewusstsein von Informationsgehalt und funktionaler Architektur abhängt, könnten künstliche Systeme Bewusstsein instanziieren, wenn sie die notwendigen repräsentationalen Strukturen und informationstragenden Funktionen realisieren."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein wird vollständig durch physische Gehirnprozesse realisiert; ein Überleben über die Zerstörung des biologischen Substrats hinaus ist ausgeschlossen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Als materialistische Theorie begründet sie keinen letztgültigen kosmischen Sinn oder Zweck, sondern nur Sinn, der von bewussten Handelnden selbst erzeugt wird."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Wenn das Selbst der Ersten-Person vollständig durch repräsentationalen Gehalt und Informationszustände erfasst wird, sollte eine vollkommene Duplikation (Uploading) dieser Zustände in ein nichtbiologisches Medium das ursprüngliche mentale Selbst bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Kritik/Kontrast"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Erweiterung/Überschneidung"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Kompatibel/Überschneidung"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Einfluss"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

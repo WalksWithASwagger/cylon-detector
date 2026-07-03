@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Emergenz (Prinzip des Bewusstseins)",
+    "summary": "Emergenz ist die philosophische Behauptung, dass qualitativ neue Eigenschaften, wie Bewusstsein oder psychologische Zustände, aus zugrunde liegenden physischen Eigenschaften hervorgehen, die vollständig von physikalischen Gesetzen bestimmt werden. Sie wird vor allem in schwache Emergenz, die im Prinzip reduzierbar ist, und starke Emergenz, die grundlegend nicht-reduzierbar ist und möglicherweise neue physikalische Gesetze erfordert, unterschieden.",
+    "associated_thinkers": [
+      "David Chalmers",
+      "Paul Davies",
+      "George Ellis"
+    ],
+    "category": "Materialismustheorien",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "Qualitativ neue Eigenschaften, die aus physischen Systemen hervorgehen",
+    "classification_tags": [
+      "emergentism",
+      "reductionism",
+      "non-reductive",
+      "physicalism",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als eine qualitativ neuartige Eigenschaft oder als psychologischer Zustand identifiziert, der aus physischen Eigenschaften hervorgeht. Dieses Konzept definiert das Verhältnis zwischen Geist und Materie auf Grundlage der Reduzierbarkeit oder Nicht-Reduzierbarkeit auf die fundamentale Physik.",
+    "ontological_status": "Höchst variabel/Umstritten. Die schwache Emergenz stützt den reduktiven Physikalismus. Die starke Emergenz impliziert oft einen nicht-reduktiven Physikalismus oder die Notwendigkeit, die Auffassung von Natur zu erweitern, was möglicherweise neue fundamentale Gesetze erfordert (naturalistischer Dualismus oder Eigenschaftsdualismus).",
+    "mind_body_relationship": "Emergentistisch. Der Geist geht aus dem Körper (komplexen physischen Systemen) hervor. Die Natur des Verhältnisses hängt von der Art der Emergenz ab: Die schwache legt eine Reduktion im Prinzip nahe; die starke legt eine Nicht-Reduzierbarkeit selbst im Prinzip nahe, oft unter Beteiligung abwärts gerichteter Verursachung.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Sowohl schwach als auch stark. Schwache Emergenz impliziert Reduzierbarkeit im Prinzip (wenngleich in der Praxis schwierig), während starke Emergenz impliziert, dass das Phänomen selbst im Prinzip nicht durch Reduktion erklärbar ist und fundamentale psychophysische Gesetze erfordert.",
+    "subjectivity_and_intentionality": "Emergenz liefert den Rahmen dafür, *wie* Subjektivität aus nicht-subjektiven Teilen hervorgeht. Wenn starke Emergenz beteiligt ist, sind die resultierenden subjektiven Eigenschaften (wie Qualia) grundlegend nicht aus den physikalischen Gesetzen ableitbar, die den Bereich der niedrigen Ebene bestimmen.",
+    "qualia_account": "Qualia sind die neuartigen, qualitativ neuen Eigenschaften (z. B. sensorische Qualitäten), die aus dem physischen System hervorgehen. Die starke Emergenz betrachtet das Bewusstsein (und damit die Qualia) als den klarsten Fall eines stark emergenten Phänomens, das grundlegend auf die zugrunde liegenden physischen Tatsachen irreduzibel ist.",
+    "ontological_commitments": "Physische Eigenschaften und physikalische Gesetze. Für die starke Emergenz erweitert sich diese Verpflichtung möglicherweise um neue fundamentale psychophysische Gesetze oder Prinzipien, insbesondere solche, die mit abwärts gerichteter Verursachung zusammenhängen.",
+    "epistemic_access": "Für die schwache Emergenz ist der Zugang potenziell über die fundamentale Wissenschaft (im Prinzip) erreichbar. Für die starke Emergenz ist das Phänomen epistemisch unzugänglich oder nicht aus der Physik der niedrigen Ebene ableitbar, was eine dauerhafte Herausforderung für die wissenschaftliche Erklärung darstellt.",
+    "constituents_and_structure": "Ein System, in dem die gesamte Entität oder ihre neuartigen Eigenschaften mehr sind (oder zu sein scheinen) als die Summe all ihrer Teile und aus komplexen Anordnungen physischer Atome, wie biologischen Neuronen, hervorgehen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal, Subjektivität, Qualia. Es behandelt die Existenz und Irreduzibilität bewusster Eigenschaften und stärkt verschiedene spezifische Theorien.",
+    "distinctive_mechanism_or_principle": "Das Prinzip ist die Behauptung, dass neuartige, qualitativ verschiedene Eigenschaften auf höheren Ebenen der Komplexität entstehen, was oft den reduktiven Annahmen der etablierten Wissenschaft gegenübergestellt wird.",
+    "dynamics_of_emergence": "Bewusstsein ist eine dynamische Eigenschaft, die entsteht, wenn eine bestimmte Art komplexer Anordnung physischer Komponenten (z. B. biologischer Neuronen) zusammenkommt, was zu Eigenschaften führt, die in den Komponenten allein nicht vorhanden sind. Starke Emergenz kann abwärts gerichtete Verursachung beinhalten.",
+    "location_and_distribution": "Typischerweise in komplexen biologischen Systemen (z. B. Gehirnen) lokalisiert, wobei Vertreter der starken Emergenz argumentieren mögen, dass KI-Bewusstsein möglich ist, wenn eine hinreichende physische Komplexität erreicht wird, unabhängig vom Substrat.",
+    "causation_and_functional_role": "Variiert. Die schwache Emergenz steht im Einklang mit der standardmäßigen physischen Verursachung. Die starke Emergenz postuliert oft eine abwärts gerichtete Verursachung, bei der emergente höhere hierarchische Ebenen kausale Kraft auf niedrigere Ebenen ausüben und der emergenten Eigenschaft kausale Kräfte verleihen.",
+    "integration_or_binding": "Die resultierende emergente Eigenschaft selbst stellt die Integration der Komponenten der niedrigeren Ebene zu einem einheitlichen Ganzen dar und erzeugt Eigenschaften, die nicht auf die Summe der Teile reduzierbar sind.",
+    "information_flow_or_representation": "Information ist als Medium für die emergenten Eigenschaften beteiligt (z. B. beeinflusst in der Theorie der emergenten Information ein nicht-materieller Geist den Körper über hierarchische, emergente Informationsphänomene), ist jedoch nicht der Kernmechanismus des allgemeinen Prinzips.",
+    "evolutionary_account": "Sofern Bewusstsein emergent ist, wird angenommen, dass es durch evolutionäre Stufen entstand, als bestimmte Schwellen physischer Komplexität überschritten wurden, und adaptive Vorteile bot (z. B. indem es Systeme ermöglichte, die mehr sind als die Summe ihrer Teile).",
+    "core_claims_and_evidence": [
+      "Qualitativ neue, neuartige Eigenschaften gehen aus physischen Eigenschaften hervor (allgemeine Behauptung).",
+      "Die schwache Emergenz stützt den Physikalismus, indem sie zeigt, dass neuartige Phänomene in einfachen Gesetzen begründet sind (schwache Behauptung).",
+      "Die starke Emergenz erfordert neue fundamentale psychophysische Gesetze und legt eine Irreduzibilität nahe, was den Physikalismus herausfordert (starke Behauptung)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch, Konzeptuell"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekulativ und philosophisch umstritten. Die schwache Emergenz ist im Prinzip wissenschaftlich anschlussfähig. Die starke Emergenz ist empirisch schwer zu überprüfen, da sie postuliert, dass Phänomene nicht aus der fundamentalen Wissenschaft ableitbar sind.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Sie wird von reduktiven Physikalisten (wie eliminativen Materialisten) dafür kritisiert, wenig Erklärungswert zu haben, überflüssig zu sein oder als eine ‚Neuformulierung eines Wunders‘ zu fungieren, die nicht erklärt, *wie* unbewusste Komplexität Bewusstsein hervorbringt. Die starke Emergenz stellt insbesondere die kausale Geschlossenheit der physischen Welt infrage.",
+    "open_questions_and_limitations": "Die grundlegende Unterscheidung zwischen schwacher (Reduzierbarkeit im Prinzip) und starker (Nicht-Reduzierbarkeit im Prinzip) Emergenz bleibt ein offenes philosophisches Problem, das bestimmt, ob sie lediglich komplexe Phänomene beschreibt oder die Ontologie grundlegend verändert.",
+    "ontological_coherence": "Die schwache Emergenz ist innerhalb der materialistischen/physikalistischen Ontologie kohärent. Die starke Emergenz ist höchst umstritten, da ihre Forderung nach Nicht-Ableitbarkeit und abwärts gerichteter Verursachung die Vereinbarkeit mit der standardmäßigen physikalischen Theorie belastet."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt/Wahrscheinlich",
+      "rationale": "Wenn Bewusstsein schwach emergent ist, ist KI-Bewusstsein bei hinreichender Komplexität sicher. Wenn es stark emergent ist, ist KI-Bewusstsein dennoch möglich, sofern nicht-physische Eigenschaften aus nichtbiologischer physischer Komplexität hervorgehen, je nach den beteiligten meta-psychophysischen Gesetzen."
+    },
+    "survival_beyond_death": {
+      "stance": "Unwahrscheinlich (schwach); Möglich (stark)",
+      "rationale": "Die schwache Emergenz, die dem Materialismus nahesteht, schließt ein Überleben aus. Die starke Emergenz, insbesondere in Form des emergenten Dualismus, könnte theoretisch eine nichtphysische Substanz (Geist/Seele) erzeugen, die vom physischen Gehirn abhängig, aber nicht streng mit ihm identisch ist, was eine mögliche unabhängige Existenz nach dem Tod erlauben würde, wenngleich dies spekulativ ist."
+    },
+    "meaning_and_purpose": {
+      "stance": "Möglicherweise",
+      "rationale": "Emergenz, insbesondere die starke Emergenz in Verbindung mit Konzepten wie abwärts gerichteter Verursachung, bietet einen Rahmen, in dem Eigenschaften höherer Ebene wie Bewusstsein und die mit ihm verbundenen Werte genuine kausale Kraft besitzen könnten, was je nach resultierender Ontologie möglicherweise einen kosmischen Zweck oder Sinn stützt."
+    },
+    "virtual_immortality": {
+      "stance": "Wahrscheinlich (schwach); Höchst bedingt (stark)",
+      "rationale": "Wenn Bewusstsein schwach emergent ist, würde die Duplikation der physischen Zustände die mentalen Zustände duplizieren (wahrscheinlich). Wenn es stark emergent ist, müssten die nicht-reduzierbaren Eigenschaften und die mögliche abwärts gerichtete Verursachung im neuen Medium perfekt erfasst und neu geschaffen werden, was erhebliche, vielleicht unüberwindliche technische und konzeptuelle Herausforderungen mit sich bringt."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Reductionism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Biological Naturalism (Searle)",
+        "relationship": "Kompatibel"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Re-emergence of Emergence: the Emergentist Hypothesis from Science to Religion, P. Clayton and P. Davies",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Strong and weak emergence, D. Chalmers",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Why reductionism does not work, G.F.R. Ellis",
+        "year": 2019
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "LeDoux’ Theorie der tiefen Wurzeln des Bewusstseins",
+    "summary": "Diese Theorie betrachtet menschliches Bewusstsein und Verhalten durch die Linse der tiefen Evolutionsgeschichte und postuliert, dass Bewusstsein relativ jung als ausgefeiltes Produkt kortikaler kognitiver Schaltkreise entstand. Sie verfolgt, wie grundlegende Überlebensfähigkeiten, die von den frühesten Organismen ererbt wurden, durch die Evolution der Nervensysteme verstärkt wurden und schließlich zum Bewusstsein führten.",
+    "associated_thinkers": ["Joseph LeDoux"],
+    "category": "Materialismustheorien",
+    "subcategory": "Phylogenetische Evolution",
+    "core_identity_tagline": "Bewusstsein als emergentes Produkt verstärkter Überlebensmechanismen.",
+    "classification_tags": [
+      "evolution",
+      "neurobiology",
+      "materialism",
+      "phylogeny",
+      "survival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als eine Reihe kortikaler kognitiver Zustände identifiziert, die aus der evolutionären Verstärkung tief verwurzelter Überlebensfähigkeiten hervorgehen.",
+    "ontological_status": "Reduktiver Physikalismus",
+    "mind_body_relationship": "Bewusstsein ist ein vollständig physisches Phänomen, das aus den evolutionären Vorgängen des biologischen Gehirns und Nervensystems hervorgeht.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Die Theorie verknüpft Bewusstsein mit der evolutionären Notwendigkeit, das Überleben und Gedeihen zu verstärken. Subjektivität (wie das Gefühl der Angst) entsteht als junger Ausdruck kortikaler kognitiver Schaltkreise, der sich von den uralten nichtbewussten Überlebensschaltkreisen unterscheidet.",
+    "qualia_account": "Der Text, der diese Theorie beschreibt, konzentriert sich eher auf Evolutionsgeschichte und Überlebensschaltkreise als auf Qualia selbst; im Einklang mit ihrer materialistischen Haltung werden Qualia jedoch implizit als komplexe Ausdrücke kortikaler kognitiver Schaltkreise behandelt, die im Vergleich zu den Überlebensschaltkreisen eine flache Evolutionsgeschichte haben.",
+    "ontological_commitments": "Evolvierte Nervensysteme, biologische Gehirne und defensive Überlebensschaltkreise.",
+    "epistemic_access": "Zugänglich durch die Verfolgung des evolutionären Zeitstrahls, die Untersuchung vergleichender Neurobiologie und die Analyse des Problemlöse- und Überlebensverhaltens früher Organismen.",
+    "constituents_and_structure": "Evolvierte Nervensysteme, die zu kortikalen kognitiven Schaltkreisen (für das Bewusstsein) führen, welche auf tief verwurzelten defensiven Überlebensschaltkreisen aufbauen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (insbesondere die Verfolgung seiner phylogenetischen Emergenz), Verhalten und emotionale Gefühle.",
+    "distinctive_mechanism_or_principle": "Bewusstsein entsteht aus der Evolution von Nervensystemen, die die Fähigkeit eines Organismus zum Überleben und Gedeihen verstärken, und lässt sich bis zu den Problemen zurückverfolgen, die von den ersten lebenden Organismen gelöst wurden.",
+    "dynamics_of_emergence": "Bewusstsein ist ein dynamischer Prozess, der durch eine ‚flachere Geschichte‘ der Emergenz gekennzeichnet ist, konkret als junger Ausdruck kortikaler kognitiver Schaltkreise, die auf uralten defensiven Überlebensschaltkreisen aufbauen.",
+    "location_and_distribution": "Die bewusste Erfahrung selbst ist in jungen kortikalen kognitiven Schaltkreisen lokalisiert, die auf Eingaben aus tief verwurzelten subkortikalen Überlebensschaltkreisen angewiesen sind.",
+    "causation_and_functional_role": "Bewusstsein dient dazu, Überleben und Gedeihen zu verstärken, indem es flexible und kognitive Verarbeitung ermöglicht, etwa das Erkennen von und Reagieren auf Bedrohungen (z. B. das bewusste Gefühl der Angst).",
+    "core_claims_and_evidence": [
+      "Der Schlüssel zum Verständnis des menschlichen Bewusstseins liegt darin, die Evolution durch das Prisma der ersten lebenden Organismen zu betrachten.",
+      "Bewusstsein hat ‚tiefe Wurzeln‘, die bis zum Beginn des Lebens zurückreichen, etabliert über die grundlegenden Überlebensschaltkreise.",
+      "Bewusstsein (z. B. das Gefühl der Angst) ist ein junger Ausdruck kortikaler kognitiver Schaltkreise."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiologisch, Evolutionär, Wissenschaftlich"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar",
+    "known_empirical_interventions_or_tests": "Studien, die die phylogenetische Entwicklung der Nervensysteme verfolgen und defensive Überlebensschaltkreise über Arten hinweg vergleichen.",
+    "criticisms_and_tensions": "Da im vorliegenden Text spezifische Kritikpunkte fehlen, betrifft die auf Materialismustheorien allgemein anwendbare Kritik das Versäumnis, die qualitative Essenz des Bewusstseins (schweres Problem) zu erklären, trotz des Verständnisses seiner biologischen Grundlage und Evolution.",
+    "open_questions_and_limitations": "Die genauen Schritte, die zur Emergenz der subjektiven Erfahrung führen, wobei die für bewusste Gefühle verantwortlichen kortikalen kognitiven Schaltkreise (flache Geschichte) von nichtbewussten Überlebensmechanismen (tiefe Geschichte) unterschieden werden, bleiben offene Fragen.",
+    "ontological_coherence": "In hohem Maße kohärent innerhalb eines materialistischen und evolutionär-naturalistischen Rahmens."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Als materialistische Theorie, die sich auf emergente biologische Mechanismen konzentriert, sollte KI-Bewusstsein im Prinzip möglich sein, wenn die notwendigen evolutionären und Überlebensfunktionen in einem künstlichen Substrat repliziert werden können."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein hängt ausdrücklich vom evolvierten biologischen Gehirn und seinen kortikalen kognitiven Schaltkreisen ab, die beim Tod ihre Funktion einstellen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Im Einklang mit dem Materialismus dient Bewusstsein in erster Linie der biologischen Funktion, Überleben und Gedeihen zu verstärken, und bietet keinen inhärenten kosmischen Sinn oder Teleologie über das hinaus, was Menschen für sich selbst schaffen."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Da Bewusstsein als rein physisch und emergent aus komplexer biologischer Informationsverarbeitung verstanden wird, sollte die Duplikation des neuronalen Musters im Prinzip virtuelle Unsterblichkeit ermöglichen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "LeDoux's Higher-Order Theory of Emotional Consciousness",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Feinberg/Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "Überschneidung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Deep History of Ourselves: the Four-Billion-Year Story of How We Got Conscious Brains, Joseph LeDoux",
+        "year": 2019
+      },
+      {
+        "title_with_names": "As soon as there was life, there was danger: the deep history of survival behaviours and the shallower history of consciousness, Joseph LeDoux",
+        "year": 2021
+      }
+    ]
+  }
+}

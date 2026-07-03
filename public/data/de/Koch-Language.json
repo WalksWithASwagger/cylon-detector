@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Kochs Theorie, dass Bewusstsein nicht von Sprache abhängt",
+    "summary": "Diese Theorie behauptet, dass das phänomenale Bewusstsein, also die grundlegende innere Erfahrung, funktional unabhängig von der Sprachfähigkeit ist. Sie wird durch klinische Fälle gestützt, in denen die Sprachfähigkeit schwer beeinträchtigt oder verloren ist, das grundlegende Gewahrsein jedoch erhalten bleibt, was zu dem Schluss führt, dass grundlegende Empfindungsfähigkeit eine weit verbreitete Eigenschaft ist, die mit vielen nichtsprachlichen Tieren geteilt wird.",
+    "associated_thinkers": ["Christof Koch"],
+    "category": "Materialismustheorien",
+    "subcategory": "Sprachbeziehungen",
+    "core_identity_tagline": "Bewusstsein ist unabhängig von Sprache",
+    "classification_tags": [
+      "phenomenal consciousness",
+      "language",
+      "neurobiology",
+      "animal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird als ein physisches/biologisches Phänomen im Gehirn identifiziert, dessen grundlegender Mechanismus sich von der symbolischen Sprachverarbeitung unterscheidet und von ihr unabhängig ist.",
+    "ontological_status": "Physikalismus",
+    "mind_body_relationship": "Der Geist (grundlegendes phänomenales Bewusstsein) ist an die physischen Gehirnprozesse gebunden, die von den sprachlichen Prozessen getrennt sind.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz",
+    "subjectivity_and_intentionality": "Die grundlegende Subjektivität (Empfindungsfähigkeit) bleibt auch ohne Sprache erhalten. Sprache trägt maßgeblich zum Selbst als ‚narratives Zentrum‘ bei, das die höherstufigen Aspekte der Subjektivität ausmacht.",
+    "qualia_account": "Qualia (grundlegende innere Erfahrung) existieren in nichtsprachlichen Entitäten und sind unabhängig von symbolischen Fähigkeiten.",
+    "ontological_commitments": "Biologische Gehirne und die zugrunde liegenden physischen Mechanismen, die grundlegendes Gewahrsein erzeugen.",
+    "epistemic_access": "Zugänglich durch Beobachtung aus der Dritte-Person-Perspektive, insbesondere durch klinische Fälle, die eine Dissoziation zwischen Sprachverlust und Erhalt des Bewusstseins zeigen.",
+    "constituents_and_structure": "Bewusstsein entsteht aus physischen Gehirnmechanismen, die unabhängig von den zerebralen Strukturen sind, die der Sprache und dem inneren Sprechen gewidmet sind."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (grundlegende innere Erfahrung) und Empfindungsfähigkeit.",
+    "distinctive_mechanism_or_principle": "Das Prinzip der Dissoziation, bei dem das für das Bewusstsein notwendige und hinreichende neuronale Substrat (NCC) sich von den neuronalen Korrelaten der Sprache unterscheidet.",
+    "dynamics_of_emergence": "Grundlegendes Bewusstsein ist ein Produkt biologischer Prozesse, die sich unabhängig von der menschlichen sprachlichen Komplexität entwickelt haben.",
+    "location_and_distribution": "Lokalisiert im biologischen Gehirn; weit über Arten hinweg verbreitet (z. B. alle Säugetiere), unabhängig von der Sprachfähigkeit.",
+    "causation_and_functional_role": "Grundlegendes Bewusstsein funktioniert unabhängig von Sprachfunktionen. Die Rolle der Sprache besteht in erster Linie darin, höherstufige menschliche Funktionen wie das Selbstgefühl zu verstärken.",
+    "binding_and_unity": "Die Einheit der grundlegenden phänomenalen Erfahrung muss durch nichtsprachliche physische oder neuronale Mechanismen erreicht werden.",
+    "information_flow_or_representation": "Die Informationsverarbeitung im Zusammenhang mit roher Erfahrung erfordert keine symbolische Sprachrepräsentation.",
+    "evolutionary_account": "Bewusstsein entwickelte sich vor den menschlichen Sprachfähigkeiten, wie sein Vorhandensein bei nichtsprachlichen Tieren belegt, was darauf hindeutet, dass seine adaptive Rolle nicht von der Sprache abhängt.",
+    "core_claims_and_evidence": [
+      "Bewusstsein hängt nicht von Sprache ab.",
+      "Klinische Fälle von Gehirnschädigungen zeigen, dass Bewusstsein erhalten bleibt, wenn die Sprache verloren geht.",
+      "Empfindungsfähigkeit wird mit allen Säugetieren geteilt, wodurch die anthropozentrische Auffassung, dass nur Menschen etwas erleben, zurückgewiesen wird."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch, Klinisch und Philosophisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch überprüfbar durch neurowissenschaftliche Untersuchung nichtsprachlicher Tiere und klinische Forschung an Hirntraumaopfern, die trotz aphasischer Zustände anhaltendes Gewahrsein zeigen.",
+    "critiques_and_challenges": "Obwohl Koch gegen klassische Auffassungen argumentiert, die Sprache und Bewusstsein verknüpfen, stimmt der zeitgenössische wissenschaftliche Konsens bereits darin überein, dass grundlegendes Bewusstsein keine Sprache erfordert.",
+    "open_questions_and_limitations": "Die Theorie bestätigt, wovon Bewusstsein *nicht* abhängt (Sprache), liefert jedoch keine positive Lösung für das schwere Problem des Bewusstseins (d. h., was phänomenale Erfahrung buchstäblich ist).",
+    "ontological_coherence": "In hohem Maße kohärent innerhalb der materialistischen Kategorie, insbesondere für Argumente, die das grundlegende Gewahrsein vom komplexen, sprachvermittelten Selbstbewusstsein unterscheiden."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt",
+      "rationale": "Da Sprache für das Bewusstsein nicht notwendig ist, ist die sprachliche Fähigkeit der KI (LLMs) irrelevant. KI-Bewusstsein hängt vollständig davon ab, ob das notwendige nichtsprachliche physische Substrat in künstlichen Systemen repliziert werden kann."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Im Einklang mit ihrer materialistischen Einordnung ist das Bewusstsein an ein physisches Substrat (das Gehirn) gebunden und kann nach dem biologischen Tod nicht fortbestehen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Bewusstsein ermöglicht es dem Selbst, über die Sprache als narratives Zentrum zu funktionieren und so menschlich geschaffenen Sinn zuzulassen, doch die zugrunde liegende materielle Realität legt keinen letztgültigen kosmischen Zweck nahe."
+    },
+    "virtual_immortality": {
+      "stance": "Bedingt",
+      "rationale": "Wenn das Bewusstsein von der Sprache entkoppelt ist, verlagert sich der Fokus vollständig auf die Duplikation des nichtsprachlichen, physischen Substrats des grundlegenden Gewahrseins. Wenn diese spezifische nichtsprachliche neuronale Struktur dupliziert werden kann, ist virtuelle Unsterblichkeit möglich."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Searle’s Language and Consciousness",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Andrews’s Consciousness Without Complex Brains",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Smith’s Language as Classifier of Consciousness",
+        "relationship": "Überschneidung"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t Be Computed",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Consciousness doesn’t depend on language, Christof Koch",
+        "year": 2019
+      }
+    ]
+  }
+}
