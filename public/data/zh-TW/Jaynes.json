@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Jaynes 的「二分心智之崩潰」理論",
+    "summary": "該理論主張，意識（被界定為內省）是一種植根於語言與文化的習得行為，而非天生或根本性的性質。它認為意識在歷史上約於西元前第二千紀出現，其契機是一種被稱為「二分心智」的非意識心智狀態在社會層面的崩潰——這種心智狀態以聽覺幻覺為特徵。",
+    "associated_thinkers": ["Julian Jaynes"],
+    "category": "唯物論理論",
+    "subcategory": "語言關係",
+    "core_identity_tagline": "意識作為對世界的一種習得的語言／隱喻類比",
+    "classification_tags": [
+      "language",
+      "introspection",
+      "culture",
+      "historical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識，或稱「主觀意識心靈」，是對真實世界的一種類比，由一套源自外部行為的隱喻詞彙構建而成；它作為一種運作機制發揮功能，而非作為某種儲存庫或事物。",
+    "ontological_status": "物理論／唯物論（這一緊縮式理論被歸入唯物論，意味著意識完全是物質性的，儘管它是一種並不顯而易見的文化產物。）",
+    "mind_body_relationship": "同一論（心靈被隱含地視為與執行語言功能、組織隱喻性「心智空間」的大腦過程相同一；Jaynes 提出了一種涉及大腦兩半球的神經生物學相關物。）",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（意識被解釋為一種在演化上晚近出現的、非根本性的文化建構，建立於底層的生物機制與語言機制之上，這表明其在原則上可被化約。）",
+    "subjectivity_and_intentionality": "主體性由一個類比性的「我」所構成，該「我」在隱喻性的「心智空間」中與心理性的「看」相關聯。意向性則透過敘事化得以實現——即不斷將事件納入某個故事之中——這是對外部行為的一種習得的類比。",
+    "qualia_account": "感質被隱含地重新界定或加以摒棄，因為該理論關注的是「內省意識」，並將其與現象意識（「原始的內在經驗」）明確區分開來。",
+    "ontological_commitments": "語言／詞彙場、文化結構，以及腦區（大腦兩半球被認為是先前的二分心智狀態的相關物）。",
+    "epistemic_access": "語言分析、對「心智空間」的內省、歷史文本以及考古學證據。",
+    "constituents_and_structure": "主觀心靈被結構化為一個「心智空間」，由行為的隱喻與類比所構成，並透過敘事化、專注與抑制等過程動態地加以組織。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "內省意識、自我覺知、意志／決策，以及注意（「專注」）。（明確排除現象意識與感官覺知。）",
+    "distinctive_mechanism_or_principle": "二分心智狀態（其決策由聽覺幻覺作出）的歷史性崩潰，及其被一種以語言、隱喻方式構建的內在類比世界（「心智空間」）所取代。",
+    "dynamics_of_emergence": "意識是一個習得的、在歷史上湧現的過程（就系統發生而言，約在西元前第二千紀），它作為一種運作機制發揮功能，不斷將經驗納入敘事形式之中（敘事化）。",
+    "location_and_distribution": "該理論只賦予意識一種任意而功能性的位置，儘管作為其前身的二分心智被認為與大腦兩半球之間的通訊相關聯。",
+    "causation_and_functional_role": "意識的首要功能作用在於使個體得以對行為過程進行捷徑式的簡化，並作出更為恰當的決策，這與意志密切相關。",
+    "integration_or_binding": "整合透過「敘事化」——將事件納入一個連續的故事——以及「融貫」（即知覺同化的類比）得以實現。",
+    "information_flow_or_representation": "資訊被表徵為對真實世界的一種類比，藉助隱喻性語言（詞彙場）來促進抽象思維與決策。",
+    "evolutionary_account": "意識是一種習得行為，在人類身上演化得相對晚近（西元前第二千紀），其契機是社會動盪使二分系統崩潰之後對一種全新決策系統的需求。",
+    "core_claims_and_evidence": [
+      "意識植根於語言與隱喻，並非一種天生性質。",
+      "意識作為一種類比系統發揮功能，以簡化並改進決策。",
+      "早期人類社會以一種非意識的「二分心智」為特徵，其中的指令被感知為聽覺幻覺。",
+      "該理論由對古代文本的詮釋以及神經生物學的偏側化（推測性地）予以支持。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、語言學的、心理史學的、神經生物學推測。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗／推測性（其核心的歷史與語言主張更多有待於學界爭論，而非傳統的經驗驗證，且該理論並未被專家廣泛接受。）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "該理論使用了一種特異的意識定義（「內省意識」），將現象意識排除在外，而現象意識恰恰是該領域探究的主要對象。它並未被意識研究專家所接受。",
+    "open_questions_and_limitation": "其首要侷限在於未能對傳統意義上界定的現象意識（「原始的內在經驗」）加以解釋或承認。",
+    "ontological_coherence": "融貫（對語言建構與文化建構的依賴，與一種緊縮式的唯物論存有論相契合，該存有論將意識視為一種複雜的、功能性的湧現性質。）"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "如果意識是一種從根本上植根於語言與資訊過程的習得類比／運作機制，那麼大型語言模型與人工智慧的進展便有可能將這種形式的意識實例化。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種物理論與緊縮式理論，意識與大腦的物理機制及其所支撐的語言結構相綁定，因而沒有任何基礎可支持其在物理死亡之後存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本層面",
+      "rationale": "意識服務於一種功能性的、由生存驅動的目的（改進決策），此目的源自生物與文化的需要，並不提供任何內在的宇宙意義。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "既然心靈由能夠被上傳或在非生物基質中複製的語言與隱喻結構所界定（類似於軟體），那麼在這一模型下，虛擬永生在概念上便是可行的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "相容"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Language Theories (General)",
+        "relationship": "延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Consciousness and the voices of the mind",
+        "year": 1987
+      }
+    ]
+  }
+}

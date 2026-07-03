@@ -1,0 +1,81 @@
+{
+  "id_and_class": {
+    "theory_title": "Frank/Gleiser/Thompson 的《盲點》",
+    "summary": "此架構藉由主張意識與具身性的相互首要地位來批判傳統的唯物論與二元論進路，論稱一切科學研究必然發生於「意識的視域」之內。它將「難問題」界定為「盲點」的產物——即在追求客觀真理時，未能認識到經驗這一不可化約的先決條件——並倡議朝神經現象學進行根本性的轉向。",
+    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
+    "category": "唯物論理論",
+    "subcategory": "具身與生成",
+    "core_identity_tagline": "作為不可化約先決條件與具身怪圈的意識",
+    "classification_tags": [
+      "embodiment",
+      "phenomenology",
+      "non-reductionism",
+      "strange loop",
+      "critique"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為科學知識不可化約的先決條件，寓居於一個無可逃避的「視域」之內，並與具身性相互交纏。",
+    "ontological_status": "非化約的物理論／現象學實在論（推論所得的立場，因為該理論明確拒斥化約論與物理論，卻倡議一種基於經驗與具身性首要地位、且有科學根據的觀點。來源將其歸類於唯物論／具身與生成之下）。",
+    "mind_body_relationship": "此關係被描述為一種「怪圈」，其中「意識的首要地位」涵攝具身性，而「具身性的首要地位」涵攝意識，這需要一種整合的觀點。",
+    "primitive_or_emergent_status": "原初的／根本的（意識被刻劃為知識「不可化約的先決條件」與「不可消除的首要地位」，並非某種從物理物質依序產生之物，儘管它與具身性相互依存）。",
+    "emergence_type": "不適用（該理論拒斥化約論、物理論與客觀主義的架構，而這些架構是傳統弱湧現或強湧現論證所必需的。其關係是一種「交纏」）。",
+    "subjectivity_and_intentionality": "主體性（第一人稱經驗）被賦予「首要地位」，是該理論的核心，並拒斥那些企圖在此觀點之外理解意識的進路（盲點）。意向性經由神經現象學等相關概念而隱含地整合其中。",
+    "qualia_account": "經驗的質性本性（難問題）被駁斥為「盲點的產物」，意即它是內建於化約性形上學之中的問題，無法在那些術語下獲得解決。",
+    "ontological_commitments": "意識的首要地位、具身性的首要地位，以及兩者之間的怪圈關係。",
+    "epistemic_access": "意識藉由承認「我們無可逃避地運用意識來研究意識」而被認識。通達透過神經現象學的方法論而達成，後者將第一人稱（現象學）與第三人稱（神經科學）的說明交織起來。",
+    "constituents_and_structure": "其基本結構是意識與具身性相互涵攝的「怪圈」。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、第一人稱主觀經驗，以及經驗者與世界之間必然的關係（具身性）。",
+    "distinctive_mechanism_or_principle": "指認「盲點」（人類在追求客觀真理時對經驗的遺忘），並倡議轉向神經現象學，以將經驗的首要地位納入科學之中。",
+    "dynamics_of_emergence": "意識與具身性動態地「彼此交纏」，而非其一線性地生出另一者。",
+    "location_and_distribution": "其位置是「意識的視域」，它涵攝世界並與身體（具身性）密不可分地繫結。",
+    "causation_and_functional_role": "意識充當知識獲取（包括科學知識）的必要脈絡（視域）與先決條件。其功能性角色植根於心靈與生命歷程之間不可分割的連結。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "透過應用神經現象學方法而在概念上可檢驗，旨在產生新的經驗，作為推進現象學與神經科學兩者的試金石。",
+    "known_empirical_interventions_or_tests": [
+      "神經現象學（將第一人稱經驗報告與第三人稱大腦數據交織）",
+      "第一人稱經驗方法（例如冥想）以精煉注意力與覺知"
+    ],
+    "criticisms_and_tensions": "該理論與既有的唯物論理論存在張力，因為它拒斥化約論、物理論，以及意識是一種幻覺的觀念，反而論稱這類進路是「盲點的產物」。此一根本性的背離挑戰了主流科學方法論的核心基礎。",
+    "open_questions_and_limitations": "該理論提議藉由揭示難問題的錯誤前提來消解它，而非在傳統科學參數內解決它，這需要對意識科學進行重大的翻修。",
+    "ontological_coherence": "在其自身架構內具高度融貫性，因為它系統地指認出競爭理論（NCC、二元論、幻覺論）由於共同信守「盲點」世界觀而在概念上有缺陷。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定",
+      "rationale": "該理論視意識為在「怪圈」之內與具身的第一人稱經驗內在地相連。由於它們批判大多數人工智慧進路所依據的計算功能論，因此單純的非生物計算是否能達成此不可化約的、具身的意識並不清楚。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確定",
+      "rationale": "該理論強調具身性的首要地位，顯示意識繫於有機體。然而，其非化約的立場支持一種基於經驗首要地位的科學，並不排除存續的可能性，儘管來源並未指明立場。"
+    },
+    "meaning_and_purpose": {
+      "stance": "內在的／存在的",
+      "rationale": "該理論旨在重新奪回「人類經驗在科學事業中的核心地位」，這意味著意義與價值根本上就存在於意識與經驗這一不可化約的實在之中。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能",
+      "rationale": "虛擬永生仰賴於對心理狀態的成功數位化與複製（計算功能論）。由於該理論視意識為一種不可化約的、具身的現象——一個「怪圈」——它強烈地意味著，由於其拒斥背後的化約論哲學，心靈上傳將是不可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Neurophenomenology", "relationship": "支持／延伸" },
+      { "name": "Embodied and Enactive Theories", "relationship": "契合" },
+      {
+        "name": "Reductionism/Physicalism",
+        "relationship": "批評／拒斥"
+      },
+      { "name": "Francisco Varela’s work", "relationship": "影響" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Blind Spot: Why Science Cannot Ignore Human Experience, A. Frank, M. Gleiser, E. Thompson",
+        "year": 2024
+      }
+    ]
+  }
+}

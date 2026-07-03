@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "明斯基的心智社会",
+    "summary": "该理论主张，人类的认知与智能涌现自大脑中众多专门化、半独立的功能元件（称为“智能体”）之间并行的、非意识的交互。意识本身被视为一个“手提箱词”，被含混地用来标示这些各式各样的认知与觉知过程的集合，而非某个单一的统一实体。",
+    "associated_thinkers": ["Marvin Minsky"],
+    "category": "唯物主义",
+    "subcategory": "神经生物学",
+    "core_identity_tagline": "“作为智能体之手提箱词的意识”",
+    "classification_tags": [
+      "computational",
+      "modularity",
+      "agents",
+      "functionalism",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一种集体性的高层描述，用以指称由大脑中底层计算智能体所生成的各种涌现过程与现象（例如各类记忆、各种专门化的觉知）。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "心灵／意识完全由大脑中专门化计算单元（“智能体”）的物理组织与活动所产生，并且是对其的一种高层描述。关键在于组织方式，而非物质基底。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现（理据：作为一个计算唯物主义框架，心灵状态的结构与组织尽管复杂，但根本上可还原为被界定的非意识智能体之间的交互，这意味着在高层描述之外不存在不可还原的“魔法”。）",
+    "subjectivity_and_intentionality": "主体性（自我感）作为一种高层过程而产生：系统能够为自身建立一个“作为世界中的存在者”的模型，并利用该模型对其过去与未来进行高层思考。意向性由专门化智能体的输出所承载。",
+    "qualia_account": "感受质被隐含地当作意识这一误导性“手提箱词”的一部分而予以排除，这个词将注意力从复杂的底层过程上引开。该理论剖析了各种形式的觉知（例如回忆一种感觉与回忆一些词语的区别），但拒斥一种不可还原的现象感受。",
+    "ontological_commitments": "专门化的认知智能体、层级化的组织层次、物理脑结构（例如皮层柱），以及高层计算描述。",
+    "epistemic_access": "主要通过研究高层脑组分（“智能体”）的计算组织、功能与关系，而非聚焦于低层神经元或主观内省。",
+    "constituents_and_structure": "被称为“智能体”的简单、无心智、专门化的加工单元，它们被组织成一个庞大的、由相互协作、半独立的机器构成的网络，这一网络源于演化过程中的专门化与联合。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "通达、认知、记忆、自我觉知（作为建立模型）、规划、问题求解、多种不同类型的觉知。",
+    "distinctive_mechanism_or_principle": "心智社会架构，其中复杂的高层功能通过大规模、层级化的协作，以及随之从简单、非意识的智能体中产生的高层描述而得以实现。",
+    "dynamics_of_emergence": "动态过程。觉知通过神经元不断专门化与联合的历史进程而发展，导致日益复杂的层级化组织（大脑组织的多个层次）。",
+    "location_and_distribution": "分布于大脑组织的多个层次，被构想为一个由专门化计算机构成的庞大网络。支持者反对为“意识”寻找单一的物理位置，因为它是一个复合性的词。",
+    "causation_and_functional_role": "意识描述的是一些高层控制功能，如识别错误、发展新目标，以及建立自我模型以生成规划方案和反事实历史。这种复合功能提供了适应性的生存价值。",
+    "integration_or_binding": "整合隐含地通过数百个专门化智能体之间的复杂交互而发生，其输出被解释为高层的统一描述（第5级思想）。",
+    "information_flow_or_representation": "信息在各组织层次间被层级化地加工。高层描述至为关键，需要位于神经生理活动之上许多层次的专门化认知机构（智能体）。",
+    "evolutionary_account": "认知／心灵是一段漫长演化史的最终产物，其间的进步通过原始神经元之间的专门化与联合而取得，最终导向了不同于早期动物的复杂组织结构。",
+    "core_claims_and_evidence": [
+      "意识是对多样过程的一个复合性、隐喻性标签（一个“手提箱词”）。",
+      "其底层架构是一个由专门化生物机器（智能体）构成的庞大网络。",
+      "理解低层神经元活动不足以解释高层思想与认知过程。"
+    ],
+    "basis_of_belief_or_evidence_type": "计算、哲学（人工智能视角）、神经生物学（组织层级）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上与计算上可检验（理据：由于意识纯粹通过功能机制与组织层级来定义，其原理可以在先进的人工系统中加以实现和检验）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "针对意识研究的主要批评是，研究者在意识只是许多过程的一个词时，却浪费时间去寻找单一的物理“意识所在的脑中位置”。它还面临还原论功能主义所受的标准批评，即排除了真正的主观感受质。",
+    "open_questions_and_limitations": "其局限在于一项艰巨的任务：精确地确定被归入“手提箱词”之下的每一个组分过程如何运作，以及它们如何相互关联。",
+    "ontological_coherence": "在一个强调复杂计算组织与功能分解的物理主义框架内高度融贯，与功能主义的哲学立场相一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "若意识产生于专门化智能体之间必要的计算交互及其高层描述，那么能够实例化这一特定形式高层组织的人工系统就应当具有意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全依赖于生物大脑／机器的物理存在与功能组织；其瓦解意味着心灵的永久终结。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主义／实用主义",
+      "rationale": "复杂认知组织（意识）的功能性目的在于帮助有机体在世界中导航、制定计划并为自身建模，这提供了主观意义，但并不意味着任何总揽性的宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "由于心灵是由其信息模式与功能组织（高层描述）所定义，那么将其完整复制或上传到一个能够复现这些复杂交互的非生物介质中，将会转移原有的意识同一性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "相容"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "扩展"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "扩展"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Society of Mind, Marvin Minsky",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Why is Consciousness So Mysterious?, Marvin Minsky",
+        "year": 2007
+      }
+    ]
+  }
+}

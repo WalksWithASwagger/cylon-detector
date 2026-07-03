@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "勒杜的情緒意識高階理論",
+    "summary": "該理論主張，諸如恐懼之類的有意識情緒感受，與知覺性的意識經驗並無根本差異，二者都源自以皮質為基礎的一般認知網絡（GNC），後者生成對低階資訊的高階表徵（HOR）。現象意識的本質在於對某個先前高階狀態的再表徵，被稱為 HOROR（對表徵的高階表徵）。",
+    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "category": "唯物論",
+    "subcategory": "表徵主義",
+    "core_identity_tagline": "意識作為對情緒狀態與知覺狀態的高階表徵",
+    "classification_tags": [
+      "neurobiology",
+      "emotion",
+      "higher-order",
+      "representation",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種三階狀態（HOROR），具體而言是對低階資訊的恰當高階表徵（HOR），由以皮質為基礎的一般認知網絡（GNC）所實現。",
+    "ontological_status": "物理論。該理論是唯物論的，主張意識源自大腦中的某一系統，實現於皮質迴路之中。",
+    "mind_body_relationship": "同一性／因果依賴。心理狀態（有意識的情緒感受與知覺經驗）完全依賴於特定的物理過程與網絡（GNC、皮質迴路），並在其中得以實現。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（理由：作為一種聚焦於可發現神經機制的詳盡神經生物學／唯物論理論，意識的複雜性被假定原則上可從物理過程中推導出來。）",
+    "subjectivity_and_intentionality": "當自我被納入 HOROR 狀態時，主體性（即富有情緒的、具自我覺知的經驗）便隨之產生。意向性之所以得以實現，是因為意識從根本上是表徵性的（對資訊的高階表徵）。",
+    "qualia_account": "現象經驗在於擁有對低階資訊的恰當高階表徵，這是一種類思想的狀態，實現了那種以現象方式呈現、並可經內省通達的經驗。該理論旨在解釋由這些高階表徵所中介的主觀的「感受如何」。",
+    "ontological_commitments": "以皮質為基礎的一般認知網絡（GNC）、高階表徵（HOR）、神經迴路（如前額葉皮質、感覺皮質）以及低階資訊。",
+    "epistemic_access": "內省（被動的覺察與主動的審視）導向現象經驗。其底層機制可透過神經生物學研究與認知建模加以通達。",
+    "constituents_and_structure": "一個多狀態的層級模型，涉及初級低階狀態（感覺皮質）、次級低階狀態（記憶區域）、次高階狀態（中皮質前額葉皮質）以及高階狀態（有顆粒前額葉皮質），後者對資訊進行索引與再表徵，以建構心理模型。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、情緒意識（如恐懼）、知覺意識、自我覺知（作為一種「存在的集合」）以及有意識的能動性。",
+    "distinctive_mechanism_or_principle": "對表徵的高階表徵（HOROR）的實現，這是有意識經驗所必需的三階認知狀態。該機制是類思想的、非推論性的，使一個非意識的高階表徵成為可經內省覺知的。",
+    "dynamics_of_emergence": "意識是複雜的多狀態層級處理的產物，它透過認知解讀動態地產生，尤其服務於維持一種心理統一感。",
+    "location_and_distribution": "皮質結構，尤其是前額葉皮質（有顆粒區與次顆粒區），它承載 GNC 與高階狀態，並與感覺皮質和記憶皮質（低階狀態）相互作用。",
+    "causation_and_functional_role": "HOROR 的形成使有意識經驗（恐懼感受、知覺）成為可能，提供有意識的能動性，並使抽象的心理語言敘事得以表達，從而驅動外顯行為與言語表達。",
+    "integration_or_binding": "整合透過認知組裝實現，在此非意識的皮質下輸入與其他神經訊號相匯合，形成有意識的情緒經驗。高階狀態對各種其他狀態進行再表徵，以在工作記憶中建構統一的心理模型。",
+    "information_flow_or_representation": "資訊從一階的知覺／威脅表徵出發，經由非意識的高階表徵，最終進入有意識的 HOROR，後者是可經內省通達的類思想狀態。",
+    "evolutionary_account": "意識在演化中出現得較晚，建立於先前的「存在領域」（身體的、神經的、認知的）之上；神經系統的演化提升了生存能力，最終導向精密的有意識大腦。",
+    "core_claims_and_evidence": [
+      "有意識經驗（情緒的與知覺的）源自大腦中的單一系統（以皮質為基礎的 GNC）。",
+      "有意識感受是實現於皮質迴路中的高階狀態。",
+      "現象意識涉及擁有一種三階狀態（HOROR），即對某個非意識高階表徵的內省覺知。",
+      "該理論拒斥傳統觀點，即認為情緒狀態僅先天編程於皮質下區域。"
+    ],
+    "basis_of_belief_or_evidence_type": "神經生物學的、認知的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗，尤其可透過檢驗有意識經驗與所描述的特定層級皮質網絡中活動模式之間的相關性（例如前額葉皮質在生成 HOROR 狀態中的參與）。",
+    "known_empirical_interventions_or_tests": "依賴於辨識皮質結構（如前額葉皮質及感覺／記憶區域）中與層級表徵處理相對應的活動，這與關於認知功能和後設認知功能的研究相一致。",
+    "criticisms_and_tensions": "它面對針對高階理論（HOT）的普遍質疑，即關於高階狀態本身之性質的問題，具體而言是一種類思想的表徵如何使一階狀態成為有意識的（Block 針對一般高階理論所指出的「謎團」）。它也挑戰了關於情緒定位的傳統觀點。",
+    "open_questions_and_limitations": "由所產生的有意識心理模型中能否湧現出有意識的能動性（自由意志），仍是一個有爭議的問題。",
+    "ontological_coherence": "高。該理論為意識與情緒經驗提供了一條詳盡的神經認知路徑，與唯物論及自然主義解釋高度一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作為一種基於層級資訊處理（GNC／HOROR）的唯物論功能理論，意識原則上可在能夠實現所需計算結構與表徵結構的非生物系統中被複製。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全是高度複雜的、物理上得以實現的生物系統（皮質迴路與 GNC）的產物，未為身體的物理存在之外的存續提供任何資源。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人文意義",
+      "rationale": "意識是一種演化而來的生物機制，它提升生存能力並使以自我為中心的情緒狀態成為可能，但該理論並不設定任何終極的、宇宙性的或超越性的意義或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然第一人稱自我奠基於大腦複雜的、功能性的與表徵性的狀態，那麼透過上傳技術對這些物理狀態進行完美複製，原則上便能保存自我並實現虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "批評"
+      },
+      {
+        "name": "Traditional Higher-Order Thought Theory (HOT)",
+        "relationship": "精細化"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, J. LeDoux and R. Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Four Realms of Existence - A New Theory of Being Human, J. LeDoux",
+        "year": 2023
+      }
+    ]
+  }
+}

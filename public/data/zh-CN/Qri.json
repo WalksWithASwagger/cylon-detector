@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "QRI 的状态空间、感受质形式主义与效价实在论",
+    "summary": "该模型主张意识由其内部的主观结构（“感受质形式主义”）所界定，这一结构可被精确地以数学方式表征为一个庞大的“意识状态空间”。情感性经验（“效价实在论”）被视为这一空间内一种根本的、真实的属性，并在数量上与该几何结构的对称性相联系。",
+    "associated_thinkers": [
+      "Qualia Research Institute (QRI)",
+      "Michael Edward Johnson"
+    ],
+    "category": "一元论",
+    "subcategory": "状态空间、感受质形式主义、效价实在论",
+    "core_identity_tagline": "作为可数学表征之状态空间与效价的意识",
+    "classification_tags": [
+      "qualia formalism",
+      "valence realism",
+      "state-space",
+      "dual-aspect monism",
+      "mathematical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一个大得难以想象的、类维度的“意识状态空间”。现象属性是世界的根本特征，而非计算的自发产物。",
+    "ontological_status": "双面一元论或中立一元论。该框架与一种扩展的物理主义相容，在其中定律描述感受质之场。",
+    "mind_body_relationship": "双面／中立一元论。意识（心灵）要么是物理实在（身体）的一个互补面向，要么派生自一种共同的中立实体。",
+    "primitive_or_emergent_status": "原初（现象属性是世界的根本特征）。",
+    "emergence_type": "不适用（核心现象属性被断言为根本的、而非涌现的，这将它与泛原心论的诸变体区分开来）。",
+    "subjectivity_and_intentionality": "主体性从根本的感受质空间的现象结构中内在地产生。意向性（思想的指向性）在来源中未被明确详述，但可在状态空间几何结构内以数学方式建模。",
+    "qualia_account": "感受质（现象属性）由数学概念——主要是几何与对称性（感受质形式主义）——加以精确形式化。效价（情感性质）是一种真实的、根本的、可量化的属性。",
+    "ontological_commitments": "现象属性、一个意识状态空间，以及精确的数学／几何关系（对称性）。",
+    "epistemic_access": "可通过应用于主观经验内部结构的严格数学建模（感受质形式主义）来通达，并辅以对效价的现象学观察。",
+    "constituents_and_structure": "基本结构是一个由其几何所界定的庞大的、类维度的状态空间。个体经验是由其对称性所刻画的离散几何结构（点），这些对称性与效价相关联。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象（感受质形式主义、效价实在论）。",
+    "distinctive_mechanism_or_principle": "效价对称理论，它主张一段经验的愉悦性／不愉悦性取决于该经验之信息几何结构中的对称性或对称性的缺失。",
+    "dynamics_of_emergence": "动态过程（意识状态空间被描述为以“超几何方式”增长，并由不断运动的状态构成，暗示的是动态流变而非静态实体）。",
+    "location_and_distribution": "系统性／状态空间。意识存在于一个庞大的、独立的、类维度的状态空间之中，与感受质之场（扩展的物理主义）相容。",
+    "causation_and_functional_role": "就功能必要性而言未加说明。然而，效价被视为一种真实的、有明确定义的属性，暗示其在经验中具有因果角色并可能引导适应性行为，尽管这一机制并未给出。",
+    "integration_or_binding": "整合内在于那个表征状态空间内单一意识知觉的单一几何结构之中。",
+    "information_flow_or_representation": "有意识的处理在根本上是信息性与表征性的，可完全还原为数学模式与结构（几何）。",
+    "evolutionary_account": "未明确详述。该模型聚焦于意识的根本结构而非其演化起源，不过现象属性并非专由计算所触发。",
+    "core_claims_and_evidence": [
+      "现象属性是世界的根本特征。",
+      "主观经验（感受质）的内部结构可被数学精确地映射。",
+      "情感效价是一种真实属性，与几何结构的对称性相联系（效价实在论／效价对称理论）。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的；现象学的；数学的（形式主义）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的／数学的（要求将现象结构／效价的数学模型与所测量的经验相关联）。",
+    "known_empirical_interventions_or_tests": "来源中未明确列出，但相关研究很可能涉及将高度特定的情绪或知觉状态与底层神经活动／信息结构中所预测的对称性相关联。",
+    "criticisms_and_tensions": "该理论拒斥功能主义，以要求植根于现象学的数学形式性而自我区别。它必须克服一元论所固有的挑战：将抽象的现象结构（状态空间）与物理实在相联结。",
+    "open_questions_and_limitations": "类维度状态空间的确切本性仍未加说明，数学对称性借以转化为质性效价的确切机制亦然。",
+    "ontological_coherence": "高，因为它自洽，并明确尝试将现象经验形式化，遵循双面一元论或中立一元论的立场。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不确定／有条件",
+      "rationale": "意识要求在状态空间内复制精确的数学与几何结构，这一条件在非生物基质中难以验证或实现；此外，该理论明确拒斥简单的计算功能主义。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能",
+      "rationale": "作为一种将现象属性归类为根本且不可还原为特定生物物质的一元论理论，意识的存在并不以生物大脑／身体的存续为前提，从而允许现象状态空间以某种形式在死后持存。"
+    },
+    "meaning_and_purpose": {
+      "stance": "有条件／内在",
+      "rationale": "效价（“好”或“坏”）被视为有意识状态一种根本的、内在的属性，暗示价值有一个客观基础，尽管并未明确主张宇宙目的论。"
+    },
+    "virtual_immortality": {
+      "stance": "有条件",
+      "rationale": "只有当技术能够充分捕捉并完美复制个体在庞大状态空间内独特的几何意识结构时才有可能，而这要求极高的精度，超出当前的理解。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory (IIT)",
+        "relationship": "相容／重叠（共享并利用将意识经验映射到独特数学结构的概念）。"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "相容（QRI 表示其观点“大体上与泛心论观点相契合”）。"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批评（QRI 明确拒斥功能主义）。"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Qualia Formalism and a Symmetry Theory of Valence",
+        "year": 2023
+      },
+      {
+        "title_with_names": "QRI FAQ",
+        "year": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "原住民宗教中的灵魂",
+    "summary": "这一类别汇集了全球原住民宗教与民间宗教中形形色色的灵魂概念。这些信仰通常涉及多种多样的、非物质的灵魂组成部分，其中一些被认为在死亡时消失，另一些则得以存续，反映出传统二元论的若干面向。",
+    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
+    "category": "二元论",
+    "subcategory": "原住民宗教中的灵魂",
+    "core_identity_tagline": "多样、普遍、历时不衰的灵魂信仰",
+    "classification_tags": [
+      "indigenous",
+      "folk religion",
+      "soul belief",
+      "dualism",
+      "anthropology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识或“自我”被认定为源自一种或多种灵性或非物质的灵魂实体，或由其构成，区别于物质身体。",
+    "ontological_status": "传统二元论／多面向的灵性论。这些体系假定存在多个各异、根本的存在范畴（灵性／灵魂与物质／身体）。",
+    "mind_body_relationship": "复杂的、常为部分性的二元论互动／相关。灵魂组成部分赋形或赋予身体以生命，但某些灵魂组成部分可能存续于物质身体之后或先于其存在，表明其独立性。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "不适用。由于灵魂常被描述为先在的或源自某位创造者，它被视为一种根本实体，而非从物质过程中涌现。",
+    "subjectivity_and_intentionality": "主体性与意向性内在于非物质的灵魂实体本身，后者常被认为能选择命运（如埃维族传统）或界定人格。",
+    "qualia_account": "未作明确界定。其关注点在于灵魂实体的存在与持存，意味着质性经验是灵性组成部分的内在属性。",
+    "ontological_commitments": "物质身体与多种非物质的灵魂实体（如不同类型的灵魂、生命之气、脱离肉体的精灵）。",
+    "epistemic_access": "知识通过宗教传统、文化知识、个人信仰以及灵性或变容性经验而被通达，而非通过系统的第三人称科学观察。",
+    "constituents_and_structure": "有意识的结构由形形色色的灵魂类型构成（如加蓬芳族所承认的七种类型），它们对死后归宿的划分常带有层级性或功能性的区别。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "死后存续、人格同一性、灵性存在与命运。",
+    "distinctive_mechanism_or_principle": "灵性起源（灵魂源自某位创造者）以及通过特定的物质或仪式行动（如战斗、朝圣）获得，是关涉灵魂之创造或增益的关键原理。",
+    "dynamics_of_emergence": "灵性起源。灵魂常被描述为从化身起或化身之前就存在，源自一位全能的精灵或至高的创造者。",
+    "location_and_distribution": "其位置是个体性／个人性的，尽管有时系于物质属性（如气息或血液）。这些信仰体系本身在地理上无处不在。",
+    "causation_and_functional_role": "灵魂决定或选择个体的命运，是在肉体死亡后得以存续的组成部分。",
+    "integration_or_binding": "隐含的。虽然一个个体之内可能存在多种灵魂类型，但它们据以绑定为单一统一经验的机制并未详述，不过它们共同界定了这个人。",
+    "information_flow_or_representation": "未作明确讨论。这些概念先于把信息加工作为意识解释因素的现代理论。",
+    "evolutionary_account": "不适用／灵性起源取代了生物演化。灵魂常源自某个终极来源，与自然的系统发育演化相对照。",
+    "core_claims_and_evidence": [
+      "灵魂信仰是广泛存在、历久不衰的人类学材料，意识研究应予以承认。",
+      "人由多个各异的灵魂组成部分构成，暗示身份的一种复杂配置。",
+      "灵魂的某些部分在肉体死亡后得以存续，从而允许死后存续。"
+    ],
+    "basis_of_belief_or_evidence_type": "人类学材料、宗教传统、文化史。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／人类学性。作为古老的信仰体系，这些概念不受制于现代科学的实验或证伪方法。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "由于缺乏哲学上的精致或经验基础，常被主流研究者归为“前现代”或“前科学”。并没有人主张这些信仰能严格佐证现代哲学二元论。",
+    "open_questions_and_limitations": "各种灵魂面向与现象意识之间的关系被松散地界定。该模型未提供一种与当代物理学相容、可解释互动的因果机制。",
+    "ontological_coherence": "在特定的文化框架内部是融贯的，但由于依赖非物质实体，与物理主义和唯物主义的本体论框架从根本上不一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意识需要一种源自非物质来源或某位创造者的灵性组成部分（灵魂／精神），而人工系统内在地缺乏这种成分。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "死后存续是核心特征，因为灵魂的若干组成部分被认为在生物性身体死亡后得以存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／存在性",
+      "rationale": "这些信仰体系通过假定先在性、源自某位创造者的灵性起源，以及一个统辖个体命运的总体结构，蕴含了终极意义。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "不朽通过原初灵性灵魂的持存而实现，无法经由对身体功能模式的技术复制或模拟而获得。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Historical and Traditional Dualisms",
+        "relationship": "相容"
+      },
+      {
+        "name": "Soul in Islamic Philosophy",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Soul: concepts in indigenous religions, C. Rivière",
+        "year": 1987
+      },
+      {
+        "title_with_names": "The concept of soul in Chinese folk religion, S. Harrell",
+        "year": 1979
+      }
+    ]
+  }
+}

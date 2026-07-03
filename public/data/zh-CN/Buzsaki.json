@@ -1,0 +1,114 @@
+{
+  "id_and_class": {
+    "theory_title": "布扎基的神经句法与自因节律",
+    "summary": "该理论将大脑呈现为一个自组织系统和一台'预言装置'，它持续生成内在的模式与节律（神经句法）。认知被理解为一种内化的行动，当大脑从其感觉器官脱离而去考察'如果……会怎样'的情景时便涌现出来。当这些内部模式经由与环境基于行动的交互而被落地时，意义随后才被获得。",
+    "associated_thinkers": [
+      "György Buzsáki"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "神经生物学",
+    "core_identity_tagline": "'意识即植根于行动的自因神经节律'",
+    "classification_tags": [
+      "neurobiological",
+      "rhythms",
+      "action-based cognition",
+      "emergentism",
+      "predictive processing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识，若由这一认知理论发展而来，被认定为自涌现的振荡计时以及相应的动态、自组织的神经模式（神经句法）。大脑从根本上是创造信息，而非加工信息。",
+    "ontological_status": "物理主义/唯物主义",
+    "mind_body_relationship": "心灵（认知/意识）作为源自极其复杂的中枢神经系统的自因功能，与身体相关联。这在唯物主义框架内作为一种同一或涌现相关而发挥作用。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现（其归类于唯物主义为此提供了理由，唯物主义主张意识可由物理状态完全解释，即便它源自复杂过程）。",
+    "subjectivity_and_intentionality": "主体性被推断为源自'由内而外'的视角，其中大脑主动地投射并针对世界检验假设。意向性与大脑作为一台预言装置的目的相关联，该目的聚焦于生成并预测行动的后果。",
+    "qualia_account": "未予明确提供。该理论主要关注认知的机制。它暗示现象性质将源自复杂神经句法的组织，这与其作为一种神经生物学唯物主义理论的分类相一致。",
+    "ontological_commitments": "神经元集群、动态脑节律、皮层系统中既有的连接/动力学，以及神经句法。",
+    "epistemic_access": "对神经元活动的观察与建模，具体而言是对电活动（振荡计时与节律）及由此产生的认知功能的第三人称测量。",
+    "constituents_and_structure": "嵌套脑节律（振荡计时）与跨频耦合的层级性组织，支持自组织的细胞集群序列。该结构是动态的、亚稳的。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "认知、记忆、规划、自我觉知（作为内化的行动）。该理论关注可能解释现象意识的机制。",
+    "distinctive_mechanism_or_principle": "自涌现的振荡计时（'大脑的节律'）充当神经元信息的根本组织者（神经句法）。认知被明确视为内化的行动。",
+    "dynamics_of_emergence": "动态过程。认知在大脑运用其内在的自组织动力学来模拟后果（内化的行动）时产生，并由多个网络振荡器之间永不停歇的交互所维持。",
+    "location_and_distribution": "皮层与海马网络，尤其聚焦于大尺度脑结构与脑电图（EEG）波如何组织信息。",
+    "causation_and_functional_role": "脑活动从根本上是自因的，由检验假设并预测行动后果的律令所驱动。其功能是重构内部节律，以生成用于记忆与规划的认知地图，这是从基本的身体调节回路扩展适应而来的。",
+    "integration_or_binding": "神经句法经由多样的脑节律（包括层级耦合与跨频耦合）来组织并切分神经信息。语义通过与外部输入/行动后果相匹配而绑定到这些自发的神经模式上。",
+    "information_flow_or_representation": "大脑创造信息，而非吸收信息。信息流是'由内而外'的：大脑以行动充实世界，而外部输入则选择并修正自发的神经模式，赋予它们意义（语义）。",
+    "evolutionary_account": "认知（包括规划与记忆）由最初服务于必要身体功能（如调节代谢与能量过程）的回路和算法的扩展适应与扩张来解释。",
+    "core_claims_and_evidence": [
+      "大脑是一台预言装置，通过行动与环境交互并重构内部节律。",
+      "自发的神经元活动与自涌现的振荡计时是认知能力的源头与组织者。",
+      "语义由世界从外部加以选择，在基于行动的交互过程中通过匹配来修正既有的神经模式（无意义信息）。",
+      "认知（记忆、规划）通过调节代谢性身体功能的回路的扩展适应而产生。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验性、神经生物学/生理学建模，依赖于脑节律、神经句法与细胞活动等概念。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验（检验聚焦于神经节律的生成、跨频耦合，以及作为认知功能相关物的神经元集群序列）。",
+    "known_empirical_interventions_or_tests": [
+      "对层级性脑节律与跨频耦合的测量与分析。",
+      "证明睡眠中尖波涟漪模式期间记忆痕迹巩固的研究。"
+    ],
+    "criticisms_and_tensions": "主要的概念张力在于：解释高级认知（如神经句法、记忆与规划）并不等同于解释现象意识（'意识究竟是什么'）。",
+    "open_questions_and_limitations": "对复杂认知及其底层神经机制的成功解释，是否足以处理现象意识的'难问题'？该理论本身必须被发展成一种意识理论，才能回答这一问题。",
+    "ontological_coherence": "高度融贯。该理论很好地契合神经生物学与计算唯物主义，与脑回路和周期、自上而下预测理论等相关概念一致地相符。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作为一种唯物主义/神经生物学理论，它意味着意识完全是物理性的。如果这些机制（神经句法、自因节律、基于行动的落地）能够在非生物系统中被实现，那么人工智能意识原则上是可以达成的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识/认知被解释为仅源自生物脑物质特定的、高度复杂的动力学。在这些物质过程终止之后的存续是被排除的。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义",
+      "rationale": "其关注点在于大脑作为一种为适应优势而演化的生存与假设检验机制。与唯物主义相一致，它不提供任何终极的宇宙意义、目的或价值，只提供那些由人类能动性所创造的意义。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "假设意识严格地由所描述的神经模式、节律与认知地图所实现，那么将这一高度整合的系统完美复制到非生物媒介中，应能保存原初的第一人称心理自我，使虚拟永生原则上可以达成。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Brain Circuits and Cycles (9.2.11)",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Top-Down Predictive Theories (9.5.1)",
+        "relationship": "兼容"
+      },
+      {
+        "name": "Electromagnetic Field Theories (9.3)",
+        "relationship": "可能的一致"
+      },
+      {
+        "name": "Integrated Information Theory (12)",
+        "relationship": "对照（机制性关注 vs. 现象性/公理性关注）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Brain from inside Out, György Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rhythms of the Brain, György Buzsáki",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Cognition from the body-brain partnership: exaptation of memory, György Buzsáki and David Tingley",
+        "year": 2023
+      },
+      {
+        "title_with_names": "If the brain is the answer, what was the question? Review of Buzsáki, György. The Brain from Inside Out, Alex Gomez-Marin",
+        "year": 2021
+      }
+    ]
+  }
+}

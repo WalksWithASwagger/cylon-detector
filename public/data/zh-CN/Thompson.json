@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "汤普森的《生命中的心灵》",
+    "summary": "该理论主张生命与心灵之间存在深刻的连续性，宣称生物学生命的自组织、自生产特征（自创生）是认知的基础。心灵被理解为这些根本的组织属性的一个丰富化的、有感受的版本，它动态地情境于身体与环境之上，而不仅仅是大脑。",
+    "associated_thinkers": [
+      "Evan Thompson",
+      "Humberto Maturana",
+      "Francisco Varela"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "具身与生成",
+    "core_identity_tagline": "心灵即丰富化的自组织生命",
+    "classification_tags": [
+      "embodied",
+      "enactive",
+      "autopoiesis",
+      "phenomenology",
+      "dynamic systems"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为生命之丰富化的、自组织的动态特征（感受性），这些特征是具身的且情境于世界之中。",
+    "ontological_status": "自然主义物理主义（具身／生成的侧重）",
+    "mind_body_relationship": "心理生活即身体生活，意味着一种深刻的本体论连续性，其中心灵遍及身体与环境，不能被简单地还原为头颅内的大脑过程。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "涌现的（非还原的／非层级的）。心灵作为生命之自组织特征的一个丰富化版本而涌现，并不寻求对解释鸿沟的还原式闭合。",
+    "subjectivity_and_intentionality": "主体性（自我性）通过说明生命存在者与认知存在者所固有的自主性，从根基处得到阐明。意向性产生于由扰动触发的自组织补偿，而非对外部状态的表征。",
+    "qualia_account": "感受质系于行动、知觉与情绪的自组织动力学，需要对亲历经验之结构的更丰富的现象学说明来应对解释鸿沟。",
+    "ontological_commitments": "生命的自组织特征、自创生组织、动力系统方程，以及亲历经验（现象学）。",
+    "epistemic_access": "要求关于心灵与生命的科学说明由对亲历经验的更丰富的现象学说明所充实（自然化的现象学）。",
+    "constituents_and_structure": "生命与心灵共享的一组形式的或组织性的属性；其特征是用动力系统将状态随时间的变化描述为状态空间中的轨迹。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（感受性）、自我性、主体性、行动、知觉、情绪、时间意识。",
+    "distinctive_mechanism_or_principle": "生命与心灵之深刻连续性的原理，利用自创生组织与动力系统理论来解释意识。",
+    "dynamics_of_emergence": "意识是一种动态的、本质上时间性的现象，其中意识状态由跟随系统内在动力学之扰动而来的自组织补偿所生成。",
+    "location_and_distribution": "心灵是分布的且情境化的，其根系遍及身体与环境，而非仅仅局限于大脑。",
+    "causation_and_functional_role": "意识对于生命存在者的自主性至关重要，并涉及维持完整性以对抗外部扰动所必需的自组织补偿。",
+    "integration_or_binding": "通过生命系统内在的统一性与自生产的（自创生的）组织得以实现，这意味着一个统一的「生命—心灵」概念。（源材料中未提供具体的神经绑定机制。）",
+    "information_flow_or_representation": "输入被构想为对系统内在动力学的扰动，而非有待遵循的指令或对外部事态的内部表征。",
+    "evolutionary_account": "意识作为生命之根本的自组织属性的一个丰富化版本而涌现，暗示着一种连续性：从无生命到生命的过渡使从生命到心灵的过渡成为可能。",
+    "core_claims_and_evidence": [
+      "生命与心灵共享一组形式的或组织性的属性。",
+      "心理生活是具身的且情境化的，延展至头颅内大脑过程之外。",
+      "该进路通过说明生命存在者与认知存在者所固有的自主性，从根基处阐明自我性与主体性。",
+      "认知是一种本质上时间性的现象，以演化方程加以表达（动力系统进路）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、现象学的、生物学的（动力系统理论、自创生）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上可检验且受经验充实；依赖于将科学说明（如动力系统模型）与现象学说明相契合。",
+    "known_empirical_interventions_or_tests": "使用以一组演化方程为特征的动力系统解释（概念性建模框架）。（源材料中未列出具体的、经典的实验范式。）",
+    "criticisms_and_tensions": "被严格的还原论者批评为未能实现对解释鸿沟的还原式闭合；面临着将丰富的现象学（亲历经验）自然化为科学框架的哲学挑战。",
+    "open_questions_and_limitations": "它并不旨在以还原的方式闭合解释鸿沟，而是旨在丰富应对该鸿沟的资源。对更丰富的现象学说明的需求是一项关键要求。",
+    "ontological_coherence": "高。该理论在其具身动态论与连续的生命—心灵组织的框架内保持内部一致，作为具身与生成范畴的一根支柱。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件的／不确定",
+      "rationale": "意识依赖于生物学生命特定的、自生产的（自创生的）组织。如果人工智能能够实例化这一核心的生命属性，而不仅仅是计算或模拟，意识或许会随之而来。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识从根本上系于情境于世界之中的、活着的生物身体的自组织动力学。该系统的瓦解意味着有意识实体的终结。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人文主义的／涌现的",
+      "rationale": "意识为生命系统提供自主性与能动性，将内在价值奠基于鲜活的、自生产的经验之中，这与自然主义相一致，但并不从该理论本身推导出宇宙目的论。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能",
+      "rationale": "心灵不可仅还原为大脑过程与计算（因为输入是扰动，而非指令）。在数字基质中复制那自生产的、深度具身的「生命—心灵」组织很可能是不可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Enactivism",
+        "relationship": "核心组成部分"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "影响"
+      },
+      {
+        "name": "Frank/Gleiser/Thompson’s “The Blind Spot”",
+        "relationship": "扩展"
+      },
+      {
+        "name": "Process Theory",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Autopoiesis and Cognition: the Realization of the Living, Humberto Maturana and Francisco Varela",
+        "year": 1980
+      },
+      {
+        "title_with_names": "The Blind Spot: Why Science Cannot Ignore Human Experience, Adam Frank, Marcello Gleiser, and Evan Thompson",
+        "year": 2024
+      }
+    ]
+  }
+}

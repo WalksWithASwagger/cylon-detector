@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "利纳斯的振荡心性状态理论",
+    "summary": "该理论主张，有意识的“心性状态”从根本上由神经元内部的电振荡以及由此产生的远隔神经元群的同时活动所生成，这构成了认知的神经生物学根基。它认为所经验到的实在，是由这些内部振荡所生成的一种虚拟现实，其主要功能在于使预测成为可能。",
+    "associated_thinkers": ["Rodolfo Llinas"],
+    "category": "唯物主义理论",
+    "subcategory": "电磁场",
+    "core_identity_tagline": "“意识即神经元振荡与预测”",
+    "classification_tags": [
+      "neurobiology",
+      "oscillations",
+      "synchrony",
+      "prediction",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识（心性状态）被认定为一种由微小神经元电压的振荡变化及这种电活动的同时性所生成的内部状态，构成认知的神经生物学根基。",
+    "ontological_status": "物理主义／唯物主义",
+    "mind_body_relationship": "同一性／还原论。心理状态是大脑中特定物理过程（神经元振荡与同步化）的功能性产物，与意识完全是物理性的这一唯物主义前提相一致。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性植根于这些振荡所生成的内部状态。意向性则通过意识的首要功能——即使预测和与环境的交互成为可能——而被隐含地论及。",
+    "qualia_account": "所提供的来源中未明确详述。这一进路通常聚焦于意识的客观机制，暗示主观经验直接对应于神经元振荡的动力学及随后的认知表征。",
+    "ontological_commitments": "神经元、电活动（振荡）、功能性大脑回路，以及感觉输入。",
+    "epistemic_access": "主要通过对大脑电活动的客观神经生物学观察与建模来通达。",
+    "constituents_and_structure": "同相振荡的神经元群，它们经由同时的电活动与远隔的神经元群产生共振。整体结构是构建“虚拟现实”的中枢化预测模型（自我）。",
+    "location_and_distribution": "位于神经系统之中，由神经元的电活动（振荡）所生成。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "认知、自我觉知（作为预测的中枢化）、知觉（作为虚拟现实）。",
+    "distinctive_mechanism_or_principle": "神经元的电活动，表现为振荡的电压，以及由此产生的这些振荡跨分布式神经元群的同步化／同时性。",
+    "dynamics_of_emergence": "意识是一种动态的内部状态，而非静态属性，它演化出来是为了使主动运动和预测这一核心功能成为可能。",
+    "location_and_distribution": "由大脑内部的电振荡所生成，并由感官加以引导。",
+    "causation_and_functional_role": "意识的功能主要在于使大脑能够预判运动和交互的结果，从而使预测能力成为大脑的终极功能。",
+    "integration_or_binding": "通过远隔神经元群的同时、同相振荡与共振而实现。",
+    "information_flow_or_representation": "信息流动由电振荡所中介。心灵基于引导内部状态的感觉输入，将实在构建为一种“虚拟现实”。",
+    "evolutionary_account": "“心性状态”演化出来，是为了使可移动的生物与其环境之间的关键预测性交互成为可能，这继神经系统演化出以支持主动运动之后而出现。",
+    "core_claims_and_evidence": [
+      "有意识的“心性状态”由神经元振荡所生成。",
+      "神经元活动的同时性是认知的神经生物学根基。",
+      "实在是由大脑振荡所构建的一种内部虚拟现实。",
+      "自我是预测的中枢化。"
+    ],
+    "basis_of_belief_or_evidence_type": "神经生物学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "经验上可检验",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "未明确详述，但作为一种唯物主义解释，它面临着解释电振荡或同步性如何转化为主观、质性经验（解释鸿沟／难问题）的挑战。",
+    "open_questions_and_limitations": "该理论必须设定神经元振荡／同步性与第一人称经验之间的精确关系，并解释“虚拟现实”如何准确地映射到外部物理实在。",
+    "ontological_coherence": "在物理主义框架内高度融贯，因为它将意识奠基于可测量的低层级物理现象（电活动）之上。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识植根于振荡同步性与预测的计算功能，那么这些动力学原则上便可在精密的人工系统中被实现或模拟，从而遵循物理主义立场。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识被定义为由大脑内部的生物性神经机制（振荡）所生成的状态，从而排除了在生物基质死亡后的存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义意义",
+      "rationale": "作为一种演化而来的神经生物学机制，意识的目的主要是功能性的（预测与生存），与否定终极宇宙意义的紧缩式唯物主义观点相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意识完全可由振荡神经活动的模式来解释，那么将这些动态模式完美地复制或上传到非生物介质中，应能保存第一人称的自我性，使虚拟永生成为可能。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "同类归属／重叠"
+      },
+      {
+        "name": "Predictive Processing Theories",
+        "relationship": "重叠／扩展"
+      },
+      {
+        "name": "Recurrent Processing Theory (Lamme)",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Dendritic Integration Theory (Aru et al.)",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "I of the Vortex: from Neurons to Self, Rodolfo Llinas",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Can brain explain mind?, Rodolfo Llinas",
+        "year": 2007
+      }
+    ]
+  }
+}

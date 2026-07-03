@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "斯特劳森的泛心论",
+    "summary": "斯特劳森主张，任何对物理主义持实在论立场的哲学家都必须承认，一切物理现象在本质上都是经验性的或现象性的，从而使泛心论（或泛经验论）成为‘真实唯物主义’的必然结论。意识经验的存在作为最为确定的事实，不能被真正的物理主义所否认。",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "泛心论",
+    "subcategory": "泛经验论",
+    "core_identity_tagline": "‘真实唯物主义蕴含泛心论’",
+    "classification_tags": [
+      "real materialism",
+      "panexperientialism",
+      "monism",
+      "physicalism",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识（经验）被认定为一切根本物理质料或能量的一种内在的、不可还原的现象属性（泛经验论）。",
+    "ontological_status": "实在论一元论／真实唯物主义",
+    "mind_body_relationship": "同一论（强的意义上）。心理现象被视为具体的物理现象，因为真实物理主义涵盖一切真实现象，包括经验。",
+    "primitive_or_emergent_status": "原初的／根本的",
+    "emergence_type": "不适用（意识是原初的）。该理论依赖于‘激进’涌现的不可能性，以支持其泛心论为物理主义所蕴含的主张。",
+    "subjectivity_and_intentionality": "经验的主观特征（‘像是什么’的诸种特征）是一个具体的、根本的、既定的自然事实，任何实在论物理主义者都必须予以承认。",
+    "qualia_account": "感受质是世界真实的、具体的、物理的属性；对它们的否认被视为‘有史以来最愚蠢的主张’。",
+    "ontological_commitments": "物理终极实体（能量／物理质料）以及内在于它们的现象／经验属性。",
+    "epistemic_access": "主要通过内省（经验是其存在最为确定的现象）与哲学论证来通达，泛心论由此从对物理主义的实在论理解中被逻辑地推导出来。",
+    "constituents_and_structure": "基本构成要素是物理质料，它在根本上是涉及经验的，以致一切能量都可被认为是一种涉及经验的现象。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（经验／感受质）。",
+    "distinctive_mechanism_or_principle": "一切具体现象皆为物理的这一原理，结合经验是一种具体现象且不能激进涌现这一事实，决定了经验内在于基础物理学。",
+    "dynamics_of_emergence": "意识是根本的，而非在激进意义上动态涌现的。如果拒斥激进涌现，该理论便支持泛经验论。",
+    "location_and_distribution": "无处不在，与物理实在的每一部分或每一方面相关联，类似于基本的场与粒子。",
+    "causation_and_functional_role": "意识既然是物理的，便无障碍地融入自然世界。（个别经验的具体因果角色经由其物理地位而被暗示，但在诸来源中未作详述。）",
+    "integration_or_binding": "该理论面临泛心论的组合问题（微观层面经验如何组合成宏观意识主体）。要使泛心论成为胜出的理论，这一问题必须得到解决。（斯特劳森在诸来源中未详述具体的解决机制。）",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "斯特劳森接受意识为物理的，并提示对其本性的恰当回应或许是‘接受而不期望理解’，类似于波粒二象性。",
+    "core_claims_and_evidence": [
+      "意识是完全物理的。",
+      "对意识经验的否认是有史以来最愚蠢的主张。",
+      "鉴于激进涌现的不可能性，真实物理主义蕴含泛心论。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的、现象学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验。它是一个从关于物理世界之本性的哲学前提中导出的形而上学提议。Nagasawa 指出，泛心论即便为真，也可能陷入‘认知死胡同’，因为它无法被证明。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "被某些批评者广泛视为‘荒谬’。它受困于组合问题，需要解释微观层面经验如何聚合以产生宏观现象属性。",
+    "open_questions_and_limitations": "要使该观点成为心身问题最有前途的解决方案，必须为组合问题找到一个合理的解决方案。",
+    "ontological_coherence": "在其所提出的对唯物主义／物理主义的扩展定义（‘实在论一元论’）内高度一致，旨在通过把意识纳入终极物理实在来解决心身问题。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识是每个基本物理实体的一种不可还原属性，那么由物理物质构成的 AI 也应当具有内在觉知，前提是组合问题能够得到解决，且微观心灵方面能够被先进技术操控。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能（希望渺茫）",
+      "rationale": "尽管世界浸透着意识，但存续要求逆转微观元素凝聚成宏观意识的复杂过程，而在大脑消解之际，第一人称的存续似乎难以实现。"
+    },
+    "meaning_and_purpose": {
+      "stance": "有可能",
+      "rationale": "泛心论居于唯物主义（无终极目的）与二元论／唯心主义（有终极目的）之间，暗示存在可能的终极意义／目的／价值。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意识是实在之肌理的一种内在的、有规律的属性，那么先进技术或许能够习得所需的规律，以聚合或操控微观心灵之力，从而复制或上传意识。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Panpsychism",
+        "relationship": "相容／影响"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "重叠／综合"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "批评"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism and Other Essays, Galen Strawson",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      }
+    ]
+  }
+}

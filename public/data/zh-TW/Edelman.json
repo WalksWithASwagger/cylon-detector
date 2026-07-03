@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "埃德爾曼的神經達爾文主義與再進入神經回路",
+    "summary": "這是一種純粹生物學的、唯物論的理論，主張意識源於複雜的腦形態與演化選擇。其核心機制在於動態核心，它由神經元群之間——尤其是視丘-皮質系統中——持續的、大規模的、遞迴的訊號傳遞（再進入）所界定，從而實現高階的區辨。",
+    "associated_thinkers": [
+      "Gerald Edelman",
+      "Giulio Tononi"
+    ],
+    "category": "唯物論",
+    "subcategory": "神經生物學",
+    "core_identity_tagline": "「意識即再進入性神經區辨」",
+    "classification_tags": [
+      "neural selectional system",
+      "reentry",
+      "dynamic core",
+      "biological",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為視丘-皮質系統動態核心中的再進入性交互作用所產生的高階區辨的結果。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "心靈與心理狀態完全是物理的，純粹是生物學腦歷程的產物（一種徹底唯物論的理論）。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性內在於個體有機體的活動之中，反映其獨特的表現型特性與生命歷程。意向性則體現在系統那種偏好適應性反應的選擇性本質之中。",
+    "qualia_account": "感質被界定為由底層神經結構與動力學所使之成為可能的高階區辨。感質的難問題被視為偽問題而遭摒棄，因為一種描述性理論無法複製它所解釋的那種主觀經驗。",
+    "ontological_commitments": "生物學腦、神經元群、再進入神經回路，以及突觸效能的變化。",
+    "epistemic_access": "主要透過科學研究以及對神經解剖結構與神經動力學的第三人稱描述來通達，同時承認這無法複製第一人稱的經驗。",
+    "constituents_and_structure": "變異回路的儲備庫、功能上具有可塑性的神經元群，以及視丘-皮質系統（動態核心）內大規模並行的往返纖維。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、初級意識（被記憶的當下）、高階意識（自我感、語言）、統一性/綁定。",
+    "distinctive_mechanism_or_principle": "神經達爾文主義（神經元群選擇理論，TNGS）與透過再進入神經回路實現的動態核心組織相結合。",
+    "dynamics_of_emergence": "意識是一個動態歷程，源於再進入性交互作用對眾多輸入的整合，隨時間生成一連串不同的亞穩態。",
+    "location_and_distribution": "主要定位於視丘-皮質回路（動態核心）。",
+    "causation_and_functional_role": "其功能角色在於實現高階區辨，從而導向適應性反應。高階意識使規劃以及對自身處於意識狀態的意識成為可能。",
+    "integration_or_binding": "透過再進入實現，再進入對多樣的、相互作用的神經元群施加相關性，偏好分布於各腦區、同步活動的回路。",
+    "information_flow_or_representation": "資訊處理是選擇性的（達爾文式的），依賴於基於經驗對簡併回路的選擇，而非指令式的。",
+    "evolutionary_account": "意識分兩個階段演化：當持續的範疇化經再進入與記憶相聯結時，初級意識便產生（即「被記憶的當下」）；高階意識則隨語言能力與概念記憶而在其後出現。",
+    "core_claims_and_evidence": [
+      "意識是演化選擇（神經達爾文主義）的一種純粹生物學的、徹底唯物論的結果。",
+      "動態核心透過再進入神經回路整合輸入，從而生成意識狀態。",
+      "感質是這些神經動力學所蘊含的高階區辨。",
+      "再進入透過同步分布式的皮質活動而解決了綁定問題。"
+    ],
+    "basis_of_belief_or_evidence_type": "生物學的、演化的、神經生理學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗",
+    "known_empirical_interventions_or_tests": [
+      "研究再進入神經活動在視丘-皮質系統中所起作用的研究。",
+      "對與感質差異相關聯的神經結構與動力學的測量。"
+    ],
+    "criticisms_and_tensions": "批評者仍不認為這一唯物論框架充分說明了感質那種主觀的、現象性的存在，並認為埃德爾曼對難問題的摒棄是不充分的。",
+    "open_questions_and_limitations": "按其定義，該理論無法透過第三人稱的科學描述傳達第一人稱的經驗（「紅的紅性」），從而留下了一道經驗性的鴻溝。",
+    "ontological_coherence": "在嚴格的唯物論、神經生物學與達爾文式的存有論框架內高度融貫。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作為一種機制性的生物學理論，若選擇性與再進入神經回路機制在非生物基質中得到充分而正確的實現，那麼意識在人工系統中應當是可能的。倡導者曾提出，設計出一件有意識的人造物是可行的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全依賴於生物學腦的物理運作；因此，意識在有機體死亡時便終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義的",
+      "rationale": "該理論奠基於演化與適應功能，這意味著意義與目的是由有意識的行為主體所創造的湧現屬性，而非根本性的宇宙特徵。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "既然意識是特定物理/結構性動力學與功能（神經達爾文主義/動態核心）的產物，那麼將這些機制完美地複製或上傳至數位介質便能保存第一人稱的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "相容"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neural Darwinism: the Theory of Neuronal Group Selection, G.M. Edelman",
+        "year": 1987
+      },
+      {
+        "title_with_names": "A Universe of Consciousness: How Matter Becomes Imagination, G.M. Edelman and G. Tononi",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Naturalizing consciousness: a theoretical framework, G. Edelman",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Biology of consciousness, G. Edelman, J. Garlly, B. Baars",
+        "year": 2011
+      }
+    ]
+  }
+}

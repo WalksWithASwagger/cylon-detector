@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "塞尔的语言与意识",
+    "summary": "塞尔主张，语言对人类意识至关重要，它塑造并丰富着有意识的经验 。这种关系被视为一种演化上的“自举效应”，其中前语言的意识使语言成为可能，而语言反过来又精细化了意识的结构 。",
+    "associated_thinkers": ["John Searle"],
+    "category": "唯物主义",
+    "subcategory": "语言关系",
+    "core_identity_tagline": "“作为意识之增强者与塑造者的语言”",
+    "classification_tags": [
+      "language",
+      "intentionality",
+      "biological naturalism",
+      "symbolic communication"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为真实的、主体性的、质性的觉知状态，它由大脑中的生物神经元过程所导致，并在其中得以实现 。语言随后作为一种机制发挥作用，用以创造并结构化复杂的、高阶的意识内容 。",
+    "ontological_status": "物理主义／生物自然主义（意识是大脑的一种在本体论上不可还原的、主体性的生物学特征） ",
+    "mind_body_relationship": "有意识的状态作为由较低层级大脑过程所导致的较高层级系统特征，在大脑中得以实现 。心灵在本体论上是不可还原的（主体性的），但在因果上可还原为大脑 。语言能力极大地扩展了得以实现的心理状态的范围 。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "系统性／生物学涌现（意识是一种由神经元组织所导致的较高层级特征 。它被视为自然世界的一部分，如同消化或光合作用 。）",
+    "subjectivity_and_intentionality": "意识在本体论上是主体性的，仅作为被某个主体所经验之物而存在 。语言使复杂的、符号性的意向状态（例如报缴所得税或写诗）成为可能，而这些是非语言动物所不具备的，尽管动物拥有基本的意向状态 。",
+    "qualia_account": "有意识的状态是质性的；它们拥有一种内在的“质性感受”（感受质） 。这些质性状态是真实的、主体性的、且在本体论上不可还原的，但它们在因果上由大脑所产生 。语言塑造并丰富着这些有意识的经验 。",
+    "ontological_commitments": "生物学的大脑、神经元过程、具有因果效力的意识状态（作为真实的、主体性的、较高层级的系统特征），以及语言／符号结构 。",
+    "epistemic_access": "通过第一人称的主观经验（现象学）来通达  ，并通过对导致并实现意识的大脑过程所进行的第三人称科学考察来加以研究 。",
+    "constituents_and_structure": "意识作为大脑的系统特征而得以实现 。语言为意识提供了一种精巧的结构，使复杂思维得以通过内部句法来重排符号 。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、意向性、自我觉知（尤其是由语言所使能的高阶自我觉知） 。",
+    "distinctive_mechanism_or_principle": "演化上的“自举效应”，其中前语言的意识催生了语言能力，语言能力随后通过符号结构与内部句法递归地丰富并复杂化了意识 。",
+    "dynamics_of_emergence": "动态过程。意识与语言的演化是一种持续的、相互强化的复合效应 。",
+    "location_and_distribution": "完全定位于生物学的大脑之中 。",
+    "causation_and_functional_role": "有意识的状态具有因果效力 。语言使复杂的、抽象的规划与符号思维成为可能，赋予了巨大的认知能力，并结构化着有意识的经验 。",
+    "integration_or_binding": "隐含地通过语言所产生的意识精巧结构来实现，从而使复杂的符号思维得以经由“内部句法”得到统一的处理 。",
+    "information_flow_or_representation": "语言促进了符号表征在一种内部句法中的重排，从而支撑那些需要抽象地表征信息的复杂认知任务（例如使用数字或复杂的假设情形） 。",
+    "evolutionary_account": "意识先于符号语言（这可由动物身上的意向状态得到佐证） 。人类意识与语言通过一个正反馈回路（自举效应）协同演化 。",
+    "core_claims_and_evidence": [
+      "语言深刻地塑造并丰富着人类意识的内容与结构 。",
+      "非语言动物由于缺乏内部句法，无法拥有某些复杂的、符号性的有意识经验 。",
+      "有意识的状态在本体论上不可还原，但在因果上由较低层级的大脑过程所决定 。",
+      "对于语言中对我们最为重要的那些部分而言，意识至关重要 。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的、神经生物学的（对底层大脑因果作用的假设） 。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验（理据：作为一种基于生物自然主义的唯物主义理论，特定神经过程、语言能力与由此产生的复杂意识状态之间的因果关系应当可通过神经科学加以检验，尽管检验本体论上的不可还原性是复杂的） 。",
+    "known_empirical_interventions_or_tests": "隐含地依赖于一般的神经生物学与语言学证据 。（文献中未详述专属于语言理论方面的具体经典检验。）",
+    "criticisms_and_tensions": "因生物自然主义更为宽泛的主张而受到批评，尤其是在肯定因果还原论的同时又坚持本体论上的不可还原性 。模拟与生物因果作用之间的区分也备受争议（例如中文屋论证） 。",
+    "open_questions_and_limitations": "大脑过程生成意识的确切机制仍然未知 ，这限制了对语言如何结构化这一涌现属性的解释 。",
+    "ontological_coherence": "在塞尔的唯物主义框架（生物自然主义）内是一致的 ，但在同时主张物质因果性与意识的本体论不可还原性方面面临内部张力 。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件的",
+      "rationale": "拒斥单纯的模拟（计算）能够实现类似人类的意识（中文屋） 。然而，如果我们制造出一台复制了大脑必要的生物学／因果过程的人工机器，它在原则上便可以是有意识的 。语言的核心地位可能使人工智能意识更有可能实现，只要先进的语言系统复制出至关重要的内部句法 。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识是一种由大脑所导致并在其中得以实现的生物学特征 。当生物学基质消解时，它便终止 。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人文意义",
+      "rationale": "作为一种唯物主义理论，它无法在宇宙层面为终极意义或目的赋予理性根据 。意识经由语言的增强，使人类得以生成他们自己的意义、目的以及复杂的能动性 。"
+    },
+    "virtual_immortality": {
+      "stance": "有条件的／很可能",
+      "rationale": "只有当这种复制再现了所需的生物学／因果系统时，虚拟永生（上传心理自我）才是可实现的，因为单纯的模拟被拒斥 。如果语言对于意识的深层本质而言是核心的，那么语言／符号过程的成功复制便有助于其可实现性 。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Searle’s Biological Naturalism",
+        "relationship": "基础"
+      },
+      {
+        "name": "Chomsky’s Language and Consciousness",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Koch’s Consciousness does not Depend on Language",
+        "relationship": "批评"
+      },
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "重叠／对比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Rediscovery of Mind, John Searle",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Consciousness and Language, John R. Searle",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Biological Naturalism, John R. Searle",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Language and consciousness, John Searle (Closer To Truth interview)",
+        "year": 2014
+      }
+    ]
+  }
+}

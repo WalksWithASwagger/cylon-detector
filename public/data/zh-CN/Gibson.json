@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "吉布森的生态心理学",
+    "summary": "吉布森提出了一种具身的、情境化的、非表征的知觉进路，主张信息直接可得于环境之中（不变量），并以可供性（affordance）的方式被知觉到。这一进路提供了超越认知主义与行为主义的第三条道路，并可审慎地推断为对意识的一种解释。",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "唯物主义",
+    "subcategory": "具身与生成",
+    "core_identity_tagline": "意识作为对可供性的具身、情境化知觉",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被引申理解为有机体—环境系统内持续互动与信息流动的一种功能，其特征是对不变量与可供性的直接知觉，而非内部的心理表征。",
+    "ontological_status": "物理主义／直接实在论",
+    "mind_body_relationship": "心灵／知觉与行动是连续的，以有机体—环境系统作为分析单位，拒斥心灵可完全还原为头颅之内的过程这一观念。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性由有机体与环境之间动态的、情境化的关系（有机体—环境系统）所构成。意向性（思想的指向性）由对可供性的知觉来解释，可供性即环境本身所蕴含的行动可能性。",
+    "qualia_account": "该理论是非表征的，通常与那些拒斥传统意义上内部感觉材料（感受质）的观点相一致，转而支持对环境属性（不变量与可供性）的直接知觉。",
+    "ontological_commitments": "有机体—环境系统、光学信息（不变量）、可供性。",
+    "epistemic_access": "可通过研究有机体与其社会—物理环境之间的关系来通达，而非通过聚焦于内部状态的内省。",
+    "constituents_and_structure": "意识／知觉的结构建立在有机体与环境之间的功能关系之上，强调知觉与行动的连续性。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "知觉／认知，现象性（经由审慎推断）",
+    "distinctive_mechanism_or_principle": "对环境不变量（光流中不变的要素）与可供性（环境所提供的行动机会）的直接知觉。",
+    "dynamics_of_emergence": "重点在于有机体—环境系统内的动态流动与连续性，而非从离散的、局部化的神经结构中涌现。",
+    "location_and_distribution": "位于有机体—环境系统之内，延展到超出大脑与头颅之内的范围。",
+    "causation_and_functional_role": "知觉的功能在于引导适应性行为，并通过检测不变量与行动机会（可供性）来提升适应度。",
+    "integration_or_binding": "整合内在于对有机体—环境系统作为单一分析单位的直接而统一的把握之中。",
+    "information_flow_or_representation": "拒斥信息加工模型；信息是外在的（不变量），由知觉系统直接通达，无需内部构建表征。",
+    "evolutionary_account": "对可供性的强调表明，这一知觉系统之所以演化出来，是因为它提供了明显的生存价值并提升了适应度。",
+    "core_claims_and_evidence": [
+      "知觉仅直接关联于刺激本身，既不需要推理，也不需要内部的心理表征。",
+      "知觉的首要对象是可供性，而非特定的感觉性质。",
+      "理解知觉的分析单位是有机体—环境系统。",
+      "该理论拒斥认知主义模型中常见的‘刺激贫乏’前提。"
+    ],
+    "basis_of_belief_or_evidence_type": "实验的、哲学的、生态的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验，尤其是在生态心理学与知觉研究之内。",
+    "known_empirical_interventions_or_tests": "对知觉的经验观察以及对有机体—环境互动场的细致分析。",
+    "criticisms_and_tensions": "该理论批评主流的知觉理论，尤其抨击行为主义与认知主义／信息加工。其向现象意识的引申是思辨性的，会受到那些坚持内部表征理论者的质疑。",
+    "open_questions_and_limitations": "核心理论处理的是知觉与认知；将其应用或引申去解释现象意识（‘感受起来是怎样的’这一方面）需要审慎的推断。",
+    "ontological_coherence": "在其生态的、情境化的反还原论唯物主义本体论之内高度融贯，但与依赖认知符号操作的理论存在根本冲突。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "若意识是有机体—环境系统内直接的、情境化互动的产物（正如这一唯物主义理论所暗示），那么倘若人工智能被设计为能够具身并在物理环境中互动、从而知觉到可供性，它便有可能实现意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该理论被归入唯物主义，聚焦于活的生物有机体及其物理环境。其中并未设定任何能够在肉体死亡后存续的非物理成分。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主义／适应性",
+      "rationale": "知觉的首要功能角色是通过检测可供性来实现适应性行为，这与一种唯物主义观点相一致，即意义由人在其环境中为生存与繁荣而创造。"
+    },
+    "virtual_immortality": {
+      "stance": "有条件的",
+      "rationale": "由于意识系于物理的有机体—环境单元，唯有当那些本质性的具身、非表征互动能够被完美捕捉并在新的物理媒介中模拟时，虚拟永生才可能实现。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Direct Perception Theory",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "批评"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

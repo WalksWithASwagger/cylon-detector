@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "戴维森的异常一元论",
+    "summary": "异常一元论主张每一个心理事件都同一于某个物理事件（个例同一，token identity），从而维持一种一元论的本体论。然而，该理论坚持认为，不存在将心理概念（类型）与物理概念相联结的严格、无例外的自然律，由此导致心理学不可还原为物理学。这一双重主张化解了心理因果作用与物理世界因果完备性之间表面上的冲突。",
+    "associated_thinkers": ["Donald Davidson"],
+    "category": "一元论",
+    "subcategory": "异常一元论",
+    "core_identity_tagline": "心理个例是物理的，心理类型是异常的",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "token identity",
+      "property dualism",
+      "mental causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "心理实体（特定的时空受限的对象与事件，即个例）就是物理实体。然而，心理概念就定义或自然律而言不可还原为物理概念。",
+    "ontological_status": "一元论（个例同一物理主义／属性二元论）。该理论主张心理事件具有物理的本体论。",
+    "mind_body_relationship": "个例同一：心理事件同一于物理事件。这一点通过论证心理属性与物理属性之间不可能存在类型同一而得到辩护。该理论是属性二元论的一种形式。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "强涌现。（理由：心理属性原则上不可还原，无法为严格的心物律所捕捉，这与强不可还原性相一致。）",
+    "subjectivity_and_intentionality": "该理论把心理现象的意向本质（如“关于性”）作为区分心理现象与物理定律或物理事物的属性来加以处理。",
+    "qualia_account": "质性感受（感受质）被纳入心理属性／概念这一更宽泛的范畴之下，它们是异常的——意味着不受物理概念或定律的还原支配。",
+    "ontological_commitments": "物理实体与事件（个例）；不可还原的心理属性／概念（类型）。",
+    "epistemic_access": "通过对因果性以及心理学解释之独特要求的哲学分析而得知，这种解释无法像物理学那样产出无例外的定律。",
+    "constituents_and_structure": "组成部分是物理实体／事件，但意识由不可还原的心理概念／属性所结构化。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "心理事件（个例）；心理因果作用；意向性。",
+    "distinctive_mechanism_or_principle": "心理异常性：即主张不存在将心理现象与物理现象相联结的自然律，尽管心理事件引起物理事件、且一切因果关系皆有自然律支撑（个例同一由类型同一之不可能性来辩护）。",
+    "dynamics_of_emergence": "有意识的心理状态作为独特的物理事件（个例）产生，其特征在于它们无法像基础物理学中的定律那样受严格的预测性定律支配。",
+    "location_and_distribution": "心理事件即物理实体，因而位于大脑／物理基质之中。",
+    "causation_and_functional_role": "心理事件具有真正的因果力量，并引起物理事件。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "心理现象由其意向本质所界定，这与纯粹的物理定律似乎有根本性的不同。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "心理事件（个例）同一于物理事件。",
+      "心理属性（类型）不可还原为物理概念或自然律。",
+      "心理事件具有真正的因果力量，并引起物理事件。",
+      "心理学无法产出用于预测人类思想与行为的无例外定律（心理异常性）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（基于关于因果性与律则性特征的三个前提的演绎论证）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的／哲学的。（理由：该理论的核心主张依赖于关于因果性与心理学解释之本性的哲学必然性。）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要张力源于三项主张的合取：（i）存在心理因果作用，（ii）一切因果作用皆有定律支撑，（iii）不存在心物律。这一合取乍看之下似乎不一致或自相矛盾。",
+    "open_questions_and_limitations": "该框架必须充分说明：若不存在将心理属性类型与物理属性类型相关联的严格定律，心理因果作用如何得以发生（即异常属性的因果效力问题）。",
+    "ontological_coherence": "只要三个基础前提被接受为有效，其内部一致性即可达成，因为个例同一的结论已内嵌于其中。它与非还原式物理主义共享一些特征。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "既然其本体论根本上是一元论的（一切心理事件皆为物理事件），那么如果相关的复杂物理系统能在人工介质中被复制，人工智能意识原则上是可能的，尽管缺乏可预测的心理定律（异常性）使评估变得复杂。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "心理事件依赖于物理事件（个例同一）。在此唯物主义假设下，生物基质毁灭之后的存续被排除。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本意义",
+      "rationale": "作为一种本体论一元论理论，它与唯物主义范畴相一致，后者一般不为超出人类自身所创造之外的终极意义或目的提供根据。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果物理基质（大脑模式）被复制，那么心理事件（它们同一于这些个例）也应被复制，从而使虚拟永生成为可能，这与其他非还原式物理主义观点类似。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Non-Reductive Physicalism", "relationship": "重叠" },
+      { "name": "Property Dualism", "relationship": "重叠" },
+      {
+        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "relationship": "批评"
+      }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "感受质空间",
+    "summary": "该理论主张意识是实在的一种独立的、不可还原的特征，与基本物理定律（如四种力、时空以及质能）并存。这一特征被构想为一种全然崭新的结构或组织，可能作为实在的另一个维度而存在。",
+    "associated_thinkers": ["Giulio Tononi", "Christof Koch"],
+    "category": "泛心论",
+    "subcategory": "概念范畴",
+    "core_identity_tagline": "作为实在之独立、不可还原的维度性特征的意识",
+    "classification_tags": [
+      "independent feature",
+      "non-reducible",
+      "dimension",
+      "phenomenology",
+      "conceptual structure"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为实在的一种独立的、不可还原的特征，其结构为一种全然崭新的组织或维度，称为‘感受质空间’。",
+    "ontological_status": "不可还原的根本特征（理据：被界定为独立且不可还原，‘额外地’存在于基础物理学之外，从而将其置于一个像泛心论那样的扩展本体论框架中并加以归类）。",
+    "mind_body_relationship": "需要一种关联或互动，其中物理大脑通达或显现这一与物理实在并存的不可还原特征。（具体细节取决于该理论的具体例示。）",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "不适用（被界定为一种根本的／不可还原的特征）。",
+    "subjectivity_and_intentionality": "主体性内在于感受质空间结构本身的存在。意向性被映射到这一结构内部的特定组织属性上，对应于意识知觉。",
+    "qualia_account": "感受质就是那些构成感受质空间的全然崭新的结构或组织。经验的质直接对应于这一空间内部的数学特征或概念结构。",
+    "ontological_commitments": "基本物理定律与实体（四种力、时空、质能）；以及一个独立的、不可还原的感受质空间／结构。",
+    "epistemic_access": "可通过内省对现象经验的通达，以及界定感受质空间之结构与几何所需的数学建模来通达（如相关理论所例示）。",
+    "constituents_and_structure": "实在的一种全然崭新的结构或组织，通常以数学方式加以构想（例如作为意识的概念结构或状态空间）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（感受质）、内在存在、统一。",
+    "distinctive_mechanism_or_principle": "意识是实在的一种根本特征这一原理，由其在这一独立‘空间’中的概念或信息结构所界定。",
+    "dynamics_of_emergence": "意识是一种结构性或维度性的实在，由物理系统（如大脑）在局域上加以显现。",
+    "location_and_distribution": "感受质空间本身是实在的一个独立的、不可还原的维度。意识经验（例如在人类中）是这一空间内部结构的局域显现或‘展开’。",
+    "causation_and_functional_role": "如果被界定为一个内在实体或真实存在（如相关的 IIT 概念中那样），那么意识结构便拥有因果之力。在功能上，它说明了现象经验／感受质的存在。",
+    "integration_or_binding": "由构成感受质空间的那个结构本身的统一与最大不可还原性内在地实现。",
+    "information_flow_or_representation": "意识由感受质空间之概念结构内所含的信息或表征的结构所界定。",
+    "evolutionary_account": "感受质空间特征是根本的；能够通达或体现这一结构的物理系统必须演化到足够的复杂度（理据：与泛心论关于意识显现的一般立场相一致）。",
+    "core_claims_and_evidence": [
+      "意识是实在的一种独立的、不可还原的特征。",
+      "这一特征额外地存在于基本物理定律之外。",
+      "意识结构可以在概念上被建模为一个感受质空间。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、现象学的、数学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的且在概念上可检验（理据：它设定了一种全然崭新的、未知的结构／维度，使直接的经验检验变得困难，尽管与其概念结构相关的理论声称可检验）。",
+    "known_empirical_interventions_or_tests": "依赖于数学建模与现象学关联（例如界定经验的结构／几何）（理据：借鉴 IIT 或 QRI 等利用这一概念结构的相关理论）。",
+    "criticisms_and_tensions": "被批评为要求对实在作出超出当前物理学已知范围的扩展，从而导致某些理论可能‘逃脱科学描述’。设定一个新维度的必要性受到质疑。",
+    "open_questions_and_limitations": "致意识特征的确切性质与因果机制仍属未知。尚不清楚这一特征究竟是无处不在的（经典泛心论）还是局域的（如其最清晰的范例 IIT 所暗示）。",
+    "ontological_coherence": "在扩展本体论以容纳不可还原的意识方面是融贯的，与泛心论的高层目标一致，但与还原论物理主义形成鲜明对照。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不确定",
+      "rationale": "这取决于感受质空间中那个不可还原的致意识特征能否被技术控制，或被非生物系统所例示。"
+    },
+    "survival_beyond_death": {
+      "stance": "有可能",
+      "rationale": "如果意识是实在的一种根本结构或维度，那么其持久性便不能被否定，这为存续保留了可能，即便未必是作为个人意识而存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不确定",
+      "rationale": "设定一种独立的、非物理的特征，暗示了终极意义的一种可能基础，从而将其置于（如泛心论或一元论那样）具有可能终极意义／目的／价值的中间类别理论之中。"
+    },
+    "virtual_immortality": {
+      "stance": "有可能",
+      "rationale": "虚拟永生取决于感受质空间内的致意识结构能否经由可预测的规律性被先进技术导控或操控。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory (IIT)",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "范畴"
+      },
+      {
+        "name": "Qualia Research Institute (QRI)",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, Robert Lawrence Kuhn",
+        "year": 2024
+      },
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Masafumi Oizumi, Larissa Albantakis, Giulio Tononi",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Qualia Research Institute: FAQ",
+        "year": "n.d."
+      }
+    ]
+  }
+}

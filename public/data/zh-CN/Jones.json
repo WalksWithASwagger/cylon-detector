@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "琼斯的电磁场理论",
+    "summary": "该理论对这一观念加以归类并予以支持：心灵与大脑总体电活动所生成的神经电磁（EM）场相同一。人们认为这一统一的场与神经元回路相互作用，为意识的统一性提供了基础，并处理了感受质的起源问题。",
+    "associated_thinkers": ["Mostyn Jones"],
+    "category": "唯物主义",
+    "subcategory": "电磁场",
+    "core_identity_tagline": "心灵即统一的神经电磁场",
+    "classification_tags": [
+      "electromagnetic field",
+      "identity theory",
+      "neurobiological",
+      "panpsychism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识（心灵）被认定为由大脑集体电活动所生成的统一神经电磁（EM）场；或者，在一个特定变体中，意识是物质—能量以神经电方式相统一的根本本性。",
+    "ontological_status": "物理主义／唯物主义（主要分类）；在琼斯所支持的神经电泛心论变体中，与一种一元论／泛心论观点相重叠。",
+    "mind_body_relationship": "同一性理论：最简洁的解释是心灵与神经电磁场相同一。这些场还与神经元细胞和回路发生因果相互作用。",
+    "primitive_or_emergent_status": "涌现的（源自聚合的神经活动）或本原的（在神经电泛心论变体中，意识是物质—能量的真实本性）。由于其被置于唯物主义／神经生物学框架之下，主要归类为涌现。",
+    "emergence_type": "弱涌现（电磁场是底层神经过程的直接物理后果）。",
+    "subjectivity_and_intentionality": "主体性源自大脑中微观经验经由电学结合所创造出的统一结构（如琼斯的神经电泛心论变体所论）。",
+    "qualia_account": "该理论将感受质列入解释议程。神经电泛心论变体主张神经电活动生成并统一了不同的感受质，通过将意识设定为物质—能量的真实本性来处理难问题。",
+    "ontological_commitments": "神经电流、遍布全脑的电磁（EM）场，以及神经回路。",
+    "epistemic_access": "可通过对大脑电活动的经验测量与观察来通达，例如同步的神经元放电。",
+    "constituents_and_structure": "意识是由遍布全脑的电磁场所形成的统一模式，这些场由多股特定神经电流的累积总和所生成。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（感受质）、心灵的统一性以及认知绑定。",
+    "distinctive_mechanism_or_principle": "心灵由特定神经电流所生成的、更为广阔的遍布全脑电磁场构成，这些场充当意识的统一基质。",
+    "dynamics_of_emergence": "意识动态地源自诸如振荡神经元放电的同步化等机制，尤其是伽马频段（30—80赫兹），后者被认为充当一种整合机制。",
+    "location_and_distribution": "意识基质是大脑内遍布全脑的电磁场所构成的错综复杂的三维网络。",
+    "causation_and_functional_role": "统一的神经电磁场与神经元细胞和回路相互作用以解释各种关联，并有助于引导大脑的运作。",
+    "integration_or_binding": "经验的统一（心灵的统一性）是由统一神经电磁场本身的整合性物理结构自然而然地实现的。",
+    "information_flow_or_representation": "假设电磁场对信息进行编码，不过除了场与回路发生因果相互作用这一事实之外，具体的流动机制并未明确阐明。",
+    "evolutionary_account": "来源材料未明确详述这一特定理论涌现的演化解释。（理由：来源材料的局限。）",
+    "core_claims_and_evidence": [
+      "心灵与神经电磁场相同一，从而简化了对心灵与场之统一性的解释。",
+      "统一的神经电磁场与神经元细胞和回路发生因果相互作用。",
+      "证据表明同步的神经元放电（伽马振荡）充当意识的整合机制。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验的（关于神经同步化和场生成的研究）与概念／哲学的（将同一性设定为最简洁的解释）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "经验上可检验。琼斯认为，即便是高度思辨的神经电泛心论变体也是可检验的。",
+    "known_empirical_interventions_or_tests": [
+      "测量振荡神经元放电的同步化（例如30—80赫兹的伽马振荡），将其作为认知活动和整合的关联标志。"
+    ],
+    "criticisms_and_tensions": "电磁场理论总体上仍有争议，且常被神经生物学家和哲学家所忽视。神经电泛心论这一具体主张是一种激进的同一性主张。",
+    "open_questions_and_limitations": "一个首要的未决问题是：精确界定电磁场发挥何种因果功能（如果有的话），以及除相关性之外，这些场如何直接与现象经验（感受质）相联系。",
+    "ontological_coherence": "在一种接受物理场作为意识基质的扩展唯物主义本体论内是融贯的。神经电泛心论变体的纳入将意识设定为物质—能量的根本本性，从而使本体论融贯性变得复杂。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种唯物主义／电磁场理论，意识依赖于特定的物理场结构。如果技术能够复制出能够生成并操纵所需电磁场模式的硬件，那么人工智能意识原则上应可实现。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识被定义为由生物性大脑持续活动所生成的特定物理场模式。它会随着产生该场的生物机制的衰亡而终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义意义",
+      "rationale": "该理论植根于物理机制与原理（唯物主义），暗示意识是自然而然产生的，不涉及外在的宇宙目的论或终极意义。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "虚拟永生取决于复制意识基质。如果有意识心灵可还原为一种精确而复杂的电磁场模式，那么这一模式应可在非生物介质中复制，从而实现数字化延续，尽管在实践中极难达成。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McFadden’s Conscious Electromagnetic Information Theory",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Pockett’s Conscious and Non-Conscious Patterns",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Neuroelectrical Panpsychism",
+        "relationship": "扩展／变体"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "对比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Electromagnetic-field theories of mind",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Mounting evidence that minds are neural EM fields interacting with brains",
+        "year": 2017
+      },
+      {
+        "title_with_names": "A simple, testable mind–body solution?",
+        "year": 2024
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "斯温伯恩的实体二元论",
+    "summary": "这一理论主张，一个人由两个根本不同的组成部分构成：一个物理的身体／大脑，以及一个独立的、非物理的实体，即灵魂，后者独立于物理世界。这一非物理的灵魂是一个本质性的、不可还原的实体，为解释有意识的生命以及维持人格贯时的同一性所必需。",
+    "associated_thinkers": ["Richard Swinburne"],
+    "category": "二元论",
+    "subcategory": "实体二元论",
+    "core_identity_tagline": "作为根本独立之非物理实体的意识",
+    "classification_tags": [
+      "substance dualism",
+      "soul",
+      "personal identity",
+      "nonphysical",
+      "theistic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为独立的非物理实体（灵魂）所拥有的内在意识生命，它有别于物理过程。",
+    "ontological_status": "实体二元论",
+    "mind_body_relationship": "交互论二元论。尽管其具体机制备受争议，但为解释一个人身上的有意识生命，非物理实体必须与物理大脑相关联或相交互。",
+    "primitive_or_emergent_status": "原初的。灵魂是一个独立的、根本的、非物理的实体，不可还原为物理状态，也不受制于纯粹的物理解释。",
+    "emergence_type": "不适用；意识被认定为一种原初的非物理实体（灵魂）。灵魂的存在或由一次创造性活动（上帝）所决定，或由不可还原的定律所决定，而非纯粹由物理过程臻于复杂所致。",
+    "subjectivity_and_intentionality": "主体性（第一人称经验）是非物理实体（灵魂）所拥有的一种不可还原的属性，这使灵魂成为经验的本质性主体，并对有意识的生命负责。",
+    "qualia_account": "感受质（经验的质性感受）是独立的心理实体（灵魂）的属性，它们构成“有意识的生命”，无法仅凭物理身体或大脑来加以说明。",
+    "ontological_commitments": "物理实体（身体、大脑、原子）与非物理实体（灵魂／心理实体）。",
+    "epistemic_access": "主要通过第一人称经验（有意识的生命）和哲学论证来通达，尤其是关于人格同一性的论证，它们揭示了关于人的、不可还原为大脑／身体的真理。",
+    "constituents_and_structure": "个体的人是一个由物理身体／大脑与一个独立的、本质性的非物理灵魂构成的复合体。灵魂本身是不可分的经验主体。",
+    "basis_of_belief_or_evidence_type": "哲学论证（尤其是基于人格同一性的模态论证）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、人格同一性、有意识生命的延续。",
+    "distinctive_mechanism_or_principle": "存在一个不可还原的、非物理的实体（灵魂），它充当经验的主体并承载人格同一性，独立于物理大脑。",
+    "dynamics_of_emergence": "静态／创造论式的。意识作为一种不可还原的实体而存在，或由上帝瞬时创造，或在达到足够复杂性时通过自然定律产生，但其本性是静态的实体，而非动态的过程涌现。",
+    "location_and_distribution": "非物理的灵魂定域于个体，并与特定的物理身体相关联。",
+    "causation_and_functional_role": "其功能角色在于为贯时的人格同一性提供根据，并拥有有意识的生命。若为交互论式，灵魂必须具有影响物理世界的因果力。",
+    "integration_or_binding": "统一是唯一的、非物理的实体（灵魂）所固有的，后者充当一切经验的不可还原的主体，从而说明有意识生命的整体性。",
+    "information_flow_or_representation": "未以信息流的方式明确界定；非物理的灵魂实体提供的是本体论基础（谁拥有哪种有意识的生命），而非解释具体信息如何被加工。",
+    "evolutionary_account": "聚焦于人格性对不可还原实体的形而上学要求，而非对意识由物质产生的演化解释。",
+    "core_claims_and_evidence": [
+      "有意识的生命需要经验的主体（灵魂），它们是根本独立的、非物理的实体。",
+      "仅凭物理属性无法区分不同的有意识的人（人格同一性论证）。",
+      "一个人的持续存在在于其灵魂的持续存在。",
+      "决定具有某种性格的人之存在的自然定律，无法决定具体是哪一个人（灵魂）诞生。"
+    ]
+  },
+  "empirics_and_critiques": {
+    "testability_status": "通过关于人格同一性的哲学与逻辑论证在概念上可检验，但由于依赖一种非物理实体，一般被物理主义范式视为经验上思辨或不可检验的。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要张力在于交互问题：二元论难以解释非物理实体如何能与物理大脑发生因果交互而不违反物理定律（如能量守恒）。斯温伯恩的观点也因“定律如何能支配某一特定个体灵魂的创造”而受到批评。",
+    "open_questions_and_limitations": "非物理实体与物理大脑相交互的确切机制（交互问题）仍未解决。",
+    "ontological_coherence": "在其二元论本体论内部融贯，尤其能应对唯物主义理论无法把握的人格同一性问题。然而，它与假定物理学因果封闭的物理主义框架存在深刻的概念冲突。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否（多数情况下）",
+      "rationale": "人工系统会缺乏真正内在觉知所需的、根本独立的非物理实体（灵魂）。二元论一般被视为反对人工智能意识的主要坚守立场。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "既然人由一种非物理实体构成，那么该实体（灵魂）在物理身体与大脑死亡消解之后，有可能维持有意识的存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是",
+      "rationale": "二元论与唯心主义理论一般提供某种终极的意义、目的或价值，这与纯唯物主义理论形成对照。"
+    },
+    "virtual_immortality": {
+      "stance": "否（多数情况下）",
+      "rationale": "仅上传大脑的物理结构是不够的，因为技术无法复制或上传所需的非物理组成部分（灵魂），结果将缺失原初的第一人称心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Interactive Dualism",
+        "relationship": "兼容"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "对照"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "对照"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind, Brain, and Free Will, R. Swinburne",
+        "year": 2013
+      },
+      {
+        "title_with_names": "How does personal identity persist through time?, R. Swinburne",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Interview with science and religion news on mind-body dualism, R. Swinburne",
+        "year": 2006
+      }
+    ]
+  }
+}

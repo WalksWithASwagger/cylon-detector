@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "Smith 的「語言作為意識分類器」理論",
+    "summary": "該理論被歸入唯物論框架下的「語言關係」類別，主張語言的根本功能在於對主觀經驗的內容進行分類、結構化與清晰表達。因此，意識作為經由這些語言結構組織並使之可通達的內容而存在。",
+    "associated_thinkers": ["Barry Smith"],
+    "category": "唯物論理論",
+    "subcategory": "語言關係",
+    "core_identity_tagline": "意識作為經語言分類的內容",
+    "classification_tags": [
+      "language",
+      "materialism",
+      "classification",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為受語言分類過程作用並由其穩定化的內在內容。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一或相關。作為一種唯物論理論，心靈（由語言所結構化）必然與支撐語言分類的底層大腦過程相同一，或與之完全相關。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性源自施加於個體內在狀態之上的獨特語言結構化。意向性則透過語言得以實現——語言提供了將心理狀態與外部客體或概念相聯結的表徵框架。",
+    "qualia_account": "感質被視為施加於原始感官輸入之上的語言區分或分類。主觀的「感受」內在於語言系統所強加的那種特定而複雜的結構。",
+    "ontological_commitments": "專司語言處理、符號表徵與範疇化的物理性神經機制。",
+    "epistemic_access": "可透過對語言行為、自我報告的研究，以及與分類和語言理解相關的神經激活模式的相關性加以通達。",
+    "constituents_and_structure": "由神經活動動態組織起來的、基於語言的表徵與範疇化基模。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "通達、表徵、語言",
+    "distinctive_mechanism_or_principle": "核心原則是語言作為分類器的功能，即對複雜資訊進行選擇與結構化，使其成為離散的、可報告的意識範疇。",
+    "dynamics_of_emergence": "意識是一個動態過程，當複雜的內在資訊處理被語言這一演化而來的結構所組織、界定並穩定化時，意識便隨之湧現。",
+    "location_and_distribution": "分布於大腦中負責語言處理、表徵與分類的特定神經網路。",
+    "causation_and_functional_role": "意識的功能在於透過將心理內容組織為融貫、可交流的範疇，從而實現更高階的認知能力、交流以及靈活的適應性行為。",
+    "integration_or_binding": "整合透過語言系統所提供的統一框架得以實現，該框架以符號方式將各不相同的感官輸入與認知輸入相綁定。",
+    "information_flow_or_representation": "資訊由語言表徵加以處理與結構化，從而使其可為更廣泛的認知操作與自我監測所通達。",
+    "evolutionary_account": "意識作為一種與語言的系統發生發展緊密相關的認知適應而演化，透過卓越的資訊組織與社會交流帶來了增強的適應度收益。",
+    "core_claims_and_evidence": [
+      "意識經驗從根本上由語言範疇所結構化。",
+      "與語言分類相對應的神經活動與意識覺知直接相關。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、語言學的、認知的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗（有條件的）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "針對以語言為中心的理論，常見的批評包括：如何解釋非語言存在者（如嬰兒、動物）身上的意識，以及如何充分說明現象經驗中定性的、非符號性的方面。",
+    "open_questions_and_limitations": "語言究竟透過何種確切的神經生物學機制將結構強加於原始輸入之上、從而生成主觀的「分類器」經驗，在相關文獻中仍未有明確界定。",
+    "ontological_coherence": "與唯物論存有論高度融貫，該存有論將主觀經驗奠基於大腦語言機制的功能複雜性與結構複雜性之上。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "如果意識是複雜語言分類機制的產物，那麼具備足夠先進的語言與符號處理能力的人工系統應當能夠將其實例化。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識從根本上與支撐語言和分類的物理性、生物性基質相綁定；一旦大腦消解，意識便永久消亡。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本層面",
+      "rationale": "作為一種唯物論理論，它支持源自認知複雜性與自我反思的、由人類創造的意義與價值，但否認終極的宇宙目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意識在功能上可化約為一套資訊分類與表徵系統，那麼對該系統進行完美的數位複製或上傳在原則上是可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "T. Clark’s Content Hypothesis",
+        "relationship": "相容"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Chomsky’s Language and Consciousness",
+        "relationship": "相關／對比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Smith’s Language as Classifier of Consciousness",
+        "year": ""
+      },
+      {
+        "title_with_names": "Language and consciousness, Barry Smith",
+        "year": 2012
+      }
+    ]
+  }
+}

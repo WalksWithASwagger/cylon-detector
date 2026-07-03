@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Mansell 的知觉控制理论（PCT）",
+    "summary": "该理论主张，意识产生于为适应性地修改控制系统所必需的重组织这一至关重要的过程。此种修改旨在减小支配根本的（大多为生理的）变量的内在机制中的误差。意识涵盖了原初的（现象的）、次级的（通达的）与第三级的（自我意识的）诸方面，并与分层的控制功能相关联。",
+    "associated_thinkers": ["Warren Mansell"],
+    "category": "唯物主义",
+    "subcategory": "稳态与情感",
+    "core_identity_tagline": "意识即最小化内在误差的重组织",
+    "classification_tags": [
+      "homeostatic",
+      "control theory",
+      "emergentism",
+      "purposiveness",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "原初的（现象的）意识被认定为直接产生于重组织过程，即为适应性地修改那些最小化内在生理系统误差的控制系统所必需的过程。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "涌现论的。心灵作为物理控制系统（大脑／身体）内部发生的重组织过程的结果而产生。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现。基于其归类于唯物主义之下，支配意识的根本过程（重组织、误差减小）被假定原则上可由底层的物理定律加以解释。",
+    "subjectivity_and_intentionality": "主体性隐含地产生于对分层组织的知觉变量的控制。意向性经由「目的性」得到处理，即为达成某一目标（参照值）而对这些知觉变量施加的控制。",
+    "qualia_account": "原初的（现象的）意识产生于减小控制基本生理变量的内在系统之误差所需的特定重组织过程。",
+    "ontological_commitments": "分层的控制系统、生理变量、知觉变量，以及符号（用于第三级意识）。",
+    "epistemic_access": "通过研究适应性修改过程（重组织）并将分层的控制功能与意识的三个层次（原初、次级、第三级）相联系来通达。",
+    "constituents_and_structure": "基本结构是一个由分层组织的知觉变量构成的系统，通过设计用来抵消扰动、减小当前值与目标状态之间误差的输出加以调节。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（原初）、通达意识（次级）、自我意识（第三级）",
+    "distinctive_mechanism_or_principle": "重组织，被界定为适应性地修改内部控制系统以维持根本变量对抗外部扰动、从而生成意识的过程。",
+    "dynamics_of_emergence": "动态过程。次级的（通达的）意识通过借由探索行为、注意与想象来控制新信息的整合速率而得以维持。",
+    "location_and_distribution": "系统性的。意识产生于遍及有机体（大脑／身体）分层控制系统的重组织动力学。",
+    "causation_and_functional_role": "意识具有适应性修改与误差减小的功能角色。第三级意识（自我意识）经由符号系统提供反思与学习。",
+    "integration_or_binding": "整合是一个由次级意识主动管理与控制的过程，具体是通过管理新信息的整合速率来实现。",
+    "information_flow_or_representation": "第三级（自我意识）意识将内部维持的知觉信息与符号（语言、逻辑）相关联，以形成一个用于反思的命题系统。",
+    "evolutionary_account": "意识的演化旨在弥补非意识过程的贡献并解决其局限，具体是通过实现维持控制以对抗不可预测扰动所必需的适应性修改。",
+    "core_claims_and_evidence": [
+      "意识产生于为减小内部误差信号而运作的重组织机制。",
+      "意识分为三个层次：原初的（现象的）、次级的（通达的）与第三级的（自我意识的）。",
+      "第三级意识使用与内部维持的知觉信息相关联的符号系统（语言／逻辑）。",
+      "意识的首要功能是为生存而实现对非意识控制系统的适应性修改。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、心理学的、神经哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在经验上可检验。该理论依赖于可量化的心理过程（注意、想象）与生理误差减小信号。",
+    "known_empirical_interventions_or_tests": "可通过设计实验来检验：测量响应于不可预测的生理或知觉扰动时适应性修改（重组织）的速率，并将这些变化与所报告的现象经验或通达经验相关联。",
+    "criticisms_and_tensions": "它很可能面临如下挑战：解释一个纯粹功能性的、减小误差的过程（重组织）如何充分说明原初意识的定性感受（感受质）——这是针对功能主义与计算主义理论的一个常见批评。",
+    "open_questions_and_limitations": "重组织机制的具体物理实现，以及生理误差减小与现象经验（感受质）主观涌现之间的明确联系，是隐含的而非充分阐明的。",
+    "ontological_coherence": "在一个依据意识在控制有机体与环境互动中的适应性功能角色来界定意识的物理主义框架内高度融贯。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "由于意识以误差减小、分层控制与符号操作（用于自我意识）等过程被机制性地界定，这些功能在理论上可在足够复杂的人工计算系统中实现。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识内在地系于生物学控制系统重组织所产生的动力学涌现（隐含地为物理／神经基质），意味着它在该基质瓦解时便终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "务实的／存在的",
+      "rationale": "意识的存在由其在促进适应性行为、维持控制（目的性）以及弥补非意识生命之局限方面的功能所解释，并不设定宇宙的或终极的目的。"
+    },
+    "virtual_immortality": {
+      "stance": "可能的",
+      "rationale": "如果意识完全由控制系统层级的底层信息结构与动力学所把握，那么这一功能模式有可能在非生物基质中被复制并维持。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "影响"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "An Integrative Control Theory Perspective on Consciousness, W. Mansell",
+        "year": 2022
+      }
+    ]
+  }
+}

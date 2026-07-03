@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Jaworski 的形質論",
+    "summary": "Jaworski 的理論主張，意識從根本上是一種源自形質論的結構性現象；形質論作為基本的存有論原理，主張結構說明了物理個體的力能與能力。此理論將意識經驗界定為知覺者的結構化活動，並宣稱藉此解決意識的難問題，並將心靈現象毫無疑難地安置於自然世界之中。",
+    "associated_thinkers": ["William Jaworski"],
+    "category": "唯物論",
+    "subcategory": "關係性",
+    "core_identity_tagline": "「意識即基本結構與力能」",
+    "classification_tags": [
+      "hylomorphism",
+      "structure",
+      "physicalism",
+      "powers",
+      "mind-body solution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被界定為一種結構性現象——即源自構成知覺者之物理材料的、高度組織且協調的活動與能力。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "結構同一。心靈現象是結構性現象，因而是物理世界的一部分。經典的心身問題被視為那些拒絕將結構視為基本存有論原理的世界觀之副產物。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "來源未指明弱湧現或強湧現。鑑於結構完整地解釋了現象特徵，這意味著一種旨在化約至結構的觀點，或弱湧現，與其唯物論的歸類相容。",
+    "subjectivity_and_intentionality": "主體性源自將知覺者各子系統的活動統一為一個整體的協調作用。意向性以隱含方式被說明為由特定物理結構所賦予的基本力能或能力之一。",
+    "qualia_account": "經驗的現象特徵可透過描述知覺者底層的結構而獲得完整解釋，包括各知覺子系統、其特定的力能，以及將這些活動統一起來的整體協調作用。",
+    "ontological_commitments": "物理材料與結構，其中結構被假定為基本的存有論與解釋性原理，負責決定個體的力能與能力。",
+    "epistemic_access": "意識透過分析與描述知覺者的物理結構及其知覺子系統的協調作用而獲得通達。",
+    "constituents_and_structure": "基本構成要素是物理材料與特定結構的結合；整體結構決定了意識能力，並將各式各樣的活動（如知覺經驗）統一為知覺者作為整體的活動。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性的（解釋現象特徵／感質）與知覺性的（知覺經驗是一種結構化活動）。",
+    "distinctive_mechanism_or_principle": "形質論的原理，主張物質的整體組織決定了其基本力能，使意識成為一個足夠複雜的物理系統所內在固有的結構性性質。",
+    "dynamics_of_emergence": "意識顯現為「結構化活動」（例如知覺經驗）。它是一種由子系統的協調與統一所界定的動態歷程。",
+    "location_and_distribution": "定位於具備必要結構的物理材料，特別是在知覺者的身體之內（例如人類大腦及其相關子系統）。",
+    "causation_and_functional_role": "結構負責個體的力能與能力。由於心靈現象是結構性的，且屬於物理世界的一部分，它們具有內在固有的因果效力。",
+    "integration_or_binding": "意識經驗的統一性（整合）藉由「將各知覺子系統的活動統一起來的協調作用」而達成，成為整體知覺者的整合活動。",
+    "information_flow_or_representation": "意識源自特定的結構化活動，例如知覺經驗，這些活動仰賴知覺者的內部組織與力能，而非僅仰賴抽象的資訊處理模型。",
+    "evolutionary_account": "理由說明：文中指出意識就如同生命一般「毫無疑難地契合於自然世界」，這意味著它是演化的一種自然、不神祕的結果，儘管原始材料並未詳述具體的種系發生步驟。",
+    "core_claims_and_evidence": [
+      "結構是一種基本的存有論原理，決定了個體的力能與能力。",
+      "經驗的現象特徵可透過描述知覺者的結構而獲得完整解釋。",
+      "心身問題僅僅是拒絕形質論原理所產生的副產物。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學性與存有論性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗。其核心論證是形上學的，提供一個框架（形質論）來消解該問題，此框架可透過分析其前提而在哲學上加以檢驗。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "此理論的主要張力在於：它要求非信奉者接受結構是一個能夠解釋一切主觀面向的基本存有論原理。物理論的批評者將會拒絕「單憑結構就足以消解難問題」這一前提。",
+    "open_questions_and_limitations": "即使接受了其形上學基礎，該理論框架仍需大量工作，以精確指明所觀察到的神經或生物結構如何詳盡地對應於被知覺到的現象特徵。",
+    "ontological_coherence": "高度融貫。此理論的構築特意確立其內部一致性，藉由確保意識心靈現象必然是物理世界的整合結構部分，從而解決其所設定的哲學問題。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "若意識是達成特定複雜物理結構與組織（形質論）的直接結果，那麼任何被設計為具備該必要結構與力能的人工系統，都將實現真正的意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識與個體高度組織的物理材料密不可分地繫在一起。此結構的停止或分解意味著意識的終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "被歸類為唯物論，意識是自然的、結構性現象的產物。因此任何意義或目的都是由人類在自然世界中的結構性能力與活動所生成，而非宇宙性地內在固有。"
+    },
+    "virtual_immortality": {
+      "stance": "有可能",
+      "rationale": "若意識完全由精巧的「結構」及其所產生的「力能」所定義，那麼將此完整的結構性配置複製或上傳至一個新的、非生物的基質，理應能保存意識自我，這與此理論的功能論面向相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Mind-Body Identity Theory",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Feser’s Neo-Thomistic Dualism",
+        "relationship": "相關"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem, William Jaworski",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Hylomorphism and the construct of consciousness, William Jaworski",
+        "year": 2020
+      }
+    ]
+  }
+}

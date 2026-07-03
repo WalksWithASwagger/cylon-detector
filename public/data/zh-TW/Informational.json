@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "資訊實在論與湧現資訊理論",
+    "summary": "資訊實在論主張，實在根本上由各實體交換資訊的能力所界定，此能力充當溶解身心問題的關係性黏著劑。湧現資訊理論（EIT）則提出，意識源於非物質、不可偵測的資訊「值」，這些值在生物系統中以層級方式湧現，使其得以對物理身體施加由上而下的因果作用。",
+    "associated_thinkers": ["William Dembski", "Daniel Boyd"],
+    "category": "唯物論",
+    "subcategory": "計算與資訊",
+    "core_identity_tagline": "「意識即層級湧現資訊」",
+    "classification_tags": [
+      "information",
+      "realism",
+      "emergence",
+      "non-material",
+      "top-down causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為湧現的、非物質的資訊，此資訊有別於物質或能量，卻在物理系統內獲得實現（EIT）。資訊實在論將全部實在奠基於資訊的交換之上。",
+    "ontological_status": "物理論／唯物論，帶有大量限定。該理論歸類於唯物論之下，但 EIT 主張的資訊值明確地是非物質的、非能量的。",
+    "mind_body_relationship": "湧現論式的；EIT 藉由主張非物質的資訊層級（心靈）透過由上而下的因果作用影響物理身體，來架起身心之間的橋樑。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "強湧現。EIT 主張腦功能依賴於層級式的湧現現象，這些現象運用了強湧現系統中常見的「由上而下的因果作用」。",
+    "subjectivity_and_intentionality": "主體性與意向性被歸因於湧現的、層級式的資訊結構。資訊實在論主張，心靈藉由以資訊取代知覺，而獲得對根本性質的直接通達。",
+    "qualia_account": "感質隱含於由層級式、湧現式資訊現象所產生的「意識之非凡性質」之中。其特定的質性感受並未在機制上詳加說明。",
+    "ontological_commitments": "資訊是實在的根本「關係性黏著劑」。具體的存有論承諾包括非物質資訊的基本單元（值），以及生物／技術系統內的層級式資訊結構。",
+    "epistemic_access": "EIT 的非物質資訊值無法被物理裝置偵測，但可運用用以創造它們的編碼系統加以推導。資訊實在論主張，心靈經由資訊而具有直接通達。",
+    "constituents_and_structure": "意識的結構基於由非物質資訊基本單元（類比於位元組與子程式）所形成的層級組織。實在本身即為一個「以資訊相互連結的整體」。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（藉由處理身心鴻溝而隱含），以及功能性的腦現象。",
+    "distinctive_mechanism_or_principle": "在生物系統中實例化不可偵測、非物質的資訊「值」，這些值組織成層級結構並施加由上而下的因果作用。",
+    "dynamics_of_emergence": "動態歷程。意識透過基本資訊單元的組合以形成層級式湧現現象而產生。",
+    "location_and_distribution": "局域於能夠支持層級式資訊湧現的生物與技術系統之中。資訊實在論主張資訊為實在無所不在的界定特徵。",
+    "causation_and_functional_role": "意識作為非物質資訊，施加由上而下的因果作用，影響物理身體。功能性的腦現象依賴於這些資訊層級。",
+    "integration_or_binding": "整合透過基本資訊單元的綁定與組合以形成層級組織而達成。資訊實在論主張實在是一個以資訊相互連結的整體。",
+    "information_flow_or_representation": "資訊被視為有別於物質或能量的非物質「值」，以層級方式組織，充當實在的主要組成成分。",
+    "evolutionary_account": "未明確詳述。該理論隱含地依賴於能夠處理並支持強湧現資訊之生物系統的演化。",
+    "core_claims_and_evidence": [
+      "實在的界定特徵是各實體交換資訊的能力（資訊實在論）",
+      "EIT 主張有別於物質或能量的非物質資訊值",
+      "意識源於大腦中層級式的湧現資訊現象（EIT）",
+      "EIT 機制依賴於強湧現系統中常見的由上而下的因果作用"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學性、計算性、概念性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性且概念上可檢驗。EIT 的核心組成成分（非物質的值）被定義為無法被任何裝置偵測。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要張力源於：該理論歸類於唯物論之下，卻依賴被明確定義為非物質、非能量所構成的資訊成分，這可能使其與嚴格物理論之間的融貫性受到牽制。",
+    "open_questions_and_limitations": "非物質資訊湧現藉以轉化為現象性主觀經驗的確切機制仍不明朗，因為資訊值僅被定義為從狀態推導而來的「值」。",
+    "ontological_coherence": "作為一套基於分層資訊的強湧現與由上而下因果作用的理論，在內部具一致性。但其與物理論的融貫性因主張非物質、非能量的資訊成分而受到牽制。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作為歸類於唯物論之下的計算與資訊理論，它意味著：只要人工系統能實例化所需的複雜、層級式且強湧現的資訊結構，意識即可達成。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "該理論歸類於唯物論之下，唯物論大體上主張意識完全依賴於物理基質（大腦），意味著身體的毀壞導致意識自我的終止。資訊值的非物質性質依賴於系統的物理狀態。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "若意識根本上是一種資訊結構（即使該資訊是非物質的），那麼將此結構及其動力學（包括層級湧現與由上而下因果作用的能力）複製到非生物媒介中，應能使第一人稱的心靈自我得以延續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "身處唯物論範疇之內，該理論支持一種以科學為基礎的觀點，此觀點通常蘊含由個人所創造的人本主義意義與目的，而非宇宙性的或終極的目的論。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Emergence",
+        "relationship": "延伸"
+      },
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "對比"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "How informational realism subverts materialism, William Dembski",
+        "year": 2021
+      },
+      {
+        "title_with_names": "How informational realism dissolves the mind–body problem, William Dembski",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Emergent Information Theory, Daniel Boyd",
+        "year": 2020
+      }
+    ]
+  }
+}

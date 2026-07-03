@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Hardcastle 反对唯物主义怀疑论者的论证",
+    "summary": "这一立场认为，唯物主义者与怀疑论者（如那些关注解释鸿沟的人）之间的持久分歧，从根本上是对科学事业所持态度上的差异。Hardcastle 断言意识是一种不神秘的物理现象，经验科学终将对其作出解释，而怀疑论者难以接受这一结果，源于他们自身概念框架的失败，而非唯物主义本身的失败。",
+    "associated_thinkers": [
+      "Valerie Gray Hardcastle"
+    ],
+    "category": "唯物主义",
+    "subcategory": "哲学",
+    "core_identity_tagline": "怀疑论直觉是概念上的失败，而非唯物主义的缺陷",
+    "classification_tags": [
+      "philosophical",
+      "materialism",
+      "explanatory gap",
+      "conceptual analysis",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识如同其他一切事物一样，是物理世界的一部分，唯物主义者预设终将为其发现一个同一陈述。",
+    "ontological_status": "坚定的唯物主义",
+    "mind_body_relationship": "这一关系是一种同一关系，其中有意识状态等同于物理状态。当前缺乏一个‘可理解的’同一陈述，被视为态度问题而非本体论问题。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现（推断而得，因为 Hardcastle 抱有‘全然而绝对的信心’，相信如今所构想的科学终有一天会解释意识，这意味着原则上可还原。）",
+    "subjectivity_and_intentionality": "怀疑论者对不可还原的质性方面（主体性／感受质）的执着，被刻画为一种概念上的错误。Hardcastle 在别处将心理状态论述为物理主义框架内具有因果效力的能动者（意向性）。",
+    "qualia_account": "怀疑论者无法想象神经活动如何把握质性方面，这是他们一方的概念失败或‘态度’问题，对科学而言‘无关痛痒’。感受质将由最终的科学同一陈述完全容纳。",
+    "ontological_commitments": "受科学方法支配的物理世界；神经活动与复杂的动力学结构；具有因果效力的心理状态（在某些语境中）。",
+    "epistemic_access": "经验研究是解释意识的恰当进路。哲学怀疑论必须服从于科学交付一个正确同一陈述的能力。",
+    "constituents_and_structure": "意识被刻画为支撑我们信息处理的一种低层动力学结构，源于物理脑的组织。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（尤其是关于它的解释鸿沟的性质）、心理因果、具身认知。",
+    "distinctive_mechanism_or_principle": "其原理是方法论与态度上的：接受自然主义与科学解释的前提，从而将‘难问题’消解为一个非问题。底层的物理机制基于动力学结构与信息处理。",
+    "dynamics_of_emergence": "意识是产生于神经活动的动态过程，如支撑信息处理的低层动力学结构。对它的最终解释将是一种‘蛮横事实’式的认定，类似于物理定律。",
+    "location_and_distribution": "主要定位于生物脑，尽管她提出了一种更细致的观点，认为意识可能‘既定位于头脑之内，也同样定位于外部世界之中’。",
+    "causation_and_functional_role": "心理状态可被称为某些行为的、具有因果效力的能动者。Hardcastle 的观点确保物质基础支持心理因果。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "意识涉及信息处理；Hardcastle 将意识视为支撑我们信息处理的一种动力学结构。",
+    "evolutionary_account": "隐含地依赖于演化背景，与唯物主义相一致，但在这一具体的哲学论证中未被明确详述。",
+    "core_claims_and_evidence": [
+      "唯物主义者与怀疑论者之间的分歧，取决于对科学事业理解上的根本差异。",
+      "唯物主义者抱有绝对的信心，相信科学终将像解释其他谜团那样解释意识。",
+      "解释鸿沟由怀疑论者关于意识神秘性的先入之见所维系。",
+      "要化解这一困难，怀疑论者‘需要改变他们的概念’，否则就有被科学摒弃其观念的风险。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学（为前提辩护）、经验（对科学能力的信心）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "原则上可检验，因为这一立场立足于如下预测：科学终将成功地通过一个同一陈述解释意识。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "怀疑论者认为，唯物主义者未能使所需的同一陈述‘可理解、可信、合理’，因而未能弥合解释鸿沟。她的观点有被贴上纯属‘态度’问题、而非实质性哲学论证的风险。",
+    "open_questions_and_limitations": "Hardcastle 承认，关于意识的具体同一陈述尚未被找到，而且对于那些已然认定意识具有神秘性的人来说，她所说的一切都无济于事。",
+    "ontological_coherence": "在一个纯粹自然主义、唯物主义的框架内高度融贯，前提是接受‘关于意识的一切事实终究都是物理事实（即便目前尚不为人知）’这一前提。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "Hardcastle 的立场坚定地属于唯物主义，断言意识是物理世界的产物。因此，原则上，任何足够复杂的物理系统，无论是生物的还是人工的，只要实现了必要的物理结构，就必定能够具有意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "唯物主义认为意识仅仅是生物脑的产物。一旦大脑死亡，意识便不复存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "有条件",
+      "rationale": "作为一种唯物主义理论，它并不蕴含终极的或宇宙的意义／目的，但承认人类能够为自身创造人本的意义、目的与价值。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意识完全是物理的、不神秘的，第一人称自我便可还原为物理模式。如果这些模式能被完美复制并上传到非生物介质，虚拟永生便是可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "相容"
+      },
+      {
+        "name": "David Chalmers's Hard Problem Arguments",
+        "relationship": "批评"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "重叠（共享一种对主观直觉的紧缩态度）"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The why of consciousness: a non-issue for materialists",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Locating Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "On the matter of minds and mental causation",
+        "year": 1998
+      }
+    ]
+  }
+}

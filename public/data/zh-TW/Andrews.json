@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Andrews 的無需複雜大腦的意識理論",
+    "summary": "這一視角批判意識研究中的神經中心主義偏見，即假定只有複雜的哺乳動物大腦才能支持意識。它主張意識在多樣的物理系統中是可多重實現的，並倡導研究更簡單的動物（如蜜蜂或章魚），以辨識感受性的根本特徵而非偶然特徵。",
+    "associated_thinkers": [
+      "Kristin Andrews"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "系統發生演化",
+    "core_identity_tagline": "經由多個簡單系統實現的意識",
+    "classification_tags": [
+      "evolution",
+      "animal minds",
+      "multiple realizability",
+      "comparative cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為使穩健的行為特徵（例如避痛、覓食）得以實現的底層能力，而這一能力可由截然不同的物理系統所實現（多重實現性）。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "意識與物理過程相關聯，並由物理過程所實現，但這一關係是靈活的，容許非複雜的、系統發生上相距遙遠的神經基質（多重實現性），這與只聚焦於複雜大腦的嚴格同一論形成對照。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性與意向性是從動物所表現出的穩健行為特徵（例如朝向所欲刺激的有目的運動）中推斷出來的，這表明這些心理能力與多樣的物理機制相聯繫。",
+    "qualia_account": "該進路假定更簡單的動物存在現象經驗（感受性），旨在辨識意識的本質物理基礎，而獨立於傳統上與感質相關聯的複雜大腦特徵。",
+    "ontological_commitments": "能夠支持感受性行為的物理系統，尤其是多樣的神經系統（頭足類、節肢動物、脊椎動物）。",
+    "epistemic_access": "主要透過觀察與分析多樣物種中穩健的適應性行為特徵，並結合一般性的意識標記（例如自我辨識、對刺激的反應）來獲得通達。",
+    "constituents_and_structure": "具體的物理結構是可變的（多重實現性），關注的是生物系統內所必需的組織方式（可能包括簡單的神經迴路），而非諸如大腦皮質這樣的特定結構。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（感受性）、適應性行為、學習、自我覺知（透過標記加以研究）。",
+    "distinctive_mechanism_or_principle": "多重實現性原則，主張心理能力並不侷限於複雜的哺乳動物神經架構，從而引導研究去辨識系統發生上相距遙遠的物種中普遍存在的意識行為標記。",
+    "dynamics_of_emergence": "透過系統發生的發展而演化，可能僅在某個共同的蠕蟲狀祖先中出現一次，或在不同譜系中（例如節肢動物、頭足類、脊椎動物）各自獨立地出現。",
+    "location_and_distribution": "分布於生命之樹上的各種有機體之中（例如蜜蜂、章魚、蠕蟲），挑戰了聚焦於高等哺乳動物之定位的神經中心主義。",
+    "causation_and_functional_role": "意識作為一種適應性優勢發揮作用，使有機體能夠解決諸如避痛與覓食等生存問題，並支持靈活的行為。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "相關研究涉及諸如心理表徵等關鍵議題，但該核心理論強調的是與經驗相關聯的行為特徵。",
+    "evolutionary_account": "意識透過演化而產生，因其在增進生存中的作用而被選擇；研究已演化出的意識的多個實例，有助於將本質特徵與偶然特徵區分開來（即「N = 1 問題」）。",
+    "core_claims_and_evidence": [
+      "僅僅聚焦於複雜的哺乳動物大腦（如靈長類）會導致一個「N = 1 問題」，從而妨礙辨識意識真正的本質特徵。",
+      "感受性很可能在地球上僅演化出現過寥寥數次，或許僅在某個遙遠的共同祖先中出現過一次。",
+      "穩健的行為特徵（例如遠離痛苦刺激）為「更簡單的動物具有意識」這一假設提供了正當理由。"
+    ],
+    "basis_of_belief_or_evidence_type": "比較生物學的、哲學的、經驗的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可透過比較行為研究進行經驗檢驗，儘管因跨物種評估的侷限而具有挑戰性。",
+    "known_empirical_interventions_or_tests": [
+      "對《劍橋宣言》中所確認的意識標記的分析（例如同源腦迴路、鏡像自我辨識）",
+      "對適應性反應的行為觀察（例如避痛、覓食）"
+    ],
+    "criticisms_and_tensions": "與意識研究中盛行的、認為意識需要複雜大腦的傳統觀念相牴觸。倘若在遙遠的祖先中發現意識，那麼那些依賴於特化腦區（如負責資訊整合的大腦皮質）的理論便會受到挑戰。",
+    "open_questions_and_limitations": "如果感受性僅在某個非常古老的祖先中演化出現過一次，那麼「N = 1 問題」依然存在，這意味著與感受性相關的本質性底層特徵仍屬未知。",
+    "ontological_coherence": "在廣義的物理論框架內融貫，作為一種方法論批判，針對那些對所需物理基質過於具體化的唯物論理論。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "如果意識在多樣的生物系統中是可多重實現的，那麼它極有可能也能在達到必要功能組織與行為複雜度的非生物（人工）系統中得到實現，儘管理解動物心靈對於這一目標至關重要。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種根植於唯物論與系統發生演化的理論，意識根本上依賴於物理／生物硬體，並不假定存在能夠在死後存續的非物理實體。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本／適應層面",
+      "rationale": "其焦點在於意識在促進生存與繁盛中所演化出的功能性與適應性作用，這支持源自生物存在的人本意義，而非宇宙目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "「多重實現性」這一核心概念意味著，只要功能性質得到準確複製，有意識的心理自我便能夠在非生物硬體中被再現。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "批判"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is it like to be a crab?, Kristin Andrews",
+        "year": ""
+      },
+      {
+        "title_with_names": "How to Study Animal Minds, Kristin Andrews",
+        "year": 2020
+      },
+      {
+        "title_with_names": "What has feelings?, Kristin Andrews and Jonathan Birch",
+        "year": 2023
+      }
+    ]
+  }
+}

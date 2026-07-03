@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "Pereira 的感受性理论",
+    "summary": "该理论主张意识具有两种不同的模态：作为基础的感受性，以疼痛、饥饿等基本感受为特征；以及涉及抽象思维与表征的高阶认知意识。其核心主张是，认知能力依赖于这种作为底层的感受性状态，而后者在生物学上奠基于稳态系统。",
+    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "category": "唯物主义",
+    "subcategory": "稳态与情感",
+    "core_identity_tagline": "意识是奠基于感受性的双层系统",
+    "classification_tags": [
+      "sentience",
+      "homeostatic",
+      "neurobiological",
+      "dual-modality",
+      "clinical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识是一个复合的生物学系统，由感受性（与生化稳态的动态调控相关联）与认知意识（与神经网络中生物电活动的模式相关联）构成。",
+    "ontological_status": "物理主义／自然主义（由其归类于唯物主义之下以及对生理／神经相关物的关注推断而来）",
+    "mind_body_relationship": "各意识模态（感受性与认知）在功能上依赖于生物有机体，并在其中——具体而言即稳态系统与神经网络——具有精确的生理相关物。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现（理由：其严格奠基于可观察、可测量的生物学／生理过程，表明尽管复杂，它原则上仍可由物理定律加以解释。）",
+    "subjectivity_and_intentionality": "主体性产生于感受性，即感受基本感觉（如饥饿、疼痛）的能力。意向性通过语言与意象表征的精细化，存在于认知意识之中。",
+    "qualia_account": "感受质经由作为基础模态的感受性得到说明，后者直接对应于感受基本的、定性的感觉（如疼痛、口渴）的能力。",
+    "ontological_commitments": "调控生化稳态的生理系统；神经网络中的生物电活动模式；分层的神经组织。",
+    "epistemic_access": "通过研究生理相关物——尤其是与稳态动态调控相关的部分——以及在临床上通过观察基本的感受性反应来通达。",
+    "constituents_and_structure": "一个分层的双层系统：感受性（低阶的、稳态的基础）与认知意识（高阶的、表征性的加工）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（基本感觉／感受性）；认知意识（思维／表征）；意识障碍的临床诊断。",
+    "distinctive_mechanism_or_principle": "功能依赖原理，即高阶的认知意识严格地依附于并受支撑于低阶的感受性模态，后者植根于稳态系统。",
+    "dynamics_of_emergence": "意识经由一种分层关系而产生，其中与生理调控相关联的基本感受性的存在，是认知功能得以涌现的必要基础。",
+    "location_and_distribution": "核心相关物分布于负责稳态调控的生理系统（就感受性而言）与神经网络（就认知加工而言）之上。",
+    "causation_and_functional_role": "感受性发挥着调节生理过程以维持稳态与生命延续的关键功能。它提供了基本生物调控所必需的意识反馈。",
+    "integration_or_binding": "未作说明。（理由：该理论关注各意识模态之间的区分与分层关系，而非统一感觉输入的机制。）",
+    "information_flow_or_representation": "认知意识涉及语言与意象表征的加工与精细化，这一过程发生于神经网络之中。",
+    "evolutionary_account": "细节未作说明，但可推断其是适应性的、演化的，将各意识模态与生存和维持稳态等基本的生物学律令相联系。",
+    "core_claims_and_evidence": [
+      "认知意识依赖于感受性，反之则不然。",
+      "感受性与生化稳态动态调控的能力相关联。",
+      "感受基本感觉的能力（感受性）是最低限度意识的最低要求（与临床诊断相关）。"
+    ],
+    "basis_of_belief_or_evidence_type": "神经科学的、临床／医学的、哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "通过临床评估与干预在经验上可检验，尤其是在分析植物人状态或麻醉状态下的最低限度意识时。",
+    "known_empirical_interventions_or_tests": [
+      "将感受基本感觉（饥饿、疼痛）的能力评估作为诊断长期意识障碍的标准。"
+    ],
+    "criticisms_and_tensions": "源材料中未提供明确的批评。（理由：源材料是描述性的，未包含针对这一具体理论的批判性论述。）",
+    "open_questions_and_limitations": "实现感受性与认知意识之间严格界限及分层依赖关系的具体生理与生物电机制，仍有待充分阐明。高阶认知测试可能不足以评估所有意识状态。",
+    "ontological_coherence": "在自然主义的界限之内高度一致，将意识的两个不同方面与具体的、可观察的生理系统相联系。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件的",
+      "rationale": "如果人工系统能够完全复制支配生化稳态动态调控的生理系统（感受性所需）以及必要的生物电网络活动（认知所需），那么人工意识是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "由于意识严格依赖于功能性的生物学系统（稳态调控与神经网络），可推定它在身体与大脑不可逆的瓦解时便终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人文主义的",
+      "rationale": "该理论聚焦于意识在维持生物学稳定（稳态）与实现灵活认知方面的功能性、适应性角色，并不为宇宙的或终极的目的提供依据。"
+    },
+    "virtual_immortality": {
+      "stance": "有条件的",
+      "rationale": "唯有在被认定为感受性与认知之相关物的特定动态稳态模式与生物电模式能够被完美地数字化并在非生物介质中复制时，虚拟永生在理论上才是可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "相容"
+      },
+      {
+        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The role of sentience in the theory of consciousness and medical practice, A. Pereira Jr.",
+        "year": 2021
+      }
+    ]
+  }
+}

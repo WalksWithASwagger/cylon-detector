@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Block 的生物化約論",
+    "summary": "Block 主張對現象意識採取化約式物理論的說明，並將其與認知取用嚴格區分開來。他提出，現象意識可化約為特定的神經生物學屬性，例如感覺與感覺後腦區中所見的電化學活動及複雜的整合系統。",
+    "associated_thinkers": [
+      "Ned Block"
+    ],
+    "category": "唯物論",
+    "subcategory": "哲學",
+    "core_identity_tagline": "現象意識即神經生物學電化學活動",
+    "classification_tags": [
+      "physicalism",
+      "reductionism",
+      "neurobiology",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象狀態字面上等同於特定類型的神經生物學狀態，其特徵在於其電化學性質。",
+    "ontological_status": "化約式物理論",
+    "mind_body_relationship": "心腦同一論（作為化約的有力候選），其中心理狀態等同於物理腦狀態。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（理由：化約論意味著意識完全可被解釋並可化約為較低層的物理屬性，符合弱湧現的定義。）",
+    "subjectivity_and_intentionality": "主體性繫於化約所需的特定生物學機制。支持一階表徵論，將現象特徵直接聯繫於一階意向內容。",
+    "qualia_account": "感質被認定為（或可化約為）大腦整合系統的特定神經生物學與電化學屬性。",
+    "ontological_commitments": "神經元的電化學活動、特定的神經迴路，以及與視丘等皮質下結構的連接。",
+    "epistemic_access": "可透過科學研究加以通達，其重點在於找出填補意識功能角色的物理屬性，尤其是考察現象意識的神經基礎。",
+    "constituents_and_structure": "傳播的神經生理火花與擴散的神經化學傳遞物質，構成一個複雜而整合的系統。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、感覺意識（明確將其與認知取用／取用意識區分開來）。",
+    "distinctive_mechanism_or_principle": "基於大腦電化學性質的神經生物學化約。有意識的知覺與知覺區域（如視覺區 V5）中的復現活化相關聯，有別於認知取用所需的全域廣播。",
+    "dynamics_of_emergence": "意識產生於電化學活動這一極其複雜而整合的系統。一階現象學可能在因果上促進全域廣播，從而顛倒了全域工作空間理論等理論的假設。",
+    "location_and_distribution": "定位於感覺系統、或許還有感覺後系統（如視覺皮質），需要與視丘相連接。現象意識被認為『溢出』了認知的可取用性。",
+    "causation_and_functional_role": "首要關注同一而非功能。現象意識可能是促進全域廣播以實現認知取用的一個因果因素。",
+    "integration_or_binding": "透過神經系統電化學活動之整合而複雜的組織加以達成。",
+    "information_flow_or_representation": "偏向一階表徵論，主張現象特徵由短期記憶儲存中類比式、精細的意向內容所表徵，可供高階思想調用。",
+    "evolutionary_account": "假定所需的生物學機制具有演化起源，與物理論相一致，但具體的演化主張並非該理論的核心焦點。",
+    "core_claims_and_evidence": [
+      "現象意識可化約為其在神經生物學中的物理基礎。",
+      "神經系統的電化學性質是意識化約的候選者。",
+      "現象意識溢出了認知的可取用性，意味著我們所擁有的經驗多於我們所能報告的。",
+      "有意識的知覺被認定為知覺區域中活躍的復現迴路加上背景條件。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學（為化約論辯護）、經驗（訴諸神經生物學的實例與資料）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗（需要成功辨識出字面上實現現象角色的物理屬性）。",
+    "known_empirical_interventions_or_tests": "考察感覺系統與感覺後系統中的神經活動及其相關性（如電化學活動、復現迴路），以找出神經生物學化約的候選者。",
+    "criticisms_and_tensions": "被批評未能使同一陳述變得可理解，因而未能彌合解釋鴻溝。Block 本人主張形上學功能論與化約式物理論是不相容的對手。『漸褪感質』等思想實驗，對特定生物學硬體之於現象學的必要性提出了挑戰。",
+    "open_questions_and_limitations": "首要挑戰是找出能夠成功完成化約的特定物理屬性（『第二步』）。它必須充分解釋為何特定的生物學機制對感質而言是必需的。",
+    "ontological_coherence": "與唯物論存有論相一致；與心腦同一論高度一致。Block 認為他的立場作為一個形上學主張與功能論不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "如果意識可化約為神經組織特定的電化學／生物學性質，那麼缺乏這種特定物理構成的非生物系統（如數位人工智慧）便無法例示真正的現象意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "既然意識被認定為並可化約為大腦的生物過程，那麼大腦的毀滅便意味著意識的終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定",
+      "rationale": "作為一種純粹的物理論化約，該理論不提供任何宇宙意義或目的，儘管它隱含地允許由有意識的有機體所創造的人本意義（這為大多數唯物論理論所共有）。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "Block 認為現象學依賴於我們生物學機制的性質。既然虛擬永生依賴於在非生物介質中的計算／功能複製，那麼現象特徵（感質）很可能會在轉移過程中喪失。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批評"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Higher-Order Theories (HOT)",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Consciousness, accessibility, and the mesh between psychology and neuroscience",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Functional reduction",
+        "year": 2008
+      }
+    ]
+  }
+}

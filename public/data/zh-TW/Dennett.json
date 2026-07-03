@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "丹尼特的多重草稿模型",
+    "summary": "這一神經生物學理論拒斥存在一個觀察意識的中央「笛卡兒劇場」的觀念。相反，它主張意識內容產生於並行的、多軌道的資訊處理流（「多重草稿」），這些草稿相互競爭以爭奪注意，勝出的草稿獲得「在大腦中成名」。這些瞬間的持續整合構成了主觀的自我感，後者被刻畫為一個「敘事重心」。",
+    "associated_thinkers": [
+      "Daniel Dennett",
+      "Patricia Churchland",
+      "Paul Churchland",
+      "Keith Frankish"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "神經生物學",
+    "core_identity_tagline": "作為多重草稿與敘事重心的意識",
+    "classification_tags": [
+      "eliminative materialism",
+      "illusionism",
+      "functionalism",
+      "narrative",
+      "evolutionary"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種由大腦中並行解釋歷程所產生的、不斷被修訂的「敘事流或序列」。主觀的現象屬性（感質）被定義為「使用者錯覺」或不融貫的神經建構。",
+    "ontological_status": "物理論／取消式唯物論",
+    "mind_body_relationship": "同一／化約。心理狀態完全可化約為物理狀態，而關於心靈的常識觀（常民心理學）是根本錯誤的，終將被神經科學所取代。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現。其理據在於，該理論主張意識可以完全化約為、或由基本物理歷程來解釋，從而支持一種化約論的唯物論觀點，並在原則上拒斥強湧現。",
+    "subjectivity_and_intentionality": "主體性（「自我」）被構想為一種分布式的虛構建構，稱為「敘事重心」。意向性（內容）被置於優先地位，並被視為複雜分子團塊的一種功能，先於對意識的需要。",
+    "qualia_account": "感質作為虛幻且不融貫的概念被拒斥。它們被消解為「使用者錯覺」——一些複雜的被激活的神經網路，使我們傾向於相信自己擁有內在的、不可分析的現象屬性。",
+    "ontological_commitments": "物理的大腦及其生物學歷程。「真實模式」——即由科學圖景（物理學、化學、分子生物學和神經生理學）所表徵的、實際存在之物的不同版本。",
+    "epistemic_access": "僅透過科學的第三人稱觀點，即所謂「異相現象學」。第一人稱內省及關於內部狀態的信念被當作有待解釋的數據，而不必然被視為對心理實在的真實陳述。",
+    "constituents_and_structure": "一「束半獨立的能動機構」或腦區／模組，產生並行的解釋（「多重草稿」），並持續接受編輯。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（被消解／取消）；通達意識；自我覺知（作為敘事結構）；內容／意向性。",
+    "distinctive_mechanism_or_principle": "對「笛卡兒劇場」隱喻的壓制。其機制涉及不同腦區／模組（草稿）為爭奪處理資源而進行的競爭，勝者獲得「在大腦中成名」，從而決定該意識瞬間的內容。",
+    "dynamics_of_emergence": "意識是一個動態歷程——隨時間展開的編輯性修訂流與敘事形成。它透過自然選擇逐漸產生，強調「沒有推理者的理由」和「沒有設計者的設計」。",
+    "location_and_distribution": "分布於整個大腦。明確否認存在單一的中央位置或內部觀察者。",
+    "causation_and_functional_role": "在功能上，意識是與世界之間一種複雜的、資訊性與反應性的交互。其演化角色在於提供一種增強適應性與繁殖成功的內在適應。",
+    "integration_or_binding": "整合是回溯性地實現的，透過連續的意識瞬間凝聚為一個連貫的生命故事（「敘事重心」）。",
+    "information_flow_or_representation": "對解釋與闡發進行並行的、多軌道的處理，從而形成一條敘事流。內容先於意識，使複雜的分子團塊得以具有意義。",
+    "evolutionary_account": "意識與心靈透過自然選擇演化而來，從細菌層級開始，經由創造思維工具（如語言）而不斷推進，這些工具正是理解意識本身之類現象所必需的。",
+    "core_claims_and_evidence": [
+      "不存在觀看意識經驗的「笛卡兒劇場」或內部見證者。",
+      "意識由爭奪「在大腦中成名」的「多重草稿」構成。",
+      "主觀自我是一種功能性建構（「敘事重心」）。",
+      "感質作為虛幻且不融貫的屬性被拒斥。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學（取消主義）、演化／生物學、計算（功能論）、認知科學（異相現象學）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗。丹尼特主張透過客觀的第三人稱方法（異相現象學）進行檢驗，而非依賴具有誤導性的內省。",
+    "known_empirical_interventions_or_tests": "文獻並未列出具體命名的實驗性介入，但該理論依賴於可透過標準認知科學程序和第三人稱方法論（「異相現象學」）獲得的支持性數據。",
+    "criticisms_and_tensions": "主要批評在於，該理論透過宣稱現象意識為一種錯覺而未能應對它（難問題），使批評者認為丹尼特解決的是「易問題」，卻迴避了核心之謎。他對感質的否認被視為一項關鍵性舉措，需要堅持一些反直覺的前提。",
+    "open_questions_and_limitations": "需要克服關於內部經驗的常識直覺，許多人認為這是一項「過高的要求」。難問題可能並不會「蒸發」，這一可能性仍是懸而未決的張力。",
+    "ontological_coherence": "在一個純粹化約的、消解性的唯物論框架內高度融貫，與「意識可由物理學和神經科學完全解釋」這一信念相一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作為一種植根於功能論／計算的強唯物論理論，它主張意識完全是物理的，且計算功能論為真。因此，達到超強人工智慧的非生物智能體最終必將實現意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "在唯物論理論中，生物大腦與身體的死亡導致人不可挽回且永久性地不復存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義意義",
+      "rationale": "唯物論理論不賦予終極的宇宙意義或目的，而是強調個體為自身所創造的人本主義意義與價值。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "若意識完全是物理的並可化約為資訊處理（如該理論所主張），則第一人稱的心理自我便可被上傳／複製到非生物介質，只要技術足夠，虛擬永生即可實現。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "重疊（核心哲學基礎）"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "相似（功能論進路）"
+      },
+      {
+        "name": "Global Workspace Theory (GWT)",
+        "relationship": "比較（兩者都拒斥笛卡兒劇場並聚焦於資訊通達，儘管在具體細節上有所不同）"
+      },
+      {
+        "name": "Higher-Order Thought Theories",
+        "relationship": "重疊（丹尼特的模型因其優先強調認知內容，常被視為高階理論的一種形式）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Explained, Daniel C. Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Eliminative Materialism and the Propositional Attitudes, Paul Churchland",
+        "year": 1981
+      }
+    ]
+  }
+}

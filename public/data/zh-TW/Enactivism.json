@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "生成認知論",
+    "summary": "生成認知論主張，心理活動與認知源自生命有機體與其環境之間的動態、交互作用，並由其感覺運動歷程加以中介。意識被視為一種具身的活動，從而使「無身體的心靈」這一觀念無法成立。",
+    "associated_thinkers": [
+      "Francisco Varela",
+      "Eleanor Rosch",
+      "Evan Thompson"
+    ],
+    "category": "唯物論",
+    "subcategory": "具身與生成",
+    "core_identity_tagline": "透過有機體與環境的動態互動實現認知",
+    "classification_tags": [
+      "embodied",
+      "cognition",
+      "dynamic",
+      "interaction",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "心理活動被認定為具身的活動，它源自有機體與其周遭之間、由感覺運動歷程調節的動態、雙向交換。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "心靈與心理生活遍及身體與環境，意即它們無法被單純地化約為頭顱內的大腦歷程。此關係是一種動態互動與共同關聯的關係，常被稱為「具身動態論」。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "自然湧現。意識經由認知與原初意識的諸演化階段而產生。此進路力圖以與實現從無生命到生命之過渡相同類型的歷程，來解釋從生命到心靈的過渡。",
+    "subjectivity_and_intentionality": "主體性經由親歷經驗（現象學）的首要地位加以探討。意向性（思維的指向性）由如下觀念加以解釋：心靈主動地構成其客體，經由互動而將世界帶入覺知或將其揭示出來。",
+    "qualia_account": "該理論所關聯的方法論——神經現象學——強調意識經驗與親歷經驗的不可化約性。雖然所提供的文本並未明確詳述感質生成的機制細節，但其焦點在於經驗直接的、鮮活的性質。",
+    "ontological_commitments": "生命系統、有機體與環境的互動、感覺運動歷程，以及自組織約束。此進路有時被刻劃為一種強調具身性首要地位的存有論突破。",
+    "epistemic_access": "親歷經驗是研究的必要起點與引導線索（「神經現象學」），它必須與生物學和認知科學的進展系統地相聯繫。",
+    "constituents_and_structure": "自我創造、自組織、自適應、自維持的生命體，其心靈源自持續的交互互動（具身動態論）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（經由神經現象學加以研究）、認知（作為具身的活動），以及能動性（有機體作為主動的行動者）。",
+    "distinctive_mechanism_or_principle": "有機體與其環境之間、由感覺運動歷程所中介的持續、迭代、動態的雙向交換。",
+    "dynamics_of_emergence": "意識是一個動態的、持續進行的、時間性的歷程，其中自組織的內部狀態作為由環境擾動所觸發的補償而湧現，而非僅僅作為內部表徵。",
+    "location_and_distribution": "意識的位置是分布的或「情境於世界之中」的，遍及身體與環境，超出了單獨大腦的界限。",
+    "causation_and_functional_role": "使有機體成為能夠自我調節、維持自我完整性並持續地重建其自我創造能力的主動行動者。",
+    "integration_or_binding": "整合隱含於將有機體—環境系統界定為分析單位這一定義之中，以及由此而來的生命有機體自組織、自維持的本性之中。",
+    "information_flow_or_representation": "常將認知刻劃為非表徵的，與內部表徵理論形成對照。內部狀態被描述為由擾動觸發的自組織補償，而非對外部事態的表徵。",
+    "evolutionary_account": "意識經由認知與原初意識的諸階段而演化，這些階段因在充滿挑戰的環境中增強適應度的性狀而被選擇。",
+    "core_claims_and_evidence": [
+      "認知／心理活動由具身的活動所構成。",
+      "有機體迭代地塑造其環境，也被其環境所塑造。",
+      "神經現象學作為生成認知論的一種延伸，試圖將不可化約的親歷經驗（第一人稱）與神經科學（第三人稱）系統地相聯繫。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的（現象學的）、理論的、生物學的／演化的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "透過應用神經現象學而在經驗上可檢驗，後者將第一人稱描述與第三人稱神經生物學數據加以協調。",
+    "known_empirical_interventions_or_tests": [
+      "神經現象學研究方法（例如微觀現象學訪談） ",
+      "運用神經學與現象學數據對自我邊界之經驗的研究 "
+    ],
+    "criticisms_and_tensions": "主要的方法論挑戰在於蒐集準確的第一人稱報告與詮釋，並將其與客觀的神經科學數據系統地相關聯。",
+    "open_questions_and_limitations": "它並不在化約意義上完全彌合解釋鴻溝，而是力圖擴大並豐富應對該鴻溝的資源。",
+    "ontological_coherence": "高。此進路運用現象學，透過將其研究與生物學和認知科學相契合來加以自然化，力求在親歷世界與科學描述之間保持內部一致性。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "生成認知論是一種唯物論理論（具身的）。唯物論一般認為，只要必要的物理與具身組織複雜度（包括與環境動態互動的能力）在人工系統中得到複製，人工意識原則上必定是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識緊密地繫於具身的、活著的有機體及其生物學歷程。由於有機體是物理的，意識預期在生物學死亡時便終止（標準的唯物論立場）。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "作為一種唯物論理論，生成認知論不為終極的宇宙意義或目的提供證據，只承認人類經由能動性與互動為自身創造的意義與價值。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果生成認知論是正確的，那麼只要構成具身的、自組織的心靈的複雜動態歷程能夠在非生物媒介中被完美地複製或模擬，虛擬永生便是可以達成的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied Cognition",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Neurophenomenology",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Ecological Psychology (Gibson’s)",
+        "relationship": "相容"
+      },
+      {
+        "name": "Dynamic Systems Approach",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, Francisco Varela, Eleanor Rosch, Evan Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Enactivism, Daniel Hutto",
+        "year": 2023
+      }
+    ]
+  }
+}

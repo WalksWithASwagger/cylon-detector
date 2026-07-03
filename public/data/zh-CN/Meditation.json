@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "冥想与大脑",
+    "summary": "这一进路把冥想作为一种意识的变异状态加以考察，它诱发大脑活动的可测量变化，支持“意识状态与特定的大脑功能和节律高度相关”这一观念，例如对α波的调制。诸如深度出神状态期间同步性降低之类的发现，为强调全脑整合的物理主义理论提供了经验约束。",
+    "associated_thinkers": [
+      "Catherine Kerr",
+      "Anne Trafton",
+      "Madhav Goyal",
+      "Shayla Love"
+    ],
+    "category": "反常与变异状态",
+    "subcategory": "变异状态",
+    "core_identity_tagline": "与改变的大脑节律相关的意识",
+    "classification_tags": [
+      "neurobiology",
+      "altered states",
+      "brain synchronization",
+      "EEG"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识通过其与大脑活动动态变化的可测量相关性来加以认定，尤其是由冥想实践诱发的、改变了的脑波模式与神经整合水平。",
+    "ontological_status": "物理主义（相关性的）",
+    "mind_body_relationship": "相关性很强，因为意识状态的变化（冥想）始终与大脑功能的特定变化（神经节律与同步／去同步）相关。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性通过对变异状态（例如思维止息）的第一人称叙述来通达。意向性，如持续的注意，直接与脑节律的动态神经调节相关联。",
+    "qualia_account": "感受质被假定为与脑波模式和神经元整合水平（或其丧失）的特定、可测量变化相关，或由其构成。",
+    "ontological_commitments": "神经模式、特定的脑节律（α波），以及皮层内全局整合／去同步的状态。",
+    "epistemic_access": "通过将冥想体验的内省（第一人称）报告与对生理性大脑活动（如脑电图EEG）的客观（第三人称）测量相关联而达成。",
+    "constituents_and_structure": "意识状态由脑节律来组织，尤其是脑区之间同步（整合）或去同步的动态模式。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（变异状态）、通达（注意、感觉），以及整合／统一。",
+    "distinctive_mechanism_or_principle": "其原理是对α脑节律的动态、自我调节的控制，尤其是在感觉皮层中，它抑制无关的感觉信息，并增强专注意识所需的动态神经调节。",
+    "dynamics_of_emergence": "意识是一个动态过程；当专注的心理实践（冥想）随时间主动操纵大脑同步性与特定节律时，变异状态便涌现出来。",
+    "location_and_distribution": "通过脑波模式与跨脑区的同步而分布，包括初级感觉皮层，支持意识作为统一场或整合网络活动的观念。",
+    "causation_and_functional_role": "意识在实现自我调节与治疗性益处（如缓解焦虑、缓解疼痛）方面起工具性作用。冥想实践发挥动态调节神经活动以获得认知益处的功能。",
+    "integration_or_binding": "整合／统一与整体的大脑同步性相关；思维止息（最高冥想状态）与整体大脑同步性的降低相关，这意味着意识作为一个整合的单元运作。",
+    "information_flow_or_representation": "信息处理受到影响，因为控制α波会降低无关刺激攫取注意的可能性，从而调节事物如何影响意识。",
+    "evolutionary_account": "该进路聚焦于刻画当前的大脑状态；它并未为意识或冥想本身的起源或适应性角色提供明确的系统发生解释。这一领域依赖于已演化出的大脑诱发变异状态的能力。",
+    "core_claims_and_evidence": [
+      "冥想改变初级感觉皮层中特定的脑波模式，如α节律。",
+      "深度冥想状态（灭尽定，nirodha-samāpatti）与整体大脑同步性的降低相关，契合于把意识与整合相联系的模型。",
+      "正念改善动态神经调节，有助于抑制分散注意的感觉信息。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验的、神经生物学的、现象学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在经验上高度可检验",
+    "known_empirical_interventions_or_tests": [
+      "用脑电图／神经影像测量冥想者的α波调制 ",
+      "对深度出神、睡眠与麻醉（如异丙酚、氯胺酮）期间大脑同步性的比较研究 "
+    ],
+    "criticisms_and_tensions": "这些现象为唯物主义理论提供了有力支持，但常被批评为只处理了“容易问题”（神经关联），而未解释根本的主观本性（难问题）。非物理理论难以被排除，因为它们也可能与所观察到的神经变化相一致。",
+    "open_questions_and_limitations": "其局限在于：尽管关于神经机制有清晰的经验发现，但这些研究并未在意识的本质、或为何生理变化应导致被感受到的主观经验方面提供本体论的揭示。",
+    "ontological_coherence": "在唯物主义范式内具有高度融贯性，尤其通过经验性地验证意识与整合／同步的大脑活动之间的联系，支持全局工作空间理论和整合信息理论等模型。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件／很可能",
+      "rationale": "如同人类变异状态所显示的那样，如果意识依赖于同步与整合之类的动力学，那么一个工程化的人工智能系统在这些动力学能被计算性地复制时，有可能达成类似的状态。数据本身并不排除人工智能意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "其焦点严格地集中于意识状态依赖于生物大脑中复杂、可测量的生理活动（如神经同步），意味着意识在生物学死亡时终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义的",
+      "rationale": "冥想通过改变认知功能（如缓解疼痛、专注）与增进福祉而提供实用价值，但其底层机制表明意识不具有任何终极的宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能",
+      "rationale": "尽管物理相关性很强，但该研究主要处理的是对生物“湿件”的实时操纵。实现虚拟永生要求对底层神经生物学与节律结构进行完全复制以获得永久持续，这一壮举所需的假设超出了单凭这一现象的范围。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "相容"
+      },
+      {
+        "name": "Psychedelic Theories of Consciousness",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Meditation programs for psychological stress and well-being - a systematic review and meta-analysis, Goyal, Madhav et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Effects of mindfulness meditation training on anticipatory alpha modulation in primary somatosensory cortex, Kerr, Catherine et al.",
+        "year": 2011
+      },
+      {
+        "title_with_names": "What happens to the brain during consciousness-ending meditation?, Love, Shayla",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Benefits of Meditation, Trafton, Anne",
+        "year": 2011
+      }
+    ]
+  }
+}

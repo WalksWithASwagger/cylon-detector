@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "杰克逊的透明表征主义与知识论证",
+    "summary": "弗兰克·杰克逊的透明表征主义主张，知觉经验的现象特征被其表征内容所穷尽，这意味着我们‘透过’经验直接看到对象的属性。这一立场的提出主要是为了颠覆他自己著名的思想实验——知识论证——所得出的结论，而该论证此前是用来反对物理主义的。",
+    "associated_thinkers": ["Frank Jackson"],
+    "category": "唯物主义理论",
+    "subcategory": "表征主义",
+    "core_identity_tagline": "‘现象特征被表征内容所穷尽’",
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "physicalism defense",
+      "epistemology",
+      "intentionality"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识（现象特征）被认定为满足某些条件的相关心理状态的表征内容，通常与经验对象的属性相联系。",
+    "ontological_status": "还原论物理主义。（理由：该理论的首要目标是驳倒知识论证，从而维持物理主义／唯物主义对于现象意识的充分性。）",
+    "mind_body_relationship": "同一性。现象本性被功能内容与意向内容（表征事实）所穷尽，而这些内容是物理地得以实现的。",
+    "primitive_or_emergent_status": "涌现。（理由：意识被物理过程所实现的表征内容完全捕捉，这意味着它并非实在的基础。）",
+    "emergence_type": "弱涌现。（理由：作为一种还原论物理主义的辩护，现象属性被物理／表征内容与功能角色所完全捕捉，或与之同一，这意味着原则上的可推导性。）",
+    "subjectivity_and_intentionality": "主体性由透明性论题加以说明：通达经验的本性无非就是通达其对象的属性。意向性，即心理状态的‘关于性’，居于核心地位，因为经验本质上是表征性的。",
+    "qualia_account": "感受质（现象特征）被相关心理状态的表征内容完全解释或穷尽。这旨在表明，没有任何非物理的知识（如‘看见红色是何种感受’）会遗留下来而无法由物理／表征事实所解释。",
+    "ontological_commitments": "心理表征、物理事实，以及心理状态的功能角色／意向内容。",
+    "epistemic_access": "内省支持透明性论题，因为它只揭示外部对象及其属性，而非经验本身的内在特征。因此，对表征内容的第三人称科学研究是充分的。",
+    "constituents_and_structure": "意识的结构完全由心理状态的意向内容或表征本性所决定；表征事实构成一个足以捕捉知觉经验的整体。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（具体而言是知觉经验／感受质的质性本性）。",
+    "distinctive_mechanism_or_principle": "知觉经验的透明性。意识是对对象之表征的结果，其中主体‘透过’知觉状态直接看到对象的属性。",
+    "dynamics_of_emergence": "静态属性。（理由：该模型将意识与表征内容／意向结构相认同，聚焦于终态的同一性而非生成的动态过程。相关来源并未详述时间性动力学。）",
+    "location_and_distribution": "定位于由大脑的表征加工所实现的心理状态中。",
+    "causation_and_functional_role": "有意识经验被功能角色与表征内容所穷尽。表征事实足以捕捉完整的知觉经验。",
+    "integration_or_binding": "隐含地通过构成知觉经验整体的意向内容之全面性质而实现。（理由：来源中并未详述绑定的显式机制，但统一性被假定包含于该‘整体’之中。）",
+    "information_flow_or_representation": "心理表征将内在感知的观念／意象的解释力提升至单纯神经状态之上，穷尽了经验的本性。",
+    "evolutionary_account": "意识被推定为作为大脑表征机制的一部分而演化出来。（理由：这是从其被归类为唯物主义理论推断而来的，但杰克逊在相关来源中并未给出具体解释。）",
+    "core_claims_and_evidence": [
+      "经验是透明的：现象属性是经验对象的属性。",
+      "强表征主义主张，一段经验如何表征事物，完全穷尽了它的经验本性。",
+      "知识论证之所以失败，是因为现象性学习被还原为表征事实，从而保全了物理主义。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学／概念的（基于对现象概念以及内省本性的逻辑分析）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验。（该理论的成败取决于这样一个哲学论证：表征内容在逻辑上能够穷尽现象特征，从而解决诸如知识论证之类的思想实验。）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要张力在于，批评者认为表征主义在逻辑上并未驳倒知识论证，因为‘玛丽挑战’的一个表征主义版本仍然为物理主义保留了那一难题。",
+    "open_questions_and_limitations": "必须明确表征内容在何种确切条件下能够捕捉现象特征，而将现象属性完全还原为意向属性这一做法的概念融贯性仍受到挑战。",
+    "ontological_coherence": "在还原论物理主义框架内高度融贯，因为其全部动机就是通过消除不可还原的现象属性（‘感受质’）来维持物理主义。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "如果意识被表征内容与功能角色所穷尽，而这些属性又可通过计算加以实现，那么人工智能系统便能够获得意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该理论是对唯物主义／物理主义的辩护，这意味着意识仅系于物理系统（大脑或其功能／表征等价物），从而排除了在生物性终止之后存续的可能。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人文意义",
+      "rationale": "作为一种唯物主义理论，它不提供人类为自身创造之外的任何终极意义或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然现象特征被功能／表征内容所完全捕捉，那么对这些内容的完美复制（上传）便能保存原初的第一人称心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Knowledge Argument (Mary's Room)",
+        "relationship": "批评／起源"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "基础"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "对比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The knowledge argument, diaphanousness, representationalism, Frank Jackson",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, Frank Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "What Mary Didn’t Know, Frank Jackson",
+        "year": 1986
+      }
+    ]
+  }
+}

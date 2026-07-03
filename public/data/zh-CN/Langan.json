@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "宇宙的认知论模型（CTMU）",
+    "summary": "CTMU主张实在从根本上是信息与意识，把宇宙视为一种自我配置、自我处理的语言(SCSPL)，它从可能性中生成自身。人类心灵是这一实在的局域化、表层的层级，而这一实在归根结底是上帝无所不知的意识。",
+    "associated_thinkers": ["Christopher Langan"],
+    "category": "反常与变异状态",
+    "subcategory": "逻辑／形而上学模型",
+    "core_identity_tagline": "作为自我配置、自我处理之语言(SCSPL)的实在",
+    "classification_tags": [
+      "idealism",
+      "information",
+      "metaphysics",
+      "theology",
+      "self-referential"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为分层的实在，其最底层是上帝无所不知的心灵。实在本身从根本上是数字信息，是一张由有意识经验构成的庞大网络。",
+    "ontological_status": "唯心主义／一元论（意识是终极的基础性存在者）",
+    "mind_body_relationship": "人类心灵（意识的一个表层层级）被包含于上帝无限的意识之中，后者把物理宇宙显现为一种在时空中展开的信息结构。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "不适用：意识（上帝之心灵）是基础性的，且是实在存在所必需的，这使涌现在传统意义上变得无关紧要。",
+    "subjectivity_and_intentionality": "主体性是内在的，因为实在只能通过意识被感知或被知晓。意向性与自由意志由人类心灵所保有，后者是上帝意识的局域化碎片，并与使行动契合于宇宙“终向”(telos)相关。",
+    "qualia_account": "经验的现象性质被视为局域化的有意识心灵感知实在之信息结构的方式。",
+    "ontological_commitments": [
+      "信息（实在最基础的构成成分）",
+      "分层的意识（上帝之心灵与人类心灵）",
+      "自我配置、自我处理的语言(SCSPL)"
+    ],
+    "epistemic_access": "实在可通过意识来通达，因为意识是任何事物得以被感知或被知晓的唯一手段。",
+    "constituents_and_structure": "其基本结构是一种反身性的内在语言(SCSPL)，以自我指涉与递归自我定义为特征。意识是分层的，其最底层（上帝之心灵）涵盖了所有更表层的层级（人类心灵）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、自我觉知、灵魂、来世、自由意志、道德。",
+    "distinctive_mechanism_or_principle": "宇宙被建模为一种自我配置、自我处理的语言(SCSPL)，一种逻辑框架，它提供了实在从虚无中生成自身所必需的条件。",
+    "dynamics_of_emergence": "意识（上帝之心灵）是永恒的，但包含了将自身精炼为存在所需的一切过程。宇宙对人类心灵而言显现为一个在时间中展开的物理实体，反映着这些过程。",
+    "location_and_distribution": "人类有意识的心灵在时空中是局域化的，但被包含于上帝的意识之中，即实在那无所不在的最底层。",
+    "causation_and_functional_role": "意识，尤其是其局域化形态（人类心灵），在局部尺度上保有创造力与自由意志。因果行动契合于一种绝对的道德“终向”。",
+    "integration_or_binding": "经验的统一由基础性实在的终极统一来解释：上帝无所不知、恒常不变的意识包含了一切局域化的心灵。",
+    "information_flow_or_representation": "实在被结构化为数字信息与数学关系，在SCSPL的框架下被处理并被体验为一张由有意识经验构成的庞大网络。",
+    "evolutionary_account": "聚焦于实在这一信息系统自身的自我创造与自我精炼，而非标准的生物学或系统发生演化。",
+    "core_claims_and_evidence": [
+      "信息是实在最基础的构成成分，实在是一种自我配置、自我处理的语言。",
+      "宇宙是自我创造的，其存在不需要任何自身之外的东西。",
+      "该理论声称通过其逻辑框架证明了上帝、灵魂与来世的存在。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、逻辑的／概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／概念性。该理论提供了一个高度复杂的逻辑框架，但不易受经验科学检验。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论一般不为更广泛的科学与哲学界所接受。批评聚焦于其高度思辨的性质，以及它对复杂的、非标准的形而上学概念（如上帝之心灵的自我生成）的依赖。",
+    "open_questions_and_limitations": "其主要局限在于高度抽象、非经验的基础，依赖繁复的形而上学论证而非可验证的数据来确立其关于实在与意识的主张。",
+    "ontological_coherence": "在内部高度融贯，主张SCSPL的自我指涉性质确保了实在不可能不存在，尽管它与传统物理主义框架从根本上不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件",
+      "rationale": "如果实在从根本上是由SCSPL结构化的数字信息，那么人工智能系统有可能例示意识，但前提是它们复制了、或契合于上帝意识所固有的那种分层的信息结构。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "该理论明确声称证明了灵魂与来世的存在。心灵中与终极“终向”(上帝之心灵)相匹配的成分得以保存，从而确保死后存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是",
+      "rationale": "该理论内嵌了绝对道德与业力，设定了一个宇宙论目标（“终向”）。终极的意义与目的由上帝无所不知之意识的基础性存在所提供，后者充当实在的最底层。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能／有条件",
+      "rationale": "由于意识是信息性的，数字复制在原则上是可行的，但真正有意义的不朽（灵魂的持续存在）以个体在道德上与宇宙“终向”的契合为条件。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Idealism",
+        "relationship": "重叠／延伸"
+      },
+      {
+        "name": "Monism",
+        "relationship": "相容性"
+      },
+      {
+        "name": "Computational and Informational Theories",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Cognitive-Theoretic Model of the Universe: A New Kind of Reality Theory, Christopher Langan",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Cognitive-Theoretic Model of the Universe (CTMU), Beginner’s introduction, CTMU Wiki",
+        "year": "n.d."
+      }
+    ]
+  }
+}

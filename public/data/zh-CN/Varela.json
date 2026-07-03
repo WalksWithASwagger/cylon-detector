@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "瓦雷拉的神经现象学",
+    "summary": "神经现象学是一种方法论进路，力图在亲历经验中呈现的第一人称现象（现象学）与由认知科学所确立的第三人称神经现象之间建立相互约束。其目标是将严谨的科学与对人类经验的有纪律的审察结合起来，将经验的结构置于科学探究的核心。",
+    "associated_thinkers": ["Francisco Varela"],
+    "category": "唯物主义",
+    "subcategory": "具身与生成",
+    "core_identity_tagline": "意识即经验与大脑的相互约束",
+    "classification_tags": [
+      "phenomenology",
+      "methodological",
+      "embodied",
+      "first-person",
+      "dissolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识由其作为第一手现象之场域的不可还原本性所认定，该场域充当着相应神经生物学研究的引导或约束。",
+    "ontological_status": "方法论物理主义",
+    "mind_body_relationship": "共同决定／相互约束（现象领域与神经生物学领域被赋予同等地位，并交互地相互阐明。）",
+    "primitive_or_emergent_status": "方法论的／不可知的",
+    "emergence_type": "不适用",
+    "subjectivity_and_intentionality": "主体性（第一人称经验）被作为不可还原的起点与探究的核心焦点，对于将「人的生命」恢复到科学说明中至关重要。",
+    "qualia_account": "感受质作为第一手经验中不可还原的、鲜活的诸性质被纳入进来，它们必须被严谨地审察并与神经生物学数据相关联。",
+    "ontological_commitments": "第一人称经验／现象；神经生物学现象（认知科学数据）；「区分之行动」。",
+    "epistemic_access": "通过将严谨的现象学方法（例如对经验的有纪律的审察）与第三人称的神经生物学及认知科学方法论交织在一起而获得。",
+    "constituents_and_structure": "人类经验本身的结构；其组织原理是「区分之行动」。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、亲历经验、行动、知觉、情绪。",
+    "distinctive_mechanism_or_principle": "严谨的第一人称现象学说明与第三人称神经生物学测量之间交互的、相互约束的关系。",
+    "dynamics_of_emergence": "意识是一种与行动、知觉及情绪动力学相联系的动态的、鲜活的性质。该进路将难问题转化为一项开放式的研究纲领。",
+    "location_and_distribution": "分布于整个具身系统之中（遍及身体与环境），并非严格地定位于头颅内的大脑过程。",
+    "causation_and_functional_role": "其功能角色是将人的生命与亲历经验重新纳入解释之中，使经验的结构成为科学事业的核心。",
+    "integration_or_binding": "隐含地由具身的、鲜活经验的内在统一性所处理，这种经验涵盖了行动、知觉与情绪的动力学。",
+    "information_flow_or_representation": "聚焦于经验的现象与结构，而非计算主义心灵哲学中传统界定的心理内容，并将这些结构与相应的神经生物学现象相联系。",
+    "evolutionary_account": "与自创生以及生命系统的起源相关；使从无生命到生命之过渡成为可能的那些过程，也可能使从生命到心灵的过渡成为可能（如相关思想家埃文·汤普森所主张）。",
+    "core_claims_and_evidence": [
+      "第一手经验是一个不可还原的现象场域，它必须引导科学探究。",
+      "现象学说明与神经生物学说明必须在一个共同决定、相互阐明的回路中作为平等的伙伴运作。",
+      "该进路通过改变方法论而非寻找理论修补来消解传统的难问题。"
+    ],
+    "basis_of_belief_or_evidence_type": "现象学的、概念的、经验的／神经生物学的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在经验上可检验的／方法论的（该进路利用诸如神经现象学实验室这样的新工具，界定了一项开放式的研究纲领）。",
+    "known_empirical_interventions_or_tests": [
+      "将第一人称经验方法（例如冥想）与第三人称大脑研究交织在一起（神经现象学实验室）"
+    ],
+    "criticisms_and_tensions": "该进路常被忽视或误解。其挑战在于确保交互的方向——即由经验引导科学——在实践中不被忽略。它力图超越二元论的思维方式，而某些批评者可能会觉得这既不够还原也不够二元。",
+    "open_questions_and_limitations": "该框架旨在从存在论／方法论上消解难问题，意即它并不为原初意识的物理起源提供传统意义上的理智解决方案。",
+    "ontological_coherence": "高，因为该框架专门设计用来通过方法论上的约束协调两个不同领域（第一人称与第三人称），从而克服二元论模型中固有的分岔问题与解释鸿沟。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不太可能",
+      "rationale": "意识在很大程度上依赖于具身的、鲜活的经验以及系于生物学过程的动力学，使得单纯的计算复制不足以实现意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该理论归类于唯物主义／具身理论之下，聚焦于植根于活着的生物有机体、并遍及该有机体的意识，意味着意识在身体死亡时便终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人文主义的／务实的",
+      "rationale": "该方法论力图将「人的生命」与主观经验恢复到科学说明之中，通过珍视亲历经验而非因纯粹功能而异化来提供意义，但并不设定宇宙的目的。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "如果意识植根于超出大脑的具身的、鲜活经验，那么单纯上传神经／功能数据将无法捕捉有机体与环境关系所必需的动力学。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Thompson’s Mind in Life",
+        "relationship": "扩展"
+      },
+      {
+        "name": "Bitbol’s Radical Neurophenomenology",
+        "relationship": "扩展／精细化"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "范畴重叠"
+      },
+      {
+        "name": "Chalmers's Hard Problem",
+        "relationship": "批评／消解的框架"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neurophenomenology: a methodological remedy for the hard problem",
+        "year": 1996
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "At the cradle of things - the act of distinction and Francisco Varela’s non-dualist thought, S. Vörös",
+        "year": 2023
+      }
+    ]
+  }
+}

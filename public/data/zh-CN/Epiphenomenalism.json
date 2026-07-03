@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "副现象论",
+    "summary": "该理论主张意识是生物脑的一种不可还原的产物，但心理状态对物理实在完全没有因果力。我们的主观觉知是真实的，然而‘思想引发行动’这一知觉却是错误的，因为意识完全是惰性的，就像海浪上的泡沫。",
+    "associated_thinkers": [
+      "David Chalmers (Classifier)",
+      "Frank Jackson (Related Thinker)"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "哲学",
+    "core_identity_tagline": "意识是真实的，但在因果上是惰性的。",
+    "classification_tags": [
+      "property dualism",
+      "non-reductive physicalism",
+      "mental causation",
+      "causal closure",
+      "illusion"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为在本体论上不同于物理属性、但在因果上依赖于物理属性的现象属性（物理→现象）。",
+    "ontological_status": "弱形式的二元论或非还原式物理主义。它肯定物理领域的完全因果封闭性。",
+    "mind_body_relationship": "心理状态完全是生物脑的产物。物理状态引发现象状态，但现象状态对物理没有任何因果作用（单向因果）。",
+    "primitive_or_emergent_status": "涌现。意识仅仅是生物脑的产物。",
+    "emergence_type": "这些属性不可还原、且在本体论上不同于物理属性，这为现象属性提示了某种强涌现，尽管它在因果上是惰性的。（依据不可还原性主张而作出的判断。）",
+    "subjectivity_and_intentionality": "对意识的觉知是真实的。主体性（现象属性）在本体论上是独立的。而心理因果的感受则是错觉性的。",
+    "qualia_account": "现象属性（感受质）是真实的，且在本体论上不同于物理属性，但它们是副现象，因而在因果上是惰性的。",
+    "ontological_commitments": "物理状态（大脑）以及由其涌现出的、本体论上独立的现象属性（心理状态）。",
+    "epistemic_access": "意识通过内省被认识，但由该内省所得出的因果能动感是误导性的（一种错觉或把戏）。",
+    "constituents_and_structure": "意识是生物脑功能的一种涌现属性或副产物，被比作‘海浪上的泡沫’。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（觉知）。它明确处理并否定心理因果／能动性。",
+    "distinctive_mechanism_or_principle": "‘物理因果封闭性’原则规定，无论心理状态本质如何，它们都必定是完全惰性的副产物。",
+    "dynamics_of_emergence": "心理状态仅由生物脑动态生成，一切有意识的心理事件都涉及在先的无意识加工。",
+    "location_and_distribution": "完全定位于物理的、生物性的大脑之中。",
+    "causation_and_functional_role": "心理状态没有任何因果力。心灵完全是惰性的，不存在‘自上而下的因果’；意识是一种无功能的副产物。",
+    "integration_or_binding": "经验的统一性隐含地由大脑中底层复杂物理过程实现，正是这些过程产生了统一的现象状态。（判断依据：其关注点在于缺乏向外的因果，而非内部统一的机制。）",
+    "information_flow_or_representation": "信息处理完全是物理的／无意识的，而现象经验是这一加工的、无因果作用的平行输出。",
+    "evolutionary_account": "隐含地与演化相容，因为意识是生物脑的产物。该属性的实在性提示它经由演化产生，但其缺乏功能意味着它并非因其因果效力而被选择。（依据其在唯物主义理论中的归类而作出的判断。）",
+    "core_claims_and_evidence": [
+      "意识完全是物理的，仅仅是生物脑的产物。",
+      "心理状态在本体论上不同于物理状态（属性二元论）。",
+      "由于物理领域的完全因果封闭性，心理状态不具有任何因果力。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学（主要由心理因果的解释负担以及对物理因果封闭性的承诺所驱动）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上受到挑战。其核心主张——有意识状态缺乏因果力——违反直觉，且难以经验检验，因为它涉及证明一种否定性的因果关联。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论违反直觉，因为在我们看来，现象上有意识的状态在因果上强烈地至关重要。它迫使人接受这样一点：我们对心理因果（思想引发事物）的感受是‘一种错觉或把戏’。",
+    "open_questions_and_limitations": "心理因果的整合是核心问题，副现象论通过否认因果来解决它，但这要求接受一个高度违反直觉的结论。",
+    "ontological_coherence": "在一个承诺物理领域完全因果封闭性的唯物主义本体论中具有高度融贯性，它达成了一种弱形式的二元论，同时避免了交互论的困难。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识只是大脑中物理过程的无因果副产物（泡沫），那么在人工智能中复制这些物理过程就应当产生同样的有意识状态，而无因果的心理状态并不会妨碍功能复制。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全是物理的，仅仅是生物脑的产物。这种物理依赖排除了肉体死亡之后的存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本意义",
+      "rationale": "作为一种哲学唯物主义理论，它不提供终极意义或目的。既然意识在因果上是惰性的，它便无法赋予宇宙目的论意义上的价值。"
+    },
+    "virtual_immortality": {
+      "stance": "极有可能",
+      "rationale": "意识的惰性意味着，上传物理状态必然会复制出副现象性的心理状态。惰性的‘泡沫’对实现虚拟永生几乎没有影响。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "弱形式／类型"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "较弱形式／重叠"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "相似但更少被采纳的替代方案"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "对照（涌现二元论肯定因果效力，副现象论否定之）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Facing up to the Problem of Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      }
+    ]
+  }
+}

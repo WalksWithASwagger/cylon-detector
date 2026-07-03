@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "一阶表征主义",
+    "summary": "一阶表征主义（FOR）试图通过将意识还原为外部的、指向世界的意向状态来解释意识。它主张经验的现象特征完全由表征的内容所决定，并把感受质等同于经验将对象表征为具有的那些外部属性。",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "表征性",
+    "core_identity_tagline": "意识作为外部的、指向世界的意向状态",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "知觉经验的现象方面与经验将对象表征为具有的那些外部的、真实世界的属性是同一回事。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "同一论／还原论式关联。心理状态被等同于在大脑状态中实现的、获得了特定信息功能的表征。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "意向性（思想的指向性）是首要的。主体性完全由表征内容所决定，因为感觉表征对主体是直接可得的。",
+    "qualia_account": "感受质（现象特征）被等同于表征内容（强表征主义）或经验所表征的外部属性，从而经由还原性解释来解决难问题。",
+    "ontological_commitments": "心理表征、获得信息功能的大脑状态、感觉／知觉回路。",
+    "epistemic_access": "可通过聚焦于神经关联物与表征之全局广播的第三人称方法来通达，并辅以自我报告。",
+    "constituents_and_structure": "在大脑中被全局广播的一阶感觉表征与非概念内容。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、通达意识、感觉经验。",
+    "distinctive_mechanism_or_principle": "当大脑状态（通常经由自然选择）获得了携带与外部对象相关的信息这一功能，从而成为心理表征时，意识便产生。",
+    "dynamics_of_emergence": "当非概念内容在整个大脑中被全局广播以供通达和利用时，意识便动态地产生。",
+    "location_and_distribution": "特定意识的神经关联物包括感觉皮层与特定丘脑核团的活动，并与知觉区域中的复现加工相关联。",
+    "causation_and_functional_role": "意识的功能在于使知觉信息可为那些允许灵活行为、信念形成与行动选择的系统所用。",
+    "integration_or_binding": "整合通过感觉信息（表征）在全局认知网络中的可得性而实现（与全局广播同时发生）。",
+    "information_flow_or_representation": "一阶表征直接从外部刺激流出；信息加工对于将大脑状态转变为适合于意识的表征至关重要。",
+    "evolutionary_account": "意识经由自然选择而演化，其间大脑状态获得了携带信息这一功能，从而增强了有机体的适应能力。",
+    "core_claims_and_evidence": [
+      "现象属性与经验所表征的外部的、真实世界的属性是同一的。",
+      "意识经验与一阶非概念内容在大脑中的全局广播同时发生。",
+      "意识状态是其内容完全决定主观感受的表征。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（概念还原、聚焦意向性）与经验的（神经科学关联数据）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验",
+    "known_empirical_interventions_or_tests": [
+      "绘制一般意识与特定意识的神经关联物（感觉皮层、丘脑核团）",
+      "将意识与一阶内容的全局广播相关联的研究"
+    ],
+    "criticisms_and_tensions": "面临表征理论的普遍挑战：如何纯粹用意向性来解释现象学。批评者质疑单凭表征或信息内容如何能够完全说明质性感受（感受质）。",
+    "open_questions_and_limitations": "非概念表征的内容究竟经由何种精确机制来决定主观的‘感受起来是怎样的’，仍是一个解释鸿沟，尽管支持者论证现象方面已由与外部属性的同一而得到解决。",
+    "ontological_coherence": "在一个还原论唯物主义与功能主义的本体论内高度融贯。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作为一种唯物主义理论，意识依赖于信息内容与功能架构，因此若人工系统实现了所需的表征结构与信息功能，它们便可能实例化意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全由物理的大脑过程所实现；在生物基质被摧毁之后的存续被排除。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义的",
+      "rationale": "作为一种唯物主义理论，它不为任何终极的宇宙性意义或目的提供根据，只承认意识主体自身所生成的意义。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "若第一人称自我完全由表征内容与信息状态所捕捉，那么将这些状态完美复制（上传）到非生物媒介中，就应当保存原来的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "批评／对比"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "延伸／重叠"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "相容／重叠"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "影响"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

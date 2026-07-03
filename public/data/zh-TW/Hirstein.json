@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Hirstein 的心靈融合",
+    "summary": "William Hirstein 認為，阻礙對有意識心靈作出直截了當的物理解釋的主要障礙，是毫無根據的「私密性假設」。一旦移除這一形上學假設——即一個人永遠無法經驗到另一個人有意識狀態的觀念——那麼創造各種惱人的二元論、泛心論以及主張問題無解的理論的動因便被削弱了。",
+    "associated_thinkers": ["William Hirstein"],
+    "category": "唯物論",
+    "subcategory": "神經生物學",
+    "core_identity_tagline": "透過拒斥形上學的私密性來解釋意識",
+    "classification_tags": [
+      "privacy",
+      "physicalism",
+      "neuroscience",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識是一種物理現象，只要摒棄內在私密性這一錯誤的哲學前提，便可用直截了當的物理術語加以解釋。",
+    "ontological_status": "物理論／化約物理論（推斷得出：該理論旨在透過論證一種完全物理的解釋來反駁非物理論存有論，並被歸入唯物論之下。）",
+    "mind_body_relationship": "同一性（推斷得出：由於該理論旨在以「直截了當的物理術語」解釋有意識心靈，因此它從根本上支持一種心腦同一立場，克服了引發二元論的概念障礙。）",
+    "primitive_or_emergent_status": "湧現（推斷得出：作為一種唯物論／神經生物學理論，意識被假定為源自複雜的底層物理歷程，而非本原性的。）",
+    "emergence_type": "弱湧現或化約（理由：其目標是表明意識可以在物理上、無剩餘地得到解釋，這表明其屬性在原則上是可化約的或弱湧現的。）",
+    "subjectivity_and_intentionality": "主體性被設想為完全與物理論解釋相容——只要拒斥「私密性假設」，因為正是它製造了形上學距離的錯覺。",
+    "qualia_account": "一旦對非物理解釋的概念需求（由私密性假設所驅動）被消解，意識的質性感受便從根本上被納入物理論解釋之中。",
+    "ontological_commitments": "物理歷程與神經生物學機制（推斷得出：該理論處於唯物論範疇之內，表明物理實在，特別是大腦，是其基質。）",
+    "epistemic_access": "主要透過客觀的第三人稱科學與神經生物學研究，並輔以這樣一種哲學領悟：獲取他人狀態的第一人稱通達之所以看似困難，並非形上學上的障礙。",
+    "constituents_and_structure": "神經機制與結構（從其在神經生物學理論下的分類推斷得出。）"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（其重點在於以能夠反駁非物理論理論的術語來解釋有意識心靈的本質，而非物理論理論往往聚焦於感質與主體性）。",
+    "distinctive_mechanism_or_principle": "拒斥或削弱概念性的「私密性假設」是其核心解釋原理，從而使有意識心靈能夠由標準的物理解釋來解決。",
+    "dynamics_of_emergence": "該機制隱含地是神經生物學的且動態的，與其範疇內的其他理論相一致。所提供的來源未詳述具體的動力學。",
+    "location_and_distribution": "定位於大腦（從其作為一種神經生物學唯物論理論的分類推斷得出。）",
+    "causation_and_functional_role": "意識具有與物理因果性相容的因果效力，因為該理論旨在提供一種「直截了當的物理」說明來擊敗二元論。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "一旦移除概念障礙，資訊流動／處理便被暗示為意識的基礎，與其他唯物論理論相一致。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "「私密性假設」（即分享有意識狀態在形上學上的不可能性）錯誤地導向了各種非物理論的意識理論。",
+      "只要克服諸如私密性假設之類的概念錯誤，有意識心靈便可用直截了當的物理術語得到解釋。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的（對形上學障礙的批判）與推斷的神經生物學／經驗的（作為正面的、「直截了當的物理」解釋的基礎）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上可檢驗，因為其主要主張依賴於反駁一個哲學前提（「私密性假設」）。經驗上的可檢驗性則取決於其所隱含的後續物理論理論能否成功。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要批評很可能集中於：僅僅將「私密性假設」指認為錯誤，是否真的足以彌合解釋鴻溝，並給出一個完整而詳盡的意識物理解釋。",
+    "open_questions_and_limitations": "該理論最終必須在移除哲學障礙之後，給出解釋意識的詳盡正面物理描述（例如具體的神經相關物或機制）。",
+    "ontological_coherence": "與物理論和唯物論存有論框架高度融貫，因為其目標明確在於證明物理解釋的充分性。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "由於該理論尋求對意識作出「直截了當的物理」解釋，並被歸為唯物論，因此原則上並不禁止創造有意識的人工智慧。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "該理論是一種旨在擊敗各種二元論的唯物論模型。唯物論主張意識完全是生物性大腦的產物，意味著它隨生物性死亡而終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義意義",
+      "rationale": "各種唯物論理論通常主張，儘管人類能為自身創造意義與價值，但並不存在終極的宇宙意義或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意識完全可用物理術語解釋（如 Hirstein 所論），那麼上傳一個人完整的神經模式與通路，原則上便能保存其第一人稱的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "批評" },
+      { "name": "Panpsychisms", "relationship": "批評" },
+      { "name": "Mind-Brain Identity Theory", "relationship": "相容" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
+        "year": 2012
+      }
+    ]
+  }
+}

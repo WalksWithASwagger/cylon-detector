@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "抽象实在论（AR）",
+    "summary": "抽象实在论提出第一人称（经验者）视角与第三人称（被观察者）视角之间的一种互补性，二者各自都包含一种等价的观察者功能，以弥合心灵与物质的解释鸿沟。意识由大脑中两个信息系统的双向因果相互作用所生成，这两个信息系统实现为电磁场，其中一个充当另一个的观察参照。",
+    "associated_thinkers": ["John Sanfey"],
+    "category": "非还原物理主义",
+    "subcategory": "抽象实在论",
+    "core_identity_tagline": "“意识作为视角的互补性”",
+    "classification_tags": [
+      "non-reductive physicalism",
+      "phenomenal simultaneity",
+      "electromagnetic field",
+      "strong emergence",
+      "information systems"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识是大脑中两个信息系统（两个电磁场）之间因果性、双向相互作用的结果状态，其构型使得一者成为另一者的观察参照。",
+    "ontological_status": "非还原物理主义",
+    "mind_body_relationship": "意识具有因果力，当物理系统（大脑）以足够复杂的方式组织起来时便产生意识。心灵与物质被视为第一人称与第三人称视角的一种互补性，从而将意识与物理学相整合。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "强涌现（隐含）。意识的因果机制在原则上不可观察，这使得意识与强涌现难以区分。",
+    "subjectivity_and_intentionality": "主体性植根于现象同时性，其中经验者与被经验者之间没有时间间隔。意向性在文献中未被明确详述，但该模型暗示它产生自整合的因果过程。",
+    "qualia_account": "质性经验（如“经验红色时有某种它像什么的感受”）系于现象同时性与在场。",
+    "ontological_commitments": "物理系统（大脑）、信息系统、电磁场。物质从根本上由物理定律所界定，并被感知为一种感觉性或概念性的模型。",
+    "epistemic_access": "通过分析第一人称视角（现象学）与第三人称视角（科学）之间的互补性而通达。",
+    "constituents_and_structure": "大脑内实现为两个电磁场的两个相互作用的信息系统，其中一个充当另一个的观察自我／参照。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、第一人称视角、因果效力。",
+    "distinctive_mechanism_or_principle": "经验者与被经验者之间的现象同时性，经由两个电磁场的双向因果相互作用而实现。",
+    "dynamics_of_emergence": "当两个电磁信息系统以足够的复杂性进行双向相互作用时，意识便被生成。",
+    "location_and_distribution": "经由两个电磁场的相互作用而在大脑中生成。",
+    "causation_and_functional_role": "意识具有“已被证明的因果力”，使其能够在非还原物理主义范式内与物理学相整合。",
+    "integration_or_binding": "整合经由现象同时性而实现，后者充当一个“单一的物理概念”，为第一人称与第三人称视角提供等价的观察者功能。",
+    "information_flow_or_representation": "意识依赖于实现为电磁场的两个不同信息系统的因果相互作用。",
+    "evolutionary_account": "文献未明确论及。其焦点在于意识生成的机制，而非其演化起源。",
+    "core_claims_and_evidence": [
+      "该理论通过运用第一人称与第三人称视角的互补性来解决心灵与物质的问题。",
+      "意识产生自充当观察参照的两个电磁场的双向因果相互作用。",
+      "其因果机制在原则上不可观察，这使得意识与强涌现难以区分。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学论证、现象学分析（现象同时性）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性且以概念为基础。由于其核心机制“在原则上不可观察”，经验检验受到挑战。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论依赖于在原则上不可观察的因果机制，这限制了经验验证。它借助于电磁场理论，而这些理论本身就是多样的（9.3）。",
+    "open_questions_and_limitations": "在经验上观察或测量现象同时性的因果机制以及底层的双重信息系统存在困难。",
+    "ontological_coherence": "在非还原物理主义框架内高度融贯，专为绕开还原论、二元论、唯心论与泛心论框架而设计。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "该理论指出，只要物理系统（“即便是合成的系统”）达到必需的双向因果复杂性（即两个信息系统／电磁场的相互作用），它们便能产生意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能",
+      "rationale": "作为一种非还原物理主义理论，意识系于复杂的物理机制（大脑中的电磁场）。虽然现象在场造就了无形心灵在逻辑上的可能性，但其核心机制依赖于大脑的物理运作。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不确定",
+      "rationale": "该理论的焦点在于解决心灵与物质的解释鸿沟。非还原物理主义在终极意义／目的方面通常处于中间地带，这使得意义是可能的，但并非该理论本身所明确蕴含。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意识由具有已被证明因果力的物理系统所生成，那么复制这些复杂的信息与场动力学所需的先进技术，应当能够允许心理自我的上传，这与非还原物理主义的归类相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Conscious Electromagnetic Information Theory (CEMI)",
+        "relationship": "重叠（纳入了两个电磁场的机制）"
+      },
+      {
+        "name": "Strong Emergence",
+        "relationship": "相容（意识被认为与强涌现难以区分）"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "批评（AR 明确避免诉诸还原论物理主义）"
+      },
+      {
+        "name": "Dualism and Idealism",
+        "relationship": "批评（AR 力求在物理学内实现整合，而不诉诸二元论或唯心论）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Simultaneity of consciousness with physical reality: the key that unlocks the mind-matter problem, John Sanfey",
+        "year": 2023
+      }
+    ]
+  }
+}

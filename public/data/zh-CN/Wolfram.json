@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Wolfram 的 Ruliad 中的意识",
+    "summary": "该理论力图通过将意识嵌入“Ruliad”之中来对其加以形式化。Ruliad 被定义为一切计算上可能之物的纠缠极限，它蕴含了我们的物理宇宙。意识被理解为并非一般的计算，而是大脑的一种特定特征：它通过运用对这一终极计算结构的有界、简化的描述，来创造一条融贯的经验之线。",
+    "associated_thinkers": ["Stephen Wolfram"],
+    "category": "量子理论",
+    "subcategory": "量子",
+    "core_identity_tagline": "“意识作为计算性 Ruliad 中的有界知觉”",
+    "classification_tags": [
+      "quantum",
+      "computation",
+      "ruliad",
+      "coherence",
+      "logic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一条融贯的经验之线，它通过序列化以及利用有界量的计算来简化对广袤而计算复杂的 Ruliad 的描述而实现。",
+    "ontological_status": "物理主义（计算的／量子的）。Ruliad 蕴含了一切形式上的可能性以及关于物理宇宙的一切，界定着物理定律。",
+    "mind_body_relationship": "意识植根于实在的计算／数学结构（Ruliad），并作为物理大脑（具体而言是“分支大脑”）的一种特定组织特征而被实现。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "涌现（隐含地为弱涌现／计算性涌现）。意识是与计算可约性相关联的一种“降阶”，它允许对宇宙作出简化的描述，而非一种根本属性。",
+    "subjectivity_and_intentionality": "主体性隐含于拥有一条“融贯的经验之线”之中。意识的私密性得到如下解释：不同的意识因各自不同的历史而占据“规则空间（rulial space）”中的不同位置，使得一个意识难以“进入”另一个。",
+    "qualia_account": "隐含地由所产生的“融贯的经验之线”以及基于有界计算与序列化的“确定思想”的形成所说明。这种融贯性为主观知觉提供了必需的结构。",
+    "ontological_commitments": "Ruliad（一切计算上可能之物的纠缠极限）、计算规则、分支宇宙、分支大脑，以及量子力学的基本概念。",
+    "epistemic_access": "关于意识的问题被转化为“关于数学、计算、逻辑的具体问题”，可对其进行形式而严谨的探究，从而将意识与科学所需的计算可约性联系起来。",
+    "constituents_and_structure": "计算规则、序列化，以及对 Ruliad 进行知觉（采样）与诠释的过程，由此产生融贯性。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（融贯的经验）、主体性、序列化，以及科学定律的根本构造。",
+    "distinctive_mechanism_or_principle": "其原理是运用有界量的计算来生成对 Ruliad 的简化、融贯、序列化的描述（“分支大脑如何知觉一个分支宇宙”）。",
+    "dynamics_of_emergence": "意识是一种与序列化以及形成融贯知觉相关联的动态过程，它涌现自大脑知觉这个根本上分支的宇宙（与量子力学相关）的努力。",
+    "location_and_distribution": "定域于大脑（“我们大脑的特定特征”），但从根本上由 Ruliad 这一普遍的计算结构所界定与约束。",
+    "causation_and_functional_role": "它的作用是将正在发生之事整合为一个融贯的整体，使确定的思想得以形成。就功能而言，意识对计算可约性至关重要，而后者驱动着我们对科学定律的理解。",
+    "integration_or_binding": "整合通过形成一条“融贯的经验之线”、并拥有“整合正在发生之事”以形成“确定思想”的途径而实现。序列化是这一过程的核心。",
+    "information_flow_or_representation": "涉及对与我们知觉和诠释宇宙的特定方式相对应的 Ruliad 进行采样。其本质涉及计算的精密性，但由复杂性的降低所界定。",
+    "evolutionary_account": "该理论暗示意识从根本上关乎我们进行科学所需的计算可约性，表明它作为我们看见并描述宇宙的能力的一个必需组成部分而演化。",
+    "core_claims_and_evidence": [
+      "意识嵌入于 Ruliad，即一切计算上可能之物的纠缠极限之中。",
+      "意识关乎运用有界量的计算（简化的描述）来创造一条融贯的、序列化的经验之线。",
+      "意识的私密性源自因个体历史而在规则空间中的不同位置。",
+      "量子力学参与其中，被描述为“分支大脑如何知觉一个分支宇宙”。"
+    ],
+    "basis_of_belief_or_evidence_type": "计算的、逻辑的、数学的、理论物理学。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "通过形式的数学与计算探究，在概念上可检验；经验检验依赖于计算／逻辑与物理学／神经科学之间未来的联系。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "在所提供的文献中未明确详述，这些文献聚焦于描述该提议本身。",
+    "open_questions_and_limitations": "连接各意识所需的“规则空间中的运动”的含义，以及计算可约性与主观感受之间的确切联系，仍是开放问题。",
+    "ontological_coherence": "高度融贯，旨在将物理学（包括量子基础）与意识统一于单一的终极计算结构（Ruliad）之内。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种植根于计算与（量子）物理学的理论，如果非生物系统能够在 Ruliad 框架内实现必需的计算融贯性与整合，人工智能意识便是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "不确定",
+      "rationale": "虽然该理论从根本上是计算的／物理主义的，但它被纳入量子理论范畴、并倚重抽象的 Ruliad（终极的实在结构），这意味着存续无法被确定地排除，尽管意识主要系于大脑的物理组织。"
+    },
+    "meaning_and_purpose": {
+      "stance": "否（实用主义的／科学的）",
+      "rationale": "意识在促成计算可约性与构造我们对宇宙的知觉方面发挥功能性作用，这与就终极宇宙意义而言的一种紧缩的、功能主义的结论相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "既然意识被刻画为一种特定类型的计算融贯性（有界计算的一种“软件”结果），那么这种结构原则上很可能能够在非生物基质中被复制，从而实现虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Quantum Theories",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Max Tegmark’s State of Matter",
+        "relationship": "相容"
+      },
+      {
+        "name": "David Bohm’s Implicate-Explicate Order",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The concept of the ruliad, Stephen Wolfram",
+        "year": 2021
+      },
+      {
+        "title_with_names": "What is consciousness? Some new perspectives from our physics project, Stephen Wolfram",
+        "year": 2021
+      }
+    ]
+  }
+}

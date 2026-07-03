@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "塔利斯的反神经狂热怀疑论",
+    "summary": "这一视角批判并拒斥以自然主义与唯物主义方式解释意识的种种尝试，主张对神经活动进行量化，与通达质性的、主观的经验之间存在根本性的自相矛盾。它主张大脑是必要的但并不充分，从而使意识、自我与意向性的深层本质仍是一个不可还原的谜团。",
+    "associated_thinkers": ["Raymond Tallis"],
+    "category": "挑战理论",
+    "subcategory": "反神经狂热怀疑论",
+    "core_identity_tagline": "“作为完好无损之谜团的意识”",
+    "classification_tags": [
+      "skepticism",
+      "anti-reductionism",
+      "phenomenology",
+      "critique"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识是一种不可还原的主观实在（第一人称的现象性“显现”），从根本上无法被客观的、量化的物理科学方法所通达和解释。",
+    "ontological_status": "本体论上的不可知论／反唯物主义（理由：塔利斯是无神论者，拒斥超自然解释、笛卡尔式二元论以及泛心论，转而对意识之根基的可知性持一种深刻的怀疑。）",
+    "mind_body_relationship": "大脑对于意识是必要的但并不充分。任何在神经活动与现象性显现之间提出的同一性主张都遭到拒斥，因为二者彼此截然不同。",
+    "primitive_or_emergent_status": "不可还原的谜团（理由：塔利斯认为解释鸿沟是唯物主义进路所固有的一项自相矛盾的任务，从而无法确定其根本本性。）",
+    "emergence_type": "不适用（理由：塔利斯批判通常在其下讨论涌现的那个还原论框架；他通过指出物质事实无法解释主观事实，隐含地拒斥了弱涌现。）",
+    "subjectivity_and_intentionality": "这些是唯物主义无法解释的核心心智特征；神经活动无法说明心智实体的“关于性”（意向性）或自我的构建。",
+    "qualia_account": "感受质（质性的感受）是主观的、第一人称的“显现”，无法被聚焦于质量／能量的客观进路所捕捉。例如，对应于黄色的神经活动，在物理上与黄的现象经验截然不同。",
+    "ontological_commitments": "主观意识（现象性的在场、能动性、自我）是实在的，但由于普遍存在的谜团，它对于任何特定的底层本体论（物质的／非物质的）都保留承诺。",
+    "epistemic_access": "意识是以主观方式（第一人称）来通达的。客观的／量化的第三人称进路必然无法通达意识的质性实在。",
+    "constituents_and_structure": "意识展现出同时的统一性与多样性、对过去的明确在场，以及指向未来的行动之发起，而这些都无法被对神经活动的描述充分捕捉。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "批判聚焦于现象意识、意向性、自我意识与能动性，主张这些都无法被自然主义理论所解释。",
+    "distinctive_mechanism_or_principle": "未提出任何机制。该理论纯粹作为对现有各种被提出机制的批判而发挥作用，主张还原论式的唯物主义机制无法捕捉主观实在。",
+    "dynamics_of_emergence": "未知，因为其关注点在于唯物主义理论在弥合非显现的物理对象与主观经验之间鸿沟上的解释性失败。",
+    "location_and_distribution": "意识不可还原为“颅骨之内”的神经活动。大脑被认为是必要的但并不充分。",
+    "causation_and_functional_role": "唯物主义解释无法说明指向一个尚未在场之未来的行动之发起，这暗示意识发挥着一种主动的、因果性的作用，而这无法仅凭神经活动来解释。",
+    "integration_or_binding": "有意识时刻同时具有的统一性与多样性，是现有神经进路无法解释的核心特征。",
+    "information_flow_or_representation": "唯物主义无法解释心智实体的“关于性”，这暗示存在一种客观科学无法通达的表征性或意向性结构。",
+    "evolutionary_account": "意识的演化受到质疑；塔利斯怀疑早期有机体的原始感知性是否会带来足以充当复杂意识起点的生存优势。",
+    "core_claims_and_evidence": [
+      "用客观的神经活动来解释主观意识这一任务是自相矛盾的，其结果必然是失败。",
+      "对象的现象性显现与和它相关联的神经活动截然不同。",
+      "唯物主义与自然主义的解释无法说明自我、意向性与能动性的核心特征。",
+      "原始感知性所谓的演化优势值得质疑，这使意识之谜完好无损地留存下来。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学分析、逻辑批判与现象学评估。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念性批判（理由：该理论的首要目标是揭示目前可用的经验理论的概念界限，而非提出一个新的、可经验检验的模型。）",
+    "known_empirical_interventions_or_tests": "塔利斯未提出任何检验。（理由：塔利斯批判对神经活动与意识之间所观察到的微弱相关性的依赖。）",
+    "criticisms_and_tensions": "塔利斯承认所提出的各种替代方案存在根本弱点：二元论是“无望之举”，泛心论未能解决组合问题（心尘如何构成一个主体），而超自然解释则是把种种不确定性自相矛盾地包装起来。",
+    "open_questions_and_limitations": "该理论最终导向怀疑主义，承认现象意识与知识的根基归根结底逃逸于人类的理解之外。",
+    "ontological_coherence": "作为一种怀疑主义的挑战，它是融贯的，它维护心身问题的深刻不可解性，拒斥一切现有的正面解决方案，认为它们都不充分。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "由于意识需要不可还原的主观质性与意向性，而这些都无法用纯粹物理的作用来解释，因此人工的计算系统（其运作基于物理／功能性描述）无法达成真正的意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "不确定",
+      "rationale": "尽管塔利斯拒斥二元论与超自然答案，但他本体论上的不可知论以及“一切皆有可能”的信念意味着，非唯物主义的存续可能性无法被排除，尽管他并未提供支持它的任何正面理论。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人文意义／未定义",
+      "rationale": "该理论拒斥那些使意识、自我与人的诸特征得不到解释的自然主义说明，从而隐含地为以人文方式创造的意义敞开大门，但并不提供任何终极的、宇宙性的目的。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "如果意识不可还原为脑活动，而是需要截然非唯物主义的特征（如现象性的“显现”），那么对神经基底的功能性复制将无法复制出有意识的自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "relationship": "相容"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "You won’t find consciousness in the brain",
+        "year": 2010
+      },
+      {
+        "title_with_names": "The how & why of consciousness",
+        "year": 2023
+      },
+      {
+        "title_with_names": "What is Consciousness? (Closer To Truth)",
+        "year": 2011
+      },
+      {
+        "title_with_names": "The Mystery of Consciousness (Conclusion: remains intact)",
+        "year": 2023
+      }
+    ]
+  }
+}

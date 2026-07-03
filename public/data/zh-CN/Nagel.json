@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "内格尔的《心灵与宇宙》",
+    "summary": "这一视角挑战占主导地位的唯物主义新达尔文主义自然观，主张它无法解释主观经验的不可还原本性，即作为一个有意识有机体“是何种感受”。它提出必须把心灵作为自然本身的一条基础性原理纳入进来。",
+    "associated_thinkers": ["Thomas Nagel"],
+    "category": "挑战性理论",
+    "subcategory": "内格尔的《心灵与宇宙》",
+    "core_identity_tagline": "作为自然之基础性原理的心灵",
+    "classification_tags": [
+      "subjectivity",
+      "anti-reductionism",
+      "panpsychism",
+      "philosophical critique",
+      "secular monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识从根本上是主观经验——“对主体自身而言是何种情形”——它抵抗被还原为纯粹物理的、第三人称的描述。",
+    "ontological_status": "哲学挑战（倾向于普遍一元论／泛心论）",
+    "mind_body_relationship": "批判当前对心身关系的构想，断言我们缺乏任何关于物理方面与现象方面如何能够相关或同一的构想。",
+    "primitive_or_emergent_status": "原初的（或基础性的）",
+    "emergence_type": "受到挑战／被拒斥",
+    "subjectivity_and_intentionality": "主体性（“是何种感受”的性质）是意识的界定性核心。意向性隐含地不可仅还原为物理事实。",
+    "qualia_account": "感受质（被感受到的性质）是问题的核心，内格尔主张目前所表述的任何客观或物理主义解释都无法说明其主观实在性。",
+    "ontological_commitments": "拒斥唯物主义新达尔文主义自然观。承诺意识是实在的一种特征，需要一种拓展了的、世俗的自然理解，可能涉及普遍可得的基本心理要素。",
+    "epistemic_access": "主要是第一人称内省与对主观经验的哲学分析，主张知晓一切客观事实不足以知晓主观事实。",
+    "constituents_and_structure": "其终极解答被推测为涉及由普遍可得的、本身即具有心理属性的基本要素组合而成，与一种泛心论的结构相一致。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、主观经验、对能动性／认知的挑战（通过批判唯物主义）。",
+    "distinctive_mechanism_or_principle": "主要聚焦于揭示物理还原论的概念限度，而非设定一个明确的机制。就机制而言，其解答表明意识经由基础性的、类泛心论要素的组合而产生。",
+    "dynamics_of_emergence": "意识被认为内在于普遍可得的基本要素的组合之中，而非在演化晚期通过专门的定律涌现出来。",
+    "location_and_distribution": "普遍的／系统性的（由普遍一元论／泛心论倾向推断）或内在于自然的结构之中。",
+    "causation_and_functional_role": "主要是批判性的，反对意识是一种惰性副现象的唯物主义观点。如果心灵是一条基础性原理，它便蕴含着在宇宙中一种不可还原的、组织性的角色。",
+    "integration_or_binding": "被推断为由组合来解决，其中微观层面的心理要素聚合形成复杂的人类意识。",
+    "information_flow_or_representation": "单凭信息处理不足以解释意识，除非它处理了那不可还原的主观方面。",
+    "evolutionary_account": "拒斥新达尔文主义唯物主义解释，认为它从根本上有缺陷，因为它无法解释心灵。提出必须把心灵作为一条贯穿整个自然史运作的基础性原理纳入进来。",
+    "core_claims_and_evidence": [
+      "经验的主观特征是意识的核心，由作为一个有机体“是何种感受”所捕捉。",
+      "意识构成一个根本性的概念难题，是科学目前无法把握的。",
+      "心物还原论是一种更广泛的唯物主义世界观的虚假前提。",
+      "其终极解释可能涉及意识作为自然的一种基础性的、普遍分布的方面。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "不确定／主要为概念性。该理论的力量在于对解释鸿沟的诊断，而非经验验证。其所建议的替代方案（泛心论）高度思辨。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "被批评为退回到“神秘主义”，以及在未提供一种具体、稳健且详尽的世俗本体论替代方案的情况下就拒斥既有的科学框架（新达尔文主义唯物主义）。",
+    "open_questions_and_limitations": "内格尔承认自己“毫无构想”用物理术语解释心理现象的方式可能如何运作。所提出的替代方案（泛心论）面临微观要素如何组合形成复杂心灵的挑战。",
+    "ontological_coherence": "作为对还原论的挑战是融贯的；其正面的本体论建议（泛心论）在一个宽泛的一元论框架内保持融贯，但缺乏机制细节。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不确定／有条件",
+      "rationale": "作为对功能主义与还原论的批判，内格尔的观点表明，缺乏基础性心理属性的纯粹计算实体很可能是哲学僵尸；结果取决于未来的人工智能能否例示所假设的普遍心理原理。"
+    },
+    "survival_beyond_death": {
+      "stance": "有条件",
+      "rationale": "如果意识是一种普遍的、基础性的属性而非一种生物学涌现物，那么其本质可能在身体消解之后仍持续存在（由泛心论倾向推断），尽管很可能不保留人格身份。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性",
+      "rationale": "明确寻求把心灵作为一条基础性的自然原理纳入进来，以克服唯物主义所蕴含的“无意义”，表明一种非有神论的、内在的宇宙目的或价值。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能／有条件",
+      "rationale": "主观经验的不可还原性意味着，单凭对物理／功能模式的复制将无法转移原初的第一人称意识。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Hard Problem of Consciousness",
+        "relationship": "影响"
+      },
+      {
+        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "relationship": "相容"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is It Like to Be a Bat?",
+        "year": 1974
+      },
+      {
+        "title_with_names": "The View from Nowhere",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Panpsychism (in Mortal Questions)",
+        "year": 1979
+      }
+    ]
+  }
+}

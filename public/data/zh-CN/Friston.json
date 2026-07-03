@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "弗里斯顿的自由能原理与主动推理",
+    "summary": "该理论将意识构想为一个自然过程，它源于对'自由能'的最小化，即有机体的内部模型（知觉性期望）与实时感官输入之间的差异。因此，意识作为一种经演化而来的机制发挥作用，用于模拟世界的各种情景并减少预测误差，以确保生存和维持稳态。",
+    "associated_thinkers": [
+      "Karl Friston"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "稳态与情感",
+    "core_identity_tagline": "意识即主动推理与被最小化的惊异",
+    "classification_tags": [
+      "active inference",
+      "free energy",
+      "predictive processing",
+      "process theory",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一种推理的自然过程，具体而言是那个监测并最小化自由能原理（惊异）的内部涌现模型，从而优化物理/大脑系统的表征能力。",
+    "ontological_status": "物理主义；常被称为马尔可夫一元论，它将心灵/物质的区分视为辩证性的而非本体论性的。",
+    "mind_body_relationship": "一元论/同一论。该理论主张意识是物理/大脑系统自组织过程的自然结果，消解了心灵与物质之间人们所熟悉的辩证对立。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现。意识被视为不多不少恰是一个自然过程（如同演化或天气），源自复杂的、自组织的物理系统。",
+    "subjectivity_and_intentionality": "主体性（第一人称视角）由当一个系统的内部状态可与外部状态相区分时所诱导出的信息几何加以刻画（马尔可夫一元论）。意向性反映于主动推理过程之中，该过程涉及推断感官状态的成因并在世界中导航。",
+    "qualia_account": "该理论对于难问题高度收缩，将意识视为一个有待理解的过程，而非一个其质性属性需要被界定的'东西'。感受质若被承认，将是副现象，或是推理所需的内部生成模型的方面。",
+    "ontological_commitments": "物理/大脑系统、复杂的自组织系统、内在与外在的信息几何，以及推理/过程的概念。",
+    "epistemic_access": "意识通过自由能原理的数学形式化而被认识和研究，从而允许对产生意识这一观念的过程进行客观分析。",
+    "constituents_and_structure": "基于自组织系统中的动态平衡与吸引子而运作的内部生成模型（预测加工层级）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（作为一种经演化而来的机制）、知觉、行动、推理、生存。",
+    "distinctive_mechanism_or_principle": "自由能原理（FEP），它主张所有自组织系统都必须最小化自由能（或'惊异'），通过主动推理驱动行动与知觉。",
+    "dynamics_of_emergence": "动态过程。当自我证成（系统经由吸引子达成稳定的过程）获得'时间厚度'或'反事实深度'，从而允许对未来行动进行推理时，意识便涌现出来。",
+    "location_and_distribution": "定位于物理大脑系统中；皮层反应被视为大脑最小化自由能的努力。",
+    "causation_and_functional_role": "意识发挥着适应性与功能性的角色，作为经演化而来的机制，用于模拟情景、监测并最小化自由能，以促进生存（稳态）并在世界中导航。",
+    "integration_or_binding": "整合隐含于单一内部涌现模型的构建之中，该模型预测外部世界并最小化全局的惊异/预测误差。",
+    "information_flow_or_representation": "信息加工围绕预测而构建，其中内部模型（知觉性期望）与感官输入相比较，而学习依赖于最小化大脑的自由能。",
+    "evolutionary_account": "意识是一种经演化而来的机制，源自最小化预测误差并调节身体生理（生存）这一根本的生物律令。",
+    "core_claims_and_evidence": [
+      "意识是用于行动与知觉的自由能原理的自然结果（主动推理）。",
+      "最小化惊异至关重要，因为未能做到这一点会威胁系统的存在。",
+      "意识是关于自身未来的推理，依赖于关于感觉如何生成的内部模型。",
+      "该理论的形而上学印记是马尔可夫一元论，它旨在消解心灵—物质的辩证对立。"
+    ],
+    "basis_of_belief_or_evidence_type": "计算性、数学性、理论神经科学/物理学。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "通过对物理系统表征能力的形式化依赖，在概念上和经验上都与可检验的模型（如神经生物学与心理学中的模型）相联系。",
+    "known_empirical_interventions_or_tests": "FEP 的原理构成了各类模型的基础，这些模型被用于关于意识状态改变（如迷幻剂作用下的熵脑假说）以及相关知觉与认知理论的经验研究中。",
+    "criticisms_and_tensions": "该理论因高度收缩、难以与现象经验的第一人称实在（难问题）相调和而受到批评，它仅将意识视为一种数学过程或'自然结果'。弗里斯顿发现，很难与将意识视为一个'东西'的哲学前提展开讨论。",
+    "open_questions_and_limitations": "该理论面临的挑战是：在不将意识定义为一个'东西'的前提下，解释一个推理最小化的自然过程如何产生主观经验存在这一*观念*或*错觉*。",
+    "ontological_coherence": "高。该理论内部融贯，运用马尔可夫一元论将心理过程与物理物质整合进一个统一的、描述性的框架之中。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作为一种强唯物主义理论，如果意识完全可由推理与表征最小化的计算过程加以解释，那么能够执行这些过程的非生物系统原则上最终必然会获得意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识是一个直接与生物大脑的功能动力学及物理基质相关联的涌现性自然过程；因此，它无法在身体衰亡后存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义",
+      "rationale": "意识过程的根本律令是生存（最小化惊异/维持稳态）。该理论并不将终极的宇宙意义或目的合理化，这与一般的唯物主义视角相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意识被理解为一个涌现的、形式化的推理优化过程，那么将大脑的信息加工与表征动力学完美复制到非生物媒介中，应足以使心理自我得以延续。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Clark's Predictive Processing",
+        "relationship": "影响"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Carhart-Harris’s Entropic Brain Hypothesis",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Projective Consciousness Model",
+        "relationship": "延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A theory of cortical responses, K. Friston",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Active interference: a process theory, K. Friston et al",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Mathematics of Mind-Time, K. Friston",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Sentience and the origins of consciousness: from cartesian duality to markovian monism, K. Friston, W. Wiese, J.A. Hobson",
+        "year": 2020
+      }
+    ]
+  }
+}

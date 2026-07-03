@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "心腦同一論",
+    "summary": "這一經典的意識哲學理論主張，心理狀態、事件或歷程嚴格地等同於大腦中發生的特定狀態、事件或歷程。它透過斷言意識完全是物理的而充當唯物論的典範。",
+    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "category": "唯物論",
+    "subcategory": "哲學",
+    "core_identity_tagline": "心理狀態即腦狀態",
+    "classification_tags": [
+      "identity",
+      "reductionism",
+      "physicalism",
+      "classical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（心理狀態／歷程）字面上等同於大腦的物理狀態／歷程。這是強意義上的同一主張，類似於將「晨星」與「昏星」都等同於金星。",
+    "ontological_status": "化約式物理論／唯物論",
+    "mind_body_relationship": "同一論：心理事件與物理事件是同一事物，是徹底的同一，意味著「兩者」不可分離。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性與意向性嚴格地等同於某些物理狀態。這一觀點意味著，追問為何一種感受伴隨著某物理狀態是誤入歧途的，因為它們本就是同一個東西。",
+    "qualia_account": "感質（被感受到的經驗），如疼痛或看見紅色，字面上等同於大腦的特定物理狀態，如傷害感受特異性神經元的放電。",
+    "ontological_commitments": "大腦的物理狀態與歷程。該理論承諾意識完全是物理的。",
+    "epistemic_access": "關於這些同一關係的知識建立在後驗的經驗研究之上，需要科學去發現哪些物理狀態對應於哪些心理狀態。",
+    "constituents_and_structure": "意識由大腦中特定的物理狀態與歷程構成，其組織方式使之與心理狀態同義。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、取用意識",
+    "distinctive_mechanism_or_principle": "將嚴格的同一關係原則應用於把心理種類（如疼痛）與物理種類（如 C 纖維放電）相關聯。",
+    "dynamics_of_emergence": "意識是生物歷程的結果，具體被認定為大腦的物理動力學。",
+    "location_and_distribution": "完全定位於大腦之內。",
+    "causation_and_functional_role": "心理因果隱含地得到解決，因為心理狀態就是物理狀態，而物理狀態具有因果效力與功能角色。",
+    "integration_or_binding": "整合在同一的物理腦狀態的複雜組織中實現。作為一個哲學主張，它並未指定一種獨特的神經生物學綁定機制。",
+    "information_flow_or_representation": "心理內容或表徵等同於體現它們的物理狀態，遵循物理定律。",
+    "evolutionary_account": "意識是從生物腦中產生的、經由演化而來的物理產物。",
+    "core_claims_and_evidence": [
+      "心理狀態嚴格地等同於腦狀態。",
+      "這一同一關係透過將心理事件（如疼痛）與特定神經元活動相聯繫的經驗證據被後驗地發現。"
+    ],
+    "basis_of_belief_or_evidence_type": "由不斷累積的相關性經驗證據所支持的哲學推論。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "原則上可經驗檢驗，方法是繪製特定心理狀態與物理狀態之間的相關性。",
+    "known_empirical_interventions_or_tests": "相關性經驗證據（如將疼痛與傷害感受特異性神經元的放電相聯繫）。",
+    "criticisms_and_tensions": "其原初形式一般被認為已被諸種反駁所削弱，最著名的是多重可實現性（同一心理狀態可由不同物理機制實現）。核心的哲學挑戰是「解釋鴻溝」，即為何腦狀態感覺起來是某種樣子。",
+    "open_questions_and_limitations": "該理論難以化解如下直覺：哲學殭屍（物理上完全相同卻缺乏意識的造物）是可設想的，這意味著「兩者」可以分離。它也未能清晰地區分哪些類型的神經活動構成意識。",
+    "ontological_coherence": "在嚴格的化約式物理論存有論內高度融貫，但與關於主體性和感質的基本現象學直覺存在張力。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "既然心腦同一論斷言意識可化約為物理歷程，那麼若這些特定的物理歷程能在人工的、非生物的基質中被重現，意識就必然被例示。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識嚴格地等同於大腦的功能與物理完整性；大腦在死亡時的瓦解導致有意識自我的永久終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本意義",
+      "rationale": "作為一種唯物論理論，心腦同一論並不蘊含任何終極的宇宙意義或目的。意義與價值是由有意識的人類能動者創造的湧現性質。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意識（精確的物理模式）能夠被掃描並完美地複製／上傳到一個新的物理介質（數位的或其他的），該理論保證同一有意識自我的存續。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Tye’s Contingentism",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mind/brain identity theory, J.J.C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "We must shed our metaphysical assumptions, David Papineau",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Mind-Brain Identity Theory, István Aranyosi",
+        "year": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id_and_class": {
+    "theory_title": "意识的感觉运动（生成）理论（Noë《走出我们的头脑》观点）",
+    "summary": "该理论拒斥意识仅发生于大脑内部这一假设，主张单凭大脑内部过程不足以产生经验。意识从根本上是一种活动或过程，它通过大脑、身体与环境之间动态、连续而熟练的互动而被生成（enact）。",
+    "associated_thinkers": [
+      "Alva Noë",
+      "Kevin O’Regan"
+    ],
+    "category": "唯物主义",
+    "subcategory": "关系性",
+    "core_identity_tagline": "意识作为主动的与世界互动",
+    "classification_tags": [
+      "relational",
+      "embodied",
+      "enactive",
+      "externalism",
+      "activity"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被确认为持续关注、保持接触、留意并与世界互动的活动。它是通达世界并使世界为有机体‘显现’出来的过程，由主动的参与所界定。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "心灵是由大脑、身体与环境协同运作所生成的活动。大脑提供了必要的机械基质，但不足以产生意识；它是符号的所在之处，而非意识本身。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性（世界如何‘为我们显现’）与意向性源自有机体与环境之间主动、熟练的参与，并受语境、兴趣、知识与理解的影响。",
+    "qualia_account": "感受质被暗示为现实生活经验之密度、细节与稳健性的一部分，它们源自与世界的持续互动，正是这一点将真正的意识与单纯的梦境经验区别开来。",
+    "ontological_commitments": "物理环境、生物性的大脑／身体，以及两者之间动态的互动／活动。",
+    "epistemic_access": "通达它需要着眼于头脑之外，关注有机体在世界中的能动作用与技能习得，将焦点从内部的大脑事件转向外部的行动与互动。",
+    "constituents_and_structure": "由大脑、身体的感觉运动系统与外部环境所构成的动态、相互关联的系统。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、能动性、通达（作为一种成就）",
+    "distinctive_mechanism_or_principle": "有机体与其周遭环境之间主动而持续的参与。意识位于这一互动／活动回路之中，而非单在内部的大脑状态之中。",
+    "dynamics_of_emergence": "意识是一种保持接触并与世界互动的动态过程，由有机体持续地加以生成。",
+    "location_and_distribution": "分布于大脑、身体与环境的整个系统之中；位于‘我们的头脑之外’。",
+    "causation_and_functional_role": "意识是能动的，使有机体得以通达并生成世界，其作用在于引导为生存与理解而进行的审慎、语境化而熟练的行动。",
+    "integration_or_binding": "整合通过世界因有机体熟练、主动的介入与留意而‘为我们显现’的那种融贯性来实现。",
+    "information_flow_or_representation": "信息由有机体的互动与技能主动地加以通达和塑形，从而界定了环境的意义。",
+    "evolutionary_account": "意识的出现是为了使我们得以通达世界，并通过具身而熟练的互动来中介意义，这表明它对生存具有强大的适应优势。",
+    "core_claims_and_evidence": [
+      "意识是与世界持续参与的活动。",
+      "现实生活经验（相对于梦境）的密度与稳健性支持了外部互动的必要性。",
+      "大脑是符号的机械所在，但活动才是意识本身。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学论证、现象学洞见、对传统内在论的批评"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要张力在于精确解释这种互动为何在强意义上就是意识，而不仅仅是使意识成为可能或对其施加影响。批评者拒斥‘研究内部的大脑事件不足以理解意识’这一主张。",
+    "open_questions_and_limitations": "该理论缺乏一个清晰的界定，说明外部的互动／活动如何构成内在经验或感受质，以及如何严格地把这种活动与单纯的非意识加工区分开来。",
+    "ontological_coherence": "在一个外在论与具身的哲学框架内是融贯的，直接挑战了内在论唯物主义与二元论的根基性前提。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不确定／有条件的",
+      "rationale": "标准的计算是不够的；唯有当人工智能系统实现完全的具身、技能以及与某个世界持续、自主的互动（满足对活的有机体所提出的同样要求）时，意识才可能。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识与那个涉及大脑和身体与世界互动的持续、主动的物理回路密不可分；其终止即意味着意识活动的终结。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义的",
+      "rationale": "意识使行动者得以获得语境、知识与理解，赋予其为互动赋予意义并引导能动行为的能力，但并不蕴含任何超越性的目的。"
+    },
+    "virtual_immortality": {
+      "stance": "极不可信",
+      "rationale": "仅上传大脑的内部过程（即‘机械所在’）无法捕捉那被界定为意识的、不受大脑束缚的、外部而持续的互动活动。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Enactivism (Varela & Thompson)", "relationship": "构成性框架" },
+      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "根基性影响" },
+      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "哲学影响" },
+      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "部分相容／重叠" },
+      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "相关／互补（主动知觉、共享回路模型）" },
+      { "name": "Internalist Materialism", "relationship": "批评" },
+      { "name": "Dualism", "relationship": "批评" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
+        "year": 2010
+      },
+      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Is consciousness an illusion, Alva Noë",
+        "year": 2007
+      },
+      {
+        "title_with_names": "O’Regan, K., & Noë, A. A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–1031.",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Noë, A. Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness.",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Varela, F., Thompson, E., & Rosch, E. The Embodied Mind: Cognitive Science and Human Experience.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Gibson, J.J. The Ecological Approach to Visual Perception.",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Hurley, S. L. (1998). Consciousness in Action. Harvard University Press."
+      },
+      {
+        "title_with_names": "Hurley, S. (2008). The Shared Circuits Model (SCM): How control, mirroring, and simulation can enable imitation, deliberation, and mindreading. Behavioral and Brain Sciences, 31(1)."
+      }
+    ]
+  }
+}

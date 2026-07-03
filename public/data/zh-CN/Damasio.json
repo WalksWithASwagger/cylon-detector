@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "达马西奥的稳态感受与意识的涌现",
+    "summary": "该理论主张，意识从根本上源于内部感受，即所谓的稳态感受，这些感受持续地表征有机体的生命状态相对于某一理想状态（稳态）的当下情况。这些感受所提供的自发意识，为有意的生命调节与生存提供了必需的宝贵知识。",
+    "associated_thinkers": [
+      "Antonio Damasio",
+      "Hanna Damasio"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "稳态与情感",
+    "core_identity_tagline": "意识即稳态感受",
+    "classification_tags": [
+      "homeostasis",
+      "affective",
+      "neurobiological",
+      "emergence",
+      "survival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为稳态感受——它是一种自发有意识的、兼具心理特征与身体特征的混合性过程。这些感受转译了根本的稳态状态（如饥饿、疼痛、良好状态）。",
+    "ontological_status": "物理主义（生物自然主义）",
+    "mind_body_relationship": "核心的现象过程（稳态感受）是混合性的，兼具心理特征与身体特征。心灵与身体的生物过程，尤其是内部调节（内感受），密不可分地相关联。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现。虽未明确标注，但作为一种基于特定生物机制（稳态）的唯物主义理论，它意味着意识尽管复杂，却源自底层的物理/神经过程，且原则上可还原为这些过程。",
+    "subjectivity_and_intentionality": "当稳态感受与外感受通道（如视觉）所生成的图像相结合时，主体性便产生了。意向性反映于感受为与生命调节相关的决策所提供的自发引导之中。",
+    "qualia_account": "感受质植根于稳态感受。这些感受（它们转译了如疼痛或良好状态之类的根本稳态状态）是'经验的自然源泉'。",
+    "ontological_commitments": "拥有神经系统的复杂有机体、稳态机制、内感受过程，以及身体特征/心理特征。",
+    "epistemic_access": "通过内部视角（第一人称的感受/情感）而获得，该视角揭示生命状态，将关注点从外部认知（外感受）转向内部调节（内感受）。",
+    "constituents_and_structure": "基本构件是源自对有机体内部状态的持续表征的稳态感受。其结构涉及这些感受与源自外部知觉的认知图像的协调。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、情感性/情绪性、生命调节/生存、决策。",
+    "distinctive_mechanism_or_principle": "稳态感受所固有的有意识地位，它自发地提供有关生命调节与生存的知识。",
+    "dynamics_of_emergence": "意识在生物历史的早期通过'情感路径'（内感受过程）而出现，而非通过较晚的'认知路径'。它由表征有机体内部状态的过程持续维持。",
+    "location_and_distribution": "位于复杂有机体的内部调节系统与神经系统中。",
+    "causation_and_functional_role": "意识具有因果效力，它使有机体能够有意地、知情地行动，为对生存至关重要的生命调节提供了一个新的层次。稳态感受本质上是调节性的。",
+    "integration_or_binding": "当稳态感受与外感受通道所生成的图像相结合以产生主体性时，整合便发生了。",
+    "information_flow_or_representation": "稳态感受自发地具有信息量，标示当前状态偏离稳态理想的程度。意识将这一宝贵知识传送到决策的心理空间之中。",
+    "evolutionary_account": "意识在早期便已演化，通过使基于内部所感受到的、关于生存状态的信息进行有意的生命调节成为可能，从而提供了适应优势。",
+    "core_claims_and_evidence": [
+      "意识的根本源头是与有机体内部稳态状态相关的感受。",
+      "稳态感受拥有一种'固有的有意识地位'，自发地为生存提供关键知识。",
+      "意识在演化早期经由情感/内感受路径而出现，先于认知路径。"
+    ],
+    "basis_of_belief_or_evidence_type": "神经生物学性、演化性、现象学性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验。作为一种奠基于神经系统生理过程的唯物主义理论，它可运用生物学与神经科学方法加以研究。",
+    "known_empirical_interventions_or_tests": "来源中并未列出具体命名的经验性干预，但验证工作将涉及考察生理性稳态状态/内感受信号与所报告的意识感受之间的相关性（合理的阐释）。",
+    "criticisms_and_tensions": "如同许多生物学式的说明一样，该理论主要关注意识的功能性与适应性角色（'易问题'），可能使'难问题'（为什么稳态状态感受起来是某种样子）悬而未决，尽管它主张感受本身固有地具有意识。",
+    "open_questions_and_limitations": "稳态感受借以获得其'内在的有意识本性'或'恩典'的确切机制，在所提供的描述性框架中仍然难以捉摸。",
+    "ontological_coherence": "在生物学唯物主义框架内高度融贯，为意识提供了一个植根于演化性生命维持系统的明确因果角色。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件",
+      "rationale": "如果人工系统能够获得一种能进行复杂稳态调节并生成所需'稳态感受'的基质，这些感受反映系统'生命'（或等价的生存律令）的状态，那么人工智能意识将是可能的，这与唯物主义相一致。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识从根本上依赖于生物过程，具体而言是复杂有机体神经系统内产生的稳态感受。不存在任何非物理成分在生物基质死亡后存续的可能。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义",
+      "rationale": "意识之所以演化，是为了服务于生命调节与生存。作为一种唯物主义理论，它与这样一种观点相一致：终极的意义/目的并不存在，但意义与价值由有意识的人类所创造。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果物理过程（包括与稳态感受生成及其与认知图像整合相关的所有机制）能够被完美地复制到非生物媒介中，那么物理状态的完美复制便意味着心理状态的完美复制，从而使虚拟永生成为可能。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Neurobiological Theories",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "兼容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of what Happens: Body and Emotion in the Making of Consciousness, Antonio Damasio",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Feeling & Knowing: Making Minds Conscious, Antonio Damasio",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Feelings are the source of consciousness, Antonio Damasio and Hanna Damasio",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Homeostatic feelings and the emergence of consciousness, Antonio Damasio and Hanna Damasio",
+        "year": 2024
+      }
+    ]
+  }
+}

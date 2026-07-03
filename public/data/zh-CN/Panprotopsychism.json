@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "泛原心论",
+    "summary": "泛原心论是泛心论的一个变体，主张基本物理实体拥有的属性本身并非有意识的，而是‘原现象的’。这些原现象属性必须在复杂结构（如大脑）中组合，才能生成涌现的现象意识。",
+    "associated_thinkers": ["David Chalmers", "Philip Goff"],
+    "category": "泛心论",
+    "subcategory": "泛原心论",
+    "core_identity_tagline": "原现象属性组合以生成意识",
+    "classification_tags": [
+      "protophenomenal",
+      "panpsychism",
+      "emergence",
+      "qualia",
+      "russellian-monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一种涌现的宏观经验，它源于根本的、非意识的原现象属性的组合与复杂化。",
+    "ontological_status": "涌现泛心论（通常归类于罗素式一元论之下）",
+    "mind_body_relationship": "心灵（现象意识）从物理基质中强涌现或弱涌现，而该基质的内在本性由原现象属性构成。这一联结旨在避免传统二元论的因果难题。",
+    "primitive_or_emergent_status": "涌现的（现象意识是涌现的，但其底层属性是原初的／根本的）",
+    "emergence_type": "可以是弱涌现或强涌现，取决于现象属性是否能够——哪怕在原则上——从非意识的原现象事实中演绎出来。",
+    "subjectivity_and_intentionality": "主体性只有在复杂的宏观层面、当原现象元素组合时才会出现。那些根本属性本身是未被经验的，或是‘稀薄的未被经验的质’。",
+    "qualia_account": "感受质（现象属性）由根本原现象属性的组合所生成，从‘稀薄的未被经验的质’过渡为被经验的质。",
+    "ontological_commitments": "原现象属性（物理实体的范畴性基础）、根本物理场，以及涌现的现象属性。",
+    "epistemic_access": "主要是哲学演绎（通过设定物质隐藏的内在属性来解决难问题）与概念分析，而非经验观察。",
+    "constituents_and_structure": "拥有原现象属性的基本物理实体，它们组织成能够生成意识的复杂宏观结构（例如大脑）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、主体性。",
+    "distinctive_mechanism_or_principle": "那个关键的、但目前未知的组合机制，它是把非意识的原现象元素转化为统一而复杂的意识经验所必需的。",
+    "dynamics_of_emergence": "意识在达到某一层级的复杂结构组合、即根本原现象属性的复杂结构组合时，动态地产生。",
+    "location_and_distribution": "原现象属性在基本物理实体中无处不在；现象意识则局域于能够将其组合的复杂生物系统（例如大脑）之中。",
+    "causation_and_functional_role": "涌现的现象意识通常具有因果效力，它通过奠基于物理实在的内在（原现象）本性而承继其因果角色。这为意识赋予了一种功能角色（例如适应性的生存优势）。",
+    "integration_or_binding": "需要一个针对‘组合问题’的解决方案：解释非意识的原现象元素如何整合以形成统一的主观宏观经验。",
+    "information_flow_or_representation": "涉及把底层原现象属性（它们是物理结构与关系性倾向的范畴性基础）转化为一个被经验为现象内容的宏观层面结构。",
+    "evolutionary_account": "组合机制被推定为在复杂生物系统（如动物神经系统）中演化出来，以通过涌现意识赋予适应性优势。",
+    "core_claims_and_evidence": [
+      "意识奠基于微观层面实体根本的、非意识的原现象属性。",
+      "该理论通过设定物质的内在心灵属性，避免了唯物主义的物理鸿沟。",
+      "组合问题仍是该理论可行性的首要概念挑战。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（弥合解释鸿沟与难问题，对根本物理属性的概念分析）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "高度思辨／概念上可检验。它处理的根本属性一般为当前经验科学所无法通达。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "首要张力是‘组合问题’：解释非意识的根本属性如何凝聚以产生复杂的主观意识。批评者认为引入原意识只不过是推迟了难问题。",
+    "open_questions_and_limitations": "组合机制的确切性质仍是一个开放问题，而所产生的意识究竟是强涌现还是弱涌现也尚未解决。",
+    "ontological_coherence": "意在成为唯物主义与二元论之间的一个融贯中间地带，把心灵性奠基于实在的内在本性，同时允许在宏观尺度上涌现。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识源自根本属性的组合机制，那么由拥有这些属性的物理材料构成的人工系统就可能变得有意识，前提是必要的组合结构能够被工程化实现。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能（希望渺茫）",
+      "rationale": "现象意识与涌现的复杂结构（例如大脑）相绑定；当这一结构在死亡时消解，复杂意识便消失，只留下持存的非意识原现象基质。"
+    },
+    "meaning_and_purpose": {
+      "stance": "有可能",
+      "rationale": "作为泛心论的一个变体，它设定实在具有一个根本的心灵方面，暗示存在超出严格唯物主义说明的宇宙意义或价值的可能性。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果把无处不在的原现象属性组合成现象自我的规则能够被理解并在非生物基质中完美复制，那么虚拟永生应当是可以实现的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "对照"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Micropsychism",
+        "relationship": "对照"
+      },
+      {
+        "name": "Panqualityism",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Consciousness and its place in nature, D. Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Panpsychism, P. Goff, W. Seager, and S. Allen-Hermanson",
+        "year": 2022
+      }
+    ]
+  }
+}

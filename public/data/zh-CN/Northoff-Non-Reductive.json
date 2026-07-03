@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Northoff 的非还原神经哲学理论",
+    "summary": "该理论主要是一种方法论策略，旨在通过以双向的方式将哲学概念与本体论理论同经验神经科学数据系统地联系起来，从而分析大脑与心灵之间错综复杂的关系。其目标是在不将心理概念还原为物理事实的前提下，为主体性提供洞见。",
+    "associated_thinkers": ["Georg Northoff"],
+    "category": "非还原物理主义",
+    "subcategory": "非还原神经哲学",
+    "core_identity_tagline": "哲学与神经科学交界处的方法论工具",
+    "classification_tags": [
+      "neurophilosophy",
+      "methodology",
+      "spatiotemporal",
+      "sentience",
+      "non-reduction"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "该进路主要是方法论的，聚焦于概念与事实之间严谨的关系。意识的基础性维度（感受能力）被认定为一种由大脑自发活动所产生的、内在的时-空结构。",
+    "ontological_status": "非还原物理主义",
+    "mind_body_relationship": "意识状态以动态的时空术语加以构想，在不将心理还原为物理的前提下，补充并拓展了其认知性刻画。心理特征被视为嵌套于大脑活动之中。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "方法论上的非还原。（理由：其明确的焦点是在肯定物理基础的同时维持心理概念的不可还原性，这与非还原物理主义的哲学目标相一致。）",
+    "subjectivity_and_intentionality": "该方法论进路以为脑—心联系的主体性提供洞见为要旨。意向性等心理特征被视为从大脑底层复杂、动态的时-空实在中剥离出来的方面。",
+    "qualia_account": "对感受能力（即感受的能力，被定义为“sentience”）作出说明，它是意识的一个基本而根本的维度，产生自大脑在其时-空矩阵内对身体与环境输入的整合。",
+    "ontological_commitments": "大脑活动、时空关系（嵌套的尺度），以及感受能力这一功能能力。",
+    "epistemic_access": "经由理论概念与经验脑数据之间系统而双向的联系而通达。它聚焦于分析大脑的活动与结构（时空神经科学），而非典型的输入—输出关系。",
+    "constituents_and_structure": "构造大脑自发活动的时-空机制，它们在持续运行的脑矩阵内组织为嵌套的尺度（如俄罗斯套娃）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "感受能力（感受的能力），以及意识的形式／结构／组织。",
+    "distinctive_mechanism_or_principle": "以非还原、系统的方式将概念模型与经验数据相联结的方法论策略。就机制而言，感受能力产生自内在具有时-空性的特定神经—生态与神经—内脏机制。",
+    "dynamics_of_emergence": "意识是一种动态过程，产生自大脑在其持续运行的时-空矩阵内对环境与身体输入的持续整合，从而导致一系列不同的亚稳态。",
+    "location_and_distribution": "定位于特定的神经—生态与神经—内脏机制之中，源自大脑的自发活动。",
+    "causation_and_functional_role": "该模型的功能角色是方法论性的，提供一种系统策略以洞察脑—心联系。底层的感受能力提供感受的基本能力，并由时-空机制所中介。",
+    "integration_or_binding": "来自身体与环境的不同输入的整合，发生于大脑持续运行的时-空矩阵之内，从而生成感受能力。",
+    "information_flow_or_representation": "信息通过其时空关系与结构加以分析，强调大脑活动而非认知科学的输入—认知—输出关系。",
+    "evolutionary_account": "未明确论及。（理由：其主要描述聚焦于方法论与当前机制，而非种系发育的发展。）",
+    "core_claims_and_evidence": [
+      "该进路要求将理论概念与经验脑数据作系统的联结，以获得对脑—心联系的有效洞见。",
+      "感受能力经由与大脑自发活动相关的内在时-空机制而产生。",
+      "心理特征被构想为嵌套于大脑更大的时空活动之内的小而剥离的尺度。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（方法论框架）与经验的（源自时空神经科学研究）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在经验与概念上均可检验，因为它被界定为一种应用于时空神经科学数据的方法论策略。",
+    "known_empirical_interventions_or_tests": "运用时空神经科学、聚焦于分析大脑活动、结构及时空关系的研究。",
+    "criticisms_and_tensions": "没有针对这一具体理论明确列出的批评，尽管它旨在通过将焦点转移到世界—大脑关系来消解诸如心身问题之类的一般性哲学问题。",
+    "open_questions_and_limitations": "需要更详细地说明不同的时空尺度如何嵌套，以及这如何全面地把握心理特征。",
+    "ontological_coherence": "在非还原物理主义的参数内高度融贯，主张其方法论允许主观的心理领域与客观的物理事实并置研究，而无需强行还原。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种非还原物理主义进路，意识系于特定复杂动力学（时-空机制）的实现；如果这些动力学能够被人工地复制，人工智能中的意识就应当是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该理论植根于大脑的物理机制（神经—生态、神经—内脏、自发活动矩阵）。这些物理过程的终止意味着涌现的意识结构（感受能力）的终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不确定",
+      "rationale": "该理论主要是方法论的，聚焦于意识的机制与结构，而非终极的宇宙意义。然而，其非还原立场与肯定源自主体性的意义与价值相兼容。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意识涌现自复杂的、非还原的时-空动力学，那么理论上就存在这样一种可能性：对这些复杂模式的完美复制与上传将成功保存第一人称的有意识自我，这与本范畴中隐含的功能主义方面相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Northoff’s Temporo-Spatial Sentience",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "相容"
+      },
+      {
+        "name": "Mind-Body Problem",
+        "relationship": "批评"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why is there Sentience? G. Northoff",
+        "year": 2021
+      },
+      {
+        "title_with_names": "My way to non-reductive neurophilosophy, G. Northoff",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Spatiotemporal neuroscience – what is it and why we need it, G. Northoff et al.",
+        "year": 2020
+      }
+    ]
+  }
+}

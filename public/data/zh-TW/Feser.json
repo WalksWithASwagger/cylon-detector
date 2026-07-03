@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Feser’s Neo-Thomistic, Neo-Aristotelian, Common-Sense Dualism",
+    "summary": "這一二元論理論主張，人類理智（抽象概念與推理）是一種非物質的官能，無法被化約為物質過程。它透過倡導回歸亞里斯多德式的常識實在論來解決「難問題」，在該實在論中，感官性質（感質）是外部物質世界的客觀性質，從而消解了由現代那種嚴苛的、量化的物質觀所引發的困境。",
+    "associated_thinkers": ["Edward Feser"],
+    "category": "二元論",
+    "subcategory": "新多瑪斯主義、新亞里斯多德主義、常識二元論",
+    "core_identity_tagline": "經由非物質理智與客觀性質而實現的意識",
+    "classification_tags": [
+      "dualism",
+      "aristotelian",
+      "immaterial",
+      "intellect",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種複合實在，由一個負責確定思想的非物質理智官能，與一些知覺世界中客觀質性性質的物質感官官能所構成。",
+    "ontological_status": "二元論（新多瑪斯主義／新亞里斯多德主義形式）",
+    "mind_body_relationship": "靈魂是一個實體性的、統一的實在，充當身體的形式（多瑪斯主義觀點）。理智官能（心理狀態的一個子集）不可化約為物質過程。本理論挑戰了產生心身問題的那種唯物論物質觀。",
+    "primitive_or_emergent_status": "非湧現的（就理智而言）；感官性質對客觀實在而言是根本的",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "理智把握共相並維持確定、無歧義的概念內容（意向性）的能力，使它必然不可化約為物質過程。常識的直接實在論意味著我們所知覺的世界正如其顯現的那樣。",
+    "qualia_account": "質性特徵（如顏色、聲音、熱等次性）被主張為真實的、客觀的性質，本然地內在於外部物質對象之中（常識的直接實在論），從而消除了將它們僅僅定位於一個非物質心靈之中（如笛卡兒模型所為）的必要。",
+    "ontological_commitments": "非物質的實體或官能（理智、靈魂），連同擁有本然客觀質性性質的物質實體。",
+    "epistemic_access": "主要透過對思想本性的哲學分析、邏輯與推理來通達，並得到常識知覺（直接實在論）的支持。",
+    "constituents_and_structure": "一種質形論的複合結構，其中靈魂（包括非物質的理智）是活的身體的形式。理智活動涉及把握抽象概念（共相）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "理智活動（推理、確定思想）、感官意識（作為客觀性質的現象感質）。",
+    "distinctive_mechanism_or_principle": "如下論證：思想（邏輯、數學）中確定內容的必要性蘊含著理智官能的不可化約性與非物質性。",
+    "dynamics_of_emergence": "重點在於駁斥導致難問題的形上學前提，而非描述湧現。理智的不可化約性基於其本性（把握共相）與物質過程（處理殊相）從根本上不相容。",
+    "location_and_distribution": "理智與靈魂相關聯，後者是非物質的且自存的。感官性質則客觀地定位於世界中的外部對象，而不僅僅位於大腦之中。",
+    "causation_and_functional_role": "理智的功能對數學、邏輯與語言至關重要，因為它確保思想與概念具有確定、無歧義的內容。",
+    "integration_or_binding": "經驗的統一被隱含地根植於靈魂之中，後者是賦予身體以形式的實體性、統一的實在。（來源中未提供明確的機制性描述。）",
+    "information_flow_or_representation": "理智活動涉及概念（共相），它們與心理圖像或感覺（殊相）在範疇上截然不同，且不可化約為後者。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "難問題是一個偽問題，源於一種有缺陷的現代物質觀（伽利略的錯誤）。",
+      "理智活動無法化約為物質過程，因為這種化約不可避免地否認思想中存在確定或無歧義的內容。",
+      "次性（如顏色與聲音）是物質的客觀性質，與常識相一致。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、理性主義的、常識的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "主要建基於概念與邏輯。論證用於表明化約論唯物論與確定思想之間的不相容性。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "批評者認為，神經科學終將無需一個非物質的理智即可彌合解釋鴻溝。它必須提供一種融貫的心理因果說明，儘管它試圖透過重新定義物質來迴避笛卡兒式的互動問題。",
+    "open_questions_and_limitations": "非物質的理智如何與物理大腦互動的確切機制在很大程度上仍未得到解釋（互動問題）。",
+    "ontological_coherence": "在其新多瑪斯主義／新亞里斯多德主義框架內高度融貫，主張它解決了傳統唯物論與笛卡兒式二元論之間那種誤導性的二分。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能否",
+      "rationale": "如果理智（確定思想與抽象概念所必需的）從根本上是非物質的、不可化約為物質過程的，那麼純粹計算性／物質性的人工智慧就無法例示該理論所描述的完整人類意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "靈魂被界定為一個非物質的、自存的實體，能夠脫離身體獨自存在並行使認知功能，儘管這被視為對它而言是非自然的。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是",
+      "rationale": "思想、邏輯與理智共相中確定內容的保全，加之對靈魂的存有論承諾，意味著一種非消解性的意義觀，從而避免了唯物論的虛無主義。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "虛擬永生依賴於計算功能論。既然 Feser 主張理智意識不可化約為、也無法由物質過程加以解釋，那麼完整的人類自我就無法被數位化上傳。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Stump’s Thomistic Dualism", "relationship": "相容" },
+      { "name": "Cartesian Dualism", "relationship": "批判" },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "批判"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "批判" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Aristotle, call your office, Edward Feser",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Chomsky on consciousness, Edward Feser",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Non-cartesian substance dualism and materialism without reductionism, Eleonore Stump",
+        "year": 1995
+      }
+    ]
+  }
+}

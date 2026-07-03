@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Moreland’s Christian Soul",
+    "summary": "本理論捍衛一般的實體二元論，主張意識寓於一個實體性的、完全非物質的靈魂之中，後者有別於物理身體。靈魂充當有意識性質的統一、持久的承載者，為人格同一性提供根據，並賦予身體的物理結構以生命。",
+    "associated_thinkers": ["J.P. Moreland"],
+    "category": "二元論",
+    "subcategory": "基督宗教靈魂",
+    "core_identity_tagline": "作為完全非物質之靈魂的意識",
+    "classification_tags": [
+      "substance",
+      "immaterial",
+      "soul",
+      "personal identity",
+      "theistic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一組狀態、感受與覺知，根植於完全非物質的、實體性的靈魂（自我、自我意識主體、我）之中。",
+    "ontological_status": "實體二元論",
+    "mind_body_relationship": "靈魂是一個實體性的、統一的實在，它賦予身體以形式、使之活動並使之成為人。身體是一個有靈魂的、在空間上有廣延的物理結構，但靈魂是它成為一個正常運作的人所必需的。",
+    "primitive_or_emergent_status": "原初的／根本的",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "主體性、自我覺知與意向性根植於靈魂之中，後者是有意識性質的非物理的、根本的承載者，不可分且持久。",
+    "qualia_account": "感質是非物質靈魂的性質，唯有它能說明有意識經驗那種單一、統一的覺知，而關於聚合大腦的唯物論理論無法解釋這一點。",
+    "ontological_commitments": "非物質的靈魂（實體性的、統一的、本質上非空間的）與物理身體／大腦（物質實體）。",
+    "epistemic_access": "主要透過關於人格同一性與必然性的哲學論證來通達，並得到人類內省與常見哲學直覺的支持。",
+    "constituents_and_structure": "基本構件是實體性的靈魂，被界定為人格同一性所必需的、非物質的根據。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、自我覺知、意識的統一、意向性、人格同一性",
+    "distinctive_mechanism_or_principle": "靈魂固有的統一性（作為非聚合物）獨一無二地使意識的根本統一（例如對視野的單一覺知）成為可能，而這是唯物論無法說明的。",
+    "dynamics_of_emergence": "意識對靈魂而言是根本的；靈魂本身是一個終極的、非物質的實在，有別於物質。",
+    "location_and_distribution": "意識寓於非物質的靈魂之中，後者在生命期間賦予其物理身體以形式並完全在場於其中。",
+    "causation_and_functional_role": "靈魂對物理身體擁有因果力（從對唯物論論證的辯護中可推出互動二元論），並為人的長期持存（貫時持續）提供根據。",
+    "integration_or_binding": "整合由靈魂根本的、非聚合的統一性所解決，後者本然地將有意識經驗綁定為單一的主觀覺知。",
+    "information_flow_or_representation": "有意識狀態是非物質靈魂的性質，無法被完全化約為大腦中的物理過程或資訊流、或由其加以解釋。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "自我是一個完全非物質的實體，不可化約為物理身體。",
+      "靈魂為意識不可分的統一（例如單一的視覺覺知）提供根據，而聚合的大腦結構無法解釋這一點。",
+      "實體二元論為持久的人格同一性與自由意志論式的自由提供了必需的存有論根據。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、現象學的、神學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／哲學的",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "本理論面臨經典的互動問題（非物質的靈魂與物質的身體如何相互因果影響），以及關於缺乏非物理實體之科學證據的批評。",
+    "open_questions_and_limitations": "心身因果的確切機制仍未得到解釋，這是一切形式的互動二元論的主要挑戰。",
+    "ontological_coherence": "在其所規定的一般實體二元論框架內融貫，並與亞伯拉罕諸教的信仰體系相一致，但與物理論關於物理因果封閉的主張不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意識需要實體性的、完全非物質的靈魂，而它無法由人工的、物理的系統或計算所創造或例示。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "非物質的靈魂（「真正的我」）與身體非同一，並在生物學死亡之後持續存在，為死後存續提供了直接的機制。"
+    },
+    "meaning_and_purpose": {
+      "stance": "終極的／宇宙性的",
+      "rationale": "作為一種基督宗教哲學理論，它蘊含著持久的、實體性的人作為神學實在的一部分，具有宇宙性的意義、目的與價值。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "透過複製大腦模式實現虛擬永生是不可能的，因為被上傳的資訊將缺乏為原初第一人稱自我提供根據所需的非物理、實體性的靈魂。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Swinburne’s Substance Dualism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Stump’s Thomistic Dualism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "批判"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Substance of Consciousness: A Comprehensive Defense of Contemporary Substance Dualism, Brandon Rickabaugh and J.P. Moreland",
+        "year": 2023
+      },
+      {
+        "title_with_names": "In Defense of a Thomistic-like Dualism, J.P. Moreland",
+        "year": 2018
+      }
+    ]
+  }
+}

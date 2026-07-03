@@ -1,0 +1,103 @@
+{
+  "id_and_class": {
+    "theory_title": "临界脑假说",
+    "summary": "临界脑假说主张，神经网络在接近相变临界点运作时表现最佳，在有序活动与随机活动之间取得平衡。这种临界状态最大化了大脑生成复杂、信息丰富的模式的能力，从而优化了计算、传输与存储。",
+    "associated_thinkers": [
+      "John Beggs",
+      "Per Bak"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "计算与信息",
+    "core_identity_tagline": "意识即最优的神经网络临界性",
+    "classification_tags": [
+      "neural networks",
+      "criticality",
+      "information processing",
+      "phase transition",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被等同于、或根本上依赖于神经网络的最优组织状态（临界性），该状态最大化了其进行复杂信息加工的能力。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "同一/相关（意识与大脑的临界动力学状态之间）。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "当大脑在临界状态运作时所具备的最大化复杂性与信息容量使主体性与意向性成为可能。该理论关注更高级认知的功能性前提条件。",
+    "qualia_account": "未予明确处理。感受质很可能被视为在临界点生成的、最大程度复杂且信息丰富的模式的一种结果或方面，这与其唯物主义和计算主义的基础原则一致。",
+    "ontological_commitments": "神经网络、连接强度、信息模式，以及支配相变的物理定律（统计力学）。",
+    "epistemic_access": "可通过经验研究获得，具体而言是通过数学建模、物理学（统计力学），以及测量大脑中神经元放电模式与网络动力学的实验。",
+    "constituents_and_structure": "以特定连接强度为特征的神经网络，动态地形成'雪崩'，或形成许多中等规模、稳定的神经元集群。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（隐含）、计算、信息存储/传输、网络组织。",
+    "distinctive_mechanism_or_principle": "在相变临界点的最优运作，它最大化复杂性并平衡连接强度（既不过弱，也不过强），通过自组织临界性实现。",
+    "dynamics_of_emergence": "意识是一个动态过程，其特征在于大脑持续在临界点附近摇摆或振荡，管理介于不活跃/随机状态与过度活跃/癫痫状态之间的相变。",
+    "location_and_distribution": "位于神经网络中，尤其在皮层中被观察到。",
+    "causation_and_functional_role": "同时优化多项信息加工任务，包括通过使最多数量的稳定神经元集群得以形成来最大化信息存储。",
+    "integration_or_binding": "通过网络在临界状态下的平衡复杂性实现，使众多中等规模的神经元群得以耦合而不合并为单一的巨型集群。",
+    "information_flow_or_representation": "临界状态增强了信息的传输能力，并产生最大程度复杂且信息丰富的活动模式。",
+    "evolutionary_account": "隐含之意：意识/最优网络组织之所以演化出现，是因为最大化信息加工能力与复杂性所带来的巨大适应优势，这对生存至关重要。",
+    "core_claims_and_evidence": [
+      "神经网络在接近临界点运作时，信息加工与复杂性达到最大化。",
+      "临界状态平衡了有序活动与随机活动，避免了过度的抑制或放大。",
+      "对遵循幂律的神经元'雪崩'的实验观察，支持了脑组织中存在自组织临界性的观点。",
+      "扰动（如睡眠剥夺）会使大脑偏离临界点（变为超临界）。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验性、计算性、数学性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验。已在离体网络与完整大脑上开展实验，据称支持了该理论的许多预测。",
+    "known_empirical_interventions_or_tests": [
+      "测量神经网络中的神经元'雪崩'与幂律。",
+      "观察由环境或生理变化（如睡眠剥夺）引起的动力学偏移（如超临界性）。"
+    ],
+    "criticisms_and_tensions": "批评者质疑临界性如何在动态的生物环境中得以维持或'精细调节'，并质疑如何严格区分神经元之间真正的集体临界性与随机噪声。",
+    "open_questions_and_limitations": "尚未解决的问题包括：大脑借以自我精细调节以维持临界性的机制，以及严格区分源于集体相互作用的真正临界性与源于噪声的表观临界性。",
+    "ontological_coherence": "与唯物主义和计算主义本体论高度一致，为将物理动力学与认知优化相联系提供了一个数学上严谨的框架。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "如果意识源于在网络中达成这种最优计算状态（临界性），且该过程由计算规则与组织在数学上加以定义，那么它应可在能够实现类似动力学的人工系统中被复现。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作为归类于唯物主义之下的理论，意识本质上依赖于生物神经网络的特定物理组织与动力学；其存续需要维持这一物理结构。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义",
+      "rationale": "意识被理解为一种功能上最优的、涌现的生物现象（最大化信息加工能力），这表明其目的纯粹是适应性的，不含宇宙性的或终极的目的论。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意识由网络的临界信息加工动力学与结构所定义，那么将这些模式复制（上传其功能结构）到一个能够维持临界性的合适的非生物媒介中，应能实现虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Entropic Brain Hypothesis",
+        "relationship": "兼容/重叠"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "范畴/延伸"
+      },
+      {
+        "name": "Complex Adaptive Systems Models",
+        "relationship": "重叠/范畴"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "When does the brain operate at peak performance?, John Beggs",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Brains may teeter near their tipping point, Jennifer Ouellette",
+        "year": 2018
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "范因瓦根的基督教唯物主义与死者复活",
+    "summary": "该理论提出一种基督教唯物主义形式，认为人这一存在者完全是物质实体，从而在哲学与圣经两方面的理由上拒斥实体二元论。它主张跨越死亡的人格同一性之所以得以维持，是因为上帝在最终复活之前一直保存着原初物质身体中一个在物理上、因果上连续的“赤裸内核”。",
+    "associated_thinkers": ["Peter van Inwagen"],
+    "category": "非还原物理主义",
+    "subcategory": "基督教唯物主义",
+    "core_identity_tagline": "唯物主义与圣经复活相调和",
+    "classification_tags": [
+      "christian philosophy",
+      "materialism",
+      "personal identity",
+      "theology",
+      "resurrection"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "有意识的人是一种物质之物，必须维持物质与因果的连续性才能保有人格同一性。",
+    "ontological_status": "基督教唯物主义（一种独特的物理主义立场，将神圣行动纳入同一性的连续性之中）。",
+    "mind_body_relationship": "同一论：人（包括心灵）等同于一种物质之物，尽管长期存续的确切机制依赖于神圣的保存。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "该理论关注的是本体论的连续性（上帝对物质实体的保存），而非具体的神经涌现机制，但它预设了一种关于生前意识的物理主义／唯物主义说明。",
+    "subjectivity_and_intentionality": "主体性与意向性是物质之人／大脑的属性，与标准的唯物主义立场相一致，因为该理论主要关注死后的连续性而非生前的意识功能。",
+    "qualia_account": "该理论主要关切本体论的连续性，但隐含地假定质性经验是物质有机体一种完全物理的现象，这与其底层的唯物主义基础相一致。",
+    "ontological_commitments": "物质之人／身体、原子，以及上帝的能力（用以确保物质与因果的连续性）。它拒斥诸如灵魂之类的非物理实体。",
+    "epistemic_access": "可经由哲学推理与神学释经而通达，尤其聚焦于关于死亡与复活的圣经文本。",
+    "constituents_and_structure": "基本构成成分是物质身体，具体而言是死后维持同一性连续的那一部分，以“gumnos kókkos”（赤裸内核或裸露的谷粒）为象征。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "人格同一性、死后存续、神学融贯性。",
+    "distinctive_mechanism_or_principle": "上帝保存原初物质的一小部分（赤裸内核）以确保人在死亡与复活之间的物质与因果连续性的机制。",
+    "dynamics_of_emergence": "意识在生前从复杂的物质有机体中产生。它跨越死亡的持续并非连续的，而是通过上帝保留物质基质的一个要素而得到保障。",
+    "location_and_distribution": "生前定位于物质身体／大脑之中。同一性的连续性通过在死后保存一个“gumnos kókkos”而得以维持。",
+    "causation_and_functional_role": "人的意识与心理生活在物理领域内具有因果效力，因为它们是物质实体的属性。",
+    "integration_or_binding": "生前意识的融贯性被推定为经由物质身体内的神经过程实现，这与唯物主义框架相一致。",
+    "information_flow_or_representation": "有意识的处理基于物质大脑内的功能性表征与信息流。",
+    "evolutionary_account": "生前意识的涌现遵循生物学与演化过程，这与其唯物主义立场相符。",
+    "core_claims_and_evidence": [
+      "人这一存在者是物质之物，拒斥实体二元论。",
+      "传统二元论对新约复活文本的理解是牵强的，唯物主义的解读更为可取。",
+      "上帝必须保存人的某种物理性的“gumnos kókkos”，以确保复活所需的物质与因果连续性。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学论证、神学／圣经释经。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／概念性。关于复活的核心主张依赖于哲学／神学论证，无法由科学进行经验检验。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论难以解释全能者如何能重组一个其原子已流转并广泛散布的人（无数复本的难题）。此外，反对不朽灵魂的论证未能说服许多基督教二元论者。",
+    "open_questions_and_limitations": "鉴于身体原子的持续流转与散布，上帝究竟通过何种确切机制保存“gumnos kókkos”并确保人格同一性，仍是一个悬而未决的要求。",
+    "ontological_coherence": "在调和唯物主义与基督教教义方面是融贯的，但依赖于一种机制（神圣保存），这为确保物质连续性引入了一个超自然要素。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种唯物主义理论，意识归根结底是复杂物理排列的产物，这意味着只要达到所需的物理基质，人工智能原则上应当能够实现意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "是（以神圣干预为条件）",
+      "rationale": "该理论的首要目标是提供一种机制（上帝保存一个赤裸内核），使物质之人得以实现圣经中的复活与死后存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／神学性",
+      "rationale": "整个框架以对死者复活的神学承诺为根基，这意味着在神圣计划之内存在终极的意义与目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "既然人是物质之物，上传大脑的完整物理状态原则上应当能够导致有意识自我的功能性复制，从而实现虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "批评" },
+      { "name": "Papineau’s Mind-Brain Identity", "relationship": "重叠" },
+      {
+        "name": "Murphy’s Non-Reductive Physicalism",
+        "relationship": "相容"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "重叠" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism and Materialism: Athens and Jerusalem?",
+        "year": 1995
+      },
+      {
+        "title_with_names": "A materialist ontology of the human person",
+        "year": 2007
+      },
+      {
+        "title_with_names": "What is the nature of personal identity?",
+        "year": 2007
+      }
+    ]
+  }
+}

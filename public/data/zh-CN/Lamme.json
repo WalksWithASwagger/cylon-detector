@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Lamme 的复现加工理论",
+    "summary": "Lamme 的复现加工理论（RPT）主张，当神经区域之间——尤其是在感觉系统中——出现相互的（复现的）反馈连接时，意识便既是必要的又是充分的。这种加工在感觉区与感觉后区局部发生（第三阶段），无需全局广播式的通达即可产生现象经验。",
+    "associated_thinkers": ["Victor Lamme"],
+    "category": "唯物主义",
+    "subcategory": "表征性",
+    "core_identity_tagline": "‘意识作为感觉系统中的复现加工’",
+    "classification_tags": [
+      "neuroscience",
+      "visual system",
+      "recurrent connections",
+      "first-order theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被确认为一种特定的复现加工状态，成立于相关的神经回路（如视觉系统）之内。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "同一论／还原论进路，主张心灵的概念必须向大脑的概念靠拢，意识与物理回路中的一种复现加工状态是同一的。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性（现象意识）就是复现加工状态本身。意向性由这些回路内所表征的内容所承载（作为一种表征性／一阶理论而推断得出）。",
+    "qualia_account": "当某种特定的复现加工状态成立于相关视觉回路之时，感受质便产生，使该视觉状态成为有意识的。",
+    "ontological_commitments": "大脑的感觉系统、神经回路（视觉回路）、前馈与反馈连接。",
+    "epistemic_access": "可通过神经与行为测量来通达，Lamme 主张两者应被置于同等地位。",
+    "constituents_and_structure": "涉及前馈与反馈连接的大规模互连神经回路（复现回路）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性",
+    "distinctive_mechanism_or_principle": "感觉区与感觉后区（第三阶段）中的复现加工（反馈连接）被认为对意识是充分的。",
+    "dynamics_of_emergence": "动态过程。意识状态是由连接视觉区与其他脑区的反馈连接所产生的动态活动的结果。",
+    "location_and_distribution": "局部化于感觉区与感觉后区，具体而言是‘头部后方’的复现激活。",
+    "causation_and_functional_role": "意识就是那特定的复现加工状态本身。其底层目的被暗示为使对心灵的理解向大脑靠拢。",
+    "integration_or_binding": "整合在知觉区域的复现回路内局部地实现。",
+    "information_flow_or_representation": "信息涉及一次初始的前向扫掠（无意识的登记），随后是产生复现加工（意识）的反馈连接。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "意识需要涉及前馈与反馈连接（复现加工）的大规模互连感觉系统。",
+      "感觉区与感觉后区中的复现加工对现象意识是必要且充分的。",
+      "意识知觉被等同于头部后方的复现激活（一阶理论）。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验的、神经生物学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "批评全局工作空间理论（GWT）‘全然关乎通达而无关乎看见’。它自身则被 Ned Block 批评为‘全局工作空间说明的一种截断形式’。",
+    "open_questions_and_limitations": "只有在某些‘背景条件’（如与皮层下结构的完好连通性）具备时，复现激活才对意识是充分的。",
+    "ontological_coherence": "在唯物主义本体论内高度融贯，将意识完全奠基于特定的、已被指认的神经机制之上。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种唯物主义理论，若所需的复现加工模式能够在非生物基质中被人工复制，那么人工智能意识原则上必定是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识系于物理的大脑活动与特定的神经回路（复现加工状态），表明它在肉体死亡时终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义的",
+      "rationale": "该理论聚焦于对现象经验的纯粹物理主义、神经生物学解释，不支持任何终极的宇宙性意义或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意识就是复现加工状态本身，那么将该过程完美复制到新的媒介（上传）之上，便会产生第一人称自我，从而实现虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "批评"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a true neural stance on consciousness, Victor Lamme",
+        "year": 2006
+      },
+      {
+        "title_with_names": "How neuroscience will change our view on consciousness, Victor Lamme",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Wu, 2018 (Discussing Lamme's RPT)",
+        "year": 2018
+      }
+    ]
+  }
+}

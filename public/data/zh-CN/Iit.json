@@ -1,0 +1,116 @@
+{
+  "id_and_class": {
+    "theory_title": "整合信息论（IIT）",
+    "summary": "IIT 是一个独创而激进的模型，它为意识经验提出了一个定义，并规定了哪些物理系统能够拥有意识，其出发点是意识的现象学（公理）。它把这些公理转译为基于内在因果力的物理公设，并配有一个数学度量 &Phi;(Phi) 来量化一个系统的信息整合能力，该能力与意识的程度相关联。",
+    "associated_thinkers": [
+      "Giulio Tononi",
+      "Christof Koch"
+    ],
+    "category": "整合信息论",
+    "subcategory": "",
+    "core_identity_tagline": "一段经验等同于一个在内在意义上最大不可还原的概念结构。",
+    "classification_tags": [
+      "phenomenology",
+      "information",
+      "integration",
+      "qualia",
+      "irreducibility"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一个 &Phi;-结构，即存在于‘感受质空间’中的最大不可还原的概念结构。一段经验等同于这个概念结构，意即其现象属性精确对应于从意识的物理基质（PSC）展开出来的因果结构的物理属性。",
+    "ontological_status": "IIT 的根本本体论是现象存在的本体论优先性，它建立在一种内在之力的观点之上，据此在物理意义上真正存在的是能够施加因与果的内在实体。科赫指出，该理论坚持意识必须在最底层被纳入对实在的基本描述之中。",
+    "mind_body_relationship": "IIT 主张一种解释性同一：一段经验等同于一个 &Phi;-结构。它主张有意识的实体是那个施展其因果力的 &Phi;-结构，而非神经基质本身。这一框架不为涌现或二元论留有余地。",
+    "primitive_or_emergent_status": "意识由内在存在所界定，被刻画为属于对实在的基本描述。该理论拒斥涌现。",
+    "emergence_type": "该理论拒斥涌现。",
+    "subjectivity_and_intentionality": "主体性由内在存在公理来处理：意识依其自身固有的本性与固有的视角而存在。经验的内容，包括思想与意向，对应于 &Phi;-结构内部的诸子结构（&Phi;-褶）。",
+    "qualia_account": "各别的意识经验是‘感受质空间’中的概念结构。那种质的感受（现象属性）与最大不可还原的因果结构（也被称为一个 quale）的物理属性一一对应。",
+    "ontological_commitments": "拥有内在因果力的内在实体；概念结构（&Phi;-结构）；感受质空间。",
+    "epistemic_access": "IIT 始于意识的现象学——从直接的、不可怀疑的经验中导出的公理——并朝着数学表达推进。",
+    "constituents_and_structure": "意识被构想为一个结构，由五条现象学公理（内在存在、组成、信息、整合与排除）所界定，这些公理约束着物理机制必须如何被构型。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "IIT 处理经验的本性、意识的同一性与内容，以及在昏迷等状态和 AI 意识可能性上的应用。它还为真正自由意志的存在提出了一种说明。",
+    "distinctive_mechanism_or_principle": "核心原理是整合信息（&Phi;(Phi)），它量化系统的不可还原性。排除公设确保只有最大不可还原的因果结构（&Phi;-结构）在内在意义上存在，从而界定意识的边界与粒度。",
+    "dynamics_of_emergence": "意识被界定为一个静态结构，而非动态的流动、过程或计算。",
+    "location_and_distribution": "意识并不限于生物大脑。IIT 预测意识结构位于后部皮层（枕叶、顶叶与颞叶皮层）。拥有最大不可还原内在因果力的系统就拥有意识。",
+    "causation_and_functional_role": "意识被认定为展开的内在因果力，即施加变化的能力。只有这个内在实体（&Phi;-结构）能够为因，这支持了对高 &Phi;(Phi) 系统而言存在真正自由意志的主张。",
+    "integration_or_binding": "意识在公理层面是统一的（整合）。系统所界定的因果结构必须是统一且内在不可还原的。现象经验（&Phi;-结构）作为一个统一整体而存在，不可还原为彼此不相互依赖的部分。",
+    "information_flow_or_representation": "信息处于核心地位，其界定不是通过经典的输入／输出，而是作为由一个不可还原为其部分的整体所界定的信息（整合信息）。科赫指出，大脑与数字计算机之间的关键差异在于硬件的整合信息能力。",
+    "evolutionary_account": "科赫声称 IIT 处理了意识为何能够是适应性的这一问题。",
+    "core_claims_and_evidence": [
+      "意识由整合信息（&Phi;(Phi)）加以量化；数字计算机的 &Phi;(Phi) 可忽略不计。",
+      "一段经验等同于一个最大不可还原的内在概念结构（&Phi;-结构）。",
+      "真正的自由意志是一个推论，植根于有意识实体的内在之力。",
+      "初步的脑扫描数据对神经网络（例如麻醉期间）计算 &Phi;(Phi)，似乎与意识状态相关联。"
+    ],
+    "basis_of_belief_or_evidence_type": "现象学的、数学的、科学的／经验的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "IIT 声称具有科学可检验性，采用定量测量。然而，批评者认为该理论并未真正得到经验检验，其核心预测可能带有特异性。",
+    "known_empirical_interventions_or_tests": [
+      "计算特定神经网络（例如视觉皮层）的 &Phi;(Phi)。",
+      "监测受试者进入麻醉状态时的脑活动。",
+      "检验关于后部皮层持续活动之预测的对抗性合作实验。"
+    ],
+    "criticisms_and_tensions": "该理论因反常识的预测（把意识赋予简单物体）而遭受批评。一封公开信将 IIT 定性为‘伪科学’。批评者质疑相关实验只检验了特异性的预测，而非其核心的形而上学观念。查尔默斯指出‘伪科学’这一标签是不成比例的，并造成了巨大的附带损害。",
+    "open_questions_and_limitations": "整合信息对意识而言是否充分，是一个关键的争论点。‘感受质空间中的概念结构’这一核心本体论高度思辨，且归类不清。支持 IIT 的经验神经科学仍处于初步阶段。",
+    "ontological_coherence": "IIT 在其自身框架（内在之力本体论）内高度融贯。然而，其激进的独特性使其在更广阔的思想图景中难以归类，尽管其支持者拒斥二元论，并使其与泛心论保持距离。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否（强条件性）",
+      "rationale": "作为支持者的科赫主张意识不可计算。数字计算机由于硬件结构而具有可忽略不计的整合信息（&Phi;(Phi)），意味着无论其智能如何，它们都永远不会有感受能力。"
+    },
+    "survival_beyond_death": {
+      "stance": "不确定",
+      "rationale": "如果现象意识需要一种全然崭新的结构（如 IIT 的诸公设），那么这些‘难以捉摸之物’的可能持久性便不能被否定，从而为存续留有余地，尽管 IIT 并未明确主张死后有生命。"
+    },
+    "meaning_and_purpose": {
+      "stance": "暂缓判断",
+      "rationale": "尽管对意识的测量与分析并不传达终极意义，但那些不可计数的第 n 维概念结构（意识知觉）的思辨性质与新颖性，使人有理由对终极意义／目的／价值暂缓判断。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "如果意识是一种与真实因果力相绑定的根本属性，那么数字模拟（上传）只会造出一个‘完美的僵尸’——一个行为像原型、却缺乏主观意识的实体——因为模拟是虚拟的，缺乏所需的真实因果力。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "批评（IIT 与 GWT 的功能主义进路存在根本分歧，其支持者也批评了以 GWT 对阵 IIT 的对抗性合作。）"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "共享直觉／保持距离（IIT 共享意识是根本且分级的这一直觉，但声称能够规定哪些系统有意识，从而部分解决了泛心论的一大缺陷——组合问题。）"
+      },
+      {
+        "name": "Max Tegmark’s State of Matter",
+        "relationship": "拓展（泰格马克的进路把 IIT 推广到基于神经网络的意识以及任意量子系统。）"
+      },
+      {
+        "name": "Qualia Research Institute’s State-Space",
+        "relationship": "相容／影响（QRI 借用了 IIT 的数学同构概念，并与之最为相容。）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Oizumi, Albantakis, Tononi",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Consciousness: here, there and everywhere?, Tononi and Koch",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Only what exists can cause: an intrinsic powers view of free will, Tononi et al.",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Then I Am Myself the World: What Consciousness Is and How to Expand It, Koch",
+        "year": 2024
+      }
+    ]
+  }
+}

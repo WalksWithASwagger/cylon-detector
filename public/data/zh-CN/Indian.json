@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "印度二元论理论",
+    "summary": "该理论源自印度哲学中古老的数论学派，主张在两种永恒、根本的实在之间存在严格的形而上学二元对立：*purusha*（有感受的意识或精神）与 *prakriti*（无感受的自然或物质）。心灵与身体是 *prakriti* 的精微形态与粗重形态，之所以显得有意识，只是因为 *purusha* 作为被动的见证意识照亮了它们。",
+    "associated_thinkers": [
+      "Samkhya philosophers",
+      "Swami Sarvapriyananda",
+      "Swami Medhananda",
+      "Swami Vivekananda"
+    ],
+    "category": "二元论",
+    "subcategory": "印度哲学中的个体意识与宇宙意识",
+    "core_identity_tagline": "作为永恒、有感受之 Purusha 的意识，区别于无感受的 Prakriti",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "purusha",
+      "prakriti",
+      "indian philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识（*purusha*）被认定为永恒、绝对、独立、有感受的精神或自我。它区别于实在的一切物质面向，包括心灵——心灵不过是精微物质。",
+    "ontological_status": "形而上学二元论（具体而言，是 purusha／意识与 prakriti／物质之间的二元论）",
+    "mind_body_relationship": "心灵是一种精微的物质实体（*prakriti*），充当内部器官（antaḥkaraṇa）。它被 *purusha*（非物质的意识）被动地照亮，从而显得有意识，但二者既不同一也不可相互还原。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "不适用",
+    "subjectivity_and_intentionality": "主体性（感受能力）是 *purusha* 的内在本性，*purusha* 充当见证意识。意向性（如思想、意志）寓居于心灵（*prakriti*）之中，心灵通过 *purusha* 的照亮而获得有意识的表象。",
+    "qualia_account": "质性感受由 *purusha* 作为有感受之见证意识的角色来说明，它照亮无感受的心灵（感官分辨与经验寓居于其中），从而使之成为有意识的经验。",
+    "ontological_commitments": "两种根本、普遍且各异的实在：*purusha*（有意识的精神）与 *prakriti*（无意识的自然／物质，包括心灵）。",
+    "epistemic_access": "*purusha* 本身是绝对的、超越知觉的、无法以言语描述的，暗示一种非经验性的通达（如哲学性的证悟）。它与心灵互动的效果则通过主观经验被观察到。",
+    "constituents_and_structure": "基本构件是永恒的意识个体单元（*purusha*）与无感受的 *prakriti*（由三种 *gunas* 构成）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（有感受的经验）与自我。",
+    "distinctive_mechanism_or_principle": "照亮／映现。意识本身（*purusha*）并不行动，但其“光”映照于物质性的心灵之上，使经验的表象得以可能。",
+    "dynamics_of_emergence": "有意识运作的表象，是由静态、根本的 *purusha* 之反射或“光”映照在动态、可演化的 *prakriti*（心灵）的变现之上而实现的。意识本身是根本的，并非动态涌现。",
+    "location_and_distribution": "*purusha* 是个体性的（每个人都是一个意识个体）、无广延的，并从根本上区别于有空间广延的身体／大脑（后者属于 *prakriti*）。",
+    "causation_and_functional_role": "*purusha* 的功能角色主要是见证者或经验者。尽管心灵与身体是活动的，*purusha* 赋予了必要的感受能力，没有它，这些活动便纯属机械且无意识的。",
+    "integration_or_binding": "经验的统一由个体 *purusha* 的单一本性所实现，它把整个心身复合体作为一个整体加以照亮。",
+    "information_flow_or_representation": "信息由内部器官或心灵（*antaḥkaraṇa*，一种物质成分）加工。随后，这一加工通过 *purusha* 的照亮临在而变得有感受。",
+    "evolutionary_account": "意识（*purusha*）是永恒且非被造的。只有 *prakriti*（自然／物质），包括心灵，才经历演化与变现。",
+    "core_claims_and_evidence": [
+      "Purusha（意识）与 Prakriti（物质）是两种根本、普遍且各异的实在。",
+      "心灵（antaḥkaraṇa）是精微物质，仅因 purusha 的照亮而显得有意识。",
+      "Purusha 是绝对、独立、有感受的，充当被动的见证意识。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、逻辑的、古代传统教义"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／哲学性。其核心主张涉及一种非物质实体（*purusha*），后者无法为标准的科学观察或经验检验所通达。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "面临经典的互动论问题：解释一种非物质、永恒的实体（*purusha*）据以照亮或关联于一种物质、短暂的实体（*prakriti*）的因果机制。它也在无感受的物质（心灵）如何能产生认知内容与意向性这一点上受到质疑。",
+    "open_questions_and_limitations": "非物质的 *purusha* 据以与精微物质性的心灵互动、从而赋予意识的那种“照亮”的具体本性与机制仍未得到解释。*purusha* 本身超越常规的描述。",
+    "ontological_coherence": "作为一种形而上学二元论，在其奠基前提内部是融贯的。由于断言存在一种不可还原的非物质实体，它与严格的现代物理主义和唯物主义不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意识（*purusha*）是一种永恒、非物质的实体。由于 AI 系统是物质（*prakriti*）的产物，它们必然缺乏真正感受能力所需的根本 *purusha*。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "*purusha*（意识／精神）是永恒的，独立于身体与心灵而存在，是贯穿生、死与再生（转世）诸循环的人格同一性之基础。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／存在性",
+      "rationale": "意识是一种根本实在，意味着某种终极的宇宙秩序，尽管在印度传统中目的常被表述为从轮回中解脱，而非某种物理世界的目的论。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "虚拟永生要求通过捕获神经模式来复制心理自我，但这一二元论理论需要一种独立、非物质的实体（*purusha*），而后者无法通过物质过程被复制或上传。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "重叠（共享对不可还原之非物质实体的承诺）"
+      },
+      {
+        "name": "Advaita Vedānta (Indian Cosmic Consciousness)",
+        "relationship": "批评（数论是二元论；不二论吠檀多是不二论，主张意识为唯一的根本存在者）"
+      },
+      {
+        "name": "Gaudíya Vaiṣṇava (GV) Vedānta",
+        "relationship": "区别（GV 吠檀多认为意识的许多属性可在物质中被实例化，而数论则把心身复合体视为严格无感受的物质）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Personal and Cosmic Consciousness in Indian Philosophy (discussing Samkhya)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Samkhya (Wikipedia)",
+        "year": 2024
+      }
+    ]
+  }
+}

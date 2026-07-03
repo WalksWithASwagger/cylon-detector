@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Moreland 的基督教灵魂论",
+    "summary": "这一理论捍卫一般的实体二元论，主张意识寓于一个实体性的、完全非物质的灵魂之中，后者有别于物理身体。灵魂充当有意识属性的统一、持久的承载者，为人格同一性提供根据，并赋予身体的物理结构以生命。",
+    "associated_thinkers": ["J.P. Moreland"],
+    "category": "二元论",
+    "subcategory": "基督教灵魂",
+    "core_identity_tagline": "作为完全非物质之灵魂的意识",
+    "classification_tags": [
+      "substance",
+      "immaterial",
+      "soul",
+      "personal identity",
+      "theistic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一组状态、感受与觉知，根植于完全非物质的、实体性的灵魂（自我、自我意识主体、我）之中。",
+    "ontological_status": "实体二元论",
+    "mind_body_relationship": "灵魂是一个实体性的、统一的实在，它赋予身体以形式、使之活动并使之成为人。身体是一个有灵魂的、在空间上有广延的物理结构，但灵魂是它成为一个正常运作的人所必需的。",
+    "primitive_or_emergent_status": "原初的／根本的",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "主体性、自我觉知与意向性根植于灵魂之中，后者是有意识属性的非物理的、根本的承载者，不可分且持久。",
+    "qualia_account": "感受质是非物质灵魂的属性，唯有它能说明有意识经验那种单一、统一的觉知，而关于聚合大脑的唯物主义理论无法解释这一点。",
+    "ontological_commitments": "非物质的灵魂（实体性的、统一的、本质上非空间的）与物理身体／大脑（物质实体）。",
+    "epistemic_access": "主要通过关于人格同一性与必然性的哲学论证来通达，并得到人类内省与常见哲学直觉的支持。",
+    "constituents_and_structure": "基本构件是实体性的灵魂，被界定为人格同一性所必需的、非物质的根据。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、自我觉知、意识的统一、意向性、人格同一性",
+    "distinctive_mechanism_or_principle": "灵魂固有的统一性（作为非聚合物）独一无二地使意识的根本统一（例如对视野的单一觉知）成为可能，而这是唯物主义无法说明的。",
+    "dynamics_of_emergence": "意识对灵魂而言是根本的；灵魂本身是一个终极的、非物质的实在，有别于物质。",
+    "location_and_distribution": "意识寓于非物质的灵魂之中，后者在生命期间赋予其物理身体以形式并完全在场于其中。",
+    "causation_and_functional_role": "灵魂对物理身体拥有因果力（从对唯物主义论证的辩护中可推出交互二元论），并为人的长期持存（贯时持续）提供根据。",
+    "integration_or_binding": "整合由灵魂根本的、非聚合的统一性所解决，后者本然地将有意识经验绑定为单一的主观觉知。",
+    "information_flow_or_representation": "有意识状态是非物质灵魂的属性，无法被完全还原为大脑中的物理过程或信息流、或由其加以解释。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "自我是一个完全非物质的实体，不可还原为物理身体。",
+      "灵魂为意识不可分的统一（例如单一的视觉觉知）提供根据，而聚合的大脑结构无法解释这一点。",
+      "实体二元论为持久的人格同一性与自由意志论式的自由提供了必需的本体论根据。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、现象学的、神学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／哲学的",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论面临经典的交互问题（非物质的灵魂与物质的身体如何相互因果影响），以及关于缺乏非物理实体之科学证据的批评。",
+    "open_questions_and_limitations": "心身因果的确切机制仍未得到解释，这是一切形式的交互二元论的主要挑战。",
+    "ontological_coherence": "在其所规定的一般实体二元论框架内融贯，并与亚伯拉罕诸教的信仰体系相一致，但与物理主义关于物理因果封闭的主张不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意识需要实体性的、完全非物质的灵魂，而它无法由人工的、物理的系统或计算所创造或例示。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "非物质的灵魂（“真正的我”）与身体非同一，并在生物学死亡之后持续存在，为死后存续提供了直接的机制。"
+    },
+    "meaning_and_purpose": {
+      "stance": "终极的／宇宙性的",
+      "rationale": "作为一种基督教哲学理论，它蕴含着持久的、实体性的人作为神学实在的一部分，具有宇宙性的意义、目的与价值。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "通过复制大脑模式实现虚拟永生是不可能的，因为被上传的信息将缺乏为原初第一人称自我提供根据所需的非物理、实体性的灵魂。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Swinburne’s Substance Dualism",
+        "relationship": "兼容"
+      },
+      {
+        "name": "Stump’s Thomistic Dualism",
+        "relationship": "兼容"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "批判"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Substance of Consciousness: A Comprehensive Defense of Contemporary Substance Dualism, Brandon Rickabaugh and J.P. Moreland",
+        "year": 2023
+      },
+      {
+        "title_with_names": "In Defense of a Thomistic-like Dualism, J.P. Moreland",
+        "year": 2018
+      }
+    ]
+  }
+}

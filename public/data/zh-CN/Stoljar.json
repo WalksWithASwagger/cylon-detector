@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Stoljar 的认识论观点与非标准物理主义",
+    "summary": "该理论通过引入无知假说来为物理主义抵御反唯物主义论证，该假说主张我们对某一类与意识相关的物理事实或属性深感无知。它认为意识与物理主义之间所谓的相容性问题，源于我们当前的认识论局限，而非物理主义本身的本体论缺陷。",
+    "associated_thinkers": ["Daniel Stoljar"],
+    "category": "唯物主义",
+    "subcategory": "哲学",
+    "core_identity_tagline": "借由认识论上的无知而得到辩护的物理主义",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ignorance hypothesis",
+      "compatibility problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识是一种物理现象，由一类我们目前尚不知晓的物理事实或属性所构成。有意识状态依赖于其他事物，并非基本的。",
+    "ontological_status": "非标准物理主义",
+    "mind_body_relationship": "意识等同于物理属性（个例同一）或由其所必然导出，但由于认识论上的无知，这一物理属性的具体本质尚不为人知。这一关系将物理主义辩护为一条经验真理。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "认识论涌现。作此判断是因为：该理论虽为物理主义辩护（提示弱涌现或原则上的同一），但其界定性特征在于相关物理事实目前无法以标准方法知晓，从而维持一道基于无知的解释鸿沟。",
+    "subjectivity_and_intentionality": "主体性与意向性最终由与意识相关的未知物理属性所实现，这与该理论所辩护的整体物理主义本体论相一致。其具体的实现机制目前尚不为人知。",
+    "qualia_account": "质性感受（感受质）对应于特定的、未知的物理事实或属性。基于感受质的反物理主义论证（如可设想性论证）之所以失败，是因为它们错误地预设了对这些底层物理事实的完整知识。",
+    "ontological_commitments": "物理属性，尤其是一类与意识相关、其本质目前深受无知所困的物理事实或属性。同时也承诺意识的存在以及物理主义的整体结构。",
+    "epistemic_access": "通达目前深受‘无知假说’所限，意味着我们无法用当前的科学方法充分知晓与意识相关的物理事实。不过，一门确立经验定律的有限的‘意识科学’是可能的。",
+    "constituents_and_structure": "有意识状态是被物理世界所实现、但并非物理世界基本属性的依赖性结构；其实现取决于目前未知的物理事实。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（尤其针对反对其与物理主义相容的论证）。",
+    "distinctive_mechanism_or_principle": "无知假说：即我们对于充分解释意识所需的那一类物理事实／属性是无知的，从而瓦解那些假定物理知识完整的反物理主义论证。",
+    "dynamics_of_emergence": "意识作为物理系统的一种依赖性属性而产生。其对未知物理事实之依赖的实际动态过程仍有待发现。",
+    "location_and_distribution": "大脑与身体，由我们所无知的特定物理事实所实现，这与物理主义相一致。",
+    "causation_and_functional_role": "该理论关注的是形而上学上的相容性，而非功能角色。有意识状态并非基本的，而是‘依赖于其他事物’。因果力被隐含地认为寓于被充分理解的物理领域之内（当无知被克服时）。",
+    "integration_or_binding": "未作说明。绑定问题被假定将由对当前未知、支撑意识的物理事实的最终发现与刻画来加以解决。",
+    "information_flow_or_representation": "未作说明。该理论关注的是对物理主义的形而上学辩护，而非具体的认知或信息机制。",
+    "evolutionary_account": "该理论与标准的物理主义演化解释相容，即意识作为复杂生物组织的演化产物而涌现，由未知的物理属性所实现。",
+    "core_claims_and_evidence": [
+      "反对物理主义的可设想性论证与知识论证不具说服力，因为它们错误地预设了对与意识相关物理事实的完整知识。",
+      "有意识状态并非基本的，而是依赖于其他（物理）事物。",
+      "物理主义是一条经验真理，而非先验论证，并且目前可通过无知假说加以辩护。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学（概念分析与辩护）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "受经验约束。Stoljar 相信一门确立经验定律的意识科学是可能的，尽管他怀疑能否构建出一套完整的系统性理论。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论依赖于对关键物理事实深感无知这一假设，批评者可能将其视为推迟解释。它在批评‘标准物理主义’的同时，自身也保持着非传统的立场。",
+    "open_questions_and_limitations": "与意识相关的物理事实或属性的确切身份与本质仍不为人知。Stoljar 也认为，获得关于支配意识之定律的系统性知识是不太可能的。",
+    "ontological_coherence": "高度融贯，因为它提供了一个自足的哲学框架，旨在使物理主义抵御不相容性论证，将负担（暂时）从本体论解释转移到认识论局限。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种对物理主义的辩护，该理论断言意识是物理的。因此，原则上，任何实现了必要物理事实（甚至包括目前未知的那些）的人工系统都应能变得有意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识依赖于物理事实与过程，并非基本的。在物理基质（大脑）被毁灭之后，意识便不复存在，这与物理主义相一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本意义",
+      "rationale": "与其奠基性的物理主义承诺相一致，该理论不为终极的宇宙意义或目的提供依据；意义是由有意识的能动者所建构的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意识完全是物理的，那么只要复杂的物理基质（包括无知假说所指认的未知属性）能在非生物介质中被复制，第一人称心理自我便有可能被上传。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Conceivability Argument",
+        "relationship": "批评／回应"
+      },
+      {
+        "name": "Knowledge Argument",
+        "relationship": "批评／回应"
+      },
+      {
+        "name": "Standard Physicalism",
+        "relationship": "批评"
+      },
+      {
+        "name": "Kind’s Dualism 2.0",
+        "relationship": "论辩对手／共同项目"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Physicalism, D. Stoljar",
+        "year": 2010
+      }
+    ]
+  }
+}

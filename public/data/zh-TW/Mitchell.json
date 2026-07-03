@@ -1,0 +1,93 @@
+{
+  "id_and_class": {
+    "theory_title": "米切爾的自由能動者",
+    "summary": "此理論主張，自由意志（即能動性）是一種真實的現象，它完全從大腦純粹的物理運作中湧現。它強調神經系統藉以發展出學習、建模、預測與模擬能力的演化路徑，使生物得以做出真正的抉擇。",
+    "associated_thinkers": ["Kevin Mitchell"],
+    "category": "唯物論",
+    "subcategory": "神經生物學",
+    "core_identity_tagline": "源自純粹物理性大腦運作的自由能動者",
+    "classification_tags": [
+      "neuroscience",
+      "agency",
+      "free will",
+      "evolutionary",
+      "physicalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識與行為被認定為完全源自大腦物理運作與神經活動模式的湧現產物。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一／湧現論式。思想被物理性地實現於神經活動模式之中，這意味著「幽靈」就是運作中的機器本身。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性與「自我」感被解釋為運作中的物理機器的各個面向。意向性源自演化而來的官能，這些官能使有機體得以建模、預測並模擬世界，從而使目標導向的能動性成為可能。",
+    "qualia_account": "質性感受被隱含地解釋為複雜物理性大腦運作與特定神經活動模式的產物。除了陳述其以物理方式湧現之外，來源材料並未明確詳述現象性感質的本質。",
+    "ontological_commitments": "物理性的大腦、神經系統、神經活動模式。",
+    "epistemic_access": "可透過對純粹物理性大腦機制的客觀第三人稱科學研究來通達。",
+    "constituents_and_structure": "高度複雜且經演化的神經系統之內的神經活動模式。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "能動性、自由意志、意識、自我覺知、規劃、內省。",
+    "distinctive_mechanism_or_principle": "神經系統的生物演化提供了學習、建模、預測與模擬的能力，最終達致真正的個體能動性與抉擇。",
+    "dynamics_of_emergence": "意識與能動性是動態過程，它們透過一條從無生命物質到複雜神經系統的特定演化軌跡而產生。",
+    "location_and_distribution": "定位於大腦的物理運作之中；被實現於神經活動模式之內。",
+    "causation_and_functional_role": "意識，特別是能動性（自由意志），具有因果效力。其功能在於使諸如推理與內省等高層次能力成為可能，而這些能力是有情存有者建模並形塑其未來所必需的。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "資訊處理使建模、預測與模擬結果的官能得以發展，並在人類想像與內省的能力上達到頂峰。",
+    "evolutionary_account": "透過神經系統的湧現，從無生命物質演化而來，提供一種適應優勢，使抉擇以及生存所必需的更高認知功能成為可能。",
+    "core_claims_and_evidence": [
+      "個體能動性（自由意志）是真實的，並非幻覺。",
+      "意識與行為完全從大腦純粹的物理運作中湧現。",
+      "建模與模擬等官能經由神經系統的演化而發展出來。",
+      "思想被物理性地實現於神經活動模式之中。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、演化的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "受經驗約束（受神經生物學與演化資料約束）；能動性湧現的機制在概念上奠基於物理論。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "此理論受到硬決定論者與自由意志懷疑論者的爭議。它之所以重要，正是因為它在維持對物理論毫不妥協之承諾的同時，捍衛了「真實的」自由意志，從而將其與許多其他唯物論觀點區別開來。",
+    "open_questions_and_limitations": "純粹物理性的大腦過程究竟如何產生非幻覺性的能動性與主觀經驗，其確切機制仍有待充分闡明。",
+    "ontological_coherence": "在一種接受心靈與大腦過程同一的演化唯物論存有論之內高度融貫。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "意識與能動性完全是從複雜系統中湧現的物理現象。因此，只要技術足夠進步，人工系統便能實現必要的物理運作並達致意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全依賴於生物大腦之內純粹的物理運作與活動模式；「幽靈」就是運作中的機器本身，這意味著意識在大腦死亡時終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主義的／演化的",
+      "rationale": "能動性使個體得以有意識地形塑自己的未來並帶著目的行動，提供了內在的、被創造的意義，但其底層的宇宙秩序仍是唯物論式的（從無生命物質中湧現）。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "作為一種物理論理論，若神經活動的關鍵模式及其所支撐的湧現能動性能夠在非生物介質中被完美複製，則虛擬永生原則上是可以達成的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "相容"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Free Agents, K. J. Mitchell",
+        "year": 2023
+      }
+    ]
+  }
+}

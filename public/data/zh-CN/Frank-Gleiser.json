@@ -1,0 +1,81 @@
+{
+  "id_and_class": {
+    "theory_title": "弗兰克/格莱泽/汤普森的《盲点》",
+    "summary": "该框架通过主张意识与具身性的相互首要性来批判传统的唯物主义与二元论进路，论证所有科学研究都必然发生于「意识的视域」之内。它将「难问题」界定为「盲点」的产物——即在追寻客观真理时未能认识到经验作为不可还原之前提条件——并提出向神经现象学的根本性转向。",
+    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
+    "category": "唯物主义理论",
+    "subcategory": "具身与生成",
+    "core_identity_tagline": "意识即不可还原的前提条件与具身的怪圈",
+    "classification_tags": [
+      "embodiment",
+      "phenomenology",
+      "non-reductionism",
+      "strange loop",
+      "critique"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为科学知识的一个不可还原的前提条件，栖居于一个无可逃避的「视域」之内，并与具身性相互交织。",
+    "ontological_status": "非还原的物理主义／现象学实在论（推断的立场，因为该理论明确拒斥还原论与物理主义，却又倡导一种基于经验与具身性首要地位的、受科学充实的观点。源材料将其归类于唯物主义／具身与生成之下。）",
+    "mind_body_relationship": "这一关系被描述为一个「怪圈」，其中「意识的首要性」涵摄具身性，而「具身性的首要性」涵摄意识，从而需要一种整合的观点。",
+    "primitive_or_emergent_status": "原初的／根本的（意识被刻画为知识的「不可还原的前提条件」与「不可消除的首要性」，而非某种从物理物质中序贯产生之物，尽管它与具身性相互依赖。）",
+    "emergence_type": "不适用（该理论拒斥那需要传统弱涌现或强涌现论证的还原论、物理主义与客观主义框架。这一关系是「交织」的关系。）",
+    "subjectivity_and_intentionality": "主体性（第一人称经验）被赋予「首要性」并居于该理论的核心，拒斥那些力图在此视角之外来理解意识的进路（即盲点）。意向性经由诸如神经现象学等相关概念被隐含地整合进来。",
+    "qualia_account": "经验的定性本性（难问题）被斥为「盲点的产物」，意即它是内建于还原式形而上学之中的问题，无法以那些术语加以解决。",
+    "ontological_commitments": "意识的首要性、具身性的首要性，以及二者之间的怪圈关系。",
+    "epistemic_access": "意识经由承认「我们无可逃避地使用意识来研究意识」而被认识。通达经由神经现象学的方法论而获得，后者将第一人称（现象学）说明与第三人称（神经科学）说明交织在一起。",
+    "constituents_and_structure": "基本结构是意识与具身性相互涵摄的「怪圈」。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、第一人称主观经验，以及经验者与世界之间的必然关系（具身性）。",
+    "distinctive_mechanism_or_principle": "识别出「盲点」（人类在追寻客观真理时对经验的遗忘），并倡导转向神经现象学，以将经验的首要性纳入科学之中。",
+    "dynamics_of_emergence": "意识与具身性动态地「相互交织」，而非其一线性地产生另一者。",
+    "location_and_distribution": "其位置是「意识的视域」，它涵摄世界并与身体（具身性）密不可分地系于一体。",
+    "causation_and_functional_role": "意识充当着知识获取（包括科学知识）的必要语境（视域）与前提条件。其功能角色植根于心灵与生命过程之间不可分割的联系。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "通过应用神经现象学方法在概念上可检验，其目标是产生新的经验，作为同时推进现象学与神经科学的试金石。",
+    "known_empirical_interventions_or_tests": [
+      "神经现象学（将第一人称经验报告与第三人称大脑数据交织在一起）",
+      "第一人称经验方法（例如冥想）以精炼注意与觉知"
+    ],
+    "criticisms_and_tensions": "该理论与既有的唯物主义理论存在张力，因为它拒斥还原论、物理主义以及意识乃幻觉的观念，反而论证这类进路是「盲点的产物」。这一根本性的背离挑战着主流科学方法论的核心基础。",
+    "open_questions_and_limitations": "该理论提议通过揭示难问题的错误前提来消解它，而非在传统科学参数内解决它，这需要对意识科学进行一次重大的彻底改造。",
+    "ontological_coherence": "在其自身框架内高度融贯，因为它系统地将各竞争理论（神经相关物、二元论、幻觉论）识别为在概念上有缺陷的，原因在于它们共同秉持「盲点」的世界观。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不确定",
+      "rationale": "该理论将意识视为在一个「怪圈」内与具身的、第一人称经验内在相连。由于它们批判大多数人工智能进路所依据的计算功能主义，单纯的非生物计算能否达成这种不可还原的、具身的意识尚不清楚。"
+    },
+    "survival_beyond_death": {
+      "stance": "不确定",
+      "rationale": "该理论强调具身性的首要性，暗示意识系于有机体。然而，其非还原的立场——支持一种基于经验首要性的科学——并不排除存续的可能，尽管源材料并未明确表态。"
+    },
+    "meaning_and_purpose": {
+      "stance": "内在的／存在的",
+      "rationale": "该理论旨在重申「人类经验在科学事业中的核心地位」，意味着意义与价值从根本上存在于意识与经验之不可还原的实在之中。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能",
+      "rationale": "虚拟永生依赖于对心理状态的成功数字化与复制（计算功能主义）。由于该理论将意识视为一种不可还原的、具身的现象——一个「怪圈」——它强烈地意味着心灵上传将是不可能的，因为它拒斥其底层的还原论哲学。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Neurophenomenology", "relationship": "支持／扩展" },
+      { "name": "Embodied and Enactive Theories", "relationship": "一致" },
+      {
+        "name": "Reductionism/Physicalism",
+        "relationship": "批评／拒斥"
+      },
+      { "name": "Francisco Varela’s work", "relationship": "影响" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Blind Spot: Why Science Cannot Ignore Human Experience, A. Frank, M. Gleiser, E. Thompson",
+        "year": 2024
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id_and_class": {
+    "theory_title": "柏格森的多重性、綿延、知覺與記憶",
+    "summary": "此一非化約理論將意識視為一種動態的、綿延不息的時間性實在，以「綿延」與「多重性」為特徵，其本質上即是記憶。大腦並不生成意識，而是作為一個過濾器，將令人應接不暇的覺知加以限制，從而使人得以在世界中進行有焦點的行動。",
+    "associated_thinkers": ["Henri Bergson"],
+    "category": "異常與變異狀態",
+    "subcategory": "多重性、綿延、知覺、記憶",
+    "core_identity_tagline": "作為被過濾的記憶與純粹綿延的意識",
+    "classification_tags": [
+      "duration",
+      "memory",
+      "dualism",
+      "filter_theory",
+      "non-reductive"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為「作為整體的記憶」以及「一種綿延不息、內在具有時間性的實在實體」，表現為純粹知覺（影像）與純粹記憶之間的持續運動。",
+    "ontological_status": "坦率的二元論。柏格森肯定物質與精神二者的實在性，在實在論與觀念論之間設定了一個中間地帶（純粹知覺／影像）。",
+    "mind_body_relationship": "交互論／非化約的相關關係。二者的關係是密切的，但大腦的角色嚴格來說只是傳遞與過濾；它並不生成意識／精神。",
+    "primitive_or_emergent_status": "原初的／根本的。意識被視為一種既存的實體（「精神」），大腦對其加以過濾，而非某種從物理過程中湧現出來的東西。",
+    "emergence_type": "不適用。意識被視為一種既存的根本實體／動態實在（精神），而非物質的湧現屬性。",
+    "subjectivity_and_intentionality": "主體性根植於「綿延」，即構成意識直接材料的質性多重性。意向性透過意識借助記憶預期未來、並使「被稱為選擇的自由行動」成為可能的能力得以表達。",
+    "qualia_account": "質性感受（「像什麼的感覺」）由「多重性」與「綿延」這一意識的直接的、異質的、連續的材料來說明。物質本身被理解為「僅僅是影像」，從而將現象性實在直接與物質相聯繫。",
+    "ontological_commitments": "精神（或人的靈魂／心靈／意識）；物質（作為影像）；純粹知覺；純粹記憶；綿延（作為質性時間）。",
+    "epistemic_access": "內省（意識作為意識的直接材料）與哲學論證。",
+    "constituents_and_structure": "意識的結構以綿延與多重性為特徵，被組織為純粹知覺與純粹記憶之間的持續運動。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、記憶、能動性（選擇）、自我覺知（隱含地，因為意識即個人的記憶）。",
+    "distinctive_mechanism_or_principle": "大腦作為一個過濾器或屏障發揮作用，防止令人應接不暇、未經過濾的意識抵達個人覺知，從而使專注與實際行動成為可能。意識基於綿延（質性時間）運作。",
+    "dynamics_of_emergence": "意識是一種動態的、時間性的流動，透過選擇主動地製造未來，並透過記憶產生時間。它被定義為無相互外在性的相續。",
+    "location_and_distribution": "大腦（物質成分）是過濾機制以及感覺／運動傳遞的所在地。意識本身（「精神」）則是廣袤的、在外圍迴旋的，或者說是非局域的。",
+    "causation_and_functional_role": "意識使「被稱為選擇的自由行動」成為可能，從而製造未來並產生時間。大腦的功能是將知覺傳遞給意識，並將行動指令傳回身體。",
+    "integration_or_binding": "整合內在於意識之中——意識即「作為整體的記憶」，以及純粹知覺與純粹記憶之間的持續運動。",
+    "information_flow_or_representation": "資訊透過純粹知覺來處理，其中「我們所感知的一切都是影像」。大腦將這些影像從各感官器官傳遞給意識。",
+    "evolutionary_account": "大腦作為過濾器的功能是適應性的，它透過屏蔽個人覺知免受廣袤而令人麻木的意識的衝擊，使實際的、有焦點的世間行動成為可能。（由於意識被視為根本性的，因此並未提供從非生命起源的明確的系統發生說明。）",
+    "core_claims_and_evidence": [
+      "大腦是意識的過濾器而非其生成者，它防止令人應接不暇的意識。",
+      "意識本質上是記憶與綿延，作為無相互外在性的相續而運作。",
+      "物質在性質上與表象無異；物質僅僅是影像。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、現象學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／概念性。該理論根植於綿延與多重性之間的哲學區分，主要是非經驗性、非機制性的，與唯物論理論形成對照。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "柏格森認識到二元論的傳統理論困難。他的觀點是對唯物論理論的挑戰。此類過濾／傳遞模型的批評者難以將「非生成」主張與大量將意識內容同大腦活動相聯繫的神經科學數據相協調。",
+    "open_questions_and_limitations": "核心問題仍然是大腦／身體（物質）與心靈／精神（意識）如何互動，以及過濾機制究竟如何運作。",
+    "ontological_coherence": "高度融貫，建立在嚴謹的哲學分析之上，旨在透過把綿延設定為心靈的核心存有論屬性，來克服形上學平行論的概念死胡同。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意識被定義為與綿延相關聯的非計算性的精神／記憶，它本質上是非機制性的。建立在計算之上的人工系統不太可能捕捉到這一根本性的時間實體。",
+      "justification": "由核心概念嚴格的非唯物論、非機制性本質推斷而來。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能",
+      "rationale": "由於大腦是意識（精神／記憶）的過濾器而非生成者，這表明意識獨立於物理身體，並可能在身體死亡後繼續存在。",
+      "justification": "柏格森的理論「甚至可能允許某種形式的死後存續」。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙的／存在性的",
+      "rationale": "意識被定義為一種動態的、根本性的實體（「精神」），能夠進行「被稱為選擇的自由行動」，這意味著超越純粹人本主義或生物學約束的內在目的。",
+      "justification": "由其「坦率的二元論」本質及其與精神和選擇的關聯推斷而來。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "虛擬永生依賴於上傳計算狀態或物理狀態。由於意識是非化約的精神／記憶（純粹綿延），僅僅被物理大腦所過濾，複製神經狀態並不會複製出那個有意識的實體。",
+      "justification": "基於意識的非唯物論、非功能論定義推斷而來。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "William James's filter model", "relationship": "相容" },
+      { "name": "Substance Dualism", "relationship": "同一／重疊" },
+      { "name": "Process Theory", "relationship": "影響" },
+      { "name": "Neurophenomenology (Varela)", "relationship": "影響" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
+        "year": 1889
+      },
+      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Life and Consciousness (Mind-Energy)",
+        "year": 1920
+      }
+    ]
+  }
+}

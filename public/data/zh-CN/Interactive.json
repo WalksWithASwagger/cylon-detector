@@ -1,0 +1,103 @@
+{
+  "id_and_class": {
+    "theory_title": "交互二元论",
+    "summary": "这一理论主张，实在由两个不同的本体论范畴构成：一个物理的大脑与一个独立的、非物理的实体（心灵／灵魂）。\n其核心解释性主张是，这两种实体发生因果交互，即非物理的心灵能够影响物理的身体，反之亦然。",
+    "associated_thinkers": [],
+    "category": "二元论",
+    "subcategory": "交互论",
+    "core_identity_tagline": "相互交互的独立物理实体与非物理实体",
+    "classification_tags": [
+      "substance dualism",
+      "mental causation",
+      "nonphysical",
+      "interactionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识需要一个独立的、非物理的实体（或部分）与物理大脑一同存在，两者之间的交互说明了心理状态与行为。",
+    "ontological_status": "实体二元论（通常隐含）",
+    "mind_body_relationship": "交互论（因果交互）",
+    "primitive_or_emergent_status": "原初的（非物理实体是独立的／根本的）",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "主体性存在于独立的非物理实体（心灵／灵魂）之中，后者本质上是第一人称的。意向性被构想为一种核心的、不可还原的心理属性。",
+    "qualia_account": "感受质是非物理心理实体或方面的不可还原的质性特征。",
+    "ontological_commitments": "物理实体（大脑／物质）与一个独立的、非物理的实体（心灵／灵魂／精神）。",
+    "epistemic_access": "内省提供对非物理心理实体的第一人称通达，而大脑则通过第三人称观察加以研究。",
+    "constituents_and_structure": "两个不同的、相互交互的实体或组成部分：物理的大脑／身体与非物理的灵魂／心灵／精神。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（不可还原）；自我觉知；能动性（自由意志）。",
+    "distinctive_mechanism_or_principle": "非物理心理实体与物理大脑之间的因果交互，使心理能够影响物理领域（向下因果）。",
+    "dynamics_of_emergence": "静态属性（非物理实体的），尽管物理与非物理之间的交互是动态且持续的。",
+    "location_and_distribution": "物理组成部分（大脑）位于空间之中；非物理组成部分（心灵／灵魂）则是独立或分离的，有时被构想为无广延的。",
+    "causation_and_functional_role": "意识（非物理的心灵）对物理大脑／身体施加因果力，并被其因果地影响，从而实现有意识的控制与能动性。",
+    "integration_or_binding": "整合很可能被归于非物理心理实体那种简单、不可分且根本统一的本性，而非某种物理过程。",
+    "information_flow_or_representation": "信息流涉及物理（大脑状态）与非物理（心理状态）两个领域之间的双向沟通。",
+    "evolutionary_account": "否，意识由非物理组成部分的根本存在或创造来解释，而非通过传统唯物主义的种系演化。",
+    "core_claims_and_evidence": [
+      "除物理大脑之外，意识还需要一个独立的、非物理的实体。",
+      "心理状态对物理状态施加因果影响（心理因果）。",
+      "被感知到的交互问题往往建立在 19 世纪台球式物理学的过时假设之上。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的；现象学的；概念的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "高度思辨／难以经验检验",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要批评是心理因果这一“棘手问题”，具体而言即找出一种可设想的机制，使非物理之物能够影响物理之物。它还面临关于能量守恒物理定律以及物理领域因果封闭的张力。",
+    "open_questions_and_limitations": "核心局限在于对交互机制提供一种融贯的解释，尤其涉及可能违反物理定律或过度决定的问题。",
+    "ontological_coherence": "与当代科学唯物主义高度不一致，因为它需要设定两个不同的本体论范畴，并违反物理世界的因果封闭。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否（多数情况下）",
+      "rationale": "如果此说为真，意识需要一个根本独立的、非物理的、独立于物理世界的实体（灵魂）；非生物系统无法拥有这一必需的组成部分。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "二元论主张存在一个独立的、非物理的实体（灵魂），它独立于生物大脑，因而能够在身体死亡后存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是",
+      "rationale": "通过设定一个不可还原的非物理组成部分，交互二元论通常支持超越性的意义、目的或价值，常与一种扩展的实在相关联。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "虚拟永生需要通过复制物理大脑来复制心灵；这一做法会失败，因为第一人称意识所需的、本质性的非物理组成部分将会缺失。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "对立理论"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "扩展／替代"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "类型／重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Interactionism (philosophy of mind)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Dualism, H. Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Substance of Consciousness: A Comprehensive Defense of Contemporary Substance Dualism, B. Rickabaugh and J.P. Moreland",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "普林茨的神经功能主义：注意产生经验",
+    "summary": "该理论主张，意识源于注意，注意在加工的中间阶段促进知觉信息流向记忆系统。这一过程从根本上依赖于同步的神经放电，并产生一种整合的、保留视角的刺激表征。",
+    "associated_thinkers": ["Jesse Prinz"],
+    "category": "唯物主义",
+    "subcategory": "神经生物学",
+    "core_identity_tagline": "意识作为被注意的中间表征",
+    "classification_tags": [
+      "attention",
+      "neurofunctionalism",
+      "perceptual",
+      "representational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为这样一个过程：由于注意机制的作用，一种整合的、保留视角的刺激表征变得可供工作记忆使用。",
+    "ontological_status": "还原式物理主义",
+    "mind_body_relationship": "普林茨对心身问题提出了一种“神经功能反应”，它将功能角色与其底层的神经生物学实现结合起来，使得心理状态完全被包含在唯物主义之内。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性内在于注意过程所提供的表征的“保留视角的格式”之中。所有意识都是知觉性的，这意味着意向性（指向性）是关键，但自我意识并不被直接经验到。",
+    "qualia_account": "该理论试图综合经验发现，以提供一种完整的唯物主义解释来反驳意识的难问题。感受质被解释为注意过程所产生的整合表征。",
+    "ontological_commitments": "同步的神经放电、知觉加工阶段以及信息表征。",
+    "epistemic_access": "可通过以神经科学为基础的经验性探究和建模来通达，将功能性数据与神经生物学数据结合起来。",
+    "constituents_and_structure": "基本组成部分是在加工的中间阶段被整合的表征，受同步神经放电的约束并由其使能。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性的、知觉性的。",
+    "distinctive_mechanism_or_principle": "注意，它通过利用同步的神经放电来改变信息流，使中间层的知觉信息表征可供记忆系统使用。",
+    "dynamics_of_emergence": "意识是一个动态过程，当知觉信息到达特定的“中间”阶段并受到注意机制作用时便会产生。",
+    "location_and_distribution": "定位于知觉加工的一个特定的中间阶段。",
+    "causation_and_functional_role": "意识具有因果效力，其功能是使知觉信息随时可供那些使灵活行为成为可能的系统使用。",
+    "integration_or_binding": "整合是由注意过程实现的，它将刺激的各种属性统一为一种可供工作记忆通达的、单一的、保留视角的格式。",
+    "information_flow_or_representation": "信息流被注意所修改，以赋予其对记忆系统的通达权，意识完全依赖于整合的表征。",
+    "evolutionary_account": "意识的演化是为了使知觉信息可供各系统用于灵活行为，从而提供一种适应优势。（理由：基于所明确陈述的意识在使灵活行为成为可能方面的功能。）",
+    "core_claims_and_evidence": [
+      "意识依赖于注意，并在知觉加工的中间阶段产生。",
+      "这一过程依赖于同步的神经放电。",
+      "所有意识经验都是知觉性的，其作用是使灵活行为成为可能。",
+      "该理论在唯物主义框架内提供了一种完整的解释，解决了查尔默斯的意识难问题。"
+    ],
+    "basis_of_belief_or_evidence_type": "神经科学的、功能性的、哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验",
+    "known_empirical_interventions_or_tests": "该理论得到证据的支持，这些证据将同步的神经放电与经验的统一性和时间持续性联系起来，作为其神经生物学主张的基础。",
+    "criticisms_and_tensions": "普林茨关于一种“令人满意且出人意料地完整的理论”完全处于唯物主义之内的主张，遭到大卫·查尔默斯等批评者的拒斥，他们认为任何纯粹的物理解释都无法说明意识经验。",
+    "open_questions_and_limitations": "该理论自身所处理的核心局限在于，说服批评者（如查尔默斯）相信：尽管存在反对物理主义的哲学论证，一种纯粹功能性和神经生物学的描述足以解释现象经验。",
+    "ontological_coherence": "高度融贯，因为它明确地将功能主义与神经生物学融合为一个一致的唯物主义框架，旨在化解传统的二元论挑战。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "由于该理论将意识认定为通过注意使信息可供记忆使用的一种特定神经功能过程，这一计算功能应当能够在足够先进的非生物系统中实现。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作为一种完全处于唯物主义之内的理论，意识完全依赖于大脑的生物组织和过程（例如同步的神经放电）并由其产生，并在大脑毁灭时终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义的",
+      "rationale": "意识的功能是实用性的——使知觉信息可供灵活行为使用。它在唯物主义范式内运作，该范式通常意味着意义与目的是自我创造的，而非宇宙性的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "鉴于其奠基于神经功能主义并致力于提供一种完整的唯物主义解释，在非生物基质中对基于注意的表征系统进行完美的功能复制，应当能够保存原初的第一人称有意识自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "扩展"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Chalmers’s hard problem of consciousness",
+        "relationship": "批判"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Brain: How Attention Engenders Experience, Jesse J. Prinz",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The conscious brain, Christopher Mole",
+        "year": 2013
+      }
+    ]
+  }
+}

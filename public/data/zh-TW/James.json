@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "威廉·詹姆士心理學理論中意識的難問題不存在",
+    "summary": "此一觀點立基於對威廉·詹姆士著作的一種詮釋，主張意識並非主觀經驗之謎，而是一種為解決「選擇問題」而演化出來的機制，藉此顛覆了難問題的典範。該機制在複雜大腦所生成的眾多選項之中篩選出具適應性的反應，偏向那些與大腦長遠利益相一致的結果，從而提升有機體的適應度。",
+    "associated_thinkers": ["William James", "Tracy Witham"],
+    "category": "唯物論",
+    "subcategory": "種系演化",
+    "core_identity_tagline": "意識作為適應性選擇機制",
+    "classification_tags": [
+      "evolution",
+      "functionalism",
+      "deflationary",
+      "selection problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種選擇機制，它施加壓力以偏向那些最有利於有機體持久利益的表現，其根基在於賦予對某些感覺（事實上的目的）的偏好。",
+    "ontological_status": "功能論／物理論（理由：該理論藉由賦予意識純粹功能性的、具適應性的角色來消解難問題，使其與唯物論僅透過物理系統來解釋意識的目標相一致）。",
+    "mind_body_relationship": "意識在功能上與複雜的大腦歷程相互交涉，尤其與「大腦反射」的形成相關聯，在這些反射中偏好影響著有機體與環境的互動。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（理由：當大腦的複雜性導致非最佳反應選項激增時，意識作為一種適應性的必需而湧現，這意味著它湧現自精密的物理組織）。",
+    "subjectivity_and_intentionality": "主體性以功能方式加以處理，因為意識賦予對某些感覺相對於其他感覺的偏好，從而決定了有機體「事實上的目的」（意向目標）的來源。",
+    "qualia_account": "難問題（對感質或「像什麼一樣」的說明）藉由將焦點轉移到意識所解決的功能性問題（選擇問題）而基本上得到消解。",
+    "ontological_commitments": "複雜的生物大腦、需要適應性選擇的環境情境，以及演化而來的心理功能（選擇機制、偏好）。",
+    "epistemic_access": "主要透過分析其在提升有機體適應度與選擇行為方面的功能角色（第三人稱的演化分析）來通達。",
+    "constituents_and_structure": "一種能夠支撐眾多反應選項激增的複雜大腦結構，再疊加一種用以優先選擇適應性結果的選擇機制。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "能動性、適應性反應的選擇、賦予偏好（意識的功能性面向）。",
+    "distinctive_mechanism_or_principle": "其機制是意識作為一種選擇壓力發揮作用，確保複雜行為偏向有機體的長遠、持久利益。",
+    "dynamics_of_emergence": "一種動態歷程，出現於複雜到足以生成相互競爭的反應選項的大腦之中，其作用是過濾或選擇最有利的結果，從而由被偏好的感覺形成「事實上的目的」。",
+    "location_and_distribution": "位於已達到足夠複雜性、能夠面對「選擇問題」的大腦之中。",
+    "causation_and_functional_role": "意識藉由對提升適應度的表現施加壓力而具有因果效力；其功能是解決複雜系統所固有的「選擇問題」。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗／經驗上可信（理由：其根植於演化原理與生物適應度，二者與科學研究相容，因而歸入種系演化之下）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要的概念張力在於：意識是否真的適合（哪怕僅是表面上）用來處理如此描述的「選擇問題」。",
+    "open_questions_and_limitations": "意識與「選擇問題」之間的確切契合仍是一個開放問題，理解「大腦反射」圖式的意涵亦然。",
+    "ontological_coherence": "在功能論與演化框架之內是融貫的，因為它藉由重新界定意識問題而避免了傳統的形上學承諾。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識主要是一種功能性的選擇機制，那麼任何達到足夠複雜性、並需要類似機制來對適應性輸出進行優先排序的人工系統，都很可能被視為有意識的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "這一意識詮釋堅定地植根於演化而來的生物必需性與大腦的功能，並未為生物性死亡之後的存續提供任何餘地。"
+    },
+    "meaning_and_purpose": {
+      "stance": "務實的",
+      "rationale": "意義與目的繫於生物功能：提升演化適應度並實現「大腦主人最持久的利益」。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "作為一種功能論理論，對底層選擇機制與功能組織的複製或上傳，應當能夠使意識成功延續。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "相容"
+      },
+      {
+        "name": "Chalmers’s Hard Problem",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Principles of Psychology, William James",
+        "year": 1890
+      }
+    ]
+  }
+}

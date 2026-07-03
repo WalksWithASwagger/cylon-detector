@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "克里克与科赫的意识的神经相关物（NCC）",
+    "summary": "该理论提出一项科学纲领，旨在辨识意识的神经相关物（NCC），其被界定为对任一特定意识知觉或主观经验而言联合充分且必要的最小脑活动。它主张意识完全是物理的，可被彻底还原为这些特定的脑活动。",
+    "associated_thinkers": [
+      "Francis Crick",
+      "Christof Koch"
+    ],
+    "category": "唯物主义",
+    "subcategory": "神经生物学",
+    "core_identity_tagline": "意识即最小脑活动",
+    "classification_tags": [
+      "neurobiological",
+      "reductionism",
+      "qualia",
+      "neurophysiology",
+      "macroscopic materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识（现象意识/感受质）被认定为意识的神经相关物（NCC），即对主观经验而言必要且充分的那种精确的最小神经活动模式。",
+    "ontological_status": "还原式物理主义/唯物主义。NCC 进路被视为宏观唯物主义。",
+    "mind_body_relationship": "同一论。心理状态与物理的 NCC 状态完全同一，并由其充分解释。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现。这与一种还原式唯物主义立场相一致：意识作为生物学脑的产物，原则上可由较低层次的物理定律加以解释，纵然其明确的联结目前仍难以捉摸。",
+    "subjectivity_and_intentionality": "主体性（内在觉知）与现象经验同所辨识出的 NCC 直接相关，或与之同一。意向性同样将由构成 NCC 的物理过程来解释。",
+    "qualia_account": "感受质（经验的质性感受）被认定为对特定意识知觉联合充分的那种最小神经活动（NCC），尽管这一同一关系的机制仍是核心的“难问题”挑战。",
+    "ontological_commitments": "生物学脑、神经元、电生理活动（放电）、神经化学递质流动，以及特定的复发脑回路。",
+    "epistemic_access": "通过第三人称的科学观测（神经生理学、脑扫描）与意识经验的第一人称报告相关联来通达。",
+    "constituents_and_structure": "其结构由特定的神经元集群以及动态的电/化学活动模式（例如动作电位、递质流动、复发回路）构成，定位于皮层等关键脑区。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（主观经验、感受质）以及意识所必需的相伴的觉知/唤醒。",
+    "distinctive_mechanism_or_principle": "对意识的神经相关物（NCC）的探寻与界定：即对主观经验而言必要且充分的那种特定的最小神经活动。",
+    "dynamics_of_emergence": "动态过程。意识源于传播的神经生理放电与扩散的神经化学递质所构成的整合系统。",
+    "location_and_distribution": "定位于特定脑区。早期候选者包括屏状核（作为协调各种知觉的“指挥者”）；后期候选者则聚焦于后部大脑皮层（颞-顶-枕热区）。",
+    "causation_and_functional_role": "意识由 NCC 活动直接引起，并与之同一。NCC 机制（放电、流动、回路）被视为现象意识的构成性要素。",
+    "integration_or_binding": "假设由某种充当“指挥者”的神经机制（例如屏状核）来实现，该机制协调来自各皮层区域的输入，以生成整合的意识知觉。",
+    "information_flow_or_representation": "聚焦于神经回路内经由电生理与神经化学信号传递的信息的物理表征与流动。",
+    "evolutionary_account": "该理论植根于唯物主义，隐含地假定意识是经由负责神经系统发育的种系发生过程演化而来的，尽管这并非 NCC 定义本身的焦点。",
+    "core_claims_and_evidence": [
+      "意识完全由对特定意识知觉联合充分且必要的最小脑活动（NCC）来解释。",
+      "NCC 机制涉及神经元的电生理动作电位、神经化学递质流动以及复发脑回路。",
+      "NCC 是可经验观测的（例如对后部大脑皮层中热区的探寻）。",
+      "尚未确凿发现清晰的 NCC（以 2023 年查尔默斯-科赫赌局的落败为证）。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验的、科学的、神经生物学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验。对 NCC 的探寻被界定为一项寻求意识之可检验生物学基础的科学计划。",
+    "known_empirical_interventions_or_tests": [
+      "辨识在意识经验期间活跃的特定神经元集群或脑区（如屏状核或后部皮层）。",
+      "测量电生理活动（例如动作电位与神经回路）。"
+    ],
+    "criticisms_and_tensions": "主要张力在于“解释鸿沟”：辨识出一种相关（NCC）并不能解释那个同一性命题——物理活动（放电/化学物质）究竟如何字面地生成现象性感受（感受质）。数十年研究后仍未能辨识出“清晰的”NCC，则是一项现实的局限。",
+    "open_questions_and_limitations": "该理论未能解释物理机制（神经活动）与主观经验（现象意识）之间的根本联结。相关与因果之间的区分仍是一项批评。",
+    "ontological_coherence": "在唯物主义/物理主义本体论内高度融贯，作为意识如何可被还原为物质的一个雄心勃勃的范例。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "若意识可完全还原为物理组织模式（NCC），那么能够复制那些精确模式的非生物系统也应当成为有意识的，除非存在技术上的限制。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作为一种唯物主义理论，意识完全依赖于物理的脑；脑功能的终止意味着意识的终结。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义的",
+      "rationale": "与唯物主义相一致，意识是演化与物理的生物学产物，除人类为自身所创造者之外，并不赋予任何终极的宇宙意义或目的论。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "若 NCC 状态能被完美地测量并复制于数字或人工介质中（心智上传），则所得系统在功能上与现象上都将同一，从而在原则上实现虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Recurrent Processing Theory (Lamme)",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重叠/对比"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "对比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a neurobiological theory of consciousness, F. Crick and C. Koch",
+        "year": 1990
+      },
+      {
+        "title_with_names": "What is the function of the claustrum?, F. Crick and C. Koch",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Quest for Consciousness: a Neurobiological Approach, C. Koch",
+        "year": 2004
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "索姆斯的情感作为意识的隐秘源泉",
+    "summary": "该理论将意识的基本形式认定为情感（感受），并将其生理机制定位于上脑干，作为稳态的一种延伸形式而发挥作用。它运用弗里斯顿的自由能原理，论证情感经验（愉悦/不悦）是复杂有机体用来监测环境不确定性并优化生存行为的高效机制。",
+    "associated_thinkers": ["Mark Solms"],
+    "category": "唯物主义",
+    "subcategory": "稳态与情感",
+    "core_identity_tagline": "情感作为意识的基础形式",
+    "classification_tags": [
+      "affect",
+      "homeostasis",
+      "free energy principle",
+      "brainstem",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识在其感知性主体性的基本形式中，由情感（感受）所构成，而情感将自由能最小化加以操作化（未预期的不确定性被感受为不悦，其减少则被感受为愉悦）。",
+    "ontological_status": "双面一元论（在物理主义框架内加以解读）。该模型将生理现象与心理现象视为单一底层过程的双重显现，可还原为统一的物理成因，在其对生物机制的实际应用中与唯物主义相一致。",
+    "mind_body_relationship": "双面式；生理现象与心理现象是单一底层统一过程的互补显现（以放电为类比），而非一方导致另一方。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现（理由：意识的功能机制被主张可还原为物理定律，如自由能定律，这表明意识虽看似新颖，却原则上可由基础物理学加以解释。）",
+    "subjectivity_and_intentionality": "感知性主体性字面上由情感所构成，情感使有机体能够主动抵抗熵。意向性之所以产生，是因为自组织系统必须长期'追问'关于其自由能（生存需求）的问题，以决定其行动。",
+    "qualia_account": "感受质被解释为'色彩编码'或'味道化'的类别变量（情感，如口渴与恐惧），它们高效地编码复杂有机体的多重需求，从而为生存优化而避免了在计算上复杂的'组合爆炸'。",
+    "ontological_commitments": "物理定律（如自由能定律）、生理过程（延伸的稳态），以及上脑干/网状激活系统的特定结构。",
+    "epistemic_access": "可通过考察相应的神经生理事件（第三人称）以及第一人称情感经验的不可置疑的实在性而获得。",
+    "constituents_and_structure": "根本结构是在上脑干中实现的延伸稳态机制，其中皮层意识以这种基础性的脑干意识为前提。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（情感性/感知性主体性）；能动性；生存优化。",
+    "distinctive_mechanism_or_principle": "将自由能原理（FEP）在上脑干中操作化为情感状态（愉悦/不悦），这引导有机体的行为趋向稳定。",
+    "dynamics_of_emergence": "意识是一个动态过程，源于自组织系统监测其生存需求并生成预测性行动以最小化预期不确定性的必要性。",
+    "location_and_distribution": "根本机制位于上脑干/网状激活系统中。皮层意识（内容）由这种脑干情感意识（水平）所使能，并以之为前提。",
+    "causation_and_functional_role": "情感发挥着关键的因果角色，它作为一种高效的算法，用于监测环境交互、修正行为，并在不可预测的情境中优化生存。",
+    "integration_or_binding": "相互冲突的生物需求（如恐惧与困倦）的整合，通过将它们编码为不同的、质性的情感（感受质/味道）而高效实现，这使得依情境而定的化解得以在无需过度计算的情况下达成。",
+    "information_flow_or_representation": "意识与信息加工系统相关联，这些系统必须就生存需求而主动地与世界交涉；情感是与监测预期不确定性（信息）之变化相关联的那种感受。",
+    "evolutionary_account": "以情感形式存在的意识，作为最高效的机制（算法）而演化出现，使复杂有机体能够应对不可预测的环境，并为生存而管理多重的、依情境而定的需求。",
+    "core_claims_and_evidence": [
+      "情感是意识的基础形式，起源于上脑干。",
+      "核心机制可还原为弗里斯顿的自由能定律，使意识在数学上可处理。",
+      "意识是自然的一部分，源于对熵的主动抵抗。",
+      "上脑干的损伤可靠地消除意识，为其基础性角色提供支持。"
+    ],
+    "basis_of_belief_or_evidence_type": "神经生物学性、现象学性、计算性（FEP）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验（具体涉及脑干的作用与情感的本质）。",
+    "known_empirical_interventions_or_tests": [
+      "将意识丧失与网状激活系统（上脑干）的损伤相关联。",
+      "对与主观愉悦/不悦相关的 FEP 参数进行经验考察。"
+    ],
+    "criticisms_and_tensions": "该理论必须有力地反驳这样一种传统观点：脑干仅调节意识的*水平*（清醒/昏迷），而不调节其*质性内容*。鉴于它基于生理机制被归类为唯物主义理论，其将自身描述为双面一元论在哲学上是微妙的。",
+    "open_questions_and_limitations": "关于对熵的主动抵抗如何对有机体而言'感受起来是某种样子'的确切机制，除了主张其功能必要性之外，仍是一个有待进一步阐释的领域。",
+    "ontological_coherence": "高度融贯。该框架成功地将主观经验嵌入一个由物理定律（FEP）支配、在数学上可处理的自然主义系统之中，维护了一种以物理为基础的心灵理解。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果该理论正确，那么便可设计出一个人工的有意识的自组织系统，前提是该系统被设计为主动抵抗熵并管理生存需求，从而生成情感状态作为反馈。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作为一种唯物主义理论，意识完全依赖于生物大脑及其物理过程，这意味着在有机体死亡时便永久性地不复存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主义/生物学",
+      "rationale": "意识的核心植根于生存这一生物律令（避免湮灭并最小化自由能），这支持了生物学的以及以人本主义方式建构的意义，但不含任何终极的宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "作为一种唯物主义理论，第一人称的心理自我原则上是可上传的，前提是复杂的物理机制（包括情感与稳态动力学）能够被全面地复制到合成基质中。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "影响/延伸"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "兼容"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批评/对照"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The hard problem of consciousness and the free energy principle",
+        "year": 2018
+      },
+      {
+        "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Précis of the hidden spring: a journey to the source of consciousness",
+        "year": 2021
+      }
+    ]
+  }
+}

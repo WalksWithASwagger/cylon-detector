@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "延展心灵",
+    "summary": "该理论主张认知过程并不严格局限于生物大脑，而是延展进外部环境（主动外在论）。当一个人类有机体与某个外部实体在双向互动中相连接时，便形成了一个耦合系统，这个系统本身即作为一个认知系统而运作。移除其外部成分会削弱系统的行为能力，就如同移除大脑的一部分一样。",
+    "associated_thinkers": [
+      "Andy Clark",
+      "David Chalmers"
+    ],
+    "category": "唯物主义",
+    "subcategory": "关系性",
+    "core_identity_tagline": "‘心灵作为耦合的认知系统’",
+    "classification_tags": [
+      "externalism",
+      "embodiment",
+      "cognition",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被确认为整个耦合认知系统的一种功能，既涵盖内部神经过程，也涵盖外部工具／环境，强调其对主动外在论的依赖。",
+    "ontological_status": "物理主义（功能主义／关系性）",
+    "mind_body_relationship": "关联／延展。心灵是分布于大脑、身体与相关环境之间的一种涌现属性或功能过程，挑战了心灵受限于头颅之内的传统观点。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "各来源主要聚焦于认知的功能角色与行为能力，而未明确说明现象性的主体性或意向性如何产生。主体性被隐含地视为运作中的认知系统的一个特征，无论它位于何处。",
+    "qualia_account": "该理论聚焦于认知过程的延展与行为能力的实现，但各来源并未明确阐述现象性感受质（经验的质性维度）在耦合系统中如何得到说明或延展。",
+    "ontological_commitments": "大脑、身体、外部物体／工具以及物理环境，它们在耦合系统内都参与并发挥主动的因果作用。",
+    "epistemic_access": "可通过研究耦合系统中所有成分的双向互动与主动因果作用来通达，聚焦于行为能力与认知回路。",
+    "constituents_and_structure": "一个‘耦合系统’，由人类有机体（大脑与身体）与外部实体（社会与物质世界）在双向互动中相连接而构成，形成一个无缝的、整合的整体。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "认知、行为能力（现象意识被暗示为寓于延展系统之中，但重点在功能层面）。",
+    "distinctive_mechanism_or_principle": "主动外在论，其中外部实体在认知过程中发挥主动的因果作用，形成一个功能上整合的‘耦合系统’。",
+    "dynamics_of_emergence": "动态过程。心灵从大脑、身体与社会／物质世界的‘绚烂流变’中涌现，成为‘出人意料地无缝的整体’。",
+    "location_and_distribution": "分布式／延展式。认知过程扩展到受限于头颅的大脑之外，涵盖环境与外部工具。",
+    "causation_and_functional_role": "耦合系统中的各成分发挥主动的因果作用并共同支配行为，使心灵得以促成与世界的适应性互动。",
+    "integration_or_binding": "整合通过有机体与外部实体之间主动的双向互动而实现，形成一个无缝的、整合的认知整体。",
+    "information_flow_or_representation": "信息加工依赖于被延展的表征，这些表征将环境在驱动认知过程中的参与性作用包含在内。",
+    "evolutionary_account": "该理论与一种演化框架相一致，即大脑的预测能力借由对外部现实的觉知与顺应而得到促进，这暗示了认知延展具有一种适应性作用。",
+    "core_claims_and_evidence": [
+      "认知过程延展到大脑边界之外，将外部实体包含在内。",
+      "耦合系统本身即作为一个认知系统而运作，其所有成分都发挥主动的因果作用。",
+      "移除外部成分会削弱系统的行为能力。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念论证（功能主义的）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验／有条件的",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论在心灵的确切位置与边界问题上面临哲学张力，挑战了对内在的、生物的、神经过程的传统优先性。",
+    "open_questions_and_limitations": "该理论大量聚焦于认知过程，从而留下了一个悬而未决的问题：现象意识本身如何在耦合系统中得到延展或被体验。",
+    "ontological_coherence": "高度融贯。该理论通过将认知所需的基质重新界定为超出头颅的范围，提供了一种融贯的唯物主义／功能主义说明。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "该理论与计算功能主义相契合，表明若认知过程与功能关系能够被人工地实例化，心灵便可延展至认知假体，从而使人工智能意识成为可信的。"
+    },
+    "survival_beyond_death": {
+      "stance": "有条件的",
+      "rationale": "尽管植根于唯物主义（唯物主义通常否认存续），但若本质自我被界定为一种可以不依赖其生物基质而持续存在的分布式功能模式，那么这一模式的存续或许是可能的。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义的",
+      "rationale": "作为一种唯物主义理论，它表明不存在宇宙性的意义、目的或价值；意义反而是由人类有机体所创造的。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "虚拟永生是可信的，因为该理论将心灵视为一种本质上可经由外部‘认知假体’加以延展的功能模式，而在非生物媒介中进行复制与其功能主义基础相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Computational functionalism",
+        "relationship": "影响"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Extended Mind, Andy Clark and David Chalmers",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Supersizing the Mind: Embodiment, Action, and Cognitive Extension, Andy Clark",
+        "year": 2010
+      }
+    ]
+  }
+}

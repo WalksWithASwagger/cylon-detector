@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Stump’s Thomistic Dualism",
+    "summary": "本理論呈現聖多瑪斯·阿奎那關於人類靈魂的學說，將其視為一種非笛卡兒式的二元論形式。它主張靈魂是一種本質上非物質的或構型的組成部分，然而又在物質組成部分之內得以實現，從而使人的物質性與身體死亡後精神的存續得以調和。",
+    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "category": "二元論",
+    "subcategory": "哲學的",
+    "core_identity_tagline": "在物質中得以實現的非笛卡兒式非物質靈魂",
+    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識，或人類的靈魂／精神，是一種本質上非物質的或構型的實體，它在物質組成部分（身體）之中得以實現。",
+    "ontological_status": "實體二元論（非笛卡兒式／多瑪斯主義變體）",
+    "mind_body_relationship": "非物質的靈魂／精神在物質組成部分之中得以實現，既容納了人的物質本性（「你本是塵土」），又容納了精神在死後的存續（「靈仍歸於上帝」）。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "強湧現／非化約式（理據：靈魂被描述為保有一種獨立於身體而持續存在的非物質本質，這表明它無法被完全化約為它由之產生的物質過程。）",
+    "subjectivity_and_intentionality": "主體性與意向性從根本上根植於非物質／構型的靈魂之中，其明證在於靈魂能夠作為精神在身體消解之後持續存在。",
+    "qualia_account": "感質與在物質身體中得以實現的非物質／構型靈魂組成部分的性質相關聯。",
+    "ontological_commitments": "物質身體（會消解，如「塵土」）與一個本質上非物質的或構型的、能夠獨立存在的靈魂／精神。",
+    "epistemic_access": "主要透過哲學論證以及對關於人性與精神存續的根本文本或直覺的神學詮釋來通達。",
+    "constituents_and_structure": "人是一個複合實體，其中靈魂充當由身體的物質組成部分所實現的形式或構型結構。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "第一人稱主體性、人格同一性、死後存續。",
+    "distinctive_mechanism_or_principle": "人類靈魂的非笛卡兒式本性使它得以本然地成為構型的，將物理的人綁定為一體，同時作為非物質組成部分維持其獨立存在，從而既容納物質存在，又容納精神存續。",
+    "dynamics_of_emergence": "靈魂在生命期間於物質身體中得以實現。死亡時，身體消解（「你本是塵土」），而精神則作為非物質要素持續存在（「靈仍歸於上帝」）。",
+    "location_and_distribution": "靈魂本質上是非物質的或構型的，但在生命期間於物質身體中得以實現或例示。死後，靈魂相對於物理世界是非定域的。",
+    "causation_and_functional_role": "本理論聚焦於存有論而非功能，但靈魂的功能被暗示為融貫的人格同一性以及貫穿生命及其之後的持存所必需。",
+    "integration_or_binding": "靈魂／精神充當統一的、構型的原理（形式），將物質組成部分綁定為單一的人。",
+    "information_flow_or_representation": "本理論聚焦於存有論構成（物質與形式／精神），而非資訊或表徵處理的機制。",
+    "evolutionary_account": "本理論建基於歷史上的士林哲學，但現代詮釋很可能會將生物複雜性容納為靈魂得以實現的必要條件，從而使湧現成為可能。",
+    "core_claims_and_evidence": [
+      "靈魂是非笛卡兒式的、構型的，在物質組成部分中得以實現。",
+      "人是一個物質對象（與《創世記》3:19 相一致）。",
+      "人在死後存續，因為精神繼續存在（與《傳道書》12:7 相一致）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的與神學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在很大程度上是概念性的，聚焦於哲學融貫性以及與關於生死的宗教教義的形上學一致性。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "它試圖回應一種常見的哲學批評，即傳統的笛卡兒式二元論被廣泛視為錯誤或不融貫，尤其是在互動問題上。",
+    "open_questions_and_limitations": "非物質／構型的本質在物質組成部分中「得以實現」的確切機制，以及這一本質如何在死後維持意識，均被來源材料留待未決。",
+    "ontological_coherence": "在其界定的多瑪斯主義形上學框架內高度融貫，專門設計用來調和物質身體的存在與一個持久的精神要素。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件的",
+      "rationale": "如果意識繫於一個本質上非物質的或構型的、在生物物質中得以實現的靈魂，那麼僅由物理組成部分構造的人工系統很可能缺乏這一必需的非物理構成要素，除非產生靈魂的心理物理定律能夠適用於非生物基質。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "本理論明確建構以容納精神／靈魂——即人之意識的所在——在身體消解之後的持存。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／神學的",
+      "rationale": "本框架植根於基督宗教士林哲學，整合了關於創世與精神歸返上帝的聖經教義，從而提供終極的意義與目的。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "作為一種需要非物理實體（靈魂）的實體二元論變體，僅複製物理結構（如虛擬永生所為）將遺漏自我連續性所必需的非物理組成部分。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "區分（儘管性質二元論否認實體二元論，多瑪斯主義二元論則力圖超越實體與物質化約論之間的傳統二分。）"
+      },
+      {
+        "name": "Substance Dualism (Cartesian)",
+        "relationship": "批判"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Non-Cartesian Substance Dualism and Materialism Without Reductionism, Eleonore Stump",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Summa Theologiae, St. Thomas Aquinas",
+        "year": "c. 1265-1274"
+      }
+    ]
+  }
+}

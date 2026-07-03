@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "薩波斯基的硬不相容論",
+    "summary": "此觀點主張，意識是一種複雜的湧現性質，僅僅源自生物機制，並與宇宙的物理規律密不可分。其主要的哲學立場是硬不相容論，肯認生物決定論，並因而否認自由意志的存在。",
+    "associated_thinkers": ["Robert Sapolsky"],
+    "category": "唯物論",
+    "subcategory": "神經生物學",
+    "core_identity_tagline": "「意識作為複雜的湧現性質」",
+    "classification_tags": [
+      "determinism",
+      "neurobiology",
+      "physicalism",
+      "emergence",
+      "hard incompatibilism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種複雜的湧現性質，源自生物有機體（特別是大腦）的物理與化學，以及其與環境的互動。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一／唯物論式關聯：心靈與自我嚴格地是生物過程的產物，或與生物過程同一，並與物理規律一致。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現（推論而得）：儘管被描述為一種其本質難以把握的「複雜湧現性質」，但其奠基於嚴格的生物決定論，意味著這種湧現原則上必然完全符合物理定律。",
+    "subjectivity_and_intentionality": "主體性（意識是什麼）被承認為存在，但被指為理解甚淺且難以界定。意向性與能動性（自由意志）則被明確地拒斥，視為與決定論不相容。",
+    "qualia_account": "未獲解釋：經驗的質性感受被承認，但被認為超出當前神經生物學的理解，並被含糊地描述為一種「解釋了一切又什麼都沒解釋」的「複雜湧現性質」。",
+    "ontological_commitments": "生物有機體、神經結構，以及宇宙的物理規律。",
+    "epistemic_access": "可透過對神經狀態的觀察來通達；然而，在神經生物學層次上對現象意識的理解被承認是極為有限的。",
+    "constituents_and_structure": "生物物質的複雜組織，受決定論式的物理規律所支配。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "自由意志（批判／否認）；現象性（被承認存在但未獲解釋）；神經功能（平淡無奇的神經學意義）。",
+    "distinctive_mechanism_or_principle": "硬不相容論的原則，即一切事件（包括心理事件）皆完全由先前的生物與環境原因所決定，不為非生物或非決定論的機制留下任何餘地。",
+    "dynamics_of_emergence": "意識是一種動態過程，源自大腦複雜而有組織的過程。",
+    "location_and_distribution": "完全定位於大腦與生物有機體之中。",
+    "causation_and_functional_role": "意識具有因果效力（它並非單純的副現象），但其因果作用完全受生物過程之決定論式流動所制約。",
+    "integration_or_binding": "隱含地由生物系統之複雜組織與決定論式運作所整合。",
+    "information_flow_or_representation": "透過奠基於支配生物過程之基本物理規律的生物功能而被隱含地表示。",
+    "evolutionary_account": "意識是生物／種系發生演化的產物，與有機體的決定論式、生物性本質一致。",
+    "core_claims_and_evidence": [
+      "自我／心靈不多不少地就是我們的生物構造及其與環境的互動。",
+      "自由意志在哲學上不可能與生物決定論相調和。",
+      "意識作為生物大腦的一種複雜湧現性質而產生。",
+      "意識並非虛幻的副現象。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的（對決定論與唯物論的先驗承諾）；生物／神經科學的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "哲學前提（決定論）；在經驗上與神經生物學相關聯（因為一切現象皆屬生物性）。",
+    "known_empirical_interventions_or_tests": "來源中未指明；奠基於支持決定論式物理論的基礎生物與神經學證據。",
+    "criticisms_and_tensions": "薩波斯基承認意識的定義令人困惑，並仰賴「複雜湧現性質」這一含糊的用語。就外部而言，對自由意志的否認（硬不相容論）是一個高度具爭議性的哲學立場。",
+    "open_questions_and_limitations": "現象意識的確切本質與定義，仍超出作者充分理解或解釋的能力範圍。",
+    "ontological_coherence": "高，因為此理論嚴格遵循一種物理論、決定論的存有論，未引入任何非物理的元素。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "若意識是一種由複雜生物組織之物理規律所支配、具因果活性的湧現性質，那麼原則上，它理應能夠在複製了必要複雜度的人工系統中實現。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識僅僅是生物大腦的產物；因此，大腦的死亡即為個人存在不可逆轉的終結。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義的",
+      "rationale": "意識的決定論式本質意味著不存在終極的宇宙意義或目的；任何意義或價值必然是由人類自身所創造的。"
+    },
+    "virtual_immortality": {
+      "stance": "有可能",
+      "rationale": "由於意識可化約為並依賴於複雜的物理狀態，在非生物基質中完美複製這些狀態，將能使第一人稱心理自我得以延續，這與唯物論理論一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "批判"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Flanagan’s Constructive Naturalism",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Determined: A Science of Life without Free Will, R. Sapolsky",
+        "year": 2023
+      },
+      {
+        "title_with_names": "From Stanford to Medspire: an Exclusive Interview with Robert Sapolsky, R. Sapolsky",
+        "year": 2023
+      }
+    ]
+  }
+}

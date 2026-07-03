@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "迪肯的自組織約束與自我的湧現",
+    "summary": "此理論主張，生命與意識的起源皆取決於自我的湧現，而自我是體現於神經動態中之自我創造、自我維繫、生成約束歷程的組織核心。意識本身主要被刻畫為一種約束的事務，需要能調節自我完整性以對抗漸增之熵的湧現動態。",
+    "associated_thinkers": [
+      "Terrence Deacon"
+    ],
+    "category": "唯物論",
+    "subcategory": "體內恆定與情感",
+    "core_identity_tagline": "意識作為自組織約束與自我的湧現",
+    "classification_tags": [
+      "emergence",
+      "self-organization",
+      "constraint",
+      "evolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被界定為自我的核心，透過體現於神經訊號動態中之互惠的、自組織的邏輯而實現，並聚焦於生成約束的歷程。",
+    "ontological_status": "物理論／唯物論（理由：明確歸類於唯物論理論，純粹以物理的——儘管是湧現的——歷程來解釋意識。）",
+    "mind_body_relationship": "心靈（有意識的自我）透過腦特定的生成約束與自組織歷程（神經訊號動態）從物質中湧現。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "湧現動態理論（一種約束變得能夠維持並產生自身的形式，超越了傳統的複雜性理論或資訊理論。）",
+    "subjectivity_and_intentionality": "主體性（有意識的自我）源自「自我的湧現」，其特徵是一種維持獨特完整性以對抗熵與擾動的內在傾向。意向性則隱含地繫於這個自我維繫、目的驅動的組織核心。",
+    "qualia_account": "感質，例如情緒的經驗，與代謝在腦被擾動偏離平衡時如何調節腦的自組織動態有關。",
+    "ontological_commitments": "自我創造與自我維繫的生成約束歷程、湧現動態，以及物理的神經訊號動態。",
+    "epistemic_access": "主要透過對神經系統中湧現動態的神經人類學與生物學理論建模而通達，研究生命與心靈的組織結構。",
+    "constituents_and_structure": "意識的結構是一種體現於神經訊號動態中的自組織邏輯／約束，構成自我的組織核心。",
+    "location_and_distribution": "透過神經訊號動態定位於腦中。意識的喚醒並不位於任何單一處所，而是隨需求變化不斷從一個區域轉移到另一個區域。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、自我覺知（作為湧現的自我）、喚醒、情緒。",
+    "distinctive_mechanism_or_principle": "自組織約束，其中約束界定了自我的組織核心，並遞迴地導致其自身的維持與產生。",
+    "dynamics_of_emergence": "一種體現於神經訊號動態中之互惠的、自組織邏輯的動態歷程。意識的喚醒是動態的，依需求／擾動而在區域間轉移。",
+    "location_and_distribution": "定位於腦內的神經訊號動態；喚醒不斷轉移，並非固定於單一處所。",
+    "causation_and_functional_role": "意識透過湧現的自我，發揮維持獨特完整性以對抗熵與擾動（生存）的功能。約束能夠成為其自身的原因。",
+    "integration_or_binding": "整合透過形成有意識自我之組織核心的自組織邏輯而達成。",
+    "information_flow_or_representation": "此理論聚焦於湧現動態與約束的生成，使自身有別於（但隱含資訊理論模型可能作為背景存在）資訊理論模型。",
+    "evolutionary_account": "意識的起源本質上取決於自我的湧現，而自我的湧現透過生成約束的歷程與生命自身的湧現相連結。",
+    "core_claims_and_evidence": [
+      "生命與意識的組織核心是一種自我創造、自我維繫、生成約束的歷程形式。",
+      "意識是一種約束的事務，對於缺席之物的關注與對在場之物的關注同等重要。",
+      "自我的湧現構成有意識自我的核心，體現於神經訊號動態中。"
+    ],
+    "basis_of_belief_or_evidence_type": "基於湧現動態理論的哲學、神經人類學與演化論證。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "透過對神經系統中湧現動態的建模與研究可在概念上檢驗（理由：歸類於唯物論／神經生物學意味著具經驗意圖）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "與許多唯物論理論一樣，它面臨充分解釋非線性動態與自組織約束如何轉譯為主觀、質性經驗（解釋鴻溝）的挑戰。",
+    "open_questions_and_limitations": "需要精確闡明「約束成為其自身原因」這個抽象概念如何具體地在神經元結構內顯現，以生成現象經驗。",
+    "ontological_coherence": "在一個優先考量湧現與演化生物學的自然主義與延伸唯物論框架內具高度融貫性。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "意識源自生成約束歷程的特定組織與動態，而非特定的生物基質。任何複製這些湧現動態的人工系統都可能成為有意識的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全繫於物理身體複雜的、自組織的動態與神經訊號。當物理基質不再維持那些約束時，意識即終結。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "此理論聚焦於自我維繫以對抗熵的生物律令，意味著自我性具有自然主義的基礎，但除了演化而來的生存之外，並無宇宙的或終極的目的論意義。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "由於自我由神經訊號動態的邏輯與生成約束歷程所界定，只要在非生物媒介中充分精確地複製這些動態，就應能保存有意識的自我，使虛擬永生成為可能。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Emergence",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Deacon’s Symbolic Communication (Human Consciousness)",
+        "relationship": "相關"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Incomplete Nature: How Mind Emerged from Matter, Terrence Deacon",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Consciousness is a matter of constraint, Terrence Deacon",
+        "year": 2011
+      }
+    ]
+  }
+}

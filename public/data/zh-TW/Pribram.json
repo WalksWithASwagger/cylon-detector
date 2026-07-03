@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "普里布拉姆的全息腦理論",
+    "summary": "此理論主張，人類意識源於發生在腦細胞之內或之間的量子效應，使大腦得以作為一個全息資訊儲存網路運作。這種全息性質意味著資訊，尤其是記憶，以非局域方式儲存於神經網路各處，使大腦即使在受損後仍能維持穩健的功能。",
+    "associated_thinkers": ["Karl Pribram", "David Bohm"],
+    "category": "唯物論理論",
+    "subcategory": "計算與資訊",
+    "core_identity_tagline": "「意識即全息量子儲存」",
+    "classification_tags": [
+      "quantum",
+      "holographic",
+      "memory",
+      "non-local",
+      "neuroscience"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為神經元樹突網中的波干涉模式，這是源自量子效應的全息資訊編碼所具有的特徵。",
+    "ontological_status": "物理論（延伸／量子生物學式）",
+    "mind_body_relationship": "心靈／意識等同於物理大腦內部特定的量子歷程與資訊結構，這意味著一種在量子層次上的同一論。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "強湧現",
+    "subjectivity_and_intentionality": "意識與全息資訊模式的有組織提取與重建相聯繫，促成主觀經驗所需的快速聯想記憶，並使超越單純前饋處理的知覺成為可能。",
+    "qualia_account": "感質隱含地由非局域的全息儲存結構所說明，該結構使複雜的儲存資訊（記憶／知覺）之整體性與統一性得以從任一部分重建。",
+    "ontological_commitments": "量子效應／歷程、樹突網、波干涉模式、希爾伯特相空間，以及非局域的記憶分佈。",
+    "epistemic_access": "可透過從觀察現象（如腦損傷中的非局域記憶效應）進行的理論推論，以及數學建模（如全息原理）來通達。",
+    "constituents_and_structure": "資訊編碼於神經元的細纖維樹突網內的電振盪與波干涉模式之中，形成一個非局域、分佈式的儲存網路。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（統一性與穩健性）、記憶、資訊處理、非局域性。",
+    "distinctive_mechanism_or_principle": "全息類比，其中資訊以非局域方式儲存於干涉模式中，確保所有儲存內容皆可從記憶網路的任一部分被通達。",
+    "dynamics_of_emergence": "意識動態地湧現，因為量子效應產生振盪，這些振盪創造出干涉模式，繼而編碼並重建經驗。",
+    "location_and_distribution": "分佈式且非局域的，寓於神經元樹突網中的電振盪，尤其與記憶的非局域儲存相關。",
+    "causation_and_functional_role": "使快速的聯想記憶成為可能，迅速連結各不相同的儲存資訊片段，並提供對局部腦損傷的穩健性。",
+    "integration_or_binding": "整合由資訊本身的全息性質所解決；如同全息圖，場的每一部分都含有重建統一知覺所需的全部資訊。",
+    "information_flow_or_representation": "資訊即編碼於波干涉模式中的流動與表徵，儲存於整個神經網路而非特定的局部迴路。",
+    "evolutionary_account": "該理論著重於意識與非局域記憶得以運作的機械性手段，而非為此機制的起源提供明確的種系發生說明。",
+    "core_claims_and_evidence": [
+      "意識源於腦細胞中作為全息儲存網路運作的量子效應。",
+      "記憶以非局域方式分佈，使大腦在局部受損下仍能運作（獲拉胥利的實驗支持）。",
+      "資訊透過樹突網中的波干涉模式進行編碼。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念性、數學性（全息模型）、經驗性（神經生物學損傷研究）、理論性（量子物理學）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗，但在驗證大腦內部所需的量子生物學條件方面面臨極大的經驗困難。",
+    "known_empirical_interventions_or_tests": [
+      "拉胥利的記憶痕跡實驗，顯示即使大腦皮質有大範圍損傷，記憶功能仍然穩健。"
+    ],
+    "criticisms_and_tensions": "主流神經科學因缺乏經驗支持而否定此理論，尤其是關於在大腦炎熱、嘈雜的環境中如何能維持相干的量子效應（去相干難題）。",
+    "open_questions_and_limitations": "量子儲存的確切物理基質以及維持量子相干性的機制仍屬未知，且大體上被主流科學所否定。",
+    "ontological_coherence": "在延伸的量子物理學與資訊理論模型內具融貫性，但根本上與古典化約論唯物論不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件",
+      "rationale": "若意識依賴於特定的量子／物理性質（如樹突振盪與波干涉）而非僅僅古典計算，則人工系統唯有在重現此特定的、目前尚屬未知的物理結構時，方可能具有意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "極不可能／否",
+      "rationale": "意識繫於物理大腦樹突網內的湧現量子動力學；此物理結構的毀壞通常意味著意識的終止，這與物理論存有論一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定／僅限人本主義",
+      "rationale": "作為一個純粹機械論與物理論的理論（儘管援引了非傳統物理學），它並不必然要求任何固有的宇宙意義或價值，儘管它為人類經驗與價值創造的物理基礎提供了說明。"
+    },
+    "virtual_immortality": {
+      "stance": "有條件",
+      "rationale": "唯有當技術能夠完美地測量、映射並在非生物基質中重現生物大腦那極其複雜、高度敏感的量子／全息模式與動力學時，虛擬永生在理論上方為可能。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "延伸／合作"
+      },
+      {
+        "name": "Bohm's Implicate-Explicate Order",
+        "relationship": "影響／合作"
+      },
+      {
+        "name": "Holonomic Principle",
+        "relationship": "影響"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Holonomic Brain Theory",
+        "year": "N/A"
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Wholeness and the Implicate Order, David Bohm",
+        "year": 1980
+      }
+    ]
+  }
+}

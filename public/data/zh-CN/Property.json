@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "属性二元论",
+    "summary": "属性二元论主张，尽管物理实体是唯一的根本实体，却存在两类不可还原的属性：物理属性与心理属性。诸如有意识经验之类的心理属性，是由物理大脑所产生的，但不能被还原为物理属性、或仅凭物理属性得到完全解释。",
+    "associated_thinkers": [
+      "David Chalmers (for Naturalistic Dualism, a variant); historically influenced by numerous philosophers seeking to preserve mental reality within a monist substance framework."
+    ],
+    "category": "二元论",
+    "subcategory": "属性二元论",
+    "core_identity_tagline": "一种实体，两类不可还原的属性（心理的与物理的）",
+    "classification_tags": [
+      "irreducible properties",
+      "non-reductive",
+      "physicalism",
+      "dualism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识由一些心理属性或方面（例如思想、概念、观念）构成，尽管二者都由物理系统（大脑）所例示，这些心理属性从根本上不可还原为物理属性。",
+    "ontological_status": "物理主义（就实体而言）／属性二元论（就属性而言）。",
+    "mind_body_relationship": "心灵（心理属性）不可还原，在本体论上有别于物理属性，然而又完全由物理状态（大脑）所产生。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "强涌现（因为心理属性在原则上不可还原，且无法仅凭物理定律得到解释）。",
+    "subjectivity_and_intentionality": "主体性（第一人称的现象经验）作为物理性的人所固有的、不可还原的属性／方面而产生。意向性被隐含地纳入为根本心理属性／方面之一。",
+    "qualia_account": "感受质（质性的被感受经验）是不可还原的心理属性，抗拒仅凭微观物理属性来加以界定。",
+    "ontological_commitments": "物理实体（物质）与不可还原的心理属性（包括思想、概念、观念）。",
+    "epistemic_access": "既可通过对物理基础（大脑）的第三人称观察通达，也可通过对涌现属性（主体性）的第一人称内省通达。",
+    "constituents_and_structure": "物理实体由基础物理学的构成要素组成，这些要素组织为复杂的结构（大脑），从而产生心理属性。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象属性、思想、概念与观念。",
+    "distinctive_mechanism_or_principle": "心理属性不可还原的原理，主张现象方面有别于物理属性。",
+    "dynamics_of_emergence": "当物理物质达到某种复杂程度（即大脑）时，心理属性便产生。",
+    "location_and_distribution": "定位于物理对象（人／大脑）之中。",
+    "causation_and_functional_role": "心理属性具有因果效力，能够影响物理世界（这一立场与副现象论形成对照）。",
+    "integration_or_binding": "未明确详述。整合被假定发生于产生统一心理属性／方面的物理大脑结构之内。",
+    "information_flow_or_representation": "心理属性／方面包括概念与观念，这意味着其参与复杂的信息／表征加工。",
+    "evolutionary_account": "未明确详述。属性的涌现取决于能够产生它们的生物复杂性的演化。",
+    "core_claims_and_evidence": [
+      "人完全是由基础物理构成要素组成的物理对象。",
+      "心理属性（例如现象意识）由物理大脑所产生，但不可仅还原为物理属性。",
+      "随附关系可能失效，这一点通过可设想性论证（例如哲学僵尸）得到证明。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的；概念的（针对纯还原式物理主义的明显不足）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的／哲学的（可检验性取决于诸如哲学僵尸之类反事实情境的逻辑可能性及其蕴涵）。",
+    "known_empirical_interventions_or_tests": "涉及物理上无法区分的“僵尸”或色觉颠倒者的思想实验（随附关系的失效）。",
+    "criticisms_and_tensions": "必须澄清：若随附关系失效，不同的心理状态如何能从恰好相同的微观物理状态中产生。批评者认为，支持属性二元论的动机最终会导向实体二元论。",
+    "open_questions_and_limitations": "心理属性对物理大脑施加因果影响（心理因果）的确切方式仍有争议，需要加以具体说明。",
+    "ontological_coherence": "内部一致性高，但在严格坚持“不可还原的属性能够仅从一元论式的物理世界中产生、并在其中具有因果效力”这一点上面临张力。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件的",
+      "rationale": "如果非生物系统能够例示产生所描述的不可还原心理属性所需的特定复杂物理组织，那么人工智能就可能有意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识由物理大脑所产生的属性构成。当物理实体（大脑／身体）随死亡而消解时，这些属性也随之不复存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "未表明／中立",
+      "rationale": "该理论聚焦于本体论范畴与属性关系；它接受一种根本上物理性的实体，并不本然地支持宇宙目的论。"
+    },
+    "virtual_immortality": {
+      "stance": "可能的",
+      "rationale": "如果意识是特定物理组织的涌现属性，那么在非生物基质中复制该完整物理状态（大脑结构）应能产生相同的心理属性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "重叠／兼容（常被视为同义或密切相关）"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "批判／对照（拒斥实体的二元论，但保留属性的二元论）"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判／对照（属性二元论一般赋予心理状态以因果效力，不同于副现象论）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Dualism in the Philosophy of Mind, Dean Zimmerman",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Mind-Body Problem and Metaphysics: an Argument from Consciousness to Mental Substance, Ralph Weir",
+        "year": 2023
+      }
+    ]
+  }
+}

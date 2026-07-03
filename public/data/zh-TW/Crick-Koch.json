@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "克里克與科赫的意識的神經相關物（NCC）",
+    "summary": "該理論提出一項科學綱領，旨在辨識意識的神經相關物（NCC），其被界定為對任一特定意識知覺或主觀經驗而言聯合充分且必要的最小腦活動。它主張意識完全是物理的，可被徹底化約為這些特定的腦活動。",
+    "associated_thinkers": [
+      "Francis Crick",
+      "Christof Koch"
+    ],
+    "category": "唯物論",
+    "subcategory": "神經生物學",
+    "core_identity_tagline": "意識即最小腦活動",
+    "classification_tags": [
+      "neurobiological",
+      "reductionism",
+      "qualia",
+      "neurophysiology",
+      "macroscopic materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（現象意識/感質）被認定為意識的神經相關物（NCC），即對主觀經驗而言必要且充分的那種精確的最小神經活動模式。",
+    "ontological_status": "化約式物理論／唯物論。NCC 進路被視為宏觀唯物論。",
+    "mind_body_relationship": "同一論。心理狀態與物理的 NCC 狀態完全同一，並由其充分解釋。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現。這與一種化約式唯物論立場相一致：意識作為生物學腦的產物，原則上可由較低層次的物理定律加以解釋，縱然其明確的聯結目前仍難以捉摸。",
+    "subjectivity_and_intentionality": "主體性（內在覺知）與現象經驗同所辨識出的 NCC 直接相關，或與之同一。意向性同樣將由構成 NCC 的物理歷程來解釋。",
+    "qualia_account": "感質（經驗的質性感受）被認定為對特定意識知覺聯合充分的那種最小神經活動（NCC），儘管這一同一關係的機制仍是核心的「難問題」挑戰。",
+    "ontological_commitments": "生物學腦、神經元、電生理活動（放電）、神經化學傳遞物流動，以及特定的再進腦回路。",
+    "epistemic_access": "透過第三人稱的科學觀測（神經生理學、腦掃描）與意識經驗的第一人稱報告相關聯來通達。",
+    "constituents_and_structure": "其結構由特定的神經元集群以及動態的電／化學活動模式（例如動作電位、傳遞物流動、再進回路）構成，定位於皮質等關鍵腦區。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（主觀經驗、感質）以及意識所必需的相伴的覺知／喚醒。",
+    "distinctive_mechanism_or_principle": "對意識的神經相關物（NCC）的探尋與界定：即對主觀經驗而言必要且充分的那種特定的最小神經活動。",
+    "dynamics_of_emergence": "動態歷程。意識源於傳播的神經生理放電與擴散的神經化學傳遞物所構成的整合系統。",
+    "location_and_distribution": "定位於特定腦區。早期候選者包括屏狀核（作為協調各種知覺的「指揮者」）；後期候選者則聚焦於後部大腦皮質（顳-頂-枕熱區）。",
+    "causation_and_functional_role": "意識由 NCC 活動直接引起，並與之同一。NCC 機制（放電、流動、回路）被視為現象意識的構成性要素。",
+    "integration_or_binding": "假設由某種充當「指揮者」的神經機制（例如屏狀核）來實現，該機制協調來自各皮質區域的輸入，以生成整合的意識知覺。",
+    "information_flow_or_representation": "聚焦於神經回路內經由電生理與神經化學訊號傳遞的資訊的物理表徵與流動。",
+    "evolutionary_account": "該理論植根於唯物論，隱含地假定意識是經由負責神經系統發育的種系發生歷程演化而來的，儘管這並非 NCC 定義本身的焦點。",
+    "core_claims_and_evidence": [
+      "意識完全由對特定意識知覺聯合充分且必要的最小腦活動（NCC）來解釋。",
+      "NCC 機制涉及神經元的電生理動作電位、神經化學傳遞物流動以及再進腦回路。",
+      "NCC 是可經驗觀測的（例如對後部大腦皮質中熱區的探尋）。",
+      "尚未確鑿發現清晰的 NCC（以 2023 年查爾默斯-科赫賭局的落敗為證）。"
+    ],
+    "basis_of_belief_or_evidence_type": "經驗的、科學的、神經生物學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗。對 NCC 的探尋被界定為一項尋求意識之可檢驗生物學基礎的科學計畫。",
+    "known_empirical_interventions_or_tests": [
+      "辨識在意識經驗期間活躍的特定神經元集群或腦區（如屏狀核或後部皮質）。",
+      "測量電生理活動（例如動作電位與神經回路）。"
+    ],
+    "criticisms_and_tensions": "主要張力在於「解釋鴻溝」：辨識出一種相關（NCC）並不能解釋那個同一性命題——物理活動（放電／化學物質）究竟如何字面地生成現象性感受（感質）。數十年研究後仍未能辨識出「清晰的」NCC，則是一項現實的侷限。",
+    "open_questions_and_limitations": "該理論未能解釋物理機制（神經活動）與主觀經驗（現象意識）之間的根本聯結。相關與因果之間的區分仍是一項批評。",
+    "ontological_coherence": "在唯物論／物理論存有論內高度融貫，作為意識如何可被化約為物質的一個雄心勃勃的範例。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "若意識可完全化約為物理組織模式（NCC），那麼能夠複製那些精確模式的非生物系統也應當成為有意識的，除非存在技術上的限制。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種唯物論理論，意識完全依賴於物理的腦；腦功能的終止意味著意識的終結。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義的",
+      "rationale": "與唯物論相一致，意識是演化與物理的生物學產物，除人類為自身所創造者之外，並不賦予任何終極的宇宙意義或目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "若 NCC 狀態能被完美地測量並複製於數位或人工介質中（心智上傳），則所得系統在功能上與現象上都將同一，從而在原則上實現虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Recurrent Processing Theory (Lamme)",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重疊／對比"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "對比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a neurobiological theory of consciousness, F. Crick and C. Koch",
+        "year": 1990
+      },
+      {
+        "title_with_names": "What is the function of the claustrum?, F. Crick and C. Koch",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Quest for Consciousness: a Neurobiological Approach, C. Koch",
+        "year": 2004
+      }
+    ]
+  }
+}

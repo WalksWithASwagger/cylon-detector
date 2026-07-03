@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Loorits 的結構實在論",
+    "summary": "此理論主張意識經驗是完全結構性的現象，以神經活動中複雜的高階模式形式存在於大腦之中。它主張感質雖然看似是質性且非結構性的，實際上卻是複雜的組合性結構，只是被神經模式本身錯誤地知覺為單子式的性質，藉此解決意識的難問題。",
+    "associated_thinkers": ["Kristjan Loorits"],
+    "category": "唯物論",
+    "subcategory": "關係性",
+    "core_identity_tagline": "意識即完全結構性的神經模式",
+    "classification_tags": [
+      "structuralism",
+      "qualia",
+      "neural patterns",
+      "internalism",
+      "illusionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被界定為神經活動中複雜的高階模式，而這些模式在本質上即為結構性的現象。感質是龐大的無意識聯結網路所構成的組合性結構。",
+    "ontological_status": "結構實在論（物理論）",
+    "mind_body_relationship": "同一／化約（意識經驗是存在於大腦中的結構性現象，並可完全以結構性的詞彙加以分析）。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（推論而得，因為此理論主張意識是完全結構性的，並可以物理詞彙加以分析，儘管在概念上解決了難問題，仍歸屬於唯物論的化約框架之內）。",
+    "subjectivity_and_intentionality": "主體性之所以產生，是因為複雜的神經模式將自身高度複雜的結構性性質誤知覺為簡單的、單子式的性質。意識經驗被理解為存在於世界中的客觀結構。",
+    "qualia_account": "感質是完全結構性的現象——由無意識聯結所構成的組合性結構——只是被系統*知覺*為非結構性或質性的（觀點性的現象）。",
+    "ontological_commitments": "複雜的高階神經模式；存在於世界中的客觀結構；龐大的無意識聯結網路。",
+    "epistemic_access": "可透過客觀分析（完全結構性的詞彙）與內省（內省揭示了那種被誤知覺的、單子式的性質）加以通達。並可能透過適當的腦部刺激技術直接通達。",
+    "constituents_and_structure": "大腦中的複雜神經模式，可完全以結構性的詞彙加以分析。這些結構有時會延伸而涵蓋社會—物理環境中的元素。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、難問題（感質），以及私密性／定位的問題。",
+    "distinctive_mechanism_or_principle": "其機制在於生成一種複雜的神經模式，此模式將自身的結構複雜性誤知覺為單子式且質性的，從而製造出非結構性感質的主觀「顯現」。",
+    "dynamics_of_emergence": "動態歷程（意識以神經活動中的模式形式存在，暗示著一種連續的、動態的歷程）。",
+    "location_and_distribution": "主要囿限於大腦（「內在論」）而存在於神經歷程之中，但其結構有時可延伸而涵蓋環境中的元素。",
+    "causation_and_functional_role": "原始材料聚焦於意識的結構同一性與知識論，而非其明確的因果功能角色。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗（其預測有賴於腦部刺激技術的發展）。",
+    "known_empirical_interventions_or_tests": [
+      "此預測認為，適當的腦部刺激技術應能將感質的結構性本質直接揭示給進行經驗的主體。"
+    ],
+    "criticisms_and_tensions": "Loorits 指出一種內在張力：感質雖然在「幕後」可能是關係性的，但只要它們在主觀上仍感覺為內在固有的，就依然難以被科學描述，這意味著難問題在某種意義上仍然存在。",
+    "open_questions_and_limitations": "其限制在於：當主體並未察覺感質底層的結構性／關係性成分時，如何說明感質那種內在固有感受的現象性持存。",
+    "ontological_coherence": "在一個承諾於結構實在論的物理論框架內高度融貫，將現象性質化約為關於大腦的結構事實。它與幻覺論適度契合，因為它將「非結構性的顯現」解釋為觀點性的。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "作為一個將意識等同於結構性神經模式的唯物論理論，這些模式在概念上可於非生物的計算基質中複製。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "此理論將意識界定為存在於生物大腦中的完全結構性現象；因此，一旦這些神經歷程停止，意識也會隨之終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "作為一個唯物論理論，它為現象意識提供了物理論的說明，但不支持終極的、宇宙性的意義或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是（可能）",
+      "rationale": "既然意識完全被等同於結構性的物理性質（神經模式），那麼在非生物媒介中複製這些模式，理應能造成意識自我的完美延續，這與唯物論／功能論的原則相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "延伸／支持（Loorits 支持非結構性特徵實為完全結構性的觀點，並將「顯現」視為觀點性的現象）"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "重疊（此理論有賴於感質的結構性表徵，儘管是被誤知覺的）"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "相容（聚焦於結構的功能／角色而非基質，允許在不同媒介中實現）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Structural qualia: a solution to the hard problem of consciousness, K. Loorits",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The location and boundaries of consciousness: a structural realist approach, K. Loorits",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Phenomenal Consciousness as a Structure in Our Brains, K. Loorits",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Qualities in the world, in science, and in consciousness, K. Loorits",
+        "year": 2022
+      }
+    ]
+  }
+}

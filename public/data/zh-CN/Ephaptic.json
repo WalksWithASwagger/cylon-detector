@@ -1,0 +1,92 @@
+{
+  "id_and_class": {
+    "theory_title": "电场耦合理论",
+    "summary": "该理论主张，神经元所生成的电场足够强、且位置足够精确，从而能够即时影响相邻神经元的电兴奋性（电场耦合）。如果这种耦合在整个大脑中广泛发生，则被认为是有助于构成一种意识电磁场理论的底层物理基础。",
+    "associated_thinkers": [
+      "Chen"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "电磁场",
+    "core_identity_tagline": "意识即经由电场对神经元的近乎即时的影响",
+    "classification_tags": [
+      "electromagnetic field",
+      "neurobiological",
+      "neural dynamics",
+      "coupling"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识可能由源自神经元之间即时非突触电学影响（电场耦合）的电磁场集体动力学所构成或所支持。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "同一性／相关性（心灵即大脑中的物理过程／场）",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "由于电场耦合主要是一种关于神经影响的生物物理机制，其对主体性和意向性的解释便被推交给由此产生的电磁场或它所支持的更大框架。",
+    "qualia_account": "这一具体的耦合机制并未明确论及感受质，但它所支持的更广义的电磁场理论有时会将现象经验列入其解释议程。",
+    "ontological_commitments": "神经元、电场，以及近乎即时的非突触神经影响。",
+    "epistemic_access": "可通过对生物物理现象的观察与建模来通达，重点关注电场对神经活动的影响。",
+    "constituents_and_structure": "由具有电生特性的神经元所生成的电场，它们影响邻近神经元的兴奋性，以组织大尺度的大脑活动。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（隐含地，因为它支持广义的意识电磁场理论）",
+    "distinctive_mechanism_or_principle": "电场的非突触影响（电场耦合），使相邻神经元之间能够进行近乎即时的电学通讯。",
+    "dynamics_of_emergence": "意识是一个动态过程，源自由跨脑组织快速变化的电场所促成的即时耦合与同步化。",
+    "location_and_distribution": "广泛分布于大脑组织之中，凡是神经元之间发生显著电场耦合之处皆有。",
+    "causation_and_functional_role": "即时影响邻近神经元的电兴奋性，从而可能促进意识所需的快速整合与同步化。",
+    "integration_or_binding": "假设整合或绑定经由近乎即时的电场耦合在分布式神经网络间所促成的广泛影响与同步化而发生。",
+    "information_flow_or_representation": "信息处理依赖于神经元之间在传统突触通路之外的电学影响的即时传递。",
+    "evolutionary_account": "必定与中枢神经系统在系统发生演化过程中高度快速、整合的神经通讯的适应价值相符，与其在唯物主义理论下的分类相一致。",
+    "core_claims_and_evidence": [
+      "神经元产生的电场足够强，能够近乎即时地影响邻近神经元的兴奋性。",
+      "电场耦合若足够广泛，则有助于构成一种意识电磁场理论。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验的（依赖生物物理学以及对神经活动和电场的生理学观察）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "经验上可检验",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "面临所有唯物主义理论共有的普遍困难，即解释一种物理机制（电学耦合）如何产生主观的现象经验。",
+    "open_questions_and_limitations": "一个重大的未决问题是：电场耦合是否在大脑组织中广泛到足以构成一个能够解释意识的全局场。",
+    "ontological_coherence": "与唯物主义本体论高度一致；它为大脑中复杂电场的涌现提供了一种生物物理机制。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识基于源自电活动和耦合的物理场现象，那么能够生成类似复杂场效应的人工系统便应能实现意识，这与更广义的唯物主义范畴相一致。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作为一种唯物主义理论，意识与运作中的物理基质（大脑及其电场）相联系，从而排除了肉体死亡后的存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义意义",
+      "rationale": "作为一种纯粹从神经生物学和电磁机制推导出的物理理论，它并不蕴含终极的宇宙意义或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果精确的神经动力学以及由此产生的电场（包括电场耦合）能够在非生物介质中被准确复现或模拟，那么虚拟永生便是可信的，这与唯物主义相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "支持"
+      },
+      {
+        "name": "CEMI Field Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Neurobiological Theories",
+        "relationship": "扩展"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Ephaptic coupling",
+        "year": 2020
+      }
+    ]
+  }
+}

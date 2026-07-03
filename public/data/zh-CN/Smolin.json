@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "斯莫林的因果视角理论",
+    "summary": "该理论提出了对量子理论的一种关系性且实在论的完备化，主张宇宙从根本上由一系列“事件的视角”所构成，这些视角由其因果过去所能提供的信息来定义。意识被认定为那些在宇宙历史中前所未有或独一无二的、稀有而特定的视角。",
+    "associated_thinkers": ["Lee Smolin"],
+    "category": "量子理论",
+    "subcategory": "关系／因果量子理论",
+    "core_identity_tagline": "作为新颖或独特因果视角的意识",
+    "classification_tags": [
+      "relational physics",
+      "quantum theory",
+      "realism",
+      "restricted panpsychism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被提出为在宇宙历史中新颖或独特的“事件视角”的某些面向（或与之相同一）。这一进路将感受质直接整合进物理学。",
+    "ontological_status": "实在论关系物理主义／受限泛心论。该理论被表述为对量子力学的一种“实在论”完备化，其结果是一种受限形式的泛心论。",
+    "mind_body_relationship": "心灵（有意识的知觉／感受质）是底层物理实在的一个面向，具体而言即“事件的视角”，它们是该理论的beables（可存在者）。",
+    "primitive_or_emergent_status": "原初／基础性（就新颖视角而言）。意识被界定为特定关系性实体（视角）的一个基础性面向，由一条物理原理所选择，而非从复杂物理过程中涌现。",
+    "emergence_type": "选择原理／基础性面向。意识并非通过标准的累积产生，而是经由对常见（常规）与新颖（独特）关系状态之间的物理区分而产生。",
+    "subjectivity_and_intentionality": "意识的一个基本单位，是从某一事件所看到的整个关于宇宙的部分视角（一个“瞬时自我”）。因此，主体性植根于该事件因果视角所独有的透视性本性。",
+    "qualia_account": "感受质被假设为事件之新颖视角的某些面向，这有助于将其纳入完备化的物理学框架之中。",
+    "ontological_commitments": "被称为“事件的视角”的关系性实体（由其因果过去的信息定义，例如能量和动量的转移）是宇宙的基础性“beables（可存在者）”。",
+    "epistemic_access": "经由对量子力学之实在论完备化的理论建构在概念上加以认识。经验检验或可通过涉及量子系统的实验来实现，类似于为相关理论所提出的那些实验。",
+    "constituents_and_structure": "基本构件是事件的视角，它们构成一个由自身的部分视角所组成的“因果宇宙”。意识对应于这些视角的新颖结构。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、自我觉知（作为“瞬时自我”）。",
+    "distinctive_mechanism_or_principle": "一条基于物理的选择原理，用以区分有意识的事件：只有那些在宇宙历史中新颖、前所未有或独一无二的“视角”才与有意识的知觉相关联。",
+    "dynamics_of_emergence": "意识与“有意识经验的实例或瞬间”相关联，这些实例或瞬间对应于由其关系性因果历史所定义的事件。",
+    "location_and_distribution": "定位于其因果视角被判定为新颖的稀有事件。其分布遵循一种受限泛心论，即有意识的面向并非无处不在，而是受选择原理所限制。",
+    "causation_and_functional_role": "意识是基础性关系beables（可存在者）的一个内在面向。由于该理论将感受质整合进物理学，意识具有因果相关性，尽管其确切的功能角色（例如控制）在来源材料中未作明确界定。",
+    "integration_or_binding": "整合或绑定问题通过将意识的基本单位界定为从该事件所看到的整个关于宇宙的部分视角来解决。",
+    "information_flow_or_representation": "信息——具体而言即因果历史（前驱、能量、动量转移）——是定义那个构成有意识单位的“视角”的内容。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "实在的beables（可存在者）是事件的视角（因果信息）。",
+      "有意识的知觉仅限于事件的新颖或独特视角。",
+      "该理论试图成为对量子力学的一种实在论完备化。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、理论物理学"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性的，但在概念上可能可检验。斯莫林的工作旨在对物理过程作出完整描述，提示其最终会与经验科学相整合。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "界定并在物理上识别事件的“新颖”或“独特”视角，其复杂性带来了挑战。作为一种受限泛心论，它必须调和现象性属性在不同类型物理事件中的存在与缺失。",
+    "open_questions_and_limitations": "应用“新颖性／独特性”选择原理并将由此产生的瞬时自我加以形式化的明确方法论仍有待进一步发展。",
+    "ontological_coherence": "在所提出的框架内是融贯的，其目标是通过扩展对基础性实在的定义而将感受质纳入物理学。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件",
+      "rationale": "如果人工智能系统的计算过程生成了真正新颖且独特、满足选择标准的事件因果视角，它们就有可能获得意识；但对于常规计算过程而言，这并无保证。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识与宇宙中的物理事件及其因果视角相绑定。一旦底层的物理基质（脑／事件序列）消散，并没有任何机制被描述来使这些视角独立地存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "未定",
+      "rationale": "该理论着眼于意识的基础性物理本体论（感受质如何嵌入物理学），并未内在地处理宇宙意义或目的论。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "数字复制很可能只会再现“常见而常规”的视角，而这些视角被明确假设为与有意识的知觉并不相关。真正的虚拟意识将要求生成新颖性，而这似乎不可能仅通过模拟来实现。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Rovelli's Relational Physics",
+        "relationship": "影响／重叠"
+      },
+      {
+        "name": "Panpsychism (Micropsychism)",
+        "relationship": "限制／对比"
+      },
+      {
+        "name": "Bohm’s Implicate-Explicate Order",
+        "relationship": "语境性影响"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On the Place of Qualia in a Relational Universe, Lee Smolin",
+        "year": 2020
+      }
+    ]
+  }
+}

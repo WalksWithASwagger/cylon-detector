@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "克拉克的内容假说理论",
+    "summary": "该理论主张，现象意识是从某个认知系统充分结构化的加工中导出的表征内容 。有意识的经验在范畴上是主体性的，并与物理的大脑有着根本的关联，作为一种由大脑所例示的物质现象而运作 。",
+    "associated_thinkers": ["Thomas Clark"],
+    "category": "唯物主义",
+    "subcategory": "表征主义",
+    "core_identity_tagline": "作为结构化表征内容的现象意识",
+    "classification_tags": [
+      "representational",
+      "subjective",
+      "materialist",
+      "cognitive",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "现象意识被认定为某个认知系统充分结构化的表征加工所具有的表征内容 。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "同一／涌现论。意识被描述为一种由大脑所例示的严格物理的现象 。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现。意识产生于充分复杂且结构化的物质加工（这是唯物主义立场的一个核心假设） 。",
+    "subjectivity_and_intentionality": "有意识的经验在范畴上是主体性的，因为它只为该有意识的系统而存在 。主体性与自反思系统的有限性相联系，这种有限性使其无法目睹自身的开端或终结，从而作为一个“不可超越的客体”而发挥作用 。",
+    "qualia_account": "感受质（基本的感官性质）是抵抗进一步表征的认识论原初项，这解释了它们不可分解的、单子式的特征 。",
+    "ontological_commitments": "认知系统、结构化的表征加工、表征内容以及认识论原初项 。",
+    "epistemic_access": "意识通过分析表征内容的结构以及自反思认知系统的功能性约束来加以研究 。",
+    "constituents_and_structure": "其基本结构涉及自反思认知系统内部充分结构化的表征加工 。由该系统所创造的现象世界在主观上对自身的消失是免疫的 。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、主体性、基本感官性质",
+    "distinctive_mechanism_or_principle": "抵抗进一步表征的认识论原初项的运作，与充分结构化的表征加工相结合 。",
+    "dynamics_of_emergence": "动态过程。意识由充分结构化的认知系统内部持续进行的活动（加工）所产生 。",
+    "location_and_distribution": "定位于认知系统（大脑）之内，并在其中被严格地以物理方式例示 。",
+    "causation_and_functional_role": "意识的功能角色与自反思认知系统的本性相联系，使其能够创造一个独立于其客观存在的主观世界 。",
+    "integration_or_binding": "整合隐含于生成“充分结构化的表征加工”以形成统一内容的过程之中 。",
+    "information_flow_or_representation": "意识是结构化且自反思的表征性信息流的最终产物，或曰内容 。",
+    "evolutionary_account": "意识与自反思认知系统的有限性相联系，其涌现是为了防止该系统经验到自身的不存在 。",
+    "core_claims_and_evidence": [
+      "现象意识是某个充分结构化的加工系统所具有的表征内容 。",
+      "基本感官性质具有单子式的特征，因为它们是抵抗进一步表征的认识论原初项 。",
+      "该模型与整合信息理论、全局工作空间理论以及预测加工相一致 。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念性的、哲学的、计算的（预期在表征科学中获得证实） "
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上可检验。它寻求从“表征与表征内容科学的发展”中获得证实 。",
+    "known_empirical_interventions_or_tests": "文献未列出具体的检验，但该模型与整合信息理论（IIT）、全局工作空间理论（GWT）以及预测加工的相关研究相一致（因而可从中获得启发） 。",
+    "criticisms_and_tensions": "与其他表征理论一样，它很可能面临这样的挑战：如何解释仅凭结构化的信息内容就能完整说明质性的、不可还原的现象经验 。",
+    "open_questions_and_limitations": "内容假说的明确经验证实，以及所需表征加工的具体结构，仍是悬而未决的问题 。",
+    "ontological_coherence": "高度融贯，将意识完全奠基于一种自然主义与唯物主义的本体论之中 。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "由于意识被设定为一种由充分结构化的加工所产生的严格物理的现象，在先进人工系统中复制这一结构应当能够实现意识 。"
+    },
+    "survival_beyond_death": {
+      "stance": "否（就个人自我而言）／是（就一般主体性而言）",
+      "rationale": "个体意识是一种物理例示，并在脑死亡时消解。然而，“一般主体连续性”表明意识会在其他情境中延续，尽管并非作为已故的个体 。"
+    },
+    "meaning_and_purpose": {
+      "stance": "存在主义的／内在的",
+      "rationale": "意识受自反思系统之有限性的驱动，内在地创造出一个内部世界，从而提供了一种与维持主体连续性相联系的目的 。"
+    },
+    "virtual_immortality": {
+      "stance": "有条件的",
+      "rationale": "作为一种唯物主义理论，如果作为其界定性特征的“充分结构化的表征加工”能够在非生物介质中被精确复制，那么个人意识的转移就是可能的 。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "一致"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "一致"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "一致"
+      },
+      {
+        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "relationship": "影响"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Locating consciousness: why experience can’t be objectified, T. Clark",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Death, nothingness, and subjectivity, T. Clark",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Personal Communication, T. Clark",
+        "year": 2024
+      }
+    ]
+  }
+}

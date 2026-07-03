@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Humphrey 的心理表徵與大腦吸引子理論",
+    "summary": "這一唯物論理論將現象意識視為演化上晚近的產物，僅存在於某些複雜物種之中。感覺透過兩階段過程生成：先收集感覺資訊，隨後進行一種解讀性的「有意識閱讀」，由此生成具有現象屬性（感質）的心理表徵，這些表徵往往由大腦中複雜的吸引子狀態加以穩定。",
+    "associated_thinkers": ["Nicholas Humphrey"],
+    "category": "唯物論",
+    "subcategory": "表徵主義",
+    "core_identity_tagline": "現象意識作為吸引子中演化而來的心理表徵",
+    "classification_tags": [
+      "evolutionary",
+      "representation",
+      "qualia",
+      "attractor states",
+      "phenomenal self"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為對刺激的心理表徵（我們所生成的觀念），具體而言是在解讀階段（「有意識閱讀」）中產生、並被穩定為大腦中複雜吸引子狀態的那些屬性。",
+    "ontological_status": "唯物論／化約論物理論",
+    "mind_body_relationship": "心理狀態（感覺／表徵）由物理大腦生成。儘管現象屬性並非大腦狀態的字面屬性，但它們是由大腦構想出來的心理狀態（表徵），這意味著一種依賴關係。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性源自解讀階段，生成一種在心理上令人印象深刻的自我感——一個「現象自我」——它基於關於刺激如何影響有機體的表徵。意向性內在於感覺之為對刺激的表徵這一點。",
+    "qualia_account": "感質是僅在解讀階段（有意識閱讀）產生的「現象屬性」。它們作為心理表徵而被生成，並由大腦中數學上複雜的吸引子狀態加以精煉和穩定。",
+    "ontological_commitments": "心理表徵、大腦吸引子狀態、傳出副本，以及使表徵得以穩定的神經回饋迴路。",
+    "epistemic_access": "儘管經驗本身高度主觀（「作為我是何種感受」），但仍可透過客觀的第三人稱進路加以通達，尤其是透過重建演化步驟（正向工程）以及研究神經機制。",
+    "constituents_and_structure": "神經回饋迴路變得遞迴並在時間上被拉伸，穩定為數學上複雜的吸引子狀態，生成構成現象經驗的內部表徵（如同一種內部文本）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（感受性）、感質的生成，以及現象自我。",
+    "distinctive_mechanism_or_principle": "一個兩階段的處理系統（感覺輸入之後是有意識閱讀／解讀），其中表徵由複雜的大腦吸引子狀態加以精煉和穩定。這一過程起源於經由「傳出副本」對原始評價性反應的監測。",
+    "dynamics_of_emergence": "意識是一個動態過程，經由天擇逐漸產生，從原始的評價性反應開始，透過精煉並穩定為複雜的、遞迴的神經活動而不斷推進。",
+    "location_and_distribution": "定位於生物大腦，具體而言是能夠支持複雜心理表徵與吸引子狀態的神經回饋迴路。它被視為一項演化上相對晚近的發明，意味著一種非梯度式的分布（例如存在於哺乳動物和鳥類，但不存在於龍蝦或青蛙）。",
+    "causation_and_functional_role": "其首要功能角色是透過現象自我的湧現，以及監測和解讀刺激（一種感受）的能力，為有機體在「適應度賽局」中提供適應性優勢。",
+    "integration_or_binding": "整合透過神經回饋迴路穩定為複雜吸引子狀態而實現，後者生成感覺感質的統一質性。",
+    "information_flow_or_representation": "資訊以兩個階段流動：感覺輸入（感覺文本）之後是解讀性表徵（有意識閱讀），其間大腦生成對刺激的內部表徵（內部文本）。",
+    "evolutionary_account": "意識是一項演化上相對晚近的適應，經由天擇（「正向工程」）從原始的動物反應中被發明出來，為主體提供心理上的益處。",
+    "core_claims_and_evidence": [
+      "意識是大腦生成的一種心理表徵（觀念），而非對大腦活動的字面映射。",
+      "現象屬性（感質）僅在處理的解讀階段（有意識閱讀）中產生。",
+      "「現象自我」的發明在適應度賽局中提供了適應性益處。",
+      "難問題被認為是「錯誤的問題」，因為它錯誤地尋求一個映射到現象屬性的神經相關物。"
+    ],
+    "basis_of_belief_or_evidence_type": "演化的、神經心理學的、哲學／概念的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗。該理論設定了特定的演化節點與大腦動力學（吸引子狀態、傳出副本），它們應與現象經驗及物種分布相關聯。",
+    "known_empirical_interventions_or_tests": "該理論意味著可檢驗現象意識在物種間的分布（例如將哺乳動物／鳥類與蜥蜴／青蛙等較不複雜的動物區分開來）。它還引導研究不再期待大腦活動與現象屬性之間存在直接映射。",
+    "criticisms_and_tensions": "一個潛在的張力在於，數學上複雜的吸引子狀態如何「憑空」產生出感覺感質那種看似無從說明的質性。Humphrey 還拒斥難問題的前提，這仍是其與非唯物論立場之間的一個關鍵張力。",
+    "open_questions_and_limitations": "精確界定擁有現象意識的物種之演化分界點仍是一個開放問題。複雜吸引子狀態如何轉譯為特定的質性感受，其機制尚需進一步細化。",
+    "ontological_coherence": "在嚴格的唯物論與消解論框架內是融貫的，因為它力圖將意識與感質解釋為複雜但終究是物理的表徵，從而繞開難問題所帶來的傳統心身難題。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作為一種唯物論理論，意識由大腦中複雜的資訊處理、表徵與吸引子狀態所實現，那麼能夠複製這些機制的人工系統原則上應當能夠變得有意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全依賴於演化而來的生物大腦及其特定的神經機制（表徵與吸引子狀態）。大腦的死亡意味著意識的終止，這與唯物論相一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人文意義",
+      "rationale": "該理論被嚴格地置於演化脈絡中，意識為在「適應度賽局」中獲得適應性益處而產生，這意味著意義與目的是人類創造的或主觀的，而非宇宙性的或終極的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意識可完全由大腦生成的特定神經模式、表徵與吸引子狀態來解釋（唯物論理論），那麼將這些功能性動力學完美複製到非生物介質中，便應能保存第一人稱的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Thought Theory",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Sentience: the Invention of Consciousness, Nicholas Humphrey",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The invention of consciousness, Nicholas Humphrey",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Seeing and somethingness, Nicholas Humphrey",
+        "year": 2022
+      }
+    ]
+  }
+}

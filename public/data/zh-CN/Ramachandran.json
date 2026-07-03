@@ -1,0 +1,86 @@
+{
+  "id_and_class": {
+    "theory_title": "拉马钱德兰的新物理学与神经科学",
+    "summary": "这一视角主张，意识问题无法为当前的神经科学或物理学所解决，因为这些学科只提供第三人称的描述，将主观经验（感受质）排除在外。它呼吁建立一门物理学与神经科学的全新混合学科，从根本上把意识纳入为实在的一个组分，探讨意识如何与物理定律交织。",
+    "associated_thinkers": ["V.S. Ramachandran"],
+    "category": "一元论",
+    "subcategory": "物理学与意识的整合",
+    "core_identity_tagline": "与新物理定律交织的意识",
+    "classification_tags": ["monism", "physics", "neuroscience", "qualia"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为实在的一个根本部分，必须通过一门全新的混合学科将其与物理定律和神经科学相整合。",
+    "ontological_status": "一元论（混合／必需）",
+    "mind_body_relationship": "心灵是实在不可分割的一个面向，其与物理定律的关系有待探讨，这意味着一种交织的同一性，而非严格的还原或分离。",
+    "primitive_or_emergent_status": "原初／根本（隐含）",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "主体性（第一人称视角）是实在的一个特殊面向，当前第三人称的物理学与神经科学未能承认它，因而需要一个新框架将其纳入。",
+    "qualia_account": "感受质，如看见颜色，是首要的感官经验，其解释需要所提议的新混合学科，因为它们被传统物理学的第三人称本性所排除。",
+    "ontological_commitments": "物理实在（大脑与物理定律）与意识／主观经验，二者根本相联结且皆为实在。",
+    "epistemic_access": "要求从仅有的第三人称描述（物理学）转向明确纳入第一人称视角（主体性）。",
+    "constituents_and_structure": "一种统一的概念结构，界定意识如何与物理定律相整合或“交织”，要求对实在的根本组分进行重新表述。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象（具体而言即感受质／第一人称视角）",
+    "distinctive_mechanism_or_principle": "其原则是必须创建一门“新的混合学科”，在功能上把意识的第一人称视角与物理学、神经科学的客观规则相整合。",
+    "dynamics_of_emergence": "具体的动力学目前尚不清楚，但目标是把意识动态地整合进物理定律，以获得对实在的完整描述。",
+    "location_and_distribution": "意识根本上是实在的一部分，其物理实现系于大脑（他视之为物理学的一个分支），需要在根本定律的层次上进行整合。",
+    "causation_and_functional_role": "意识是实在的一个根本部分，其力量或功能必须在“它如何与物理定律交织”的语境中加以探讨。",
+    "integration_or_binding": "隐含地要求整合以说明有凝聚力的“首要感官经验”，但未详述具体机制。",
+    "information_flow_or_representation": "批评物理学是对世界的第三人称描述，凸显主观的经验流是缺失的信息／表征要素。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "意识与感受质问题无法为当前的神经科学或物理学所回答。",
+      "物理学本质上局限于第三人称描述，排除了主观的第一人称经验。",
+      "需要一门新的混合学科来探讨意识作为实在之一部分如何与物理定律交织。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学批判、本体论必然性、现象学观察"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验（作为对现有方法的批判）；经验上未加界定，因为其所呼吁的是一门尚不存在的学科。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该观点批评主流神经科学与物理学因意识问题未以显而易见的方式出现而对其加以忽视，从而招致主流的怀疑。",
+    "open_questions_and_limitations": "首要局限在于它是一个基础性纲领而非一个完整的理论；究竟应如何在科学上把意识整合进物理定律，仍未解决。",
+    "ontological_coherence": "在一元论内部高度融贯，主张当前的物理本体论因排除主观实在而不完整，因而需要扩展／修正。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不确定／有条件",
+      "rationale": "如果最终的“新物理学”框架揭示第一人称视角能够由有能力表达这些根本定律的非生物系统所实例化，那么人工智能意识就是可能的；否则，它很可能是不可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "不确定／有条件",
+      "rationale": "该框架借鉴吠陀典籍，后者论及意识并可能暗示死后存在，但其对发展一门科学的“新物理学与神经科学”的聚焦，使生物性存续的问题取决于所发现之定律的根本本性。"
+    },
+    "meaning_and_purpose": {
+      "stance": "未界定",
+      "rationale": "该理论聚焦于通过把主体性整合进物理实在来达成本体论与认识论上的完整性，但它本身并不赋予宇宙意义或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "不确定／有条件",
+      "rationale": "虚拟永生完全取决于意识“交织”于实在的具体方式能否为先进技术在模拟基质中充分复现和操纵。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Monisms",
+        "relationship": "范畴"
+      },
+      {
+        "name": "Dualisms",
+        "relationship": "批评"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "潜在拓展／相容性"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What makes brains conscious?",
+        "year": 2019
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "Cleeremans 與 Tallon-Baudry 的功能價值理論",
+    "summary": "此理論認為，現象意識之所以演化出現，是因為它透過為基於獎賞的行為增添一個關鍵的自由度而帶來功能價值。它主張，主觀經驗充當一種「心理貨幣」，為意識狀態賦予內在價值，從而使多樣經驗之間的比較與統一成為可能。",
+    "associated_thinkers": [
+      "Axel Cleeremans",
+      "Catherine Tallon-Baudry"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "系統發生演化",
+    "core_identity_tagline": "作為功能價值與心理貨幣的意識",
+    "classification_tags": [
+      "functionalism",
+      "evolution",
+      "phenomenal worthiness",
+      "intrinsic value"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象意識被認定為具有內在功能價值，充當一種心理貨幣，為意識狀態賦予有助於行為優化的價值。",
+    "ontological_status": "唯物論",
+    "mind_body_relationship": "意識是一項演化而成的生物特徵，與支配基於獎賞之行為的神經機制相聯繫。這一關係試圖將難問題化約為一個功能問題。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性源於比較與評估多樣經驗（「心理貨幣」）所必需的一個共同的、以主體為中心的空間之要求。意向性則隱含地與目標導向的、基於獎賞的行為相聯繫。",
+    "qualia_account": "感質（現象經驗）透過其擁有內在價值而在功能上得到解釋，這使得難問題可以被化約為一個關於功能的問題。",
+    "ontological_commitments": "支持基於獎賞之行為的生物機制；能夠比較與評估內部狀態的系統。",
+    "epistemic_access": "透過研究現象經驗如何在決策中提供功能價值、透過情緒研究以及意識研究來獲得通達。",
+    "constituents_and_structure": "一個源自經演化選擇之基於獎賞之行為機制的、共同的、以主體為中心的空間。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、功能價值、統一的經驗",
+    "distinctive_mechanism_or_principle": "現象值當性假說主張，意識之所以演化出現，是透過為經驗賦予內在價值（「心理貨幣」），從而使截然不同的需求之間得以相互比較，並在基於獎賞的情境中優化決策。",
+    "dynamics_of_emergence": "意識透過系統發生演化與選擇而產生，為既有的基於獎賞之行為機制增添了一個重要的自由度。",
+    "location_and_distribution": "定位於具備基於獎賞之學習以及內在價值比較所必需的生物機制的有機體之中。",
+    "causation_and_functional_role": "意識發揮著主動的、因果性的作用。其功能作用在於提供一種共同貨幣（內在價值），用以比較多樣的、可能相互競爭的主觀狀態，從而優化行為。",
+    "integration_or_binding": "統一之所以得以實現，是因為現象經驗被容納於一個共同的、以主體為中心的空間之中，該空間有助於同時比較所有內在價值。",
+    "information_flow_or_representation": "代表多樣經驗的資訊流被處理，並被賦予內在價值（現象值當性），以供比較與調節行為。",
+    "evolutionary_account": "意識之所以演化並被選擇，是因為它透過為基於獎賞的行為增添一個自由度而提供功能優勢，優化了生存與探索。",
+    "core_claims_and_evidence": [
+      "現象意識具有功能價值，否定了經典的副現象論觀點。",
+      "意識之所以演化出現，是因為它為基於獎賞的行為賦予了一個重要的自由度。",
+      "現象經驗充當一種「心理貨幣」，使得對多樣內部狀態進行統一比較成為可能。"
+    ],
+    "basis_of_belief_or_evidence_type": "演化的、功能的／神經科學的、哲學的（化約為功能）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗",
+    "known_empirical_interventions_or_tests": "研究內在價值的主觀報告、經驗的統一性與基於獎賞之情境中的決策三者之間關係的測量。",
+    "criticisms_and_tensions": "非唯物論者批評該理論試圖將難問題化約為一個關於功能的問題，認為這不足以解釋經驗本身的質性面向。",
+    "open_questions_and_limitations": "其首要侷限在於，需要就*為何*功能價值會有某種感受給出機制性的說明，而不僅僅是陳述這種感受具有功能上的效用。",
+    "ontological_coherence": "在唯物論存有論內高度融貫，因為它旨在將現象經驗化約為一項經過經驗演化、在功能上有益的生物性質。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作為一種聚焦於功能與演化機制的唯物論理論，如果使內在估值與比較得以實現的機制（心理貨幣）能夠在人工基質中得到實現，那麼人工智慧意識便是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識是生物機制的一項演化性質，與有機體的功能需求相聯繫，這與唯物論對死後存續的否定相一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本層面",
+      "rationale": "意識服務於一種適應性的、生物性的目的（優化基於獎賞的行為），意味著不存在終極的宇宙意義，與唯物論相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "鑑於其根植於唯物論的強功能論立場，如果負責賦予內在價值的相關功能動態與機制能夠以非生物方式加以複製，那麼虛擬不朽原則上是可以實現的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Top-Down Predictive Theories",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness matters: phenomenal experience has functional value, Axel Cleeremans, Catherine Tallon-Baudry",
+        "year": 2022
+      }
+    ]
+  }
+}

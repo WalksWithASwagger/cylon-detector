@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "斯莫林的因果視域理論",
+    "summary": "此理論提出量子理論的一種關係性與實在論式的完備化，主張宇宙從根本上是由一組「事件的視域」所構成，這些視域由其因果過去所可得的資訊來界定。意識被認定為那些在宇宙歷史中前所未有或獨一無二的稀有、特定視域。",
+    "associated_thinkers": ["Lee Smolin"],
+    "category": "量子理論",
+    "subcategory": "關係／因果量子理論",
+    "core_identity_tagline": "意識作為新穎或獨特的因果視域",
+    "classification_tags": [
+      "relational physics",
+      "quantum theory",
+      "realism",
+      "restricted panpsychism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被提議為那些在宇宙歷史中新穎或獨特的事件視域的面向（或與其同一）。此進路將感質直接整合進物理學。",
+    "ontological_status": "實在論式關係物理論／受限泛心論。該理論被建構為量子力學的一種「實在論式」完備化，其結果為一種受限形式的泛心論。",
+    "mind_body_relationship": "心靈（有意識的知覺／感質）是底層物理實在的一個面向，具體而言即「事件的視域」，也就是該理論的 beables（可存有者，Bell 的用語，指理論中真實存在的實體）。",
+    "primitive_or_emergent_status": "原初／根本（就新穎視域而言）。意識被界定為特定關係性實體（視域）的根本面向，由一項物理原理所選取，而非從複雜的物理歷程中湧現。",
+    "emergence_type": "選擇原理／根本面向。意識並非透過標準的累積而生起，而是透過對常見（例行）與新穎（獨特）關係狀態之間的物理區分而生起。",
+    "subjectivity_and_intentionality": "意識的基本單位是從單一事件所見到的整個宇宙的部分視域（一個「瞬時自我」）。因此主體性根植於該事件因果視域獨特的視角性本質。",
+    "qualia_account": "感質被假設為事件之新穎視域的面向，此設定將它們納入了完備化的物理學框架之中。",
+    "ontological_commitments": "被稱為「事件的視域」的關係性實體（由其因果過去的資訊界定，例如能量與動量的傳遞）是宇宙根本的「beables（可存有者）」。",
+    "epistemic_access": "透過對量子力學實在論式完備化的理論建構在概念上加以認識。經驗檢驗或許可能，可透過涉及量子系統的實驗，類比於為相關理論所提議者。",
+    "constituents_and_structure": "基本構件是事件的視域，它們構成一個由自身部分視域所組成的「因果宇宙」。意識對應於這些視域的新穎結構。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、自我覺知（作為「瞬時自我」）。",
+    "distinctive_mechanism_or_principle": "一項以物理為基礎的選擇原理，用以區分有意識的事件：唯有那些在宇宙歷史中新穎、前所未有或獨一無二的「視域」才與有意識的知覺相關聯。",
+    "dynamics_of_emergence": "意識與「有意識經驗的實例或瞬間」相關聯，這些瞬間對應於由其關係性因果歷史所界定的事件。",
+    "location_and_distribution": "定域於那些因果視域被判定為新穎的稀有事件。其分布遵循一種受限泛心論，其中有意識的面向並非無所不在，而是受選擇原理所限制。",
+    "causation_and_functional_role": "意識是根本關係性 beables 的內在面向。由於該理論將感質整合進物理學，意識具有因果相關性，儘管其確切的功能角色（例如控制）在來源材料中並未明確界定。",
+    "integration_or_binding": "整合或綁定問題藉由將意識的基本單位界定為從該事件所見到的整個宇宙部分視域而獲得處理。",
+    "information_flow_or_representation": "資訊——具體而言即因果歷史（前身、能量、動量傳遞）——是界定構成有意識單位之「視域」的內容。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "實在的 beables 是事件的視域（因果資訊）。",
+      "有意識的知覺受限於事件之新穎或獨特的視域。",
+      "該理論嘗試成為量子力學的實在論式完備化。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學性、理論物理學"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "臆測性，但潛在地在概念上可檢驗。斯莫林的工作旨在對物理歷程作出完整描述，提示其最終能與經驗科學整合。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "界定並在物理上辨識「新穎」或「獨特」事件視域的複雜性帶來了挑戰。作為一種受限泛心論的形式，它必須調和現象性質在不同類型物理事件間的存在與缺席。",
+    "open_questions_and_limitations": "應用「新穎性／獨特性」選擇原理並將由此產生的瞬時自我加以形式化的明確方法學仍有待進一步發展。",
+    "ontological_coherence": "在所提出的框架內是融貫的，其目標是藉由擴展根本實在的定義而將感質帶入物理學。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件",
+      "rationale": "若人工智慧系統的計算歷程產生真正新穎且獨特、符合選擇準則的事件因果視域，它們或有可能達致意識，但對於例行的計算歷程而言這並無保證。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識繫於宇宙中的物理事件及其因果視域。一旦底層的物理基質（大腦／事件序列）消解，並未描述任何使這些視域得以獨立持續存在的機制。"
+    },
+    "meaning_and_purpose": {
+      "stance": "未定",
+      "rationale": "該理論著重於意識的根本物理存有論（感質如何契入物理學），而本質上並未觸及宇宙意義或目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "數位複製很可能會重現「常見且例行」的視域，而這些視域被明確假設為與有意識的知覺不相關。真正的虛擬意識將需要產生新穎性，而這透過純粹模擬似乎不太可能。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Rovelli's Relational Physics",
+        "relationship": "影響／重疊"
+      },
+      {
+        "name": "Panpsychism (Micropsychism)",
+        "relationship": "限制／對比"
+      },
+      {
+        "name": "Bohm’s Implicate-Explicate Order",
+        "relationship": "脈絡性影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On the Place of Qualia in a Relational Universe, Lee Smolin",
+        "year": 2020
+      }
+    ]
+  }
+}

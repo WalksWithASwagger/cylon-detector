@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "巴尔斯与迪昂的全局工作空间理论",
+    "summary": "该理论主张，意识觉知由那些达致全脑性在场与广泛可通达性的特定多感官、多认知信息所构成。它将意识构想为一座内在的“剧场”，此类信息在其中被全局广播，从而调和了瞬时意识内容的有限容量与广阔的长时记忆通达之间的关系。",
+    "associated_thinkers": [
+      "Bernard Baars",
+      "Stanislas Dehaene"
+    ],
+    "category": "唯物主义",
+    "subcategory": "神经生物学",
+    "core_identity_tagline": "意识即全局信息可通达性",
+    "classification_tags": [
+      "neurobiological",
+      "information",
+      "access",
+      "cognitive",
+      "broadcasting"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为特定的、整合的信息在脑内众多专门模块系统间的瞬时全局可用性与广泛可通达性。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "同一/相关。心灵（意识觉知）被认定为脑内全局信息广播这一特定的、以生物学方式实现的过程，或与之强烈相关。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现。作为一种核心的唯物主义/神经生物学理论，它假定意识源于复杂但终究可解释的生物学脑功能，这意味着意识在原则上是可还原的。",
+    "subjectivity_and_intentionality": "主体性源于全局工作空间中那些独特整合的内容；意向性（思想的指向性）内在于那些获得进入工作空间之通道的多认知、目标相关的信息之中。",
+    "qualia_account": "现象经验（感受质）通过提出一种严格生物学的意识觉知机制来加以说明。感受质对应于全局工作空间内广泛可通达的、整合的、可报告的多感官信息的内容。",
+    "ontological_commitments": "特定的神经机制、网络，以及意识的物理基质（PSC），尤其是脑内广泛而整合的信息流动模式。",
+    "epistemic_access": "可通过第三人称方法通达，包括神经成像与计算机建模，这些方法研究与意识经验相对应的相关脑激活模式（例如全局点燃事件）。",
+    "constituents_and_structure": "一种内在的“剧场”或工作空间结构，信息在其中被选择性地放大，并广播至一个由专门脑模块构成的分布式网络。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、通达意识、记忆",
+    "distinctive_mechanism_or_principle": "信息的全局广播与可通达性，使单一连贯的内容得以同时供许多专门的、无意识的模块使用。",
+    "dynamics_of_emergence": "意识状态是动态事件，当信息克服竞争并被广播至广泛的皮层网络（全局工作空间）时便产生。",
+    "location_and_distribution": "全脑范围，涵盖广泛区域，尤其与额叶和顶叶区域相关（相较于像 IIT 那样的“脑后部”理论，常被刻画为“脑前部”理论）。",
+    "causation_and_functional_role": "全局广播构成意识。在功能上，它实现了灵活的控制，以及有限的瞬时意识内容与长时记忆资源之间的调和。",
+    "integration_or_binding": "整合通过将连贯的信息“总包”广泛地、全脑地广播进全局工作空间来实现。",
+    "information_flow_or_representation": "信息从专门模块流出，竞争全局通达，并在胜出后被全局广播，使其可供多个系统进行认知加工。",
+    "evolutionary_account": "相容（尽管 GWT 本身是机制性的而非种系发生性的）。作为一种唯物主义/神经生物学理论，它意味着意识经由演化机制而产生，这些机制选择了它的认知效用，例如更佳的信息管理与灵活的行为。",
+    "core_claims_and_evidence": [
+      "意识觉知由特定多感官、多认知信息的全脑性在场与广泛可通达性所构成。",
+      "全局广播构成意识，而非仅仅由意识所引起。",
+      "意识是一种与神经生物学数据相一致的严格生物学现象。",
+      "新型机器架构必须运用全局工作空间的计算才能实现意识。"
+    ],
+    "basis_of_belief_or_evidence_type": "神经生物学的、计算的、经验的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验",
+    "known_empirical_interventions_or_tests": "用于研究其主张的神经成像与计算机建模研究。它隐含地受制于将“脑前部”理论与后部理论相对照的“神经地理学”争论。",
+    "criticisms_and_tensions": "因聚焦于“通达”而非真正的现象经验而受批评，典型的批评即认为该理论“全然关乎通达，而非关乎看见”。它还面临一种张力：全局广播究竟是意识的必要条件，抑或仅仅是意识的一个后果。",
+    "open_questions_and_limitations": "未能充分应对“难问题”——即为何全局可通达性这一机制应当导致质性的主观经验。",
+    "ontological_coherence": "在物理主义框架内高度融贯，仅依赖既有的脑功能与信息机制来说明意识。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "既然该理论以信息加工的计算与架构来界定意识，且倡导者提出新型机器架构可基于这些计算，那么人工智能意识在原则上是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识被理解为完全依赖于特定的、复杂的生物学脑过程，这些过程在生物学死亡时便终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义的",
+      "rationale": "作为一种唯物主义/神经生物学理论，它并不要求终极的宇宙意义或目的，但意识提供了一些根本性的功能（如记忆调和与整合觉知），这些功能支撑着人类的能动性与自我创造的价值。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "若意识完全由脑的计算组织与信息流动所解释，那么将这些机制完美地复制或上传至非生物基质便应保存第一人称的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Edelman’s Neural Darwinism and Reentrant Neural Circuitry",
+        "relationship": "相容"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "对比"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "相容"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "竞争"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A Cognitive Theory of Consciousness",
+        "year": 1988
+      },
+      {
+        "title_with_names": "In the Theater of Consciousness",
+        "year": 1997
+      },
+      {
+        "title_with_names": "Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework, Dehaene and Naccache",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Biology of consciousness, Edelman, Garlly, Baars",
+        "year": 2011
+      }
+    ]
+  }
+}

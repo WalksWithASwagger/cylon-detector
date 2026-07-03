@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "生成主义",
+    "summary": "生成主义主张心理活动与认知产生于生命有机体与其环境之间的动态、交互作用，并由其感觉运动过程加以中介。意识被视为一种具身的活动，从而使「无身体的心灵」这一观念不成立。",
+    "associated_thinkers": [
+      "Francisco Varela",
+      "Eleanor Rosch",
+      "Evan Thompson"
+    ],
+    "category": "唯物主义",
+    "subcategory": "具身与生成",
+    "core_identity_tagline": "通过有机体与环境的动态互动实现认知",
+    "classification_tags": [
+      "embodied",
+      "cognition",
+      "dynamic",
+      "interaction",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "心理活动被认定为具身的活动，它产生于有机体与其周遭之间由感觉运动过程调节的动态、双向交换。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "心灵与心理生活遍及身体与环境，意即它们不能被简单地还原为头颅内的大脑过程。这一关系是一种动态互动与共关联的关系，常被称为「具身动态论」。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "自然涌现。意识经由认知与原意识的诸演化阶段而产生。该进路力图用与实现从无生命到生命之过渡相同类型的过程，来解释从生命到心灵的过渡。",
+    "subjectivity_and_intentionality": "主体性经由亲历经验（现象学）的首要地位加以探讨。意向性（思维的指向性）由如下观念加以解释：心灵主动地构成其客体，经由互动而将世界带入觉知或将其揭示出来。",
+    "qualia_account": "该理论所关联的方法论——神经现象学——强调意识经验与亲历经验的不可还原性。虽然所提供的文本并未明确详述感受质生成的机制细节，但其焦点在于经验的直接的、鲜活的性质。",
+    "ontological_commitments": "生命系统、有机体与环境的互动、感觉运动过程，以及自组织约束。该进路有时被刻画为一种强调具身性首要地位的本体论突破。",
+    "epistemic_access": "亲历经验是研究的必要起点与引导线索（「神经现象学」），它必须与生物学和认知科学的进展系统地相联系。",
+    "constituents_and_structure": "自创生、自组织、自适应、自维持的生命体，其心灵产生于持续的交互互动（具身动态论）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（经由神经现象学加以研究）、认知（作为具身的活动），以及能动性（有机体作为主动的行动者）。",
+    "distinctive_mechanism_or_principle": "有机体与其环境之间由感觉运动过程所中介的持续、迭代、动态的双向交换。",
+    "dynamics_of_emergence": "意识是一个动态的、持续进行的、时间性的过程，其中自组织的内部状态作为由环境扰动所触发的补偿而涌现，而非仅仅作为内部表征。",
+    "location_and_distribution": "意识的位置是分布的或「情境于世界之中」的，遍及身体与环境，超出了单独大脑的界限。",
+    "causation_and_functional_role": "使有机体成为能够自我调节、维持自我完整性并持续地重建其自我创造能力的主动行动者。",
+    "integration_or_binding": "整合隐含于将有机体—环境系统界定为分析单位这一定义之中，以及由此而来的生命有机体自组织、自维持的本性之中。",
+    "information_flow_or_representation": "常将认知刻画为非表征的，与内部表征理论形成对照。内部状态被描述为由扰动触发的自组织补偿，而非对外部事态的表征。",
+    "evolutionary_account": "意识经由认知与原意识的诸阶段而演化，这些阶段因在充满挑战的环境中增强适应度的性状而被选择。",
+    "core_claims_and_evidence": [
+      "认知／心理活动由具身的活动所构成。",
+      "有机体迭代地塑造其环境，也被其环境所塑造。",
+      "神经现象学作为生成主义的一种扩展，试图将不可还原的亲历经验（第一人称）与神经科学（第三人称）系统地相联系。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（现象学的）、理论的、生物学的／演化的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "通过应用神经现象学在经验上可检验，后者将第一人称描述与第三人称神经生物学数据加以协调。",
+    "known_empirical_interventions_or_tests": [
+      "神经现象学研究方法（例如微观现象学访谈） ",
+      "利用神经学与现象学数据对自我边界之经验的研究 "
+    ],
+    "criticisms_and_tensions": "主要的方法论挑战在于收集准确的第一人称报告与解释，并将其与客观的神经科学数据系统地相关联。",
+    "open_questions_and_limitations": "它并不在还原意义上完全弥合解释鸿沟，而是力图扩大并丰富应对该鸿沟的资源。",
+    "ontological_coherence": "高。该进路利用现象学，通过将其研究与生物学和认知科学相契合来加以自然化，力求在亲历世界与科学描述之间保持内部一致性。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "生成主义是一种唯物主义理论（具身的）。唯物主义一般认为，只要必要的物理与具身组织复杂度（包括与环境动态互动的能力）在人工系统中得到复制，人工意识原则上必定是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识紧密地系于具身的、活着的有机体及其生物学过程。由于有机体是物理的，意识预期在生物学死亡时便终止（标准的唯物主义立场）。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人文主义的",
+      "rationale": "作为一种唯物主义理论，生成主义不为终极的宇宙意义或目的提供证据，只承认人类经由能动性与互动为自身创造的意义与价值。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果生成主义是正确的，那么只要构成具身的、自组织的心灵的复杂动态过程能够在非生物介质中被完美地复制或模拟，虚拟永生便是可以达成的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied Cognition",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Neurophenomenology",
+        "relationship": "扩展"
+      },
+      {
+        "name": "Ecological Psychology (Gibson’s)",
+        "relationship": "相容"
+      },
+      {
+        "name": "Dynamic Systems Approach",
+        "relationship": "影响"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, Francisco Varela, Eleanor Rosch, Evan Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Enactivism, Daniel Hutto",
+        "year": 2023
+      }
+    ]
+  }
+}

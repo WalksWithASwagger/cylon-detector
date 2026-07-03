@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "T. Clark 的內容假說理論",
+    "summary": "此理論主張，現象意識是從某個認知系統充分結構化的處理中導出的表徵內容 。意識經驗在範疇上是主體性的，並與物理的大腦有著根本的關聯，作為一種由大腦所例示的物質現象而運作 。",
+    "associated_thinkers": ["Thomas Clark"],
+    "category": "唯物論",
+    "subcategory": "表徵主義",
+    "core_identity_tagline": "作為結構化表徵內容的現象意識",
+    "classification_tags": [
+      "representational",
+      "subjective",
+      "materialist",
+      "cognitive",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象意識被認定為某個認知系統充分結構化的表徵處理所具有的表徵內容 。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一／湧現論。意識被描述為一種由大腦所例示的嚴格物理的現象 。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現。意識產生於充分複雜且結構化的物質處理（這是唯物論立場的一個核心假設） 。",
+    "subjectivity_and_intentionality": "意識經驗在範疇上是主體性的，因為它只為該有意識的系統而存在 。主體性與自我反思系統的有限性相聯繫，這種有限性使其無法目睹自身的開端或終結，從而作為一個「不可超越的客體」而發揮作用 。",
+    "qualia_account": "感質（基本的感官性質）是抵抗進一步表徵的知識論原初項，這解釋了它們不可分解的、單子式的特徵 。",
+    "ontological_commitments": "認知系統、結構化的表徵處理、表徵內容以及知識論原初項 。",
+    "epistemic_access": "意識透過分析表徵內容的結構以及自我反思認知系統的功能性約束來加以研究 。",
+    "constituents_and_structure": "其基本結構涉及自我反思認知系統內部充分結構化的表徵處理 。由該系統所創造的現象世界在主觀上對自身的消失是免疫的 。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、主體性、基本感官性質",
+    "distinctive_mechanism_or_principle": "抵抗進一步表徵的知識論原初項的運作，與充分結構化的表徵處理相結合 。",
+    "dynamics_of_emergence": "動態歷程。意識由充分結構化的認知系統內部持續進行的活動（處理）所產生 。",
+    "location_and_distribution": "定位於認知系統（大腦）之內，並在其中被嚴格地以物理方式例示 。",
+    "causation_and_functional_role": "意識的功能角色與自我反思認知系統的本性相聯繫，使其能夠創造一個獨立於其客觀存在的主觀世界 。",
+    "integration_or_binding": "整合隱含於生成「充分結構化的表徵處理」以形成統一內容的歷程之中 。",
+    "information_flow_or_representation": "意識是結構化且自我反思的表徵性資訊流的最終產物，或曰內容 。",
+    "evolutionary_account": "意識與自我反思認知系統的有限性相聯繫，其湧現是為了防止該系統經驗到自身的不存在 。",
+    "core_claims_and_evidence": [
+      "現象意識是某個充分結構化的處理系統所具有的表徵內容 。",
+      "基本感官性質具有單子式的特徵，因為它們是抵抗進一步表徵的知識論原初項 。",
+      "該模型與整合資訊理論、全域工作空間理論以及預測處理相一致 。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念性的、哲學的、計算的（預期在表徵科學中獲得證實） "
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上可檢驗。它尋求從「表徵與表徵內容科學的發展」中獲得證實 。",
+    "known_empirical_interventions_or_tests": "文獻未列出具體的檢驗，但該模型與整合資訊理論（IIT）、全域工作空間理論（GWT）以及預測處理的相關研究相一致（因而可從中獲得啟發） 。",
+    "criticisms_and_tensions": "與其他表徵理論一樣，它很可能面臨這樣的挑戰：如何解釋僅憑結構化的資訊內容就能完整說明質性的、不可化約的現象經驗 。",
+    "open_questions_and_limitations": "內容假說的明確經驗證實，以及所需表徵處理的具體結構，仍是懸而未決的問題 。",
+    "ontological_coherence": "高度融貫，將意識完全奠基於一種自然主義與唯物論的存有論之中 。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "由於意識被設定為一種由充分結構化的處理所產生的嚴格物理的現象，在先進人工系統中複製這一結構應當能夠實現意識 。"
+    },
+    "survival_beyond_death": {
+      "stance": "否（就個人自我而言）／是（就一般主體性而言）",
+      "rationale": "個體意識是一種物理例示，並在腦死亡時消解。然而，「一般主體連續性」表明意識會在其他情境中延續，儘管並非作為已故的個體 。"
+    },
+    "meaning_and_purpose": {
+      "stance": "存在主義的／內在的",
+      "rationale": "意識受自我反思系統之有限性的驅動，內在地創造出一個內部世界，從而提供了一種與維持主體連續性相聯繫的目的 。"
+    },
+    "virtual_immortality": {
+      "stance": "有條件的",
+      "rationale": "作為一種唯物論理論，如果作為其界定性特徵的「充分結構化的表徵處理」能夠在非生物介質中被精確複製，那麼個人意識的轉移就是可能的 。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "一致"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "一致"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "一致"
+      },
+      {
+        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Locating consciousness: why experience can’t be objectified, T. Clark",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Death, nothingness, and subjectivity, T. Clark",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Personal Communication, T. Clark",
+        "year": 2024
+      }
+    ]
+  }
+}

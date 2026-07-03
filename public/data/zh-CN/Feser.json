@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Feser 的新托马斯主义、新亚里士多德主义、常识二元论",
+    "summary": "这一二元论理论主张，人类理智（抽象概念与推理）是一种非物质的官能，无法被还原为物质过程。它通过倡导回归亚里士多德式的常识实在论来解决“难问题”，在该实在论中，感官性质（感受质）是外部物质世界的客观属性，从而消解了由现代那种严苛的、量化的物质观所引发的困境。",
+    "associated_thinkers": ["Edward Feser"],
+    "category": "二元论",
+    "subcategory": "新托马斯主义、新亚里士多德主义、常识二元论",
+    "core_identity_tagline": "经由非物质理智与客观性质而实现的意识",
+    "classification_tags": [
+      "dualism",
+      "aristotelian",
+      "immaterial",
+      "intellect",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一种复合实在，由一个负责确定思想的非物质理智官能，与一些知觉世界中客观质性属性的物质感官官能所构成。",
+    "ontological_status": "二元论（新托马斯主义／新亚里士多德主义形式）",
+    "mind_body_relationship": "灵魂是一个实体性的、统一的实在，充当身体的形式（托马斯主义观点）。理智官能（心理状态的一个子集）不可还原为物质过程。该理论挑战了产生心身问题的那种唯物主义物质观。",
+    "primitive_or_emergent_status": "非涌现的（就理智而言）；感官属性对客观实在而言是根本的",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "理智把握共相并维持确定、无歧义的概念内容（意向性）的能力，使它必然不可还原为物质过程。常识的直接实在论意味着我们所知觉的世界正如其显现的那样。",
+    "qualia_account": "质性特征（如颜色、声音、热等次性）被主张为真实的、客观的属性，本然地内在于外部物质对象之中（常识的直接实在论），从而消除了将它们仅仅定位于一个非物质心灵之中（如笛卡尔模型所为）的必要。",
+    "ontological_commitments": "非物质的实体或官能（理智、灵魂），连同拥有本然客观质性属性的物质实体。",
+    "epistemic_access": "主要通过对思想本性的哲学分析、逻辑与推理来通达，并得到常识知觉（直接实在论）的支持。",
+    "constituents_and_structure": "一种质形论的复合结构，其中灵魂（包括非物质的理智）是活的身体的形式。理智活动涉及把握抽象概念（共相）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "理智活动（推理、确定思想）、感官意识（作为客观属性的现象感受质）。",
+    "distinctive_mechanism_or_principle": "如下论证：思想（逻辑、数学）中确定内容的必要性蕴含着理智官能的不可还原性与非物质性。",
+    "dynamics_of_emergence": "重点在于驳斥导致难问题的形而上学前提，而非描述涌现。理智的不可还原性基于其本性（把握共相）与物质过程（处理殊相）从根本上不相容。",
+    "location_and_distribution": "理智与灵魂相关联，后者是非物质的且自存的。感官性质则客观地定位于世界中的外部对象，而不仅仅位于大脑之中。",
+    "causation_and_functional_role": "理智的功能对数学、逻辑与语言至关重要，因为它确保思想与概念具有确定、无歧义的内容。",
+    "integration_or_binding": "经验的统一被隐含地根植于灵魂之中，后者是赋予身体以形式的实体性、统一的实在。（来源中未提供明确的机制性描述。）",
+    "information_flow_or_representation": "理智活动涉及概念（共相），它们与心理图像或感觉（殊相）在范畴上截然不同，且不可还原为后者。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "难问题是一个伪问题，源于一种有缺陷的现代物质观（伽利略的错误）。",
+      "理智活动无法还原为物质过程，因为这种还原不可避免地否认思想中存在确定或无歧义的内容。",
+      "次性（如颜色与声音）是物质的客观属性，与常识相一致。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、理性主义的、常识的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "主要建基于概念与逻辑。论证用于表明还原论唯物主义与确定思想之间的不相容性。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "批评者认为，神经科学终将无需一个非物质的理智即可弥合解释鸿沟。它必须提供一种融贯的心理因果说明，尽管它试图通过重新定义物质来回避笛卡尔式的交互问题。",
+    "open_questions_and_limitations": "非物质的理智如何与物理大脑交互的确切机制在很大程度上仍未得到解释（交互问题）。",
+    "ontological_coherence": "在其新托马斯主义／新亚里士多德主义框架内高度融贯，主张它解决了传统唯物主义与笛卡尔式二元论之间那种误导性的二分。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能否",
+      "rationale": "如果理智（确定思想与抽象概念所必需的）从根本上是非物质的、不可还原为物质过程的，那么纯粹计算性／物质性的人工智能就无法例示该理论所描述的完整人类意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "灵魂被界定为一个非物质的、自存的实体，能够脱离身体独自存在并行使认知功能，尽管这被视为对它而言是非自然的。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是",
+      "rationale": "思想、逻辑与理智共相中确定内容的保全，加之对灵魂的本体论承诺，意味着一种非消解性的意义观，从而避免了唯物主义的虚无主义。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "虚拟永生依赖于计算功能主义。既然 Feser 主张理智意识不可还原为、也无法由物质过程加以解释，那么完整的人类自我就无法被数字化上传。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Stump’s Thomistic Dualism", "relationship": "兼容" },
+      { "name": "Cartesian Dualism", "relationship": "批判" },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "批判"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "批判" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Aristotle, call your office, Edward Feser",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Chomsky on consciousness, Edward Feser",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Non-cartesian substance dualism and materialism without reductionism, Eleonore Stump",
+        "year": 1995
+      }
+    ]
+  }
+}

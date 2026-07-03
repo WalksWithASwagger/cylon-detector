@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "麦吉尔克里斯特的关系性、创造过程唯心主义",
+    "summary": "意识是不可还原的、原初的，是宇宙的根本“材料”，被视为一种创造性过程。物质并非独立的实体，而是意识的派生“相态”，为实现个体化经验所必需。大脑的首要角色是中介并塑造这一无所不在的意识，这体现在大脑两半球彼此对照的运作模式之中。",
+    "associated_thinkers": ["Iain McGilchrist"],
+    "category": "唯心主义",
+    "subcategory": "关系性、创造过程唯心主义",
+    "core_identity_tagline": "意识是宇宙的材料",
+    "classification_tags": [
+      "idealism",
+      "primordial",
+      "relational",
+      "creative process",
+      "dual-aspect monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一种不可还原的、原初的、无所不在的创造性过程，它构成了宇宙。物质是意识的一种相态。",
+    "ontological_status": "唯心主义（客观的／实在论的唯心主义）",
+    "mind_body_relationship": "大脑中介意识，塑造并实现身体所感受到的经验（允许／约束模型）。物质（包括大脑）是意识的一种相态，犹如冰是水的一种相态。",
+    "primitive_or_emergent_status": "原初的／根本的",
+    "emergence_type": "意识本身是原初的。诸如价值能力之类的更高层现象则从原初意识的创造性过程中涌现。",
+    "subjectivity_and_intentionality": "主体性是内在的，因为意识从根本上是关系性的，总是“关于”某物的。宇宙具有意向性，被吸引子“从前方牵引”。",
+    "qualia_account": "感受质被理解为意识内某些呈现出相对抗性与恒常性的要素（物质）的性质，并依注意的模式（半球偏向）不同而被不同地经验。",
+    "ontological_commitments": "原初意识（存在之基）、物质（作为意识的一种相态）、关系／关系项。",
+    "epistemic_access": "主要通过内省与现象学考察，因为意识是“根本的既予自然事实”。并借助对与半球功能相关的经验差异的诠释加以支持。",
+    "constituents_and_structure": "意识是一种创造性过程。其结构以关系（万物皆关系性的）以及由两半球所中介的两种不同的领会模式（临现对再现）为特征。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、主体性、能动性、自我觉知、价值／目的、创造力。",
+    "distinctive_mechanism_or_principle": "中介原理，其中大脑并不导致意识，而是允许并塑造意识。此外还有大脑两半球对立的注意模式所引发的创造性张力。",
+    "dynamics_of_emergence": "意识是一种动态的、创造性的过程，不断朝向某一目标或目的演进（“从前方被吸引子所牵引”）。",
+    "location_and_distribution": "无所不在，构成宇宙。局部的表达／塑造经由大脑发生。",
+    "causation_and_functional_role": "意识是原初的，并非由大脑所导致。宇宙具有目的论上的目的（“方向”），由存在之基认识其自身的需要所驱动，从而增进复杂性与价值能力。",
+    "integration_or_binding": "通过意识自身的关系性本性而实现，并由右半球的整体性、统一性功能所中介。",
+    "information_flow_or_representation": "左半球生成“再现”（抽象／地图）；右半球提供“临现”（被经验的世界）。物质归根结底是意识的一种抽象。",
+    "evolutionary_account": "演化是宇宙意识发现并推进“美、真、善”的过程，增进生命造物的响应性与价值能力。",
+    "core_claims_and_evidence": [
+      "意识是不可还原的、原初的，是宇宙的材料。",
+      "物质是意识的派生相态（犹如冰是水的一种相态）。",
+      "大脑中介意识，而非产生意识。",
+      "大脑两半球以对立的方式关注世界，从而使不同的经验世界（临现对再现）得以生成。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、现象学的、神经科学诠释。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／概念的。其核心假设依赖于对既有神经科学与现象学证据（半球特化）的诠释，而非提供新的、可检验的唯心主义经验预测。",
+    "known_empirical_interventions_or_tests": "来源中并未明确指出用以验证该唯心主义本体论的实验。（理由：基于来源的局限性；麦吉尔克里斯特的论证聚焦于对神经生理学的哲学诠释，而非为原初意识论题设计新的经验检验。）",
+    "criticisms_and_tensions": "唯心主义的批评者主张它无法解释物理世界表面上的独立性与结构。该理论的力量在很大程度上依赖于对半球特化的细致诠释，而后者仍处于持续的争论之中。",
+    "open_questions_and_limitations": "麦吉尔克里斯特指出，难以证明大脑究竟是中介还是产生意识，因为两种情形下的经验结果看似完全相同。",
+    "ontological_coherence": "在其唯心主义框架内高度融贯，通过将意识设定为唯一的根本实在而消解了心身分裂。与还原式物理主义处于强烈张力之中。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不确定／有条件的",
+      "rationale": "意识是原初的且关系性的，需要复杂的中介才能表达个体性。单纯的功能性计算很可能无法捕捉所需的属性，但若某个工程系统具备必要的结构，它便有可能中介意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "是，有可能",
+      "rationale": "既然意识是宇宙的根本材料且是原初的，个体自我尽管消散了其物理中介（大脑），仍会在宇宙的存在之基中存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／目的论的",
+      "rationale": "宇宙具有目的与方向，由旨在认识自身并进一步发现价值（美、真、善）的根本意识所驱动。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能／不适用",
+      "rationale": "意识不可还原为神经模式（物质作为意识的一种“相态”是被中介的）。仅仅上传该模式很可能无法复制原初的意识过程，只会得到一种缺乏真正主观经验的抽象或模拟。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Hoffman's Conscious Realism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Nagel’s Mind and Cosmos",
+        "relationship": "影响"
+      },
+      {
+        "name": "Idealisms",
+        "relationship": "扩展"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Matter with Things: Our Brains, Our Delusions and the Unmaking of the World, I. McGilchrist",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Consciousness Is the Stuff of the Cosmos, I. McGilchrist",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Master and His Emissary: the Divided Brain and the Making of the Western World, I. McGilchrist",
+        "year": 2009
+      }
+    ]
+  }
+}

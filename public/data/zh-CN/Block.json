@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Block 的生物学还原论",
+    "summary": "Block 主张对现象意识采取还原式物理主义的说明，并将其与认知通达严格区分开来。他提出，现象意识可还原为特定的神经生物学属性，如感觉脑区与感觉后脑区中的电化学活动及复杂的整合系统。",
+    "associated_thinkers": [
+      "Ned Block"
+    ],
+    "category": "唯物主义",
+    "subcategory": "哲学",
+    "core_identity_tagline": "现象意识即神经生物学电化学活动",
+    "classification_tags": [
+      "physicalism",
+      "reductionism",
+      "neurobiology",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "现象状态字面上等同于特定类型的神经生物学状态，其特征在于其电化学性质。",
+    "ontological_status": "还原式物理主义",
+    "mind_body_relationship": "心脑同一论（作为还原的有力候选），其中心理状态等同于物理脑状态。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现（理由：还原论意味着意识完全可解释并可还原为低层物理属性，符合弱涌现的定义。）",
+    "subjectivity_and_intentionality": "主体性系于还原所需的特定生物学机制。支持一阶表征主义，将现象特征直接联系于一阶意向内容。",
+    "qualia_account": "感受质被认定为（或可还原为）大脑整合系统的特定神经生物学与电化学属性。",
+    "ontological_commitments": "神经元的电化学活动、特定的神经回路，以及与丘脑等皮层下结构的连接。",
+    "epistemic_access": "可通过科学研究加以通达，其重点在于找出填充意识功能角色的物理属性，尤其是考察现象意识的神经基础。",
+    "constituents_and_structure": "传播的神经生理火花与弥散的神经化学递质，构成一个复杂而整合的系统。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、感觉意识（明确将其与认知通达／通达意识区分开来）。",
+    "distinctive_mechanism_or_principle": "基于大脑电化学性质的神经生物学还原。有意识知觉与知觉区域（如视觉区 V5）中的复现激活相关联，有别于认知通达所需的全局广播。",
+    "dynamics_of_emergence": "意识产生于电化学活动这一宏大复杂而整合的系统。一阶现象学可能在因果上促进全局广播，这颠倒了全局工作空间理论等理论的假设。",
+    "location_and_distribution": "定位于感觉系统、或许还有感觉后系统（如视觉皮层），需要与丘脑相连接。现象意识被认为‘溢出’了认知可通达性。",
+    "causation_and_functional_role": "首要关注同一而非功能。现象意识可能是促进全局广播以实现认知通达的一个因果因素。",
+    "integration_or_binding": "通过神经系统电化学活动的整合而复杂的组织实现。",
+    "information_flow_or_representation": "偏向一阶表征主义，主张现象特征由短时记忆存储中模拟的、精细的意向内容所表征，可供高阶思想调用。",
+    "evolutionary_account": "假定所需生物学机制具有演化起源，与物理主义相一致，但具体的演化主张并非该理论的核心焦点。",
+    "core_claims_and_evidence": [
+      "现象意识可还原为其在神经生物学中的物理基础。",
+      "神经系统的电化学性质是意识还原的候选者。",
+      "现象意识溢出了认知可通达性，意味着我们所拥有的经验多于我们所能报告的。",
+      "有意识知觉被认定为知觉区域中活跃的复现回路加上背景条件。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学（为还原论辩护）、经验（诉诸神经生物学的实例与数据）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验（需要成功识别出字面上实现现象角色的物理属性）。",
+    "known_empirical_interventions_or_tests": "考察感觉系统与感觉后系统中的神经活动及其相关性（如电化学活动、复现回路），以找出神经生物学还原的候选者。",
+    "criticisms_and_tensions": "被批评未能使同一陈述变得可理解，因而未能弥合解释鸿沟。Block 本人主张形而上学功能主义与还原式物理主义是不相容的对手。‘渐褪感受质’等思想实验对特定生物学硬件之于现象学的必要性提出了挑战。",
+    "open_questions_and_limitations": "首要挑战是找出能够成功完成还原的特定物理属性（‘第二步’）。它必须充分解释为何特定的生物学机制对感受质而言是必需的。",
+    "ontological_coherence": "与唯物主义本体论相一致；与心脑同一论高度一致。Block 认为他的立场作为一个形而上学主张与功能主义不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "如果意识可还原为神经组织特定的电化学／生物学性质，那么缺乏这种特定物理构成的非生物系统（如数字人工智能）就无法例示真正的现象意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "既然意识被认定为并可还原为大脑的生物过程，那么大脑的毁灭便意味着意识的终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不确定",
+      "rationale": "作为一种纯粹的物理主义还原，该理论不提供任何宇宙意义或目的，尽管它隐含地允许由有意识的有机体所创造的人本意义（这为大多数唯物主义理论所共有）。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "Block 认为现象学依赖于我们生物学机制的性质。既然虚拟永生依赖于在非生物介质中的计算／功能复制，那么现象特征（感受质）很可能会在转移过程中丧失。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批评"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Higher-Order Theories (HOT)",
+        "relationship": "批评"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Consciousness, accessibility, and the mesh between psychology and neuroscience",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Functional reduction",
+        "year": 2008
+      }
+    ]
+  }
+}

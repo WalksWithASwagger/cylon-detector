@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "比特博爾的激進神經現象學",
+    "summary": "這一框架旨在透過強調親歷經驗的首要性、並將心身關係視為一種「糾纏的辯證法」而非單向的物理依賴，來消解意識的「難問題」。它主張研究者的立場發生一種激進的轉變，從尋求客觀解答轉向探索主觀的第一人稱實在。",
+    "associated_thinkers": [
+      "Michel Bitbol",
+      "Francisco Varela",
+      "Maurice Merleau-Ponty"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "具身與生成",
+    "core_identity_tagline": "親歷經驗的首要性與難問題的消解",
+    "classification_tags": [
+      "phenomenology",
+      "embodiment",
+      "dissolution",
+      "first-person",
+      "quantum analogy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為顯明的、被給予的實在（內在存有論，endo-ontology），可經由親歷的第一人稱經驗來通達，而這種經驗制約著客觀性的構成。它是一種關於身體—意識關係的動態而參與式的構想。",
+    "ontological_status": "現象學存有論（內在存有論，endo-ontology）",
+    "mind_body_relationship": "心靈與身體處於一種「糾纏的辯證法」之中，神經現象學的關聯只是親歷的具身感的一種延伸，拒斥單向的物質依賴。",
+    "primitive_or_emergent_status": "隱含地為原初的",
+    "emergence_type": "消解／非化約",
+    "subjectivity_and_intentionality": "主體性（親歷經驗）具有有效的首要性。意向性，或客體的「關於性」，源自經驗，因為客觀性是透過從被給予的經驗中抽取結構不變量而構成的。",
+    "qualia_account": "感質由對現象經驗作為顯明實在的基礎性承諾來處理。質性感受的問題透過拒斥那個把它作為「偽神祕」而製造出來的唯物論框架而被消解。",
+    "ontological_commitments": "親歷經驗、自我顯現的存在（內在存有論），以及由經驗構成的結構不變量（客觀性）。它不對標準的物理論或二元論承諾作任何讓步。",
+    "epistemic_access": "需要一種真正的第一人稱立場，透過微觀現象學訪談等有紀律的實踐來達成，並與第三人稱的神經科學敘述相結合（相編織）。",
+    "constituents_and_structure": "一種動態而參與式的結構，可能仿照控制論式的辯證法（瓦雷拉）來建模，其中意識與物理本質相關但不依賴於物理。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、難問題（消解），以及意識的變異狀態。",
+    "distinctive_mechanism_or_principle": "關鍵原理是透過將焦點從一個智性難題轉向一種「存在論抉擇」來消解難問題，其途徑是懸置客觀判斷，並把探究重新導向客體如何從主觀經驗中構成。",
+    "dynamics_of_emergence": "意識是一種動態之流，是一種永久在場的存在方式（切近的存在方式）。其顯現拒斥物理起源的問題，將那一追問定性為一種存有論偏見。",
+    "location_and_distribution": "神經現象學的關聯意味著意識分布於親歷的具身感之中，而非僅僅局域於身體大腦之內。",
+    "causation_and_functional_role": "批判了對物理大腦的根本依賴這一假設。因果性被重新構想，強調客觀性如何透過對主觀經驗的協調而獲得。",
+    "integration_or_binding": "由親歷經驗的根本統一性與融貫性所蘊含，而這正是現象學分析的出發點。",
+    "information_flow_or_representation": "資訊與表徵次於經驗。客觀科學圈定的是從顯明實在中抽取出的特徵（結構不變量），類似於量子定律表達實驗資訊之界限的方式（QBism 類比）。",
+    "evolutionary_account": "所提供的來源聚焦於形上學與現象學論證，而非為該理論提供某種具體的種系發生演化解釋。",
+    "core_claims_and_evidence": [
+      "激進神經現象學推進了瓦雷拉批判並消解意識難問題的方案。",
+      "「難問題」是由標準物理論的存有論偏見所製造出來的偽神祕。",
+      "親歷經驗相對於客觀敘述具有有效的首要性，因此不應賦予神經科學數據高於現象學描述的存有論地位。",
+      "該方法論依賴於第一人稱方法（如微觀現象學訪談）與第三人稱神經科學之間的相互澄清。"
+    ],
+    "basis_of_belief_or_evidence_type": "現象學的、哲學的／形上學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上與方法論上可檢驗",
+    "known_empirical_interventions_or_tests": [
+      "微觀現象學訪談（回溯過往經驗）",
+      "將第一人稱敘述與第三人稱神經數據相編織（神經現象學方案）"
+    ],
+    "criticisms_and_tensions": "被批評為迴避了對難問題的智性解答，轉而將其轉移到態度層面，或被視為一種「迴避」。它要求研究者進行自我轉變並放棄中立觀察者的立場，這頗為苛求。",
+    "open_questions_and_limitations": "該框架有意地對意識起源這一傳統智性難題存而不論，要求哲學態度上的根本轉變，才能接受「消解」為充分之解。",
+    "ontological_coherence": "在現象學存有論傳統內部高度融貫，其結構明確地被設計為拒斥標準物理論一元論與性質二元論各自固有的融貫性問題。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定",
+      "rationale": "意識根植於不可化約的親歷經驗以及一種身體—意識辯證法，因而很可能抵抗模擬或計算實現，而後者正是人工智慧意識主張的基礎。"
+    },
+    "survival_beyond_death": {
+      "stance": "有可能",
+      "rationale": "這一激進現象學進路把意識的變異狀態（如瀕死經驗）解讀為可能揭示一種非外部的、自我披露的「內在存有論」——一種表明在標準唯物論約束之外仍有深刻連續性的存在方式。"
+    },
+    "meaning_and_purpose": {
+      "stance": "存在性／哲學性",
+      "rationale": "該理論將意識的性質從一個智性神祕轉變為一種「存在論抉擇」，把意義置於對親歷經驗與主觀存在（內向存有論）的介入式存有論進路之中。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "虛擬永生要求將第一人稱的心理自我化約為數位資訊，這與該理論關於具身親歷經驗之首要性與不可化約性的基礎前提相牴觸。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Varela’s Neurophenomenology",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Merleau-Ponty’s Intra-ontology",
+        "relationship": "影響"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Standard Physicalism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The tangled dialectic of body and consciousness: a metaphysical counterpart of radical neurophenomenology",
+        "year": 2021
+      },
+      {
+        "title_with_names": "On the too often overlooked radicality of neurophenomenology, M. Bitbol, E. Antonova",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Neurophenomenology and the micro-phenomenological interview, M. Bitbol, C. Petitmengin",
+        "year": 2017
+      }
+    ]
+  }
+}

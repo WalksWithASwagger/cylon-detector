@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "威廉·詹姆斯心理学理论中意识的难问题不存在",
+    "summary": "这一观点基于对威廉·詹姆斯著作的一种阐释，通过主张意识并非主观经验之谜、而是一种为解决“选择问题”而演化出来的机制，从而颠覆了难问题的范式。该机制在复杂大脑所生成的众多可选项中筛选出适应性反应，偏向那些与大脑长远利益相一致的结果，从而提升有机体的适应度。",
+    "associated_thinkers": ["William James", "Tracy Witham"],
+    "category": "唯物主义",
+    "subcategory": "种系演化",
+    "core_identity_tagline": "意识作为适应性选择机制",
+    "classification_tags": [
+      "evolution",
+      "functionalism",
+      "deflationary",
+      "selection problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一种选择机制，它施加压力以偏向那些最有利于有机体持久利益的表现，其根基在于赋予对某些感觉（事实上的目的）的偏好。",
+    "ontological_status": "功能主义／物理主义（理由：该理论通过赋予意识纯粹功能性的、适应性的角色来消解难问题，使其与唯物主义仅通过物理系统解释意识的目标相一致）。",
+    "mind_body_relationship": "意识在功能上与复杂的大脑过程相耦合，尤其与“大脑反射”的形成相关联，在这些反射中偏好影响着有机体与环境的相互作用。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现（理由：当大脑的复杂性导致非最优反应选项激增时，意识作为一种适应性必需而涌现，这意味着它涌现自精密的物理组织）。",
+    "subjectivity_and_intentionality": "主体性以功能方式加以处理，因为意识赋予对某些感觉相对于其他感觉的偏好，从而决定了有机体“事实上的目的”（意向目标）的来源。",
+    "qualia_account": "难问题（对感受质或“它像什么”的说明）通过将焦点转移到意识所解决的功能性问题（选择问题）而基本得到消解。",
+    "ontological_commitments": "复杂的生物大脑、需要适应性选择的环境情境，以及演化而来的心理功能（选择机制、偏好）。",
+    "epistemic_access": "主要通过分析其在提升有机体适应度和选择行为方面的功能角色（第三人称的演化分析）来通达。",
+    "constituents_and_structure": "一种能够支撑众多反应选项激增的复杂大脑结构，再叠加一种用以优先选择适应性结果的选择机制。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "能动性、适应性反应的选择、赋予偏好（意识的功能性方面）。",
+    "distinctive_mechanism_or_principle": "其机制是意识作为一种选择压力发挥作用，确保复杂行为偏向有机体的长远、持久利益。",
+    "dynamics_of_emergence": "一种动态过程，出现于复杂到足以生成相互竞争的反应选项的大脑之中，其作用是过滤或选择最有利的结果，从而由被偏好的感觉形成“事实上的目的”。",
+    "location_and_distribution": "位于已达到足够复杂性、能够面对“选择问题”的大脑之中。",
+    "causation_and_functional_role": "意识通过对提升适应度的表现施加压力而具有因果效力；其功能是解决复杂系统所固有的“选择问题”。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验／经验上可信（理由：其根植于演化原理与生物适应度，二者与科学研究相兼容，因而归入种系演化之下）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要的概念张力在于：意识是否真的适合（哪怕表面上）用来处理如此描述的“选择问题”。",
+    "open_questions_and_limitations": "意识与“选择问题”之间的确切契合仍是一个开放问题，理解“大脑反射”图式的意涵亦然。",
+    "ontological_coherence": "在功能主义与演化框架内是融贯的，因为它通过重新界定意识问题而避免了传统的形而上学承诺。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识主要是一种功能性的选择机制，那么任何达到足够复杂性、并需要类似机制来对适应性输出进行优先排序的人工系统，都很可能被视为有意识的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "这一意识阐释坚定地植根于演化而来的生物必需性与大脑的功能，未为生物性死亡之后的存续提供任何余地。"
+    },
+    "meaning_and_purpose": {
+      "stance": "实用主义的",
+      "rationale": "意义与目的系于生物功能：提升演化适应度并实现“大脑主人最持久的利益”。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "作为一种功能主义理论，对底层选择机制与功能组织的复制或上传，应当能够使意识成功延续。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "相容"
+      },
+      {
+        "name": "Chalmers’s Hard Problem",
+        "relationship": "批评"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Principles of Psychology, William James",
+        "year": 1890
+      }
+    ]
+  }
+}

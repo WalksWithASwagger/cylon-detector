@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "脑回路与周期理论",
+    "summary": "这一组较早期的理论将意识归因于大尺度神经生理结构与动态电活动的运作，例如侧向通路、网状激活系统、垂直的丘脑-皮层放射（回路），以及跨越广泛脑区的同步神经元放电（周期，如脑电图波）。这些解释通常被认为单凭自身不足以说明意识，并已演化为更为精致的当代神经生物学理论。",
+    "associated_thinkers": [
+      "Field of Neuroscience/Neurobiology (General)"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "神经生物学",
+    "core_identity_tagline": "意识即大尺度神经结构与振荡",
+    "classification_tags": [
+      "neurobiology",
+      "materialism",
+      "neural circuits",
+      "oscillations",
+      "synchrony"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为复杂的大尺度脑结构（回路）以及由此产生的、生物大脑内大规模同步电活动（周期）的功能或产物。",
+    "ontological_status": "物理主义（还原唯物主义）",
+    "mind_body_relationship": "同一／相关。心理状态与大尺度神经回路及动态模式的特定物理状态相同一，或与之直接相关。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现（隐含：源自已知物理组分的复杂组织，与经典神经生物学还原论一致）。",
+    "subjectivity_and_intentionality": "侧重于提供意识状态所必需的物理基质；至于生成不可还原的第一人称主体性或意向性的具体机制，则往往未被充分展开，或留待后继理论解决。",
+    "qualia_account": "经验的具体质性感受（感受质）并未被该理论直接解释，它主要聚焦于与意识相关的组织机制（回路与周期）。",
+    "ontological_commitments": "大尺度神经结构（例如通路、网状激活系统、皮层）、神经元电生理学（同步放电），以及可测量的脑周期（例如脑电图波）。",
+    "epistemic_access": "主要通过经验方法，具体而言即对大脑电活动（脑电图）的测量与分析，以及对大尺度神经通路和功能性神经生理学的研究。",
+    "constituents_and_structure": "神经元的大尺度网络及其同步放电模式，组织于诸如丘脑-皮层通路和侧向皮层通路之类的结构之中。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、唤醒与清醒（作为必要的背景条件）。",
+    "distinctive_mechanism_or_principle": "大尺度脑结构的运作与电活动的同步，例如复发性皮层-丘脑通路以及产生脑周期（如伽马波）的大规模同步放电。",
+    "dynamics_of_emergence": "意识是一个动态过程，源自广泛皮层区域上大量神经元的同步放电，产生可测量的脑电图波。",
+    "location_and_distribution": "分布于大尺度回路与通路，包括大脑皮层、丘脑及网状激活系统。",
+    "causation_and_functional_role": "因果力以自下而上的方式施加，其中神经活动与同步周期调控并中介意识状态。其功能是跨不同脑区整合并协调信息。",
+    "integration_or_binding": "整合通过跨广泛分布脑区、由大尺度通路相连的同步神经活动（如伽马波）来实现。",
+    "information_flow_or_representation": "信息通过电生理脉冲以及神经元群的同步放电被双向地（如皮层-丘脑环路）加工与传递。",
+    "evolutionary_account": "未明确详述，但推定为生物演化的产物，演化造就了生成意识所必需的复杂脑组织。",
+    "core_claims_and_evidence": [
+      "意识涉及大尺度脑回路（侧向通路、网状激活系统、丘脑-皮层通路）与周期（脑电图波）。",
+      "复发性皮层-丘脑通路中的双向信息传递调控意识状态，并在意识丧失时减弱。",
+      "树突整合理论（DIT）将这些回路中的细胞层面机制（第5层锥体细胞）与意识经验联系起来。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验的、神经生理学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可通过神经生理学测量（如脑电图、功能成像）进行经验检验，这些测量追踪大尺度脑同步以及所识别回路中的活动。",
+    "known_empirical_interventions_or_tests": [
+      "对与意识状态相关的频段（如40赫兹伽马波）进行脑电图测量。",
+      "关于意识与非意识状态下皮层-丘脑通路中双向信息传递的研究。"
+    ],
+    "criticisms_and_tensions": "主要批评在于，这些理论单凭自身不足以解释意识，需演化为更精致的模型。它们处理了相关性与过程，却往往无法充分解释现象经验的本质（即“它是什么”）。",
+    "open_questions_and_limitations": "除所涉及的物理过程之外，未能充分界定意识“是”什么；主要描述生成意识的各种关键过程，但被认为单凭自身不足。",
+    "ontological_coherence": "高。与基础的还原物理主义及主流神经生物学高度一致，因为它依赖于已知、可测量的生物结构与机制。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "支持",
+      "rationale": "如果意识完全是特定物理神经回路及动态活动模式的产物，那么这些机制原则上可在非生物基质中被完美复制，从而实现人工智能意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定",
+      "rationale": "作为一种唯物主义理论，意识完全系于生物大脑；这些特定神经回路与周期的终止意味着意识的终结。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义的",
+      "rationale": "与唯物主义一致，该理论不提供任何终极的宇宙意义或目的；任何意义都由有意识的实体自身创造。"
+    },
+    "virtual_immortality": {
+      "stance": "支持",
+      "rationale": "由于第一人称自我被认定为神经模式与通路的复杂物理组织，将这些回路完美复制到非生物介质中理应保存现象意识。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "扩展"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "扩展／重叠"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "精细化"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "重叠（脑周期与电磁场相关）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Brain circuits and cycles theories (General Discussion)",
+        "year": ""
+      },
+      {
+        "title_with_names": "Cellular mechanisms of conscious processing, J. Aru et al.",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Criticality supports cross-frequency cortical-thalamic information transfer during conscious states, D. Toker et al.",
+        "year": 2024
+      }
+    ]
+  }
+}

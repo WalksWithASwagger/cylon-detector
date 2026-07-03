@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Nagasawa 的非理论物理主义理论",
+    "summary": "该理论主张世界完全是物理的，但其中包含关于意识的特定物理事实，即便物理科学的完备理论也无法捕捉或解释这些事实。它作为物理主义的一种替代表述而运作，力图使物理本体论与还原论理论显然无法把握现象意识这一状况相调和。",
+    "associated_thinkers": ["Yujin Nagasawa"],
+    "category": "非还原物理主义",
+    "subcategory": "替代性的物理主义表述",
+    "core_identity_tagline": "超越物理理论的物理主义",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ontology",
+      "monism",
+      "nontheoretical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识由基于实体的物理事实所构成，这些事实存在于完备的理论物理科学的概念框架之外。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "心灵／意识等同于物理实在；然而，关于意识的某些事实无法为传统的理论知识所通达（认识论鸿沟），这就需要一种基于实体而非基于理论的方式来理解这种同一性。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "强涌现",
+    "subjectivity_and_intentionality": "主观经验植根于特定的“非理论的”物理事实，这些事实无法为完备的科学解释所捕捉，从而在断言主体性之物理本性的同时保留了主体性的认识论之谜。",
+    "qualia_account": "感受质事实是物理事实，但它们属于那一部分无法为当前或完备的物理理论所捕捉的物理实在。",
+    "ontological_commitments": "物理实在、物理实体，以及非理论的物理事实。",
+    "epistemic_access": "经由传统科学理论在认识论上是受限的；概念性的通达则通过对反对传统物理主义之论证的哲学分析而获得（从认识论走向本体论）。",
+    "constituents_and_structure": "意识植根于特定的、基于实体的物理事实或属性，它们内在于有意识系统的物理结构之中。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（隐含地；源自其对知识论证等辩论的关注）",
+    "distinctive_mechanism_or_principle": "存在着关于意识的、“非理论的”（基于实体而非由理论定律所界定）物理事实，这要求对物理主义的标准表述作出转变。",
+    "dynamics_of_emergence": "由于意识事实被界定为“非理论的”，其动力学细节是有限的；涌现被推定为基于适当复杂物理实体的存在。",
+    "location_and_distribution": "物理世界；与特定物理实体（如神经机制）相关联，这些实体包含着未被捕捉的事实。",
+    "causation_and_functional_role": "文献未明确详述；推断其在一个完全物理世界的约束内遵循标准的物理因果。",
+    "integration_or_binding": "未加界定，因为该理论主要关注形而上学的定义与认识论鸿沟，而非具体的内部处理动力学。",
+    "information_flow_or_representation": "经由物理理论进行的信息捕捉被隐含地视为不完整的，受制于非理论物理事实的存在。",
+    "evolutionary_account": "未作说明；被假定为完全物理世界中一种演化而来的性状（因为它是物理主义的一种形式）。",
+    "core_claims_and_evidence": [
+      "世界完全是物理的，但其中包含物理科学的完备理论无法捕捉的物理事实。",
+      "其方法论在知识论证（心灵）与关于上帝知识的论证（宗教）之间作类比，以确立非理论的知识鸿沟。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验（经由哲学论证）；由于“非理论事实”的定义，在经验上是受限的／思辨性的。",
+    "known_empirical_interventions_or_tests": "未作说明；它依赖概念性／认识论的论证（如对知识论证的批评），而非对其核心主张进行经验检验。",
+    "criticisms_and_tensions": "它面临一种内在张力：通过诉诸必然逃脱完备科学理论化的实在层面来界定物理主义，从而冒着本体论含混的风险。它是对传统物理主义之失败的一种辩护。",
+    "open_questions_and_limitations": "非理论物理事实的确切本性与结构，以及为何这些特定事实内在地无法被捕捉的理由，仍是开放问题。",
+    "ontological_coherence": "就其特定目标（在维持物理主义的同时处理认识论鸿沟）而言具有高度的内部融贯性，但它挑战了标准物理主义本体论的范围与传统信条。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "由于世界完全是物理的，且意识植根于基于实体的物理事实，复杂的人工系统原则上能够实现必需的非理论物理事实。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作为物理主义的一种形式，意识系于物理世界，没有迹象表明它允许在物理基质消解之后持续存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本意义",
+      "rationale": "其本体论严格地是物理的，这本身并不蕴含终极的宇宙意义或目的，尽管它承认存在科学理论无法通达的物理事实。"
+    },
+    "virtual_immortality": {
+      "stance": "有条件（受技术限制）",
+      "rationale": "如果体现非理论意识事实的特定物理实体（或其构型）能够被完美复制或上传到非生物介质，虚拟永生在技术上是可能的，尽管极具挑战性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Physicalism",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "批评／替代"
+      },
+      {
+        "name": "The Knowledge Argument",
+        "relationship": "影响"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "God and Phenomenal Consciousness: A Novel Approach to Knowledge Arguments",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Anything non-physical about the mind? Closer to truth",
+        "year": 2012
+      }
+    ]
+  }
+}

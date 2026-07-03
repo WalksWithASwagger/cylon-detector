@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "性質二元論",
+    "summary": "性質二元論主張，儘管物理實體是唯一的根本實體，卻存在兩類不可化約的性質：物理性質與心理性質。諸如有意識經驗之類的心理性質，是由物理大腦所產生的，但不能被化約為物理性質、或僅憑物理性質得到完全解釋。",
+    "associated_thinkers": [
+      "David Chalmers (for Naturalistic Dualism, a variant); historically influenced by numerous philosophers seeking to preserve mental reality within a monist substance framework."
+    ],
+    "category": "二元論",
+    "subcategory": "性質二元論",
+    "core_identity_tagline": "一種實體，兩類不可化約的性質（心理的與物理的）",
+    "classification_tags": [
+      "irreducible properties",
+      "non-reductive",
+      "physicalism",
+      "dualism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識由一些心理性質或面向（例如思想、概念、觀念）構成，儘管二者都由物理系統（大腦）所例示，這些心理性質從根本上不可化約為物理性質。",
+    "ontological_status": "物理論（就實體而言）／性質二元論（就性質而言）。",
+    "mind_body_relationship": "心靈（心理性質）不可化約，在存有論上有別於物理性質，然而又完全由物理狀態（大腦）所產生。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "強湧現（因為心理性質在原則上不可化約，且無法僅憑物理定律得到解釋）。",
+    "subjectivity_and_intentionality": "主體性（第一人稱的現象經驗）作為物理性的人所固有的、不可化約的性質／面向而產生。意向性被隱含地納入為根本心理性質／面向之一。",
+    "qualia_account": "感質（質性的被感受經驗）是不可化約的心理性質，抗拒僅憑微觀物理性質來加以界定。",
+    "ontological_commitments": "物理實體（物質）與不可化約的心理性質（包括思想、概念、觀念）。",
+    "epistemic_access": "既可透過對物理基礎（大腦）的第三人稱觀察通達，也可透過對湧現性質（主體性）的第一人稱內省通達。",
+    "constituents_and_structure": "物理實體由基礎物理學的構成要素組成，這些要素組織為複雜的結構（大腦），從而產生心理性質。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性質、思想、概念與觀念。",
+    "distinctive_mechanism_or_principle": "心理性質不可化約的原理，主張現象面向有別於物理性質。",
+    "dynamics_of_emergence": "當物理物質達到某種複雜程度（即大腦）時，心理性質便產生。",
+    "location_and_distribution": "定位於物理對象（人／大腦）之中。",
+    "causation_and_functional_role": "心理性質具有因果效力，能夠影響物理世界（這一立場與副現象論形成對照）。",
+    "integration_or_binding": "未明確詳述。整合被假定發生於產生統一心理性質／面向的物理大腦結構之內。",
+    "information_flow_or_representation": "心理性質／面向包括概念與觀念，這意味著其參與複雜的資訊／表徵處理。",
+    "evolutionary_account": "未明確詳述。性質的湧現取決於能夠產生它們的生物複雜性的演化。",
+    "core_claims_and_evidence": [
+      "人完全是由基礎物理構成要素組成的物理對象。",
+      "心理性質（例如現象意識）由物理大腦所產生，但不可僅化約為物理性質。",
+      "隨附關係可能失效，這一點透過可設想性論證（例如哲學殭屍）得到證明。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的；概念的（針對純化約式物理論的明顯不足）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的／哲學的（可檢驗性取決於諸如哲學殭屍之類反事實情境的邏輯可能性及其蘊涵）。",
+    "known_empirical_interventions_or_tests": "涉及物理上無法區分的「殭屍」或色覺顛倒者的思想實驗（隨附關係的失效）。",
+    "criticisms_and_tensions": "必須澄清：若隨附關係失效，不同的心理狀態如何能從恰好相同的微觀物理狀態中產生。批評者認為，支持性質二元論的動機最終會導向實體二元論。",
+    "open_questions_and_limitations": "心理性質對物理大腦施加因果影響（心理因果）的確切方式仍有爭議，需要加以具體說明。",
+    "ontological_coherence": "內部一致性高，但在嚴格堅持「不可化約的性質能夠僅從一元論式的物理世界中產生、並在其中具有因果效力」這一點上面臨張力。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件的",
+      "rationale": "如果非生物系統能夠例示產生所描述的不可化約心理性質所需的特定複雜物理組織，那麼人工智慧就可能有意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識由物理大腦所產生的性質構成。當物理實體（大腦／身體）隨死亡而消解時，這些性質也隨之不復存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "未表明／中立",
+      "rationale": "該理論聚焦於存有論範疇與性質關係；它接受一種根本上物理性的實體，並不本然地支持宇宙目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "可能的",
+      "rationale": "如果意識是特定物理組織的湧現性質，那麼在非生物基質中複製該完整物理狀態（大腦結構）應能產生相同的心理性質。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "重疊／相容（常被視為同義或密切相關）"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "批判／對照（拒斥實體的二元論，但保留性質的二元論）"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判／對照（性質二元論一般賦予心理狀態以因果效力，不同於副現象論）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Dualism in the Philosophy of Mind, Dean Zimmerman",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Mind-Body Problem and Metaphysics: an Argument from Consciousness to Mental Substance, Ralph Weir",
+        "year": 2023
+      }
+    ]
+  }
+}

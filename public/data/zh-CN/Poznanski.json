@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "动态有机性理论（DOT）",
+    "summary": "这是一种植根于B型唯物主义的量子生物学理论，运用一个多尺度的时间－拓扑框架对意识进行建模。它主张，当脑的活体负熵状态中多尺度复杂性的功能性超过源自最大复杂性的功能性时，意识便自发产生。",
+    "associated_thinkers": ["Roman Poznanski"],
+    "category": "量子理论",
+    "subcategory": "动态有机性（量子生物学）",
+    "core_identity_tagline": "作为多尺度复杂性之功能性的意识",
+    "classification_tags": [
+      "quantum biological",
+      "type-b materialism",
+      "negentropy",
+      "functional-structural realism",
+      "temporal-topological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为脑中物理过程的独特生物学实现，它在多尺度复杂性的功能性（$F_{MultiComplexity}$）超过最大复杂性的功能性（$F_{MaxComplexity}$）时产生",
+    "ontological_status": "B型唯物主义",
+    "mind_body_relationship": "意识是一个物理过程，但仅有认识论上客观的知识并不足以界定物理主义。该理论运用自指的动力学路径来在物质性大脑之内确立意识。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "强涌现（推断）",
+    "subjectivity_and_intentionality": "主体性以认识论方式来处理，其中物理属性经由量子生物学效应被主观地评估。意向性是这一自发过程的输出，充当路径选择中的行动指令，并经由自指而产生自我感。",
+    "qualia_account": "在讨论中回避了感受质，因为在功能－结构实在论下它们并不适用于有意识实在，而是作为“存在”的一个黑箱出现。然而，该理论意味着独特的功能性相互作用在其他系统中并非现象上等价。",
+    "ontological_commitments": "多尺度复杂性（功能性的与结构性的）、脑的活体负熵状态，以及量子势能（隐含地作为额外自由度的来源）。",
+    "epistemic_access": "意识经由对动态有机性的一种认识论上主观的进路来通达，其重点在于理解不确定性的行为，而非依赖内省或记忆回想。",
+    "constituents_and_structure": "一个以阶层化模块性（holarchical modularity）为特征的非空间拓扑框架，聚焦于功能性的时间面向以及跨越微观尺度到宏观尺度的自指动力学路径。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "感受性、意向性、自我感",
+    "distinctive_mechanism_or_principle": "当 $F_{MultiComplexity} > F_{MaxComplexity}$ 时意识产生。所需的这一功能性增量由一个额外的自由度所提供，而该自由度是由脑的活体负熵状态所施加的量子生物学效应所使能的。",
+    "dynamics_of_emergence": "意识是一种有机地存在着的动态状态，而非静态属性。它并非阶跃函数，而是逐渐上升至若干平台，并从不可还原的量子－热涨落中自发出现。",
+    "location_and_distribution": "定位于物质性大脑的功能动力学之中。经由跨越微观尺度到宏观尺度（包括非定域路径）的自指动力学路径而分布。",
+    "causation_and_functional_role": "意识的功能性对宏观系统施加热力学约束。其输出（意向性）为路径选择提供行动指令。在处理功能性时，自指取代了涌现／自组织，从而使历时因果与弱统一成为可能。",
+    "integration_or_binding": "经由自指动力学路径的独特性来实现，这些路径通过其时间结构创造出意识的一种弱统一。",
+    "information_flow_or_representation": "意识使内在信息得以在脑的负熵状态之内被结构化，并利用一个额外的自由度。",
+    "evolutionary_account": "该理论与演化发展相一致，假定所需的功能性多尺度复杂性是为满足意识的必要条件而演化出来的。",
+    "core_claims_and_evidence": [
+      "意识是一种基于多尺度时间－拓扑框架的量子生物学理论。",
+      "意识仅在 $F_{MultiComplexity} > F_{MaxComplexity}$ 时产生。",
+      "功能性增量源自活体负熵状态中量子生物学所带来的一个额外自由度。",
+      "意向性是其输出，充当路径选择的指令，并产生自我感。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、哲学的（形而上学建模）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨／概念上可检验",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "$F_{MultiComplexity} > F_{MaxComplexity}$ 这一条件仅被确立为必要条件，而非充分条件。对传统现象学属性（感受质）的拒斥是与其他意识理论之间的一大张力。",
+    "open_questions_and_limitations": "$F_{MultiComplexity} > F_{MaxComplexity}$ 条件的充分性仍属开放。依赖非空间拓扑框架和自指来处理主体性／感受质是一个局限。",
+    "ontological_coherence": "在其所界定的B型唯物主义与功能－结构实在论框架内是融贯的，但依赖于量子生物学效应所扮演的一个强大而独特的角色，而这是高度思辨的。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件／很可能",
+      "rationale": "作为B型唯物主义，意识是一个物理过程。如果人工系统能够成功复制复杂的功能架构、多尺度动力学，并利用 $F_{MultiComplexity} > F_{MaxComplexity}$ 所需的量子生物学自由度，那么意识便会涌现。"
+    },
+    "survival_beyond_death": {
+      "stance": "不确定／否",
+      "rationale": "意识依赖于物质性大脑的“活体负熵状态”与特定动力学；独立于这一有机系统的存续，并不为该理论唯物主义的核心信条所支持。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义意义",
+      "rationale": "该理论着眼于生物学与功能上的效率，将内在意向性认定为行动的引导，从而提供了自我感与目的，但并不蕴含任何外在或宇宙性的目的论。"
+    },
+    "virtual_immortality": {
+      "stance": "可能／有条件",
+      "rationale": "如果生成 $F_{MultiComplexity} > F_{MaxComplexity}$ 所需的底层生物学与量子－功能约束能够被成功复制并在非生物介质中实现，从而实现有意识自我的复制，那么虚拟永生便是可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "对比"
+      },
+      {
+        "name": "Type-B Materialism",
+        "relationship": "基础"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批评"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The dynamic organicity theory of consciousness: how consciousness arises from the functionality of multiscale complexity in the material brain, Roman Poznanski",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      }
+    ]
+  }
+}

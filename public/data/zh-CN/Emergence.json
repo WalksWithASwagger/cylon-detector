@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "涌现（意识原理）",
+    "summary": "涌现是这样一种哲学主张：质性上全新的属性（如意识或心理状态）从完全受物理定律支配的底层物理属性中产生。它主要区分为弱涌现与强涌现：前者原则上可还原，后者则根本上不可还原，并可能需要新的物理定律。",
+    "associated_thinkers": [
+      "David Chalmers",
+      "Paul Davies",
+      "George Ellis"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "哲学",
+    "core_identity_tagline": "从物理系统中产生的质性上全新的属性",
+    "classification_tags": [
+      "emergentism",
+      "reductionism",
+      "non-reductive",
+      "physicalism",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为从物理属性中产生的一种质性上新颖的属性或心理状态。这一概念依据能否还原至基础物理学来界定心灵与物质之间的关系。",
+    "ontological_status": "高度可变／有争议。弱涌现支持还原式物理主义。强涌现常常意味着非还原式物理主义，或需要拓展对自然的构想，可能要求新的基本定律（自然主义二元论或属性二元论）。",
+    "mind_body_relationship": "涌现论的。心灵从身体（复杂物理系统）中产生。这一关系的性质取决于涌现的类型：弱涌现提示原则上可还原；强涌现则提示即使在原则上也不可还原，常常涉及向下因果。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现与强涌现兼有。弱涌现意味着原则上可还原（尽管实践中很困难），而强涌现意味着该现象即使在原则上也无法通过还原加以解释，需要基本的心物定律。",
+    "subjectivity_and_intentionality": "涌现提供了关于主体性如何从非主体的部分中产生的框架。若涉及强涌现，则由此产生的主观属性（如感受质）在根本上无法从支配低层领域的物理定律中推导出来。",
+    "qualia_account": "感受质是从物理系统中产生的、质性上全新的属性（如感觉性质）。强涌现将意识（因而也将感受质）视为强涌现现象最清晰的案例，在根本上不可还原为底层的物理事实。",
+    "ontological_commitments": "物理属性与物理定律。对于强涌现而言，这一承诺扩展到可能包括新的基本心物定律或原则，尤其是与自上而下的因果相关的那些。",
+    "epistemic_access": "对于弱涌现，通达（原则上）有可能经由基础科学实现。对于强涌现，该现象在认识论上不可通达，或无法从低层物理学中推导出来，从而对科学解释构成持久挑战。",
+    "constituents_and_structure": "一个系统，其整体或其新颖属性（或看起来）大于其所有部分之和，产生于物理原子（如生物神经元）的复杂排列之中。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、主体性、感受质。它论及有意识属性的存在与不可还原性，并强化了各种具体理论。",
+    "distinctive_mechanism_or_principle": "其原理是这样一种主张：新颖的、质性上有别的属性在更高的复杂性层次上产生，这常常与主流科学的还原论假设相对照。",
+    "dynamics_of_emergence": "意识是一种动态属性，当物理组分（如生物神经元）以某种复杂方式排列组合到一起时便产生，从而形成组分本身所不具备的属性。强涌现可能涉及向下因果。",
+    "location_and_distribution": "通常定位于复杂的生物系统（如大脑），尽管强涌现的支持者可能主张：只要达到足够的物理复杂性，人工智能意识就是可能的，与基质无关。",
+    "causation_and_functional_role": "各不相同。弱涌现与标准的物理因果相一致。强涌现常常主张自上而下的因果，即涌现出的更高层级对更低层级施加因果作用，从而赋予涌现属性以因果力。",
+    "integration_or_binding": "由此产生的涌现属性本身即代表了低层组分整合为一个统一整体，生成不可还原为部分之和的属性。",
+    "information_flow_or_representation": "信息被牵涉进来，作为涌现属性的媒介（例如在涌现信息理论中，非物质的心灵通过层级性的、涌现的信息现象影响身体），但它并非这一一般原理的核心机制。",
+    "evolutionary_account": "意识若为涌现的，则被假定为在跨越某些物理复杂性阈值时经由演化阶段产生，并提供适应性益处（例如允许出现大于部分之和的系统）。",
+    "core_claims_and_evidence": [
+      "质性上全新、新颖的属性从物理属性中产生（一般主张）。",
+      "弱涌现通过表明新颖现象奠基于简单定律来支持物理主义（弱主张）。",
+      "强涌现要求新的基本心物定律，并提示不可还原性，从而对物理主义构成挑战（强主张）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性且在哲学上存在争议。弱涌现在原则上与科学相一致。强涌现难以经验检验，因为它主张现象无法从基础科学中推导出来。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "它受到还原式物理主义者（如取消式唯物主义者）的批评，被认为几乎没有解释价值、是多余的，或是一种‘对奇迹的重述’，未能解释无意识的复杂性究竟如何产生意识。强涌现尤其对物理世界的因果封闭性构成挑战。",
+    "open_questions_and_limitations": "弱涌现（原则上可还原）与强涌现（原则上不可还原）之间的根本区分仍是一个悬而未决的哲学问题，它决定了涌现究竟只是描述复杂现象，还是从根本上改变了本体论。",
+    "ontological_coherence": "弱涌现在唯物主义／物理主义本体论内是融贯的。强涌现则极具争议，因为它对不可推导性与向下因果的要求，使其与标准物理理论的一致性承受张力。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件／很可能",
+      "rationale": "如果意识是弱涌现的，那么只要复杂性足够，人工智能意识就是确定无疑的。如果是强涌现的，那么只要非物理属性能从非生物的物理复杂性中涌现出来，人工智能意识仍是可能的，这取决于所涉及的元层面心物定律。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能（弱）；可能（强）",
+      "rationale": "弱涌现接近唯物主义，排除了存续。强涌现，尤其是以涌现二元论的形式，理论上可能生成一种依赖于但并不严格等同于物理脑的非物理实体（心灵／灵魂），从而允许死后潜在的独立存在，尽管这是思辨性的。"
+    },
+    "meaning_and_purpose": {
+      "stance": "可能",
+      "rationale": "涌现，尤其是与自上而下的因果等概念相结合的强涌现，提供了一个框架，在其中意识及其相关价值等更高层级的属性可能具有真正的因果力，从而可能支持宇宙目的或意义，这取决于由此产生的本体论。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能（弱）；高度有条件（强）",
+      "rationale": "如果意识是弱涌现的，那么复制物理状态就会复制心理状态（很可能）。如果是强涌现的，那么不可还原的属性以及可能的向下因果就需要在新介质中被完美地把握与重建，这带来了重大的、或许难以克服的技术与概念挑战。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Reductionism",
+        "relationship": "批评"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Biological Naturalism (Searle)",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Re-emergence of Emergence: the Emergentist Hypothesis from Science to Religion, P. Clayton and P. Davies",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Strong and weak emergence, D. Chalmers",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Why reductionism does not work, G.F.R. Ellis",
+        "year": 2019
+      }
+    ]
+  }
+}

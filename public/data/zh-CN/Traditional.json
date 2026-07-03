@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "历史与传统的二元论",
+    "summary": "这一范畴涵盖数千年来盛行的各种二元论理论，它们往往假定心灵存在一个非物理的方面（例如灵魂），与物理的身体相分离。这些二元论——包括古代哲学与主要宗教传统（如亚伯拉罕诸教及某些印度学派）中的二元论——主张实在至少由两个不同的本体论范畴构成：物理的与非物理的。",
+    "associated_thinkers": [
+      "Plato",
+      "René Descartes (Modern Start)",
+      "Richard Swinburne",
+      "J.P. Moreland"
+    ],
+    "category": "二元论",
+    "subcategory": "历史／传统二元论",
+    "core_identity_tagline": "‘作为独立非物理实体（灵魂）的意识’",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "soul",
+      "religion",
+      "classical philosophy",
+      "nonphysical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一种独立于大脑与身体的非物理实体（常被称为灵魂或精神）。",
+    "ontological_status": "实体二元论",
+    "mind_body_relationship": "通常被刻画为交互论，即物理状态引起心理状态，反之亦然，这要求物理世界并非因果封闭的。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "不适用",
+    "subjectivity_and_intentionality": "主体性是非物理实体（灵魂／精神）所固有的，后者充当第一人称的经验者或“我”。意向性常被视为这一独特心理实体的一种属性。",
+    "qualia_account": "质性特征（感受质）完全存在于非物理实体（心灵／灵魂）之中，后者有别于物理物质。",
+    "ontological_commitments": "物理物质／大脑，以及一个独立的非物理实体（灵魂、精神、原人）。",
+    "epistemic_access": "一般通过常识直觉、哲学思辨以及宗教／灵性传统来知晓，而非通过经验科学。",
+    "constituents_and_structure": "两种不同的实体：物理的（有广延的）与非物理的（无广延的、心理的）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象经验、人格同一性、死后存续、道德价值以及自我的概念。",
+    "distinctive_mechanism_or_principle": "根本不同的物理实体与非物理实体之间的交互，由此产生了臭名昭著的“交互问题”。",
+    "dynamics_of_emergence": "意识是非物理实体的一种持久特征，独立于动态的物理过程而存在。",
+    "location_and_distribution": "物理部分（身体／大脑）是定域的；非物理部分（灵魂）则是分离且非定域的，独立于物理约束而存在。",
+    "causation_and_functional_role": "心理状态（非物理实体的）在影响物理世界方面发挥因果作用，灵魂则为人格同一性提供根据。",
+    "integration_or_binding": "统一（绑定）是统一、不可分的非物理实体（灵魂）所固有的。",
+    "information_flow_or_representation": "信息或表征是心理实体的一种属性，后者被刻画为彻底目的论的、本然具有意向性的。",
+    "evolutionary_account": "通常不予论及，因为意识（灵魂）往往被视为一种根本的创造或既定的组成部分，而非演化产物。",
+    "core_claims_and_evidence": [
+      "实在由两种不可还原的实体构成：物理的与非物理的（灵魂／精神）",
+      "灵魂为人格同一性提供根据，并在身体死亡后存续",
+      "心理因果是真实的：非物理状态影响物理状态",
+      "直觉与广泛的信念（尤其在亚伯拉罕诸教中）支持独立灵魂的存在"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、宗教／传统的、直觉的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／哲学的",
+    "known_empirical_interventions_or_tests": "不适用",
+    "criticisms_and_tensions": "面临交互问题（非物理实体如何引起物理变化）、非简约性问题（奥卡姆剃刀），以及缺乏关于灵魂的客观科学知识。",
+    "open_questions_and_limitations": "使物理实体与非物理实体之间得以交互的根本机制（交互问题）尚未解决。",
+    "ontological_coherence": "与科学中关于物理世界因果封闭的普遍假设不一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否（多数情况下）",
+      "rationale": "意识需要一种根本独立的、非物理的实体（灵魂），它不由物理世界因果地决定；因此，非生物智能无法体验真正的内在觉知。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "非物理的灵魂／精神独立于身体，为第一人称的自我在物理身体消解后存续提供了最清晰的机制，主导着各宗教传统。"
+    },
+    "meaning_and_purpose": {
+      "stance": "终极意义／目的／价值",
+      "rationale": "二元论与宗教信仰体系（例如亚伯拉罕诸教）密切相关，后者本然地赋予存在与人类生命以宇宙性的意义、目的与价值。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "上传大脑无法复制意识所需的非物理组成部分（灵魂），因而无法实现虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism (Generic)",
+        "relationship": "同一"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "对照"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "对照／扩展"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism, Howard Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Theosophy, Theosophy Wiki",
+        "year": 2023
+      }
+    ]
+  }
+}

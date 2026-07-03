@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "复杂适应系统模型理论",
+    "summary": "该理论将意识建模为大脑的涌现性、适应性输出，而大脑被视为一个由复杂、非线性相互作用构成的动态网络。意识体现出复杂适应系统（CAS）所固有的特征，例如不可预测性、混沌动力学以及自组织原理。",
+    "associated_thinkers": [],
+    "category": "唯物主义",
+    "subcategory": "计算与信息",
+    "core_identity_tagline": "意识即复杂适应系统的动态、涌现性输出",
+    "classification_tags": [
+      "complex systems",
+      "emergentism",
+      "non-linear",
+      "functionalism",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为源自大脑内部复杂、非线性相互作用的智能、动态、适应性行为，而大脑作为一个复杂适应系统运作。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "涌现论。心灵作为涌现属性，从物理系统（大脑）高度复杂、非线性的相互作用中产生。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现，但因系统动力学高度混沌且不可预测而趋向于强涌现。",
+    "subjectivity_and_intentionality": "主体性隐含地源自内部的复杂性以及系统的自组织能力；意向性则由中介感觉输入与行为输出以求解问题的需要（智能复杂适应系统）来解释。",
+    "qualia_account": "感受质被认定为直接源自底层物理基质集体的、复杂的、非线性动力学的涌现属性。",
+    "ontological_commitments": "动态网络、复杂而非线性的相互作用、信息，以及由此产生的涌现属性。",
+    "epistemic_access": "通过对系统动力学的观察与数学建模来通达，尤其是复杂系统所特有的不可预测、混沌和非线性行为。",
+    "constituents_and_structure": "基本结构是一个由相互作用的组分（神经元／神经元集群）构成的动态网络，呈层级组织，以非线性和混沌关系为特征。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（作为涌现属性）、通达（通过适应）以及能动性（随着系统求解问题）。",
+    "distinctive_mechanism_or_principle": "基于非线性动力学的自组织原理与适应机制，使系统得以改变自身行为并创造新颖性。",
+    "dynamics_of_emergence": "动态过程。意识源自跨不同组织层级、持续进行的、自组织的变化引发事件，往往涉及阈值和递归相互作用。",
+    "location_and_distribution": "系统性的。意识分布于大脑／有机体的整个动态网络之中。",
+    "causation_and_functional_role": "意识作为一个“智能复杂适应系统”而运作，其首要目的是求解问题、中介复杂的感觉输入，并为生存生成灵活、适应性的行为输出。",
+    "integration_or_binding": "整合是复杂系统的一种内在属性，其中“集体行为可能无法从其组分行为中预测出来”，从而确保了有意识输出的统一性。",
+    "information_flow_or_representation": "信息处理以非线性和递归相互作用为特征，从而将其与简单的线性或算法处理区分开来。",
+    "evolutionary_account": "意识作为一个智能复杂适应系统而演化，以生成复杂问题求解所必需的涌现属性，并通过中介输入与输出获得生存优势。",
+    "core_claims_and_evidence": [
+      "大脑是一个复杂适应系统，其有意识输出表现出非线性和混沌特征。",
+      "意识依赖于历史、阈值和递归相互作用，反映出它作为复杂适应系统的本性。",
+      "将意识建模为一个智能复杂适应系统，揭示出它在感觉输入与行为输出之间求解问题的适应性角色。"
+    ],
+    "basis_of_belief_or_evidence_type": "计算的、数学建模、系统理论、神经哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "经验上和计算上可检验，基于对神经网络内部复杂性、混沌和非线性动力学的量化。",
+    "known_empirical_interventions_or_tests": "所涉检验包括分析复杂系统输入与输出之间非线性、混沌的关系，并评估扰动之后的适应性行为反应。",
+    "criticisms_and_tensions": "该理论与其他功能主义进路一样，常被批评为只描述了涌现性系统行为的*结构*，却未解释主观经验（感受质）的根本本性。",
+    "open_questions_and_limitations": "现象意识（相对于无意识的复杂处理）之涌现所需的、混沌动力学中的精确阈值或具体特征仍未确定。",
+    "ontological_coherence": "在物理主义框架内高度融贯，依据意识源自物理复杂性的适应性功能角色对其加以界定。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识主要是一个足够复杂、自组织网络的涌现性、适应性行为，那么这些属性理论上可在先进的人工系统中复现。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识植根于身体（大脑）内部动态网络的物理实在之中，意味着它随生物基质的解体而终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "实用／存在主义意义",
+      "rationale": "意识的功能角色在于为生存而进行适应和问题求解，这表明意义仅内在于系统持续的存在本身，而不在于某种宇宙计划。"
+    },
+    "virtual_immortality": {
+      "stance": "可能／有条件",
+      "rationale": "如果生物性复杂适应系统那复杂、非线性、自组织的动力学能够在非生物介质中被捕捉并维持，虚拟永生便有可能实现。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "影响"
+      },
+      {
+        "name": "Bunge’s Emergent Materialism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Combs’s Chaotic Attractor and Autopoietic Systems",
+        "relationship": "扩展"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness as an intelligent complex adaptive system: a neuroanthropological perspective, C. Laughlin",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Emergence and the mind, M. Bunge",
+        "year": 1977
+      }
+    ]
+  }
+}

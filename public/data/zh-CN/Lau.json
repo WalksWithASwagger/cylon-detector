@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Lau 的知觉现实监测理论",
+    "summary": "这一以经验为根基的高阶理论提出，当某个特定的高阶表征（HOR）将一个一阶感觉表征确证为对外部世界的可靠反映时，意识知觉便发生。高阶表征充当知觉与认知之间的接口，为意识经验提供主观上的辩护感。",
+    "associated_thinkers": ["Hakwan Lau"],
+    "category": "唯物主义",
+    "subcategory": "表征性",
+    "core_identity_tagline": "‘意识作为知觉现实监测’",
+    "classification_tags": [
+      "higher-order theory",
+      "representationalism",
+      "metacognition",
+      "functionalism",
+      "neurobiological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识是知觉与认知之间的一种功能机制或接口，由监测一阶感觉状态之可靠性与认识论地位的高阶表征所实例化。",
+    "ontological_status": "物理主义／功能主义",
+    "mind_body_relationship": "意识与监测一阶感觉表征的高阶神经机制（很可能在前额叶皮层）的特定功能活动是同一的。这是一种基于大脑功能的唯物主义说明。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现。意识是从大脑中特定的复杂组织结构（高阶表征）中产生的一种功能，表明它原则上可解释或可还原，这与其唯物主义归类相一致。",
+    "subjectivity_and_intentionality": "主体性源自意识与信念形成及主观层面的认识论辩护之间的连接。意向性由被监测的那个一阶知觉表征所承载。",
+    "qualia_account": "主观的‘感受起来是怎样的’由高阶表征通达更丰富、更低层的模拟性知觉信号来加以解释。这些信号的模拟本性决定了相对于其他可能经验的主观相似性。",
+    "ontological_commitments": "一阶知觉表征、高阶监测表征（HOR），以及主要位于前额叶皮层的特定神经机制。",
+    "epistemic_access": "可通过经验研究与神经建模来通达，聚焦于意识知觉与感觉元认知机制之间的相似性。高阶表征本身是一个亚个人层次的过程，但其输出为行动者带来主观上得到辩护的推断。",
+    "constituents_and_structure": "该结构涉及一个两层过程：一阶（感觉）表征被高阶（认知／元认知）表征加以标记或监测，从而在知觉与认知之间形成一个机制性接口。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（知觉与感受质）、认知性（元认知、信念形成）、通达（作为一种潜在的后果）。",
+    "distinctive_mechanism_or_principle": "高阶表征（HOR）作为一个‘标签或标记’发挥作用，指示一阶感觉表征所被知觉到的可靠性（知觉现实监测），从而将其与幻想或神经元噪声区分开来。",
+    "dynamics_of_emergence": "意识在特定的功能性高阶表征机制被实例化时动态地产生，充当感觉输入与认知加工之间的关键接口。",
+    "location_and_distribution": "该机制很可能位于哺乳动物的前额叶皮层，处于初级感觉区之外，与负责知觉元认知的区域相重叠。",
+    "causation_and_functional_role": "高阶表征充当一种门控机制，将可靠的感觉信息导向进一步的认知加工，确保行动者能够以可靠的方式将现实与幻想区分开来。",
+    "integration_or_binding": "高阶表征通达一阶表征中更丰富、更低层的模拟性知觉，这意味着这一监测过程促成了统一现象经验所必需的整合。",
+    "information_flow_or_representation": "信息从空间上‘模拟性’的感觉表征（一阶）流向高阶认知系统，从而带来计算上的优势并决定质性特征。",
+    "evolutionary_account": "该理论与一种演化说明相一致，因为它包含了一个鉴别器（类比于人工智能），通过可靠地区分对世界的真实知觉与自我生成的图像或噪声，从而增强了生存。",
+    "core_claims_and_evidence": [
+      "意识知觉需要一个高阶表征把一阶感觉输入确证为可靠。",
+      "意识知觉的神经机制与感觉元认知的神经机制相重叠（前额叶与顶叶皮层）。",
+      "该理论融贯地把盲视解释为：出现了一个一阶表征，却缺少与之对应的必要高阶表征。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验的／认知神经科学的、功能主义的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验，通过绘制并比较意识知觉与感觉元认知的神经关联物，以及借助其对盲视现象的预测力。",
+    "known_empirical_interventions_or_tests": [
+      "将前额叶／顶叶活动与感觉元认知及意识知觉相关联的神经影像研究。"
+    ],
+    "criticisms_and_tensions": "Lau 批评各竞争模型，将该理论定位为一种更优越的‘中间派’进路，介于全局工作空间理论（过于聚焦通达）与纯粹局部／复现理论（过于聚焦早期感觉区）之间。它面临一个标准难题：为何监测／元认知应当产生质性的‘感受起来是怎样的’。",
+    "open_questions_and_limitations": "需要充分证实这一雄心勃勃的主张：一个由高阶标签所通达的机制性、模拟性表征能够完全解释经验的主观质性。",
+    "ontological_coherence": "在一个神经生物学与功能主义的唯物主义框架内高度融贯。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种功能主义理论，意识依赖于正确的信息／功能架构（高阶表征机制）的实现。若这一架构能够在机器人或计算机程序中被实例化，人工意识便是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识被明确地系于位于生物大脑中的特定专门神经机制（如前额叶皮层），因而没有留下在生物死亡之后持续存在的余地。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义的",
+      "rationale": "该机制的首要作用是功能性的（区分现实与幻想并导引信息）。除这一生物机制所带来的适应优势之外，它不提供任何宇宙性或终极目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "若特定的功能与信息架构（包括表征的模拟本性）能够被完美上传并运行于非生物基质之上，第一人称的心理自我便会得到保存，因为意识正是由那一功能结构所界定的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "特定实例／延伸"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "批评（被定位为一种更优越的中间替代方案）"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "批评（被定位为一种更优越的中间替代方案）"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "相容（共享一种解释意识主张的功能主义／认知进路）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness, metacognition, & perceptual reality monitoring, Hakwan Lau",
+        "year": 2019
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Is consciousness a battle between your beliefs and perceptions?, Hakwan Lau",
+        "year": 2019
+      }
+    ]
+  }
+}

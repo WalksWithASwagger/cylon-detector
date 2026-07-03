@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "Lahav 的相对论性理论",
+    "summary": "该理论将意识刻画为一种物理现象，它相对于某个‘认知参考系’所进行的测量而言。类比于物理学中的速度，处于不同认知参考系中的不同观察者，在观察同一现象时会显现出不同的物理属性（对自身而言是意识觉知，对他人而言则是被测量到的大脑活动）。",
+    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "category": "唯物主义",
+    "subcategory": "关系性",
+    "core_identity_tagline": "意识作为相对于认知参考系的物理现象",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识经验被确认为相对于某个‘认知参考系’的物理测量过程所产生的结果。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "这一关系是相对论性的：同一底层现象，视测量语境而定，显现为意识觉知（从内部参考系而言）或大脑活动（从外部参考系而言）。这表明了一种依赖于参考系的同一性或关联。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "未明确阐述，但很可能是弱涌现，因为它依赖于既有的（或类比的）物理原理（相对论、测量），而非为意识本身的存在假设新的基本定律。",
+    "subjectivity_and_intentionality": "主体性内在于‘认知参考系’的定义之中；两个人由于处在不同的认知参考系中，会以不同方式经验意识。意向性（思想的指向性）在所提供的来源中未被明确讨论。",
+    "qualia_account": "感受质被隐含地说明为在特定认知参考系内所显现的主观物理属性，尽管经验本身内在的质性本性并未得到详述。",
+    "ontological_commitments": "物理实在、物理测量过程，以及一个类比自相对论物理学的‘认知参考系’。",
+    "epistemic_access": "通达是依赖于参考系的：在自身的认知参考系内，意识觉知得以被经验；而从另一个独立的认知参考系来看，只能测量到大脑活动。",
+    "constituents_and_structure": "意识由物理测量过程本身所结构化，从而依所处参考系的不同而产生不同的物理属性或显现。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意识觉知、属性的物理显现。",
+    "distinctive_mechanism_or_principle": "意识相对于认知参考系中的物理测量这一原理，而非由计算所创造。",
+    "dynamics_of_emergence": "意识从物理测量过程中动态地产生。不同参考系中的不同物理测量，产生意识经验与大脑活动的不同显现。",
+    "location_and_distribution": "相对于观察者的‘认知参考系’而被局部化。",
+    "causation_and_functional_role": "意识经验‘由于’物理测量过程本身而产生。意识并非源自大脑所执行的计算过程。",
+    "integration_or_binding": "未被明确讨论，但被假定为在单一认知参考系内是统一的。",
+    "information_flow_or_representation": "信息加工（计算）被明确指出‘并非’意识经验的起源；意识源自物理测量这一底层过程。",
+    "evolutionary_account": "所提供的源材料未涉及这一领域。",
+    "core_claims_and_evidence": [
+      "意识是一种相对于某个认知参考系之测量的物理现象。",
+      "意识经验由于物理测量过程而产生。",
+      "大脑并非通过计算来创造意识经验。"
+    ],
+    "basis_of_belief_or_evidence_type": "基于类比物理学（相对论）的概念／理论论证。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验，因为该理论涉及界定物理现象与测量，尽管经验检验依赖于开发出检验认知参考系类比的机制。",
+    "known_empirical_interventions_or_tests": "各来源中未列出具体的经验性干预或检验。",
+    "criticisms_and_tensions": "来源提供的是一段描述，而非批评部分。潜在的张力在于如何将物理相对性（如速度）的类比转化为可验证的、非隐喻的认知或神经生物学过程。",
+    "open_questions_and_limitations": "‘认知参考系’在物理或神经层面的精确实例化与定义仍是一个开放问题。",
+    "ontological_coherence": "在一个允许基本物理属性相对于观察者或测量过程的物理主义框架内是融贯的。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件的",
+      "rationale": "由于该理论主张意识源自物理测量而非计算，人工智能系统将需要构成某个认知参考系的、非计算的物理测量过程，因此意识与否取决于超出单纯计算的硬件实现。"
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "所提供的源材料未涉及这一领域。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "所提供的源材料未涉及这一领域。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能",
+      "rationale": "由于意识是非计算的、且依赖于物理测量过程，标准的虚拟永生（上传软件／数据）不太可能实现，尽管对这一相对论性物理系统进行物理复制在理论上或许是可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories of consciousness",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Computational Theories of Mind",
+        "relationship": "批评"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "影响"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "射影意识模型",
+    "summary": "射影意识模型（PCM）是一个关于具身意识的数学框架，主张意识场（FoC）由射影几何构建结构并由主动推断加以控制。它将现象学与功能相联系，论证意识是一种已演化的机制，为韧性而优化信息整合。",
+    "associated_thinkers": [
+      "David Rudrauf",
+      "Kenneth Williford",
+      "Daniel Bennequin",
+      "Karl Friston"
+    ],
+    "category": "唯物主义",
+    "subcategory": "稳态与情感",
+    "core_identity_tagline": "意识即射影几何与主动推断",
+    "classification_tags": [
+      "mathematical",
+      "embodied",
+      "active inference",
+      "projective geometry",
+      "free energy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一种优化信息整合的已演化机制，其功能相当于一种最大化韧性的算法。意识状态反映了射影变换的作用。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "具身意识，其中心灵并非仅仅还原为具身性，而是需要物理结构；「亲历之身体」充当着实际身体的一种关键的推断性表征。",
+    "primitive_or_emergent_status": "已涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "PCM 说明了主观经验的空间现象学，并将意向性与情感过程相联系。意识场依据偏好选择视角，从而为经验设定框架。",
+    "qualia_account": "该理论说明了主观经验的空间现象学，认为意识状态经由射影变换而产生，尽管具体的定性感受（「感受质」）细节并未被明确提供。",
+    "ontological_commitments": "射影几何、自由能、具身系统、多模态感觉信息、记忆痕迹。",
+    "epistemic_access": "通过数学建模、计算分析以及对空间现象学的研究来通达。",
+    "constituents_and_structure": "由射影几何构建结构、并以「亲历之身体」作为用于表征与控制的虚拟用户界面的意识场（FoC）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（空间现象学）、知觉、想象、行动、情感过程（意向性）。",
+    "distinctive_mechanism_or_principle": "控制空间意识场的主动推断过程，该意识场由射影几何构建结构以变换预期。预期的违背（自由能）驱动视角采择。",
+    "dynamics_of_emergence": "意识状态是一个动态过程，当射影变换被应用时产生，支配着知觉、想象与行动之间的切换。",
+    "location_and_distribution": "系统性的；意识是具身的，涉及一个投射出全局三维空间几何的整合性预测系统。",
+    "causation_and_functional_role": "其功能是最大化韧性并展现计算上的优势。意识促进对空间分布的信息与行动的表征、模拟、评估与控制。",
+    "integration_or_binding": "整合通过一个整合性预测系统得以实现，该系统将全局的三维空间几何投射到进入意识工作空间的多模态感觉信息与记忆痕迹之上。",
+    "information_flow_or_representation": "意识优化信息整合。射影框架支配着预期如何被意识变换。「亲历之身体」是一种推断性表征。",
+    "evolutionary_account": "意识作为一种优化信息加工的机制而演化。具身系统通过发展出对空间的整合性认知而获得了演化优势。",
+    "core_claims_and_evidence": [
+      "意识的空间场由射影几何构建结构，并由主动推断加以控制。",
+      "意识是一种为韧性而优化信息整合的已演化机制。",
+      "「亲历之身体」充当着关键的推断性表征以及自我完整性的锚点。"
+    ],
+    "basis_of_belief_or_evidence_type": "数学的、计算的、现象学的、功能的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上可检验",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "在计算的、功能的唯物主义本体论内高度一致，尤其与自由能原理框架相契合。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件的",
+      "rationale": "如果射影几何与主动推断的数学与计算结构能够在人工的、最好是具身的系统中成功实现，那么人工意识是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该模型植根于物理实在，强调具身意识以及系于生物大脑的稳态原理，不为后生物性的存续提供依据。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅功能的",
+      "rationale": "意识主要被界定为一种最大化韧性、优化信息加工的已演化机制，意味着一种适应性的目的，而非终极的宇宙意义。"
+    },
+    "virtual_immortality": {
+      "stance": "有条件的",
+      "rationale": "作为一个功能性的数学模型，如果射影结构所需的复杂动力学以及具身方面能够在非生物基质中被完美地模拟／复制，虚拟永生是可以设想的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "基础"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "基础"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A mathematical model of embodied consciousness, D. Rudrauf et al",
+        "year": 2017
+      }
+    ]
+  }
+}

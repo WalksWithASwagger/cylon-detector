@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "汉弗莱的心理表征与大脑吸引子理论",
+    "summary": "这一唯物主义理论将现象意识视为演化上晚近的产物，仅存在于某些复杂物种之中。感觉通过两阶段过程生成：先收集感觉信息，随后进行一种解读性的‘有意识阅读’，由此生成具有现象属性（感受质）的心理表征，这些表征往往由大脑中复杂的吸引子状态加以稳定。",
+    "associated_thinkers": ["Nicholas Humphrey"],
+    "category": "唯物主义",
+    "subcategory": "表征主义",
+    "core_identity_tagline": "现象意识作为吸引子中演化而来的心理表征",
+    "classification_tags": [
+      "evolutionary",
+      "representation",
+      "qualia",
+      "attractor states",
+      "phenomenal self"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为对刺激的心理表征（我们所生成的观念），具体而言是在解读阶段（‘有意识阅读’）中产生、并被稳定为大脑中复杂吸引子状态的那些属性。",
+    "ontological_status": "唯物主义／还原论物理主义",
+    "mind_body_relationship": "心理状态（感觉／表征）由物理大脑生成。尽管现象属性并非大脑状态的字面属性，但它们是由大脑构想出来的心理状态（表征），这意味着一种依赖关系。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性源自解读阶段，生成一种在心理上令人印象深刻的自我感——一个‘现象自我’——它基于关于刺激如何影响有机体的表征。意向性内在于感觉之为对刺激的表征这一点。",
+    "qualia_account": "感受质是仅在解读阶段（有意识阅读）产生的‘现象属性’。它们作为心理表征而被生成，并由大脑中数学上复杂的吸引子状态加以精细化和稳定。",
+    "ontological_commitments": "心理表征、大脑吸引子状态、传出副本，以及使表征得以稳定的神经反馈回路。",
+    "epistemic_access": "尽管经验本身高度主观（‘作为我是何种感受’），但仍可通过客观的第三人称进路加以通达，尤其是通过重建演化步骤（正向工程）以及研究神经机制。",
+    "constituents_and_structure": "神经反馈回路变得递归并在时间上被拉伸，稳定为数学上复杂的吸引子状态，生成构成现象经验的内部表征（如同一种内部文本）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（感受性）、感受质的生成，以及现象自我。",
+    "distinctive_mechanism_or_principle": "一个两阶段的加工系统（感觉输入之后是有意识阅读／解读），其中表征由复杂的大脑吸引子状态加以精细化和稳定。这一过程起源于经由‘传出副本’对原始评价性反应的监测。",
+    "dynamics_of_emergence": "意识是一个动态过程，经由自然选择逐渐产生，从原始的评价性反应开始，通过精细化并稳定为复杂的、递归的神经活动而不断推进。",
+    "location_and_distribution": "定位于生物大脑，具体而言是能够支持复杂心理表征与吸引子状态的神经反馈回路。它被视为一项演化上相对晚近的发明，意味着一种非梯度式的分布（例如存在于哺乳动物和鸟类，但不存在于龙虾或青蛙）。",
+    "causation_and_functional_role": "其首要功能角色是通过现象自我的涌现，以及监测和解读刺激（一种感受）的能力，为有机体在‘适应度博弈’中提供适应性优势。",
+    "integration_or_binding": "整合通过神经反馈回路稳定为复杂吸引子状态而实现，后者生成感觉感受质的统一质性。",
+    "information_flow_or_representation": "信息以两个阶段流动：感觉输入（感觉文本）之后是解读性表征（有意识阅读），其间大脑生成对刺激的内部表征（内部文本）。",
+    "evolutionary_account": "意识是一项演化上相对晚近的适应，经由自然选择（‘正向工程’）从原始的动物反应中被发明出来，为主体提供心理上的益处。",
+    "core_claims_and_evidence": [
+      "意识是大脑生成的一种心理表征（观念），而非对大脑活动的字面映射。",
+      "现象属性（感受质）仅在加工的解读阶段（有意识阅读）中产生。",
+      "‘现象自我’的发明在适应度博弈中提供了适应性益处。",
+      "难问题被认为是‘错误的问题’，因为它错误地寻求一个映射到现象属性的神经相关物。"
+    ],
+    "basis_of_belief_or_evidence_type": "演化的、神经心理学的、哲学／概念的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验。该理论设定了特定的演化节点与大脑动力学（吸引子状态、传出副本），它们应与现象经验及物种分布相关联。",
+    "known_empirical_interventions_or_tests": "该理论意味着可检验现象意识在物种间的分布（例如将哺乳动物／鸟类与蜥蜴／青蛙等较不复杂的动物区分开来）。它还引导研究不再期待大脑活动与现象属性之间存在直接映射。",
+    "criticisms_and_tensions": "一个潜在的张力在于，数学上复杂的吸引子状态如何‘凭空’产生出感觉感受质那种看似无从说明的质性。汉弗莱还拒斥难问题的前提，这仍是其与非唯物主义立场之间的一个关键张力。",
+    "open_questions_and_limitations": "精确界定拥有现象意识的物种之演化分界点仍是一个开放问题。复杂吸引子状态如何转译为特定的质性感受，其机制尚需进一步细化。",
+    "ontological_coherence": "在严格的唯物主义与消解论框架内是融贯的，因为它力图将意识与感受质解释为复杂但终究是物理的表征，从而绕开难问题所带来的传统心身难题。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种唯物主义理论，意识由大脑中复杂的信息加工、表征与吸引子状态所实现，那么能够复制这些机制的人工系统原则上应当能够变得有意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全依赖于演化而来的生物大脑及其特定的神经机制（表征与吸引子状态）。大脑的死亡意味着意识的终止，这与唯物主义相一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人文意义",
+      "rationale": "该理论被严格地置于演化语境中，意识为在‘适应度博弈’中获得适应性益处而产生，这意味着意义与目的是人类创造的或主观的，而非宇宙性的或终极的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意识可完全由大脑生成的特定神经模式、表征与吸引子状态来解释（唯物主义理论），那么将这些功能性动力学完美复制到非生物介质中，便应能保存第一人称的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Thought Theory",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Sentience: the Invention of Consciousness, Nicholas Humphrey",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The invention of consciousness, Nicholas Humphrey",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Seeing and somethingness, Nicholas Humphrey",
+        "year": 2022
+      }
+    ]
+  }
+}

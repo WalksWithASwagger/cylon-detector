@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "意识的细胞基础（CBC）",
+    "summary": "该理论主张感受性随生命本身一同出现，认为意识是有机形态所固有的原始特征，即便在细菌等单细胞物种中也已存在。它把关于心灵起源的探究从复杂的神经结构重新引向基础性的生物力学结构。",
+    "associated_thinkers": ["Arthur Reber"],
+    "category": "唯物主义",
+    "subcategory": "系统发生演化",
+    "core_identity_tagline": "意识作为有机形态的固有特征",
+    "classification_tags": [
+      "biological reductionism",
+      "evolutionary",
+      "sentience",
+      "foundational biomechanics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被界定为特定种类有机形态中所固有的生物敏感性或经验状态，并与基础性的生物力学结构相关联。",
+    "ontological_status": "生物学还原论／物理主义",
+    "mind_body_relationship": "心理状态在本质上依赖于硬件，因为意识是有机形态的固有组成部分，这要求承诺于生物学还原论。",
+    "primitive_or_emergent_status": "原始的／基础性的",
+    "emergence_type": "不适用——意识被视为有机形态的固有特征（一种生物学原始项），而非从非意识的物理构成中涌现。然而，复杂的认知功能则通过分层功能的逐渐累积而产生。",
+    "subjectivity_and_intentionality": "主体性是特定种类有机形态的固有特征。它通过诸如感觉／知觉系统、学习、记忆以及决策等行为得以体现，这些行为即便在原始物种中也可观察到。",
+    "qualia_account": "感受质被隐含地视为存在，即有机形态所固有的主观经验，因为‘一切经验皆为心理性的’，并且存在于最原始的物种之中。",
+    "ontological_commitments": "具有柔性细胞壁、环境敏感性与运动能力的有机形态；基础性的生物力学结构。",
+    "epistemic_access": "可通过微生物学家与细胞生物学家对单细胞物种的行为与生物学行为库的研究与观察而获得通达。",
+    "constituents_and_structure": "基本的有机形态，包括柔性细胞壁与生物敏感性等属性。复杂性通过一种金字塔式的图式建立起来，其中各项功能层叠于既有功能之上并与之交锁。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "感受性；经验状态；原始心灵。聚焦于意识的起源与基本主体性。",
+    "distinctive_mechanism_or_principle": "将主体性奠基于有机形态的固有特征之上，从而要求生物性基质（柔性细胞壁、敏感性、运动能力）以具备心灵的生物学基础。",
+    "dynamics_of_emergence": "意识是原始的。复杂性与精巧性通过适应性形态与功能的累积与改造、层叠于基础性结构之上而逐渐演化。",
+    "location_and_distribution": "广泛分布于各物种之中，定位于基础性的生物力学结构，例如单细胞生物的柔性细胞壁。",
+    "causation_and_functional_role": "意识发挥着适应性作用（生存价值）。心理状态在本质上依赖于硬件，而因果性则与物理硬件相绑定。",
+    "integration_or_binding": "来源中未明确论及；复杂性涉及功能的逐渐累积，这些功能层叠并交锁在一起。",
+    "information_flow_or_representation": "原始物种通过精巧的感觉与知觉系统处理信息，从而基于环境与内部状态作出决策。明确拒斥心灵的计算理论。",
+    "evolutionary_account": "意识随生命本身一同出现。演化遵循一种金字塔式的图式，其中各项功能从基本的有机特征出发逐步趋于复杂。",
+    "core_claims_and_evidence": [
+      "感受性通过原始功能（学习、记忆、决策）得以体现，这些功能在细菌等单细胞物种中可观察到。",
+      "难问题是一种范畴错误，因为心灵是有机形态的固有组成部分，而非附加的要素。",
+      "心理状态在本质上依赖于硬件，从而动摇了功能主义。"
+    ],
+    "basis_of_belief_or_evidence_type": "生物学的；演化的；现象学的（对经验问题的重新定位）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验，方法是将研究重新聚焦于理解基本的、原始的有机形态及其生物敏感性。",
+    "known_empirical_interventions_or_tests": "借助微生物学家与细胞生物学家关于单细胞物种复杂行为（感觉、记忆、学习）的发现与行为库分析。",
+    "criticisms_and_tensions": "该理论对生物学还原论的承诺，以及心理状态在本质上依赖于硬件这一主张，动摇了流行的功能主义进路。它面临的挑战在于解释原始感受性如何放大为复杂的人类意识，尽管其框架被表述为累积而非组合。",
+    "open_questions_and_limitations": "CBC 要求精确理解基本的、原始的有机形态如何获得生物敏感性。它依赖于拒斥心灵是计算性的这一观念。",
+    "ontological_coherence": "在严格的唯物主义本体论内部保持一致，该本体论要求生物学还原论，并将难问题视为源自有缺陷的本体论预设的范畴错误。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "该理论明确拒斥心灵的计算观，并主张意识要求内在地依赖于生物性的有机形态硬件，从而禁止了人工实现。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作为一种唯物主义理论，意识完全是生物性脑／身体的产物。死亡意味着人格／心灵不可逆转且永久的不复存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主义／生物学的",
+      "rationale": "意识主要为生存与适应服务。由于该理论被归类于唯物主义，故并不蕴含终极的宇宙意义或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "对心灵计算论说的明确拒斥，以及对内在依赖于硬件的生物性过程的依赖，使数字上传成为不可能。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Feinberg and Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "重叠（共享系统发生学的语境）"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批判（被心理状态在本质上依赖于硬件这一主张所动摇）"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "相容（共享对演化起源的关注）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Caterpillars, consciousness and the origins of mind, Arthur Reber",
+        "year": 2016
+      },
+      {
+        "title_with_names": "The First Minds: Caterpillars, Karyotes, and Consciousness, Arthur Reber",
+        "year": 2018
+      }
+    ]
+  }
+}

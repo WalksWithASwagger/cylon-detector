@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "罗素式一元论",
+    "summary": "罗素式一元论主张，物理世界（物理学仅以结构与关系来描述之）具有一种现象或原现象的内在本性（内在本质，quiddities）。这一进路将意识整合进基本实在，同时避免了二元论与还原式唯物主义的传统难题。",
+    "associated_thinkers": [
+      "Bertrand Russell",
+      "Torin Alter",
+      "Yujin Nagasawa",
+      "David Chalmers",
+      "Philip Goff",
+      "Daniel Stoljar"
+    ],
+    "category": "一元论",
+    "subcategory": "哲学一元论",
+    "core_identity_tagline": "现象属性是基本物质的内在本性",
+    "classification_tags": [
+      "monism",
+      "panprotopsychism",
+      "physicalism",
+      "quidditism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识（或原意识）是内在的、范畴性的本性或属性（“内在本质”即 quiddities，或“不可探知者”），它构成了物理学所描述的物理实在的关系性结构之底层。",
+    "ontological_status": "中立一元论、物理一元论或现象一元论（视变体而定）；根本上是一元论的。",
+    "mind_body_relationship": "心灵与物理世界深度交织，心理属性构成基本物理实体的内在本性（即物理倾向性的范畴性基础）。",
+    "primitive_or_emergent_status": "原初（处于实在的基本层次，作为微观实体的现象或原现象属性）。",
+    "emergence_type": "不适用（属性是原初的／内在的）。意识的宏观聚合有时被刻画为一个组合问题，而非涌现。",
+    "subjectivity_and_intentionality": "主体性是固有的，因为基本物理实体被现象属性所贯注。就该理论而言，来源材料并未明确详述意向性的具体阐述。",
+    "qualia_account": "感受质对应于那些构成基本物质内在本性的现象属性（或其前身）。",
+    "ontological_commitments": "被赋予范畴性／内在属性（内在本质／不可探知者）的基本物理实体（如电子、夸克），这些属性是现象的或原现象的。",
+    "epistemic_access": "经验科学只能通达实在的关系性结构，但其内在本性（现象／原现象的内在本质）为物理学所不可通达，需经由哲学思辨来通达。",
+    "constituents_and_structure": "物理学描述时空／关系性的结构与动力学；现象或原现象的内在本质则构成这一结构之底层。它可以是微观层次的，也可以是宇宙性的（优先性一元论）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象属性与终极实在的内在本性。",
+    "distinctive_mechanism_or_principle": "核心原则是物质存在着未被观测到的、内在的范畴性属性（“内在本质”），它们是现象性的，从而在不扩张关系性物理本体论的情况下把意识奠基于基本实在之中。",
+    "dynamics_of_emergence": "意识通过基本现象／原现象属性的组合而产生。这一过程有赖于解决微观属性如何产生复杂宏观经验的“组合问题”。",
+    "location_and_distribution": "位于基本微观物理实体的内在属性之中，或潜在地由整个宇宙所实例化（优先性一元论）。",
+    "causation_and_functional_role": "通过将意识嵌入物理世界的基本属性，避免了二元论的因果排除问题，这意味着意识构成物理实在本身之底层。",
+    "integration_or_binding": "整合必须通过某种机制来实现，该机制将微观物理的现象属性组合为复杂、统一的宏观经验（“组合问题”）。",
+    "information_flow_or_representation": "主要聚焦于物理关系／结构底层的内在本性（内在本质），而非详述信息流机制。",
+    "evolutionary_account": "该理论允许存在这样的变体：意识从原现象属性中演化而来，尤其是在意识演化的系统中。",
+    "core_claims_and_evidence": [
+      "物理学只描述实在的关系性结构。",
+      "基本物质的内在本性（内在本质）为经验科学所不可通达。",
+      "这些内在属性是现象的或原现象的。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／概念的。其关于内在属性的根本主张通常超出经验通达或数学建模的范围。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "首要挑战是组合问题，它至关重要：解释微观物理属性如何组合而形成复杂、整合的宏观层次意识。若假定泛原心论，则它面临从原现象属性推导出意识（感受质）的问题。",
+    "open_questions_and_limitations": "成功解决组合问题是该理论成为心身问题最有希望之解的必要条件。“不可探知者”的具体本性（现象的、原现象的、物理的还是中立的）仍是一场重大的内部争论。",
+    "ontological_coherence": "在形而上学上高度融贯，因为它将意识整合进基本实在，从而有效地解决了二元论所面临的交互问题。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识是物质／能量所固有的，并且组合问题能被技术驾驭，那么由物理基质构建的人工系统应当能实现意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "有条件",
+      "rationale": "除非组合机制得以保存，或该理论与宇宙一元论观点相契合，否则个体意识聚合体的存续是不太可能的，因为个体意识（宏观组合）很可能在生物性死亡时解体。"
+    },
+    "meaning_and_purpose": {
+      "stance": "或许",
+      "rationale": "一元论一般允许终极意义／目的／价值。若罗素式一元论采取带有演化意识的优先性一元论形式，则可能蕴含宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "单一实体的实在应当允许虚拟永生，前提是先进技术能操纵并驾驭微观心理属性，以数字方式精确重现宏观意识聚合体。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Panprotopsychism",
+        "relationship": "变体"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "批评"
+      },
+      {
+        "name": "Materialism/Physicalism",
+        "relationship": "综合"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is Russellian Monism?, T. Alter and Y. Nagasawa",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Russellian Monism, T. Alter and D. Pereboom",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2016
+      }
+    ]
+  }
+}

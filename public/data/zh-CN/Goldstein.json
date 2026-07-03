@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Goldstein 的心身问题",
+    "summary": "该理论主张意识完全由脑物质构成，拒斥非物质状态。然而，它把心身问题的核心置于这样一个观念之上：尽管物理过程可由科学完整地加以分析（外部描述），但一个人的内部主观描述（思想、情绪、感受）却无法由那种纯粹的物理描述推导出来或被充分通达，从而凸显出一道持久的解释鸿沟。",
+    "associated_thinkers": [
+      "Rebecca Newberger Goldstein"
+    ],
+    "category": "唯物主义",
+    "subcategory": "哲学",
+    "core_identity_tagline": "‘意识作为不可推导的脑物质’",
+    "classification_tags": [
+      "explanatory gap",
+      "materialism",
+      "subjectivity",
+      "description"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识，涵盖内在思想、知觉、情绪、梦境与感受状态，被认定为完全是脑物质，尽管这一脑物质的主观、内部描述无法为完整的外部科学分析所通达。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "有意识状态与脑状态彻底同一（唯物主义同一论），但主观（内部）描述的概念复杂性无法从对物理（外部）脑状态的描述性分析中推导出来。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现／解释鸿沟。意识终究是物质的，但其主观描述即使在原则上也无法从物理基质的客观描述中推导出来。",
+    "subjectivity_and_intentionality": "主体性是作为一个人的‘内部描述’（思想、情绪、梦境），而对物理脑的完整分析无法充分通达或描述它。意向状态则完全基于脑物质。",
+    "qualia_account": "感受质（感受状态）是有意识经验内部描述的方面，它们完全是脑物质，却无法被科学纯粹的物理词汇完全表达。",
+    "ontological_commitments": "物理的身体与大脑。明确拒斥非物质状态或实体（拒斥二元论）。",
+    "epistemic_access": "内部描述主要通过第一人称视角被认识，例如在小说中塑造一个人物时。第三人称的科学进路（分析大脑）在通达这类知识上固有地受限。",
+    "constituents_and_structure": "基本的底层材料‘完全是脑物质’。核心结构围绕着一个单一物质实在的物理／可分析描述与内部／不可通达描述之间的张力展开。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": [
+      "现象意识",
+      "意向性"
+    ],
+    "distinctive_mechanism_or_principle": "其原理的核心在于：尽管心理与物理在本体论上同一，一个人主观的、内部的描述仍无法从对其物理身体与大脑的完整、客观分析中推导出来。",
+    "dynamics_of_emergence": "其关注点是哲学的、描述性的，强调的是物理描述与心理描述之间信息／概念上的分离，而非某种时间性或系统性的发展机制。",
+    "location_and_distribution": "仅定位于物理的身体与大脑之中。",
+    "causation_and_functional_role": "意识，作为意向状态与感受状态，是物理脑物质。作为一种唯物主义观点，心理状态作为物理脑状态而具有因果效力。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "哲学的／概念的。其核心主张关乎描述性科学在通达主体性上的固有局限，这无法通过经验手段被证伪。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论面临 B 型唯物主义的固有张力：一方面接受意识完全是物理的这一本体论主张，另一方面又断言关于主观经验之本质存在一道可能无法弥合的解释（认识论）鸿沟。",
+    "open_questions_and_limitations": "首要局限在于：科学始终无法弥合脑状态与丰富的第一人称经验之间的描述性鸿沟，即便底层实在是一元的。",
+    "ontological_coherence": "在那些把难问题主要视为认识论而非本体论问题的物理主义框架内（如 B 型唯物主义）高度融贯。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "由于该理论从根本上是唯物主义的、并拒斥非物质实体，那么只要计算或物理系统能够例示必要的‘脑物质’配置，人工智能意识原则上便应是可能的，即便由此产生的主观经验对外部分析仍是不透明的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全是‘脑物质’，与物理身体不可分离，且该理论明确拒斥二元论（后者常与死后存续相联系）。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不确定",
+      "rationale": "尽管在本体论上是物理主义的，该理论对人的不可还原的丰富内在生活的关注，意味着主体性中蕴含着一种深刻而固有的价值，尽管它并不要求某种宇宙或终极目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果有意识状态等同于物理脑状态（脑物质），那么将这些物理状态完美复制或上传到一个新介质，在逻辑上便应保存原有的第一人称心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Stoljar’s Epistemic View and Non-Standard Physicalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Dualisms",
+        "relationship": "批评"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "对照观点"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why a Mind-Body Problem?",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is consciousness irreducible?",
+        "year": 2011
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "熵脑假说",
+    "summary": "该假说提出，自发脑活动的熵在特定的上下界之内标示了意识状态的信息丰富程度。它主张，原初的或迷幻的意识状态与升高的熵和高度的脑'临界性'相关联，而正常的清醒意识则涉及被抑制的熵，并在略低于临界点处运作。",
+    "associated_thinkers": [
+      "Robin Carhart-Harris"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "稳态与情感",
+    "core_identity_tagline": "意识即信息熵/临界性",
+    "classification_tags": [
+      "entropy",
+      "neurodynamics",
+      "psychedelics",
+      "criticality",
+      "DMN"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识由自发脑活动的信息丰富程度所标识，并以一个称为熵的无量纲量加以标示。",
+    "ontological_status": "物理主义/唯物主义",
+    "mind_body_relationship": "意识被理解为物理脑活动的一种可测量的动态状态，具体而言是其神经动力学，位于物质大脑之内。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "该理论关注与不同意识状态相对应的系统动力学（熵）；主体性与意向性通过元认知功能（如自我觉知与现实检验）间接得到处理，而这些功能由正常清醒意识中被抑制的熵所使能。",
+    "qualia_account": "该理论未明确详述质性感受如何产生。它主张熵标示意识状态的'信息丰富程度'，这暗示了与经验的关联，但并未解释那种主观性质本身的本质。",
+    "ontological_commitments": "自发脑活动、熵、临界性，以及有组织的神经网络（尤其是默认模式网络（DMN））都是所承诺的实体。",
+    "epistemic_access": "意识通过由神经影像数据（如在迷幻状态下观察到的神经动力学）客观计算脑熵而被通达和刻画。",
+    "constituents_and_structure": "意识的结构基于随时间形成与瓦解的功能连接模式的多样组合，以及默认模式网络（DMN）内部的组织水平。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（经由信息丰富程度加以标示）、原初/原始状态、正常清醒意识、自我觉知（受被抑制的熵所约束）。",
+    "distinctive_mechanism_or_principle": "意识状态的信息丰富程度由自发脑活动的熵所支配，以及由此导致的大脑与有序—无序之间某一'临界'点的接近程度这一原则。",
+    "dynamics_of_emergence": "意识是一个动态过程，其中熵的波动决定了状态的特征。被抑制的熵维持着正常清醒意识受约束、稳定的性质，而升高的熵则导致临界/原初状态。",
+    "location_and_distribution": "主要定位于遍布大脑的动态功能连接模式中，尤其聚焦于默认模式网络（DMN）内部高度有组织的活动。",
+    "causation_and_functional_role": "熵抑制的功能是为正常清醒意识赋予一种受约束的性质，从而使诸如现实检验与自我觉知之类的元认知功能成为可能。",
+    "integration_or_binding": "整合通过由熵所标示的复杂性与丰富程度而被推断；高熵状态呈现出更丰富多样的连接模式组合，暗示了一种动态形式的功能整合。",
+    "information_flow_or_representation": "熵充当信息丰富程度的一项指标。与自由能原理的整合表明，迷幻剂的致熵效应放松了高层次的先验/信念，解放了自下而上的信息流。",
+    "evolutionary_account": "该模型表明，原初的意识状态（高熵）是原始的，或先于现代的、成人的、人类的、正常清醒意识（被抑制的熵）的发展。",
+    "core_claims_and_evidence": [
+      "自发脑活动的熵标示了意识状态的信息丰富程度。",
+      "作为原初状态典范的迷幻状态，在神经影像数据中呈现出升高的熵与脑临界性。",
+      "正常清醒意识维持被抑制的熵，在略低于临界点处运作，依赖于默认模式网络（DMN）的组织。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验性、计算性、理论性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验",
+    "known_empirical_interventions_or_tests": [
+      "神经影像研究（如使用裸盖菇素）以测量脑熵",
+      "对脑临界性与功能连接模式的度量"
+    ],
+    "criticisms_and_tensions": "一些人批评该理论将'复杂性'或'多样性'等概念与意识/经验交替使用，将它们仅仅解读为'脑噪声'，未能解释主观的丰富程度，尤其是当降低的脑活动与丰富的迷幻经验相关联之时。",
+    "open_questions_and_limitations": "该理论植根于唯物主义，共同面临这样一个局限：解释为什么熵之类的定量度量会转化为质性的主观经验，尽管它用熵来标示该经验的丰富程度。",
+    "ontological_coherence": "与物理主义本体论高度一致，运用可量化的神经生物学指标（熵、临界性）来映射不同的意识状态。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能（有条件）",
+      "rationale": "由于该理论是一种基于物理系统可测量计算属性（熵、信息丰富程度、临界性）的唯物主义模型，如果这些必需的动态属性能够在非生物基质中被例示，那么人工智能便很可能达成意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识由物理大脑特定的、动态的组织与活动（如自发脑活动与 DMN）所定义，这意味着它在身体死亡时便告终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义",
+      "rationale": "作为一种对各种意识状态及其元认知功能的唯物主义、神经生物学式解释，该理论并未引入或要求一个非物理的终极宇宙意义或目的的源头。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意识完全可由脑活动的特定模式与动态参数（如熵与临界性）加以解释，那么在非生物媒介中完美再现这些模式，应能保存第一人称的现象自我，从而支持虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Critical Brain Hypothesis",
+        "relationship": "兼容"
+      },
+      {
+        "name": "Analytic Idealism (Kastrup)",
+        "relationship": "批评"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs, R.L. Carhart-Harris et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The entropic brain—revisited, R.L. Carhart-Harris",
+        "year": 2018
+      },
+      {
+        "title_with_names": "REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics, R.L. Carhart-Harris, K.J. Friston",
+        "year": 2019
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "金斯伯格与雅布隆卡的演化中的联想学习理论",
+    "summary": "该理论主张，在演化过程中向基本或最小意识过渡的驱动力，是复杂学习能力的获得。其具体标志是“无限联想学习”，它使有机体能够为新颖、复杂的刺激或行动赋予动机价值，以供未来学习之用。",
+    "associated_thinkers": [
+      "Simona Ginsburg",
+      "Eva Jablonka"
+    ],
+    "category": "唯物主义",
+    "subcategory": "系统发生演化",
+    "core_identity_tagline": "“作为无限联想学习的意识”",
+    "classification_tags": [
+      "evolution",
+      "learning",
+      "minimal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为演化中的有机体所涌现出的无限联想学习能力。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "意识完全是物理的，源自具备复杂学习机制的生物大脑的产物，与唯物主义／物理主义相一致。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性是无限联想学习所赋能的复杂计算能力的结果，它将外部刺激／行动与内部动机价值相联结，从而使意向性的、目标导向的未来学习成为可能。",
+    "qualia_account": "感受质（基本／最小的现象经验）被暗示为无限联想学习功能成功运作所产生的属性，尽管源材料并未明确详述其确切的质性感受。",
+    "ontological_commitments": "演化而成的生物大脑、神经组织，以及复杂的学习机制（无限联想学习）。",
+    "epistemic_access": "主要通过对跨物种学习行为的第三人称观察（即演化标志）以及生物学研究来获得通达。",
+    "constituents_and_structure": "促成无限联想学习的复杂神经结构与网络。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（最小意识）、学习与适应",
+    "distinctive_mechanism_or_principle": "无限联想学习（UAL），定义为为一个新颖、复合、非引发反射的刺激或行动赋予动机价值，并以此为基础进行后续学习的能力。",
+    "dynamics_of_emergence": "在系统发生的时间尺度上渐进、逐步地发展，由偏好日益灵活和复杂的学习能力的选择压力所驱动。",
+    "location_and_distribution": "定位于具备无限联想学习能力的有机体的生物神经结构之中。",
+    "causation_and_functional_role": "由无限联想学习驱动的意识，使适应性行为、生存以及针对新颖环境线索和内部动机状态的灵活学习成为可能。",
+    "integration_or_binding": "整合是通过无限联想学习将各异的外部刺激与内部动机状态相联结所必需的复杂加工而隐含地实现的。",
+    "information_flow_or_representation": "信息流涉及对新颖、复杂刺激的加工，并将其与动机价值相关联，进而作为存储信息用于未来学习。",
+    "evolutionary_account": "意识之所以产生，是因为演化偏好无限联想学习作为一项高度适应性特质的发展，并将无限联想学习认定为向基本意识过渡的具体演化标志。",
+    "core_claims_and_evidence": [
+      "演化过程中的学习是向基本意识过渡的驱动力",
+      "演化标志是“无限联想学习”（UAL）",
+      "无限联想学习使得能够为新颖、复合的刺激或行动赋予动机价值，以供未来学习"
+    ],
+    "basis_of_belief_or_evidence_type": "演化的、生物学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验／可验证",
+    "known_empirical_interventions_or_tests": "对跨越多样物种的联想学习能力进行比较研究，以识别对应于“无限联想学习”的具体行为阈值。",
+    "criticisms_and_tensions": "作为一种基于功能机制的唯物主义理论，它隐含地面临解释最小意识之质性方面（感受质）的难题，这通常被称为难问题。",
+    "open_questions_and_limitations": "该理论聚焦于基本意识的涌现；向高阶意识、语言和自我觉知过渡的确切支配机制仍是悬而未决的问题。",
+    "ontological_coherence": "在纯粹自然主义与演化唯物主义框架内高度自洽。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "作为一种将意识与特定、可界定的机制（UAL）相联系的唯物主义理论，该机制很可能能够在人工系统中以计算方式加以实现，从而在人工智能中产生意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识内在地与演化而成的生物组织结构相联系，这意味着一旦这些物理过程不可逆地终止，意识便随之消失。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本层面",
+      "rationale": "与唯物主义理论一致，意识是一项适应性演化特质，提供组织上的益处，但意味着除人类所创造的价值之外，并不存在终极的宇宙意义或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意识由可复制的物理机制（UAL）所解释，那么在非生物介质中完美复制其底层神经模式与通路应当是可能的，从而实现虚拟不朽。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "相容"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "相容"
+      },
+      {
+        "name": "Feinberg and Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Evolution of the Sensitive Soul - Learning and the Origins of Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Picturing the Mind - Consciousness through the Lens of Evolution",
+        "year": 2022
+      }
+    ]
+  }
+}

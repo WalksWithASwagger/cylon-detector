@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "歷史與傳統的二元論",
+    "summary": "這一範疇涵蓋數千年來盛行的各種二元論理論，它們往往假定心靈存在一個非物理的面向（例如靈魂），與物理的身體相分離。這些二元論——包括古代哲學與主要宗教傳統（如亞伯拉罕諸教及某些印度學派）中的二元論——主張實在至少由兩個不同的存有論範疇構成：物理的與非物理的。",
+    "associated_thinkers": [
+      "Plato",
+      "René Descartes (Modern Start)",
+      "Richard Swinburne",
+      "J.P. Moreland"
+    ],
+    "category": "二元論",
+    "subcategory": "歷史／傳統二元論",
+    "core_identity_tagline": "‘作為獨立非物理實體（靈魂）的意識’",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "soul",
+      "religion",
+      "classical philosophy",
+      "nonphysical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種獨立於大腦與身體的非物理實體（常被稱為靈魂或精神）。",
+    "ontological_status": "實體二元論",
+    "mind_body_relationship": "通常被刻畫為交互論，即物理狀態引起心理狀態，反之亦然，這要求物理世界並非因果封閉的。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "不適用",
+    "subjectivity_and_intentionality": "主體性是非物理實體（靈魂／精神）所固有的，後者充當第一人稱的經驗者或「我」。意向性常被視為這一獨特心理實體的一種性質。",
+    "qualia_account": "質性特徵（感質）完全存在於非物理實體（心靈／靈魂）之中，後者有別於物理物質。",
+    "ontological_commitments": "物理物質／大腦，以及一個獨立的非物理實體（靈魂、精神、原人）。",
+    "epistemic_access": "一般透過常識直覺、哲學思辨以及宗教／靈性傳統來知曉，而非透過經驗科學。",
+    "constituents_and_structure": "兩種不同的實體：物理的（有廣延的）與非物理的（無廣延的、心理的）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象經驗、人格同一性、死後存續、道德價值以及自我的概念。",
+    "distinctive_mechanism_or_principle": "根本不同的物理實體與非物理實體之間的交互作用，由此產生了惡名昭彰的「交互問題」。",
+    "dynamics_of_emergence": "意識是非物理實體的一種持久特徵，獨立於動態的物理過程而存在。",
+    "location_and_distribution": "物理部分（身體／大腦）是定域的；非物理部分（靈魂）則是分離且非定域的，獨立於物理約束而存在。",
+    "causation_and_functional_role": "心理狀態（非物理實體的）在影響物理世界方面發揮因果作用，靈魂則為人格同一性提供根據。",
+    "integration_or_binding": "統一（綁定）是統一、不可分的非物理實體（靈魂）所固有的。",
+    "information_flow_or_representation": "資訊或表徵是心理實體的一種性質，後者被刻畫為徹底目的論的、本然具有意向性的。",
+    "evolutionary_account": "通常不予論及，因為意識（靈魂）往往被視為一種根本的創造或既定的組成部分，而非演化產物。",
+    "core_claims_and_evidence": [
+      "實在由兩種不可化約的實體構成：物理的與非物理的（靈魂／精神）",
+      "靈魂為人格同一性提供根據，並在身體死亡後存續",
+      "心理因果是真實的：非物理狀態影響物理狀態",
+      "直覺與廣泛的信念（尤其在亞伯拉罕諸教中）支持獨立靈魂的存在"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、宗教／傳統的、直覺的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／哲學的",
+    "known_empirical_interventions_or_tests": "不適用",
+    "criticisms_and_tensions": "面臨交互問題（非物理實體如何引起物理變化）、非簡約性問題（奧卡姆剃刀），以及缺乏關於靈魂的客觀科學知識。",
+    "open_questions_and_limitations": "使物理實體與非物理實體之間得以交互的根本機制（交互問題）尚未解決。",
+    "ontological_coherence": "與科學中關於物理世界因果封閉的普遍假設不一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否（多數情況下）",
+      "rationale": "意識需要一種根本獨立的、非物理的實體（靈魂），它不由物理世界因果地決定；因此，非生物智慧無法體驗真正的內在覺知。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "非物理的靈魂／精神獨立於身體，為第一人稱的自我在物理身體消解後存續提供了最清晰的機制，主導著各宗教傳統。"
+    },
+    "meaning_and_purpose": {
+      "stance": "終極意義／目的／價值",
+      "rationale": "二元論與宗教信仰體系（例如亞伯拉罕諸教）密切相關，後者本然地賦予存在與人類生命以宇宙性的意義、目的與價值。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "上傳大腦無法複製意識所需的非物理組成部分（靈魂），因而無法實現虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism (Generic)",
+        "relationship": "同一"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "對照"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "對照／延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism, Howard Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Theosophy, Theosophy Wiki",
+        "year": 2023
+      }
+    ]
+  }
+}

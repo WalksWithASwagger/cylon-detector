@@ -1,0 +1,93 @@
+{
+  "id_and_class": {
+    "theory_title": "Mitchell 的自由施为体",
+    "summary": "该理论主张，自由意志或能动性是一种真实现象，它完全从大脑纯粹的物理运作中涌现出来。它强调神经系统借以发展出学习、建模、预测和模拟能力的演化路径，从而使生物能够做出真实的选择。",
+    "associated_thinkers": ["Kevin Mitchell"],
+    "category": "唯物主义",
+    "subcategory": "神经生物学",
+    "core_identity_tagline": "从纯粹物理的大脑运作中产生的自由施为体",
+    "classification_tags": [
+      "neuroscience",
+      "agency",
+      "free will",
+      "evolutionary",
+      "physicalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识与行为被认定为完全源自大脑中物理运作和神经活动模式的涌现产物。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "同一/涌现论。思想被物理地例示于神经活动模式之中，也就是说，“幽灵”正是运转中的机器本身。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性与“自我”感被解释为运转中的物理机器的诸方面。意向性源自演化而来的官能，这些官能使有机体能够建模、预测和模拟世界，从而实现目标导向的能动性。",
+    "qualia_account": "质性感受被隐含地解释为复杂物理大脑运作和特定神经活动模式的产物。除了指出感受质是物理地涌现出来的之外，来源材料并未明确详述现象性感受质的本质。",
+    "ontological_commitments": "物理的大脑、神经系统、神经活动模式。",
+    "epistemic_access": "可通过对纯粹物理的大脑机制进行客观的第三人称科学研究来通达。",
+    "constituents_and_structure": "高度复杂且经演化而来的神经系统之内的神经活动模式。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "能动性、自由意志、意识、自我觉知、规划、内省。",
+    "distinctive_mechanism_or_principle": "神经系统的生物演化提供了学习、建模、预测和模拟的能力，最终成就了真正的个体能动性与选择。",
+    "dynamics_of_emergence": "意识与能动性是动态过程，它们通过一条从无生命物质到复杂神经系统的特定演化轨迹而产生。",
+    "location_and_distribution": "定位于大脑的物理运作之中；例示于神经活动模式之中。",
+    "causation_and_functional_role": "意识，特别是能动性（自由意志），具有因果效力。其功能是使推理和内省等高层次能力成为可能，这些能力对于有感受能力的存在者建模并塑造其未来是必需的。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "信息加工使得建模、预测和模拟各种结果的官能得以发展，并在人类的想象力和内省能力中达到顶峰。",
+    "evolutionary_account": "通过神经系统的涌现，从无生命物质演化而来，提供了一种适应优势，使选择以及生存所需的更高认知功能成为可能。",
+    "core_claims_and_evidence": [
+      "个体能动性（自由意志）是真实的，而非幻觉。",
+      "意识与行为完全从大脑纯粹的物理运作中涌现出来。",
+      "建模和模拟等官能是通过神经系统的演化发展而来的。",
+      "思想被物理地例示于神经活动模式之中。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、演化的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "受经验约束（受神经生物学和演化数据的约束）；能动性涌现的机制在概念上奠基于物理主义。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论受到硬决定论者和自由意志怀疑论者的质疑。它之所以重要，恰恰在于它捍卫“真实的”自由意志，同时又毫不妥协地坚持物理主义，这使它有别于许多其他唯物主义观点。",
+    "open_questions_and_limitations": "纯粹物理的大脑过程究竟如何生成非幻觉的能动性和主观经验，其确切机制仍有待充分阐明。",
+    "ontological_coherence": "在一种接受心灵与大脑过程同一性的演化唯物主义本体论内部高度融贯。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "意识与能动性完全是从复杂系统中涌现出来的物理现象。因此，只要技术足够进步，人工系统就能例示必要的物理运作并实现意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全依赖于生物大脑内部纯粹的物理运作和活动模式；“幽灵”正是运转中的机器本身，这意味着它会随大脑死亡而终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主义/演化的",
+      "rationale": "能动性使个体能够有意识地塑造自己的未来并有目的地行动，从而提供一种内在的、被创造的意义，但其底层的宇宙秩序是唯物主义的（从无生命物质中涌现）。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "作为一种物理主义理论，如果能够在非生物介质中完美复制神经活动的关键模式及其所支撑的涌现能动性，那么虚拟永生原则上是可以实现的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "相容"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Free Agents, K. J. Mitchell",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "湯普森的《生命中的心靈》",
+    "summary": "此理論主張生命與心靈之間存在深層連續性，宣稱生物生命的自組織、自產生特徵（自創生）是認知的基礎。心靈被理解為這些根本組織性質的一種豐富化、具感受性的版本，動態地分布於身體與環境之間，而不僅止於大腦。",
+    "associated_thinkers": [
+      "Evan Thompson",
+      "Humberto Maturana",
+      "Francisco Varela"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "具身與生成",
+    "core_identity_tagline": "作為豐富化自組織生命的心靈",
+    "classification_tags": [
+      "embodied",
+      "enactive",
+      "autopoiesis",
+      "phenomenology",
+      "dynamic systems"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為生命豐富化的、自組織的動態特徵（感受性），這些特徵是具身的且情境於世界之中。",
+    "ontological_status": "自然主義的物理論（具身／生成的焦點）",
+    "mind_body_relationship": "心理生活即身體生活，這意味著一種深層的存有論連續性，其中心靈遍及身體與環境，而無法被單純地化約為頭顱內的大腦歷程。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "湧現的（非化約的／非階層的）。心靈作為生命自組織特徵的豐富化版本而湧現，並不尋求對解釋鴻溝的化約性封閉。",
+    "subjectivity_and_intentionality": "主體性（自我性）藉由說明生命與認知存在者所特有的自主性，從根本上加以闡明。意向性源自由擾動所觸發的自組織補償，而非對外部狀態的表徵。",
+    "qualia_account": "感質繫於行動、知覺與情緒的自組織動態，這需要對親歷經驗結構有更豐富的現象學說明，以應對解釋鴻溝。",
+    "ontological_commitments": "生命的自組織特徵、自創生組織、動態系統方程式，以及親歷經驗（現象學）。",
+    "epistemic_access": "要求關於心靈與生命的科學說明應由對親歷經驗更豐富的現象學說明所啟發（自然化的現象學）。",
+    "constituents_and_structure": "生命與心靈所共享的一組核心形式或組織性質；其特徵是以動態系統將狀態隨時間的變化描述為狀態空間中的軌跡。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（感受性）、自我性、主體性、行動、知覺、情緒、時間意識。",
+    "distinctive_mechanism_or_principle": "生命與心靈深層連續性的原則，運用自創生組織與動態系統理論來解釋意識。",
+    "dynamics_of_emergence": "意識是一種動態且本質上具時間性的現象，其中意識狀態由系統內在動態受到擾動後的自組織補償所生成。",
+    "location_and_distribution": "心靈是分布的且情境化的，其根源遍及身體與環境，而非僅侷限於大腦。",
+    "causation_and_functional_role": "意識對生命存在者的自主性至關重要，並涉及維持完整性以抵禦外部干擾所必需的自組織補償。",
+    "integration_or_binding": "藉由生命系統內在的統一性與自產生（自創生）組織而達成，這意味著一個統一的「生命—心靈」概念。（來源中未提供特定的神經綁定機制。）",
+    "information_flow_or_representation": "輸入被概念化為對系統內在動態的擾動，而非有待遵循的指令，或對外部事態的內部表徵。",
+    "evolutionary_account": "意識作為生命根本自組織性質的豐富化版本而湧現，顯示出一種連續性，其中從無生命到生命的過渡使從生命到心靈的過渡得以實現。",
+    "core_claims_and_evidence": [
+      "生命與心靈共享一組核心形式或組織性質。",
+      "心理生活是具身且情境化的，延伸至頭顱內的大腦歷程之外。",
+      "此進路藉由說明生命與認知存在者所特有的自主性，從根本上闡明自我性與主體性。",
+      "認知是一種本質上具時間性的現象，以演化方程式（動態系統進路）加以表達。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、現象學的、生物學的（動態系統理論、自創生）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗且受經驗啟發；仰賴於將科學說明（如動態系統模型）與現象學說明相契合。",
+    "known_empirical_interventions_or_tests": "運用以一組演化方程式為特徵的動態系統解釋（概念建模架構）。（來源中未列出特定的、經典的實驗範式。）",
+    "criticisms_and_tensions": "受到嚴格化約論者批評，指其未能達成對解釋鴻溝的化約性封閉；並面臨將豐富現象學（親歷經驗）自然化為科學架構的哲學挑戰。",
+    "open_questions_and_limitations": "其目標並非在化約意義上封閉解釋鴻溝，而是豐富應對該鴻溝的資源。對更豐富現象學說明的需求是一項關鍵要求。",
+    "ontological_coherence": "高。該理論在其具身動態論與連續的生命—心靈組織架構內部保持一致，作為具身與生成範疇的一根支柱。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件的／不確定的",
+      "rationale": "意識取決於生物生命特定的、自產生（自創生）的組織。如果人工智慧能夠實例化此核心生命性質，而不僅是計算或模擬，則意識或許隨之而來。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識根本上繫於情境於世界之中、活著的生物身體的自組織動態。此系統的解體意味著意識實體的終結。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主義的／湧現的",
+      "rationale": "意識為生命系統提供自主性與能動性，將內在價值奠基於親歷的、自產生的經驗之中，這與自然主義相容，但並不從該理論本身導出宇宙目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能",
+      "rationale": "心靈無法單獨化約為大腦歷程與計算（因為輸入是擾動，而非指令）。要在數位基質中複製自產生的、深度具身的「生命—心靈」組織，很可能是不可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Enactivism",
+        "relationship": "核心組成"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "影響"
+      },
+      {
+        "name": "Frank/Gleiser/Thompson’s “The Blind Spot”",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Process Theory",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Autopoiesis and Cognition: the Realization of the Living, Humberto Maturana and Francisco Varela",
+        "year": 1980
+      },
+      {
+        "title_with_names": "The Blind Spot: Why Science Cannot Ignore Human Experience, Adam Frank, Marcello Gleiser, and Evan Thompson",
+        "year": 2024
+      }
+    ]
+  }
+}

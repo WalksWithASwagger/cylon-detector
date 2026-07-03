@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "赫斯坦的心灵融合",
+    "summary": "威廉·赫斯坦认为，阻碍对有意识心灵作出直截了当的物理解释的主要障碍，是毫无根据的“私密性假设”。一旦移除这一形而上学假设——即一个人永远无法经验到另一个人有意识状态的观念——那么创造各种恼人的二元论、泛心论以及主张问题无解的理论的动因便被削弱了。",
+    "associated_thinkers": ["William Hirstein"],
+    "category": "唯物主义",
+    "subcategory": "神经生物学",
+    "core_identity_tagline": "通过拒斥形而上学的私密性来解释意识",
+    "classification_tags": [
+      "privacy",
+      "physicalism",
+      "neuroscience",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识是一种物理现象，只要摒弃内在私密性这一错误的哲学前提，便可用直截了当的物理术语加以解释。",
+    "ontological_status": "物理主义／还原物理主义（推断得出：该理论旨在通过论证一种完全物理的解释来反驳非物理主义本体论，并被归入唯物主义之下。）",
+    "mind_body_relationship": "同一性（推断得出：由于该理论旨在以“直截了当的物理术语”解释有意识心灵，因此它从根本上支持一种心脑同一立场，克服了引发二元论的概念障碍。）",
+    "primitive_or_emergent_status": "涌现（推断得出：作为一种唯物主义／神经生物学理论，意识被假定为源自复杂的底层物理过程，而非本原性的。）",
+    "emergence_type": "弱涌现或还原（理由：其目标是表明意识可以在物理上、无剩余地得到解释，这表明其属性在原则上是可还原的或弱涌现的。）",
+    "subjectivity_and_intentionality": "主体性被设想为完全与物理主义解释相容——只要拒斥“私密性假设”，因为正是它制造了形而上学距离的错觉。",
+    "qualia_account": "一旦对非物理解释的概念需求（由私密性假设所驱动）被消解，意识的质性感受便从根本上被纳入物理主义解释之中。",
+    "ontological_commitments": "物理过程与神经生物学机制（推断得出：该理论处于唯物主义范畴之内，表明物理实在，特别是大脑，是其基质。）",
+    "epistemic_access": "主要通过客观的第三人称科学与神经生物学研究，并辅以这样一种哲学领悟：获取他人状态的第一人称通达之所以看似困难，并非形而上学上的障碍。",
+    "constituents_and_structure": "神经机制与结构（从其在神经生物学理论下的分类推断得出。）"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（其重点在于以能够反驳非物理主义理论的术语来解释有意识心灵的本质，而非物理主义理论往往聚焦于感受质和主体性）。",
+    "distinctive_mechanism_or_principle": "拒斥或削弱概念性的“私密性假设”是其核心解释原理，从而使有意识心灵能够由标准的物理解释来解决。",
+    "dynamics_of_emergence": "该机制隐含地是神经生物学的和动态的，与其范畴内的其他理论相一致。所提供的来源未详述具体的动力学。",
+    "location_and_distribution": "定位于大脑（从其作为一种神经生物学唯物主义理论的分类推断得出。）",
+    "causation_and_functional_role": "意识具有与物理因果性相容的因果效力，因为该理论旨在提供一种“直截了当的物理”说明来击败二元论。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "一旦移除概念障碍，信息流动／处理便被暗示为意识的基础，与其他唯物主义理论相一致。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "“私密性假设”（即分享有意识状态在形而上学上的不可能性）错误地导向了各种非物理主义的意识理论。",
+      "只要克服诸如私密性假设之类的概念错误，有意识心灵便可用直截了当的物理术语得到解释。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（对形而上学障碍的批判）与推断的神经生物学／经验的（作为正面的、“直截了当的物理”解释的基础）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上可检验，因为其主要主张依赖于反驳一个哲学前提（“私密性假设”）。经验上的可检验性则取决于其所隐含的后续物理主义理论能否成功。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要批评很可能集中于：仅仅将“私密性假设”指认为错误，是否真的足以弥合解释鸿沟，并给出一个完整而详尽的意识物理解释。",
+    "open_questions_and_limitations": "该理论最终必须在移除哲学障碍之后，给出解释意识的详尽正面物理描述（例如具体的神经关联或机制）。",
+    "ontological_coherence": "与物理主义和唯物主义本体论框架高度融贯，因为其目标明确在于证明物理解释的充分性。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "由于该理论寻求对意识作出“直截了当的物理”解释，并被归为唯物主义，因此原则上并不禁止创造有意识的人工智能。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该理论是一种旨在击败各种二元论的唯物主义模型。唯物主义主张意识完全是生物性大脑的产物，意味着它随生物性死亡而终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义意义",
+      "rationale": "各种唯物主义理论通常主张，尽管人类能为自身创造意义与价值，但并不存在终极的宇宙意义或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意识完全可用物理术语解释（如赫斯坦所论），那么上传一个人完整的神经模式与通路，原则上便能保存其第一人称的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "批评" },
+      { "name": "Panpsychisms", "relationship": "批评" },
+      { "name": "Mind-Brain Identity Theory", "relationship": "相容" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
+        "year": 2012
+      }
+    ]
+  }
+}

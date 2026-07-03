@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "安布伦的局部场电位与电磁波理论",
+    "summary": "这一假说认为，意识——尤其是像疼痛这样的现象经验——产生于神经生理学信息（动作电位）被转化为电磁（EM）波之时。跨这些电磁波的信息整合被提出为解决绑定问题的机制，从而产生统一的有意识经验。",
+    "associated_thinkers": [
+      "Richard Ambron"
+    ],
+    "category": "唯物主义",
+    "subcategory": "电磁场",
+    "core_identity_tagline": "意识即被整合的电磁波",
+    "classification_tags": [
+      "electromagnetic field",
+      "neurobiology",
+      "pain",
+      "binding",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为由神经过程所生成的被整合的电磁（EM）波，它们将各种感觉输入组合为统一的经验。",
+    "ontological_status": "物理主义／唯物主义（该理论被归入唯物主义理论之下，主张意识完全是物理性的。）",
+    "mind_body_relationship": "心灵（有意识经验）源自或同一于由复杂神经活动（局部场电位）所生成的物理电磁场／波。",
+    "primitive_or_emergent_status": "涌现（意识源自神经信息的复杂组织及其向电磁波的转化。）",
+    "emergence_type": "弱涌现（作为一种特定的唯物主义／神经生物学理论，意识在原则上可仅凭底层的物理场与动力学得到解释和预测。）",
+    "subjectivity_and_intentionality": "来源中未明确详述。主体性和意向性被推断为源自最大程度整合的电磁波结构的组织属性及其所编码的内容。",
+    "qualia_account": "感受质（例如疼痛的特定经验）由所产生的电磁波中所包含的被整合信息来说明。",
+    "ontological_commitments": "动作电位、神经化学递质、局部场电位，以及由累积神经活动所生成的传播电磁波。",
+    "epistemic_access": "可通过对神经生理活动（例如局部场电位、电磁波）的客观第三人称测量、并将其与内省报告（例如疼痛强度）相关联来通达，同时该假说也具有可检验性。",
+    "constituents_and_structure": "基本构成单元是感觉输入（由动作电位编码），它们被转化为电磁波，进而相互作用形成一个连贯统一的结构（有意识的当下时刻）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（具体通过疼痛知觉的机制加以展示）以及知觉的统一性／绑定。",
+    "distinctive_mechanism_or_principle": "将以动作电位编码的感觉信息（如疼痛信号）转化为电磁波，随后对这些波加以整合。",
+    "dynamics_of_emergence": "意识是一个动态过程，源自跨不同感觉系统对电磁波的快速而持续的求和与整合。",
+    "location_and_distribution": "定位于大脑，与神经电流（局部场电位）所生成的电磁场相联系，是一种遍布全脑的现象。",
+    "causation_and_functional_role": "创造出“一个统一而连贯的世界版本”，并服务于关键的生存功能（例如优先处理疼痛感觉）。",
+    "integration_or_binding": "组合问题通过假设个别感觉输入（转化为电磁波）的信息在组合时会内在地整合而得到解决，从而解释它们如何创造出统一的经验。",
+    "information_flow_or_representation": "信息最初编码于动作电位之中，经由电磁波流动并被表征，使其得以与来自其他感官的信息相整合。",
+    "evolutionary_account": "假设意识，尤其是疼痛感觉，由于其对生存的优先性和关键性而演化出来。",
+    "core_claims_and_evidence": [
+      "疼痛因其对生存的关键性而成为研究意识的理想对象。",
+      "信息由动作电位转化为电磁波。",
+      "被整合的电磁波解释了各种感觉输入的统一（“绑定／组合问题”）。"
+    ],
+    "basis_of_belief_or_evidence_type": "神经生物学的、假说／思辨的、相关性的（从聚焦于可验证的物理信号推断得出）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "经验上可检验（安布伦相信其假说可被检验。）",
+    "known_empirical_interventions_or_tests": "检验神经动作电位向形成意识的电磁波的具体转化，并测量电磁波的整合如何与有意识经验（尤其是疼痛强度）相关联。",
+    "criticisms_and_tensions": "来源中未详述具体批评。该理论受制于神经生物学和哲学界围绕意识电磁场理论（EMF-ToCs）的普遍争议与质疑。",
+    "open_questions_and_limitations": "必须在经验上证明所假设的神经信息向连贯、可整合、足以承载现象内容的电磁波的转化，并证明电磁波的整合确实是意识统一性的真正来源。",
+    "ontological_coherence": "与唯物主义本体论相融贯，将意识植根于由神经活动所生成的物理场（能量／场）之中。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作为一种基于特定物理机制（电磁波）——由信息处理所产生——的唯物主义理论，意识原则上应可在能够生成并整合类似场的非生物硬件中复现。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识明确地与生物性大脑从神经活动生成电磁波的功能相联系，因而在这一物理基质死亡时终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义意义",
+      "rationale": "该理论框定于唯物主义之内，以生物必要性和生存关键性（例如疼痛）来解释意识，这并不为终极的宇宙目的提供任何依据。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "如果特定的物理机制（被整合的电磁波及生成它们的过程）能够在非生物介质中被完美地测量、复制和模拟，那么虚拟永生原则上便可实现，这与唯物主义相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory (CEMI)",
+        "relationship": "重叠／同类成员（两者都将电磁场／波设定为意识的基质。）"
+      },
+      {
+        "name": "Jones’s Electromagnetic Fields",
+        "relationship": "重叠／同类成员（两者都将意识归入电磁场子范畴之下。）"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "扩展／替代（复现加工往往先于意识；安布伦的理论则认为电磁波是这一活动形成意识的结果。）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Toward the unknown: consciousness and pain",
+        "year": 2023,
+        "names": [
+          "Richard Ambron"
+        ]
+      },
+      {
+        "title_with_names": "How we experience pain may unlock the mystery of consciousness",
+        "year": 2023,
+        "names": [
+          "Richard Ambron"
+        ]
+      },
+      {
+        "title_with_names": "The Brain and Pain; Breakthroughs in Neuroscience",
+        "year": 2022,
+        "names": [
+          "Richard Ambron",
+          "Sinav"
+        ]
+      }
+    ]
+  }
+}

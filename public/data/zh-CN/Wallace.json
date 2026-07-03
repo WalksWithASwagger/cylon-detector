@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "华莱士的物理学内部泛心论",
+    "summary": "David Wallace 提出一种泛心论观点，将意识认定为基本物理实体的内在本性，而非一种独立的力或特征。这一进路意在作为一种综合，既避免标准唯物主义的问题（无法解释意识），也避免二元论的问题（在封闭物理系统中意识缺乏因果角色）。",
+    "associated_thinkers": ["David Wallace"],
+    "category": "泛心论",
+    "subcategory": "物理学内部泛心论",
+    "core_identity_tagline": "作为物理学之内在本性的意识",
+    "classification_tags": [
+      "panpsychism",
+      "philosophy of physics",
+      "intrinsic properties",
+      "causal role"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为基本物理实体的内在本性；它是物理学仅以定量关系来描述的那个底层实在。",
+    "ontological_status": "泛心论（具体而言，是一种旨在对二元论与唯物主义作形而上学综合的非传统变体）。",
+    "mind_body_relationship": "意识与物理世界不可分割并构成物理世界，充当物质与能量的内在本性。这避免了传统二元论的交互问题。",
+    "primitive_or_emergent_status": "原初／根本。华莱士倾向于认为意识是根本的、不可还原的。",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "未明确详述。核心关注在于意识在基本实在中的形而上学定位，而非主体性的心理学细节。",
+    "qualia_account": "感受质被隐含地说明为构成实在的基本物理实体之内在现象本性的属性。",
+    "ontological_commitments": "拥有内在的、原现象属性的基本物理实体（场与粒子），这些属性构成意识。",
+    "epistemic_access": "概念性／哲学性推断。华莱士主张，既然物理学只以数学描述关系性结构，那么这些实体的内在本性就必须通过哲学加以推断。",
+    "constituents_and_structure": "基本组成部分是基本物理实体（场与粒子），其内在本性即意识。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、因果能动性、基础本体论。",
+    "distinctive_mechanism_or_principle": "意识通过构成物理实体的内在本性，充当物理学“内部”的因果因素。当实体彼此作用时，是意识“在施加因果作用”，从而在维持物理封闭性的同时赋予意识以因果角色。",
+    "dynamics_of_emergence": "静态属性／根本性。意识是实在根本的底层本性，而非一种动态或时间性地产生的属性。",
+    "location_and_distribution": "无处不在；意识作为一切物理实体的内在本性，位于“物理世界内部”。",
+    "causation_and_functional_role": "意识具有因果效力，因为它是物理过程本身的内在本性，从而解决了二元论中心灵缺乏因果角色的问题。",
+    "integration_or_binding": "在所提供的来源中未明确论及。华莱士聚焦于根本性的存在与因果角色，而将泛心论固有的组合问题搁置。",
+    "information_flow_or_representation": "物理学提供了关于实体如何相互关联的数学理论（关系性信息），而意识则是这些关系底层的那种非定量的内在本性（那个“为方程注入生命之火”的东西）。",
+    "evolutionary_account": "未明确详述。该理论论及实在的根本本性，它先于生物演化。",
+    "core_claims_and_evidence": [
+      "意识是实在的、根本的，存在于自然界的最底层。",
+      "意识充当物理实体的内在本性，从而在物理学之内提供因果力量。",
+      "物理定律定量地描述关系，但不描述实体的内在本性。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学与形而上学综合。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／概念的。该理论涉及物理实体的非关系性、内在本性，这在根本上难以经验检验。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "必须应对组合问题（微观意识如何组合为宏观意识）。华莱士指出，这种泛心论观点与意识使波函数坍缩的观念相矛盾，后者是一种相关但有别的量子意识理论。",
+    "open_questions_and_limitations": "微观意识属性如何精确地组合而形成复杂、统一的主观经验，仍是一项开放的哲学挑战。",
+    "ontological_coherence": "作为一种形而上学立场高度融贯，旨在将意识从根本上整合进实在，而无需设定违反物理因果封闭性的额外的非物理力量。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识是物理学所描述的一切物质／能量的内在本性，那么任何物理系统，包括足够复杂的人工智能架构，都必然是有意识的。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能（希望渺茫）",
+      "rationale": "尽管意识本身是根本且无处不在的（泛心论），但界定个人意识的那种特定的整合结构与复杂的物理排布（如大脑）相绑定。这一特定结构在生物解体之后的持存是不确定的。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不确定／或许",
+      "rationale": "作为泛心论的一个变体，该理论潜在地允许终极意义或目的，因为意识是根本的，但来源并未说明华莱士对这一蕴涵的立场。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "既然意识是物理结构底层的内在本性，那么对物理学所描述的大脑物理与关系结构进行完美的数字复制，很可能会复制出相应的内在意识本性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dualism",
+        "relationship": "批评／综合"
+      },
+      {
+        "name": "Materialism",
+        "relationship": "批评／综合"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "重叠／拓展"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Physics of the Observer, David Wallace",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Physics of consciousness, David Wallace",
+        "year": 2016
+      },
+      {
+        "title_with_names": "What Is Panpsychism, David Wallace",
+        "year": 2016
+      }
+    ]
+  }
+}

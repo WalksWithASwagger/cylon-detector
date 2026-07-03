@@ -1,0 +1,114 @@
+{
+  "id_and_class": {
+    "theory_title": "Buzsáki 的神經句法與自因節律",
+    "summary": "此理論將腦呈現為一個自組織系統與一台「預告裝置」，持續生成內在的模式與節律（神經句法）。認知被理解為內化的行動，當腦脫離其感測器以檢視「若……會如何」的情境時便湧現。意義則於這些內在模式透過與環境基於行動的互動而奠基之後才獲得。",
+    "associated_thinkers": [
+      "György Buzsáki"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "神經生物學的",
+    "core_identity_tagline": "「意識作為奠基於行動的自因神經節律」",
+    "classification_tags": [
+      "neurobiological",
+      "rhythms",
+      "action-based cognition",
+      "emergentism",
+      "predictive processing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識若由此認知理論發展而來，即等同於自我湧現的振盪時序以及相應的動態、自組織神經模式（神經句法）。腦從根本上是創造資訊，而非處理資訊。",
+    "ontological_status": "物理論／唯物論",
+    "mind_body_relationship": "心靈（認知／意識）與身體的關係是源自極為複雜之中樞神經系統的自因功能。這在唯物論框架內作為一種同一性或湧現的相關性而運作。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（由其歸類於唯物論所證成，唯物論主張意識即使源自複雜歷程，仍可由物理狀態完全解釋）。",
+    "subjectivity_and_intentionality": "主體性被推論為源自「由內而外」的觀點，其中腦主動地向世界投射並檢驗假說。意向性則繫於腦作為預告裝置的目的，該目的聚焦於生成並預測行動的後果。",
+    "qualia_account": "未明確提供。此理論主要聚焦於認知的機制。它隱含現象性質將源自複雜神經句法的組織，這與其被歸類為神經生物學唯物論理論一致。",
+    "ontological_commitments": "神經元集群、動態腦節律、皮質系統中既存的連結／動態，以及神經句法。",
+    "epistemic_access": "對神經元活動的觀察與建模，特別是對電活動（振盪時序與節律）及由此產生之認知功能的第三人稱測量。",
+    "constituents_and_structure": "嵌套腦節律（振盪時序）與跨頻率耦合的階層組織，支持自組織的細胞集群序列。此結構是動態且亞穩態的。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "認知、記憶、規劃、自我覺知（作為內化的行動）。此理論聚焦於有可能解釋現象意識的機制。",
+    "distinctive_mechanism_or_principle": "自我湧現的振盪時序（「腦的節律」）作為神經元資訊（神經句法）的根本組織者。認知明確地是內化的行動。",
+    "dynamics_of_emergence": "動態歷程。認知在腦運用其內在自組織動態以模擬後果（內化的行動）時產生，並由多個網路振盪器之間的永續互動所維持。",
+    "location_and_distribution": "皮質與海馬迴網路，特別聚焦於大尺度腦結構與腦電圖（EEG）波如何組織資訊。",
+    "causation_and_functional_role": "腦活動從根本上是自因的，由檢驗假說並預測行動後果的律令所驅動。其功能是重構內在節律以生成用於記憶與規劃的認知地圖，此功能由基本身體調節迴路轉用而來。",
+    "integration_or_binding": "神經句法透過多樣的腦節律（包括階層與跨頻率耦合）來組織並切分神經資訊。語意則透過與外部輸入／行動後果的匹配而綁定到這些自發神經模式上。",
+    "information_flow_or_representation": "腦是創造資訊而非吸收資訊。資訊流是「由內而外」的：腦以行動填滿世界，而外部輸入則選擇並修改自發神經模式，賦予其意義（語意）。",
+    "evolutionary_account": "認知（包括規劃與記憶）由最初服務於必要身體功能（例如調節代謝與能量歷程）之迴路與演算法的轉用（exaptation）與擴展所解釋。",
+    "core_claims_and_evidence": [
+      "腦是一台預告裝置，透過行動與環境互動並重構內在節律。",
+      "自發神經元活動與自我湧現的振盪時序是認知能力的來源與組織者。",
+      "語意由世界從外部加以選擇，透過基於行動之互動期間的匹配來修改既存的神經模式（無意義的雜訊）。",
+      "認知（記憶、規劃）透過調節代謝身體功能之迴路的轉用而產生。"
+    ],
+    "basis_of_belief_or_evidence_type": "經驗的、神經生物學／生理學的建模，仰賴腦節律、神經句法與細胞活動等概念。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗（檢驗聚焦於神經節律生成、跨頻率耦合以及作為認知功能相關物的神經元集群序列）。",
+    "known_empirical_interventions_or_tests": [
+      "階層腦節律與跨頻率耦合的測量與分析。",
+      "展示睡眠中尖波漣波模式期間記憶痕跡鞏固的研究。"
+    ],
+    "criticisms_and_tensions": "主要的概念張力在於，解釋高階認知（如神經句法、記憶與規劃）並不等同於解釋現象意識（「意識究竟是什麼」）。",
+    "open_questions_and_limitations": "對複雜認知及其底層神經機制的成功解釋，是否充分處理了現象意識的「難問題」？此理論本身必須發展為一套意識理論才能回答這個問題。",
+    "ontological_coherence": "高度融貫。此理論很好地契合於神經生物學與計算唯物論，與腦迴路與週期、由上而下的預測理論等相關概念一貫地一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作為唯物論／神經生物學理論，它意味著意識完全是物理的。若這些機制（神經句法、自因節律、基於行動的奠基）能在非生物系統中被實現，人工智慧意識原則上可以達成。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識／認知被解釋為僅源自生物腦物質特定、高度複雜的動態。在這些物質歷程終止之後的存續被排除。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "重點在於腦作為為適應優勢而演化的生存與假說檢驗機制。與唯物論一致，它不提供任何終極的宇宙意義、目的或價值，僅有由人類能動性所創造者。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "假定意識嚴格地由所描述的神經模式、節律與認知地圖所實現，則將這個高度整合的系統完美複製到非生物媒介中，應能保存原本的第一人稱心靈自我，使虛擬永生原則上可達成。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Brain Circuits and Cycles (9.2.11)",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Top-Down Predictive Theories (9.5.1)",
+        "relationship": "相容"
+      },
+      {
+        "name": "Electromagnetic Field Theories (9.3)",
+        "relationship": "可能一致"
+      },
+      {
+        "name": "Integrated Information Theory (12)",
+        "relationship": "對比（機制取向 vs. 現象／公理取向）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Brain from inside Out, György Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rhythms of the Brain, György Buzsáki",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Cognition from the body-brain partnership: exaptation of memory, György Buzsáki and David Tingley",
+        "year": 2023
+      },
+      {
+        "title_with_names": "If the brain is the answer, what was the question? Review of Buzsáki, György. The Brain from Inside Out, Alex Gomez-Marin",
+        "year": 2021
+      }
+    ]
+  }
+}

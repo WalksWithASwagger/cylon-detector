@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "瓦雷拉的神經現象學",
+    "summary": "神經現象學是一種方法論進路，力圖在親歷經驗中呈現的第一人稱現象（現象學）與認知科學所確立的第三人稱神經現象之間，建立相互約束的關係。其目標是將嚴謹的科學與對人類經驗的有紀律考察相結合，使經驗的結構居於科學探究的核心。",
+    "associated_thinkers": ["Francisco Varela"],
+    "category": "唯物論",
+    "subcategory": "具身與生成",
+    "core_identity_tagline": "作為經驗與大腦相互約束的意識",
+    "classification_tags": [
+      "phenomenology",
+      "methodological",
+      "embodied",
+      "first-person",
+      "dissolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識由其作為第一手現象領域的不可化約本性所界定，該領域充當相關神經生物學研究的引導或約束。",
+    "ontological_status": "方法論的物理論",
+    "mind_body_relationship": "共同決定／相互約束（現象領域與神經生物學領域被賦予同等地位，並彼此交互闡明。）",
+    "primitive_or_emergent_status": "方法論的／存而不論的",
+    "emergence_type": "不適用",
+    "subjectivity_and_intentionality": "主體性（第一人稱經驗）被視為不可化約的起點與探究的核心焦點，對於將「人類生活」重新納入科學說明至關重要。",
+    "qualia_account": "感質被納入為第一手經驗中不可化約的、鮮活的性質，必須加以嚴謹考察並與神經生物學數據相關聯。",
+    "ontological_commitments": "第一人稱經驗／現象；神經生物學現象（認知科學數據）；「區分之舉」。",
+    "epistemic_access": "透過嚴謹的現象學方法（例如對經驗的有紀律考察），與第三人稱神經生物學及認知科學方法論交織而達成。",
+    "constituents_and_structure": "人類經驗本身的結構；其組織原則是「區分之舉」。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、親歷經驗、行動、知覺、情緒。",
+    "distinctive_mechanism_or_principle": "嚴謹的第一人稱現象學說明與第三人稱神經生物學測量之間相互的、彼此約束的關係。",
+    "dynamics_of_emergence": "意識是一種動態的、鮮活的性質，繫於行動、知覺與情緒的動態。此進路將難問題轉化為一個開放性的研究綱領。",
+    "location_and_distribution": "分布於整個具身系統之中（遍及身體與環境），並非嚴格地定位於頭顱內的大腦歷程。",
+    "causation_and_functional_role": "其功能性角色是將人類生活與親歷經驗重新置入解釋之中，使經驗的結構成為科學事業的核心。",
+    "integration_or_binding": "隱含地由具身、親歷經驗的內在統一性加以處理，該統一性涵蓋行動、知覺與情緒的動態。",
+    "information_flow_or_representation": "聚焦於經驗的現象與結構，而非傳統計算心靈哲學所定義的心理內容，並將這些結構與相關的神經生物學現象相聯繫。",
+    "evolutionary_account": "與自創生（autopoiesis）及生命系統的起源相關；使無生命到生命之過渡得以實現的相同歷程，或許也能使生命到心靈之過渡得以實現（如相關思想家 Evan Thompson 所主張）。",
+    "core_claims_and_evidence": [
+      "第一手經驗是一個不可化約的現象領域，必須引導科學探究。",
+      "現象學說明與神經生物學說明必須在共同決定、相互闡明的循環中作為對等的夥伴發揮作用。",
+      "此進路藉由改變方法論來消解傳統的難問題，而非尋找理論上的修補。"
+    ],
+    "basis_of_belief_or_evidence_type": "現象學的、概念的、經驗的／神經生物學的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "經驗上可檢驗／方法論的（此進路運用新工具，如神經現象學實驗室，界定出一個開放性的研究綱領）。",
+    "known_empirical_interventions_or_tests": [
+      "將第一人稱經驗方法（例如冥想）與第三人稱大腦研究交織（神經現象學實驗室）"
+    ],
+    "criticisms_and_tensions": "此進路常被忽視或誤解。挑戰在於確保相互的方向——即經驗引導科學——不會在實踐中被忽略。它力圖超越二元論的思維風格，某些批評者可能認為這在化約性上不足，或在二元性上不足。",
+    "open_questions_and_limitations": "此架構旨在於存在論／方法論意義上消解難問題，意即它並不為原初意識的物理起源提供傳統的理智解答。",
+    "ontological_coherence": "高，因為此架構專為克服二元論模型所固有的分岔問題與解釋鴻溝而設計，透過方法上的約束來調和兩個相異領域（第一人稱與第三人稱）。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不太可能",
+      "rationale": "意識高度倚賴具身的、親歷的經驗，以及繫於生物學歷程的動態，這使得單純的計算複製並不足夠。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "該理論歸類於唯物論／具身理論之下，聚焦於意識植根於並遍及活著的生物有機體，這意味著在身體死亡時便終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主義的／實用主義的",
+      "rationale": "此方法論力圖將「人類生活」與主觀經驗重新納入科學說明，藉由珍視親歷經驗而非在純粹功能中被異化來提供意義，而不設定一種宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "如果意識植根於超出大腦範圍的具身、親歷經驗，那麼單純上傳神經／功能數據將無法捕捉有機體—環境關係所必需的動態。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Thompson’s Mind in Life",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Bitbol’s Radical Neurophenomenology",
+        "relationship": "延伸／精緻化"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "範疇重疊"
+      },
+      {
+        "name": "Chalmers's Hard Problem",
+        "relationship": "批評／消解的架構"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neurophenomenology: a methodological remedy for the hard problem",
+        "year": 1996
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "At the cradle of things - the act of distinction and Francisco Varela’s non-dualist thought, S. Vörös",
+        "year": 2023
+      }
+    ]
+  }
+}

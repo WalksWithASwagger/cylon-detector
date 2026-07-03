@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "Jones 的電磁場理論",
+    "summary": "該理論對這一觀念加以歸類並予以支持：心靈與大腦總體電活動所生成的神經電磁（EM）場相同一。人們認為這一統一的場與神經元迴路相互作用，為意識的統一性提供了基礎，並處理了感質的起源問題。",
+    "associated_thinkers": ["Mostyn Jones"],
+    "category": "唯物論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "心靈即統一的神經電磁場",
+    "classification_tags": [
+      "electromagnetic field",
+      "identity theory",
+      "neurobiological",
+      "panpsychism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（心靈）被認定為由大腦集體電活動所生成的統一神經電磁（EM）場；或者，在一個特定變體中，意識是物質—能量以神經電方式相統一的根本本性。",
+    "ontological_status": "物理論／唯物論（主要分類）；在 Jones 所支持的神經電泛心論變體中，與一種一元論／泛心論觀點相重疊。",
+    "mind_body_relationship": "同一性理論：最簡潔的解釋是心靈與神經電磁場相同一。這些場還與神經元細胞和迴路發生因果相互作用。",
+    "primitive_or_emergent_status": "湧現的（源自聚合的神經活動）或本原的（在神經電泛心論變體中，意識是物質—能量的真實本性）。由於其被置於唯物論／神經生物學框架之下，主要歸類為湧現。",
+    "emergence_type": "弱湧現（電磁場是底層神經歷程的直接物理後果）。",
+    "subjectivity_and_intentionality": "主體性源自大腦中微觀經驗經由電學結合所創造出的統一結構（如 Jones 的神經電泛心論變體所論）。",
+    "qualia_account": "該理論將感質列入解釋議程。神經電泛心論變體主張神經電活動生成並統一了不同的感質，透過將意識設定為物質—能量的真實本性來處理難問題。",
+    "ontological_commitments": "神經電流、遍布全腦的電磁（EM）場，以及神經迴路。",
+    "epistemic_access": "可透過對大腦電活動的經驗測量與觀察來通達，例如同步的神經元放電。",
+    "constituents_and_structure": "意識是由遍布全腦的電磁場所形成的統一模式，這些場由多股特定神經電流的累積總和所生成。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（感質）、心靈的統一性以及認知綁定。",
+    "distinctive_mechanism_or_principle": "心靈由特定神經電流所生成的、更為廣闊的遍布全腦電磁場構成，這些場充當意識的統一基質。",
+    "dynamics_of_emergence": "意識動態地源自諸如振盪神經元放電的同步化等機制，尤其是伽瑪頻段（30—80赫茲），後者被認為充當一種整合機制。",
+    "location_and_distribution": "意識基質是大腦內遍布全腦的電磁場所構成的錯綜複雜的三維網路。",
+    "causation_and_functional_role": "統一的神經電磁場與神經元細胞和迴路相互作用以解釋各種關聯，並有助於引導大腦的運作。",
+    "integration_or_binding": "經驗的統一（心靈的統一性）是由統一神經電磁場本身的整合性物理結構自然而然地實現的。",
+    "information_flow_or_representation": "假設電磁場對資訊進行編碼，不過除了場與迴路發生因果相互作用這一事實之外，具體的流動機制並未明確闡明。",
+    "evolutionary_account": "來源材料未明確詳述這一特定理論湧現的演化解釋。（理由：來源材料的局限。）",
+    "core_claims_and_evidence": [
+      "心靈與神經電磁場相同一，從而簡化了對心靈與場之統一性的解釋。",
+      "統一的神經電磁場與神經元細胞和迴路發生因果相互作用。",
+      "證據表明同步的神經元放電（伽瑪振盪）充當意識的整合機制。"
+    ],
+    "basis_of_belief_or_evidence_type": "經驗的（關於神經同步化和場生成的研究）與概念／哲學的（將同一性設定為最簡潔的解釋）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "經驗上可檢驗。Jones 認為，即便是高度思辨的神經電泛心論變體也是可檢驗的。",
+    "known_empirical_interventions_or_tests": [
+      "測量振盪神經元放電的同步化（例如30—80赫茲的伽瑪振盪），將其作為認知活動和整合的關聯標誌。"
+    ],
+    "criticisms_and_tensions": "電磁場理論總體上仍有爭議，且常被神經生物學家和哲學家所忽視。神經電泛心論這一具體主張是一種激進的同一性主張。",
+    "open_questions_and_limitations": "一個首要的未決問題是：精確界定電磁場發揮何種因果功能（如果有的話），以及除相關性之外，這些場如何直接與現象經驗（感質）相聯繫。",
+    "ontological_coherence": "在一種接受物理場作為意識基質的擴展唯物論存有論內是融貫的。神經電泛心論變體的納入將意識設定為物質—能量的根本本性，從而使存有論融貫性變得複雜。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作為一種唯物論／電磁場理論，意識依賴於特定的物理場結構。如果技術能夠複製出能夠生成並操縱所需電磁場模式的硬體，那麼人工智慧意識原則上應可實現。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識被定義為由生物性大腦持續活動所生成的特定物理場模式。它會隨著產生該場的生物機制的衰亡而終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義意義",
+      "rationale": "該理論植根於物理機制與原理（唯物論），暗示意識是自然而然產生的，不涉及外在的宇宙目的論或終極意義。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "虛擬永生取決於複製意識基質。如果有意識心靈可化約為一種精確而複雜的電磁場模式，那麼這一模式應可在非生物介質中複製，從而實現數位化延續，儘管在實踐中極難達成。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McFadden’s Conscious Electromagnetic Information Theory",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Pockett’s Conscious and Non-Conscious Patterns",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Neuroelectrical Panpsychism",
+        "relationship": "延伸／變體"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "對比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Electromagnetic-field theories of mind",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Mounting evidence that minds are neural EM fields interacting with brains",
+        "year": 2017
+      },
+      {
+        "title_with_names": "A simple, testable mind–body solution?",
+        "year": 2024
+      }
+    ]
+  }
+}

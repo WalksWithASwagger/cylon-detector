@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Murphy 的非还原物理主义",
+    "summary": "该理论主张意识完全是物理的，仅从生物大脑中产生，但心理属性或状态被认为在本体论上是独特的、不可还原为底层物理状态的。它力图为人这一存在者提供一种在哲学上稳健、在科学上兼容、且在神学上可接受的非二元论说明。",
+    "associated_thinkers": ["Nancey Murphy"],
+    "category": "非还原物理主义",
+    "subcategory": "非还原物理主义",
+    "core_identity_tagline": "心灵是不可还原地独特的物理属性",
+    "classification_tags": [
+      "physicalism",
+      "irreducibility",
+      "causal efficacy",
+      "theistic compatibility"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识（心理状态或属性）被认定为独特的，却完全依赖于并由大脑的物理状态所生成，常与属性二元论共享某些特征。",
+    "ontological_status": "非还原物理主义",
+    "mind_body_relationship": "心理状态在起源上完全是物理的（由大脑因果地生成），但在本体论上不可还原。这一关系常以向下因果为特征。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "强涌现（推断得出，其依据在于墨菲对系统论、混沌理论与向下因果的倚重，以在原则上实现不可还原性并击败还原论的决定论）。",
+    "subjectivity_and_intentionality": "这些心理特征被假定为整个人类有机体真实的、不可还原的属性／方面，对意识而言是必需的。",
+    "qualia_account": "质性的现象属性是由大脑的物理过程所产生的不可还原的心理状态。该理论的核心在于既维持这些属性的实在性，又拒斥还原论。",
+    "ontological_commitments": "物理实体；不可还原的心理属性或状态；层级性的因果组织（向下因果）。",
+    "epistemic_access": "意识可通过哲学探究（论证其不可还原性）以及与经验性认知神经科学的兼容性而被认识。",
+    "constituents_and_structure": "单一的实体完全是物理的；心理状态是该物理有机体的高层级系统特征，经由复杂的非线性动力学而产生。",
+    "epistemic_access": "可经由论证不可还原性的哲学论证，结合认知神经科学的经验发现而通达。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性；心理属性（包括意向性）；因果效力；自我觉知（经由非二元论的人学推断得出）。",
+    "distinctive_mechanism_or_principle": "经由向下因果（整体—部分因果）而实现的因果反还原论，并诉诸复杂系统论（混沌理论、非线性动力学），以论证心理状态对物理大脑施加真实的因果力。",
+    "dynamics_of_emergence": "心理状态作为不可还原的系统特征，从生物大脑的复杂组织中动态地涌现出来。",
+    "location_and_distribution": "定位于生物大脑／身体之内；意识是人这一存在者不可分离的涌现特征（身心统一体）。",
+    "causation_and_functional_role": "意识（心理状态）具有因果效力，并非惰性。向下因果使高层级的心理内容能够约束或影响低层级的神经过程。",
+    "integration_or_binding": "统一的人被视为一个复杂的层级系统，其中意识作为一个统一的整体发挥作用，促成体现系统统一性的因果力。",
+    "information_flow_or_representation": "信息处理发生在生物大脑中，产生心理状态，其不可还原的属性在非还原的层级上得以保留。",
+    "evolutionary_account": "意识仅是生物大脑的产物。复杂性的演化导致了涌现的、不可还原的心理属性。",
+    "core_claims_and_evidence": [
+      "意识状态完全是物理的，但拥有不可还原的心理属性，无法由物理定律完全解释",
+      "神学上的一致性通过拒斥二元论、并将“灵魂”阐释为指整个活生生的人来达成",
+      "不可还原性通过援引向下因果与复杂性理论以抵御还原论的决定论而得到保障"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、神经科学的（兼容性）、神学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可对照哲学论证（如因果封闭）进行概念上的检验，并与显示心脑之间强相关的经验证据相一致。",
+    "known_empirical_interventions_or_tests": [
+      "神经科学中的定位研究（用以论证物理依赖性）"
+    ],
+    "criticisms_and_tensions": "批评者认为，将不可还原性、随附性与因果效力结合起来会导致不一致，并使心理属性丧失因果效力（过度决定的难题）。它还面临如何界定“原则上非还原”的质疑。",
+    "open_questions_and_limitations": "缺乏一种清晰、无矛盾的说明来解释：心理属性如何能在原则上是非还原的，同时又严格地处于一个因果封闭的物理世界之内。",
+    "ontological_coherence": "在提供非二元论人学方面具有高度的概念融贯性，但在因果封闭与属性不可还原性的机制方面面临重大的哲学挑战。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识是复杂物理系统（“恰当种类”的物理）的一种不可还原却又完全物理的涌现属性，那么它应当能够在足够复杂的人工基质中被实现。"
+    },
+    "survival_beyond_death": {
+      "stance": "否，有条件的例外",
+      "rationale": "由于意识完全依赖于生物大脑，它随肉体死亡而消亡。存续需要某种特定的外部机制，如神的干预（死者复活）。"
+    },
+    "meaning_and_purpose": {
+      "stance": "终极的",
+      "rationale": "该理论常被置于有神论框架（基督教人学）中运用，以支持源自上帝对身心之人的意图的终极意义、目的与价值。"
+    },
+    "virtual_immortality": {
+      "stance": "极有可能",
+      "rationale": "假设能够完美复制必需的复杂物理系统（大脑），那么涌现的、不可还原的心理属性也必将被复制，只要技术能够达到那种复杂性，就能确保第一人称的连续性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "重叠（常被视为属性二元论的一种形式）"
+      },
+      {
+        "name": "Emergence (Strong)",
+        "relationship": "影响（为哲学融贯性需要向下因果）"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "批评（明确表明反对身与灵的人学二元论）"
+      },
+      {
+        "name": "Polkinghorne's Dual-Aspect Monism",
+        "relationship": "相容（共享非二元论有神论物理主义的目标，并倚重信息／模式／复杂性）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "For Non-reductive physicalism, Nancey Murphy",
+        "year": 2018
+      },
+      {
+        "title_with_names": "What is human mind in a theistic world?, Nancey Murphy",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Whatever Happened to the Soul?, Warren Brown, H. Newton Maloney, Nancey Murphy",
+        "year": 1998
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Faggin 的基于量子信息的泛心论",
+    "summary": "该理论主张意识和自由意志是处于纯量子态的量子系统的基础性属性，其关键在于依赖非定域的量子纠缠。它将意识认定为这些量子系统的主观内在实在，被体验为确定而私有的感受质。",
+    "associated_thinkers": [
+      "Federico Faggin",
+      "G.M. D’Ariano"
+    ],
+    "category": "量子理论",
+    "subcategory": "基于量子信息的泛心论",
+    "core_identity_tagline": "作为纯态中量子信息的意识",
+    "classification_tags": [
+      "quantum",
+      "panpsychism",
+      "information",
+      "non-local",
+      "free will"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为处于纯量子态的量子系统的主观内在实在，在数学上由量子信息来表示。",
+    "ontological_status": "泛心论（基于量子信息）",
+    "mind_body_relationship": "双面（有据说明：心灵这一面向是由量子信息所描述的私有、质性的主观实在，它是某些物理系统——纯量子态——所固有的、不可分割的内在属性。）",
+    "primitive_or_emergent_status": "原初",
+    "emergence_type": "不适用（原初）",
+    "subjectivity_and_intentionality": "主体性是内在的，因为纯量子态意识到自身的状态；这一经验本质上是私有的。意向性，尤其是创造性与想象力，从这一基础性的、非算法的量子层面涌现出来。",
+    "qualia_account": "感受质是量子系统状态的直接的、非数值的主观经验，其特征在于纯量子态的确定性与整合性。",
+    "ontological_commitments": "处于纯量子态的量子系统、量子信息和量子纠缠是基础性的本体论承诺，存在于一个受量子物理学支配的实在层面。",
+    "epistemic_access": "通过在意识的现象性属性（私有性、确定性）与量子态的内在特征（不可克隆性、整合性）之间找到一种同构关系而在概念上加以推断。",
+    "constituents_and_structure": "量子信息与纠缠是基本构件，提供了意识的确定性、整合性结构。",
+    "location_and_distribution": "无处不在（有据说明：作为一种泛心论形式，意识或原意识被隐含地分布于实在中凡有处于纯态的量子系统存在之处。）"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、自由意志、创造性",
+    "distinctive_mechanism_or_principle": "关键机制是处于纯量子态的量子系统的存在，它使得诸如自由意志和创造性等非算法属性成为可能，而这些属性在一个经典的、决定论的宇宙中无法存在。",
+    "dynamics_of_emergence": "动态过程（有据说明：意识使诸如想象和直觉等复杂的、创造性的行动成为可能，提示存在一个源自底层量子力学的动态的、非决定论的过程。）",
+    "location_and_distribution": "处于纯量子态的量子系统／基础性量子层面",
+    "causation_and_functional_role": "意识经由量子纠缠而拥有因果效力，能够构建思想并生成诸如真正的创造性和自由意志等非算法属性。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性的（有据说明：该理论依赖于基础性量子属性与现象经验之间的一种概念性同构，对于验证或证伪其核心假设，目前缺乏经验检验。）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "面临主流神经科学家和物理学家对量子意识理论普遍持有的怀疑。它必须解决泛心论所固有的组合问题——即解释微观经验如何叠加为复杂的宏观意识。",
+    "open_questions_and_limitations": "脑中（或任何复杂系统中）的量子态如何与特定宏观有意识经验的涌现相关联（即组合问题），其确切机制是一个公认的局限。",
+    "ontological_coherence": "内部高度融贯，外部高度思辨（有据说明：该理论通过将现象性公理与量子公理相匹配而保持内部一致，但要求对物理学中被广泛接受的唯物主义本体论作出根本性的转变。）"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意识从根本上是非算法且不可复制的，栖居于一个决定论的、经典的机器无法通达的量子层面，无论其智能水平如何。"
+    },
+    "survival_beyond_death": {
+      "stance": "很可能",
+      "rationale": "由于意识基于基础性的、不可还原的量子属性，故有假说认为它可能在生物身体死亡后继续存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／存在性（有据说明：通过将意识和非算法的自由意志置于实在的基础性层面，宇宙本质上是创造性的，并拥有意味着内在价值与目的的种种性质。）"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "如果意识是非算法的且无法还原为经典机制，那么它就无法被完美地模拟或上传到数字计算机，从而阻止了虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychisms",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "相容（量子焦点）"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "重叠（聚焦于整合／不可还原性）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Hard problem and free will: an information-theoretical approach, G.M. D’Ariano and Federico Faggin",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Possibilities are quantum, Federico Faggin",
+        "year": 2023
+      }
+    ]
+  }
+}

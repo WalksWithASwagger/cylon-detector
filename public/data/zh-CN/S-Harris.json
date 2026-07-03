@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "S. 哈里斯的意识之谜",
+    "summary": "这一视角作为一种挑战而非规定性的理论提出，它把意识刻画为一个无法弥合的谜团，无法通过纯粹物理的手段加以解决。哈里斯认为，物理描述对于主观经验是“缄默的”；唯一能够证明有感知性存在的只有意识本身，这就造成了一道根本性的解释鸿沟。他对科学能否驱散这一谜团持悲观态度。",
+    "associated_thinkers": ["Sam Harris"],
+    "category": "挑战理论",
+    "subcategory": "意识之谜",
+    "core_identity_tagline": "“作为无法弥合之鸿沟的意识”",
+    "classification_tags": [
+      "mysterianism",
+      "skepticism",
+      "anti-reductionism",
+      "introspection"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被等同于主体性或感知性，它从根本上是神秘的，无法用纯粹物理过程来解释。",
+    "ontological_status": "怀疑主义／神秘主义（理由：该观点主张心身问题在哲学上的不可解性与无法弥合的本性，符合神秘主义的核心要旨，但并不采纳某种特定的替代性本体论。）",
+    "mind_body_relationship": "无法弥合的鸿沟／非还原的相关性（理由：哈里斯主张，尽管物理过程与意识相关联，但对这些过程的任何分析都无法在逻辑上推出一幅意识的图景，从而留下一道无法弥合的鸿沟。）",
+    "primitive_or_emergent_status": "谜团（理由：哈里斯拒绝完全认可涌现，他表示尽管意识或许是无意识加工的合乎规律的产物，但他并不认为这句话对于解释感知性有何意义。）",
+    "emergence_type": "谜团／未获解释（理由：其核心前提是，将复杂性与感知性联系起来的机制从根本上是未知的，并且很可能是人类智能无法认识的，这使其无法归入标准的涌现之下。）",
+    "subjectivity_and_intentionality": "主体性是意识的唯一证明；通向主体性的唯一线索就是主体性本身。",
+    "qualia_account": "感受质（成为某物“像是什么”的那种状态）正是物理事件对之“缄默”的现象，因而造成了那道无法弥合的谜团。",
+    "ontological_commitments": "物理过程与不可还原的感知性（理由：假定这两个领域都存在，但基于内省证据而非物理描述，承诺后者的不可还原性。）",
+    "epistemic_access": "内省是发现关于意识之真理的唯一途径；科学／第三人称观察在驱散这一谜团方面本质上是受限的。",
+    "constituents_and_structure": "谜团（理由：该理论并不提出具体的构成或结构，因为其关注点在于复杂的物理描述在说明主观经验方面的根本性不足。）"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、感知性（完全聚焦于宇宙被感知性所照亮这一纯粹事实。）",
+    "distinctive_mechanism_or_principle": "无（理由：其核心前提是一切当前及可预见的物理／机械论原理在解释主体性上的失败。）",
+    "dynamics_of_emergence": "未加阐述（理由：哈里斯认为物理复杂性与意识之间的关系是神秘且无法解释的，拒斥阐明某种推衍动力学的可能性。）",
+    "location_and_distribution": "未知／神秘（理由：尽管意识与大脑相关联，但该理论明确拒绝将意识的解释局限于物理位置或分布，因为物理世界并未给出意识存在的任何证据。）",
+    "causation_and_functional_role": "未知／不可还原（理由：因果力量无法由无意识的复杂性来解释。感知性的出现是一个终极谜团，而非某种可还原地加以描述的功能性适应。）",
+    "integration_or_binding": "未予论及（理由：该理论关注的是感知性本身的形而上存在，而非统一知觉的结构性问题。）",
+    "information_flow_or_representation": "无意识的信息加工或许合乎规律地与意识相关联，但这一描述被视为不足以解释感知性而遭到拒斥。",
+    "evolutionary_account": "未明确论及（理由：其关注点在于意识*当下*的形而上难题，而非其系统发生上的起源。）",
+    "core_claims_and_evidence": [
+      "物理世界中不存在意识的任何证据；物理事件对于成为它们“像是什么”这一点是缄默的。",
+      "唯一能够证明意识存在的只有意识本身（主体性）。",
+      "对纯粹物理过程的分析永远无法推出一幅意识的图景。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学、内省、怀疑主义"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上不可检验（理由：如果如哈里斯所主张的那样这道鸿沟无法弥合，那么这一谜团就无法由目前所实践的经验科学来驱散。）",
+    "known_empirical_interventions_or_tests": "无（理由：该框架是对科学未能应对难问题的一种诊断，并不为谜团本身提出经验检验。）",
+    "criticisms_and_tensions": "它主要作为一种针对还原论以及针对意识研究中科学乐观主义的批判发挥作用，把该问题归类为一个终极谜团，而还原论者则将其斥为悲观主义（神秘主义）。",
+    "open_questions_and_limitations": "根本性的局限在于无法理解意识如何与无意识的信息加工或复杂性相关联，这使得感知性的起源无法得到解释。",
+    "ontological_coherence": "作为一种怀疑主义立场，它在内部是自洽的，但从根本上与还原性物理主义以及那些声称对难问题给出机械论解决方案的理论不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "如果意识是物理描述中所缺失的、不可还原的主体性，那么先进的计算（人工智能，即纯粹的物理复杂性）将无法产生真正的感知性。"
+    },
+    "survival_beyond_death": {
+      "stance": "否（有条件）",
+      "rationale": "作为一位自然主义者，哈里斯隐含地认同这样一种观点：意识与物理有机体相绑定，意味着它的终止会导致永久的不存在，尽管其在存活时的本性仍是谜团。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人文意义",
+      "rationale": "这一谜团并不蕴含宇宙目的，但哈里斯提倡通过内省寻找个人的真理，这与自我发现的（自然化的）灵性与意义相契合。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "如果意识无法用纯粹物理过程来解释，那么对物理基底的复制或上传将无法捕捉或再造那个本质性的主观自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "批判"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "相容（作为对物理解释之朴素实在论的拒斥，尽管哈里斯仍主张意识的实在性）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mystery of consciousness (Part I & II), Sam Harris",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Explorations in Consciousness: Death Psychedelics and Mystical Experience",
+        "year": 2023
+      }
+    ]
+  }
+}

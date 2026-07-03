@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "泰伊的偶然主义",
+    "summary": "该理论主张，在我们的现实世界中，现象意识状态与特定的物理状态或脑状态字面上是同一的。然而至关重要的是，这种同一被理解为偶然的，意味着它在所有可能世界中并非形而上学必然的。这一模态主张意在解决难问题，其方式是承认哲学僵尸（无意识的物理复制品）的可设想性与现实世界中物理主义的真值无关。",
+    "associated_thinkers": [
+      "Michael Tye",
+      "Herbert Feigl",
+      "Ullin Place",
+      "J.J.C. Smart"
+    ],
+    "category": "唯物主义",
+    "subcategory": "表征主义",
+    "core_identity_tagline": "“意识即偶然的物理同一”",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "representationalism",
+      "modal philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "现象特征（Q）被认定为与某一物理属性（R）是同一个东西，其中 R 可能包括功能状态或表征主义所设定的状态。这种同一在我们的世界中仅偶然成立。",
+    "ontological_status": "还原式物理主义（宽泛地理解为包含功能主义与表征主义），尽管泰伊后来表达了与彻底还原式物理主义的距离。",
+    "mind_body_relationship": "偶然同一论。心理状态（感觉）与物理状态／脑过程字面上是同一的，但这种同一是一个偶然事实，而非在所有可能世界中的必然性。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性与现象特征被还原为或认定为表征内容（一阶表征主义）。现象特征不仅由当前状态所固定，也由过去状态所固定（‘历史对现象学至关重要’）。",
+    "qualia_account": "质性特征（Q）与某一物理属性（R）同一。设想无 R 之 Q（僵尸）的能力被承认是可理解的，但被斥为无关，因为它所描述的只是一个形而上学可能的世界，而非现实世界，从而消解了解释鸿沟。",
+    "ontological_commitments": "某种物理状态，涵盖神经生理状态、功能状态与表征内容，它们奠基于微观物理状态之上。",
+    "epistemic_access": "意识通过主观经验（现象学）来通达，并通过哲学与模态分析来研究，后者被用来论证其物理实现的偶然本性。",
+    "constituents_and_structure": "意识由在大脑中实现的物理状态（R）构成，或等价地由表征内容构成，其中个体的历史对于确定某一时刻的现象特征至关重要。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象状态（感受质）、意识的难问题及其与物理状态的关系。",
+    "distinctive_mechanism_or_principle": "关于意识的同一陈述（Q=R）可以是偶然的这一原则，它将意识这一情形与典型的必然科学同一（如水=H2O）区分开来，从而消除了解释性难题。",
+    "dynamics_of_emergence": "意识在现实世界中是一种物理现象。尽管它可能是逐渐演化而来的（泰伊后来的演化观点），但其核心动力学正是偶然同一关系本身。",
+    "location_and_distribution": "与意识同一的物理状态（R）位于大脑之中，包括神经生理状态、功能状态或表征状态。",
+    "causation_and_functional_role": "如果物理主义为真，意识就是物理的，因而其因果效力与涌现问题可以在物理世界的因果闭合性之内得到令人满意的处理。",
+    "integration_or_binding": "该理论主要关注现象特征的同一关系。整合隐含地通过物理、功能或表征状态的底层机制加以处理，这与还原论框架相一致。",
+    "information_flow_or_representation": "该理论与表征主义相容，以一种表征主义的、总体上还原论的方式看待经验，其中现象特征与表征内容同一。",
+    "evolutionary_account": "意识并非在某一特定演化时刻之前完全缺席，而是根本性地存在（原型意识始终在场），同时各种不同的有意识状态是逐渐出现的，从而处理了在演化上评估意识时的‘模糊性’。",
+    "core_claims_and_evidence": [
+      "现象状态在现实世界中与物理状态偶然同一（Q=R）。",
+      "一旦认识到无 R 之 Q（僵尸）的可设想可能性只指向一个形而上学可能的世界、而非现实世界，难问题便告消解。",
+      "该观点为还原式物理主义提供了最佳的哲学辩护。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／概念的。其核心主张依赖于关于同一与必然性的模态哲学论证，而非对同一本身的经验证伪或证实。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "其核心信条依赖于坚持有意识状态的同一是偶然的、而其他科学同一陈述是必然的，批评者可能对此提出质疑。该论证承认哲学僵尸的可设想性，同时否认它们与现实世界的相关性。",
+    "open_questions_and_limitations": "泰伊最终对彻底的还原式物理主义表达了疑虑，认为意识中有一个要素无法为更高层次的还原所把握，这使他转向某种形式的泛心论。",
+    "ontological_coherence": "在正统的后验物理主义框架内高度融贯，提供了一种哲学工具，以在知识论证面前维持物理主义。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识在我们的世界中与物理／功能／表征状态偶然同一，而这些状态能够在非生物系统中被例示，那么人工智能意识原则上是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识在现实世界中偶然依赖于并同一于物理脑过程；大脑的消解意味着第一人称有意识自我的终结。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人文意义",
+      "rationale": "作为一种植根于唯物主义与还原式物理主义的理论，它并不为超出有意识的人类主体所创造之外的终极宇宙意义或目的提供任何根据。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "由于现象意识被认定与物理状态（R）同一，复制 R（例如通过数字上传）将成功地上传 Q，从而使虚拟永生原则上成为可实现的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "影响"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "延伸／转向"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A New Solution to the Hard Problem of Consciousness, Michael Tye",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Representationalism and the Transparency of Experience, Michael Tye",
+        "year": 2002
+      }
+    ]
+  }
+}

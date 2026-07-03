@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "克莱尔曼斯与塔隆-博德里的功能价值理论",
+    "summary": "该理论认为，现象意识之所以演化出现，是因为它通过为基于奖赏的行为增添一个关键的自由度而带来功能价值。它主张，主观经验充当一种“心理货币”，为意识状态赋予内在价值，从而使多样经验之间的比较与统一成为可能。",
+    "associated_thinkers": [
+      "Axel Cleeremans",
+      "Catherine Tallon-Baudry"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "系统发生演化",
+    "core_identity_tagline": "作为功能价值与心理货币的意识",
+    "classification_tags": [
+      "functionalism",
+      "evolution",
+      "phenomenal worthiness",
+      "intrinsic value"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "现象意识被认定为具有内在功能价值，充当一种心理货币，为意识状态赋予有助于行为优化的价值。",
+    "ontological_status": "唯物主义",
+    "mind_body_relationship": "意识是一项演化而成的生物特征，与支配基于奖赏之行为的神经机制相联系。这一关系试图将难问题化约为一个功能问题。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性源于比较和评估多样经验（“心理货币”）所必需的一个共同的、以主体为中心的空间的要求。意向性则隐含地与目标导向的、基于奖赏的行为相联系。",
+    "qualia_account": "感受质（现象经验）通过其拥有内在价值而在功能上得到解释，这使得难问题可以被化约为一个关于功能的问题。",
+    "ontological_commitments": "支持基于奖赏之行为的生物机制；能够比较和评估内部状态的系统。",
+    "epistemic_access": "通过研究现象经验如何在决策中提供功能价值、通过情绪研究以及意识研究来获得通达。",
+    "constituents_and_structure": "一个源自经演化选择的基于奖赏之行为机制的、共同的、以主体为中心的空间。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、功能价值、统一的经验",
+    "distinctive_mechanism_or_principle": "现象值当性假说主张，意识之所以演化出现，是通过为经验赋予内在价值（“心理货币”），从而使截然不同的需求之间得以相互比较，并在基于奖赏的情境中优化决策。",
+    "dynamics_of_emergence": "意识通过系统发生演化与选择而产生，为既有的基于奖赏之行为机制增添了一个重要的自由度。",
+    "location_and_distribution": "定位于具备基于奖赏之学习以及内在价值比较所必需的生物机制的有机体之中。",
+    "causation_and_functional_role": "意识发挥着主动的、因果性的作用。其功能作用在于提供一种共同货币（内在价值），用以比较多样的、可能相互竞争的主观状态，从而优化行为。",
+    "integration_or_binding": "统一之所以得以实现，是因为现象经验被容纳于一个共同的、以主体为中心的空间之中，该空间有助于同时比较所有内在价值。",
+    "information_flow_or_representation": "代表多样经验的信息流被加工，并被赋予内在价值（现象值当性），以供比较和调节行为。",
+    "evolutionary_account": "意识之所以演化并被选择，是因为它通过为基于奖赏的行为增添一个自由度而提供功能优势，优化了生存与探索。",
+    "core_claims_and_evidence": [
+      "现象意识具有功能价值，否定了经典的副现象论观点。",
+      "意识之所以演化出现，是因为它为基于奖赏的行为赋予了一个重要的自由度。",
+      "现象经验充当一种“心理货币”，使得对多样内部状态进行统一比较成为可能。"
+    ],
+    "basis_of_belief_or_evidence_type": "演化的、功能的／神经科学的、哲学的（化约为功能）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验",
+    "known_empirical_interventions_or_tests": "研究内在价值的主观报告、经验的统一性与基于奖赏之情境中的决策三者之间关系的测量。",
+    "criticisms_and_tensions": "非唯物主义者批评该理论试图将难问题化约为一个关于功能的问题，认为这不足以解释经验本身的质性方面。",
+    "open_questions_and_limitations": "其首要局限在于，需要就*为何*功能价值会有某种感受给出机制性的说明，而不仅仅是陈述这种感受具有功能上的效用。",
+    "ontological_coherence": "在唯物主义本体论内高度自洽，因为它旨在将现象经验化约为一项经过经验演化、在功能上有益的生物属性。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作为一种聚焦于功能与演化机制的唯物主义理论，如果使内在估值与比较得以实现的机制（心理货币）能够在人工基质中得到实现，那么人工智能意识便是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识是生物机制的一项演化属性，与有机体的功能需求相联系，这与唯物主义对死后存续的否定相一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本层面",
+      "rationale": "意识服务于一种适应性的、生物性的目的（优化基于奖赏的行为），意味着不存在终极的宇宙意义，与唯物主义相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "鉴于其根植于唯物主义的强功能主义立场，如果负责赋予内在价值的相关功能动态与机制能够以非生物方式加以复制，那么虚拟不朽原则上是可以实现的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Top-Down Predictive Theories",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness matters: phenomenal experience has functional value, Axel Cleeremans, Catherine Tallon-Baudry",
+        "year": 2022
+      }
+    ]
+  }
+}

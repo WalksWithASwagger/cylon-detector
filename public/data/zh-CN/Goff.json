@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "戈夫的泛心论",
+    "summary": "戈夫主张意识是物理世界的一种根本而无处不在的特征，并将其定位为解决唯物主义未能应对的难问题的最佳希望。他断言，物理科学以其纯粹的定量语言，无法说明经验的质的本性（质性）或主观方面，这要求我们改变对科学的根本理解（伽利略的错误）。",
+    "associated_thinkers": ["Philip Goff"],
+    "category": "泛心论",
+    "subcategory": "泛心论",
+    "core_identity_tagline": "作为实在之根本而无处不在特征的意识",
+    "classification_tags": [
+      "panpsychism",
+      "cosmopsychism",
+      "qualia",
+      "subjectivity",
+      "russellian monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为物理世界的一种根本而无处不在的特征。具体而言，戈夫通过罗素式一元论的视角来探讨泛心论，其中现象属性或原心灵属性是根本物质的内在本性。",
+    "ontological_status": "泛心论（常被形式化为罗素式一元论的一个变体，进而导向混合泛心论或能动宇宙心灵论，其中宇宙是一个有意识的能动者）",
+    "mind_body_relationship": "心灵（意识／原意识）是物理世界的内在本性。这一关系通过主张心理属性与物理肌理不可分离，避免了二元论的因果难题，并与扩展的唯物主义相一致。",
+    "primitive_or_emergent_status": "意识在实在的最底层是原初的／根本的。然而，经验的人类主体被视为强涌现的实体，而其现象属性则是弱涌现的（混合泛心论）。",
+    "emergence_type": "混合涌现（经验主体为强涌现；现象属性为弱涌现）。",
+    "subjectivity_and_intentionality": "主体性是意识的一个核心的、不可还原的方面（意即经验是‘为某人而存在的’），它驳斥了唯物主义。主观经验由强涌现的主体所实现。意向性在现象经验的框架内被隐含地说明，尽管在诸来源中未被明确详述为一种独立机制。",
+    "qualia_account": "感受质（感受质或质性）是实在的根本属性，无法还原为物理学纯粹的定量语言，后者具有内在的解释局限。泛心论通过设定这些质根本地存在，解决了难问题。",
+    "ontological_commitments": "作为物理实体根本属性的意识（或原意识）。在宇宙论变体中，宇宙本身是一个终极的有意识个体或回应价值的能动者。",
+    "epistemic_access": "第一人称视角与主观确定性是意识的首要、基础性证据，科学必须通过纠正‘伽利略的错误’（将意识排除于科学探究之外）来将其纳入。",
+    "constituents_and_structure": "基本构成要素是根本的现象属性或原意识实体（微观层面实体），或者另一种情况下是作为单一整体性有意识实体的宇宙（宇宙心灵论）。这些要素聚合以形成复杂的意识系统，从而提出组合问题。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（质性与主体性）、意识的难问题，以及宇宙目的论（在能动宇宙心灵论中）。",
+    "distinctive_mechanism_or_principle": "首要原理是形而上学的必然性：意识必须是根本的，以避免解释鸿沟并解决难问题。在能动宇宙心灵论中，有意识寰宇的目的论因果（目标导向的意图）解释了精细调节。",
+    "dynamics_of_emergence": "挑战在于微观层面原意识属性如何组合为宏观层面意识经验，戈夫尝试用混合泛心论来解决这一点，其中主体强涌现而质弱涌现。",
+    "location_and_distribution": "意识无处不在，遍布物理世界。在宇宙心灵论中，根本意识位于作为整体的宇宙之中。",
+    "causation_and_functional_role": "在宇宙层面（能动宇宙心灵论），意识作为一个能动者发挥作用，解释宇宙的精细调节以及生命／心灵的出现。对于个体主体，意识是价值与身份的源泉。组合问题必须得到解决，才能确立从微观主体到宏观主体的连贯因果。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的。该理论旨在解决概念与形而上学的张力（如难问题），但意识无处不在这一根本主张难以经验检验，从而引来泛心论陷入‘认知死胡同’的批评。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要张力是组合问题：微观现象属性如何组合或聚合以形成复杂的宏观现象属性（如人类意识）。戈夫拒斥定量描述能够把握质，这一点也受到以信息为基础的理论的支持者的批评。",
+    "open_questions_and_limitations": "组合问题的成功解决是该理论可行的前提。此外，充分解释强涌现的主体如何从弱涌现的现象属性中产生，仍是一个开放的理论挑战。",
+    "ontological_coherence": "高。该理论内部一致，主张采纳泛心论既能对意识持实在论立场，又能与对物理主义的扩展理解相一致，从而为二元论提供了一个简约的替代方案。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识是物质／能量的内在属性，那么 AI 系统的物理成分就会拥有原意识属性。完整 AI 意识的实现将取决于先进技术能否在人工基质中解决组合问题。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能（希望渺茫）",
+      "rationale": "尽管意识是根本的，但个体的、统一的、个人意识（宏观主体）的存续颇具挑战，因为该理论依赖于一种特定的组织结构（大脑）来产生宏观经验。成败取决于涌现的主体能否在生物机制之外持存。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙的／终极的",
+      "rationale": "戈夫的能动／目的论宇宙心灵论意味着宇宙本身是一个具有目标导向意图的有意识心灵，暗示存在一种终极的、宇宙性的意义与目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "由于物理基质（数字硬件）由根本上有意识的成分（原意识）构成，只要意识的组织（解决组合问题）能够在新介质中被完美复制，虚拟永生便可实现。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Russellian Monism", "relationship": "拓展" },
+      { "name": "Cosmopsychism", "relationship": "拓展" },
+      { "name": "Integrated Information Theory", "relationship": "批评" },
+      { "name": "Materialism Theories", "relationship": "批评" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Galileo’s Error: Foundations for a New Science of Consciousness, Philip Goff",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Why? the Purpose of the Universe, Philip Goff",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Putting consciousness first: replies to critics, Philip Goff",
+        "year": 2021
+      }
+    ]
+  }
+}

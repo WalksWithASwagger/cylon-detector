@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "莱肯的小人式功能主义",
+    "summary": "该理论主张意识完全是物理的、功能性的，由一个层级化组织的信息处理系统构成。意识专门产生于二阶表征，其运作方式是一种指向系统自身低阶心理状态的内部感知机制。",
+    "associated_thinkers": ["William Lycan"],
+    "category": "唯物主义",
+    "subcategory": "表征主义",
+    "core_identity_tagline": "“意识即二阶表征与内部注意”",
+    "classification_tags": [
+      "functionalism",
+      "representationalism",
+      "higher-order",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识（心灵）被认定为一个信息处理系统的功能性组织，完全由意向性以及对心理状态的二阶表征所说明。感受质被认定为这些表征的意向内容。",
+    "ontological_status": "还原式物理主义／唯物主义。莱肯总体上为唯物主义辩护。",
+    "mind_body_relationship": "同一论，具体而言是功能主义（或目的功能主义），其中心理状态由其在物理系统内的功能角色所定义。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现。这是一种唯物主义说明，主张现象本性完全由功能事实与表征事实所穷尽，意味着心理之物产生于、并可完全由底层物理过程加以解释（这是避免使唯物主义陷入困境的必要立场）。",
+    "subjectivity_and_intentionality": "意向性（或‘关涉性’）与功能性组织完全说明了心灵／意识（‘表征的霸权’）。主体性产生于指向低阶状态的内部注意机制的运作（内部感知说明）。",
+    "qualia_account": "质性特征（感受质）以表征方式加以构想；它们是经验的意向对象（被表征项），意味着其中并不涉及任何非物理或非表征的‘心理斑块’。感受质完全由相关心理状态的意向性／表征本性所穷尽。",
+    "ontological_commitments": "物理组分（不存在非物理的部分或属性）、功能性组织的信息处理系统、意向内容以及二阶心理状态。",
+    "epistemic_access": "意识可通过内省得知（内省产生不可言说的、细粒度的、视角性的事实，从而解释了‘解释鸿沟’），也可通过对大脑功能性组织与表征能力的第三人称科学建模得知。",
+    "constituents_and_structure": "人类是层级化组成的意向系统（小人式组织），其表征能力以生物学功能来理解。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（以表征方式加以说明）、觉知以及特许通达。",
+    "distinctive_mechanism_or_principle": "指向低阶心理状态的内部注意机制的运作，它将意识创造为一种二阶表征（内部感知说明）。",
+    "dynamics_of_emergence": "意识是一种在大脑的生物学功能与功能性组织中得以实现的动态属性，与将心灵视为动词（过程）而非名词（事物）的观点相一致。",
+    "location_and_distribution": "定位于大脑之内，尤其是指向低阶心理状态的内部注意机制之中。",
+    "causation_and_functional_role": "心理因果性通过心理状态的功能角色被隐含地主张。意识作为一种内部注意／内部感知系统发挥功能，提供对一阶心理状态的二阶表征。",
+    "integration_or_binding": "经验的整合或统一，隐含地通过支撑心理状态二阶表征的功能性组织得以实现（尽管具体的绑定机制细节在原始摘录中并不突出，但它依赖于功能性组织）。",
+    "information_flow_or_representation": "信息处理居于核心地位；意识以功能性组织的信息处理系统来描述。‘表征的霸权’意味着意向性与表征是核心的解释性要素。",
+    "evolutionary_account": "该理论总体上与唯物主义和功能主义框架所共有的演化解释相容，假定负责表征与意识的功能性组织是为适应目的而演化出来的，尽管来源中未提供具体的系统发生细节。",
+    "core_claims_and_evidence": [
+      "意识完全由功能性组织与二阶表征所穷尽地加以说明。",
+      "感受质是意向对象（被表征项），其本性完全由表征内容所穷尽。",
+      "所感知到的‘解释鸿沟’是真实的，但仅归因于现象事实不可言说的、细粒度的本性，而非唯物主义的失败。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学辩护（为唯物主义／功能主义辩护）与概念分析。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上、并且原则上在经验上可检验。如果现象本性完全由功能／表征角色所穷尽，那么对这些角色的充分神经科学／计算论证应当足矣，尽管莱肯强调反对唯物主义的论证具有哲学性质。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "莱肯试图通过论证现象特征完全由表征特征所穷尽来反驳知识论证（玛丽思想实验），这被批评者所拒斥。批评者质疑功能角色是否能够真正把握经验的质性方面。",
+    "open_questions_and_limitations": "核心局限在于说服怀疑论者（如撤回其立场之前的杰克逊）相信：将感受质还原为表征／功能内容确实消解了现象之谜。",
+    "ontological_coherence": "在物理主义／唯物主义本体论内高度融贯。它明确旨在通过将意识（包括感受质）认同于功能角色与表征角色，来表明有意识的经验与物理主义完全相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作为一种功能主义理论，如果人工系统能够实现所需的功能性组织与二阶表征能力，那么它们原则上必定是有意识的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该理论是严格唯物主义的，主张意识完全在功能性组织的物理大脑内实现；因此，它无法在肉体死亡之后持存。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人文意义",
+      "rationale": "与其唯物主义基础相一致，意识使意向性与能动性成为可能，提供由生物系统自身创造的意义，但并不蕴含任何终极的宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "由于意识由功能性组织与表征内容所定义，将神经模式与通路完美地功能复制（上传）到非生物介质，原则上将保存第一人称的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories of Consciousness",
+        "relationship": "重叠／延伸"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "延伸／对比"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "分类／基础"
+      },
+      {
+        "name": "Jackson’s Representationalism and the Knowledge Argument",
+        "relationship": "批评"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Consciousness and Experience",
+        "year": 1996
+      },
+      {
+        "title_with_names": "The Plurality of Consciousness",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Representational theories of consciousness, W. G. Lycan",
+        "year": 2019
+      }
+    ]
+  }
+}

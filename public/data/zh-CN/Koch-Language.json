@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "科赫的“意识不依赖于语言”理论",
+    "summary": "该理论主张，现象意识（即基本的内在经验）在功能上独立于语言能力。支持这一观点的证据来自临床案例：在这些案例中，语言能力严重受损或丧失，但基本的觉知依然得以保留，由此得出结论——基本的感受性是一种广泛存在的属性，为许多不具备语言能力的动物所共有。",
+    "associated_thinkers": ["Christof Koch"],
+    "category": "唯物主义理论",
+    "subcategory": "语言关系",
+    "core_identity_tagline": "意识独立于语言",
+    "classification_tags": [
+      "phenomenal consciousness",
+      "language",
+      "neurobiology",
+      "animal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为大脑中的一种物理／生物学现象，其根本机制不同于、且独立于符号性的语言加工。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "心灵（基本的现象意识）与物理性的大脑过程相关联，而这些过程与语言过程是相互分离的。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "即便没有语言，基本的主体性（感受性）依然得以保留。语言极大地促成了作为“叙事中心”的自我，而这构成了主体性的更高阶层面。",
+    "qualia_account": "感受质（基本的内在经验）存在于不具备语言的实体之中，独立于符号能力。",
+    "ontological_commitments": "生物性的大脑，以及产生基本觉知的底层物理机制。",
+    "epistemic_access": "通过第三人称观察加以通达，具体而言即那些显示语言丧失与意识保留之间存在分离的临床案例。",
+    "constituents_and_structure": "意识源自物理性的大脑机制，这些机制独立于专司语言与内部言语的脑结构。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（基本的内在经验）与感受性。",
+    "distinctive_mechanism_or_principle": "分离原则，即意识所必需且充分的神经基质（意识的神经相关物，NCC）与语言的神经相关物是彼此不同的。",
+    "dynamics_of_emergence": "基本意识是生物学过程的产物，这些过程的演化独立于人类语言的复杂性。",
+    "location_and_distribution": "位于生物性的大脑之中；无论是否具备语言能力，都广泛分布于各个物种（如所有哺乳动物）。",
+    "causation_and_functional_role": "基本意识独立于语言功能而运作。语言的作用主要在于增强人类的更高阶功能，例如自我感。",
+    "binding_and_unity": "基本现象经验的统一性必须通过非语言性的物理机制或神经机制来实现。",
+    "information_flow_or_representation": "与原始经验相关的信息加工并不需要符号性的语言表征。",
+    "evolutionary_account": "意识的演化早于人类的语言能力，其在非语言动物身上的存在即为证据，这表明其适应性作用并不取决于语言。",
+    "core_claims_and_evidence": [
+      "意识不依赖于语言。",
+      "脑损伤的临床案例表明，在语言丧失时意识仍得以保留。",
+      "感受性为所有哺乳动物所共有，从而否定了那种认为只有人类才拥有经验的人类中心主义观点。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验的、临床的与哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可通过对非语言动物的神经科学研究，以及对脑创伤患者（在失语状态下仍表现出持续觉知）的临床研究进行经验检验。",
+    "critiques_and_challenges": "尽管科赫反驳了那些将语言与意识相联结的经典观点，但当代科学界的共识早已认同基本意识并不需要语言。",
+    "open_questions_and_limitations": "该理论确认了意识“不”依赖于什么（语言），但并未为意识的难问题（即现象经验究竟是什么）提供正面的解答。",
+    "ontological_coherence": "在唯物主义范畴内高度自洽，尤其适用于将基本觉知与复杂的、以语言为中介的自我意识加以区分的论证。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件的",
+      "rationale": "既然语言对意识而言并非必要，那么人工智能的语言能力（大语言模型）便无关紧要。人工智能的意识完全取决于所需的非语言性物理基质能否在人工系统中得到复制。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "与其唯物主义的归类相一致，意识与物理基质（大脑）相绑定，无法在生物性死亡之后继续存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本层面",
+      "rationale": "意识使自我得以借助语言充当叙事中心，从而允许人类创造意义，但其底层的物质现实表明并不存在终极的宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "有条件的",
+      "rationale": "如果意识与语言相脱钩，那么焦点便完全转向复制基本觉知的非语言性物理基质。只要这种特定的非语言神经结构能够被复制，虚拟永生便有可能实现。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "批判"
+      },
+      {
+        "name": "Searle’s Language and Consciousness",
+        "relationship": "批判"
+      },
+      {
+        "name": "Andrews’s Consciousness Without Complex Brains",
+        "relationship": "相容"
+      },
+      {
+        "name": "Smith’s Language as Classifier of Consciousness",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t Be Computed",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Consciousness doesn’t depend on language, Christof Koch",
+        "year": 2019
+      }
+    ]
+  }
+}

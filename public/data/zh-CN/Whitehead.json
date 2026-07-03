@@ -1,0 +1,103 @@
+{
+  "id_and_class": {
+    "theory_title": "怀特海的过程理论",
+    "summary": "该理论植根于泛经验论，主张基本实在由动态的事件或过程（机缘）构成，它们兼具物质与心灵两个面向。意识作为经验演化的一项成就，通过一个双极的关系性过程涌现，从而避免了传统实体二元论或还原式唯物主义的二分。",
+    "associated_thinkers": ["Alfred North Whitehead", "Matthew T. Segall"],
+    "category": "泛心论",
+    "subcategory": "过程理论／泛经验论",
+    "core_identity_tagline": "作为过程—关系性泛经验论的意识",
+    "classification_tags": [
+      "panexperientialism",
+      "process philosophy",
+      "emergence",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为基本的、动态的事件或“机缘”的主观且引发新颖性的一极（泛经验论），它通过“合生”（concrescence）这一累积的、创造性的关系过程得以实现。",
+    "ontological_status": "中立一元论／泛经验论",
+    "mind_body_relationship": "双面／过程—关系性一元论。心灵与物质是同一动态过程的两极／两个面向；物质是提供稳定性的一极，心灵则是引发新颖性的心理一极。",
+    "primitive_or_emergent_status": "涌现（意识）自原初者（泛经验的事件／机缘）",
+    "emergence_type": "创造性前进／真正的生成／非还原式涌现。它通过“合生”（新颖的共在）产生，而合生是一个累积的、非叠加式的过程。",
+    "subjectivity_and_intentionality": "经验在本质上是过程—关系性的，显现于一个“似是当下”之中，其中包含被继承的过去与被预期的未来形态。主体性源于基本机缘所固有的心灵性。",
+    "qualia_account": "有意识的经验是一种涌现出来的“对过去的创造性重演”，不可还原为其组成部分。感受质固有于基本机缘的经验／心灵性成分之中。",
+    "ontological_commitments": "动态的事件或“机缘”（而非实体）；创造性（实在的终极源泉）；双极的关系性过程；一个普遍的灵魂／心灵（上帝）。",
+    "epistemic_access": "哲学反思、对形而上学根基的分析，以及与能量性活动的类比，从而超越实体主义的本体论。",
+    "constituents_and_structure": "基本单元是动态的事件或“机缘”，它们将创生与消亡的过程置于核心特征。这些机缘具有双极结构（心理一极与物质一极），由“合生”加以组织。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象、本体论、经验的演化、能动性。",
+    "distinctive_mechanism_or_principle": "合生（“新颖的共在”与真正生成的过程）；创造性（协同演化的部分与整体的终极源泉）。",
+    "dynamics_of_emergence": "一种动态的流变，其中实在即变化与“生成”。意识作为经验随时间演化的一项成就，通过累积的、非叠加式的过程（合生）产生。",
+    "location_and_distribution": "无处不在（泛经验论），遍布于自然界的基本事件（“机缘”）之中，并在一个普遍心灵（“上帝”）中达到顶点。",
+    "causation_and_functional_role": "心灵作为引发新颖性的心理一极发挥功能，在关系性过程中推动“创造性前进”与真正的生成。",
+    "integration_or_binding": "整合通过“合生的逻辑”实现，从而产生经验的统一的、非叠加式的“新颖共在”。",
+    "information_flow_or_representation": "经验在根本上是关系性的，涉及对“被继承之过去的现实化事实”（信息）的整合，以生成“似是当下”与潜在的未来形态。",
+    "evolutionary_account": "意识作为经验演化的一项成就而涌现，这与宇宙的“涌现式演化”或“创造性前进”相一致，其中创造性是根本源泉。",
+    "core_claims_and_evidence": [
+      "基本实在由动态的过程／事件（“机缘”）构成，而非静态的实体。",
+      "所有基本事件都分有心灵性（泛经验论）。",
+      "意识通过合生（新颖的共在）过程涌现，将被继承的过去事实与被预期的未来形态联结起来。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、形而上学的、概念的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／概念的。该理论主要是一个重新框定基本预设的哲学框架，在相关文献中缺乏对其形而上学概念的直接经验检验。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "怀特海的理论重新框定了泛心论的核心难题——组合问题，其做法是聚焦于过程—关系性活动（合生），而非对抽象心理属性的加总。",
+    "open_questions_and_limitations": "基本事件（机缘）中减弱的心灵性如何向上扩展为复杂的、统一的人类意识，这一核心问题被重新框定，但仍是一项重大的概念挑战。",
+    "ontological_coherence": "在其自身的过程哲学框架内高度融贯，因为它彻底改造了对实在的构想，使之根本上建立于动态的事件与关系之上，从而内在地容纳了经验。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能／有条件",
+      "rationale": "能够进行真正“合生”——新颖的生成与创造——的人工系统或许能实例化意识，但鉴于该理论聚焦于动态的、过程—关系性的实在，单纯的计算或模拟很可能是不够的。"
+    },
+    "survival_beyond_death": {
+      "stance": "很可能／有条件",
+      "rationale": "该理论设定了一个宇宙的普遍灵魂／心灵（上帝），并以非物质的事件／机缘来框定意识。个体经验作为“对过去的创造性重演”被保存于后续的机缘之中，暗示其在宇宙记忆或更大整体中的持存。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／存在性",
+      "rationale": "宇宙具有内在的方向（“创造性前进”）与一个“普遍灵魂”（上帝／原初现实性），暗示演化过程中固有一种终极意义或目的论。"
+    },
+    "virtual_immortality": {
+      "stance": "不确定",
+      "rationale": "数字复制可能无法捕捉合生所固有的、必需的“真正生成”与创造潜能，这意味着纯粹的模拟延续很可能缺乏本质性的意识特征。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism (Substance-Property)",
+        "relationship": "批评"
+      },
+      {
+        "name": "Process Theory",
+        "relationship": "同一"
+      },
+      {
+        "name": "Cosmopsychism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Hylomorphism",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Philosophy of Organism, Alfred North Whitehead",
+        "year": ""
+      },
+      {
+        "title_with_names": "The varieties of physicalist ontology: a study in Whitehead’s process-relational alternative, Matthew T. Segall",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Panexperientialist physicalism and the mind-body problem, David Ray Griffin",
+        "year": 1997
+      }
+    ]
+  }
+}

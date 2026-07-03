@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "伊格曼的可能論",
+    "summary": "這一觀點主張在意識問題上保持智識的開放性（可能論），拒斥僵化的形上學教條。在機制上，它將意識視為一種高度抽象的高層次表徵（類似於執行長），過濾大量底層的神經過程，其主要作用是監控目標是否達成，並在出現意外事件時加以介入。該理論強調，儘管心靈整體上依賴於大腦，主觀經驗（感質）的本性仍是一個深刻的、也許在概念上無法解決的謎團。",
+    "associated_thinkers": [
+      "David Eagleman"
+    ],
+    "category": "挑戰理論",
+    "subcategory": "",
+    "core_identity_tagline": "「作為高層次抽象表徵的意識」",
+    "classification_tags": [
+      "possibilianism",
+      "abstraction",
+      "mysterianism",
+      "functionalism",
+      "skepticism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被等同於對底層神經活動的一種高層次、抽象的表徵，它對於概括複雜性與設定長期目標是必需的。",
+    "ontological_status": "不可知論式的可能論。它承認與物理論之間存在強而有力的經驗聯繫，但由於難問題的概念性困難，仍對其他（非唯物論的）解釋保持開放。",
+    "mind_body_relationship": "整體性依賴。意識整體上依賴於大腦，腦損傷的效應即為明證，但這一依賴關係被明確地作為一個開放問題保留（即必要性與充分性之別）。",
+    "primitive_or_emergent_status": "湧現／不確定。意識被描述為騎乘在複雜機制之上，這暗示了湧現，儘管主觀的「感受」被視為一個尚未解決的謎團，可能對純粹的湧現構成挑戰。",
+    "emergence_type": "不確定。雖然所觀察到的相關性暗示了從物理過程中的湧現，但無法解釋質性的感受如何在概念上產生，這表明若唯物論不充分，則可能需要非物質的因素。",
+    "subjectivity_and_intentionality": "主體性（那種「感受」）被承認為當前科學與數學無法解釋的核心謎團。意向性則被隱含地由與監控目標狀態（如成功／失敗）相關的高層次抽象表徵來處理。",
+    "qualia_account": "感質（內在經驗）被認為從根本上是神秘的，缺乏任何現有的理論解釋。無法在概念上彌合物理過程與質性經驗之間的鴻溝，這被凸顯為一切現有理論的關鍵侷限。",
+    "ontological_commitments": "承諾存在一個龐大的神經基底以及高層次的抽象表徵。由於感質之謎，它對於可能存在額外的、目前未知的物理或非物理要素保持智識上的開放。",
+    "epistemic_access": "意識被經驗為一種高層次抽象（第一人稱）。在科學上則透過與腦狀態的相關性（第三人稱）來通達，尤其是在損傷影響到有意識經驗之時。",
+    "constituents_and_structure": "建立在底層複雜神經機制之上的層層遞進的抽象層級，其結構旨在提供指引與介入所必需的高層次概括。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "通達（作為抽象化的概括）、能動性（執行長功能）、現象性（作為不可化約的謎團／挑戰）。",
+    "distinctive_mechanism_or_principle": "「執行長模型」或「高層次抽象」，其中意識作為一名管理者發揮作用，只關心複雜的結果與設定長期目標，通常忽略底層的低層次機制，除非遭遇意外。",
+    "dynamics_of_emergence": "意識是從大腦內部層層遞進的抽象層級中產生的動態過程，聚焦於高效加工而非原始資料的整合。",
+    "location_and_distribution": "定位於大腦之中，其活動騎乘在「大量機制之上」，這表明它依賴於高度組織化的神經系統。",
+    "causation_and_functional_role": "意識使高層次的決策、規劃以及對目標達成情況（如成功或失敗）的監控成為可能，在結果不確定或出人意料時透過聚焦資源而發揮一種適應性功能。",
+    "integration_or_binding": "整合透過創造高度抽象的高層次表徵來實現，將大量底層活動綜合為連貫而簡潔的概括。",
+    "information_flow_or_representation": "資訊經過大量過濾並被抽象為高層次表徵，把「神經活動的電閃雷鳴」削減為簡單、功能性的概括。",
+    "evolutionary_account": "這種抽象化功能很可能是為提升效率與適應度而演化出來的，其方式是儘量減少計算負荷，並只把注意集中於必要的高階資訊或異常之上。",
+    "core_claims_and_evidence": [
+      "意識是一種抽象化的高層次表徵（執行長模型）。",
+      "意識極其神秘；我們尚無法設想出一種能夠解釋那種「感受」的理論。",
+      "心靈整體上依賴於大腦（由腦損傷的臨床證據所支持）。"
+    ],
+    "basis_of_belief_or_evidence_type": "經驗（神經科學）、概念、哲學（不可知論／可能論）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "就功能性抽象模型（執行長角色）及其神經相關物而言部分可經驗檢驗，但主觀感受這一核心哲學問題被認為在概念上不可解。",
+    "known_empirical_interventions_or_tests": "觀察生物學變化（如腦損傷）與有意識狀態變化之間的相關性，以確證其依賴關係。",
+    "criticisms_and_tensions": "批評者指出，這一立場是對問題的診斷而非解決方案，它提供了哲學上的開放性卻沒有科學上的處方。它從根本上對當前的化約論主張抱持懷疑態度。",
+    "open_questions_and_limitations": "首要的侷限是「難問題」：為何高層次的抽象會感覺起來像是什麼？尚不清楚缺乏解答究竟是想像力的失敗，還是對唯物論的證偽。",
+    "ontological_coherence": "在可能論框架內是融貫的，因為它忠實地納入了經驗約束（對大腦的依賴）與所承認的概念／解釋鴻溝這兩方面。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能（有條件）",
+      "rationale": "如果意識主要是一種高層次的抽象化功能，那麼一個足夠複雜的人工智慧便可實例化這一功能。然而，主觀「感受」（感質）之謎仍是一道懸而未決的概念障礙。"
+    },
+    "survival_beyond_death": {
+      "stance": "否（有條件）",
+      "rationale": "心靈被明確地認為「整體上依賴於大腦」。然而，可能論哲學容許未來的科學或許會揭示出目前無法想像的、允許存續的非物理成分。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定／人文意義",
+      "rationale": "作為一種懷疑論的挑戰理論，它迴避宇宙性的或終極性的承諾（可能論）。意義是從意識的功能（設定目標與施行能動性）中以人文方式衍生出來的。"
+    },
+    "virtual_immortality": {
+      "stance": "可能（有條件）",
+      "rationale": "如果意識能被成功化約為騎乘在生物機制之上的高層次抽象表徵，那麼這些表徵原則上便可被上傳，前提是技術上的複雜性得以克服，且主觀「感受」得以保留。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "重疊（在將意識化約為一種必需的功能性／表徵性機制這一點上）"
+      },
+      {
+        "name": "Mysterianism",
+        "relationship": "重疊（在得出感質之根本本性也許在概念上無法通達這一結論上）"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "批判（儘管接受對大腦的依賴，卻挑戰唯物論的充分性）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Beyond God and atheism: why I am a ‘possibilian’",
+        "year": 2010
+      },
+      {
+        "title_with_names": "What is Consciousness? (Closer To Truth)",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is brain and mind the same thing? (Closer To Truth)",
+        "year": 2011
+      }
+    ]
+  }
+}

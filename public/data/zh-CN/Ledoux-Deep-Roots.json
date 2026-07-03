@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "勒杜的意识深层根源理论",
+    "summary": "该理论透过深远的演化历史来审视人类的意识与行为，主张意识是相对晚近才出现的，是皮层认知回路的一项精密产物。它追溯了从最早的有机体继承而来的基础生存能力如何随着神经系统的演化而得到增强，最终导向意识的产生。",
+    "associated_thinkers": ["Joseph LeDoux"],
+    "category": "唯物主义理论",
+    "subcategory": "系统发生演化",
+    "core_identity_tagline": "意识作为增强型生存机制的涌现产物。",
+    "classification_tags": [
+      "evolution",
+      "neurobiology",
+      "materialism",
+      "phylogeny",
+      "survival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一组皮层认知状态，它们产生于对深深植根的生存能力的演化性增强。",
+    "ontological_status": "还原性物理主义",
+    "mind_body_relationship": "意识是一种完全物理的现象，从生物大脑与神经系统的演化运作中涌现。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "该理论将意识与增强生存和繁盛的演化必要性联系起来。主体性（如恐惧的感受）作为皮层认知回路的一种晚近表现而涌现，有别于古老的非意识生存回路。",
+    "qualia_account": "描述该理论的文本聚焦于演化历史与生存回路，而非感受质本身，但与其唯物主义立场一致，感受质被隐含地视为皮层认知回路的复杂表现，与生存回路相比具有较浅的演化历史。",
+    "ontological_commitments": "演化而来的神经系统、生物大脑，以及防御性生存回路。",
+    "epistemic_access": "可通过追踪演化时间线、研究比较神经生物学，以及分析早期有机体的问题解决与生存行为来获得通达。",
+    "constituents_and_structure": "演化而来的神经系统，进而形成建立在深深植根的防御性生存回路之上的皮层认知回路（负责意识）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（特别是追踪其系统发生的涌现）、行为，以及情绪感受。",
+    "distinctive_mechanism_or_principle": "意识产生于神经系统的演化，这种演化增强了有机体生存和繁盛的能力，并可将其起源一路追溯至最早的生命有机体所解决的问题。",
+    "dynamics_of_emergence": "意识是一个动态过程，其涌现具有“较浅的历史”，具体而言是作为建立在古老防御性生存回路之上的皮层认知回路的一种晚近表现。",
+    "location_and_distribution": "意识经验本身定位于晚近的皮层认知回路，依赖来自深深植根的皮层下生存回路的输入。",
+    "causation_and_functional_role": "意识通过实现灵活的、认知性的加工（如识别并应对威胁，例如恐惧的意识感受）来增强生存与繁盛。",
+    "core_claims_and_evidence": [
+      "理解人类意识的关键在于透过最早生命有机体的棱镜来审视演化。",
+      "意识拥有可追溯至生命之初的“深层根源”，经由基础性的生存回路而确立。",
+      "意识（如恐惧的感受）是皮层认知回路的一种晚近表现。"
+    ],
+    "basis_of_belief_or_evidence_type": "神经生物学、演化、科学"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验",
+    "known_empirical_interventions_or_tests": "追踪神经系统系统发生发展、并跨物种比较防御性生存回路的研究。",
+    "criticisms_and_tensions": "所提供文本中缺乏具体批评，而适用于唯物主义理论的一般性批评是：尽管理解了意识的生物学基础与演化，却未能解释意识的质性本质（难问题）。",
+    "open_questions_and_limitations": "导向主观经验涌现的确切步骤——即如何区分负责意识感受的皮层认知回路（浅层历史）与非意识生存机制（深层历史）——仍是悬而未决的问题。",
+    "ontological_coherence": "在唯物主义与演化自然主义框架内具有高度融贯性。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "作为一种聚焦于涌现性生物机制的唯物主义理论，只要必要的演化与生存功能能够在人工基质中被复现，人工意识在原则上就应当是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识明确依赖于演化而来的生物大脑及其皮层认知回路，而它们在死亡时停止运作。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本层面",
+      "rationale": "与唯物主义一致，意识主要服务于增强生存与繁盛的生物功能，除人类自我创造的意义之外，不提供任何内在的宇宙意义或目的论。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "由于意识被理解为纯粹物理的、从复杂生物信息加工中涌现，那么复制其神经模式在原则上应当能够实现虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "LeDoux's Higher-Order Theory of Emotional Consciousness",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "相容"
+      },
+      {
+        "name": "Feinberg/Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Deep History of Ourselves: the Four-Billion-Year Story of How We Got Conscious Brains, Joseph LeDoux",
+        "year": 2019
+      },
+      {
+        "title_with_names": "As soon as there was life, there was danger: the deep history of survival behaviours and the shallower history of consciousness, Joseph LeDoux",
+        "year": 2021
+      }
+    ]
+  }
+}

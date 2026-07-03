@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "Lahav 的相對論式理論",
+    "summary": "此理論將意識刻畫為一種物理現象，它相對於某個「認知參考系」所進行的測量而言。類比於物理學中的速度，在不同認知參考系中運作的不同觀察者，在觀察同一現象時會顯現出不同的物理性質（對自身而言是意識覺知，對他人而言則是所測得的大腦活動）。",
+    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "category": "唯物論",
+    "subcategory": "關係性",
+    "core_identity_tagline": "意識即一種相對於認知參考系的物理現象",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識經驗被界定為源自相對於某個「認知參考系」的物理測量歷程。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "此關係是相對論式的：同一個底層現象，依測量脈絡的不同，或顯現為意識覺知（從內部參考系）或顯現為大腦活動（從外部參考系）。這意味著一種依參考系而定的同一性或相關性。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "未明確詳述，但很可能是弱湧現，因為它有賴於既有的（或類比的）物理原理（相對論、測量），而非為意識本身的存在假設新的基本定律。",
+    "subjectivity_and_intentionality": "主體性內在於「認知參考系」的定義之中；兩個人因處於不同的認知參考系，會以不同方式經驗意識。意向性（思維的指向性）在所提供的來源中並未明確處理。",
+    "qualia_account": "感質被隱含地說明為在特定認知參考系內顯現的主觀物理性質，儘管經驗本身內在固有的質性本質並未詳述。",
+    "ontological_commitments": "物理實在、物理測量歷程，以及一個借自相對論物理學類比的「認知參考系」。",
+    "epistemic_access": "通達是依參考系而定的：在自身的認知參考系內，會經驗到意識覺知；從另一個認知參考系來看，則只能測得大腦活動。",
+    "constituents_and_structure": "意識由物理測量歷程本身所結構化，因而依參考系的不同產生不同的物理性質或顯現。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意識覺知、性質的物理顯現。",
+    "distinctive_mechanism_or_principle": "意識相對於某個認知參考系中的物理測量而存在的原理，而非由計算所創造。",
+    "dynamics_of_emergence": "意識動態地源自物理測量的歷程。不同參考系中的不同物理測量，會產生意識經驗與大腦活動的不同顯現。",
+    "location_and_distribution": "相對於觀察者的「認知參考系」而被定位。",
+    "causation_and_functional_role": "意識經驗「源自」物理測量歷程本身。意識並非源自大腦所執行的計算歷程。",
+    "integration_or_binding": "未明確處理，但假定在單一認知參考系內是統一的。",
+    "information_flow_or_representation": "資訊處理（計算）被明確指出*並非*意識經驗的來源；意識源自底層的物理測量歷程。",
+    "evolutionary_account": "所提供的原始材料未處理此領域。",
+    "core_claims_and_evidence": [
+      "意識是一種物理現象，它相對於某個認知參考系的測量而言。",
+      "意識經驗源自物理測量的歷程。",
+      "大腦並非透過計算創造意識經驗。"
+    ],
+    "basis_of_belief_or_evidence_type": "以類比於物理學（相對論）為基礎的概念性／理論性論證。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上可檢驗，因為此理論處理的是物理現象與測量的界定，儘管經驗檢驗有賴於發展出檢驗認知參考系類比的機制。",
+    "known_empirical_interventions_or_tests": "來源中未列出任何特定的經驗介入或檢驗。",
+    "criticisms_and_tensions": "來源提供的是描述，而非批評段落。潛在的張力在於：如何將物理相對性（如速度）的類比轉譯為可驗證的、非隱喻的認知或神經生物歷程。",
+    "open_questions_and_limitations": "「認知參考系」確切的物理或神經實現及其定義，仍是一個開放問題。",
+    "ontological_coherence": "在一個允許基本物理性質相對於觀察者或測量歷程而定的物理論框架內，具有融貫性。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件",
+      "rationale": "既然此理論主張意識源自物理測量而非計算，AI 系統便需要能構成認知參考系的非計算物理測量歷程，因此其成立與否取決於超越單純計算的硬體實現。"
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "所提供的原始材料未處理此領域。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "所提供的原始材料未處理此領域。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能",
+      "rationale": "既然意識是非計算的，且依賴於物理測量的歷程，標準的虛擬永生（上傳軟體／資料）便不太可能，儘管在理論上對該相對論式物理系統進行物理複製或許是可行的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories of consciousness",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Computational Theories of Mind",
+        "relationship": "批評"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "埃德尔曼的神经达尔文主义与折返神经回路",
+    "summary": "这是一种纯粹生物学的、唯物主义的理论，主张意识源于复杂的脑形态与演化选择。其核心机制在于动态核心，它由神经元群之间——尤其是丘脑-皮层系统中——持续的、大规模的、递归的信号传递（折返）所界定，从而实现高阶的区分。",
+    "associated_thinkers": [
+      "Gerald Edelman",
+      "Giulio Tononi"
+    ],
+    "category": "唯物主义",
+    "subcategory": "神经生物学",
+    "core_identity_tagline": "“意识即折返性神经区分”",
+    "classification_tags": [
+      "neural selectional system",
+      "reentry",
+      "dynamic core",
+      "biological",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为丘脑-皮层系统动态核心中的折返性相互作用所产生的高阶区分的结果。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "心灵与心理状态完全是物理的，纯粹是生物学脑过程的产物（一种彻底唯物主义的理论）。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性内在于个体有机体的活动之中，反映其独特的表型特性与生命历程。意向性则体现在系统那种偏好适应性反应的选择性本质之中。",
+    "qualia_account": "感受质被界定为由底层神经结构与动力学所使之成为可能的高阶区分。感受质的难问题被视为伪问题而遭摒弃，因为一种描述性理论无法复制它所解释的那种主观经验。",
+    "ontological_commitments": "生物学脑、神经元群、折返神经回路，以及突触效能的变化。",
+    "epistemic_access": "主要通过科学研究以及对神经解剖结构与神经动力学的第三人称描述来通达，同时承认这无法复制第一人称的经验。",
+    "constituents_and_structure": "变异回路的库存、功能上具有可塑性的神经元群，以及丘脑-皮层系统（动态核心）内大规模并行的往返纤维。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、初级意识（被记忆的当下）、高阶意识（自我感、语言）、统一性/绑定。",
+    "distinctive_mechanism_or_principle": "神经达尔文主义（神经元群选择理论，TNGS）与通过折返神经回路实现的动态核心组织相结合。",
+    "dynamics_of_emergence": "意识是一个动态过程，源于折返性相互作用对众多输入的整合，随时间生成一连串不同的亚稳态。",
+    "location_and_distribution": "主要定位于丘脑-皮层回路（动态核心）。",
+    "causation_and_functional_role": "其功能角色在于实现高阶区分，从而导向适应性反应。高阶意识使规划以及对自身处于意识状态的意识成为可能。",
+    "integration_or_binding": "通过折返实现，折返对多样的、相互作用的神经元群施加相关性，偏好分布于各脑区、同步活动的回路。",
+    "information_flow_or_representation": "信息加工是选择性的（达尔文式的），依赖于基于经验对简并回路的选择，而非指令式的。",
+    "evolutionary_account": "意识分两个阶段演化：当持续的范畴化经折返与记忆相联结时，初级意识便产生（即“被记忆的当下”）；高阶意识则随语言能力与概念记忆而在其后出现。",
+    "core_claims_and_evidence": [
+      "意识是演化选择（神经达尔文主义）的一种纯粹生物学的、彻底唯物主义的结果。",
+      "动态核心通过折返神经回路整合输入，从而生成意识状态。",
+      "感受质是这些神经动力学所蕴含的高阶区分。",
+      "折返通过同步分布式的皮层活动而解决了绑定问题。"
+    ],
+    "basis_of_belief_or_evidence_type": "生物学的、演化的、神经生理学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验",
+    "known_empirical_interventions_or_tests": [
+      "研究折返神经活动在丘脑-皮层系统中所起作用的研究。",
+      "对与感受质差异相关联的神经结构与动力学的测量。"
+    ],
+    "criticisms_and_tensions": "批评者仍不认为这一唯物主义框架充分说明了感受质那种主观的、现象性的存在，并认为埃德尔曼对难问题的摒弃是不充分的。",
+    "open_questions_and_limitations": "按其定义，该理论无法通过第三人称的科学描述传达第一人称的经验（“红的红性”），从而留下了一道经验性的鸿沟。",
+    "ontological_coherence": "在严格的唯物主义、神经生物学与达尔文式的本体论框架内高度融贯。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种机制性的生物学理论，若选择性与折返神经回路机制在非生物基质中得到充分而正确的实现，那么意识在人工系统中应当是可能的。倡导者曾提出，设计出一件有意识的人造物是可行的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全依赖于生物学脑的物理运作；因此，意识在有机体死亡时便终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义的",
+      "rationale": "该理论奠基于演化与适应功能，这意味着意义与目的是由有意识的行为主体所创造的涌现属性，而非根本性的宇宙特征。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "既然意识是特定物理/结构性动力学与功能（神经达尔文主义/动态核心）的产物，那么将这些机制完美地复制或上传至数字介质便能保存第一人称的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "相容"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "拓展"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neural Darwinism: the Theory of Neuronal Group Selection, G.M. Edelman",
+        "year": 1987
+      },
+      {
+        "title_with_names": "A Universe of Consciousness: How Matter Becomes Imagination, G.M. Edelman and G. Tononi",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Naturalizing consciousness: a theoretical framework, G. Edelman",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Biology of consciousness, G. Edelman, J. Garlly, B. Baars",
+        "year": 2011
+      }
+    ]
+  }
+}

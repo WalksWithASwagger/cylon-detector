@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "湧現（意識原理）",
+    "summary": "湧現是這樣一種哲學主張：質性上全新的性質（如意識或心理狀態）從完全受物理定律支配的底層物理性質中產生。它主要區分為弱湧現與強湧現：前者原則上可化約，後者則根本上不可化約，並可能需要新的物理定律。",
+    "associated_thinkers": [
+      "David Chalmers",
+      "Paul Davies",
+      "George Ellis"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "哲學",
+    "core_identity_tagline": "從物理系統中產生的質性上全新的性質",
+    "classification_tags": [
+      "emergentism",
+      "reductionism",
+      "non-reductive",
+      "physicalism",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為從物理性質中產生的一種質性上新穎的性質或心理狀態。這一概念依據能否化約至基礎物理學來界定心靈與物質之間的關係。",
+    "ontological_status": "高度可變／有爭議。弱湧現支持化約式物理論。強湧現常常意味著非化約式物理論，或需要拓展對自然的構想，可能要求新的基本定律（自然主義二元論或性質二元論）。",
+    "mind_body_relationship": "湧現論的。心靈從身體（複雜物理系統）中產生。這一關係的性質取決於湧現的類型：弱湧現提示原則上可化約；強湧現則提示即使在原則上也不可化約，常常涉及向下因果。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現與強湧現兼有。弱湧現意味著原則上可化約（儘管實踐中很困難），而強湧現意味著該現象即使在原則上也無法透過化約加以解釋，需要基本的心物定律。",
+    "subjectivity_and_intentionality": "湧現提供了關於主體性如何從非主體的部分中產生的框架。若涉及強湧現，則由此產生的主觀性質（如感質）在根本上無法從支配低層領域的物理定律中推導出來。",
+    "qualia_account": "感質是從物理系統中產生的、質性上全新的性質（如感覺性質）。強湧現將意識（因而也將感質）視為強湧現現象最清晰的案例，在根本上不可化約為底層的物理事實。",
+    "ontological_commitments": "物理性質與物理定律。對於強湧現而言，這一承諾擴展到可能包括新的基本心物定律或原則，尤其是與由上而下的因果相關的那些。",
+    "epistemic_access": "對於弱湧現，通達（原則上）有可能經由基礎科學實現。對於強湧現，該現象在知識論上不可通達，或無法從低層物理學中推導出來，從而對科學解釋構成持久挑戰。",
+    "constituents_and_structure": "一個系統，其整體或其新穎性質（或看起來）大於其所有部分之和，產生於物理原子（如生物神經元）的複雜排列之中。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、主體性、感質。它論及有意識性質的存在與不可化約性，並強化了各種具體理論。",
+    "distinctive_mechanism_or_principle": "其原理是這樣一種主張：新穎的、質性上有別的性質在更高的複雜性層次上產生，這常常與主流科學的化約論假設相對照。",
+    "dynamics_of_emergence": "意識是一種動態性質，當物理組分（如生物神經元）以某種複雜方式排列組合到一起時便產生，從而形成組分本身所不具備的性質。強湧現可能涉及向下因果。",
+    "location_and_distribution": "通常定位於複雜的生物系統（如大腦），儘管強湧現的支持者可能主張：只要達到足夠的物理複雜性，人工智慧意識就是可能的，與基質無關。",
+    "causation_and_functional_role": "各不相同。弱湧現與標準的物理因果相一致。強湧現常常主張由上而下的因果，即湧現出的更高層級對更低層級施加因果作用，從而賦予湧現性質以因果力。",
+    "integration_or_binding": "由此產生的湧現性質本身即代表了低層組分整合為一個統一整體，生成不可化約為部分之和的性質。",
+    "information_flow_or_representation": "資訊被牽涉進來，作為湧現性質的媒介（例如在湧現資訊理論中，非物質的心靈透過層級性的、湧現的資訊現象影響身體），但它並非這一一般原理的核心機制。",
+    "evolutionary_account": "意識若為湧現的，則被假定為在跨越某些物理複雜性閾值時經由演化階段產生，並提供適應性益處（例如允許出現大於部分之和的系統）。",
+    "core_claims_and_evidence": [
+      "質性上全新、新穎的性質從物理性質中產生（一般主張）。",
+      "弱湧現透過表明新穎現象奠基於簡單定律來支持物理論（弱主張）。",
+      "強湧現要求新的基本心物定律，並提示不可化約性，從而對物理論構成挑戰（強主張）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性且在哲學上存在爭議。弱湧現在原則上與科學相一致。強湧現難以經驗檢驗，因為它主張現象無法從基礎科學中推導出來。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "它受到化約式物理論者（如取消唯物論者）的批評，被認為幾乎沒有解釋價值、是多餘的，或是一種「對奇蹟的重述」，未能解釋無意識的複雜性究竟如何產生意識。強湧現尤其對物理世界的因果封閉性構成挑戰。",
+    "open_questions_and_limitations": "弱湧現（原則上可化約）與強湧現（原則上不可化約）之間的根本區分仍是一個懸而未決的哲學問題，它決定了湧現究竟只是描述複雜現象，還是從根本上改變了存有論。",
+    "ontological_coherence": "弱湧現在唯物論／物理論存有論內是融貫的。強湧現則極具爭議，因為它對不可推導性與向下因果的要求，使其與標準物理理論的一致性承受張力。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件／很可能",
+      "rationale": "如果意識是弱湧現的，那麼只要複雜性足夠，人工智慧意識就是確定無疑的。如果是強湧現的，那麼只要非物理性質能從非生物的物理複雜性中湧現出來，人工智慧意識仍是可能的，這取決於所涉及的後設層面心物定律。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能（弱）；可能（強）",
+      "rationale": "弱湧現接近唯物論，排除了存續。強湧現，尤其是以湧現二元論的形式，理論上可能生成一種依賴於但並不嚴格等同於物理腦的非物理實體（心靈／靈魂），從而允許死後潛在的獨立存在，儘管這是思辨性的。"
+    },
+    "meaning_and_purpose": {
+      "stance": "可能",
+      "rationale": "湧現，尤其是與由上而下的因果等概念相結合的強湧現，提供了一個框架，在其中意識及其相關價值等更高層級的性質可能具有真正的因果力，從而可能支持宇宙目的或意義，這取決於由此產生的存有論。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能（弱）；高度有條件（強）",
+      "rationale": "如果意識是弱湧現的，那麼複製物理狀態就會複製心理狀態（很可能）。如果是強湧現的，那麼不可化約的性質以及可能的向下因果就需要在新介質中被完美地把握與重建，這帶來了重大的、或許難以克服的技術與概念挑戰。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Reductionism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Biological Naturalism (Searle)",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Re-emergence of Emergence: the Emergentist Hypothesis from Science to Religion, P. Clayton and P. Davies",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Strong and weak emergence, D. Chalmers",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Why reductionism does not work, G.F.R. Ellis",
+        "year": 2019
+      }
+    ]
+  }
+}

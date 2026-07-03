@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "塞斯的\"野兽机器\"理论",
+    "summary": "该理论主张，包括对世界和自我的知觉在内的意识经验，都是基于大脑的知觉性预测，并被比喻性地称为'受控幻觉'。它将意识的机制植根于调节身体生理以维持存活这一根本的生物律令之中。",
+    "associated_thinkers": ["Anil Seth"],
+    "category": "唯物主义理论",
+    "subcategory": "稳态与情感",
+    "core_identity_tagline": "'意识即基于预测的受控幻觉'",
+    "classification_tags": [
+      "neurobiology",
+      "predictive processing",
+      "homeostatic",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为基于大脑的知觉性预测的各种形式，其中现象学属性由不同形式预测的计算方面加以解释。",
+    "ontological_status": "物理主义/唯物主义（其归类于唯物主义理论之下，并依赖于生物学与计算的解释，为此提供了理由）。",
+    "mind_body_relationship": "意识经验完全基于大脑且以物理方式例示。该模型支持一种强相关或同一论，其中意识属性源于面向身体调节的生理与计算架构。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现（理由：该理论是一种唯物主义式说明，主张主观经验源于复杂的、计算性的大脑过程。这些过程被假定为原则上可由底层物理定律加以解释，这是弱涌现的特征。）",
+    "subjectivity_and_intentionality": "主体性之所以产生，是因为知觉由自上而下预测的内容所决定，从而形成一种受实在约束的'由内而外的神经元幻想'式的现象经验。该理论通过解释对世界的经验与对自我的经验之间的差异来说明自我经验。",
+    "qualia_account": "意识经验的现象学属性由大脑所运用的不同形式知觉性预测的计算方面加以解释。",
+    "ontological_commitments": "生物大脑、神经活动、预测加工机制，以及底层的身体生理调节机制。",
+    "epistemic_access": "可通过神经科学与计算方法获得，尤其是那些考察大脑功能的预测加工模型的方法。",
+    "constituents_and_structure": "一种由自上而下的预测与自下而上的感官信号相互作用所构成的计算结构，植根于生物系统调节其内部状态的努力之中。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、自我经验、知觉。",
+    "distinctive_mechanism_or_principle": "意识通过预测加工得到解释，其中大脑对其感官输入的成因持续生成一个'最佳猜测'（预测）。这一机制内在地与身体生理的调节相关联。",
+    "dynamics_of_emergence": "意识是一个动态过程，其中经验源于持续进行的预测；它类似于一场不断被实在所约束的'清醒之梦'。",
+    "location_and_distribution": "位于生物大脑中，与调节身体生理的预测机制相关联。",
+    "causation_and_functional_role": "意识具有与生存相关联的功能角色。它促进身体生理的调节，并使有机体能够对其感官输入的成因进行建模、预测与模拟。",
+    "integration_or_binding": "整合通过形成一个融贯的知觉世界——即'受控幻觉'——而实现，它经由自上而下的预测将模糊的感官信号统一起来。",
+    "information_flow_or_representation": "意识知觉由自上而下预测的内容所决定，而非由自下而上的感官信号本身所决定。感官信号被解读为外部成因的表征。",
+    "evolutionary_account": "意识经由系统发生的演化而出现，由调节身体生理并确保生存（维持存活）这一根本的生物律令所驱动。",
+    "core_claims_and_evidence": [
+      "意识经验是基于大脑的预测的各种形式（'受控幻觉'）。",
+      "现象学属性由知觉性预测的计算方面加以解释。",
+      "支撑意识的预测机制经由调节身体生理这一生物律令而出现。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验性、神经生物学性、计算性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验（推断而得，因为该理论依赖于神经生物学与计算领域内的概念，这些领域强调理论的发展、检验与比较）。",
+    "known_empirical_interventions_or_tests": "涉及大脑知觉、认知与行动的预测加工说明的检验（理由：未提供具体命名的检验，但该理论明确定位于预测加工框架之内）。",
+    "criticisms_and_tensions": "来源中未予明确详述，但一般会受到意识收缩论式说明所固有的张力所影响。",
+    "open_questions_and_limitations": "如同许多意识理论一样，它面临着这样一个普遍挑战：随着经验数据的积累，各种理论似乎在不断增殖，而非被明确地排除。",
+    "ontological_coherence": "在物理主义与生物自然主义框架内高度融贯，提供了一种源自生物功能与计算的系统性意识解释。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种聚焦于计算与信息加工机制（知觉性预测）的唯物主义理论，例示了类似复杂机制的人工智能系统应能够达成意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识是生物大脑与复杂的、以物理方式例示的预测机制的产物。大脑的死亡将导致个人意识不可挽回、永久性的不复存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义",
+      "rationale": "作为一种唯物主义理论，它意味着不存在任何终极的或宇宙性的意义或目的，尽管它支持源自个体能动性与经验的、由人类创造的意义与价值。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意识完全可由大脑的计算过程加以解释，那么原则上，第一人称的心理自我便可被复制并例示于非生物基质中，从而实现虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "兼容"
+      },
+      {
+        "name": "T. Clark’s Content Hypothesis",
+        "relationship": "兼容"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "兼容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Being You: A New Science of Consciousness, Anil Seth",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Theories of consciousness, Anil Seth and Tim Bayne",
+        "year": 2022
+      }
+    ]
+  }
+}

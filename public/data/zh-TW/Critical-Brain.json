@@ -1,0 +1,103 @@
+{
+  "id_and_class": {
+    "theory_title": "臨界腦假說",
+    "summary": "臨界腦假說主張，神經網路在接近相變臨界點運作時表現最佳，於有序活動與隨機活動之間取得平衡。這種臨界狀態最大化了大腦生成複雜、資訊豐富之模式的能力，從而最佳化了計算、傳輸與儲存。",
+    "associated_thinkers": [
+      "John Beggs",
+      "Per Bak"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "計算與資訊",
+    "core_identity_tagline": "意識即最佳的神經網路臨界性",
+    "classification_tags": [
+      "neural networks",
+      "criticality",
+      "information processing",
+      "phase transition",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被等同於、或根本上依賴於神經網路的最佳組織狀態（臨界性），該狀態最大化了其進行複雜資訊處理的能力。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一／相關（意識與大腦的臨界動力學狀態之間）。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "當大腦在臨界狀態運作時所具備的最大化複雜性與資訊容量，使主體性與意向性成為可能。該理論關注較高階認知的功能性前提條件。",
+    "qualia_account": "未予明確處理。感質很可能被視為在臨界點生成的、最大程度複雜且資訊豐富之模式的一種結果或面向，這與其唯物論與計算論的基礎原則一致。",
+    "ontological_commitments": "神經網路、連接強度、資訊模式，以及支配相變的物理定律（統計力學）。",
+    "epistemic_access": "可透過經驗研究通達，具體而言是透過數學建模、物理學（統計力學），以及測量大腦中神經元放電模式與網路動力學的實驗。",
+    "constituents_and_structure": "以特定連接強度為特徵的神經網路，動態地形成「雪崩」，或形成許多中等規模、穩定的神經元集群。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（隱含）、計算、資訊儲存／傳輸、網路組織。",
+    "distinctive_mechanism_or_principle": "在相變臨界點的最佳運作，它最大化複雜性並平衡連接強度（既不過弱，亦不過強），透過自組織臨界性達成。",
+    "dynamics_of_emergence": "意識是一個動態歷程，其特徵在於大腦持續在臨界點附近擺盪或振盪，管理介於不活躍／隨機狀態與過度活躍／癲癇狀態之間的相變。",
+    "location_and_distribution": "位於神經網路中，尤其在皮質中被觀察到。",
+    "causation_and_functional_role": "同時最佳化多項資訊處理任務，包括透過使最多數量的穩定神經元集群得以形成來最大化資訊儲存。",
+    "integration_or_binding": "透過網路在臨界狀態下的平衡複雜性達成，使眾多中等規模的神經元群得以耦合而不合併為單一的巨型集群。",
+    "information_flow_or_representation": "臨界狀態增強了資訊的傳輸容量，並產生最大程度複雜且資訊豐富的活動模式。",
+    "evolutionary_account": "隱含之意：意識／最佳網路組織之所以演化出現，是因為最大化資訊處理能力與複雜性所帶來的巨大適應優勢，這對生存至關重要。",
+    "core_claims_and_evidence": [
+      "神經網路在接近臨界點運作時，資訊處理與複雜性達到最大化。",
+      "臨界狀態平衡了有序活動與隨機活動，避免了過度的抑制或放大。",
+      "對遵循冪律的神經元「雪崩」的實驗觀察，支持了腦組織中存在自組織臨界性的觀點。",
+      "擾動（如睡眠剝奪）會使大腦偏離臨界點（變為超臨界）。"
+    ],
+    "basis_of_belief_or_evidence_type": "經驗性、計算性、數學性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗。已在離體網路與完整大腦上進行實驗，據稱支持了該理論的許多預測。",
+    "known_empirical_interventions_or_tests": [
+      "測量神經網路中的神經元「雪崩」與冪律。",
+      "觀察由環境或生理變化（如睡眠剝奪）引起的動力學偏移（如超臨界性）。"
+    ],
+    "criticisms_and_tensions": "批評者質疑臨界性如何在動態的生物環境中得以維持或「精細調校」，並質疑如何嚴格區分神經元之間真正的集體臨界性與隨機雜訊。",
+    "open_questions_and_limitations": "尚未解決的問題包括：大腦藉以自我精細調校以維持臨界性的機制，以及嚴格區分源於集體交互作用的真正臨界性與源於雜訊的表觀臨界性。",
+    "ontological_coherence": "與唯物論和計算論存有論高度一致，為將物理動力學與認知最佳化相聯繫提供了一個數學上嚴謹的框架。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "如果意識源於在網路中達成這種最佳計算狀態（臨界性），且該歷程由計算規則與組織在數學上加以定義，那麼它應可在能夠實現類似動力學的人工系統中被重現。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為歸類於唯物論之下的理論，意識本質上依賴於生物神經網路的特定物理組織與動力學；其存續需要維持這一物理結構。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "意識被理解為一種功能上最佳的、湧現的生物現象（最大化資訊處理能力），這表明其目的純粹是適應性的，不含宇宙性的或終極的目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意識由網路的臨界資訊處理動力學與結構所定義，那麼將這些模式複製（上傳其功能結構）到一個能夠維持臨界性的合適的非生物媒介中，應能實現虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Entropic Brain Hypothesis",
+        "relationship": "相容／重疊"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "範疇／延伸"
+      },
+      {
+        "name": "Complex Adaptive Systems Models",
+        "relationship": "重疊／範疇"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "When does the brain operate at peak performance?, John Beggs",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Brains may teeter near their tipping point, Jennifer Ouellette",
+        "year": 2018
+      }
+    ]
+  }
+}

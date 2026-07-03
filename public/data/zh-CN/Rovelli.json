@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "罗韦利的关系物理学",
+    "summary": "该理论对难问题采取一种收缩性的观点，主张意识已被物理学（尤其是量子力学与广义相对论）深刻的关系性面向所充分说明。当物理学被恰当地理解为透视性的——即描述诸实体如何向彼此显现——它便消解了物理世界与主观经验之间那种被感知到的不匹配。",
+    "associated_thinkers": ["Carlo Rovelli"],
+    "category": "量子理论",
+    "subcategory": "关系物理学",
+    "core_identity_tagline": "“作为透视性实在的意识”",
+    "classification_tags": [
+      "relationalism",
+      "quantum",
+      "physicalism",
+      "perspectival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识，或“思想”，由相互作用的物理系统之依赖于视角的关系性显现所说明，而这在现代物理学所提供的描述之内是充分的。",
+    "ontological_status": "关系物理主义／一元论（理由：该理论力求在一种扩展的物理学观内充分说明意识，提示一种根本上物理性却又关系性的实在，它支持一种极其温和形式的泛心论。）",
+    "mind_body_relationship": "收缩性同一／充分性。当实在被描述为一张相互作用系统之网时，心理与物理之间的差异显得远没有那么剧烈，提示一种深层的共相关性，其中物理学足以说明思想。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现／收缩性（理由：意识由复杂的、相互作用的物理系统的充分属性所说明，这与弱涌现的原理相一致，即便其结果在主观上是深刻的。）",
+    "subjectivity_and_intentionality": "主体性得到说明，因为物理实在本质上是透视性的，意即它总是相对于某个物理系统来描述的。这种固有的透视性本性与私有的意识流相平行。意向性未被明确处理，但被隐含地作为复杂系统相互作用的一个特征涵盖在内。",
+    "qualia_account": "第三人称物理学与第一人称经验（感受质）之间的不匹配，通过主张物理学是关系性的、因而对每个观察者而言都是特定的，从而使双方的不匹配得以减弱而被消解。",
+    "ontological_commitments": "物理系统（简单的与复杂的）、关系、视角，以及现代物理学的基础性场与粒子。",
+    "epistemic_access": "意识经由内省而被认识，但其基本本性经由对物理理论的哲学与概念性精炼来理解，尤其聚焦于物理学的关系性面向。",
+    "constituents_and_structure": "一张由相互作用的物理系统所构成的“关系之网”，其中诸实体仅在其与其他实体的接触点上才获得属性。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（收缩化的观点）；意识（作为复杂系统相互作用与“思想”）。",
+    "distinctive_mechanism_or_principle": "物理学从根本上是关系性的（即诸实体如何向彼此显现）这一原理，提供了说明诸如思想等有意识现象所必需的组织原理。",
+    "dynamics_of_emergence": "意识是一种动态显现，产生于物理系统的相互作用与彼此影响，提示一个内在于实在关系结构中的过程。",
+    "location_and_distribution": "分布于能够进行复杂关系相互作用的复杂系统（如大脑）之中。其底层的关系结构在实在中无处不在。",
+    "causation_and_functional_role": "意识（思想）具有因果效力，因为它完全由底层的关系性物理世界所描述。物理描述足以说明思想及其随后的行动。",
+    "integration_or_binding": "整合由实在作为一张“关系之网”的结构来说明，其中属性经由接触而获得，提示对复杂系统的一种统一的关系性描述。（理由：其焦点在于基础性关系，隐含地处理了复杂系统相互作用如何绑定信息。）",
+    "information_flow_or_representation": "有意识的处理由物理系统向其他系统显现自身的方式来解释，而这可以由物理学来描述。",
+    "evolutionary_account": "来源中未提供明确内容。",
+    "core_claims_and_evidence": [
+      "当实在依据相互作用的、关系性的系统来理解时，心理与物理之间被感知到的差异便得以减弱。",
+      "物理实在本质上是透视性的，总是相对于某个物理系统来描述的，这与主观经验相映照。",
+      "在关系性理解下，物理学足以说明诸如思想和雷暴等复杂现象。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的；概念的；关系量子力学的原理。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨／概念性的。（理由：该理论主要聚焦于对物理学的一种基础性概念重构，而非为意识提出具体的经验检验，尽管关系物理学的倡导者可能寻求更广泛的确证。）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "批评者指出，即便物理学是关系性的，主观经验也未必显得是关系性的，而这一观点可能无法充分说明意识的主观与质性面向。",
+    "open_questions_and_limitations": "该理论要求接受对难问题的一种收缩性解决，即相信关系物理学对说明思想的充分性便解决了主观经验之谜。",
+    "ontological_coherence": "融贯。该理论通过重新界定物理世界本身的基础（关系物理主义），使其内在地包含说明意识所必需的结构，从而保持了本体论上的一致性。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识（思想）完全由以关系方式描述的复杂物理系统的相互作用所说明，那么任何其运作受这些物理定律支配的、足够复杂的人工系统都将获得意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该理论明确否认意识在量子力学中扮演特殊而密切的角色，并经由复杂物理系统来说明思想。因此，意识系于物理系统（如大脑）的存在，而后者在死亡时消散。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不太可能／仅人本主义意义",
+      "rationale": "其焦点在于描述实在如何通过关系被结构化。尽管复杂的涌现系统（人类）能够创造意义，但关系物理学所描述的基础性物理实在并不提供任何宇宙目的论或终极目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "由于意识由物理系统的结构与相互作用所说明，那么只要技术足够先进，对这些复杂关系性物理状态的精确复制或模拟应能在人工基质中实现虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "相容（支持一种“极其温和的形式”）"
+      },
+      {
+        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "relationship": "批评（罗韦利反对意识在量子力学坍缩中扮演特殊角色。）"
+      },
+      {
+        "name": "Musser’s 'Is It Really So Hard?'",
+        "relationship": "影响（马瑟赞同地引用了罗韦利的关系进路。）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Relations and panpsychism, C. Rovelli",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Consciousness is irrelevant to quantum mechanics - an interview with Carlo Rovelli, C. Rovelli",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Rovelli’s relational quantum mechanics, monism and quantum becoming, M. Dorato",
+        "year": 2016
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Stump 的托马斯主义二元论",
+    "summary": "这一理论呈现了圣托马斯·阿奎那关于人类灵魂的学说，将其作为一种非笛卡尔式的二元论形式。它主张灵魂是一个本质上非物质的或构型的组成部分，然而又在物质组成部分之内得以实现，从而使人的物质性与身体死亡后精神的存续得以调和。",
+    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "category": "二元论",
+    "subcategory": "哲学的",
+    "core_identity_tagline": "在物质中得以实现的非笛卡尔式非物质灵魂",
+    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识，或人类的灵魂／精神，是一种本质上非物质的或构型的实体，它在物质组成部分（身体）之中得以实现。",
+    "ontological_status": "实体二元论（非笛卡尔式／托马斯主义变体）",
+    "mind_body_relationship": "非物质的灵魂／精神在物质组成部分之中得以实现，既容纳了人的物质本性（“你本是尘土”），又容纳了精神在死后的存续（“灵仍归于上帝”）。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "强涌现／非还原式（理据：灵魂被描述为保有一种独立于身体而持续存在的非物质本质，这表明它不能被完全还原为它由之产生的物质过程。）",
+    "subjectivity_and_intentionality": "主体性与意向性从根本上根植于非物质／构型的灵魂之中，其明证在于灵魂能够作为精神在身体消解后持续存在。",
+    "qualia_account": "感受质与在物质身体中得以实现的非物质／构型灵魂组成部分的属性相关联。",
+    "ontological_commitments": "物质身体（会消解，如“尘土”）与一个本质上非物质的或构型的、能够独立存在的灵魂／精神。",
+    "epistemic_access": "主要通过哲学论证以及对关于人性与精神存续的根本文本或直觉的神学阐释来通达。",
+    "constituents_and_structure": "人是一个复合实体，其中灵魂充当由身体的物质组成部分所实现的形式或构型结构。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "第一人称主体性、人格同一性、死后存续。",
+    "distinctive_mechanism_or_principle": "人类灵魂的非笛卡尔式本性使它得以本然地成为构型的，将物理的人绑定为一体，同时作为非物质组成部分维持其独立存在，从而既容纳物质存在，又容纳精神存续。",
+    "dynamics_of_emergence": "灵魂在生命期间于物质身体中得以实现。死亡时，身体消解（“你本是尘土”），而精神则作为非物质要素持续存在（“灵仍归于上帝”）。",
+    "location_and_distribution": "灵魂本质上是非物质的或构型的，但在生命期间于物质身体中得以实现或例示。死后，灵魂相对于物理世界是非定域的。",
+    "causation_and_functional_role": "该理论聚焦于本体论而非功能，但灵魂的功能被暗示为融贯的人格同一性以及贯穿生命及其之后的持存所必需。",
+    "integration_or_binding": "灵魂／精神充当统一的、构型的原理（形式），将物质组成部分绑定为单一的人。",
+    "information_flow_or_representation": "该理论聚焦于本体论构成（物质与形式／精神），而非信息或表征加工的机制。",
+    "evolutionary_account": "该理论建基于历史上的经院哲学，但现代阐释很可能会将生物复杂性容纳为灵魂得以实现的必要条件，从而使涌现成为可能。",
+    "core_claims_and_evidence": [
+      "灵魂是非笛卡尔式的、构型的，在物质组成部分中得以实现。",
+      "人是一个物质对象（与《创世记》3:19 相一致）。",
+      "人在死后存续，因为精神继续存在（与《传道书》12:7 相一致）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的与神学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在很大程度上是概念性的，聚焦于哲学融贯性以及与关于生死的宗教教义的形而上学一致性。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "它试图应对一种常见的哲学批评，即传统的笛卡尔式二元论被广泛视为错误或不自洽，尤其是在交互问题上。",
+    "open_questions_and_limitations": "非物质／构型的本质在物质组成部分中“得以实现”的确切机制，以及这一本质如何在死后维持意识，均被来源材料留待未决。",
+    "ontological_coherence": "在其界定的托马斯主义形而上学框架内高度融贯，专门设计用来调和物质身体的存在与一个持久的精神要素。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件的",
+      "rationale": "如果意识系于一个本质上非物质的或构型的、在生物物质中得以实现的灵魂，那么仅由物理组成部分构造的人工系统很可能缺乏这一必需的非物理构成要素，除非产生灵魂的心理物理定律能够适用于非生物基质。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "该理论明确建构用以容纳精神／灵魂——即人之意识的所在——在身体消解之后的持存。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／神学的",
+      "rationale": "该框架植根于基督教经院哲学，整合了关于创世与精神归返上帝的圣经教义，从而提供终极的意义与目的。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "作为一种需要非物理实体（灵魂）的实体二元论变体，仅复制物理结构（如虚拟永生所为）将遗漏自我连续性所必需的非物理组成部分。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "区分（尽管属性二元论否认实体二元论，托马斯主义二元论则力图超越实体与物质还原论之间的传统二分。）"
+      },
+      {
+        "name": "Substance Dualism (Cartesian)",
+        "relationship": "批判"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Non-Cartesian Substance Dualism and Materialism Without Reductionism, Eleonore Stump",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Summa Theologiae, St. Thomas Aquinas",
+        "year": "c. 1265-1274"
+      }
+    ]
+  }
+}

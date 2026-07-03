@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "普林茲的神經功能論：注意力產生經驗",
+    "summary": "此理論主張，意識源自注意力，注意力在加工的中層階段促成知覺資訊流向記憶系統。這一過程從根本上依賴同步的神經放電，並產生一種整合的、保留觀點的刺激表徵。",
+    "associated_thinkers": ["Jesse Prinz"],
+    "category": "唯物論",
+    "subcategory": "神經生物學",
+    "core_identity_tagline": "意識作為受注意的中層表徵",
+    "classification_tags": [
+      "attention",
+      "neurofunctionalism",
+      "perceptual",
+      "representational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為這樣一個過程：由於注意力機制的作用，一種整合的、保留觀點的刺激表徵變得可供工作記憶取用。",
+    "ontological_status": "還原物理論",
+    "mind_body_relationship": "普林茲對心身問題提出一種「神經功能式回應」，將功能角色與其底層的神經生物學實現結合起來，使得心理狀態完全被包含於唯物論之內。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性內在於注意力過程所提供之表徵的「保留觀點的格式」之中。所有意識皆為知覺性的，這意味著意向性（指向性）是關鍵，但自我意識並不被直接經驗到。",
+    "qualia_account": "此理論試圖綜合經驗發現，以提供一種完整的唯物論解釋來反駁意識的難問題。感質被解釋為注意力過程所產生的整合表徵。",
+    "ontological_commitments": "同步的神經放電、知覺加工階段以及資訊表徵。",
+    "epistemic_access": "可透過以神經科學為基礎的經驗性探究與建模來通達，將功能性資料與神經生物學資料結合起來。",
+    "constituents_and_structure": "基本構成要素是在加工的中層階段被整合的表徵，受同步神經放電所約束並由其使能。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性的、知覺性的。",
+    "distinctive_mechanism_or_principle": "注意力，它藉由運用同步的神經放電來改變資訊流，使中層的知覺資訊表徵可供記憶系統取用。",
+    "dynamics_of_emergence": "意識是一個動態過程，當知覺資訊到達特定的「中層」階段並受到注意力機制作用時便會產生。",
+    "location_and_distribution": "定位於知覺加工的一個特定的中層階段。",
+    "causation_and_functional_role": "意識具有因果效力，其功能在於使知覺資訊能隨時供那些使靈活行為成為可能的系統取用。",
+    "integration_or_binding": "整合由注意力過程所達成，它將刺激的各種屬性統一為一種可供工作記憶取用的、單一的、保留觀點的格式。",
+    "information_flow_or_representation": "資訊流被注意力所修改，以賦予其對記憶系統的取用權，而意識完全依賴於整合的表徵。",
+    "evolutionary_account": "意識的演化是為了使知覺資訊可供各系統用於靈活行為，從而提供一種適應優勢。（理由：基於所明確陳述的意識在使靈活行為成為可能方面的功能。）",
+    "core_claims_and_evidence": [
+      "意識依賴於注意力，並在知覺加工的中層階段產生。",
+      "這一過程依賴於同步的神經放電。",
+      "所有意識經驗皆為知覺性的，其作用在於使靈活行為成為可能。",
+      "此理論在唯物論框架內提供了一種完整的解釋，解決了查爾默斯的意識難問題。"
+    ],
+    "basis_of_belief_or_evidence_type": "神經科學的、功能性的、哲學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗",
+    "known_empirical_interventions_or_tests": "此理論得到證據支持，這些證據將同步的神經放電與經驗的統一性及時間持續性聯繫起來，作為其神經生物學主張的基礎。",
+    "criticisms_and_tensions": "普林茲關於一種「令人滿意且出人意料地完整的理論」完全處於唯物論之內的主張，遭到大衛·查爾默斯等批評者的駁斥，他們認為任何純粹的物理解釋都無法說明意識經驗。",
+    "open_questions_and_limitations": "此理論自身所處理的核心侷限在於，說服批評者（如查爾默斯）相信：儘管存在反對物理論的哲學論證，一種純粹功能性與神經生物學的描述仍足以解釋現象經驗。",
+    "ontological_coherence": "高度融貫，因為它明確地將功能論與神經生物學融合為一個一致的唯物論框架，旨在化解傳統的二元論挑戰。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "由於此理論將意識認定為透過注意力使資訊可供記憶取用的一種特定神經功能過程，這一計算功能理應能夠在足夠先進的非生物系統中實現。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種完全處於唯物論之內的理論，意識完全依賴於大腦的生物組織與過程（例如同步的神經放電）並由其產生，並在大腦毀滅時終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義的",
+      "rationale": "意識的功能是實用性的——使知覺資訊可供靈活行為使用。它在唯物論範式內運作，該範式通常意味著意義與目的是自我創造的，而非宇宙性的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "鑑於其奠基於神經功能論並致力於提供一種完整的唯物論解釋，在非生物基質中對基於注意力的表徵系統進行完美的功能複製，理應能夠保存原初的第一人稱有意識自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Chalmers’s hard problem of consciousness",
+        "relationship": "批判"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Brain: How Attention Engenders Experience, Jesse J. Prinz",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The conscious brain, Christopher Mole",
+        "year": 2013
+      }
+    ]
+  }
+}

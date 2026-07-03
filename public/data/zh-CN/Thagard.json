@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "撒加德的神经表征、绑定、融贯与竞争",
+    "summary": "该理论将有意识经验归因于四种在经验上可信的大脑机制的相互作用：神经表征、绑定、融贯与竞争。它主张意识从这些遍及大脑的相互作用中涌现，为梦境、幽默与自我觉知等复杂意识现象提供了一种有科学根据的解释。",
+    "associated_thinkers": ["Paul Thagard"],
+    "category": "唯物主义",
+    "subcategory": "表征主义",
+    "core_identity_tagline": "“意识由神经机制建构而成”",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "binding",
+      "physicalism",
+      "coherence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为特定大脑机制之间相互作用的涌现结果，这些机制为：神经表征、绑定、融贯与竞争。",
+    "ontological_status": "还原式物理主义／唯物主义（这一立场是推断出来的，因为该理论被归入唯物主义，并力图将意识完全解释为大脑的一种并不神秘的生物学产物。）",
+    "mind_body_relationship": "同一／还原（有意识经验完全由物理脑状态与脑过程加以解释并从中涌现，这与高度的物理主义信心相一致。）",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现（推断而来，因为该理论依赖于严格的、以经验为基础的神经科学，并主张一旦理解了意识如何由大脑建构，意识便不再是一个谜，这表明其原则上可还原。）",
+    "subjectivity_and_intentionality": "主观经验，包括知觉、感觉、情绪以及抽象思维（如自我反思），都由四种核心大脑机制的复杂相互作用所说明。",
+    "qualia_account": "感受质（诸如看见颜色或感到疼痛之类的现象经验）由四种大脑机制（神经表征、绑定、融贯、竞争）的运作全面加以解释。",
+    "ontological_commitments": "生物大脑、神经表征及其动态过程（绑定、融贯、竞争），这些常以计算方式加以建模。",
+    "epistemic_access": "主要通过经验神经科学发现与计算建模来通达，并借由解释性融贯来寻求验证。",
+    "constituents_and_structure": "其结构由跨脑区动态运作的神经机制（表征、绑定、融贯、竞争）构成，包括利用‘时间细胞’来追踪经验的机制。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（知觉、感觉、情绪）、自我觉知（自我评价、自我反思）、计时、做梦、幽默、宗教敬畏。",
+    "distinctive_mechanism_or_principle": "神经表征、绑定、融贯以及神经表征之间竞争的联合、相互作用。",
+    "dynamics_of_emergence": "有意识状态是一种动态过程，从神经表征之间的相互作用与竞争中涌现，契合近期关于随时间追踪经验的神经科学发现。",
+    "location_and_distribution": "位于生物大脑；具体而言，通过遍及大脑各区域的机制之间的相互作用而分布。",
+    "causation_and_functional_role": "意识对人类生活至关重要（例如道德、爱情）。该理论蕴含因果效力，因为它解释了物理脑机制如何建构有意识经验并使复杂的心智功能成为可能。",
+    "integration_or_binding": "绑定是四种关键机制之一，其相互作用解释了意识，提供了经验的统一。",
+    "information_flow_or_representation": "神经表征是一种核心机制；意识源于这些表征之间的竞争，将复杂的心智特征与共享的神经机制联系起来。",
+    "evolutionary_account": "意识是大脑的产物，意味着它经由系统发生演化而产生。该进路将有意识的动物与植物、细菌等无意识实体区分开来。",
+    "core_claims_and_evidence": [
+      "有意识经验源于神经表征、绑定、融贯与竞争机制的相互作用。",
+      "这些机制解释了复杂经验，包括自我评价、幽默与宗教敬畏。",
+      "该理论得到经验支持，契合关于时间细胞如何使大脑追踪经验的发现。",
+      "该理论运用解释性融贯来评估机器人与野兽的意识。"
+    ],
+    "basis_of_belief_or_evidence_type": "经验的、神经科学的、计算的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "经验上可检验（这些机制被主张在经验上可信，且该理论建立在严格的神经科学之上，以解释性融贯作为方法论试金石。）",
+    "known_empirical_interventions_or_tests": "该理论与近期关于时间细胞如何使大脑追踪经验的神经科学发现相一致。（来源中未详述任何旨在验证或证伪该理论的具体实验性干预。）",
+    "criticisms_and_tensions": "来源材料中未引述任何具体的外部批评，表明批评极少，或尚未在所提供的语境中被广泛记载。",
+    "open_questions_and_limitations": "四种过程究竟通过何种精确机制生成‘像什么样’的主观感受（感受质），这一点并未充分阐明，而这是还原式物理主义说明的一个标准局限。",
+    "ontological_coherence": "在物理主义框架内高度融贯，主张意识是物理的、完全由大脑机制建构而成，从而解决了意识之‘谜’。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "该理论表明，尽管当前的计算机并无意识，但新的生成式人工智能模型具有与人类相似的机制，这或许能够实现某种程度的意识，尤其是当四种核心大脑机制能够被计算建模或复制之时。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作为一种唯物主义理论，意识完全依赖于生物大脑；因此，大脑的死亡导致此人与意识永久地不复存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人文意义",
+      "rationale": "作为一种唯物主义理论，它坚持一种物理主义的说明，总体上排除了终极的宇宙意义或目的，只承认人类自身所创造的意义与价值。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果这一唯物主义理论完全通过物理机制（神经表征、绑定、融贯、竞争）来解释意识，那么第一人称的心理自我便是可上传的，而虚拟永生可借由能够复制这些物理过程的先进技术加以实现。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "相容"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dreams, Jokes, and Songs: How Brains Build Consciousness, Paul Thagard",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Bots and Beasts, Paul Thagard",
+        "year": 2021
+      }
+    ]
+  }
+}

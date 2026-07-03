@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "心脑同一论",
+    "summary": "这一经典的意识哲学理论主张，心理状态、事件或过程严格地等同于大脑中发生的特定状态、事件或过程。它通过断言意识完全是物理的而充当唯物主义的典范。",
+    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "category": "唯物主义",
+    "subcategory": "哲学",
+    "core_identity_tagline": "心理状态即脑状态",
+    "classification_tags": [
+      "identity",
+      "reductionism",
+      "physicalism",
+      "classical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识（心理状态／过程）字面上等同于大脑的物理状态／过程。这是强意义上的同一主张，类似于将‘晨星’与‘昏星’都等同于金星。",
+    "ontological_status": "还原式物理主义／唯物主义",
+    "mind_body_relationship": "同一论：心理事件与物理事件是同一事物，是彻底的同一，意味着‘两者’不可分离。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性与意向性严格地等同于某些物理状态。这一观点意味着，追问为何一种感受伴随着某物理状态是误入歧途的，因为它们本就是同一个东西。",
+    "qualia_account": "感受质（被感受到的经验），如疼痛或看见红色，字面上等同于大脑的特定物理状态，如伤害感受特异性神经元的放电。",
+    "ontological_commitments": "大脑的物理状态与过程。该理论承诺意识完全是物理的。",
+    "epistemic_access": "关于这些同一关系的知识建立在后验的经验研究之上，需要科学去发现哪些物理状态对应于哪些心理状态。",
+    "constituents_and_structure": "意识由大脑中特定的物理状态与过程构成，其组织方式使之与心理状态同义。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、通达意识",
+    "distinctive_mechanism_or_principle": "将严格的同一关系原则应用于把心理种类（如疼痛）与物理种类（如 C 纤维放电）相关联。",
+    "dynamics_of_emergence": "意识是生物过程的结果，具体被认定为大脑的物理动力学。",
+    "location_and_distribution": "完全定位于大脑之内。",
+    "causation_and_functional_role": "心理因果隐含地得到解决，因为心理状态就是物理状态，而物理状态具有因果效力与功能角色。",
+    "integration_or_binding": "整合在同一的物理脑状态的复杂组织中实现。作为一个哲学主张，它并未指定一种独特的神经生物学绑定机制。",
+    "information_flow_or_representation": "心理内容或表征等同于体现它们的物理状态，遵循物理定律。",
+    "evolutionary_account": "意识是从生物脑中产生的、演化而来的物理产物。",
+    "core_claims_and_evidence": [
+      "心理状态严格地等同于脑状态。",
+      "这一同一关系通过将心理事件（如疼痛）与特定神经元活动相联系的经验证据被后验地发现。"
+    ],
+    "basis_of_belief_or_evidence_type": "由不断积累的相关性经验证据所支持的哲学推论。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "原则上可经验检验，方法是绘制特定心理状态与物理状态之间的相关性。",
+    "known_empirical_interventions_or_tests": "相关性经验证据（如将疼痛与伤害感受特异性神经元的放电相联系）。",
+    "criticisms_and_tensions": "其原初形式一般被认为已被诸种反驳所削弱，最著名的是多重可实现性（同一心理状态可由不同物理机制实现）。核心的哲学挑战是‘解释鸿沟’，即为何脑状态感觉起来是某种样子。",
+    "open_questions_and_limitations": "该理论难以化解如下直觉：哲学僵尸（物理上完全相同却缺乏意识的造物）是可设想的，这意味着‘两者’可以分离。它也未能清晰地区分哪些类型的神经活动构成意识。",
+    "ontological_coherence": "在严格的还原式物理主义本体论内高度融贯，但与关于主体性和感受质的基本现象学直觉存在张力。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "既然心脑同一论断言意识可还原为物理过程，那么若这些特定的物理过程能在人工的、非生物的基质中被重现，意识就必然被例示。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识严格地等同于大脑的功能与物理完整性；大脑在死亡时的瓦解导致有意识自我的永久终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本意义",
+      "rationale": "作为一种唯物主义理论，心脑同一论并不蕴含任何终极的宇宙意义或目的。意义与价值是由有意识的人类能动者创造的涌现属性。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意识（精确的物理模式）能够被扫描并完美地复制／上传到一个新的物理介质（数字的或其他的），该理论保证同一有意识自我的存续。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "批评"
+      },
+      {
+        "name": "Tye’s Contingentism",
+        "relationship": "影响"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mind/brain identity theory, J.J.C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "We must shed our metaphysical assumptions, David Papineau",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Mind-Brain Identity Theory, István Aranyosi",
+        "year": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "法金基於量子資訊的泛心論",
+    "summary": "此理論設定意識與自由意志是處於純量子態之量子系統的根本性質，關鍵地依賴於非定域的量子糾纏。它將意識認定為這些量子系統的主觀內在實在，被經驗為確定且私有的感質。",
+    "associated_thinkers": [
+      "Federico Faggin",
+      "G.M. D’Ariano"
+    ],
+    "category": "量子理論",
+    "subcategory": "基於量子資訊的泛心論",
+    "core_identity_tagline": "意識作為純態中的量子資訊",
+    "classification_tags": [
+      "quantum",
+      "panpsychism",
+      "information",
+      "non-local",
+      "free will"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為處於純量子態之量子系統的主觀內在實在，並以量子資訊在數學上加以表徵。",
+    "ontological_status": "泛心論（基於量子資訊）",
+    "mind_body_relationship": "雙面向（有理據的說明：心靈面向是由量子資訊所描述的私有、質性的主觀實在，而量子資訊是某些物理系統——純量子態——內在而不可分割的性質。）",
+    "primitive_or_emergent_status": "原初",
+    "emergence_type": "不適用（原初）",
+    "subjectivity_and_intentionality": "主體性是內在的，因為純量子態意識到自身的狀態；此經驗本質上是私有的。意向性，尤其是創造力與想像力，從這根本的非演算法量子層次中湧現。",
+    "qualia_account": "感質是對量子系統狀態的直接、非數值的主觀經驗，以純量子態確定而整合的本質為特徵。",
+    "ontological_commitments": "處於純量子態的量子系統、量子資訊與量子糾纏是根本的存有論承諾，存在於一個由量子物理學所支配的實在層次中。",
+    "epistemic_access": "藉由在意識的現象性質（私有性、確定性）與量子態的內在特徵（不可複製性、整合性）之間找到同構關係而在概念上加以推論。",
+    "constituents_and_structure": "量子資訊與糾纏是基本構件，提供了意識確定而整合的結構。",
+    "location_and_distribution": "無所不在（有理據的說明：作為一種泛心論形式，意識或原意識被隱含地分布於實在各處，凡有處於純態的量子系統之處皆是。）"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、自由意志、創造力",
+    "distinctive_mechanism_or_principle": "關鍵機制是處於純量子態之量子系統的存在，使得諸如自由意志與創造力等在古典、決定論宇宙中無法存在的非演算法性質成為可能。",
+    "dynamics_of_emergence": "動態歷程（有理據的說明：意識使諸如想像與直覺等複雜、創造性的行動成為可能，提示一個從底層量子力學生起的動態、非決定論歷程。）",
+    "location_and_distribution": "處於純量子態的量子系統／根本量子層次",
+    "causation_and_functional_role": "意識透過量子糾纏，藉由建構思想並生成諸如真正的創造力與自由意志等非演算法性質，而具有因果效力。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "臆測性（有理據的說明：該理論依賴於根本量子性質與現象經驗之間的概念性同構，缺乏當前用以驗證或否證其核心設定的經驗測試。）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "面臨主流神經科學家與物理學家對量子意識理論的普遍質疑。必須解決泛心論固有的組合問題——即解釋微觀經驗如何向上尺度放大為複雜的宏觀意識。",
+    "open_questions_and_limitations": "大腦（或任何複雜系統）中的量子態究竟如何關聯於特定宏觀有意識經驗之湧現（組合問題），其確切機制是一個公認的侷限。",
+    "ontological_coherence": "內部高度融貫，外部高度臆測（有理據的說明：該理論藉由使現象公理與量子公理相匹配而維持內部一致性，但需要對物理學公認的唯物論存有論作出根本的轉變。）"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意識從根本上是非演算法且不可複製的，棲居於一個決定論、古典機器無論其智能如何皆無法通達的量子層次。"
+    },
+    "survival_beyond_death": {
+      "stance": "很可能",
+      "rationale": "由於意識基於根本、不可化約的量子性質，據此假設它在生物軀體死亡後或能繼續存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／存在性（有理據的說明：藉由將意識與非演算法的自由意志置於實在的根本層次，宇宙本質上是創造性的，並具有蘊涵內在價值與目的的性質。）"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "若意識是非演算法且無法化約為古典機制，則它無法被完美模擬或上傳至數位電腦，從而排除了虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychisms",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "相容（量子焦點）"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "重疊（著重於整合／不可化約性）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Hard problem and free will: an information-theoretical approach, G.M. D’Ariano and Federico Faggin",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Possibilities are quantum, Federico Faggin",
+        "year": 2023
+      }
+    ]
+  }
+}

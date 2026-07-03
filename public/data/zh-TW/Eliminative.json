@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "取消唯物論／錯覺論",
+    "summary": "這一極端物理論立場主張，我們關於心靈的常識觀點（常民心理學）是一套徹底錯誤的理論，必須由完成態的神經科學所取代。現象意識（包括感質）被視為大腦所生成的一種錯覺——一種偶然的、經由演化而來、提升適應度的內在適應機制。",
+    "associated_thinkers": [
+      "Patricia Churchland",
+      "Paul Churchland",
+      "Daniel Dennett",
+      "Keith Frankish"
+    ],
+    "category": "唯物論",
+    "subcategory": "哲學",
+    "core_identity_tagline": "「意識乃大腦所生成的錯覺」",
+    "classification_tags": [
+      "physicalism",
+      "illusionism",
+      "reductionism",
+      "folk psychology",
+      "maximalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識並不被認定為一個真正的存有論實體（依常規理解），而是由複雜的底層物理腦歷程所生成的一種誤導性錯覺或使用者錯覺。",
+    "ontological_status": "極端物理論",
+    "mind_body_relationship": "關於心理現象（心靈）的常識觀念是徹底錯誤的，它將被完成態神經科學（腦狀態）的概念架構整體取代（取消），而非被平順地化約。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（理由：該理論主張錯覺源於複雜的物理歷程，並明確拒斥對不可化約的、神祕的心理性質之需求，這與弱湧現相一致，儘管「意識」這一概念本身作為實體已被取消。）",
+    "subjectivity_and_intentionality": "常民心理學中的主體性與意向內容要麼是錯覺的，要麼是不融貫的，必須在完成態神經科學的概念架構內加以重構。",
+    "qualia_account": "感質（現象意識的質性特徵）被作為錯覺的、不融貫的東西加以拒斥，而被理解為由複雜的激活神經網路所生成的「使用者錯覺」，這些網路使我們傾向於報告種種經驗。",
+    "ontological_commitments": "由科學圖像（物理學、化學、分子生物學與神經生理學）所描述的物理實體。常識性的心理實體被否定／取消。",
+    "epistemic_access": "關於意識的知識必須透過科學客觀的第三人稱觀點取得，僅將內省視為「有待解釋的資料」，並採用異現象學等方法。",
+    "constituents_and_structure": "物理與神經生理結構，如複雜的神經網路，它們將錯覺作為一種內在適應機制生成出來。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（作為錯覺）、取用意識（作為計算功能）、自我覺知（作為「敘事重心」）。",
+    "distinctive_mechanism_or_principle": "置換／取消原則，即常民心理學有缺陷的存有論與原則被完成態神經科學的概念所取代。錯覺本身是一種提升適應度的內在適應機制。",
+    "dynamics_of_emergence": "意識的錯覺是一種偶然的、經由演化而來的內在適應機制。支撐顯明經驗的「真實模式」由科學的、物理的描述如實地表徵出來。",
+    "location_and_distribution": "完全定位於生物腦（或能夠實現所需複雜歷程的物理系統）。",
+    "causation_and_functional_role": "意識（錯覺／概念）作為一種偶然的適應機制發揮功能，提升了有機體的適應度與繁殖成功率。",
+    "integration_or_binding": "整合透過底層複雜的神經活動與資訊處理實現，由此形成被報告的現象經驗，常以功能方式加以描述（例如丹尼特的多重草稿模型導向「大腦中的聲名」）。",
+    "information_flow_or_representation": "大腦中的資訊處理生成錯覺，常被描述為並行、多軌的詮釋以及持續的編輯修訂，最終形成一股敘事流。",
+    "evolutionary_account": "意識是經由演化而來的、偶然的內在適應機制，它提升了適應度與繁殖成功率，體現了「沒有設計者的設計」與「沒有推理者的理由」。",
+    "core_claims_and_evidence": [
+      "常民心理學是一套徹底錯誤的理論，必須由完成態神經科學所取代。",
+      "現象意識（感質）是由複雜神經網路所生成的錯覺或使用者錯覺。",
+      "意識的錯覺是一種偶然的、經由演化而來、提升適應度的內在適應機制。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、演化的、概念的、預期的經驗證據（依賴於未來的神經科學）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗（其驗證取決於未來完成態神經科學能否整體置換並取代常民心理學）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "批評者認為該理論無法說明主觀經驗與感質的具體實在性。它被指責要麼忽視了中樞神經系統的湧現性質，要麼隱含地承諾了對思想確定內容的否定。",
+    "open_questions_and_limitations": "該理論完全依賴神經科學的成功完成來證成對常民心理學的置換，而這一任務尚未達成。它難以向哲學懷疑論者闡明將意識與神經活動相認同這一點的可理解性。",
+    "ontological_coherence": "高（該理論透過明確取消不可化約的心理性質、並藉由科學圖像看待全部實在，與物理論存有論達到了最大限度的融貫。）"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "既然意識是由物理／計算歷程所生成的複雜錯覺（一種提升適應度的適應機制），那麼非生物智能（人工智慧）原則上必定能夠複製這些歷程並實現由此產生的錯覺／功能。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種極端的唯物論理論，意識完全依附於生物腦的複雜物理歷程，並隨生物性死亡而終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本意義",
+      "rationale": "作為一種唯物論理論，它意味著宇宙中不存在終極意義或目的；價值與意義是源於演化能力的人類建構。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意識（錯覺）完全由大腦的底層物理與功能描述所說明，那麼將這些狀態完美複製到非生物介質（上傳）便能保存第一人稱的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Feser’s Neo-Thomistic Dualism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Eliminative Materialism and the Propositional Attitudes, Paul Churchland",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel C. Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Neurophilosophy: Toward a Unified Science of the Mind-Brain, Patricia Churchland",
+        "year": 1986
+      }
+    ]
+  }
+}

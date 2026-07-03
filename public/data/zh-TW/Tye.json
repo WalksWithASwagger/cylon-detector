@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Tye 的偶然主義",
+    "summary": "此理論主張，在我們的現實世界中，現象意識狀態與特定的物理狀態或大腦狀態在字面上是同一的。然而至關重要的是，這種同一被理解為偶然的，意即它在所有可能世界中並非形上學上必然的。這一模態主張意在解決難問題，其方式是承認哲學殭屍（無意識的物理複製品）的可設想性與現實世界中物理論的真值無關。",
+    "associated_thinkers": [
+      "Michael Tye",
+      "Herbert Feigl",
+      "Ullin Place",
+      "J.J.C. Smart"
+    ],
+    "category": "唯物論",
+    "subcategory": "表徵主義",
+    "core_identity_tagline": "「意識即偶然的物理同一」",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "representationalism",
+      "modal philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象特徵（Q）被認定為與某一物理性質（R）是同一個東西，其中 R 可能包括功能狀態或表徵主義所設定的狀態。這種同一在我們的世界中僅偶然成立。",
+    "ontological_status": "化約式物理論（寬泛地理解為包含功能論與表徵主義），儘管 Tye 後來表達了與徹底化約式物理論的距離。",
+    "mind_body_relationship": "偶然同一論。心理狀態（感覺）與物理狀態／大腦歷程在字面上是同一的，但這種同一是一項偶然事實，而非在所有可能世界中的必然性。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性與現象特徵被化約為或認定為表徵內容（一階表徵主義）。現象特徵不僅由當前狀態所固定，也由過去狀態所固定（「歷史對現象學至關重要」）。",
+    "qualia_account": "質性特徵（Q）與某一物理性質（R）同一。設想無 R 之 Q（殭屍）的能力被承認是可理解的，但被斥為無關，因為它所描述的只是一個形上學上可能的世界，而非現實世界，從而消解了解釋鴻溝。",
+    "ontological_commitments": "某種物理狀態，涵蓋神經生理狀態、功能狀態與表徵內容，它們奠基於微觀物理狀態之上。",
+    "epistemic_access": "意識透過主觀經驗（現象學）來通達，並透過哲學與模態分析來研究，後者被用來論證其物理實現的偶然本性。",
+    "constituents_and_structure": "意識由在大腦中實現的物理狀態（R）構成，或等價地由表徵內容構成，其中個體的歷史對於確定某一時刻的現象特徵至關重要。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象狀態（感質）、意識的難問題及其與物理狀態的關係。",
+    "distinctive_mechanism_or_principle": "關於意識的同一陳述（Q=R）可以是偶然的這一原則，它將意識這一情形與典型的必然科學同一（如水=H2O）區分開來，從而消除了解釋上的難題。",
+    "dynamics_of_emergence": "意識在現實世界中是一種物理現象。儘管它可能是逐漸演化而來的（Tye 後來的演化觀點），但其核心動力學正是偶然同一關係本身。",
+    "location_and_distribution": "與意識同一的物理狀態（R）位於大腦之中，包括神經生理狀態、功能狀態或表徵狀態。",
+    "causation_and_functional_role": "如果物理論為真，意識就是物理的，因而其因果效力與湧現問題可以在物理世界的因果閉合性之內得到令人滿意的處理。",
+    "integration_or_binding": "該理論主要關注現象特徵的同一關係。整合隱含地透過物理、功能或表徵狀態的底層機制加以處理，這與化約論框架相一致。",
+    "information_flow_or_representation": "該理論與表徵主義相容，以一種表徵主義的、總體上化約論的方式看待經驗，其中現象特徵與表徵內容同一。",
+    "evolutionary_account": "意識並非在某一特定演化時刻之前完全缺席，而是根本性地存在（原型意識始終在場），同時各種不同的意識狀態是逐漸出現的，從而處理了在演化上評估意識時的「模糊性」。",
+    "core_claims_and_evidence": [
+      "現象狀態在現實世界中與物理狀態偶然同一（Q=R）。",
+      "一旦認識到無 R 之 Q（殭屍）的可設想可能性只指向一個形上學上可能的世界、而非現實世界，難問題便告消解。",
+      "該觀點為化約式物理論提供了最佳的哲學辯護。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／概念的。其核心主張依賴於關於同一與必然性的模態哲學論證，而非對同一本身的經驗證偽或證實。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "其核心信條依賴於堅持意識狀態的同一是偶然的、而其他科學同一陳述是必然的，批評者可能對此提出質疑。該論證承認哲學殭屍的可設想性，同時否認它們與現實世界的相關性。",
+    "open_questions_and_limitations": "Tye 最終對徹底的化約式物理論表達了疑慮，認為意識中有一個要素無法為更高層次的化約所把握，這使他轉向某種形式的泛心論。",
+    "ontological_coherence": "在正統的後驗物理論框架內高度融貫，提供了一種哲學工具，以在知識論證面前維持物理論。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識在我們的世界中與物理／功能／表徵狀態偶然同一，而這些狀態能夠在非生物系統中被例示，那麼人工智慧意識原則上是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識在現實世界中偶然依賴於並同一於物理的大腦歷程；大腦的消解意味著第一人稱意識自我的終結。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人文意義",
+      "rationale": "作為一種植根於唯物論與化約式物理論的理論，它並不為超出意識人類主體所創造之外的終極宇宙意義或目的提供任何根據。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "由於現象意識被認定與物理狀態（R）同一，複製 R（例如透過數位上傳）將成功地上傳 Q，從而使虛擬永生原則上成為可實現的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "影響"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "延伸／轉向"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A New Solution to the Hard Problem of Consciousness, Michael Tye",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Representationalism and the Transparency of Experience, Michael Tye",
+        "year": 2002
+      }
+    ]
+  }
+}

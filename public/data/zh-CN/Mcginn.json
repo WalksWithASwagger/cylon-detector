@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "麦金的终极神秘（神秘主义／认识封闭论）",
+    "summary": "该理论主张，有意识的心灵与物理大脑之间的形而上学纽带是一个终极的神秘，而人类智能从根本上无力解开它。这种认知封闭源于我们人类概念资源所固有的局限，而非因为意识是超自然的。",
+    "associated_thinkers": ["Colin McGinn"],
+    "category": "挑战性理论",
+    "subcategory": "终极神秘（神秘主义／认识封闭论）",
+    "core_identity_tagline": "心灵与大脑之间的纽带是一个终极的神秘",
+    "classification_tags": [
+      "mystery",
+      "cognitive limits",
+      "naturalism",
+      "philosophical",
+      "anti-reductionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识完全从物质世界中产生，但那连接物质（大脑）与意识（心灵）的内在属性或本性，在概念上是人类心灵无法通达的。",
+    "ontological_status": "存在主义自然主义",
+    "mind_body_relationship": "意识依赖于物理世界（物质依赖），但其底层的因果联系或同一性无法被人类科学或哲学所把握或解释。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "由于我们概念构造上的局限，涌现机制必然对人类智力隐藏，这使其在原则上与强涌现在功能上无从区分。",
+    "subjectivity_and_intentionality": "麦金突出了物理实在与质性经验之间鸿沟的深刻性质；他认为物质产生意识这一观念极不可信，把它比作断言“数字从饼干中涌现”（这一深刻的鸿沟构成了那个神秘）。",
+    "qualia_account": "神秘取决于我们无法把质性感受（感受质）与物质实在相关联，因为物质是产生意识的“错误种类之物”。对感受质的完整解释从根本上说是人类无法知晓的。",
+    "ontological_commitments": "物理过程（大脑）与有意识经验（它被接受为真实且非超自然的）。真正联系的存在被设定，尽管它是无法通达的。",
+    "epistemic_access": "人类智力在概念上被封闭在心脑纽带的真相之外，意味着终极的知识或解答是不可能的。",
+    "constituents_and_structure": "意识从物质世界中产生，但对此生成负责的那一特定属性，超出了人类概念结构去界定或理解的能力。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（感受质与物质之间的纽带）；能动性（隐含地对唯物主义的行动解释构成挑战）",
+    "distinctive_mechanism_or_principle": "其原理是认知封闭：人类智力无法设想物理过程如何产生主观经验，从而把这一纽带指认为一个终极的神秘。",
+    "dynamics_of_emergence": "意识是偶然的；它是仅仅从物质过程中产生的一个复杂结果，但那弥合物理域与现象域的过渡动力学是无法通达的。",
+    "location_and_distribution": "局域于生物大脑之内，仅从物质世界中产生。",
+    "causation_and_functional_role": "意识由物质过程因果地产生，但这一因果关系的细节是神秘的，无法由人类推理来指明。",
+    "integration_or_binding": "经验的统一本性是那个神秘的一部分，反映了我们无法看清统一的意识如何从各不相同的物质成分中产生。",
+    "information_flow_or_representation": "未被明确处理，因为该理论聚焦于把物质与心灵相关联的根本概念限度，而非指明信息架构。",
+    "evolutionary_account": "意识是偶然的；它从物质世界中演化而来，但并非实在的一种固有的或必然的属性。",
+    "core_claims_and_evidence": [
+      "心灵与大脑之间的纽带是一个人类智能永远无法解开的终极神秘。",
+      "关于我们自身作为具身意识之本性的一个深层事实，必然对我们隐藏。",
+      "意识仅从物质世界中产生，但物质属性是逻辑上产生意识的“错误种类之物”。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、存在主义自然主义"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "（原则上）不可检验。其核心论点是关于人类概念理解之永久限度的主张，而非当前经验数据的缺乏。",
+    "known_empirical_interventions_or_tests": [
+      "未指明，因为该理论聚焦于概念局限。"
+    ],
+    "criticisms_and_tensions": "常被批评为神秘主义，暗含哲学上的悲观或反科学立场，尽管麦金把该观点定位为存在主义自然主义。",
+    "open_questions_and_limitations": "心脑纽带的确切本性仍完全未解，且被认为永久地超出人类的理解。",
+    "ontological_coherence": "在认知封闭的框架内是自洽的；然而，它隐含地与还原式物理主义的核心信念相抵触，后者认为即使在原则上也存在一个完整的解释。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "如果产生意识的纽带是一个无法被理解（更不用说被工程实现）的终极神秘，那么就不可能有意地构造一个具有真正内在经验的有意识人工智能系统。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该理论奠基于意识仅从物质大脑中产生的唯物主义假设，意味着意识在身体死亡时消亡。"
+    },
+    "meaning_and_purpose": {
+      "stance": "无",
+      "rationale": "作为一种存在主义自然主义，该理论不设定任何宇宙目的或终极意义；意识是物质过程的一个偶然结果。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "如果连接物理大脑与主观心灵的机制是一个终极神秘，那么以“第一人称的完美”在合成介质中复制这一过程，在原则上就是不可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Nagel's Mind and Cosmos",
+        "relationship": "影响"
+      },
+      {
+        "name": "S. Harris's Mystery of Consciousness",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Can we solve the mind-body problem?",
+        "year": 1989
+      },
+      {
+        "title_with_names": "Cosmology and consciousness: hyperdualism ventilated",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Mysterious Flame - Conscious Minds in a Material World",
+        "year": 2000
+      }
+    ]
+  }
+}

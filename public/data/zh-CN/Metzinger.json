@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "梅辛格的无我主体性表征理论",
+    "summary": "该理论对主体性提供了一种表征主义的与功能性的分析，主张现象自我——被有意识经验到的第一人称视角——并非一个真实的实体，而是一个持续的过程，具体而言即大脑中透明自我模型的内容。有意识的思想在很大程度上被刻画为一种非能动的、无意图的内在行为形式。",
+    "associated_thinkers": ["Thomas Metzinger"],
+    "category": "唯物主义理论",
+    "subcategory": "表征主义",
+    "core_identity_tagline": "‘现象自我作为透明自我模型’",
+    "classification_tags": [
+      "representationalism",
+      "functionalism",
+      "no-self",
+      "subjectivity",
+      "illusionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识，或现象自我，被认定为一个‘透明自我模型’的内容，即被功能性地整合的表征事件（认知能动者模型，EAM）。",
+    "ontological_status": "物理主义（推断）。该理论归属于唯物主义，并试图通过将二元论直觉解释为表征结构的产物来消解它们。",
+    "mind_body_relationship": "心灵／现象自我是大脑中物理的、亚个人层面的过程（表征事件的功能整合）的结果。传统的心身问题之所以产生，是因为我们的现象经验植根于有意识心灵自身的表征结构。",
+    "primitive_or_emergent_status": "涌现（推断）。意识被分析为从大脑内表征事件的复杂功能整合中产生的一个持续过程，这与唯物主义的涌现相一致。",
+    "emergence_type": "弱涌现（理由充分）。作为一种唯物主义的、表征主义的与功能主义的解释，现象自我源自复杂的物理（神经／计算）组织，并在原则上是隐含地可还原的，尽管由于自我模型结构的缘故，它在主观上被感受为不可还原。",
+    "subjectivity_and_intentionality": "主体性（第一人称视角）被解释为透明自我模型／EAM 的内容。意向性（指向性）内在于现象自我，但有意识的思想往往仍是非能动的（缺乏否决控制） , .",
+    "qualia_account": "感受质（质性感受）被说明为现象自我／自我模型内的特定内容，源于表征事件的功能整合 , .",
+    "ontological_commitments": "现象自我（作为过程而非实体）、表征系统、功能整合机制，以及认知能动者模型（EAM） , , .",
+    "epistemic_access": "意识通过一种跨学科分析被通达和描述，该分析涵盖现象学的、表征主义的、信息-计算的、功能的以及物理-神经生物学的描述 , 其中包括对冥想者非自我经验的经验研究 .",
+    "constituents_and_structure": "表征事件被功能性地整合进一种特定的透明有意识自我表征（EAM） , . 现象自我被描述为一个持续的过程 ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "主体性（第一人称视角）、现象自我、在行为优化中的因果角色、能动性（往往是虚幻的） , , .",
+    "distinctive_mechanism_or_principle": "透明自我模型（现象自我）的运作与内容，以及将表征事件整合进认知能动者模型（EAM） , .",
+    "dynamics_of_emergence": "意识是一个持续的过程 , 稳定第一人称视角的实现则是人类一种罕见的、有等级的、动态可变的属性 .",
+    "location_and_distribution": "其位置是由有意识的心灵／大脑所实现的表征结构 . 具体而言，有意识的系统是表征系统，有意识的状态是表征状态 .",
+    "causation_and_functional_role": "有意识经验在某些人类行为的优化中具有因果角色 . 它对于优化灵活的个人内部互动以及累积性文化的涌现是必要的 .",
+    "integration_or_binding": "当个别表征事件经由透明的有意识自我表征（EAM）被功能性地整合进一个个人层面的过程时，整合便发生了 , .",
+    "information_flow_or_representation": "该理论依赖表征主义的与信息-计算的描述 , 其中现象自我是透明自我模型的内容 .",
+    "evolutionary_account": "有意识经验对于优化灵活的个人内部互动以及累积性文化的涌现是必要的，这意味着一种适应性的演化功能 .",
+    "core_claims_and_evidence": [
+      "现象自我不是一个事物，而是一个作为持续过程运作的透明自我模型的内容 .",
+      "有意识的认知往往是非能动的，且缺乏否决控制 , .",
+      "被有意识经验到的第一人称视角源于认知能动者模型（EAM）的表征结构 .",
+      "经验支持来自那些揭示心理自主性与内省通达之局限的研究 , ."
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、功能的、经验的、现象学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "得到经验支持，尤其是在非能动思想以及第一人称视角的可变性方面，其依据是心理测量学与神经生物学的数据 , .",
+    "known_empirical_interventions_or_tests": [
+      "对冥想者的心理测量学研究，聚焦于非自我经验，以阐明自我意识 ",
+      "与能动控制以及对有意识思想之抑制相关的经验研究 , "
+    ],
+    "criticisms_and_tensions": "核心的‘无我’论题挑战了关于实体性‘自我’之存在的强烈而普遍的直觉 . 该理论试图通过将不可还原性直觉视为自我模型的产物来消解难问题，这一做法遭到哲学实在论者的广泛抵制 .",
+    "open_questions_and_limitations": "将表征事件功能性地整合进 EAM 所需的确切条件，以及有意识能动性相对于非能动思想的完整范围 , .",
+    "ontological_coherence": "高度融贯。该框架一贯地整合功能分析与表征内容来界定意识，并利用其唯物主义／功能主义基础来解释为何现象方面看似不可还原 , ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种功能主义的表征理论，如果一个人工系统能够实现所需的功能组织与复杂性，从而实例化透明自我模型（EAM），它便会获得意识 , ."
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "现象自我被定义为从物理基底（大脑／表征结构）中产生的一个过程。既然不存在真正的‘自我’或非物质实体，意识便随身体死亡而终止 , , ."
+    },
+    "meaning_and_purpose": {
+      "stance": "人文/实用主义",
+      "rationale": "意识对于优化灵活的互动以及累积性文化与责任的涌现在因果上是必要的，提供了演化而来的、而非宇宙性的意义 ."
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意识从根本上是一个表征系统（自我模型）的功能组织，那么将这一功能结构完美复现到非生物介质上，便应能保存第一人称视角 , ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "影响"
+      },
+      {
+        "name": "T. Clark’s Content Hypothesis",
+        "relationship": "相容"
+      },
+      {
+        "name": "Perceptual Reality Monitoring Theory (Lau’s)",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Being No One: the Self-Model Theory of Subjectivity",
+        "year": 2004
+      },
+      {
+        "title_with_names": "The subjectivity of subjective experience: a representationalist analysis of the first-person perspective",
+        "year": 2000
+      },
+      {
+        "title_with_names": "What’s the use of consciousness? How the stab of conscience made us really conscious (with C. Frith)",
+        "year": 2016
+      },
+      {
+        "title_with_names": "The Elephant and the Blind: the Experience of Pure Consciousness: Philosophy, Science, and 500+ Experiential Reports",
+        "year": 2024
+      }
+    ]
+  }
+}

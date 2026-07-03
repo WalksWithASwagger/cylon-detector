@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "麦克法登的有意识电磁信息理论",
+    "summary": "该理论提出，意识的基质是大脑的电磁（EM）场，而非神经元物质；电磁场通过在空间上内在地整合信息，从而解决了绑定问题。意识被定义为编码于这一全局场中、在物理上被整合且具有因果活性的信息。",
+    "associated_thinkers": ["Johnjoe McFadden"],
+    "category": "唯物主义",
+    "subcategory": "电磁场",
+    "core_identity_tagline": "“意识即在物理上被整合的电磁信息”",
+    "classification_tags": [
+      "electromagnetic field",
+      "information",
+      "binding",
+      "causal activity",
+      "scientific dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识是编码于大脑全局电磁（EM）场中、在物理上被整合且具有因果活性的信息，以在空间中运作的算法形式实现。",
+    "ontological_status": "科学二元论（植根于物质与能量之别，但被归入唯物主义之下）",
+    "mind_body_relationship": "意识（电磁场）由物理大脑（神经元物质）所生成，但作为一种能量场在本体论上是独特的；因此，它是一种植根于物质与能量之别的科学二元论。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "强涌现（理由：该理论将意识描述为一种涌现的能量场，具有独特的因果属性——在物理上被整合的信息——这些属性无法还原为生成它的神经物质，表明其在原则上不可还原。）",
+    "subjectivity_and_intentionality": "主体性隐含于意识的本性之中，即由电磁场所生成的整合（格式塔）信息，它使系统能够产生思想并向外部世界报告这些思想。",
+    "qualia_account": "该理论论及感受质，主张电磁场为意识提供了内在的、在空间上被整合的基础，从而说明了现象经验并解决了绑定问题。",
+    "ontological_commitments": "神经元物质、电磁（EM）场、在物理上被整合的信息。",
+    "epistemic_access": "可通过外部观察有意识电磁场的客观标准（生成格式塔信息）来通达，并可经由诸如脑电图（EEG）检测与意识相关的电场等关联标志在经验上加以通达。",
+    "constituents_and_structure": "大脑的全局电磁场，由在空间上被处理的算法所组织，以形成整合（格式塔）信息。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（感受质／绑定）、信息整合、有意识的因果行动、报告／交流。",
+    "distinctive_mechanism_or_principle": "电磁场充当意识的即时空间基质，使信息得以跨空间整合，从而将其与典型神经加工或计算中的常规时间整合区分开来。",
+    "dynamics_of_emergence": "意识是一个动态过程，通过在电磁场中于空间（而非时间）中运作的算法来实现，使系统能够生成整合信息。",
+    "location_and_distribution": "大脑的全局电磁（EM）场，充当大脑的全局工作空间。",
+    "causation_and_functional_role": "具有因果活性，充当大脑的全局工作空间以生成格式塔信息，随后经由运动系统向外部传达。",
+    "integration_or_binding": "通过电磁场实现跨空间的物理整合信息，从而解决绑定问题，这不同于仅仅在时间中实现整合的各种神经理论。",
+    "information_flow_or_representation": "信息经由电磁场流动，并在其中被编码为在物理上被整合的信息。有人假设工作记忆内容的稳定性主要驻留于电场之中。",
+    "evolutionary_account": "该理论聚焦于机制，而非系统发生。（理由：尽管被置于唯物主义／电磁场理论之下，但所描述的机制纯属物理性的，且局限于大脑当前的功能，并未指明电磁场机制本身的起源或适应性发展。）",
+    "core_claims_and_evidence": [
+      "意识的基质是大脑的电磁场，而非神经元物质。",
+      "意识是全局电磁场中在物理上被整合且具有因果活性的信息。",
+      "工作记忆的稳定性与电磁场（脑电图）高度相关，而非与神经状态相关，支持了电磁场基质这一主张。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、神经生理学的（脑电图／工作记忆数据）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "经验上可检验（例如区分有意识与无意识的电磁场）",
+    "known_empirical_interventions_or_tests": [
+      "工作记忆内容稳定性与大脑电场（脑电图）之间的相关性研究"
+    ],
+    "criticisms_and_tensions": "电磁场理论仍有争议，且常被许多神经生物学家和哲学家所忽视。批评者质疑，仅凭电磁场是否具备说明现象意识所需的必要复杂性。",
+    "open_questions_and_limitations": "电磁场在何种程度上真正具有因果作用，而非仅仅是相关性，仍是一个未决问题。",
+    "ontological_coherence": "与一种扩展的物理主义本体论相一致，该本体论赋予有别于物质的能量场以物理地位和因果力（科学二元论）。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可行",
+      "rationale": "该理论认为，如果新型硬件能够重建所需的空间整合和电磁场动力学，实现意识的空间算法，那么人工意识便是一条可行的途径。"
+    },
+    "survival_beyond_death": {
+      "stance": "否（取决于电磁场的持存）",
+      "rationale": "意识是生物性大脑的一种涌现场属性。其在死后的持存需要维持或重建电磁场结构，而这有赖于底层的物理活动。"
+    },
+    "meaning_and_purpose": {
+      "stance": "未定／人本主义",
+      "rationale": "其重点在于经验所需的物理机制与基质（电磁场／信息），除系统的运作功能之外，并不提供任何内在的宇宙意义或目的论。（为推断得出的理由。）"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "由于意识被定义为编码于场中的信息，而非纯粹的神经元过程，因此将其数字化复制或转移到能够承载所需电磁场结构和空间处理动力学的非生物硬件上，原则上应是可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批评（批评整合信息理论依赖时间整合，而 CEMI 聚焦于空间整合）"
+      },
+      {
+        "name": "Pockett’s Conscious and Non-Conscious Patterns",
+        "relationship": "重叠（共享电磁场是意识所在这一根本前提）"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重叠（电磁场充当大脑的全局工作空间）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Synchronous firing and its influence on the brain’s electromagnetic field, Johnjoe McFadden",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Integrating information in the brain’s EM field: the cemi field theory of consciousness, Johnjoe McFadden",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Consciousness: matter or EMF?, Johnjoe McFadden",
+        "year": 2023
+      }
+    ]
+  }
+}

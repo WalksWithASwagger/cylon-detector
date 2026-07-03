@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Flanagan 的建構性自然主義",
+    "summary": "該理論主張人類意識既不神奇也不神祕，提出一種有力的綜合觀點：主觀的、現象的面向獲得充分承認，同時又完全由其神經基礎加以說明，無剩餘地寓於大腦之中。Flanagan 力圖把心靈的自然主義形上學，與對大腦如何運作日趨成熟的理解相融合。",
+    "associated_thinkers": [
+      "Owen Flanagan"
+    ],
+    "category": "唯物論",
+    "subcategory": "哲學",
+    "core_identity_tagline": "『意識作為神經哲學的建構性自然主義』",
+    "classification_tags": [
+      "physicalism",
+      "neurophilosophy",
+      "emergence",
+      "subjectivity",
+      "causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一組異質的事件與過程，它們共享『被經驗到』這一屬性；從根本上說，心靈與大腦是同一個東西。",
+    "ontological_status": "物理論／建構性自然主義",
+    "mind_body_relationship": "心靈與大腦是同一的，是從兩種不同觀點所見的同一個東西；主觀觀點與客觀觀點之間的鴻溝是知識論的，而非存有論的。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "強湧現（Flanagan 承認存在湧現的自然屬性，它們儘管遵循物理定律，卻不可化約為物理學。）",
+    "subjectivity_and_intentionality": "主觀意識是真實的，並發揮重要的因果作用。主體性以第一人稱方式積累，因為個體擁有有機體完整性。意向性則隱含地由大腦作為一台『達爾文機器』（其中意義整體論成立）來加以說明。",
+    "qualia_account": "意識主觀的、現象的面向被充分承認為真實的，儘管告誡不要僅僅依賴現象學，因為它可能滋生關於意識本質的種種錯覺。",
+    "ontological_commitments": "物質實在；複雜的生物腦（被描述為由平行處理器構成的『達爾文機器』）；湧現的自然屬性。",
+    "epistemic_access": "透過對自然主義形上學與經驗神經科學的神經哲學整合，同時承認自我報告可能出錯。",
+    "constituents_and_structure": "意識是在大腦中實現的一組異質的、被經驗到的過程，而大腦被視為一個由平行處理器構成、彼此廣泛互動、連接極為密集的系統。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、主體性、因果作用／能動性。",
+    "distinctive_mechanism_or_principle": "意識產生於大腦中促成心理因果的湧現自然屬性，例如源於某一皮質區域（如前額葉皮質）的觀念，調取來自另一區域（如頂葉聯合皮質）的資訊。",
+    "dynamics_of_emergence": "意識是一組動態的事件與過程，產生於大腦內處理器之間大規模的平行互動。",
+    "location_and_distribution": "無剩餘地寓於大腦之中。",
+    "causation_and_functional_role": "有意識的思想在行動執行中發揮重要的因果作用，從而直接拒斥副現象論。心理因果被束縛於大腦之內，依賴於神經機制。",
+    "binding_and_unity": "統一與綁定隱含地透過大腦作為一個『連接極為密集的平行處理器系統』的功能而達成，在其中意義整體論得以實現。",
+    "information_flow_or_representation": "資訊在連接高度密集的平行處理器系統內被整體性地加工；心理狀態以獨特方式在個體大腦內獲得物理實現。",
+    "evolutionary_account": "隱含地依賴演化，將心靈視為大腦，一台『達爾文機器』。其哲學蘊涵透過『神經存在主義』——人的科學圖景與人本圖景之間的衝突——加以探討。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗（基於與日趨成熟的神經科學的契合）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "必須捍衛這一主張：意識是真實的、有因果效力的，同時又完全被束縛於大腦之內。此外還必須在不假定存有論鴻溝的情況下處理『知識論鴻溝』（第一人稱顯現與第三人稱描述之間的差別）。",
+    "open_questions_and_limitations": "該理論的『真正難問題』是在『物質世界中尋找意義』（『神經存在主義』）。其解釋框架依賴於對大腦功能『仍然粗略但日趨成熟的理解』。",
+    "ontological_coherence": "在其所界定的建構性自然主義框架內是融貫的，將物理同一與非化約的湧現屬性統一起來。它與副現象論及嚴格的取消唯物論相對立。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作為一種強物理論理論，其中意識完全寓於大腦之中，那麼在人工系統中實現所需的複雜湧現神經過程，在概念上便能使人工智慧意識成為可能。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全由物理腦過程及其湧現屬性所構成，這排除了在生物基質被毀滅之後的存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本意義",
+      "rationale": "唯物論基礎意味著不存在終極的宇宙目的。Flanagan 論及在『物質世界中尋找意義』的存在主義關切（神經存在主義），認為目的必須由自身創造。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果有意識自我等同於大腦的複雜過程（包括湧現屬性與因果作用），那麼在非生物介質中對這一系統進行完美、先進的複製，原則上便應能實現虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "批評"
+      },
+      {
+        "name": "Emergence",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Reconsidered, Owen Flanagan",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Problem of the Soul, Owen Flanagan",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Really Hard Problem: Meaning in a Material World, Owen Flanagan",
+        "year": 2007
+      }
+    ]
+  }
+}

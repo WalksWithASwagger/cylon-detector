@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Solms 的情感作為意識隱藏之源",
+    "summary": "此理論將意識的基本形式界定為情感（感受），並將其生理機制定位於上腦幹，運作方式為體內恆定的延伸形式。它援引 Friston 的自由能原理，主張情感經驗（愉悅／不悅）是複雜有機體用以監測環境不確定性並最佳化生存行為的高效機制。",
+    "associated_thinkers": ["Mark Solms"],
+    "category": "唯物論",
+    "subcategory": "體內恆定與情感",
+    "core_identity_tagline": "情感作為意識的基礎形式",
+    "classification_tags": [
+      "affect",
+      "homeostasis",
+      "free energy principle",
+      "brainstem",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識在其感受性主體的基本形式中，是由情感（感受）所構成，而情感將自由能最小化予以操作化（未預期的不確定性被感受為不悅，其降低則被感受為愉悅）。",
+    "ontological_status": "雙面向一元論（於物理論框架內詮釋）。此模型將生理與心理現象視為單一底層歷程的雙重顯現，可化約為統一的物理原因，其在生物機制上的實際應用與唯物論一致。",
+    "mind_body_relationship": "雙面向；生理與心理現象是單一底層統一歷程的互補顯現（以電流放電作為類比），而非一者導致另一者。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（理由：意識的功能機制被主張可化約為物理定律，例如自由能定律，這表示意識雖看似新穎，原則上仍可由基礎物理學加以解釋。）",
+    "subjectivity_and_intentionality": "感受性主體性實際上是由情感所構成，情感使有機體得以主動抵抗熵。意向性之所以產生，是因為自組織系統必須長期地「詢問」關於其自由能（存在需求）的問題，以決定其行動。",
+    "qualia_account": "感質被解釋為「以顏色編碼」或「賦予風味」的類別變數（情感，例如口渴與恐懼），這些變數高效地編碼複雜有機體的多重需求，避免為了生存最佳化而產生計算上複雜的「組合爆炸」。",
+    "ontological_commitments": "物理定律（例如自由能定律）、生理歷程（延伸的體內恆定）以及上腦幹／網狀活化系統的特定結構。",
+    "epistemic_access": "可透過對相應神經生理事件的探究（第三人稱）以及第一人稱情感經驗無可置疑的實在性而通達。",
+    "constituents_and_structure": "其本質結構是實現於上腦幹的延伸體內恆定機制，皮質意識則取決於此基礎性的腦幹意識。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（情感／感受性主體性）；能動性；生存最佳化。",
+    "distinctive_mechanism_or_principle": "將自由能原理（FEP）操作化為上腦幹中的情感狀態（愉悅／不悅），以引導有機體行為朝向穩定。",
+    "dynamics_of_emergence": "意識是一種動態歷程，源自自組織系統監測其存在需求並產生預測性行動以最小化預期不確定性的必然性。",
+    "location_and_distribution": "基礎機制位於上腦幹／網狀活化系統。皮質意識（內容）由此腦幹情感意識（層次）所促成，並取決於它。",
+    "causation_and_functional_role": "情感透過作為監測環境互動、修正行為並在不可預測情境中最佳化生存的高效演算法，扮演關鍵的因果角色。",
+    "integration_or_binding": "相互衝突的生物需求（例如恐懼與睡意）的整合，是透過將其編碼為不同的、質性的情感（感質／風味）而高效達成，這使得情境依賴的化解得以不需過度計算即可進行。",
+    "information_flow_or_representation": "意識與資訊處理系統相關聯，這些系統必須就存在需求主動地與世界互動；情感是與監測預期不確定性（資訊）之變化相關聯的感受。",
+    "evolutionary_account": "意識以情感的形式演化而來，作為使複雜有機體得以應對不可預測環境並管理多重、情境依賴之生存需求的最高效機制（演算法）。",
+    "core_claims_and_evidence": [
+      "情感是意識的基礎形式，起源於上腦幹。",
+      "核心機制可化約為 Friston 的自由能定律，使意識在數學上可處理。",
+      "意識是自然的一部分，源自對熵的主動抵抗。",
+      "上腦幹的損傷會可靠地消除意識，支持其基礎性角色。"
+    ],
+    "basis_of_belief_or_evidence_type": "神經生物學的、現象學的、計算的（FEP）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗（特別是關於腦幹的角色與情感的本質）。",
+    "known_empirical_interventions_or_tests": [
+      "將意識喪失與網狀活化系統（上腦幹）的損傷加以關聯。",
+      "對與主觀愉悅／不悅相關聯之 FEP 參數的經驗性研究。"
+    ],
+    "criticisms_and_tensions": "此理論必須有力地反駁傳統觀點，該觀點認為腦幹僅調節意識的*層次*（清醒／昏迷）而非其*質性內容*。鑑於它基於生理機制而被歸類為唯物論理論，其將自身描述為雙面向一元論在哲學上頗為微妙。",
+    "open_questions_and_limitations": "關於對熵的主動抵抗如何對有機體「感覺起來像某種東西」的確切機制，除了主張其功能上的必然性之外，仍是有待進一步解釋的領域。",
+    "ontological_coherence": "高度融貫。此框架成功地將主觀經驗嵌入一個數學上可處理、受物理定律（FEP）支配的自然主義系統之中，維護了對心靈物理奠基的理解。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "若此理論正確，只要系統被設計為主動抵抗熵並管理存在需求、產生情感狀態作為回饋，便可工程化打造出人工的有意識自組織系統。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為唯物論理論，意識完全依賴於生物腦及其物理歷程，這意味著有機體死亡時意識即永久不復存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主義／生物學的",
+      "rationale": "意識的核心根植於生存的生物律令（避免消亡並最小化自由能），這支持生物學的以及人本主義建構的意義，但不存在終極的宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "作為唯物論理論，只要複雜的物理機制（包括情感與體內恆定的動態）能被完整複製於合成基質中，第一人稱的心靈自我原則上是可上傳的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "影響／延伸"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "相容"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批評／對比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The hard problem of consciousness and the free energy principle",
+        "year": 2018
+      },
+      {
+        "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Précis of the hidden spring: a journey to the source of consciousness",
+        "year": 2021
+      }
+    ]
+  }
+}

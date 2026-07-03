@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "注意图式理论",
+    "summary": "该理论主张，当大脑为其自身的注意过程构建出一个快速、简化的内部模型——即注意图式——时，意识便产生了。大脑将这一内部表征错误地解释并报告为一种主观的、非物理的本质或一幅“自我漫画”，尽管它根本上是一种计算产物。",
+    "associated_thinkers": [
+      "Michael Graziano"
+    ],
+    "category": "唯物主义",
+    "subcategory": "神经生物学",
+    "core_identity_tagline": "作为注意之演化而来的自我漫画的意识",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "functionalism",
+      "evolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为大脑对其自身注意机制的内部表征或简化模型（注意图式），这是高阶思想的一个具体实例。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "意识是一台生物性的信息加工机器（大脑）通过评估其内部数据所生成的报告，这意味着心理状态是计算性的且完全是物理的。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性（对一种“幽灵般的、非物理本质”的感受）是大脑内部注意图式所生成的误导性报告。意向性被隐含地予以说明，因为所生成模型的首要功能是监测注意以控制在世界中的行动。",
+    "qualia_account": "意识被描述为一幅“自我漫画”或一份关于非物理本质的虚幻报告，这暗示了一种对感受质的消解论或错觉论说明，类似于丹尼特的观点。",
+    "ontological_commitments": "生物性的大脑、信息加工机制，以及内部表征（注意图式）。",
+    "epistemic_access": "意识由系统自身通过内省（评估其内部数据）而通达，从而使系统声称自己有意识，但其真正的计算本性只能通过第三人称的科学分析（科学）来确定。",
+    "constituents_and_structure": "为监测和调节大脑自身注意机制而发展出的一个计算模型或表征（注意图式）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（作为一份生成的内部报告／主张）、注意、行动控制。",
+    "distinctive_mechanism_or_principle": "构建并维持一个关于注意过程的简化内部模型（注意图式），其根基在于控制工程的原理。",
+    "dynamics_of_emergence": "意识是一种动态的、演化而来的性状，源自一种生成内部注意图式的计算策略。",
+    "location_and_distribution": "位于大脑这一生物性的信息加工系统之内。",
+    "causation_and_functional_role": "注意图式的功能角色在于监测和调节大脑的注意，以控制在世界中的行动。由此产生的能力使系统得以声称自己有意识。",
+    "integration_or_binding": "将感觉数据整合进注意图式的确切机制在文献中未有详述，但该理论暗示了监测和调节整体注意所必需的整合。",
+    "information_flow_or_representation": "信息加工居于核心地位；大脑必须通过发展出一个关于自身状态的简化表征（注意图式）来处理大量涌入的信息。",
+    "evolutionary_account": "意识这一性状之所以演化出来，是为了提供一种适应性益处：监测和调节注意，以高效地控制在环境中的行动。",
+    "core_claims_and_evidence": [
+      "大脑发展出一个关于其自身注意过程的“快速而粗略的模型”（注意图式）。",
+      "大脑将这一内部模型报告为一种“幽灵般的、非物理的本质”或一幅“自我漫画”。",
+      "声称有意识的能力，基于源自控制工程的计算。"
+    ],
+    "basis_of_belief_or_evidence_type": "神经生物学、计算、演化、哲学。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论解释了一个系统如何能够*声称*自己有意识，但面临着与类似功能主义模型所共有的普遍局限：无法确凿地证明或解释真正的主观感受（“是否有人在家”问题），这一点即便按提出者自己的承认也永远无法确定。",
+    "open_questions_and_limitations": "系统由于依赖内省，无法在内部确定其关于意识的主张纯粹基于计算。外部观察者也永远无法真正得知系统中是否存在内部经验。",
+    "ontological_coherence": "在唯物主义框架内高度融贯，与其他功能主义和计算进路一致，无需诉诸非物理的实体即可解释意识的主张。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "由于意识被定义为一种计算过程（注意图式的创建），原则上，实现了必要计算架构的人工系统可以变得有意识。此外，观察者将不可避免地对那些行为表现得仿佛有意识的、足够复杂的人工智能系统作出关于意识的社会性归属。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作为一种唯物主义／神经生物学理论，意识与物理基底（生物性的信息加工机器）相绑定，从而排除了在身体衰败之后存续的可能。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义意义",
+      "rationale": "意识提供了一种适应性的、演化上的目的（为行动控制而监测和调节注意），但并不意味着任何终极的或宇宙的意义，这与唯物主义相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "有可能",
+      "rationale": "若意识被实现为一种计算结构（注意图式），并且这一结构及相关信息加工系统能够被精确地上传到非生物介质，那么虚拟永生在理论上是可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "相容"
+      },
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "True nature of consciousness: solving the biggest mystery of your mind, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rethinking Consciousness: A Scientific Theory of Subjective Experience, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Can consciousness be non-biological?, M. Graziano",
+        "year": 2014
+      }
+    ]
+  }
+}

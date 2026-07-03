@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "普里布拉姆的全息脑理论",
+    "summary": "该理论提出，人类意识源于发生在脑细胞内部或脑细胞之间的量子效应，使大脑作为一个全息信息存储网络运作。这种全息特性意味着信息（尤其是记忆）以非局域方式跨神经网络存储，从而使大脑即便在受损后仍能稳健地运作。",
+    "associated_thinkers": ["Karl Pribram", "David Bohm"],
+    "category": "唯物主义理论",
+    "subcategory": "计算与信息",
+    "core_identity_tagline": "'意识即全息式量子存储'",
+    "classification_tags": [
+      "quantum",
+      "holographic",
+      "memory",
+      "non-local",
+      "neuroscience"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为神经元树突网络内的波干涉模式，这是源于量子效应的全息信息编码所特有的特征。",
+    "ontological_status": "物理主义（扩展式/量子—生物学式）",
+    "mind_body_relationship": "心灵/意识等同于物理大脑内的特定量子过程与信息结构，这暗示了一种量子层面上的同一论。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "强涌现",
+    "subjectivity_and_intentionality": "意识与全息信息模式的有组织提取和重构相关联，这种重构促进了主观经验所必需的快速联想记忆，并使超越简单前馈加工的知觉成为可能。",
+    "qualia_account": "感受质通过非局域的全息存储结构得到隐含说明，这种结构使得复杂存储信息（记忆/知觉）的整体性与统一性可以从任一部分被重构出来。",
+    "ontological_commitments": "量子效应/过程、树突网络、波干涉模式、希尔伯特相空间，以及非局域的记忆分布。",
+    "epistemic_access": "可通过从观察到的现象（如脑损伤中的非局域记忆效应）进行理论推断，以及通过诸如全息原理这样的数学建模来获得。",
+    "constituents_and_structure": "信息编码于神经元的精细纤维树突网络内的电振荡与波干涉模式之中，形成一个非局域的、分布式的存储网络。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（统一性与稳健性）、记忆、信息加工、非局域性。",
+    "distinctive_mechanism_or_principle": "全息类比，其中信息以非局域方式存储于干涉模式之中，确保所有存储内容都能从记忆网络的任一部分被访问。",
+    "dynamics_of_emergence": "意识动态地产生，随着量子效应生成振荡而形成干涉模式，进而对经验加以编码和重构。",
+    "location_and_distribution": "分布式且非局域，存在于神经元树突网络的电振荡之中，尤其与记忆的非局域存储相关。",
+    "causation_and_functional_role": "使快速联想记忆成为可能，从而迅速连接彼此分散的存储信息片段，并对局部脑损伤提供稳健性。",
+    "integration_or_binding": "整合由信息本身的全息特性解决；如同全息图，场的每一部分都包含重构统一知觉所需的全部信息。",
+    "information_flow_or_representation": "信息作为流动与表征，被编码于波干涉模式之中，跨神经网络存储，而非存储于特定的局部回路中。",
+    "evolutionary_account": "该理论关注意识与非局域记忆得以运作的机械性手段，而非为该机制的起源提供明确的系统发生解释。",
+    "core_claims_and_evidence": [
+      "意识源于脑细胞中充当全息存储网络的量子效应。",
+      "记忆以非局域方式分布，使大脑在局部受损后仍能运作（Lashley 的实验为此提供支持）。",
+      "信息通过树突网络中的波干涉模式加以编码。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念性、数学性（全息模型）、经验性（神经生物学损伤研究）、理论性（量子物理学）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验，但在验证大脑内所需的量子生物学条件方面面临极大的经验困难。",
+    "known_empirical_interventions_or_tests": [
+      "Lashley 的印迹实验，表明尽管大脑皮层受到大面积损伤，记忆功能仍保持稳健。"
+    ],
+    "criticisms_and_tensions": "主流神经科学因缺乏经验支持而否定该理论，尤其是关于相干量子效应如何能在大脑高温、嘈杂的环境中得以维持（退相干难题）这一点。",
+    "open_questions_and_limitations": "量子存储的确切物理基质以及维持量子相干性的机制仍属未知，并在很大程度上被主流科学所否定。",
+    "ontological_coherence": "在量子物理学与信息论的扩展模型中是融贯的，但与经典的还原论唯物主义根本上不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件",
+      "rationale": "如果意识依赖于特定的量子/物理属性（如树突振荡与波干涉），而非仅仅依赖于经典计算，那么人工系统只有在复现这种特定的、目前尚属未知的物理结构时才可能拥有意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "极不可能/否",
+      "rationale": "意识与物理大脑树突网络内涌现的量子动力学相关联；这一物理结构的毁坏通常将导致意识的终止，这与物理主义本体论相一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不确定/仅限人本主义",
+      "rationale": "作为一种纯粹机械论且物理主义的理论（尽管它援引了非常规物理学），它并不必然要求任何内在的宇宙意义或价值，尽管它为人类经验与价值创造提供了物理基础的说明。"
+    },
+    "virtual_immortality": {
+      "stance": "有条件",
+      "rationale": "只有当技术能够完美地测量、映射并复现生物大脑那极其复杂、高度敏感的量子/全息模式与动力学，并将其复制到非生物基质中时，虚拟永生在理论上才是可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "延伸/合作"
+      },
+      {
+        "name": "Bohm's Implicate-Explicate Order",
+        "relationship": "影响/合作"
+      },
+      {
+        "name": "Holonomic Principle",
+        "relationship": "影响"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Holonomic Brain Theory",
+        "year": "N/A"
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Wholeness and the Implicate Order, David Bohm",
+        "year": 1980
+      }
+    ]
+  }
+}

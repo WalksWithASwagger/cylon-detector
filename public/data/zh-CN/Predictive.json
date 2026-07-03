@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "预测理论（自上而下）",
+    "summary": "这一视角将大脑视为一台动态的预测引擎，意识知觉由内部生成，方式是将自上而下的期望（预测）与自下而上的感官数据（预测误差）相结合。意识作为一种功能性机制而产生，为生存而促进准确的预测、觉知与响应性行为。",
+    "associated_thinkers": [
+      "Andy Clark",
+      "Richard Gregory",
+      "Karl Friston",
+      "Rudolfo Llinas"
+    ],
+    "category": "唯物主义",
+    "subcategory": "稳态与情感",
+    "core_identity_tagline": "意识即主动的预测综合",
+    "classification_tags": [
+      "prediction",
+      "computation",
+      "functionalism",
+      "top-down",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为预测性期望与感官输入的复杂综合，源于传递关于感官输入之成因的预测的自上而下信号。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "心灵（意识知觉）是一种完全植根于物理脑机制（预测加工）的功能或过程，它中介着对身体与世界的经验。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现",
+    "subjectivity_and_intentionality": "主体性源于预测与感觉的内部综合，它使觉知与响应性成为可能。意向性（思想的指向性）内在于系统对预期结果并最小化预测误差的关注之中。",
+    "qualia_account": "该理论主要关注经由预测进行知觉的功能与过程。感受质隐含地与预测性大脑所生成的内部模型或表征相关，尽管主观'感受'对于纯粹机械论的观点仍是一项挑战。",
+    "ontological_commitments": "生物大脑、预测模型、感官信号、期望误差，以及自上而下/自下而上的信号通路。",
+    "epistemic_access": "通过对预测作为大脑核心运作原则形成系统性理解、分析感官数据如何与既有信念（'先验'）相整合而获得。",
+    "constituents_and_structure": "意识系统被构造为一台动态预测引擎，运用自上而下的信号（预测）与自下而上的信号（预测误差）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（知觉）、认知、行动、觉知、响应性",
+    "distinctive_mechanism_or_principle": "其原则是持续最小化预测误差（贝叶斯推理的近似），其中意识与大脑中主动的、自上而下的预测性信号相关联。",
+    "dynamics_of_emergence": "意识动态地涌现，促进了持续预测环境并对其做出响应这一关键的生物能力。",
+    "location_and_distribution": "基于大脑，分布于涉及自上而下信号与循环通路的神经网络中，并告诫人们不要采取纯粹'囿于颅骨'的神经中心主义观点。",
+    "causation_and_functional_role": "意识通过使真实世界事件与反事实模拟之间的快速比较成为可能，从而促进适应性行为与最优行动的选择。其总体功能是通过最小化环境'意外'来实现生存。",
+    "integration_or_binding": "整合通过预测性期望与传入的感官信息的持续综合而实现，从而产生融贯的知觉。",
+    "information_flow_or_representation": "信息经由传递预测的自上而下信号与传递预测误差的自下而上信号而流动，近似于贝叶斯推理。",
+    "evolutionary_account": "由生存这一根本的生物驱动力演化而来，使得对于主动移动和有效导航复杂环境至关重要的预测能力成为可能。",
+    "core_claims_and_evidence": [
+      "有意识的心理状态与传递关于感官成因之预测的自上而下信号相关联",
+      "大脑作为一台强大的、动态的预测引擎运作",
+      "知觉是预测性期望与感官输入的复杂综合",
+      "意识之所以出现，是为了促进对生存至关重要的预测能力"
+    ],
+    "basis_of_belief_or_evidence_type": "计算性、神经生物学性、演化性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验（以特定的机制模型为条件，如与自由能原理相关的模型）。",
+    "known_empirical_interventions_or_tests": "所暗示的方法涉及测量与预测编码相关的神经反应，以及检验期望误差的动力学（如与主动推理相关的研究）。",
+    "criticisms_and_tensions": "对功能理论而言常见的主要批评是：未能解释主观的'为什么'——即为什么预测与综合的过程应当产生被感受到的经验（感受质），而非仅仅产生功能性的输出。",
+    "open_questions_and_limitations": "核心局限在于弥合预测的功能/计算描述与意识的现象性实现之间的鸿沟。该模型着重于大脑'如何'运作，而非意识'究竟是什么'。",
+    "ontological_coherence": "与唯物主义、功能主义和涌现论本体论高度一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意识主要被理解为生成并检验预测以综合知觉的计算功能，那么执行这些功能的足够复杂的人工智能系统应会变得有意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该理论将意识奠基于大脑经演化而来的生物过程。意识与物理基质相关联，并将在生物死亡时终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主义/演化性",
+      "rationale": "意识之所以演化，是为了解决生存与适应这一根本的生物问题，从而在最大化适应度方面提供目的，但它并不蕴含宇宙意义。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "该理论的计算性与功能性本质表明，原则上，构成自我的预测性组织可被数字化并在非生物基质中重建，从而实现功能上的延续。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "基础"
+      },
+      {
+        "name": "Seth’s “Beast Machine” Theory",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "对照"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Machine: How Our Minds Predict and Shape Reality, A. Clark",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Brain from inside Out, G. Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A Predictive Processing perspective on the mind-body problem, R.L. Kuhn",
+        "year": 2024
+      }
+    ]
+  }
+}

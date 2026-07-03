@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "格罗斯伯格的自适应共振理论（ART）",
+    "summary": "格罗斯伯格的理论确立了这样一种观点：一切有意识状态都是共振态，源自自下而上的感觉模式与习得的自上而下的预期之间的相互作用。这一理论基础，即自适应共振理论（ART），解释了大脑如何自组织，从而在一个动态世界中有意识地注意、归类、识别和预测各种现象。它宣称这些大脑共振的多样性朝着解决意识的难问题迈出了进展。",
+    "associated_thinkers": [
+      "Stephen Grossberg"
+    ],
+    "category": "唯物主义",
+    "subcategory": "计算与信息",
+    "core_identity_tagline": "“有意识状态即共振态”",
+    "classification_tags": [
+      "computation",
+      "resonance",
+      "neurobiological",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一种持续的共振态，源自自下而上的模式与习得的自上而下的预期之间的相互作用；当它包含表征感受质的特征选择性细胞时，便能够支撑有意识的觉知。心灵被设想为一种活动，或说是一个动词，而非一个静态的实体。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "同一性／一元论。心灵是物理大脑的活动（是动词，而非名词），受跨细胞系统所保守的、机制上相似的定律所调控。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现。基于其作为一种依赖计算结构和保守生物定律的唯物主义理论的分类，意识被预期可由较低层级的过程充分解释，尽管或许无法直观地被还原。",
+    "subjectivity_and_intentionality": "意向性（识别、预测、学习）由注意性意识所调控，而后者在共振态中得以实现。主体性则由这些状态中所包含的、表征感受质的特征选择性细胞加以说明。",
+    "qualia_account": "感受质被认定为包含于持续共振态中的特征选择性细胞，用以支撑有意识的觉知。格罗斯伯格认为这有助于处理意识的难问题。",
+    "ontological_commitments": "共振态、计算结构、自下而上的感觉模式、自上而下的预期，以及跨生物系统所保守的短时与长时记忆／激活定律。",
+    "epistemic_access": "可通过神经与认知建模、对大脑数据的观察，以及对人类如何有意识地知觉和认识事物的分析来通达。",
+    "constituents_and_structure": "一种共振态，通过自下而上的感觉输入与自上而下的习得预期的持续相互作用而建立，受短时与长时记忆的共同定律所调控。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、注意性意识、学习、识别、预测、行动调控。",
+    "distinctive_mechanism_or_principle": "自适应共振理论（ART），其中自下而上与自上而下通路之间一种持续的、最大程度不可还原的共振态被认为是意识的必要且充分条件（一切有意识状态都是共振态）。",
+    "dynamics_of_emergence": "动态过程。意识作为一种动态共振态而实现，它持续地与学习和预测等认知过程相互作用并加以调控。",
+    "location_and_distribution": "定位于大脑结构之内，尤其是表征感受质的特征选择性细胞被纳入共振态之处。",
+    "causation_and_functional_role": "注意性意识调控着与学习、识别和预测等认知过程相互作用的行动。它提供了在一个变化的世界中自主学习和归类各种物体与事件的能力。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "经验上和计算上可检验，基于其立足于认知与神经模型的基础。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "来源中未详述具体的重大外部批评，但唯物主义理论共有的普遍张力（例如难以通过纯粹功能性的定义充分捕捉主观质性／感受质）在此同样适用。",
+    "open_questions_and_limitations": "该理论以解决难问题为目标，这表明充分界定共振态与现象经验之间的关系仍是一项持续的挑战。",
+    "ontological_coherence": "在计算和唯物主义本体论框架内是融贯的，将意识的本质直接与功能性的大脑活动相对应。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "该理论是一种功能主义模型，其中意识是特定计算结构和保守定律被实现的结果。如果这些计算结构（共振态）能够在非生物硬件中实现，那么人工智能意识便是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识从根本上与生物性大脑在物理上被例示的共振活动相联系，并未为肉体死亡后的持存提供任何概念上的途径。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义意义",
+      "rationale": "作为一种聚焦于大脑自组织与适应功能（学习、预测、生存）的唯物主义理论，它并不蕴含任何超出人类经验之外的终极或宇宙意义或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果心灵在功能上被定义为一个由计算活动（共振态）构成的系统，那么在非生物介质中对这一结构足够完整的复现，原则上应能保存第一人称的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "相似（功能主义进路）"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "相似（功能主义进路）"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "相似（功能主义进路）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Adaptive Resonance Theory: how a brain learns to consciously attend, learn, and recognize a changing world, Stephen Grossberg",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The resonant brain: how attentive conscious seeing regulates action sequences that interact with attentive cognitive learning, recognition, and prediction, Stephen Grossberg",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Conscious Mind, Resonant Brain: How Each Brain Makes a Mind, Stephen Grossberg",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Towards solving the hard problem of consciousness: the varieties of brain resonances and the conscious experiences that they support, Stephen Grossberg",
+        "year": 2017
+      }
+    ]
+  }
+}

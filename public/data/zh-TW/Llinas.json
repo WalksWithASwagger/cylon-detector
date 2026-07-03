@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "利納斯的振盪心性狀態理論",
+    "summary": "此理論主張，具意識的「心性狀態」從根本上由神經元內部的電振盪，以及由此產生的遠隔神經元群的同時活動所生成，這構成了認知的神經生物學根基。它認為所經驗到的實在，是由這些內部振盪所生成的一種虛擬實境，其主要功能在於使預測成為可能。",
+    "associated_thinkers": ["Rodolfo Llinas"],
+    "category": "唯物論理論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "「意識即神經元振盪與預測」",
+    "classification_tags": [
+      "neurobiology",
+      "oscillations",
+      "synchrony",
+      "prediction",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（心性狀態）被認定為一種由微小神經元電壓的振盪變化及此種電活動的同時性所生成的內部狀態，構成認知的神經生物學根基。",
+    "ontological_status": "物理論／唯物論",
+    "mind_body_relationship": "同一性／化約論。心理狀態是大腦中特定物理過程（神經元振盪與同步化）的功能性產物，與意識完全是物理性的這一唯物論前提相一致。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性植根於這些振盪所生成的內部狀態。意向性則透過意識的首要功能——即使預測與環境的互動成為可能——而被隱含地論及。",
+    "qualia_account": "所提供的來源中未明確詳述。這一進路通常聚焦於意識的客觀機制，暗示主觀經驗直接對應於神經元振盪的動力學及隨後的認知表徵。",
+    "ontological_commitments": "神經元、電活動（振盪）、功能性大腦迴路，以及感覺輸入。",
+    "epistemic_access": "主要透過對大腦電活動的客觀神經生物學觀察與建模來通達。",
+    "constituents_and_structure": "同相振盪的神經元群，它們經由同時的電活動與遠隔的神經元群產生共振。整體結構是構建「虛擬實境」的中樞化預測模型（自我）。",
+    "location_and_distribution": "位於神經系統之中，由神經元的電活動（振盪）所生成。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "認知、自我覺知（作為預測的中樞化）、知覺（作為虛擬實境）。",
+    "distinctive_mechanism_or_principle": "神經元的電活動，表現為振盪的電壓，以及由此產生的這些振盪跨越分布式神經元群的同步化／同時性。",
+    "dynamics_of_emergence": "意識是一種動態的內部狀態，而非靜態屬性，它演化出來是為了使主動運動與預測這一核心功能成為可能。",
+    "location_and_distribution": "由大腦內部的電振盪所生成，並由感官加以引導。",
+    "causation_and_functional_role": "意識的功能主要在於使大腦能夠預判運動與互動的結果，從而使預測能力成為大腦的終極功能。",
+    "integration_or_binding": "透過遠隔神經元群的同時、同相振盪與共振而實現。",
+    "information_flow_or_representation": "資訊流動由電振盪所中介。心靈基於引導內部狀態的感覺輸入，將實在構建為一種「虛擬實境」。",
+    "evolutionary_account": "「心性狀態」演化出來，是為了使可移動的生物與其環境之間的關鍵預測性互動成為可能，這繼神經系統演化出以支持主動運動之後而出現。",
+    "core_claims_and_evidence": [
+      "具意識的「心性狀態」由神經元振盪所生成。",
+      "神經元活動的同時性是認知的神經生物學根基。",
+      "實在是由大腦振盪所構建的一種內部虛擬實境。",
+      "自我是預測的中樞化。"
+    ],
+    "basis_of_belief_or_evidence_type": "神經生物學的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "經驗上可檢驗",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "未明確詳述，但作為一種唯物論解釋，它面臨著解釋電振盪或同步性如何轉化為主觀、質性經驗（解釋鴻溝／難問題）的挑戰。",
+    "open_questions_and_limitations": "該理論必須設定神經元振盪／同步性與第一人稱經驗之間的精確關係，並解釋「虛擬實境」如何準確地映射到外部物理實在。",
+    "ontological_coherence": "在物理論框架內高度融貫，因為它將意識奠基於可測量的低層級物理現象（電活動）之上。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識植根於振盪同步性與預測的計算功能，那麼這些動力學在原則上便可於精密的人工系統中被實現或模擬，從而遵循物理論立場。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識被定義為由大腦內部的生物性神經機制（振盪）所生成的狀態，從而排除了在生物基質死亡後的存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義意義",
+      "rationale": "作為一種演化而來的神經生物學機制，意識的目的主要是功能性的（預測與生存），與否定終極宇宙意義的緊縮式唯物論觀點相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意識完全可由振盪神經活動的模式來解釋，那麼將這些動態模式完美地複製或上傳到非生物介質中，應能保存第一人稱的自我性，使虛擬永生成為可能。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "同類歸屬／重疊"
+      },
+      {
+        "name": "Predictive Processing Theories",
+        "relationship": "重疊／延伸"
+      },
+      {
+        "name": "Recurrent Processing Theory (Lamme)",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Dendritic Integration Theory (Aru et al.)",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "I of the Vortex: from Neurons to Self, Rodolfo Llinas",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Can brain explain mind?, Rodolfo Llinas",
+        "year": 2007
+      }
+    ]
+  }
+}

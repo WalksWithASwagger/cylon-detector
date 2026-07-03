@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Combs’s chaotic attractor and autopoietic systems",
+    "summary": "此理論運用非線性動力學與混沌理論的概念，對意識——尤其是主觀經驗的連續流動——進行建模。它主張意識作為一個混沌的自創生吸引子運作，即一個自我創造、自我維持的系統，其中思想、情緒等經驗元素自發地組織為連貫的經驗之流，且往往運行於「混沌邊緣」附近。",
+    "associated_thinkers": ["Allan Combs"],
+    "category": "異常與變異狀態",
+    "subcategory": "動態系統",
+    "core_identity_tagline": "作為混沌自創生吸引子的意識",
+    "classification_tags": [
+      "chaos theory",
+      "nonlinear dynamics",
+      "autopoiesis",
+      "self-organization"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一個混沌的自創生吸引子，即一個自我生成、自我維持的系統，它反映了經驗元素（思想、記憶與情緒）的連續流動與內在的「相互黏結」。",
+    "ontological_status": "動態物理論（非化約的／湧現的）。該理論運用物理／數學模型（混沌理論）將意識解釋為物質系統的一種動態湧現結構，使其歸類於嚴格唯物論之外。",
+    "mind_body_relationship": "動態相關／同一。心理狀態（如情緒的自我繁衍）被視為連貫的、自組織的動態模式（吸引子），並伴隨著特定的神經化學，意味著與物理過程存在一種強的、非化約的相關。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "動態湧現。意識透過系統複雜的自組織能力（自創生）而湧現，往往運行於「混沌邊緣」或變化臨界點附近這一高度敏感的狀態。",
+    "subjectivity_and_intentionality": "主體性體現於連貫的、自組織的經驗之流（「經驗生命的流淌」）之中。意向性（有方向的思想）則隱含地由這一複雜自創生系統所產生的動態模式來結構化。",
+    "qualia_account": "感質，即意識經驗的元素（思想、記憶、情緒），是那些「相互黏結」以形成意識獨特的、自我延續的、有韌性的吸引子狀態的構成成分。",
+    "ontological_commitments": "混沌吸引子、非線性動力學、自創生系統（自我維持的生物／認知模式），以及相關的神經化學。",
+    "epistemic_access": "意識透過對複雜自組織認知模式的觀察來通達，並且主要透過對非線性動力學與經驗流動（現象學）的結構分析與數學建模來通達。",
+    "constituents_and_structure": "基本構成成分是思想、記憶與情緒，它們被組織進由不斷自我重建的混沌吸引子模式（自創生）所界定的結構之中。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（經驗生命的流淌）、情緒狀態、認知模式。",
+    "distinctive_mechanism_or_principle": "混沌自創生吸引子原理，它解釋了主觀經驗的動態凝聚與自我延續，其實現方式是運行於穩定與混沌之間的邊界附近。",
+    "dynamics_of_emergence": "意識是一個動態的、流動的過程。其狀態的特徵是「相對穩定的時期被不穩定的階段所打斷」（混沌行為），使系統得以過渡到新的吸引子模式，反映出變化或分岔。",
+    "location_and_distribution": "定位於能夠生成並維持混沌自創生吸引子狀態所需之複雜動態組織的物理系統（有機體／大腦），這由其與神經化學的聯繫所隱含。",
+    "causation_and_functional_role": "意識用以創造連貫的、自組織的經驗之流。被建模為吸引子的情緒狀態展現出韌性與自我繁衍，意味著其在系統維持與穩定中扮演角色。",
+    "integration_or_binding": "整合透過混沌吸引子的根本本性而實現，它確保意識經驗的各種元素（「眾多觀念」）「相互黏結」，形成一張統一而連貫的經驗之毯。",
+    "information_flow_or_representation": "資訊處理透過作為複雜的、自我創造的自創生系統而運作的認知模式發生，這些模式對世界進行詮釋與建模。",
+    "evolutionary_account": "未明確詳述，但在概念上植根於複雜的、自我維持的生物系統（自創生）的演化，意味著動態自組織帶來適應性益處。",
+    "core_claims_and_evidence": [
+      "意識被建模為一個混沌的自創生吸引子，反映思想、記憶與情緒的連續流動與凝聚。",
+      "情緒狀態自我繁衍並維持韌性，與自創生吸引子動力學相一致。",
+      "心靈表現出混沌系統的特徵，在「混沌邊緣」附近於穩定與不穩定之間循環。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念性的、系統理論、數學建模、現象學的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上可檢驗，主要透過對複雜非線性腦動力學（混沌理論）的數學建模與分析，並將其與主觀報告相關聯。",
+    "known_empirical_interventions_or_tests": "來源中未明確提供用以直接驗證混沌自創生吸引子模型的檢驗。",
+    "criticisms_and_tensions": "未明確陳述。潛在的張力在於將抽象的數學屬性（吸引子幾何、混沌閾值）嚴格地直接對應到特定的質性主觀經驗（感質）之上。",
+    "open_questions_and_limitations": "主要侷限在於缺乏明確的經驗驗證，以及將該模型高度理論化的動態複雜性轉化為與意識相關的可測量生物機制這一固有挑戰。",
+    "ontological_coherence": "融貫。該模型一貫地將系統理論（自創生與混沌理論）應用於意識，為主觀經驗動態的、自我維持的本性提供了統一的解釋框架。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "由於核心機制仰賴複雜的、動態的自組織（吸引子系統），若非生物硬體能夠成功複製在變化臨界點附近運行的必要混沌自創生動力學，人工智慧便可能成為有意識的。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確定",
+      "rationale": "核心機制（自創生）在生物學上有明確界定。然而，該理論歸入異常／變異狀態類別，這意味著它在概念上對擴展的實在或不嚴格繫於瀕死物理身體的意識形式持開放態度。"
+    },
+    "meaning_and_purpose": {
+      "stance": "隱含的／人本主義的",
+      "rationale": "將意識視為一個自我創造、自我組織的系統，這一關注提供了源自主觀之流內在連貫性與韌性的隱含意義與價值，而非某種預定的宇宙目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "有條件的",
+      "rationale": "有可能，前提是混沌自創生吸引子那高度複雜的、依賴時間的非線性動力學與自組織結構能夠被精確測量、複製並在非生物介質中加以維持。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Complex Adaptive Systems Models",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Homeostatic and Affective Theories (e.g., Solms’s Affect as the Hidden Spring)",
+        "relationship": "相容"
+      },
+      {
+        "name": "William James's description of consciousness",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "States of consciousness and self-organization, A. Combs",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Autopoiesis and Cognition: the Realization of the Living, H. Maturana and F. Varela",
+        "year": 1980
+      }
+    ]
+  }
+}

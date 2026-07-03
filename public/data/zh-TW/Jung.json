@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "榮格的共時性與集體無意識",
+    "summary": "此一框架主張，共時性——一種缺乏因果聯繫的有意義巧合——與因果性並列，是實在的一條根本原理。它將這種非因果的聯繫與一種更深層、整體性的、心物中立的實在相聯繫，有意識的心理狀態即由此實在中湧現。",
+    "associated_thinkers": ["Carl Jung", "Wolfgang Pauli"],
+    "category": "異常與變異狀態",
+    "subcategory": "概念框架",
+    "core_identity_tagline": "「由非因果意義所聯繫的意識」",
+    "classification_tags": [
+      "synchronicity",
+      "collective unconscious",
+      "dual-aspect monism",
+      "acausal parallelism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識從根本上與意義的質性領域相關聯，它從一種同時構成心理與物理兩個領域基底的心物中立實在中湧現。",
+    "ontological_status": "雙面一元論（基於泡利—榮格猜想，提出一種中立的基底實在），或觀念論（最常與榮格的世界觀相關聯）。",
+    "mind_body_relationship": "心靈與物質是同一個基底性的、心物中立實在的派生的、相關的兩個面向，二者透過非因果平行論（共時性）相關聯。",
+    "primitive_or_emergent_status": "湧現的（有意識的心理狀態從無意識中湧現，而無意識本身又植根於一種原初的心物中立實在）。",
+    "emergence_type": "強湧現（隱含地被要求，因為意識與一條同因果性等階的非因果原理相關聯，這意味著其不可化約為已知的物理定律）。",
+    "subjectivity_and_intentionality": "主體性產生於有意識的心理狀態從集體無意識中的湧現。意向性居於核心地位，因為各種相關是由質性意義（共時性的「通貨」）所中介的。",
+    "qualia_account": "質性的現象屬性被隱含地與心物中立領域所固有的質性意義相綁定，並與從集體無意識中湧現的排序因素（原型）相關聯。",
+    "ontological_commitments": "心物中立實在、集體無意識，以及原型（作為排序因素）。",
+    "epistemic_access": "透過內省、心理現象（深度心理學的構想），以及識別異常的有意義巧合（共時性）來通達。",
+    "constituents_and_structure": "核心的組織結構是心物中立層面，它從根本上是整體性的，並包含集體無意識。這一成分在諸個體之間是不分離的。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（透過挑戰唯物論的說明）、心靈之間的非局域聯繫，以及無意識的集體成分。",
+    "distinctive_mechanism_or_principle": "共時性：心理事件與物理事件之間的一種非因果聯結原理或有意義巧合。",
+    "dynamics_of_emergence": "有意識的心理狀態從無意識領域動態地湧現（類比於物理測量／波函數坍縮）。",
+    "location_and_distribution": "集體無意識成分是非局域的，在諸個體之間不分離，存在於一種整體性的基底實在層面。",
+    "causation_and_functional_role": "透過非因果平行論運作；原型作為排序因素，安排心理與物理的各種顯現。共時性的存在從根本上挑戰了經典唯物論的因果性。",
+    "integration_or_binding": "整合與綁定透過基底性的心物中立實在以及作為排序因素的原型，以整體性的方式發生。",
+    "information_flow_or_representation": "心理領域與物理領域之間的相關是由質性意義中介的，而非由定量的統計資訊中介。",
+    "evolutionary_account": "原始材料聚焦於心靈與實在之間的形上學相關，而非為意識提供詳細的系統發生起源或適應性角色。",
+    "core_claims_and_evidence": [
+      "共時性是一條與因果性等階的非因果聯結原理。",
+      "一種心物中立實在構成心理與物理領域的基底，由質性意義相連。",
+      "由原型充填的集體無意識以非局域方式聯結諸個體。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學與心理學的思辨、深度心理學的構想，以及借自量子理論概念的類比。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性（高度理論化，依賴於非局域概念和異常事件，使傳統的經驗檢驗變得困難）。",
+    "known_empirical_interventions_or_tests": "不適用（來源中並未列出專門針對該理論的規範性經驗檢驗，因為它主要是一個與異常認知相關的概念框架）。",
+    "criticisms_and_tensions": "受到批評，因為鮮有科學家從字面上接受集體無意識。在非因果共時性與量子糾纏之間所作的類比，被批評為可能流於表面或是「生搬硬套」。",
+    "open_questions_and_limitations": "主要局限在於為集體無意識提供經驗證據，並確立非因果相關的機制。該框架必須依賴於對非唯物論世界觀的接受。",
+    "ontological_coherence": "與觀念論、泛心論和二元論等非唯物論存有論相一致。它與嚴格唯物論的解釋根本上相矛盾。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定（有條件的）",
+      "rationale": "如果意識植根於一種根本性的、非局域的心物實在（集體無意識），那麼人工系統就需要一種機制來通達或參與這一實在，這使得其實現高度依賴於條件。"
+    },
+    "survival_beyond_death": {
+      "stance": "很可能",
+      "rationale": "該理論意味著一個擴展的、非局域的實在（集體無意識／中立領域），其中原型元素持續存在，這與允許生物學死亡之後仍存在某種意識狀態的觀點相一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "終極的／宇宙的",
+      "rationale": "該框架以內在的質性意義和目的論排序因素（原型）為中心，意味著一種超越人本主義或生物學必然性的宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能（有條件的）",
+      "rationale": "虛擬永生依賴於對個體自我的數位複製。由於意識源自一個集體的、非局域的源頭，在不捕捉那非物理源頭的情況下、於模擬中複製那特定的、湧現出來的個人意識狀態，很可能無法保存原本的第一人稱自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Pauli–Jung Conjecture",
+        "relationship": "擴展"
+      },
+      {
+        "name": "Dual-Aspect Monism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Idealisms",
+        "relationship": "相容"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Synchronicity",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Pauli–Jung conjecture and its relatives: a formally augmented outline, H. Atmanspacher",
+        "year": 2020
+      }
+    ]
+  }
+}

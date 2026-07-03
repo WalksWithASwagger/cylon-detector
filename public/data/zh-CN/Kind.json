@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Kind 的二元论 2.0",
+    "summary": "这是一种与传统宗教或非科学意涵相脱钩的现代二元论版本，它主张物理主义无法充分把握有意识经验的完整质性实在。它主张现象状态、事件与过程是一类不可还原地真实的活动，有别于物理活动，从而导向一种活动的二元性，而不必设定分离的实体。",
+    "associated_thinkers": ["Amy Kind"],
+    "category": "二元论",
+    "subcategory": "二元论变体",
+    "core_identity_tagline": "现象活动与物理活动的二元性",
+    "classification_tags": [
+      "dualism",
+      "non-reductive",
+      "phenomenality",
+      "qualia",
+      "naturalistic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为现象活动（状态、事件与过程），它构成世界中不可还原地真实的一部分，与物理活动一同存在且不可还原为物理活动。",
+    "ontological_status": "二元论（具体而言是一种活动的二元性），既与一种大体上自然主义的世界观相一致，又拒斥还原论。",
+    "mind_body_relationship": "这种关系是二元论式的：现象活动与物理活动是世界中不可还原地真实的部分，彼此不可还原。心灵以这种现象活动为特征。",
+    "primitive_or_emergent_status": "不可还原地真实的／非还原式涌现的。意识（现象活动）从根本上不可还原为物理之物，尽管该理论并不要求现象性下达至微观层次也是根本的。",
+    "emergence_type": "强涌现。现象活动是不可还原地真实的，无法以物理属性来加以解释，在概念上与强涌现相一致。",
+    "subjectivity_and_intentionality": "聚焦于把握有意识经验的完整质性实在。来源材料未提供意向性的明确机制，但该理论针对还原论解释论证了经验的质性本性。",
+    "qualia_account": "感受质（经验的质性本性）被认为是意识不可还原的、本质性的特征，无法被纯粹物理主义的框架所把握。",
+    "ontological_commitments": "作为世界中不可还原地真实之部分的物理状态、事件与过程（物理活动），以及现象状态、事件与过程（现象活动）。",
+    "epistemic_access": "主要通过表明物理主义在说明现象经验方面之局限的哲学论证来通达。",
+    "constituents_and_structure": "一种以两个不同的活动领域（现象的与物理的）为特征的结构，二者彼此不可还原。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（质性经验）、心理状态的因果性。",
+    "distinctive_mechanism_or_principle": "现象活动不可还原的原理。该理论期望获得一种对因果性更好、更宽广的理解，能够容纳心理原因并肯定现象之物的因果效力，而不至于神秘或“闹鬼”。",
+    "dynamics_of_emergence": "其地位是不可还原的；关于这种不可还原的现象活动如何从物理之物中产生、或如何与之交互的详细动态机制，并非所述理论的主要关注点。",
+    "location_and_distribution": "现象活动与物理活动相关联，意味着其定域于复杂的物理系统（例如大脑）之中，与自然主义相一致。",
+    "causation_and_functional_role": "肯定心理原因的可能性，力图容纳现象之物的因果效力，表明有意识状态具有功能角色。",
+    "integration_or_binding": "来源材料未明确论及，因为该理论主要聚焦于现象经验的形而上学地位，而非详细的神经功能。",
+    "information_flow_or_representation": "批判唯物主义的表征主义。尽管有意识状态具有内容（意向性），该理论坚持其现象特征不可还原为其表征属性或功能属性。",
+    "evolutionary_account": "未明确提供；该理论聚焦于本体论地位而非演化路径，尽管它与一种大体上自然主义的世界观相容。",
+    "core_claims_and_evidence": [
+      "现象状态／活动是世界中不可还原地真实的一部分（与物理活动一同存在）。",
+      "物理主义框架无法充分把握有意识经验的完整实在。",
+      "该观点代表一种活动的二元性，而不必是实体（实体二元论）的二元性。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的，基于关于物理主义之约束以及有意识经验之本性的论证。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "通过关于形而上学承诺的哲学论证（例如物理主义是否必须承诺现象性的还原）在概念上可检验，但就现象定律的本性而言是思辨性的。",
+    "known_empirical_interventions_or_tests": "来源材料未提供，因为对物理主义的批判主要是概念性与形而上学的。",
+    "criticisms_and_tensions": "批评者面临如何具体说明现象定律的困难。它还必须通过强调其大体上自然主义的目标，来化解“拒斥物理主义等同于相信‘闹鬼之物’或‘魔法’”这一批评。",
+    "open_questions_and_limitations": "该理论承认，描述不可还原的现象活动所需的所谓现象定律尚待具体说明这一未决问题。它还依赖于未来一种“对因果本性更好、更宽广的理解”来确保心理效力。",
+    "ontological_coherence": "在其通过聚焦活动的二元性（而非实体）来建构自然主义二元论的努力中融贯，契合其明确目标：拒斥物理主义，同时避免传统二元论的陷阱。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件的",
+      "rationale": "如果人工系统能够例示不可还原地真实的现象活动得以产生所需的物理复杂性（它并非纯粹可还原为计算），那么人工智能意识就是可能的。然而，这种涌现的确切条件尚属未知。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "Kind 的二元论 2.0 避免设定一个独立的、非物理的实体（灵魂），转而采用活动的二元性，这与一种大体上自然主义的观点相一致——在其中意识系于活跃的过程，使得生物停止运作后的持存不大可能。"
+    },
+    "meaning_and_purpose": {
+      "stance": "内在价值（推断）",
+      "rationale": "尽管与自然主义观点相容（意味着人本主义式的意义），但“质性经验是世界中不可还原地真实的特征”这一核心主张意味着意识拥有内在的、根本的价值，无法被还原为效用或生存。"
+    },
+    "virtual_immortality": {
+      "stance": "不确定",
+      "rationale": "既然现象特征是不可还原地真实的，仅复制物理状态或功能状态未必能保证现象活动得到复制，除非支配现象涌现的未知定律被完美地把握与模拟。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "区分"
+      },
+      {
+        "name": "Representationalism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Transparency and representationalist theories of consciousness",
+        "year": 2010
+      }
+    ]
+  }
+}

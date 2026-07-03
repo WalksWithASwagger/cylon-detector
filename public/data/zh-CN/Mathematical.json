@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "数学理论",
+    "summary": "这一类别涵盖了两类进路：一类运用严谨的数学工具来描述意识经验的结构、水平、内容与动力学（认识论观点）；另一类则是把数学结构设定为意识本身的终极基础或本质的基础性理论（本体论观点）。",
+    "associated_thinkers": [
+      "Johannes Kleiner",
+      "Tim Ludwig",
+      "Yucong Duan",
+      "Max Tegmark",
+      "Roger Penrose"
+    ],
+    "category": "唯物主义",
+    "subcategory": "计算与信息",
+    "core_identity_tagline": "意识即形式化的数学结构",
+    "classification_tags": [
+      "mathematics",
+      "ontology",
+      "formalism",
+      "structure",
+      "computation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识从根本上被等同于、或派生自底层的数学结构、关系或空间，从而使经验性属性得以形式化。",
+    "ontological_status": "有条件的一元论（理由：其范围从支持传统的物理主义/唯物主义模型，到提出数学实在作为终极基础的本体论主张，后者超越了严格的唯物主义。）",
+    "mind_body_relationship": "变动极大。本体论变体主张物理世界与心理经验二者都是首要数学实在的次生显现或'投影'（如彭罗斯的柏拉图世界）。认识论变体则主张现象经验与数学空间之间存在结构同构。",
+    "primitive_or_emergent_status": "可变",
+    "emergence_type": "可变（理由：本体论变体主张意识是原初的/根本的，是终极数学实在的一部分。聚焦于动力学的模型则主张意识状态通过复杂的数学关系而弱涌现。）",
+    "subjectivity_and_intentionality": "主体性与现象性质由数学空间和结构加以形式化刻画，旨在识别与所经验的意识方面相对应的构成与论域。",
+    "qualia_account": "感受质，或称现象空间，被视为数学结构，其特征与经验的属性同构。该理论试图确保意识经验中确有某物字面上对应于所主张的结构。",
+    "ontological_commitments": "数学结构与形式；表示意识经验各方面的论域；抽象的柏拉图实在（在某些变体中）。",
+    "epistemic_access": "通过抽象的形式方法、数学建模，以及对现象特征进行严谨的定量或结构性描述而获得。",
+    "constituents_and_structure": "由称为'论域'的集合构成，其元素对应于意识经验的各个方面，以及作用于这些论域之上的经严格定义的关系或函数。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意识经验的结构、水平、内容与动力学（演化轨迹、稳定状态、信息流）。",
+    "distinctive_mechanism_or_principle": "关键机制是对意识的严谨形式化表征。本体论观点主张，意识内在地由数学定律所构造，正如量子力学一样。",
+    "dynamics_of_emergence": "意识动力学可用诸如动力系统理论之类的理论加以描述，该理论刻画其演化轨迹与稳定状态。",
+    "location_and_distribution": "相较于抽象的数学结构，位置是次要的。在本体论观点中，其位置可能是宇宙性的，或存在于柏拉图式的形式界域中。",
+    "causation_and_functional_role": "数学充当着寻找模式、周期性与相关性所需的'意识的语言'，从而揭示因果关系与功能。",
+    "integration_or_binding": "统一性与绑定通常通过形式化的数学结构（如信息流模型，或复杂性与整合的度量）来量化或描述。",
+    "information_flow_or_representation": "信息论常被用来量化意识内部的流动与熵值。其核心工程是以数学空间的方式来表征意识经验。",
+    "evolutionary_account": "核心理论未直接处理（理由：数学理论的关注点一般在于瞬时结构与根本本质，而非系统发生上的发展，尽管它支持诸如弗里斯顿的自由能原理这类具有演化解释的理论）。",
+    "core_claims_and_evidence": [
+      "意识由数学结构所构成（本体论观点）。",
+      "意识经验精确对应于数学对象与几何特征。",
+      "诸如动力系统理论与信息论之类的数学工具能够量化意识的内部动力学。"
+    ],
+    "basis_of_belief_or_evidence_type": "形式化/数学性、概念性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验。当其为特定的科学理论（如整合信息理论）提供数学框架时，可经验检验。",
+    "known_empirical_interventions_or_tests": "依赖于具体理论（理由：这一进路为其他理论——如整合信息理论与自由能原理——提供形式化语言，而后者继而界定具体的经验度量与干预）。",
+    "criticisms_and_tensions": "该进路受到批评的原因在于：难以证明数学形式主义捕捉到了意识经验的实际本质，而非仅仅描述了功能性相关物。本体论主张（如意识由数学'构成'）极具争议。",
+    "open_questions_and_limitations": "主要的未决问题是：如何在抽象的数学形式实体与意识经验（感受质）的具体现象感受之间架起桥梁。",
+    "ontological_coherence": "当与柏拉图主义或数学宇宙假说的本体论相结合时具有高度融贯性；而当应用于严格的还原论物理主义时，在解释质性主体性方面面临挑战。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件",
+      "rationale": "如果意识纯粹由抽象的数学结构或计算逻辑所定义，那么实现了该结构的人工系统就有可能例示出意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "有条件",
+      "rationale": "本体论式的数学理论（如泰格马克、彭罗斯）主张实在的基础是永恒的数学结构，这可能允许意识在抽象的意义上于物理大脑之外存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "有条件的宇宙性",
+      "rationale": "如果宇宙从根本上是数学性的，或植根于柏拉图式的形式，那么这就意味着存在具有内在的理性意义，尽管未必是个人性的、目的论的意义。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "如果心灵可被完全还原为一种可量化的数学结构或信息流，那么这一模式原则上便可被保存并例示于新的基质中。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "影响"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "影响"
+      },
+      {
+        "name": "Tegmark’s State of Matter",
+        "relationship": "延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is a mathematical structure of conscious experience?",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality, Max Tegmark",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Shadows of the Mind: A Search for the Missing Science of Consciousness, Roger Penrose",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Consciousness, mathematics, and natural laws, Yucong Duan and Shiming Gong",
+        "year": 2024
+      }
+    ]
+  }
+}

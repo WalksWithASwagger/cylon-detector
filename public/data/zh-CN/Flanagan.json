@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Flanagan 的建构性自然主义",
+    "summary": "该理论主张人类意识既不神奇也不神秘，提出一种有力的综合观点：主观的、现象的方面得到充分承认，同时又完全由其神经基础加以说明，无剩余地寓于大脑之中。Flanagan 力图把心灵的自然主义形而上学与对大脑如何运作的日趋成熟的理解相融合。",
+    "associated_thinkers": [
+      "Owen Flanagan"
+    ],
+    "category": "唯物主义",
+    "subcategory": "哲学",
+    "core_identity_tagline": "‘意识作为神经哲学的建构性自然主义’",
+    "classification_tags": [
+      "physicalism",
+      "neurophilosophy",
+      "emergence",
+      "subjectivity",
+      "causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一组异质的事件与过程，它们共享‘被经验到’这一属性；从根本上说，心灵与大脑是同一个东西。",
+    "ontological_status": "物理主义／建构性自然主义",
+    "mind_body_relationship": "心灵与大脑是同一的，是从两种不同视角所见的同一个东西；主观视角与客观视角之间的鸿沟是认识论的，而非本体论的。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "强涌现（Flanagan 承认存在涌现的自然属性，它们尽管遵循物理定律，却不可还原为物理学。）",
+    "subjectivity_and_intentionality": "主观意识是真实的，并发挥重要的因果作用。主体性以第一人称方式积累，因为个体拥有有机体完整性。意向性则隐含地由大脑作为一台‘达尔文机器’（其中意义整体论成立）来加以说明。",
+    "qualia_account": "意识主观的、现象的方面被充分承认为真实的，尽管告诫不要仅仅依赖现象学，因为它可能滋生关于意识本质的种种错觉。",
+    "ontological_commitments": "物质实在；复杂的生物脑（被描述为由并行处理器构成的‘达尔文机器’）；涌现的自然属性。",
+    "epistemic_access": "通过对自然主义形而上学与经验神经科学的神经哲学整合，同时承认自我报告可能出错。",
+    "constituents_and_structure": "意识是在大脑中实现的一组异质的、被经验到的过程，而大脑被视为一个由并行处理器构成、彼此广泛互动、连接极为密集的系统。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、主体性、因果作用／能动性。",
+    "distinctive_mechanism_or_principle": "意识产生于大脑中促成心理因果的涌现自然属性，例如源于某一皮层区域（如前额叶皮层）的观念调取来自另一区域（如顶叶联合皮层）的信息。",
+    "dynamics_of_emergence": "意识是一组动态的事件与过程，产生于大脑内处理器之间大规模的并行互动。",
+    "location_and_distribution": "无剩余地寓于大脑之中。",
+    "causation_and_functional_role": "有意识的思想在行动执行中发挥重要的因果作用，从而直接拒斥副现象论。心理因果被束缚于大脑之内，依赖于神经机制。",
+    "binding_and_unity": "统一与绑定隐含地通过大脑作为一个‘连接极为密集的并行处理器系统’的功能而达成，在其中意义整体论得以实现。",
+    "information_flow_or_representation": "信息在连接高度密集的并行处理器系统内被整体性地加工；心理状态以独特方式在个体大脑内得到物理实现。",
+    "evolutionary_account": "隐含地依赖演化，将心灵视为大脑，一台‘达尔文机器’。其哲学蕴涵通过‘神经存在主义’——人的科学图景与人本图景之间的冲突——加以探讨。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验（基于与日趋成熟的神经科学的契合）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "必须捍卫这一主张：意识是真实的、有因果效力的，同时又完全被束缚于大脑之内。此外还必须在不假定本体论鸿沟的情况下处理‘认识论鸿沟’（第一人称显现与第三人称描述之间的差别）。",
+    "open_questions_and_limitations": "该理论的‘真正难问题’是在‘物质世界中寻找意义’（‘神经存在主义’）。其解释框架依赖于对大脑功能‘仍然粗略但日趋成熟的理解’。",
+    "ontological_coherence": "在其所界定的建构性自然主义框架内是融贯的，将物理同一与非还原的涌现属性统一起来。它与副现象论及严格的取消式唯物主义相对立。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种强物理主义理论，其中意识完全寓于大脑之中，那么在人工系统中实现所需的复杂涌现神经过程，在概念上便能使人工智能意识成为可能。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全由物理脑过程及其涌现属性所构成，这排除了在生物基质被毁灭之后的存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本意义",
+      "rationale": "唯物主义基础意味着不存在终极的宇宙目的。Flanagan 论及在‘物质世界中寻找意义’的存在主义关切（神经存在主义），认为目的必须由自身创造。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果有意识自我等同于大脑的复杂过程（包括涌现属性与因果作用），那么在非生物介质中对这一系统进行完美、先进的复制，原则上便应能实现虚拟永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "批评"
+      },
+      {
+        "name": "Emergence",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批评"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Reconsidered, Owen Flanagan",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Problem of the Soul, Owen Flanagan",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Really Hard Problem: Meaning in a Material World, Owen Flanagan",
+        "year": 2007
+      }
+    ]
+  }
+}

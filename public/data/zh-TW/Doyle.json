@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Doyle 的經驗記錄與重現器（ERR）",
+    "summary": "ERR 理論主張意識是一種資訊模型，其中心靈由非物質的資訊（如同軟體）所構成。它的運作方式是：當當前的知覺與過去的經驗相似時，便重播那些過去的經驗，包括感官細節與情緒，從而為有機體提供關鍵的生存價值。",
+    "associated_thinkers": [
+      "Bob Doyle"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "計算與資訊",
+    "core_identity_tagline": "「意識即資訊重播」",
+    "classification_tags": [
+      "information",
+      "memory",
+      "binding",
+      "survival",
+      "biological model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為非物質的資訊，此資訊由大腦中結構化的神經元集群加以記錄並重現（再呈現）。據稱，對資訊的處理以一種「雙重實現」的方式連結了物理與現象。",
+    "ontological_status": "物理論（以資訊為基礎）。該理論歸類於唯物論之下，但主張資訊本身可能是根本性的，這暗示一種植根於物理基質的資訊一元論或雙面向觀點。",
+    "mind_body_relationship": "儲存於「連結在一起」之物理神經元中的資訊，同時實現了現象狀態與資訊狀態，這暗示一種固有的連結或「雙重生命」，其中資訊架起物理與現象之間的橋樑。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現。意識源於神經結構內對資訊的複雜組織與處理，而非實在的根本組成成分。",
+    "subjectivity_and_intentionality": "意向性（意義）由重現與當前知覺相似的過去經驗所喚起，這引導有機體作出適切的反應。主體性內在於原初第一人稱經驗及其伴隨情緒的「再呈現」之中。",
+    "qualia_account": "感質被說明為原初經驗的組成成分（感官品質與情緒），這些成分在初始儲存時被綁定在一起，並在重播時被重現（再呈現），而非以演算法方式組裝而成。",
+    "ontological_commitments": "非物質的資訊；神經元集群（連結在一起的神經元）；資訊結構（在大腦中）。",
+    "epistemic_access": "可透過建模資訊處理架構，以及觀察對資訊的行為反應（定義「資訊意識」）來通達。",
+    "constituents_and_structure": "儲存於神經元集群中的資訊結構（依據赫布原則連結在一起的神經元）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、經驗的統一性（綁定）、記憶、適應性行為。",
+    "distinctive_mechanism_or_principle": "經驗記錄與重現器（ERR）機制，該機制主張，一個最簡的原始心靈只需在受到相似的當前經驗刺激時「重播」過去所儲存的經驗（而非提取表徵）即可。",
+    "dynamics_of_emergence": "動態歷程。意識在功能上被定義為某實體的一種性質，即該實體能對其環境中的資訊動態地作出適切反應。",
+    "location_and_distribution": "局域於大腦內記錄並重現經驗的資訊結構（神經元集群）之中。",
+    "causation_and_functional_role": "意識提供生存價值，使有機體得以回想過去的相關經驗，引導行動，並使該實體能對環境資訊作出適切反應。",
+    "integration_or_binding": "綁定問題得以解決，因為所有感官成分與伴隨的情緒內容在初始記錄時即被綁定在一起，並在重現時維持綁定，從而免除了演算法組裝的需要。",
+    "information_flow_or_representation": "資訊是非物質的，如同軟體。它儲存於大腦結構中，並在受到外部知覺刺激時直接被「再呈現」為經驗。",
+    "evolutionary_account": "意識之所以演化出現，是因為它在使有機體面對新知覺時得以提取並運用過去經驗方面具有「顯而易見的相關性（生存價值）」。",
+    "core_claims_and_evidence": [
+      "心靈是非物質的資訊，有別於數位資訊處理。",
+      "意識被定義為某實體對其環境中資訊作出適切反應的性質。",
+      "意識透過神經元集群中所儲存、已整合之經驗的瞬時重現（再呈現）而達成（ERR）。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念性；計算性（資訊模型）；哲學性。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗。該理論依賴神經生物學原則（赫布）與資訊理論，這暗示可透過建模複雜資訊儲存與重現如何在神經系統中實現來進行檢驗的潛在可能。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要的概念張力在於：將心靈描述為非物質的資訊，同時又明確聲稱大腦並非在處理數位資訊，這要求對資訊給出一個有別於傳統計算模型的定義。",
+    "open_questions_and_limitations": "資訊之「雙重實現」的確切性質——即資訊如何連結物理歷程與意識經驗——需要詳盡的解釋，方能構成一套根本性的意識理論。",
+    "ontological_coherence": "作為資訊模型在內部具融貫性，但其對非物質資訊的依賴挑戰了嚴格的化約性唯物論，將其分類推向物理論的邊界。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "由於意識在功能上以資訊術語加以定義（對資訊作出適切反應），且心靈被比擬為軟體，因此人工系統應當能夠實例化達成意識所需的資訊結構，前提是它們能重現整合經驗的複雜性。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識繫於生物神經元集群內資訊結構的物理實現；因此，它在身體與大腦瓦解時即告終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "該理論以適應性的生存價值來解釋意識，這與一個大體上不合理化任何終極宇宙意義或目的的唯物論框架一致。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "若心靈是記錄於大腦中的非物質資訊（軟體），那麼在非生物媒介中完美複製此資訊結構應能保存第一人稱的心靈自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "延伸（它是一種特定的、非數位的計算／資訊模型）"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "相容（依賴於所儲存經驗與物理上「連結在一起」之神經元之間的強同一性）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Recorder and Reproducer, Bob Doyle",
+        "year": null
+      }
+    ]
+  }
+}

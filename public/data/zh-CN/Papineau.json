@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Papineau 的心脑同一论",
+    "summary": "该理论为神经生物学物理主义辩护，主张有意识状态在根本上、字面上等同于特定的脑状态。它断言这一同一关系是通过科学推论后验地被发现的，并认为长期存在的‘解释鸿沟’只是根深蒂固的二元论直觉所造成的误导性假象。",
+    "associated_thinkers": ["David Papineau"],
+    "category": "唯物主义",
+    "subcategory": "哲学",
+    "core_identity_tagline": "‘意识作为根本的心脑同一’",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "abduction",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "有意识状态（如疼痛）严格地等同于特定的物理脑状态（如某一特定区域的神经元放电）。它们并非仅仅由这些物理状态所引起或生成。",
+    "ontological_status": "还原式物理主义（强心脑同一论）",
+    "mind_body_relationship": "严格同一论。心理状态在物理上等同于某些神经元状态；它们的关系是一种事实关系（后验同一）。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现。既然心理状态等同于物理状态，那么它们最终可由物理定律加以还原或解释，尽管这一同一关系必须经验地（后验地）被发现。",
+    "subjectivity_and_intentionality": "主体性（‘感觉起来像什么’的感受）不过是物理脑状态本身的一种属性，即该状态被例示时‘感觉起来’的样子。意向性则通过被认定脑状态的物理功能而被继承。",
+    "qualia_account": "感受质等同于脑状态的底层物理属性。围绕感受质的神秘感被归因于误导性的‘自发二元论思维’，后者错误地把感受与物理状态分离开来。",
+    "ontological_commitments": "物理状态；特定的神经过程；物理领域的因果封闭性。",
+    "epistemic_access": "通过科学与经验观察进行后验通达，依赖于从相关性出发的溯因推论（发现两样东西总是在同一时间处于同一位置）。",
+    "constituents_and_structure": "意识由生物物质的复杂组织状态所构成，具体由神经元子集的精确放电（如伤害感受特异性神经元）所定义。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、主体性、因果效力。",
+    "distinctive_mechanism_or_principle": "物理领域的因果封闭性保证了心理事件必定是物理事件。这一同一关系由神经科学所确立的成功后验相关性加以确认。",
+    "dynamics_of_emergence": "意识是被认定物理脑状态的一个恒常特征，从而消解了关于两者为何或如何‘相伴’的疑问。",
+    "location_and_distribution": "定位于特定的脑状态（如伤害感受系统中的神经放电模式），尽管这一同一关系广泛适用于所有唯物主义与物理主义理论。",
+    "causation_and_functional_role": "意识具有因果效力，因为它是一个遵循物理因果封闭性的物理状态。其功能内在于被认定脑状态的物理行为。",
+    "integration_or_binding": "隐含地由如下事实达成：经验尽管复杂，却对应于一个单一的、可界定的底层物理事件（如统一的疼痛对应于复杂的伤害感受神经元放电）。",
+    "information_flow_or_representation": "用于描述意识的现象概念（第一人称报告）被认为是含糊而不精确的，往往遮蔽了科学所要识别的底层物质本质。",
+    "evolutionary_account": "未被明确详述，但由其奠基于神经生物学物理主义、以及对源自生物有机体的相关性数据的接受而被隐含。",
+    "core_claims_and_evidence": [
+      "有意识状态与物理状态彻底同一，意味着它们在概念上不能‘分离’。",
+      "意识之谜通过拒斥那些助长‘解释鸿沟’的二元论预设而得到解决。",
+      "哲学僵尸在形而上学上是不可能的，尽管由于现象概念的含糊性而是可设想的。",
+      "心脑同一关系通过观察强空间—时间相关性以及经由溯因所得的解释力而被确立。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、经验的、溯因的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验（有条件）。它依赖于找到支持同一主张的严格神经科学证据，尽管现象概念的含糊性使得界定必要的物理相关物变得困难。",
+    "known_empirical_interventions_or_tests": "将特定的复杂脑状态（如测得的神经元放电模式）与相应主观经验（如疼痛报告）相联系的相关性研究。",
+    "criticisms_and_tensions": "批评者认为，该论证只是假定了物理主义的有效性，而非证明了同一关系。该理论易受如下主张的攻击：即便对物理相关物拥有完美知识，也并不逻辑地必然导出主观感受（知识论证）。",
+    "open_questions_and_limitations": "主观（现象）概念的含糊性质，使得无法为任何给定的有意识状态严格地识别出一个单一、精确的物质本质（一种‘幻象’）。",
+    "ontological_coherence": "在内部高度融贯，并与还原式唯物主义／物理主义本体论的标准信条完美相容，尤其是与物理因果封闭性相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "如果有意识状态在根本上等同于物质与过程的特定配置，那么这些状态就必定能在任何能够实现必要物理配置与复杂性的介质中被重现，包括人工系统。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识严格地依赖于并等同于生物脑过程的特定组织。在该物理系统不可逆地终止之后，其持续存在是不可能的。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本意义",
+      "rationale": "作为一种植根于严格物理主义的理论，它将心灵视为自然过程的产物，除人类能动性所创造者外，不为宇宙或超越性的意义或目的提供任何依据。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意识就是大脑的特定物理组织，那么将这一结构完美复制（上传）到一个新的物理基质，原则上便足以保存有意识的同一性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批评"
+      },
+      {
+        "name": "David Chalmers' Hard Problem",
+        "relationship": "批评"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Papineau, D., The problem of consciousness",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Papineau, D., We must shed our metaphysical assumptions",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Papineau, D., Could there be a science of consciousness?",
+        "year": 2003
+      }
+    ]
+  }
+}

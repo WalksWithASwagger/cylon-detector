@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "Ambron 的局部場電位與電磁波理論",
+    "summary": "此假說主張，意識——尤其是像疼痛這類的現象經驗——產生於神經生理學資訊（動作電位）被轉化為電磁（EM）波之時。跨越這些電磁波的資訊整合被提出作為解決綁定問題的機制，從而產生統一的意識經驗。",
+    "associated_thinkers": [
+      "Richard Ambron"
+    ],
+    "category": "唯物論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "意識即被整合的電磁波",
+    "classification_tags": [
+      "electromagnetic field",
+      "neurobiology",
+      "pain",
+      "binding",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為由神經過程所生成、被整合的電磁（EM）波，這些波將各種感覺輸入組合為統一的經驗。",
+    "ontological_status": "物理論／唯物論（該理論被歸入唯物論理論之下，主張意識完全是物理性的。）",
+    "mind_body_relationship": "心靈（意識經驗）源自或同一於由複雜神經活動（局部場電位）所生成的物理電磁場／波。",
+    "primitive_or_emergent_status": "湧現（意識源自神經資訊的複雜組織及其向電磁波的轉化。）",
+    "emergence_type": "弱湧現（作為一種特定的唯物論／神經生物學理論，意識在原則上可僅憑底層的物理場與動力學獲得解釋與預測。）",
+    "subjectivity_and_intentionality": "來源中未明確詳述。主體性與意向性被推斷為源自最大程度整合的電磁波結構之組織屬性及其所編碼的內容。",
+    "qualia_account": "感質（例如疼痛的特定經驗）由所產生的電磁波中所包含的被整合資訊來說明。",
+    "ontological_commitments": "動作電位、神經化學遞質、局部場電位，以及由累積神經活動所生成的傳播電磁波。",
+    "epistemic_access": "可透過對神經生理活動（例如局部場電位、電磁波）的客觀第三人稱測量、並將其與內省報告（例如疼痛強度）相關聯來通達，同時該假說亦具有可檢驗性。",
+    "constituents_and_structure": "基本構成單元是感覺輸入（由動作電位編碼），它們被轉化為電磁波，進而相互作用形成一個連貫而統一的結構（意識的當下時刻）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（具體透過疼痛知覺的機制加以展示）以及知覺的統一性／綁定。",
+    "distinctive_mechanism_or_principle": "將以動作電位編碼的感覺資訊（如疼痛訊號）轉化為電磁波，隨後對這些波加以整合。",
+    "dynamics_of_emergence": "意識是一個動態過程，源自跨越不同感覺系統對電磁波的快速而持續的求和與整合。",
+    "location_and_distribution": "定位於大腦，與神經電流（局部場電位）所生成的電磁場相聯繫，是一種遍布全腦的現象。",
+    "causation_and_functional_role": "創造出「一個統一而連貫的世界版本」，並服務於關鍵的生存功能（例如優先處理疼痛感覺）。",
+    "integration_or_binding": "組合問題透過假設個別感覺輸入（轉化為電磁波）的資訊在組合時會內在地整合而獲得解決，從而解釋它們如何創造出統一的經驗。",
+    "information_flow_or_representation": "資訊最初編碼於動作電位之中，經由電磁波流動並被表徵，使其得以與來自其他感官的資訊相整合。",
+    "evolutionary_account": "假設意識，尤其是疼痛感覺，由於其對生存的優先性與關鍵性而演化出來。",
+    "core_claims_and_evidence": [
+      "疼痛因其對生存的關鍵性而成為研究意識的理想對象。",
+      "資訊由動作電位轉化為電磁波。",
+      "被整合的電磁波解釋了各種感覺輸入的統一（「綁定／組合問題」）。"
+    ],
+    "basis_of_belief_or_evidence_type": "神經生物學的、假說／思辨的、相關性的（從聚焦於可驗證的物理訊號推斷得出）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "經驗上可檢驗（Ambron 相信其假說可被檢驗。）",
+    "known_empirical_interventions_or_tests": "檢驗神經動作電位向形成意識的電磁波的具體轉化，並測量電磁波的整合如何與意識經驗（尤其是疼痛強度）相關聯。",
+    "criticisms_and_tensions": "來源中未詳述具體批評。該理論受制於神經生物學與哲學界圍繞意識電磁場理論（EMF-ToCs）的普遍爭議與質疑。",
+    "open_questions_and_limitations": "必須在經驗上證明所假設的神經資訊向連貫、可整合、足以承載現象內容的電磁波之轉化，並證明電磁波的整合確實是意識統一性的真正來源。",
+    "ontological_coherence": "與唯物論存有論相融貫，將意識植根於由神經活動所生成的物理場（能量／場）之中。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作為一種基於特定物理機制（電磁波）——由資訊處理所產生——的唯物論理論，意識在原則上應可於能夠生成並整合類似場的非生物硬體中複現。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識明確地與生物性大腦從神經活動生成電磁波的功能相聯繫，因而在這一物理基質死亡時終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義意義",
+      "rationale": "該理論框定於唯物論之內，以生物必要性與生存關鍵性（例如疼痛）來解釋意識，這並不為終極的宇宙目的提供任何依據。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "如果特定的物理機制（被整合的電磁波及生成它們的過程）能夠在非生物介質中被完美地測量、複製與模擬，那麼虛擬永生在原則上便可實現，這與唯物論相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory (CEMI)",
+        "relationship": "重疊／同類成員（兩者都將電磁場／波設定為意識的基質。）"
+      },
+      {
+        "name": "Jones’s Electromagnetic Fields",
+        "relationship": "重疊／同類成員（兩者都將意識歸入電磁場子範疇之下。）"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "延伸／替代（遞迴處理往往先於意識；Ambron 的理論則認為電磁波是這一活動形成意識的結果。）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Toward the unknown: consciousness and pain",
+        "year": 2023,
+        "names": [
+          "Richard Ambron"
+        ]
+      },
+      {
+        "title_with_names": "How we experience pain may unlock the mystery of consciousness",
+        "year": 2023,
+        "names": [
+          "Richard Ambron"
+        ]
+      },
+      {
+        "title_with_names": "The Brain and Pain; Breakthroughs in Neuroscience",
+        "year": 2022,
+        "names": [
+          "Richard Ambron",
+          "Sinav"
+        ]
+      }
+    ]
+  }
+}

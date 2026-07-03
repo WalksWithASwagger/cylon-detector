@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "副現象論",
+    "summary": "該理論主張意識是生物腦的一種不可化約的產物，但心理狀態對物理實在完全沒有因果力。我們的主觀覺知是真實的，然而「思想引發行動」這一知覺卻是錯誤的，因為意識完全是惰性的，就像海浪上的泡沫。",
+    "associated_thinkers": [
+      "David Chalmers (Classifier)",
+      "Frank Jackson (Related Thinker)"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "哲學",
+    "core_identity_tagline": "意識是真實的，但在因果上是惰性的。",
+    "classification_tags": [
+      "property dualism",
+      "non-reductive physicalism",
+      "mental causation",
+      "causal closure",
+      "illusion"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為在存有論上不同於物理性質、但在因果上依賴於物理性質的現象性質（物理→現象）。",
+    "ontological_status": "弱形式的二元論或非化約物理論。它肯定物理領域的完全因果封閉性。",
+    "mind_body_relationship": "心理狀態完全是生物腦的產物。物理狀態引發現象狀態，但現象狀態對物理沒有任何因果作用（單向因果）。",
+    "primitive_or_emergent_status": "湧現。意識僅僅是生物腦的產物。",
+    "emergence_type": "這些性質不可化約、且在存有論上不同於物理性質，這為現象性質提示了某種強湧現，儘管它在因果上是惰性的。（依據不可化約性主張而作出的判斷。）",
+    "subjectivity_and_intentionality": "對意識的覺知是真實的。主體性（現象性質）在存有論上是獨立的。而心理因果的感受則是錯覺性的。",
+    "qualia_account": "現象性質（感質）是真實的，且在存有論上不同於物理性質，但它們是副現象，因而在因果上是惰性的。",
+    "ontological_commitments": "物理狀態（大腦）以及由其湧現出的、存有論上獨立的現象性質（心理狀態）。",
+    "epistemic_access": "意識透過內省被認識，但由該內省所得出的因果能動感是誤導性的（一種錯覺或把戲）。",
+    "constituents_and_structure": "意識是生物腦功能的一種湧現性質或副產物，被比作「海浪上的泡沫」。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（覺知）。它明確處理並否定心理因果／能動性。",
+    "distinctive_mechanism_or_principle": "「物理因果封閉性」原則規定，無論心理狀態本質如何，它們都必定是完全惰性的副產物。",
+    "dynamics_of_emergence": "心理狀態僅由生物腦動態生成，一切有意識的心理事件都涉及在先的無意識加工。",
+    "location_and_distribution": "完全定位於物理的、生物性的大腦之中。",
+    "causation_and_functional_role": "心理狀態沒有任何因果力。心靈完全是惰性的，不存在「由上而下的因果」；意識是一種無功能的副產物。",
+    "integration_or_binding": "經驗的統一性隱含地由大腦中底層複雜物理歷程實現，正是這些歷程產生了統一的現象狀態。（判斷依據：其關注點在於缺乏向外的因果，而非內部統一的機制。）",
+    "information_flow_or_representation": "資訊處理完全是物理的／無意識的，而現象經驗是這一加工的、無因果作用的並行輸出。",
+    "evolutionary_account": "隱含地與演化相容，因為意識是生物腦的產物。該性質的實在性提示它經由演化產生，但其缺乏功能意味著它並非因其因果效力而被選擇。（依據其在唯物論理論中的歸類而作出的判斷。）",
+    "core_claims_and_evidence": [
+      "意識完全是物理的，僅僅是生物腦的產物。",
+      "心理狀態在存有論上不同於物理狀態（性質二元論）。",
+      "由於物理領域的完全因果封閉性，心理狀態不具有任何因果力。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學（主要由心理因果的解釋負擔以及對物理因果封閉性的承諾所驅動）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上受到挑戰。其核心主張——有意識狀態缺乏因果力——違反直覺，且難以經驗檢驗，因為它涉及證明一種否定性的因果關聯。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "該理論違反直覺，因為在我們看來，現象上有意識的狀態在因果上強烈地至關重要。它迫使人接受這樣一點：我們對心理因果（思想引發事物）的感受是「一種錯覺或把戲」。",
+    "open_questions_and_limitations": "心理因果的整合是核心問題，副現象論透過否認因果來解決它，但這要求接受一個高度違反直覺的結論。",
+    "ontological_coherence": "在一個承諾物理領域完全因果封閉性的唯物論存有論中具有高度融貫性，它達成了一種弱形式的二元論，同時避免了交互論的困難。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識只是大腦中物理歷程的無因果副產物（泡沫），那麼在人工智慧中複製這些物理歷程就應當產生同樣的有意識狀態，而無因果的心理狀態並不會妨礙功能複製。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全是物理的，僅僅是生物腦的產物。這種物理依賴排除了肉體死亡之後的存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本意義",
+      "rationale": "作為一種哲學唯物論理論，它不提供終極意義或目的。既然意識在因果上是惰性的，它便無法賦予宇宙目的論意義上的價值。"
+    },
+    "virtual_immortality": {
+      "stance": "極有可能",
+      "rationale": "意識的惰性意味著，上傳物理狀態必然會複製出副現象性的心理狀態。惰性的「泡沫」對實現虛擬永生幾乎沒有影響。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "弱形式／類型"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "較弱形式／重疊"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "相似但較少被採納的替代方案"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "對照（湧現二元論肯定因果效力，副現象論否定之）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Facing up to the Problem of Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      }
+    ]
+  }
+}

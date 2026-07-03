@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "多伊尔的经验记录器与再现器（ERR）",
+    "summary": "ERR 理论将意识视为一种信息模型，其中心灵由非物质的信息（如同软件）构成。它的运作方式是：当当前的知觉与过往经验相似时，回放这些过往经验——包括感官细节与情绪——从而为有机体提供关键的生存价值。",
+    "associated_thinkers": [
+      "Bob Doyle"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "计算与信息",
+    "core_identity_tagline": "'意识即信息回放'",
+    "classification_tags": [
+      "information",
+      "memory",
+      "binding",
+      "survival",
+      "biological model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为非物质的信息，由大脑中结构化的神经元集群加以记录和再现（重新呈现）。据称对信息的这种处理方式在一种\"双重实现\"中将物理与现象连接起来。",
+    "ontological_status": "物理主义（基于信息）。该理论归类于唯物主义之下，但主张信息本身可能是根本性的，暗示了一种植根于物理基质的信息一元论或双面论观点。",
+    "mind_body_relationship": "存储于'联结在一起'的物理神经元中的信息，同时实现了现象状态与信息状态，这暗示了一种内在联系或'双重生命'，其中信息在物理与现象之间架起桥梁。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "弱涌现。意识源于神经结构内信息的复杂组织与加工，而非作为实在的一种根本成分。",
+    "subjectivity_and_intentionality": "意向性（意义）由对与当前知觉相似的过往经验的再现所唤起，从而引导有机体做出恰当的反应。主体性内在于对原初第一人称经验及伴随情绪的'重新呈现'之中。",
+    "qualia_account": "感受质被说明为原初经验的各组成部分（感官性质与情绪），它们在初始存储时被绑定在一起，并在回放时被再现（重新呈现），而非通过算法进行组装。",
+    "ontological_commitments": "非物质的信息；神经元集群（联结在一起的神经元）；（大脑中的）信息结构。",
+    "epistemic_access": "可通过对信息加工架构进行建模，以及观察对信息的行为反应（界定'信息意识'）来获得。",
+    "constituents_and_structure": "存储于神经元集群（基于赫布原理而联结在一起的神经元）中的信息结构。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性、经验的统一性（绑定）、记忆、适应性行为。",
+    "distinctive_mechanism_or_principle": "经验记录器与再现器（ERR）机制，它规定：一个最简的原始心灵只需在受到相似的当前经验刺激时'回放'过往存储的经验（而非提取表征）。",
+    "dynamics_of_emergence": "动态过程。意识在功能上被定义为一个实体对其环境中的信息动态地做出恰当反应的属性。",
+    "location_and_distribution": "定位于大脑内记录和再现经验的信息结构（神经元集群）中。",
+    "causation_and_functional_role": "意识通过使有机体能够回忆过往相关经验、引导行动，并使实体能够对环境信息做出恰当反应，从而提供生存价值。",
+    "integration_or_binding": "绑定问题得以解决，因为所有感官成分及伴随的情绪内容在初始记录时便被绑定在一起，并在再现时保持绑定，从而无需算法组装。",
+    "information_flow_or_representation": "信息是非物质的，如同软件。它存储于脑结构中，并在受到外部知觉刺激时被直接'重新呈现'为经验。",
+    "evolutionary_account": "意识之所以演化，是因为它在使有机体面对新知觉时能够提取并利用过往经验方面具有'显而易见的相关性（生存价值）'。",
+    "core_claims_and_evidence": [
+      "心灵是非物质的信息，有别于数字信息加工。",
+      "意识被定义为一个实体对其环境中的信息做出恰当反应的属性。",
+      "意识通过在神经元集群中瞬时再现（重新呈现）经过存储、整合的经验（ERR）而实现。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念性；计算性（信息模型）；哲学性。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验。该理论依赖于神经生物学原理（赫布）与信息论，这表明可通过对复杂信息的存储与再现如何在神经系统中实现进行建模来加以检验。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要的概念张力在于：一方面将心灵描述为非物质的信息，另一方面又明确指出大脑并非在加工数字信息，这就要求给出一个有别于常规计算模型的信息定义。",
+    "open_questions_and_limitations": "信息'双重实现'的确切本质——即信息如何连接物理过程与意识经验——需要详细的阐释，才能构成一个根本性的意识理论。",
+    "ontological_coherence": "作为一种信息模型内部是融贯的，但其对非物质信息的依赖挑战了严格的还原论唯物主义，使其分类被推向物理主义的边界。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "既然意识在信息的意义上被功能性地定义（对信息做出恰当反应），且心灵被比作软件，那么人工系统应能例示实现意识所需的信息结构，前提是它们能够再现整合经验的复杂性。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识与生物神经元集群内信息结构的物理实现相关联；因此，它在身体与大脑消解之时便告终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本主义",
+      "rationale": "该理论以适应性生存价值来解释意识，这与一般不承认任何终极宇宙意义或目的的唯物主义框架相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果心灵是记录于大脑中的非物质信息（软件），那么将这一信息结构完美复制到非生物媒介中，应能保存第一人称的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "延伸（它是一种特定的、非数字的计算/信息模型）"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "兼容（依赖于存储的经验与在物理上'联结在一起'的神经元之间的强同一性）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Recorder and Reproducer, Bob Doyle",
+        "year": null
+      }
+    ]
+  }
+}

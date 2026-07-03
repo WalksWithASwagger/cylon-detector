@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "彭罗斯-哈梅罗夫的编配客观还原",
+    "summary": "该理论主张意识产生自脑神经元内部的蛋白质结构（微管）中所发生的、非计算的、由引力介导的量子叠加态的客观还原（OR）。这一过程被称为编配客观还原（Orch OR），它弥合了量子力学与经典实在之间的鸿沟，从而产生现象经验。",
+    "associated_thinkers": ["Roger Penrose", "Stuart Hameroff"],
+    "category": "量子理论",
+    "subcategory": "编配客观还原",
+    "core_identity_tagline": "意识作为微管中的编配客观还原",
+    "classification_tags": [
+      "quantum",
+      "non-computational",
+      "microtubules",
+      "objective reduction",
+      "spacetime"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被认定为一种非计算的物理过程——即对与时空几何精细结构相联系的量子态所进行的、由引力介导的客观还原的特定编配。原初意识的瞬间在宇宙中是根本性的且无处不在的。",
+    "ontological_status": "量子理论（非计算的物理主义／原初泛心论）",
+    "mind_body_relationship": "意识是非计算的物理学。大脑的微管充当一种机制，将原初意识的量子活动编配成融贯而丰富的意识经验，这需要一种超越当前理解的物理学。",
+    "primitive_or_emergent_status": "涌现／原初（混合型）",
+    "emergence_type": "强涌现",
+    "subjectivity_and_intentionality": "Orch OR 雄心勃勃地为现象经验的难问题作出说明。主体性系于量子坍缩事件期间选择或还原的非可计算本性。",
+    "qualia_account": "当编配客观还原发生于神经元微管中时，丰富的意识经验（感受质）便产生，它将量子信息处理与时空几何的根本结构相连接。",
+    "ontological_commitments": "原初意识的瞬间、量子叠加、引力自坍缩，以及神经元微管。",
+    "epistemic_access": "经由将物理学原理（非可计算性、量子引力）的数学分析应用于神经生物学基质而通达，并辅以对麻醉剂与致幻剂的研究。",
+    "constituents_and_structure": "神经元微管内微管蛋白中的量子态（量子比特），它们维持相干足够长的时间以经历由引力介导的客观还原事件。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象经验、认知绑定、实时的意识因果行动、记忆编码。",
+    "distinctive_mechanism_or_principle": "编配客观还原（Orch OR），其中非计算的、瞬时的量子态坍缩由微管晶格内维持的相干量子活动所利用。",
+    "dynamics_of_emergence": "意识是一种动态流，产生于量子系统因引力自能而坍缩之时，运作于连续的量子演化与离散的经典事件之间那一根本性的时间间隙中。",
+    "location_and_distribution": "定位于神经元微管之内，尤其是在大脑中，但从根本上取用遍及整个宇宙、无处不在的原初意识属性。",
+    "causation_and_functional_role": "意识通过非可计算的客观还原事件提供实时的意识因果行动，可能与自由意志和选择的根本机制相联系。",
+    "integration_or_binding": "该理论通过假定 Orch OR 事件将多样的输入统一为单一的、瞬时的意识知觉来说明认知绑定。",
+    "information_flow_or_representation": "信息经由微管中的相干量子叠加而被处理，影响神经元信号传递所必需的更高层级的化学与电活动。",
+    "evolutionary_account": "意识可能先于生命而存在，原初意识的瞬间对宇宙而言是根本性的。生命通过利用并编配这些无处不在的原初意识过程而演化。",
+    "core_claims_and_evidence": [
+      "意识需要一种超越当今物理学的非计算物理过程（量子引力）。",
+      "神经元微管中的 Orch OR 是生成意识经验的特定机制。",
+      "该理论对认知绑定与非可计算的意识选择作出说明。",
+      "麻醉效应与微管蛋白独特的量子属性支持微管的作用。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、理论物理学、神经生物学、经验的（麻醉研究、某些量子相干发现）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "理论上可检验；涉及坍缩动力学的版本原则上可用量子计算机加以检验，尽管当前的检验尚属初步。",
+    "known_empirical_interventions_or_tests": [
+      "显示全身麻醉剂、致幻剂与抗抑郁药与微管相互作用的研究。",
+      "旨在检验生物系统中量子相干维持的实验（如微管蛋白研究）。",
+      "通过结合 IIT 与坍缩动力学来检验理论版本。"
+    ],
+    "criticisms_and_tensions": "主要的张力在于：在大脑温热、潮湿的环境中，如何在生物时间尺度上维持量子相干（环境退相干）这一挑战。该理论还需要尚不存在的物理学（量子引力）。",
+    "open_questions_and_limitations": "量子信息如何影响宏观神经元信号传递的确切机制仍不清楚。它需要量子力学与引力的统一，即物理学的圣杯。",
+    "ontological_coherence": "在一种将原初意识属性纳入根本层级的扩展物理学框架内是融贯的，但与经典或当代物理主义及功能主义不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意识从根本上是非计算的，并依赖于特定的生物量子过程（微管中的 Orch OR）；数字模拟无法复制真正的感受能力。"
+    },
+    "survival_beyond_death": {
+      "stance": "或许可能",
+      "rationale": "作为时空几何中的一种非局域量子过程，意识为濒死体验、来世与轮回等现象提供了一种潜在可信的机制。"
+    },
+    "meaning_and_purpose": {
+      "stance": "隐含的宇宙性",
+      "rationale": "原初意识的瞬间是根本性的且无处不在的，将意识与实在的精细结构相连接，暗示其内在的宇宙相关性，并可能促成演化本身。"
+    },
+    "virtual_immortality": {
+      "stance": "有条件",
+      "rationale": "心灵上传需要在一种人工介质（如碳纳米管）中重建意识，该介质须拥有维持并编配客观还原事件所必需的量子物理属性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批评／对照"
+      },
+      {
+        "name": "Beck-Eccles’s Quantum Processes in the Synapse",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Bohm’s Implicate-Explicate Order",
+        "relationship": "影响"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Shadows of the Mind: A Search for the Missing Science of Consciousness, Roger Penrose",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Conscious., Microtub. ‘Orch OR’, Stuart Hameroff",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Consciousness & new physics, Roger Penrose",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Consciousness came before life, Stuart Hameroff, et al.",
+        "year": 2024
+      }
+    ]
+  }
+}

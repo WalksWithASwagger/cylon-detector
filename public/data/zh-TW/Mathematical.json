@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "數學理論",
+    "summary": "此範疇涵蓋兩類取徑：一類運用嚴謹的數學工具來描述意識經驗的結構、層次、內容與動力學（知識論觀點）；另一類則是主張數學結構為意識本身之終極基礎或本質的基礎理論（存有論觀點）。",
+    "associated_thinkers": [
+      "Johannes Kleiner",
+      "Tim Ludwig",
+      "Yucong Duan",
+      "Max Tegmark",
+      "Roger Penrose"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算與資訊",
+    "core_identity_tagline": "意識即形式數學結構",
+    "classification_tags": [
+      "mathematics",
+      "ontology",
+      "formalism",
+      "structure",
+      "computation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識根本上被等同於底層的數學結構、關係或空間，或由其衍生而來，從而使經驗性質的形式化成為可能。",
+    "ontological_status": "有條件一元論（理由：其範圍從支持傳統物理論／唯物論模型，到提出以數學實在作為終極基礎的存有論主張——後者超越了嚴格的唯物論。）",
+    "mind_body_relationship": "高度不一。存有論變體主張，物理世界與心靈經驗兩者皆為原初數學實在的次生顯現或「影子」（例如彭羅斯的柏拉圖世界）。知識論變體則主張現象經驗與數學空間之間存在結構同構。",
+    "primitive_or_emergent_status": "不定",
+    "emergence_type": "不定（理由：存有論變體主張意識作為終極數學實在的一部分是原初的／根本的。著重動力學的模型則主張意識狀態透過複雜的數學關係弱湧現而出。）",
+    "subjectivity_and_intentionality": "主體性與現象性質由數學空間與結構加以形式化刻畫，旨在辨識出對應於意識之被經驗面向的組成與定義域。",
+    "qualia_account": "感質，或稱現象空間，被視為數學結構，其特徵與經驗的性質同構。該理論試圖確保意識經驗中確有某物字面上對應於所主張的結構。",
+    "ontological_commitments": "數學結構與形式；表示意識經驗各面向的定義域；抽象的柏拉圖實在（於某些變體中）。",
+    "epistemic_access": "透過抽象的形式方法、數學建模，以及對現象特徵進行嚴謹的量化或結構性描述來通達。",
+    "constituents_and_structure": "由稱為「定義域」的集合構成，其元素對應於意識經驗的各面向，以及作用於這些定義域之上、經嚴格定義的關係或函數。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意識經驗的結構、層次、內容與動力學（演化軌跡、穩定狀態、資訊流）。",
+    "distinctive_mechanism_or_principle": "關鍵機制是對意識進行嚴謹的形式表徵。存有論觀點主張意識固有地由數學定律所結構化，一如量子力學。",
+    "dynamics_of_emergence": "意識動力學可運用如動態系統理論之類的理論加以描述，該理論刻畫其演化軌跡與穩定狀態。",
+    "location_and_distribution": "位置相對於抽象數學結構而言居於次要地位。在存有論觀點中，位置或為宇宙性的，或寓於柏拉圖式的形式界域。",
+    "causation_and_functional_role": "數學充當尋找模式、週期性與相關性所需的「意識語言」，從而揭示因果關係與功能。",
+    "integration_or_binding": "統一性與綁定通常透過形式化的數學結構加以量化或描述，例如資訊流模型，或複雜性與整合的度量。",
+    "information_flow_or_representation": "資訊理論常被用以量化意識內部的流動與熵值。其核心方案是以數學空間的術語來表徵意識經驗。",
+    "evolutionary_account": "核心理論未直接處理（理由：數學理論的焦點一般在於瞬時結構與根本本質，而非種系發生的發展，儘管它支持如弗里斯頓的自由能原理等具備演化說明的理論）。",
+    "core_claims_and_evidence": [
+      "意識由數學結構所構成（存有論觀點）。",
+      "意識經驗精確對應於數學對象與幾何特徵。",
+      "如動態系統理論與資訊理論等數學工具能量化意識的內部動力學。"
+    ],
+    "basis_of_belief_or_evidence_type": "形式性／數學性、概念性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗。在為特定科學理論（如整合資訊理論）提供數學框架時，則可經驗檢驗。",
+    "known_empirical_interventions_or_tests": "取決於理論（理由：此取徑為其他理論，如整合資訊理論與自由能原理，提供形式語言，而這些理論繼而界定特定的經驗度量與介入）。",
+    "criticisms_and_tensions": "被批評之處在於：難以證明數學形式體系捕捉到的是意識經驗的實際本質，而非僅僅描述功能相關物。存有論主張（如意識由數學「構成」）極具爭議。",
+    "open_questions_and_limitations": "主要的未解問題是：如何在數學的抽象形式實體與意識經驗（感質）的具體現象感受之間架起橋樑。",
+    "ontological_coherence": "當與柏拉圖主義或數學宇宙假說的存有論相配時，融貫性甚高；但在應用於嚴格的化約性物理論時，於解釋質性主體性方面面臨挑戰。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件",
+      "rationale": "若意識純粹由抽象的數學結構或計算邏輯所界定，那麼實現該結構的人工系統便有可能實例化意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "有條件",
+      "rationale": "存有論式的數學理論（如泰格馬克、彭羅斯）主張實在的基礎是永恆的數學結構，這可能使意識在抽象意義上得以在物理大腦之外存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "有條件的宇宙意義",
+      "rationale": "若宇宙根本上是數學性的，或植根於柏拉圖式的形式，這便意味著存在具有內在的理性意義，儘管未必是個人性的目的論意義。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "若心靈可完全化約為可量化的數學結構或資訊流，那麼此模式原則上便可被保存並實例化於新的基質之中。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "影響"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "影響"
+      },
+      {
+        "name": "Tegmark’s State of Matter",
+        "relationship": "延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is a mathematical structure of conscious experience?",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality, Max Tegmark",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Shadows of the Mind: A Search for the Missing Science of Consciousness, Roger Penrose",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Consciousness, mathematics, and natural laws, Yucong Duan and Shiming Gong",
+        "year": 2024
+      }
+    ]
+  }
+}

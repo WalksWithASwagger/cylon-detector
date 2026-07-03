@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "功能主义",
+    "summary": "功能主义主张，心理状态由其彼此之间、与感觉输入以及与行为输出之间的因果关系所定义，而与其得以实现的物理介质（基质）无关。意识的本质取决于心理状态如何运作或运行，而非取决于它们由何种物质构成。",
+    "associated_thinkers": [
+      "Ned Block",
+      "J.J.C. Smart",
+      "Janet Levin"
+    ],
+    "category": "唯物主义",
+    "subcategory": "哲学",
+    "core_identity_tagline": "心理状态是由其因果角色所定义的功能状态",
+    "classification_tags": [
+      "functional role",
+      "multiple realizability",
+      "computational",
+      "causal relations"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "心理状态被认定为功能状态，由其因果关系、角色、结果与输出所构成，这意味着它们可在任何支持这些功能的基质中实现。",
+    "ontological_status": "物理主义（广义上，对实体持不可知态度）。该理论归于唯物主义之下，但在形而上学上对非物理实体持不可知态度，主要聚焦于心理状态的功能描述。",
+    "mind_body_relationship": "心理状态是与功能角色相同一的功能状态，这些功能角色在物理基质中得以实现或例示，由此形成‘功能状态同一论’。",
+    "primitive_or_emergent_status": "涌现。意识产生于由足够复杂的基质（如神经组织或计算机芯片）所实现的功能组织。",
+    "emergence_type": "弱涌现。既然功能是可定义的、且原则上可在不同基质中多重实现，那么涌现出的心理属性在原则上就可由底层的功能结构与物理定律加以解释。",
+    "subjectivity_and_intentionality": "主体性与意向性以特定的功能组织与因果关系来加以说明。例如，在相关的功能主义理论中，意向性通过对心理状态的二阶表征来理解。",
+    "qualia_account": "该理论历来难以说明现象感受质，通常通过如下方式加以处理：主张质性感受完全被功能角色所穷尽，或与表征理论相结合。",
+    "ontological_commitments": "功能角色或因果关系是关键实体。该理论假定存在能够例示信息与功能架构的基质，无论是神经组织还是计算机芯片。",
+    "epistemic_access": "意识通过分析心理状态如何借由其与感觉输入和行为输出的因果关系而运作来加以通达和理解，通常与计算视角和第三人称视角相关联。",
+    "constituents_and_structure": "心理状态由界定于感觉输入、内部状态与行为输出之间的因果关系所构成。这些关系构成了心灵的功能结构。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "心理状态（记忆、思考、创造）以及现象意识的结构性要求；为人工智能意识和虚拟永生提供基础。",
+    "distinctive_mechanism_or_principle": "多重可实现性原则，即心理状态的实现独立于物理基质，仅取决于所需功能是否得到例示。",
+    "dynamics_of_emergence": "每当一个物理系统内出现必要的功能关系（如由算法或因果流所定义的关系），意识便作为一种功能过程或活动被实现。",
+    "location_and_distribution": "分布于任何成功实现该功能组织之处，无论其基质是神经组织还是硬连线的计算部件。",
+    "causation_and_functional_role": "功能、角色与输出具有决定性作用。心理状态具有因果效力，因为它们由其在系统内的因果关系（功能角色）所定义。",
+    "integration_or_binding": "整合通过成功实现复杂功能架构而达成，在其中多个输入与内部状态相互因果关联，从而产生统一的输出。",
+    "information_flow_or_representation": "信息处于核心地位，尤其在计算功能主义中，经典计算模型（算法）例示了心理状态的功能要求。",
+    "evolutionary_account": "未被直接论及，但与演化解释完全相容，因为该理论归于唯物主义之下，这提示意识是一种通过功能过程赋予适应或生存优势的演化机制。",
+    "core_claims_and_evidence": [
+      "心理状态由其彼此之间以及与输入／输出之间的因果关系所构成。",
+      "心理状态与功能状态相同一（功能状态同一论）。",
+      "基质的性质无关紧要，重要的只是所执行的功能。",
+      "它作为‘虚拟永生’的理论基础。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学（概念定义）、计算（通过心灵的计算理论）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上与经验上均可检验。思想实验（如基质替换）探测其概念界限，而计算实现（人工智能）则检验其经验应用。",
+    "known_empirical_interventions_or_tests": "硅芯片替换思想实验在概念上用于检验：当功能角色在基质变更中得以维持时，现象意识是否被保留。",
+    "criticisms_and_tensions": "它因仅描述功能角色而未能说明现象意识（感受质）而备受批评，由此引出‘难问题’的挑战，即功能角色未必能穷尽有意识经验的本质。",
+    "open_questions_and_limitations": "尚未解决的重大问题是：有意识经验是否完全被功能角色所穷尽。功能性定义如何完整地把握经验的主观、质性方面，仍不清楚。",
+    "ontological_coherence": "与广义物理主义本体论高度融贯。尽管有一位支持者将其界定为在形而上学根据上与还原式物理主义‘不相容的对手’，但它提供了还原方案所必需的功能刻画。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "功能主义主张意识基于功能而非生物学。如果正确的功能能够在非生物基质中通过计算加以实现，那么人工智能意识原则上就是可能的，并且若唯物主义为真则是确定无疑的。"
+    },
+    "survival_beyond_death": {
+      "stance": "有条件／否",
+      "rationale": "作为一种物理主义理论，意识依附于基质。只有当功能性的心理状态能够被成功转移（上传）到一个新的、延续的基质时，超越生物性肉体死亡的存续才有可能（虚拟永生）。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本意义",
+      "rationale": "功能主义描述了心灵／意识在物理世界中运作的机制，提供了能动与反思的能力，但不为终极的宇宙意义或目的论提供依据，这与唯物主义的一般立场一致。"
+    },
+    "virtual_immortality": {
+      "stance": "可达成",
+      "rationale": "功能主义充当虚拟永生的理论基础。如果心理自我的功能角色能被完美复制并上传到新的介质，第一人称的心理自我便得以保存。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Functionalism",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Homuncular Functionalism (Lycan)",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "相容／对手"
+      },
+      {
+        "name": "Neurofunctionalism (Prinz)",
+        "relationship": "拓展"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism? (N. Block)",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Is Functionalism? Consciousness, Function, and Representation (N. Block)",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Functionalism (J. Levin)",
+        "year": 2023
+      }
+    ]
+  }
+}

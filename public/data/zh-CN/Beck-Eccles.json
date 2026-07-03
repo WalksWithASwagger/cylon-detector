@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "贝克-埃克尔斯的突触中的量子过程",
+    "summary": "这一开创性的量子神经生物学理论主张，有意识的行动或心理意图通过充当量子触发器来影响物理性的脑过程。具体而言，心理意图经由突触中的量子态还原来调节突触前神经元中递质分子的释放。",
+    "associated_thinkers": [
+      "Sir John Eccles",
+      "Friedrich Beck"
+    ],
+    "category": "量子理论",
+    "subcategory": "量子神经生物学机制",
+    "core_identity_tagline": "作为突触中量子触发器的意识",
+    "classification_tags": [
+      "quantum",
+      "neurobiology",
+      "synapse",
+      "volition",
+      "interactionist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识本质上与在突触前神经元信息传递过程中发生的量子态还原（或振幅的选择）这一物理过程相关联。",
+    "ontological_status": "二元论交互论（有据：该机制描述了非物理性的心理行动／意志直接影响物理过程，这是交互论的特征。）",
+    "mind_body_relationship": "心理意图（意志）通过瞬间提高特定皮层区域中胞吐（递质分子释放）的概率而变得在神经上有效，从而将有意识的行动与量子触发器联系起来。",
+    "primitive_or_emergent_status": "涌现（有据：意识具体是通过定位于突触结构中的复杂量子力学相互作用而产生的，而非对一切实在都是基础性的。）",
+    "emergence_type": "强涌现（量子触发器）（有据：引入量子逻辑和不可预测性使得非物理性的心理力量能够影响物理脑态，意味着不可还原为经典物理学。）",
+    "subjectivity_and_intentionality": "主体性与意向性（心理意图／意志）是在突触层面主动影响物理概率的特定心理力量。",
+    "qualia_account": "未作明确阐述。（有据：该理论主要着眼于为心理影响（意志／意图）确立一种因果机制，而非现象内容的本性。）",
+    "ontological_commitments": "量子力学特征；突触结构（突触前神经元、突触膜）；心理意图／意志；皮层神经网络。",
+    "epistemic_access": "通过将具体的量子力学特征进行物理建模并应用于神经生物学，并将其结果与观察到的有意识行动相关联来通达。",
+    "constituents_and_structure": "将量子效应（态还原）应用于大脑皮层神经元突触膜内的电子转移过程，以调控突触开关。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "能动性、自由意志、意志／意图、现象性（隐含）",
+    "distinctive_mechanism_or_principle": "量子态还原／振幅选择，为“一种新逻辑”（量子逻辑）提供了一道“门”，使有意识的行动得以调控胞吐这一物理过程。",
+    "dynamics_of_emergence": "有意识的行动是一个在大脑皮层中形成时间性模式的动态过程，量子触发器使得对无数突触开关的有效调控成为可能。",
+    "location_and_distribution": "定位于大脑皮层，具体在神经元之间的突触处（突触前神经冲动、突触膜中的电子转移过程）。",
+    "causation_and_functional_role": "意识具有直接的因果角色，通过在量子态坍缩中引入根本性的非决定性，使心理力量（意图）得以影响脑态。",
+    "integration_or_binding": "未作明确阐述。（有据：其焦点在于意志性影响的机制，而非将感觉输入绑定为统一经验。）",
+    "information_flow_or_representation": "信息传递经由突触前神经元中的量子力学特征进行，引入了一种以单一事件不可预测性为特征的量子逻辑。",
+    "evolutionary_account": "所提供的来源中未涉及。（有据：其焦点严格限于现有生物系统中有意识影响所必需的物理／量子基质。）",
+    "core_claims_and_evidence": [
+      "有意识的行动本质上与脑中的量子态还原相关联。",
+      "心理意图通过瞬间提高选定皮层区域中胞吐的概率而变得在神经上有效。",
+      "量子逻辑为心理力量影响脑态开启了契机。"
+    ],
+    "basis_of_belief_or_evidence_type": "理论性的、量子力学模型"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验（该理论将具体的量子力学特征应用于描述生物过程，原则上提示了可供验证的途径）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论面临着量子意识理论普遍遭遇的怀疑，因为大多数物理学家和神经科学家质疑量子效应在温暖、宏观的脑层面上的可扩展性与相关性。",
+    "open_questions_and_limitations": "核心难题在于突触处的单一量子事件如何转化为复杂、整合的意识经验，以及将量子现象与宏观尺度神经生物学相调和这一长期存在的挑战。",
+    "ontological_coherence": "在一个通过利用量子物理学固有的非决定性而赋予非物理性心理状态（意志）以因果效力的本体论框架内是融贯的。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件",
+      "rationale": "如果意识依赖于生物突触所固有的特定的、非计算的量子力学特征（电子转移过程），那么人工系统就需要复制这些精确的量子基质才能获得意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "不确定",
+      "rationale": "该理论在心理意图与脑活动之间确立了因果联系。然而，它并未说明触发这些量子过程的那个非物理性心理实体（意志／意图）在生物装置被摧毁后是否会存续。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是",
+      "rationale": "该理论主张有意识的行动／意志直接影响物理过程，且自由意志由量子非决定性所使能，从而支持了意向性心理生活的因果效力与意义，暗示行动具有内在的目的／价值。"
+    },
+    "virtual_immortality": {
+      "stance": "不确定",
+      "rationale": "虚拟永生取决于所需的生成意识的结构（突触机制中的量子态还原）能否被先进技术在非生物介质中加以操控或复制。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "relationship": "重叠"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Quantum aspects of brain activity and the role of consciousness, Beck and Eccles",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Quantum processes in the brain: a scientific basis of consciousness, Beck and Eccles",
+        "year": 1998
+      }
+    ]
+  }
+}

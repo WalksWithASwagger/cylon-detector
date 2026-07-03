@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "塞尔的生物自然主义",
+    "summary": "生物自然主义主张，意识是大脑的一种真实的、不可还原的、主观的生物学特征，完全由低层的神经生物学过程所引起，并作为高层的系统特征得以实现。这一进路力图在接受科学世界观的同时，承认有意识经验的第一人称本体论，从而解决心身问题。",
+    "associated_thinkers": ["John Searle"],
+    "category": "唯物主义",
+    "subcategory": "哲学",
+    "core_identity_tagline": "意识是大脑不可还原的生物学特征",
+    "classification_tags": [
+      "biological",
+      "naturalism",
+      "causal_reductionism",
+      "first-person_ontology",
+      "irreducible"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "有意识状态被认定为真实世界的真实组成部分，是大脑高层的系统特征，被定义为在清醒期间持续存在的觉知、感受性或感觉状态。",
+    "ontological_status": "物理主义（生物自然主义）。它认为意识作为一种主观的、质性的生物学属性而属于自然的一部分，拒斥那种通过否认其主观本体论来‘自然化’意识的尝试。",
+    "mind_body_relationship": "有意识状态在因果上被还原为低层的脑过程（因果可还原性），但在本体论上不可还原为这些过程，因为意识具有主观（第一人称）本体论，而其基础具有客观（第三人称）本体论。",
+    "primitive_or_emergent_status": "涌现",
+    "emergence_type": "各来源并未明确归类其涌现类型。由于意识完全由物理过程引起（唯物主义），却在本体论上不可还原，这一模型在物理主义图景中占据独特位置，主张一种严格系于生物学因果性的、稳健且不可取消的涌现实在。",
+    "subjectivity_and_intentionality": "有意识状态在本体论上是主观的（仅作为被某主体所经验而存在），且大多数有意识状态是意向性的（关于或指向对象与事态）。",
+    "qualia_account": "有意识状态本质上是质性的，即处于任何特定有意识状态都有一种独特的质性感受，而这种质性感受是世界真实且不可还原的一部分。",
+    "ontological_commitments": "生物脑及其低层神经生物学过程；以质性感受、本体论主观性、统一性和意向性为特征的有意识状态。",
+    "epistemic_access": "意识既通过内省（第一人称视角）被直接认识，也通过研究其在低层脑过程中的因果基础（第三人称客观性）被间接认识。",
+    "constituents_and_structure": "意识作为一个单一的、统一的意识场而存在，是大脑系统的高层特征，具有质性感受与主体性等本质特征。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识（质性感受）、意向性和因果效力。",
+    "distinctive_mechanism_or_principle": "其原理是：一切有意识状态都可靠而普遍地由低层脑过程引起，并作为系统特征得以实现，如同一台真实的生物机器在运作。",
+    "dynamics_of_emergence": "一种由持续的神经活动不断引起的动态过程，产生主观觉知（意识）状态，始于从无梦睡眠中醒来之时。",
+    "location_and_distribution": "定位于生物脑，具体作为大脑的高层特征或系统特征得以实现。",
+    "causation_and_functional_role": "有意识状态作为真实世界的真实组成部分在因果上发挥作用（因果效力），为意向性行动以及与环境的互动提供基础。",
+    "integration_or_binding": "有意识状态被经验为单一统一意识场的一部分，尽管各来源并未详述这种神经统一的具体机制。",
+    "information_flow_or_representation": "有意识状态在很大程度上是意向性的（关于某物），意味着它们含有内容；塞尔把意识置于内容之先。",
+    "evolutionary_account": "隐含。‘生物自然主义’的框架假定意识作为一种生物学特征而产生，这与基于科学的自然主义视角相一致，尽管未提供具体的演化细节。",
+    "core_claims_and_evidence": [
+      "有意识状态是真实世界的真实组成部分，不可被取消或还原为他物（本体论不可还原性）。",
+      "一切有意识状态都由低层脑过程引起，这由压倒性的大量证据所确立（因果可还原性）。",
+      "有意识状态作为高层特征或系统特征在大脑中得以实现。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学（界定本质特征）与经验（关于心脑相关性的神经科学证据）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "原则上可经验检验，因为该理论要求找出低层脑过程引起意识的确切因果细节。",
+    "known_empirical_interventions_or_tests": "该理论总体上得到神经科学经验证据的支持，这些证据显示了意识与脑活动之间的关联（如脑损伤、脑刺激）。",
+    "criticisms_and_tensions": "批评者质疑关于脑状态与意识之间因果关联已被充分确立的主张。在坚持唯物主义的同时又论证意识在本体论上是主观的、不可还原为客观物理过程，这之间存在张力。",
+    "open_questions_and_limitations": "意识究竟如何由脑过程引起，其具体细节尚不为人知，这使得人工复制意识无法实现。",
+    "ontological_coherence": "高。该理论通过将意识界定为自然的一种特定生物学特征而在内部保持融贯，从而主张一种必然的因果同一（而非本体论同一），以此绕开传统的心身问题。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有条件／可能",
+      "rationale": "塞尔拒斥通过模拟实现意识（中文房间论证），但认为如果引起意识的、因果上充分的生物学机制被弄清，那么一台实现同一机制的人工机器就可能有意识，因为意识并不严格要求生物神经元，而只要求足够的因果力。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全是物理的，仅仅是生物脑的产物；因此，大脑与身体的死亡意味着不可挽回的、永久的不存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅限人本意义",
+      "rationale": "作为一种唯物主义理论，生物自然主义难以为终极的宇宙意义或目的提供合理依据，尽管由我们自己创造的人本意义仍是可能的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意识完全可由物理／生物状态加以说明，那么在非生物介质中复制这些状态（及其因果关系）原则上便能允许第一人称心理自我的上传与延续。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "重叠／演进（一种基于脑同一的更成熟的唯物主义形式）"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "对照（两者都是生物自然主义者，但丹尼特把内容／功能置于首位，塞尔则把意识／主体性置于首位）"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "批评（塞尔从现代科学世界观出发，拒斥这一理论及其他传统理论，认为它们无关宏旨）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Rediscovery of Mind",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Biological naturalism",
+        "year": 2007
+      },
+      {
+        "title_with_names": "What things are conscious?",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Consciousness and Language",
+        "year": 2002
+      }
+    ]
+  }
+}

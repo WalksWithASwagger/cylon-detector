@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Jaworski 的形质论",
+    "summary": "Jaworski 的理论主张，意识从根本上是一种源自形质论（hylomorphism）的结构性现象——形质论是这样一条基本的本体论原理：结构说明了物理个体的力量与能力。通过将意识经验界定为知觉者的结构化活动，该理论声称既解决了意识的难问题，又把心理现象无碍地安置于自然世界之中。",
+    "associated_thinkers": ["William Jaworski"],
+    "category": "唯物主义",
+    "subcategory": "关系性",
+    "core_identity_tagline": "‘意识作为基本的结构与力量’",
+    "classification_tags": [
+      "hylomorphism",
+      "structure",
+      "physicalism",
+      "powers",
+      "mind-body solution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被确认为一种结构性现象——即由构成知觉者的物理材料所产生的、高度组织化和协调化的活动与能力。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "结构性同一。心理现象是结构性现象，因而是物理世界的一部分。经典的心身问题被视为那些拒斥‘结构是一条基本本体论原理’之世界观的副产品。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "各来源未指明是弱涌现还是强涌现。鉴于结构完全解释了现象特征，这表明其为一种旨在还原为结构或弱涌现的观点，与其唯物主义归类相容。",
+    "subjectivity_and_intentionality": "主体性源自那把知觉者各子系统的活动统一为一个整体的协调。意向性被隐含地说明为由特定物理结构所赋予的诸基本力量或能力之一。",
+    "qualia_account": "经验的现象特征通过描述知觉者的底层结构而得到完全解释，这一结构包括各知觉子系统、它们各自的力量，以及把这些活动统一起来的整体协调。",
+    "ontological_commitments": "物理材料与结构，其中结构被假定为一条基本的本体论与解释性原理，负责决定个体的力量与能力。",
+    "epistemic_access": "意识通过对知觉者物理结构及其知觉子系统之协调的分析与描述而被通达。",
+    "constituents_and_structure": "基本构件是物理材料与特定结构的结合；整体结构决定了意识能力，并把各种活动（如知觉经验）统一为知觉者作为整体的活动。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象性（解释现象特征／感受质）与知觉性（知觉经验是一种结构化活动）。",
+    "distinctive_mechanism_or_principle": "形质论原理，它主张物质的整体组织决定其基本力量，从而使意识成为一个足够复杂的物理系统所固有的结构属性。",
+    "dynamics_of_emergence": "意识显现为‘结构化活动’（如知觉经验）。它是一个由各子系统的协调与统一所界定的动态过程。",
+    "location_and_distribution": "局部化于拥有所需结构的物理材料之中，具体而言在知觉者的身体之内（如人脑及相关子系统）。",
+    "causation_and_functional_role": "结构负责个体的力量与能力。由于心理现象是结构性的、是物理世界的一部分，它们便拥有固有的因果效力。",
+    "integration_or_binding": "意识经验的统一性（整合）通过那把各种知觉子系统的活动‘统一起来的协调’而实现，使之成为整个知觉者的整合活动。",
+    "information_flow_or_representation": "意识源自特定的结构化活动（如知觉经验），这些活动依赖于知觉者的内部组织与力量，而非仅依赖抽象的信息加工模型。",
+    "evolutionary_account": "有理由的解释：意识被指出如同生命一样‘无碍地契合于自然世界’，这暗示它是演化的一种自然而不神秘的产物，尽管源材料未详述其具体的系统发生步骤。",
+    "core_claims_and_evidence": [
+      "结构是一条决定个体力量与能力的基本本体论原理。",
+      "经验的现象特征通过描述知觉者的结构而得到完全解释。",
+      "心身问题不过是拒斥形质论原理的副产品。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的与本体论的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可检验。其核心论证是形而上学的，提供了一个框架（形质论）来消解该问题，可通过分析其前提而在哲学上加以检验。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论的主要张力在于，需要非信奉者接受‘结构是一条能够解释一切主观方面的基本本体论原理’。物理主义的批评者会拒斥‘单凭结构就足以消解难问题’这一前提。",
+    "open_questions_and_limitations": "即便接受了其形而上学根基，该理论框架仍需大量工作来精确阐明：观察到的神经或生物结构如何详尽地对应于所知觉到的现象特征。",
+    "ontological_coherence": "高度融贯。该理论专门被构造出来以确立内部一致性，其方式是确保意识性的心理现象必然是物理世界中整合的结构组成部分，从而解决它所指定的哲学问题。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "若意识是达到某种特定复杂物理结构与组织（形质论）的直接结果，那么任何被设计为拥有该所需结构与力量的人工系统都将实例化出真正的意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识与个体高度组织化的物理材料密不可分。这一结构的停止或分解意味着意识的终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义的",
+      "rationale": "被归类为唯物主义，意识是自然的、结构性现象的产物。因此，任何意义或目的都是由人在自然世界中的结构能力与活动所生成的，而非宇宙固有的。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "若意识完全由精巧的‘结构’及其由此产生的‘力量’所界定，那么把这一完整的结构性安排复制或上传到一个新的、非生物的基质中，就应当保存意识自我，这与该理论的功能主义面向相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Mind-Body Identity Theory",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Feser’s Neo-Thomistic Dualism",
+        "relationship": "相关"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem, William Jaworski",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Hylomorphism and the construct of consciousness, William Jaworski",
+        "year": 2020
+      }
+    ]
+  }
+}

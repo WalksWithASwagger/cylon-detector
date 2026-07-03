@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Loorits 的结构实在论",
+    "summary": "该理论主张，意识经验是完全结构性的现象，作为神经活动中复杂的高阶模式寓于大脑之中。它通过论证如下方式来解决意识的难问题：感受质虽显得是质性的、非结构性的，实则是复杂的组合结构，只是被神经模式本身误认为单子式的属性。",
+    "associated_thinkers": ["Kristjan Loorits"],
+    "category": "唯物主义",
+    "subcategory": "关系性",
+    "core_identity_tagline": "意识作为完全结构性的神经模式",
+    "classification_tags": [
+      "structuralism",
+      "qualia",
+      "neural patterns",
+      "internalism",
+      "illusionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识被确认为神经活动中复杂的高阶模式，这些模式本质上是结构性现象。感受质是由庞大的无意识联结网络所构成的组合结构。",
+    "ontological_status": "结构实在论（物理主义）",
+    "mind_body_relationship": "同一／还原（意识经验是寓于大脑之中的结构性现象，可用完全结构性的术语加以分析）。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现（经推断得出，因为该理论主张意识是完全结构性的、可用物理术语加以分析的，尽管它在概念上解决了难问题，仍契合于一个唯物主义还原论框架）。",
+    "subjectivity_and_intentionality": "主体性之所以产生，是因为复杂的神经模式将其自身高度复杂的结构属性误认为简单的、单子式的性质。意识经验被理解为存在于世界之中的客观结构。",
+    "qualia_account": "感受质是完全结构性的现象——由无意识联结所构成的组合结构——它们只是被系统‘知觉’为非结构性的或质性的（视角性现象）。",
+    "ontological_commitments": "复杂的高阶神经模式；存在于世界之中的客观结构；庞大的无意识联结网络。",
+    "epistemic_access": "可通过客观分析（完全结构性的术语）与内省（内省揭示出那被误认的、单子式的本性）来通达。潜在地也可借助适当的脑刺激技术直接加以通达。",
+    "constituents_and_structure": "大脑中的复杂神经模式，可用完全结构性的术语加以分析。这些结构有时会被延展到包含社会—物理环境的要素。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识、难问题（感受质），以及隐私性／位置问题。",
+    "distinctive_mechanism_or_principle": "该机制是生成一种复杂的神经模式，它将自身的结构复杂性误认为单子式的、质性的，从而制造出非结构性感受质那种主观的‘看似’。",
+    "dynamics_of_emergence": "动态过程（意识作为神经活动中的模式而存在，表明它是一个连续的、动态的过程）。",
+    "location_and_distribution": "主要受限于大脑（‘内在论的’），存在于神经过程之中，但其结构有时可延展到包含环境的要素。",
+    "causation_and_functional_role": "源材料聚焦于意识的结构同一性与认识论，而非其明确的因果功能角色。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验（其预测依赖于脑刺激技术的发展）。",
+    "known_empirical_interventions_or_tests": [
+      "预测：适当的脑刺激技术应能将感受质的结构本性直接揭示给正在经验的主体。"
+    ],
+    "criticisms_and_tensions": "Loorits 注意到一种内在张力：尽管感受质在‘幕后’可能是关系性的，但只要它们主观上感觉起来是内在的，就仍然逃脱科学描述，这意味着难问题在某种意义上依然存在。",
+    "open_questions_and_limitations": "其局限在于：当主体未觉察到感受质底层的结构／关系成分时，如何解释感受质那种内在感受在现象上的持续存在。",
+    "ontological_coherence": "在一个致力于结构实在论的物理主义框架内高度融贯，将现象属性还原为关于大脑的结构性事实。它通过把‘非结构性的看似’解释为视角性的，从而与错觉论有适度契合。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种将意识等同于结构性神经模式的唯物主义理论，这些模式在概念上可在非生物的计算基质中复制。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "该理论将意识界定为寓于生物大脑之中的完全结构性现象；因此，一旦这些神经过程停止，意识便会终止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义的",
+      "rationale": "作为一种唯物主义理论，它为现象意识提供了一种物理主义的说明，但并不支持终极的、宇宙性的意义或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是（很可能）",
+      "rationale": "既然意识被完全等同于结构性的物理属性（神经模式），那么在非生物媒介中复制这些模式就应当带来意识自我的完美延续，这与唯物主义／功能主义的原则相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "延伸／支持（Loorits 支持‘非结构性特征实为完全结构性’这一观念，将‘看似’视为视角性现象）"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "重叠（该理论依赖于对感受质的结构性表征，尽管这一表征被误认）"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "相容（聚焦于结构的功能／角色而非基质，允许在不同媒介中实现）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Structural qualia: a solution to the hard problem of consciousness, K. Loorits",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The location and boundaries of consciousness: a structural realist approach, K. Loorits",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Phenomenal Consciousness as a Structure in Our Brains, K. Loorits",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Qualities in the world, in science, and in consciousness, K. Loorits",
+        "year": 2022
+      }
+    ]
+  }
+}

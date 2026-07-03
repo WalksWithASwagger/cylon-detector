@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "丹尼特的心灵演化论",
+    "summary": "该框架主张，心灵与意识完全是通过自然选择演化的结果，强调复杂的组织（设计、理由、胜任能力）之所以产生，无需一位有意识的设计者或推理者。它通过一系列纯粹物质性的抽象与复杂层级，解释了人类心灵的发展。",
+    "associated_thinkers": [
+      "Daniel Dennett"
+    ],
+    "category": "唯物主义理论",
+    "subcategory": "系统发生演化",
+    "core_identity_tagline": "无需神奇、经由自然选择演化而来的心灵",
+    "classification_tags": [
+      "evolution",
+      "naturalism",
+      "phylogenetic",
+      "materialism",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意识与心灵被认定为高度复杂的物理过程——一套建立在物质过程之上、演化而来的思维工具，其中心灵的“魔法”是在没有魔法的情况下完成的。",
+    "ontological_status": "物理主义",
+    "mind_body_relationship": "同一论／还原论。心理状态完全是生物大脑的产物，可由物理状态得到完整解释，这与丹尼特更广泛的唯物主义立场一致。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现。意识在原则上可由底层物理过程完全解释，拒绝对强涌现或非物理干预的需求。",
+    "subjectivity_and_intentionality": "主体性是通过演化而来的组织结构（如“叙事重心”）构建起来的。意向性（关涉性）产生于复杂的分子团演化出承载意义或内容的能力之时。",
+    "qualia_account": "感受质（质性感受）被视为不融贯的、虚幻的“用户错觉”——是演化过程所产生的复杂、被激活的神经网络，而非内在的、不可分析的心理属性。",
+    "ontological_commitments": "物理世界、自然法则、生物大脑，以及自然选择过程。",
+    "epistemic_access": "科学的第三人称视角，具体运用异现象学方法，将内省性主张当作有待解释的数据，而非关于心理实在的真实陈述。",
+    "constituents_and_structure": "心灵的结构由一套精巧的、演化而来的“思维工具”以及建立在生物演化之上的层级组织构成。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "系统发生起源、内容、心灵结构、意识（被消解／被视为错觉）、自我觉知（作为叙事建构）。",
+    "distinctive_mechanism_or_principle": "自然选择演化的巨大力量，它所产生的结果具有“无推理者的理由、无设计者的设计、无理解的胜任”这一特征。",
+    "dynamics_of_emergence": "意识经由一个渐进的、增量式的心理发展过程，跨越系统发生历史而产生，可从早期生命形式一路追溯至人类心灵。",
+    "location_and_distribution": "定位于高等生物、尤其是人类的复杂大脑之中，其神经活动的高级组织支撑着复杂的“思维工具”。",
+    "causation_and_functional_role": "心灵之所以产生，是因为它在充满挑战的环境中提供了适应性的、提升适存度的优势。其功能在于使复杂的行为与认知（如自我反思）成为可能。",
+    "integration_or_binding": "整合通过大脑中内容固定与传播的演化来实现，这些内容凝聚为一种生命故事或“叙事重心”。",
+    "information_flow_or_representation": "演化使大脑得以这样处理信息：不同脑区生成相互竞争注意力（脑中之名声）的“多重草稿”，从而形成一条叙事流。",
+    "evolutionary_account": "意识是一项非神奇的演化成就，其中有机体发展出建模、预测与模拟等复杂能力，最终臻于人类的内省与抽象思维。",
+    "core_claims_and_evidence": [
+      "心灵的起源可由生物演化加以解释，无需诉诸非物理元素。",
+      "人类心灵的复杂性是演化的顶点，产生了特化的“思维工具”。",
+      "现象性属性是源于复杂、演化而来的神经活动的不融贯错觉。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学论证、演化生物学、逻辑"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可依据与生物学及新达尔文主义的一致性进行概念上的检验；并由与功能主义模型相关联的神经科学发现间接支持。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "该理论因回避“难问题”而受到批评，它断言意识（感受质）是一种错觉或伪问题。反对者质疑：如果主观经验仅仅是错觉或副现象，它又有何演化优势。",
+    "open_questions_and_limitations": "它并未对经验的主观感受提供直接解释，而只解释了我们为何会*报告*拥有这样一种经验。",
+    "ontological_coherence": "高度融贯，以达尔文主义演化作为“万能酸”，将心灵的各个方面——包括传统上被视为非物质的概念——牢固地奠基于严格的物理主义本体论之中。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "由于意识完全是物质性的，并源于复杂的组织（功能主义／唯物主义），只要正确的复杂性得以复现，就没有任何原则性理由禁止非生物智能实现意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全依系于物理大脑；死亡导致不可逆、永久的不存在，除非自我以数字方式得到保存（虚拟永生）。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本层面",
+      "rationale": "演化过程以“无设计者的设计”方式运作，这意味着不存在内在的宇宙意义或目的；意义由有意识的人类自我创造。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意识完全可由大脑演化而来的物理／功能组织加以解释，那么在非生物介质中完美复制这些神经模式与通路，就应当能够保存第一人称的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Multiple Drafts Model",
+        "relationship": "基础"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Lycan’s Homuncular Functionalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Darwin’s Dangerous Idea: Evolution and the Meanings of Life, Daniel Dennett",
+        "year": 1995
+      }
+    ]
+  }
+}

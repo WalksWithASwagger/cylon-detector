@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "意识的高阶理论",
+    "summary": "高阶理论（HOT）主张，使一个知觉成为有意识的，是存在一个关于该知觉的伴随认知状态。这一机制是一个两层过程，其中现象意识是对一阶知觉或心理状态的高层感知。",
+    "associated_thinkers": [
+      "Peter Carruthers",
+      "David Rosenthal",
+      "Joseph LeDoux",
+      "Hakwan Lau"
+    ],
+    "category": "唯物主义",
+    "subcategory": "表征性",
+    "core_identity_tagline": "意识作为高阶表征",
+    "classification_tags": [
+      "representation",
+      "cognitive",
+      "two-level process",
+      "inner-sense theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "现象意识被确认为指向一个一阶心理状态或知觉的高层感知或表征（一种认知状态或思想）。",
+    "ontological_status": "还原论物理主义／功能主义（理由：作为一种唯物主义理论，它将意识还原为由大脑所实现的功能／认知过程，尽管常以心灵主义的术语加以表述。）",
+    "mind_body_relationship": "意识通过两个心理层次（一阶与二阶状态）之间的因果关系而产生，这两个层次都完全由大脑中的物理过程所实现。",
+    "primitive_or_emergent_status": "涌现的",
+    "emergence_type": "弱涌现（理由：作为一种核心的唯物主义理论，意识被认为原则上可还原，即便这一还原是以心灵主义或功能性术语而非直接的神经生理学术语来表述的。）",
+    "subjectivity_and_intentionality": "当一阶状态成为一个二阶思想的对象时，主体性便产生，从而赋予一种‘看似’或自我觉知的维度。意向性在两个层次上都运作：一阶（关于世界）与二阶（关于一阶状态）。",
+    "qualia_account": "感受质（或现象特征）由那个关于知觉的伴随高阶认知状态的存在来加以说明，旨在用心灵主义的术语还原性地解释现象意识。",
+    "ontological_commitments": "一阶心理状态（知觉／感觉）、二阶认知状态（思想／表征），以及实例化这些表征的复杂皮层网络（如前额叶皮层）。",
+    "epistemic_access": "可通过内省（因为意识状态是我们所觉察到的状态）以及对认知架构与相关神经激活模式的第三人称建模（如知觉现实监测）来通达。",
+    "constituents_and_structure": "一种两层的加工结构，由一阶表征（感觉信息）与指向那些一阶状态的二阶认知表征（思想或知觉）所构成。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "现象意识；自我觉知（作为对自身状态的觉知）；情绪意识（在 LeDoux 的变体中）。",
+    "distinctive_mechanism_or_principle": "存在一个伴随的认知状态或元状态（高阶表征或思想），它以一个较低层的心理状态为目标，从而把该状态由无意识转变为有意识。",
+    "dynamics_of_emergence": "意识是一种动态的、过程性的现象，产生于感觉表征与监测认知结构之间的两层关系（如现实主义 HOT 中的实际因果，或倾向主义 HOT 中的可得性）。",
+    "location_and_distribution": "主要局部化于与高阶认知功能和元认知相关的皮层区域，如前额叶皮层（PFC），与‘头部后方’理论形成对比。",
+    "causation_and_functional_role": "高阶状态把意识赋予较低层的状态（现实主义 HOT）。其功能角色通常是使一阶知觉的内容可供灵活的认知加工与报告之用。",
+    "integration_or_binding": "整合被假定会发生，或许是隐含地通过统一的高阶表征所促成的功能整合，或通过连接各知觉表征的记忆机制（如 Lau 的变体中所指出的）。",
+    "information_flow_or_representation": "意识通过一种信息流而实现，这一信息流产生对表征的表征（二阶表征），它们对一阶感觉输入加以‘标记’或归类。",
+    "evolutionary_account": "意识机制从更简单的过程演化而来，有可能通过基于皮层的普遍认知网络，促成了复杂的情绪经验与以自我为中心的觉知。",
+    "core_claims_and_evidence": [
+      "现象意识由一个关于知觉的认知状态所中介（两层过程）。",
+      "意识状态与无意识状态的区别在于高阶表征的存在。",
+      "盲视可由如下方式解释：存在一个一阶表征，但缺少与之对应的高阶表征。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（解释意识／无意识之别）、认知的、神经科学建模（如盲视研究）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可经验检验（尤其是关于一阶加工与皮层中相应高阶活动之间的差异）。",
+    "known_empirical_interventions_or_tests": "常通过比较有意识与无意识的知觉（如盲视）来寻求经验证据，以检验所需高阶表征的存在或活动。",
+    "criticisms_and_tensions": "该理论因难以精确指明高阶思想与一阶知觉之间赋予意识所需的确切关系而受到批评，从而导致内容描述上的不充分。‘双重表征’进路被视为在概念上难以捉摸。",
+    "open_questions_and_limitations": "高阶状态与一阶知觉之间为使意识产生而必须成立的关系究竟为何，仍是一个开放问题。它同样面临关于感受质之解释鸿沟的普遍反驳。",
+    "ontological_coherence": "在一个物理主义／唯物主义与功能主义的本体论内高度融贯，依赖于表征与认知状态等在科学上可处理的概念。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作为一种基于认知与表征结构的唯物主义理论，意识从根本上是计算性或功能性的，这意味着能够进行自我监测并形成高层表征的先进人工智能系统可能实现意识。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意识完全由复杂的、基于皮层的大脑机制所实现；因此，它无法在生物基质崩解之后持续存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "仅人本主义的",
+      "rationale": "意识产生于涌现性的生物过程，它提供自我反思与能动性，但并不蕴含任何终极的宇宙目的论，这与唯物主义的紧缩立场相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "若意识完全由表征性与功能性的关系所界定，那么将这些复杂的认知状态完美复制并上传到非生物媒介中，就应当保存第一人称的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "批评"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "相容"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重叠"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Higher-Order Theories of Consciousness, Peter Carruthers",
+        "year": 2020
+      },
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, Joseph LeDoux and Richard Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      }
+    ]
+  }
+}
