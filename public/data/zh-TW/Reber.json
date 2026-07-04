@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "意識的細胞基礎（CBC）",
+    "summary": "該理論主張感受性隨生命本身一同出現，認為意識是有機形態所固有的原始特徵，即便在細菌等單細胞物種中也已存在。它把關於心靈起源的探究從複雜的神經結構重新引向基礎性的生物力學結構。",
+    "associated_thinkers": ["Arthur Reber"],
+    "category": "唯物論",
+    "subcategory": "系統發生演化",
+    "core_identity_tagline": "意識作為有機形態的固有特徵",
+    "classification_tags": [
+      "biological reductionism",
+      "evolutionary",
+      "sentience",
+      "foundational biomechanics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被界定為特定種類有機形態中所固有的生物敏感性或經驗狀態，並與基礎性的生物力學結構相關聯。",
+    "ontological_status": "生物學化約論／物理論",
+    "mind_body_relationship": "心理狀態在本質上依賴於硬體，因為意識是有機形態的固有組成部分，這要求承諾於生物學化約論。",
+    "primitive_or_emergent_status": "原始的／基礎性的",
+    "emergence_type": "不適用——意識被視為有機形態的固有特徵（一種生物學原始項），而非從非意識的物理構成中湧現。然而，複雜的認知功能則透過分層功能的逐漸累積而產生。",
+    "subjectivity_and_intentionality": "主體性是特定種類有機形態的固有特徵。它透過諸如感覺／知覺系統、學習、記憶以及決策等行為得以體現，這些行為即便在原始物種中也可觀察到。",
+    "qualia_account": "感質被隱含地視為存在，即有機形態所固有的主觀經驗，因為「一切經驗皆為心理性的」，並且存在於最原始的物種之中。",
+    "ontological_commitments": "具有柔性細胞壁、環境敏感性與運動能力的有機形態；基礎性的生物力學結構。",
+    "epistemic_access": "可透過微生物學家與細胞生物學家對單細胞物種的行為與生物學行為庫的研究與觀察而獲得通達。",
+    "constituents_and_structure": "基本的有機形態，包括柔性細胞壁與生物敏感性等屬性。複雜性透過一種金字塔式的圖式建立起來，其中各項功能層疊於既有功能之上並與之交鎖。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "感受性；經驗狀態；原始心靈。聚焦於意識的起源與基本主體性。",
+    "distinctive_mechanism_or_principle": "將主體性奠基於有機形態的固有特徵之上，從而要求生物性基質（柔性細胞壁、敏感性、運動能力）以具備心靈的生物學基礎。",
+    "dynamics_of_emergence": "意識是原始的。複雜性與精巧性透過適應性形態與功能的累積與改造、層疊於基礎性結構之上而逐漸演化。",
+    "location_and_distribution": "廣泛分布於各物種之中，定位於基礎性的生物力學結構，例如單細胞生物的柔性細胞壁。",
+    "causation_and_functional_role": "意識發揮著適應性作用（生存價值）。心理狀態在本質上依賴於硬體，而因果性則與物理硬體相綁定。",
+    "integration_or_binding": "來源中未明確論及；複雜性涉及功能的逐漸累積，這些功能層疊並交鎖在一起。",
+    "information_flow_or_representation": "原始物種透過精巧的感覺與知覺系統處理資訊，從而基於環境與內部狀態作出決策。明確拒斥心靈的計算理論。",
+    "evolutionary_account": "意識隨生命本身一同出現。演化遵循一種金字塔式的圖式，其中各項功能從基本的有機特徵出發逐步趨於複雜。",
+    "core_claims_and_evidence": [
+      "感受性透過原始功能（學習、記憶、決策）得以體現，這些功能在細菌等單細胞物種中可觀察到。",
+      "難問題是一種範疇錯誤，因為心靈是有機形態的固有組成部分，而非附加的要素。",
+      "心理狀態在本質上依賴於硬體，從而動搖了功能論。"
+    ],
+    "basis_of_belief_or_evidence_type": "生物學的；演化的；現象學的（對經驗問題的重新定位）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗，方法是將研究重新聚焦於理解基本的、原始的有機形態及其生物敏感性。",
+    "known_empirical_interventions_or_tests": "借助微生物學家與細胞生物學家關於單細胞物種複雜行為（感覺、記憶、學習）的發現與行為庫分析。",
+    "criticisms_and_tensions": "該理論對生物學化約論的承諾，以及心理狀態在本質上依賴於硬體這一主張，動搖了流行的功能論進路。它面臨的挑戰在於解釋原始感受性如何放大為複雜的人類意識，儘管其框架被表述為累積而非組合。",
+    "open_questions_and_limitations": "CBC 要求精確理解基本的、原始的有機形態如何獲得生物敏感性。它依賴於拒斥心靈是計算性的這一觀念。",
+    "ontological_coherence": "在嚴格的唯物論存有論內部保持一致，該存有論要求生物學化約論，並將難問題視為源自有缺陷的存有論預設的範疇錯誤。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "該理論明確拒斥心靈的計算觀，並主張意識要求內在地依賴於生物性的有機形態硬體，從而禁止了人工實現。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種唯物論理論，意識完全是生物性腦／身體的產物。死亡意味著人格／心靈不可逆轉且永久的不復存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主義／生物學的",
+      "rationale": "意識主要為生存與適應服務。由於該理論被歸類於唯物論，故並不蘊含終極的宇宙意義或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "對心靈計算論說的明確拒斥，以及對內在依賴於硬體的生物性過程的依賴，使數位上傳成為不可能。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Feinberg and Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "重疊（共享系統發生學的脈絡）"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批判（被心理狀態在本質上依賴於硬體這一主張所動搖）"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "相容（共享對演化起源的關注）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Caterpillars, consciousness and the origins of mind, Arthur Reber",
+        "year": 2016
+      },
+      {
+        "title_with_names": "The First Minds: Caterpillars, Karyotes, and Consciousness, Arthur Reber",
+        "year": 2018
+      }
+    ]
+  }
+}

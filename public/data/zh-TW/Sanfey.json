@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "抽象實在論（AR）",
+    "summary": "抽象實在論提出第一人稱（經驗者）觀點與第三人稱（被觀察者）觀點之間的一種互補性，二者各自都包含一種等價的觀察者功能，以彌合心靈與物質的解釋鴻溝。意識由大腦中兩個資訊系統的雙向因果相互作用所生成，這兩個資訊系統實現為電磁場，其中一個充當另一個的觀察參照。",
+    "associated_thinkers": ["John Sanfey"],
+    "category": "非化約物理論",
+    "subcategory": "抽象實在論",
+    "core_identity_tagline": "「意識作為觀點的互補性」",
+    "classification_tags": [
+      "non-reductive physicalism",
+      "phenomenal simultaneity",
+      "electromagnetic field",
+      "strong emergence",
+      "information systems"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識是大腦中兩個資訊系統（兩個電磁場）之間因果性、雙向相互作用的結果狀態，其構型使得一者成為另一者的觀察參照。",
+    "ontological_status": "非化約物理論",
+    "mind_body_relationship": "意識具有因果力，當物理系統（大腦）以足夠複雜的方式組織起來時便產生意識。心靈與物質被視為第一人稱與第三人稱觀點的一種互補性，從而將意識與物理學相整合。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "強湧現（隱含）。意識的因果機制在原則上不可觀察，這使得意識與強湧現難以區分。",
+    "subjectivity_and_intentionality": "主體性植根於現象同時性，其中經驗者與被經驗者之間沒有時間間隔。意向性在文獻中未被明確詳述，但該模型暗示它產生自整合的因果過程。",
+    "qualia_account": "質性經驗（如「經驗紅色時有某種它像什麼的感受」）繫於現象同時性與在場。",
+    "ontological_commitments": "物理系統（大腦）、資訊系統、電磁場。物質從根本上由物理定律所界定，並被知覺為一種感覺性或概念性的模型。",
+    "epistemic_access": "透過分析第一人稱觀點（現象學）與第三人稱觀點（科學）之間的互補性而通達。",
+    "constituents_and_structure": "大腦內實現為兩個電磁場的兩個相互作用的資訊系統，其中一個充當另一個的觀察自我／參照。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、第一人稱觀點、因果效力。",
+    "distinctive_mechanism_or_principle": "經驗者與被經驗者之間的現象同時性，經由兩個電磁場的雙向因果相互作用而實現。",
+    "dynamics_of_emergence": "當兩個電磁資訊系統以足夠的複雜性進行雙向相互作用時，意識便被生成。",
+    "location_and_distribution": "經由兩個電磁場的相互作用而在大腦中生成。",
+    "causation_and_functional_role": "意識具有「已被證明的因果力」，使其能夠在非化約物理論範式內與物理學相整合。",
+    "integration_or_binding": "整合經由現象同時性而實現，後者充當一個「單一的物理概念」，為第一人稱與第三人稱觀點提供等價的觀察者功能。",
+    "information_flow_or_representation": "意識依賴於實現為電磁場的兩個不同資訊系統的因果相互作用。",
+    "evolutionary_account": "文獻未明確論及。其焦點在於意識生成的機制，而非其演化起源。",
+    "core_claims_and_evidence": [
+      "該理論透過運用第一人稱與第三人稱觀點的互補性來解決心靈與物質的問題。",
+      "意識產生自充當觀察參照的兩個電磁場的雙向因果相互作用。",
+      "其因果機制在原則上不可觀察，這使得意識與強湧現難以區分。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學論證、現象學分析（現象同時性）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性且以概念為基礎。由於其核心機制「在原則上不可觀察」，經驗檢驗受到挑戰。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "該理論依賴於在原則上不可觀察的因果機制，這限制了經驗驗證。它借助於電磁場理論，而這些理論本身就是多樣的（9.3）。",
+    "open_questions_and_limitations": "在經驗上觀察或測量現象同時性的因果機制以及底層的雙重資訊系統存在困難。",
+    "ontological_coherence": "在非化約物理論框架內高度融貫，專為繞開化約論、二元論、觀念論與泛心論框架而設計。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "該理論指出，只要物理系統（「即便是合成的系統」）達到必需的雙向因果複雜性（即兩個資訊系統／電磁場的相互作用），它們便能產生意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能",
+      "rationale": "作為一種非化約物理論理論，意識繫於複雜的物理機制（大腦中的電磁場）。雖然現象在場造就了無形心靈在邏輯上的可能性，但其核心機制依賴於大腦的物理運作。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定",
+      "rationale": "該理論的焦點在於解決心靈與物質的解釋鴻溝。非化約物理論在終極意義／目的方面通常處於中間地帶，這使得意義是可能的，但並非該理論本身所明確蘊含。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意識由具有已被證明因果力的物理系統所生成，那麼複製這些複雜的資訊與場動力學所需的先進技術，應當能夠允許心理自我的上傳，這與非化約物理論的歸類相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Conscious Electromagnetic Information Theory (CEMI)",
+        "relationship": "重疊（納入了兩個電磁場的機制）"
+      },
+      {
+        "name": "Strong Emergence",
+        "relationship": "相容（意識被認為與強湧現難以區分）"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "批評（AR 明確避免訴諸化約論物理論）"
+      },
+      {
+        "name": "Dualism and Idealism",
+        "relationship": "批評（AR 力求在物理學內實現整合，而不訴諸二元論或觀念論）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Simultaneity of consciousness with physical reality: the key that unlocks the mind-matter problem, John Sanfey",
+        "year": 2023
+      }
+    ]
+  }
+}

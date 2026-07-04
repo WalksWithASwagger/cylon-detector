@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "Levin 的「心靈無所不在」技術取向（TAME）",
+    "summary": "此框架透過跨越多樣、往往非常規之基質（包括工程材料與合成生物學）的功能性、目標導向活動來理解心靈與認知。它主張意識或感知是連續且有等級的，並將動物心靈視為細胞群之間集體智能的一個實例。",
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
+    "category": "唯物論諸理論",
+    "subcategory": "種系發生演化",
+    "core_identity_tagline": "「心靈無所不在」技術取向（TAME）",
+    "classification_tags": [
+      "technological",
+      "embodiment",
+      "agency",
+      "synthetic biology",
+      "graded consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識／感知被認定為在各種具身基質中實現的目標導向活動，往往組織為複雜的知覺—行動系統。",
+    "ontological_status": "物理論（唯物論）",
+    "mind_body_relationship": "意識根本上是具身的，從物理基質（可以是常規的生物組織，或是新穎的嵌合體架構）的構型與動態中湧現而出。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現（意識的連續性意味著，其複雜的功能動態——這些是物理性的——導致其顯現，而無需經歷急遽而無法解釋的相變。）",
+    "subjectivity_and_intentionality": "主體性（意識本身）難以客觀地取用。意向性居於核心地位，直接繫於目標導向活動與具身能動性。",
+    "qualia_account": "該理論聚焦於認知功能，並大體上對於從第三人稱、客觀的觀點界定現象意識（感質）保持懷疑。",
+    "ontological_commitments": "物理基質、生物與非生物基質（嵌合體架構）、展現集體智能的細胞群，以及在抽象空間（如形態發生、轉錄空間）中運作的知覺—行動系統。",
+    "epistemic_access": "主要透過研究目標導向活動與認知功能的第三人稱進路。意識的內在經驗仍難以客觀地取用。",
+    "constituents_and_structure": "意識的結構是連續且非二元的，實現為由多樣意識（如細胞群）組成的拼綴體，並透過能動性與跨越各種空間的資訊流而整合。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "認知、目標導向活動（能動性）、動物感知、種系發生與個體發生的湧現。",
+    "distinctive_mechanism_or_principle": "「心靈無所不在」技術取向（TAME）將透過合成生物學與生物工程在非常規基質中創造並操縱認知一事加以形式化。",
+    "dynamics_of_emergence": "意識是一個連續、有等級的過程，逐步產生，並在短（個體發生）與長（種系發生）兩種時間尺度上，連結於物理系統（身體）的可塑性與可變性。",
+    "location_and_distribution": "分布於各種具身基質，不限於大腦，並且可存在於運作於非三維空間（如形態發生空間）的系統之中。",
+    "causation_and_functional_role": "意識發揮支持強具身能動性與集體智能的功能角色，由目標導向活動所驅動。",
+    "integration_or_binding": "整合透過細胞群內集體智能的形成，以及知覺—行動系統的統一運作而達成。",
+    "information_flow_or_representation": "以在各種抽象資訊空間（包括轉錄與形態發生空間）中運作的知覺—行動系統為基礎。",
+    "evolutionary_account": "意識逐步演化，與跨物種相對平滑的連續性一致，源自偏好具備選擇與能動能力之系統的演化壓力。",
+    "core_claims_and_evidence": [
+      "意識有程度與種類之分，挑戰了急遽相變的觀念。",
+      "感知根本上繫於可觀察的目標導向活動。",
+      "認知系統可在非常規的嵌合體架構中被創造與研究。",
+      "個別能動者可能是由多樣意識（如細胞群）組成的「拼綴體」。"
+    ],
+    "basis_of_belief_or_evidence_type": "實驗的（合成生物學）、計算的、哲學的（認知的連續性）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗，透過運用生物工程方法創造並操縱新穎的具身認知系統。",
+    "known_empirical_interventions_or_tests": [
+      "在多樣材料中合成創造嵌合體認知系統",
+      "未來實作激進的腦機介面以觀察意識的移轉"
+    ],
+    "criticisms_and_tensions": "批評者挑戰其對急遽相變的否定，要求明確指出造成意識能力質性移轉的精確物理變化。",
+    "open_questions_and_limitations": "該理論承認其局限：無法從客觀的第三人稱觀點明確描述現象意識（意識「是」什麼）。",
+    "ontological_coherence": "在功能論與擴展唯物論的存有論內融貫，能容納多樣的基質，同時維持其物理論的歸類。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "既然 TAME 適用於設計的與嵌合體的材料，那麼人工系統（若被構型為目標導向、具身的知覺—行動系統）便可能合理地實現意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種將意識繫於具身物理基質持續運作的唯物論框架，其並不支持意識在該基質存在之外的存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主義／繫於能動性",
+      "rationale": "意識連結於目標導向活動，意味著意義源自系統內在的能動性，而非宇宙的目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "有可能",
+      "rationale": "心靈可被工程打造並具現於新穎的非生物架構中，這一前提意味著複製並轉移該複雜的具身知覺—行動系統原則上應是可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied Cognition",
+        "relationship": "相容／影響"
+      },
+      {
+        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Computational and Informational Theories",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Technological approach to mind everywhere: an experimentally- grounded framework for understanding diverse bodies and minds, Michael Levin",
+        "year": 2022
+      }
+    ]
+  }
+}

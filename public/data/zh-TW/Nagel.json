@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "內格爾的《心靈與宇宙》",
+    "summary": "此一觀點挑戰當前盛行的唯物論式新達爾文主義自然觀，主張它無法說明主觀經驗那不可化約的性質，亦即身為一個有意識的有機體「是什麼樣子」。它提出，心靈必須被納入為自然本身的一項根本原理。",
+    "associated_thinkers": ["Thomas Nagel"],
+    "category": "挑戰理論",
+    "subcategory": "內格爾的《心靈與宇宙》",
+    "core_identity_tagline": "心靈作為自然的一項根本原理",
+    "classification_tags": [
+      "subjectivity",
+      "anti-reductionism",
+      "panpsychism",
+      "philosophical critique",
+      "secular monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識根本上就是主觀經驗——「對主體自身而言是如何」——而這抗拒被化約為純粹物理的、第三人稱的描述。",
+    "ontological_status": "哲學挑戰（傾向於普遍一元論／泛心論）",
+    "mind_body_relationship": "批評當前對心身關係的理解，主張我們缺乏任何構想去說明物理面向與現象面向如何能夠相關聯或同一。",
+    "primitive_or_emergent_status": "原初（或根本）",
+    "emergence_type": "受挑戰／被否定",
+    "subjectivity_and_intentionality": "主體性（「是什麼樣子」的那種質性）是意識的定義性核心。意向性則被隱含地視為無法僅化約為物理事實。",
+    "qualia_account": "感質（被感受到的質性）是問題的核心，內格爾主張目前所提出的任何客觀或物理論式的解釋，都無法說明其主觀實在性。",
+    "ontological_commitments": "否定唯物論式的新達爾文主義自然觀。承諾將意識視為實在的一項特徵，其需要一種對自然更為擴展的世俗理解，並可能涉及普遍可得的基本心理元素。",
+    "epistemic_access": "主要透過第一人稱內省與對主觀經驗的哲學分析，主張知道一切客觀事實不足以知道主觀事實。",
+    "constituents_and_structure": "終極的解答被推測為涉及由普遍可得、且固有地具備心理性質的基本元素所構成，此與泛心論的結構相一致。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、主觀經驗，以及（藉由批評唯物論而對）能動性／認知的挑戰。",
+    "distinctive_mechanism_or_principle": "主要著重於揭露物理化約論的概念界限，而非提出某個確定的機制。就機制而言，他的解答暗示意識是透過類泛心論的根本元素之組合而產生。",
+    "dynamics_of_emergence": "意識被認為固有地存在於普遍可得的基本元素之組合當中，而非在演化晚期透過特化的法則而湧現。",
+    "location_and_distribution": "普遍的／系統性的（由普遍一元論／泛心論傾向所推得），或固有於自然的構造之中。",
+    "causation_and_functional_role": "主要是批判性的，反對「意識是一種惰性附隨現象」的唯物論觀點。若心靈是一項根本原理，則意味著它在宇宙中扮演一種不可化約的、具組織性的角色。",
+    "integration_or_binding": "被推得為由組合所解決，其中微觀層次的心理元素聚合以形成複雜的人類意識。",
+    "information_flow_or_representation": "除非能處理那不可化約的主觀面向，否則單憑資訊處理不足以解釋意識。",
+    "evolutionary_account": "否定新達爾文主義的唯物論解釋，認為其根本上有缺陷，因為它無法解釋心靈。提出心靈必須被納入為一項貫穿整個自然史運作的根本原理。",
+    "core_claims_and_evidence": [
+      "經驗的主觀特徵是意識的核心，由身為一個有機體「是什麼樣子」所捕捉。",
+      "意識構成了一個根本性的概念難題，是科學目前無法掌握的。",
+      "心物化約論是更廣泛之唯物論世界觀的一個錯誤前提。",
+      "終極的解釋可能涉及將意識視為自然中一項根本的、普遍分布的面向。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "不確定／主要為概念性。該理論的力量在於它對解釋鴻溝的診斷，而非在於經驗驗證。他所建議的替代方案（泛心論）高度思辨。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "被批評退縮至「神祕論」（mysterianism），並在未提出具體、穩健且詳盡的世俗存有論作為替代方案的情況下，就否定既有的科學框架（新達爾文主義唯物論）。",
+    "open_questions_and_limitations": "內格爾承認自己「毫無構想」去說明以物理措辭解釋心理現象的解釋如何可能運作。所提出的替代方案（泛心論）則面臨微觀元素如何組合以形成複雜心靈的挑戰。",
+    "ontological_coherence": "作為對化約論的挑戰是融貫的；其正面的存有論建議（泛心論）在廣義的一元論框架內維持了融貫性，但缺乏機制上的細節。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定／取決於條件",
+      "rationale": "作為對功能論與化約論的批評，內格爾的觀點暗示，缺乏根本心理性質的純計算實體很可能是哲學殭屍；結果取決於未來的人工智慧能否例示所假設的那些普遍心理原理。"
+    },
+    "survival_beyond_death": {
+      "stance": "取決於條件",
+      "rationale": "若意識是一種普遍的、根本的性質，而非生物性的湧現物，則其本質在肉體消解後或許得以持存（由泛心論傾向所推得），儘管很可能不保有個人同一性。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性",
+      "rationale": "明確地尋求將心靈納入為一項根本的自然原理，以克服唯物論所隱含的「無意義性」，暗示一種非有神論的、固有的宇宙目的或價值。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能／取決於條件",
+      "rationale": "主觀經驗的不可化約性意味著，單憑複製物理／功能樣態將無法轉移原初的第一人稱意識。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Hard Problem of Consciousness",
+        "relationship": "影響"
+      },
+      {
+        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "relationship": "相容"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is It Like to Be a Bat?",
+        "year": 1974
+      },
+      {
+        "title_with_names": "The View from Nowhere",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Panpsychism (in Mortal Questions)",
+        "year": 1979
+      }
+    ]
+  }
+}

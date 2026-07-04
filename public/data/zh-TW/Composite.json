@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "複合理論",
+    "summary": "這一歸入二元論的理論一般主張，人是一個由兩個不同卻又親密統一的要素構成的複合實體，通常是一個非物質的靈魂／形式與一個物質的身體。它力圖避免笛卡兒式二元論的根本分離，同時維持意識的不可化約性，主張靈魂充當身體的實體形式。",
+    "associated_thinkers": [],
+    "category": "二元論",
+    "subcategory": "複合二元論",
+    "core_identity_tagline": "作為統一之靈魂／身體複合體的意識",
+    "classification_tags": [
+      "dualism",
+      "composite",
+      "hylomorphism",
+      "immaterial"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為複合實體（有靈魂的身體）的活動或功能，產生於在物質組成部分中得以實現的非物質形式（靈魂）。（根據其歸入二元論、以及在來源中與托馬斯主義二元論相鄰近而推斷）",
+    "ontological_status": "二元論（複合／質形論）",
+    "mind_body_relationship": "心靈（靈魂）是身體的實體形式，構成一個統一的複合體。這種關係是親密的、非笛卡兒式的，其中形式是使活的身體成其所是所必需的。",
+    "primitive_or_emergent_status": "原初的（靈魂／形式對於人這一有意識實體的構成而言是根本的。）",
+    "emergence_type": "該理論聚焦於複合實體的結構統一，而非物理論化約意義上的湧現。非物質的形式是一種不可化約的組織原理。",
+    "subjectivity_and_intentionality": "主體性存在於靈魂／形式不可化約的第一人稱本性之中，後者不可分地統一，使確定的、意向性的思想內容成為可能。",
+    "qualia_account": "感質被說明為源自統一的靈魂—身體複合體之活動的質性特徵，無法化約為純粹量化的物理描述。",
+    "ontological_commitments": "非物質的靈魂／形式；物質的身體；一個單一、統一的複合實體（人）。",
+    "epistemic_access": "既可透過對物理身體過程的第三人稱觀察通達，也需透過對心理活動／形式的第一人稱內省通達。",
+    "constituents_and_structure": "一個單一、統一的實體（人），由兩種根本不同卻又相整合的原理構成：一個非物質／構型的靈魂（形式）與物質組成部分（身體）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、自我覺知、能動性（作為統一複合實體的活動）。",
+    "distinctive_mechanism_or_principle": "靈魂／形式充當組織原理（形式），使物質身體的能力得以現實化，從而產生有意識的活動［由 7.5 節相關概念推斷］。",
+    "dynamics_of_emergence": "意識被理解為有靈魂之複合體的一種動態活動，而非一種靜態性質。",
+    "location_and_distribution": "定域於統一的活的身體或有機體。",
+    "causation_and_functional_role": "心理活動／靈魂賦予身體形式並使之活動，提供對能動性與統一認知功能所必需的自上而下的因果影響。",
+    "integration_or_binding": "心靈／靈魂本然地提供意識的統一，因為它充當整個身體／人的實體形式。",
+    "information_flow_or_representation": "隱含地涉及，因為心理活動需要表徵，但複合結構從根本上保證了不可分的意識統一。",
+    "evolutionary_account": "從所提供的來源尚不清晰；一般而言，納入一個不可化約的非物質組成部分意味著靈魂／形式並非純粹是標準達爾文機制的產物。",
+    "core_claims_and_evidence": [
+      "意識的統一無法僅憑物理大腦各部分的聚合來解釋。",
+      "靈魂（形式）賦予物理身體以形式，使人成為一個統一的、實體性的實在。",
+      "概念性證據在於駁斥化約論唯物論在說明思想的質性本性方面的充分性。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、形上學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗（透過哲學論證）；經驗上思辨，因為非物質的形式難以透過第三人稱方法加以驗證。",
+    "known_empirical_interventions_or_tests": "依賴於駁斥純物理理論的解釋鴻溝（例如關於感質或自我統一的論證）。（此條目的來源未列出具體的、正面的經驗檢驗。）",
+    "criticisms_and_tensions": "面臨心理因果問題：解釋非物理的形式如何在不違反物理學因果封閉的情況下與物理世界發生因果交互。",
+    "open_questions_and_limitations": "支配非物質靈魂／形式及其與物理組成部分之交互的確切結構與定律仍屬未知。",
+    "ontological_coherence": "內部融貫，因為它主張人是一個單一、統一的實體（避免了笛卡兒式實體二元論的問題），但與物理論存有論存在根本衝突。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "如果意識需要一個特定的、非物理的靈魂／形式／組成部分（它不會由計算自動產生），那麼純粹基於物理機制的人工系統無法達成真正的內在覺知。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "非物質的靈魂／形式能夠在死亡後獨立於物質身體而存續或存在，從而支持死後存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是",
+      "rationale": "二元論常支持終極的意義／目的／價值，往往與非物質組成部分及可能的神學框架相關。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "複製物理大腦過程是不夠的，因為純粹數位化的上傳缺失所需的非物理組成部分（靈魂／形式）。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "對照（複合二元論強調統一，而非兩個不同實體的嚴格分離）"
+      },
+      {
+        "name": "Stump’s Thomistic Dualism",
+        "relationship": "重疊（常被視為這一複合觀點的經典哲學框架）"
+      },
+      {
+        "name": "Feser’s Neo-Thomistic Dualism",
+        "relationship": "重疊（Feser 主張一種新亞里士多德主義／新托馬斯主義的複合結構）"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "相容（兩者都維持不可化約性，但複合二元論往往將非物質的形式視為比從複雜性中湧現更為根本）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualisms (Section 15)",
+        "year": ""
+      },
+      {
+        "title_with_names": "Stump’s Thomistic Dualism [Description of the soul as an essentially immaterial/configurational state realized in material components]",
+        "year": 1995
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "麥金的終極神秘（神秘主義）",
+    "summary": "該理論主張，有意識的心靈與物理大腦之間的形上學紐帶是一個終極的神秘，而人類智能從根本上無力解開它。這種認知封閉源於我們人類概念資源所固有的侷限，而非因為意識是超自然的。",
+    "associated_thinkers": ["Colin McGinn"],
+    "category": "挑戰性理論",
+    "subcategory": "終極神秘（神秘主義）",
+    "core_identity_tagline": "心靈與大腦之間的紐帶是一個終極的神秘",
+    "classification_tags": [
+      "mystery",
+      "cognitive limits",
+      "naturalism",
+      "philosophical",
+      "anti-reductionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識完全從物質世界中產生，但那連接物質（大腦）與意識（心靈）的內在性質或本性，在概念上是人類心靈無法通達的。",
+    "ontological_status": "存在主義自然主義",
+    "mind_body_relationship": "意識依賴於物理世界（物質依賴），但其底層的因果聯繫或同一性無法被人類科學或哲學所把握或解釋。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "由於我們概念構造上的侷限，湧現機制必然對人類智力隱藏，這使其在原則上與強湧現在功能上無從區分。",
+    "subjectivity_and_intentionality": "麥金突顯了物理實在與質性經驗之間鴻溝的深刻性質；他認為物質產生意識這一觀念極不可信，把它比作斷言「數字從餅乾中湧現」（這一深刻的鴻溝構成了那個神秘）。",
+    "qualia_account": "神秘取決於我們無法把質性感受（感質）與物質實在相關聯，因為物質是產生意識的「錯誤種類之物」。對感質的完整解釋從根本上說是人類無法知曉的。",
+    "ontological_commitments": "物理歷程（大腦）與有意識經驗（它被接受為真實且非超自然的）。真正聯繫的存在被設定，儘管它是無法通達的。",
+    "epistemic_access": "人類智力在概念上被封閉在心腦紐帶的真相之外，意味著終極的知識或解答是不可能的。",
+    "constituents_and_structure": "意識從物質世界中產生，但對此生成負責的那一特定性質，超出了人類概念結構去界定或理解的能力。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（感質與物質之間的紐帶）；能動性（隱含地對唯物論的行動解釋構成挑戰）",
+    "distinctive_mechanism_or_principle": "其原理是認知封閉：人類智力無法設想物理歷程如何產生主觀經驗，從而把這一紐帶指認為一個終極的神秘。",
+    "dynamics_of_emergence": "意識是偶然的；它是僅僅從物質歷程中產生的一個複雜結果，但那彌合物理域與現象域的過渡動力學是無法通達的。",
+    "location_and_distribution": "侷限於生物大腦之內，僅從物質世界中產生。",
+    "causation_and_functional_role": "意識由物質歷程因果地產生，但這一因果關係的細節是神秘的，無法由人類推理來指明。",
+    "integration_or_binding": "經驗的統一本性是那個神秘的一部分，反映了我們無法看清統一的意識如何從各不相同的物質成分中產生。",
+    "information_flow_or_representation": "未被明確處理，因為該理論聚焦於把物質與心靈相關聯的根本概念限度，而非指明資訊架構。",
+    "evolutionary_account": "意識是偶然的；它從物質世界中演化而來，但並非實在的一種固有的或必然的性質。",
+    "core_claims_and_evidence": [
+      "心靈與大腦之間的紐帶是一個人類智能永遠無法解開的終極神秘。",
+      "關於我們自身作為具身意識之本性的一個深層事實，必然對我們隱藏。",
+      "意識僅從物質世界中產生，但物質性質是邏輯上產生意識的「錯誤種類之物」。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、存在主義自然主義"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "（原則上）不可檢驗。其核心論點是關於人類概念理解之永久限度的主張，而非當前經驗數據的缺乏。",
+    "known_empirical_interventions_or_tests": [
+      "未指明，因為該理論聚焦於概念侷限。"
+    ],
+    "criticisms_and_tensions": "常被批評為神秘主義，暗含哲學上的悲觀或反科學立場，儘管麥金把該觀點定位為存在主義自然主義。",
+    "open_questions_and_limitations": "心腦紐帶的確切本性仍完全未解，且被認為永久地超出人類的理解。",
+    "ontological_coherence": "在認知封閉的框架內是融貫的；然而，它隱含地與化約式物理論的核心信念相抵觸，後者認為即使在原則上也存在一個完整的解釋。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "如果產生意識的紐帶是一個無法被理解（更不用說被工程實現）的終極神秘，那麼就不可能有意地構造一個具有真正內在經驗的有意識人工智慧系統。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "該理論奠基於意識僅從物質大腦中產生的唯物論假設，意味著意識在身體死亡時消亡。"
+    },
+    "meaning_and_purpose": {
+      "stance": "無",
+      "rationale": "作為一種存在主義自然主義，該理論不設定任何宇宙目的或終極意義；意識是物質歷程的一個偶然結果。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "如果連接物理大腦與主觀心靈的機制是一個終極神秘，那麼以「第一人稱的完美」在合成介質中複製這一過程，在原則上就是不可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Nagel's Mind and Cosmos",
+        "relationship": "影響"
+      },
+      {
+        "name": "S. Harris's Mystery of Consciousness",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Can we solve the mind-body problem?",
+        "year": 1989
+      },
+      {
+        "title_with_names": "Cosmology and consciousness: hyperdualism ventilated",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Mysterious Flame - Conscious Minds in a Material World",
+        "year": 2000
+      }
+    ]
+  }
+}

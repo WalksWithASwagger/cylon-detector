@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "複雜適應系統模型理論",
+    "summary": "此理論將意識建模為大腦的湧現性、適應性輸出，而大腦被視為一個由複雜、非線性相互作用構成的動態網路。意識體現出複雜適應系統（CAS）所固有的特徵，例如不可預測性、混沌動力學以及自組織原理。",
+    "associated_thinkers": [],
+    "category": "唯物論",
+    "subcategory": "計算與資訊",
+    "core_identity_tagline": "意識即複雜適應系統的動態、湧現性輸出",
+    "classification_tags": [
+      "complex systems",
+      "emergentism",
+      "non-linear",
+      "functionalism",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為源自大腦內部複雜、非線性相互作用的智能、動態、適應性行為，而大腦作為一個複雜適應系統運作。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "湧現論。心靈作為湧現屬性，從物理系統（大腦）高度複雜、非線性的相互作用中產生。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現，但因系統動力學高度混沌且不可預測而趨向於強湧現。",
+    "subjectivity_and_intentionality": "主體性隱含地源自內部的複雜性以及系統的自組織能力；意向性則由中介感覺輸入與行為輸出以求解問題的需要（智能複雜適應系統）來解釋。",
+    "qualia_account": "感質被認定為直接源自底層物理基質集體的、複雜的、非線性動力學的湧現屬性。",
+    "ontological_commitments": "動態網路、複雜而非線性的相互作用、資訊，以及由此產生的湧現屬性。",
+    "epistemic_access": "透過對系統動力學的觀察與數學建模來通達，尤其是複雜系統所特有的不可預測、混沌和非線性行為。",
+    "constituents_and_structure": "基本結構是一個由相互作用的組分（神經元／神經元集群）構成的動態網路，呈層級組織，以非線性和混沌關係為特徵。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（作為湧現屬性）、通達（透過適應）以及能動性（隨著系統求解問題）。",
+    "distinctive_mechanism_or_principle": "基於非線性動力學的自組織原理與適應機制，使系統得以改變自身行為並創造新穎性。",
+    "dynamics_of_emergence": "動態過程。意識源自跨不同組織層級、持續進行的、自組織的變化引發事件，往往涉及閾值和遞歸相互作用。",
+    "location_and_distribution": "系統性的。意識分布於大腦／有機體的整個動態網路之中。",
+    "causation_and_functional_role": "意識作為一個「智能複雜適應系統」而運作，其首要目的是求解問題、中介複雜的感覺輸入，並為生存生成靈活、適應性的行為輸出。",
+    "integration_or_binding": "整合是複雜系統的一種內在屬性，其中「集體行為可能無法從其組分行為中預測出來」，從而確保了有意識輸出的統一性。",
+    "information_flow_or_representation": "資訊處理以非線性和遞歸相互作用為特徵，從而將其與簡單的線性或演算法處理區分開來。",
+    "evolutionary_account": "意識作為一個智能複雜適應系統而演化，以生成複雜問題求解所必需的湧現屬性，並透過中介輸入與輸出獲得生存優勢。",
+    "core_claims_and_evidence": [
+      "大腦是一個複雜適應系統，其有意識輸出表現出非線性和混沌特徵。",
+      "意識依賴於歷史、閾值和遞歸相互作用，反映出它作為複雜適應系統的本性。",
+      "將意識建模為一個智能複雜適應系統，揭示出它在感覺輸入與行為輸出之間求解問題的適應性角色。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算的、數學建模、系統理論、神經哲學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "經驗上和計算上可檢驗，基於對神經網路內部複雜性、混沌和非線性動力學的量化。",
+    "known_empirical_interventions_or_tests": "所涉檢驗包括分析複雜系統輸入與輸出之間非線性、混沌的關係，並評估擾動之後的適應性行為反應。",
+    "criticisms_and_tensions": "此理論與其他功能論進路一樣，常被批評為只描述了湧現性系統行為的*結構*，卻未解釋主觀經驗（感質）的根本本性。",
+    "open_questions_and_limitations": "現象意識（相對於無意識的複雜處理）之湧現所需的、混沌動力學中的精確閾值或具體特徵仍未確定。",
+    "ontological_coherence": "在物理論框架內高度融貫，依據意識源自物理複雜性的適應性功能角色對其加以界定。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識主要是一個足夠複雜、自組織網路的湧現性、適應性行為，那麼這些屬性理論上可在先進的人工系統中複現。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識植根於身體（大腦）內部動態網路的物理實在之中，意味著它隨生物基質的解體而終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "實用／存在主義意義",
+      "rationale": "意識的功能角色在於為生存而進行適應和問題求解，這表明意義僅內在於系統持續的存在本身，而不在於某種宇宙計劃。"
+    },
+    "virtual_immortality": {
+      "stance": "可能／有條件",
+      "rationale": "如果生物性複雜適應系統那複雜、非線性、自組織的動力學能夠在非生物介質中被捕捉並維持，虛擬永生便有可能實現。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Bunge’s Emergent Materialism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Combs’s Chaotic Attractor and Autopoietic Systems",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness as an intelligent complex adaptive system: a neuroanthropological perspective, C. Laughlin",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Emergence and the mind, M. Bunge",
+        "year": 1977
+      }
+    ]
+  }
+}

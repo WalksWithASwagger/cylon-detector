@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Lau 的知覺實在監控理論",
+    "summary": "這一以經驗為根據的高階理論主張，當某種特定的高階表徵（HOR）將一階感覺表徵確認為外在世界之可靠反映時，有意識的知覺便會發生。此高階表徵作為知覺與認知之間的介面，為有意識的經驗提供了主觀的辯護感。",
+    "associated_thinkers": [
+      "Hakwan Lau"
+    ],
+    "category": "唯物論",
+    "subcategory": "表徵論",
+    "core_identity_tagline": "「意識即知覺實在監控」",
+    "classification_tags": [
+      "higher-order theory",
+      "representationalism",
+      "metacognition",
+      "functionalism",
+      "neurobiological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識是知覺與認知之間的一種功能機制或介面，由監控一階感覺狀態之可靠性與知識論地位的高階表徵所具現。",
+    "ontological_status": "物理論／功能論",
+    "mind_body_relationship": "意識等同於高階神經機制（很可能位於前額葉皮質）監控一階感覺表徵的特定功能活動。這是一種以大腦功能為基礎的唯物論論述。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現。意識是一種由大腦中特定複雜組織結構（高階表徵）所產生的功能，意味著它原則上可被解釋或化約，與其唯物論的歸類相一致。",
+    "subjectivity_and_intentionality": "主體性源於意識在主觀層面與信念形成及知識論辯護的連結。意向性則由受監控的一階知覺表徵所承載。",
+    "qualia_account": "主觀的「像什麼的感覺」是透過高階表徵取用更豐富、更低層的類比知覺訊號來解釋的。這些訊號的類比性質決定了相對於其他可能經驗的主觀相似性。",
+    "ontological_commitments": "一階知覺表徵、高階監控表徵（HOR），以及主要位於前額葉皮質的特定神經機制。",
+    "epistemic_access": "可透過經驗研究與神經建模而取得，聚焦於有意識知覺與感覺後設認知機制之間的相似性。高階表徵本身是次個人層次的過程，但其輸出會為該能動者導向主觀上受辯護的推論。",
+    "constituents_and_structure": "其結構涉及一個兩層過程：一階（感覺）表徵被高階（認知／後設認知）表徵標記或監控，形成知覺與認知之間的機制性介面。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（知覺與感質）、認知的（後設認知、信念形成）、取用的（作為一種潛在後果）。",
+    "distinctive_mechanism_or_principle": "高階表徵（HOR）作為一個「標籤或標記」，指示一階感覺表徵的知覺可靠性（知覺實在監控），將其與幻想或神經元雜訊區分開來。",
+    "dynamics_of_emergence": "意識隨著特定功能性高階表徵機制的具現而動態地產生，充當感覺輸入與認知處理之間的關鍵介面。",
+    "location_and_distribution": "該機制很可能存在於哺乳類的前額葉皮質內，位於初級感覺區域之外，與負責知覺後設認知的區域重疊。",
+    "causation_and_functional_role": "高階表徵作為一種閘控機制，將可靠的感覺資訊導向進一步的認知處理，確保能動者能以可靠的方式區分實在與幻想。",
+    "integration_or_binding": "高階表徵取用一階表徵中更豐富、更低層的類比知覺，意味著此監控過程促進了統一現象經驗所必需的整合。",
+    "information_flow_or_representation": "資訊從空間上「類比」的感覺表徵（一階）流向高階認知系統，帶來計算上的優勢並決定質性特徵。",
+    "evolutionary_account": "該理論與演化解釋相一致，因為它納入了一個辨別器（類比於人工智慧），透過可靠地區分對世界的真實知覺與自我生成的影像或雜訊，來增進生存。",
+    "core_claims_and_evidence": [
+      "有意識的知覺需要一個將一階感覺輸入確認為可靠的高階表徵。",
+      "有意識知覺的神經機制與感覺後設認知的神經機制（前額葉與頂葉皮質）重疊。",
+      "該理論融貫地將盲視解釋為：一階表徵發生了，卻缺乏相應必要的高階表徵。"
+    ],
+    "basis_of_belief_or_evidence_type": "經驗／認知神經科學的、功能論的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗，方法是繪製並比較有意識知覺與感覺後設認知的神經相關項，以及透過其對盲視現象的預測力。",
+    "known_empirical_interventions_or_tests": [
+      "將前額葉／頂葉活動與感覺後設認知及有意識知覺相關聯的神經影像研究。"
+    ],
+    "criticisms_and_tensions": "Lau 批評諸多對手模型，將該理論定位為一種優越的「中間派」進路，介於全域工作空間理論（過於聚焦取用）與純粹局部／再進入理論（過於聚焦早期感覺區域）之間。它面臨一個標準的困難：為何監控／後設認知應當產生質性的「像什麼的感覺」。",
+    "open_questions_and_limitations": "需要充分證實一個雄心勃勃的主張：一個由高階標籤所取用的機制性、類比性表徵，能夠完整解釋經驗的主觀質性。",
+    "ontological_coherence": "在神經生物學與功能論唯物論框架內高度融貫。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "作為一種功能論理論，意識取決於正確的資訊／功能架構（高階表徵機制）的實現。若此架構能在機器人或電腦程式中被具現，則人工意識是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識明確地繫於生物大腦中特定、專門化的神經機制（如前額葉皮質），因此在生物死亡之後不留存續的餘地。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "該機制的首要角色是功能性的（區分實在與幻想並導引資訊）。除了此生物機制所賦予的適應優勢外，它並未提供任何宇宙的或終極的目的。"
+    },
+    "virtual_immortality": {
+      "stance": "有可能",
+      "rationale": "若包含表徵之類比性質在內的特定功能與資訊架構，能被完美地上傳並在非生物基質上運行，那麼第一人稱的心理自我便會被保存下來，因為意識正是由該功能結構所界定的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "特定實例／延伸"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "批判（被定位為一種優越的中間替代方案）"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "批判（被定位為一種優越的中間替代方案）"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "相容（共享一種解釋意識宣稱的功能論／認知進路）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness, metacognition, & perceptual reality monitoring, Hakwan Lau",
+        "year": 2019
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Is consciousness a battle between your beliefs and perceptions?, Hakwan Lau",
+        "year": 2019
+      }
+    ]
+  }
+}

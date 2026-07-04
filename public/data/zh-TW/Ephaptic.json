@@ -1,0 +1,92 @@
+{
+  "id_and_class": {
+    "theory_title": "電場耦合理論",
+    "summary": "此理論主張，神經元所生成的電場足夠強、且位置足夠精確，從而能夠即時影響相鄰神經元的電興奮性（電場耦合）。如果這種耦合在整個大腦中廣泛發生，則被認為是有助於構成一種意識電磁場理論的底層物理基礎。",
+    "associated_thinkers": [
+      "Chen"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "意識即經由電場對神經元的近乎即時的影響",
+    "classification_tags": [
+      "electromagnetic field",
+      "neurobiological",
+      "neural dynamics",
+      "coupling"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識可能由源自神經元之間即時非突觸電學影響（電場耦合）的電磁場集體動力學所構成或所支持。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一性／相關性（心靈即大腦中的物理過程／場）",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "由於電場耦合主要是一種關於神經影響的生物物理機制，其對主體性和意向性的解釋便被推交給由此產生的電磁場或它所支持的更大框架。",
+    "qualia_account": "這一具體的耦合機制並未明確論及感質，但它所支持的更廣義的電磁場理論有時會將現象經驗列入其解釋議程。",
+    "ontological_commitments": "神經元、電場，以及近乎即時的非突觸神經影響。",
+    "epistemic_access": "可透過對生物物理現象的觀察與建模來通達，重點關注電場對神經活動的影響。",
+    "constituents_and_structure": "由具有電生特性的神經元所生成的電場，它們影響鄰近神經元的興奮性，以組織大尺度的大腦活動。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（隱含地，因為它支持廣義的意識電磁場理論）",
+    "distinctive_mechanism_or_principle": "電場的非突觸影響（電場耦合），使相鄰神經元之間能夠進行近乎即時的電學通訊。",
+    "dynamics_of_emergence": "意識是一個動態過程，源自由跨腦組織快速變化的電場所促成的即時耦合與同步化。",
+    "location_and_distribution": "廣泛分布於大腦組織之中，凡是神經元之間發生顯著電場耦合之處皆有。",
+    "causation_and_functional_role": "即時影響鄰近神經元的電興奮性，從而可能促進意識所需的快速整合與同步化。",
+    "integration_or_binding": "假設整合或綁定經由近乎即時的電場耦合在分布式神經網路間所促成的廣泛影響與同步化而發生。",
+    "information_flow_or_representation": "資訊處理依賴於神經元之間在傳統突觸通路之外的電學影響的即時傳遞。",
+    "evolutionary_account": "必定與中樞神經系統在種系演化過程中高度快速、整合的神經通訊的適應價值相符，與其在唯物論理論下的分類相一致。",
+    "core_claims_and_evidence": [
+      "神經元產生的電場足夠強，能夠近乎即時地影響鄰近神經元的興奮性。",
+      "電場耦合若足夠廣泛，則有助於構成一種意識電磁場理論。"
+    ],
+    "basis_of_belief_or_evidence_type": "經驗的（依賴生物物理學以及對神經活動和電場的生理學觀察）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "經驗上可檢驗",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "面臨所有唯物論理論共有的普遍困難，即解釋一種物理機制（電學耦合）如何產生主觀的現象經驗。",
+    "open_questions_and_limitations": "一個重大的未決問題是：電場耦合是否在大腦組織中廣泛到足以構成一個能夠解釋意識的全域場。",
+    "ontological_coherence": "與唯物論存有論高度一致；它為大腦中複雜電場的湧現提供了一種生物物理機制。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識基於源自電活動和耦合的物理場現象，那麼能夠生成類似複雜場效應的人工系統便應能實現意識，這與更廣義的唯物論範疇相一致。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種唯物論理論，意識與運作中的物理基質（大腦及其電場）相聯繫，從而排除了肉體死亡後的存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義意義",
+      "rationale": "作為一種純粹從神經生物學和電磁機制推導出的物理理論，它並不蘊含終極的宇宙意義或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果精確的神經動力學以及由此產生的電場（包括電場耦合）能夠在非生物介質中被準確複現或模擬，那麼虛擬永生便是可信的，這與唯物論相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "支持"
+      },
+      {
+        "name": "CEMI Field Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Neurobiological Theories",
+        "relationship": "擴展"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Ephaptic coupling",
+        "year": 2020
+      }
+    ]
+  }
+}

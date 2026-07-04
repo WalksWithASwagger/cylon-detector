@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "泛原心論",
+    "summary": "泛原心論是泛心論的一種變體，主張基本物理實體所擁有的屬性本身並非有意識的，而是「原現象的」。這些原現象屬性必須在複雜結構（如大腦）中組合，才能生成湧現的現象意識。",
+    "associated_thinkers": ["David Chalmers", "Philip Goff"],
+    "category": "泛心論",
+    "subcategory": "泛原心論",
+    "core_identity_tagline": "原現象屬性組合以生成意識",
+    "classification_tags": [
+      "protophenomenal",
+      "panpsychism",
+      "emergence",
+      "qualia",
+      "russellian-monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種湧現的宏觀經驗，它源於根本的、非意識的原現象屬性的組合與複雜化。",
+    "ontological_status": "湧現泛心論（通常歸類於羅素式一元論之下）",
+    "mind_body_relationship": "心靈（現象意識）從物理基質中強湧現或弱湧現，而該基質的內在本性由原現象屬性構成。這一聯結旨在避免傳統二元論的因果難題。",
+    "primitive_or_emergent_status": "湧現的（現象意識是湧現的，但其底層屬性是原初的／根本的）",
+    "emergence_type": "可以是弱湧現或強湧現，取決於現象屬性是否能夠——哪怕僅在原則上——從非意識的原現象事實中推演出來。",
+    "subjectivity_and_intentionality": "主體性只有在複雜的宏觀層面、當原現象元素組合時才會出現。那些根本屬性本身是未被經驗的，或是「稀薄的未被經驗之質」。",
+    "qualia_account": "感質（現象屬性）由根本原現象屬性的組合所生成，從「稀薄的未被經驗之質」過渡為被經驗之質。",
+    "ontological_commitments": "原現象屬性（物理實體的範疇性基礎）、根本物理場，以及湧現的現象屬性。",
+    "epistemic_access": "主要是哲學推演（透過設定物質隱藏的內在屬性來解決難問題）與概念分析，而非經驗觀察。",
+    "constituents_and_structure": "擁有原現象屬性的基本物理實體，它們組織成能夠生成意識的複雜宏觀結構（例如大腦）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、主體性。",
+    "distinctive_mechanism_or_principle": "那個關鍵的、但目前未知的組合機制，它是把非意識的原現象元素轉化為統一而複雜的意識經驗所必需的。",
+    "dynamics_of_emergence": "意識在達到某一層級的複雜結構組合、即根本原現象屬性的複雜結構組合時，動態地產生。",
+    "location_and_distribution": "原現象屬性在基本物理實體中無所不在；現象意識則侷限於能夠將其組合的複雜生物系統（例如大腦）之中。",
+    "causation_and_functional_role": "湧現的現象意識通常具有因果效力，它透過奠基於物理實在的內在（原現象）本性而承繼其因果角色。這為意識賦予了一種功能角色（例如適應性的生存優勢）。",
+    "integration_or_binding": "需要一個針對「組合問題」的解決方案：解釋非意識的原現象元素如何整合以形成統一的主觀宏觀經驗。",
+    "information_flow_or_representation": "涉及把底層原現象屬性（它們是物理結構與關係性傾向的範疇性基礎）轉化為一個被經驗為現象內容的宏觀層面結構。",
+    "evolutionary_account": "組合機制被推定為在複雜生物系統（如動物神經系統）中演化出來，以透過湧現意識賦予適應性優勢。",
+    "core_claims_and_evidence": [
+      "意識奠基於微觀層面實體根本的、非意識的原現象屬性。",
+      "該理論透過設定物質的內在心靈屬性，避免了唯物論的物理鴻溝。",
+      "組合問題仍是該理論可行性的首要概念挑戰。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的（彌合解釋鴻溝與難問題，對根本物理屬性的概念分析）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "高度思辨／概念上可檢驗。它處理的根本屬性一般為當前經驗科學所無法通達。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "首要張力是「組合問題」：解釋非意識的根本屬性如何凝聚以產生複雜的主觀意識。批評者認為引入原意識只不過是推遲了難問題。",
+    "open_questions_and_limitations": "組合機制的確切性質仍是一個開放問題，而所產生的意識究竟是強湧現還是弱湧現也尚未解決。",
+    "ontological_coherence": "意在成為唯物論與二元論之間的一個融貫中間地帶，把心靈性奠基於實在的內在本性，同時允許在宏觀尺度上湧現。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識源自根本屬性的組合機制，那麼由擁有這些屬性的物理材料構成的人工系統就可能變得有意識，前提是必要的組合結構能夠被工程化實現。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能（希望渺茫）",
+      "rationale": "現象意識與湧現的複雜結構（例如大腦）相繫；當這一結構在死亡時消解，複雜意識便消失，只留下持存的非意識原現象基質。"
+    },
+    "meaning_and_purpose": {
+      "stance": "有可能",
+      "rationale": "作為泛心論的一種變體，它設定實在具有一個根本的心靈面向，暗示存在超出嚴格唯物論說明的宇宙意義或價值的可能性。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果把無所不在的原現象屬性組合成現象自我的規則能夠被理解並在非生物基質中完美複製，那麼虛擬永生應當是可以實現的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "對比"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Micropsychism",
+        "relationship": "對比"
+      },
+      {
+        "name": "Panqualityism",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Consciousness and its place in nature, D. Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Panpsychism, P. Goff, W. Seager, and S. Allen-Hermanson",
+        "year": 2022
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "感質空間理論",
+    "summary": "此理論主張，意識是一項獨立、不可化約的實在特徵，與四種基本力、時空及質能等基本物理定律並存。這項特徵被構想為一種全新的結構或組織，甚至可能作為實在的另一個維度而存在。",
+    "associated_thinkers": ["Giulio Tononi", "Christof Koch"],
+    "category": "泛心論",
+    "subcategory": "概念範疇",
+    "core_identity_tagline": "意識作為實在中一項獨立、不可化約的維度特徵",
+    "classification_tags": [
+      "independent feature",
+      "non-reducible",
+      "dimension",
+      "phenomenology",
+      "conceptual structure"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為實在中一項獨立、不可化約的特徵，被結構化為一種全新的組織或維度，稱為「感質空間」。",
+    "ontological_status": "不可化約的根本特徵（理據：被界定為獨立且不可化約，「附加於」基礎物理學之上而存在，將其置於如泛心論這般的擴展存有論框架中，並在其中受到歸類）。",
+    "mind_body_relationship": "需要一種相關性或交互作用，使物理性的大腦得以通達或顯現這項與物理實在並存的不可化約特徵。（具體細節取決於該理論的實例化方式。）",
+    "primitive_or_emergent_status": "原初",
+    "emergence_type": "不適用（被界定為一項根本／不可化約的特徵）。",
+    "subjectivity_and_intentionality": "主體性內在於感質空間結構自身的存在之中。意向性被對映至此結構內的特定組織性質，對應於有意識的知覺內容。",
+    "qualia_account": "感質即是構成感質空間的那些全新結構或組織。經驗的品質直接對應於此空間內的數學特徵或概念結構。",
+    "ontological_commitments": "基本物理定律與實體（四種基本力、時空、質能）；以及一個獨立、不可化約的感質空間／結構。",
+    "epistemic_access": "可透過對現象經驗的內省，以及界定感質空間之結構與幾何所需的數學建模來通達（如相關理論所例示）。",
+    "constituents_and_structure": "實在的一種全新結構或組織，通常以數學方式構想（例如作為意識的概念結構或狀態空間）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（感質）、內在存在、統一性。",
+    "distinctive_mechanism_or_principle": "意識乃是實在的一項根本特徵這一原理，由其在這個獨立「空間」中的概念性或資訊性結構所界定。",
+    "dynamics_of_emergence": "意識是一種結構性或維度性的實在，由物理系統（如大腦）在局部加以顯現。",
+    "location_and_distribution": "感質空間本身是實在中一個獨立、不可化約的維度。有意識的經驗（例如人類的）是此空間內結構的定域顯現或「展開」。",
+    "causation_and_functional_role": "若被界定為一個內在實體或真實存在（如相關的整合資訊理論概念所述），意識結構便具有因果效力。在功能上，它解釋了現象經驗／感質的存在。",
+    "integration_or_binding": "由構成感質空間之結構自身的統一性與極大不可化約性所內在地達成。",
+    "information_flow_or_representation": "意識由感質空間之概念結構內所包含的資訊或表徵結構所界定。",
+    "evolutionary_account": "感質空間這項特徵是根本的；能夠通達或體現此結構的物理系統必須演化到足夠的複雜度（理據：與泛心論關於意識顯現的一般立場一致）。",
+    "core_claims_and_evidence": [
+      "意識是實在中一項獨立、不可化約的特徵。",
+      "這項特徵附加於基本物理定律之上而存在。",
+      "意識結構可在概念上被建模為一個感質空間。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念性、現象學性、數學性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "推測性且在概念上可檢驗（理據：它設定了一種全新、未知的結構／維度，使直接的經驗檢驗變得困難，儘管與其概念結構相關的理論宣稱具有可檢驗性）。",
+    "known_empirical_interventions_or_tests": "依賴於數學建模與現象學相關性（例如界定經驗的結構／幾何）（理據：借鑑如整合資訊理論或感質研究所等運用此概念結構的相關理論）。",
+    "criticisms_and_tensions": "因要求將實在擴展至超越當前物理學所知的範圍而受到批評，導致這些理論可能「逃逸於科學描述之外」。設定一個新維度的必要性受到質疑。",
+    "open_questions_and_limitations": "這項致使意識產生之特徵的確切本質與因果機制尚屬未知。目前尚不清楚此特徵是普遍存在的（古典泛心論），抑或是定域的（如其最清晰的範例整合資訊理論所暗示）。",
+    "ontological_coherence": "在擴展存有論以容納不可化約的意識這一點上是融貫的，與泛心論的高階目標一致，但與化約式物理論形成尖銳對比。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定",
+      "rationale": "這取決於感質空間中那項不可化約、致使意識產生的特徵，能否被非生物系統以技術加以控制或實例化。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能",
+      "rationale": "若意識是實在的一項根本結構或維度，則其恆存性無法被否定，這使存續的可能性得以保留，即便未必是作為個人意識而存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定",
+      "rationale": "設定一項獨立、非物理的特徵，暗示了終極意義可能的根基，將其置於（如泛心論或一元論這般）具有可能之終極意義／目的／價值的中間類別理論之列。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "虛擬永生取決於感質空間內致使意識產生的結構，能否透過可預測的規律性由先進技術加以導引或操控。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory (IIT)",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "範疇"
+      },
+      {
+        "name": "Qualia Research Institute (QRI)",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, Robert Lawrence Kuhn",
+        "year": 2024
+      },
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Masafumi Oizumi, Larissa Albantakis, Giulio Tononi",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Qualia Research Institute: FAQ",
+        "year": "n.d."
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Goldstein 的心物問題",
+    "summary": "這一理論主張意識完全由腦物質所構成，拒斥非物質狀態。然而，它將心物問題聚焦於這樣一個觀念：儘管物理過程能被科學完整地分析（外部描述），但一個人的內部主觀描述（思想、情緒、感受）卻無法從那種純粹物理的描述中推導出來或被完整通達，凸顯出一道持續存在的解釋鴻溝。",
+    "associated_thinkers": [
+      "Rebecca Newberger Goldstein"
+    ],
+    "category": "唯物論",
+    "subcategory": "哲學的",
+    "core_identity_tagline": "「作為不可推導之腦質料的意識」",
+    "classification_tags": [
+      "explanatory gap",
+      "materialism",
+      "subjectivity",
+      "description"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識——涵蓋內在思想、知覺、情緒、夢境與感受狀態——被指認為完全是腦質料，儘管這一腦質料的主觀、內部描述無法被完整的外部科學分析所通達。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "有意識狀態與腦狀態徹底同一（唯物論同一論），但主觀（內部）描述在概念上的複雜性無法從對物理（外部）腦狀態的描述性分析中推導出來。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現／解釋鴻溝。意識終究是物質的，但其主觀描述即使在原則上也無法從物理基質的客觀描述中推導出來。",
+    "subjectivity_and_intentionality": "主體性是作為一個人的「內部描述」（思想、情緒、夢境），對物理腦的完整分析無法完全通達或描述它。意向狀態完全立基於腦質料。",
+    "qualia_account": "感質（感受狀態）是有意識經驗內部描述的面向，完全是腦質料，但無法被科學純粹物理的詞彙所完整表述。",
+    "ontological_commitments": "物理的身體與腦。明確拒斥非物質狀態或實體（拒斥二元論）。",
+    "epistemic_access": "內部描述主要透過第一人稱觀點得知，例如在小說中創造一個角色時。第三人稱的科學進路（分析腦）在通達這種知識上內在地受到侷限。",
+    "constituents_and_structure": "基本的底層質料「完全是腦質料」。核心結構圍繞著單一物質實在之可分析的物理描述與不可通達的內部描述之間的張力。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": [
+      "現象",
+      "意向性"
+    ],
+    "distinctive_mechanism_or_principle": "該原理的核心在於：儘管心理與物理在存有論上同一，一個人主觀的、內部的描述卻無法從對其物理身體與腦的完整、客觀分析中推導出來。",
+    "dynamics_of_emergence": "其焦點是哲學的與描述性的，強調物理描述與心理描述之間資訊上／概念上的區隔，而非某種時間性或系統性的發展機制。",
+    "location_and_distribution": "僅定位於物理的身體與腦之中。",
+    "causation_and_functional_role": "意識作為意向狀態與感受狀態，是物理的腦質料。作為一種唯物論觀點，心理狀態以物理腦狀態的形式具有因果效力。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "哲學的／概念的。核心主張關乎描述性科學在通達主體性上的內在侷限，這無法透過經驗手段加以否證。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "該理論面臨 B 型唯物論固有的張力：接受意識完全是物理的這一存有論主張，同時斷言關於主觀經驗本質存在一道可能無法彌合的解釋（知識論）鴻溝。",
+    "open_questions_and_limitations": "主要侷限在於科學持續無法彌合腦狀態與第一人稱經驗之豐富性之間的描述鴻溝，即使底層實在是一元論的。",
+    "ontological_coherence": "在將難問題主要視為知識論而非存有論問題的物理論框架內（例如 B 型唯物論）高度融貫。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "由於該理論根本上是唯物論的且拒斥非物質實體，只要計算或物理系統能夠實現必要的「腦質料」構型，人工智慧意識在原則上應是可能的，即使由此產生的主觀經驗對外部分析而言仍是不透明的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全是「腦質料」，與物理身體不可分離，且該理論明確拒斥二元論，而二元論往往與死後存續相關聯。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定",
+      "rationale": "雖然在存有論上屬物理論，該理論對個人不可化約之豐富內在生命的關注，蘊含著主體性中一種深刻的內在價值，儘管它並不要求某種宇宙性或終極的目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "若有意識狀態與物理腦狀態同一（腦質料），那麼將這些物理狀態完美複製或上傳至新介質，在邏輯上應能保存原本的第一人稱心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Stoljar’s Epistemic View and Non-Standard Physicalism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Dualisms",
+        "relationship": "批判"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "對比觀點"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why a Mind-Body Problem?",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is consciousness irreducible?",
+        "year": 2011
+      }
+    ]
+  }
+}

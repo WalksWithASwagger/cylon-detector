@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "達馬西歐的恆定感受與意識的湧現",
+    "summary": "此理論主張，意識從根本上源於內部感受，即所謂的恆定感受，這些感受持續地表徵有機體的生命狀態相對於某一理想狀態（恆定）的當下情況。這些感受所提供的自發意識，為有意的生命調節與生存提供了必需的寶貴知識。",
+    "associated_thinkers": [
+      "Antonio Damasio",
+      "Hanna Damasio"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "恆定與情感",
+    "core_identity_tagline": "意識即恆定感受",
+    "classification_tags": [
+      "homeostasis",
+      "affective",
+      "neurobiological",
+      "emergence",
+      "survival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為恆定感受——它是一種自發有意識的、兼具心理特徵與身體特徵的混合性過程。這些感受轉譯了根本的恆定狀態（如飢餓、疼痛、良好狀態）。",
+    "ontological_status": "物理論（生物自然主義）",
+    "mind_body_relationship": "核心的現象過程（恆定感受）是混合性的，兼具心理特徵與身體特徵。心靈與身體的生物過程，尤其是內部調節（內感受），密不可分地相關聯。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現。雖未明確標註，但作為一種奠基於特定生物機制（恆定）的唯物論理論，它意味著意識儘管複雜，卻源自底層的物理/神經過程，且原則上可化約為這些過程。",
+    "subjectivity_and_intentionality": "當恆定感受與外感受通道（如視覺）所生成的影像相結合時，主體性便產生了。意向性反映於感受為與生命調節相關的決策所提供的自發引導之中。",
+    "qualia_account": "感質植根於恆定感受。這些感受（它們轉譯了如疼痛或良好狀態之類的根本恆定狀態）是「經驗的自然源泉」。",
+    "ontological_commitments": "擁有神經系統的複雜有機體、恆定機制、內感受過程，以及身體特徵/心理特徵。",
+    "epistemic_access": "透過內部觀點（第一人稱的感受/情感）而獲得，該觀點揭示生命狀態，將關注點從外部認知（外感受）轉向內部調節（內感受）。",
+    "constituents_and_structure": "基本構件是源自對有機體內部狀態之持續表徵的恆定感受。其結構涉及這些感受與源自外部知覺的認知影像的協調。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、情感性/情緒性、生命調節/生存、決策。",
+    "distinctive_mechanism_or_principle": "恆定感受所固有的有意識地位，它自發地提供有關生命調節與生存的知識。",
+    "dynamics_of_emergence": "意識在生物歷史的早期透過「情感路徑」（內感受過程）而出現，而非透過較晚的「認知路徑」。它由表徵有機體內部狀態的過程持續維持。",
+    "location_and_distribution": "位於複雜有機體的內部調節系統與神經系統中。",
+    "causation_and_functional_role": "意識具有因果效力，它使有機體能夠有意地、知情地行動，為對生存至關重要的生命調節提供了一個新的層次。恆定感受本質上是調節性的。",
+    "integration_or_binding": "當恆定感受與外感受通道所生成的影像相結合以產生主體性時，整合便發生了。",
+    "information_flow_or_representation": "恆定感受自發地具有資訊量，標示當前狀態偏離恆定理想的程度。意識將這一寶貴知識傳送到決策的心理空間之中。",
+    "evolutionary_account": "意識在早期便已演化，透過使基於內部所感受到的、關於生存狀態的資訊進行有意的生命調節成為可能，從而提供了適應優勢。",
+    "core_claims_and_evidence": [
+      "意識的根本源頭是與有機體內部恆定狀態相關的感受。",
+      "恆定感受擁有一種「固有的有意識地位」，自發地為生存提供關鍵知識。",
+      "意識在演化早期經由情感/內感受路徑而出現，先於認知路徑。"
+    ],
+    "basis_of_belief_or_evidence_type": "神經生物學性、演化性、現象學性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗。作為一種奠基於神經系統生理過程的唯物論理論，它可運用生物學與神經科學方法加以研究。",
+    "known_empirical_interventions_or_tests": "來源中並未列出具體命名的經驗性介入，但驗證工作將涉及考察生理性恆定狀態/內感受訊號與所報告的意識感受之間的相關性（合理的闡釋）。",
+    "criticisms_and_tensions": "如同許多生物學式的說明一樣，該理論主要關注意識的功能性與適應性角色（「易問題」），可能使「難問題」（為什麼恆定狀態感受起來是某種樣子）懸而未決，儘管它主張感受本身固有地具有意識。",
+    "open_questions_and_limitations": "恆定感受藉以獲得其「內在的有意識本性」或「恩典」的確切機制，在所提供的描述性框架中仍然難以捉摸。",
+    "ontological_coherence": "在生物學唯物論框架內高度融貫，為意識提供了一個植根於演化性生命維持系統的明確因果角色。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件",
+      "rationale": "如果人工系統能夠獲得一種能進行複雜恆定調節並生成所需「恆定感受」的基質，這些感受反映系統「生命」（或等價的生存律令）的狀態，那麼人工智慧意識將是可能的，這與唯物論相一致。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識從根本上依賴於生物過程，具體而言是複雜有機體神經系統內產生的恆定感受。不存在任何非物理成分在生物基質死亡後存續的可能。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "意識之所以演化，是為了服務於生命調節與生存。作為一種唯物論理論，它與這樣一種觀點相一致：終極的意義/目的並不存在，但意義與價值由有意識的人類所創造。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果物理過程（包括與恆定感受生成及其與認知影像整合相關的所有機制）能夠被完美地複製到非生物媒介中，那麼物理狀態的完美複製便意味著心理狀態的完美複製，從而使虛擬永生成為可能。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Neurobiological Theories",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of what Happens: Body and Emotion in the Making of Consciousness, Antonio Damasio",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Feeling & Knowing: Making Minds Conscious, Antonio Damasio",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Feelings are the source of consciousness, Antonio Damasio and Hanna Damasio",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Homeostatic feelings and the emergence of consciousness, Antonio Damasio and Hanna Damasio",
+        "year": 2024
+      }
+    ]
+  }
+}

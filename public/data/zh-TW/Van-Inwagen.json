@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "van Inwagen 的基督教唯物論與死者復活",
+    "summary": "該理論提出一種基督教唯物論形式，認為人這一存有者完全是物質實體，從而在哲學與聖經兩方面的理由上拒斥實體二元論。它主張跨越死亡的人格同一性之所以得以維持，是因為上帝在最終復活之前一直保存著原初物質身體中一個在物理上、因果上連續的「赤裸內核」。",
+    "associated_thinkers": ["Peter van Inwagen"],
+    "category": "非化約物理論",
+    "subcategory": "基督教唯物論",
+    "core_identity_tagline": "唯物論與聖經復活相調和",
+    "classification_tags": [
+      "christian philosophy",
+      "materialism",
+      "personal identity",
+      "theology",
+      "resurrection"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "有意識的人是一種物質之物，必須維持物質與因果的連續性才能保有人格同一性。",
+    "ontological_status": "基督教唯物論（一種獨特的物理論立場，將神聖行動納入同一性的連續性之中）。",
+    "mind_body_relationship": "同一論：人（包括心靈）等同於一種物質之物，儘管長期存續的確切機制依賴於神聖的保存。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "該理論關注的是存有論的連續性（上帝對物質實體的保存），而非具體的神經湧現機制，但它預設了一種關於生前意識的物理論／唯物論說明。",
+    "subjectivity_and_intentionality": "主體性與意向性是物質之人／大腦的性質，與標準的唯物論立場相一致，因為該理論主要關注死後的連續性而非生前的意識功能。",
+    "qualia_account": "該理論主要關切存有論的連續性，但隱含地假定質性經驗是物質有機體一種完全物理的現象，這與其底層的唯物論基礎相一致。",
+    "ontological_commitments": "物質之人／身體、原子，以及上帝的能力（用以確保物質與因果的連續性）。它拒斥諸如靈魂之類的非物理實體。",
+    "epistemic_access": "可經由哲學推理與神學釋經而通達，尤其聚焦於關於死亡與復活的聖經文本。",
+    "constituents_and_structure": "基本構成要素是物質身體，具體而言是死後維持同一性連續的那一部分，以「gumnos kókkos」（赤裸內核或裸露的穀粒）為象徵。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "人格同一性、死後存續、神學融貫性。",
+    "distinctive_mechanism_or_principle": "上帝保存原初物質的一小部分（赤裸內核）以確保人在死亡與復活之間的物質與因果連續性的機制。",
+    "dynamics_of_emergence": "意識在生前從複雜的物質有機體中產生。它跨越死亡的持續並非連續的，而是透過上帝保留物質基質的一個要素而得到保障。",
+    "location_and_distribution": "生前定位於物質身體／大腦之中。同一性的連續性透過在死後保存一個「gumnos kókkos」而得以維持。",
+    "causation_and_functional_role": "人的意識與心理生活在物理領域內具有因果效力，因為它們是物質實體的性質。",
+    "integration_or_binding": "生前意識的融貫性被推定為經由物質身體內的神經歷程實現，這與唯物論框架相一致。",
+    "information_flow_or_representation": "意識的處理基於物質大腦內的功能性表徵與資訊流。",
+    "evolutionary_account": "生前意識的湧現遵循生物學與演化歷程，這與其唯物論立場相符。",
+    "core_claims_and_evidence": [
+      "人這一存有者是物質之物，拒斥實體二元論。",
+      "傳統二元論對新約復活文本的理解是牽強的，唯物論的解讀更為可取。",
+      "上帝必須保存人的某種物理性的「gumnos kókkos」，以確保復活所需的物質與因果連續性。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學論證、神學／聖經釋經。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／概念性。關於復活的核心主張依賴於哲學／神學論證，無法由科學進行經驗檢驗。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "該理論難以解釋全能者如何能重組一個其原子已流轉並廣泛散布的人（無數複本的難題）。此外，反對不朽靈魂的論證未能說服許多基督教二元論者。",
+    "open_questions_and_limitations": "鑑於身體原子的持續流轉與散布，上帝究竟透過何種確切機制保存「gumnos kókkos」並確保人格同一性，仍是一個懸而未決的要求。",
+    "ontological_coherence": "在調和唯物論與基督教教義方面是融貫的，但依賴於一種機制（神聖保存），這為確保物質連續性引入了一個超自然要素。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作為一種唯物論理論，意識歸根結底是複雜物理排列的產物，這意味著只要達到所需的物理基質，人工智慧原則上應當能夠實現意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "是（以神聖干預為條件）",
+      "rationale": "該理論的首要目標是提供一種機制（上帝保存一個赤裸內核），使物質之人得以實現聖經中的復活與死後存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／神學性",
+      "rationale": "整個框架以對死者復活的神學承諾為根基，這意味著在神聖計劃之內存在終極的意義與目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "既然人是物質之物，上傳大腦的完整物理狀態原則上應當能夠導致有意識自我的功能性複製，從而實現虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "批評" },
+      { "name": "Papineau’s Mind-Brain Identity", "relationship": "重疊" },
+      {
+        "name": "Murphy’s Non-Reductive Physicalism",
+        "relationship": "相容"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "重疊" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism and Materialism: Athens and Jerusalem?",
+        "year": 1995
+      },
+      {
+        "title_with_names": "A materialist ontology of the human person",
+        "year": 2007
+      },
+      {
+        "title_with_names": "What is the nature of personal identity?",
+        "year": 2007
+      }
+    ]
+  }
+}

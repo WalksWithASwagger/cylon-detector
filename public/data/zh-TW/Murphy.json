@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Murphy 的非化約物理論",
+    "summary": "該理論主張意識完全是物理的，僅從生物大腦中產生，但心理性質或狀態被認為在存有論上是獨特的、不可化約為底層物理狀態的。它力圖為人這一存在者提供一種在哲學上穩健、在科學上相容、且在神學上可接受的非二元論說明。",
+    "associated_thinkers": ["Nancey Murphy"],
+    "category": "非化約物理論",
+    "subcategory": "非化約物理論",
+    "core_identity_tagline": "心靈是不可化約地獨特的物理性質",
+    "classification_tags": [
+      "physicalism",
+      "irreducibility",
+      "causal efficacy",
+      "theistic compatibility"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（心理狀態或性質）被認定為獨特的，卻完全依賴於並由大腦的物理狀態所生成，常與性質二元論共享某些特徵。",
+    "ontological_status": "非化約物理論",
+    "mind_body_relationship": "心理狀態在起源上完全是物理的（由大腦因果地生成），但在存有論上不可化約。這一關係常以向下因果為特徵。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "強湧現（推斷得出，其依據在於 Murphy 對系統論、混沌理論與向下因果的倚重，以在原則上實現不可化約性並擊敗化約論的決定論）。",
+    "subjectivity_and_intentionality": "這些心理特徵被假定為整個人類有機體真實的、不可化約的性質／方面，對意識而言是必需的。",
+    "qualia_account": "質性的現象性質是由大腦的物理歷程所產生的不可化約的心理狀態。該理論的核心在於既維持這些性質的實在性，又拒斥化約論。",
+    "ontological_commitments": "物理實體；不可化約的心理性質或狀態；層級性的因果組織（向下因果）。",
+    "epistemic_access": "意識可透過哲學探究（論證其不可化約性）以及與經驗性認知神經科學的相容性而被認識。",
+    "constituents_and_structure": "單一的實體完全是物理的；心理狀態是該物理有機體的高層級系統特徵，經由複雜的非線性動力學而產生。",
+    "epistemic_access": "可經由論證不可化約性的哲學論證，結合認知神經科學的經驗發現而通達。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性；心理性質（包括意向性）；因果效力；自我覺知（經由非二元論的人學推斷得出）。",
+    "distinctive_mechanism_or_principle": "經由向下因果（整體—部分因果）而實現的因果反化約論，並訴諸複雜系統論（混沌理論、非線性動力學），以論證心理狀態對物理大腦施加真實的因果力。",
+    "dynamics_of_emergence": "心理狀態作為不可化約的系統特徵，從生物大腦的複雜組織中動態地湧現出來。",
+    "location_and_distribution": "定位於生物大腦／身體之內；意識是人這一存在者不可分離的湧現特徵（身心統一體）。",
+    "causation_and_functional_role": "意識（心理狀態）具有因果效力，並非惰性。向下因果使高層級的心理內容能夠約束或影響低層級的神經歷程。",
+    "integration_or_binding": "統一的人被視為一個複雜的層級系統，其中意識作為一個統一的整體發揮作用，促成體現系統統一性的因果力。",
+    "information_flow_or_representation": "資訊處理發生在生物大腦中，產生心理狀態，其不可化約的性質在非化約的層級上得以保留。",
+    "evolutionary_account": "意識僅是生物大腦的產物。複雜性的演化導致了湧現的、不可化約的心理性質。",
+    "core_claims_and_evidence": [
+      "意識狀態完全是物理的，但擁有不可化約的心理性質，無法由物理定律完全解釋",
+      "神學上的一致性透過拒斥二元論、並將「靈魂」闡釋為指整個活生生的人來達成",
+      "不可化約性透過援引向下因果與複雜性理論以抵禦化約論的決定論而得到保障"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、神經科學的（相容性）、神學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可對照哲學論證（如因果封閉）進行概念上的檢驗，並與顯示心腦之間強相關的經驗證據相一致。",
+    "known_empirical_interventions_or_tests": [
+      "神經科學中的定位研究（用以論證物理依賴性）"
+    ],
+    "criticisms_and_tensions": "批評者認為，將不可化約性、隨附性與因果效力結合起來會導致不一致，並使心理性質喪失因果效力（過度決定的難題）。它還面臨如何界定「原則上非化約」的質疑。",
+    "open_questions_and_limitations": "缺乏一種清晰、無矛盾的說明來解釋：心理性質如何能在原則上是非化約的，同時又嚴格地處於一個因果封閉的物理世界之內。",
+    "ontological_coherence": "在提供非二元論人學方面具有高度的概念融貫性，但在因果封閉與性質不可化約性的機制方面面臨重大的哲學挑戰。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識是複雜物理系統（「恰當種類」的物理）的一種不可化約卻又完全物理的湧現性質，那麼它應當能夠在足夠複雜的人工基質中被實現。"
+    },
+    "survival_beyond_death": {
+      "stance": "否，有條件的例外",
+      "rationale": "由於意識完全依賴於生物大腦，它隨肉體死亡而消亡。存續需要某種特定的外部機制，如神的介入（死者復活）。"
+    },
+    "meaning_and_purpose": {
+      "stance": "終極的",
+      "rationale": "該理論常被置於有神論框架（基督教人學）中運用，以支持源自上帝對身心之人的意圖的終極意義、目的與價值。"
+    },
+    "virtual_immortality": {
+      "stance": "極有可能",
+      "rationale": "假設能夠完美複製必需的複雜物理系統（大腦），那麼湧現的、不可化約的心理性質也必將被複製，只要技術能夠達到那種複雜性，就能確保第一人稱的連續性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "重疊（常被視為性質二元論的一種形式）"
+      },
+      {
+        "name": "Emergence (Strong)",
+        "relationship": "影響（為哲學融貫性需要向下因果）"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "批判（明確表明反對身與靈的人學二元論）"
+      },
+      {
+        "name": "Polkinghorne's Dual-Aspect Monism",
+        "relationship": "相容（共享非二元論有神論物理論的目標，並倚重資訊／模式／複雜性）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "For Non-reductive physicalism, Nancey Murphy",
+        "year": 2018
+      },
+      {
+        "title_with_names": "What is human mind in a theistic world?, Nancey Murphy",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Whatever Happened to the Soul?, Warren Brown, H. Newton Maloney, Nancey Murphy",
+        "year": 1998
+      }
+    ]
+  }
+}

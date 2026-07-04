@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "傑克森的透明表徵論與知識論證",
+    "summary": "傅蘭克・傑克森（Frank Jackson）的透明表徵論主張，知覺經驗的現象特徵完全窮盡於其表徵內容，意即我們「直接看穿」經驗而觸及對象的屬性。此立場的提出主要是為了瓦解他自己著名思想實驗——知識論證——的結論，而該論證先前是用以反駁物理論的。",
+    "associated_thinkers": ["Frank Jackson"],
+    "category": "唯物論諸理論",
+    "subcategory": "表徵論",
+    "core_identity_tagline": "「現象特徵完全窮盡於表徵內容」",
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "physicalism defense",
+      "epistemology",
+      "intentionality"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（現象特徵）被認定為滿足某些條件的相關心理狀態之表徵內容，這往往與經驗對象的屬性相連結。",
+    "ontological_status": "化約論的物理論。（理由：此理論的首要目標是擊敗知識論證，從而維持物理論／唯物論在現象意識問題上的充分性）。",
+    "mind_body_relationship": "同一。現象本性完全窮盡於功能性與意向性的內容（表徵事實），而這些內容是以物質方式體現的。",
+    "primitive_or_emergent_status": "湧現的。（理由：意識完全為物質過程所體現的表徵內容所捕捉，意即它並非實在的根本層面）。",
+    "emergence_type": "弱湧現。（理由：作為一種化約論的物理論辯護，現象屬性完全為物質／表徵內容及功能角色所捕捉，或與之同一，蘊含著原則上的可推導性）。",
+    "subjectivity_and_intentionality": "主體性由透明性論題來解釋：通達經驗的本性不過就是通達其對象的屬性。意向性，即心理狀態的「關涉性」，居於核心地位，因為經驗本質上是表徵性的。",
+    "qualia_account": "感質（現象特徵）完全由相關心理狀態的表徵內容所解釋或窮盡。這意在表明，沒有任何非物質的知識（如「看見紅色是什麼樣子」）是物質／表徵事實所無法解釋而遺留下來的。",
+    "ontological_commitments": "心理表徵、物質事實，以及心理狀態的功能角色／意向性內容。",
+    "epistemic_access": "內省透過只揭示外在對象及其屬性、而非經驗本身的內在特徵，來支持透明性論題。因此，對表徵內容進行第三人稱的科學研究是充分的。",
+    "constituents_and_structure": "意識的結構完全由心理狀態的意向性內容或表徵本性所決定；表徵事實構成一個足以捕捉知覺經驗的整體。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（尤指知覺經驗／感質的質性本性）。",
+    "distinctive_mechanism_or_principle": "知覺經驗的透明性。意識是對象之表徵的結果，其中主體「直接看穿」知覺狀態而觸及對象的屬性。",
+    "dynamics_of_emergence": "靜態屬性。（理由：此模型將意識等同於表徵內容／意向性結構，聚焦於終態的同一而非動態的生成過程。來源並未詳述時間性動態。）",
+    "location_and_distribution": "定位於由大腦的表徵性處理所體現的心理狀態之中。",
+    "causation_and_functional_role": "有意識的經驗完全窮盡於功能角色與表徵內容。表徵事實足以捕捉完整的知覺經驗。",
+    "integration_or_binding": "隱含地透過構成知覺經驗整體的意向性內容之全面性而達成。（理由：來源並未詳述綁定的明確機制，但在此「整體」中已預設了統一。）",
+    "information_flow_or_representation": "心理表徵使內在感知的概念／意象的解釋力凌駕於單純的神經狀態之上，窮盡了經驗的本性。",
+    "evolutionary_account": "意識被推定為大腦表徵性機制的一部分而演化出來。（理由：這是由其被歸類為唯物論理論所推斷，但傑克森在來源中並未給出具體論述。）",
+    "core_claims_and_evidence": [
+      "經驗是透明的：現象屬性即經驗對象的屬性。",
+      "強表徵論主張，經驗如何表徵事物，完全窮盡了其經驗本性。",
+      "知識論證失敗了，因為現象性的習得被化約為表徵事實，從而保住了物理論。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的／概念的（基於對現象概念及內省本性的邏輯分析）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗。（此理論的成功繫於一項哲學論證，即表徵內容能在邏輯上窮盡現象特徵，從而消解如知識論證這類思想實驗）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要張力在於，批評者主張表徵論在邏輯上並未駁倒知識論證，因為一個表徵論版本的「瑪莉挑戰」仍為物理論保留了難題。",
+    "open_questions_and_limitations": "必須明確指定表徵內容在何種確切條件下能捕捉現象特徵，而將現象屬性完全化約為意向性屬性的概念融貫性仍受到挑戰。",
+    "ontological_coherence": "在化約論的物理論框架內高度融貫，因為其全部動機即在於藉由消除不可化約的現象屬性（「感質」）來維持物理論。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "若意識完全窮盡於表徵內容與功能角色，且這些屬性能以運算方式實現，那麼人工智慧系統便能獲得意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "此理論是對唯物論／物理論的辯護，意味著意識僅繫於物質系統（大腦或其功能／表徵等價物），使其無法在生物性終止之後存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義的",
+      "rationale": "作為一種唯物論理論，它並不提供人類為自己創造之外的任何終極意義或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "由於現象特徵完全為功能／表徵內容所捕捉，對這些內容的完美複製（上傳）將保存原初的第一人稱心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Knowledge Argument (Mary's Room)",
+        "relationship": "批判／起源"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "基礎"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "對比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The knowledge argument, diaphanousness, representationalism, Frank Jackson",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, Frank Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "What Mary Didn’t Know, Frank Jackson",
+        "year": 1986
+      }
+    ]
+  }
+}

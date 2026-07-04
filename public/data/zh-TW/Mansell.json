@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Mansell 的知覺控制理論（PCT）",
+    "summary": "此理論主張，意識源自為了適應性地修改控制系統所必需的重組這一關鍵過程。此種修改旨在減少那些支配著基本（多為生理）變項之內在機制的誤差。意識涵蓋初級（現象）、次級（取用）與三級（自我覺知）三個面向，並連結於階層式的控制功能。",
+    "associated_thinkers": [
+      "Warren Mansell"
+    ],
+    "category": "唯物論",
+    "subcategory": "恆定與情感",
+    "core_identity_tagline": "意識即使內在誤差最小化的重組",
+    "classification_tags": [
+      "homeostatic",
+      "control theory",
+      "emergentism",
+      "purposiveness",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "初級（現象）意識被認定為直接從重組過程中湧現，此重組是適應性地修改控制系統所必需的，而這些系統使控制基本生理變項之內在系統的誤差最小化。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "湧現論。心靈作為物理控制系統（大腦／身體）內所發生之重組過程的結果而產生。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現。基於其在唯物論下的歸類，支配意識的基本過程（重組、誤差減少）被假定為原則上可由底層物理定律加以解釋。",
+    "subjectivity_and_intentionality": "主體性內隱地源自對階層式組織之知覺變項的控制。意向性則透過「目的性」加以處理，即為達成某目標（參照值）而對這些知覺變項所施加的控制。",
+    "qualia_account": "初級（現象）意識源自為減少控制基本生理變項之內在系統的誤差所需的特定重組過程。",
+    "ontological_commitments": "階層式控制系統、生理變項、知覺變項，以及符號（用於三級意識）。",
+    "epistemic_access": "透過研究適應性修改過程（重組），並將階層式控制功能連結至意識的三個層次（初級、次級、三級）而取得。",
+    "constituents_and_structure": "基本結構是一個由階層式組織之知覺變項所構成的系統，這些變項由旨在抵消干擾、並減少當前值與目標狀態之間誤差的輸出所調節。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（初級）、取用的（次級）、自我覺知的（三級）",
+    "distinctive_mechanism_or_principle": "重組，定義為適應性地修改內部控制系統以對抗外部干擾、維持關鍵變項的過程，從而產生意識。",
+    "dynamics_of_emergence": "動態過程。次級（取用）意識透過探索行為、注意與想像來控制新資訊的整合速率，藉此得以維持。",
+    "location_and_distribution": "系統性的。意識源自跨越生物體階層式控制系統（大腦／身體）的重組動態。",
+    "causation_and_functional_role": "意識具有適應性修改與誤差減少的功能角色。三級意識（自我覺知）透過符號系統提供反思與學習。",
+    "integration_or_binding": "整合是由次級意識主動管理與控制的過程，具體而言是透過管理新資訊的整合速率。",
+    "information_flow_or_representation": "三級（自我覺知）意識將內部維持的知覺資訊與符號（語言、邏輯）相關聯，以形成用於反思的命題系統。",
+    "evolutionary_account": "意識演化出來以貢獻於非意識過程並處理其局限，具體而言是透過使對抗不可預測之干擾、維持控制所必需的適應性修改成為可能。",
+    "core_claims_and_evidence": [
+      "意識源自為減少內部誤差訊號而運作的重組機制。",
+      "意識被劃分為三個層次：初級（現象）、次級（取用）與三級（自我覺知）。",
+      "三級意識運用與內部維持之知覺資訊相關聯的符號系統（語言／邏輯）。",
+      "意識的首要功能是使非意識控制系統得以進行有利於生存的適應性修改。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、心理學的、神經哲學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗。該理論依賴於可量化的心理過程（注意、想像）與生理誤差減少訊號。",
+    "known_empirical_interventions_or_tests": "可透過以下實驗檢驗：測量因應不可預測之生理或知覺干擾時的適應性修改（重組）速率，並將這些變化與所報告的現象或取用經驗相關聯。",
+    "criticisms_and_tensions": "很可能面臨一項挑戰：如何解釋一個純粹功能性、減少誤差的過程（重組）能完整說明初級意識的質性感受（感質），這是針對功能論與計算論理論的常見批評。",
+    "open_questions_and_limitations": "重組機制的精確物理實作，以及生理誤差減少與現象經驗（感質）主觀湧現之間的明確連結，都是內隱的而非充分明訂的。",
+    "ontological_coherence": "在物理論框架內高度融貫，此框架依據意識在控制生物體與環境互動時的適應性功能角色來界定意識。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "既然意識以誤差減少、階層式控制與符號操作（用於自我覺知）等過程來機制性地界定，那麼這些功能理論上便可在足夠複雜的人工計算系統中實現。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識內在地繫於生物控制系統重組所產生的動態湧現（內隱地為物理／神經基質），意味著它在此基質消解時即告終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "務實／存在主義",
+      "rationale": "意識的存在，以其在促進適應性行為、維持控制（目的性）與處理非意識生命之局限方面的功能來解釋，而不設定任何宇宙的或終極的目的。"
+    },
+    "virtual_immortality": {
+      "stance": "有可能",
+      "rationale": "若意識被控制系統階層的底層資訊結構與動態所完整捕捉，那麼此功能模式便有可能在非生物基質中被複製並維持。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "An Integrative Control Theory Perspective on Consciousness, W. Mansell",
+        "year": 2022
+      }
+    ]
+  }
+}

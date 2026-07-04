@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "明斯基的心智社會",
+    "summary": "該理論主張，人類的認知與智能湧現自大腦中眾多專門化、半獨立的功能元件（稱為「智能體」）之間並行的、非意識的交互。意識本身被視為一個「手提箱詞」，被含混地用來標示這些各式各樣的認知與覺知過程的集合，而非某個單一的統一實體。",
+    "associated_thinkers": ["Marvin Minsky"],
+    "category": "唯物論",
+    "subcategory": "神經生物學",
+    "core_identity_tagline": "「作為智能體之手提箱詞的意識」",
+    "classification_tags": [
+      "computational",
+      "modularity",
+      "agents",
+      "functionalism",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種集體性的高層描述，用以指稱由大腦中底層計算智能體所生成的各種湧現過程與現象（例如各類記憶、各種專門化的覺知）。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "心靈／意識完全由大腦中專門化計算單元（「智能體」）的物理組織與活動所產生，並且是對其的一種高層描述。關鍵在於組織方式，而非物質基底。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現（理據：作為一個計算唯物論框架，心靈狀態的結構與組織儘管複雜，但根本上可化約為被界定的非意識智能體之間的交互，這意味著在高層描述之外不存在不可化約的「魔法」。）",
+    "subjectivity_and_intentionality": "主體性（自我感）作為一種高層過程而產生：系統能夠為自身建立一個「作為世界中的存在者」的模型，並利用該模型對其過去與未來進行高層思考。意向性由專門化智能體的輸出所承載。",
+    "qualia_account": "感質被隱含地當作意識這一誤導性「手提箱詞」的一部分而予以排除，這個詞將注意力從複雜的底層過程上引開。該理論剖析了各種形式的覺知（例如回憶一種感覺與回憶一些詞語的區別），但拒斥一種不可化約的現象感受。",
+    "ontological_commitments": "專門化的認知智能體、層級化的組織層次、物理腦結構（例如皮質柱），以及高層計算描述。",
+    "epistemic_access": "主要透過研究高層腦組分（「智能體」）的計算組織、功能與關係，而非聚焦於低層神經元或主觀內省。",
+    "constituents_and_structure": "被稱為「智能體」的簡單、無心智、專門化的處理單元，它們被組織成一個龐大的、由相互協作、半獨立的機器構成的網路，這一網路源於演化過程中的專門化與聯合。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "通達、認知、記憶、自我覺知（作為建立模型）、規劃、問題求解、多種不同類型的覺知。",
+    "distinctive_mechanism_or_principle": "心智社會架構，其中複雜的高層功能透過大規模、層級化的協作，以及隨之從簡單、非意識的智能體中產生的高層描述而得以實現。",
+    "dynamics_of_emergence": "動態過程。覺知透過神經元不斷專門化與聯合的歷史進程而發展，導致日益複雜的層級化組織（大腦組織的多個層次）。",
+    "location_and_distribution": "分布於大腦組織的多個層次，被構想為一個由專門化電腦構成的龐大網路。支持者反對為「意識」尋找單一的物理位置，因為它是一個複合性的詞。",
+    "causation_and_functional_role": "意識描述的是一些高層控制功能，如識別錯誤、發展新目標，以及建立自我模型以生成規劃方案和反事實歷史。這種複合功能提供了適應性的生存價值。",
+    "integration_or_binding": "整合隱含地透過數百個專門化智能體之間的複雜交互而發生，其輸出被解釋為高層的統一描述（第 5 級思想）。",
+    "information_flow_or_representation": "資訊在各組織層次間被層級化地處理。高層描述至為關鍵，需要位於神經生理活動之上許多層次的專門化認知機構（智能體）。",
+    "evolutionary_account": "認知／心靈是一段漫長演化史的最終產物，其間的進步透過原始神經元之間的專門化與聯合而取得，最終導向了不同於早期動物的複雜組織結構。",
+    "core_claims_and_evidence": [
+      "意識是對多樣過程的一個複合性、隱喻性標籤（一個「手提箱詞」）。",
+      "其底層架構是一個由專門化生物機器（智能體）構成的龐大網路。",
+      "理解低層神經元活動不足以解釋高層思想與認知過程。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算、哲學（人工智慧視角）、神經生物學（組織層級）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上與計算上可檢驗（理據：由於意識純粹透過功能機制與組織層級來定義，其原理可以在先進的人工系統中加以實現和檢驗）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "針對意識研究的主要批評是，研究者在意識只是許多過程的一個詞時，卻浪費時間去尋找單一的物理「意識所在的腦中位置」。它還面臨化約論功能論所受的標準批評，即排除了真正的主觀感質。",
+    "open_questions_and_limitations": "其侷限在於一項艱鉅的任務：精確地確定被歸入「手提箱詞」之下的每一個組分過程如何運作，以及它們如何相互關聯。",
+    "ontological_coherence": "在一個強調複雜計算組織與功能分解的物理論框架內高度融貫，與功能論的哲學立場相一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "若意識產生於專門化智能體之間必要的計算交互及其高層描述，那麼能夠實例化這一特定形式高層組織的人工系統就應當具有意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全依賴於生物大腦／機器的物理存在與功能組織；其瓦解意味著心靈的永久終結。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主義／實用主義",
+      "rationale": "複雜認知組織（意識）的功能性目的在於幫助有機體在世界中導航、制定計劃並為自身建模，這提供了主觀意義，但並不意味著任何總攬性的宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "由於心靈是由其資訊模式與功能組織（高層描述）所定義，那麼將其完整複製或上傳到一個能夠複現這些複雜交互的非生物介質中，將會轉移原有的意識同一性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "相容"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Society of Mind, Marvin Minsky",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Why is Consciousness So Mysterious?, Marvin Minsky",
+        "year": 2007
+      }
+    ]
+  }
+}

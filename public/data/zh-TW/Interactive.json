@@ -1,0 +1,103 @@
+{
+  "id_and_class": {
+    "theory_title": "互動二元論",
+    "summary": "此理論主張實在由兩個互異的存有論範疇構成：一個物質的大腦，以及一個獨立的、非物質的實質（心靈／靈魂）。\n其核心的解釋主張是，這兩種實質以因果方式互動，意即非物質的心靈能夠影響物質的身體，反之亦然。",
+    "associated_thinkers": [],
+    "category": "二元論諸派",
+    "subcategory": "互動論",
+    "core_identity_tagline": "彼此獨立且相互作用的物質與非物質實質",
+    "classification_tags": [
+      "substance dualism",
+      "mental causation",
+      "nonphysical",
+      "interactionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識需要一種與物質大腦並存的獨立、非物質實質（或部分），兩者之間的互動解釋了心理狀態與行為。",
+    "ontological_status": "實體二元論（通常是隱含的）",
+    "mind_body_relationship": "互動論（因果互動）",
+    "primitive_or_emergent_status": "原初的（非物質實質是獨立的／根本的）",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "主體性存於獨立的非物質實質（心靈／靈魂）之中，其本質上是第一人稱的。意向性被視為一種核心的、不可化約的心理屬性。",
+    "qualia_account": "感質是非物質心理實質或面向的不可化約的質性特徵。",
+    "ontological_commitments": "物質實質（大腦／物質）以及一種獨立的、非物質的實質（心靈／靈魂／靈）。",
+    "epistemic_access": "內省提供對非物質心理實質的第一人稱通路，而大腦則透過第三人稱觀察來研究。",
+    "constituents_and_structure": "兩種互異的、相互作用的實質或成分：物質的大腦／身體，以及非物質的靈魂／心靈／靈。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（不可化約的）；自我覺知；能動性（自由意志）。",
+    "distinctive_mechanism_or_principle": "非物質心理實質與物質大腦之間的因果互動，使心理得以影響物質領域（向下因果）。",
+    "dynamics_of_emergence": "靜態屬性（屬於非物質實質），儘管物質與非物質之間的互動是動態且持續進行的。",
+    "location_and_distribution": "物質成分（大腦）位於空間之中；非物質成分（心靈／靈魂）是獨立或自主的，有時被設想為不具延展性。",
+    "causation_and_functional_role": "意識（非物質心靈）對物質大腦／身體施加因果力，並受其因果影響，從而實現有意識的控制與能動性。",
+    "integration_or_binding": "整合很可能被歸因於非物質心理實質那簡單、不可分且根本統一的本性，而非某種物質過程。",
+    "information_flow_or_representation": "資訊流涉及物質（大腦狀態）與非物質（心理狀態）兩個領域之間的雙向溝通。",
+    "evolutionary_account": "否，意識是由非物質成分的根本存在或創造來解釋，而非透過傳統唯物論的種系發生演化。",
+    "core_claims_and_evidence": [
+      "意識在物質大腦之外，還需要一種獨立的、非物質的實質。",
+      "心理狀態對物質狀態施加因果影響（心理因果）。",
+      "所謂的互動難題往往建立在十九世紀撞球式物理學的過時假設之上。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的；現象學的；概念的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "高度思辨／難以經驗檢驗",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要批評在於心理因果的「棘手難題」，具體而言即指認一個可設想的機制，使非物質之物能影響物質之物。它也在物理學的能量守恆定律以及物質領域的因果封閉性方面面臨張力。",
+    "open_questions_and_limitations": "核心侷限在於為互動機制提供融貫的解釋，尤其涉及可能違反物理定律或過度決定的問題。",
+    "ontological_coherence": "與當代科學唯物論高度不一致，因為它需要設定兩個互異的存有論範疇，並違反物質世界的因果封閉性。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否（大致上）",
+      "rationale": "若此理論為真，意識便需要一種與物質世界截然分離、獨立的非物質實質（靈魂）；非生物系統無法擁有此必要成分。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "二元論設定了一種獨立於生物大腦的、非物質的實質（靈魂），因此能夠在肉身死亡後存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是",
+      "rationale": "透過設定一種不可化約的非物質成分，互動二元論通常支持超越性的意義、目的或價值，這往往與一個擴展的實在相連結。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "虛擬不朽需要透過複製物質大腦來複製心靈；此程序將會失敗，因為第一人稱意識所必需的關鍵非物質成分將付之闕如。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "對比理論"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "延伸／替代方案"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "類型／重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Interactionism (philosophy of mind)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Dualism, H. Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Substance of Consciousness: A Comprehensive Defense of Contemporary Substance Dualism, B. Rickabaugh and J.P. Moreland",
+        "year": 2023
+      }
+    ]
+  }
+}

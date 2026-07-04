@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "弗里斯頓的自由能原理與主動推論",
+    "summary": "此理論將意識構想為一個自然過程，它源於對「自由能」的最小化，即有機體的內部模型（知覺性期望）與即時感官輸入之間的差異。因此，意識作為一種經演化而來的機制發揮作用，用於模擬世界的各種情景並減少預測誤差，以確保生存和維持穩態。",
+    "associated_thinkers": [
+      "Karl Friston"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "穩態與情感",
+    "core_identity_tagline": "意識即主動推論與被最小化的驚異",
+    "classification_tags": [
+      "active inference",
+      "free energy",
+      "predictive processing",
+      "process theory",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種推論的自然過程，具體而言是那個監測並最小化自由能原理（驚異）的內部湧現模型，從而優化物理／大腦系統的表徵能力。",
+    "ontological_status": "物理論；常被稱為馬可夫一元論，它將心靈／物質的區分視為辯證性的而非存有論性的。",
+    "mind_body_relationship": "一元論／同一論。此理論主張意識是物理／大腦系統自組織過程的自然結果，消解了心靈與物質之間人們所熟悉的辯證對立。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現。意識被視為不多不少恰是一個自然過程（如同演化或天氣），源自複雜的、自組織的物理系統。",
+    "subjectivity_and_intentionality": "主體性（第一人稱觀點）由當一個系統的內部狀態可與外部狀態相區分時所誘導出的資訊幾何加以刻畫（馬可夫一元論）。意向性反映於主動推論過程之中，該過程涉及推斷感官狀態的成因並在世界中導航。",
+    "qualia_account": "此理論對於難問題高度收縮，將意識視為一個有待理解的過程，而非一個其質性性質需要被界定的「東西」。感質若被承認，將是副現象，或是推論所需的內部生成模型的方面。",
+    "ontological_commitments": "物理／大腦系統、複雜的自組織系統、內在與外在的資訊幾何，以及推論／過程的概念。",
+    "epistemic_access": "意識透過自由能原理的數學形式化而被認識和研究，從而允許對產生意識這一觀念的過程進行客觀分析。",
+    "constituents_and_structure": "基於自組織系統中的動態平衡與吸引子而運作的內部生成模型（預測處理層級）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（作為一種經演化而來的機制）、知覺、行動、推論、生存。",
+    "distinctive_mechanism_or_principle": "自由能原理（FEP），它主張所有自組織系統都必須最小化自由能（或「驚異」），透過主動推論驅動行動與知覺。",
+    "dynamics_of_emergence": "動態過程。當自我證成（系統經由吸引子達成穩定的過程）獲得「時間厚度」或「反事實深度」，從而允許對未來行動進行推論時，意識便湧現出來。",
+    "location_and_distribution": "定位於物理大腦系統中；皮質反應被視為大腦最小化自由能的努力。",
+    "causation_and_functional_role": "意識發揮著適應性與功能性的角色，作為經演化而來的機制，用於模擬情景、監測並最小化自由能，以促進生存（穩態）並在世界中導航。",
+    "integration_or_binding": "整合隱含於單一內部湧現模型的構建之中，該模型預測外部世界並最小化全域的驚異／預測誤差。",
+    "information_flow_or_representation": "資訊加工圍繞預測而構建，其中內部模型（知覺性期望）與感官輸入相比較，而學習依賴於最小化大腦的自由能。",
+    "evolutionary_account": "意識是一種經演化而來的機制，源自最小化預測誤差並調節身體生理（生存）這一根本的生物律令。",
+    "core_claims_and_evidence": [
+      "意識是用於行動與知覺的自由能原理的自然結果（主動推論）。",
+      "最小化驚異至關重要，因為未能做到這一點會威脅系統的存在。",
+      "意識是關於自身未來的推論，依賴於關於感覺如何生成的內部模型。",
+      "此理論的形上學印記是馬可夫一元論，它旨在消解心靈—物質的辯證對立。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算性、數學性、理論神經科學／物理學。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "透過對物理系統表徵能力的形式化依賴，在概念上和經驗上都與可檢驗的模型（如神經生物學與心理學中的模型）相聯繫。",
+    "known_empirical_interventions_or_tests": "FEP 的原理構成了各類模型的基礎，這些模型被用於關於意識狀態改變（如迷幻劑作用下的熵腦假說）以及相關知覺與認知理論的經驗研究中。",
+    "criticisms_and_tensions": "此理論因高度收縮、難以與現象經驗的第一人稱實在（難問題）相調和而受到批評，它僅將意識視為一種數學過程或「自然結果」。弗里斯頓發現，很難與將意識視為一個「東西」的哲學前提展開討論。",
+    "open_questions_and_limitations": "此理論面臨的挑戰是：在不將意識定義為一個「東西」的前提下，解釋一個推論最小化的自然過程如何產生主觀經驗存在這一*觀念*或*錯覺*。",
+    "ontological_coherence": "高。此理論內部融貫，運用馬可夫一元論將心靈過程與物理物質整合進一個統一的、描述性的框架之中。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作為一種強唯物論理論，如果意識完全可由推論與表徵最小化的計算過程加以解釋，那麼能夠執行這些過程的非生物系統原則上最終必然會獲得意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識是一個直接與生物大腦的功能動力學及物理基質相關聯的湧現性自然過程；因此，它無法在身體衰亡後存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "意識過程的根本律令是生存（最小化驚異／維持穩態）。此理論並不將終極的宇宙意義或目的合理化，這與一般的唯物論視角相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意識被理解為一個湧現的、形式化的推論優化過程，那麼將大腦的資訊加工與表徵動力學完美複製到非生物媒介中，應足以使心理自我得以延續。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Clark's Predictive Processing",
+        "relationship": "影響"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Carhart-Harris’s Entropic Brain Hypothesis",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Projective Consciousness Model",
+        "relationship": "延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A theory of cortical responses, K. Friston",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Active interference: a process theory, K. Friston et al",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Mathematics of Mind-Time, K. Friston",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Sentience and the origins of consciousness: from cartesian duality to markovian monism, K. Friston, W. Wiese, J.A. Hobson",
+        "year": 2020
+      }
+    ]
+  }
+}

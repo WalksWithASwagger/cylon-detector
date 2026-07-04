@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Tegmark 的物質態",
+    "summary": "Tegmark 提出，意識可被理解為物質的一種特定狀態，他將其命名為「perceptronium（感知物質）」，該狀態由獨特的資訊處理能力所界定。本理論從一切存在皆為物理的這一前提出發，尋求能將有意識的、複雜的資訊處理與無意識處理區分開來的原則。",
+    "associated_thinkers": ["Max Tegmark"],
+    "category": "一元論",
+    "subcategory": "",
+    "core_identity_tagline": "作為物質態的意識：perceptronium",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "information",
+      "mathematics",
+      "perceptronium"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為資訊以某些複雜方式被處理時所產生的主體經驗或「感受」，它構成被稱為「perceptronium（感知物質）」的物質態。",
+    "ontological_status": "物理論／一元論",
+    "mind_body_relationship": "隱含一種同一關係，其中主體經驗（心靈）被認定為一種特定的物理狀態（一種物質態／資訊處理）。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性被定義為「資訊以某些複雜方式被處理時的那種感受方式」。意向性被隱含地視為 perceptronium 所能達成的一種複雜的、高層次的資訊能力。",
+    "qualia_account": "感質隱含地即是與 perceptronium 特定資訊處理配置相關聯的「感受」（主體經驗），並透過四條原則加以形式化：資訊、整合、獨立性與動力學。",
+    "ontological_commitments": "物理系統、資訊。本理論奠基於一個更大的存有論主張：一切實在都是一個根本的數學結構。",
+    "epistemic_access": "意識透過支配資訊流的客觀物理與數學原則（資訊、整合、獨立性與動力學）來通達和認識。",
+    "constituents_and_structure": "其結構即「perceptronium」，一種由四條原則（資訊、整合、獨立性與動力學）所界定的物質態。這一框架將整合資訊論（IIT）推廣至任意量子系統。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象（主體經驗／感受）與通達（意識所需的資訊處理）。",
+    "distinctive_mechanism_or_principle": "透過將四條不同原則（資訊、整合、獨立性與動力學）應用於物理系統中的資訊處理，來界定 perceptronium。",
+    "dynamics_of_emergence": "意識是物質的一種動態排布或狀態。所探討的原則也可能涉及時間的湧現。",
+    "location_and_distribution": "局部化於達成界定 perceptronium 之特定資訊處理判準的物理系統（如神經網路或任意量子系統）。",
+    "causation_and_functional_role": "意識對資訊評估至關重要，並被視為在照護昏迷病人或與先進人工智慧溝通等關鍵需求上具有功能重要性。因果作用嚴格是物理的。",
+    "integration_or_binding": "整合是界定 perceptronium 的四條原則之一，表明它是統一意識經驗的一項關鍵機制。",
+    "information_flow_or_representation": "資訊是基礎性的，因為意識即資訊被處理時的主體感受。其機制完全由資訊性原則所驅動。",
+    "evolutionary_account": "該進路有別於將意識視為演化偶然產物的唯物論理論，轉而將其與實在底層的數學本性相關聯。",
+    "core_claims_and_evidence": [
+      "意識是一種「物質態」（perceptronium）。",
+      "意識由資訊、整合、獨立性與動力學諸原則所界定。",
+      "解釋必須嚴格遵循物理定律，不使用「任何額外的秘密配方」。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、數學的、計算的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "經驗上可檢驗",
+    "known_empirical_interventions_or_tests": "對整合資訊論的推廣意味著它與 IIT 的測度函數（量化意識程度）相關。本理論意在應對評估昏迷病人與先進人工智慧等具體問題。",
+    "criticisms_and_tensions": "作為整合資訊論的一種推廣，它繼承了既有的批評，例如純粹透過物理與資訊性原則來解釋主體感受的困難。",
+    "open_questions_and_limitations": "將有意識處理與無意識處理區分開來的確切數學原則仍有待發現。",
+    "ontological_coherence": "在強物理論／數學一元論存有論內部高度融貫，因為它嚴格遵循物理定律並拒斥非物理組分。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "本理論嚴格是物理論的（「一切皆物理」），並將意識界定為一種可透過複雜資訊處理達成的物質態。因此，人工系統原則上能夠達成這一狀態。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識是物理大腦的一種湧現物質態（perceptronium）。物理基質不可逆的死亡與解體將導致意識的終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定／僅限人本意義",
+      "rationale": "以物理學與數學結構為基礎，通常意味著不存在終極的宇宙目的，這與消解式物理論觀點一致。本理論並未明確提出宇宙目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意識是由數學／物理原則所界定的物質的一種特定資訊狀態，那麼該狀態原則上可被先進技術完美複製或上傳至非生物介質。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Mathematical Universe Hypothesis",
+        "relationship": "基礎"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness is a state of matter",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality",
+        "year": 2014
+      }
+    ]
+  }
+}

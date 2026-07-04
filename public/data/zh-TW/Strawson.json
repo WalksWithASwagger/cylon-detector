@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "史陶生的泛心論",
+    "summary": "史陶生主張，任何對物理論持實在論立場的哲學家都必須承認，一切物理現象在本質上都是經驗性的或現象性的，從而使泛心論（或泛經驗論）成為「真實唯物論」的必然結論。意識經驗的存在作為最為確定的事實，不能被真正的物理論所否認。",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "泛心論",
+    "subcategory": "泛經驗論",
+    "core_identity_tagline": "「真實唯物論蘊含泛心論」",
+    "classification_tags": [
+      "real materialism",
+      "panexperientialism",
+      "monism",
+      "physicalism",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（經驗）被認定為一切根本物理質料或能量的一種內在的、不可化約的現象性質（泛經驗論）。",
+    "ontological_status": "實在論一元論／真實唯物論",
+    "mind_body_relationship": "同一論（強的意義上）。心理現象被視為具體的物理現象，因為真實物理論涵蓋一切真實現象，包括經驗。",
+    "primitive_or_emergent_status": "原初的／根本的",
+    "emergence_type": "不適用（意識是原初的）。本理論依賴於「激進」湧現的不可能性，以支持其泛心論為物理論所蘊含的主張。",
+    "subjectivity_and_intentionality": "經驗的主體特徵（「像是什麼」的諸種特徵）是一個具體的、根本的、既定的自然事實，任何實在論物理論者都必須予以承認。",
+    "qualia_account": "感質是世界真實的、具體的、物理的性質；對它們的否認被視為「有史以來最愚蠢的主張」。",
+    "ontological_commitments": "物理終極實體（能量／物理質料）以及內在於它們的現象／經驗性質。",
+    "epistemic_access": "主要透過內省（經驗是其存在最為確定的現象）與哲學論證來通達，泛心論由此從對物理論的實在論理解中被邏輯地推導出來。",
+    "constituents_and_structure": "基本構成要素是物理質料，它在根本上是涉及經驗的，以致一切能量都可被認為是一種涉及經驗的現象。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（經驗／感質）。",
+    "distinctive_mechanism_or_principle": "一切具體現象皆為物理的這一原理，結合經驗是一種具體現象且不能激進湧現這一事實，決定了經驗內在於基礎物理學。",
+    "dynamics_of_emergence": "意識是根本的，而非在激進意義上動態湧現的。如果拒斥激進湧現，本理論便支持泛經驗論。",
+    "location_and_distribution": "無所不在，與物理實在的每一部分或每一方面相關聯，類似於基本的場與粒子。",
+    "causation_and_functional_role": "意識既然是物理的，便無障礙地融入自然世界。（個別經驗的具體因果角色經由其物理地位而被暗示，但在諸來源中未作詳述。）",
+    "integration_or_binding": "本理論面臨泛心論的組合問題（微觀層面經驗如何組合成宏觀意識主體）。要使泛心論成為勝出的理論，這一問題必須得到解決。（史陶生在諸來源中未詳述具體的解決機制。）",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "史陶生接受意識為物理的，並提示對其本性的恰當回應或許是「接受而不期望理解」，類似於波粒二象性。",
+    "core_claims_and_evidence": [
+      "意識是完全物理的。",
+      "對意識經驗的否認是有史以來最愚蠢的主張。",
+      "鑑於激進湧現的不可能性，真實物理論蘊含泛心論。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、概念的、現象學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗。它是一個從關於物理世界之本性的哲學前提中導出的形上學提議。Nagasawa 指出，泛心論即便為真，也可能陷入「認知死胡同」，因為它無法被證明。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "被某些批評者廣泛視為「荒謬」。它受困於組合問題，需要解釋微觀層面經驗如何聚合以產生宏觀現象性質。",
+    "open_questions_and_limitations": "要使該觀點成為心身問題最有前途的解決方案，必須為組合問題找到一個合理的解決方案。",
+    "ontological_coherence": "在其所提出的對唯物論／物理論的擴展定義（「實在論一元論」）內高度一致，旨在透過把意識納入終極物理實在來解決心身問題。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識是每個基本物理實體的一種不可化約性質，那麼由物理物質構成的 AI 也應當具有內在覺知，前提是組合問題能夠得到解決，且微觀心靈方面能夠被先進技術操控。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能（希望渺茫）",
+      "rationale": "儘管世界浸透著意識，但存續要求逆轉微觀元素凝聚成宏觀意識的複雜過程，而在大腦消解之際，第一人稱的存續似乎難以實現。"
+    },
+    "meaning_and_purpose": {
+      "stance": "有可能",
+      "rationale": "泛心論居於唯物論（無終極目的）與二元論／觀念論（有終極目的）之間，暗示存在可能的終極意義／目的／價值。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意識是實在之肌理的一種內在的、有規律的性質，那麼先進技術或許能夠習得所需的規律，以聚合或操控微觀心靈之力，從而複製或上傳意識。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Panpsychism",
+        "relationship": "相容／影響"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "重疊／綜合"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism and Other Essays, Galen Strawson",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      }
+    ]
+  }
+}

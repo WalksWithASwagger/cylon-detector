@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "McGilchrist 的關係性、創造過程觀念論",
+    "summary": "意識是不可化約的、原初的，是宇宙的根本「材料」，被視為一種創造性過程。物質並非獨立的實體，而是意識的衍生「相態」，為實現個體化經驗所必需。大腦的首要角色是中介並形塑這一無所不在的意識，這體現在大腦兩半球彼此對照的運作模式之中。",
+    "associated_thinkers": ["Iain McGilchrist"],
+    "category": "觀念論",
+    "subcategory": "關係性、創造過程觀念論",
+    "core_identity_tagline": "意識是宇宙的材料",
+    "classification_tags": [
+      "idealism",
+      "primordial",
+      "relational",
+      "creative process",
+      "dual-aspect monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種不可化約的、原初的、無所不在的創造性過程，它構成了宇宙。物質是意識的一種相態。",
+    "ontological_status": "觀念論（客觀的／實在論的觀念論）",
+    "mind_body_relationship": "大腦中介意識，形塑並實現身體所感受到的經驗（允許／約束模型）。物質（包括大腦）是意識的一種相態，猶如冰是水的一種相態。",
+    "primitive_or_emergent_status": "原初的／根本的",
+    "emergence_type": "意識本身是原初的。諸如價值能力之類的更高層現象則從原初意識的創造性過程中湧現。",
+    "subjectivity_and_intentionality": "主體性是內在的，因為意識從根本上是關係性的，總是「關於」某物的。宇宙具有意向性，被吸引子「從前方牽引」。",
+    "qualia_account": "感質被理解為意識內某些呈現出相對抗性與恆常性的要素（物質）的性質，並依注意的模式（半球偏向）不同而被不同地經驗。",
+    "ontological_commitments": "原初意識（存有之基）、物質（作為意識的一種相態）、關係／關係項。",
+    "epistemic_access": "主要透過內省與現象學考察，因為意識是「根本的既予自然事實」。並藉助對與半球功能相關的經驗差異的詮釋加以支持。",
+    "constituents_and_structure": "意識是一種創造性過程。其結構以關係（萬物皆關係性的）以及由兩半球所中介的兩種不同的領會模式（臨現對再現）為特徵。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、主體性、能動性、自我覺知、價值／目的、創造力。",
+    "distinctive_mechanism_or_principle": "中介原理，其中大腦並不導致意識，而是允許並形塑意識。此外還有大腦兩半球對立的注意模式所引發的創造性張力。",
+    "dynamics_of_emergence": "意識是一種動態的、創造性的過程，不斷朝向某一目標或目的演進（「從前方被吸引子所牽引」）。",
+    "location_and_distribution": "無所不在，構成宇宙。局部的表達／形塑經由大腦發生。",
+    "causation_and_functional_role": "意識是原初的，並非由大腦所導致。宇宙具有目的論上的目的（「方向」），由存有之基認識其自身的需要所驅動，從而增進複雜性與價值能力。",
+    "integration_or_binding": "透過意識自身的關係性本性而實現，並由右半球的整體性、統一性功能所中介。",
+    "information_flow_or_representation": "左半球生成「再現」（抽象／地圖）；右半球提供「臨現」（被經驗的世界）。物質歸根結底是意識的一種抽象。",
+    "evolutionary_account": "演化是宇宙意識發現並推進「美、真、善」的過程，增進生命造物的回應性與價值能力。",
+    "core_claims_and_evidence": [
+      "意識是不可化約的、原初的，是宇宙的材料。",
+      "物質是意識的衍生相態（猶如冰是水的一種相態）。",
+      "大腦中介意識，而非產生意識。",
+      "大腦兩半球以對立的方式關注世界，從而使不同的經驗世界（臨現對再現）得以生成。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、現象學的、神經科學詮釋。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／概念的。其核心假設依賴於對既有神經科學與現象學證據（半球特化）的詮釋，而非提供新的、可檢驗的觀念論經驗預測。",
+    "known_empirical_interventions_or_tests": "來源中並未明確指出用以驗證該觀念論存有論的實驗。（理由：基於來源的侷限性；McGilchrist 的論證聚焦於對神經生理學的哲學詮釋，而非為原初意識論題設計新的經驗檢驗。）",
+    "criticisms_and_tensions": "觀念論的批評者主張它無法解釋物理世界表面上的獨立性與結構。該理論的力量在很大程度上依賴於對半球特化的細緻詮釋，而後者仍處於持續的爭論之中。",
+    "open_questions_and_limitations": "McGilchrist 指出，難以證明大腦究竟是中介還是產生意識，因為兩種情形下的經驗結果看似完全相同。",
+    "ontological_coherence": "在其觀念論框架內高度融貫，透過將意識設定為唯一的根本實在而消解了心身分裂。與化約式物理論處於強烈張力之中。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定／有條件的",
+      "rationale": "意識是原初的且關係性的，需要複雜的中介才能表達個體性。單純的功能性計算很可能無法捕捉所需的性質，但若某個工程系統具備必要的結構，它便有可能中介意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "是，有可能",
+      "rationale": "既然意識是宇宙的根本材料且是原初的，個體自我儘管消散了其物理中介（大腦），仍會在宇宙的存有之基中存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／目的論的",
+      "rationale": "宇宙具有目的與方向，由旨在認識自身並進一步發現價值（美、真、善）的根本意識所驅動。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能／不適用",
+      "rationale": "意識不可化約為神經模式（物質作為意識的一種「相態」是被中介的）。僅僅上傳該模式很可能無法複製原初的意識過程，只會得到一種缺乏真正主觀經驗的抽象或模擬。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Hoffman's Conscious Realism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Nagel’s Mind and Cosmos",
+        "relationship": "影響"
+      },
+      {
+        "name": "Idealisms",
+        "relationship": "延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Matter with Things: Our Brains, Our Delusions and the Unmaking of the World, I. McGilchrist",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Consciousness Is the Stuff of the Cosmos, I. McGilchrist",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Master and His Emissary: the Divided Brain and the Making of the Western World, I. McGilchrist",
+        "year": 2009
+      }
+    ]
+  }
+}

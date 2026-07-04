@@ -1,8 +1,10 @@
 {
   "id_and_class": {
-    "theory_title": "Combs’s chaotic attractor and autopoietic systems",
+    "theory_title": "Combs 的混沌吸子與自創生系統",
     "summary": "此理論運用非線性動力學與混沌理論的概念，對意識——尤其是主觀經驗的連續流動——進行建模。它主張意識作為一個混沌的自創生吸引子運作，即一個自我創造、自我維持的系統，其中思想、情緒等經驗元素自發地組織為連貫的經驗之流，且往往運行於「混沌邊緣」附近。",
-    "associated_thinkers": ["Allan Combs"],
+    "associated_thinkers": [
+      "Allan Combs"
+    ],
     "category": "異常與變異狀態",
     "subcategory": "動態系統",
     "core_identity_tagline": "作為混沌自創生吸引子的意識",

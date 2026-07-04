@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "Pereira 的感受性理論",
+    "summary": "本理論主張意識具有兩種截然不同的模態：以疼痛與飢餓等基本感受為特徵的基礎性感受性，以及涉及抽象思維與表徵的高層次認知意識。其核心主張是，認知能力依賴於這一底層的感受狀態，而該狀態在生物學上奠基於恆定系統。",
+    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "category": "唯物論",
+    "subcategory": "恆定與情感",
+    "core_identity_tagline": "意識是奠基於感受性的雙層系統",
+    "classification_tags": [
+      "sentience",
+      "homeostatic",
+      "neurobiological",
+      "dual-modality",
+      "clinical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識是一個複合的生物系統，由感受性（與生化恆定的動態調控相關聯）與認知意識（與神經網路中生物電活動的型態相關聯）所構成。",
+    "ontological_status": "物理論／自然主義（由其歸類於唯物論之下以及對生理／神經相關性的聚焦推斷得出）",
+    "mind_body_relationship": "意識的各模態（感受性與認知）在功能上依賴於生物有機體，並在其中具有精確的生理相關性，特別是恆定系統與神經網路。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（理由：其嚴格奠基於可觀察、可測量的生物／生理過程，這意味著它原則上可由物理定律加以解釋，儘管過程複雜。）",
+    "subjectivity_and_intentionality": "主體性源於感受性，即感受基本感覺（例如飢餓、疼痛）的能力。意向性則透過語言與意象表徵的建構，呈現於認知意識之中。",
+    "qualia_account": "感質透過感受性這一基礎模態加以說明，該模態直接對應於感受基本、質性感覺（例如疼痛、口渴）的能力。",
+    "ontological_commitments": "調控生化恆定的生理系統；神經網路中生物電活動的型態；層級式的神經組織。",
+    "epistemic_access": "透過研究生理相關性——特別是與恆定之動態調控相關者——以及在臨床上觀察基本的感受性反應而通達。",
+    "constituents_and_structure": "一個層級式的雙層系統：感受性（低層次的恆定基礎）與認知意識（高層次的表徵性處理）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象（基本感覺／感受性）；認知意識（思維／表徵）；意識障礙的臨床診斷。",
+    "distinctive_mechanism_or_principle": "功能依賴原理，其中高層次的認知意識嚴格取決於、並受支撐於低層次的感受性模態，而後者植根於恆定系統。",
+    "dynamics_of_emergence": "意識透過一種層級關係而興起，其中與生理調控相連的基本感受性之存在，是認知功能得以湧現的必要基礎。",
+    "location_and_distribution": "核心相關性分布於負責恆定調控的生理系統（就感受性而言）與神經網路（就認知處理而言）。",
+    "causation_and_functional_role": "感受性發揮調節生理過程以維持恆定與延續生命的關鍵功能。它提供基本生物調控所必需的意識回饋。",
+    "integration_or_binding": "未予明確說明。（理由：該理論聚焦於意識各模態之間的區別與層級關係，而非統一感覺輸入的機制。）",
+    "information_flow_or_representation": "認知意識涉及對語言與意象表徵的處理與建構，而這發生於神經網路之中。",
+    "evolutionary_account": "未作詳細說明，但可推斷其具適應性與演化性，將意識的各模態聯繫於生存與維持恆定等根本的生物律令。",
+    "core_claims_and_evidence": [
+      "認知意識依賴於感受性，但反之則不然。",
+      "感受性與生化恆定之動態調控的能力相關聯。",
+      "感受基本感覺（感受性）的能力是最小意識的最低要求（與臨床診斷相關）。"
+    ],
+    "basis_of_belief_or_evidence_type": "神經科學、臨床／醫學、哲學"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可透過臨床評估與干預加以經驗檢驗，尤其是在分析植物狀態或麻醉下的最小意識時。",
+    "known_empirical_interventions_or_tests": [
+      "評估感受基本感覺（飢餓、疼痛）的能力，作為診斷長期意識障礙的一項標準。"
+    ],
+    "criticisms_and_tensions": "源材料未提供明確的批評。（理由：源材料為描述性，並未包含對這一特定理論的批判性論述。）",
+    "open_questions_and_limitations": "實現感受性與認知意識之間嚴格界線及層級依賴關係的確切生理與生物電機制，仍有待充分闡明。高階認知測驗對於評估所有意識狀態可能並不充分。",
+    "ontological_coherence": "在自然主義的界限內高度一致，將意識的兩個不同面向聯繫於具體、可觀察的生理系統。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件",
+      "rationale": "如果人工系統能夠完整複製調控動態生化恆定的生理系統（感受性所必需）以及必要的生物電網路活動（認知所必需），那麼人工意識就是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "由於意識嚴格依賴於功能性的生物系統（恆定調控與神經網路），因此推定其在身體與大腦不可逆的消解之時便告終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本",
+      "rationale": "該理論聚焦於意識在維持生物穩定（恆定）與實現靈活認知方面的功能性、適應性角色，並未為宇宙性或終極目的提供任何基礎。"
+    },
+    "virtual_immortality": {
+      "stance": "有條件",
+      "rationale": "理論上唯有在被認定為感受性與認知之相關性的特定動態恆定與生物電型態，能夠被完美數位化並在非生物介質中複製時，才有可能。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "相容"
+      },
+      {
+        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The role of sentience in the theory of consciousness and medical practice, A. Pereira Jr.",
+        "year": 2021
+      }
+    ]
+  }
+}

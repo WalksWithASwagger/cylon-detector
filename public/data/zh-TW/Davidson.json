@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "戴維森的異常一元論",
+    "summary": "異常一元論主張每一個心理事件都同一於某個物理事件（個例同一，token identity），從而維持一種一元論的存有論。然而，該理論堅持認為，不存在將心理概念（類型）與物理概念相聯結的嚴格、無例外的自然律，由此導致心理學不可化約為物理學。這一雙重主張化解了心理因果作用與物理世界因果完備性之間表面上的衝突。",
+    "associated_thinkers": ["Donald Davidson"],
+    "category": "一元論",
+    "subcategory": "異常一元論",
+    "core_identity_tagline": "心理個例是物理的，心理類型是異常的",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "token identity",
+      "property dualism",
+      "mental causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "心理實體（特定的時空受限的物件與事件，即個例）就是物理實體。然而，心理概念就定義或自然律而言不可化約為物理概念。",
+    "ontological_status": "一元論（個例同一物理論／性質二元論）。該理論主張心理事件具有物理的存有論。",
+    "mind_body_relationship": "個例同一：心理事件同一於物理事件。這一點透過論證心理性質與物理性質之間不可能存在類型同一而得到辯護。該理論是性質二元論的一種形式。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "強湧現。（理由：心理性質原則上不可化約，無法為嚴格的心物律所捕捉，這與強不可化約性相一致。）",
+    "subjectivity_and_intentionality": "該理論把心理現象的意向本質（如「關於性」）作為區分心理現象與物理定律或物理事物的性質來加以處理。",
+    "qualia_account": "質性感受（感質）被納入心理性質／概念這一更寬泛的範疇之下，它們是異常的——意味著不受物理概念或定律的化約支配。",
+    "ontological_commitments": "物理實體與事件（個例）；不可化約的心理性質／概念（類型）。",
+    "epistemic_access": "透過對因果性以及心理學解釋之獨特要求的哲學分析而得知，這種解釋無法像物理學那樣產出無例外的定律。",
+    "constituents_and_structure": "組成部分是物理實體／事件，但意識由不可化約的心理概念／性質所結構化。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "心理事件（個例）；心理因果作用；意向性。",
+    "distinctive_mechanism_or_principle": "心理異常性：即主張不存在將心理現象與物理現象相聯結的自然律，儘管心理事件引起物理事件、且一切因果關係皆有自然律支撐（個例同一由類型同一之不可能性來辯護）。",
+    "dynamics_of_emergence": "有意識的心理狀態作為獨特的物理事件（個例）產生，其特徵在於它們無法像基礎物理學中的定律那樣受嚴格的預測性定律支配。",
+    "location_and_distribution": "心理事件即物理實體，因而位於大腦／物理基質之中。",
+    "causation_and_functional_role": "心理事件具有真正的因果力量，並引起物理事件。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "心理現象由其意向本質所界定，這與純粹的物理定律似乎有根本性的不同。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "心理事件（個例）同一於物理事件。",
+      "心理性質（類型）不可化約為物理概念或自然律。",
+      "心理事件具有真正的因果力量，並引起物理事件。",
+      "心理學無法產出用於預測人類思想與行為的無例外定律（心理異常性）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的（基於關於因果性與律則性特徵的三個前提的演繹論證）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的／哲學的。（理由：該理論的核心主張依賴於關於因果性與心理學解釋之本性的哲學必然性。）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要張力源於三項主張的合取：（i）存在心理因果作用，（ii）一切因果作用皆有定律支撐，（iii）不存在心物律。這一合取乍看之下似乎不一致或自相矛盾。",
+    "open_questions_and_limitations": "該框架必須充分說明：若不存在將心理性質類型與物理性質類型相關聯的嚴格定律，心理因果作用如何得以發生（即異常性質的因果效力問題）。",
+    "ontological_coherence": "只要三個基礎前提被接受為有效，其內部一致性即可達成，因為個例同一的結論已內嵌於其中。它與非化約論物理論共享一些特徵。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "既然其存有論根本上是一元論的（一切心理事件皆為物理事件），那麼如果相關的複雜物理系統能在人工媒介中被複製，人工智慧意識原則上是可能的，儘管缺乏可預測的心理定律（異常性）使評估變得複雜。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "心理事件依賴於物理事件（個例同一）。在此唯物論假設下，生物基質毀滅之後的存續被排除。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "作為一種存有論一元論理論，它與唯物論範疇相一致，後者一般不為超出人類自身所創造之外的終極意義或目的提供根據。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果物理基質（大腦模式）被複製，那麼心理事件（它們同一於這些個例）也應被複製，從而使虛擬永生成為可能，這與其他非化約論物理論觀點類似。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Non-Reductive Physicalism", "relationship": "重疊" },
+      { "name": "Property Dualism", "relationship": "重疊" },
+      {
+        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+    ]
+  }
+}

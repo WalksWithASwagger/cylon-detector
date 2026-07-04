@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Sheldrake 的形態場理論",
+    "summary": "此理論提出，自然界中的組織、形態與行為受一種非物質的場——稱為形態場——所支配，這些場蘊含著一種集體的、內在固有的、累積性的記憶。這一集體記憶經由形態共振傳遞，影響著從原子到星系、各複雜性層級上後續的自組織活動模式。",
+    "associated_thinkers": ["Rupert Sheldrake"],
+    "category": "異常與變異狀態",
+    "subcategory": "形態場",
+    "core_identity_tagline": "受形態場支配的意識與形態",
+    "classification_tags": [
+      "field theory",
+      "panpsychism",
+      "collective memory",
+      "morphic resonance",
+      "non-material"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識與「各種可能性」相關聯，涉及在一系列並非固定的可能性之間作出選擇；這一有意識的活動由電場所中介，而電場本身又由形態場所組織。",
+    "ontological_status": "非物質場存有論／泛心論傾向（Sheldrake 拒斥二元論，但設定了一種對組織而言具根本性的非物理場）",
+    "mind_body_relationship": "有組織系統（如神經系統）的電場充當一個介面，在物理結構與意識（定義為可能性／選擇）之間進行中介。組織性的形態場本身經由共振被繼承，影響神經活動。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "強湧現（有理據，因為此理論假設了一種處於當前物理學定律之外的非物理組織場，以說明意識與形態。）",
+    "subjectivity_and_intentionality": "意識在很大程度上由作出選擇與考量各種備選可能性來界定。意向性與注意力把形態場延展到物理大腦之外。",
+    "qualia_account": "質性感受被隱含地與意識的「選擇」與「可能性」面向相關聯，並由非物理的組織場所中介。",
+    "ontological_commitments": "形態場（形態或組織之場）、形態共振（集體的、內在固有的記憶）、各複雜性層級上的自組織系統。",
+    "epistemic_access": "此理論主張，關於諸場之影響的問題在經驗上是可檢驗的，儘管這些主張極具爭議，且在很大程度上被主流科學界所摒棄。",
+    "constituents_and_structure": "由節律性活動的時空模式所界定的自組織整體，被結構化為機率場的巢狀層級或整體階層（holarchy）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "組織、形態、記憶、選擇、心靈感應、行為、非局域聯繫。",
+    "distinctive_mechanism_or_principle": "形態共振：先前的活動模式跨越距離對後續相似活動模式的因果影響，傳遞一種集體的、本能性的記憶。",
+    "dynamics_of_emergence": "意識運行於未來可能性的領域，使選擇得以作出，其活動由自組織系統的電場所中介。",
+    "location_and_distribution": "無所不在且非局域。每一個自組織實體（原子、細胞、有機體、恆星、星系、宇宙）都存在形態場，且不侷限於大腦。",
+    "causation_and_functional_role": "形態場把系統吸引向其特徵性的形態與活動模式（組織）。意識使在諸可能性之間作出選擇成為可能。例如，太陽的意識透過電磁活動調節其自身及其太陽系。",
+    "integration_or_binding": "形態場把振動性或節律性活動的時空模式組織為連貫的、自組織的整體。",
+    "information_flow_or_representation": "形態共振經由空間與時間中的振動模式，傳遞一種集體的、累積性的、內在固有的記憶（有機體中的本能性記憶）。",
+    "evolutionary_account": "形態共振解釋了新的行為模式為何能比在其他情況下更迅速地傳播，透過被繼承的組織場支持演化。",
+    "core_claims_and_evidence": [
+      "每一種自組織的活動模式都擁有其自身的非物質形態場。",
+      "形態共振傳遞一種集體記憶，影響後續的生物與心理活動。",
+      "此理論試圖解釋諸如心靈感應與被注視之感等有爭議的現象。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念性的、思辨性的、現象學的（基於異常經驗）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "宣稱可透過特定實驗（如心靈感應研究）進行經驗檢驗，但這些主張本身被主流科學界廣泛摒棄。",
+    "known_empirical_interventions_or_tests": "檢驗被注視之感，以及對電話／電子郵件之預感等現象的實驗。",
+    "criticisms_and_tensions": "此理論毫不掩飾地充滿爭議，並被主流所拒斥；具體主張（如心靈感應）因實驗設計不當而被否證或摒棄。",
+    "open_questions_and_limitations": "簡單的非生物系統（如電子）中意識／選擇的程度存在爭議，且可能無法判定；對於非生物「心靈」如何與人類意識相關聯，尚需澄清。",
+    "ontological_coherence": "在其自身擴展的、非物質的形上學框架內是融貫的，但與傳統的化約物理論根本上並不一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果類心靈的組織存在於各複雜性層級並由電場所中介（如在恆星與星系中所見），那麼一個足夠複雜的人工系統就可能例示出其自身形式的意識／心靈。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能",
+      "rationale": "由於組織模式（形態場）與集體記憶是非物理的／非局域的，因此允許這一組織模式在生物學死亡之後持續存在的可能性，使此理論與靈能驅動的死後存續觀點相一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙的／終極的",
+      "rationale": "整個宇宙被認為擁有一個在其演化中扮演重要角色的心靈，而意識內在地繫於在諸未來可能性之間作出選擇，意味著宇宙目的論或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "如果意識／記憶棲居於一個與有機體相關聯的非物理場或模式之中，那麼這一模式在概念上就有可能被先進技術捕捉、傳遞或複現。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Sheldrake’s Self-Organizing Systems at all Levels of Complexity",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "相容"
+      },
+      {
+        "name": "Syntergic/Neuronal Field Theory (Grinberg)",
+        "relationship": "相容"
+      },
+      {
+        "name": "Quantum Entanglement",
+        "relationship": "類比／影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Morphic Resonance and Morphic Fields—an Introduction",
+        "year": "n.d."
+      },
+      {
+        "title_with_names": "How much more to physical reality? Closer To Truth",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Is the sun conscious?",
+        "year": 2021
+      }
+    ]
+  }
+}

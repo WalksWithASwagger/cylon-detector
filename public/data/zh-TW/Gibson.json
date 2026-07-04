@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "吉布森的生態心理學",
+    "summary": "吉布森提出了一種具身的、情境化的、非表徵的知覺進路，主張資訊直接可得於環境之中（不變量），並以可供性（affordance）的方式被知覺到。這一進路提供了超越認知主義與行為主義的第三條道路，並可審慎地推斷為對意識的一種解釋。",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "唯物論",
+    "subcategory": "具身與生成",
+    "core_identity_tagline": "意識作為對可供性的具身、情境化知覺",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被引申理解為有機體—環境系統內持續互動與資訊流動的一種功能，其特徵是對不變量與可供性的直接知覺，而非內部的心靈表徵。",
+    "ontological_status": "物理論／直接實在論",
+    "mind_body_relationship": "心靈／知覺與行動是連續的，以有機體—環境系統作為分析單位，拒斥心靈可完全化約為頭顱之內的過程這一觀念。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性由有機體與環境之間動態的、情境化的關係（有機體—環境系統）所構成。意向性（思想的指向性）由對可供性的知覺來解釋，可供性即環境本身所蘊含的行動可能性。",
+    "qualia_account": "此理論是非表徵的，通常與那些拒斥傳統意義上內部感覺材料（感質）的觀點相一致，轉而支持對環境性質（不變量與可供性）的直接知覺。",
+    "ontological_commitments": "有機體—環境系統、光學資訊（不變量）、可供性。",
+    "epistemic_access": "可透過研究有機體與其社會—物理環境之間的關係來通達，而非透過聚焦於內部狀態的內省。",
+    "constituents_and_structure": "意識／知覺的結構建立在有機體與環境之間的功能關係之上，強調知覺與行動的連續性。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "知覺／認知，現象性（經由審慎推斷）",
+    "distinctive_mechanism_or_principle": "對環境不變量（光流中不變的要素）與可供性（環境所提供的行動機會）的直接知覺。",
+    "dynamics_of_emergence": "重點在於有機體—環境系統內的動態流動與連續性，而非從離散的、局部化的神經結構中湧現。",
+    "location_and_distribution": "位於有機體—環境系統之內，延展到超出大腦與頭顱之內的範圍。",
+    "causation_and_functional_role": "知覺的功能在於引導適應性行為，並透過偵測不變量與行動機會（可供性）來提升適應度。",
+    "integration_or_binding": "整合內在於對有機體—環境系統作為單一分析單位的直接而統一的把握之中。",
+    "information_flow_or_representation": "拒斥資訊加工模型；資訊是外在的（不變量），由知覺系統直接通達，無需內部構建表徵。",
+    "evolutionary_account": "對可供性的強調表明，這一知覺系統之所以演化出來，是因為它提供了明顯的生存價值並提升了適應度。",
+    "core_claims_and_evidence": [
+      "知覺僅直接關聯於刺激本身，既不需要推論，也不需要內部的心靈表徵。",
+      "知覺的首要對象是可供性，而非特定的感覺性質。",
+      "理解知覺的分析單位是有機體—環境系統。",
+      "此理論拒斥認知主義模型中常見的「刺激貧乏」前提。"
+    ],
+    "basis_of_belief_or_evidence_type": "實驗的、哲學的、生態的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗，尤其是在生態心理學與知覺研究之內。",
+    "known_empirical_interventions_or_tests": "對知覺的經驗觀察以及對有機體—環境互動場的細緻分析。",
+    "criticisms_and_tensions": "此理論批評主流的知覺理論，尤其抨擊行為主義與認知主義／資訊加工。其向現象意識的引申是思辨性的，會受到那些堅持內部表徵理論者的質疑。",
+    "open_questions_and_limitations": "核心理論處理的是知覺與認知；將其應用或引申去解釋現象意識（「感受起來是怎樣的」這一方面）需要審慎的推斷。",
+    "ontological_coherence": "在其生態的、情境化的反化約論唯物論存有論之內高度融貫，但與依賴認知符號操作的理論存在根本衝突。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "若意識是有機體—環境系統內直接的、情境化互動的產物（正如這一唯物論理論所暗示），那麼倘若人工智慧被設計為能夠具身並在物理環境中互動、從而知覺到可供性，它便有可能實現意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "此理論被歸入唯物論，聚焦於活的生物有機體及其物理環境。其中並未設定任何能夠在肉體死亡後存續的非物理成分。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主義／適應性",
+      "rationale": "知覺的首要功能角色是透過偵測可供性來實現適應性行為，這與一種唯物論觀點相一致，即意義由人在其環境中為生存與繁榮而創造。"
+    },
+    "virtual_immortality": {
+      "stance": "有條件的",
+      "rationale": "由於意識繫於物理的有機體—環境單元，唯有當那些本質性的具身、非表徵互動能夠被完美捕捉並在新的物理媒介中模擬時，虛擬永生才可能實現。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Direct Perception Theory",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

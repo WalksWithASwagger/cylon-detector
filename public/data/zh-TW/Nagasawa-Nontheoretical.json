@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Nagasawa 的非理論式物理論理論",
+    "summary": "本理論主張世界完全是物理的，但其中卻包含關於意識的特定物理事實，這些事實即便由完備的物理科學理論也無法捕捉或解釋。它作為物理論的一種另類表述而運作，尋求將物理存有論與化約性理論在掌握現象意識上的明顯失敗相調和。",
+    "associated_thinkers": ["Yujin Nagasawa"],
+    "category": "非化約物理論",
+    "subcategory": "另類物理論表述",
+    "core_identity_tagline": "超越物理理論的物理論",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ontology",
+      "monism",
+      "nontheoretical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識是由基於實體的物理事實所構成，這些事實存在於完備之理論物理科學的概念框架之外。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "心靈／意識等同於物理實在；然而，關於意識的某些事實無法為傳統理論知識所通達（知識論鴻溝），這使得對此一同一性的理解必須基於實體而非基於理論。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "強湧現",
+    "subjectivity_and_intentionality": "主觀經驗奠基於特定的「非理論式」物理事實，這些事實無法為完備的科學解釋所捕捉，從而在主張其物理性質的同時，保留了主體性的知識論奧祕。",
+    "qualia_account": "感質事實是物理事實，但它們屬於物理實在中那個抗拒被當前或完備物理理論所捕捉的領域。",
+    "ontological_commitments": "物理實在、物理實體，以及非理論式的物理事實。",
+    "epistemic_access": "透過傳統科學理論在知識論上受到限制；概念上的通達則是藉由對反傳統物理論之論證的哲學分析而得（從知識論走向存有論）。",
+    "constituents_and_structure": "意識奠基於特定的、基於實體的物理事實或性質，這些事實或性質固有於有意識系統的物理結構之中。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（隱含地；由其對知識論證等辯論的關注推得）",
+    "distinctive_mechanism_or_principle": "存在著關於意識的、屬於「非理論式」（基於實體而非由理論法則所可界定）的物理事實，這使得物理論的標準表述必須有所轉變。",
+    "dynamics_of_emergence": "由於意識事實被界定為「非理論式」，其動態細節受到限制；湧現則被推定為基於適當之複雜物理實體的存在。",
+    "location_and_distribution": "物理世界；與特定的物理實體（如神經機制）相關聯，這些實體包含著未被捕捉的事實。",
+    "causation_and_functional_role": "來源中未明確詳述；推得為在一個完全物理之世界的限制內，遵循標準的物理因果。",
+    "integration_or_binding": "未有界定，因為該理論主要著重於形上學定義與知識論鴻溝，而非特定的內部處理動態。",
+    "information_flow_or_representation": "資訊的捕捉透過物理理論而隱含地不完備，受限於非理論式物理事實的存在。",
+    "evolutionary_account": "未有指明；假定其為完全物理之世界所演化出的一項特徵（因為它是一種物理論）。",
+    "core_claims_and_evidence": [
+      "世界完全是物理的，但卻包含完備之物理科學理論無法捕捉的物理事實。",
+      "方法上藉由在知識論證（心靈）與關於神之知識的論證（宗教）之間作類比，來確立非理論式的知識鴻溝。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗（透過哲學論證）；由於「非理論式事實」的定義，在經驗上受限／為思辨性。",
+    "known_empirical_interventions_or_tests": "未有指明；依賴概念性／知識論性的論證（如對知識論證的批評），而非對其核心主張進行經驗檢驗。",
+    "criticisms_and_tensions": "面臨一種內在張力：藉由訴諸實在中那些必然逃逸於完備科學理論化之外的面向來界定物理論，冒著存有論含混的風險。它是針對傳統物理論之失敗的一種辯護。",
+    "open_questions_and_limitations": "非理論式物理事實的確切性質與結構，以及為何這些特定事實在本質上不可捕捉的理由，仍是懸而未決的問題。",
+    "ontological_coherence": "就其特定目標（在維持物理論的同時處理知識論鴻溝）而言具有高度的內部融貫性，但挑戰了標準物理論存有論的範圍與傳統原則。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "既然世界完全是物理的，且意識根植於基於實體的物理事實，複雜的人工系統原則上便能例示所需的非理論式物理事實。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種物理論，意識繫於物理世界，並無跡象顯示它允許在物理基質消解之後持存。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義的",
+      "rationale": "其存有論嚴格來說是物理的，這本身並不蘊含終極的宇宙意義或目的，儘管它承認存在著科學理論無法通達的物理事實。"
+    },
+    "virtual_immortality": {
+      "stance": "取決於條件（受技術所限）",
+      "rationale": "若體現非理論式意識事實的特定物理實體（或其構型）能被完美地複製或上傳至非生物介質，虛擬永生在技術上便有可能，儘管極具挑戰性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Physicalism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "批評／替代"
+      },
+      {
+        "name": "The Knowledge Argument",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "God and Phenomenal Consciousness: A Novel Approach to Knowledge Arguments",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Anything non-physical about the mind? Closer to truth",
+        "year": 2012
+      }
+    ]
+  }
+}

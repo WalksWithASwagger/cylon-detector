@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "QRI 的狀態空間、感質形式化與效價實在論",
+    "summary": "此模型主張，意識由其內部的主觀結構（「感質形式化」）所界定，而該結構可被精確地以數學表徵為一個廣袤的「意識狀態空間」。情感經驗（「效價實在論」）被視為此空間之內一種根本的、真實的性質，並在量化上連結至該幾何的對稱性。",
+    "associated_thinkers": [
+      "Qualia Research Institute (QRI)",
+      "Michael Edward Johnson"
+    ],
+    "category": "一元論",
+    "subcategory": "狀態空間、感質形式化與效價實在論",
+    "core_identity_tagline": "作為可數學表徵之狀態空間與效價的意識",
+    "classification_tags": [
+      "qualia formalism",
+      "valence realism",
+      "state-space",
+      "dual-aspect monism",
+      "mathematical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一個難以想像地廣袤、準維度的「意識狀態空間」。現象性質是世界的根本特徵，而非計算的自發產物。",
+    "ontological_status": "雙面向一元論或中立一元論。此框架與一種擴展的物理論相容，其中的定律描述著感質場。",
+    "mind_body_relationship": "雙面向／中立一元論。意識（心靈）或是物理實在（身體）的一個互補面向，或是由一種共通的中立實質所衍生。",
+    "primitive_or_emergent_status": "原初（現象性質是世界的根本特徵）。",
+    "emergence_type": "不適用（核心的現象性質被斷言為根本的、而非湧現的，從而將其與泛原心論的各種變體區分開來）。",
+    "subjectivity_and_intentionality": "主體性內在地源自根本感質空間的現象結構。意向性（思想的指向性）在來源中並未被明確詳述，但將可在狀態空間幾何之內以數學方式建模。",
+    "qualia_account": "感質（現象性質）由數學概念——主要是幾何與對稱性——精確地形式化（感質形式化）。效價（情感性質）是一種真實的、根本的、可量化的性質。",
+    "ontological_commitments": "現象性質、一個意識狀態空間，以及精確的數學／幾何關係（對稱性）。",
+    "epistemic_access": "透過將嚴謹的數學建模（感質形式化）應用於主觀經驗的內部結構而通達，並輔以對效價的現象學觀察。",
+    "constituents_and_structure": "其基本結構是一個由其幾何所界定的廣袤、準維度狀態空間。個別經驗是離散的幾何結構（點），以其對稱性為特徵，而這些對稱性與效價相關。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（感質形式化、效價實在論）。",
+    "distinctive_mechanism_or_principle": "效價的對稱理論，主張一項經驗的愉悅性／不愉悅性取決於該經驗之資訊幾何中的對稱性或其缺乏。",
+    "dynamics_of_emergence": "動態過程（意識狀態空間被描述為「超幾何地」增長，並由持續處於運動中的狀態所構成，暗示的是動態流動而非靜態實質）。",
+    "location_and_distribution": "系統性／狀態空間。意識存在於一個廣袤、獨立、準維度的狀態空間之中，與感質場（擴展的物理論）相容。",
+    "causation_and_functional_role": "就功能必要性而言未被指明。然而，效價被視為一種真實的、已界定的性質，這暗示了其在經驗中的因果角色，並可能引導適應性行為，儘管此機制並未被提供。",
+    "integration_or_binding": "整合內在於那個代表狀態空間之內某一個別有意識知覺的單一幾何結構之中。",
+    "information_flow_or_representation": "有意識的處理根本上是資訊性與表徵性的，可完全化約為數學模式與結構（幾何）。",
+    "evolutionary_account": "未明確詳述。該模型聚焦於意識的根本結構，而非其演化起源，儘管現象性質並非僅由計算所觸發。",
+    "core_claims_and_evidence": [
+      "現象性質是世界的根本特徵。",
+      "主觀經驗的內部結構（感質）可由數學精確地映射。",
+      "情感效價是一種真實的性質，連結至該幾何的對稱性（效價實在論／效價的對稱理論）。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的；現象學的；數學的（形式化）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的／數學的（需要將現象結構／效價的數學模型與被測量的經驗相對應）。",
+    "known_empirical_interventions_or_tests": "來源中並未明確列出，但研究可能涉及將高度特定的情緒或知覺狀態與底層神經活動／資訊結構中所預測的對稱性相對應。",
+    "criticisms_and_tensions": "此理論拒斥功能論，藉由要求植根於現象學的數學形式性而使自身有別於功能論。它必須克服一元論固有的挑戰：將抽象的現象結構（狀態空間）連結至物理實在。",
+    "open_questions_and_limitations": "準維度狀態空間的確切本質仍未被指明，數學對稱性轉譯為質性效價的確切機制亦然。",
+    "ontological_coherence": "高，因為它是自洽的，並明確地試圖形式化現象經驗，堅守一種雙面向一元論或中立一元論的立場。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定／有條件",
+      "rationale": "意識需要複製狀態空間之內精確的數學與幾何結構，而這一條件在非生物基質中難以驗證或實現；此外，該理論明確地拒斥簡單的計算功能論。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能",
+      "rationale": "作為一種將現象性質歸類為根本且不可化約為特定生物性物質的一元論理論，意識的存在並不取決於生物性大腦／身體的存續，從而允許現象狀態空間以某種形式在死後持存。"
+    },
+    "meaning_and_purpose": {
+      "stance": "有條件／內在",
+      "rationale": "效價（「善」或「惡」）被視為有意識狀態的一種根本的、內在的性質，這暗示了一種客觀的價值基礎，儘管宇宙目的論並未被明確主張。"
+    },
+    "virtual_immortality": {
+      "stance": "有條件",
+      "rationale": "唯有當技術能夠完全捕捉並完美複製個體在廣袤狀態空間之內獨特的幾何意識結構時才有可能，而這要求超越當前理解的極致精確性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory (IIT)",
+        "relationship": "相容／重疊（共享並運用將有意識經驗映射至獨特數學結構的概念）。"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "相容（QRI 表明其觀點「大體上與泛心論觀點契合良好」）。"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批評（QRI 明確地拒斥功能論）。"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Qualia Formalism and a Symmetry Theory of Valence",
+        "year": 2023
+      },
+      {
+        "title_with_names": "QRI FAQ",
+        "year": null
+      }
+    ]
+  }
+}

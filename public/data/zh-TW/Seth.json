@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Seth 的「野獸機器」理論",
+    "summary": "此理論主張，包括對世界與自我的知覺在內的意識經驗，皆是以大腦為基礎的知覺性預測，並以比喻的方式稱之為「受控幻覺」。它將意識的機制植根於調節身體生理以維持存活這一根本的生物律令之中。",
+    "associated_thinkers": ["Anil Seth"],
+    "category": "唯物論理論",
+    "subcategory": "恆定與情感",
+    "core_identity_tagline": "「意識即基於預測的受控幻覺」",
+    "classification_tags": [
+      "neurobiology",
+      "predictive processing",
+      "homeostatic",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為以大腦為基礎的知覺性預測的各種形式，其中現象學性質由不同形式預測的計算面向加以解釋。",
+    "ontological_status": "物理論／唯物論（其歸類於唯物論理論之下，並倚賴生物學與計算的解釋，為此提供了理由）。",
+    "mind_body_relationship": "意識經驗完全以大腦為基礎，並以物理方式例示。此模型支持一種強相關或同一論，其中意識性質源於面向身體調節的生理與計算架構。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（理由：此理論是一種唯物論式說明，主張主觀經驗源於複雜的、計算性的大腦歷程。這些歷程被假定為原則上可由底層物理定律加以解釋，這正是弱湧現的特徵。）",
+    "subjectivity_and_intentionality": "主體性之所以產生，是因為知覺由由上而下之預測的內容所決定，從而形成一種受實在約束的「由內而外之神經元幻想」式的現象經驗。此理論透過解釋對世界的經驗與對自我的經驗之間的差異，來說明自我經驗。",
+    "qualia_account": "意識經驗的現象學性質，由大腦所運用之不同形式知覺性預測的計算面向加以解釋。",
+    "ontological_commitments": "生物大腦、神經活動、預測處理機制，以及底層的身體生理調節機制。",
+    "epistemic_access": "可透過神經科學與計算方法而通達，尤其是那些考察大腦功能之預測處理模型的方法。",
+    "constituents_and_structure": "一種由由上而下之預測與由下而上之感官訊號相互作用所構成的計算結構，植根於生物系統調節其內部狀態的努力之中。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、自我經驗、知覺。",
+    "distinctive_mechanism_or_principle": "意識透過預測處理得到解釋，其中大腦對其感官輸入的成因持續生成一個「最佳猜測」（預測）。此一機制內在地與身體生理的調節相關聯。",
+    "dynamics_of_emergence": "意識是一個動態歷程，其中經驗源於持續進行的預測；它類似於一場不斷被實在所約束的「清醒之夢」。",
+    "location_and_distribution": "位於生物大腦之中，與調節身體生理的預測機制相關聯。",
+    "causation_and_functional_role": "意識具有與生存相關聯的功能角色。它促進身體生理的調節，並使有機體能夠對其感官輸入的成因進行建模、預測與模擬。",
+    "integration_or_binding": "整合透過形成一個融貫的知覺世界——即「受控幻覺」——而實現，它經由由上而下的預測將模糊的感官訊號統一起來。",
+    "information_flow_or_representation": "意識知覺由由上而下之預測的內容所決定，而非由由下而上的感官訊號本身所決定。感官訊號被解讀為外部成因的表徵。",
+    "evolutionary_account": "意識經由系統發生的演化而出現，由調節身體生理並確保生存（維持存活）這一根本的生物律令所驅動。",
+    "core_claims_and_evidence": [
+      "意識經驗是以大腦為基礎之預測的各種形式（「受控幻覺」）。",
+      "現象學性質由知覺性預測的計算面向加以解釋。",
+      "支撐意識的預測機制經由調節身體生理這一生物律令而出現。"
+    ],
+    "basis_of_belief_or_evidence_type": "經驗性、神經生物學性、計算性"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗（推斷而得，因為此理論倚賴神經生物學與計算領域內的概念，而這些領域強調理論的發展、檢驗與比較）。",
+    "known_empirical_interventions_or_tests": "涉及大腦知覺、認知與行動之預測處理說明的檢驗（理由：未提供具體命名的檢驗，但此理論明確定位於預測處理框架之內）。",
+    "criticisms_and_tensions": "來源中未予明確詳述，但一般會受到意識之緊縮論式說明所固有的張力所影響。",
+    "open_questions_and_limitations": "如同許多意識理論一樣，它面臨著這樣一個普遍挑戰：隨著經驗數據的積累，各種理論似乎在不斷增生，而非被明確地排除。",
+    "ontological_coherence": "在物理論與生物自然主義框架內高度融貫，提供了一種源自生物功能與計算的系統性意識解釋。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作為一種聚焦於計算與資訊處理機制（知覺性預測）的唯物論理論，例示了類似複雜機制的人工智慧系統應能夠達成意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識是生物大腦與複雜的、以物理方式例示之預測機制的產物。大腦的死亡將導致個人意識不可挽回、永久性的不復存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "作為一種唯物論理論，它意味著不存在任何終極的或宇宙性的意義或目的，儘管它支持源自個體能動性與經驗的、由人類創造的意義與價值。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意識完全可由大腦的計算歷程加以解釋，那麼原則上，第一人稱的心理自我便可被複製並例示於非生物基質之中，從而實現虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "相容"
+      },
+      {
+        "name": "T. Clark’s Content Hypothesis",
+        "relationship": "相容"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Being You: A New Science of Consciousness, Anil Seth",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Theories of consciousness, Anil Seth and Tim Bayne",
+        "year": 2022
+      }
+    ]
+  }
+}

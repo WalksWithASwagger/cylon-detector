@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "勒杜的意識深層根源理論",
+    "summary": "此理論透過深遠演化史的視角來看待人類的意識與行為，主張意識相對晚近才出現，是皮質認知迴路的一項精密產物。它追溯那些自最早生物體所繼承的基礎生存能力，如何因神經系統的演化而得到增強，最終導向意識。",
+    "associated_thinkers": [
+      "Joseph LeDoux"
+    ],
+    "category": "唯物論諸理論",
+    "subcategory": "種系發生演化",
+    "core_identity_tagline": "意識即增強之生存機制的湧現產物。",
+    "classification_tags": [
+      "evolution",
+      "neurobiology",
+      "materialism",
+      "phylogeny",
+      "survival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一組皮質認知狀態，源自對深植之生存能力的演化增強。",
+    "ontological_status": "化約式物理論",
+    "mind_body_relationship": "意識是一種完全物理的現象，從生物大腦與神經系統的演化運作中湧現而出。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "該理論將意識連結至增強生存與繁盛的演化必要性。主體性（如恐懼的感受）作為皮質認知迴路的一種晚近表現而湧現，有別於古老的非意識生存迴路。",
+    "qualia_account": "描述此理論的文本聚焦於演化史與生存迴路，而非感質本身，但與其唯物論立場一致，感質內隱地被當作皮質認知迴路的複雜表現，相較於生存迴路，其演化史較為淺短。",
+    "ontological_commitments": "已演化的神經系統、生物大腦，以及防禦性生存迴路。",
+    "epistemic_access": "可透過追溯演化時間軸、研究比較神經生物學，以及分析早期生物體的問題解決與生存行為而取得。",
+    "constituents_and_structure": "已演化的神經系統，導向皮質認知迴路（用於意識），而這些迴路則建立於深植的防禦性生存迴路之上。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（尤其追溯其種系發生的湧現）、行為，以及情緒感受。",
+    "distinctive_mechanism_or_principle": "意識源自神經系統的演化，這些系統增強了生物體生存與繁盛的能力，其源頭可上溯至最早的生物體所解決的問題。",
+    "dynamics_of_emergence": "意識是一個以「較淺短之歷史」為特徵的動態湧現過程，具體而言，是建立於古老防禦性生存迴路之上、皮質認知迴路的一種晚近表現。",
+    "location_and_distribution": "有意識的經驗本身位於晚近的皮質認知迴路，並依賴於來自深植之皮質下生存迴路的輸入。",
+    "causation_and_functional_role": "意識的功能在於透過使靈活的認知處理成為可能（例如辨識並回應威脅，如恐懼的有意識感受），來增強生存與繁盛。",
+    "core_claims_and_evidence": [
+      "理解人類意識的關鍵，在於透過最早生物體的稜鏡來看待演化。",
+      "意識具有可上溯至生命之初的「深層根源」，藉由基礎的生存迴路而確立。",
+      "意識（如恐懼的感受）是皮質認知迴路的一種晚近表現。"
+    ],
+    "basis_of_belief_or_evidence_type": "神經生物學的、演化的、科學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗",
+    "known_empirical_interventions_or_tests": "追溯神經系統之種系發生發展、並跨物種比較防禦性生存迴路的研究。",
+    "criticisms_and_tensions": "所提供的文本缺乏特定批評，而適用於唯物論諸理論的一般批評，是儘管理解了意識的生物學基礎與演化，卻無法解釋意識的質性本質（難問題）。",
+    "open_questions_and_limitations": "導向主觀經驗湧現的精確步驟——區分負責有意識感受的皮質認知迴路（淺短歷史）與非意識的生存機制（深層歷史）——仍是懸而未決的問題。",
+    "ontological_coherence": "在唯物論與演化自然主義框架內高度融貫。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "作為一種聚焦於湧現之生物機制的唯物論理論，若必要的演化與生存功能能在人工基質中被複製，那麼人工智慧意識原則上應是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識明確地依賴於已演化的生物大腦及其皮質認知迴路，而這些在死亡時即停止運作。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "與唯物論一致，意識主要服務於增強生存與繁盛的生物功能，除了人類為自身創造的意義之外，並不提供任何內在的宇宙意義或目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意識被理解為純粹物理的、並從複雜的生物資訊處理中湧現，那麼複製其神經模式原則上應能實現虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "LeDoux's Higher-Order Theory of Emotional Consciousness",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "相容"
+      },
+      {
+        "name": "Feinberg/Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Deep History of Ourselves: the Four-Billion-Year Story of How We Got Conscious Brains, Joseph LeDoux",
+        "year": 2019
+      },
+      {
+        "title_with_names": "As soon as there was life, there was danger: the deep history of survival behaviours and the shallower history of consciousness, Joseph LeDoux",
+        "year": 2021
+      }
+    ]
+  }
+}

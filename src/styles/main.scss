@@ -540,8 +540,37 @@ body {
 }
 
 @media (max-width: 768px) {
+  // Let the body scroll to reveal the About content below the app. The base
+  // rule clips at 100vh (overflow: hidden); on mobile we don't want that —
+  // the chart no longer fills the viewport, so there's page below to reach.
   .app-container {
     flex-direction: column;
+    height: auto;
+    min-height: 100vh;
+    overflow: visible;
+    // Release the containing block created by the Safari translateZ(0) fix
+    // above: otherwise the pill/sheet/zoom controls (position: fixed) pin to
+    // this scrolling container instead of the viewport and drift on scroll.
+    // The fix was only needed for flex:1 sizing; the chart now has an
+    // explicit height, so dropping it here is safe.
+    transform: none;
+  }
+
+  .chart-container {
+    // Bounded touch-capture band: pan/zoom (touch-action: none) lives only on
+    // #main inside here, so touching the empty area below the chart scrolls
+    // the page instead of getting trapped in a gesture.
+    height: 72vh;
+    flex: none;
+    width: 100%;
+    box-sizing: border-box;
+    // Clear the fixed logo (top: 20px) + search bar (top: 70px, ~50px tall)
+    // so ECharts renders its centered chart below them, not underneath.
+    padding-top: 128px;
+  }
+
+  #main {
+    height: 100%;
   }
 
   .logo-container {
@@ -585,7 +614,7 @@ body {
 
   .feedback-btn {
     position: fixed;
-    bottom: 16px;
+    bottom: calc(16px + env(safe-area-inset-bottom, 0));
     left: 16px;
     right: auto;
     width: auto;
@@ -593,7 +622,7 @@ body {
   }
 
   .about-btn {
-    bottom: 16px;
+    bottom: calc(16px + env(safe-area-inset-bottom, 0));
     right: 16px;
     width: 36px;
     height: 36px;
@@ -665,7 +694,7 @@ body {
     align-items: center;
     gap: 8px;
     position: fixed;
-    bottom: 78px;
+    bottom: calc(78px + env(safe-area-inset-bottom, 0));
     left: 50%;
     transform: translateX(-50%);
     z-index: 1003;

@@ -1,0 +1,116 @@
+{
+  "id_and_class": {
+    "theory_title": "透明性論題（透明性理論）",
+    "summary": "透明性論題主張感官經驗純粹是表徵性的，其注意力僅僅集中於外部對象及其性質，而非知覺狀態本身的內在特徵。其核心論題認為，由於內省無法揭示這些表徵之外的任何心理性質，現象意識對唯物論並不構成任何特殊問題。",
+    "associated_thinkers": [
+      "William G. Lycan",
+      "Gilbert Harman",
+      "Michael Tye",
+      "Dirk Franken"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "表徵主義理論",
+    "core_identity_tagline": "「意識即透明的表徵」",
+    "classification_tags": [
+      "representationalism",
+      "materialism",
+      "intentionalism",
+      "qualia_reduction"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象意識（現象特徵）被認定為、或被化約為經驗的表徵內容（意向內容）。",
+    "ontological_status": "化約式物理論／唯物論（該理論被用來削弱反對物理論的論證）。",
+    "mind_body_relationship": "同一論／化約論（現象特徵被化約為意向內容，而意向內容被假定為由物理所實現，從而歸入唯物論陣營）。",
+    "primitive_or_emergent_status": "非原初；化約式湧現（隨附於神經表徵內容之上）",
+    "emergence_type": "弱湧現（該理論旨在表明現象性質完全被表徵內容所窮盡或可化約為表徵內容，這與弱湧現／化約論的原則相一致）。",
+    "subjectivity_and_intentionality": "主觀的現象質性完全由呈現給主體的可感性質所定義並窮盡。意向性（表徵外部對象的質性）對意識狀態而言是根本性的。",
+    "qualia_account": "感質，或現象意識的質性特徵，若被視為知覺狀態在其表徵性質之外的性質，便是錯覺的或不融貫的。現象特徵被化約為意向內容。",
+    "ontological_commitments": "外部對象及其表觀性質、知覺狀態以及表徵內容。該理論明確否認存在內在的、非表徵的心理性質。",
+    "epistemic_access": "內省（核心的透明性論題依賴於對經驗的內省，據稱內省除對象所表徵的性質之外，並未揭示任何內在性質）。",
+    "constituents_and_structure": "知覺狀態，其運作方式完全在於表徵外部對象及其性質。意識經驗的結構就是呈現給主體的可感性質的分布。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（感質）、知覺（尤其是視覺經驗）。",
+    "distinctive_mechanism_or_principle": "透明性論題：當注意力向內轉時，它只發現被知覺的外部對象的特徵，這一原則由此支持了現象特徵等於表徵內容的主張。",
+    "dynamics_of_emergence": "其重點在於刻畫意識狀態的性質，而非描述一個動態的湧現歷程。它描述的是人們「徑直看穿」中介狀態之後所得到的狀態。",
+    "location_and_distribution": "該理論關注現象內容（表徵）本身的本性。作為一種唯物論理論，它隱含地認為該內容由大腦中的神經活動所實現。",
+    "causation_and_functional_role": "其功能角色在於準確地表徵外部對象並將性質歸於它們，而非歸於知覺狀態本身。",
+    "integration_or_binding": "未明確詳述，但隱含於將被知覺性質（如顏色、形狀）成功歸於統一的外部對象之中。被知覺的性質是在一個顯現之場中呈現給主體的那些性質。",
+    "information_flow_or_representation": "資訊作為表徵被處理；現象意識本質上是資訊性的，具體而言是表徵外部對象的內容。",
+    "evolutionary_account": "未明確論及，但與唯物論中的表徵主義子類相一致，後者總體上與感官功能的演化解釋相容，即透過準確表徵環境來提升適應度。",
+    "core_claims_and_evidence": [
+      "感官經驗表徵外部對象及其表觀性質，從而消除了唯物論面臨的問題。",
+      "內省除表徵性質之外並未揭示任何心理性質（即透明性論題本身）。",
+      "強表徵主義削弱了反對唯物論的知識論證這一主張。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的（基於現象學觀察與內省的論證）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗／受現象學約束（其主要檢驗在於內省主張的一致性，儘管客觀的證偽方法並非核心）。",
+    "known_empirical_interventions_or_tests": "內省（該理論取決於「最堅定的內省是否曾揭示任何此類附加性質」）。諸如模糊視覺之類的疑難案例由支持者加以處理。",
+    "criticisms_and_tensions": "批評者列舉諸如模糊視覺等現象，作為對「所有被知覺性質都是對象的外部性質」這一主張的潛在反例。該論題否定了現象質性是心理狀態之獨立性質的觀念。",
+    "open_questions_and_limitations": "必須解決表面上的不一致，例如：若經驗只包含外部性質，那麼模糊視覺等內部狀態何以能夠被經驗到。",
+    "ontological_coherence": "高（與化約式物理論以及強表徵主義等理論高度內部一致，後者力圖透過否認存在不可化約的現象性質來解決心身問題）。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作為對唯物論理論的哲學辯護，它支持意識是計算性或表徵性的觀點，意味著人工智慧意識原則上是完全可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識奠基於源自物理大腦的表徵狀態。遵循唯物論範式，大腦的毀滅意味著此人永久地不復存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人文意義",
+      "rationale": "該理論的作用在於強化唯物論，而唯物論通常只支持由人文所創造的意義、目的與價值。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "若意識完全由表徵內容所說明，那麼這一資訊理論上便可被複製並上傳到非生物基質，從而使虛擬永生成為可實現的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "基礎"
+      },
+      {
+        "name": "Intentionalism",
+        "relationship": "相似／等同"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "辯護／支持"
+      },
+      {
+        "name": "Jackson’s Representationalism",
+        "relationship": "延伸／支持"
+      },
+      {
+        "name": "Amy Kind",
+        "relationship": "批評／精細化"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The intrinsic quality of experience, G. Harman",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Representationalism and the transparency of experience, M. Tye",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Transparency and the Structure of Consciousness, D. Franken",
+        "year": ""
+      },
+      {
+        "title_with_names": "Representational theories of consciousness, W. Lycan",
+        "year": 2019
+      }
+    ]
+  }
+}

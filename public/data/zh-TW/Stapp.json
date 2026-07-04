@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "Stapp 透過提出「問題」使波函數塌縮",
+    "summary": "此理論主張意識對宇宙而言是根本性的，並倚賴量子力學的一種傳統詮釋，其中意識導致量子波函數的塌縮（一種測量行為）。這一機制賦予意識在物理世界中至關重要的因果角色，將行動者的自由選擇與神經相關物的物理實現聯繫起來。",
+    "associated_thinkers": ["Henry Stapp", "John von Neumann"],
+    "category": "量子理論",
+    "subcategory": "量子理論",
+    "core_identity_tagline": "「意識作為量子波函數塌縮」",
+    "classification_tags": [
+      "quantum",
+      "wave function collapse",
+      "non-materialism",
+      "causal agency",
+      "free will"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認同於「事件」（量子躍遷）的現象性面向，這些事件發生於觀察者選擇特定測量或「問題」去提問之時，迫使物理狀態以一種與所得現象經驗相相容的方式加以實現。",
+    "ontological_status": "非唯物論（基於量子力學的根本意識）。意識被視為一種獨立的存在，為完成宇宙的因果動力學所必需，從而擊敗古典唯物論。",
+    "mind_body_relationship": "因果動力學聯結（相互作用論）。經由量子躍遷，在一個人有意識地選擇如何行動（心靈）與神經相關物的物理實現（物質）之間建立起因果聯繫。",
+    "primitive_or_emergent_status": "原初（根本）。意識對宇宙而言是根本性的，是使量子理論行得通所必需的，其論證認為心理歷程不能僅僅是大腦的產物。",
+    "emergence_type": "此理論主張意識是一種根本性的、獨立的存在，為完成量子力學的因果動力學所必需，從而避免了從純粹物理歷程中湧現。",
+    "subjectivity_and_intentionality": "主體性繫於量子事件的「現象性面向」，對應於意識對知識的獲取。意向性透過行動者關於提出何種問題或如何行動的自由選擇而得以表達。",
+    "qualia_account": "感質是「事件」（量子躍遷／波函數塌縮）的現象性面向，這些事件發生於作出有意識選擇之時，構成被經驗知識的增量。",
+    "ontological_commitments": "量子波函數、物理狀態、大腦狀態，以及意識本身——作為一種能夠選擇基態的、獨立的非物理存在。",
+    "epistemic_access": "主要經由量子力學的邏輯／概念詮釋（馮·諾伊曼的表述）而通達，它將有意識的經驗（第一人稱的知識增量）與客觀的物理狀態變化（大腦中的量子躍遷）聯繫起來。",
+    "constituents_and_structure": "其結構涉及觀察者大腦狀態中的量子事件，尤其定域於神經元之間的突觸處（利用鈣離子的量子效應），在那裡量子波函數塌縮為與現象經驗相相容的狀態。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、能動性、自由意志、知識獲取、在物理世界中的因果行動。",
+    "distinctive_mechanism_or_principle": "意識透過決定測量的選擇（「要提的問題」）來處理量子力學中的「關鍵因果鴻溝」，從而導致波函數（諸潛能）塌縮為一個實際的物理事件。",
+    "dynamics_of_emergence": "意識是啟動量子躍遷所必需的一種動態歷程，它打斷由薛丁格方程式所描述的純粹決定論演化，並導致實際的物理事件。",
+    "location_and_distribution": "其物理效應聚焦於大腦內的量子歷程，具體涉及神經突觸中鈣離子的量子效應（腦內胞吐）。意識本身對宇宙而言是根本性的。",
+    "causation_and_functional_role": "意識透過影響大腦的物理狀態（經由塌縮機制）而發揮一種至關重要、非被動的因果角色，從而促成能動性與實際事件的發生。",
+    "integration_or_binding": "文獻沒有明確詳述在此模型中感覺輸入如何被統一或綁定為一個融貫的意識整體，而是聚焦於有意識選擇在量子態還原中的因果角色。",
+    "information_flow_or_representation": "行動者的選擇為資訊選取設定了基態（「問題」），而「是」的回饋經驗則代表意識對知識的獲取。",
+    "evolutionary_account": "隱含地具有適應性，因為意識被賦予一種因果角色，為使量子理論行得通所必需，從而解決了在古典模型下「意識何以竟會產生」這一謎題。",
+    "core_claims_and_evidence": [
+      "意識與量子力學的存有論基礎密不可分地聯繫在一起。",
+      "意識透過選擇在量子力學系統中所提的問題而發揮因果作用。",
+      "其特定的物理機制涉及神經突觸處（胞吐）的量子效應（鈣離子波包擴展）。",
+      "古典唯物論因量子力學中意識能動性的必要性而被擊敗。"
+    ],
+    "basis_of_belief_or_evidence_type": "對量子力學的哲學詮釋；對意識之於因果動力學的必要性的概念性論證；基於神經生物學的思辨性機制。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗，因為它標識出特定的物理位點（突觸量子效應），但需要驗證溫熱、潮濕的大腦中的非古典量子現象。",
+    "known_empirical_interventions_or_tests": "未列出具體的直接檢驗，但此理論標識出可供研究的潛在物理位點（腦內胞吐期間涉及鈣離子的量子效應）。",
+    "criticisms_and_tensions": "此理論因倚賴一種在主流物理學中被廣泛摒棄的量子力學非標準詮釋（意識誘發的塌縮）而受到批評。其結論極具爭議。",
+    "open_questions_and_limitations": "核心的未決問題是那個執行測量選擇、且處於量子力學本身之外的「獨立存在」的哲學本性。",
+    "ontological_coherence": "在其所選的量子框架（馮·諾伊曼詮釋）內高度融貫，但與古典及主流神經科學中常見的因果封閉這一物理論預設嚴重不一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定／有條件",
+      "rationale": "由於意識被設定為一種迫使量子躍遷發生所必需的、獨立而根本的存在，在人工智慧中複製大腦純粹物理或計算的歷程或許不足以實現這種根本性的能動性。"
+    },
+    "survival_beyond_death": {
+      "stance": "或許",
+      "rationale": "此理論確立意識為根本性的、並與量子實在密不可分地聯繫在一起，這暗示古典大腦的毀滅未必意味著根本性意識實體的終結，儘管第一人稱的存續仍難以想像。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是",
+      "rationale": "此理論賦予意識一種至關重要的因果角色，將被動的觀察轉變為在宇宙中的主動參與（「演員」），從而提供一種內在的功能與意義。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "如果意識是塌縮物理狀態所必需的一種獨立而根本的存在，那麼複製大腦純粹物理／計算的面向必然會排除真正自我同一性所需的這一非物理成分。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Von Neumann’s Quantum Formulation",
+        "relationship": "根基／影響"
+      },
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "替代性的量子理論"
+      },
+      {
+        "name": "Kauffman’s Mind Mediating Possibles to Actuals",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "批評／被擊敗"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mindful Universe: Quantum Mechanics and the Participating Observer, Henry Stapp",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Quantum Approaches to Consciousness, Henry Stapp",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Mathematical Foundations of Quantum Mechanics, John von Neumann",
+        "year": 1932
+      }
+    ]
+  }
+}

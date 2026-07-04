@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "波姆的隱纏序與顯析序",
+    "summary": "此理論主張實在由兩個層級構成：隱藏的、根本性的隱纏序，以及顯現的顯析序。意識與物質被構想為源自這一共同的高維隱纏序的延伸或投射。此理論力圖將意識納入量子理論的存有論意涵之中。",
+    "associated_thinkers": [
+      "David Bohm",
+      "Basil Hiley"
+    ],
+    "category": "量子理論",
+    "subcategory": "隱纏序與顯析序",
+    "core_identity_tagline": "意識作為隱纏序的延伸",
+    "classification_tags": [
+      "quantum",
+      "monism",
+      "holism",
+      "implicate order",
+      "non-materialist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為隱纏序的一種延伸，而隱纏序是一種高維的、心物中立的實在，是物質與心靈二者的底層根基。",
+    "ontological_status": "中立一元論（雙面一元論表述）",
+    "mind_body_relationship": "心靈與身體並不彼此發生因果作用，而是由隱纏序這一共同的、終極的實在所產生的相關投射。這一關係反映了一種可分解的雙面理論。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "強湧現（從一個中立的、根本性的領域湧現）。意識透過從整體論的隱纏序中「顯析」或「展開」而湧現。",
+    "subjectivity_and_intentionality": "主體性由波姆對「不可分割的整體性」的強調所暗示，其中主體積極地與客體一同參與，而非作為一個超然的觀察者。意向性在所提供的文獻中未被明確詳述。",
+    "qualia_account": "未被明確詳述，但感質（意識的基本質性）被暗示為意識與物質之間所辨識出的本質差異，二者皆為底層秩序的投射。",
+    "ontological_commitments": "隱纏序（整體論的、高維的實在）、顯析序（顯現的實在），以及在衍生理論中的量子勢能與能動資訊。",
+    "epistemic_access": "其通達是概念性的，透過運用量子力學的反直覺概念來質疑關於物理實在的既定觀念，並推斷出一個更深層級的存在而達成。",
+    "constituents_and_structure": "意識的結構源自根本上動態且整體論的隱纏序，它從中被投射或顯析出來。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（內在經驗）。",
+    "distinctive_mechanism_or_principle": "從更深層、根本性的隱纏序中「顯析」或「展開」的原理，此秩序內在地是動態的，涉及在思想中被表徵為隱纏序諸多相位共同在場的運動。",
+    "dynamics_of_emergence": "動態過程。意識從動態、整體論的整體中湧現，並持續地返回其中。",
+    "location_and_distribution": "非局域／根本性的。意識起源於心物中立的隱纏序，儘管其顯現與大腦等複雜系統相關聯（與全像腦理論相聯繫）。",
+    "causation_and_functional_role": "心靈與身體的運動是一個共同根基的相關投射；意識促成向「不可分割的整體性」的趨近以及與實在的積極參與，而非超然的觀察。",
+    "integration_or_binding": "整合是內在的，植根於刻畫隱纏序的「不可分割的整體性」這一根本概念。記憶涉及資訊在回憶時的「內捲」與「外展」。",
+    "information_flow_or_representation": "資訊流是核心，尤其是量子勢能內的能動資訊，以及記憶的內捲／外展等概念。",
+    "evolutionary_account": "未明確論及。文獻聚焦於此理論在物理學中的存有論基礎，而非其生物學或種系發生的適應性角色。",
+    "core_claims_and_evidence": [
+      "意識與物質是根本性的隱纏序的延伸。",
+      "心靈與身體的運動是來自一個共同的高維根基的相關投射的結果。",
+      "此理論構成全像腦理論的基礎，暗示意識與樹突網中的量子生物學之間存在聯繫。",
+      "隱纏序是一種超越心靈與身體二者的更為全面的實在。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、概念的、量子詮釋"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨性／概念性。隱纏序這一核心存有論假設在很大程度上超出了當前經驗檢驗的範圍。",
+    "known_empirical_interventions_or_tests": "未提供針對隱纏序—顯析序理論的具體經驗檢驗，儘管在其基礎上構建的相關量子理論或許會提示某些實驗進路。",
+    "criticisms_and_tensions": "此理論依賴於運用量子力學的反直覺概念，並包含被承認超出當代量子理論範圍的思辨。",
+    "open_questions_and_limitations": "一個主要侷限在於：鑑於意識與物質二者在質性上的巨大差異，如何詳述這兩個投射如何相連接並表達自身的機制。",
+    "ontological_coherence": "在其自身的一元論框架內高度融貫，透過設定一個共同的、心物中立的根基而成功地處理了心身分裂。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定",
+      "rationale": "如果意識植根於隱纏序這一非物質的、根本性的實在，那麼單純的計算系統能否通達或投射出實現真正內在覺知所必需的結構，尚不可知。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能",
+      "rationale": "由於意識是根本性的隱纏序的延伸，其實在超越了短暫的物理身體（顯析序），這暗示它在根本層級上持續存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "可能／內在的",
+      "rationale": "一個終極的、整體論的、動態的底層實在（「不可分割的整體性」）的存在，暗示實在具有一種內在的、非物質的意義，使此理論與那些主張終極意義的理論相一致。"
+    },
+    "virtual_immortality": {
+      "stance": "不確定",
+      "rationale": "心靈上傳依賴於模擬計算模式（顯析序）。這可能無法捕捉與意識本身所需的非計算的、高維的隱纏序之間的關鍵關係。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Holonomic Brain Theory",
+        "relationship": "影響"
+      },
+      {
+        "name": "Atmanspacher’s Dual-Aspect Monism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Pylkkänen’s Quantum Potential Energy and Active Information",
+        "relationship": "拓展"
+      },
+      {
+        "name": "Dual-Aspect Monism",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "David Bohm, Wholeness and the Implicate Order",
+        "year": 1980
+      },
+      {
+        "title_with_names": "David Bohm and Basil Hiley, The Undivided Universe: an Ontological Interpretation of Quantum Theory",
+        "year": 1993
+      },
+      {
+        "title_with_names": "Paavo Pylkkänen, Mind, Matter and the Implicate Order",
+        "year": 2007
+      }
+    ]
+  }
+}

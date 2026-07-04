@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "羅素式一元論",
+    "summary": "羅素式一元論主張，物理世界（物理學僅以結構與關係來描述之）具有一種現象或原現象的內在本性（內在本質，quiddities）。這一進路將意識整合進基本實在，同時避免了二元論與化約式唯物論的傳統難題。",
+    "associated_thinkers": [
+      "Bertrand Russell",
+      "Torin Alter",
+      "Yujin Nagasawa",
+      "David Chalmers",
+      "Philip Goff",
+      "Daniel Stoljar"
+    ],
+    "category": "一元論",
+    "subcategory": "哲學一元論",
+    "core_identity_tagline": "現象屬性是基本物質的內在本性",
+    "classification_tags": [
+      "monism",
+      "panprotopsychism",
+      "physicalism",
+      "quidditism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（或原意識）是內在的、範疇性的本性或屬性（「內在本質」即 quiddities，或「不可探知者」），它構成了物理學所描述的物理實在的關係性結構之底層。",
+    "ontological_status": "中立一元論、物理一元論或現象一元論（視變體而定）；根本上是一元論的。",
+    "mind_body_relationship": "心靈與物理世界深度交織，心理屬性構成基本物理實體的內在本性（即物理傾向性的範疇性基礎）。",
+    "primitive_or_emergent_status": "原初（處於實在的基本層次，作為微觀實體的現象或原現象屬性）。",
+    "emergence_type": "不適用（屬性是原初的／內在的）。意識的宏觀聚合有時被刻畫為一個組合問題，而非湧現。",
+    "subjectivity_and_intentionality": "主體性是固有的，因為基本物理實體被現象屬性所貫注。就該理論而言，來源材料並未明確詳述意向性的具體闡述。",
+    "qualia_account": "感質對應於那些構成基本物質內在本性的現象屬性（或其前身）。",
+    "ontological_commitments": "被賦予範疇性／內在屬性（內在本質／不可探知者）的基本物理實體（如電子、夸克），這些屬性是現象的或原現象的。",
+    "epistemic_access": "經驗科學只能通達實在的關係性結構，但其內在本性（現象／原現象的內在本質）為物理學所不可通達，需經由哲學思辨來通達。",
+    "constituents_and_structure": "物理學描述時空／關係性的結構與動力學；現象或原現象的內在本質則構成這一結構之底層。它可以是微觀層次的，也可以是宇宙性的（優先性一元論）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象屬性與終極實在的內在本性。",
+    "distinctive_mechanism_or_principle": "核心原則是物質存在著未被觀測到的、內在的範疇性屬性（「內在本質」），它們是現象性的，從而在不擴張關係性物理存有論的情況下把意識奠基於基本實在之中。",
+    "dynamics_of_emergence": "意識透過基本現象／原現象屬性的組合而產生。這一過程有賴於解決微觀屬性如何產生複雜宏觀經驗的「組合問題」。",
+    "location_and_distribution": "位於基本微觀物理實體的內在屬性之中，或潛在地由整個宇宙所實例化（優先性一元論）。",
+    "causation_and_functional_role": "透過將意識嵌入物理世界的基本屬性，避免了二元論的因果排除問題，這意味著意識構成物理實在本身之底層。",
+    "integration_or_binding": "整合必須透過某種機制來實現，該機制將微觀物理的現象屬性組合為複雜、統一的宏觀經驗（「組合問題」）。",
+    "information_flow_or_representation": "主要聚焦於物理關係／結構底層的內在本性（內在本質），而非詳述資訊流機制。",
+    "evolutionary_account": "該理論允許存在這樣的變體：意識從原現象屬性中演化而來，尤其是在意識演化的系統中。",
+    "core_claims_and_evidence": [
+      "物理學只描述實在的關係性結構。",
+      "基本物質的內在本性（內在本質）為經驗科學所不可通達。",
+      "這些內在屬性是現象的或原現象的。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／概念的。其關於內在屬性的根本主張通常超出經驗通達或數學建模的範圍。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "首要挑戰是組合問題，它至關重要：解釋微觀物理屬性如何組合而形成複雜、整合的宏觀層次意識。若假定泛原心論，則它面臨從原現象屬性推導出意識（感質）的問題。",
+    "open_questions_and_limitations": "成功解決組合問題是該理論成為心身問題最有希望之解的必要條件。「不可探知者」的具體本性（現象的、原現象的、物理的還是中立的）仍是一場重大的內部爭論。",
+    "ontological_coherence": "在形上學上高度融貫，因為它將意識整合進基本實在，從而有效地解決了二元論所面臨的交互問題。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識是物質／能量所固有的，並且組合問題能被技術駕馭，那麼由物理基質構建的人工系統應當能實現意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "有條件",
+      "rationale": "除非組合機制得以保存，或該理論與宇宙一元論觀點相契合，否則個體意識聚合體的存續是不太可能的，因為個體意識（宏觀組合）很可能在生物性死亡時解體。"
+    },
+    "meaning_and_purpose": {
+      "stance": "或許",
+      "rationale": "一元論一般允許終極意義／目的／價值。若羅素式一元論採取帶有演化意識的優先性一元論形式，則可能蘊含宇宙目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "單一實體的實在應當允許虛擬永生，前提是先進技術能操縱並駕馭微觀心理屬性，以數位方式精確重現宏觀意識聚合體。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Panprotopsychism",
+        "relationship": "變體"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "批評"
+      },
+      {
+        "name": "Materialism/Physicalism",
+        "relationship": "綜合"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is Russellian Monism?, T. Alter and Y. Nagasawa",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Russellian Monism, T. Alter and D. Pereboom",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2016
+      }
+    ]
+  }
+}

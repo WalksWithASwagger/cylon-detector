@@ -1,0 +1,118 @@
+{
+  "id_and_class": {
+    "theory_title": "意識的迷幻理論",
+    "summary": "此研究領域考察從迷幻藥物所誘發的狀態中得出的意識洞見。儘管支持者往往援引深刻的、神秘的與變異的經驗（例如合一感、自我消融）來支持諸如泛心論或觀念論等非唯物論觀點，主流科學卻運用相關的神經生物學資料（如升高的腦熵或同步化的神經活動）來推進諸如熵腦假說等唯物論模型。",
+    "associated_thinkers": [
+      "Rupert Carhart-Harris",
+      "Karl Friston",
+      "Peter Sjöstedt-Hughes",
+      "Aldous Huxley"
+    ],
+    "category": "異常與變異狀態",
+    "subcategory": "迷幻意識",
+    "core_identity_tagline": "作為變異狀態知識論的意識",
+    "classification_tags": [
+      "altered states",
+      "neurobiology",
+      "phenomenology",
+      "entropic brain",
+      "mysticism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "其核心主張是知識論性的：研究對意識的擾動揭示了正常意識的底層機制（物理論觀點），或揭露了實在的根本本質（非物理論觀點），而非為意識本身提出一種獨特的同一性。",
+    "ontological_status": "有條件／混合的存有論。科學模型將結果詮釋為物理論／功能論的（例如熵腦假說）。從主觀經驗導出的形上學詮釋則往往傾向觀念論或泛心論。",
+    "mind_body_relationship": "雙重詮釋。物理論模型將現象狀態視為特定神經動力學擾動的相關物（例如 DMN 崩潰）。非物理論觀點則主張大腦作為一個過濾器，暫時被藥物所抑制，從而允許通達一種非定域的／根本的意識。",
+    "primitive_or_emergent_status": "取決於詮釋。物理論模型將迷幻狀態（高熵）視為大腦一種湧現的、變異的動態。非物理論詮釋則認為藥物鬆弛了約束，揭露出一種原初的或根本的意識。",
+    "emergence_type": "並未明確標示為弱湧現或強湧現。現象學上的變化被刻畫為向大腦中升高的熵或混沌動力學（臨界性）狀態的一種動態轉變（相變）。",
+    "subjectivity_and_intentionality": "主體性被戲劇性地改變，往往以「深不可測地豐富的經驗狀態」為特徵，包括自我消融、合一（一體感）與變異的時間知覺。這些強烈的第一人稱經驗是研究與詮釋的核心焦點。",
+    "qualia_account": "感質被增強並在質性上被改變（例如爆發的色彩、深刻的靈性感受）。儘管這些經驗挑戰了純粹量化理論的解釋能力，它們本質上並未解決「感質為何會有任何感受」這一「難問題」。",
+    "ontological_commitments": "神經生物學的：神經化學變化、變異的神經振盪模式、降低的預設模式網路（DMN）活動。形上學詮釋則承諾於根本意識、非定域領域或靈性實體。",
+    "epistemic_access": "雙重通達：第一人稱現象學報告（因激烈的主觀轉變而為必需）與第三人稱客觀經驗資料（神經影像與生理測量）相對應。",
+    "constituents_and_structure": "變異的動態以複雜、混沌的神經活動（高熵）為特徵，且往往涉及如預設模式網路等大尺度網路的去同步化。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（質性的變異與增強）、自我覺知（自我／自我感的消融）、情緒與神秘經驗。",
+    "distinctive_mechanism_or_principle": "經由神經傳導物質對高階信念／先驗的調節（REBUS 模型），導致腦熵升高與混沌（臨界）動力學，類似於一種原初或原始的意識狀態。",
+    "dynamics_of_emergence": "經由藥理學介入，從受約束、低熵的清醒狀態（運作於略低於臨界性之處）向解放的、高熵的原始狀態（運作於臨界性附近）的動態轉變。",
+    "location_and_distribution": "遍及全腦，透過同步化神經振盪模式的特定變化以及預設模式網路內高度組織化活動的崩解而觀察到。",
+    "causation_and_functional_role": "在生理上，迷幻藥擾亂了正常的預測過程。在功能上，深刻的神秘經驗造成長期的心理與信念轉變，賦予主觀的目的或價值。",
+    "integration_or_binding": "在變異狀態期間觀察到的遍及全腦的同步化神經振盪模式，或可為經驗的統一（綁定）提供線索，並可能支持電磁場理論。",
+    "information_flow_or_representation": "迷幻藥鬆弛了高階先驗／信念的精確度，使由下而上的資訊流（例如來自邊緣系統）得以主導有意識的經驗，這即是 REBUS 模型的機制。",
+    "evolutionary_account": "由此產生的高熵狀態被假設為類似於一種原初的意識狀態，其先於正常成人人類清醒意識的受約束性質。",
+    "core_claims_and_evidence": [
+      "迷幻狀態與升高的腦熵及臨界性相關聯。",
+      "該經驗與皮質網路（包括 DMN）中降低的活動相關聯。",
+      "LSD 與氯胺酮誘發遍及全腦的同步化神經振盪模式。",
+      "由裸蓋菇素觸發的神秘經驗與減輕憂鬱與焦慮等治療結果相關聯。"
+    ],
+    "basis_of_belief_or_evidence_type": "經驗的、現象學的、臨床的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗，透過將化學介入與腦狀態變化及主觀報告相對應的神經生物學與臨床研究。",
+    "known_empirical_interventions_or_tests": [
+      "以 EEG/fMRI 測量熵的增加與去同步化（例如 DMN 崩潰）",
+      "將神秘經驗強度與治療結果相對應的研究（例如裸蓋菇素用於末期癌症患者）",
+      "神經振盪模式同步化的分析"
+    ],
+    "criticisms_and_tensions": "主要的哲學批評在於，經驗深刻的主觀本質並不保證存有論上的真理（知識論上的空洞性）。神經生物學批評則主張，高熵或許僅是功能性的「腦雜訊」，而非對根本意識的揭示。",
+    "open_questions_and_limitations": "這些理論一般被公認為不足以解決意識本身的「難問題」。它們僅處理與機制及相關性有關的「易問題」。非唯物論詮釋面臨的侷限在於，難以將真確的洞見與純粹的幻覺區分開來（「迷幻意識的難問題」）。",
+    "ontological_coherence": "在接受腦動力學／熵作為意識狀態關鍵相關物的唯物論框架內具有高度融貫性。非唯物論詮釋（挑戰物理論）與核心經驗資料（本質上是物理論的）之間則融貫性偏低。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件",
+      "rationale": "如果意識源自複雜、動態與混沌的組織狀態（如高熵），人工智慧或許能複製這些結構。然而，從神秘經驗導出的非唯物論詮釋往往拒斥計算的充分性。"
+    },
+    "survival_beyond_death": {
+      "stance": "是（取決於非唯物論詮釋）",
+      "rationale": "那些強烈的經驗——往往類似於瀕死經驗並涉及自我消融與「一體感」——被某些追隨者詮釋為非定域意識的證據，此意識獨立於身體與大腦而持存。"
+    },
+    "meaning_and_purpose": {
+      "stance": "強烈經驗性／靈性",
+      "rationale": "迷幻經驗往往誘發深刻的神秘與靈性狀態，導向具轉化性的個人意義、增強的慈悲心以及信念系統的改變，發揮著關鍵的心理與存在性功能。"
+    },
+    "virtual_immortality": {
+      "stance": "含混／非必要",
+      "rationale": "如果意識是一種神經動力學模式（物理論觀點），它或許可被複製。如果它是根本的／靈性的（觀念論觀點），它便已然超越死亡而持存，使得數位模擬成為非必要。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Carhart-Harris’s Entropic Brain Hypothesis",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Near Death Experiences, Survival, Past Lives",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Idealisms",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The entropic brain—revisited, R.L. Carhart-Harris",
+        "year": 2018
+      },
+      {
+        "title_with_names": "REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics, R.L. Carhart-Harris and K.J. Friston",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A whole-brain model of the neural entropy increase elicited by psychedelic drugs, R. Herzog et al.",
+        "year": 2023
+      },
+      {
+        "title_with_names": "On the need for metaphysics in psychedelic therapy and research, P. Sjöstedt-Hughes",
+        "year": 2023
+      }
+    ]
+  }
+}

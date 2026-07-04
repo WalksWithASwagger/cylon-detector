@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Stoljar 的知識論觀點與非標準物理論",
+    "summary": "此理論透過引入無知假說來為物理論抵禦反唯物論論證，該假說主張我們對某一類與意識相關的物理事實或性質深感無知。它認為意識與物理論之間所謂的相容性問題，源於我們當前的知識論侷限，而非物理論本身的存有論缺陷。",
+    "associated_thinkers": ["Daniel Stoljar"],
+    "category": "唯物論",
+    "subcategory": "哲學",
+    "core_identity_tagline": "藉由知識論上的無知而得到辯護的物理論",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ignorance hypothesis",
+      "compatibility problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識是一種物理現象，由一類我們目前尚不知曉的物理事實或性質所構成。有意識狀態依賴於其他事物，並非基本的。",
+    "ontological_status": "非標準物理論",
+    "mind_body_relationship": "意識等同於物理性質（個例同一）或由其所必然導出，但由於知識論上的無知，這一物理性質的具體本質尚不為人知。這一關係將物理論辯護為一條經驗真理。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "知識論湧現。作此判斷是因為：此理論雖為物理論辯護（提示弱湧現或原則上的同一），但其界定性特徵在於相關物理事實目前無法以標準方法知曉，從而維持一道基於無知的解釋鴻溝。",
+    "subjectivity_and_intentionality": "主體性與意向性最終由與意識相關的未知物理性質所實現，這與此理論所辯護的整體物理論存有論相一致。其具體的實現機制目前尚不為人知。",
+    "qualia_account": "質性感受（感質）對應於特定的、未知的物理事實或性質。基於感質的反物理論論證（如可設想性論證）之所以失敗，是因為它們錯誤地預設了對這些底層物理事實的完整知識。",
+    "ontological_commitments": "物理性質，尤其是一類與意識相關、其本質目前深受無知所困的物理事實或性質。同時也承諾意識的存在以及物理論的整體結構。",
+    "epistemic_access": "通達目前深受「無知假說」所限，意味著我們無法用當前的科學方法充分知曉與意識相關的物理事實。不過，一門確立經驗定律的有限的「意識科學」是可能的。",
+    "constituents_and_structure": "有意識狀態是被物理世界所實現、但並非物理世界基本性質的依賴性結構；其實現取決於目前未知的物理事實。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（尤其針對反對其與物理論相容的論證）。",
+    "distinctive_mechanism_or_principle": "無知假說：即我們對於充分解釋意識所需的那一類物理事實／性質是無知的，從而瓦解那些假定物理知識完整的反物理論論證。",
+    "dynamics_of_emergence": "意識作為物理系統的一種依賴性性質而產生。其對未知物理事實之依賴的實際動態歷程仍有待發現。",
+    "location_and_distribution": "大腦與身體，由我們所無知的特定物理事實所實現，這與物理論相一致。",
+    "causation_and_functional_role": "此理論關注的是形上學上的相容性，而非功能角色。有意識狀態並非基本的，而是「依賴於其他事物」。因果力被隱含地認為寓於被充分理解的物理領域之內（當無知被克服時）。",
+    "integration_or_binding": "未作說明。綁定問題被假定將由對當前未知、支撐意識的物理事實的最終發現與刻畫來加以解決。",
+    "information_flow_or_representation": "未作說明。此理論關注的是對物理論的形上學辯護，而非具體的認知或資訊機制。",
+    "evolutionary_account": "此理論與標準的物理論演化解釋相容，即意識作為複雜生物組織的演化產物而湧現，由未知的物理性質所實現。",
+    "core_claims_and_evidence": [
+      "反對物理論的可設想性論證與知識論證不具說服力，因為它們錯誤地預設了對與意識相關物理事實的完整知識。",
+      "有意識狀態並非基本的，而是依賴於其他（物理）事物。",
+      "物理論是一條經驗真理，而非先驗論證，並且目前可透過無知假說加以辯護。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學（概念分析與辯護）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "受經驗約束。Stoljar 相信一門確立經驗定律的意識科學是可能的，儘管他懷疑能否建構出一套完整的系統性理論。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "此理論倚賴於對關鍵物理事實深感無知這一假設，批評者可能將其視為推遲解釋。它在批評「標準物理論」的同時，自身也保持著非傳統的立場。",
+    "open_questions_and_limitations": "與意識相關的物理事實或性質的確切身份與本質仍不為人知。Stoljar 也認為，獲得關於支配意識之定律的系統性知識是不太可能的。",
+    "ontological_coherence": "高度融貫，因為它提供了一個自足的哲學框架，旨在使物理論抵禦不相容性論證，將負擔（暫時）從存有論解釋轉移到知識論侷限。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作為一種對物理論的辯護，此理論斷言意識是物理的。因此，原則上，任何實現了必要物理事實（甚至包括目前未知的那些）的人工系統都應能變得有意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識依賴於物理事實與歷程，並非基本的。在物理基質（大腦）被毀滅之後，意識便不復存在，這與物理論相一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本意義",
+      "rationale": "與其奠基性的物理論承諾相一致，此理論不為終極的宇宙意義或目的提供依據；意義是由有意識的能動者所建構的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "如果意識完全是物理的，那麼只要複雜的物理基質（包括無知假說所指認的未知性質）能在非生物介質中被複製，第一人稱心理自我便有可能被上傳。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Conceivability Argument",
+        "relationship": "批評／回應"
+      },
+      {
+        "name": "Knowledge Argument",
+        "relationship": "批評／回應"
+      },
+      {
+        "name": "Standard Physicalism",
+        "relationship": "批評"
+      },
+      {
+        "name": "Kind’s Dualism 2.0",
+        "relationship": "論辯對手／共同項目"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Physicalism, D. Stoljar",
+        "year": 2010
+      }
+    ]
+  }
+}

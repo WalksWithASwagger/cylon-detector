@@ -1,0 +1,117 @@
+{
+  "id_and_class": {
+    "theory_title": "النظرية الحسية-الحركية (الإناكتيفية) للوعي (رؤية «خارج رؤوسنا» عند نوي)",
+    "summary": "ترفض هذه النظرية الافتراض القائل بأن الوعي يحدث حصرًا داخل الدماغ، محاجّةً بأن العمليات الدماغية الداخلية وحدها غير كافية لتوليد الخبرة. فالوعي هو جوهريًّا نشاط أو عملية تُمارَس عبر التفاعل الدينامي المستمر الماهر بين الدماغ والجسد والبيئة.",
+    "associated_thinkers": [
+      "Alva Noë",
+      "Kevin O’Regan"
+    ],
+    "category": "المادية",
+    "subcategory": "علائقية",
+    "core_identity_tagline": "الوعي بوصفه تفاعلًا فاعلًا مع العالم",
+    "classification_tags": [
+      "relational",
+      "embodied",
+      "enactive",
+      "externalism",
+      "activity"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "يُعرَّف الوعي بأنه نشاط المتابعة، والبقاء على تماس، والانتباه إلى العالم، والتفاعل معه. وهو عملية النفاذ إلى العالم وإتاحة «ظهوره» للكائن، مُعرَّفًا بالانخراط الفاعل.",
+    "ontological_status": "الفيزيائية",
+    "mind_body_relationship": "العقل هو النشاط المتولّد عن عمل الدماغ والجسد والبيئة معًا. يوفّر الدماغ الركيزة الميكانيكية اللازمة لكنه غير كافٍ للوعي؛ فهو موضع الرموز، لا الوعي نفسه.",
+    "primitive_or_emergent_status": "منبثق",
+    "emergence_type": "انبثاق ضعيف",
+    "subjectivity_and_intentionality": "تنشأ الذاتية (كيف «يظهر» العالم لنا) والقصدية من انخراط الكائن الفاعل الماهر مع البيئة، متأثرةً بالسياق والاهتمام والمعرفة والفهم.",
+    "qualia_account": "يُلمَّح إلى أن الكواليا جزء من كثافة الخبرات الواقعية وتفصيلها ومتانتها الناشئة عن التفاعل المستمر مع العالم، وهو ما يميّز الوعي الحقيقي عن مجرد خبرات الحلم.",
+    "ontological_commitments": "البيئة الفيزيائية، والدماغ/الجسد البيولوجي، والتفاعل/النشاط الدينامي بينهما.",
+    "epistemic_access": "يتطلب النفاذ النظر خارج الرأس إلى الدور الاستباقي للكائن واكتسابه المهارات في العالم، بنقل التركيز من الأحداث الدماغية الداخلية إلى الفعل والتفاعل الخارجيين.",
+    "constituents_and_structure": "النظام الدينامي المترابط المكوّن من الدماغ، والأجهزة الحسية-الحركية للجسد، والبيئة الخارجية."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "الظاهراتي، الفاعلية، النفاذ (بوصفه إنجازًا)",
+    "distinctive_mechanism_or_principle": "الانخراط الفاعل المستمر بين الكائن ومحيطه. يقع الوعي في حلقة هذا التفاعل/النشاط، لا في الحالة الدماغية الداخلية وحدها.",
+    "dynamics_of_emergence": "الوعي عملية دينامية من البقاء على تماس والتفاعل مع العالم، يمارسها الكائن باستمرار.",
+    "location_and_distribution": "موزّع عبر نظام الدماغ والجسد والبيئة بأكمله؛ موقعه «خارج رؤوسنا».",
+    "causation_and_functional_role": "الوعي استباقي، يتيح للكائن النفاذ إلى العالم وممارسته، ويخدم توجيه الفعل المتعمَّد السياقي الماهر من أجل البقاء والفهم.",
+    "integration_or_binding": "يتحقق التكامل عبر ترابط «ظهور العالم لنا» بفضل انخراط الكائن الماهر الفاعل وانتباهه إلى العالم.",
+    "information_flow_or_representation": "يُنفَذ إلى المعلومات ويُشكَّلها استباقيًّا عبر تفاعل الكائن ومهاراته، مما يحدّد معنى البيئة.",
+    "evolutionary_account": "نشأ الوعي لإتاحة النفاذ إلى العالم والتوسّط في المعنى عبر التفاعل المتجسّد الماهر، مما يوحي بميزة تكيّفية قوية للبقاء.",
+    "core_claims_and_evidence": [
+      "الوعي هو نشاط الانخراط المستمر مع العالم.",
+      "كثافة الخبرة الواقعية ومتانتها (على النقيض من الأحلام) تدعمان ضرورة التفاعل الخارجي.",
+      "الدماغ هو الموضع الميكانيكي للرموز، لكن النشاط هو الوعي نفسه."
+    ],
+    "basis_of_belief_or_evidence_type": "حجة فلسفية، بصيرة ظاهراتية، نقد للجوّانية التقليدية"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "قابل للاختبار مفاهيميًّا",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "التوتر الرئيسي هو تفسير كيف يكون التفاعل هو الوعي بالمعنى القوي، لا مجرد إتاحته أو التأثير فيه. ويرفض النقاد القول بأن دراسة الأحداث الدماغية الداخلية غير كافية لفهم الوعي.",
+    "open_questions_and_limitations": "تفتقر النظرية إلى تعريف واضح لكيفية تشكيل التفاعل/النشاط الخارجي للخبرة الداخلية أو الكواليا، ولكيفية التمييز الصارم بين هذا النشاط ومجرد المعالجة غير الواعية.",
+    "ontological_coherence": "متسقة ضمن إطار فلسفي جوّاني خارجي متجسّد، تتحدى مباشرةً المقدّمات التأسيسية للمادية الجوّانية والثنائية."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "غير مؤكد/مشروط",
+      "rationale": "الحوسبة المعيارية غير كافية؛ فالوعي ممكن فقط إذا حققت أنظمة الذكاء الاصطناعي التجسّد الكامل والمهارات والتفاعل المستمر المستقل مع عالم (مستوفيةً المتطلبات نفسها المفروضة على الكائنات الحية)."
+    },
+    "survival_beyond_death": {
+      "stance": "لا",
+      "rationale": "الوعي غير قابل للفصل عن الحلقة الفيزيائية الفاعلة المستمرة التي تشمل الدماغ والجسد وهما يتفاعلان مع العالم؛ ويعني توقفها إنهاء النشاط الواعي."
+    },
+    "meaning_and_purpose": {
+      "stance": "إنساني فقط",
+      "rationale": "يتيح الوعي للفاعل اكتساب السياق والمعرفة والفهم، مانحًا القدرة على إسناد المعنى للتفاعلات وتوجيه السلوك الاستباقي، لكنه لا يقتضي غاية متعالية."
+    },
+    "virtual_immortality": {
+      "stance": "غير معقول إلى حد بعيد",
+      "rationale": "رفع العمليات الداخلية للدماغ وحدها («الموضع الميكانيكي») لا يمكن أن يلتقط النشاط التفاعلي المستمر الخارجي غير المحصور في الدماغ المُعرَّف بوصفه وعيًا."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Enactivism (Varela & Thompson)", "relationship": "إطار مكوِّن" },
+      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "تأثير تأسيسي" },
+      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "تأثير فلسفي" },
+      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "متوافقة جزئيًّا/متداخلة" },
+      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "ذات صلة/مكمِّلة (الإدراك الفاعل، نموذج الدوائر المشتركة)" },
+      { "name": "Internalist Materialism", "relationship": "نقد" },
+      { "name": "Dualism", "relationship": "نقد" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
+        "year": 2010
+      },
+      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Is consciousness an illusion, Alva Noë",
+        "year": 2007
+      },
+      {
+        "title_with_names": "O’Regan, K., & Noë, A. A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–1031.",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Noë, A. Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness.",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Varela, F., Thompson, E., & Rosch, E. The Embodied Mind: Cognitive Science and Human Experience.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Gibson, J.J. The Ecological Approach to Visual Perception.",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Hurley, S. L. (1998). Consciousness in Action. Harvard University Press."
+      },
+      {
+        "title_with_names": "Hurley, S. (2008). The Shared Circuits Model (SCM): How control, mirroring, and simulation can enable imitation, deliberation, and mindreading. Behavioral and Brain Sciences, 31(1)."
+      }
+    ]
+  }
+}

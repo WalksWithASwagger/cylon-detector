@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "印度二元論理論",
+    "summary": "此理論源自印度哲學古老的數論（Samkhya）學派，設定兩種永恆、根本的實在之間存在嚴格的形上學二元論：*purusha*（有情的意識或靈）與 *prakriti*（無情的自然或物質）。心靈與身體是 *prakriti* 的精微形式與粗顯形式，之所以看似有意識，僅因 *purusha* 作為被動的見證意識照亮了它們。",
+    "associated_thinkers": [
+      "Samkhya philosophers",
+      "Swami Sarvapriyananda",
+      "Swami Medhananda",
+      "Swami Vivekananda"
+    ],
+    "category": "二元論諸派",
+    "subcategory": "印度哲學中的個人意識與宇宙意識",
+    "core_identity_tagline": "意識作為永恆、有情的 Purusha，有別於無情的 Prakriti",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "purusha",
+      "prakriti",
+      "indian philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（*purusha*）被認定為永恆的、絕對的、獨立的、有情的靈或自我。它有別於實在的一切物質面向，包括心靈在內，而心靈僅是精微的物質。",
+    "ontological_status": "形上學二元論（具體而言，是 purusha／意識與 prakriti／物質之間的二元論）",
+    "mind_body_relationship": "心靈是一種精微的物質實體（*prakriti*），充當內在器官（antaḥkaraṇa）。它被 *purusha*（非物質的意識）被動地照亮，因而看似有意識，但兩者既不同一，亦不可相互化約。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "不適用",
+    "subjectivity_and_intentionality": "主體性（有情性）是 *purusha* 的固有本質，它充當見證意識。意向性（例如思想、意志）居於心靈（*prakriti*）之中，而心靈透過 *purusha* 的照亮獲得意識的表象。",
+    "qualia_account": "質性感受由 *purusha* 作為有情之見證意識的角色來說明，它照亮無情的心靈（感官辨別與經驗即居於其中），從而使它們成為有意識的經驗。",
+    "ontological_commitments": "兩種根本的、普遍的、彼此殊異的實在：*purusha*（有意識的靈）與 *prakriti*（無意識的自然／物質，包括心靈）。",
+    "epistemic_access": "*purusha* 本身是絕對的、超乎知覺的、無法以言語描述的，這暗示著一種非經驗性的通達（例如哲學上的證悟）。其與心靈交互作用的效應則透過主觀經驗而被觀察到。",
+    "constituents_and_structure": "基本構成單元是永恆的個體意識單元（*purusha*）與無情的 *prakriti*（由三種 *gunas* 所構成）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（有情的經驗）與自我。",
+    "distinctive_mechanism_or_principle": "照亮／映現。意識本身（*purusha*）並不行動，但其「光」映照於物質的心靈之上，使經驗的表象得以產生。",
+    "dynamics_of_emergence": "有意識之運作的表象，是藉由靜態、根本的 *purusha* 之「光」映照於 *prakriti*（心靈）的動態、可演化的變異之上而達成。意識本身是根本的，而非動態湧現的。",
+    "location_and_distribution": "*purusha* 是個體性的（每個人都是一個個體意識）、非延展的，並根本上有別於在空間中延展的身體／大腦（後者屬於 *prakriti*）。",
+    "causation_and_functional_role": "*purusha* 的功能作用主要是見證者或經驗者。儘管心靈與身體是主動的，*purusha* 賦予了不可或缺的有情性，若無此有情性，那些活動將純屬機械性且無意識。",
+    "integration_or_binding": "經驗的統一透過個體 *purusha* 的單一本質而達成，它作為一個整體照亮了整個身心複合體。",
+    "information_flow_or_representation": "資訊由內在器官或心靈（*antaḥkaraṇa*，一個物質成分）所處理。這一處理隨後藉由 *purusha* 的照亮性臨在而變得有情。",
+    "evolutionary_account": "意識（*purusha*）是永恆且未被創造的。唯有 *prakriti*（自然／物質），包括心靈，才會經歷演化與變異。",
+    "core_claims_and_evidence": [
+      "Purusha（意識）與 Prakriti（物質）是兩種根本的、普遍的、彼此殊異的實在。",
+      "心靈（antaḥkaraṇa）是精微的物質，僅因 purusha 的照亮而看似有意識。",
+      "Purusha 是絕對的、獨立的、有情的，並充當被動的見證意識。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、邏輯的、古老的傳統教義"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／哲學的。核心主張牽涉一個非物質的實體（*purusha*），它無法以標準的科學觀察或經驗檢驗來通達。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "它面臨交互作用論的經典難題：解釋一個非物理的、永恆的實體（*purusha*）藉以照亮或關聯於一個物理的、短暫的實體（*prakriti*）的因果機制。它也受到質疑：無情的物質（心靈）如何能產生認知內容與意向性。",
+    "open_questions_and_limitations": "非物質的 *purusha* 藉以與精微物質心靈交互作用、從而賦予意識的那種「照亮」，其具體本質與機制仍無從解釋。*purusha* 本身則超乎慣常的描述。",
+    "ontological_coherence": "作為一種形上學二元論，在其奠基前提內部融貫。由於主張一種不可化約的、非物理的實體，它與嚴格的現代物理論及唯物論不相容。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意識（*purusha*）是一種永恆的、非物質的實體。既然人工智慧系統是物質（*prakriti*）的產物，它們必然缺乏真正有情性所需的根本 *purusha*。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "*purusha*（意識／靈）是永恆的，獨立於身體與心靈而存在，並且是跨越生、死、再生（輪迴轉世）諸循環之個人身分的基礎。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／存在性",
+      "rationale": "意識是一種根本實在，蘊含著一種終極的宇宙秩序，儘管印度傳統往往將目的界定為從再生的循環中解脫，而非某種物理世界的目的論。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "虛擬永生需要藉由捕捉神經模式來複製心理自我，但此二元論理論要求一個獨立的、非物理的實體（*purusha*），它無法透過物質過程被複製或上傳。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "重疊（共享對不可化約之非物理實體的承諾）"
+      },
+      {
+        "name": "Advaita Vedānta (Indian Cosmic Consciousness)",
+        "relationship": "批判（數論是二元論的；Advaita Vedānta 是不二論的，設定意識為唯一的根本存在者）"
+      },
+      {
+        "name": "Gaudíya Vaiṣṇava (GV) Vedānta",
+        "relationship": "區別（GV Vedānta 認為意識的許多性質能夠在物質中被實例化，而數論則主張身心複合體嚴格為無情的物質）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Personal and Cosmic Consciousness in Indian Philosophy (discussing Samkhya)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Samkhya (Wikipedia)",
+        "year": 2024
+      }
+    ]
+  }
+}

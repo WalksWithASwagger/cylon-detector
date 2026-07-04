@@ -1,12 +1,20 @@
 {
   "id_and_class": {
-    "theory_title": "Stump’s Thomistic Dualism",
+    "theory_title": "斯坦普的多瑪斯主義二元論",
     "summary": "本理論呈現聖多瑪斯·阿奎那關於人類靈魂的學說，將其視為一種非笛卡兒式的二元論形式。它主張靈魂是一種本質上非物質的或構型的組成部分，然而又在物質組成部分之內得以實現，從而使人的物質性與身體死亡後精神的存續得以調和。",
-    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "associated_thinkers": [
+      "Eleonore Stump",
+      "St. Thomas Aquinas"
+    ],
     "category": "二元論",
     "subcategory": "哲學的",
     "core_identity_tagline": "在物質中得以實現的非笛卡兒式非物質靈魂",
-    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+    "classification_tags": [
+      "dualism",
+      "thomism",
+      "non-Cartesian",
+      "soul"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "意識，或人類的靈魂／精神，是一種本質上非物質的或構型的實體，它在物質組成部分（身體）之中得以實現。",

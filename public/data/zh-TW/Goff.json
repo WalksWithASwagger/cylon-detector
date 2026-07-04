@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Goff 的泛心論",
+    "summary": "Goff 主張意識是物理世界一種根本且普遍存在的特徵，將其定位為解決唯物論無法處理之難問題的最大希望。他斷言，物理科學以其純粹量化的語言，無法說明經驗的質性本質（質性，qualitivity）或主觀面向，因而需要改變我們對科學的根本理解（伽利略的錯誤）。",
+    "associated_thinkers": [
+      "Philip Goff"
+    ],
+    "category": "泛心論諸派",
+    "subcategory": "泛心論",
+    "core_identity_tagline": "作為實在之根本且普遍特徵的意識",
+    "classification_tags": [
+      "panpsychism",
+      "cosmopsychism",
+      "qualia",
+      "subjectivity",
+      "russellian monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被指認為物理世界一種根本且普遍存在的特徵。具體而言，Goff 透過羅素式一元論的視角來探討泛心論，其中現象性或原現象性的性質是根本物質的內在本性。",
+    "ontological_status": "泛心論（常被形式化為羅素式一元論的一個變體，導向混合泛心論或能動宇宙心論，其中宇宙是一個有意識的能動者）",
+    "mind_body_relationship": "心靈（意識／原意識）是物理世界的內在本性。這一關係藉由設定心理性質與物理結構不可分離而避開了二元論的因果困難，並與擴展的唯物論相一致。",
+    "primitive_or_emergent_status": "意識在實在的最底層是原初的／根本的。然而，人類的經驗主體被視為強湧現的實體，而其現象性質則是弱湧現的（混合泛心論）。",
+    "emergence_type": "混合湧現（經驗主體為強湧現；現象性質為弱湧現）。",
+    "subjectivity_and_intentionality": "主體性是意識核心的、不可化約的面向（意謂經驗是「為某人而存在的」），駁斥了唯物論。主觀經驗由強湧現的主體所實現。意向性在現象經驗的框架內被內隱地說明，儘管來源中並未明確將其詳述為一個獨立的機制。",
+    "qualia_account": "感質（感官性質或質性）是實在的根本性質，無法化約為物理學純粹量化的語言，後者具有內在的解釋侷限。泛心論透過設定這些性質根本地存在來解決難問題。",
+    "ontological_commitments": "作為物理實體根本性質的意識（或原意識）。在宇宙論變體中，宇宙本身即是一個終極的有意識個體或回應價值的能動者。",
+    "epistemic_access": "第一人稱觀點與主觀確定性是意識的首要、基礎性證據，科學必須藉由修正「伽利略的錯誤」（將意識排除於科學探究之外）來將其納入。",
+    "constituents_and_structure": "基本構成要素是根本的現象性質或原意識實體（微觀層次實體），或者另一種可能，是作為單一整體有意識實體的宇宙（宇宙心論）。這些要素聚合形成複雜的有意識系統，從而引發分解問題。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（質性與主體性）、意識的難問題，以及宇宙目的論（在能動宇宙心論中）。",
+    "distinctive_mechanism_or_principle": "首要原理是形上必然性：意識必須是根本的，以避免解釋鴻溝並解決難問題。在能動宇宙心論中，有意識宇宙的目的論因果作用（目標導向的意圖）解釋了微調現象。",
+    "dynamics_of_emergence": "挑戰在於將微觀層次的原意識性質分解／組合為巨觀層次的有意識經驗，Goff 試圖以混合泛心論來解決此問題，其中主體強湧現而性質弱湧現。",
+    "location_and_distribution": "意識是普遍存在的，遍布整個物理世界。在宇宙心論中，根本意識定位於作為整體的宇宙。",
+    "causation_and_functional_role": "在宇宙層次（能動宇宙心論），意識作為一個能動者運作，解釋宇宙的微調以及生命／心靈的湧現。對個別主體而言，意識是價值與同一性的來源。必須解決分解問題，才能確立從微觀主體到巨觀主體之融貫的因果關係。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的。該理論旨在解決概念與形上的張力（如難問題），但意識普遍存在這一根本主張難以經驗檢驗，導致有批評認為泛心論走入「認知的死胡同」。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要張力是分解問題：微觀現象性質如何組合或聚合以形成複雜的巨觀現象性質（例如人類意識）。Goff 否認量化描述能夠捕捉質性，這也受到以資訊為基礎之理論支持者的批評。",
+    "open_questions_and_limitations": "分解問題的成功解決是該理論可行的必要條件。此外，充分解釋強湧現的主體如何從弱湧現的現象性質中產生，仍是一項懸而未決的理論挑戰。",
+    "ontological_coherence": "高。該理論在內部一致，主張採納泛心論能夠對意識採取實在論立場，同時與物理論的擴展理解相一致，並為二元論提供一個更簡約的替代方案。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "若意識是物質／能量的內在性質，那麼人工智慧系統的物理組件便具有原意識性質。完整的人工智慧意識能否實現，取決於先進技術能否在人造基質中解決分解問題。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能（希望渺茫）",
+      "rationale": "雖然意識是根本的，但個體、統一、人格意識（巨觀主體）的存續卻充滿挑戰，因為該理論依賴於特定的組織結構（腦）來產生巨觀經驗。成功與否取決於湧現的主體能否在生物機制之外持續存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／終極的",
+      "rationale": "Goff 的能動／目的論宇宙心論蘊含宇宙本身即是一個具有目標導向意圖的有意識心靈，暗示一種終極的、宇宙性的意義與目的。"
+    },
+    "virtual_immortality": {
+      "stance": "有可能",
+      "rationale": "既然物理基質（數位硬體）由根本上有意識的組件（原意識）所構成，那麼只要有意識的組織（解決分解問題）能夠在新介質中被完美複製，虛擬不朽便可達成。 "
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Russellian Monism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Cosmopsychism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批判"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Galileo’s Error: Foundations for a New Science of Consciousness, Philip Goff",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Why? the Purpose of the Universe, Philip Goff",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Putting consciousness first: replies to critics, Philip Goff",
+        "year": 2021
+      }
+    ]
+  }
+}

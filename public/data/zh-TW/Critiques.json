@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "批評理論",
+    "summary": "這一條目代表意識研究中本質性且無處不在的懷疑功能，系統地挑戰一切既有意識理論的解釋融貫性、經驗有效性與形上學假設。它凸顯了持續存在的概念張力，例如解釋鴻溝以及相關性－因果性難題，迫使各理論為其內部一致性與經驗根基作辯護。",
+    "associated_thinkers": [
+      "R.L. Kuhn",
+      "Critics of specific theories (e.g., Hakwan Lau, Scott Aaronson)",
+      "Proponents of Challenge Theories (e.g., Thomas Nagel, Sam Harris)"
+    ],
+    "category": "挑戰理論",
+    "subcategory": "批評／懷疑論",
+    "core_identity_tagline": "本質性的懷疑功能",
+    "classification_tags": [
+      "critique",
+      "skepticism",
+      "meta-problem",
+      "tension",
+      "adjudication"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "批評被認定為對一切相互競爭的意識解釋所固有的解釋性缺陷（如解釋鴻溝、缺乏融貫性、經驗依據不足）進行系統的評估與診斷。",
+    "ontological_status": "知識論／方法論立場（批評主要評估其他理論的知識主張與方法論，而非提出一種正面的存有論。）",
+    "mind_body_relationship": "不適用（作為一種方法論概念，批評分析既有存有論提議——如解決心身問題的種種嘗試——的融貫性，而不提出自身的正面解決方案。）",
+    "primitive_or_emergent_status": "兩者皆非（批評是一種話語性與分析性的實踐，而非實在的一種基礎性性質或湧現過程。）",
+    "emergence_type": "不適用（該概念純屬方法論性質。）",
+    "subjectivity_and_intentionality": "批評常常聚焦於物理論理論未能解釋主觀的第一人稱經驗（主體性）與思想的指向性（意向性），主張純粹定量的模型遺漏了這些面向。",
+    "qualia_account": "評估工具（批評將經驗的質性維度——感質——用作對抗唯物論與化約論解釋的首要挑戰，凸顯「難問題」是一個懸而未決的分析性缺陷。）",
+    "ontological_commitments": "承諾因所部署的具體批評而異；並不存在一種統一的「批評理論」存有論，儘管它往往立足於「當前科學世界觀是不完備或有缺陷的」這一承諾。",
+    "epistemic_access": "概念分析、邏輯一致性檢查、哲學思想實驗（如殭屍、神經生理學家瑪麗），以及對相互競爭的科學典範的比較。",
+    "constituents_and_structure": "概念張力、懸而未決的邏輯衝突，以及固有的知識論侷限（如知識論－存有論之別、相關性－因果性難題）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "所有面向（批評普遍適用於就現象意識、通達意識、自我覺知與能動性所作的一切理論主張。）",
+    "distinctive_mechanism_or_principle": "識別並診斷各理論中的解釋性弊病，如循環論證、不一致，或未能說明感質／主體性。",
+    "dynamics_of_emergence": "不適用（批評是一個用於批判性分析的框架，而非實在中的一個動態過程。）",
+    "location_and_distribution": "話語性／學術性（它在哲學與科學話語內運作，推動對更好解釋的需求。）",
+    "causation_and_functional_role": "其首要功能是智識上的清潔：診斷概念與經驗上的缺陷，而非提出意識的因果機制。",
+    "integration_or_binding": "批評挑戰關於經驗之整合與統一的既有解釋，例如關於資訊整合是在空間上還是時間上得以實現的爭論。",
+    "information_flow_or_representation": "批評常常聚焦於純粹定量或表徵性的解釋在捕捉主觀經驗之質性方面被感知到的解釋侷限。",
+    "evolutionary_account": "不適用（批評本身並非一種演化理論，儘管它評判其他理論的演化可信度。）",
+    "core_claims_and_evidence": [
+      "批評凸顯了心身問題的深刻難解性與神祕性。",
+      "首要挑戰在於未能在邏輯上或經驗上將客觀的物理描述（第三人稱資料）與主觀經驗（第一人稱現象事實）相銜接。",
+      "特定理論（如整合資訊理論）被批評為不可檢驗，或因推廣缺乏必要經驗依據的主張而受批評。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念／哲學分析（依賴於識別支持或反對特定理論的論證中的邏輯與知識論不一致。）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "就特定理論主張而言可檢驗（批評生成明確的挑戰，從而啟動經驗研究計劃，如對抗性協作實驗，以驗證或證偽有針對性的預測。）",
+    "known_empirical_interventions_or_tests": [
+      "對抗性協作實驗（旨在檢驗諸如IIT與全域工作空間理論等相互競爭理論的對立預測）",
+      "用作對抗物理論主張之概念性檢驗的思想實驗（如殭屍論證、知識論證）"
+    ],
+    "criticisms_and_tensions": "批評者認為，過度的懷疑（如給理論貼上偽科學的標籤）是不成比例的，並且對這一尚不成熟的科學領域有害。此外，批評往往在診斷問題的同時並不提供建設性的解決方案。",
+    "open_questions_and_limitations": "終極侷限在於這樣一個問題：意識對人類認知而言是否本質上不可解（神祕論），還是概念上的阻礙僅僅由於當前的解釋約束而是暫時的。",
+    "ontological_coherence": "作為一種元理論工具融貫性高，因為其目的在於分析他者的融貫性，但它並不提供可置於更廣闊形上學圖景中加以評判的內部存有論。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件",
+      "rationale": "批評凸顯了在人工智慧中驗證真正內在覺知的困難，強調計算出的複雜性可能只導致*表面*意識（模擬挑戰），使某些主張不可信。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確定",
+      "rationale": "批評承認，如果高度反常的現象（如可核實的瀕死經驗）得到經驗確證，它們將立即證偽唯物論的生成模型，將理論支持轉向非物理性的存續假說。"
+    },
+    "meaning_and_purpose": {
+      "stance": "診斷終極意義的缺失",
+      "rationale": "批評常常挑戰唯物論與化約論的解釋未能為終極意義或價值提供理據，僅留下人文式的目的自我創造。"
+    },
+    "virtual_immortality": {
+      "stance": "有條件",
+      "rationale": "批評堅持認為，若不解決意識*究竟是什麼*這一形上學難題（例如證明上傳能完美保存第一人稱自我），虛擬永生在概念上仍存在問題且未獲證實。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Meta-Problem of Consciousness",
+        "relationship": "擴展"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批評"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, R.L. Kuhn",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Integrated Information Theory of Consciousness as Pseudoscience, S.M. Fleming et al.",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The mystery of consciousness, S. Harris",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False, T. Nagel",
+        "year": 2012
+      }
+    ]
+  }
+}

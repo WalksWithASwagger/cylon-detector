@@ -1,8 +1,10 @@
 {
   "id_and_class": {
-    "theory_title": "Feser’s Neo-Thomistic, Neo-Aristotelian, Common-Sense Dualism",
+    "theory_title": "費瑟的新多瑪斯主義、新亞里斯多德主義與常識二元論",
     "summary": "這一二元論理論主張，人類理智（抽象概念與推理）是一種非物質的官能，無法被化約為物質過程。它透過倡導回歸亞里斯多德式的常識實在論來解決「難問題」，在該實在論中，感官性質（感質）是外部物質世界的客觀性質，從而消解了由現代那種嚴苛的、量化的物質觀所引發的困境。",
-    "associated_thinkers": ["Edward Feser"],
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
     "category": "二元論",
     "subcategory": "新多瑪斯主義、新亞里斯多德主義、常識二元論",
     "core_identity_tagline": "經由非物質理智與客觀性質而實現的意識",
@@ -69,16 +71,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "相容" },
-      { "name": "Cartesian Dualism", "relationship": "批判" },
+      {
+        "name": "Stump’s Thomistic Dualism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Cartesian Dualism",
+        "relationship": "批判"
+      },
       {
         "name": "Eliminative Materialism/Illusionism",
         "relationship": "批判"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "批判" }
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "批判"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

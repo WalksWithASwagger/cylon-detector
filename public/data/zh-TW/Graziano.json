@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "注意基模理論",
+    "summary": "這一理論主張，當腦建構出一個關於其自身注意力歷程的快速、簡化的內部模型——即注意基模——時，意識便隨之產生。腦錯誤地將這一內部表徵詮釋並報告為一種主觀的、非物理的本質或「自我漫畫」，儘管它根本上是一種計算的產物。",
+    "associated_thinkers": [
+      "Michael Graziano"
+    ],
+    "category": "唯物論",
+    "subcategory": "神經生物學的",
+    "core_identity_tagline": "作為注意力之演化自我漫畫的意識",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "functionalism",
+      "evolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被指認為腦對其自身注意力機制的內部表徵或簡化模型（即注意基模），這是高階思想的一個具體例子。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "意識是一部生物性資訊處理機器（腦）透過評估其內部資料所生成的報告，這意味著心理狀態是計算性的且全然物理的。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性（一種「幽靈般、非物理本質」的感受）是腦的內部注意基模所生成的誤導性報告。意向性被內隱地說明，因為由此產生之模型的首要功能是監測注意力以控制在世界中的行動。",
+    "qualia_account": "意識被描述為一種「自我漫畫」或關於非物理本質的虛幻報告，暗示一種對感質的緊縮論或幻覺論式說明，類似於丹尼特的觀點。",
+    "ontological_commitments": "生物性的腦、資訊處理機制，以及內部表徵（注意基模）。",
+    "epistemic_access": "意識由系統本身透過內省（評估其內部資料）來取用，導致系統宣稱自己有意識，但其真正的計算本質只能透過第三人稱的科學分析（科學）來確定。",
+    "constituents_and_structure": "一個為監測並調節腦自身注意力機制而發展出的計算模型或表徵（注意基模）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象（作為一種生成的內部報告／宣稱）、注意力、行動控制。",
+    "distinctive_mechanism_or_principle": "建構並維持一個關於注意力歷程的簡化內部模型（注意基模），其根基來自控制工程的原理。",
+    "dynamics_of_emergence": "意識是一種動態的、演化而來的特徵，源於一種生成內部注意基模的計算策略。",
+    "location_and_distribution": "定位於腦這一生物性資訊處理系統之內。",
+    "causation_and_functional_role": "注意基模的功能角色是監測並調節腦的注意力，以控制在世界中的行動。由此產生的能力使系統得以宣稱自己有意識。",
+    "integration_or_binding": "將感官資料整合進注意基模的確切機制在來源中並未詳述，但該理論蘊含著監測並調節整體注意力所必需的整合。",
+    "information_flow_or_representation": "資訊處理居於核心；腦必須藉由發展出一個關於其自身狀態的簡化表徵（注意基模）來處理大量湧入的資訊。",
+    "evolutionary_account": "意識這一特徵的演化是為了提供適應性利益：監測並調節注意力以高效地控制在環境中的行動。",
+    "core_claims_and_evidence": [
+      "腦發展出一個關於其自身注意力歷程的「快速而粗略的模型」（注意基模）。",
+      "腦將這一內部模型報告為一種「幽靈般、非物理的本質」或「自我漫畫」。",
+      "宣稱自己有意識的能力立基於源自控制工程的計算。"
+    ],
+    "basis_of_belief_or_evidence_type": "神經生物學的、計算的、演化的、哲學的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "該理論解釋了一個系統如何能*宣稱*自己有意識，但面臨與類似功能論模型共通的一般侷限：無法確鑿地證明或解釋實際的主觀感受（「是否有人在家」的問題），即便依提倡者自己的承認，這仍永遠不確定。",
+    "open_questions_and_limitations": "系統由於依賴內省，無法在內部確定其對意識的宣稱純粹是基於計算。外部觀察者也永遠無法真正得知系統中是否存在內在經驗。",
+    "ontological_coherence": "在唯物論框架內高度融貫，與其他功能論及計算進路一致，能夠在不訴諸非物理實體的情況下解釋對意識的宣稱。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "由於意識被定義為一種計算歷程（注意基模的創造），原則上，實現必要計算架構的人造系統便可能成為有意識的。此外，觀察者將不可避免地對行為表現得像有意識的、足夠複雜的人工智慧系統做出意識的社會歸屬。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種唯物論／神經生物學理論，意識綁定於物理基質（生物性的資訊處理機器），排除了在身體衰亡後存續的可能。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本的",
+      "rationale": "意識提供一種適應性的、演化上的目的（監測並調節注意力以控制行動），但並不蘊含任何終極或宇宙性的意義，這與唯物論一致。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "若意識被實現為一種計算結構（注意基模），且若這一結構與相關的資訊處理系統能被準確地上傳至非生物介質，那麼虛擬不朽在理論上是可能的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "相容"
+      },
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "相容"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "True nature of consciousness: solving the biggest mystery of your mind, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rethinking Consciousness: A Scientific Theory of Subjective Experience, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Can consciousness be non-biological?, M. Graziano",
+        "year": 2014
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "意識的高階理論",
+    "summary": "高階理論（HOT）主張，使一個知覺成為有意識的，是伴隨而生、關於該知覺的認知狀態之存在。此機制是一個兩層過程，其中現象意識是對第一階知覺或心理狀態的較高層感知。",
+    "associated_thinkers": [
+      "Peter Carruthers",
+      "David Rosenthal",
+      "Joseph LeDoux",
+      "Hakwan Lau"
+    ],
+    "category": "唯物論",
+    "subcategory": "表徵的",
+    "core_identity_tagline": "意識作為高階表徵",
+    "classification_tags": [
+      "representation",
+      "cognitive",
+      "two-level process",
+      "inner-sense theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象意識被認定為指向某個第一階心理狀態或知覺的較高層感知或表徵（一個認知狀態或思想）。",
+    "ontological_status": "化約性物理論／功能論（理由：作為一種唯物論理論，它將意識化約為由大腦所實現的功能／認知過程，通常以心理主義的措辭來表述。）",
+    "mind_body_relationship": "意識透過兩個心理層次（第一階與第二階狀態）之間的因果關係而產生，兩者皆完全由大腦中的物理過程所實現。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現（理由：作為一種核心的唯物論理論，意識被認為原則上可化約，即使這種化約是以心理主義或功能性的措辭、而非直接的神經生理學來表述。）",
+    "subjectivity_and_intentionality": "當第一階狀態成為某個第二階思想的對象時，主體性便產生，賦予一種「看似如此」或自我覺知的面向。意向性運作於兩個層次：第一階（關於世界）與第二階（關於第一階狀態）。",
+    "qualia_account": "感質，或稱現象特徵，是透過伴隨而生、關於該知覺的高階認知狀態之存在來說明，旨在以心理主義的措辭化約性地解釋現象意識。",
+    "ontological_commitments": "第一階心理狀態（知覺／感覺）、第二階認知狀態（思想／表徵），以及實例化這些表徵的複雜皮質網絡（例如前額葉皮質）。",
+    "epistemic_access": "可透過內省來通達（因為有意識的狀態就是我們覺知到的狀態），也可透過對認知架構及相關神經激活模式的第三人稱建模來通達（例如知覺實在監控）。",
+    "constituents_and_structure": "一種兩層的處理結構，由第一階表徵（感覺資訊）與指向這些第一階狀態的第二階認知表徵（思想或知覺）所構成。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識；自我覺知（作為對自身狀態的覺知）；情緒意識（在 LeDoux 的變體中）。",
+    "distinctive_mechanism_or_principle": "一個伴隨而生的認知或後設狀態（高階表徵或思想）之存在，它針對某個較低層的心理狀態，從而將其由無意識轉化為有意識。",
+    "dynamics_of_emergence": "意識是一種動態的、過程性的現象，源於感覺表徵與監控性認知結構之間的兩層關係（例如實現論高階理論中的實際因果，或傾向論高階理論中的可取用性）。",
+    "location_and_distribution": "主要定位於與高階認知功能及後設認知相關的皮質區域，例如前額葉皮質（PFC），這與「後腦」理論形成對比。",
+    "causation_and_functional_role": "高階狀態賦予較低層狀態以意識（實現論高階理論）。其功能作用通常是使第一階知覺的內容可供彈性的認知處理與報告所取用。",
+    "integration_or_binding": "整合被假定會發生，或許是隱含地透過統一的高階表徵所促成的功能整合，或是透過連結各知覺表徵的記憶機制（如 Lau 的變體中所指出的）。",
+    "information_flow_or_representation": "意識是透過資訊流的達成，其結果是表徵的表徵（第二階表徵），對第一階感覺輸入進行「標記」或歸類。",
+    "evolutionary_account": "有意識的機制由更簡單的過程演化而來，可能透過以皮質為基礎的一般認知網絡，使複雜的情緒體驗與以自我為中心的覺知得以實現。",
+    "core_claims_and_evidence": [
+      "現象意識由一個關於知覺的認知狀態所中介（兩層過程）。",
+      "有意識的狀態透過高階表徵的存在，與無意識狀態相區別。",
+      "盲視的解釋在於：存在一個第一階表徵，卻沒有對應的高階表徵。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的（解釋有意識／無意識之區別）、認知的、神經科學建模（例如盲視研究）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "經驗上可檢驗（尤其是關於第一階處理與皮質中對應的高階活動之間的差異）。",
+    "known_empirical_interventions_or_tests": "經驗證據常透過比較有意識與無意識的知覺（如盲視）來尋求，以檢驗所需的高階表徵是否存在或活躍。",
+    "criticisms_and_tensions": "此理論因難以指明高階思想與第一階知覺之間、賦予意識所需的確切關係而受批評，導致內容描述上的不充分。「雙重表徵」進路被視為在概念上令人費解。",
+    "open_questions_and_limitations": "高階狀態與第一階知覺之間、意識得以產生所必須具備的關係，其確切本質仍是懸而未決的問題。它也面臨關於感質之解釋鴻溝的普遍反駁。",
+    "ontological_coherence": "在物理論／唯物論與功能論的存有論內高度融貫，依賴於表徵與認知狀態等科學上易於處理的概念。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "作為一種立基於認知與表徵結構的唯物論理論，意識根本上是可計算的或功能性的，這意味著能夠進行自我監控並形成高階表徵的先進人工智慧系統可能達成意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全由複雜的、以皮質為基礎的大腦機制所實現；因此，它無法在生物基質瓦解後存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人文主義的",
+      "rationale": "意識源於湧現的生物過程，提供了自我反思與能動性，但並不蘊含任何終極的宇宙目的論，這與唯物論的消解性立場一致。"
+    },
+    "virtual_immortality": {
+      "stance": "有可能",
+      "rationale": "若意識完全由表徵性與功能性關係所界定，那麼將這些複雜的認知狀態完美複製並上傳至非生物介質，就應當能保存第一人稱的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "相容"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "延伸"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Higher-Order Theories of Consciousness, Peter Carruthers",
+        "year": 2020
+      },
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, Joseph LeDoux and Richard Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      }
+    ]
+  }
+}

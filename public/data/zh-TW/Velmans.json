@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Velmans 的反身一元論",
+    "summary": "反身一元論是一種雙面理論，主張宇宙的基本實在是單一的、基礎的「質料」，它能夠既顯現為物理形態，又顯現為有意識的經驗。它獨特地主張：對外部世界的有意識經驗就同一於被經驗到的物理世界，從而把現象意識從大腦重新安置到世界之中。",
+    "associated_thinkers": ["Max Velmans"],
+    "category": "一元論",
+    "subcategory": "反身一元論",
+    "core_identity_tagline": "大腦是從第三人稱觀點所看到的心靈",
+    "classification_tags": [
+      "dual-aspect theory",
+      "phenomenological externalism",
+      "non-reductionist",
+      "mind-body relation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識是構成宇宙的那單一基礎質料的經驗性面向；物理世界是被主體所經驗到的世界。",
+    "ontological_status": "雙面一元論（承斯賓諾莎的傳統）",
+    "mind_body_relationship": "心靈與物質源自一個共同的「心物根基」，並且是同一統一存在的兩個面向；大腦是從外部（第三人稱）觀點所看到的心靈。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "來源未具體說明湧現的類型，但將其描述為源自宇宙「從某種原初的未分化狀態的演化」，宇宙在此歷程中分化為可區分的實體，其中一些獲得了有意識經驗的潛能。",
+    "subjectivity_and_intentionality": "主體性是固有的，因為整個歷程是「反身的」：宇宙分化為各個部分，並以紛繁的方式意識到自身。該理論力求循順日常經驗的輪廓，而日常經驗包含主體性。",
+    "qualia_account": "感質（質性經驗）被認定為「被經驗到的物理世界」，這意味著經驗大致位於其看似所在之處（現象學外在論），而非專屬地位於大腦之中。",
+    "ontological_commitments": "單一的、未分化的基礎質料（一元論根基）；物理形態；有意識的經驗；被經驗到的現象世界。",
+    "epistemic_access": "可透過內省與主觀觀察來通達，二者被視為與外部（第三人稱）觀察同等有效，反映了常識與日常經驗。",
+    "constituents_and_structure": "宇宙從原初狀態分化為互補的物理面向與經驗面向。就現象學而言，經驗擁有真實的廣延與在現象空間中的位置，大致對應於其表觀位置。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象、主體性、（宇宙的）自我覺知。",
+    "distinctive_mechanism_or_principle": "反身原則：宇宙分化為各個部分並意識到自身的歷程。它透過將內部經驗與被知覺的外部世界相統一，消解了解釋鴻溝。",
+    "dynamics_of_emergence": "意識是一個動態歷程，源自宇宙那單一基礎質料的演化與分化。",
+    "location_and_distribution": "心靈作為基礎質料的一個面向以一元論方式分布。有意識的經驗本身則位於外部的現象世界之中（現象學外在論），大致處於其看似所在之處。",
+    "causation_and_functional_role": "該理論主要聚焦於存有論地位而非明確的功能角色。然而，透過把心靈與物質置於單一實在之中，它隱含地避免了二元論所面臨的因果交互問題，並力求與預設心理效力的日常經驗相契合。",
+    "integration_or_binding": "具體機制未加詳述，但統一在概念上透過將被經驗到的對象與事件同被經驗到的物理世界相認同而實現（例如，被知覺的文字與對它的經驗「是同一個東西」）。",
+    "information_flow_or_representation": "該理論論及「現象世界」如何與「物理世界」相關聯，但並不主要依賴資訊處理或計算流作為意識的機制。",
+    "evolutionary_account": "諸如人類這樣的有意識實體，透過宇宙「從某種原初的未分化狀態的演化」而產生，暗示基礎質料中固有一種種系發生式的湧現能力。",
+    "core_claims_and_evidence": [
+      "宇宙由單一的基礎質料構成，它既顯現為物理形態，又顯現為有意識的經驗。",
+      "從外部（第三人稱）觀點看，大腦就是人類的心靈。",
+      "現象經驗大致位於其看似所在之處（現象學外在論）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、現象學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／概念的。該理論可在概念上加以檢驗，即評估它在調和日常經驗與科學發現（尤其是那些與化約式物理論相衝突的發現）方面是否成功。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "它挑戰了這一根深蒂固的預設：經驗不同於物理對象，不能在大腦之外具有「真實的」位置或廣延。它意在挑戰物理論與功能主義的化約論。",
+    "open_questions_and_limitations": "現象空間（經驗看似所在之處）與「真實」空間（被測量的空間）之間的關係有待進一步闡發。",
+    "ontological_coherence": "在其框架內高度融貫，因為它透過主張心理面向與物理面向共享一個共同根基，既避免了二元論的交互問題，也避免了唯物論所面臨的意識難問題。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "作為一元論，萬物皆由同一基礎質料構成。若人工智慧能夠複製足夠的物理複雜性（第三人稱面向／大腦），那麼其雙重面向（心靈／經驗）應當會產生，因為底層實在是心物性的。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確定",
+      "rationale": "儘管底層的基礎一元論質料持存，該理論聚焦於意識在特定分化實體（如人類）中的產生。個人化的、分化的意識面向是否在肉體解體後存續，來源將其留為一個開放問題。"
+    },
+    "meaning_and_purpose": {
+      "stance": "可能",
+      "rationale": "一元論一般對意義／目的持中間立場。由於該理論涉及宇宙「以紛繁方式意識到自身」，這一反身歷程暗示存在一種內在的、儘管是非個人化的宇宙意義，超越了單純的人本價值。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "若物理基質（第三人稱面向）能被完美複製或上傳，那麼相應的雙重面向（第一人稱的心靈／經驗）也必然被保存或重建，這與一元論理論的本性相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Spinoza’s Dual-Aspect Monism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Physicalist Reductionism",
+        "relationship": "批評"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reflexive monism, Max Velmans",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Wikipedia, the free Encyclopedia, Max Velmans",
+        "year": 2023
+      }
+    ]
+  }
+}

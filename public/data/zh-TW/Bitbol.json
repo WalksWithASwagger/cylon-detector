@@ -1,0 +1,113 @@
+{
+  "id_and_class": {
+    "theory_title": "Bitbol 的激進神經現象學",
+    "summary": "此理論主張，透過優先看待親歷經驗相對於任何客觀說明的實際首要性，來激進地消解意識的難問題。它認為神經科學資料與現象描述在存有論上是等價的，兩者皆源自身體與意識之間的「糾纏辯證法」，而非意識從根本上依賴於大腦。",
+    "associated_thinkers": [
+      "Michel Bitbol",
+      "Francisco Varela"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "具身與生成",
+    "core_identity_tagline": "親歷經驗的實際首要性",
+    "classification_tags": [
+      "phenomenology",
+      "embodiment",
+      "non-reductive",
+      "dissolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識即親歷經驗的實際首要性，將實在界定為被給予且顯現之物，而客觀性正是以此為條件、透過提取結構不變量而構成的。",
+    "ontological_status": "現象學存有論／非標準一元論。它對客觀的外部領域懸置判斷，並致力於邁向一種「內存有論」（一種介入式的存有之存有論），而非客觀實在。",
+    "mind_body_relationship": "一種「身體與意識的糾纏辯證法」，或曰「動態而參與式的構想」。神經—現象學的相關性被視為具身之親歷感受的一種延伸，而非對大腦單向依賴的表徵。",
+    "primitive_or_emergent_status": "實際上首要的／根本的。此進路將焦點從尋求主體性的物理*起源*，轉向承認其作為知識之前提條件的不可化約地位。",
+    "emergence_type": "消解。此理論旨在透過改變對待難問題的根本態度而將其徹底消解，從而使傳統的湧現概念變得無關緊要。",
+    "subjectivity_and_intentionality": "主體性（第一人稱觀點／親歷經驗）居於核心且首要。意向性被構想為意識在構成或揭示世界及其客體時的活動。",
+    "qualia_account": "感質，或曰純粹經驗，是根本的；此進路旨在消除那種認為其起源需要一個理論性、客觀性解決方案的感覺。對經驗的現象學描述被賦予與神經科學資料同等的存有論地位。",
+    "ontological_commitments": "親歷經驗、具身性、梅洛-龐蒂的「內存有論」（自我顯現的存有），以及瓦雷拉的「控制論辯證法」形式體系。",
+    "epistemic_access": "第一人稱探究（經由對親歷經驗的忠實探索，具體是透過微觀現象學訪談）與第三人稱客觀探究並行。前者被優先用於終極的理解。",
+    "constituents_and_structure": "此進路聚焦於闡明客觀化如何從主觀經驗的協調中獲致，並運用一種「控制論辯證法」形式體系來刻畫身體與意識之間的關係。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（純粹經驗）、主體性、自我覺知（在現象學上加以界定）。",
+    "distinctive_mechanism_or_principle": "對難問題的激進消解，透過將此問題從一個關於客觀起源的理智謎題，重新安置到存在態度與自我轉化的層面上而達成。",
+    "dynamics_of_emergence": "以對客觀判斷的懸置以及將注意力重新導向構成客體之活動為特徵的動態過程。身體與意識之間的關係被構想為動態而參與式的。",
+    "location_and_distribution": "其位置分布於「具身之親歷感受」以及身體與意識之間的糾纏辯證法之中，拒斥意識從根本上僅僅依賴於身體大腦的觀念。",
+    "causation_and_functional_role": "意識充當客觀性之可能性的條件。透過發展對主觀經驗的探究，客觀化的機制（從經驗中提取結構不變量）得以闡明。",
+    "integration_or_binding": "整合透過將現象學說明與神經生物學說明編織在一起、以彌合主觀經驗與生物學之間的鴻溝而達成，從而實現神經現象學的目標。",
+    "information_flow_or_representation": "此理論聚焦於構成客體的第一人稱活動，並不賦予神經科學資料／表徵以更高的地位。它旨在闡明客觀化（結構不變量）如何從被給予的經驗中產生。",
+    "evolutionary_account": "源材料聚焦於形上學的消解與現象學，而非提供詳盡的系統發生解釋。",
+    "core_claims_and_evidence": [
+      "難問題的標準物理論表述生成了一個「假神秘」。",
+      "親歷經驗的實際首要性為所有其他關於意識的說明設定條件。",
+      "神經科學資料與現象學描述擁有同等的存有論地位。",
+      "證據源自旨在忠實探索親歷經驗的方法論（微觀現象學訪談）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、現象學的、方法論的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上與方法論上皆可檢驗。它依賴於發展嚴謹的第一人稱探究（微觀現象學訪談），後者回應了針對內省的種種反對意見。",
+    "known_empirical_interventions_or_tests": [
+      "微觀現象學訪談（探索親歷經驗的方法論）"
+    ],
+    "criticisms_and_tensions": "此進路冒著「要麼被忽視、要麼被視為一種迴避」的風險，因為它要求研究者放棄中立觀察者的立場並尋求自我轉化。它拒斥標準的物理論一元論與性質二元論。",
+    "open_questions_and_limitations": "困難在於說服研究者懸置對主體性起源的客觀追尋，轉向一種要求極高的存在式探究模式。",
+    "ontological_coherence": "內部高度融貫，與梅洛-龐蒂的「內存有論」以及非詮釋性的量子進路（QBism）相契合。它與化約式物理論明確不一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定／有條件的",
+      "rationale": "意識需要一種「身體與意識的糾纏辯證法」以及對親歷的、主觀的經驗的優先看待，而這些一般與標準人工意識模型所要求的純粹客觀／計算說明相牴觸。意識從根本上並非計算性的。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能",
+      "rationale": "此進路拒斥意識對身體大腦單向的、根本性的依賴，將神經—現象學的相關性視為具身性的延伸。這一概念空間暗示非物理論式的存續或許是可能的，尤其考量到該框架被用於詮釋意識的變異狀態。"
+    },
+    "meaning_and_purpose": {
+      "stance": "存在的／哲學的",
+      "rationale": "此進路將難問題轉化為一種「存在選擇」，並聚焦於梅洛-龐蒂的「內存有論」（作為某物之感受的過程），暗示意義內在地繫於親歷的存有與自我揭示。"
+    },
+    "virtual_immortality": {
+      "stance": "不太可能",
+      "rationale": "虛擬永生依賴於功能論式的複製，但此理論主張「親歷經驗的實際首要性」與具身性。上傳客觀資料很可能會遺漏身份保存所必需的、不可化約的主觀存有模式（內存有論）。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Varela’s Neurophenomenology",
+        "relationship": "影響"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "批評（更為激進的消解）"
+      },
+      {
+        "name": "Merleau-Ponty's Phenomenology",
+        "relationship": "影響"
+      },
+      {
+        "name": "Physicalist Monism",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The tangled dialectic of body and consciousness: a metaphysical counterpart of radical neurophenomenology",
+        "year": 2021
+      },
+      {
+        "title_with_names": "On the too often overlooked radicality of neurophenomenology",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Neurophenomenology and the micro-phenomenological interview",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Review of waking, dreaming, being: Self and Consciousness in neuroscience, meditation, and philosophy by evan Thompson",
+        "year": 2015
+      }
+    ]
+  }
+}

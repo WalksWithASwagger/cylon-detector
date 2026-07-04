@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Bach 的皮質指揮家理論",
+    "summary": "此理論對現象意識給出了一種功能性解釋，主張皮質結構——尤其是一個被稱為“指揮家”的計算實體——透過獎勵驅動的學習受到訓練，以調控大腦活動。意識被認定為對曾擁有某段經驗的重構記憶，並被整合進一套用於反思與學習的協議之中。",
+    "associated_thinkers": [
+      "Joscha Bach"
+    ],
+    "category": "唯物論",
+    "subcategory": "神經生物學",
+    "core_identity_tagline": "意識即最近的記憶",
+    "classification_tags": [
+      "functionalism",
+      "memory",
+      "computation",
+      "reflection",
+      "attention"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象意識在功能上被認定為前額葉皮質所關注對象的最近記憶，它透過指揮家的協議被儲存並重新生成。經驗本身的實際性被視為無關緊要。",
+    "ontological_status": "物理論／唯物論（作為一種植根於大腦計算結構的意識功能論模型）。",
+    "mind_body_relationship": "意識狀態由皮質內特定的計算結構（指揮家及其整合的協議）所實現，體現出一種與唯物論一致的功能實現／同一關係。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現（意識狀態完全可由底層皮質機制及獎勵驅動學習的功能與結構來解釋和推導。）",
+    "subjectivity_and_intentionality": "“指揮家”引導注意，並將各種處理過程整合進一套用於反思、生成融貫自我模型的協議之中，從而解釋了主體性與意向性。",
+    "qualia_account": "感質（現象意識）在功能上被理解為對曾擁有某段經驗的記憶或重構，反映在指揮家的協議之中。",
+    "ontological_commitments": "皮質結構、計算結構（“指揮家”）、獎勵驅動的學習訊號，以及整合的資訊協議。",
+    "epistemic_access": "意識透過指揮家對整合協議的反思而被通達。",
+    "constituents_and_structure": "指揮家在功能上被認定為一種計算結構，很可能與背外側前額葉皮質、前扣帶皮質及前腦島相關，它透過生成一套反思協議而充當核心的融貫機制。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（定義為對經驗的記憶）；通達意識；反思；自我覺知（作為融貫的自我模型）。",
+    "distinctive_mechanism_or_principle": "“指揮家”這一計算結構經由獎勵驅動的學習受到訓練，調控其他皮質功能，並將所關注的資訊整合進一套協議之中。",
+    "dynamics_of_emergence": "意識是一個動態過程，源自指揮家的訓練與持續運作，表現為不斷更新、可重構的記憶協議。",
+    "location_and_distribution": "在功能上定位於大腦的調控系統，很可能涉及背外側前額葉皮質、前扣帶皮質及前腦島。",
+    "causation_and_functional_role": "指揮家提供執行功能、引導注意並整合經驗。意識本身則使核心融貫以及反思／學習得以可能。",
+    "integration_or_binding": "指揮家是經驗被整合進協議的唯一場所，由此提供核心融貫。",
+    "information_flow_or_representation": "資訊流由指揮家調控並整合進一套協議。現象意識涉及透過所儲存的連結與參數（記憶）重新活化該協議。",
+    "evolutionary_account": "支撐指揮家功能的皮質結構是獎勵驅動學習的產物，提示出一條具適應性的演化路徑。",
+    "core_claims_and_evidence": [
+      "意識是一種基於名為“指揮家”的計算結構的功能性解釋。",
+      "現象意識是指揮家所關注對象的最近記憶。",
+      "指揮家將經驗整合進一套用於反思與學習的協議之中。",
+      "缺少指揮家的大腦將如同“夢遊者”一般運作，缺乏核心融貫與反思。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算的、功能論的、認知科學的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗／可建模（由與計算結構及皮質結構相關聯的必要與充分條件所界定）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要張力在於將現象意識僅僅定義為對經驗的記憶，透過宣稱經驗本身的實際性無關緊要而迴避了難問題。",
+    "open_questions_and_limitations": "此理論嚴重依賴一種功能性定義，迴避了對“它是什麼樣”這種經驗之內在質性本質的解釋，轉而聚焦於對其可通達之記憶。",
+    "ontological_coherence": "在功能論與唯物論範式內高度融貫，提供了一種植根於計算神經生物學、雖屬緊縮論但頗為全面的解釋。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "Bach 對人工智慧意識持樂觀態度，因為將意識在功能上定義為對經驗的記憶，簡化了它在具備計算與報告該記憶能力的人工系統中的實現。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "作為一種將意識關聯於特定皮質與計算結構（指揮家）的唯物論理論，當物理基質失效時意識即告終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人本主義的／派生的",
+      "rationale": "作為一種唯物論理論，它暗示不存在終極的宇宙意義。意義與目的是內部派生的，經由指揮家創建融貫自我模型、並基於獎勵驅動學習引導執行功能的能力而產生。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "由於意識被定義為源自某種計算結構的資訊協議／記憶，將這一功能狀態完美複製並上傳至非生物介質，理應帶來虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "相似／相容"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "相似／相容"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "對比（皮質指揮家理論屬功能論，與整合資訊理論的結構性定義不同）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The cortical conductor theory: towards addressing consciousness in AI models, Joscha Bach",
+        "year": 2019
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Pockett 的有意識與無意識型態",
+    "summary": "這一電磁場理論主張，意識經驗與大腦所生成的特定電磁型態相同一。它強調意識是一種物理之物——一種空間性的電磁型態——而非神經過程，因此需要為意識型態的特定三維形狀給出定義。",
+    "associated_thinkers": ["Susan Pockett"],
+    "category": "唯物論理論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "「意識即空間性電磁型態」",
+    "classification_tags": [
+      "electromagnetic field",
+      "materialism",
+      "identity theory",
+      "neurobiological",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為大腦所生成的空間性電磁（EM）型態或「物」，並明確主張意識經驗與某些電磁型態之間具有同一性。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一論。意識經驗字面上與某些電磁型態相同一。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現。意識興起自持續進行的無意識處理，這意味著其屬性原則上可化約為底層的物理／電磁學，儘管在源材料中這是隱含的，而非明確表述為弱湧現。",
+    "subjectivity_and_intentionality": "未予明確詳述，因為其焦點在於意識型態的客觀物理本性（三維形狀），而非感受或意向性的主觀過程。",
+    "qualia_account": "感質對應於由意識電磁型態獨特的三維形狀所決定的特定質性特徵。",
+    "ontological_commitments": "物理電磁場（EM）、神經濕件，以及電磁場中截然不同的三維幾何型態。",
+    "epistemic_access": "透過對電磁場特徵的物理測量與建模而通達，並可能對有意識與非意識場之間差異的可檢驗假設進行檢驗。",
+    "constituents_and_structure": "由哺乳動物大腦中持續進行的無意識處理所生成的空間性電磁型態，以特定、獨特的三維形狀為特徵。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識",
+    "distinctive_mechanism_or_principle": "意識的界定性特徵在於大腦電磁場（EM 型態）內存在一種特定的三維形狀或特徵，使其有別於一切非意識的電磁活動。",
+    "dynamics_of_emergence": "動態過程／狀態。意識由持續進行的無意識處理（一個過程）所生成，但在任一給定時刻卻以一種所得的靜態型態（一個物）而存在。",
+    "location_and_distribution": "作為在哺乳動物大腦中特定時間與地點所生成的特定空間性電磁型態而侷限定位。",
+    "causation_and_functional_role": "未予明確詳述。其角色是位置性與辨識性的（意識*即是*該型態），儘管隱含地與大腦功能相繫，並否認意識作為一種主要過程（如焦點注意）的觀念。",
+    "integration_or_binding": "未予明確處理，但透過把意識辨識為單一統一的電磁型態而隱含地獲得解決。",
+    "information_flow_or_representation": "大腦中的資訊處理是無意識的。意識則是由這種無意識處理所生成的所得電磁型態。",
+    "evolutionary_account": "未予明確處理，但湧現取決於能夠生成必要電磁場特徵的大腦結構。",
+    "core_claims_and_evidence": [
+      "意識經驗與大腦所生成的特定電磁型態相同一",
+      "意識是一種物（空間性電磁型態），而非過程",
+      "認為某些神經處理是有意識的這一錯覺，主要源於未能把意識與無意識過程（如焦點注意）區分開來"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學論證，結合關於大腦場之幾何的潛在經驗可檢驗性。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗",
+    "known_empirical_interventions_or_tests": "其底層前提是一個可檢驗的假設，關於指明區分有意識與非意識電磁場的三維特徵。",
+    "criticisms_and_tensions": "該理論根本上與認知心理學的主流觀點——即意識是一種過程（功能論教條）——相牴觸。首要挑戰是嚴謹地界定構成意識型態的特定三維空間特徵。",
+    "open_questions_and_limitations": "刻畫意識電磁場之特徵的確切三維形狀或型態仍未獲指明，使意識的必要且充分條件不明。",
+    "ontological_coherence": "在擴展的物理論框架內高度融貫，以一種本身已是神經活動產物的物理基質（電磁場）來界定意識。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "意識電磁型態原則上可由專門硬體、而非生物濕件所生成，前提是該硬體能夠複製所需的場特徵。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識與物理大腦所生成的特定電磁型態相同一。在生物死亡與大腦消解之時，這些型態便不復存在。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本",
+      "rationale": "作為一種純粹唯物論與物理論的理論，它意味著意識儘管是一種真實的物理現象，卻不為超出人類經驗所創造之外的宇宙目的或終極價值提供任何證據。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "如果構成意識的電磁型態能夠被完美測量並由非生物硬體複製或模擬，那麼第一人稱自我理論上便可在新的介質中持存。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McFadden’s Conscious Electromagnetic Information Theory",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Jones’s Electromagnetic Fields",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The electromagnetic field theory of consciousness",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Consciousness is a thing, not a process",
+        "year": 2017
+      }
+    ]
+  }
+}

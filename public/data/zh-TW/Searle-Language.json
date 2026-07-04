@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "瑟爾的語言與意識",
+    "summary": "瑟爾主張，語言對人類意識至關重要，它塑造並豐富著有意識的經驗 。這種關係被視為一種演化上的「自舉效應」，其中前語言的意識使語言成為可能，而語言反過來又精細化了意識的結構 。",
+    "associated_thinkers": ["John Searle"],
+    "category": "唯物論",
+    "subcategory": "語言關係",
+    "core_identity_tagline": "「作為意識之增強者與塑造者的語言」",
+    "classification_tags": [
+      "language",
+      "intentionality",
+      "biological naturalism",
+      "symbolic communication"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為真實的、主體性的、質性的覺知狀態，它由大腦中的生物神經元過程所導致，並在其中得以實現 。語言隨後作為一種機制發揮作用，用以創造並結構化複雜的、高階的意識內容 。",
+    "ontological_status": "物理論／生物自然主義（意識是大腦的一種在存有論上不可化約的、主體性的生物學特徵） ",
+    "mind_body_relationship": "有意識的狀態作為由較低層級大腦過程所導致的較高層級系統特徵，在大腦中得以實現 。心靈在存有論上是不可化約的（主體性的），但在因果上可化約為大腦 。語言能力極大地擴展了得以實現的心理狀態的範圍 。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "系統性／生物學湧現（意識是一種由神經元組織所導致的較高層級特徵 。它被視為自然世界的一部分，如同消化或光合作用 。）",
+    "subjectivity_and_intentionality": "意識在存有論上是主體性的，僅作為被某個主體所經驗之物而存在 。語言使複雜的、符號性的意向狀態（例如報繳所得稅或寫詩）成為可能，而這些是非語言動物所不具備的，儘管動物擁有基本的意向狀態 。",
+    "qualia_account": "有意識的狀態是質性的；它們擁有一種內在的「質性感受」（感質） 。這些質性狀態是真實的、主體性的、且在存有論上不可化約的，但它們在因果上由大腦所產生 。語言塑造並豐富著這些有意識的經驗 。",
+    "ontological_commitments": "生物學的大腦、神經元過程、具有因果效力的意識狀態（作為真實的、主體性的、較高層級的系統特徵），以及語言／符號結構 。",
+    "epistemic_access": "透過第一人稱的主觀經驗（現象學）來通達  ，並透過對導致並實現意識的大腦過程所進行的第三人稱科學考察來加以研究 。",
+    "constituents_and_structure": "意識作為大腦的系統特徵而得以實現 。語言為意識提供了一種精巧的結構，使複雜思維得以透過內部句法來重排符號 。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、意向性、自我覺知（尤其是由語言所使能的高階自我覺知） 。",
+    "distinctive_mechanism_or_principle": "演化上的「自舉效應」，其中前語言的意識催生了語言能力，語言能力隨後透過符號結構與內部句法遞歸地豐富並複雜化了意識 。",
+    "dynamics_of_emergence": "動態過程。意識與語言的演化是一種持續的、相互強化的複合效應 。",
+    "location_and_distribution": "完全定位於生物學的大腦之中 。",
+    "causation_and_functional_role": "有意識的狀態具有因果效力 。語言使複雜的、抽象的規劃與符號思維成為可能，賦予了巨大的認知能力，並結構化著有意識的經驗 。",
+    "integration_or_binding": "隱含地透過語言所產生的意識精巧結構來實現，從而使複雜的符號思維得以經由「內部句法」得到統一的處理 。",
+    "information_flow_or_representation": "語言促進了符號表徵在一種內部句法中的重排，從而支撐那些需要抽象地表徵資訊的複雜認知任務（例如使用數字或複雜的假設情形） 。",
+    "evolutionary_account": "意識先於符號語言（這可由動物身上的意向狀態得到佐證） 。人類意識與語言透過一個正回饋迴路（自舉效應）協同演化 。",
+    "core_claims_and_evidence": [
+      "語言深刻地塑造並豐富著人類意識的內容與結構 。",
+      "非語言動物由於缺乏內部句法，無法擁有某些複雜的、符號性的有意識經驗 。",
+      "有意識的狀態在存有論上不可化約，但在因果上由較低層級的大腦過程所決定 。",
+      "對於語言中對我們最為重要的那些部分而言，意識至關重要 。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、概念的、神經生物學的（對底層大腦因果作用的假設） 。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗（理據：作為一種基於生物自然主義的唯物論理論，特定神經過程、語言能力與由此產生的複雜意識狀態之間的因果關係應當可透過神經科學加以檢驗，儘管檢驗存有論上的不可化約性是複雜的） 。",
+    "known_empirical_interventions_or_tests": "隱含地依賴於一般的神經生物學與語言學證據 。（文獻中未詳述專屬於語言理論方面的具體經典檢驗。）",
+    "criticisms_and_tensions": "因生物自然主義更為寬泛的主張而受到批評，尤其是在肯定因果化約論的同時又堅持存有論上的不可化約性 。模擬與生物因果作用之間的區分也備受爭議（例如中文房間論證） 。",
+    "open_questions_and_limitations": "大腦過程生成意識的確切機制仍然未知 ，這限制了對語言如何結構化這一湧現屬性的解釋 。",
+    "ontological_coherence": "在瑟爾的唯物論框架（生物自然主義）內是一致的 ，但在同時主張物質因果性與意識的存有論不可化約性方面面臨內部張力 。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件的",
+      "rationale": "拒斥單純的模擬（計算）能夠實現類似人類的意識（中文房間） 。然而，如果我們製造出一台複製了大腦必要的生物學／因果過程的人工機器，它在原則上便可以是有意識的 。語言的核心地位可能使人工智慧意識更有可能實現，只要先進的語言系統複製出至關重要的內部句法 。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識是一種由大腦所導致並在其中得以實現的生物學特徵 。當生物學基質消解時，它便終止 。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人文意義",
+      "rationale": "作為一種唯物論理論，它無法在宇宙層面為終極意義或目的賦予理性根據 。意識經由語言的增強，使人類得以生成他們自己的意義、目的以及複雜的能動性 。"
+    },
+    "virtual_immortality": {
+      "stance": "有條件的／很可能",
+      "rationale": "只有當這種複製再現了所需的生物學／因果系統時，虛擬永生（上傳心理自我）才是可實現的，因為單純的模擬被拒斥 。如果語言對於意識的深層本質而言是核心的，那麼語言／符號過程的成功複製便有助於其可實現性 。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Searle’s Biological Naturalism",
+        "relationship": "基礎"
+      },
+      {
+        "name": "Chomsky’s Language and Consciousness",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Koch’s Consciousness does not Depend on Language",
+        "relationship": "批評"
+      },
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "重疊／對比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Rediscovery of Mind, John Searle",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Consciousness and Language, John R. Searle",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Biological Naturalism, John R. Searle",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Language and consciousness, John Searle (Closer To Truth interview)",
+        "year": 2014
+      }
+    ]
+  }
+}

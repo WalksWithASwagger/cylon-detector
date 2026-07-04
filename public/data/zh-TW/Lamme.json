@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Lamme 的再進入處理理論",
+    "summary": "Lamme 的再進入處理理論（RPT）主張，當神經區域之間（尤其是感覺系統內）發生互惠的（再進入的）回饋連結時，意識便同時是必要且充分的。這種處理在感覺與後感覺區域中局部發生（第三階段），無需全域廣播式的取用，即可產生現象經驗。",
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
+    "category": "唯物論",
+    "subcategory": "表徵論",
+    "core_identity_tagline": "「意識即感覺系統中的再進入處理」",
+    "classification_tags": [
+      "neuroscience",
+      "visual system",
+      "recurrent connections",
+      "first-order theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為在相關神經迴路（如視覺系統）內成立的一種特定再進入處理狀態。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "採取同一論／化約論進路，主張心靈的概念必須朝向大腦的概念移動，而意識則等同於物理迴路中的一種再進入處理狀態。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性（現象意識）即再進入處理狀態本身。意向性由這些迴路內所表徵的內容承載（推論為一種表徵論／第一階理論）。",
+    "qualia_account": "當某種再進入處理狀態在相關視覺迴路中成立時，感質便得以產生，使該視覺狀態成為有意識的。",
+    "ontological_commitments": "大腦感覺系統、神經迴路（視覺迴路）、前饋與回饋連結。",
+    "epistemic_access": "可透過神經與行為的測量而取得，Lamme 主張這兩者應被置於同等地位。",
+    "constituents_and_structure": "大規模互連的神經迴路（再進入迴路），涉及前饋與回饋連結。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的",
+    "distinctive_mechanism_or_principle": "感覺與後感覺區域中的再進入處理（回饋連結）（第三階段）被認為對意識而言是充分的。",
+    "dynamics_of_emergence": "動態過程。意識狀態是由連結視覺區域與其他腦區的回饋連結所產生之動態活動的結果。",
+    "location_and_distribution": "局部分布於感覺與後感覺區域，具體而言是「後腦部」的再進入激活。",
+    "causation_and_functional_role": "意識即該特定的再進入處理狀態本身。其潛在目的被暗示為使人們對心靈的理解朝向大腦移動。",
+    "integration_or_binding": "整合是在知覺區域內的再進入迴路中局部達成的。",
+    "information_flow_or_representation": "資訊涉及一次初始的前向掃描（無意識的登錄），隨後由回饋連結產生再進入處理（意識）。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "意識需要大規模互連的感覺系統，涉及前饋與回饋連結（再進入處理）。",
+      "感覺與後感覺區域中的再進入處理，對現象意識而言是必要且充分的。",
+      "有意識的知覺被認定為後腦部的再進入激活（第一階理論）。"
+    ],
+    "basis_of_belief_or_evidence_type": "經驗的、神經生物學的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "批評全域工作空間理論（GWT）「只談取用而不談看見」。其本身則被 Ned Block 批評為「全域工作空間論述的一種閹割形式」。",
+    "open_questions_and_limitations": "再進入激活唯有在具備某些「背景條件」（如與皮質下結構的連結完整）時，才對意識而言是充分的。",
+    "ontological_coherence": "在唯物論存有論內高度融貫，因為它將意識完全奠基於特定的、已辨識的神經機制。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有可能",
+      "rationale": "作為一種唯物論理論，只要所需的再進入處理模式能在非生物基質中被人工複製，人工智慧意識原則上必定是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識繫於物理的大腦活動與特定的神經迴路（再進入處理狀態），意味著它在肉體死亡時即告終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "該理論聚焦於對現象經驗之純粹物理論的、神經生物學的解釋，並不支持任何終極的宇宙意義或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "既然意識即再進入處理狀態本身，那麼將該過程完美複製至新的介質（上傳）便會產生第一人稱的自我，從而實現虛擬永生。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "批判"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "延伸"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a true neural stance on consciousness, Victor Lamme",
+        "year": 2006
+      },
+      {
+        "title_with_names": "How neuroscience will change our view on consciousness, Victor Lamme",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Wu, 2018 (Discussing Lamme's RPT)",
+        "year": 2018
+      }
+    ]
+  }
+}

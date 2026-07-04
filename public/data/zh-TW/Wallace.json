@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Wallace 的物理學內部泛心論",
+    "summary": "David Wallace 提出一種泛心論觀點，將意識認定為基本物理實體的內在本性，而非一種獨立的力或特徵。這一進路意在作為一種綜合，既避免標準唯物論的問題（無法解釋意識），也避免二元論的問題（在封閉物理系統中意識缺乏因果角色）。",
+    "associated_thinkers": ["David Wallace"],
+    "category": "泛心論",
+    "subcategory": "物理學內部泛心論",
+    "core_identity_tagline": "作為物理學之內在本性的意識",
+    "classification_tags": [
+      "panpsychism",
+      "philosophy of physics",
+      "intrinsic properties",
+      "causal role"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為基本物理實體的內在本性；它是物理學僅以定量關係來描述的那個底層實在。",
+    "ontological_status": "泛心論（具體而言，是一種旨在對二元論與唯物論作形上學綜合的非傳統變體）。",
+    "mind_body_relationship": "意識與物理世界不可分割並構成物理世界，充當物質與能量的內在本性。這避免了傳統二元論的交互問題。",
+    "primitive_or_emergent_status": "原初／根本。Wallace 傾向於認為意識是根本的、不可化約的。",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "未明確詳述。核心關注在於意識在基本實在中的形上學定位，而非主體性的心理學細節。",
+    "qualia_account": "感質被隱含地說明為構成實在的基本物理實體之內在現象本性的性質。",
+    "ontological_commitments": "擁有內在的、原現象性質的基本物理實體（場與粒子），這些性質構成意識。",
+    "epistemic_access": "概念性／哲學性推斷。Wallace 主張，既然物理學只以數學描述關係性結構，那麼這些實體的內在本性就必須透過哲學加以推斷。",
+    "constituents_and_structure": "基本構成要素是基本物理實體（場與粒子），其內在本性即意識。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、因果能動性、基礎存有論。",
+    "distinctive_mechanism_or_principle": "意識透過構成物理實體的內在本性，充當物理學「內部」的因果因素。當實體彼此作用時，是意識「在施加因果作用」，從而在維持物理封閉性的同時賦予意識以因果角色。",
+    "dynamics_of_emergence": "靜態性質／根本性。意識是實在根本的底層本性，而非一種動態或時間性地產生的性質。",
+    "location_and_distribution": "無處不在；意識作為一切物理實體的內在本性，位於「物理世界內部」。",
+    "causation_and_functional_role": "意識具有因果效力，因為它是物理歷程本身的內在本性，從而解決了二元論中心靈缺乏因果角色的問題。",
+    "integration_or_binding": "在所提供的來源中未明確論及。Wallace 聚焦於根本性的存在與因果角色，而將泛心論固有的組合問題擱置。",
+    "information_flow_or_representation": "物理學提供了關於實體如何相互關聯的數學理論（關係性資訊），而意識則是這些關係底層的那種非定量的內在本性（那個「為方程注入生命之火」的東西）。",
+    "evolutionary_account": "未明確詳述。該理論論及實在的根本本性，它先於生物演化。",
+    "core_claims_and_evidence": [
+      "意識是實在的、根本的，存在於自然界的最底層。",
+      "意識充當物理實體的內在本性，從而在物理學之內提供因果力量。",
+      "物理定律定量地描述關係，但不描述實體的內在本性。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學與形上學綜合。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／概念的。該理論涉及物理實體的非關係性、內在本性，這在根本上難以經驗檢驗。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "必須應對組合問題（微觀意識如何組合為宏觀意識）。Wallace 指出，這種泛心論觀點與意識使波函數塌縮的觀念相矛盾，後者是一種相關但有別的量子意識理論。",
+    "open_questions_and_limitations": "微觀意識性質如何精確地組合而形成複雜、統一的主觀經驗，仍是一項開放的哲學挑戰。",
+    "ontological_coherence": "作為一種形上學立場高度融貫，旨在將意識從根本上整合進實在，而無需設定違反物理因果封閉性的額外的非物理力量。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "若意識是物理學所描述的一切物質／能量的內在本性，那麼任何物理系統，包括足夠複雜的人工智慧架構，都必然是有意識的。"
+    },
+    "survival_beyond_death": {
+      "stance": "不太可能（希望渺茫）",
+      "rationale": "儘管意識本身是根本且無處不在的（泛心論），但界定個人意識的那種特定的整合結構與複雜的物理排布（如大腦）相綁定。這一特定結構在生物解體之後的持存是不確定的。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定／或許",
+      "rationale": "作為泛心論的一個變體，該理論潛在地允許終極意義或目的，因為意識是根本的，但來源並未說明 Wallace 對這一蘊涵的立場。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "既然意識是物理結構底層的內在本性，那麼對物理學所描述的大腦物理與關係結構進行完美的數位複製，很可能會複製出相應的內在意識本性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dualism",
+        "relationship": "批評／綜合"
+      },
+      {
+        "name": "Materialism",
+        "relationship": "批評／綜合"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "重疊／拓展"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Physics of the Observer, David Wallace",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Physics of consciousness, David Wallace",
+        "year": 2016
+      },
+      {
+        "title_with_names": "What Is Panpsychism, David Wallace",
+        "year": 2016
+      }
+    ]
+  }
+}

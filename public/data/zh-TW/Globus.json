@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Globus 的量子熱場腦動力學",
+    "summary": "這一理論將應用於腦功能的量子場論與歐陸後現象學傳統相連結，提出一種非笛卡兒式雙重模式的新存有論。它以「揭顯」取代知覺意識，將現象腦與巨觀量子腦客體加以區分，藉此化解感質的難題與量子測量問題。",
+    "associated_thinkers": [
+      "Gordon Globus",
+      "Martin Heidegger",
+      "Jacques Derrida"
+    ],
+    "category": "量子理論",
+    "subcategory": "量子場論",
+    "core_identity_tagline": "「透過量子熱場動力學的揭顯」",
+    "classification_tags": [
+      "quantum",
+      "field theory",
+      "phenomenology",
+      "monadology",
+      "non-computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象實在被指認的並非意識本身，而是從原初「閉合」（closure，即量子物理實在的非現象性）過渡而出時所產生的「揭顯」（dis-closure），此過程由耗散性量子熱場腦動力學所中介。",
+    "ontological_status": "觀念論／一元論（非笛卡兒式雙重模式）。該理論復興了一種單子論版本，主張每個腦都平行地對其世界進行「持續創造」。",
+    "mind_body_relationship": "心物問題透過以揭顯取代知覺意識，並將現象腦（brain-p）與巨觀量子客體腦（brain-q）分離而獲得化解；它依賴於雙重模式，兩者的連結即在於它們的「之間」。",
+    "primitive_or_emergent_status": "湧現的（透過揭顯）。揭顯是使現象世界從量子物理實在（閉合）中顯現出來的作用。",
+    "emergence_type": "未明確指出，但從一個根本量子實在中揭顯而出的這種複雜、非化約的機制，蘊含著現象領域的強湧現。",
+    "subjectivity_and_intentionality": "主體性透過被揭顯的世界來處理，該世界是量子熱場腦的持續創造。腦受到感官輸入、記憶與自我調諧的「三重調諧」，從而促成揭顯所需的內部匹配。",
+    "qualia_account": "該理論宣稱透過將感質難題連同量子測量問題一併納入耗散性量子熱場腦動力學／揭顯的框架，來化解感質的難題。",
+    "ontological_commitments": "量子物理實在（閉合）、耗散性量子熱場腦動力學、現象腦 brain-p、巨觀量子客體腦 brain-q，以及非笛卡兒式雙重模式。",
+    "epistemic_access": "透過將應用於腦功能的理論量子場論與歐陸後現象學所提供的分析加以統合而通達。",
+    "constituents_and_structure": "基本結構涉及應用於腦的量子場論機制（量子腦動力學），這些機制動態地從非現象的閉合過渡到現象的揭顯。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（由揭顯取代）與感質。",
+    "distinctive_mechanism_or_principle": "「揭顯」（dis-closure）原理，它源於耗散性量子熱場腦動力學，取代了知覺意識。",
+    "dynamics_of_emergence": "意識／揭顯是量子熱場腦進行「持續創造」的動態過程，該腦透過多重調諧（感官輸入、記憶、自我調諧）達成內部匹配。",
+    "location_and_distribution": "定域於量子熱場腦。",
+    "causation_and_functional_role": "其功能角色是透過內部匹配揭顯出一個世界，而非計算或資訊處理，因為腦「並非主要處理資訊——並不進行計算」。",
+    "integration_or_binding": "整合透過系統的「多重可調諧性」達成，由此產生「內部匹配」。",
+    "information_flow_or_representation": "該理論主張腦並非主要處理資訊或進行計算。重點在於透過調諧達成內部匹配。",
+    "evolutionary_account": "未論及。基於該理論對根本量子存有論與單子論的關注，演化很可能是次要的，或內隱於持續創造的過程之中。",
+    "core_claims_and_evidence": [
+      "現象實在是透過從量子物理實在中「揭顯」而達成，同時化解了難問題與量子測量問題。",
+      "量子熱場腦達成一種內部匹配，揭顯出世界，其運作方式如同一個非計算系統。",
+      "該理論復興了一種單子論版本，主張腦對世界進行「持續創造」。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、量子／理論物理的、後現象學的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "高度思辨／概念上可檢驗。它依賴於對量子物理的複雜詮釋與深刻的哲學重構，難以轉譯為傳統的經驗實驗。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "因結合了兩個持續存在爭議的領域（難問題與量子測量問題）而受到批評。此進路高度抽象，並依賴諸如「揭顯」等取代傳統意識概念的觀念。",
+    "open_questions_and_limitations": "需要充分闡明非笛卡兒式雙重模式的動力學，以及量子動力學導致揭顯的具體機制。",
+    "ontological_coherence": "在其所提出的框架內具有高度的內部融貫性，儘管相較於主流理論（無論是唯物論或二元論）極為非正統。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定／有條件的",
+      "rationale": "該理論主張腦並不進行計算。若意識嚴格依賴於在生物「濕件」（wetware）中實現的非計算、耗散性量子熱場動力學，那麼人工智慧將不太可能複製它，除非非生物基質能夠實現同樣精確的量子動力學。"
+    },
+    "survival_beyond_death": {
+      "stance": "有可能",
+      "rationale": "該理論涉及一種將實在視為持續創造的單子論觀點，暗示一種複雜的根本存有論，可能允許超越古典物理身體的存續，這與其他非唯物論的量子理論相一致。"
+    },
+    "meaning_and_purpose": {
+      "stance": "本質上形上的／有可能",
+      "rationale": "對單子論式、持續創造之存有論的依賴，暗示一種非緊縮的存在觀，蘊含著源自被揭顯世界的潛在內在意義，這與物理論觀點形成鮮明對比。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "虛擬不朽依賴於計算功能論（上傳資料／演算法），而這被該理論明確反對，因其主張腦「並不進行計算」，且現象實在取決於特定的量子場動力學。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "重疊（共享對腦中量子動力學的依賴）"
+      },
+      {
+        "name": "Bohm’s Implicate-Explicate Order",
+        "relationship": "影響／重疊（共享與量子理論相關的隱藏根本秩序之觀念）"
+      },
+      {
+        "name": "Idealism (Monadology/Kastrup)",
+        "relationship": "相容／延伸（復興單子論並共享對心靈生成之實在的關注）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Quantum Closures and Disclosures: Thinking-Together Postphenomenology and Quantum Brain Dynamics",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Consciousness vs. Disclosure A deconstruction of consciousness studies",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Doubts about the world out there: a monadological redux",
+        "year": 2022
+      }
+    ]
+  }
+}

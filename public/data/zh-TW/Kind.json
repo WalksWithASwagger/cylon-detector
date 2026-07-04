@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Kind 的二元論 2.0",
+    "summary": "這是二元論的一個現代版本，脫離了傳統宗教或非科學的意涵，主張物理論無法充分捕捉有意識經驗完整的質性實在。它設定現象狀態、事件與過程是一種不可化約的真實活動，有別於物質活動，從而引致一種活動上的二元性，而不必然設定彼此獨立的實質。",
+    "associated_thinkers": ["Amy Kind"],
+    "category": "二元論諸派",
+    "subcategory": "二元論變體",
+    "core_identity_tagline": "現象活動與物質活動的二元性",
+    "classification_tags": [
+      "dualism",
+      "non-reductive",
+      "phenomenality",
+      "qualia",
+      "naturalistic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為現象活動（狀態、事件與過程），此活動構成世界中一個不可化約的真實部分，與物質活動並存且無法化約為物質活動。",
+    "ontological_status": "二元論（具體而言，是一種活動上的二元性），與對世界的廣義自然主義構想相一致，同時拒斥化約論。",
+    "mind_body_relationship": "此關係是二元論的：現象活動與物質活動是世界中不可化約的真實部分，彼此無法相互化約。心靈以此現象活動為特徵。",
+    "primitive_or_emergent_status": "不可化約的真實／非化約論式的湧現。意識（現象活動）根本上不可化約為物質，儘管此理論並不要求現象性在微觀層次上是根本的。",
+    "emergence_type": "強湧現。現象活動是不可化約的真實，且無法以物質屬性來解釋，在概念上與強湧現相符。",
+    "subjectivity_and_intentionality": "聚焦於捕捉有意識經驗完整的質性實在。來源材料並未提供意向性的明確機制，但此理論針對化約論的論述，主張經驗的質性本性。",
+    "qualia_account": "感質（經驗的質性本性）被認為是意識不可化約的、本質性的特徵，無法為純粹物理論的框架所捕捉。",
+    "ontological_commitments": "物質狀態、事件與過程（物質活動），以及現象狀態、事件與過程（現象活動），皆作為世界中不可化約的真實部分。",
+    "epistemic_access": "主要透過闡明物理論在解釋現象經驗上之侷限的哲學論證而通達。",
+    "constituents_and_structure": "一種以兩個互異的活動領域（現象的與物質的）為特徵的結構，二者彼此不可化約。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（質性經驗）、心理狀態的因果性。",
+    "distinctive_mechanism_or_principle": "現象活動不可化約性的原則。此理論寄望於對因果性有一種更好、更廣的理解，能夠容納心理成因並肯定現象的因果效力，而不流於神祕或鬼魅。",
+    "dynamics_of_emergence": "其地位是不可化約的；關於此不可化約的現象活動如何從物質生起或與之互動的詳細動態機制，並非此理論所述的主要焦點。",
+    "location_and_distribution": "現象活動與物質活動相繫，意味著其定域於複雜的物質系統（例如大腦）之中，與自然主義相一致。",
+    "causation_and_functional_role": "肯定心理成因的可能性，旨在容納現象的因果效力，暗示有意識的狀態具有功能角色。",
+    "integration_or_binding": "在來源材料中並未明確論及，因為此理論主要聚焦於現象經驗的形上學地位，而非詳細的神經功能。",
+    "information_flow_or_representation": "批判唯物論的表徵論。儘管有意識的狀態具有內容（意向性），此理論堅持其現象特徵不可化約為其表徵或功能屬性。",
+    "evolutionary_account": "未明確提供；此理論聚焦於存有論地位而非演化路徑，儘管它與對世界的廣義自然主義構想相容。",
+    "core_claims_and_evidence": [
+      "現象狀態／活動是世界中一個不可化約的真實部分（與物質活動並存）。",
+      "物理論框架無法充分捕捉有意識經驗的完整實在。",
+      "此觀點代表一種活動上的二元性，而不必然是實體上的二元性（實體二元論）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的，基於有關物理論之限制與有意識經驗之本性的論證。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "透過關於形上學承諾的哲學論證（例如物理論是否必然承諾現象性的化約）而在概念上可檢驗，但就現象定律的本性而言仍屬思辨。",
+    "known_empirical_interventions_or_tests": "來源材料未提供，因為對物理論的批判主要是概念性與形上學的。",
+    "criticisms_and_tensions": "批評者面臨指定現象定律的難題。此理論還必須藉由強調其廣義自然主義的宗旨，來化解「拒斥物理論即等同於相信『鬼魅之物』或『魔法』」的批評。",
+    "open_questions_and_limitations": "此理論承認存在一個未解決的問題，即必須指定用以描述不可化約之現象活動的那些假定的現象定律。它也仰賴於未來對「因果性本質有一種更好、更廣的理解」來確保心理效力。",
+    "ontological_coherence": "在其藉由聚焦於活動之二元性（而非實質）以建構一種自然主義二元論的努力中是融貫的，契合其拒斥物理論、同時避開傳統二元論陷阱的明確目標。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "取決於條件",
+      "rationale": "若人工系統能夠體現不可化約的真實現象活動生起所需的必要物質複雜性（此活動並非純粹可化約為運算），那麼人工智慧意識便是可能的。然而，此湧現的確切條件尚屬未知。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "Kind 的二元論 2.0 避免設定一種獨立的、非物質的實質（靈魂），而傾向於一種活動上的二元性，契合於一種廣義自然主義觀點，其中意識繫於活躍的過程，使其在生物性終止之後不太可能延續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "內在價值（推斷）",
+      "rationale": "儘管與自然主義觀點相容（提示人本主義的意義），但其核心主張——質性經驗是世界中一個不可化約的真實特徵——意味著意識擁有內在的、根本的價值，無法化約為效用或存活。"
+    },
+    "virtual_immortality": {
+      "stance": "不確定",
+      "rationale": "由於現象特徵是不可化約的真實，僅僅複製物質或功能狀態或許無法保證複製出現象活動，除非能完美捕捉並模擬支配現象湧現的那些未知定律。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "區別"
+      },
+      {
+        "name": "Representationalism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Transparency and representationalist theories of consciousness",
+        "year": 2010
+      }
+    ]
+  }
+}

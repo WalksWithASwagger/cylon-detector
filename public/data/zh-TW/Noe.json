@@ -1,0 +1,117 @@
+{
+  "id_and_class": {
+    "theory_title": "意識的感覺運動（生成）理論（諾伊「走出我們的頭腦」觀點）",
+    "summary": "本理論拒斥意識僅發生於大腦內部這一假設，主張單憑大腦內部過程不足以產生經驗。意識根本上是一種活動或過程，它透過大腦、身體與環境之間動態、連續而熟練的互動而被生成（enact）。",
+    "associated_thinkers": [
+      "Alva Noë",
+      "Kevin O’Regan"
+    ],
+    "category": "唯物論",
+    "subcategory": "關係性",
+    "core_identity_tagline": "意識作為主動的與世界互動",
+    "classification_tags": [
+      "relational",
+      "embodied",
+      "enactive",
+      "externalism",
+      "activity"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為持續關注、保持接觸、留意並與世界互動的活動。它是通達世界並使世界為有機體「顯現」出來的過程，由主動的參與所界定。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "心靈是由大腦、身體與環境協同運作所生成的活動。大腦提供了必要的機械基質，但不足以產生意識；它是符號的所在之處，而非意識本身。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "主體性（世界如何「為我們顯現」）與意向性源自有機體與環境之間主動、熟練的參與，並受脈絡、興趣、知識與理解的影響。",
+    "qualia_account": "感質被暗示為現實生活經驗之密度、細節與穩健性的一部分，它們源自與世界的持續互動，正是這一點將真正的意識與單純的夢境經驗區別開來。",
+    "ontological_commitments": "物理環境、生物性的大腦／身體，以及兩者之間動態的互動／活動。",
+    "epistemic_access": "通達它需要著眼於頭腦之外，關注有機體在世界中的能動作用與技能習得，將焦點從內部的大腦事件轉向外部的行動與互動。",
+    "constituents_and_structure": "由大腦、身體的感覺運動系統與外部環境所構成的動態、相互關聯的系統。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、能動性、取用（作為一種成就）",
+    "distinctive_mechanism_or_principle": "有機體與其周遭環境之間主動而持續的參與。意識位於這一互動／活動迴路之中，而非單在內部的大腦狀態之中。",
+    "dynamics_of_emergence": "意識是一種保持接觸並與世界互動的動態過程，由有機體持續地加以生成。",
+    "location_and_distribution": "分布於大腦、身體與環境的整個系統之中；位於「我們的頭腦之外」。",
+    "causation_and_functional_role": "意識是能動的，使有機體得以通達並生成世界，其作用在於引導為生存與理解而進行的審慎、脈絡化而熟練的行動。",
+    "integration_or_binding": "整合透過世界因有機體熟練、主動的介入與留意而「為我們顯現」的那種融貫性來實現。",
+    "information_flow_or_representation": "資訊由有機體的互動與技能主動地加以通達與塑形，從而界定了環境的意義。",
+    "evolutionary_account": "意識的出現是為了使我們得以通達世界，並透過具身而熟練的互動來中介意義，這表明它對生存具有強大的適應優勢。",
+    "core_claims_and_evidence": [
+      "意識是與世界持續參與的活動。",
+      "現實生活經驗（相對於夢境）的密度與穩健性支持了外部互動的必要性。",
+      "大腦是符號的機械所在，但活動才是意識本身。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學論證、現象學洞見、對傳統內在論的批評"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要張力在於精確解釋這種互動為何在強意義上就是意識，而不僅僅是使意識成為可能或對其施加影響。批評者拒斥「研究內部的大腦事件不足以理解意識」這一主張。",
+    "open_questions_and_limitations": "該理論缺乏一個清晰的界定，說明外部的互動／活動如何構成內在經驗或感質，以及如何嚴格地將這種活動與單純的非意識加工區分開來。",
+    "ontological_coherence": "在一個外在論與具身的哲學框架內是融貫的，直接挑戰了內在論唯物論與二元論的根基性前提。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定／取決於條件",
+      "rationale": "標準的計算是不夠的；唯有當人工智慧系統實現完全的具身、技能以及與某個世界持續、自主的互動（滿足對活的有機體所提出的同樣要求）時，意識才可能。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識與那個涉及大腦和身體與世界互動的持續、主動的物理迴路密不可分；其終止即意味著意識活動的終結。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義的",
+      "rationale": "意識使行動者得以獲得脈絡、知識與理解，賦予其為互動賦予意義並引導能動行為的能力，但並不蘊含任何超越性的目的。"
+    },
+    "virtual_immortality": {
+      "stance": "高度不可信",
+      "rationale": "僅上傳大腦的內部過程（即「機械所在」）無法捕捉那被界定為意識的、不受大腦束縛的、外部而持續的互動活動。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Enactivism (Varela & Thompson)", "relationship": "構成性框架" },
+      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "根基性影響" },
+      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "哲學影響" },
+      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "部分相容／重疊" },
+      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "相關／互補（主動知覺、共享迴路模型）" },
+      { "name": "Internalist Materialism", "relationship": "批評" },
+      { "name": "Dualism", "relationship": "批評" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
+        "year": 2010
+      },
+      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Is consciousness an illusion, Alva Noë",
+        "year": 2007
+      },
+      {
+        "title_with_names": "O’Regan, K., & Noë, A. A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–1031.",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Noë, A. Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness.",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Varela, F., Thompson, E., & Rosch, E. The Embodied Mind: Cognitive Science and Human Experience.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Gibson, J.J. The Ecological Approach to Visual Perception.",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Hurley, S. L. (1998). Consciousness in Action. Harvard University Press."
+      },
+      {
+        "title_with_names": "Hurley, S. (2008). The Shared Circuits Model (SCM): How control, mirroring, and simulation can enable imitation, deliberation, and mindreading. Behavioral and Brain Sciences, 31(1)."
+      }
+    ]
+  }
+}

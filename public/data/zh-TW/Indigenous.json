@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "原住民宗教中的靈魂",
+    "summary": "此類別匯集了全球各地原住民與民間宗教中關於靈魂的多樣概念。這些信仰通常涉及多重的、非物質的靈魂成分，其中某些成分被認為會在死亡時消失，另一些則會延續下去，反映了傳統二元論的諸多面向。",
+    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
+    "category": "二元論諸派",
+    "subcategory": "原住民宗教中的靈魂",
+    "core_identity_tagline": "多重的、無所不在的、歷經時間而不衰的靈魂信仰",
+    "classification_tags": [
+      "indigenous",
+      "folk religion",
+      "soul belief",
+      "dualism",
+      "anthropology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識，或稱「自我」，被認定為源自或由一種以上有別於物質身體的靈性或非物質靈魂實質所構成。",
+    "ontological_status": "傳統二元論／多面向靈性論。這些體系設定了多種互異的、根本的存在範疇（靈性／靈魂與物質／身體）。",
+    "mind_body_relationship": "複雜的、往往是局部的二元論互動／對應關係。靈魂成分賦予身體以訊息或使之獲得生氣，但某些靈魂成分可能在物質身體之外存續或先於其存在，顯示出其獨立性。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "不適用。由於靈魂常被描述為先在的或衍生自造物者，它被視為一種根本存在者，而非從物質過程中湧現而來。",
+    "subjectivity_and_intentionality": "主體性與意向性內在於非物質的靈魂實體本身，該實體往往被認為能夠選擇命運（例如埃維族傳統），或界定人格。",
+    "qualia_account": "未有明確界定。焦點在於靈魂實體的存在與延續，這意味著質性經驗是靈性成分的一種內在屬性。",
+    "ontological_commitments": "物質身體以及多種非物質的靈魂實質（例如不同類型的靈魂、生命之氣、脫離肉身的靈）。",
+    "epistemic_access": "知識是透過宗教傳統、文化知識、個人信念，以及靈性或轉化性經驗而獲得，而非透過系統性的第三人稱科學觀察。",
+    "constituents_and_structure": "意識結構由多重的靈魂類型所構成（例如加彭芳族所承認的七種類型），其在死亡後的歸宿往往具有層級性或功能性的區分。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "死後存續、個人身分、靈性存在，以及命運。",
+    "distinctive_mechanism_or_principle": "靈性起源（靈魂衍生自造物者）以及透過特定身體或儀式行動（例如戰鬥、朝聖）而獲得，是與靈魂之創造或增益相關的關鍵原則。",
+    "dynamics_of_emergence": "靈性起源。靈魂常被描述為自化身之時或之前即已存在，源自一位全能的靈或至高的造物者。",
+    "location_and_distribution": "其所在是個體的／個人的，儘管有時與身體屬性（如氣息或血液）相繫。這些信仰體系本身在地理上無所不在。",
+    "causation_and_functional_role": "靈魂決定或選擇個體的命運，並且是在肉身死亡後存續的成分。",
+    "integration_or_binding": "隱含的。雖然一個個體之內可能存在多種靈魂類型，但它們綁定為單一統一經驗的機制並未詳述，然而它們共同界定了這個人。",
+    "information_flow_or_representation": "未有明確討論。這些概念早於將資訊處理作為意識解釋因素的現代理論。",
+    "evolutionary_account": "不適用／靈性起源取代了生物演化。靈魂往往衍生自一個終極源頭，與自然的種系發生演化形成對比。",
+    "core_claims_and_evidence": [
+      "靈魂信仰是廣泛存在、歷久不衰的人類學資料，意識研究理應予以正視。",
+      "人這一存在由多種互異的靈魂成分所構成，顯示身分具有複雜的組構。",
+      "靈魂的某些部分在肉身死亡後延續，使死後存續成為可能。"
+    ],
+    "basis_of_belief_or_evidence_type": "人類學資料、宗教傳統、文化歷史。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思辨的／人類學的。作為古老的信仰體系，這些概念不受現代科學實驗或否證方法的約束。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "由於缺乏哲學上的精密性或經驗基礎，往往被主流研究者歸類為「前現代」或「前科學」。並未主張這些信仰嚴謹地佐證了現代哲學二元論。",
+    "open_questions_and_limitations": "各種靈魂面向與現象意識之間的關係界定得相當鬆散。此模型並未提供一個與當代物理學相容的因果機制來解釋互動。",
+    "ontological_coherence": "在特定文化框架內部融貫，但由於仰賴非物質實質，與物理論及唯物論的存有論框架根本上不一致。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意識需要一種源自非物質源頭或造物者的靈性成分（靈魂／靈），而人工系統本質上缺乏此成分。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "死後存續是核心特徵，因為靈魂的若干成分被設定為在生物身體死亡後延續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性／存在性",
+      "rationale": "這些信仰體系透過設定先在性、源自造物者的靈性起源，以及一個支配個體命運的統攝結構，蘊含著終極意義。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "不朽是透過原初靈性靈魂的延續而達成，無法藉由對物質身體功能模式的技術複製或模擬而獲得。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Historical and Traditional Dualisms",
+        "relationship": "相容"
+      },
+      {
+        "name": "Soul in Islamic Philosophy",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Soul: concepts in indigenous religions, C. Rivière",
+        "year": 1987
+      },
+      {
+        "title_with_names": "The concept of soul in Chinese folk religion, S. Harrell",
+        "year": 1979
+      }
+    ]
+  }
+}

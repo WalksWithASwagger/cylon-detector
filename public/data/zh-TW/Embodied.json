@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "具身認知",
+    "summary": "這一概念主張心靈在本質上是具身的，意即思維與意義的結構從根本上依賴於身體的感覺運動系統與情緒經驗。它論證身體及其與環境的互動是意識之所是的不可或缺的組成部分，而不僅僅是意識之所為。",
+    "associated_thinkers": [
+      "George Lakoff",
+      "Mark Johnson"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "具身與生成",
+    "core_identity_tagline": "意識本質上是具身經驗",
+    "classification_tags": [
+      "embodiment",
+      "sensorimotor",
+      "cognition",
+      "materialism",
+      "non-reductive"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識與思維被認定為由連接到身體的神經迴路所生成的、具有意義的輸出，刻畫出具身經驗，其中思維的結構來自身體的性質。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "心靈是深刻具身的；思維的結構本身依賴於身體的感覺運動系統與情緒，將心靈的必要基質延展至大腦之外。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現（推斷而來，因為作為一種唯物論理論，它意味著意識原則上可化約，儘管複雜度很高。）",
+    "subjectivity_and_intentionality": "主體性繫於具身經驗；意向性（思維的指向性）內在於抽象觀念與語言被感覺運動系統隱喻性地具身化的方式之中。",
+    "qualia_account": "感質由身體的感覺運動系統與情緒系統所刻畫，這些系統產生或構成了「具身經驗」。",
+    "ontological_commitments": "物理的神經迴路、身體的感覺運動系統、情緒，以及源自身體經驗的隱喻。",
+    "epistemic_access": "在自然主義的、以科學為基礎的觀點內，透過研究神經迴路、身體與親歷經驗之間的聯繫來通達。",
+    "constituents_and_structure": "連接到身體的感覺運動系統與情緒系統的神經迴路，隱喻性地建構抽象觀念與語言的結構。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（作為身體不可或缺的部分）、認知、抽象觀念、語言、情緒。",
+    "distinctive_mechanism_or_principle": "其原理是：思維經由連接到身體的神經迴路而變得有意義，而我們思維的結構由身體系統（如感覺運動系統）的性質所決定。",
+    "dynamics_of_emergence": "意識是一個動態過程，其中抽象概念在很大程度上依賴於源自連續身體經驗的基本隱喻。",
+    "location_and_distribution": "心靈分布於整個物理身體的感覺運動系統之中，而不僅僅定位於大腦。",
+    "causation_and_functional_role": "其功能角色是提供有意義的思維，因為若不調動身體的系統，理解便無法發生。意識對適應性功能而言不可或缺。",
+    "integration_or_binding": "整合經由神經迴路與身體的統一連接而發生，將感覺系統、運動系統與情緒系統綁定為一種融貫的具身經驗。",
+    "information_flow_or_representation": "資訊在很大程度上透過源自身體經驗的隱喻來表徵，基於感覺運動系統建構抽象概念的結構。",
+    "evolutionary_account": "源材料未明確詳述，但與如下唯物論觀點一致：意識經由被選擇的性狀而演化，並將選擇的範圍延展至涵蓋身體與環境的互動。",
+    "core_claims_and_evidence": [
+      "心靈在本質上是具身的，超越了對大腦的瑣碎需求。",
+      "我們思維的結構本身來自身體的性質。",
+      "抽象概念在很大程度上是隱喻性的，基於身體經驗。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、認知語言學的、經驗的（基於將神經活動與身體經驗相聯繫）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在經驗上可檢驗（推斷而來，因為它涉及可測量的神經迴路與生理系統）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "它隱含地受到如下批評：認知與意識並非同一回事，從而引出解釋具身思維是否足以解釋現象意識的問題。",
+    "open_questions_and_limitations": "具身認知轉化為現象意識的確切途徑，因為認知與意識的概念往往是不同的。",
+    "ontological_coherence": "在一個物理論存有論內高度融貫，具體是透過將整個身體納入思維的結構，從而擁抱一種擴展的或非瑣碎的唯物論形式。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件的",
+      "rationale": "如果意識需要特定的具身性，那麼唯有當唯物論成功地建構出一種完美複製所需身體與感覺運動系統的非生物基質時，人工系統才可能變得有意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識錯綜複雜地依賴於生物身體及其系統的存在與運作；一旦這些物理組成部分停止運作，意識便無法存續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本主義",
+      "rationale": "作為一種唯物論理論，它與如下觀點一致：不存在終極的宇宙意義，但意識為創造自我決定的意義與價值提供了基礎。"
+    },
+    "virtual_immortality": {
+      "stance": "不確定",
+      "rationale": "複製需要再現整個具身系統及其感覺運動機制，這在僅僅複製大腦活動之外增加了巨大的、可能無法逾越的複雜度層級。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Enactivism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Projective Consciousness Model (PCM)",
+        "relationship": "影響"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "重疊"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Philosophy in the Flesh: the Embodied Mind and its Challenge to Western Thought, G. Lakoff and M. Johnson",
+        "year": 1999
+      },
+      {
+        "title_with_names": "How philosophy illuminates the physical world, G. Lakoff",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, and E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, E. Thompson",
+        "year": 2002
+      }
+    ]
+  }
+}

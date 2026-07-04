@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "延展心靈",
+    "summary": "此理論主張認知過程並非嚴格局限於生物大腦，而是延展至外部環境（主動外在論）。當一個人類有機體與某個外部實體在雙向互動中相連結時，便形成了一個耦合系統，這個系統本身即作為一個認知系統而運作。移除其外部成分會削弱系統的行為能力，就如同移除大腦的一部分一樣。",
+    "associated_thinkers": [
+      "Andy Clark",
+      "David Chalmers"
+    ],
+    "category": "唯物論",
+    "subcategory": "關係性",
+    "core_identity_tagline": "‘心靈作為耦合的認知系統’",
+    "classification_tags": [
+      "externalism",
+      "embodiment",
+      "cognition",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被確認為整個耦合認知系統的一種功能，既涵蓋內部神經過程，也涵蓋外部工具／環境，強調其對主動外在論的依賴。",
+    "ontological_status": "物理論（功能論／關係性）",
+    "mind_body_relationship": "關聯／延展。心靈是分布於大腦、身體與相關環境之間的一種湧現屬性或功能過程，挑戰了心靈受限於頭顱之內的傳統觀點。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "各來源主要聚焦於認知的功能角色與行為能力，而未明確說明現象性的主體性或意向性如何產生。主體性被隱含地視為運作中的認知系統的一個特徵，無論它位於何處。",
+    "qualia_account": "此理論聚焦於認知過程的延展與行為能力的實現，但各來源並未明確闡述現象性感質（經驗的質性維度）在耦合系統中如何得到說明或延展。",
+    "ontological_commitments": "大腦、身體、外部物體／工具以及物理環境，它們在耦合系統內都參與並發揮主動的因果作用。",
+    "epistemic_access": "可透過研究耦合系統中所有成分的雙向互動與主動因果作用來通達，聚焦於行為能力與認知迴路。",
+    "constituents_and_structure": "一個‘耦合系統’，由人類有機體（大腦與身體）與外部實體（社會與物質世界）在雙向互動中相連結而構成，形成一個無縫的、整合的整體。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "認知、行為能力（現象意識被暗示為寓於延展系統之中，但重點在功能層面）。",
+    "distinctive_mechanism_or_principle": "主動外在論，其中外部實體在認知過程中發揮主動的因果作用，形成一個功能上整合的‘耦合系統’。",
+    "dynamics_of_emergence": "動態過程。心靈從大腦、身體與社會／物質世界的‘絢爛流變’中湧現，成為‘出人意料地無縫的整體’。",
+    "location_and_distribution": "分布式／延展式。認知過程擴展到受限於頭顱的大腦之外，涵蓋環境與外部工具。",
+    "causation_and_functional_role": "耦合系統中的各成分發揮主動的因果作用並共同支配行為，使心靈得以促成與世界的適應性互動。",
+    "integration_or_binding": "整合透過有機體與外部實體之間主動的雙向互動而實現，形成一個無縫的、整合的認知整體。",
+    "information_flow_or_representation": "資訊處理依賴於被延展的表徵，這些表徵將環境在驅動認知過程中的參與性作用包含在內。",
+    "evolutionary_account": "此理論與一種演化框架相一致，即大腦的預測能力藉由對外部現實的覺知與順應而得到促進，這暗示了認知延展具有一種適應性作用。",
+    "core_claims_and_evidence": [
+      "認知過程延展到大腦邊界之外，將外部實體包含在內。",
+      "耦合系統本身即作為一個認知系統而運作，其所有成分都發揮主動的因果作用。",
+      "移除外部成分會削弱系統的行為能力。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的、概念論證（功能論的）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗／有條件的",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "此理論在心靈的確切位置與邊界問題上面臨哲學張力，挑戰了對內在的、生物的、神經過程的傳統優先性。",
+    "open_questions_and_limitations": "此理論大量聚焦於認知過程，從而留下了一個懸而未決的問題：現象意識本身如何在耦合系統中得到延展或被經驗。",
+    "ontological_coherence": "高度融貫。此理論透過將認知所需的基質重新界定為超出頭顱的範圍，提供了一種融貫的唯物論／功能論說明。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "此理論與計算功能論相契合，表明若認知過程與功能關係能夠被人工地例示，心靈便可延展至認知假體，從而使人工智慧意識成為可信的。"
+    },
+    "survival_beyond_death": {
+      "stance": "有條件的",
+      "rationale": "儘管植根於唯物論（唯物論通常否認存續），但若本質自我被界定為一種可以不依賴其生物基質而持續存在的分布式功能模式，那麼這一模式的存續或許是可能的。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義的",
+      "rationale": "作為一種唯物論理論，它表明不存在宇宙性的意義、目的或價值；意義反而是由人類有機體所創造的。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "虛擬永生是可信的，因為此理論將心靈視為一種本質上可經由外部‘認知假體’加以延展的功能模式，而在非生物媒介中進行複製與其功能論基礎相一致。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Computational functionalism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Extended Mind, Andy Clark and David Chalmers",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Supersizing the Mind: Embodiment, Action, and Cognitive Extension, Andy Clark",
+        "year": 2010
+      }
+    ]
+  }
+}

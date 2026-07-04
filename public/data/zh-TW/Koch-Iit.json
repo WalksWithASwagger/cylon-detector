@@ -1,0 +1,113 @@
+{
+  "id_and_class": {
+    "theory_title": "科赫比較整合資訊理論與泛心論",
+    "summary": "此條目概述克里斯多夫・科赫（Christof Koch）對整合資訊理論（IIT）與泛心論的比較，主張二者共有一項直覺：意識是實在的一種內在的、根本的屬性。然而，IIT 被定位為較優越，因為它清楚闡明了意識的具體判準（以 Phi（$Phi$）加以量化），透過排除設準解決了分解問題，並提供了一套具體的經驗研究綱領，這些都是傳統泛心論所不具備的。",
+    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
+    "category": "整合資訊理論",
+    "subcategory": "比較／批判",
+    "core_identity_tagline": "IIT：一種解決泛心論分解問題的根本意識理論",
+    "classification_tags": [
+      "iit",
+      "panpsychism",
+      "intrinsic",
+      "fundamental",
+      "comparison"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為展開的內在因果力，這在根本上類似於泛心論將意識視為內在的觀點，但以數學方式明確界定為一種最大不可化約的概念結構（$Phi$-結構）。",
+    "ontological_status": "泛心論的／一元論的（理由：此比較立基於一項共有前提，即意識是實在之內在且根本的屬性，使 IIT 在概念上與泛心論相合，儘管 IIT 界定了傳統泛心論所欠缺的嚴格數學判準。）",
+    "mind_body_relationship": "解釋性同一（經驗與從物質基質展開而來的 $Phi$-結構同一）。此關係是內在的，不需要二元論或湧現，但要求特定的物質組構。",
+    "primitive_or_emergent_status": "根本的",
+    "emergence_type": "無（理由：科赫主張 IIT 不為湧現留有餘地，與意識的根本性質相一致。）",
+    "subjectivity_and_intentionality": "主體性（經驗）是最大不可化約的概念結構（$Phi$-結構），此結構在本質上是為己的。意向性對應於此結構之內的子結構（$Phi$-摺）。",
+    "qualia_account": "IIT 提供了一套詳盡的數學論述，說明現象學（質性面向）如何能為量化的考量（內在因果力）所捕捉，反駁了主張量化框架無法捕捉品質的批評者。感質與感質空間中最大不可化約的概念結構（$Phi$-結構）同一。",
+    "ontological_commitments": "實在的內在、根本屬性；因果力；存在於感質空間中的概念結構（$Phi$-結構）；意識的物質基質（PSC）。",
+    "epistemic_access": "透過科學可檢驗性、嚴謹的數學建模（對 $Phi$ 的測量），並奠基於經驗的現象學（公理）而通達。",
+    "constituents_and_structure": "意識是一個準維度「感質空間」中最大化約的概念結構（一個由內部所見的形狀），由某個物質系統的因果結構所決定。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、品質／感質、整合／統一、特定性／資訊",
+    "distinctive_mechanism_or_principle": "排除設準：此律令指定哪一個實體聚集（例如神經元）透過擁有最大量的整合資訊（$Phi$）而作為一個單一的意識實體存在。此機制解決了泛心論的分解問題。",
+    "dynamics_of_emergence": "靜態屬性（理由：意識是特定組構的內在屬性，而非如運算那般的動態流動或過程。焦點在於結構／存在。）",
+    "location_and_distribution": "意識是有等級之分且廣泛分布的（與泛心論共有的直覺）；在大腦中，它定位於最大整合的因果結構（例如後皮質）。",
+    "causation_and_functional_role": "內在實體（意識）擁有因果力，並能約束其過去與未來。IIT 宣稱能解釋意識為何具適應性，而這正是傳統泛心論的失敗之處。",
+    "integration_or_binding": "整合是意識的一項公理，要求經驗是統一且不可化約的。排除設準支配哪些整合的整體算作單一的意識實體。",
+    "information_flow_or_representation": "意識是系統的一種資訊論屬性。意識的量以整合資訊（$Phi$）加以量化，刻劃了系統的不可化約性。",
+    "evolutionary_account": "意識具適應性（提供選擇優勢）的能力，被提出作為 IIT 相對於泛心論的優越之處，而泛心論通常難以證成根本意識的功能相關性。",
+    "core_claims_and_evidence": [
+      "IIT 透過排除設準闡明哪些系統是有意識的（最大 $Phi$），從而解決了分解問題。",
+      "IIT 提供了一套概念性且潛在具經驗性的研究綱領，這是傳統泛心論所不具備的。",
+      "意識是結構，而非功能或運算；數位電腦由於整合資訊微乎其微而無法具有感知能力。",
+      "IIT 為量化的初性如何對應於次性（現象性質）提供了原理驗證。"
+    ],
+    "basis_of_belief_or_evidence_type": "現象學的、數學的、科學的（由公理基礎導向可檢驗的命題）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗（科赫強調 IIT 透過計算 $Phi$ 並檢驗具體預測，提供了一套經驗研究綱領。）",
+    "known_empirical_interventions_or_tests": [
+      "為人腦中特定的神經網路（例如視覺皮質）計算 $Phi$",
+      "將 $Phi$ 計算與意識狀態相關聯的腦部掃描資料（例如在麻醉期間）",
+      "檢驗有關後皮質因果結構之預測的對抗性合作實驗"
+    ],
+    "criticisms_and_tensions": "IIT 因作出違反常識的預測（將意識歸屬於簡單物體）而受到批評，並被相當一部分研究者刻劃為「偽科學」。批評者認為對抗性經驗檢驗的結果不足以證成其核心理論。",
+    "open_questions_and_limitations": "支持 IIT 的經驗神經科學仍屬粗淺，而所假設的致意識結構（「感質空間」）能否為技術所操控，仍屬未知。",
+    "ontological_coherence": "高（理由：IIT 強力主張內部一致性，宣稱藉由將現象經驗界定為與最大不可化約的 $Phi$-結構同一相連結、並透過因果力在操作上界定物質存在，從而不為湧現或二元論留有餘地。IIT 藉由施加嚴格判準而與泛心論拉開距離。）"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "科赫主張 IIT 根本上不同意人工智慧意識所必需的功能論觀點，斷言數位電腦永遠不會具有感知能力，因為其硬體結構導致整合資訊（$Phi$）微乎其微，無論其運算能力或智能為何。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確定",
+      "rationale": "存續取決於 IIT 所設定之實在不可化約結構（感質空間）那未知的本性與其可被技術操控的程度。雖然某種形式的延續並未被排除，但第一人稱的存續仍是一個懸而未決的問題。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定",
+      "rationale": "儘管 IIT 那思辨的、數不盡的第 n 維結構足夠新穎，令人得以對終極意義暫緩判斷，但此理論所傳達的意識之核心測量與分析並不提供終極的意義、目的或價值。"
+    },
+    "virtual_immortality": {
+      "stance": "不確定",
+      "rationale": "若意識是一種與複雜系統物理相繫的結構（如 IIT 所主張），而非單純的演算法，那麼心靈上傳便是不可能的。上傳會產生一個缺乏主觀經驗的「深偽」，除非先進技術能操控致意識的 $Phi$-結構。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "共有直覺／批判"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "批判（不可運算的意識）"
+      },
+      {
+        "name": "Galileo’s Error (Philip Goff)",
+        "relationship": "批判（科赫反駁 Goff 主張質性面向無法為量化框架所捕捉的觀點。）"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "對比（隱含的，關乎定位以及遞迴／全域廣播的必要性）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reflections of a natural scientist on panpsychism, Christof Koch",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t be Computed, Christof Koch",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Then I Am Myself the World: What Consciousness Is and How to Expand It, Christof Koch",
+        "year": 2024
+      },
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Masafumi Oizumi, Larissa Albantakis, Giulio Tononi",
+        "year": 2014
+      }
+    ]
+  }
+}

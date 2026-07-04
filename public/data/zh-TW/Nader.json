@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Nader 的「意識即一切」",
+    "summary": "本理論主張意識是終極的原初場域，也是唯一的根本存在者。一切被感知的實在，包括物質與個別心靈，都是這唯一意識藉以經驗其自身的有限視角或激發樣態。該理論運用一套以觀察者動力學為基礎的數學框架，將這些有限視角如何湧現加以形式化。",
+    "associated_thinkers": ["Tony Nader"],
+    "category": "觀念論",
+    "subcategory": "Nader 的「意識即一切」",
+    "core_identity_tagline": "意識即一切",
+    "classification_tags": [
+      "idealism",
+      "cosmic consciousness",
+      "monism",
+      "mathematical model",
+      "nondual"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為最原初的場域，也是根本實在本身，物理宇宙即由此湧現。",
+    "ontological_status": "觀念論",
+    "mind_body_relationship": "意識即一切；物質僅作為意識內的一種顯現、或作為意識自身的一種表現而為實在，而非作為獨立的實體。",
+    "primitive_or_emergent_status": "原初",
+    "emergence_type": "激進湧現（就物理實在而言）",
+    "subjectivity_and_intentionality": "主體性源自這唯一意識具有不同的「風味」，並透過眾多有限視角經驗其自身。存在（意向性）需要一個由「觀察者性」（Observerhood）、「觀察性」（Observinghood）與「被觀察性」（Observedhood）所組成的「意識位元」（Bit of Consciousness）三元組。",
+    "qualia_account": "感質被解釋為意識透過其有限視角所經驗到的主觀豐富性，以及不同的「風味」或「狀態」。",
+    "ontological_commitments": "由意識構成的一元論場域，以及「意識位元」（觀察者性、觀察性、被觀察性三元組）。",
+    "epistemic_access": "透過個人覺知與內省經驗這一不可否認的事實而得以認識，並藉由一套數學框架加以形式化。",
+    "constituents_and_structure": "意識作為一個單一場域運作，並透過可量化的「意識位元」表現其自身；這些位元是特定的三元組，代表實在所需的根本動態（觀察者、過程、被觀察者）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性、自我覺知、認知，以及存在的存有論基礎。",
+    "distinctive_mechanism_or_principle": "將覺知固有的運作樣態（知覺、辨別、組織）系統化，並藉由數學上的「意識位元」公理加以形式化；該公理將實在界定為自我經驗。",
+    "dynamics_of_emergence": "這唯一意識透過系統性地知覺、辨別並組織其自身的運作樣態，分化為眾多有限視角與主觀豐富性。",
+    "location_and_distribution": "無所不在；意識作為一個從有限視角經驗其自身的奇異點而分布；沒有任何事物存在於觀察領域之外。",
+    "causation_and_functional_role": "意識是因果的終極來源，支配其樣態如何顯現為實在。其功能是首要的自我經驗，並使覺知得以知覺並組織其自身的運作。",
+    "integration_or_binding": "統一性由「意識為一」這一根本前提所維繫。個別經驗則在其特定的「有限視角」或「意識位元」界限之內獲得統一。",
+    "information_flow_or_representation": "數學提供了對運作中之意識的精確而抽象的表徵。該理論框架旨在將人類覺知如何知覺、辨別並組織其樣態加以系統化。",
+    "evolutionary_account": "未明確處理。由於意識被設定為根本實在，物理世界的演化將被視為意識樣態的後續開展，而非意識的原因。",
+    "core_claims_and_evidence": [
+      "意識即一切，且不會在其自身之外創造任何物理事物。",
+      "物質僅作為意識內的一種顯現而為實在。",
+      "真實的存在需要一個「意識位元」三元組（觀察者性、觀察性與被觀察性）。",
+      "該理論試圖藉由解決其他領域（包括量子場論）中尚未解決的問題來驗證其公理。"
+    ],
+    "basis_of_belief_or_evidence_type": "現象學的、哲學的、數學的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗",
+    "known_empirical_interventions_or_tests": "來源中未提供明確的經驗性干預；該理論藉由從公理推導出結果並將其與人類經驗相比對、以及藉由試圖解決現有物理學中的問題，來檢驗其概念上的健全性。",
+    "criticisms_and_tensions": "面臨觀念論典型的分解問題：解釋不同的個別主體（有限視角）如何從根本上為一的意識中產生。並隱含地受制於「觀念論否認物理世界的客觀實在性」這一普遍批評。",
+    "open_questions_and_limitations": "必須確切地證明物理宇宙如何從根本意識中湧現，並成功解決其他科學領域（如量子場論）中長期存在的概念問題。",
+    "ontological_coherence": "高，因為它確立了一套完整的一元論存有論，其中心靈／意識是一切存在的唯一基礎，藉由將物質化約為顯現而消解了心身問題。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "若意識是實在的根本構造，則展現出必要結構複雜性的人工系統，或許能例示個別意識存在所固有的那種「有限視角」。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "既然意識是唯一的根本實在，個人意識（有限的自我）在肉體死亡時並不會消失，而是持續存在或擴展，重新整合回終極意識的奇異點之中。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙性",
+      "rationale": "意識是終極實在；因此，意義與目的內在於意識透過有限的主觀形式經驗其自身的宇宙過程之中。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "既然物理大腦僅是意識內的一種顯現，那麼在非生物介質中複製其樣態，應能使特定「有限視角」（主觀自我）的樣態在終極意識中延續。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Kastrup’s Analytic Idealism",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Indian Cosmic Consciousness",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness is all there is: a mathematical approach with applications, T. Nader",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Tony Nader Website, T. Nader",
+        "year": "n.d."
+      }
+    ]
+  }
+}

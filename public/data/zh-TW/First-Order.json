@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "一階表徵主義",
+    "summary": "一階表徵主義（FOR）試圖透過將意識化約為外部的、指向世界的意向狀態來解釋意識。它主張經驗的現象特徵完全由表徵的內容所決定，並把感質等同於經驗將對象表徵為具有的那些外部性質。",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "表徵性",
+    "core_identity_tagline": "意識作為外部的、指向世界的意向狀態",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "知覺經驗的現象方面與經驗將對象表徵為具有的那些外部的、真實世界的性質是同一回事。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一論／化約論式關聯。心靈狀態被等同於在大腦狀態中實現的、獲得了特定資訊功能的表徵。",
+    "primitive_or_emergent_status": "湧現的",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "意向性（思想的指向性）是首要的。主體性完全由表徵內容所決定，因為感覺表徵對主體是直接可得的。",
+    "qualia_account": "感質（現象特徵）被等同於表徵內容（強表徵主義）或經驗所表徵的外部性質，從而經由化約性解釋來解決難問題。",
+    "ontological_commitments": "心靈表徵、獲得資訊功能的大腦狀態、感覺／知覺迴路。",
+    "epistemic_access": "可透過聚焦於神經關聯物與表徵之全域廣播的第三人稱方法來通達，並輔以自我報告。",
+    "constituents_and_structure": "在大腦中被全域廣播的一階感覺表徵與非概念內容。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、通達意識、感覺經驗。",
+    "distinctive_mechanism_or_principle": "當大腦狀態（通常經由自然選擇）獲得了攜帶與外部對象相關的資訊這一功能，從而成為心靈表徵時，意識便產生。",
+    "dynamics_of_emergence": "當非概念內容在整個大腦中被全域廣播以供通達和利用時，意識便動態地產生。",
+    "location_and_distribution": "特定意識的神經關聯物包括感覺皮質與特定視丘核團的活動，並與知覺區域中的循環處理相關聯。",
+    "causation_and_functional_role": "意識的功能在於使知覺資訊可為那些允許靈活行為、信念形成與行動選擇的系統所用。",
+    "integration_or_binding": "整合透過感覺資訊（表徵）在全域認知網路中的可得性而實現（與全域廣播同時發生）。",
+    "information_flow_or_representation": "一階表徵直接從外部刺激流出；資訊加工對於將大腦狀態轉變為適合於意識的表徵至關重要。",
+    "evolutionary_account": "意識經由自然選擇而演化，其間大腦狀態獲得了攜帶資訊這一功能，從而增強了有機體的適應能力。",
+    "core_claims_and_evidence": [
+      "現象性質與經驗所表徵的外部的、真實世界的性質是同一的。",
+      "意識經驗與一階非概念內容在大腦中的全域廣播同時發生。",
+      "意識狀態是其內容完全決定主觀感受的表徵。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的（概念化約、聚焦意向性）與經驗的（神經科學關聯資料）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗檢驗",
+    "known_empirical_interventions_or_tests": [
+      "繪製一般意識與特定意識的神經關聯物（感覺皮質、視丘核團）",
+      "將意識與一階內容的全域廣播相關聯的研究"
+    ],
+    "criticisms_and_tensions": "面臨表徵理論的普遍挑戰：如何純粹用意向性來解釋現象學。批評者質疑單憑表徵或資訊內容如何能夠完全說明質性感受（感質）。",
+    "open_questions_and_limitations": "非概念表徵的內容究竟經由何種精確機制來決定主觀的「感受起來是怎樣的」，仍是一個解釋鴻溝，儘管支持者論證現象方面已由與外部性質的同一而得到解決。",
+    "ontological_coherence": "在一個化約論唯物論與功能論的存有論內高度融貫。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "作為一種唯物論理論，意識依賴於資訊內容與功能架構，因此若人工系統實現了所需的表徵結構與資訊功能，它們便可能例示意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識完全由物理的大腦過程所實現；在生物基質被摧毀之後的存續被排除。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義的",
+      "rationale": "作為一種唯物論理論，它不為任何終極的宇宙性意義或目的提供根據，只承認意識主體自身所生成的意義。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "若第一人稱自我完全由表徵內容與資訊狀態所捕捉，那麼將這些狀態完美複製（上傳）到非生物媒介中，就應當保存原來的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "批評／對比"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "延伸／重疊"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "相容／重疊"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

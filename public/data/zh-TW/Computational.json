@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "計算理論",
+    "summary": "心靈的計算理論主張心靈的運作類似於電腦，將心理狀態視為由系統化的、逐步進行的指令或演算法所界定的功能角色，獨立於底層的物理基質。這些理論透過模擬諸如推理和知覺之類的類心靈能力，推動了認知科學的興起。",
+    "associated_thinkers": [
+      "Nick Bostrom",
+      "James Reggia"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算與資訊",
+    "core_identity_tagline": "意識即演算法與計算",
+    "classification_tags": [
+      "computation",
+      "functionalism",
+      "AI",
+      "reductionism",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（或一般意義上的心理狀態）被認定為一種特定的、可發現類型的計算的執行。心理狀態由其功能角色或輸出所界定，而非由其內部構成或物質基質所界定。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一性／功能論。心理狀態是功能狀態，可在任何能夠處理資訊的物質形式中被例示（或實現），例如神經組織或電腦晶片。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現。與唯物論框架相一致，它假定心理性質儘管是高層級的，但在原則上可被完全解釋或化約為底層根本的計算與物理過程，即便實際的解釋十分複雜。",
+    "subjectivity_and_intentionality": "意向性（思想的指向性）透過可被操縱以描述概念的認知符號來解釋。主體性（現象意識）仍是一個挑戰，因為其重點主要在於外部功能與資訊處理，而非內在經驗。",
+    "qualia_account": "不確定／緊縮式。該理論難以對現象意識給出有說服力的展示，轉而聚焦於捕捉認知和行為的相關標誌。與此觀點相符的一些進路可能將感質視為虛幻的或不融貫的，而另一些則主張感質對應於被整合的、可報告的計算狀態。",
+    "ontological_commitments": "演算法、系統化的逐步指令、圖靈機（計算的抽象模型），以及任何能夠例示資訊的物理基質。",
+    "epistemic_access": "主要透過計算建模、模擬，以及對資訊處理能力和行為相關標誌的客觀測量來通達。",
+    "constituents_and_structure": "由系統化、逐步進行的指令（演算法）構成的例程，通常用圖靈機之類的抽象計算結構加以建模。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "通達（例如對資訊的全域通達）、記憶、知識結構、知覺、推理、問題求解，以及語言理解。現象意識（感質）往往被排除在外，或被視為一個未解決的問題。",
+    "distinctive_mechanism_or_principle": "執行特定類型的計算（演算法處理）對於意識既是必要的又是充分的這一原理。",
+    "dynamics_of_emergence": "演算法性／系統性。意識經由演算法對資訊的系統化處理而產生，從而使類心靈能力的模擬成為可能。",
+    "location_and_distribution": "其位置是功能性的而非物質性的；意識駐留於所需計算功能被例示之處，無論是在生物性神經組織中還是在非生物性電腦晶片中。",
+    "causation_and_functional_role": "心理狀態之所以具有因果效力，是因為它們是在物理世界中實現的功能狀態。其功能角色在於組織資訊處理，從而使規劃、決策和問題求解等能力成為可能。",
+    "integration_or_binding": "隱含地透過對資訊的複雜處理，以及對諸如知識結構和推理等認知能力所必需的專門計算功能的整合而實現。",
+    "information_flow_or_representation": "心理狀態是抽象的資訊或認知符號，由底層的物理基質以演算法方式加以操縱，以生成思想與理解。",
+    "evolutionary_account": "來源中的核心理論未明確論及，但與一般的唯物論觀點相容，即意識是神經生物學複雜性演化而來的產物，專門用於適應性處理與計算。",
+    "core_claims_and_evidence": [
+      "執行特定的、可發現類型的計算對於意識既是必要的又是充分的。",
+      "心理狀態僅由其輸出或功能角色所決定，而與物理介質無關。",
+      "計算建模是科學地研究意識的一種被認可的方法論。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算的、哲學的（功能論）以及邏輯的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "經驗上可檢驗。其方法論涉及使用計算建模來評估系統是否成功模擬了有意識加工的已知神經生物學、認知與行為相關標誌。",
+    "known_empirical_interventions_or_tests": [
+      "開發並檢驗對認知相關標誌的計算模型與機器模擬。"
+    ],
+    "criticisms_and_tensions": "被批評為一種將心靈比作「當下科學時興之物」的歷史性類比。主要張力在於缺乏對現象性機器意識有說服力的展示，從而招致這樣的批評：它只處理了「容易問題」（功能），卻忽視了「難問題」（經驗）。",
+    "open_questions_and_limitations": "關鍵的未決問題是：執行計算，無論其複雜程度如何，是否真的足以產生現象意識（「作為它是什麼樣」）。",
+    "ontological_coherence": "在化約物理論和功能論框架內是融貫的，其依據的前提是：一切心理實在都可化約為資訊處理或演算法結構。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "由於計算功能論主張意識是執行恰當類型計算的結果，因此鑑於非生物智能的計算精密程度呈指數級增長，人工智慧意識不僅是可能的，而且是不可避免的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識與在某一基質中的物理或功能實現相聯繫。傳統意義上的死後存續被否定，但唯有透過數位化心靈上傳（虛擬永生）才可能實現延續。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人文意義",
+      "rationale": "作為一種唯物論理論，它不支持任何終極的宇宙意義或目的；意義與價值被視為源自有意識存在者複雜功能的湧現性、自我創造的現象。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "如果意識純粹是計算性／功能性的（意即其本質是演算法性的），那麼在非生物介質中對大腦功能模式的完美複製便能保存第一人稱的心理自我，從而使虛擬永生在原則上可實現。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "核心原理"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "擴展"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "相容"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批評"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The computational theory of mind, Michael Rescorla",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The rise of machine consciousness: studying consciousness with computational models, James Reggia",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      }
+    ]
+  }
+}

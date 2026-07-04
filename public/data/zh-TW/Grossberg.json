@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Grossberg 的適應共振理論（ART）",
+    "summary": "Grossberg 的理論確立所有有意識狀態都是共振狀態，由自下而上的感官模式與習得的自上而下期望之互動所產生。這一理論基礎，即適應共振理論（ART），解釋了腦如何自我組織以有意識地注意、分類、辨識並預測動態世界中的現象。它宣稱這些腦共振的多樣性，朝著解決意識的難問題取得了進展。",
+    "associated_thinkers": [
+      "Stephen Grossberg"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算與資訊的",
+    "core_identity_tagline": "「作為共振狀態的有意識狀態」",
+    "classification_tags": [
+      "computation",
+      "resonance",
+      "neurobiological",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被指認為一種持續的共振狀態，由自下而上的模式與習得的自上而下期望之間的互動所產生；當它包含表徵感質的特徵選擇性細胞時，便能夠支持有意識的覺知。心靈被概念化為一種活動，或一個動詞，而非靜態的實體。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一論／一元論。心靈是物理腦的活動（是動詞，而非名詞），受到在細胞系統間守恆的、機制上相似的定律所調控。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現。基於其被歸類為依賴計算結構與守恆生物定律的唯物論理論，意識預期可由較低層次的過程完全解釋，儘管或許無法直觀地化約為這些過程。",
+    "subjectivity_and_intentionality": "意向性（辨識、預測、學習）由注意性意識所調控，而注意性意識實現於共振狀態之中。主體性則透過在這些狀態中納入表徵感質的特徵選擇性細胞而獲得說明。",
+    "qualia_account": "感質被指認為納入持續共振狀態之中的特徵選擇性細胞，支持有意識的覺知。Grossberg 認為這有助於處理意識的難問題。",
+    "ontological_commitments": "共振狀態、計算結構、自下而上的感官模式、自上而下的期望，以及跨生物系統守恆的短期與長期記憶／激活定律。",
+    "epistemic_access": "可透過神經與認知建模、對腦資料的觀察，以及分析人類如何有意識地知覺並認知事物而通達。",
+    "constituents_and_structure": "一種共振狀態，透過自下而上的感官輸入與自上而下之習得期望的持續互動而建立，並受到共通的短期與長期記憶定律所調控。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象、注意性意識、學習、辨識、預測、行動調控。",
+    "distinctive_mechanism_or_principle": "適應共振理論（ART），其中自下而上與自上而下路徑之間持續、極大不可化約的共振狀態，被宣稱為意識的必要且充分條件（所有有意識狀態都是共振狀態）。",
+    "dynamics_of_emergence": "動態過程。意識實現為一種動態的共振狀態，持續與學習、預測等認知過程互動並加以調控。",
+    "location_and_distribution": "定域於腦結構之內，特別是在表徵感質的特徵選擇性細胞被納入共振狀態之處。",
+    "causation_and_functional_role": "注意性意識調控與學習、辨識、預測等認知過程互動的行動。它提供了在變動世界中自主學習並分類物件與事件的能力。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "可經驗與計算檢驗，立基於其認知與神經模型的基礎。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "來源中並未詳述特定的重大外部批評，但唯物論理論常見的一般張力（例如難以透過純粹功能性定義完全捕捉主觀質性／感質）同樣適用。",
+    "open_questions_and_limitations": "該理論以解決難問題為目標，顯示充分界定共振狀態與現象經驗之間的關係仍是一項持續進行的挑戰。",
+    "ontological_coherence": "在計算與唯物論的存有論框架內具融貫性，將意識的本質直接對應於功能性的腦活動。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "該理論是一種功能論模型，其中意識是特定計算結構與守恆定律得以實現的結果。若這些計算結構（共振狀態）能在非生物硬體中實現，人工智慧意識便是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識根本上綁定於生物腦以物理方式具現的共振活動，未提供任何在身體死亡後存續的概念性途徑。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅限人本的",
+      "rationale": "作為一種聚焦於腦之自我組織與適應功能（學習、預測、生存）的唯物論理論，它並不蘊含人類經驗之外任何終極或宇宙性的意義或目的。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能",
+      "rationale": "若心靈在功能上被界定為一個由計算活動（共振狀態）構成的系統，那麼在非生物介質中充分完整地複製這一結構，原則上應能保存第一人稱的心理自我。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "相似（功能論進路）"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "相似（功能論進路）"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "相似（功能論進路）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Adaptive Resonance Theory: how a brain learns to consciously attend, learn, and recognize a changing world, Stephen Grossberg",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The resonant brain: how attentive conscious seeing regulates action sequences that interact with attentive cognitive learning, recognition, and prediction, Stephen Grossberg",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Conscious Mind, Resonant Brain: How Each Brain Makes a Mind, Stephen Grossberg",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Towards solving the hard problem of consciousness: the varieties of brain resonances and the conscious experiences that they support, Stephen Grossberg",
+        "year": 2017
+      }
+    ]
+  }
+}

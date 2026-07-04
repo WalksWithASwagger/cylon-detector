@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Fisher 的量子認知",
+    "summary": "此理論提出，涉及核自旋的量子處理在腦中起作用，並且是腦功能的關鍵，充當意識的生物學機制。它主張磷核自旋充當由波斯納分子所保護的量子位元（神經量子位元），從而實現影響神經活動所必需的量子糾纏。",
+    "associated_thinkers": [
+      "Matthew Fisher"
+    ],
+    "category": "量子理論",
+    "subcategory": "量子認知",
+    "core_identity_tagline": "作為核自旋量子處理的意識",
+    "classification_tags": [
+      "quantum",
+      "neurobiology",
+      "materialist",
+      "qubit",
+      "entanglement"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為利用生物量子位元（磷核自旋）和長壽命糾纏進行量子處理的結果，這種處理從根本上影響著神經通訊。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "同一論。意識是一個物理過程，衍生自（或同一於）生物基質內特定的、低層級的量子力學交互作用。",
+    "primitive_or_emergent_status": "湧現",
+    "emergence_type": "弱湧現。意識產生於使量子力學過程成為可能的複雜生物結構，而這些過程受已知的基礎物理學原理所支配。",
+    "subjectivity_and_intentionality": "此理論著眼於意識所需的底層物理基質，但未明確闡述這一量子機制如何生成主觀感受或意向性。這些性質被隱含地假設為：一旦達成必要的量子處理功能，它們便會產生。",
+    "qualia_account": "來源材料詳述了意識所必需的物理機制（量子位元、糾纏），但並未明確說明質性感受（感質）如何從這些特定的量子生物過程中湧現或與之相對應。",
+    "ontological_commitments": "磷核自旋（作為神經量子位元）、磷酸根離子、波斯納分子（磷酸鈣團簇）、量子糾纏以及神經元放電率。",
+    "epistemic_access": "可透過科學研究通達，尤其是凝態物理學、量子生物學以及對腦內量子力學交互作用的建模。",
+    "constituents_and_structure": "基本構件是容納於波斯納分子內的磷核自旋（量子位元），它們經組織後可實現糾纏以及隨後影響大尺度神經網路活動的非定域關聯。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識、腦功能以及神經量子處理。",
+    "distinctive_mechanism_or_principle": "神經量子位元（波斯納分子中的磷核自旋）的量子糾纏，繼而發生量子測量，轉化為鈣離子釋放，從而影響神經傳導物質釋放和神經元放電。",
+    "dynamics_of_emergence": "意識是一個動態過程，產生於量子糾纏（由波斯納分子所保護）與客觀還原（測量／坍縮）的循環，該循環調制著古典的神經訊號。",
+    "location_and_distribution": "定位於特定的分子結構（波斯納分子）以及隨後對腦內神經元微觀層面動力學的影響。",
+    "causation_and_functional_role": "提供了一種神經量子處理機制，其中量子測量事件（波斯納分子的結合與解體）觸發鈣離子釋放，從而增強突觸後神經元的放電。",
+    "integration_or_binding": "整合經由神經元放電率的非定域量子關聯來實現，這源自多個波斯納分子的糾纏。",
+    "information_flow_or_representation": "資訊被編碼並儲存於量子記憶（波斯納分子）與糾纏之中，促成了複雜的、非定域的資訊處理，並饋入古典的神經系統。",
+    "evolutionary_account": "來源中未明確討論，但隱含地依賴於生物演化選擇出能夠利用量子力學以增強處理和功能的系統。",
+    "core_claims_and_evidence": [
+      "磷核自旋充當腦內量子處理的神經量子位元。",
+      "波斯納分子作為量子記憶保護這些量子位元。",
+      "糾纏的波斯納分子經由鈣釋放觸發神經元放電率的非定域量子關聯。",
+      "此理論明確指出，若量子處理對意識而言是基礎性的，則所需的具體解釋步驟為何。"
+    ],
+    "basis_of_belief_or_evidence_type": "基於凝態物理學和新興的量子生物學領域的概念建模。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "經驗上可檢驗／思辨性的。此理論足夠具體，能夠識別出潛在的生物學靶標以及供未來量子神經科學進行經驗檢驗的解釋步驟。",
+    "known_empirical_interventions_or_tests": "來源中未列出已驗證或證偽該理論的特定經驗性介入或檢驗。迄今為止，其主要作用是為未來的量子生物學研究提供概念指導。",
+    "criticisms_and_tensions": "來源指出此理論可能「在具體細節上有誤」，並且與大多數量子意識理論一樣，面臨來自物理學家和神經科學家的懷疑。",
+    "open_questions_and_limitations": "關於量子位元和波斯納分子的具體化學與生物學細節可能在生物學上並不準確。即便該機制對腦功能而言屬實，它對現象意識是否充分或必要仍不清楚。",
+    "ontological_coherence": "在一種擴展的唯物論或物理論存有論內是融貫的，該存有論接受量子力學在與意識相關的生物計算中扮演特定的、基礎性的角色。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "很可能",
+      "rationale": "如果意識依賴於量子力學及其可預測的規律，那麼只要能夠克服控制量子態的技術挑戰，先進技術原則上就能創造出人工智慧意識。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "此理論將意識嚴格地繫於物理性大腦內特定的、短壽命的分子／生物結構和過程（磷、波斯納分子），提示意識在生物死亡時終止。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅人本主義意義",
+      "rationale": "作為一種基於分子機制的純粹物理論意識解釋，此理論並未引入非物理性或終極的宇宙意義，將目的限於由有意識的生物性行動者所創造的東西。"
+    },
+    "virtual_immortality": {
+      "stance": "很可能（但存不確定性）",
+      "rationale": "上傳意識將要求技術能夠精確地操控和複製複雜的量子態。儘管量子力學受規律支配，但其內在的非確定性對完美可複製性引入了一定程度的不確定性。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "擴展"
+      },
+      {
+        "name": "Poznanski’s Dynamic Organicity Theory",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Matthew Fisher, Quantum cognition: the possibility of processing with nuclear spins in the brain",
+        "year": 2015
+      }
+    ]
+  }
+}

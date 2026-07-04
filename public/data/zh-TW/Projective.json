@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "投射意識模型",
+    "summary": "投射意識模型（PCM）是一個關於具身意識的數學框架，主張意識場（Field of Consciousness, FoC）由射影幾何所結構化，並由主動推論所控制。它將現象學連結至功能，論證意識是一種為求韌性而優化資訊整合的演化機制。",
+    "associated_thinkers": [
+      "David Rudrauf",
+      "Kenneth Williford",
+      "Daniel Bennequin",
+      "Karl Friston"
+    ],
+    "category": "唯物論",
+    "subcategory": "體內恆定與情感",
+    "core_identity_tagline": "作為射影幾何與主動推論的意識",
+    "classification_tags": [
+      "mathematical",
+      "embodied",
+      "active inference",
+      "projective geometry",
+      "free energy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識被認定為一種優化資訊整合的演化機制，其功能為一套最大化韌性的演算法。有意識的狀態反映了射影變換的作用。",
+    "ontological_status": "物理論",
+    "mind_body_relationship": "具身意識，其中心靈並非僅化約為具身性，而是需要物理結構；「活生生的身體」作為對實際身體的一項關鍵推論性表徵。",
+    "primitive_or_emergent_status": "已湧現",
+    "emergence_type": "弱湧現",
+    "subjectivity_and_intentionality": "PCM 說明了主觀經驗的空間現象學，並將意向性連結至情感過程。意識場依據偏好選擇觀點，藉此框架各種經驗。",
+    "qualia_account": "此理論說明了主觀經驗的空間現象學，主張有意識的狀態經由射影變換而產生，儘管特定的質性感受（「感質」）細節並未被明確提供。",
+    "ontological_commitments": "射影幾何、自由能、具身系統、多模態感官資訊、記憶痕跡。",
+    "epistemic_access": "透過數學建模、計算分析以及對空間現象學的研究來通達。",
+    "constituents_and_structure": "由射影幾何所結構化的意識場（FoC），並依賴「活生生的身體」作為表徵與控制的虛擬使用者介面。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象性（空間現象學）、知覺、想像、行動、情感過程（意向性）。",
+    "distinctive_mechanism_or_principle": "控制空間性意識場的主動推論過程，該意識場由射影幾何所結構化以轉換期望。對期望的違反（自由能）驅動觀點取替。",
+    "dynamics_of_emergence": "有意識的狀態是一種動態過程，在射影變換被施用時產生，主宰著知覺、想像與行動之間的切換。",
+    "location_and_distribution": "系統性的；意識是具身的，並涉及一個投射出全域三維空間幾何的整合性預測系統。",
+    "causation_and_functional_role": "其功能為最大化韌性並展現計算上的優勢。意識促進對空間分布的資訊與行動之表徵、模擬、評估與控制。",
+    "integration_or_binding": "整合透過一個整合性預測系統而達成，該系統將全域三維空間幾何投射至通達意識工作空間的多模態感官資訊與記憶痕跡。",
+    "information_flow_or_representation": "意識優化資訊整合。射影框架主宰期望如何被意識所轉換。「活生生的身體」是一項推論性表徵。",
+    "evolutionary_account": "意識作為一種優化資訊處理的機制而演化。具身系統藉由發展出對空間的整合性認知而獲得演化優勢。",
+    "core_claims_and_evidence": [
+      "空間性意識場由射影幾何所結構化，並由主動推論所控制。",
+      "意識是一種為求韌性而優化資訊整合的演化機制。",
+      "「活生生的身體」作為一項關鍵的推論性表徵與自我完整性的錨點。"
+    ],
+    "basis_of_belief_or_evidence_type": "數學的、計算的、現象學的、功能的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念上可檢驗",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "在計算與功能的唯物論存有論內高度一致，尤其與自由能原理框架相契合。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "有條件",
+      "rationale": "如果射影幾何與主動推論的數學與計算結構能在人工的、最好是具身的系統中被成功實現，那麼人工智慧意識便是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "該模型植根於物理實在，強調繫於生物性大腦的具身意識與體內恆定原理，並未提供任何後生物性存續的基礎。"
+    },
+    "meaning_and_purpose": {
+      "stance": "僅功能性",
+      "rationale": "意識主要被界定為一種最大化韌性並優化資訊處理的演化機制，這蘊含的是一種適應性目的，而非終極的宇宙意義。"
+    },
+    "virtual_immortality": {
+      "stance": "有條件",
+      "rationale": "作為一個功能性的數學模型，若射影結構所需的複雜動力學與具身面向能在非生物基質中被完美地模擬／複製，虛擬永生便是可設想的。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "基礎"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "基礎"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "相容"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A mathematical model of embodied consciousness, D. Rudrauf et al",
+        "year": 2017
+      }
+    ]
+  }
+}

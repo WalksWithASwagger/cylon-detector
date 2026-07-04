@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "直接知覺理論",
+    "summary": "該理論主張，知覺所必需的一切資訊都外在於觀察者，並且僅僅源自遠端刺激的性質。\n知覺意識是一種對外部客體的直接的、不可分析的覺知關係，其運作無需內部推理、記憶或表徵之建構的輔助。",
+    "associated_thinkers": [
+      "Ned Block (as describer of direct realist/naïve realist views)"
+    ],
+    "category": "唯物論",
+    "subcategory": "具身與生成",
+    "core_identity_tagline": "「知覺即對遠端刺激的直接覺知」",
+    "classification_tags": [
+      "perception",
+      "realism",
+      "non-representational",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象意識，尤其是其知覺特徵，被認定為一種對環境中客體或性質的直接覺知關係——很可能是一種原初的、不可分析的親知關係。",
+    "ontological_status": "直接實在論／素樸實在論（物理論的一種形式）。",
+    "mind_body_relationship": "現象特徵是「客體構成的」，意即一個知覺經驗的存在與個別化直接依賴於外部客體，暗示著一種非中介的、直接的構成關係。",
+    "primitive_or_emergent_status": "原初的（該直接覺知關係本身被認為是一種原初的、不可分析的親知關係）。",
+    "emergence_type": "不適用（核心的覺知關係被描述為原初的且不可分析的，使得湧現的概念對當下的意識行為本身不適用）。",
+    "subjectivity_and_intentionality": "主觀的、第一人稱的經驗（現象特徵）由外部客體直接構成（意向性）。因此意向性是非表徵的，它僅僅透過依賴於外部客體本身來達成指向性。",
+    "qualia_account": "質性感受（現象特徵）是客體構成的。如果一個經驗所關涉的客體不同，那麼它就具有不同的現象特徵，即便在主觀上無法區分（例如源自一次完美的幻覺）。",
+    "ontological_commitments": "遠端刺激（環境中的外部客體與性質）以及一種原初的、不可分析的親知關係（直接覺知）。",
+    "epistemic_access": "對世界的知識經由知覺而直接獲得，而非經由內部表徵或對起中介作用的心理狀態的內省。",
+    "constituents_and_structure": "意識僅由遠端刺激的性質建構結構。其基本構件是對某種特異實體（如感覺與料）或對環境中客體／性質的直接「親知關係」。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象意識（具體為知覺意識）。",
+    "distinctive_mechanism_or_principle": "中間處理的缺失；意識產生於對外部資訊的直接探測，無需內部認知過程（推理、記憶、表徵之建構）的輔助。",
+    "dynamics_of_emergence": "該理論聚焦於直接覺知關係作為原初之物的本性，而非描述這一關係如何隨時間產生或變化的動態過程。",
+    "location_and_distribution": "知覺所必需的資訊外在於觀察者（外在於大腦／身體，棲居於遠端刺激之中）。然而，有意識的現象經驗則例示於觀察者之中。",
+    "causation_and_functional_role": "其首要的功能角色是使觀察者能夠僅僅基於遠端刺激而準確地知覺一個客體，繞過那些可能建構表徵的傳統認知過程。",
+    "integration_or_binding": "未作說明。現象區分的整合被假定為對客體本身的原初的、不可分析的親知關係的一項特徵，而非一個計算的或資訊的綁定過程。",
+    "information_flow_or_representation": "資訊直接從外部世界（遠端刺激）流向觀察者的知覺，拒斥對心理表徵之內部建構的必要性。",
+    "evolutionary_account": "在所提供的源材料中未明確論及。（生態心理學變體，即吉布森的理論，暗示了有機體與環境之間的演化適配，但直接知覺理論本身聚焦於非表徵機制。）",
+    "core_claims_and_evidence": [
+      "知覺僅基於遠端刺激的性質，無需推理或記憶的輔助。",
+      "經驗的現象特徵是客體構成的；客體的改變必然導致現象特徵的改變。",
+      "該覺知關係是一種原初的、不可分析的親知關係，並非表徵之事。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲學的與概念的（為素樸實在論辯護以對抗表徵理論，依賴於區分真確知覺與主觀上無法區分之幻覺的思想實驗）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "在概念上可檢驗（經由思想實驗）。要在經驗上分離出一種獨立於認知處理的純粹「不可分析的原初親知關係」是有挑戰性的。",
+    "known_empirical_interventions_or_tests": "源材料中未明確列出，其聚焦於該理論的概念蘊涵，例如比較真實知覺與主觀上無法區分之幻覺的現象特徵。",
+    "criticisms_and_tensions": "一個主要的張力在於其蘊涵：主觀上無法區分的經驗（例如看見一個真實的番茄與幻覺出一個完全相同的番茄）必然具有不同的現象特徵，因為現象經驗依賴於外部客體的存在。",
+    "open_questions_and_limitations": "「原初的、不可分析的親知關係」的確切本性仍未得到界定。該理論必須說明真實客體與主觀上無法區分的錯覺或幻覺經驗之間在現象特徵上的差異。",
+    "ontological_coherence": "在一個拒斥內部現象性質之中介作用的嚴格物理論／實在論存有論內融貫，但受到諸如幻覺這類現象學事實的挑戰——在幻覺中，客體構成的本性便崩解了。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定",
+      "rationale": "如果原初的親知關係從根本上依賴於直接耦合到遠端刺激所必需的特定生物結構，那麼人工意識或許是不可能的。由於該理論是物理論／唯物論的，如果底層的直接機制能夠被再現，人工意識便是可能的。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "該理論強調經驗對外部物理環境（遠端刺激）的依賴，並被歸類於唯物論之下，意味著意識繫於物理有機體及其環境。"
+    },
+    "meaning_and_purpose": {
+      "stance": "有條件的",
+      "rationale": "該理論主要關注知覺的機制，而非終極實在或存在。作為一種唯物論理論，它預設為由我們自己創造的人本主義意義、目的與價值。"
+    },
+    "virtual_immortality": {
+      "stance": "不確定",
+      "rationale": "虛擬永生要求對意識的完美複製。由於現象特徵是客體構成的，一個虛擬自我如果缺乏對真實物理環境的真正「直接覺知關係」，便可能無法保留其原初的現象特徵。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Naïve Realist Theories",
+        "relationship": "重疊"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "重疊（共享反表徵立場）"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "批評（拒斥表徵的中介作用）"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批評（隱含的，因為現象特徵基於客體構成而非功能角色）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Direct Perception Theory",
+        "year": "APA website"
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking, N. Block",
+        "year": "2023"
+      }
+    ]
+  }
+}
