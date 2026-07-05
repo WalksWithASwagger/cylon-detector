@@ -1,0 +1,117 @@
+{
+  "id_and_class": {
+    "theory_title": "चेतना का संवेदी-प्रेरक (एनैक्टिव) सिद्धांत (नोए का “आउट ऑफ आवर हेड्स” दृष्टिकोण)",
+    "summary": "यह सिद्धांत इस पूर्वधारणा को अस्वीकार करता है कि चेतना विशेष रूप से मस्तिष्क के भीतर घटित होती है, यह तर्क देते हुए कि अकेली आंतरिक मस्तिष्क प्रक्रियाएँ अनुभव उत्पन्न करने के लिए अपर्याप्त हैं। चेतना मूलतः एक गतिविधि या प्रक्रिया है जो मस्तिष्क, शरीर और पर्यावरण के बीच गतिशील, निरंतर और कुशल अंतःक्रिया के माध्यम से क्रियान्वित होती है।",
+    "associated_thinkers": [
+      "Alva Noë",
+      "Kevin O’Regan"
+    ],
+    "category": "भौतिकवाद",
+    "subcategory": "संबंधपरक",
+    "core_identity_tagline": "सक्रिय संसार-अंतःक्रिया के रूप में चेतना",
+    "classification_tags": [
+      "relational",
+      "embodied",
+      "enactive",
+      "externalism",
+      "activity"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "चेतना को संसार पर ध्यान रखने, उसके संपर्क में बने रहने, उस पर ध्यान देने, और उसके साथ अंतःक्रिया करने की गतिविधि के रूप में पहचाना जाता है। यह संसार तक पहुँचने और जीव के लिए संसार को 'प्रकट होने' देने की प्रक्रिया है, जिसे सक्रिय संलग्नता द्वारा परिभाषित किया जाता है।",
+    "ontological_status": "भौतिकीवाद",
+    "mind_body_relationship": "मन वह गतिविधि है जो मस्तिष्क, शरीर और पर्यावरण के एक साथ कार्य करने से उत्पन्न होती है। मस्तिष्क आवश्यक यांत्रिक आधारद्रव्य प्रदान करता है पर चेतना के लिए पर्याप्त नहीं है; यह प्रतीकों का स्थान है, न कि स्वयं चेतना।",
+    "primitive_or_emergent_status": "उद्भूत",
+    "emergence_type": "दुर्बल उद्भव",
+    "subjectivity_and_intentionality": "आत्मनिष्ठता (संसार हमारे लिए 'कैसे प्रकट होता है') और आशयिकता जीव की पर्यावरण के साथ सक्रिय, कुशल संलग्नता से उत्पन्न होती हैं, जो संदर्भ, रुचि, ज्ञान और समझ से प्रभावित होती हैं।",
+    "qualia_account": "क्वालिया को वास्तविक जीवन के अनुभवों की सघनता, विस्तार और सुदृढ़ता का भाग सूचित किया जाता है जो निरंतर संसार-अंतःक्रिया से उत्पन्न होती है, जो सच्ची चेतना को मात्र स्वप्न अनुभवों से अलग करती है।",
+    "ontological_commitments": "भौतिक पर्यावरण, जैविक मस्तिष्क/शरीर, और उनके बीच की गतिशील अंतःक्रिया/गतिविधि।",
+    "epistemic_access": "पहुँच के लिए सिर के बाहर संसार में जीव की सक्रिय भूमिका और कौशल-अर्जन को देखना आवश्यक है, जो ध्यान को आंतरिक मस्तिष्क घटनाओं से बाह्य क्रिया और अंतःक्रिया की ओर स्थानांतरित करता है।",
+    "constituents_and_structure": "मस्तिष्क, शरीर की संवेदी-प्रेरक प्रणालियों, और बाह्य पर्यावरण से मिलकर बनी गतिशील, परस्पर जुड़ी प्रणाली।"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "घटनात्मक, कर्तृत्व, पहुँच (एक उपलब्धि के रूप में)",
+    "distinctive_mechanism_or_principle": "जीव और उसके परिवेश के बीच सक्रिय और निरंतर संलग्नता। चेतना इस अंतःक्रिया/गतिविधि पाश में स्थित है, न कि अकेली आंतरिक मस्तिष्क अवस्था में।",
+    "dynamics_of_emergence": "चेतना संसार के संपर्क में बने रहने और उसके साथ अंतःक्रिया करने की एक गतिशील प्रक्रिया है, जिसे जीव द्वारा निरंतर क्रियान्वित किया जाता है।",
+    "location_and_distribution": "मस्तिष्क, शरीर और पर्यावरण की समस्त प्रणाली में वितरित; 'हमारे सिरों के बाहर' स्थित।",
+    "causation_and_functional_role": "चेतना सक्रिय है, जो जीव को संसार तक पहुँचने और उसे क्रियान्वित करने में सक्षम बनाती है, तथा उत्तरजीविता और समझ के लिए सुविचारित, संदर्भात्मक और कुशल क्रिया का मार्गदर्शन करने का कार्य करती है।",
+    "integration_or_binding": "एकीकरण जीव की कुशल, सक्रिय संलग्नता और संसार पर ध्यान देने के कारण संसार के 'हमारे लिए प्रकट होने' की संगति के माध्यम से प्राप्त होता है।",
+    "information_flow_or_representation": "सूचना को जीव की अंतःक्रिया और कौशलों द्वारा सक्रिय रूप से अभिगम्य और आकारित किया जाता है, जो पर्यावरण के अर्थ को परिभाषित करता है।",
+    "evolutionary_account": "चेतना संसार तक पहुँच को सक्षम करने और मूर्त तथा कुशल अंतःक्रिया के माध्यम से अर्थ की मध्यस्थता के लिए उत्पन्न हुई, जो उत्तरजीविता के लिए एक प्रबल अनुकूली लाभ सूचित करती है।",
+    "core_claims_and_evidence": [
+      "चेतना संसार के साथ निरंतर संलग्नता की गतिविधि है।",
+      "वास्तविक जीवन के अनुभव की सघनता और सुदृढ़ता (स्वप्नों के विपरीत) बाह्य अंतःक्रिया की आवश्यकता का समर्थन करती है।",
+      "मस्तिष्क प्रतीकों का यांत्रिक स्थान है, पर गतिविधि ही स्वयं चेतना है।"
+    ],
+    "basis_of_belief_or_evidence_type": "दार्शनिक तर्क, घटनात्मक अंतर्दृष्टि, पारंपरिक आंतरिकतावाद की आलोचना"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "वैचारिक रूप से परीक्षणीय",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "मुख्य तनाव यह समझाने में है कि अंतःक्रिया किस प्रकार प्रबल अर्थ में चेतना है, न कि मात्र उसे सक्षम या प्रभावित करती है। आलोचक इस मत को अस्वीकार करते हैं कि आंतरिक मस्तिष्क घटनाओं का अध्ययन चेतना को समझने के लिए अपर्याप्त है।",
+    "open_questions_and_limitations": "इस सिद्धांत में इस बात की स्पष्ट परिभाषा का अभाव है कि बाह्य अंतःक्रिया/गतिविधि आंतरिक अनुभव या क्वालिया को कैसे गठित करती है, और इस गतिविधि को मात्र अचेतन प्रसंस्करण से कठोरता से कैसे अलग किया जाए।",
+    "ontological_coherence": "एक आंतरिकतावाद-विरोधी और मूर्त दार्शनिक ढाँचे के भीतर संगत, जो आंतरिकतावादी भौतिकवाद और द्वैतवाद की मूलभूत पूर्वधारणाओं को सीधे चुनौती देता है।"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "अनिश्चित/सशर्त",
+      "rationale": "मानक अभिकलन अपर्याप्त है; चेतना केवल तभी संभव है यदि AI प्रणालियाँ पूर्ण मूर्तन, कौशल, और एक संसार के साथ निरंतर, स्वायत्त अंतःक्रिया प्राप्त करें (सजीव जीवों पर आरोपित समान माँगों को पूरा करते हुए)।"
+    },
+    "survival_beyond_death": {
+      "stance": "नहीं",
+      "rationale": "चेतना संसार के साथ अंतःक्रिया करते मस्तिष्क और शरीर के निरंतर, सक्रिय भौतिक पाश से अवियोज्य है; इसकी समाप्ति का अर्थ है सचेतन गतिविधि का अंत।"
+    },
+    "meaning_and_purpose": {
+      "stance": "केवल मानवतावादी",
+      "rationale": "चेतना कर्ता को संदर्भ, ज्ञान और समझ अर्जित करने में सक्षम बनाती है, जो अंतःक्रियाओं को अर्थ प्रदान करने और सक्रिय व्यवहार का मार्गदर्शन करने की क्षमता देती है, पर किसी उत्कृष्ट उद्देश्य को सूचित नहीं करती।"
+    },
+    "virtual_immortality": {
+      "stance": "अत्यधिक असंभाव्य",
+      "rationale": "केवल मस्तिष्क की आंतरिक प्रक्रियाओं ('यांत्रिक स्थान') को अपलोड करना चेतना के रूप में परिभाषित उस अ-मस्तिष्क-बद्ध, बाह्य, और निरंतर अंतःक्रियात्मक गतिविधि को पकड़ नहीं सकता।"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Enactivism (Varela & Thompson)", "relationship": "गठनकारी ढाँचा" },
+      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "मूलभूत प्रभाव" },
+      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "दार्शनिक प्रभाव" },
+      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "आंशिक रूप से संगत / अतिव्यापी" },
+      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "संबंधित / पूरक (सक्रिय प्रत्यक्षण, साझा परिपथ प्रतिरूप)" },
+      { "name": "Internalist Materialism", "relationship": "आलोचना" },
+      { "name": "Dualism", "relationship": "आलोचना" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
+        "year": 2010
+      },
+      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Is consciousness an illusion, Alva Noë",
+        "year": 2007
+      },
+      {
+        "title_with_names": "O’Regan, K., & Noë, A. A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–1031.",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Noë, A. Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness.",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Varela, F., Thompson, E., & Rosch, E. The Embodied Mind: Cognitive Science and Human Experience.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Gibson, J.J. The Ecological Approach to Visual Perception.",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Hurley, S. L. (1998). Consciousness in Action. Harvard University Press."
+      },
+      {
+        "title_with_names": "Hurley, S. (2008). The Shared Circuits Model (SCM): How control, mirroring, and simulation can enable imitation, deliberation, and mindreading. Behavioral and Brain Sciences, 31(1)."
+      }
+    ]
+  }
+}

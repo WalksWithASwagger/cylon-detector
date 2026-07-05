@@ -138,5 +138,10 @@
   "itemDetails.implications.virtualImmortality": "Віртуальне безсмертя",
 
   "misc.unknown": "Невідомо",
-  "misc.unknownError": "Невідома помилка"
+  "misc.unknownError": "Невідома помилка",
+
+  "nav.language.ariaLabel": "Вибрати мову",
+  "languagePopup.title": "Вибрати мову",
+  "languagePopup.subtitle": "Оберіть бажану мову",
+  "languagePopup.closeAriaLabel": "Закрити вибір мови"
 }

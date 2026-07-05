@@ -138,5 +138,10 @@
   "itemDetails.implications.virtualImmortality": "الخلود الافتراضي",
 
   "misc.unknown": "غير معروف",
-  "misc.unknownError": "خطأ غير معروف"
+  "misc.unknownError": "خطأ غير معروف",
+
+  "nav.language.ariaLabel": "اختر اللغة",
+  "languagePopup.title": "اختر اللغة",
+  "languagePopup.subtitle": "اختر لغتك المفضلة",
+  "languagePopup.closeAriaLabel": "إغلاق محدد اللغة"
 }

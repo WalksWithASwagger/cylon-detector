@@ -138,5 +138,10 @@
   "itemDetails.implications.virtualImmortality": "虛擬永生",
 
   "misc.unknown": "未知",
-  "misc.unknownError": "未知錯誤"
+  "misc.unknownError": "未知錯誤",
+
+  "nav.language.ariaLabel": "選擇語言",
+  "languagePopup.title": "選擇語言",
+  "languagePopup.subtitle": "選擇您偏好的語言",
+  "languagePopup.closeAriaLabel": "關閉語言選擇器"
 }

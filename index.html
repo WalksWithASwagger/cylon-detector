@@ -3,6 +3,49 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // Zero-flash locale redirect: if the visitor lands on the default
+      // (unprefixed / English) path and hasn't explicitly chosen a language,
+      // send them to the version matching a stored preference or their browser
+      // language. Runs synchronously before anything renders. The available
+      // list mirrors AVAILABLE_LOCALES in src/shared/site.ts — keep in sync.
+      (function () {
+        try {
+          var AVAILABLE = ['en', 'es', 'fr', 'de', 'uk', 'zh-CN', 'zh-TW', 'ar'];
+          var path = location.pathname;
+          var firstSeg = path.split('/').filter(Boolean)[0] || '';
+          // Already on an explicit locale path (e.g. /fr/...): leave it alone.
+          for (var i = 0; i < AVAILABLE.length; i++) {
+            if (AVAILABLE[i] !== 'en' && firstSeg === AVAILABLE[i]) return;
+          }
+
+          function pick(langs) {
+            for (var i = 0; i < langs.length; i++) {
+              var l = (langs[i] || '').toLowerCase();
+              if (!l) continue;
+              if (l.indexOf('zh') === 0) {
+                return (l.indexOf('tw') !== -1 || l.indexOf('hant') !== -1) ? 'zh-TW' : 'zh-CN';
+              }
+              var base = l.split('-')[0];
+              for (var j = 0; j < AVAILABLE.length; j++) {
+                var s = AVAILABLE[j].toLowerCase();
+                if (s === l || s === base || s.split('-')[0] === base) return AVAILABLE[j];
+              }
+            }
+            return 'en';
+          }
+
+          var stored = null;
+          try { stored = localStorage.getItem('preferredLocale'); } catch (e) {}
+          var target = stored || pick(navigator.languages || [navigator.language]);
+
+          if (target && target !== 'en' && AVAILABLE.indexOf(target) !== -1) {
+            var rest = path === '/' ? '' : path;
+            location.replace('/' + target + rest + location.search + location.hash);
+          }
+        } catch (e) { /* never block rendering on detection */ }
+      })();
+    </script>
     <title>
       Consciousness Atlas: Interactive Visualization of 325+ Theories from
       Kuhn's Landscape of Consciousness
@@ -208,6 +251,18 @@
       <div class="search-section">
         <div id="search-container"></div>
       </div>
+
+      <button
+        id="language-button"
+        class="language-btn"
+        aria-label="Choose language"
+        data-i18n="nav.language.ariaLabel"
+        data-i18n-attr="aria-label"
+      >
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+          <path d="M12.87 15.07l-2.54-2.51.03-.03c1.74-1.94 2.98-4.17 3.71-6.53H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z"/>
+        </svg>
+      </button>
 
       <a
         href="https://github.com/danilo-znamerovszkij/c-atlas"
@@ -585,6 +640,7 @@
 
     <div id="item-details"></div>
     <div id="form-popup"></div>
+    <div id="language-popup"></div>
 
     <script type="module" src="/src/main.ts"></script>
   </body>

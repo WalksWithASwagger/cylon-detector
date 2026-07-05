@@ -1,0 +1,179 @@
+.language-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(8px);
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease, visibility 0.25s ease;
+
+  &.visible {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+.language-popup {
+  background: linear-gradient(
+    135deg,
+    rgba(0, 0, 0, 0.96) 0%,
+    rgba(20, 20, 20, 0.98) 100%
+  );
+  border: 1px solid rgba(247, 184, 1, 0.3);
+  border-radius: 14px;
+  width: 100%;
+  max-width: 640px;
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+  transform: scale(0.94) translateY(16px);
+  transition: transform 0.25s ease;
+
+  .language-overlay.visible & {
+    transform: scale(1) translateY(0);
+  }
+}
+
+.language-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 22px 24px 18px;
+  border-bottom: 1px solid rgba(247, 184, 1, 0.18);
+  flex-shrink: 0;
+
+  h3 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0;
+    font-family: "Bodoni72C", serif;
+  }
+
+  .language-subtitle {
+    color: rgba(255, 255, 255, 0.55);
+    font-size: 13px;
+    margin: 4px 0 0;
+  }
+}
+
+.language-close {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.08);
+    color: #ffffff;
+  }
+}
+
+.language-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  padding: 20px 24px 24px;
+  overflow-y: auto;
+}
+
+.language-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 16px 18px;
+  min-height: 76px;
+  text-align: left;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  color: #ffffff;
+  cursor: pointer;
+  transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
+
+  &:hover {
+    background: rgba(247, 184, 1, 0.08);
+    border-color: rgba(247, 184, 1, 0.5);
+    transform: translateY(-1px);
+  }
+
+  &.active {
+    background: rgba(247, 184, 1, 0.12);
+    border-color: rgba(247, 184, 1, 0.7);
+  }
+
+  &-native {
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.2;
+  }
+
+  &-code {
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: rgba(255, 255, 255, 0.45);
+  }
+
+  &-check {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    color: #f7b801;
+  }
+}
+
+// RTL languages (e.g. Arabic) — align card text to the right.
+[dir="rtl"] .language-card {
+  text-align: right;
+
+  .language-card-check {
+    right: auto;
+    left: 16px;
+  }
+}
+
+@media (max-width: 768px) {
+  .language-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    padding: 16px 16px 20px;
+  }
+
+  .language-header {
+    padding: 18px 18px 16px;
+  }
+
+  .language-card {
+    min-height: 68px;
+    padding: 14px 16px;
+  }
+
+  .language-card-native {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 380px) {
+  .language-grid {
+    grid-template-columns: 1fr;
+  }
+}

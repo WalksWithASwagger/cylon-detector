@@ -138,5 +138,10 @@
   "itemDetails.implications.virtualImmortality": "Immortalité Virtuelle",
 
   "misc.unknown": "Inconnu",
-  "misc.unknownError": "Erreur inconnue"
+  "misc.unknownError": "Erreur inconnue",
+
+  "nav.language.ariaLabel": "Choisir la langue",
+  "languagePopup.title": "Choisir la langue",
+  "languagePopup.subtitle": "Sélectionnez votre langue préférée",
+  "languagePopup.closeAriaLabel": "Fermer le sélecteur de langue"
 }

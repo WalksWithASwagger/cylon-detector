@@ -6,6 +6,7 @@ import { CanvasRenderer } from 'echarts/renderers'
 import { TheoryChart } from '@/components/TheoryChart'
 import { SearchBar } from '@/components/SearchBar'
 import { FormPopup } from '@/components/FormPopup'
+import { LanguagePopup } from '@/components/LanguagePopup'
 import { Router } from '@/utils/routing'
 import globalState from '@/utils/globalState'
 import analytics from '@/utils/analytics'
@@ -83,6 +84,15 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
     if (theoryChart) {
       const itemDetailsPanel = theoryChart.getItemDetailsPanel()
       const formPopup = new FormPopup('form-popup')
+      const languagePopup = new LanguagePopup('language-popup')
+
+      const languageButton = document.getElementById('language-button')
+      if (languageButton) {
+        languageButton.addEventListener('click', () => {
+          analytics.trackClick('language_button')
+          languagePopup.toggle()
+        })
+      }
 
       ;(window as any).router = router
 

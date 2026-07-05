@@ -171,6 +171,35 @@ body {
   }
 }
 
+// Language switcher trigger — sits just left of the GitHub icon.
+.language-btn {
+  position: fixed;
+  top: 20px;
+  right: 74px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.75);
+  cursor: pointer;
+  transition: color 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    color: #f7b801;
+    transform: scale(1.08);
+  }
+
+  svg {
+    width: 22px;
+    height: 22px;
+  }
+}
+
 .nav-buttons {
   button {
     background: rgba(59, 130, 246, 0.1);
@@ -579,6 +608,7 @@ body {
   .logo-container,
   .search-section,
   .github-link,
+  .language-btn,
   .chart-zoom-controls,
   .chart-level-pill,
   .feedback-btn {
@@ -589,6 +619,7 @@ body {
     .logo-container,
     .search-section,
     .github-link,
+    .language-btn,
     .chart-zoom-controls,
     .chart-level-pill,
     .feedback-btn {
@@ -633,6 +664,18 @@ body {
     svg {
       width: 26px;
       height: 26px;
+    }
+  }
+
+  .language-btn {
+    top: 22px;
+    right: 63px;
+    width: 32px;
+    height: 32px;
+
+    svg {
+      width: 20px;
+      height: 20px;
     }
   }
 

@@ -114,5 +114,10 @@
   "itemDetails.implications.meaningPurpose": "Sentido y Propósito",
   "itemDetails.implications.virtualImmortality": "Inmortalidad Virtual",
   "misc.unknown": "Desconocido",
-  "misc.unknownError": "Error desconocido"
+  "misc.unknownError": "Error desconocido",
+
+  "nav.language.ariaLabel": "Elegir idioma",
+  "languagePopup.title": "Elegir idioma",
+  "languagePopup.subtitle": "Selecciona tu idioma preferido",
+  "languagePopup.closeAriaLabel": "Cerrar selector de idioma"
 }

@@ -14,6 +14,14 @@ export const SUPPORTED_LOCALES = [
 
 export type Locale = typeof SUPPORTED_LOCALES[number]
 
+// Locales that actually have complete content shipped (UI dictionary +
+// taxonomy + per-theory data). This is the set the language switcher offers
+// and the browser-language auto-detect maps to. Keep in sync with the inline
+// detection script in index.html (it can't import this module).
+export const AVAILABLE_LOCALES = [
+  'en', 'es', 'fr', 'de', 'uk', 'zh-CN', 'zh-TW', 'ar'
+] as const
+
 export const RTL_LOCALES = new Set<string>(['ar', 'he'])
 
 const SUPPORTED_LOCALE_SET = new Set<string>(SUPPORTED_LOCALES)
