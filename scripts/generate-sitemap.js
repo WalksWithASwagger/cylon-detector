@@ -365,13 +365,17 @@ function extractTheories() {
 }
 
 function getShippedLocales(publicDir) {
-  // A locale counts as "shipped" once its UI dictionary exists - that's the
-  // cheapest reliable signal that the site actually has something to show
-  // for it, without requiring full per-theory content parity.
+  // A locale counts as "shipped" only when it has BOTH a UI dictionary and a
+  // taxonomy dictionary. Requiring the taxonomy too excludes locales that are
+  // half-translated (e.g. `hi`, which has UI strings but no taxonomy or
+  // per-theory data) - otherwise the sitemap would advertise localized theory
+  // URLs that just fall back to English content (thin/duplicate content).
+  // This matches AVAILABLE_LOCALES in src/shared/site.ts.
   return SUPPORTED_LOCALES.filter(
     (locale) =>
       locale === DEFAULT_LOCALE ||
-      existsSync(join(publicDir, "i18n", "ui", `${locale}.json`))
+      (existsSync(join(publicDir, "i18n", "ui", `${locale}.json`)) &&
+        existsSync(join(publicDir, "i18n", "taxonomy", `${locale}.json`)))
   );
 }
 
@@ -425,7 +429,7 @@ ${urlEntries.join("\n")}
 </urlset>`;
 }
 
-const baseUrl = process.env.SITE_URL || "https://consciousnessatlas.com";
+const baseUrl = process.env.SITE_URL || "https://www.consciousnessatlas.com";
 const publicDir = join(__dirname, "..", "public");
 const shippedLocales = getShippedLocales(publicDir);
 const sitemap = generateSitemap(baseUrl, shippedLocales);

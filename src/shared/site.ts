@@ -3,7 +3,7 @@
 // repo root (via a relative path, since that bundler does not resolve tsconfig
 // path aliases). Keep this file free of any import so both contexts can use it.
 
-export const SITE_ORIGIN = 'https://consciousnessatlas.com'
+export const SITE_ORIGIN = 'https://www.consciousnessatlas.com'
 
 export const DEFAULT_LOCALE = 'en'
 
@@ -19,7 +19,7 @@ export type Locale = typeof SUPPORTED_LOCALES[number]
 // and the browser-language auto-detect maps to. Keep in sync with the inline
 // detection script in index.html (it can't import this module).
 export const AVAILABLE_LOCALES = [
-  'en', 'es', 'fr', 'de', 'uk', 'zh-CN', 'zh-TW', 'ar'
+  'en', 'es', 'fr', 'de', 'uk', 'hi', 'zh-CN', 'zh-TW', 'ar'
 ] as const
 
 export const RTL_LOCALES = new Set<string>(['ar', 'he'])

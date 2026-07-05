@@ -1,4 +1,5 @@
 import mixpanel from 'mixpanel-browser'
+import { parseLocaleFromPath } from '@/shared/site'
 
 interface AnalyticsConfig {
   token: string
@@ -42,6 +43,7 @@ class Analytics {
     try {
       this.mixpanel.track(event, {
         ...properties,
+        locale: parseLocaleFromPath(window.location.pathname).locale,
         timestamp: new Date().toISOString(),
         url: window.location.href,
         user_agent: navigator.userAgent

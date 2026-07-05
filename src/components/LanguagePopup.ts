@@ -12,6 +12,7 @@ const LANGUAGES: Array<{ code: Locale; native: string; label: string }> = [
   { code: 'de', native: 'Deutsch', label: 'DE' },
   { code: 'fr', native: 'Français', label: 'FR' },
   { code: 'uk', native: 'Українська', label: 'UK' },
+  { code: 'hi', native: 'हिन्दी', label: 'HI' },
   { code: 'zh-CN', native: '简体中文', label: 'ZH-CN' },
   { code: 'zh-TW', native: '繁體中文', label: 'ZH-TW' },
   { code: 'ar', native: 'العربية', label: 'AR' }
