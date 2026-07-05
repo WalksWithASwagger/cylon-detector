@@ -152,6 +152,30 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
         window.addEventListener('scroll', onScroll, { passive: true })
       }
 
+      // Fade the chart's fixed controls (logo, search, zoom, level pill,
+      // feedback) once the user scrolls down into the About content below the
+      // chart, so that content reads cleanly. Mobile-only via the `scrolled`
+      // class + media-query CSS; on desktop the class toggles but matches no
+      // rules. rAF-throttled to keep scrolling smooth.
+      let chromeTicking = false
+      const updateScrolledState = () => {
+        document.body.classList.toggle(
+          'scrolled',
+          window.scrollY > window.innerHeight * 0.35
+        )
+        chromeTicking = false
+      }
+      window.addEventListener(
+        'scroll',
+        () => {
+          if (!chromeTicking) {
+            requestAnimationFrame(updateScrolledState)
+            chromeTicking = true
+          }
+        },
+        { passive: true }
+      )
+
       // Source citation tooltip with debounce
       const sourceCitation = document.querySelector('.source-citation')
       const sourceTooltip = document.querySelector('.source-tooltip')

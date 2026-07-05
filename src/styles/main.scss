@@ -573,6 +573,30 @@ body {
     height: 100%;
   }
 
+  // Fade the chart's fixed controls out of the way once the user scrolls into
+  // the About content below (JS toggles body.scrolled past ~35vh). They fade
+  // rather than jump, and stop intercepting taps once hidden.
+  .logo-container,
+  .search-section,
+  .github-link,
+  .chart-zoom-controls,
+  .chart-level-pill,
+  .feedback-btn {
+    transition: opacity 0.25s ease;
+  }
+
+  body.scrolled {
+    .logo-container,
+    .search-section,
+    .github-link,
+    .chart-zoom-controls,
+    .chart-level-pill,
+    .feedback-btn {
+      opacity: 0;
+      pointer-events: none;
+    }
+  }
+
   .logo-container {
     position: fixed;
     top: 20px;
