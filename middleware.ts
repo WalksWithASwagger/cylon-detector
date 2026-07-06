@@ -1,5 +1,10 @@
-import { SITE_ORIGIN, SUPPORTED_LOCALES, DEFAULT_LOCALE, RTL_LOCALES, parseLocaleFromPath } from './src/shared/site'
+import { SITE_ORIGIN, AVAILABLE_LOCALES, DEFAULT_LOCALE, RTL_LOCALES, parseLocaleFromPath } from './src/shared/site'
 import type { Locale } from './src/shared/site'
+
+// Locales we actually ship content for. Only these get advertised via
+// hreflang / served; requests for any other (routable-but-empty) locale are
+// redirected to English. Keep as a Set for cheap membership checks.
+const AVAILABLE_LOCALE_SET = new Set<string>(AVAILABLE_LOCALES)
 
 interface SeoDictionary {
   title?: string
@@ -34,7 +39,7 @@ async function fetchJsonSafe<T>(url: URL, fallback: T): Promise<T> {
 }
 
 function buildHreflangBlock(pathWithoutLocale: string): string {
-  const links = SUPPORTED_LOCALES.map(code => {
+  const links = AVAILABLE_LOCALES.map(code => {
     const href = code === DEFAULT_LOCALE
       ? `${SITE_ORIGIN}${pathWithoutLocale}`
       : `${SITE_ORIGIN}/${code}${pathWithoutLocale === '/' ? '' : pathWithoutLocale}`
@@ -128,6 +133,16 @@ export default async function middleware(request: Request) {
   const htmlPath = path === '/paper' ? '/paper.html' : '/index.html'
   const htmlUrl = new URL(htmlPath, url.origin)
   const isPaperShell = htmlPath === '/paper.html'
+
+  // A path may carry a locale that is routable (in SUPPORTED_LOCALES, so it
+  // parses out) but has no shipped content — e.g. /ms/... . These render
+  // broken (empty dictionaries, English fallback) yet return 200, and were
+  // historically advertised via hreflang, so search engines indexed some.
+  // Permanently redirect them to the English canonical so users get a working
+  // page and Google consolidates the URL.
+  if (!isPaperShell && locale !== DEFAULT_LOCALE && !AVAILABLE_LOCALE_SET.has(locale)) {
+    return Response.redirect(`${SITE_ORIGIN}${pathWithoutLocale}`, 308)
+  }
 
   const response = await fetch(htmlUrl, {
     headers: {
