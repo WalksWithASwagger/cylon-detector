@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "Monisme Anomali Davidson",
+    "summary": "Monisme Anomali menganggap bahawa setiap peristiwa mental adalah identik dengan peristiwa fizikal (identiti token), sambil mengekalkan ontologi monistik. Namun, teori ini menegaskan bahawa tiada undang-undang alam yang ketat dan tanpa pengecualian yang menghubungkan konsep mental (jenis) dengan konsep fizikal, sekali gus membawa kepada ketidakbolehreduksian psikologi kepada fizik. Penegasan berkembar ini menyelesaikan konflik yang kelihatan antara penyebaban mental dengan kelengkapan sebab-akibat dunia fizikal.",
+    "associated_thinkers": ["Donald Davidson"],
+    "category": "Monisme",
+    "subcategory": "Monisme Anomali",
+    "core_identity_tagline": "Token Mental adalah Fizikal, Jenis Mental adalah Anomali",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "token identity",
+      "property dualism",
+      "mental causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Entiti mental (objek dan peristiwa tertentu yang terikat pada masa dan ruang, atau token) adalah entiti fizikal. Namun, konsep mental tidak boleh direduksikan kepada konsep fizikal melalui definisi atau undang-undang alam.",
+    "ontological_status": "Monisme (Fizikalisme Identiti Token/Dualisme Sifat). Teori ini berpegang bahawa peristiwa mental mempunyai ontologi fizikal.",
+    "mind_body_relationship": "Identiti Token: Peristiwa mental adalah identik dengan peristiwa fizikal. Ini dijustifikasikan melalui hujah tentang ketidakmungkinan identiti jenis antara sifat mental dan sifat fizikal. Teori ini merupakan satu bentuk dualisme sifat.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergens Kuat. (Justifikasi: Sifat mental tidak boleh direduksikan pada prinsipnya dan tidak dapat ditangkap oleh undang-undang psikofizikal yang ketat, selaras dengan ketidakbolehreduksian kuat.)",
+    "subjectivity_and_intentionality": "Teori ini menangani intipati intensional fenomena mental (contohnya, keperihalan atau aboutness) sebagai sifat yang membezakan fenomena mental daripada undang-undang atau benda fizikal.",
+    "qualia_account": "Rasa kualitatif (qualia) dirangkum di bawah kategori sifat/konsep mental yang lebih luas yang bersifat anomali—bermaksud ia tidak tertakluk kepada reduksi oleh konsep atau undang-undang fizikal.",
+    "ontological_commitments": "Entiti dan peristiwa fizikal (token); sifat/konsep mental yang tidak boleh direduksikan (jenis).",
+    "epistemic_access": "Diketahui melalui analisis falsafah tentang sebab-akibat dan keperluan unik penjelasan psikologi, yang tidak dapat menghasilkan undang-undang tanpa pengecualian seperti fizik.",
+    "constituents_and_structure": "Unsur-unsurnya ialah entiti/peristiwa fizikal, tetapi kesedaran distrukturkan oleh konsep/sifat mental yang tidak boleh direduksikan."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Peristiwa mental (token); penyebaban mental; intensionaliti.",
+    "distinctive_mechanism_or_principle": "Anomalisme Mental: penegasan bahawa tiada undang-undang alam yang menghubungkan fenomena mental dengan fenomena fizikal, walaupun peristiwa mental menyebabkan peristiwa fizikal dan segala hubungan sebab-akibat disokong oleh undang-undang alam (identiti token dijustifikasikan oleh ketidakmungkinan identiti jenis).",
+    "dynamics_of_emergence": "Keadaan mental sedar muncul sebagai peristiwa fizikal yang unik (token), yang dicirikan oleh fakta bahawa ia tidak dapat dikawal oleh undang-undang ramalan yang ketat seperti dalam fizik asas.",
+    "location_and_distribution": "Peristiwa mental adalah entiti fizikal, justeru terletak di dalam otak/substrat fizikal.",
+    "causation_and_functional_role": "Peristiwa mental memiliki kuasa sebab-akibat yang tulen dan menyebabkan peristiwa fizikal.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Fenomena mental ditakrifkan oleh intipati intensionalnya, yang kelihatan berbeza secara radikal daripada undang-undang fizikal semata-mata.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Peristiwa mental (token) adalah identik dengan peristiwa fizikal.",
+      "Sifat mental (jenis) tidak boleh direduksikan kepada konsep fizikal atau undang-undang alam.",
+      "Peristiwa mental mempunyai kuasa sebab-akibat yang tulen dan menyebabkan peristiwa fizikal.",
+      "Psikologi tidak dapat menghasilkan undang-undang tanpa pengecualian untuk meramal fikiran dan tindakan manusia (anomalisme mental)."
+    ],
+    "basis_of_belief_or_evidence_type": "Falsafah (Hujah deduktif berdasarkan tiga premis tentang sebab-akibat dan ciri nomologi)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konseptual/Falsafah. (Justifikasi: Dakwaan teras teori ini bersandar pada keperluan falsafah berkenaan sifat sebab-akibat dan penjelasan psikologi.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Ketegangan utama timbul daripada gabungan tiga dakwaan: (i) penyebaban mental wujud, (ii) segala penyebaban disokong undang-undang, dan (iii) tiada undang-undang psikofizikal. Gabungan ini kelihatan tidak konsisten atau bercanggah pada pandangan pertama.",
+    "open_questions_and_limitations": "Kerangka ini mesti menjelaskan sepenuhnya bagaimana penyebaban mental boleh berlaku jika tiada undang-undang ketat yang menghubungkan jenis sifat mental dengan jenis sifat fizikal (masalah keberkesanan sebab-akibat sifat anomali).",
+    "ontological_coherence": "Konsistensi dalaman dicapai, dengan syarat tiga premis asas diterima sebagai sah, kerana kesimpulan identiti token terkandung di dalamnya. Ia berkongsi ciri dengan Fizikalisme Bukan Reduktif."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Oleh sebab ontologinya bersifat monis secara fundamental (segala peristiwa mental adalah peristiwa fizikal), kesedaran AI mungkin pada prinsipnya jika sistem fizikal kompleks yang relevan dapat direplikasi dalam medium buatan, walaupun ketiadaan undang-undang mental yang boleh diramal (anomalisme) merumitkan penilaian."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Peristiwa mental bergantung pada peristiwa fizikal (identiti token). Kelangsungan selepas kemusnahan substrat biologi terhalang di bawah andaian materialis ini."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistik sahaja",
+      "rationale": "Sebagai teori monisme ontologi, ia selaras dengan kategori materialis yang umumnya tidak merasionalkan makna atau tujuan muktamad melebihi apa yang dicipta manusia untuk diri mereka sendiri."
+    },
+    "virtual_immortality": {
+      "stance": "Berkemungkinan",
+      "rationale": "Jika substrat fizikal (corak otak) diduplikasi, peristiwa mental (yang identik dengan token tersebut) sepatutnya turut diduplikasi, menjadikan keabadian maya dapat dicapai, serupa dengan pandangan fizikalis bukan reduktif yang lain."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Non-Reductive Physicalism", "relationship": "Bertindih" },
+      { "name": "Property Dualism", "relationship": "Bertindih" },
+      {
+        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "relationship": "Kritikan"
+      }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+    ]
+  }
+}

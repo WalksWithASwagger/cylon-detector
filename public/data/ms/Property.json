@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Dualisme Sifat",
+    "summary": "Dualisme Sifat mengandaikan bahawa walaupun substans fizikal ialah satu-satunya substans asas, terdapat dua kategori sifat yang tidak boleh direduksi: fizikal dan mental . Sifat mental, seperti pengalaman sedar, dijana oleh otak fizikal tetapi tidak boleh direduksi kepada atau dijelaskan sepenuhnya oleh sifat fizikal semata-mata .",
+    "associated_thinkers": [
+      "David Chalmers (for Naturalistic Dualism, a variant); historically influenced by numerous philosophers seeking to preserve mental reality within a monist substance framework."
+    ],
+    "category": "Dualisme",
+    "subcategory": "Dualisme Sifat",
+    "core_identity_tagline": "Satu Substans, Dua Sifat yang Tidak Boleh Direduksi (Mental dan Fizikal)",
+    "classification_tags": [
+      "irreducible properties",
+      "non-reductive",
+      "physicalism",
+      "dualism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesedaran terdiri daripada sifat atau aspek mental (contohnya, fikiran, konsep, idea) yang pada dasarnya tidak boleh direduksi kepada sifat fizikal, walaupun kedua-duanya diinstansiasikan oleh sistem fizikal (otak) .",
+    "ontological_status": "Fizikalisme (dari segi substans) / Dualisme Sifat (dari segi sifat) .",
+    "mind_body_relationship": "Minda (sifat mental) tidak boleh direduksi dan tersendiri secara ontologi daripada sifat fizikal, namun dijana sepenuhnya oleh keadaan fizikal (otak) .",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergens Kuat (kerana sifat mental tidak boleh direduksi pada prinsipnya dan tidak boleh dijelaskan semata-mata oleh hukum fizik) .",
+    "subjectivity_and_intentionality": "Subjektiviti (pengalaman fenomenal orang pertama) timbul sebagai sifat/aspek lekat yang tidak boleh direduksi bagi individu manusia yang fizikal . Intensionaliti secara tersirat disertakan sebagai salah satu sifat/aspek mental asas .",
+    "qualia_account": "Qualia (pengalaman kualitatif yang dirasai) ialah sifat mental yang tidak boleh direduksi yang menentang takrifan semata-mata dari segi sifat mikrofizikal sahaja .",
+    "ontological_commitments": "Substans fizikal (jirim) dan sifat mental yang tidak boleh direduksi (termasuk fikiran, konsep, idea) .",
+    "epistemic_access": "Boleh dicapai melalui kedua-dua pemerhatian orang ketiga terhadap asas fizikal (otak) dan introspeksi orang pertama terhadap sifat emergen (subjektiviti).",
+    "constituents_and_structure": "Substans fizikal terdiri daripada unsur fizik asas, yang diorganisasikan ke dalam struktur kompleks (otak), yang menjana sifat mental ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Sifat fenomenal, fikiran, konsep, dan idea .",
+    "distinctive_mechanism_or_principle": "Prinsip ketidakbolehreduksian sifat mental, yang berpendirian bahawa aspek fenomenal adalah tersendiri daripada sifat fizikal .",
+    "dynamics_of_emergence": "Sifat mental timbul apabila jirim fizikal mencapai suatu tahap kekompleksan tertentu (iaitu, otak).",
+    "location_and_distribution": "Terlokal dalam objek fizikal (individu manusia/otak) .",
+    "causation_and_functional_role": "Sifat mental adalah berkesan secara kausal, mempengaruhi dunia fizikal (suatu pendirian yang berkontras dengan Epifenomenalisme) .",
+    "integration_or_binding": "Tidak diperincikan secara eksplisit. Integrasi diandaikan berlaku dalam struktur otak fizikal yang menghasilkan sifat/aspek mental yang bersatu.",
+    "information_flow_or_representation": "Sifat/aspek mental termasuk konsep dan idea , yang menyiratkan penglibatan dalam pemprosesan bermaklumat/representasi yang kompleks.",
+    "evolutionary_account": "Tidak diperincikan secara eksplisit. Emergens sifat ini bergantung pada evolusi kekompleksan biologi yang berupaya menjananya .",
+    "core_claims_and_evidence": [
+      "Individu manusia ialah objek fizikal sepenuhnya yang terdiri daripada unsur fizikal asas .",
+      "Sifat mental (contohnya, kesedaran fenomenal) dijana oleh otak fizikal tetapi tidak boleh direduksi kepada sifat fizikal semata-mata .",
+      "Kemungkinan kegagalan supervenens ditunjukkan melalui hujah kebolehbayangan (contohnya, zombi falsafah) ."
+    ],
+    "basis_of_belief_or_evidence_type": "Falsafah; Konseptual (Menangani ketidakcukupan yang ketara pada fizikalisme reduktif semata-mata) ."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konseptual/Falsafah (Kebolehujian bergantung pada kemungkinan logik dan implikasi senario kontrafaktual seperti zombi falsafah) .",
+    "known_empirical_interventions_or_tests": "Eksperimen pemikiran yang melibatkan 'zombi' yang tidak boleh dibezakan secara fizikal atau individu dengan spektrum warna songsang (kegagalan supervenens) .",
+    "criticisms_and_tensions": "Perlu menjelaskan bagaimana keadaan mental yang berbeza timbul daripada keadaan mikrofizikal yang benar-benar sama jika supervenens gagal . Pengkritik berhujah bahawa motivasi bagi Dualisme Sifat akhirnya membawa kepada Dualisme Substans .",
+    "open_questions_and_limitations": "Cara tepat sifat mental mengenakan pengaruh kausal ke atas otak fizikal (penyebaban mental) masih dipertikaikan dan memerlukan penentuan .",
+    "ontological_coherence": "Konsistensi dalaman yang tinggi, tetapi menghadapi ketegangan dalam mengekalkan secara teliti bahawa sifat yang tidak boleh direduksi dapat timbul semata-mata daripada, dan berkesan secara kausal dalam, dunia fizikal yang monistik ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bersyarat",
+      "rationale": "AI boleh menjadi sedar jika sistem bukan biologi dapat menginstansiasikan organisasi fizikal kompleks tertentu yang diperlukan untuk menjana sifat mental yang tidak boleh direduksi yang diperihalkan ."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesedaran terdiri daripada sifat yang dijana oleh otak fizikal. Sifat ini terhenti kewujudannya apabila substans fizikal (otak/tubuh) lenyap ketika kematian ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Tidak dinyatakan/Neutral",
+      "rationale": "Teori ini menumpukan pada kategori ontologi dan hubungan sifat; ia menerima substans yang pada dasarnya fizikal dan tidak secara lekat menyokong teleologi kosmik ."
+    },
+    "virtual_immortality": {
+      "stance": "Mungkin",
+      "rationale": "Jika kesedaran ialah sifat emergen bagi organisasi fizikal tertentu, mereplikasi keadaan fizikal yang lengkap itu (struktur otak) dalam substrat bukan biologi sepatutnya menjana sifat mental yang sama ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Bertindih/Serasi (Sering dianggap sinonim atau berkait rapat)"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "Kritikan/Kontras (Menolak dualisme substans tetapi mengekalkan dualisme sifat)"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Kritikan/Kontras (Dualisme Sifat umumnya memberikan keberkesanan kausal kepada keadaan mental, tidak seperti Epifenomenalisme)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Dualism in the Philosophy of Mind, Dean Zimmerman",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Mind-Body Problem and Metaphysics: an Argument from Consciousness to Mental Substance, Ralph Weir",
+        "year": 2023
+      }
+    ]
+  }
+}

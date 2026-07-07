@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Evolusi Minda oleh Dennett",
+    "summary": "Kerangka ini menganggap bahawa minda dan kesedaran sepenuhnya merupakan hasil evolusi melalui pemilihan semula jadi, dengan menekankan bahawa organisasi kompleks (reka bentuk, sebab, kecekapan) timbul tanpa memerlukan pereka atau pemikir yang sedar. Ia menjelaskan perkembangan minda manusia melalui peringkat abstraksi dan kerumitan yang berturutan dan bersifat material semata-mata.",
+    "associated_thinkers": [
+      "Daniel Dennett"
+    ],
+    "category": "Teori Materialisme",
+    "subcategory": "Evolusi Filogenetik",
+    "core_identity_tagline": "Minda Terevolusi melalui Pemilihan Semula Jadi tanpa Sihir",
+    "classification_tags": [
+      "evolution",
+      "naturalism",
+      "phylogenetic",
+      "materialism",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesedaran dan minda dikenal pasti sebagai proses fizikal yang amat kompleks—suatu himpunan alat berfikir yang terevolusi dan dibina atas proses material, tempat 'sihir' minda dicapai tanpa sihir.",
+    "ontological_status": "Fizikalisme",
+    "mind_body_relationship": "Teori identiti/Reduksionis. Keadaan mental sepenuhnya hasil otak biologi, dijelaskan sepenuhnya oleh keadaan fizikal, konsisten dengan pendirian materialis Dennett yang lebih luas.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergens Lemah. Kesedaran boleh dijelaskan sepenuhnya pada prinsipnya oleh proses fizikal yang mendasarinya, menolak keperluan terhadap emergens kuat atau campur tangan bukan fizikal.",
+    "subjectivity_and_intentionality": "Subjektiviti dibina melalui struktur organisasi yang terevolusi, seperti 'pusat graviti naratif'. Intensionaliti (keperihalan) timbul apabila ketulan molekul yang rumit mengevolusikan keupayaan untuk memiliki makna atau kandungan.",
+    "qualia_account": "Qualia (rasa kualitatif) dianggap sebagai 'ilusi pengguna' yang tidak koheren dan ilusif—rangkaian neural yang kompleks dan teraktif hasil daripada proses evolusi, dan bukannya sifat mental yang intrinsik dan tidak boleh dianalisis.",
+    "ontological_commitments": "Dunia fizikal, undang-undang alam, otak biologi, dan proses pemilihan semula jadi.",
+    "epistemic_access": "Perspektif orang ketiga sains, khususnya menggunakan kaedah heterofenomenologi untuk memperlakukan dakwaan introspektif sebagai data yang perlu dijelaskan, bukan sebagai catatan benar tentang realiti mental.",
+    "constituents_and_structure": "Struktur minda terdiri daripada satu set 'alat berfikir' terevolusi yang rumit dan lapisan organisasi hierarki yang dibina atas evolusi biologi."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Asal-usul Filogenetik, Kandungan, Struktur minda, Kesedaran (dikempiskan/ilusif), Kesedaran-diri (sebagai binaan naratif).",
+    "distinctive_mechanism_or_principle": "Kuasa evolusi yang amat besar melalui pemilihan semula jadi, yang mencipta hasil yang dicirikan oleh 'sebab tanpa pemikir, reka bentuk tanpa pereka, dan kecekapan tanpa kefahaman'.",
+    "dynamics_of_emergence": "Kesedaran timbul melalui proses perkembangan mental yang beransur-ansur dan berperingkat merentasi sejarah filogenetik, boleh dijejaki daripada bentuk hidupan awal sehingga minda manusia.",
+    "location_and_distribution": "Terlokal dalam otak kompleks organisma yang lebih tinggi, khususnya manusia, tempat organisasi lanjutan aktiviti neural menyokong 'alat berfikir' yang kompleks.",
+    "causation_and_functional_role": "Minda timbul kerana ia memberikan kelebihan adaptif yang meningkatkan kecergasan dalam persekitaran yang mencabar. Fungsinya ialah membolehkan tingkah laku dan kognisi yang kompleks, seperti refleksi-diri.",
+    "integration_or_binding": "Integrasi dicapai melalui evolusi pemantapan dan penyebaran kandungan dalam otak yang bergabung menjadi sejenis kisah hidup atau 'pusat graviti naratif'.",
+    "information_flow_or_representation": "Evolusi membolehkan otak memproses maklumat sehingga rantau otak yang berbeza menjana 'draf berganda' yang bersaing untuk perhatian (kemasyhuran dalam otak), membentuk arus naratif.",
+    "evolutionary_account": "Kesedaran ialah pencapaian evolusi yang bukan sihir tempat organisma membangunkan keupayaan kompleks seperti pemodelan, ramalan, dan simulasi, yang memuncak dalam introspeksi manusia dan pemikiran abstrak.",
+    "core_claims_and_evidence": [
+      "Asal-usul minda boleh dijelaskan oleh evolusi biologi tanpa merujuk kepada unsur bukan fizikal.",
+      "Kerumitan minda manusia ialah kemuncak evolusi, menghasilkan 'alat berfikir' yang khusus.",
+      "Sifat fenomenal ialah ilusi tidak koheren yang timbul daripada aktiviti neural yang kompleks dan terevolusi."
+    ],
+    "basis_of_belief_or_evidence_type": "Hujah Falsafah, Biologi Evolusi, Logik"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Boleh diuji secara konseptual terhadap konsistensi biologi dan neo-Darwin; disokong secara tidak langsung oleh penemuan neurosaintifik yang berkorelasi dengan model fungsionalis.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Dikritik kerana mengelakkan 'masalah sukar' dengan menegaskan bahawa kesedaran (qualia) ialah ilusi atau masalah pseudo. Penentang mempersoalkan kelebihan evolusi pengalaman subjektif jika ia hanyalah ilusi atau epifenomenon.",
+    "open_questions_and_limitations": "Tidak menyediakan penjelasan langsung bagi rasa subjektif pengalaman, hanya penjelasan mengapa kita *melaporkan* mempunyai pengalaman sedemikian.",
+    "ontological_coherence": "Sangat koheren, menggunakan evolusi Darwin sebagai 'asid sejagat' untuk mengasaskan segala aspek minda, termasuk konsep yang secara tradisi bukan material, dengan teguh dalam ontologi fizikalis yang ketat."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ya",
+      "rationale": "Oleh sebab kesedaran adalah sepenuhnya material dan terhasil daripada organisasi kompleks (fungsionalisme/materialisme), tiada larangan berprinsip terhadap kecerdasan bukan biologi mencapai kesedaran jika kerumitan yang betul direplikasi."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesedaran terikat sepenuhnya dengan otak fizikal; kematian mengakibatkan ketiadaan yang tidak boleh ditarik balik dan kekal, melainkan diri dipelihara secara digital (keabadian maya)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistik sahaja",
+      "rationale": "Proses evolusi beroperasi melalui 'reka bentuk tanpa pereka', bermaksud tiada makna atau tujuan kosmik yang wujud secara semula jadi; makna dicipta-sendiri oleh manusia yang sedar."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Jika kesedaran dijelaskan sepenuhnya oleh organisasi fizikal/fungsian otak yang terevolusi, maka penduplikasian sempurna corak dan laluan neural ini dalam medium bukan biologi sepatutnya memelihara diri mental orang pertama."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Multiple Drafts Model",
+        "relationship": "Asas"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Bertindih"
+      },
+      {
+        "name": "Lycan’s Homuncular Functionalism",
+        "relationship": "Serasi"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "Serasi"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Darwin’s Dangerous Idea: Evolution and the Meanings of Life, Daniel Dennett",
+        "year": 1995
+      }
+    ]
+  }
+}

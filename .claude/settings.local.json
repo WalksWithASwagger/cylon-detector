@@ -4,7 +4,9 @@
       "Bash(npm run *)",
       "Bash(disown)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:8087/)",
-      "Bash(curl -s http://localhost:8087/)"
+      "Bash(curl -s http://localhost:8087/)",
+      "Bash(node scripts/i18n-check.js ms)",
+      "Bash(node -e \"JSON.parse\\(require\\('fs'\\).readFileSync\\('docs/i18n/glossary.json','utf8'\\)\\); console.log\\('glossary.json parses OK'\\)\")"
     ]
   }
 }

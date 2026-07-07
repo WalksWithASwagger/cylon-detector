@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Kritikan",
+    "summary": "Entri ini mewakili fungsi skeptik yang penting dan meresap dalam kajian kesedaran, dengan secara sistematik mencabar koherens penjelasan, kesahan empirik, dan andaian metafizik semua teori kesedaran yang dicadangkan. Ia menyerlahkan ketegangan konseptual yang berterusan, seperti jurang penjelasan dan teka-teki korelasi-penyebaban, memaksa teori untuk mempertahankan konsistensi dalaman dan pengukuhan empirik mereka.",
+    "associated_thinkers": [
+      "R.L. Kuhn",
+      "Critics of specific theories (e.g., Hakwan Lau, Scott Aaronson)",
+      "Proponents of Challenge Theories (e.g., Thomas Nagel, Sam Harris)"
+    ],
+    "category": "Teori Cabaran",
+    "subcategory": "Kritikan/Skeptisisme",
+    "core_identity_tagline": "Fungsi Skeptik yang Penting",
+    "classification_tags": [
+      "critique",
+      "skepticism",
+      "meta-problem",
+      "tension",
+      "adjudication"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kritikan dikenal pasti sebagai penilaian dan diagnosis sistematik terhadap kecacatan penjelasan (contohnya, jurang penjelasan, ketiadaan koherens, waran empirik yang tidak mencukupi) yang sedia ada dalam semua penjelasan kesedaran yang bersaing.",
+    "ontological_status": "Pendirian Epistemologi/Metodologi (Kritikan terutamanya menilai dakwaan pengetahuan dan metodologi teori lain dan bukannya mengemukakan ontologi positif.)",
+    "mind_body_relationship": "Tidak Berkenaan (Sebagai konsep metodologi, Kritikan menganalisis koherens cadangan ontologi sedia ada, seperti percubaan menyelesaikan masalah minda-tubuh, tanpa mengemukakan penyelesaian positifnya sendiri.)",
+    "primitive_or_emergent_status": "Bukan Kedua-duanya (Kritikan ialah amalan diskursif dan analitikal, bukan sifat asas atau proses emergen realiti.)",
+    "emergence_type": "Tidak Berkenaan (Konsep ini adalah murni metodologi.)",
+    "subjectivity_and_intentionality": "Kritikan kerap menumpukan pada kegagalan teori fizikalis untuk menjelaskan pengalaman subjektif orang pertama (subjektiviti) dan kearahan pemikiran (intensionaliti), dengan berhujah bahawa aspek-aspek ini terlepas pandang oleh model yang murni kuantitatif.",
+    "qualia_account": "Alat Penilaian (Kritikan mempersenjatakan dimensi kualitatif pengalaman — qualia — sebagai cabaran utama terhadap penjelasan materialis dan reduksionis, dengan menyerlahkan 'masalah sukar' sebagai defisit analitikal yang belum terselesai.)",
+    "ontological_commitments": "Komitmen berbeza-beza berdasarkan kritikan tertentu yang digunakan; tiada ontologi 'Teori Kritikan' yang bersatu, walaupun ia sering bersandar pada komitmen bahawa pandangan dunia saintifik semasa tidak lengkap atau cacat.",
+    "epistemic_access": "Analisis konseptual, semakan konsistensi logik, eksperimen pemikiran falsafah (contohnya, zombi, Mary si ahli neurofisiologi), dan perbandingan paradigma saintifik yang bersaing.",
+    "constituents_and_structure": "Ketegangan konseptual, konflik logik yang belum terselesai, dan batasan epistemik yang sedia ada (contohnya, perbezaan epistemologi-ontologi, teka-teki korelasi-penyebaban)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Semua aspek (Kritikan diterapkan secara sejagat pada semua dakwaan teoretikal yang dibuat tentang kesedaran fenomenal, kesedaran akses, kesedaran-diri, dan keupayaan bertindak.)",
+    "distinctive_mechanism_or_principle": "Mengenal pasti dan mendiagnosis penyakit penjelasan dalam teori, seperti kebulatan, ketakkonsistenan, atau kegagalan menjelaskan qualia/subjektiviti.",
+    "dynamics_of_emergence": "Tidak Berkenaan (Kritikan ialah kerangka bagi analisis kritis, bukan proses dinamik dalam realiti.)",
+    "location_and_distribution": "Diskursif/Akademik (Ia beroperasi dalam wacana falsafah dan saintifik, mendorong keperluan akan penjelasan yang lebih baik.)",
+    "causation_and_functional_role": "Fungsi utamanya ialah kebersihan intelektual: mendiagnosis kecacatan konseptual dan empirik dan bukannya mencadangkan mekanisme sebab-akibat kesedaran.",
+    "integration_or_binding": "Kritikan mencabar penjelasan sedia ada tentang integrasi dan kesatuan pengalaman, seperti perdebatan tentang sama ada integrasi maklumat diwujudkan secara ruang atau masa.",
+    "information_flow_or_representation": "Kritikan sering menumpukan pada batasan penjelasan yang ditanggap bagi penjelasan yang murni kuantitatif atau representasi dalam menangkap kualiti pengalaman subjektif.",
+    "evolutionary_account": "Tidak Berkenaan (Kritikan itu sendiri bukan teori evolusi, walaupun ia menilai kemunasabahan evolusi teori lain.)",
+    "core_claims_and_evidence": [
+      "Kritikan menyerlahkan ketakleraian dan misteri mendalam masalah minda-tubuh.",
+      "Cabaran utamanya ialah kegagalan untuk merapatkan secara logik atau empirik perihalan fizik objektif (data orang ketiga) kepada pengalaman subjektif (fakta fenomenal orang pertama).",
+      "Teori tertentu (seperti Teori Maklumat Bersepadu) dikritik kerana tidak boleh diuji atau kerana mempromosikan dakwaan yang tidak mempunyai waran empirik yang perlu."
+    ],
+    "basis_of_belief_or_evidence_type": "Analisis Konseptual/Falsafah (Pergantungan pada pengenalpastian ketakkonsistenan logik dan epistemologi dalam hujah bagi dan menentang teori tertentu.)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Boleh diuji berkaitan dakwaan teoretikal tertentu (Kritikan menjana cabaran eksplisit yang memulakan program penyelidikan empirik, seperti eksperimen kerjasama bermusuh, untuk mengesahkan atau memalsukan ramalan yang disasarkan.)",
+    "known_empirical_interventions_or_tests": [
+      "Eksperimen kerjasama bermusuh (direka untuk menguji ramalan bercanggah teori yang bersaing seperti IIT dan Teori Ruang Kerja Global)",
+      "Eksperimen pemikiran (contohnya, hujah zombi, hujah pengetahuan) yang digunakan sebagai ujian konseptual menentang dakwaan fizikalis"
+    ],
+    "criticisms_and_tensions": "Pengkritik berhujah bahawa skeptisisme yang berlebihan (contohnya, melabelkan teori sebagai sains palsu) adalah tidak berkadar dan memudaratkan bidang saintifik yang belum matang. Tambahan pula, kritikan sering mendiagnosis masalah tanpa menawarkan penyelesaian yang membina.",
+    "open_questions_and_limitations": "Batasan muktamadnya ialah persoalan sama ada kesedaran secara intrinsik tidak dapat diselesaikan oleh kognisi manusia (mysterianisme) atau sama ada halangan konseptual itu sekadar sementara disebabkan kekangan penjelasan semasa.",
+    "ontological_coherence": "Koherens yang tinggi sebagai alat meta-teoretikal, kerana tujuannya adalah untuk menganalisis koherens teori lain, tetapi ia tidak menawarkan ontologi dalaman untuk dinilai berbanding lanskap metafizik yang lebih luas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bersyarat",
+      "rationale": "Kritikan menyerlahkan kesukaran mengesahkan kesedaran dalaman yang tulen dalam AI, dengan menekankan bahawa kekompleksan yang dikira mungkin hanya membawa kepada kesedaran *ketara* (cabaran simulasi), menjadikan dakwaan tertentu tidak boleh dipercayai."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak pasti",
+      "rationale": "Kritikan mengakui bahawa jika fenomena yang amat anomali (seperti Pengalaman Hampir Mati yang boleh disahkan) dikukuhkan secara empirik, ia akan serta-merta memalsukan model pengeluaran materialis, menganjakkan sokongan teoretikal ke arah hipotesis kelangsungan bukan fizik."
+    },
+    "meaning_and_purpose": {
+      "stance": "Mendiagnosis ketiadaan makna muktamad",
+      "rationale": "Kritikan kerap mencabar penjelasan materialis dan reduksionis kerana gagal merasionalkan makna atau nilai muktamad, meninggalkan hanya penciptaan-diri tujuan yang bersifat humanistik."
+    },
+    "virtual_immortality": {
+      "stance": "Bersyarat",
+      "rationale": "Kritikan berpegang bahawa tanpa menyelesaikan teka-teki metafizik tentang apa itu kesedaran (contohnya, membuktikan bahawa muat naik memelihara dengan sempurna diri orang pertama), keabadian maya kekal bermasalah secara konseptual dan tidak disahkan."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "relationship": "Bertindih"
+      },
+      {
+        "name": "Meta-Problem of Consciousness",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kritikan"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Pengaruh"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, R.L. Kuhn",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Integrated Information Theory of Consciousness as Pseudoscience, S.M. Fleming et al.",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The mystery of consciousness, S. Harris",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False, T. Nagel",
+        "year": 2012
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Keadaan Jirim Tegmark",
+    "summary": "Tegmark mencadangkan bahawa kesedaran boleh difahami sebagai suatu keadaan jirim yang khusus, yang diistilahkan 'perceptronium', yang ditakrifkan oleh kebolehan pemprosesan maklumat yang tersendiri. Bermula daripada premis bahawa semua kewujudan adalah fizikal, teori ini mencari prinsip yang membezakan pemprosesan maklumat yang sedar dan kompleks daripada pemprosesan yang tidak sedar.",
+    "associated_thinkers": ["Max Tegmark"],
+    "category": "Monisme",
+    "subcategory": "",
+    "core_identity_tagline": "Kesedaran sebagai Keadaan Jirim: Perceptronium",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "information",
+      "mathematics",
+      "perceptronium"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesedaran dikenal pasti sebagai pengalaman subjektif atau 'perasaan' yang timbul apabila maklumat diproses dengan cara kompleks tertentu, membentuk keadaan jirim yang diistilahkan 'perceptronium'.",
+    "ontological_status": "Fizikalisme / Monisme",
+    "mind_body_relationship": "Suatu hubungan identiti tersirat, di mana pengalaman subjektif (minda) dikenal pasti sebagai suatu keadaan fizikal tertentu (suatu keadaan jirim/pemprosesan maklumat).",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergens Lemah",
+    "subjectivity_and_intentionality": "Subjektiviti ditakrifkan sebagai 'cara maklumat terasa apabila diproses dengan cara kompleks tertentu'. Intensionaliti secara tersirat dianggap sebagai suatu keupayaan maklumat peringkat tinggi yang kompleks yang boleh dicapai oleh perceptronium.",
+    "qualia_account": "Qualia secara tersirat ialah 'perasaan' (pengalaman subjektif) yang dikaitkan dengan konfigurasi pemprosesan maklumat khusus perceptronium, diformalkan melalui empat prinsip: maklumat, integrasi, ketakbergantungan, dan dinamik.",
+    "ontological_commitments": "Sistem fizikal, maklumat. Teori ini diasaskan pada dakwaan ontologi yang lebih besar bahawa semua realiti ialah suatu struktur matematik yang fundamental.",
+    "epistemic_access": "Kesedaran dicapai dan diketahui melalui prinsip fizikal dan matematik objektif yang mengawal aliran maklumat (maklumat, integrasi, ketakbergantungan, dan dinamik).",
+    "constituents_and_structure": "Struktur ini ialah 'perceptronium', suatu keadaan jirim yang ditakrifkan oleh empat prinsip: maklumat, integrasi, ketakbergantungan, dan dinamik. Kerangka ini menggeneralisasikan Teori Maklumat Bersepadu (IIT) bagi sistem kuantum sebarangan."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (pengalaman subjektif/perasaan) dan Akses (pemprosesan maklumat yang diperlukan bagi kesedaran).",
+    "distinctive_mechanism_or_principle": "Takrif perceptronium melalui penerapan empat prinsip yang berbeza (maklumat, integrasi, ketakbergantungan, dan dinamik) pada pemprosesan maklumat dalam sistem fizikal.",
+    "dynamics_of_emergence": "Kesedaran ialah suatu susunan atau keadaan jirim yang dinamik. Prinsip yang diterokai mungkin turut melibatkan emergens masa.",
+    "location_and_distribution": "Tersetempat pada sistem fizikal (contohnya, rangkaian neural atau sistem kuantum sebarangan) yang mencapai kriteria pemprosesan maklumat khusus yang mentakrifkan perceptronium.",
+    "causation_and_functional_role": "Kesedaran adalah penting bagi penilaian maklumat dan dilihat sebagai penting secara fungsian bagi keperluan kritikal seperti menjaga pesakit koma atau berkomunikasi dengan AI termaju. Penyebaban adalah semata-mata fizikal.",
+    "integration_or_binding": "Integrasi ialah salah satu daripada empat prinsip yang mentakrifkan perceptronium, menyarankan bahawa ia merupakan suatu mekanisme yang penting bagi pengalaman sedar yang bersatu.",
+    "information_flow_or_representation": "Maklumat adalah asasi, kerana kesedaran ialah perasaan subjektif tentang maklumat yang sedang diproses. Mekanisme ini dipacu sepenuhnya oleh prinsip maklumat.",
+    "evolutionary_account": "Pendekatan ini berbeza daripada teori materialis di mana kesedaran ialah suatu kontingensi evolusi, sebaliknya mengaitkannya dengan sifat matematik asas realiti.",
+    "core_claims_and_evidence": [
+      "Kesedaran ialah suatu 'keadaan jirim' (perceptronium).",
+      "Kesedaran ditakrifkan oleh prinsip maklumat, integrasi, ketakbergantungan, dan dinamik.",
+      "Penjelasan mesti berpegang teguh pada hukum fizikal, menggunakan 'tiada sos rahsia tambahan'."
+    ],
+    "basis_of_belief_or_evidence_type": "Falsafah, Matematik, Komputasi"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Boleh diuji secara empirik",
+    "known_empirical_interventions_or_tests": "Generalisasi Teori Maklumat Bersepadu menyiratkan kaitan dengan fungsi pengukuran IIT (mengukur darjah kesedaran). Teori ini bertujuan menangani masalah konkrit seperti menilai pesakit koma dan AI termaju.",
+    "criticisms_and_tensions": "Sebagai suatu generalisasi IIT, ia mewarisi kritikan sedia ada, seperti kesukaran menjelaskan perasaan subjektif semata-mata melalui prinsip fizikal dan maklumat.",
+    "open_questions_and_limitations": "Prinsip matematik tepat yang membezakan pemprosesan sedar daripada pemprosesan tak sedar masih perlu ditemui.",
+    "ontological_coherence": "Amat koheren dalam suatu ontologi monis fizikalis/matematik yang kuat, kerana ia berpegang teguh pada hukum fizikal dan menolak komponen bukan-fizikal."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ya",
+      "rationale": "Teori ini adalah fizikalis secara ketat ('Semuanya fizik') dan mentakrifkan kesedaran sebagai suatu keadaan jirim yang boleh dicapai melalui pemprosesan maklumat yang kompleks. Oleh itu, sistem buatan boleh mencapai keadaan ini pada prinsipnya."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesedaran ialah suatu keadaan jirim emergen (perceptronium) otak fizikal. Kematian dan pelarutan substrat fizikal yang tak berbalik akan membawa kepada penghentian kesedaran."
+    },
+    "meaning_and_purpose": {
+      "stance": "Tidak Pasti/Humanistik sahaja",
+      "rationale": "Asas dalam fizik dan struktur matematik lazimnya menyarankan tiada tujuan kosmik yang muktamad, selaras dengan pandangan fizikalis deflasionari. Teori ini tidak secara eksplisit mencadangkan teleologi kosmik."
+    },
+    "virtual_immortality": {
+      "stance": "Berkemungkinan",
+      "rationale": "Jika kesedaran ialah suatu keadaan jirim maklumat tertentu yang ditakrifkan oleh prinsip matematik/fizikal, keadaan itu berpotensi diduplikasi secara sempurna atau dimuat naik ke dalam suatu medium bukan-biologi oleh teknologi termaju."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Mathematical Universe Hypothesis",
+        "relationship": "Asas"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Serasi"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness is a state of matter",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality",
+        "year": 2014
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Pengiraan",
+    "summary": "Teori-teori pengiraan tentang minda mengemukakan bahawa minda beroperasi seperti sebuah komputer, dengan memandang keadaan mental sebagai peranan berfungsi yang ditakrifkan oleh arahan atau algoritma yang sistematik dan berperingkat, tanpa bergantung pada substrat fizik yang mendasarinya. Teori-teori ini mendorong kebangkitan sains kognitif dengan meniru keupayaan seperti minda seperti penaakulan dan persepsi.",
+    "associated_thinkers": [
+      "Nick Bostrom",
+      "James Reggia"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Pengiraan dan Maklumat",
+    "core_identity_tagline": "Kesedaran sebagai Algoritma dan Pengiraan",
+    "classification_tags": [
+      "computation",
+      "functionalism",
+      "AI",
+      "reductionism",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesedaran (atau keadaan mental secara amnya) dikenal pasti dengan pelaksanaan pengiraan jenis tertentu yang boleh ditemui. Keadaan mental ditakrifkan oleh peranan berfungsi atau outputnya, bukan penyusunan dalamannya atau substrat materialnya.",
+    "ontological_status": "Fizikalisme",
+    "mind_body_relationship": "Identiti/Fungsionalis. Keadaan mental ialah keadaan berfungsi yang boleh diwujudkan (atau direalisasikan) dalam sebarang bentuk jirim yang berkeupayaan memproses maklumat, seperti tisu saraf atau cip komputer.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergens Lemah. Selaras dengan kerangka materialis, diandaikan bahawa sifat mental, walaupun peringkat tinggi, secara prinsip boleh dijelaskan sepenuhnya atau direduksikan kepada proses pengiraan dan fizik asas yang mendasarinya, walaupun penjelasan praktikalnya adalah kompleks.",
+    "subjectivity_and_intentionality": "Intensionaliti (kearahan pemikiran) dijelaskan melalui simbol kognitif yang boleh dimanipulasi untuk memerihalkan konsep. Subjektiviti (kesedaran fenomenal) kekal sebagai cabaran, kerana tumpuannya terutamanya pada kefungsian luaran dan pemprosesan maklumat, dan bukannya pengalaman dalaman.",
+    "qualia_account": "Tidak pasti/Deflasi. Teori ini bergelut untuk menyediakan demonstrasi yang meyakinkan tentang kesedaran fenomenal, sebaliknya menumpukan pada penangkapan korelat kognitif dan tingkah laku. Sesetengah pendekatan yang selaras dengan pandangan ini mungkin menganggap qualia sebagai berilusi atau tidak koheren, manakala yang lain menegaskan bahawa qualia sepadan dengan keadaan pengiraan yang bersepadu dan boleh dilaporkan.",
+    "ontological_commitments": "Algoritma, arahan sistematik berperingkat, mesin Turing (model pengiraan abstrak), dan sebarang substrat fizik yang berkeupayaan mewujudkan maklumat.",
+    "epistemic_access": "Terutamanya melalui pemodelan pengiraan, simulasi, dan pengukuran objektif keupayaan pemprosesan maklumat serta korelat tingkah laku.",
+    "constituents_and_structure": "Rutin arahan sistematik berperingkat (algoritma), lazimnya dimodelkan menggunakan struktur pengiraan abstrak seperti mesin Turing."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Akses (contohnya, akses global kepada maklumat), Ingatan, Struktur Pengetahuan, Persepsi, Penaakulan, Penyelesaian Masalah, dan Pemahaman Linguistik. Kesedaran fenomenal (qualia) sering dikecualikan atau dianggap sebagai masalah yang belum terselesai.",
+    "distinctive_mechanism_or_principle": "Prinsip bahawa melaksanakan pengiraan jenis tertentu (pemprosesan algoritma) adalah kedua-duanya perlu dan mencukupi bagi kesedaran.",
+    "dynamics_of_emergence": "Algoritma/Sistematik. Kesedaran timbul melalui pemprosesan maklumat yang sistematik menerusi algoritma, membolehkan peniruan keupayaan seperti minda.",
+    "location_and_distribution": "Lokasinya bersifat berfungsi dan bukan material; kesedaran berada di mana-mana sahaja fungsi pengiraan yang perlu diwujudkan, sama ada dalam tisu saraf biologi atau cip komputer bukan biologi.",
+    "causation_and_functional_role": "Keadaan mental berkesan secara sebab-akibat kerana ia merupakan keadaan berfungsi yang diwujudkan dalam dunia fizik. Peranan berfungsinya adalah untuk menyusun pemprosesan maklumat, membolehkan keupayaan seperti perancangan, pembuatan keputusan, dan penyelesaian masalah.",
+    "integration_or_binding": "Dicapai secara tersirat melalui pemprosesan maklumat yang kompleks dan integrasi fungsi pengiraan khusus yang perlu bagi keupayaan kognitif seperti struktur pengetahuan dan penaakulan.",
+    "information_flow_or_representation": "Keadaan mental ialah maklumat abstrak atau simbol kognitif yang dimanipulasi secara algoritma oleh substrat fizik yang mendasarinya untuk menjana pemikiran dan pemahaman.",
+    "evolutionary_account": "Tidak ditangani secara eksplisit oleh teori teras dalam sumber, tetapi serasi dengan pandangan materialis am bahawa kesedaran ialah produk berevolusi kekompleksan neurobiologi, khususnya bagi pemprosesan dan pengiraan penyesuaian.",
+    "core_claims_and_evidence": [
+      "Melaksanakan pengiraan jenis tertentu yang boleh ditemui adalah kedua-duanya perlu dan mencukupi bagi kesedaran.",
+      "Keadaan mental ditentukan semata-mata oleh output atau peranan berfungsinya, tanpa mengira medium fizik.",
+      "Pemodelan pengiraan ialah metodologi yang diterima untuk mengkaji kesedaran secara saintifik."
+    ],
+    "basis_of_belief_or_evidence_type": "Pengiraan, Falsafah (Fungsionalisme), dan Logik."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Boleh diuji secara empirik. Metodologinya melibatkan penggunaan pemodelan pengiraan untuk menilai sama ada sistem berjaya mensimulasikan korelat neurobiologi, kognitif, dan tingkah laku yang diketahui bagi pemprosesan sedar.",
+    "known_empirical_interventions_or_tests": [
+      "Pembangunan dan pengujian model pengiraan serta simulasi mesin bagi korelat kognitif."
+    ],
+    "criticisms_and_tensions": "Dikritik sebagai analogi sejarah yang menyamakan minda dengan 'sains zaman itu'. Ketegangan utamanya ialah ketiadaan demonstrasi yang meyakinkan tentang kesedaran mesin fenomenal, membawa kepada kritikan bahawa ia hanya menangani 'masalah mudah' (fungsi) sambil mengabaikan 'masalah sukar' (pengalaman).",
+    "open_questions_and_limitations": "Isu utama yang belum selesai ialah sama ada melaksanakan pengiraan, tanpa mengira kekompleksan, benar-benar mencukupi untuk menghasilkan kesedaran fenomenal ('bagaimana rasanya').",
+    "ontological_coherence": "Koheren dalam kerangka fizikalis reduktif dan fungsionalis, bergantung pada premis bahawa segala realiti mental boleh direduksikan kepada pemprosesan maklumat atau struktur algoritma."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ya",
+      "rationale": "Oleh sebab fungsionalisme pengiraan mengandaikan bahawa kesedaran ialah hasil pelaksanaan pengiraan jenis yang betul, kesedaran AI bukan sahaja mungkin malah tidak terelakkan, memandangkan pertumbuhan eksponen kecanggihan pengiraan dalam kecerdasan bukan biologi."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesedaran terikat dengan perwujudan fizik atau berfungsi dalam sesuatu substrat. Kelangsungan tradisional selepas kematian dinafikan, tetapi kesinambungan hanya mungkin melalui muat naik minda digital (keabadian maya)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistik sahaja",
+      "rationale": "Sebagai Teori Materialisme, ia tidak menyokong sebarang makna atau tujuan kosmik yang muktamad; makna dan nilai dianggap sebagai fenomena emergen yang dicipta sendiri yang timbul daripada fungsi kompleks makhluk yang sedar."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Jika kesedaran adalah murni pengiraan/berfungsi (bermakna intipatinya bersifat algoritma), maka penyalinan sempurna corak berfungsi otak dalam medium bukan biologi akan memelihara diri mental orang pertama, menjadikan keabadian maya boleh dicapai secara prinsip."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Prinsip teras"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Serasi"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kritikan"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The computational theory of mind, Michael Rescorla",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The rise of machine consciousness: studying consciousness with computational models, James Reggia",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      }
+    ]
+  }
+}
