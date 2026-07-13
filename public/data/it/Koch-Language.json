@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "La teoria di Koch secondo cui la coscienza non dipende dal linguaggio",
+    "summary": "Questa teoria afferma che la coscienza fenomenica, ovvero l'esperienza interiore di base, è funzionalmente indipendente dalla capacità linguistica. È sostenuta da casi clinici in cui la capacità linguistica è gravemente compromessa o perduta, eppure la consapevolezza fondamentale è conservata, il che conduce alla conclusione che la senzienza di base sia una proprietà diffusa, condivisa con molti animali non linguistici.",
+    "associated_thinkers": ["Christof Koch"],
+    "category": "Teorie materialiste",
+    "subcategory": "Relazioni con il linguaggio",
+    "core_identity_tagline": "La coscienza è indipendente dal linguaggio",
+    "classification_tags": [
+      "phenomenal consciousness",
+      "language",
+      "neurobiology",
+      "animal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come un fenomeno fisico/biologico nel cervello il cui meccanismo fondamentale è distinto e indipendente dall'elaborazione del linguaggio simbolico.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La mente (la coscienza fenomenica di base) è legata ai processi cerebrali fisici, che sono separati dai processi linguistici.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole",
+    "subjectivity_and_intentionality": "La soggettività di base (la senzienza) è conservata anche senza il linguaggio. Il linguaggio contribuisce enormemente al sé come «centro narrativo», che costituisce gli aspetti di ordine superiore della soggettività.",
+    "qualia_account": "I qualia (l'esperienza interiore di base) esistono in entità non linguistiche e sono indipendenti dalle capacità simboliche.",
+    "ontological_commitments": "Cervelli biologici e i meccanismi fisici sottostanti che generano la consapevolezza di base.",
+    "epistemic_access": "Vi si accede attraverso l'osservazione in terza persona, in particolare casi clinici che mostrano una dissociazione tra la perdita del linguaggio e la conservazione della coscienza.",
+    "constituents_and_structure": "La coscienza scaturisce da meccanismi cerebrali fisici indipendenti dalle strutture cerebrali dedicate al linguaggio e al linguaggio interiore."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza fenomenica (esperienza interiore di base) e senzienza.",
+    "distinctive_mechanism_or_principle": "Il principio della dissociazione, in cui il substrato neurale necessario e sufficiente per la coscienza (NCC) è distinto dai correlati neurali del linguaggio.",
+    "dynamics_of_emergence": "La coscienza di base è un prodotto di processi biologici che si sono evoluti indipendentemente dalla complessità linguistica umana.",
+    "location_and_distribution": "Localizzata nel cervello biologico; distribuita ampiamente tra le specie (per es. tutti i mammiferi), indipendentemente dalla capacità linguistica.",
+    "causation_and_functional_role": "La coscienza di base opera indipendentemente dalle funzioni linguistiche. Il ruolo del linguaggio è principalmente quello di potenziare le funzioni umane di ordine superiore, come il senso del sé.",
+    "binding_and_unity": "L'unità dell'esperienza fenomenica di base deve realizzarsi attraverso meccanismi fisici o neurali non linguistici.",
+    "information_flow_or_representation": "L'elaborazione dell'informazione relativa all'esperienza grezza non richiede la rappresentazione del linguaggio simbolico.",
+    "evolutionary_account": "La coscienza si è evoluta prima delle capacità linguistiche umane, come dimostrato dalla sua presenza in animali non linguistici, il che suggerisce che il suo ruolo adattivo non sia subordinato al linguaggio.",
+    "core_claims_and_evidence": [
+      "La coscienza non dipende dal linguaggio.",
+      "I casi clinici di lesione cerebrale dimostrano che la coscienza è conservata quando il linguaggio è perduto.",
+      "La senzienza è condivisa con tutti i mammiferi, respingendo la visione antropocentrica secondo cui solo gli esseri umani sperimentano qualcosa."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirico, clinico e filosofico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile attraverso lo studio neuroscientifico di animali non linguistici e la ricerca clinica su vittime di traumi cerebrali che dimostrano una consapevolezza persistente nonostante condizioni afasiche.",
+    "critiques_and_challenges": "Sebbene Koch argomenti contro le visioni classiche che legano linguaggio e coscienza, il consenso scientifico contemporaneo concorda già sul fatto che la coscienza di base non richieda il linguaggio.",
+    "open_questions_and_limitations": "La teoria conferma da che cosa la coscienza *non* dipenda (il linguaggio), ma non fornisce una soluzione positiva al problema difficile della coscienza (ossia che cosa sia letteralmente l'esperienza fenomenica).",
+    "ontological_coherence": "Altamente coerente entro la categoria materialista, in particolare per gli argomenti che distinguono la consapevolezza di base dall'autocoscienza complessa, mediata dal linguaggio."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condizionale",
+      "rationale": "Poiché il linguaggio non è necessario per la coscienza, la capacità linguistica dell'IA (i LLM) è irrilevante. La coscienza dell'IA dipende interamente dal fatto che il necessario substrato fisico non linguistico possa essere replicato nei sistemi artificiali."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Coerentemente con la sua categorizzazione materialista, la coscienza è legata a un substrato fisico (il cervello) e non può persistere dopo la morte biologica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "La coscienza consente al sé di funzionare come centro narrativo attraverso il linguaggio, rendendo possibile un significato creato dall'uomo, ma la realtà materiale sottostante non suggerisce alcuno scopo cosmico ultimo."
+    },
+    "virtual_immortality": {
+      "stance": "Condizionale",
+      "rationale": "Se la coscienza è svincolata dal linguaggio, l'attenzione si sposta interamente sulla duplicazione del substrato fisico non linguistico della consapevolezza di base. Se questa specifica struttura neurale non linguistica può essere duplicata, l'immortalità virtuale è possibile."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Searle’s Language and Consciousness",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Andrews’s Consciousness Without Complex Brains",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Smith’s Language as Classifier of Consciousness",
+        "relationship": "Sovrapposizione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t Be Computed",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Consciousness doesn’t depend on language, Christof Koch",
+        "year": 2019
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Il naturalismo biologico di Searle",
+    "summary": "Il naturalismo biologico sostiene che la coscienza sia una caratteristica biologica reale, irriducibile e soggettiva del cervello, interamente causata da processi neurobiologici di livello inferiore e realizzata come caratteristica di sistema di livello superiore. Questo approccio cerca di risolvere il problema mente-corpo accettando la visione scientifica del mondo, riconoscendo al contempo l'ontologia in prima persona dell'esperienza cosciente.",
+    "associated_thinkers": ["John Searle"],
+    "category": "Materialismo",
+    "subcategory": "Filosofico",
+    "core_identity_tagline": "La coscienza come caratteristica biologica irriducibile del cervello",
+    "classification_tags": [
+      "biological",
+      "naturalism",
+      "causal_reductionism",
+      "first-person_ontology",
+      "irreducible"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Gli stati coscienti sono identificati come parti reali del mondo reale che sono caratteristiche di sistema del cervello di livello superiore, definite come stati di consapevolezza, senzienza o sensazione che persistono durante la veglia.",
+    "ontological_status": "Fisicalismo (naturalismo biologico). Sostiene che la coscienza sia parte della natura in quanto proprietà biologica soggettiva e qualitativa, respingendo i tentativi di 'naturalizzarla' negandone l'ontologia soggettiva.",
+    "mind_body_relationship": "Gli stati coscienti sono causalmente ridotti a processi cerebrali di livello inferiore (riducibilità causale), ma sono ontologicamente irriducibili a tali processi, poiché la coscienza ha un'ontologia soggettiva (in prima persona) mentre la sua base ha un'ontologia oggettiva (in terza persona).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Le fonti non classificano esplicitamente il tipo di emergenza. Poiché la coscienza è interamente causata da processi fisici (materialismo) eppure è ontologicamente irriducibile, questo modello si colloca in modo unico nel panorama fisicalista, affermando una realtà emergente robusta e non eliminabile legata strettamente alla causalità biologica.",
+    "subjectivity_and_intentionality": "Gli stati coscienti sono ontologicamente soggettivi (esistenti solo in quanto sperimentati da un soggetto) e la maggior parte degli stati coscienti è intenzionale (riguarda, o si riferisce a, oggetti e stati di cose).",
+    "qualia_account": "Gli stati coscienti sono intrinsecamente qualitativi, nel senso che vi è una distinta qualità sentita nell'essere in un particolare stato cosciente, e questa qualità sentita è una parte reale e irriducibile del mondo.",
+    "ontological_commitments": "Cervelli biologici e i loro processi neurobiologici di livello inferiore; stati coscienti caratterizzati da qualità sentita, soggettività ontologica, unità e intenzionalità.",
+    "epistemic_access": "La coscienza è conosciuta direttamente attraverso l'introspezione (prospettiva in prima persona) e indirettamente attraverso l'indagine della sua base causale nei processi cerebrali di livello inferiore (oggettività in terza persona).",
+    "constituents_and_structure": "La coscienza esiste come un unico campo cosciente unificato ed è una caratteristica di livello superiore del sistema cerebrale, possedendo caratteristiche essenziali come la qualità sentita e la soggettività."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza fenomenica (qualità sentita), intenzionalità ed efficacia causale.",
+    "distinctive_mechanism_or_principle": "Il principio è che tutti gli stati coscienti sono causati in modo affidabile e universale da processi cerebrali di livello inferiore e realizzati come caratteristiche di sistema, funzionando come una vera e propria macchina biologica.",
+    "dynamics_of_emergence": "Un processo dinamico causato continuamente dall'attività neurale in corso, che dà luogo a uno stato di consapevolezza soggettiva (la coscienza) che inizia al risveglio da un sonno senza sogni.",
+    "location_and_distribution": "Localizzata nel cervello biologico, specificamente realizzata nel cervello come caratteristica di livello superiore o di sistema.",
+    "causation_and_functional_role": "Gli stati coscienti funzionano causalmente (efficacia causale) come parti reali del mondo reale, fornendo una base per l'azione intenzionale e l'interazione con l'ambiente.",
+    "integration_or_binding": "Gli stati coscienti sono sperimentati come parte di un unico campo cosciente unificato, sebbene il meccanismo specifico di questa unificazione neurale non sia dettagliato nelle fonti.",
+    "information_flow_or_representation": "Gli stati coscienti sono in gran parte intenzionali (riguardano qualcosa), il che significa che incorporano un contenuto; Searle antepone la coscienza al contenuto.",
+    "evolutionary_account": "Implicito. Il quadro del 'naturalismo biologico' presuppone che la coscienza sia sorta come caratteristica biologica, in coerenza con una prospettiva naturalistica e basata sulla scienza, sebbene non vengano forniti dettagli evolutivi specifici.",
+    "core_claims_and_evidence": [
+      "Gli stati coscienti sono parti reali del mondo reale e non possono essere eliminati o ridotti a qualcos'altro (irriducibilità ontologica).",
+      "Tutti gli stati coscienti sono causati da processi cerebrali di livello inferiore, stabiliti da una quantità schiacciante di evidenze (riducibilità causale).",
+      "Gli stati coscienti sono realizzati nel cervello come caratteristiche di livello superiore o di sistema."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico (definizione delle caratteristiche essenziali) ed Empirico (evidenza neuroscientifica della correlazione mente-cervello)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile in linea di principio, poiché la teoria richiede di individuare gli esatti dettagli causali di come i processi cerebrali di livello inferiore causino la coscienza.",
+    "known_empirical_interventions_or_tests": "La teoria è generalmente sostenuta da evidenze empiriche provenienti dalle neuroscienze che mostrano il legame tra coscienza e attività cerebrale (ad esempio, danni cerebrali, stimolazione cerebrale).",
+    "criticisms_and_tensions": "I critici contestano l'affermazione che la connessione causale tra stati cerebrali e coscienza sia pienamente stabilita. Esiste una tensione nel mantenere il materialismo pur sostenendo che la coscienza sia ontologicamente soggettiva e irriducibile a processi fisici oggettivi.",
+    "open_questions_and_limitations": "I dettagli specifici di come esattamente la coscienza sia causata dai processi cerebrali sono sconosciuti, il che impedisce di replicare artificialmente la coscienza.",
+    "ontological_coherence": "Elevata. La teoria è internamente coerente definendo la coscienza come una specifica caratteristica biologica della natura, aggirando così il tradizionale problema mente-corpo mediante l'affermazione di un'identità causale necessaria, ma non ontologica."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condizionale/Possibile",
+      "rationale": "Searle respinge la coscienza tramite simulazione (argomento della Stanza cinese) ma sostiene che, se il meccanismo biologico causalmente sufficiente fosse noto, una macchina artificiale che implementasse quello stesso meccanismo potrebbe essere cosciente, poiché la coscienza non richiede rigorosamente neuroni biologici, ma solo un sufficiente potere causale."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è interamente fisica e unicamente il prodotto di cervelli biologici; pertanto, la morte del cervello e del corpo significa la non esistenza irrevocabile e permanente."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "In quanto teoria materialista, il naturalismo biologico fatica a razionalizzare un significato o uno scopo cosmico ultimo, sebbene rimanga possibile un significato umanistico creato da noi stessi."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Se la coscienza è interamente spiegabile mediante stati fisici/biologici, allora duplicare tali stati (e le loro relazioni causali) in un mezzo non biologico consentirebbe, in linea di principio, il caricamento e la continuazione del sé mentale in prima persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Sovrapposizione/Evoluzione (una forma più sofisticata di materialismo basata sull'identità cerebrale)"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Contrasto (entrambi sono naturalisti biologici, ma Dennett antepone il contenuto/la funzione, mentre Searle antepone la coscienza/la soggettività)"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Critica (Searle respinge questa e altre teorie tradizionali come irrilevanti quando si parte da una moderna visione scientifica del mondo)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Rediscovery of Mind",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Biological naturalism",
+        "year": 2007
+      },
+      {
+        "title_with_names": "What things are conscious?",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Consciousness and Language",
+        "year": 2002
+      }
+    ]
+  }
+}

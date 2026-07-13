@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "Ipotesi del cervello entropico",
+    "summary": "Questa ipotesi propone che l'entropia dell'attività cerebrale spontanea indicizzi la ricchezza informazionale degli stati coscienti, entro specifici limiti superiori e inferiori. Sostiene che gli stati coscienti primari o psichedelici sono associati a un'entropia elevata e a un'alta «criticità» cerebrale, mentre la normale coscienza di veglia comporta un'entropia soppressa e opera appena al di sotto della criticità.",
+    "associated_thinkers": [
+      "Robin Carhart-Harris"
+    ],
+    "category": "Teorie del materialismo",
+    "subcategory": "Omeostatico e affettivo",
+    "core_identity_tagline": "La coscienza come entropia/criticità informazionale",
+    "classification_tags": [
+      "entropy",
+      "neurodynamics",
+      "psychedelics",
+      "criticality",
+      "DMN"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata dalla ricchezza informazionale dell'attività cerebrale spontanea, indicizzata da una grandezza adimensionale chiamata entropia.",
+    "ontological_status": "Fisicalismo / Materialismo",
+    "mind_body_relationship": "La coscienza è intesa come uno stato dinamico misurabile dell'attività cerebrale fisica, specificamente la sua neurodinamica, localizzato all'interno del cervello materiale.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole",
+    "subjectivity_and_intentionality": "La teoria si concentra sulle dinamiche del sistema (entropia) corrispondenti ai diversi stati coscienti; la soggettività e l'intenzionalità sono affrontate indirettamente tramite funzioni metacognitive (come l'autoconsapevolezza e la verifica della realtà) rese possibili dall'entropia soppressa nella normale coscienza di veglia.",
+    "qualia_account": "La teoria non specifica esplicitamente come sorga la sensazione qualitativa. Sostiene che l'entropia indicizzi la «ricchezza informazionale» degli stati coscienti, il che implica un legame con l'esperienza, ma non spiega la natura di quella qualità soggettiva in sé.",
+    "ontological_commitments": "L'attività cerebrale spontanea, l'entropia, la criticità e le reti neurali organizzate, in particolare la Rete della Modalità Predefinita (DMN), sono le entità presupposte.",
+    "epistemic_access": "La coscienza è resa accessibile e caratterizzata mediante il calcolo oggettivo dell'entropia cerebrale a partire da dati di neuroimaging (ad es. la neurodinamica osservata durante gli stati psichedelici).",
+    "constituents_and_structure": "La struttura della coscienza si basa sul repertorio di motivi di connettività funzionale che si formano e si frammentano nel tempo, e sul livello di organizzazione all'interno della Rete della Modalità Predefinita (DMN)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenico (indicizzato tramite la ricchezza informazionale), stati primari/primitivi, normale coscienza di veglia, autoconsapevolezza (in quanto vincolata dall'entropia soppressa).",
+    "distinctive_mechanism_or_principle": "Il principio secondo cui la ricchezza informazionale degli stati coscienti è governata dall'entropia dell'attività cerebrale spontanea e dalla conseguente prossimità del cervello a un punto «critico» tra ordine e disordine.",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico in cui le fluttuazioni dell'entropia dettano il carattere dello stato. L'entropia soppressa mantiene la qualità vincolata e stabile della normale coscienza di veglia, mentre l'entropia elevata conduce a stati critici/primari.",
+    "location_and_distribution": "Localizzata principalmente in pattern dinamici di connettività funzionale in tutto il cervello, con un'attenzione specifica all'attività altamente organizzata all'interno della Rete della Modalità Predefinita (DMN).",
+    "causation_and_functional_role": "La soppressione dell'entropia ha la funzione di conferire alla normale coscienza di veglia una qualità vincolata, rendendo possibili funzioni metacognitive come la verifica della realtà e l'autoconsapevolezza.",
+    "integration_or_binding": "L'integrazione è dedotta attraverso la complessità e la ricchezza indicizzate dall'entropia; gli stati ad alta entropia esibiscono un repertorio maggiore di motivi di connettività, il che suggerisce una forma dinamica di integrazione funzionale.",
+    "information_flow_or_representation": "L'entropia funge da indice della ricchezza informazionale. L'integrazione con il principio dell'energia libera suggerisce che l'effetto entropico degli psichedelici allenta i priori/le credenze di alto livello, liberando il flusso di informazione dal basso verso l'alto.",
+    "evolutionary_account": "Il modello suggerisce che gli stati primari di coscienza (alta entropia) siano primitivi o abbiano preceduto lo sviluppo della normale coscienza di veglia moderna, adulta e umana (entropia soppressa).",
+    "core_claims_and_evidence": [
+      "L'entropia dell'attività cerebrale spontanea indicizza la ricchezza informazionale degli stati coscienti.",
+      "Lo stato psichedelico, un esempio di stato primario, mostra entropia elevata e criticità cerebrale nei dati di neuroimaging.",
+      "La normale coscienza di veglia mantiene un'entropia soppressa, operando appena al di sotto della criticità, in dipendenza dall'organizzazione della Rete della Modalità Predefinita (DMN)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirico, computazionale, teorico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile",
+    "known_empirical_interventions_or_tests": [
+      "Studi di neuroimaging (ad es. con la psilocibina) per misurare l'entropia cerebrale",
+      "Misure della criticità cerebrale e dei motivi di connettività funzionale"
+    ],
+    "criticisms_and_tensions": "La teoria è criticata da alcuni per l'uso di concetti come «complessità» o «diversità» in modo intercambiabile con coscienza/esperienza, interpretandoli come mero «rumore cerebrale» incapace di spiegare la ricchezza soggettiva, in particolare quando un'attività cerebrale ridotta correla con ricche esperienze psichedeliche.",
+    "open_questions_and_limitations": "La teoria, radicata nel materialismo, condivide il limite di spiegare *perché* una misura quantitativa come l'entropia si traduca in esperienza soggettiva qualitativa, sebbene usi l'entropia per indicizzare la ricchezza di quell'esperienza.",
+    "ontological_coherence": "Altamente consistente con un'ontologia fisicalista, poiché utilizza metriche neurobiologiche quantificabili (entropia, criticità) per mappare i diversi stati di coscienza."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile (condizionata)",
+      "rationale": "Poiché la teoria è un modello materialista basato su proprietà computazionali misurabili (entropia, ricchezza informazionale, criticità) dei sistemi fisici, l'intelligenza artificiale potrebbe verosimilmente conseguire la coscienza se tali necessarie proprietà dinamiche fossero istanziate in substrati non biologici."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è definita dalla specifica organizzazione e attività dinamica del cervello fisico, come l'attività cerebrale spontanea e la DMN, il che implica la cessazione alla morte corporea."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "In quanto spiegazione materialista e neurobiologica degli stati di coscienza e delle loro funzioni metacognitive, la teoria non introduce né richiede una fonte non fisica di significato o scopo cosmico ultimo."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Se la coscienza è interamente spiegata dagli specifici pattern e parametri dinamici dell'attività cerebrale (come entropia e criticità), allora una riproduzione perfetta di tali pattern in un supporto non biologico dovrebbe preservare il sé fenomenico in prima persona, sostenendo l'immortalità virtuale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Critical Brain Hypothesis",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Analytic Idealism (Kastrup)",
+        "relationship": "Critica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs, R.L. Carhart-Harris et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The entropic brain—revisited, R.L. Carhart-Harris",
+        "year": 2018
+      },
+      {
+        "title_with_names": "REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics, R.L. Carhart-Harris, K.J. Friston",
+        "year": 2019
+      }
+    ]
+  }
+}

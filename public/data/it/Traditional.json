@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Dualismi storici e tradizionali",
+    "summary": "Questa categoria comprende le teorie dualiste diffuse nel corso dei millenni, che spesso assumono un aspetto non fisico della mente (come un'anima) separato dal corpo fisico. Questi dualismi, compresi quelli presenti nella filosofia antica e nelle grandi tradizioni religiose (come le religioni abramitiche e alcune scuole indiane), affermano che la realtà consiste di almeno due categorie ontologiche distinte: fisica e non fisica.",
+    "associated_thinkers": [
+      "Plato",
+      "René Descartes (Modern Start)",
+      "Richard Swinburne",
+      "J.P. Moreland"
+    ],
+    "category": "Dualismi",
+    "subcategory": "Dualismo storico/tradizionale",
+    "core_identity_tagline": "«La coscienza come sostanza non fisica separata (anima)»",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "soul",
+      "religion",
+      "classical philosophy",
+      "nonphysical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata con una sostanza non fisica (spesso chiamata anima o spirito) che è indipendente dal cervello e dal corpo.",
+    "ontological_status": "Dualismo delle sostanze",
+    "mind_body_relationship": "Tipicamente caratterizzata come interazionismo, in cui gli stati fisici causano stati mentali e viceversa, il che richiede che il mondo fisico non sia causalmente chiuso.",
+    "primitive_or_emergent_status": "Primitiva",
+    "emergence_type": "N/A",
+    "subjectivity_and_intentionality": "La soggettività è insita nella sostanza non fisica (anima/spirito), che agisce come colui che esperisce in prima persona, ovvero l'«io». L'intenzionalità è spesso considerata una proprietà di questa distinta sostanza mentale.",
+    "qualia_account": "Le caratteristiche qualitative (qualia) risiedono interamente all'interno della sostanza non fisica (mente/anima), che è distinta dalla materia fisica.",
+    "ontological_commitments": "Materia/cervello fisici e una sostanza non fisica separata (anima, spirito, purusha).",
+    "epistemic_access": "Generalmente conosciuta attraverso l'intuizione comune, la riflessione filosofica e le tradizioni religiose/spirituali, più che attraverso la scienza empirica.",
+    "constituents_and_structure": "Due generi distinti di sostanza: fisica (estesa) e non fisica (inestesa, mentale)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Esperienza fenomenica, identità personale, sopravvivenza oltre la morte, valori morali e concetto di sé.",
+    "distinctive_mechanism_or_principle": "L'interazione tra le sostanze fisica e non fisica radicalmente distinte, che sfocia nel famigerato «problema dell'interazione».",
+    "dynamics_of_emergence": "La coscienza è una caratteristica persistente della sostanza non fisica, esistente indipendentemente dai processi fisici dinamici.",
+    "location_and_distribution": "La parte fisica (corpo/cervello) è locale; la parte non fisica (anima) è separata e non localizzata, esistente indipendentemente dai vincoli fisici.",
+    "causation_and_functional_role": "Gli stati mentali (della sostanza non fisica) svolgono un ruolo causale nell'influenzare il mondo fisico, e l'anima fonda l'identità personale.",
+    "integration_or_binding": "L'unità (legame) è insita nell'unificata e indivisibile sostanza non fisica (anima).",
+    "information_flow_or_representation": "L'informazione o la rappresentazione è una proprietà della sostanza mentale, caratterizzata come pienamente teleologica e intrinsecamente intenzionale.",
+    "evolutionary_account": "Non tipicamente affrontato, poiché la coscienza (anima) è spesso considerata una creazione fondamentale o una componente data, anziché un prodotto evolutivo.",
+    "core_claims_and_evidence": [
+      "La realtà consiste di due sostanze irriducibili: fisica e non fisica (anima/spirito)",
+      "L'anima fonda l'identità personale e sopravvive alla morte corporea",
+      "La causazione mentale è reale: gli stati non fisici influenzano gli stati fisici",
+      "L'intuizione e la credenza diffusa (specialmente nelle religioni abramitiche) sostengono l'esistenza di un'anima separata"
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico, religioso/tradizionale, intuitivo"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculativo/Filosofico",
+    "known_empirical_interventions_or_tests": "N/A",
+    "criticisms_and_tensions": "Affronta il problema dell'interazione (come una sostanza non fisica causi un cambiamento fisico), il problema della non parsimonia (il rasoio di Occam) e la mancanza di conoscenza scientifica oggettiva riguardo all'anima.",
+    "open_questions_and_limitations": "Il meccanismo fondamentale che consente l'interazione tra sostanze fisiche e non fisiche (problema dell'interazione) è irrisolto.",
+    "ontological_coherence": "Incoerente con l'assunzione comune in scienza della chiusura causale del mondo fisico."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No (per lo più)",
+      "rationale": "La coscienza richiede una sostanza non fisica radicalmente separata (anima) non causalmente determinata dal mondo fisico; pertanto, le intelligenze non biologiche non possono esperire una vera consapevolezza interiore."
+    },
+    "survival_beyond_death": {
+      "stance": "Sì",
+      "rationale": "L'anima/spirito non fisica, essendo indipendente dal corpo, fornisce il meccanismo più chiaro affinché il sé in prima persona sopravviva alla dissoluzione del corpo fisico, dominando le tradizioni religiose."
+    },
+    "meaning_and_purpose": {
+      "stance": "Significato/Scopo/Valore ultimo",
+      "rationale": "Il dualismo è strettamente legato ai sistemi di credenza religiosi (per esempio le religioni abramitiche) che intrinsecamente attribuiscono significato, scopo e valore cosmici all'esistenza e alla vita umana."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Caricare il cervello non riuscirebbe a duplicare la necessaria componente non fisica (anima) richiesta per la coscienza, impedendo così l'immortalità virtuale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism (Generic)",
+        "relationship": "Identità"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Contrasto"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Contrasto/Estensione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism, Howard Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Theosophy, Theosophy Wiki",
+        "year": 2023
+      }
+    ]
+  }
+}

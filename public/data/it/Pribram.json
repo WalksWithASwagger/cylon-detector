@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "La teoria olonomica del cervello di Pribram",
+    "summary": "Questa teoria propone che la coscienza umana sorga da effetti quantistici che si verificano all'interno delle cellule cerebrali o tra di esse, facendo sì che il cervello funzioni come una rete olografica di immagazzinamento dell'informazione. Questa natura olografica implica che l'informazione, in particolare la memoria, sia immagazzinata in modo nonlocale attraverso le reti neurali, consentendo un funzionamento robusto anche dopo un danno.",
+    "associated_thinkers": ["Karl Pribram", "David Bohm"],
+    "category": "Teorie del materialismo",
+    "subcategory": "Computazionale e informazionale",
+    "core_identity_tagline": "«La coscienza come immagazzinamento quantistico olografico»",
+    "classification_tags": [
+      "quantum",
+      "holographic",
+      "memory",
+      "non-local",
+      "neuroscience"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata con schemi di interferenza d'onda all'interno delle reti dendritiche neuronali, caratteristici della codifica olografica dell'informazione derivante da effetti quantistici.",
+    "ontological_status": "Fisicalismo (esteso/quanto-biologico)",
+    "mind_body_relationship": "La mente/coscienza è identica a specifici processi quantistici e strutture informative all'interno del cervello fisico, il che suggerisce una teoria dell'identità a livello quantistico.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza forte",
+    "subjectivity_and_intentionality": "La coscienza è collegata al recupero e alla ricostruzione organizzati di schemi olografici di informazione, favorendo la rapida memoria associativa necessaria all'esperienza soggettiva e consentendo una percezione che trascende la semplice elaborazione anterograda (feedforward).",
+    "qualia_account": "I qualia sono implicitamente spiegati dalla struttura di immagazzinamento nonlocale e olografica, che consente di ricostruire da qualsiasi parte l'interezza e l'unità della complessa informazione immagazzinata (memoria/percezione).",
+    "ontological_commitments": "Effetti/processi quantistici, reti dendritiche, schemi di interferenza d'onda, spazio delle fasi di Hilbert e distribuzione nonlocale della memoria.",
+    "epistemic_access": "Accessibile attraverso l'inferenza teorica da fenomeni osservati (ad es. effetti di memoria nonlocale nelle lesioni cerebrali) e la modellizzazione matematica, come i principi olografici.",
+    "constituents_and_structure": "L'informazione è codificata in oscillazioni elettriche e schemi di interferenza d'onda all'interno delle reti dendritiche a fibre fini dei neuroni, formando una rete di immagazzinamento nonlocale e distribuita."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica (unità e robustezza), Memoria, Elaborazione dell'informazione, Nonlocalità.",
+    "distinctive_mechanism_or_principle": "L'analogia olografica, per cui l'immagazzinamento nonlocale dell'informazione in schemi di interferenza garantisce che tutto il contenuto immagazzinato sia accessibile da qualsiasi parte della rete di memoria.",
+    "dynamics_of_emergence": "La coscienza sorge dinamicamente quando gli effetti quantistici generano oscillazioni che creano schemi di interferenza, i quali poi codificano e ricostruiscono l'esperienza.",
+    "location_and_distribution": "Distribuita e nonlocale, risiede nelle oscillazioni elettriche delle reti dendritiche dei neuroni, in particolare in relazione all'immagazzinamento nonlocale della memoria.",
+    "causation_and_functional_role": "Consente una rapida memoria associativa che connette velocemente frammenti disparati di informazione immagazzinata e fornisce robustezza contro il danno cerebrale localizzato.",
+    "integration_or_binding": "L'integrazione è risolta dalla natura olografica dell'informazione stessa; come in un ologramma, ogni parte del campo contiene l'intera informazione necessaria a ricostruire il percetto unificato.",
+    "information_flow_or_representation": "L'informazione è flusso e rappresentazione codificati in schemi di interferenza d'onda, immagazzinati attraverso la rete neurale anziché in specifici circuiti locali.",
+    "evolutionary_account": "La teoria si concentra sui mezzi meccanici tramite cui la coscienza e la memoria nonlocale funzionano, piuttosto che fornire una spiegazione filogenetica esplicita dell'origine di questo meccanismo.",
+    "core_claims_and_evidence": [
+      "La coscienza risulta da effetti quantistici nelle cellule cerebrali che agiscono come una rete di immagazzinamento olografico.",
+      "La memoria è distribuita in modo nonlocale, consentendo il funzionamento cerebrale nonostante danni localizzati (supportato dagli esperimenti di Lashley).",
+      "L'informazione è codificata tramite schemi di interferenza d'onda nelle reti dendritiche."
+    ],
+    "basis_of_belief_or_evidence_type": "Concettuale, Matematico (modelli olografici), Empirico (studi neurobiologici sulle lesioni), Teorico (fisica quantistica)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente verificabile, ma incontra estrema difficoltà empirica nel verificare le necessarie condizioni biologiche quantistiche all'interno del cervello.",
+    "known_empirical_interventions_or_tests": [
+      "Gli esperimenti sull'engramma di Lashley, che mostrano una robusta funzione di memoria nonostante ampie lesioni della corteccia cerebrale."
+    ],
+    "criticisms_and_tensions": "Le neuroscienze tradizionali respingono la teoria per mancanza di supporto empirico, in particolare riguardo a come effetti quantistici coerenti possano essere mantenuti nell'ambiente caldo e rumoroso del cervello (il problema della decoerenza).",
+    "open_questions_and_limitations": "Il preciso substrato fisico dell'immagazzinamento quantistico e il meccanismo per mantenere la coerenza quantistica restano ignoti e sono in gran parte respinti dalla scienza tradizionale.",
+    "ontological_coherence": "Coerente all'interno di un modello esteso di fisica quantistica e teoria dell'informazione, ma fondamentalmente incompatibile con il materialismo riduzionista classico."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condizionale",
+      "rationale": "Se la coscienza dipende da specifiche proprietà quantistiche/fisiche (come le oscillazioni dendritiche e l'interferenza d'onda) e non dalla sola computazione classica, i sistemi artificiali potrebbero essere coscienti solo replicando questa specifica struttura fisica, attualmente sconosciuta."
+    },
+    "survival_beyond_death": {
+      "stance": "Altamente improbabile/No",
+      "rationale": "La coscienza è legata alle dinamiche quantistiche emergenti all'interno delle reti dendritiche del cervello fisico; la distruzione di questa struttura fisica comporterebbe tipicamente la cessazione della coscienza, coerentemente con un'ontologia fisicalista."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incerto/Solo umanistico",
+      "rationale": "In quanto teoria puramente meccanicistica e fisicalista (per quanto invochi una fisica non convenzionale), non richiede alcun significato o valore cosmico intrinseco, sebbene informi la base fisica dell'esperienza umana e della creazione di valore."
+    },
+    "virtual_immortality": {
+      "stance": "Condizionale",
+      "rationale": "L'immortalità virtuale è teoricamente possibile solo se la tecnologia potesse misurare, mappare e replicare perfettamente gli schemi e le dinamiche quantistici/olografici, estremamente complessi e altamente sensibili, del cervello biologico in un substrato non biologico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Estensione/Collaborazione"
+      },
+      {
+        "name": "Bohm's Implicate-Explicate Order",
+        "relationship": "Influenza/Collaborazione"
+      },
+      {
+        "name": "Holonomic Principle",
+        "relationship": "Influenza"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "Sovrapposizione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Holonomic Brain Theory",
+        "year": "N/A"
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Wholeness and the Implicate Order, David Bohm",
+        "year": 1980
+      }
+    ]
+  }
+}

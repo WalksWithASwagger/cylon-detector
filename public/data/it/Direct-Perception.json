@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoria della percezione diretta",
+    "summary": "Questa teoria sostiene che tutte le informazioni necessarie alla percezione siano esterne all'osservatore e derivino unicamente dalle proprietà dello stimolo distale.\nLa coscienza percettiva è una relazione di consapevolezza diretta e non analizzabile con gli oggetti esterni, che opera senza l'ausilio di inferenza interna, memoria o costruzione di rappresentazioni.",
+    "associated_thinkers": [
+      "Ned Block (as describer of direct realist/naïve realist views)"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Incarnata ed enattiva",
+    "core_identity_tagline": "‘La percezione come consapevolezza diretta dello stimolo distale’",
+    "classification_tags": [
+      "perception",
+      "realism",
+      "non-representational",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza fenomenale, in particolare il suo carattere percettivo, è identificata come una relazione di consapevolezza diretta, probabilmente una relazione di conoscenza-per-contatto primitiva e non analizzabile, con oggetti o proprietà dell'ambiente.",
+    "ontological_status": "Realismo diretto / Realismo ingenuo (una forma di Fisicalismo).",
+    "mind_body_relationship": "Il carattere fenomenale è 'costituito dall'oggetto' nel senso che l'esistenza e l'individuazione di un'esperienza percettiva dipendono direttamente dall'oggetto esterno, il che suggerisce una relazione costitutiva diretta e non mediata.",
+    "primitive_or_emergent_status": "Primitivo (si suggerisce che la relazione di consapevolezza diretta stessa sia una relazione di conoscenza-per-contatto primitiva e non analizzabile).",
+    "emergence_type": "N/D (La relazione di consapevolezza centrale è descritta come primitiva e non analizzabile, il che rende il concetto di emergenza non applicabile all'atto cosciente immediato in sé).",
+    "subjectivity_and_intentionality": "L'esperienza soggettiva, in prima persona (carattere fenomenale) è direttamente costituita dall'oggetto esterno (intenzionalità). L'intenzionalità è dunque non rappresentazionale, realizzando la direzionalità semplicemente dipendendo dall'oggetto esterno stesso.",
+    "qualia_account": "Il carattere qualitativo (carattere fenomenale) è costituito dall'oggetto. Se un'esperienza è di un oggetto diverso, ha un carattere fenomenale diverso, anche se soggettivamente indistinguibile (ad esempio, da un'allucinazione perfetta).",
+    "ontological_commitments": "Stimolo distale (oggetti e proprietà esterni nell'ambiente) e una relazione di conoscenza-per-contatto primitiva e non analizzabile (consapevolezza diretta).",
+    "epistemic_access": "La conoscenza del mondo è acquisita direttamente attraverso la percezione, piuttosto che attraverso la rappresentazione interna o l'introspezione degli stati mentali mediatori.",
+    "constituents_and_structure": "La coscienza è strutturata dalle sole proprietà dello stimolo distale. L'elemento costitutivo fondamentale è la 'relazione di conoscenza-per-contatto' diretta con l'entità peculiare (come un dato sensoriale) o con oggetti/proprietà dell'ambiente."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza fenomenale (in particolare coscienza percettiva).",
+    "distinctive_mechanism_or_principle": "L'assenza di elaborazione intermedia; la coscienza sorge dalla rilevazione diretta di informazioni esterne senza l'ausilio di processi cognitivi interni (inferenza, memoria, costruzione di rappresentazioni).",
+    "dynamics_of_emergence": "La teoria si concentra sulla natura della relazione di consapevolezza immediata come primitiva, piuttosto che descrivere un processo dinamico di come questa relazione sorga o cambi nel tempo.",
+    "location_and_distribution": "Le informazioni necessarie alla percezione sono esterne all'osservatore (esterne al cervello/corpo, risiedenti nello stimolo distale). Tuttavia, l'esperienza fenomenale cosciente è istanziata nell'osservatore.",
+    "causation_and_functional_role": "Il ruolo funzionale primario è consentire all'osservatore di percepire accuratamente un oggetto sulla base del solo stimolo distale, aggirando i processi cognitivi tradizionali che potrebbero costruire rappresentazioni.",
+    "integration_or_binding": "Non specificato. Si presume che l'integrazione delle distinzioni fenomenali sia una caratteristica della relazione di conoscenza-per-contatto primitiva e non analizzabile con l'oggetto stesso, piuttosto che un processo di legame computazionale o informativo.",
+    "information_flow_or_representation": "L'informazione fluisce direttamente dal mondo esterno (stimolo distale) alla percezione dell'osservatore, rifiutando la necessità di una costruzione interna di rappresentazioni mentali.",
+    "evolutionary_account": "Non affrontato esplicitamente nelle fonti fornite. (La variante della psicologia ecologica, la teoria di Gibson, implica un adattamento evolutivo tra organismo e ambiente, ma la TPD stessa si concentra sul meccanismo non rappresentazionale).",
+    "core_claims_and_evidence": [
+      "La percezione si basa sulle sole proprietà dello stimolo distale, senza l'ausilio di inferenza o memoria.",
+      "Il carattere fenomenale dell'esperienza è costituito dall'oggetto; un cambiamento dell'oggetto rende necessario un cambiamento del carattere fenomenale.",
+      "La relazione di consapevolezza è una relazione di conoscenza-per-contatto primitiva e non analizzabile che non è una questione di rappresentazione."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico e concettuale (difesa del realismo ingenuo contro le teorie rappresentazionali, basata su esperimenti mentali che distinguono tra percezione veridica e allucinazione soggettivamente indistinguibile)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente verificabile (tramite esperimenti mentali). La verifica empirica per isolare una 'relazione di conoscenza-per-contatto primitiva e non analizzabile' pura, separata dall'elaborazione cognitiva, è difficile.",
+    "known_empirical_interventions_or_tests": "Nessuno esplicitamente elencato nella fonte, che si concentra sulle implicazioni concettuali della teoria, come il confronto tra il carattere fenomenale di una percezione reale e quello di un'allucinazione soggettivamente indistinguibile.",
+    "criticisms_and_tensions": "Una tensione importante è l'implicazione che esperienze soggettivamente indistinguibili (ad esempio, vedere un pomodoro reale rispetto all'allucinarne uno identico) debbano necessariamente avere caratteri fenomenali diversi, poiché l'esperienza fenomenale dipende dall'esistenza dell'oggetto esterno.",
+    "open_questions_and_limitations": "La natura precisa della 'relazione di conoscenza-per-contatto primitiva e non analizzabile' rimane indefinita. La teoria deve rendere conto della differenza di carattere fenomenale tra oggetti reali ed esperienze illusorie o allucinatorie soggettivamente indistinguibili.",
+    "ontological_coherence": "Coerente all'interno di un'ontologia rigorosamente fisicalista/realista che rifiuta la mediazione di proprietà fenomenali interne, ma messa in difficoltà da fatti fenomenologici come le allucinazioni, in cui la natura costituita dall'oggetto viene meno."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Incerta",
+      "rationale": "Se la relazione di conoscenza-per-contatto primitiva dipende fondamentalmente da specifiche strutture biologiche necessarie per accoppiarsi direttamente agli stimoli distali, la coscienza dell'IA potrebbe essere impossibile. Poiché la teoria è fisicalista/materialista, se il meccanismo diretto sottostante può essere riprodotto, la coscienza dell'IA è possibile."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoria sottolinea la dipendenza dell'esperienza dall'ambiente fisico esterno (stimolo distale) ed è classificata sotto il Materialismo, il che suggerisce che la coscienza sia legata all'organismo fisico e al suo ambiente."
+    },
+    "meaning_and_purpose": {
+      "stance": "Condizionata",
+      "rationale": "La teoria riguarda principalmente i meccanismi della percezione, non la realtà ultima o l'esistenza. In quanto teoria materialista, ripiega su un significato, uno scopo e un valore umanistici creati da noi stessi."
+    },
+    "virtual_immortality": {
+      "stance": "Incerta",
+      "rationale": "L'immortalità virtuale richiede la duplicazione perfetta della coscienza. Poiché il carattere fenomenale è costituito dall'oggetto, un sé virtuale potrebbe non riuscire a mantenere il suo carattere fenomenale originario se privo di una vera 'relazione di consapevolezza diretta' con l'ambiente fisico reale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Naïve Realist Theories",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Sovrapposizione (condivide la posizione anti-rappresentazionale)"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "Critica (rifiuta la mediazione da parte della rappresentazione)"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Critica (implicita, poiché il carattere fenomenale si basa sulla costituzione da parte dell'oggetto, non sul ruolo funzionale)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Direct Perception Theory",
+        "year": "APA website"
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking, N. Block",
+        "year": "2023"
+      }
+    ]
+  }
+}

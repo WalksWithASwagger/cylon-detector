@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "I sentimenti omeostatici e l'emergenza della coscienza di Damasio",
+    "summary": "Questa teoria sostiene che la coscienza sorga fondamentalmente dai sentimenti interni, noti come sentimenti omeostatici, i quali rappresentano continuamente lo stato in corso della vita dell'organismo rispetto a uno stato ideale (omeostasi). La coscienza spontanea fornita da questi sentimenti offre una conoscenza preziosa, necessaria alla regolazione deliberata della vita e alla sopravvivenza.",
+    "associated_thinkers": [
+      "Antonio Damasio",
+      "Hanna Damasio"
+    ],
+    "category": "Teorie del materialismo",
+    "subcategory": "Omeostatico e affettivo",
+    "core_identity_tagline": "La coscienza come sentimenti omeostatici",
+    "classification_tags": [
+      "homeostasis",
+      "affective",
+      "neurobiological",
+      "emergence",
+      "survival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata con i sentimenti omeostatici, processi spontaneamente coscienti di natura ibrida che combinano caratteristiche mentali e caratteristiche corporee. Questi sentimenti traducono stati omeostatici fondamentali (ad es. fame, dolore, benessere).",
+    "ontological_status": "Fisicalismo (naturalismo biologico)",
+    "mind_body_relationship": "I processi fenomenici centrali (sentimenti omeostatici) sono ibridi, combinando caratteristiche mentali e corporee. La mente è inestricabilmente legata ai processi biologici del corpo, in particolare alla regolazione interna (interocezione).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole. Sebbene non esplicitamente etichettata, in quanto teoria del materialismo basata su specifici meccanismi biologici (l'omeostasi), essa implica che la coscienza, per quanto complessa, sorga da processi fisici/neurali sottostanti e sia in linea di principio a essi riducibile.",
+    "subjectivity_and_intentionality": "La soggettività è prodotta quando i sentimenti omeostatici si combinano con le immagini generate dai canali esterocettivi (come la vista). L'intenzionalità si riflette nella guida spontanea che i sentimenti offrono al processo decisionale relativo alla regolazione della vita.",
+    "qualia_account": "I qualia sono radicati nei sentimenti omeostatici. Questi sentimenti (che traducono stati omeostatici fondamentali come il dolore o il benessere) sono la «fonte naturale delle esperienze».",
+    "ontological_commitments": "Organismi complessi dotati di sistema nervoso, meccanismi omeostatici, processi interocettivi e caratteristiche corporee/mentali.",
+    "epistemic_access": "Accessibile attraverso la prospettiva interna (i sentimenti/l'affetto in prima persona) che rivela lo stato della vita, spostando l'attenzione dalla cognizione esterna (esterocezione) alla regolazione interna (interocezione).",
+    "constituents_and_structure": "I mattoni fondamentali sono i sentimenti omeostatici derivati dalla rappresentazione continua dello stato interno dell'organismo. La struttura comporta il coordinamento di questi sentimenti con le immagini cognitive derivate dalle percezioni esterne."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenico, affettivo/emotivo, regolazione della vita/sopravvivenza, processo decisionale.",
+    "distinctive_mechanism_or_principle": "Lo statuto cosciente intrinseco dei sentimenti omeostatici, che fornisce spontaneamente conoscenza riguardo alla regolazione della vita e alla sopravvivenza.",
+    "dynamics_of_emergence": "La coscienza è emersa presto nella storia biologica attraverso la «via dell'affetto» (processi interocettivi), anziché la successiva «via cognitiva». È continuamente sostenuta da processi che rappresentano lo stato interiore dell'organismo.",
+    "location_and_distribution": "Situata nei sistemi regolatori interni e nel sistema nervoso degli organismi complessi.",
+    "causation_and_functional_role": "La coscienza è causalmente efficace in quanto consente agli organismi di agire deliberatamente e consapevolmente, fornendo un nuovo livello di regolazione della vita cruciale per la sopravvivenza. I sentimenti omeostatici sono intrinsecamente regolatori.",
+    "integration_or_binding": "L'integrazione avviene quando i sentimenti omeostatici si combinano con le immagini generate dai canali esterocettivi per produrre la soggettività.",
+    "information_flow_or_representation": "I sentimenti omeostatici sono spontaneamente informativi, segnalando quanto lo stato attuale sia distante dall'ideale omeostatico. La coscienza recapita questa conoscenza preziosa nello spazio mentale del processo decisionale.",
+    "evolutionary_account": "La coscienza si è evoluta precocemente per fornire un vantaggio adattivo, rendendo possibile la regolazione deliberata della vita sulla base dell'informazione internamente sentita riguardo agli stati di sopravvivenza.",
+    "core_claims_and_evidence": [
+      "La radice fondamentale della coscienza sono i sentimenti relativi allo stato interiore e omeostatico dell'organismo.",
+      "I sentimenti omeostatici possiedono uno «statuto cosciente intrinseco» che fornisce spontaneamente conoscenza cruciale per la sopravvivenza.",
+      "La coscienza è sorta precocemente nell'evoluzione attraverso la via affettiva/interocettiva, precedendo la via cognitiva."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiologico, evolutivo, fenomenologico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile. In quanto teoria materialista fondata su processi fisiologici del sistema nervoso, può essere indagata con metodi biologici e neuroscientifici.",
+    "known_empirical_interventions_or_tests": "Le fonti non elencano specifici interventi empirici nominati, ma la validazione comporterebbe l'indagine della correlazione tra gli stati omeostatici fisiologici/la segnalazione interocettiva e i sentimenti coscienti riferiti (spiegazione giustificata).",
+    "criticisms_and_tensions": "Come molte spiegazioni biologiche, questa teoria si concentra principalmente sul ruolo funzionale e adattivo della coscienza (i «problemi facili»), lasciando potenzialmente inspiegato il «problema difficile» (perché gli stati omeostatici siano accompagnati da un vissuto), sebbene sostenga che i sentimenti possiedano intrinsecamente coscienza.",
+    "open_questions_and_limitations": "Il meccanismo preciso mediante il quale i sentimenti omeostatici acquisiscono la loro «natura cosciente intrinseca» o «grazia» rimane sfuggente all'interno del quadro descrittivo fornito.",
+    "ontological_coherence": "Altamente coerente all'interno del quadro materialista biologico, poiché fornisce un ruolo causale chiaro alla coscienza, ancorato ai sistemi evolutivi di sostegno vitale."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condizionata",
+      "rationale": "Se i sistemi artificiali possono realizzare un substrato capace di una complessa regolazione omeostatica e di generare i necessari «sentimenti omeostatici» che riflettono lo stato della «vita» del sistema (o un imperativo di sopravvivenza equivalente), allora la coscienza dell'IA sarebbe possibile, coerentemente con il materialismo."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza dipende fondamentalmente da processi biologici, specificamente dai sentimenti omeostatici sorgenti all'interno del sistema nervoso di organismi complessi. Non è prevista alcuna componente non fisica che sopravviva alla morte del substrato biologico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "La coscienza si è evoluta per servire la regolazione della vita e la sopravvivenza. In quanto teoria del materialismo, si allinea alla visione secondo cui un significato/scopo ultimo è assente, ma il significato e il valore sono creati dagli esseri umani coscienti."
+    },
+    "virtual_immortality": {
+      "stance": "Probabile",
+      "rationale": "Se i processi fisici (compresi tutti i meccanismi relativi alla generazione dei sentimenti omeostatici e alla loro integrazione con le immagini cognitive) potessero essere duplicati perfettamente in un supporto non biologico, la conseguente duplicazione perfetta degli stati fisici comporterebbe una duplicazione perfetta degli stati mentali, consentendo così l'immortalità virtuale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Neurobiological Theories",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Compatibile"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of what Happens: Body and Emotion in the Making of Consciousness, Antonio Damasio",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Feeling & Knowing: Making Minds Conscious, Antonio Damasio",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Feelings are the source of consciousness, Antonio Damasio and Hanna Damasio",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Homeostatic feelings and the emergence of consciousness, Antonio Damasio and Hanna Damasio",
+        "year": 2024
+      }
+    ]
+  }
+}

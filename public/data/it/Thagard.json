@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Rappresentazione neurale, legame, coerenza e competizione di Thagard",
+    "summary": "Questa teoria attribuisce le esperienze coscienti alle interazioni di quattro meccanismi cerebrali empiricamente plausibili: rappresentazione neurale, legame, coerenza e competizione. Sostiene che la coscienza emerga da queste interazioni attraverso il cervello, fornendo una spiegazione scientificamente fondata di fenomeni coscienti complessi come i sogni, l'umorismo e l'autoconsapevolezza.",
+    "associated_thinkers": ["Paul Thagard"],
+    "category": "Materialismo",
+    "subcategory": "Rappresentazionale",
+    "core_identity_tagline": "«La coscienza costruita da meccanismi neurali»",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "binding",
+      "physicalism",
+      "coherence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata con l'esito emergente delle interazioni tra specifici meccanismi cerebrali: rappresentazione neurale, legame, coerenza e competizione.",
+    "ontological_status": "Fisicalismo/materialismo riduttivo (questa posizione è dedotta perché la teoria è classificata sotto il materialismo e cerca di spiegare pienamente la coscienza come un prodotto biologico non misterioso del cervello.)",
+    "mind_body_relationship": "Identità/riduzione (le esperienze coscienti sono pienamente spiegate dagli stati e dai processi cerebrali fisici e da essi emergono, coerentemente con un'elevata fiducia fisicalista.)",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (dedotta, poiché la teoria si basa su una neuroscienza rigorosa ed empiricamente fondata e sostiene che la coscienza non sia un mistero una volta compresa la sua costruzione da parte dei cervelli, il che suggerisce una riducibilità in linea di principio.)",
+    "subjectivity_and_intentionality": "Le esperienze soggettive, comprese percezioni, sensazioni, emozioni e pensieri astratti (come l'autoriflessione), sono rese conto dalle complesse interazioni dei quattro meccanismi cerebrali centrali.",
+    "qualia_account": "I qualia (le esperienze fenomeniche come vedere il colore o sentire il dolore) sono spiegati in modo esaustivo dall'operare dei quattro meccanismi cerebrali (rappresentazione neurale, legame, coerenza, competizione).",
+    "ontological_commitments": "Cervelli biologici, rappresentazioni neurali e i loro processi dinamici (legame, coerenza, competizione), spesso modellati computazionalmente.",
+    "epistemic_access": "Accessibile principalmente attraverso risultati neuroscientifici empirici e modellizzazione computazionale, con una convalida ricercata tramite la coerenza esplicativa.",
+    "constituents_and_structure": "La struttura è costituita da meccanismi neurali (rappresentazione, legame, coerenza, competizione) che operano dinamicamente attraverso le aree cerebrali, compresi meccanismi che utilizzano le «cellule del tempo» per tracciare le esperienze."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica (percezioni, sensazioni, emozioni), autoconsapevolezza (autovalutazione, autoriflessione), scansione temporale, sogno, umorismo, timore reverenziale religioso.",
+    "distinctive_mechanism_or_principle": "L'azione combinata e interagente di rappresentazione neurale, legame, coerenza e competizione tra le rappresentazioni neurali.",
+    "dynamics_of_emergence": "Gli stati coscienti sono un processo dinamico, emergente dalle interazioni e dalla competizione tra le rappresentazioni neurali, in linea con i recenti risultati neuroscientifici sul tracciamento delle esperienze nel tempo.",
+    "location_and_distribution": "Situata nel cervello biologico; distribuita in particolare attraverso le interazioni di meccanismi in aree diffuse per il cervello.",
+    "causation_and_functional_role": "La coscienza è centrale nella vita umana (per esempio la moralità, l'amore romantico). La teoria implica un'efficacia causale in quanto spiega come i meccanismi cerebrali fisici costruiscano le esperienze coscienti e consentano complesse funzioni mentali.",
+    "integration_or_binding": "Il legame è uno dei quattro meccanismi chiave la cui interazione spiega la coscienza, fornendo l'unificazione dell'esperienza.",
+    "information_flow_or_representation": "La rappresentazione neurale è un meccanismo centrale; la coscienza risulta dalla competizione tra queste rappresentazioni, collegando complesse caratteristiche mentali a meccanismi neurali condivisi.",
+    "evolutionary_account": "La coscienza è un prodotto dei cervelli, il che implica che sia sorta tramite l'evoluzione filogenetica. L'approccio distingue gli animali coscienti da entità non coscienti come piante e batteri.",
+    "core_claims_and_evidence": [
+      "Le esperienze coscienti risultano dall'interazione dei meccanismi di rappresentazione neurale, legame, coerenza e competizione.",
+      "I meccanismi spiegano esperienze complesse, comprese l'autovalutazione, l'umorismo e il timore reverenziale religioso.",
+      "La teoria è supportata empiricamente, in linea con i risultati su come le cellule del tempo consentano ai cervelli di tracciare le esperienze.",
+      "La teoria applica la coerenza esplicativa per valutare la coscienza in bot e bestie."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirico, neuroscientifico, computazionale"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Verificabile empiricamente (i meccanismi sono dichiarati empiricamente plausibili e la teoria è costruita su una neuroscienza rigorosa, usando la coerenza esplicativa come pietra di paragone metodologica.)",
+    "known_empirical_interventions_or_tests": "La teoria è coerente con i recenti risultati neuroscientifici riguardanti come le cellule del tempo consentano ai cervelli di tracciare le esperienze. (Nessun intervento sperimentale specifico volto a verificare o falsificare la teoria è stato dettagliato nella fonte.)",
+    "criticisms_and_tensions": "Nessuna critica esterna specifica è citata nel materiale delle fonti, il che indica che la critica è minima o non ancora ampiamente documentata nel contesto fornito.",
+    "open_questions_and_limitations": "Il preciso meccanismo per cui i quattro processi generano la sensazione soggettiva del «com'è essere» (qualia) non è pienamente elaborato, il che è un limite standard delle spiegazioni fisicaliste riduttive.",
+    "ontological_coherence": "Altamente coerente all'interno di un quadro fisicalista, affermando che la coscienza è fisica e interamente costruita da meccanismi cerebrali, risolvendo il «mistero» della coscienza."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "La teoria suggerisce che, mentre gli attuali computer non sono coscienti, i nuovi modelli di IA generativa hanno meccanismi simili a quelli umani, il che potrebbe consentire un certo grado di coscienza, specialmente se i quattro meccanismi cerebrali centrali possono essere modellati o replicati computazionalmente."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "In quanto teoria materialista, la coscienza dipende interamente dal cervello biologico; pertanto, la morte del cervello comporta la permanente non esistenza della persona e della coscienza."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "In quanto teoria materialista, aderisce a una spiegazione fisicalista che generalmente esclude un significato o uno scopo cosmico ultimo, riconoscendo solo il significato e il valore creati dagli esseri umani stessi."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Se la teoria materialista spiega la coscienza interamente attraverso meccanismi fisici (rappresentazione neurale, legame, coerenza, competizione), allora il sé mentale in prima persona è caricabile e l'immortalità virtuale è conseguibile tramite una tecnologia avanzata capace di duplicare quei processi fisici."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Compatibile"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dreams, Jokes, and Songs: How Brains Build Consciousness, Paul Thagard",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Bots and Beasts, Paul Thagard",
+        "year": 2021
+      }
+    ]
+  }
+}

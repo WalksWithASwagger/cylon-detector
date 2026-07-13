@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Dualismo delle proprietà",
+    "summary": "Il dualismo delle proprietà sostiene che, sebbene la sostanza fisica sia l'unica sostanza fondamentale, esistano due categorie irriducibili di proprietà: fisiche e mentali. Le proprietà mentali, come l'esperienza cosciente, sono generate dai cervelli fisici ma non possono essere ridotte alle proprietà fisiche né spiegate interamente da esse.",
+    "associated_thinkers": [
+      "David Chalmers (for Naturalistic Dualism, a variant); historically influenced by numerous philosophers seeking to preserve mental reality within a monist substance framework."
+    ],
+    "category": "Dualismi",
+    "subcategory": "Dualismo delle proprietà",
+    "core_identity_tagline": "Una sostanza, due proprietà irriducibili (mentale e fisica)",
+    "classification_tags": [
+      "irreducible properties",
+      "non-reductive",
+      "physicalism",
+      "dualism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza consiste in proprietà o aspetti mentali (ad es. pensieri, concetti, idee) che sono fondamentalmente non riducibili alle proprietà fisiche, anche se entrambi sono istanziati da sistemi fisici (i cervelli).",
+    "ontological_status": "Fisicalismo (della sostanza) / Dualismo delle proprietà (delle proprietà).",
+    "mind_body_relationship": "La mente (le proprietà mentali) è non riducibile e ontologicamente distinta dalle proprietà fisiche, eppure interamente generata da stati fisici (i cervelli).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza forte (poiché le proprietà mentali sono in linea di principio irriducibili e non spiegabili unicamente dalle leggi fisiche).",
+    "subjectivity_and_intentionality": "La soggettività (l'esperienza fenomenica in prima persona) sorge come proprietà/aspetto intrinseco e non riducibile della persona umana fisica. L'intenzionalità è implicitamente inclusa tra le proprietà/aspetti mentali fondamentali.",
+    "qualia_account": "I qualia (le esperienze qualitative sentite) sono le proprietà mentali irriducibili che resistono a una definizione puramente in termini di proprietà microfisiche.",
+    "ontological_commitments": "Sostanza fisica (materia) e proprietà mentali non riducibili (inclusi pensieri, concetti, idee).",
+    "epistemic_access": "Accessibile sia tramite l'osservazione in terza persona della base fisica (i cervelli) sia tramite l'introspezione in prima persona delle proprietà emergenti (la soggettività).",
+    "constituents_and_structure": "La sostanza fisica consiste nei costituenti della fisica fondamentale, organizzati in strutture complesse (i cervelli), che generano le proprietà mentali."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Proprietà fenomeniche, pensieri, concetti e idee.",
+    "distinctive_mechanism_or_principle": "Il principio di irriducibilità delle proprietà mentali, secondo cui gli aspetti fenomenici sono distinti dalle proprietà fisiche.",
+    "dynamics_of_emergence": "Le proprietà mentali sorgono quando la materia fisica raggiunge un certo livello di complessità (ossia il cervello).",
+    "location_and_distribution": "Localizzate in oggetti fisici (le persone umane/i cervelli).",
+    "causation_and_functional_role": "Le proprietà mentali sono causalmente efficaci e influenzano il mondo fisico (una posizione che contrasta con l'epifenomenismo).",
+    "integration_or_binding": "Non trattato esplicitamente. Si presume che l'integrazione avvenga all'interno della struttura cerebrale fisica che produce la proprietà/aspetto mentale unificato.",
+    "information_flow_or_representation": "Le proprietà/aspetti mentali includono concetti e idee, il che implica un coinvolgimento in un'elaborazione informativa/rappresentazionale complessa.",
+    "evolutionary_account": "Non trattato esplicitamente. L'emergere delle proprietà è subordinato all'evoluzione di una complessità biologica capace di generarle.",
+    "core_claims_and_evidence": [
+      "Le persone umane sono oggetti interamente fisici composti da costituenti fisici fondamentali.",
+      "Le proprietà mentali (ad es. la coscienza fenomenica) sono generate dai cervelli fisici ma sono irriducibili alle sole proprietà fisiche.",
+      "Il possibile fallimento della sopravvenienza è dimostrato attraverso argomenti di concepibilità (ad es. gli zombi filosofici)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico; Concettuale (affronta l'apparente inadeguatezza di un fisicalismo puramente riduttivo)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettuale/Filosofico (la verificabilità poggia sulla possibilità logica e sulle implicazioni di scenari controfattuali come gli zombi filosofici).",
+    "known_empirical_interventions_or_tests": "Esperimenti mentali che coinvolgono «zombi» fisicamente indiscernibili o persone con spettri cromatici invertiti (fallimento della sopravvenienza).",
+    "criticisms_and_tensions": "Deve chiarire come stati mentali differenti sorgano esattamente dallo stesso stato microfisico se la sopravvenienza fallisce. I critici sostengono che le motivazioni del dualismo delle proprietà conducano in ultima analisi al dualismo delle sostanze.",
+    "open_questions_and_limitations": "I mezzi precisi tramite cui le proprietà mentali esercitano un'influenza causale sul cervello fisico (la causazione mentale) restano controversi e richiedono una specificazione.",
+    "ontological_coherence": "Elevata coerenza interna, ma affronta una tensione nel sostenere con rigore che proprietà non riducibili possano sorgere unicamente da un mondo fisico monista, ed essere causalmente efficaci al suo interno."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condizionale",
+      "rationale": "L'IA potrebbe essere cosciente se sistemi non biologici potessero istanziare la specifica organizzazione fisica complessa necessaria a generare le proprietà mentali irriducibili descritte."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza consiste in proprietà generate dal cervello fisico. Queste proprietà cessano di esistere quando la sostanza fisica (cervello/corpo) si dissolve alla morte."
+    },
+    "meaning_and_purpose": {
+      "stance": "Non dichiarato/Neutro",
+      "rationale": "La teoria si concentra sulle categorie ontologiche e sulle relazioni tra proprietà; accetta una sostanza fondamentalmente fisica e non avvalla intrinsecamente una teleologia cosmica."
+    },
+    "virtual_immortality": {
+      "stance": "Possibile",
+      "rationale": "Se la coscienza è una proprietà emergente di una specifica organizzazione fisica, replicare quel completo stato fisico (la struttura cerebrale) in un substrato non biologico dovrebbe generare le stesse proprietà mentali."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Sovrapposizione/Compatibile (spesso trattato come sinonimo o strettamente correlato)"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "Critica/Contrasto (respinge il dualismo della sostanza ma mantiene il dualismo della proprietà)"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Critica/Contrasto (il dualismo delle proprietà generalmente concede efficacia causale agli stati mentali, a differenza dell'epifenomenismo)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Dualism in the Philosophy of Mind, Dean Zimmerman",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Mind-Body Problem and Metaphysics: an Argument from Consciousness to Mental Substance, Ralph Weir",
+        "year": 2023
+      }
+    ]
+  }
+}

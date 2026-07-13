@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Il crollo della mente bicamerale di Jaynes",
+    "summary": "Questa teoria sostiene che la coscienza, definita come introspezione, è un comportamento appreso radicato nel linguaggio e nella cultura, anziché essere innata o fondamentale. Suggerisce che la coscienza sia emersa storicamente intorno al II millennio a.C., in seguito al crollo sociale di una mentalità non cosciente chiamata mente bicamerale, caratterizzata da allucinazioni uditive.",
+    "associated_thinkers": ["Julian Jaynes"],
+    "category": "Teorie materialiste",
+    "subcategory": "Relazioni con il linguaggio",
+    "core_identity_tagline": "La coscienza come analogo linguistico/metaforico appreso del mondo",
+    "classification_tags": [
+      "language",
+      "introspection",
+      "culture",
+      "historical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza, ovvero la «mente cosciente soggettiva», è un analogo del mondo reale costruito a partire da un vocabolario di metafore derivate dal comportamento esterno; funziona come un operatore piuttosto che come un deposito o una cosa.",
+    "ontological_status": "Fisicalismo/materialismo (Questa teoria deflazionaria è classificata sotto il materialismo, il che implica che la coscienza sia interamente materiale, per quanto un prodotto culturale non ovvio.)",
+    "mind_body_relationship": "Teoria dell'identità (La mente è implicitamente identica ai processi cerebrali che eseguono le funzioni linguistiche e organizzano lo «spazio mentale» metaforico; Jaynes postulava un correlato neurobiologico che coinvolge gli emisferi cerebrali.)",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (La coscienza è spiegata come un costrutto culturale evolutivamente recente e non fondamentale, edificato sul macchinario biologico e linguistico sottostante, il che suggerisce riducibilità in linea di principio.)",
+    "subjectivity_and_intentionality": "La soggettività è costituita da un «io» analogico che si relaziona a un «vedere» mentale in uno «spazio mentale» metaforico. L'intenzionalità si realizza attraverso la narratizzazione—l'inserire costantemente gli eventi in una storia—che è un analogo appreso del comportamento esterno.",
+    "qualia_account": "I qualia sono implicitamente ridefiniti o messi da parte, poiché l'attenzione è rivolta alla «coscienza introspettiva», che è esplicitamente distinta dalla coscienza fenomenica («l'esperienza interiore grezza»).",
+    "ontological_commitments": "Linguaggio/campi lessicali, strutture culturali e regioni cerebrali (gli emisferi cerebrali sono suggeriti come correlato per il precedente stato bicamerale).",
+    "epistemic_access": "Analisi linguistica, introspezione sullo «spazio mentale», testi storici e prove archeologiche.",
+    "constituents_and_structure": "La mente soggettiva è strutturata come uno «spazio mentale», composto da metafore e analoghi del comportamento, e organizzato dinamicamente attraverso processi come la narratizzazione, la concentrazione e la soppressione."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza introspettiva, autoconsapevolezza, volizione/presa di decisioni e attenzione («concentrazione»). (Rifiuta esplicitamente la coscienza fenomenica e la consapevolezza sensoriale.)",
+    "distinctive_mechanism_or_principle": "Il crollo storico della mentalità bicamerale (in cui le decisioni erano prese da allucinazioni uditive) e la sua sostituzione con una costruzione linguistica e metaforica di un mondo analogico interno («spazio mentale»).",
+    "dynamics_of_emergence": "La coscienza è un processo appreso, storicamente emergente (filogeneticamente, intorno al II millennio a.C.), che opera come un operatore, inserendo continuamente l'esperienza in forma narrativa (narratizzazione).",
+    "location_and_distribution": "La teoria attribuisce alla coscienza soltanto una collocazione arbitraria e funzionale, sebbene la mente bicamerale che la precedeva fosse correlata alla comunicazione tra gli emisferi cerebrali.",
+    "causation_and_functional_role": "Il ruolo funzionale primario della coscienza è consentire agli individui di abbreviare i processi comportamentali e giungere a decisioni più adeguate, intimamente legato alla volizione.",
+    "integration_or_binding": "L'integrazione si realizza mediante la «narratizzazione»—l'inserire gli eventi in una storia continua—e la «consilienza», l'analogo dell'assimilazione percettiva.",
+    "information_flow_or_representation": "L'informazione è rappresentata come un analogo del mondo reale usando un linguaggio metaforico (campo lessicale) per facilitare il pensiero astratto e la presa di decisioni.",
+    "evolutionary_account": "La coscienza è un comportamento appreso che si è evoluto in tempi relativamente recenti (II millennio a.C.) negli esseri umani, innescato dalla necessità di un nuovo sistema decisionale dopo che l'instabilità sociale aveva fatto crollare il sistema bicamerale.",
+    "core_claims_and_evidence": [
+      "La coscienza è radicata nel linguaggio e nella metafora e non è una proprietà innata.",
+      "La coscienza funziona come un sistema analogico per abbreviare e migliorare la presa di decisioni.",
+      "La società umana primitiva era caratterizzata da una «mente bicamerale» non cosciente in cui le direttive erano percepite come allucinazioni uditive.",
+      "La teoria è sostenuta da interpretazioni di testi antichi e dalla lateralizzazione neurobiologica (in modo speculativo)."
+    ],
+    "basis_of_belief_or_evidence_type": "Speculazione filosofica, linguistica, psicostorica, neurobiologica."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente testabile/speculativa (Le tesi storiche e linguistiche centrali sono soggette al dibattito accademico piuttosto che alla verifica empirica tradizionale, e la teoria non è ampiamente accettata dagli esperti.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La teoria impiega una definizione idiosincratica di coscienza («coscienza introspettiva») che esclude la coscienza fenomenica, la quale è il principale oggetto d'indagine del campo. Non è accettata dagli esperti di coscienza.",
+    "open_questions_and_limitation": "Il limite principale è la sua incapacità di rendere conto o di riconoscere la coscienza fenomenica («l'esperienza interiore grezza») così come tradizionalmente definita.",
+    "ontological_coherence": "Coerente (L'appoggio alla costruzione linguistica e culturale si allinea a un'ontologia materialista deflazionaria, che vede la coscienza come una proprietà emergente complessa e funzionale.)"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "Se la coscienza è un analogo/operatore appreso, fondamentalmente radicato nel linguaggio e nei processi informativi, i progressi nei grandi modelli linguistici e nell'IA potrebbero plausibilmente istanziare questa forma di coscienza."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "In quanto teoria fisicalista e deflazionaria, la coscienza è legata al macchinario fisico del cervello e alle strutture linguistiche che esso sostiene, senza lasciare alcuna base per la sopravvivenza oltre la morte fisica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "La coscienza serve uno scopo funzionale, orientato alla sopravvivenza (il miglioramento della presa di decisioni), derivato da imperativi biologici e culturali, senza offrire alcun significato cosmico inerente."
+    },
+    "virtual_immortality": {
+      "stance": "Probabile",
+      "rationale": "Poiché la mente è definita da strutture linguistiche e metaforiche in grado di essere caricate o replicate in substrati non biologici (in modo simile al software), l'immortalità virtuale sarebbe concettualmente praticabile secondo questo modello."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Language Theories (General)",
+        "relationship": "Estensione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Consciousness and the voices of the mind",
+        "year": 1987
+      }
+    ]
+  }
+}

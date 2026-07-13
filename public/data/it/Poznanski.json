@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoria dell'organicità dinamica (DOT)",
+    "summary": "Si tratta di una teoria biologica quantistica, radicata nel materialismo di tipo B, che modellizza la coscienza mediante un quadro temporale-topologico multiscalare. Si afferma che la coscienza sorga spontaneamente quando la funzionalità della complessità multiscala in uno stato negentropico vivente del cervello supera la funzionalità derivante dalla massima complessità.",
+    "associated_thinkers": ["Roman Poznanski"],
+    "category": "Teorie quantistiche",
+    "subcategory": "Organicità dinamica (biologica quantistica)",
+    "core_identity_tagline": "La coscienza come funzionalità della complessità multiscala",
+    "classification_tags": [
+      "quantum biological",
+      "type-b materialism",
+      "negentropy",
+      "functional-structural realism",
+      "temporal-topological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come la realizzazione biologica unica dei processi fisici nel cervello, che sorge quando la funzionalità della complessità multiscala ($F_{MultiComplexity}$) supera la funzionalità della massima complessità ($F_{MaxComplexity}$)",
+    "ontological_status": "Materialismo di tipo B",
+    "mind_body_relationship": "La coscienza è un processo fisico, ma la sola conoscenza epistemicamente oggettiva non definisce il fisicalismo. La teoria impiega percorsi dinamici autoreferenziali per stabilire la coscienza all'interno del cervello materiale.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza forte (dedotta)",
+    "subjectivity_and_intentionality": "La soggettività è affrontata epistemicamente, laddove le proprietà fisiche vengono valutate soggettivamente tramite effetti biologici quantistici. L'intenzionalità è l'esito del processo spontaneo, e funge da istruzione ad agire nella selezione del percorso, dando origine a un senso del sé attraverso l'autoriferimento.",
+    "qualia_account": "I qualia vengono elusi nella trattazione poiché non si applicano alla realtà cosciente nell'ambito del realismo funzionale-strutturale, comparendo invece come una scatola nera dell'«essere». Tuttavia, la teoria implica che interazioni funzionali uniche non siano fenomenicamente equivalenti in altri sistemi.",
+    "ontological_commitments": "Complessità multiscala (funzionale e strutturale), stato negentropico vivente del cervello ed energia potenziale quantistica (implicitamente, come fonte di ulteriori gradi di libertà).",
+    "epistemic_access": "La coscienza è accessibile attraverso un approccio epistemicamente soggettivo all'organicità dinamica, che si concentra sull'atto di comprendere l'incertezza anziché fare affidamento sull'introspezione o sul richiamo della memoria.",
+    "constituents_and_structure": "Un quadro topologico non spaziale caratterizzato da modularità olarchica, incentrato sull'aspetto temporale della funzionalità e su percorsi dinamici autoreferenziali che si estendono dalla microscala alla macroscala."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Senzienza, Intenzionalità, Senso del sé",
+    "distinctive_mechanism_or_principle": "La coscienza sorge quando $F_{MultiComplexity} > F_{MaxComplexity}$. Questo necessario incremento di funzionalità è fornito da un ulteriore grado di libertà reso possibile dagli effetti biologici quantistici imposti dallo stato negentropico vivente del cervello.",
+    "dynamics_of_emergence": "La coscienza è uno stato dinamico dell'essere organico, non una proprietà statica. Non è una funzione a gradino ma una graduale ascesa verso plateau, e compare spontaneamente da fluttuazioni quanto-termiche irriducibili.",
+    "location_and_distribution": "Situata nelle dinamiche funzionali del cervello materiale. Distribuita tramite percorsi dinamici autoreferenziali che si estendono dalla microscala alla macroscala, inclusi percorsi nonlocali.",
+    "causation_and_functional_role": "La funzionalità della coscienza impone vincoli termodinamici ai sistemi macroscopici. Il suo esito (l'intenzionalità) fornisce l'istruzione ad agire nella selezione del percorso. L'autoriferimento sostituisce l'emergenza/l'autoorganizzazione nel trattare la funzionalità, consentendo una causazione diacronica e un'unità debole.",
+    "integration_or_binding": "Ottenuta attraverso l'unicità dei percorsi dinamici autoreferenziali, che creano un'unità debole della coscienza tramite la sua struttura temporale.",
+    "information_flow_or_representation": "La coscienza consente all'informazione intrinseca di strutturarsi all'interno dello stato negentropico del cervello, facendo leva su un ulteriore grado di libertà.",
+    "evolutionary_account": "La teoria è compatibile con lo sviluppo evolutivo, assumendo che la necessaria complessità multiscala funzionale si sia evoluta per soddisfare la condizione necessaria alla coscienza.",
+    "core_claims_and_evidence": [
+      "La coscienza è una teoria biologica quantistica basata su un quadro temporale-topologico multiscalare.",
+      "La coscienza sorge soltanto quando $F_{MultiComplexity} > F_{MaxComplexity}$.",
+      "L'incremento di funzionalità deriva da un ulteriore grado di libertà dovuto alla biologia quantistica in uno stato negentropico vivente.",
+      "L'intenzionalità è l'esito, che funge da istruzione per la selezione del percorso, dando origine a un senso del sé."
+    ],
+    "basis_of_belief_or_evidence_type": "Concettuale, Filosofico (modellizzazione metafisica)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculativo/Concettualmente verificabile",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La condizione $F_{MultiComplexity} > F_{MaxComplexity}$ è stabilita solo come necessaria, non come sufficiente. Il rifiuto delle proprietà fenomenologiche tradizionali (i qualia) costituisce una notevole tensione con altre teorie della coscienza.",
+    "open_questions_and_limitations": "La sufficienza della condizione $F_{MultiComplexity} > F_{MaxComplexity}$ resta aperta. Il ricorso a quadri topologici non spaziali e all'autoriferimento per affrontare soggettività/qualia costituisce un limite.",
+    "ontological_coherence": "Coerente all'interno del suo quadro definito di materialismo di tipo B e di realismo funzionale-strutturale, ma fa affidamento su un ruolo forte e distinto degli effetti biologici quantistici, che è altamente speculativo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condizionale/Probabile",
+      "rationale": "In quanto materialismo di tipo B, la coscienza è un processo fisico. Se sistemi artificiali potessero replicare con successo la complessa architettura funzionale e le dinamiche multiscala, e sfruttare i gradi di libertà biologici quantistici necessari a $F_{MultiComplexity} > F_{MaxComplexity}$, allora la coscienza emergerebbe."
+    },
+    "survival_beyond_death": {
+      "stance": "Incerto/No",
+      "rationale": "La coscienza dipende dallo «stato negentropico vivente» e dalle dinamiche specifiche del cervello materiale; una sopravvivenza indipendente da questo sistema organico non è sostenuta dai principi fondamentali del materialismo della teoria."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "La teoria si concentra sull'efficienza biologica e funzionale, identificando l'intenzionalità interna come guida all'azione, il che fornisce un senso del sé e uno scopo, ma non comporta alcuna teleologia esterna o cosmica."
+    },
+    "virtual_immortality": {
+      "stance": "Possibile/Condizionale",
+      "rationale": "L'immortalità virtuale è possibile se i vincoli biologici e quanto-funzionali sottostanti richiesti per generare $F_{MultiComplexity} > F_{MaxComplexity}$ potessero essere duplicati con successo e istanziati in un supporto non biologico, consentendo la replica del sé cosciente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Contrasto"
+      },
+      {
+        "name": "Type-B Materialism",
+        "relationship": "Fondamento"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "Sovrapposizione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The dynamic organicity theory of consciousness: how consciousness arises from the functionality of multiscale complexity in the material brain, Roman Poznanski",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      }
+    ]
+  }
+}

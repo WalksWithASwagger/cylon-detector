@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Cognizione incarnata",
+    "summary": "Questo concetto sostiene che la mente sia intrinsecamente incarnata, il che significa che la struttura del pensiero e del significato dipende fondamentalmente dai sistemi sensomotori del corpo e dalle esperienze emotive. Argomenta che il corpo e la sua interazione con l'ambiente siano parte integrante di ciò che la coscienza è, non semplicemente di ciò che essa fa.",
+    "associated_thinkers": [
+      "George Lakoff",
+      "Mark Johnson"
+    ],
+    "category": "Teorie del materialismo",
+    "subcategory": "Incarnata ed enattiva",
+    "core_identity_tagline": "La coscienza come esperienza fondamentalmente incarnata",
+    "classification_tags": [
+      "embodiment",
+      "sensorimotor",
+      "cognition",
+      "materialism",
+      "non-reductive"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza e il pensiero sono identificati come output significativi generati da circuiti neurali connessi al corpo, che caratterizzano l'esperienza incarnata, in cui la struttura del pensiero deriva dalla natura del corpo.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La mente è profondamente incarnata; la struttura stessa dei pensieri si fonda sui sistemi sensomotori e sulle emozioni del corpo, estendendo il substrato necessario della mente oltre il solo cervello.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (Dedotta, poiché è una teoria materialista che implica che la coscienza sia riducibile in linea di principio, sebbene la complessità sia elevata.)",
+    "subjectivity_and_intentionality": "La soggettività è legata all'esperienza incarnata; l'intenzionalità (direzionalità del pensiero) è inerente al modo in cui le idee astratte e il linguaggio sono metaforicamente incarnati dai sistemi sensomotori.",
+    "qualia_account": "I qualia sono caratterizzati dai sistemi sensomotori ed emotivi del corpo, che danno origine a o costituiscono l''esperienza incarnata'.",
+    "ontological_commitments": "Circuiti neurali fisici, i sistemi sensomotori del corpo, le emozioni e le metafore derivate dall'esperienza corporea.",
+    "epistemic_access": "Accessibile attraverso lo studio delle connessioni tra i circuiti neurali, il corpo e l'esperienza vissuta, all'interno di una prospettiva naturalistica e fondata sulla scienza.",
+    "constituents_and_structure": "Circuiti neurali connessi ai sistemi sensomotori ed emotivi del corpo, che strutturano metaforicamente le idee astratte e il linguaggio."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenale (in quanto parte integrante del corpo), Cognizione, Idee astratte, Linguaggio, Emozioni.",
+    "distinctive_mechanism_or_principle": "Il principio è che il pensiero è reso significativo da circuiti neurali connessi al corpo, e che la struttura dei nostri pensieri è determinata dalla natura dei sistemi del corpo (ad esempio, i sistemi sensomotori).",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico in cui i concetti astratti si fondano in larga misura su metafore di base derivate dall'esperienza corporea continua.",
+    "location_and_distribution": "La mente è distribuita in tutti i sistemi sensomotori del corpo fisico, non solo localizzata nel cervello.",
+    "causation_and_functional_role": "Il ruolo funzionale è fornire un pensiero significativo, poiché la comprensione non può avvenire senza coinvolgere i sistemi del corpo. La coscienza è parte integrante del funzionamento adattivo.",
+    "integration_or_binding": "L'integrazione avviene attraverso la connessione unificata dei circuiti neurali al corpo, legando i sistemi sensoriali, motori ed emotivi in un'esperienza incarnata coesa.",
+    "information_flow_or_representation": "L'informazione è rappresentata in larga misura attraverso metafore derivate dall'esperienza corporea, che strutturano i concetti astratti sulla base dei sistemi sensomotori.",
+    "evolutionary_account": "Non dettagliato esplicitamente nella fonte, ma in linea con la prospettiva materialista secondo cui la coscienza si è evoluta tramite tratti selezionati, estendendo l'ambito della selezione fino a includere l'interazione corpo-ambiente.",
+    "core_claims_and_evidence": [
+      "La mente è intrinsecamente incarnata, andando oltre la banale necessità di un cervello.",
+      "La struttura stessa dei nostri pensieri deriva dalla natura del corpo.",
+      "I concetti astratti sono in larga misura metaforici, basati sull'esperienza corporea."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico, Linguistico-cognitivo, Empirico (basato sul collegare l'attività neurale all'esperienza corporea)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente verificabile (Dedotta, poiché tratta di circuiti neurali e sistemi fisiologici misurabili).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "È criticata implicitamente notando che cognizione e coscienza non sono la stessa cosa, il che solleva dubbi sul fatto che spiegare il pensiero incarnato basti a spiegare la coscienza fenomenale.",
+    "open_questions_and_limitations": "I mezzi precisi attraverso cui la cognizione incarnata si traduce in coscienza fenomenale, dato che i concetti di cognizione e coscienza sono spesso distinti.",
+    "ontological_coherence": "Altamente coerente all'interno di un'ontologia fisicalista, abbracciando specificamente una forma estesa o non banale di materialismo integrando l'intero corpo nella struttura del pensiero."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condizionata",
+      "rationale": "Se la coscienza richiede un'incarnazione specifica, i sistemi artificiali potrebbero diventare coscienti solo se il materialismo riesce a costruire un substrato non biologico che replichi perfettamente i necessari sistemi corporei e sensomotori."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza dipende intimamente dall'esistenza e dalle operazioni del corpo biologico e dei suoi sistemi; non può persistere una volta che quelle componenti fisiche cessano di funzionare."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "In quanto teoria materialista, si allinea con la visione secondo cui non vi è alcun significato cosmico ultimo, ma la coscienza fornisce la base per creare un significato e un valore autodeterminati."
+    },
+    "virtual_immortality": {
+      "stance": "Incerta",
+      "rationale": "La duplicazione richiede la riproduzione dell'intero sistema incarnato e dei suoi meccanismi sensomotori, aggiungendo ordini di complessità significativi, potenzialmente insormontabili, oltre alla semplice replica dell'attività cerebrale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Enactivism",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Projective Consciousness Model (PCM)",
+        "relationship": "Influenza"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Sovrapposizione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Philosophy in the Flesh: the Embodied Mind and its Challenge to Western Thought, G. Lakoff and M. Johnson",
+        "year": 1999
+      },
+      {
+        "title_with_names": "How philosophy illuminates the physical world, G. Lakoff",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, and E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, E. Thompson",
+        "year": 2002
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "La teoria del fisicalismo non teorico di Nagasawa",
+    "summary": "Questa teoria sostiene che il mondo è interamente fisico, e tuttavia contiene specifici fatti fisici riguardanti la coscienza che non possono essere colti o spiegati nemmeno da teorie complete delle scienze fisiche. Funziona come una formulazione alternativa del fisicalismo che mira a conciliare l'ontologia fisica con gli apparenti fallimenti delle teorie riduttive nel cogliere la coscienza fenomenica.",
+    "associated_thinkers": ["Yujin Nagasawa"],
+    "category": "Fisicalismo non riduttivo",
+    "subcategory": "Formulazione alternativa del fisicalismo",
+    "core_identity_tagline": "Il fisicalismo oltre la teoria fisica",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ontology",
+      "monism",
+      "nontheoretical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è costituita da fatti fisici basati sulle entità che esistono al di fuori del quadro concettuale di una scienza fisica teorica completa.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La mente/coscienza è identica alla realtà fisica; tuttavia, certi fatti riguardanti la coscienza sono inaccessibili alla conoscenza teorica tradizionale (lacuna epistemica), il che rende necessaria una comprensione di questa identità basata sulle entità anziché sulla teoria.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza forte",
+    "subjectivity_and_intentionality": "L'esperienza soggettiva è fondata in specifici fatti fisici 'non teorici' che non possono essere colti da una spiegazione scientifica completa, preservando così il mistero epistemico della soggettività pur affermandone la natura fisica.",
+    "qualia_account": "I fatti relativi ai qualia sono fatti fisici, ma appartengono a quell'ambito della realtà fisica che sfugge alla presa delle teorie fisiche attuali o complete.",
+    "ontological_commitments": "Realtà fisica, entità fisiche e fatti fisici non teorici.",
+    "epistemic_access": "Epistemologicamente limitato tramite la teoria scientifica tradizionale; l'accesso concettuale è ottenuto attraverso l'analisi filosofica di argomenti contro il fisicalismo tradizionale (spostandosi dall'epistemologia all'ontologia).",
+    "constituents_and_structure": "La coscienza è fondata in specifici fatti o proprietà fisiche basate sulle entità, intrinseci alla struttura fisica dei sistemi coscienti."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica (implicitamente; derivata dalla sua attenzione a dibattiti come l'argomento della conoscenza)",
+    "distinctive_mechanism_or_principle": "L'esistenza di fatti fisici riguardanti la coscienza che sono 'non teorici' (basati sulle entità anziché definibili tramite leggi teoriche), il che rende necessario un cambiamento nella formulazione standard del fisicalismo.",
+    "dynamics_of_emergence": "I dettagli dinamici sono limitati perché i fatti relativi alla coscienza sono definiti come 'non teorici'; l'emergenza è presunta sulla base dell'esistenza di appropriate entità fisiche complesse.",
+    "location_and_distribution": "Il mondo fisico; associata a specifiche entità fisiche (ad esempio, meccanismi neurali) che contengono i fatti non colti.",
+    "causation_and_functional_role": "Non esplicitamente dettagliato nelle fonti; si inferisce che aderisca alla causazione fisica standard entro i vincoli di un mondo interamente fisico.",
+    "integration_or_binding": "Non definita, poiché la teoria si concentra principalmente sulla definizione metafisica e sulla lacuna epistemica anziché su specifiche dinamiche di elaborazione interna.",
+    "information_flow_or_representation": "La cattura dell'informazione è implicitamente incompleta tramite le teorie fisiche, limitata dall'esistenza di fatti fisici non teorici.",
+    "evolutionary_account": "Non specificato; si assume che sia un tratto evoluto del mondo interamente fisico (in quanto forma di fisicalismo).",
+    "core_claims_and_evidence": [
+      "Il mondo è interamente fisico, e tuttavia contiene fatti fisici non catturabili da teorie complete della scienza fisica.",
+      "La metodologia traccia parallelismi tra l'argomento della conoscenza (mente) e gli argomenti sulla conoscenza di Dio (religione) per stabilire lacune di conoscenza non teoriche."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente verificabile (tramite argomenti filosofici); empiricamente limitata/speculativa a causa della definizione di 'fatti non teorici'.",
+    "known_empirical_interventions_or_tests": "Non specificato; si fonda su argomenti concettuali/epistemologici (ad esempio, la critica all'argomento della conoscenza) anziché sulla verifica empirica delle sue affermazioni centrali.",
+    "criticisms_and_tensions": "Affronta la tensione insita nel definire il fisicalismo facendo appello ad aspetti della realtà che necessariamente sfuggono a una completa teorizzazione scientifica, con il rischio di un'ambiguità ontologica. È una difesa contro i fallimenti del fisicalismo tradizionale.",
+    "open_questions_and_limitations": "La natura e la struttura precise dei fatti fisici non teorici e la giustificazione del perché questi specifici fatti siano intrinsecamente non catturabili restano questioni aperte.",
+    "ontological_coherence": "Elevata coerenza interna rispetto al suo scopo specifico (affrontare la lacuna epistemica pur mantenendo il fisicalismo), ma mette in discussione la portata e i principi tradizionali dell'ontologia fisicalista standard."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "Poiché il mondo è interamente fisico e la coscienza è radicata in fatti fisici basati sulle entità, sistemi artificiali complessi potrebbero, in linea di principio, istanziare i necessari fatti fisici non teorici."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "In quanto forma di fisicalismo, la coscienza è legata al mondo fisico, e non vi è alcuna indicazione che essa consenta una persistenza dopo la dissoluzione del substrato fisico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "L'ontologia è rigorosamente fisica, il che non comporta di per sé alcun significato o scopo cosmico ultimo, benché essa riconosca fatti fisici inaccessibili alla teoria scientifica."
+    },
+    "virtual_immortality": {
+      "stance": "Condizionale (tecnologicamente limitata)",
+      "rationale": "Se la specifica entità fisica (o la sua configurazione) che incarna i fatti non teorici della coscienza può essere perfettamente duplicata o caricata su supporti non biologici, l'immortalità virtuale è tecnicamente possibile, benché estremamente ardua."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Physicalism",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Critica/Alternativa"
+      },
+      {
+        "name": "The Knowledge Argument",
+        "relationship": "Influenza"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "God and Phenomenal Consciousness: A Novel Approach to Knowledge Arguments",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Anything non-physical about the mind? Closer to truth",
+        "year": 2012
+      }
+    ]
+  }
+}

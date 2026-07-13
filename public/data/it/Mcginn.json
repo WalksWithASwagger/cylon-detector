@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Il mistero ultimo di McGinn (Misterianismo)",
+    "summary": "La teoria sostiene che il legame metafisico tra la mente cosciente e il cervello fisico sia un mistero ultimo che l'intelligenza umana è fondamentalmente incapace di risolvere. Questa chiusura cognitiva è dovuta a limiti inerenti alle nostre risorse concettuali umane, non al fatto che la coscienza sia soprannaturale.",
+    "associated_thinkers": ["Colin McGinn"],
+    "category": "Teorie della Sfida",
+    "subcategory": "Mistero Ultimo (Misterianismo)",
+    "core_identity_tagline": "Il legame tra mente e cervello è un mistero ultimo",
+    "classification_tags": [
+      "mystery",
+      "cognitive limits",
+      "naturalism",
+      "philosophical",
+      "anti-reductionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza sorge unicamente dal mondo materiale, ma la proprietà o natura intrinseca che collega la materia (cervello) alla coscienza (mente) è concettualmente inaccessibile alle menti umane.",
+    "ontological_status": "Naturalismo esistenziale",
+    "mind_body_relationship": "La coscienza dipende dal mondo fisico (dipendenza materiale), ma il legame causale sottostante o l'identità non possono essere colti o spiegati dalla scienza o dalla filosofia umane.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Il meccanismo di emergenza è necessariamente nascosto all'intelletto umano a causa dei limiti nella nostra anatomia concettuale, il che lo rende funzionalmente indistinguibile in linea di principio dall'emergenza forte.",
+    "subjectivity_and_intentionality": "McGinn evidenzia la natura profonda del divario tra la realtà fisica e l'esperienza qualitativa; trova altamente implausibile l'idea che la materia dia origine alla coscienza, paragonandola all'affermare che «i numeri emergano dai biscotti» (Questo divario profondo costituisce il mistero).",
+    "qualia_account": "Il mistero è imperniato sull'incapacità di mettere in relazione il carattere qualitativo (qualia) con la realtà materiale, poiché la materia è il «tipo di cosa sbagliato» per produrre la coscienza. La spiegazione completa dei qualia è fondamentalmente inconoscibile per gli esseri umani.",
+    "ontological_commitments": "Processi fisici (cervelli) ed esperienza cosciente (che è accettata come reale e non soprannaturale). L'esistenza della vera connessione è postulata, sebbene inaccessibile.",
+    "epistemic_access": "L'intelletto umano è concettualmente precluso dalla verità del legame mente-cervello, il che significa che una conoscenza o risoluzione ultima è impossibile.",
+    "constituents_and_structure": "La coscienza sorge dal mondo materiale, ma la specifica proprietà responsabile di questa generazione è al di là della capacità delle strutture concettuali umane di definirla o comprenderla."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica (il legame tra qualia e materia); agentività (sfida implicita alle spiegazioni materialiste dell'azione)",
+    "distinctive_mechanism_or_principle": "Il principio è la chiusura cognitiva: l'intelletto umano non può concepire come i processi fisici generino l'esperienza soggettiva, il che porta a designare il legame come un mistero ultimo.",
+    "dynamics_of_emergence": "La coscienza è contingente; è un esito complesso sorto unicamente da processi materiali, ma le dinamiche di transizione che hanno colmato i domini fisico e fenomenico sono inaccessibili.",
+    "location_and_distribution": "Localizzata all'interno dei cervelli biologici, sorgendo unicamente dal mondo materiale.",
+    "causation_and_functional_role": "La coscienza è prodotta causalmente da processi materiali, ma i dettagli di questa causazione sono misteriosi e non possono essere specificati dal ragionamento umano.",
+    "integration_or_binding": "La natura unificata dell'esperienza è parte del mistero, riflettendo l'incapacità di vedere come la coscienza unificata sorga da componenti materiali disparate.",
+    "information_flow_or_representation": "Non esplicitamente affrontato, poiché la teoria si concentra sui limiti concettuali fondamentali del mettere in relazione la materia con la mente, piuttosto che sullo specificare un'architettura dell'informazione.",
+    "evolutionary_account": "La coscienza è contingente; si è evoluta dal mondo materiale ma non è una proprietà inerente o necessaria della realtà.",
+    "core_claims_and_evidence": [
+      "Il legame tra mente e cervello è un mistero ultimo che l'intelligenza umana non svelerà mai.",
+      "Un fatto profondo sulla nostra stessa natura di coscienza incarnata ci è necessariamente nascosto.",
+      "La coscienza sorge unicamente dal mondo materiale, ma le proprietà materiali sono il tipo di cosa sbagliato per produrre logicamente la coscienza."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico, naturalismo esistenziale"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Non testabile (in linea di principio). La tesi centrale è un'affermazione sui limiti permanenti della comprensione concettuale umana, non una mancanza di dati empirici attuali.",
+    "known_empirical_interventions_or_tests": [
+      "Nessuno specificato, poiché la teoria si concentra sui limiti concettuali."
+    ],
+    "criticisms_and_tensions": "Spesso criticata come Misterianismo, implicando un pessimismo filosofico o una posizione antiscientifica, sebbene McGinn collochi la visione come Naturalismo esistenziale.",
+    "open_questions_and_limitations": "La natura precisa del legame mente-cervello rimane interamente irrisolta e si ritiene che sia permanentemente al di là della comprensione umana.",
+    "ontological_coherence": "Coerente all'interno del quadro della chiusura cognitiva; tuttavia, contraddice implicitamente la convinzione centrale del fisicalismo riduttivo secondo cui una spiegazione completa è possibile, anche solo in linea di principio."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "Se il legame che produce la coscienza è un mistero ultimo che non può essere compreso (tanto meno ingegnerizzato), è impossibile costruire deliberatamente un sistema di IA cosciente dotato di autentica esperienza interiore."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoria si fonda sull'assunzione materialista secondo cui la coscienza sorge unicamente dal cervello materiale, il che implica l'estinzione alla morte corporea."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nessuno",
+      "rationale": "In quanto forma di Naturalismo esistenziale, la teoria non postula alcuno scopo cosmico o significato ultimo; la coscienza è un esito contingente di processi materiali."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Se il meccanismo che collega il cervello fisico alla mente soggettiva è un mistero ultimo, allora duplicare questo processo con «perfezione in prima persona» in un supporto sintetico sarebbe impossibile in linea di principio."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Nagel's Mind and Cosmos",
+        "relationship": "Influenza"
+      },
+      {
+        "name": "S. Harris's Mystery of Consciousness",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Critica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Can we solve the mind-body problem?",
+        "year": 1989
+      },
+      {
+        "title_with_names": "Cosmology and consciousness: hyperdualism ventilated",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Mysterious Flame - Conscious Minds in a Material World",
+        "year": 2000
+      }
+    ]
+  }
+}

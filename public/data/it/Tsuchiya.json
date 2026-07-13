@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Approccio relazionale alla coscienza di Tsuchiya",
+    "summary": "Questo approccio è principalmente una metodologia che cerca di caratterizzare e definire la coscienza attraverso descrizioni esaustive delle sue relazioni con tutte le altre coscienze. Utilizza la teoria delle categorie, uno strumento basato su strutture matematiche e le loro relazioni, per descrivere la struttura e le interrelazioni della fenomenologia cosciente con precisione matematica.",
+    "associated_thinkers": ["Nao Tsuchiya", "Hayato Saigo"],
+    "category": "Teorie materialiste",
+    "subcategory": "Relazionale",
+    "core_identity_tagline": "La coscienza come relazioni caratterizzate matematicamente",
+    "classification_tags": [
+      "relational",
+      "category theory",
+      "mathematical",
+      "methodology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come una struttura di relazioni caratterizzata dalla teoria delle categorie (strutture matematiche e le loro relazioni) applicata all'esperienza fenomenica.",
+    "ontological_status": "Fisicalismo (relazionale). Giustificazione: la teoria è classificata sotto la categoria generale delle teorie materialiste.",
+    "mind_body_relationship": "Correlazione/identità basata su complesse relazioni strutturali. Giustificazione: dedotta dalla sua classificazione tra le teorie materialiste/relazionali, con particolare attenzione alla definizione di strutture piuttosto che di una sostanza mentale irriducibile.",
+    "primitive_or_emergent_status": "Emergente. Giustificazione: dedotta dalla classificazione dell'approccio tra le teorie materialiste.",
+    "emergence_type": "Emergenza debole. Giustificazione: assunta in base alla sua collocazione coerente all'interno del quadro materialista, che suggerisce che la complessità delle relazioni sorga da componenti fisiche di livello inferiore, ed è in linea di principio spiegabile a partire da esse.",
+    "subjectivity_and_intentionality": "Non dettagliata esplicitamente, ma l'approccio definisce categorie di coscienza, che strutturano implicitamente il contenuto fenomenico. Giustificazione: la metodologia si concentra sulla definizione dei contenuti e dei livelli, non sul problema difficile del sentire soggettivo in sé.",
+    "qualia_account": "I qualia corrispondono a strutture fenomenologiche relazionali definibili, caratterizzate con precisione matematica. Giustificazione: derivata dall'esplicita attenzione della teoria alla caratterizzazione della struttura della fenomenologia cosciente tramite la matematica.",
+    "ontological_commitments": "Strutture matematiche (teoria delle categorie), fenomenologia cosciente e substrati fisici che realizzano tali relazioni (impliciti nella classificazione materialista).",
+    "epistemic_access": "Accessibile tramite descrizione matematica, strumenti concettuali derivati dalla teoria delle categorie e validazione empirica derivante dalla successiva ricerca teorica ed empirica che il metodo intende ispirare.",
+    "constituents_and_structure": "La struttura di base della coscienza è caratterizzata matematicamente come una «categoria», sulla base di rigorose proprietà strutturali e relazionali."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Livello e contenuti della coscienza, con l'obiettivo di chiarire concetti teorici complessi in filosofia e psicologia.",
+    "distinctive_mechanism_or_principle": "L'uso della teoria delle categorie per ottenere descrizioni esaustive delle relazioni della coscienza con tutte le altre coscienze.",
+    "dynamics_of_emergence": "Non dettagliata esplicitamente. L'approccio è metodologico, incentrato sulla caratterizzazione matematica delle strutture piuttosto che sulla descrizione di dinamiche temporali.",
+    "location_and_distribution": "La localizzazione è definita dal sistema fisico che sostiene queste relazioni necessarie (implicitamente il sistema cervello/corpo, in quanto classificata sotto il materialismo).",
+    "causation_and_functional_role": "Non dettagliato esplicitamente, trattandosi principalmente di un approccio metodologico. Tuttavia, caratterizzare con successo queste relazioni sosterrebbe le teorie relazionali della coscienza.",
+    "integration_or_binding": "L'integrazione è affrontata implicitamente descrivendo le interrelazioni dei membri fenomenici e la struttura complessiva della coscienza come un'unica categoria.",
+    "information_flow_or_representation": "L'informazione è concepita come le relazioni strutturali tra i membri fenomenici, che vengono formalizzate e descritte utilizzando la teoria delle categorie.",
+    "evolutionary_account": "Non affrontata esplicitamente. Giustificazione: il materiale di origine presenta la teoria come un quadro metodologico per la definizione e la caratterizzazione.",
+    "core_claims_and_evidence": [
+      "La coscienza può essere caratterizzata e definita attraverso descrizioni esaustive delle sue relazioni con tutte le altre coscienze.",
+      "La teoria delle categorie fornisce la struttura matematica necessaria per descrivere la fenomenologia cosciente con precisione."
+    ],
+    "basis_of_belief_or_evidence_type": "Concettuale, matematica, metodologica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente ed empiricamente testabile. L'approccio mira a ispirare ulteriori ricerche teoriche ed empiriche.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Non dettagliate esplicitamente nella fonte. Giustificazione: il testo descrive l'approccio in modo neutrale come una metodologia.",
+    "open_questions_and_limitations": "Il limite principale è se gli strumenti concettuali proposti possano riuscire a chiarire e definire la coscienza, e se possano ispirare una validazione empirica decisiva.",
+    "ontological_coherence": "Elevata coerenza interna grazie al ricorso a una rigorosa formalizzazione matematica (teoria delle categorie). Coerente con i quadri fisicalisti relazionali."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "Se la coscienza è fondamentalmente definita da relazioni e strutture descrivibili con precisione matematica (tramite la teoria delle categorie), tali strutture dovrebbero essere realizzabili in sistemi computazionali non biologici avanzati."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoria è classificata sotto il materialismo, il che implica che la coscienza dipenda dal substrato fisico (probabilmente il cervello) che realizza le strutture relazionali, e che quindi cessi con la morte biologica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Umanistico/pragmatico",
+      "rationale": "In quanto metodologia strutturale e materialista, offre strumenti per definire la coscienza ma non fornisce alcun significato cosmico o ultimo intrinseco al di là di quello creato dall'esperienza umana."
+    },
+    "virtual_immortality": {
+      "stance": "Probabile",
+      "rationale": "Poiché la coscienza è caratterizzata da relazioni e categorie precisamente quantificabili e definibili, duplicare queste strutture in un substrato virtuale o digitale dovrebbe, in linea di principio, consentire la continuazione del sé cosciente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories",
+        "relationship": "Sostenuta da"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "Correlata (categoria condivisa)"
+      },
+      {
+        "name": "Category Theory in Mathematics",
+        "relationship": "Fondamento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relational approach to consciousness: categories of level and contents of consciousness, N. Tsuchiya and H. Saigo",
+        "year": 2021
+      }
+    ]
+  }
+}

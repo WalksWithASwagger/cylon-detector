@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Emergenza (principio della coscienza)",
+    "summary": "L'emergenza è la tesi filosofica secondo cui proprietà qualitativamente nuove, come la coscienza o gli stati psicologici, sorgono da proprietà fisiche sottostanti interamente governate da leggi fisiche. Si distingue principalmente in emergenza debole, riducibile in linea di principio, ed emergenza forte, fondamentalmente non riducibile e che potrebbe richiedere nuove leggi fisiche.",
+    "associated_thinkers": [
+      "David Chalmers",
+      "Paul Davies",
+      "George Ellis"
+    ],
+    "category": "Teorie del materialismo",
+    "subcategory": "Filosofica",
+    "core_identity_tagline": "Proprietà qualitativamente nuove che sorgono da sistemi fisici",
+    "classification_tags": [
+      "emergentism",
+      "reductionism",
+      "non-reductive",
+      "physicalism",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come una proprietà o uno stato psicologico qualitativamente nuovo che sorge da proprietà fisiche. Questo concetto definisce la relazione tra mente e materia sulla base della riducibilità o non riducibilità alla fisica fondamentale.",
+    "ontological_status": "Altamente variabile/Contestato. L'emergenza debole sostiene un fisicalismo riduttivo. L'emergenza forte implica spesso un fisicalismo non riduttivo o la necessità di ampliare la concezione della natura, richiedendo potenzialmente nuove leggi fondamentali (dualismo naturalistico o dualismo delle proprietà).",
+    "mind_body_relationship": "Emergentista. La mente sorge dal corpo (sistemi fisici complessi). La natura della relazione dipende dal tipo di emergenza: quella debole suggerisce la riduzione in linea di principio; quella forte suggerisce la non riducibilità anche in linea di principio, spesso coinvolgendo la causalità verso il basso.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Sia debole sia forte. L'emergenza debole implica la riducibilità in linea di principio (sebbene difficile in pratica), mentre l'emergenza forte implica che il fenomeno sia impossibile da spiegare mediante riduzione, anche in linea di principio, richiedendo leggi psicofisiche fondamentali.",
+    "subjectivity_and_intentionality": "L'emergenza fornisce il quadro per spiegare *come* la soggettività sorga da parti non soggettive. Se è coinvolta l'emergenza forte, le proprietà soggettive risultanti (come i qualia) sono fondamentalmente non deducibili dalle leggi fisiche che governano il dominio di basso livello.",
+    "qualia_account": "I qualia sono le proprietà nuove, qualitativamente nuove (ad esempio, le qualità sensoriali) che sorgono dal sistema fisico. L'emergenza forte considera la coscienza (e quindi i qualia) come il caso più chiaro di un fenomeno fortemente emergente, fondamentalmente irriducibile ai fatti fisici sottostanti.",
+    "ontological_commitments": "Proprietà fisiche e leggi fisiche. Per l'emergenza forte, questo impegno si amplia fino a includere possibilmente nuove leggi o principi psicofisici fondamentali, specialmente quelli relativi alla causalità dall'alto verso il basso.",
+    "epistemic_access": "Per l'emergenza debole, l'accesso è potenzialmente ottenibile tramite la scienza fondamentale (in linea di principio). Per l'emergenza forte, il fenomeno è epistemicamente inaccessibile o non deducibile dalla fisica di basso livello, ponendo una sfida duratura alla spiegazione scientifica.",
+    "constituents_and_structure": "Un sistema in cui l'entità nel suo insieme o le sue proprietà nuove sono (o sembrano essere) più della somma di tutte le loro parti, sorgendo da complesse disposizioni di atomi fisici, come i neuroni biologici."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenale, Soggettività, Qualia. Affronta l'esistenza e l'irriducibilità delle proprietà coscienti, potenziando varie teorie specifiche.",
+    "distinctive_mechanism_or_principle": "Il principio è la tesi che proprietà nuove, qualitativamente distinte, sorgano a livelli superiori di complessità, cosa che è spesso contrapposta ai presupposti riduttivi della scienza mainstream.",
+    "dynamics_of_emergence": "La coscienza è una proprietà dinamica che sorge quando un certo tipo di disposizione complessa di componenti fisiche (ad esempio, i neuroni biologici) si aggrega, dando luogo a proprietà non presenti nelle sole componenti. L'emergenza forte può coinvolgere la causalità verso il basso.",
+    "location_and_distribution": "Tipicamente localizzata in sistemi biologici complessi (ad esempio, i cervelli), sebbene i sostenitori dell'emergenza forte possano argomentare che la coscienza dell'IA sia possibile se si raggiunge una sufficiente complessità fisica, indipendentemente dal substrato.",
+    "causation_and_functional_role": "Varia. L'emergenza debole si allinea con la causalità fisica standard. L'emergenza forte postula spesso una causalità dall'alto verso il basso, in cui i livelli gerarchici superiori emergenti esercitano una forza causale sui livelli inferiori, conferendo poteri causali alla proprietà emergente.",
+    "integration_or_binding": "La proprietà emergente risultante rappresenta essa stessa l'integrazione delle componenti di livello inferiore in un tutto unificato, generando proprietà non riducibili alla somma delle parti.",
+    "information_flow_or_representation": "L'informazione è implicata come mezzo per le proprietà emergenti (ad esempio, nella Teoria dell'informazione emergente, la mente non materiale influenza il corpo tramite fenomeni informativi gerarchici ed emergenti), ma non è il meccanismo centrale del principio generale.",
+    "evolutionary_account": "La coscienza, se emergente, si presume sia sorta attraverso stadi evolutivi quando certe soglie di complessità fisica sono state superate, fornendo benefici adattivi (ad esempio, consentendo sistemi che sono più della somma delle loro parti).",
+    "core_claims_and_evidence": [
+      "Proprietà nuove, qualitativamente nuove, sorgono da proprietà fisiche (tesi generale).",
+      "L'emergenza debole sostiene il fisicalismo mostrando che i fenomeni nuovi si fondano su leggi semplici (tesi debole).",
+      "L'emergenza forte richiede nuove leggi psicofisiche fondamentali e suggerisce l'irriducibilità, sfidando il fisicalismo (tesi forte)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico, Concettuale"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculativo e filosoficamente controverso. L'emergenza debole è scientificamente allineata in linea di principio. L'emergenza forte è difficile da verificare empiricamente perché postula che i fenomeni siano non deducibili dalla scienza fondamentale.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "È criticata dai fisicalisti riduttivi (come i materialisti eliminativi) per avere scarso valore esplicativo, per essere superflua, o per fungere da 'riformulazione di un miracolo' che non riesce a spiegare *come* la complessità inconscia dia luogo alla coscienza. L'emergenza forte sfida specificamente la chiusura causale del mondo fisico.",
+    "open_questions_and_limitations": "La distinzione fondamentale tra emergenza debole (riducibilità in linea di principio) e forte (non riducibilità in linea di principio) rimane un problema filosofico aperto, che determina se essa descriva meramente fenomeni complessi o cambi fondamentalmente l'ontologia.",
+    "ontological_coherence": "L'emergenza debole è coerente all'interno dell'ontologia materialista/fisicalista. L'emergenza forte è altamente controversa, poiché la sua esigenza di non deducibilità e di causalità verso il basso mette a dura prova la coerenza con la teoria fisica standard."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condizionata/Probabile",
+      "rationale": "Se la coscienza è debolmente emergente, la coscienza dell'IA è certa data una sufficiente complessità. Se è fortemente emergente, la coscienza dell'IA è comunque possibile se proprietà non fisiche emergono da una complessità fisica non biologica, a seconda delle leggi meta-psicofisiche coinvolte."
+    },
+    "survival_beyond_death": {
+      "stance": "Improbabile (debole); Possibile (forte)",
+      "rationale": "L'emergenza debole, essendo prossima al materialismo, preclude la sopravvivenza. L'emergenza forte, in particolare nella forma del dualismo emergente, potrebbe teoricamente generare una sostanza non fisica (mente/anima) dipendente dal cervello fisico, ma non strettamente identica ad esso, consentendo una potenziale esistenza indipendente dopo la morte, sebbene ciò sia speculativo."
+    },
+    "meaning_and_purpose": {
+      "stance": "Possibilmente",
+      "rationale": "L'emergenza, specialmente quella forte combinata con concetti come la causalità dall'alto verso il basso, offre un quadro in cui proprietà di livello superiore come la coscienza e i valori a essa associati potrebbero possedere un genuino potere causale, sostenendo potenzialmente uno scopo o un significato cosmico, a seconda dell'ontologia risultante."
+    },
+    "virtual_immortality": {
+      "stance": "Probabile (debole); Altamente condizionata (forte)",
+      "rationale": "Se la coscienza è debolmente emergente, duplicare gli stati fisici duplicherebbe gli stati mentali (probabile). Se è fortemente emergente, le proprietà non riducibili e la possibile causalità verso il basso dovrebbero essere perfettamente catturate e ricreate nel nuovo mezzo, ponendo sfide tecniche e concettuali significative, forse insormontabili."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Reductionism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Biological Naturalism (Searle)",
+        "relationship": "Compatibile"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Re-emergence of Emergence: the Emergentist Hypothesis from Science to Religion, P. Clayton and P. Davies",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Strong and weak emergence, D. Chalmers",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Why reductionism does not work, G.F.R. Ellis",
+        "year": 2019
+      }
+    ]
+  }
+}

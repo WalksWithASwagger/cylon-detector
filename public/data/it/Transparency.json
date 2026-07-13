@@ -1,0 +1,116 @@
+{
+  "id_and_class": {
+    "theory_title": "Tesi della trasparenza (teoria della trasparenza)",
+    "summary": "La tesi della trasparenza sostiene che l'esperienza sensoriale è puramente rappresentazionale, dirigendo l'attenzione unicamente verso gli oggetti esterni e le loro proprietà, anziché verso le caratteristiche intrinseche dello stato percettivo stesso. La tesi centrale afferma che, poiché l'introspezione non rivela alcuna proprietà mentale al di là di tali rappresentazioni, la coscienza fenomenica non pone alcun problema particolare per il materialismo.",
+    "associated_thinkers": [
+      "William G. Lycan",
+      "Gilbert Harman",
+      "Michael Tye",
+      "Dirk Franken"
+    ],
+    "category": "Teorie materialiste",
+    "subcategory": "Teorie rappresentazionali",
+    "core_identity_tagline": "«La coscienza come rappresentazione trasparente»",
+    "classification_tags": [
+      "representationalism",
+      "materialism",
+      "intentionalism",
+      "qualia_reduction"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza fenomenica (il carattere fenomenico) è identificata con, o ridotta al, contenuto rappresentazionale (contenuto intenzionale) dell'esperienza.",
+    "ontological_status": "Fisicalismo riduttivo/materialismo (la teoria è utilizzata per minare gli argomenti contro il fisicalismo).",
+    "mind_body_relationship": "Teoria dell'identità/riduzionismo (il carattere fenomenico è ridotto al contenuto intenzionale, che si presume sia realizzato fisicamente, inserendosi nel campo materialista).",
+    "primitive_or_emergent_status": "Non primitivo; riduttivamente emergente (sopravvenente sul contenuto rappresentazionale neuronale)",
+    "emergence_type": "Emergenza debole (la teoria mira a mostrare che le proprietà fenomeniche sono interamente esaurite o riducibili al contenuto rappresentazionale, in linea con i principi dell'emergenza debole/del riduzionismo).",
+    "subjectivity_and_intentionality": "La qualità fenomenica soggettiva è interamente definita ed esaurita dalle proprietà sensibili presentate al soggetto. L'intenzionalità (la qualità di rappresentare oggetti esterni) è fondamentale per lo stato cosciente.",
+    "qualia_account": "I qualia, ovvero i tratti qualitativi della coscienza fenomenica, sono illusori o incoerenti se considerati proprietà dello stato percettivo in aggiunta alle sue proprietà rappresentazionali. Il carattere fenomenico è ridotto al contenuto intenzionale.",
+    "ontological_commitments": "Gli oggetti esterni e le loro proprietà apparenti, gli stati percettivi e il contenuto rappresentazionale. La teoria nega esplicitamente l'esistenza di proprietà mentali intrinseche, non rappresentazionali.",
+    "epistemic_access": "Introspezione (la tesi centrale della trasparenza si basa sull'introspezione dell'esperienza, che presumibilmente non rivela alcuna proprietà intrinseca al di là di quelle rappresentate dall'oggetto).",
+    "constituents_and_structure": "Gli stati percettivi, che funzionano esclusivamente rappresentando oggetti esterni e le loro proprietà. La struttura dell'esperienza cosciente è la distribuzione delle proprietà sensibili presentate al soggetto."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza fenomenica (qualia), percezione (in particolare l'esperienza visiva).",
+    "distinctive_mechanism_or_principle": "La tesi della trasparenza: il principio secondo cui l'attenzione, quando è diretta verso l'interno, trova solo tratti dell'oggetto esterno percepito, sostenendo così l'affermazione che il carattere fenomenico equivale al contenuto rappresentazionale.",
+    "dynamics_of_emergence": "L'accento è posto sulla caratterizzazione delle proprietà degli stati coscienti piuttosto che sulla descrizione di un processo dinamico di emergenza. Descrive lo stato risultante in cui si «vede direttamente attraverso» lo stato mediatore.",
+    "location_and_distribution": "La teoria si concentra sulla natura del contenuto fenomenico (rappresentazione) stesso. Implicitamente, in quanto teoria materialista, questo contenuto è realizzato dall'attività neuronale nel cervello.",
+    "causation_and_functional_role": "Il ruolo funzionale consiste nel rappresentare fedelmente gli oggetti esterni e attribuire loro proprietà, anziché allo stato percettivo stesso.",
+    "integration_or_binding": "Non dettagliata esplicitamente, ma implicita nell'attribuzione riuscita delle proprietà percepite (ad es. colore, forma) all'oggetto esterno unificato. Le proprietà percepite sono quelle presenti al soggetto in un campo di apparizione.",
+    "information_flow_or_representation": "L'informazione è elaborata come rappresentazione; la coscienza fenomenica è essenzialmente informazionale, in particolare il contenuto che rappresenta gli oggetti esterni.",
+    "evolutionary_account": "Non affrontata esplicitamente, ma allineata con la sottocategoria rappresentazionalista del materialismo, generalmente compatibile con una spiegazione evolutiva della funzione sensoriale che migliora la fitness rappresentando fedelmente l'ambiente.",
+    "core_claims_and_evidence": [
+      "L'esperienza sensoriale rappresenta gli oggetti esterni e le loro proprietà apparenti, eliminando i problemi per il materialismo.",
+      "L'introspezione non rivela alcuna proprietà mentale al di là di quelle rappresentazionali (la tesi della trasparenza vera e propria).",
+      "L'affermazione secondo cui il rappresentazionalismo forte mina l'argomento della conoscenza contro il materialismo."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofica (argomento fondato sull'osservazione fenomenologica e sull'introspezione)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente testabile/vincolata fenomenologicamente (il suo test principale è la coerenza dell'affermazione introspettiva, sebbene i metodi di falsificazione oggettiva non siano centrali).",
+    "known_empirical_interventions_or_tests": "Introspezione (la teoria dipende dal fatto se «l'introspezione più determinata riveli mai tali proprietà aggiuntive»). Casi problematici come la visione sfocata sono affrontati dai sostenitori.",
+    "criticisms_and_tensions": "I critici citano fenomeni come la visione sfocata quali potenziali controesempi all'affermazione secondo cui tutte le proprietà percepite sono proprietà esterne dell'oggetto. La tesi nega l'idea che le qualità fenomeniche siano proprietà indipendenti dello stato mentale.",
+    "open_questions_and_limitations": "Deve risolvere apparenti incoerenze, come il modo in cui stati interni quali la visione sfocata possano essere sperimentati se l'esperienza contiene solo proprietà esterne.",
+    "ontological_coherence": "Elevata (altamente coerente internamente con il fisicalismo riduttivo e con teorie come il rappresentazionalismo forte, che cercano di risolvere il problema mente-corpo negando l'esistenza di proprietà fenomeniche irriducibili)."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "In quanto difesa filosofica delle teorie materialiste, sostiene l'idea che la coscienza sia computazionale o rappresentazionale, il che significa che la coscienza dell'IA è assolutamente possibile in linea di principio."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è radicata in stati rappresentazionali derivati dal cervello fisico. Secondo il paradigma materialista, la distruzione del cervello comporta la non esistenza permanente della persona."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "La teoria serve a rafforzare il materialismo, che generalmente sostiene solo un significato, uno scopo e un valore creati dall'uomo."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Se la coscienza è interamente spiegata dal contenuto rappresentazionale, allora questa informazione potrebbe teoricamente essere duplicata e caricata su un substrato non biologico, rendendo raggiungibile l'immortalità virtuale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "Base"
+      },
+      {
+        "name": "Intentionalism",
+        "relationship": "Simile/equivalente"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Difesa/sostegno"
+      },
+      {
+        "name": "Jackson’s Representationalism",
+        "relationship": "Estensione/sostegno"
+      },
+      {
+        "name": "Amy Kind",
+        "relationship": "Critica/perfezionamento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The intrinsic quality of experience, G. Harman",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Representationalism and the transparency of experience, M. Tye",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Transparency and the Structure of Consciousness, D. Franken",
+        "year": ""
+      },
+      {
+        "title_with_names": "Representational theories of consciousness, W. Lycan",
+        "year": 2019
+      }
+    ]
+  }
+}

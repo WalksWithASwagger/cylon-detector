@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoria di ordine superiore della coscienza emotiva di LeDoux",
+    "summary": "Questa teoria propone che le sensazioni emotive coscienti, come la paura, non siano fondamentalmente diverse dalle esperienze percettive coscienti, sostenendo che entrambe sorgono da reti generali di cognizione (GNC) a base corticale che generano rappresentazioni di ordine superiore (HOR) di informazioni di ordine inferiore. L'essenza della coscienza fenomenica risiede in una ri-rappresentazione di uno stato precedente di ordine superiore, denominato HOROR (Rappresentazione di Ordine Superiore di una Rappresentazione).",
+    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "category": "Materialismo",
+    "subcategory": "Rappresentazionale",
+    "core_identity_tagline": "La coscienza come rappresentazione di ordine superiore di stati emotivi e percettivi",
+    "classification_tags": [
+      "neurobiology",
+      "emotion",
+      "higher-order",
+      "representation",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come uno stato di terzo ordine (HOROR), specificamente l'appropriata rappresentazione di ordine superiore (HOR) di informazioni di ordine inferiore, istanziata da Reti Generali di Cognizione (GNC) a base corticale.",
+    "ontological_status": "Fisicalismo. La teoria è materialista, sostenendo che la coscienza sorge da un unico sistema nel cervello, istanziato in circuiti corticali.",
+    "mind_body_relationship": "Identità/Dipendenza causale. Gli stati mentali (sensazioni emotive coscienti ed esperienze percettive) sono interamente dipendenti da, e istanziati in, specifici processi e reti fisiche (GNC, circuiti corticali).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (Giustificata: in quanto teoria neurobiologica/materialista dettagliata incentrata su meccanismi neurali scopribili, si assume che la complessità della coscienza sia, in linea di principio, deducibile dai processi fisici.)",
+    "subjectivity_and_intentionality": "La soggettività (l'esperienza emotiva e autoconsapevole) sorge quando il sé è incluso nello stato HOROR. L'intenzionalità è raggiunta perché la coscienza è fondamentalmente rappresentazionale (HOR di informazioni).",
+    "qualia_account": "L'esperienza fenomenica consiste nell'avere l'appropriata HOR di informazioni di ordine inferiore, che è uno stato simile a un pensiero che istanzia l'esperienza fenomenica, accessibile introspettivamente. La teoria mira a spiegare il soggettivo «com'è essere» mediato da queste rappresentazioni di ordine superiore.",
+    "ontological_commitments": "Reti Generali di Cognizione (GNC) a base corticale, rappresentazioni di ordine superiore (HOR), circuiti neurali (per esempio, PFC, corteccia sensoriale) e informazioni di ordine inferiore.",
+    "epistemic_access": "L'introspezione (notare passivo e scrutinio attivo) conduce all'esperienza fenomenica. I meccanismi sottostanti sono accessibili tramite la ricerca neurobiologica e la modellizzazione cognitiva.",
+    "constituents_and_structure": "Un modello gerarchico multi-stato che coinvolge stati primari di ordine inferiore (corteccia sensoriale), stati secondari di ordine inferiore (aree della memoria), stati sub-superiori (PFC meso-corticale) e stati di ordine superiore (PFC granulare) che indicizzano e ri-rappresentano le informazioni per costruire modelli mentali."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza fenomenica, coscienza emotiva (per esempio, la paura), coscienza percettiva, autoconsapevolezza (come «insieme dell'essere») e agentività cosciente.",
+    "distinctive_mechanism_or_principle": "L'istanziazione di una Rappresentazione di Ordine Superiore di una Rappresentazione (HOROR), che è lo stato cognitivo di terzo ordine necessario per l'esperienza cosciente. Questo meccanismo è simile a un pensiero e non inferenziale, rendendo una HOR non cosciente introspettivamente consapevole.",
+    "dynamics_of_emergence": "La coscienza è il prodotto di un'elaborazione gerarchica complessa multi-stato che sorge dinamicamente attraverso l'interpretazione cognitiva, servendo in particolare a mantenere un senso di unità mentale.",
+    "location_and_distribution": "Strutture corticali, in particolare la corteccia prefrontale (PFC) (aree granulari e sub-granulari), che ospita la GNC e gli stati di ordine superiore, interagendo con le cortecce sensoriali e della memoria (stati di ordine inferiore).",
+    "causation_and_functional_role": "La formazione di HOROR consente l'esperienza cosciente (sensazioni di paura, percezione), fornendo agentività cosciente e permettendo l'espressione di narrazioni astratte in «mentalese» che guidano il comportamento manifesto e l'espressione verbale.",
+    "integration_or_binding": "L'integrazione avviene attraverso l'assemblaggio cognitivo in cui input sottocorticali non coscienti si fondono con altri segnali neurali per formare esperienze emotive coscienti. Gli stati di ordine superiore ri-rappresentano vari altri stati per costruire modelli mentali unificati nella memoria di lavoro.",
+    "information_flow_or_representation": "L'informazione progredisce da rappresentazioni percettive/di minaccia di primo ordine, attraverso HOR non coscienti, fino a HOROR coscienti, che sono stati simili a un pensiero accessibili all'introspezione.",
+    "evolutionary_account": "La coscienza è emersa tardi nell'evoluzione, costruita su precedenti «regni dell'esistenza» (corporeo, neurale, cognitivo), con i sistemi nervosi che si sono evoluti per potenziare la sopravvivenza, portando infine a sofisticati cervelli coscienti.",
+    "core_claims_and_evidence": [
+      "Le esperienze coscienti (emotive e percettive) sorgono da un unico sistema nel cervello (GNC a base corticale).",
+      "Le sensazioni coscienti sono stati di ordine superiore istanziati in circuiti corticali.",
+      "La coscienza fenomenica implica l'avere uno stato di terzo ordine (HOROR), che è una consapevolezza introspettiva di una HOR non cosciente.",
+      "La teoria rifiuta la visione tradizionale secondo cui gli stati emotivi sono innatamente programmati esclusivamente nelle aree sottocorticali."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiologico, cognitivo"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile, in particolare attraverso la verifica della correlazione tra l'esperienza cosciente e i pattern di attività nelle specifiche reti corticali gerarchiche descritte (per esempio, il coinvolgimento della PFC nella generazione di stati HOROR).",
+    "known_empirical_interventions_or_tests": "Si basa sull'identificazione dell'attività nelle strutture corticali (per esempio, PFC e aree sensoriali/della memoria) corrispondente all'elaborazione della rappresentazione gerarchica, coerentemente con la ricerca sulle funzioni cognitive e metacognitive.",
+    "criticisms_and_tensions": "Affronta la sfida generale rivolta alle Teorie di Ordine Superiore (HOT) riguardo alla natura dello stato di ordine superiore stesso, specificamente come una rappresentazione simile a un pensiero renda cosciente uno stato di primo ordine (il «mistero» rilevato da Block per le HOT in generale). Sfida inoltre le visioni tradizionali della localizzazione delle emozioni.",
+    "open_questions_and_limitations": "La possibilità di un'agentività cosciente (libero arbitrio) che sorga dal modello mentale cosciente risultante è ancora oggetto di dibattito.",
+    "ontological_coherence": "Alta. La teoria fornisce un percorso neurocognitivo dettagliato per la coscienza e l'esperienza emotiva che è altamente coerente con il Materialismo e la spiegazione naturalistica."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sì",
+      "rationale": "In quanto teoria materialista e funzionale basata sull'elaborazione gerarchica delle informazioni (GNC/HOROR), la coscienza è, in linea di principio, replicabile in sistemi non biologici capaci di istanziare le necessarie strutture computazionali e rappresentazionali."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è interamente un prodotto dei sistemi biologici altamente complessi e fisicamente istanziati (circuiti corticali e GNC), senza fornire alcuna risorsa per la sopravvivenza oltre l'esistenza fisica del corpo."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "La coscienza è un meccanismo biologico evoluto che potenzia la sopravvivenza e consente stati emotivi centrati sul sé, ma la teoria non postula alcun significato o scopo ultimo, cosmico o trascendentale."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Poiché il sé in prima persona è radicato in stati cerebrali complessi, funzionali e rappresentazionali, una perfetta duplicazione di questi stati fisici tramite la tecnologia di caricamento preserverebbe, in linea di principio, il sé e realizzerebbe l'immortalità virtuale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Traditional Higher-Order Thought Theory (HOT)",
+        "relationship": "Affinamento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, J. LeDoux and R. Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Four Realms of Existence - A New Theory of Being Human, J. LeDoux",
+        "year": 2023
+      }
+    ]
+  }
+}

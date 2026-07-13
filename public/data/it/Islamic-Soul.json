@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoria islamica dell'anima",
+    "summary": "Questo quadro filosofico dualista sostiene che la persona umana è essenzialmente composta da un corpo fisico e da una sostanza non fisica indipendente, spesso chiamata anima o nafs, che è generata o posta da Dio. La teoria affronta il rapporto tra anima e corpo, affermando l'indipendenza dell'anima e la sua persistenza dopo la morte.",
+    "associated_thinkers": [
+      "al-Kindî",
+      "al-Farabi",
+      "Avicenna",
+      "Averroes",
+      "Hamza Yusuf",
+      "Seyyed Hossein Nasr"
+    ],
+    "category": "Dualismi",
+    "subcategory": "L'anima nella filosofia islamica",
+    "core_identity_tagline": "L'anima/nafs come luce spirituale posta da Dio",
+    "classification_tags": [
+      "substance dualism",
+      "theology",
+      "spiritual light",
+      "afterlife",
+      "immaterial"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come una «luce spirituale» che Dio ha posto nell'essere umano, risiedendo nell'anima o nafs non fisica.",
+    "ontological_status": "Dualismo delle sostanze (una sostanza non fisica separata e indipendente—l'anima—esiste accanto al corpo fisico).",
+    "mind_body_relationship": "Il rapporto è definito dall'unificazione dell'anima con il corpo, dall'effetto dell'anima sul corpo, dalla sua indipendenza e dalla sua separazione dopo la morte del corpo. L'anima agisce come principio centrale organizzatore e sostenitore del corpo, sebbene sia accidentalmente legata a un corpo particolare (secondo Avicenna).",
+    "primitive_or_emergent_status": "Primitivo/creato",
+    "emergence_type": "N/D (l'anima è considerata una sostanza indipendente, spesso generata o emanata dalle intelligenze divine o da Dio, anziché emergere da processi fisici.)",
+    "subjectivity_and_intentionality": "La soggettività è inerente all'anima non fisica (nafs, che significa sé/psiche), la quale è la fonte della coscienza. L'intenzionalità e il pensiero si realizzano attraverso facoltà gerarchiche dell'anima, che culminano nella facoltà razionale.",
+    "qualia_account": "L'esperienza qualitativa è intrinseca all'anima non fisica o «luce spirituale» che costituisce la coscienza, il che significa che il sentire dell'esperienza risiede in questa essenza immateriale.",
+    "ontological_commitments": "Corpi fisici, anime/spiriti sostanziali non fisici e una realtà ontologica superiore (per es. intelligenze separate o Dio) che è la fonte ultima dell'anima.",
+    "epistemic_access": "Alla coscienza si accede attraverso la valutazione filosofico/teologica e la pratica spirituale, come il ricordo di Dio impiegato per «lucidare lo specchio dell'anima».",
+    "constituents_and_structure": "Il costituente fondamentale è l'anima immateriale (*nafs*), che può avere una struttura gerarchica di facoltà (per es. nutritiva, sensoriale, immaginativa e razionale, come descritto da Averroes).",
+    "scope_of_consciousness": "Coscienza fenomenica, processi intellettivi e autoconsapevolezza (tramite il nafs)."
+  },
+  "mechanism_and_dynamics": {
+    "distinctive_mechanism_or_principle": "La funzione della coscienza è mediata da una luce spirituale (l'anima) che, all'unificazione con il corpo, agisce come suo principio organizzatore e sostenitore, incidendo sull'esistenza del corpo.",
+    "dynamics_of_emergence": "Non applicabile/creazione (l'anima è una sostanza creata o emanata e non sorge dinamicamente da processi cerebrali fisici).",
+    "location_and_distribution": "L'anima non fisica è unificata al corpo fisico, agendo come sua forma o principio organizzatore durante la vita, ma è capace di esistenza indipendente.",
+    "causation_and_functional_role": "L'anima esercita un'influenza causale sostenendo il corpo e rendendo possibili facoltà superiori come il pensiero razionale. Tuttavia, come tutti i dualismi delle sostanze, il meccanismo dell'interazione fisico-non fisico è soggetto al problema della causalità mentale.",
+    "integration_or_binding": "L'integrazione si realizza attraverso l'anima che agisce come una singola realtà sostanziale che informa e unifica le varie facoltà e componenti del corpo.",
+    "information_flow_or_representation": "L'informazione è elaborata gerarchicamente attraverso le facoltà dell'anima, dando luogo a funzioni cognitive sempre più complesse, che culminano nell'anima razionale/intellettiva.",
+    "evolutionary_account": "Non fondato principalmente sull'evoluzione filogenetica (Giustificazione: la teoria è radicata in resoconti teologici e filosofici della creazione, anziché in processi evolutivi materiali, sebbene Averroes descriva una gerarchia di facoltà nell'anima.)",
+    "core_claims_and_evidence": [
+      "L'anima è una sostanza immateriale (nafs) centrale per l'esistenza umana.",
+      "La coscienza è fondamentalmente una «luce spirituale» donata da Dio agli esseri umani.",
+      "L'anima è indipendente dal corpo e conserva la propria individualità al momento della separazione dopo la morte."
+    ],
+    "basis_of_belief_or_evidence_type": "Teologico, filosofico, fenomenologico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculativa/filosofica (Giustificazione: la teoria si basa sull'esistenza di una sostanza spirituale, non materiale—l'anima—che non è accessibile agli attuali metodi scientifici in terza persona, collocandola al di fuori dell'indagine empirica standard.)",
+    "known_empirical_interventions_or_tests": "Nessuno (Giustificazione: nelle fonti non si fa riferimento ad alcun intervento empirico concepito per testare l'esistenza o il funzionamento della luce spirituale o del nafs immateriale.)",
+    "criticisms_and_tensions": "Come altre forme di dualismo delle sostanze, questa teoria affronta la sfida di spiegare una continuità ontologica, causale o epistemologica coerente tra l'anima non fisica e il cervello fisico (il problema dell'interazione mente-corpo).",
+    "open_questions_and_limitations": "La natura precisa della composizione dell'anima e il modo in cui essa interagisce causalmente con il corpo fisico, nonché la questione se l'anima conservi un'individualità completa e autoconsapevole nel suo stato separato dopo la morte.",
+    "ontological_coherence": "Coerente entro un quadro dualista e teistico in cui una fonte divina (Dio) fornisce o emana la sostanza non fisica (l'anima), sostenendo una realtà a più livelli."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "Se la coscienza richiede un'anima non fisica creata o emanata da Dio, i sistemi di intelligenza artificiale (IA), che sono puramente materiali, non possono raggiungere una vera coscienza."
+    },
+    "survival_beyond_death": {
+      "stance": "Sì",
+      "rationale": "L'anima è una sostanza indipendente considerata «eviterna» (con un inizio ma senza fine) che si separa dal corpo alla morte, consentendo la sopravvivenza e la continuazione dello sviluppo in uno stato metacosmico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Ultimo/cosmico",
+      "rationale": "La coscienza e l'anima sono fondamentalmente legate a Dio e alla creazione, conferendo all'esistenza umana un significato e uno scopo ultimi, radicati nel divino."
+    },
+    "virtual_immortality": {
+      "stance": "Impossibile",
+      "rationale": "L'immortalità virtuale si basa sulla duplicazione della struttura neurale fisica. Poiché la coscienza richiede una sostanza-anima non fisica, replicare solo le componenti fisiche darebbe come risultato un'entità non cosciente, rendendo impossibile la persistenza in prima persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Swinburne’s Substance Dualism",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Stump’s Thomistic Dualism",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Historical and Traditional Dualisms",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Indian Cosmic Consciousness (Idealism)",
+        "relationship": "Confronto/contrasto"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Soul-Body Relation in İslamic Philosophy",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Arabic and Islamic psychology and philosophy of mind, Alfred Ivry",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Hamza Yusuf on Consciousness",
+        "year": 2023
+      }
+    ]
+  }
+}

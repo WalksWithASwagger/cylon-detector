@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Il monismo riflessivo di Velmans",
+    "summary": "Il monismo riflessivo è una teoria del duplice aspetto che postula come realtà fondamentale dell'universo un'unica sostanza di base capace di manifestarsi sia in forme fisiche sia come esperienza cosciente. Sostiene, in modo peculiare, che le esperienze coscienti del mondo esterno siano identiche al mondo fisico-così-come-viene-esperito, ricollocando la coscienza fenomenica al di fuori del cervello e nel mondo.",
+    "associated_thinkers": ["Max Velmans"],
+    "category": "Monismi",
+    "subcategory": "Monismo riflessivo",
+    "core_identity_tagline": "Il cervello è la mente vista in terza persona",
+    "classification_tags": [
+      "dual-aspect theory",
+      "phenomenological externalism",
+      "non-reductionist",
+      "mind-body relation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è l'aspetto esperienziale dell'unica sostanza di base che costituisce l'universo; il mondo fisico è il mondo-così-come-viene-esperito dal soggetto.",
+    "ontological_status": "Monismo del duplice aspetto (nella tradizione di Spinoza)",
+    "mind_body_relationship": "La mente e la materia sorgono da un comune «fondamento psicofisico» e sono due aspetti di un unico essere; il cervello è la mente vista da una prospettiva esterna (in terza persona).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Le fonti non specificano il tipo di emergenza, ma la descrivono come derivante dall'«evoluzione dell'universo a partire da un qualche stato primordiale indifferenziato», in cui esso si differenzia in entità distinguibili, alcune delle quali acquisiscono il potenziale per l'esperienza cosciente.",
+    "subjectivity_and_intentionality": "La soggettività è intrinseca perché il processo complessivo è «riflessivo»: l'universo si differenzia in parti e diventa cosciente di se stesso in molteplici modi. La teoria cerca di seguire i contorni dell'esperienza ordinaria, che include la soggettività.",
+    "qualia_account": "I qualia (esperienze qualitative) sono identificati con il «mondo fisico-così-come-viene-esperito», nel senso che le esperienze sono localizzate all'incirca dove sembrano essere (esternalismo fenomenologico), anziché trovarsi esclusivamente nel cervello.",
+    "ontological_commitments": "Un'unica sostanza di base indifferenziata (fondamento monistico); forme fisiche; esperienza cosciente; mondo fenomenico-così-come-viene-esperito.",
+    "epistemic_access": "Accessibile tramite l'introspezione e l'osservazione soggettiva, ritenuta valida al pari dell'osservazione esterna (in terza persona), in linea con il senso comune e con l'esperienza ordinaria.",
+    "constituents_and_structure": "L'universo si differenzia da uno stato primordiale in aspetti complementari, fisico ed esperienziale. Le esperienze, dal punto di vista fenomenologico, possiedono un'estensione e una localizzazione reali nello spazio fenomenico, corrispondenti all'incirca alla loro localizzazione apparente."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica, soggettività, autoconsapevolezza (dell'universo).",
+    "distinctive_mechanism_or_principle": "Principio riflessivo: il processo mediante il quale l'universo si differenzia in parti e diventa cosciente di se stesso. Questo scavalca il divario esplicativo unendo l'esperienza interna con il mondo esterno percepito.",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico che sorge dall'evoluzione e dalla differenziazione dell'unica sostanza di base dell'universo.",
+    "location_and_distribution": "La mente è distribuita in modo monistico come aspetto della sostanza di base. L'esperienza cosciente stessa è localizzata nel mondo fenomenico esterno (esternalismo fenomenologico), all'incirca dove sembra essere.",
+    "causation_and_functional_role": "La teoria si concentra principalmente sullo statuto ontologico piuttosto che su un ruolo funzionale esplicito. Tuttavia, collocando mente e materia in un'unica realtà, evita implicitamente i problemi di interazione causale che affliggono il dualismo, mirando ad allinearsi con l'esperienza ordinaria, che presuppone l'efficacia del mentale.",
+    "integration_or_binding": "Il meccanismo preciso non è dettagliato, ma l'unificazione è ottenuta concettualmente tramite l'identificazione degli oggetti e degli eventi esperiti con il mondo fisico-così-come-viene-esperito (ad es. la scrittura percepita e l'esperienza di essa sono «una sola e medesima cosa»).",
+    "information_flow_or_representation": "La teoria discute come il «mondo fenomenico» sia in relazione con il «mondo fisico», ma non fa affidamento principalmente sull'elaborazione dell'informazione o sul flusso computazionale quale meccanismo della coscienza.",
+    "evolutionary_account": "Le entità coscienti, come gli esseri umani, sorgono attraverso l'«evoluzione dell'universo a partire da un qualche stato primordiale indifferenziato», il che suggerisce una capacità di emergenza filogenetica insita nella sostanza di base.",
+    "core_claims_and_evidence": [
+      "L'universo è composto da un'unica sostanza di base che si manifesta sia come forme fisiche sia come esperienza cosciente.",
+      "Il cervello è la mente umana quando viene vista da una prospettiva esterna (in terza persona).",
+      "Le esperienze fenomeniche si trovano all'incirca dove sembrano essere (esternalismo fenomenologico)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofica, fenomenologica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculativa/concettuale. La teoria è testabile concettualmente valutando il suo successo nel riconciliare l'esperienza ordinaria con le acquisizioni scientifiche, in particolare quelle che confliggono con il fisicalismo riduzionista.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Mette in discussione il presupposto profondamente radicato secondo cui le esperienze, a differenza degli oggetti fisici, non possano avere una localizzazione o un'estensione «reali» al di fuori del cervello. Intende sfidare il riduzionismo fisicalista e funzionalista.",
+    "open_questions_and_limitations": "La relazione tra lo spazio fenomenico (dove l'esperienza sembra trovarsi) e lo spazio «reale» (lo spazio misurato) richiede ulteriore elaborazione.",
+    "ontological_coherence": "Elevata coerenza all'interno del suo quadro, poiché evita il problema dell'interazione proprio del dualismo e il problema difficile della coscienza posto al materialismo, affermando che l'aspetto mentale e quello fisico condividono un fondamento comune."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "In quanto monismo, ogni cosa è fatta della stessa sostanza di base. Se l'IA può replicare una complessità fisica sufficiente (l'aspetto in terza persona/il cervello), dovrebbe sorgere il duplice aspetto (la mente/l'esperienza), poiché la realtà sottostante è psicofisica."
+    },
+    "survival_beyond_death": {
+      "stance": "Incerta",
+      "rationale": "Sebbene la sostanza monistica fondamentale sottostante persista, la teoria si concentra sulla coscienza che sorge in specifiche entità differenziate (ad es. gli esseri umani). Se l'aspetto cosciente personale e differenziato sopravviva alla dissoluzione del corpo fisico rimane una questione aperta secondo le fonti."
+    },
+    "meaning_and_purpose": {
+      "stance": "Possibile",
+      "rationale": "I monismi suggeriscono in genere una posizione intermedia sul significato/scopo. Poiché la teoria implica che l'universo diventi «cosciente di se stesso in molteplici modi», questo processo riflessivo comporta un significato cosmico intrinseco, benché non personale, che va oltre il mero valore umanistico."
+    },
+    "virtual_immortality": {
+      "stance": "Probabile",
+      "rationale": "Se il substrato fisico (l'aspetto in terza persona) può essere perfettamente duplicato o caricato, anche il corrispondente duplice aspetto (la mente/l'esperienza in prima persona) deve essere preservato o ricreato, in coerenza con la natura delle teorie monistiche."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Spinoza’s Dual-Aspect Monism",
+        "relationship": "Influenza"
+      },
+      {
+        "name": "Physicalist Reductionism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Critica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reflexive monism, Max Velmans",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Wikipedia, the free Encyclopedia, Max Velmans",
+        "year": 2023
+      }
+    ]
+  }
+}

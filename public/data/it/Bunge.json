@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Materialismo emergente di Bunge",
+    "summary": "Mario Bunge propone il materialismo emergente, una forma di monismo psiconeurale, sostenendo che la mente è un insieme di funzioni/attività del complesso sistema nervoso centrale (SNC). Gli stati mentali sono un sottoinsieme emergente degli stati cerebrali caratterizzato dalla plasticità neurale, che possiede proprietà non riducibili alle leggi fisiche fondamentali. Egli invoca un approccio psicobiologico fondato sulla scienza.",
+    "associated_thinkers": [
+      "Mario Bunge"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiologico",
+    "core_identity_tagline": "Gli stati mentali come funzioni emergenti del SNC",
+    "classification_tags": [
+      "materialism",
+      "emergentism",
+      "psychoneural monism",
+      "systems theory",
+      "neurobiological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza (mente) è identificata con un insieme di funzioni (attività, eventi) del sistema nervoso centrale estremamente complesso, in particolare quegli stati mentali che presentano plasticità neurale e apprendimento.",
+    "ontological_status": "Materialismo emergente / Monismo psiconeurale (definito come materialista ma esplicitamente non fisicalista, nel senso che il mondo è interamente materiale ma la fisica non può spiegare tutti i fenomeni).",
+    "mind_body_relationship": "Gli stati mentali sono identici a un sottoinsieme distinto di stati/processi cerebrali (monismo psiconeurale). Questa relazione comporta una riduzione ontologica senza una riduzione epistemologica completa.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "È implicata un'emergenza forte, poiché le proprietà mentali sono proprie del sistema del SNC e non sono riducibili alle loro proprietà fisiche e chimiche costitutive.",
+    "subjectivity_and_intentionality": "Spiegate come funzioni emergenti altamente complesse del SNC. La teoria rifiuta la necessità di un'entità mentale separata, trattando l'esperienza soggettiva come un prodotto di queste complesse funzioni sistemiche, sebbene i meccanismi dettagliati rimangano programmatici.",
+    "qualia_account": "I qualia devono essere identici a specifiche funzioni/stati emergenti del SNC che presentano plasticità neurale. La teoria rifiuta il dualismo e il materialismo riduttivo per aver ignorato queste peculiari proprietà emergenti del SNC.",
+    "ontological_commitments": "Il mondo materiale; il sistema nervoso centrale (SNC); le proprietà emergenti; gli spazi di stato (usati per un linguaggio matematicamente preciso).",
+    "epistemic_access": "Accessibile mediante un'indagine scientifica rigorosa attraverso un approccio psicobiologico, che privilegia i fatti cerebrali oggettivi e un linguaggio matematicamente preciso fondato sugli spazi di stato.",
+    "constituents_and_structure": "Il complesso sistema nervoso centrale, organizzato come un sistema multilivello, in cui gli stati mentali sono funzioni che presentano plasticità neurale.",
+    "causation_and_functional_role": "La mente (funzioni del SNC) è causalmente efficace e spiega il comportamento. La teoria utilizza un approccio multilivello all'interno della teoria generale dei sistemi.",
+    "integration_or_binding": "Realizzata implicitamente attraverso la funzione inerente del complesso e unitario sistema nervoso centrale e delle sue proprietà emergenti di livello sistemico, definite matematicamente dal linguaggio degli spazi di stato."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenico; apprendimento/plasticità neurale; comportamento/processi neurali.",
+    "distinctive_mechanism_or_principle": "Il principio di emergenza che opera all'interno della struttura complessa e organizzata del sistema nervoso centrale, producendo proprietà (stati/funzioni mentali) non riducibili alle leggi fisiche di livello inferiore.",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico o un insieme di attività/eventi. L'emergenza è definita come una proprietà posseduta dal sistema (SNC) ma non dai suoi componenti.",
+    "location_and_distribution": "Localizzata all'interno del sistema nervoso centrale (SNC) come sottoinsieme degli stati cerebrali.",
+    "causation_and_functional_role": "Gli stati mentali sono funzioni causalmente efficaci del SNC utilizzate per spiegare il comportamento. La spiegazione richiede una sintesi delle neuroscienze e delle scienze sociali.",
+    "integration_or_binding": "L'integrazione è una funzione inerente al sistema del SNC complesso e unitario, verosimilmente descrivibile dal linguaggio matematicamente preciso degli spazi di stato.",
+    "information_flow_or_representation": "Gli stati mentali si distinguono per processi che presentano plasticità neurale, in particolare l'apprendimento. I modelli matematici che impiegano il linguaggio degli spazi di stato sono cruciali per la rappresentazione.",
+    "evolutionary_account": "Gli stati mentali sono processi che si sono evoluti nei biosistemi, distinti dagli stati cerebrali filogeneticamente fissi per la loro capacità di plasticità neurale e apprendimento.",
+    "core_claims_and_evidence": [
+      "La mente è un insieme di funzioni/attività emergenti del sistema nervoso centrale.",
+      "Gli stati mentali formano un sottoinsieme degli stati cerebrali distinto dalla plasticità neurale e dall'apprendimento.",
+      "La spiegazione richiede un approccio psicobiologico, che sintetizza neuroscienze e scienze sociali."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico (impegno monista/materialista); scientifico/empirico (basato sui dati disponibili e sui modelli psicologici esistenti); teoria dei sistemi/matematico."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Programmatica e potenzialmente testabile, avendola Bunge proposta come un'ipotesi che richiede meccanismi dettagliati, specialmente matematici, fondati su dati psicobiologici.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La teoria è programmatica e richiede uno sviluppo matematico e meccanicistico dettagliato. Bunge critica le teorie materialiste rivali (come il materialismo eliminativista e il materialismo riduttivo) per aver ignorato le peculiari proprietà emergenti del SNC.",
+    "open_questions_and_limitations": "La teoria necessita di meccanismi matematici dettagliati per articolare pienamente come avvenga l'emergenza e come gli stati mentali corrispondano a specifici stati cerebrali.",
+    "ontological_coherence": "Altamente coerente, poiché stabilisce una posizione materialista specifica (il materialismo emergente) che affronta le carenze del fisicalismo classico rifiutando al contempo le sostanze non materiali o il dualismo.",
+    "causation_and_functional_role": "La teoria implica l'efficacia causale degli stati mentali in quanto proprietà emergenti del SNC, coerentemente con il suo rifiuto dell'epifenomenismo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "In quanto monismo materialista in cui la coscienza è una funzione specifica di un sistema fisico complesso (il SNC), non esiste alcun divieto di principio contro la realizzazione delle necessarie funzioni emergenti complesse in un substrato artificiale."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è definita come attività/funzioni del sistema nervoso centrale biologico, rifiutando esplicitamente qualsiasi «entità mentale separata» o anima necessaria alla sopravvivenza post mortem."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "Coerentemente con le teorie del materialismo, la teoria fornisce una spiegazione puramente fisicalista della coscienza, suggerendo che un significato o uno scopo cosmico ultimo sia improbabile, sebbene il significato e il valore umani siano creati dagli agenti coscienti."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Poiché il sé mentale in prima persona è identificato con un insieme di funzioni/processi del SNC, una duplicazione e simulazione perfetta (caricamento) di queste funzioni in un supporto non biologico dovrebbe, in linea di principio, garantire la continuità della coscienza."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Searle’s Biological Naturalism",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Reductive Materialism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Sovrapposizione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Mind-Body Problem: A Psychobiological Approach, Mario Bunge",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Matter and Mind: A Philosophical Inquiry, Mario Bunge",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Emergence and the mind, Mario Bunge",
+        "year": 1977
+      }
+    ]
+  }
+}

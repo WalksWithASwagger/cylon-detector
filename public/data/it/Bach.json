@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "La teoria del direttore corticale di Bach",
+    "summary": "Questa teoria offre una spiegazione funzionale della coscienza fenomenica, proponendo che le strutture corticali, in particolare un'entità computazionale chiamata 'direttore', vengano addestrate attraverso un apprendimento guidato dalla ricompensa a regolare l'attività cerebrale. La coscienza è identificata come la memoria ricostruita di aver avuto un'esperienza, integrata in un protocollo per la riflessione e l'apprendimento.",
+    "associated_thinkers": [
+      "Joscha Bach"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiologico",
+    "core_identity_tagline": "La coscienza come memoria più recente",
+    "classification_tags": [
+      "functionalism",
+      "memory",
+      "computation",
+      "reflection",
+      "attention"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza fenomenica è identificata funzionalmente come la memoria più recente di ciò a cui la corteccia prefrontale ha prestato attenzione, memorizzata e ricreata tramite il protocollo del direttore. L'attualità dell'esperienza stessa è considerata irrilevante.",
+    "ontological_status": "Fisicalismo/materialismo (come modello funzionalista della coscienza radicato nelle strutture computazionali del cervello).",
+    "mind_body_relationship": "Gli stati coscienti sono realizzati da specifiche strutture computazionali all'interno della corteccia (il direttore e il suo protocollo integrato), riflettendo una relazione di realizzazione/identità funzionale coerente con il materialismo.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (lo stato cosciente è interamente spiegato e derivato dalle funzioni e dalle strutture dei meccanismi corticali sottostanti e dall'apprendimento guidato dalla ricompensa.)",
+    "subjectivity_and_intentionality": "Il 'direttore' dirige l'attenzione e integra i processi in un protocollo usato per la riflessione e per generare un modello di sé coeso, il che spiega la soggettività e l'intenzionalità.",
+    "qualia_account": "I qualia (la coscienza fenomenica) sono intesi funzionalmente come la memoria o la ricostruzione di aver avuto un'esperienza, riflessa nel protocollo del direttore.",
+    "ontological_commitments": "Strutture corticali, strutture computazionali ('il direttore'), segnali di apprendimento guidati dalla ricompensa e protocolli informazionali integrati.",
+    "epistemic_access": "La coscienza è accessibile tramite la riflessione sul protocollo integrato da parte del direttore.",
+    "constituents_and_structure": "Il direttore, identificato funzionalmente come una struttura computazionale probabilmente associata alla corteccia prefrontale dorsolaterale, alla corteccia cingolata anteriore e all'insula anteriore, agisce da meccanismo centrale di coerenza generando un protocollo di riflessione."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza fenomenica (definita come memoria dell'esperienza); coscienza di accesso; riflessione; autoconsapevolezza (come modello di sé coeso).",
+    "distinctive_mechanism_or_principle": "La struttura computazionale del 'direttore', addestrata tramite apprendimento guidato dalla ricompensa, regola le altre funzionalità corticali e integra le informazioni a cui si è prestata attenzione in un protocollo.",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico che sorge dall'addestramento e dal funzionamento continuo del direttore, manifestandosi come il protocollo di memoria costantemente aggiornato e ricostruibile.",
+    "location_and_distribution": "Localizzata funzionalmente nei sistemi di regolazione del cervello, coinvolgendo probabilmente la corteccia prefrontale dorsolaterale, la corteccia cingolata anteriore e l'insula anteriore.",
+    "causation_and_functional_role": "Il direttore fornisce la funzione esecutiva, dirige l'attenzione e integra l'esperienza. La coscienza stessa rende possibili la coerenza centrale e la riflessione/l'apprendimento.",
+    "integration_or_binding": "Il direttore è l'unico luogo in cui l'esperienza viene integrata nel protocollo, fornendo la coerenza centrale.",
+    "information_flow_or_representation": "Il flusso di informazione è regolato dal direttore e integrato in un protocollo. La coscienza fenomenica comporta la riattivazione di questo protocollo tramite collegamenti e parametri memorizzati (memoria).",
+    "evolutionary_account": "Le strutture corticali che sostengono la funzionalità del direttore sono il risultato di un apprendimento guidato dalla ricompensa, suggerendo un percorso evolutivo adattivo.",
+    "core_claims_and_evidence": [
+      "La coscienza è una spiegazione funzionale basata su una struttura computazionale chiamata 'direttore'.",
+      "La coscienza fenomenica è la memoria più recente di ciò a cui il direttore ha prestato attenzione.",
+      "Il direttore integra l'esperienza in un protocollo usato per la riflessione e l'apprendimento.",
+      "Un cervello privo del direttore funzionerebbe come un 'sonnambulo', mancando di coerenza centrale e di riflessione."
+    ],
+    "basis_of_belief_or_evidence_type": "Computazionale, funzionalista, scienze cognitive."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile/modellabile (definita da condizioni necessarie e sufficienti legate a strutture computazionali e corticali).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La tensione principale risiede nella definizione della coscienza fenomenica come mera memoria dell'esperienza, aggirando il problema difficile con l'affermazione che l'attualità dell'esperienza stessa è irrilevante.",
+    "open_questions_and_limitations": "La teoria si basa fortemente su una definizione funzionale che evita di spiegare l'intrinseca natura qualitativa del 'com'è' avere quell'esperienza, concentrandosi invece sulla memoria accessibile della stessa.",
+    "ontological_coherence": "Altamente coerente all'interno dei paradigmi funzionalista e materialista, fornendo una spiegazione esaustiva, benché deflazionistica, radicata nella neurobiologia computazionale."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sì",
+      "rationale": "Bach è ottimista sulla coscienza dell'IA, poiché definire la coscienza funzionalmente come memoria dell'esperienza ne semplifica l'implementazione in sistemi artificiali capaci di computazione e di riferire su tale memoria."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "In quanto teoria materialista che lega la coscienza a specifiche strutture corticali e computazionali (il direttore), la coscienza cessa quando il substrato fisico viene meno."
+    },
+    "meaning_and_purpose": {
+      "stance": "Umanistico/derivato",
+      "rationale": "In quanto teoria materialista, suggerisce l'assenza di un significato cosmico ultimo. Significato e scopo sono derivati internamente tramite la capacità del direttore di creare un modello di sé coeso e di guidare la funzione esecutiva sulla base dell'apprendimento guidato dalla ricompensa."
+    },
+    "virtual_immortality": {
+      "stance": "Probabile",
+      "rationale": "Poiché la coscienza è definita come un protocollo informazionale/memoria che sorge da una struttura computazionale, la duplicazione e il caricamento perfetti di questo stato funzionale in un mezzo non biologico dovrebbero dar luogo all'immortalità virtuale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Somiglianza/compatibile"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Somiglianza/compatibile"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Contrasto (la CTC è funzionalista, a differenza della definizione strutturale dell'IIT)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The cortical conductor theory: towards addressing consciousness in AI models, Joscha Bach",
+        "year": 2019
+      }
+    ]
+  }
+}

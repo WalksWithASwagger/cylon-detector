@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Il problema mente-corpo di Goldstein",
+    "summary": "Questa teoria afferma che la coscienza consiste interamente di materia cerebrale, respingendo gli stati non materiali. Tuttavia, incentra il problema mente-corpo sull'idea che, mentre i processi fisici possono essere analizzati completamente dalla scienza (la descrizione esterna), la descrizione soggettiva interna di una persona (pensieri, emozioni, sentimenti) non può essere derivata o pienamente colta da quella descrizione puramente fisica, mettendo in luce un persistente divario esplicativo.",
+    "associated_thinkers": [
+      "Rebecca Newberger Goldstein"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Filosofico",
+    "core_identity_tagline": "‘La coscienza come materia cerebrale non derivabile'",
+    "classification_tags": [
+      "explanatory gap",
+      "materialism",
+      "subjectivity",
+      "description"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza, che comprende pensieri interni, percezioni, emozioni, sogni e stati di sentimento, è identificata come interamente materia cerebrale, sebbene la descrizione soggettiva e interna di questa materia cerebrale sia inaccessibile a una completa analisi scientifica esterna.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Gli stati consci sono radicalmente identici agli stati cerebrali (teoria dell'identità materialista), ma la complessità concettuale della descrizione soggettiva (interna) non può essere dedotta dall'analisi descrittiva dello stato cerebrale fisico (esterno).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole/Divario esplicativo. La coscienza è in ultima analisi materiale, ma la sua descrizione soggettiva non può, nemmeno in linea di principio, essere derivata dalla descrizione oggettiva del substrato fisico.",
+    "subjectivity_and_intentionality": "La soggettività è la 'descrizione interna' dell'essere una persona (pensieri, emozioni, sogni), che una completa analisi del cervello fisico non può cogliere o descrivere pienamente. Gli stati intenzionali sono interamente basati sulla materia cerebrale.",
+    "qualia_account": "I qualia (stati di sentimento) sono aspetti della descrizione interna dell'esperienza cosciente che sono interamente materia cerebrale ma non sono pienamente articolabili dal vocabolario puramente fisico della scienza.",
+    "ontological_commitments": "Corpi e cervelli fisici. Rifiuto esplicito di stati o sostanze non materiali (rifiuta il dualismo).",
+    "epistemic_access": "La descrizione interna è conosciuta principalmente tramite la prospettiva in prima persona, come quando si crea un personaggio in un romanzo. L'approccio scientifico in terza persona (l'analisi del cervello) è intrinsecamente limitato nell'accedere a questa conoscenza.",
+    "constituents_and_structure": "La materia sottostante di base è 'interamente materia cerebrale'. La struttura centrale ruota attorno alla tensione tra la descrizione fisica/analizzabile e la descrizione interna/inaccessibile di un'unica realtà materiale."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": [
+      "Fenomenica",
+      "Intenzionalità"
+    ],
+    "distinctive_mechanism_or_principle": "Il principio è incentrato sulla non derivabilità della descrizione soggettiva e interna di una persona da un'analisi completa e oggettiva del suo corpo fisico e del suo cervello, nonostante l'identità ontologica del mentale e del fisico.",
+    "dynamics_of_emergence": "L'attenzione è filosofica e descrittiva, sottolineando la separazione informativa/concettuale tra le descrizioni fisiche e mentali, piuttosto che un meccanismo di sviluppo temporale o sistemico.",
+    "location_and_distribution": "Localizzata unicamente nei corpi e nei cervelli fisici.",
+    "causation_and_functional_role": "La coscienza, in quanto stati intenzionali e stati di sentimento, è materia cerebrale fisica. In quanto visione materialista, gli stati mentali sono causalmente efficaci in quanto stati cerebrali fisici."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Filosofica/Concettuale. La tesi centrale riguarda i limiti intrinseci della scienza descrittiva nell'accedere alla soggettività, il che non è falsificabile con mezzi empirici.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La teoria affronta la tensione intrinseca del materialismo di Tipo B: accettare la tesi ontologica secondo cui la coscienza è interamente fisica, pur affermando un divario esplicativo (epistemico) potenzialmente non colmabile riguardo alla natura dell'esperienza soggettiva.",
+    "open_questions_and_limitations": "Il limite principale è la persistente incapacità della scienza di colmare il divario descrittivo tra gli stati cerebrali e la ricchezza dell'esperienza in prima persona, anche se la realtà sottostante è monistica.",
+    "ontological_coherence": "Altamente coerente all'interno dei quadri fisicalisti che riconoscono il problema difficile come primariamente epistemico, non ontologico, come il materialismo di Tipo B."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "Poiché la teoria è fondamentalmente materialista e respinge le sostanze non materiali, la coscienza dell'IA dovrebbe essere possibile in linea di principio se i sistemi computazionali o fisici possono istanziare le necessarie configurazioni di 'materia cerebrale', anche se l'esperienza soggettiva risultante rimane opaca all'analisi esterna."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è interamente 'materia cerebrale' e inseparabile dal corpo fisico, e la teoria respinge esplicitamente il dualismo, che è spesso associato alla sopravvivenza dopo la morte."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incerto",
+      "rationale": "Pur essendo ontologicamente fisicalista, l'attenzione della teoria per la vita interiore irriducibilmente ricca della persona implica un profondo valore intrinseco nella soggettività, sebbene non imponga uno scopo cosmico o ultimo."
+    },
+    "virtual_immortality": {
+      "stance": "Probabile",
+      "rationale": "Se gli stati consci sono identici agli stati cerebrali fisici (materia cerebrale), allora una duplicazione o un caricamento perfetto di tali stati fisici in un nuovo supporto dovrebbe logicamente preservare il sé mentale originale in prima persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Stoljar’s Epistemic View and Non-Standard Physicalism",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Dualisms",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "Visione contrastante"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why a Mind-Body Problem?",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is consciousness irreducible?",
+        "year": 2011
+      }
+    ]
+  }
+}

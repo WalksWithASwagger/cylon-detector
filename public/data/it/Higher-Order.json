@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Teorie di ordine superiore della coscienza",
+    "summary": "Le teorie di ordine superiore (HOT) sostengono che ciò che rende cosciente una percezione sia la presenza di uno stato cognitivo di accompagnamento relativo a quella percezione. Questo meccanismo è un processo a due livelli in cui la coscienza fenomenica è la rilevazione di livello superiore di percezioni o stati mentali di primo ordine.",
+    "associated_thinkers": [
+      "Peter Carruthers",
+      "David Rosenthal",
+      "Joseph LeDoux",
+      "Hakwan Lau"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Rappresentazionale",
+    "core_identity_tagline": "La coscienza come rappresentazione di ordine superiore",
+    "classification_tags": [
+      "representation",
+      "cognitive",
+      "two-level process",
+      "inner-sense theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza fenomenica è identificata con la rilevazione o rappresentazione di livello superiore (uno stato cognitivo o pensiero) diretta a uno stato mentale o a una percezione di primo ordine.",
+    "ontological_status": "Fisicalismo riduttivo/Funzionalismo (Giustificazione: in quanto teoria materialista, riduce la coscienza a processi funzionali/cognitivi realizzati dal cervello, spesso formulati in termini mentalistici.)",
+    "mind_body_relationship": "La coscienza sorge attraverso la relazione causale tra due livelli mentali (stati di primo ordine e di secondo ordine), entrambi pienamente realizzati da processi fisici nel cervello.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (Giustificazione: in quanto teoria fondamentalmente materialista, si ritiene che la coscienza sia riducibile in linea di principio, anche se la riduzione è formulata in termini mentalistici o funzionali piuttosto che di neurofisiologia diretta.)",
+    "subjectivity_and_intentionality": "La soggettività sorge quando lo stato di primo ordine è l'oggetto di un pensiero di secondo ordine, conferendo una dimensione di «apparire» o di autocoscienza. L'intenzionalità opera su entrambi i livelli: primo ordine (sul mondo) e secondo ordine (sullo stato di primo ordine).",
+    "qualia_account": "I qualia, ovvero il carattere fenomenico, sono spiegati dalla presenza dello stato cognitivo di ordine superiore di accompagnamento relativo alla percezione, con l'obiettivo di spiegare riduttivamente la coscienza fenomenica in termini mentalistici.",
+    "ontological_commitments": "Stati mentali di primo ordine (percezioni/sensazioni), stati cognitivi di secondo ordine (pensieri/rappresentazioni) e reti corticali complesse (ad es. la corteccia prefrontale) che istanziano queste rappresentazioni.",
+    "epistemic_access": "Accessibile tramite l'introspezione (poiché gli stati coscienti sono stati di cui siamo consapevoli) e attraverso la modellizzazione in terza persona delle architetture cognitive e dei pattern di attivazione neurale correlati (ad es. il monitoraggio della realtà percettiva).",
+    "constituents_and_structure": "Una struttura di elaborazione a due livelli costituita da rappresentazioni di primo ordine (informazione sensoriale) e rappresentazioni cognitive di secondo ordine (pensieri o percezioni) dirette a quegli stati di primo ordine."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza fenomenica; Autocoscienza (come consapevolezza dei propri stati); Coscienza emotiva (nella variante di LeDoux).",
+    "distinctive_mechanism_or_principle": "La presenza di uno stato cognitivo o meta-stato di accompagnamento (la rappresentazione o il pensiero di ordine superiore) che prende di mira uno stato mentale di livello inferiore, trasformandolo così da inconscio a cosciente.",
+    "dynamics_of_emergence": "La coscienza è un fenomeno dinamico e processuale che sorge dalla relazione a due livelli tra la rappresentazione sensoriale e la struttura cognitiva di monitoraggio (ad es. la causazione effettiva nelle HOT attualiste, o la disponibilità nelle HOT disposizionaliste).",
+    "location_and_distribution": "Localizzata principalmente in regioni corticali associate alla funzione cognitiva di ordine superiore e alla metacognizione, come la corteccia prefrontale (PFC), in contrasto con le teorie della «parte posteriore della testa».",
+    "causation_and_functional_role": "Lo stato di ordine superiore conferisce coscienza allo stato di livello inferiore (HOT attualista). Il ruolo funzionale è tipicamente rendere il contenuto della percezione di primo ordine disponibile per un'elaborazione cognitiva flessibile e per il resoconto.",
+    "integration_or_binding": "Si presume che l'integrazione avvenga, forse implicitamente attraverso l'integrazione funzionale resa possibile dalla rappresentazione unificata di ordine superiore, oppure attraverso meccanismi di memoria che collegano le rappresentazioni percettive (come rilevato nella variante di Lau).",
+    "information_flow_or_representation": "La coscienza è realizzata da un flusso di informazione che dà luogo a rappresentazioni di rappresentazioni (rappresentazioni di secondo ordine), le quali «etichettano» o categorizzano l'input sensoriale di primo ordine.",
+    "evolutionary_account": "I meccanismi coscienti si sono evoluti da processi più semplici, rendendo potenzialmente possibili esperienze emotive complesse e una consapevolezza incentrata sul sé attraverso reti generali di cognizione a base corticale.",
+    "core_claims_and_evidence": [
+      "La coscienza fenomenica è mediata da uno stato cognitivo relativo alla percezione (processo a due livelli).",
+      "Gli stati coscienti si distinguono dagli stati inconsci per la presenza di una rappresentazione di ordine superiore.",
+      "La visione cieca (blindsight) è spiegata dall'esistenza di una rappresentazione di primo ordine priva della corrispondente rappresentazione di ordine superiore."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofica (spiega la distinzione conscio/inconscio), Cognitiva, Modellizzazione neuroscientifica (ad es. studi sulla visione cieca)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente verificabile (in particolare riguardo alla differenza tra elaborazione di primo ordine e corrispondente attività di ordine superiore nella corteccia).",
+    "known_empirical_interventions_or_tests": "L'evidenza empirica è spesso ricercata attraverso confronti tra percezione cosciente e inconscia (come nella visione cieca) per verificare l'esistenza o l'attività della necessaria rappresentazione di ordine superiore.",
+    "criticisms_and_tensions": "Criticata per la difficoltà di specificare l'esatta relazione richiesta tra il pensiero di ordine superiore e la percezione di primo ordine affinché venga conferita coscienza, il che porta a inadeguatezze nella descrizione del contenuto. L'approccio della «doppia rappresentazione» è considerato concettualmente misterioso.",
+    "open_questions_and_limitations": "La natura precisa della relazione che deve sussistere tra uno stato di ordine superiore e una percezione di primo ordine affinché sorga la coscienza rimane una questione aperta. Essa affronta inoltre l'obiezione generale relativa all'abisso esplicativo per i qualia.",
+    "ontological_coherence": "Altamente coerente all'interno di un'ontologia fisicalista/materialista e funzionalista, basandosi su concetti scientificamente trattabili come la rappresentazione e gli stati cognitivi."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "In quanto teoria materialista basata su strutture cognitive e rappresentazionali, la coscienza è fondamentalmente computazionale o funzionale, il che significa che sistemi di IA avanzati capaci di auto-monitoraggio e di formare rappresentazioni di alto livello potrebbero raggiungere la coscienza."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è realizzata interamente da meccanismi cerebrali complessi a base corticale; pertanto non può persistere oltre il disfacimento del substrato biologico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "Sorgendo da processi biologici emergenti, la coscienza fornisce autoriflessione e agentività ma non implica alcuna teleologia cosmica ultima, in linea con la posizione deflazionistica del Materialismo."
+    },
+    "virtual_immortality": {
+      "stance": "Probabile",
+      "rationale": "Se la coscienza è interamente definita da relazioni rappresentazionali e funzionali, una duplicazione perfetta e un caricamento di questi complessi stati cognitivi su un supporto non biologico dovrebbe preservare il sé mentale in prima persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "Estensione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Higher-Order Theories of Consciousness, Peter Carruthers",
+        "year": 2020
+      },
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, Joseph LeDoux and Richard Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      }
+    ]
+  }
+}

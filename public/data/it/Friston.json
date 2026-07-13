@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Il principio dell'energia libera e l'inferenza attiva di Friston",
+    "summary": "Questa teoria concettualizza la coscienza come un processo naturale che sorge dalla minimizzazione dell'‘energia libera', ossia la differenza tra il modello interno di un organismo (le aspettative percettive) e gli input sensoriali in tempo reale. La coscienza, pertanto, funziona come il meccanismo evoluto per simulare scenari del mondo e ridurre l'errore di predizione al fine di garantire la sopravvivenza e mantenere l'omeostasi.",
+    "associated_thinkers": [
+      "Karl Friston"
+    ],
+    "category": "Teorie del Materialismo",
+    "subcategory": "Omeostatico e Affettivo",
+    "core_identity_tagline": "La coscienza come inferenza attiva e sorpresa minimizzata",
+    "classification_tags": [
+      "active inference",
+      "free energy",
+      "predictive processing",
+      "process theory",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come un processo naturale di inferenza, in particolare il modello emergente interno che monitora e minimizza il principio dell'energia libera (la sorpresa), ottimizzando così le capacità rappresentazionali dei sistemi fisici/cerebrali.",
+    "ontological_status": "Fisicalismo; spesso indicato come monismo markoviano, che considera la distinzione mente/materia come dialettica piuttosto che ontologica.",
+    "mind_body_relationship": "Monistica/Identità. La teoria propone che la coscienza sia l'esito naturale dei processi auto-organizzanti del sistema fisico/cerebrale, dissolvendo le consuete dialettiche tra mente e materia.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole. La coscienza è vista come nulla di più e nulla di meno di un processo naturale (come l'evoluzione o il tempo atmosferico) che sorge da sistemi fisici complessi e auto-organizzanti.",
+    "subjectivity_and_intentionality": "La soggettività (prospettiva in prima persona) è inquadrata dalla geometria informativa indotta quando gli stati interni di un sistema possono essere distinti dagli stati esterni (monismo markoviano). L'intenzionalità si riflette nel processo di inferenza attiva, che comporta l'inferire le cause degli stati sensoriali e il navigare nel mondo.",
+    "qualia_account": "La teoria è fortemente deflazionista riguardo al problema difficile, trattando la coscienza come un processo da comprendere piuttosto che come una 'cosa' i cui attributi qualitativi necessitino di definizione. I qualia, se riconosciuti, sarebbero epifenomeni o aspetti del modello generativo interno richiesto per l'inferenza.",
+    "ontological_commitments": "Sistemi fisici/cerebrali, sistemi complessi auto-organizzanti, geometrie informative intrinseche ed estrinseche, e il concetto di inferenza/processo.",
+    "epistemic_access": "La coscienza è conosciuta e studiata attraverso la formalizzazione matematica del principio dell'energia libera, che consente un'analisi oggettiva dei processi che danno origine alla nozione di coscienza.",
+    "constituents_and_structure": "Modelli generativi interni (gerarchia del processamento predittivo) che operano sulla base dell'equilibrio dinamico e degli attrattori nei sistemi auto-organizzanti."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica (come meccanismo evoluto), Percezione, Azione, Inferenza, Sopravvivenza.",
+    "distinctive_mechanism_or_principle": "Il principio dell'energia libera (FEP), secondo cui tutti i sistemi auto-organizzanti devono minimizzare l'energia libera (o 'sorpresa'), guidando l'azione e la percezione tramite l'inferenza attiva.",
+    "dynamics_of_emergence": "Processo dinamico. La coscienza emerge quando l'auto-evidenziazione (il processo con cui i sistemi raggiungono la stabilità tramite gli attrattori) acquisisce 'spessore temporale' o 'profondità controfattuale', consentendo inferenze su azioni future.",
+    "location_and_distribution": "Localizzata nel sistema cerebrale fisico; le risposte corticali sono viste come il tentativo del cervello di minimizzare l'energia libera.",
+    "causation_and_functional_role": "La coscienza svolge un ruolo adattativo e funzionale come meccanismo evoluto per simulare scenari, monitorare e minimizzare l'energia libera al fine di promuovere la sopravvivenza (omeostasi) e navigare nel mondo.",
+    "integration_or_binding": "L'integrazione è implicita nella costruzione di un singolo modello emergente interno che predice il mondo esterno e minimizza la sorpresa/errore di predizione globale.",
+    "information_flow_or_representation": "L'elaborazione dell'informazione è strutturata attorno alla predizione, in cui i modelli interni (le aspettative percettive) sono confrontati con l'input sensoriale, e l'apprendimento si basa sulla minimizzazione dell'energia libera del cervello.",
+    "evolutionary_account": "La coscienza è un meccanismo evoluto che sorge dall'imperativo biologico fondamentale di minimizzare l'errore di predizione e regolare la fisiologia corporea (sopravvivenza).",
+    "core_claims_and_evidence": [
+      "La coscienza è l'esito naturale del principio dell'energia libera per l'azione e la percezione (inferenza attiva).",
+      "Minimizzare la sorpresa è cruciale perché il non farlo minaccia l'esistenza del sistema.",
+      "La coscienza è inferenza sul proprio futuro, basata su un modello interno di come sono generate le sensazioni.",
+      "Il marchio metafisico della teoria è il monismo markoviano, che mira a dissolvere la dialettica mente-materia."
+    ],
+    "basis_of_belief_or_evidence_type": "Computazionale, Matematica, Neuroscienza/Fisica teorica."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Collegata concettualmente ed empiricamente a modelli testabili (ad es. in neurobiologia e psicologia) attraverso la sua dipendenza dalla formalizzazione delle capacità rappresentazionali dei sistemi fisici.",
+    "known_empirical_interventions_or_tests": "I principi del FEP costituiscono la base di modelli utilizzati nel lavoro empirico riguardante gli stati alterati (ad es. l'ipotesi del cervello entropico sotto psichedelici) e teorie correlate della percezione e della cognizione.",
+    "criticisms_and_tensions": "Criticata per essere fortemente deflazionista e difficile da conciliare con la realtà in prima persona dell'esperienza fenomenica (il problema difficile), considerando la coscienza meramente come un processo matematico o un 'esito naturale'. Friston trova difficile confrontarsi con la premessa filosofica della coscienza come 'cosa'.",
+    "open_questions_and_limitations": "La teoria affronta la sfida di spiegare come un processo naturale di minimizzazione dell'inferenza dia origine alla *nozione* o all'*illusione* che l'esperienza soggettiva esista, senza definire la coscienza come una 'cosa'.",
+    "ontological_coherence": "Elevata. La teoria è internamente coerente, utilizzando il monismo markoviano per integrare i processi mentali e la materia fisica in un quadro descrittivo unificato."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sì",
+      "rationale": "In quanto teoria materialista forte, se la coscienza è pienamente spiegata da processi computazionali di inferenza e minimizzazione della rappresentazione, allora i sistemi non biologici capaci di eseguire tali processi devono in linea di principio raggiungere infine la coscienza."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è un processo naturale emergente legato direttamente alle dinamiche funzionali e al substrato fisico del cervello biologico; pertanto, non può sopravvivere alla decomposizione corporea."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "L'imperativo fondante del processo cosciente è la sopravvivenza (minimizzare la sorpresa/mantenere l'omeostasi). La teoria non razionalizza alcun significato o scopo cosmico ultimo, in linea con le prospettive materialiste generali."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Poiché la coscienza è intesa come un processo emergente e formalizzato di ottimizzazione dell'inferenza, la duplicazione perfetta dell'elaborazione dell'informazione e delle dinamiche rappresentazionali del cervello in un supporto non biologico dovrebbe essere sufficiente per la continuazione del sé mentale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Clark's Predictive Processing",
+        "relationship": "Influenza"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Carhart-Harris’s Entropic Brain Hypothesis",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Projective Consciousness Model",
+        "relationship": "Estensione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A theory of cortical responses, K. Friston",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Active interference: a process theory, K. Friston et al",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Mathematics of Mind-Time, K. Friston",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Sentience and the origins of consciousness: from cartesian duality to markovian monism, K. Friston, W. Wiese, J.A. Hobson",
+        "year": 2020
+      }
+    ]
+  }
+}

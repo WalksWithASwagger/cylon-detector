@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Il neurofunzionalismo di Prinz: l'attenzione genera l'esperienza",
+    "summary": "Questa teoria sostiene che la coscienza sorga dall'attenzione, la quale favorisce il flusso dell'informazione percettiva verso i sistemi di memoria a uno stadio intermedio dell'elaborazione. Questo processo si basa fondamentalmente sull'attivazione neurale sincronizzata e dà luogo a una rappresentazione integrata dello stimolo che conserva il punto di vista.",
+    "associated_thinkers": ["Jesse Prinz"],
+    "category": "Materialismo",
+    "subcategory": "Neurobiologico",
+    "core_identity_tagline": "La coscienza come rappresentazione intermedia oggetto di attenzione",
+    "classification_tags": [
+      "attention",
+      "neurofunctionalism",
+      "perceptual",
+      "representational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata con il processo per cui una rappresentazione integrata di uno stimolo, che conserva il punto di vista, diventa disponibile alla memoria di lavoro grazie al meccanismo dell'attenzione.",
+    "ontological_status": "Fisicalismo riduttivo",
+    "mind_body_relationship": "Prinz propone una «risposta neurofunzionale» al problema mente-corpo, combinando i ruoli funzionali con la loro realizzazione neurobiologica sottostante, così che gli stati mentali siano interamente contenuti nel materialismo.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole",
+    "subjectivity_and_intentionality": "La soggettività è intrinseca al «formato che conserva il punto di vista» della rappresentazione resa disponibile dal processo attentivo. Ogni coscienza è percettiva, il che significa che l'intenzionalità (la direzionalità) è cruciale, ma l'autocoscienza non è esperita direttamente.",
+    "qualia_account": "La teoria tenta di sintetizzare i risultati empirici per offrire una spiegazione materialista completa che contrasti il problema difficile. I qualia sono spiegati come le rappresentazioni integrate risultanti dal processo attentivo.",
+    "ontological_commitments": "Attivazione neurale sincronizzata, stadi dell'elaborazione percettiva e rappresentazioni dell'informazione.",
+    "epistemic_access": "Accessibile attraverso l'esplorazione e la modellizzazione empiriche fondate sulle neuroscienze, combinando dati funzionali e neurobiologici.",
+    "constituents_and_structure": "I componenti fondamentali sono rappresentazioni integrate a uno stadio intermedio dell'elaborazione, vincolate e rese possibili dall'attivazione neurale sincronizzata."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica, Percettiva.",
+    "distinctive_mechanism_or_principle": "L'attenzione, che modifica il flusso dell'informazione usando l'attivazione neurale sincronizzata per rendere disponibili ai sistemi di memoria le rappresentazioni intermedie dell'informazione percettiva.",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico che sorge quando l'informazione percettiva raggiunge lo specifico stadio «intermedio» ed è oggetto dell'azione del meccanismo attentivo.",
+    "location_and_distribution": "Localizzata a uno specifico stadio intermedio dell'elaborazione percettiva.",
+    "causation_and_functional_role": "La coscienza è causalmente efficace, svolgendo la funzione di rendere prontamente disponibile l'informazione percettiva ai sistemi che consentono un comportamento flessibile.",
+    "integration_or_binding": "L'integrazione è ottenuta dal processo attentivo, che unifica le proprietà dello stimolo in un unico formato, che conserva il punto di vista, accessibile alla memoria di lavoro.",
+    "information_flow_or_representation": "Il flusso dell'informazione è modificato dall'attenzione per concedere l'accesso ai sistemi di memoria, e la coscienza si basa interamente su rappresentazioni integrate.",
+    "evolutionary_account": "La coscienza si è evoluta per rendere l'informazione percettiva disponibile ai sistemi per un comportamento flessibile, fornendo un vantaggio adattivo. (Giustificazione: basata sulla funzione esplicitamente enunciata della coscienza nel consentire un comportamento flessibile.)",
+    "core_claims_and_evidence": [
+      "La coscienza dipende dall'attenzione e sorge allo stadio intermedio dell'elaborazione percettiva.",
+      "Questo processo si basa sull'attivazione neurale sincronizzata.",
+      "Ogni esperienza cosciente è percettiva e serve a consentire un comportamento flessibile.",
+      "La teoria offre una spiegazione completa all'interno del materialismo, risolvendo il problema difficile di Chalmers."
+    ],
+    "basis_of_belief_or_evidence_type": "Neuroscientifico, Funzionale, Filosofico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente verificabile",
+    "known_empirical_interventions_or_tests": "La teoria è supportata da prove che collegano l'attivazione neurale sincronizzata all'unità e alla durata temporale dell'esperienza, il che funge da base per le sue affermazioni neurobiologiche.",
+    "criticisms_and_tensions": "L'affermazione di Prinz di una «teoria soddisfacente e sorprendentemente completa» interamente all'interno del materialismo è respinta da critici come David Chalmers, i quali sostengono che nessuna spiegazione puramente fisica possa rendere conto dell'esperienza cosciente.",
+    "open_questions_and_limitations": "Il limite centrale, affrontato dalla teoria stessa, è convincere i critici (come Chalmers) che una descrizione puramente funzionale e neurobiologica basti a spiegare l'esperienza fenomenica, nonostante gli argomenti filosofici contro il fisicalismo.",
+    "ontological_coherence": "Altamente coerente, poiché fonde esplicitamente funzionalismo e neurobiologia in un quadro materialista consistente, con l'obiettivo di risolvere le tradizionali sfide dualiste."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "Poiché la teoria identifica la coscienza con uno specifico processo neurofunzionale di rendere l'informazione disponibile alla memoria tramite l'attenzione, questa funzione computazionale dovrebbe essere realizzabile in sistemi non biologici sufficientemente avanzati."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "In quanto teoria interamente contenuta nel materialismo, la coscienza dipende pienamente dall'organizzazione e dai processi biologici del cervello (ad es. l'attivazione neurale sincronizzata) ed è da essi generata, e cessa con la distruzione del cervello."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "La funzione della coscienza è pragmatica—rendere l'informazione percettiva disponibile per un comportamento flessibile. Opera all'interno di un paradigma materialista, il quale tipicamente comporta che significato e scopo siano autocreati, non cosmici."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Dato il suo fondamento nel neurofunzionalismo e il suo obiettivo di una spiegazione materialista completa, la perfetta duplicazione funzionale del sistema rappresentazionale basato sull'attenzione in un substrato non biologico dovrebbe preservare il sé cosciente originario in prima persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Chalmers’s hard problem of consciousness",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Sovrapposizione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Brain: How Attention Engenders Experience, Jesse J. Prinz",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The conscious brain, Christopher Mole",
+        "year": 2013
+      }
+    ]
+  }
+}

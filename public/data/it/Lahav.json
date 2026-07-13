@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "La teoria relativistica di Lahav",
+    "summary": "Questa teoria caratterizza la coscienza come un fenomeno fisico relativo alle misurazioni compiute da un «sistema di riferimento cognitivo». Analogamente alla velocità in fisica, osservatori diversi che operano in sistemi cognitivi diversi manifesteranno proprietà fisiche diverse (consapevolezza cosciente per sé stessi rispetto all'attività cerebrale misurata per un altro) osservando lo stesso fenomeno.",
+    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "category": "Materialismo",
+    "subcategory": "Relazionale",
+    "core_identity_tagline": "La coscienza come fenomeno fisico relativo a un sistema di riferimento cognitivo",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Le esperienze coscienti sono identificate come scaturenti dal processo di misurazione fisica relativo a un «sistema di riferimento cognitivo».",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Il rapporto è relativistico: lo stesso fenomeno sottostante si manifesta come consapevolezza cosciente (dal sistema interno) o come attività cerebrale (da un sistema esterno) a seconda del contesto di misurazione. Ciò suggerisce un'identità o una correlazione dipendente dal sistema di riferimento.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Non esplicitamente dettagliata, ma verosimilmente emergenza debole, poiché si basa su principi fisici stabiliti (o analoghi) (relatività, misurazione) anziché postulare nuove leggi fondamentali per l'esistenza della coscienza stessa.",
+    "subjectivity_and_intentionality": "La soggettività è inerente alla definizione stessa del «sistema di riferimento cognitivo»; due persone, trovandosi in sistemi cognitivi diversi, sperimentano la coscienza in modo diverso. L'intenzionalità (la direzionalità del pensiero) non è affrontata esplicitamente nelle fonti fornite.",
+    "qualia_account": "I qualia sono implicitamente resi conto come proprietà fisiche soggettive manifestate all'interno di uno specifico sistema di riferimento cognitivo, sebbene la natura qualitativa intrinseca dell'esperienza stessa non sia dettagliata.",
+    "ontological_commitments": "Realtà fisica, processi di misurazione fisica e un «sistema di riferimento cognitivo» tratto per analogia dalla fisica relativistica.",
+    "epistemic_access": "L'accesso dipende dal sistema di riferimento: all'interno del proprio sistema cognitivo si sperimenta la consapevolezza cosciente; da un sistema cognitivo separato si può misurare soltanto l'attività cerebrale.",
+    "constituents_and_structure": "La coscienza è strutturata dal processo stesso di misurazione fisica, il che dà luogo a proprietà o manifestazioni fisiche diverse a seconda del sistema di riferimento."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consapevolezza cosciente, manifestazione fisica delle proprietà.",
+    "distinctive_mechanism_or_principle": "Il principio secondo cui la coscienza è relativa alla misurazione fisica in un sistema di riferimento cognitivo, anziché essere creata da computazioni.",
+    "dynamics_of_emergence": "La coscienza scaturisce dinamicamente dal processo di misurazione fisica. Misurazioni fisiche diverse in sistemi di riferimento diversi producono manifestazioni diverse dell'esperienza cosciente e dell'attività cerebrale.",
+    "location_and_distribution": "Localizzata relativamente al «sistema di riferimento cognitivo» dell'osservatore.",
+    "causation_and_functional_role": "Le esperienze coscienti scaturiscono «a causa» del processo stesso di misurazione fisica. La coscienza non scaturisce da processi computazionali compiuti dal cervello.",
+    "integration_or_binding": "Non affrontato esplicitamente, ma si assume che sia unificato all'interno di un singolo sistema di riferimento cognitivo.",
+    "information_flow_or_representation": "Si osserva esplicitamente che l'elaborazione dell'informazione (computazione) *non* è l'origine delle esperienze coscienti; la coscienza scaturisce dal processo sottostante di misurazione fisica.",
+    "evolutionary_account": "Questo campo non è affrontato nel materiale di riferimento fornito.",
+    "core_claims_and_evidence": [
+      "La coscienza è un fenomeno fisico relativo alle misurazioni di un sistema di riferimento cognitivo.",
+      "Le esperienze coscienti scaturiscono a causa del processo di misurazione fisica.",
+      "Il cervello non crea le esperienze coscienti attraverso computazioni."
+    ],
+    "basis_of_belief_or_evidence_type": "Argomento concettuale/teorico basato sull'analogia con la fisica (relatività)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente testabile, poiché la teoria si occupa di definire i fenomeni fisici e la misurazione, sebbene la verifica empirica dipenda dallo sviluppo di meccanismi per testare l'analogia del sistema cognitivo.",
+    "known_empirical_interventions_or_tests": "Nelle fonti non sono elencati interventi o test empirici specifici.",
+    "criticisms_and_tensions": "La fonte fornisce una descrizione, non una sezione di critica. Una potenziale tensione risiede nel tradurre l'analogia della relatività fisica (come la velocità) in processi cognitivi o neurobiologici verificabili e non metaforici.",
+    "open_questions_and_limitations": "La precisa istanziazione fisica o neurale e la definizione del «sistema di riferimento cognitivo» rimangono una questione aperta.",
+    "ontological_coherence": "Coerente entro un quadro fisicalista che consente alle proprietà fisiche fondamentali di essere relative a un osservatore o a un processo di misurazione."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condizionale",
+      "rationale": "Poiché la teoria sostiene che la coscienza scaturisca dalla misurazione fisica e non dalla computazione, i sistemi di IA richiederebbero processi di misurazione fisica non computazionali che costituiscano un sistema di riferimento cognitivo, il che la rende condizionata a un'implementazione hardware che vada oltre la semplice computazione."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "Questo campo non è affrontato nel materiale di riferimento fornito."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "Questo campo non è affrontato nel materiale di riferimento fornito."
+    },
+    "virtual_immortality": {
+      "stance": "Improbabile",
+      "rationale": "Poiché la coscienza è non computazionale e dipendente dal processo di misurazione fisica, l'immortalità virtuale standard (il caricamento di software/dati) è improbabile, sebbene la duplicazione fisica del sistema fisico relativistico possa essere teoricamente possibile."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories of consciousness",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Computational Theories of Mind",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "Influenza"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}

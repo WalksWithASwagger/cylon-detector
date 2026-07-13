@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "L'identità mente-cervello di Papineau",
+    "summary": "Questa teoria difende un fisicalismo neurobiologico sostenendo che gli stati coscienti siano fondamentalmente e letteralmente identici a specifici stati cerebrali. Afferma che questa identità è scoperta a posteriori tramite inferenza scientifica, sostenendo che il perenne 'divario esplicativo' sia un artefatto fuorviante di intuizioni dualiste profondamente radicate.",
+    "associated_thinkers": ["David Papineau"],
+    "category": "Materialismo",
+    "subcategory": "Filosofico",
+    "core_identity_tagline": "«La coscienza come fondamentale identità mente-cervello»",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "abduction",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Gli stati coscienti (come il dolore) sono rigorosamente identici a specifici stati cerebrali fisici (come la scarica neuronale in una particolare area). Non sono meramente causati o generati da tali stati fisici.",
+    "ontological_status": "Fisicalismo riduttivo (forte identità mente-cervello)",
+    "mind_body_relationship": "Teoria dell'identità stretta. Gli stati mentali sono fisicamente identici a certi stati neuronali; la loro relazione è di fatto (identità a posteriori).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole. Poiché gli stati mentali sono identici a stati fisici, essi sono in ultima analisi riducibili o spiegabili tramite leggi fisiche, anche se l'identità deve essere scoperta empiricamente (a posteriori).",
+    "subjectivity_and_intentionality": "La soggettività (la sensazione del «com'è») è semplicemente una proprietà dello stato cerebrale fisico stesso, ossia ciò che si 'sente' quando esso è istanziato. L'intenzionalità è ereditata attraverso la funzione fisica dello stato cerebrale identificato.",
+    "qualia_account": "I qualia sono identici alle proprietà fisiche sottostanti dello stato cerebrale. Il mistero che circonda i qualia è attribuito a un fuorviante 'pensiero dualista spontaneo' che separa erroneamente la sensazione dallo stato fisico.",
+    "ontological_commitments": "Stati fisici; specifici processi neurali; la chiusura causale del regno fisico.",
+    "epistemic_access": "Accesso a posteriori attraverso l'osservazione scientifica ed empirica, fondato su un'inferenza abduttiva a partire dalle correlazioni (rilevando che due cose si trovano sempre nello stesso luogo nello stesso momento).",
+    "constituents_and_structure": "La coscienza è costituita da complessi stati organizzativi della materia biologica, specificamente definiti dalla precisa scarica di sottoinsiemi di neuroni (ad esempio, neuroni nocicettivo-specifici)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica, soggettività, efficacia causale.",
+    "distinctive_mechanism_or_principle": "La chiusura causale del fisico garantisce che gli eventi mentali debbano essere eventi fisici. L'identità è confermata da correlazioni a posteriori riuscite, stabilite dalle neuroscienze.",
+    "dynamics_of_emergence": "La coscienza è una caratteristica permanente dello stato cerebrale fisico identificato, il che dissolve le domande sul perché o sul come i due 'vadano insieme'.",
+    "location_and_distribution": "Localizzata in specifici stati cerebrali (ad esempio, pattern di scarica neurale nei sistemi nocicettivi), benché l'identità si applichi in senso ampio a tutte le teorie materialiste e fisicaliste.",
+    "causation_and_functional_role": "La coscienza è causalmente efficace perché è uno stato fisico che obbedisce alla chiusura causale della fisica. La sua funzione è intrinseca al comportamento fisico dello stato cerebrale identificato.",
+    "integration_or_binding": "Implicitamente conseguita dal fatto che l'esperienza, benché complessa, corrisponde a un unico evento fisico sottostante definibile (ad esempio, il dolore unificato corrisponde alla complessa scarica neuronale nocicettiva).",
+    "information_flow_or_representation": "I concetti fenomenici usati per descrivere la coscienza (i resoconti in prima persona) sono considerati vaghi e imprecisi, e spesso offuscano la sottostante essenza materiale che la scienza cerca di identificare.",
+    "evolutionary_account": "Non esplicitamente dettagliato, ma implicato dal suo fondamento nel fisicalismo neurobiologico e dall'accettazione di dati di correlazione derivati da organismi biologici.",
+    "core_claims_and_evidence": [
+      "Gli stati coscienti sono radicalmente identici a stati fisici, il che significa che non possono concettualmente 'separarsi'.",
+      "L'enigma della coscienza si risolve respingendo i presupposti dualisti che alimentano il 'divario esplicativo'.",
+      "Gli zombie filosofici sono metafisicamente impossibili, benché concepibili a causa della vaghezza dei concetti fenomenici.",
+      "Le identità mente-cervello sono stabilite osservando forti correlazioni spazio-temporali e potere esplicativo attraverso l'abduzione."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico, empirico, abduttivo"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente verificabile (condizionale). Si fonda sul reperimento di rigorose prove neuroscientifiche a sostegno delle affermazioni di identità, benché la vaghezza dei concetti fenomenici renda difficile definire il necessario correlato fisico.",
+    "known_empirical_interventions_or_tests": "Studi correlazionali che collegano specifici e complessi stati cerebrali (ad esempio, pattern di scarica neuronale misurati) con le corrispondenti esperienze soggettive (ad esempio, resoconti di dolore).",
+    "criticisms_and_tensions": "I critici sostengono che l'argomento si limiti a presupporre la validità del fisicalismo anziché dimostrare l'identità. La teoria è vulnerabile all'obiezione secondo cui persino una conoscenza perfetta dei correlati fisici non rende logicamente necessaria la sensazione soggettiva (l'argomento della conoscenza).",
+    "open_questions_and_limitations": "La natura vaga dei concetti soggettivi (fenomenici) impedisce l'identificazione rigorosa di un'unica, precisa essenza materiale per un dato stato cosciente (una 'chimera').",
+    "ontological_coherence": "Altamente coerente internamente e perfettamente compatibile con i principi standard dell'ontologia materialista/fisicalista riduttiva, specialmente la chiusura causale della fisica."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sì",
+      "rationale": "Se gli stati coscienti sono fondamentalmente identici a specifiche configurazioni di materia e processo, allora tali stati devono essere riproducibili in qualsiasi supporto capace di realizzare le necessarie configurazioni e complessità fisiche, compresi i sistemi artificiali."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza dipende rigorosamente da, ed è identica a, la specifica organizzazione dei processi cerebrali biologici. La sua persistenza è impossibile dopo la cessazione irreversibile di quel sistema fisico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "In quanto teoria radicata in un fisicalismo rigoroso, considera la mente un prodotto di processi naturali, senza fornire alcuna base per un significato o uno scopo cosmico o trascendente al di là di quello creato dall'agentività umana."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Poiché la coscienza è la specifica organizzazione fisica del cervello, la duplicazione perfetta (il caricamento) di questa struttura in un nuovo substrato fisico è, in linea di principio, sufficiente a preservare l'identità cosciente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "David Chalmers' Hard Problem",
+        "relationship": "Critica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Papineau, D., The problem of consciousness",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Papineau, D., We must shed our metaphysical assumptions",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Papineau, D., Could there be a science of consciousness?",
+        "year": 2003
+      }
+    ]
+  }
+}

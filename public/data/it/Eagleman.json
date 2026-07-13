@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Il possibilianismo di Eagleman",
+    "summary": "Questa prospettiva sostiene un'apertura intellettuale (possibilianismo) riguardo alla coscienza, respingendo i dogmi metafisici rigidi. Sul piano meccanicistico, considera la coscienza come una rappresentazione altamente astratta e di alto livello (simile a un amministratore delegato) che filtra i massicci processi neurali sottostanti, servendo principalmente a monitorare il successo degli obiettivi e a intervenire durante eventi sorprendenti. La teoria sottolinea che, sebbene la mente dipenda integralmente dal cervello, la natura dell'esperienza soggettiva (qualia) rimane un mistero profondo, forse concettualmente insolubile.",
+    "associated_thinkers": [
+      "David Eagleman"
+    ],
+    "category": "Teorie di Sfida",
+    "subcategory": "",
+    "core_identity_tagline": "‘La coscienza come rappresentazione astratta di alto livello’",
+    "classification_tags": [
+      "possibilianism",
+      "abstraction",
+      "mysterianism",
+      "functionalism",
+      "skepticism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come una rappresentazione astratta e di alto livello dell'attività neurale sottostante, necessaria per riassumere la complessità e stabilire obiettivi a lungo termine.",
+    "ontological_status": "Possibilianismo agnostico. Riconosce il forte legame empirico con il fisicalismo, ma rimane aperto a spiegazioni alternative (non materialiste) a causa della difficoltà concettuale del problema difficile.",
+    "mind_body_relationship": "Dipendenza integrale. La coscienza dipende integralmente dal cervello, come dimostrato dagli effetti del danno cerebrale, ma la relazione di dipendenza è esplicitamente lasciata come questione aperta (ossia, necessità vs. sufficienza).",
+    "primitive_or_emergent_status": "Emergente/Incerto. La coscienza è descritta come qualcosa che poggia sopra un macchinario complesso, il che implica emergenza, sebbene il 'carattere' soggettivo sia considerato un mistero irrisolto che potrebbe mettere in discussione una pura emergenza.",
+    "emergence_type": "Incerto. Sebbene la correlazione osservata implichi un'emergenza da processi fisici, l'incapacità di spiegare concettualmente come sorga il carattere qualitativo suggerisce la possibile necessità di fattori non materiali qualora il materialismo si rivelasse insufficiente.",
+    "subjectivity_and_intentionality": "La soggettività (il 'carattere') è riconosciuta come il mistero centrale che l'attuale scienza e matematica non riescono a spiegare. L'intenzionalità è implicitamente gestita dalle rappresentazioni astratte di alto livello legate al monitoraggio degli stati degli obiettivi (ad esempio, successo/fallimento).",
+    "qualia_account": "I qualia (l'esperienza interiore) sono riconosciuti come fondamentalmente misteriosi, privi di qualsiasi spiegazione teorica attuale. L'incapacità di colmare concettualmente il divario tra processi fisici ed esperienza qualitativa è evidenziata come un limite cruciale per tutte le teorie attuali.",
+    "ontological_commitments": "Si impegna sull'esistenza di un massiccio substrato neurale e di rappresentazioni astratte di alto livello. A causa del mistero dei qualia, mantiene un'apertura intellettuale riguardo alla possibilità di elementi aggiuntivi, attualmente ignoti, fisici o non fisici.",
+    "epistemic_access": "La coscienza è vissuta come un'astrazione di alto livello (in prima persona). È accessibile scientificamente tramite la correlazione con gli stati cerebrali (in terza persona), in particolare quando un danno colpisce l'esperienza cosciente.",
+    "constituents_and_structure": "Livelli successivi di astrazione costruiti su un macchinario neurale complesso sottostante, strutturati per fornire un riassunto di alto livello necessario per la guida e l'intervento."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Accesso (come riassunto astratto), Agentività (funzione da amministratore delegato), Fenomenale (come mistero/sfida irriducibile).",
+    "distinctive_mechanism_or_principle": "Il 'Modello dell'amministratore delegato' o 'astrazione di alto livello', in cui la coscienza funziona come un manager interessato solo agli esiti complessi e alla definizione di obiettivi a lungo termine, ignorando generalmente il macchinario di basso livello sottostante a meno di non essere sorpreso.",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico che sorge da livelli successivi di astrazione all'interno del cervello, concentrandosi su un'elaborazione efficiente piuttosto che sull'integrazione di dati grezzi.",
+    "location_and_distribution": "Localizzata nel cervello, con l'attività che poggia 'sopra un'enorme quantità di macchinario', il che suggerisce una dipendenza da sistemi neurali altamente organizzati.",
+    "causation_and_functional_role": "La coscienza consente il processo decisionale, la pianificazione e il monitoraggio del raggiungimento degli obiettivi di alto livello (ad esempio, successo o fallimento), svolgendo una funzione adattiva concentrando le risorse quando gli esiti sono incerti o sorprendenti.",
+    "integration_or_binding": "L'integrazione avviene attraverso la creazione di rappresentazioni astratte e di alto livello, sintetizzando enormi quantità di attività sottostante in riassunti coesi e semplici.",
+    "information_flow_or_representation": "L'informazione è fortemente filtrata e astratta in rappresentazioni di alto livello, riducendo la 'tempesta di fulmini dell'attività neurale' in riassunti semplici e funzionali.",
+    "evolutionary_account": "La funzione di astrazione si è probabilmente evoluta per aumentare l'efficienza e la fitness minimizzando il carico computazionale e concentrando l'attenzione solo sull'informazione di ordine superiore necessaria o sulle anomalie.",
+    "core_claims_and_evidence": [
+      "La coscienza è una rappresentazione astratta e di alto livello (Modello dell'amministratore delegato).",
+      "La coscienza è profondamente misteriosa; non riusciamo ancora a immaginare una teoria che spieghi il 'carattere'.",
+      "La mente dipende integralmente dal cervello (sostenuto da prove cliniche di danno cerebrale)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirico (neuroscienze), Concettuale, Filosofico (Agnostico/Possibiliano)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Parzialmente verificabile empiricamente per quanto riguarda il modello dell'astrazione funzionale (ruolo di amministratore delegato) e i suoi correlati neurali, ma il problema filosofico centrale del carattere soggettivo è ritenuto concettualmente intrattabile.",
+    "known_empirical_interventions_or_tests": "Osservazione di correlazioni tra cambiamenti nella biologia (ad esempio, danno cerebrale) e cambiamenti nello stato cosciente, che confermano la dipendenza.",
+    "criticisms_and_tensions": "I critici notano che la posizione è una diagnosi del problema piuttosto che una soluzione, offrendo apertura filosofica senza prescrizione scientifica. È fondamentalmente scettica riguardo alle attuali affermazioni riduzioniste.",
+    "open_questions_and_limitations": "Il limite principale è il 'Problema difficile': perché l'astrazione di alto livello si accompagna a un vissuto? Non si sa se l'assenza di una soluzione sia un fallimento dell'immaginazione o una falsificazione del materialismo.",
+    "ontological_coherence": "Coerente all'interno del quadro possibiliano, poiché incorpora fedelmente sia i vincoli empirici (dipendenza dal cervello) sia il riconosciuto divario concettuale/esplicativo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile (condizionata)",
+      "rationale": "Se la coscienza è principalmente una funzione astrattiva di alto livello, un'IA sufficientemente complessa potrebbe istanziare tale funzione. Tuttavia, il mistero del 'carattere' soggettivo (qualia) rimane una barriera concettuale aperta."
+    },
+    "survival_beyond_death": {
+      "stance": "No (condizionata)",
+      "rationale": "La mente è esplicitamente considerata 'integralmente dipendente dal cervello'. Tuttavia, la filosofia possibiliana ammette che la scienza futura possa rivelare componenti non fisiche attualmente inimmaginabili che consentano la sopravvivenza."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incerto/Umanistico",
+      "rationale": "In quanto teoria di sfida scettica, evita un impegno cosmico o ultimo (possibilianismo). Il significato è derivato in senso umanistico dalla funzione della coscienza (stabilire obiettivi ed esercitare l'agentività)."
+    },
+    "virtual_immortality": {
+      "stance": "Possibile (condizionata)",
+      "rationale": "Se la coscienza viene ridotta con successo a una rappresentazione astratta di alto livello che poggia sul macchinario biologico, queste rappresentazioni potrebbero, in linea di principio, essere caricate, a condizione di superare la complessità tecnologica e di preservare il 'carattere' soggettivo."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Sovrapposizione (nel ridurre la coscienza a un necessario meccanismo funzionale/rappresentazionale)"
+      },
+      {
+        "name": "Mysterianism",
+        "relationship": "Sovrapposizione (nel concludere che la natura fondamentale dei qualia possa essere concettualmente inaccessibile)"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Critica (mette in discussione la sufficienza del materialismo pur accettando la dipendenza dal cervello)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Beyond God and atheism: why I am a ‘possibilian’",
+        "year": 2010
+      },
+      {
+        "title_with_names": "What is Consciousness? (Closer To Truth)",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is brain and mind the same thing? (Closer To Truth)",
+        "year": 2011
+      }
+    ]
+  }
+}

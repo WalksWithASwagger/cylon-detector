@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Il modello delle molteplici bozze di Dennett",
+    "summary": "Questa teoria neurobiologica rifiuta l'idea di un 'Teatro cartesiano' centrale in cui la coscienza viene osservata. Postula invece che il contenuto cosciente sorga da flussi paralleli e multitraccia di elaborazione dell'informazione ('molteplici bozze') che competono per l'attenzione, dove la bozza vincente raggiunge la 'fama nel cervello'. L'integrazione continua di questi momenti forma il senso soggettivo del sé, caratterizzato come un 'centro di gravità narrativa'.",
+    "associated_thinkers": [
+      "Daniel Dennett",
+      "Patricia Churchland",
+      "Paul Churchland",
+      "Keith Frankish"
+    ],
+    "category": "Teorie del materialismo",
+    "subcategory": "Neurobiologica",
+    "core_identity_tagline": "La coscienza come molteplici bozze e gravità narrativa",
+    "classification_tags": [
+      "eliminative materialism",
+      "illusionism",
+      "functionalism",
+      "narrative",
+      "evolutionary"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come un 'flusso o sequenza narrativa' continuamente rivisto, risultante da processi interpretativi paralleli nel cervello. Le proprietà fenomenali soggettive (qualia) sono definite come 'illusioni d'uso' o costrutti neurali incoerenti.",
+    "ontological_status": "Fisicalismo / Materialismo eliminativo",
+    "mind_body_relationship": "Identità/Riduzione. Gli stati mentali sono interamente riducibili a stati fisici, e la visione della mente del senso comune (psicologia popolare) è radicalmente falsa, destinata infine a essere soppiantata dalle neuroscienze.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole. Giustificata dal fatto che la teoria sostiene che la coscienza possa essere pienamente ridotta a, o spiegata da, processi fisici fondamentali, sostenendo una visione materialista riduzionista e rifiutando l'emergenza forte in linea di principio.",
+    "subjectivity_and_intentionality": "La soggettività (il 'sé') è concettualizzata come un costrutto finzionale distribuito chiamato 'centro di gravità narrativa'. L'intenzionalità (contenuto) è prioritaria ed è vista come una funzione di ammassi complicati di molecole, che precede la necessità della coscienza.",
+    "qualia_account": "I qualia sono respinti come concetti illusori e incoerenti. Sono spiegati via come 'illusioni d'uso': reti neurali complesse e attivate che ci dispongono a credere di avere proprietà fenomenali intrinseche e non analizzabili.",
+    "ontological_commitments": "Cervelli fisici e i loro processi biologici. 'Pattern reali' che sono diverse versioni di ciò che esiste realmente, rappresentate dall'immagine scientifica (fisica, chimica, biologia molecolare e neurofisiologia).",
+    "epistemic_access": "Esclusivamente attraverso la prospettiva in terza persona della scienza, denominata 'eterofenomenologia'. L'introspezione in prima persona e le credenze sugli stati interni sono trattate come dati da spiegare, non necessariamente come resoconti veri della realtà mentale.",
+    "constituents_and_structure": "Un 'fascio di agenzie semi-indipendenti' ovvero regioni/moduli cerebrali, che generano interpretazioni parallele ('molteplici bozze') soggette a continua revisione."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenale (sgonfiata/eliminata); Accesso; Autoconsapevolezza (come struttura narrativa); Contenuto/Intenzionalità.",
+    "distinctive_mechanism_or_principle": "La soppressione della metafora del 'Teatro cartesiano'. Il meccanismo implica la competizione tra diverse regioni/moduli cerebrali (bozze) per le risorse di elaborazione, che risulta nella 'fama nel cervello' per la vincente, la quale determina il contenuto del momento cosciente.",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico: un flusso di revisioni editoriali e di formazione narrativa nel tempo. Sorge gradualmente attraverso la selezione naturale, sottolineando 'ragioni senza un ragionatore' e 'progetto senza un progettista'.",
+    "location_and_distribution": "Distribuita nel cervello. Nega esplicitamente una singola posizione centrale o un osservatore interno.",
+    "causation_and_functional_role": "Funzionalmente, la coscienza è un complesso coinvolgimento informativo e reattivo con il mondo. Il suo ruolo evolutivo è fornire un adattamento interno che accresce la fitness e il successo riproduttivo.",
+    "integration_or_binding": "L'integrazione è raggiunta retrospettivamente attraverso il coagularsi di momenti coscienti continui in una storia di vita coesa (il 'centro di gravità narrativa').",
+    "information_flow_or_representation": "Elaborazione parallela e multitraccia di interpretazioni ed elaborazioni, che conduce a un flusso narrativo. Il contenuto precede la coscienza, consentendo ad ammassi complessi di molecole di avere significato.",
+    "evolutionary_account": "La coscienza e le menti si sono evolute attraverso la selezione naturale, a partire dai livelli batterici e progredendo attraverso la creazione di strumenti di pensiero (come il linguaggio) necessari per comprendere fenomeni come la coscienza stessa.",
+    "core_claims_and_evidence": [
+      "Non vi è alcun 'Teatro cartesiano' o testimone interno che osservi l'esperienza cosciente.",
+      "La coscienza è composta da 'molteplici bozze' che competono per la 'fama nel cervello'.",
+      "Il sé soggettivo è un costrutto funzionale ('centro di gravità narrativa').",
+      "I qualia sono respinti come proprietà illusorie e incoerenti."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico (Eliminativismo), Evolutivo/Biologico, Computazionale (Funzionalismo), Scienze cognitive (Eterofenomenologia)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente verificabile. Dennett sostiene la verifica tramite metodi oggettivi in terza persona (eterofenomenologia) piuttosto che affidarsi a un'introspezione fuorviante.",
+    "known_empirical_interventions_or_tests": "Le fonti non elencano interventi sperimentali specifici e denominati, ma la teoria si basa su dati di supporto ottenibili tramite le procedure standard delle scienze cognitive e le metodologie in terza persona ('eterofenomenologia').",
+    "criticisms_and_tensions": "La critica principale è che la teoria non affronta la coscienza fenomenale (il problema difficile) dichiarandola un'illusione, il che porta i critici a sostenere che Dennett risolva i 'problemi facili' ma eviti il mistero centrale. La sua negazione dei qualia è considerata una mossa cruciale che richiede l'adesione a premesse controintuitive.",
+    "open_questions_and_limitations": "Richiede di superare l'intuizione del senso comune sull'esperienza interna, cosa che molti trovano una 'richiesta esorbitante'. La possibilità che il Problema difficile possa non 'dissolversi' rimane una tensione aperta.",
+    "ontological_coherence": "Altamente coerente all'interno di un quadro materialista puramente riduttivo e deflazionista, coerente con la convinzione che la coscienza possa essere pienamente spiegata dalla fisica e dalle neuroscienze."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sì",
+      "rationale": "In quanto teoria fortemente materialista radicata nel funzionalismo/computazione, sostiene che la coscienza sia interamente fisica e che il funzionalismo computazionale sia vero. Pertanto, le intelligenze non biologiche che raggiungano una IA super-forte devono infine raggiungere la coscienza."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Nelle Teorie del materialismo, la morte del cervello e del corpo biologici comporta la non esistenza irrevocabile e permanente della persona."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "Le Teorie del materialismo non razionalizzano alcun significato o scopo cosmico ultimo, sottolineando invece il significato e il valore umanistici che gli individui creano per se stessi."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Se la coscienza è interamente fisica e riducibile all'elaborazione dell'informazione (come sostiene la teoria), il sé mentale in prima persona sarebbe caricabile/duplicabile su un mezzo non biologico, rendendo raggiungibile l'immortalità virtuale, data una tecnologia sufficiente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Sovrapposizione (Base filosofica centrale)"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "Somiglianza (Approccio funzionalista)"
+      },
+      {
+        "name": "Global Workspace Theory (GWT)",
+        "relationship": "Confronto (Entrambe rifiutano il Teatro cartesiano e si concentrano sull'accesso informativo, pur differendo sui dettagli)"
+      },
+      {
+        "name": "Higher-Order Thought Theories",
+        "relationship": "Sovrapposizione (Il modello di Dennett è spesso considerato una forma di teoria di ordine superiore nel dare priorità al contenuto cognitivo)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Explained, Daniel C. Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Eliminative Materialism and the Propositional Attitudes, Paul Churchland",
+        "year": 1981
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Rappresentazionalismo di primo ordine",
+    "summary": "Il rappresentazionalismo di primo ordine (FOR) cerca di spiegare la coscienza riducendola a stati intenzionali esterni e diretti verso il mondo. Sostiene che il carattere fenomenico dell'esperienza sia interamente determinato dal contenuto della rappresentazione, identificando i qualia con le proprietà esterne che l'esperienza rappresenta gli oggetti come possedessero.",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "Teorie del Materialismo",
+    "subcategory": "Rappresentazionale",
+    "core_identity_tagline": "La coscienza come stati intenzionali esterni e diretti verso il mondo",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Gli aspetti fenomenici delle esperienze percettive sono una e la stessa cosa delle proprietà esterne, del mondo reale, che l'esperienza rappresenta gli oggetti come possedessero.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Teoria dell'identità/correlazione riduzionista. Gli stati mentali sono identificati con rappresentazioni realizzate in stati cerebrali che acquisiscono specifiche funzioni informative.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole",
+    "subjectivity_and_intentionality": "L'intenzionalità (la direzionalità del pensiero) è primaria. La soggettività è interamente determinata dal contenuto rappresentazionale, poiché le rappresentazioni sensoriali sono direttamente disponibili al soggetto.",
+    "qualia_account": "I qualia (carattere fenomenico) sono identificati con il contenuto rappresentazionale (rappresentazionalismo forte) o con le proprietà esterne rappresentate dall'esperienza, risolvendo così il problema difficile tramite una spiegazione riduttiva.",
+    "ontological_commitments": "Rappresentazioni mentali, stati cerebrali che acquisiscono funzioni informative, circuiti sensoriali/percettivi.",
+    "epistemic_access": "Accessibile tramite metodi in terza persona focalizzati sui correlati neurali e sulla diffusione globale delle rappresentazioni, integrati dall'autodescrizione.",
+    "constituents_and_structure": "Rappresentazioni sensoriali di primo ordine e contenuti non concettuali, diffusi globalmente nel cervello."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza fenomenica, Coscienza d'accesso, Esperienza sensoriale.",
+    "distinctive_mechanism_or_principle": "La coscienza sorge quando gli stati cerebrali acquisiscono, tipicamente tramite selezione naturale, la funzione di veicolare informazioni rilevanti per gli oggetti esterni, diventando così rappresentazioni mentali.",
+    "dynamics_of_emergence": "La coscienza sorge dinamicamente man mano che i contenuti non concettuali sono diffusi globalmente in tutto il cervello per l'accesso e l'utilizzo.",
+    "location_and_distribution": "I correlati neurali della coscienza specifica includono l'attività nella corteccia sensoriale e in specifici nuclei talamici, con collegamenti all'elaborazione ricorrente nelle aree percettive.",
+    "causation_and_functional_role": "La coscienza funziona per rendere l'informazione percettiva disponibile ai sistemi che permettono un comportamento flessibile, la formazione di credenze e la selezione dell'azione.",
+    "integration_or_binding": "L'integrazione è ottenuta tramite la disponibilità dell'informazione sensoriale (rappresentazioni) attraverso reti cognitive globali (in concomitanza con la diffusione globale).",
+    "information_flow_or_representation": "Le rappresentazioni di primo ordine scorrono direttamente dagli stimoli esterni; l'elaborazione dell'informazione è cruciale per trasformare gli stati cerebrali in rappresentazioni adatte alla coscienza.",
+    "evolutionary_account": "La coscienza si è evoluta tramite selezione naturale, per cui gli stati cerebrali hanno acquisito la funzione di veicolare informazioni che potenziano le capacità adattative dell'organismo.",
+    "core_claims_and_evidence": [
+      "Le proprietà fenomeniche sono identiche alle proprietà esterne, del mondo reale, rappresentate dall'esperienza.",
+      "L'esperienza cosciente si accompagna alla diffusione globale dei contenuti non concettuali di primo ordine nel cervello.",
+      "Gli stati consci sono rappresentazioni il cui contenuto determina interamente la sensazione soggettiva."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofica (riduzione concettuale, focus sull'intenzionalità) ed Empirica (dati di correlazione neuroscientifica)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile",
+    "known_empirical_interventions_or_tests": [
+      "Mappatura dei correlati neurali della coscienza generale e specifica (corteccia sensoriale, nuclei talamici)",
+      "Studi che correlano la coscienza con la diffusione globale del contenuto di primo ordine"
+    ],
+    "criticisms_and_tensions": "Affronta la sfida generale per le teorie rappresentazionali: spiegare la fenomenologia puramente in termini di intenzionalità. I critici si chiedono come la mera rappresentazione o il contenuto informativo possano rendere pienamente conto della sensazione qualitativa (qualia).",
+    "open_questions_and_limitations": "Il meccanismo preciso mediante il quale il contenuto di una rappresentazione non concettuale determini il soggettivo 'com'è' rimane un divario esplicativo, sebbene i sostenitori argomentino che l'aspetto fenomenico sia risolto dall'identità con le proprietà esterne.",
+    "ontological_coherence": "Altamente coerente all'interno di un'ontologia materialista riduttiva e funzionalista."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sì",
+      "rationale": "In quanto teoria materialista in cui la coscienza dipende dal contenuto informativo e dall'architettura funzionale, i sistemi artificiali potrebbero istanziare la coscienza se realizzano le necessarie strutture rappresentazionali e funzioni informative."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è realizzata interamente da processi cerebrali fisici; la sopravvivenza oltre la distruzione del substrato biologico è esclusa."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "In quanto Teoria del Materialismo, non razionalizza alcun significato o scopo cosmico ultimo, ma solo il significato generato dagli stessi agenti coscienti."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Se il sé in prima persona è interamente catturato dal contenuto rappresentazionale e dagli stati informativi, una duplicazione perfetta (caricamento) di tali stati in un supporto non biologico dovrebbe preservare il sé mentale originale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Critica/Contrasto"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Estensione/Sovrapposizione"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Compatibile/Sovrapposizione"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Influenza"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Il rappresentazionalismo diafano di Jackson e l'argomento della conoscenza",
+    "summary": "Il rappresentazionalismo diafano di Frank Jackson sostiene che il carattere fenomenico dell'esperienza percettiva si esaurisce nel suo contenuto rappresentazionale, il che significa che «vediamo attraverso» l'esperienza fino alle proprietà dell'oggetto. Questa posizione fu sviluppata principalmente per minare la conclusione del suo stesso celebre esperimento mentale, l'argomento della conoscenza, che in precedenza argomentava contro il fisicalismo.",
+    "associated_thinkers": ["Frank Jackson"],
+    "category": "Teorie materialiste",
+    "subcategory": "Rappresentazionale",
+    "core_identity_tagline": "«Il carattere fenomenico si esaurisce nel contenuto rappresentazionale»",
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "physicalism defense",
+      "epistemology",
+      "intentionality"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza (il carattere fenomenico) è identificata con il contenuto rappresentazionale dei relativi stati mentali che soddisfa certe condizioni, spesso legato alle proprietà dell'oggetto dell'esperienza.",
+    "ontological_status": "Fisicalismo riduttivo. (Giustificazione: l'obiettivo primario della teoria è confutare l'argomento della conoscenza, mantenendo così la sufficienza del fisicalismo/materialismo riguardo alla coscienza fenomenica).",
+    "mind_body_relationship": "Identità. La natura fenomenica si esaurisce nei contenuti funzionali e intenzionali (fatti rappresentazionali), che sono istanziati fisicamente.",
+    "primitive_or_emergent_status": "Emergente. (Giustificazione: la coscienza è pienamente catturata dal contenuto rappresentazionale istanziato da processi fisici, il che significa che non è fondamentale per la realtà).",
+    "emergence_type": "Emergenza debole. (Giustificazione: in quanto difesa fisicalista riduttiva, le proprietà fenomeniche sono pienamente catturate da, o identiche a, i contenuti fisici/rappresentazionali e i ruoli funzionali, il che implica la derivabilità in linea di principio).",
+    "subjectivity_and_intentionality": "La soggettività è resa conto dalla tesi della diafaneità: accedere alla natura dell'esperienza è semplicemente accedere alle proprietà del suo oggetto. L'intenzionalità, l'«essere-su» degli stati mentali, è centrale, poiché l'esperienza è essenzialmente rappresentazionale.",
+    "qualia_account": "I qualia (il carattere fenomenico) sono pienamente spiegati o esauriti dai contenuti rappresentazionali dei relativi stati mentali. Questo intende mostrare che nessuna conoscenza non fisica (come «com'è vedere il rosso») rimane inspiegata dai fatti fisici/rappresentazionali.",
+    "ontological_commitments": "Rappresentazioni mentali, fatti fisici e il ruolo funzionale/i contenuti intenzionali degli stati mentali.",
+    "epistemic_access": "L'introspezione sostiene la tesi della diafaneità rivelando solo oggetti esterni e le loro proprietà, non caratteristiche intrinseche dell'esperienza stessa. Lo studio scientifico in terza persona del contenuto rappresentazionale è dunque adeguato.",
+    "constituents_and_structure": "La struttura della coscienza è determinata interamente dai contenuti intenzionali o dalla natura rappresentazionale degli stati mentali; i fatti rappresentazionali formano un insieme sufficiente a catturare l'esperienza percettiva."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza fenomenica (in particolare la natura qualitativa dell'esperienza percettiva/dei qualia).",
+    "distinctive_mechanism_or_principle": "Diafaneità (trasparenza) dell'esperienza percettiva. La coscienza è il risultato di rappresentazioni di oggetti, in cui il soggetto «vede attraverso» lo stato percettivo fino alle proprietà dell'oggetto.",
+    "dynamics_of_emergence": "Proprietà statica. (Giustificazione: il modello identifica la coscienza con il contenuto rappresentazionale/la struttura intenzionale, concentrandosi sull'identità dello stato finale piuttosto che su un processo dinamico di generazione. Le fonti non dettagliano le dinamiche temporali)",
+    "location_and_distribution": "Localizzata negli stati mentali istanziati dall'elaborazione rappresentazionale del cervello.",
+    "causation_and_functional_role": "L'esperienza cosciente si esaurisce nel ruolo funzionale e nel contenuto rappresentazionale. I fatti rappresentazionali sono sufficienti a catturare l'intera esperienza percettiva.",
+    "integration_or_binding": "Realizzata implicitamente attraverso la natura complessiva dei contenuti intenzionali che compongono l'insieme dell'esperienza percettiva. (Giustificazione: un meccanismo esplicito per il legame non è dettagliato nelle fonti, ma l'unificazione è presupposta nell'«insieme».)",
+    "information_flow_or_representation": "Le rappresentazioni mentali elevano il potere esplicativo delle nozioni/immagini percepite interiormente rispetto ai meri stati neurali, esaurendo la natura esperienziale.",
+    "evolutionary_account": "Si presume che la coscienza si sia evoluta come parte del macchinario rappresentazionale del cervello. (Giustificazione: ciò è inferito dalla sua classificazione come teoria materialista, ma Jackson non fornisce nelle fonti alcun resoconto specifico.)",
+    "core_claims_and_evidence": [
+      "L'esperienza è diafana (trasparente): le proprietà fenomeniche sono proprietà dell'oggetto dell'esperienza.",
+      "Il rappresentazionalismo forte afferma che il modo in cui un'esperienza rappresenta le cose esaurisce pienamente la sua natura esperienziale.",
+      "L'argomento della conoscenza fallisce perché l'apprendimento fenomenico è ridotto a fatti rappresentazionali, preservando così il fisicalismo."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico/concettuale (basato sull'analisi logica dei concetti fenomenici e sulla natura dell'introspezione)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente testabile. (Il successo della teoria si fonda sull'argomento filosofico secondo cui il contenuto rappresentazionale può logicamente esaurire il carattere fenomenico, risolvendo così esperimenti mentali come l'argomento della conoscenza).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La tensione principale è che i critici sostengono che il rappresentazionalismo non respinga logicamente l'argomento della conoscenza, poiché una versione rappresentazionalista della «sfida di Mary» mantiene la difficoltà per il fisicalismo.",
+    "open_questions_and_limitations": "Vanno specificate le condizioni precise alle quali il contenuto rappresentazionale cattura il carattere fenomenico, e la coerenza concettuale della riduzione delle proprietà fenomeniche interamente a proprietà intenzionali rimane contestata.",
+    "ontological_coherence": "Altamente coerente entro un quadro fisicalista riduttivo, poiché la sua intera motivazione è mantenere il fisicalismo eliminando le proprietà fenomeniche irriducibili («qualia»)."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sì",
+      "rationale": "Se la coscienza si esaurisce nel contenuto rappresentazionale e nel ruolo funzionale, e queste proprietà possono essere realizzate computazionalmente, allora i sistemi di IA possono raggiungere la coscienza."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoria è una difesa del materialismo/fisicalismo, il che implica che la coscienza è legata unicamente al sistema fisico (il cervello o il suo equivalente funzionale/rappresentazionale), impedendo la sopravvivenza oltre la cessazione biologica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "In quanto teoria materialista, non offre alcun significato o scopo ultimo al di fuori di ciò che gli esseri umani creano per sé stessi."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Poiché il carattere fenomenico è pienamente catturato dal contenuto funzionale/rappresentazionale, una duplicazione perfetta (caricamento) di tali contenuti preserverebbe il sé mentale originale in prima persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Knowledge Argument (Mary's Room)",
+        "relationship": "Critica/origine"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Fondamento"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Contrasto"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The knowledge argument, diaphanousness, representationalism, Frank Jackson",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, Frank Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "What Mary Didn’t Know, Frank Jackson",
+        "year": 1986
+      }
+    ]
+  }
+}

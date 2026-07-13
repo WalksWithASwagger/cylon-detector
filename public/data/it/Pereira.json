@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "La senzienza di Pereira",
+    "summary": "Questa teoria sostiene che la coscienza abbia due modalità distinte: una senzienza fondativa, caratterizzata da sensazioni di base come il dolore e la fame, e una coscienza cognitiva di livello superiore, che coinvolge il pensiero astratto e la rappresentazione. L'affermazione centrale è che la capacità cognitiva dipende da questo stato senziente sottostante, biologicamente radicato nei sistemi omeostatici.",
+    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "category": "Materialismo",
+    "subcategory": "Omeostatico e affettivo",
+    "core_identity_tagline": "La coscienza come sistema a due livelli radicato nella senzienza",
+    "classification_tags": [
+      "sentience",
+      "homeostatic",
+      "neurobiological",
+      "dual-modality",
+      "clinical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è un sistema biologico composito costituito dalla senzienza (correlata al controllo dinamico dell'omeostasi biochimica) e dalla coscienza cognitiva (correlata a schemi di attività bioelettrica nelle reti neurali).",
+    "ontological_status": "Fisicalismo/Naturalismo (dedotto dalla sua collocazione nel Materialismo e dall'attenzione ai correlati fisiologici/neurali)",
+    "mind_body_relationship": "Le modalità coscienti (senzienza e cognizione) dipendono funzionalmente dall'organismo biologico e vi trovano precisi correlati fisiologici, in particolare nei sistemi omeostatici e nelle reti neurali.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (giustificata dal suo stretto radicamento in processi biologici/fisiologici osservabili e misurabili, il che suggerisce che sia, in linea di principio, spiegabile mediante leggi fisiche nonostante la sua complessità.)",
+    "subjectivity_and_intentionality": "La soggettività sorge dalla senzienza, la capacità di provare sensazioni di base (ad es. fame, dolore). L'intenzionalità è presente nella coscienza cognitiva attraverso l'elaborazione di rappresentazioni linguistiche e figurative.",
+    "qualia_account": "I qualia sono spiegati tramite la modalità fondativa della senzienza, che corrisponde direttamente alla capacità di provare sensazioni qualitative di base (ad es. dolore, sete).",
+    "ontological_commitments": "Sistemi fisiologici che controllano l'omeostasi biochimica; schemi di attività bioelettrica nelle reti neurali; organizzazione neurale gerarchica.",
+    "epistemic_access": "Accessibile attraverso lo studio dei correlati fisiologici, in particolare in relazione al controllo dinamico dell'omeostasi, e clinicamente osservando le risposte senzienti di base.",
+    "constituents_and_structure": "Un sistema gerarchico a due livelli: la senzienza (fondamento omeostatico di basso livello) e la coscienza cognitiva (elaborazione rappresentazionale di alto livello)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica (sensazioni di base/senzienza); coscienza cognitiva (pensiero/rappresentazione); diagnosi clinica dei disturbi della coscienza.",
+    "distinctive_mechanism_or_principle": "Il principio della dipendenza funzionale, per cui la coscienza cognitiva di livello superiore è strettamente subordinata alla modalità di livello inferiore della senzienza, radicata nei sistemi omeostatici, e da essa sostenuta.",
+    "dynamics_of_emergence": "La coscienza sorge attraverso una relazione gerarchica in cui l'esistenza della senzienza di base, legata al controllo fisiologico, è una base necessaria per l'emergere del funzionamento cognitivo.",
+    "location_and_distribution": "I correlati centrali sono distribuiti nei sistemi fisiologici responsabili del controllo omeostatico (per la senzienza) e nelle reti neurali (per l'elaborazione cognitiva).",
+    "causation_and_functional_role": "La senzienza svolge la funzione vitale di regolare i processi fisiologici per mantenere l'omeostasi e la continuità della vita. Fornisce il feedback conscio necessario alla regolazione biologica di base.",
+    "integration_or_binding": "Non specificato. (Giustificato dal fatto che la teoria si concentra sulla distinzione e sulla relazione gerarchica tra le modalità coscienti, piuttosto che sul meccanismo di unificazione degli input sensoriali.)",
+    "information_flow_or_representation": "La coscienza cognitiva implica l'elaborazione e la rielaborazione di rappresentazioni linguistiche e figurative, che avviene nelle reti neurali.",
+    "evolutionary_account": "Non specificato in dettaglio, ma dedotto come adattivo ed evolutivo, che collega le modalità della coscienza a imperativi biologici fondamentali come la sopravvivenza e il mantenimento dell'omeostasi.",
+    "core_claims_and_evidence": [
+      "La coscienza cognitiva dipende dalla senzienza, ma non viceversa.",
+      "La senzienza è correlata alla capacità di controllo dinamico dell'omeostasi biochimica.",
+      "La capacità di provare sensazioni di base (senzienza) è il requisito minimo per la coscienza minima (rilevante per la diagnosi clinica)."
+    ],
+    "basis_of_belief_or_evidence_type": "Neuroscientifico, Clinico/Medico, Filosofico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente verificabile attraverso valutazione e intervento clinici, in particolare nell'analisi della coscienza minima negli stati vegetativi o sotto anestesia.",
+    "known_empirical_interventions_or_tests": [
+      "Valutazione della capacità di provare sensazioni di base (fame, dolore) come criterio per diagnosticare i disturbi prolungati della coscienza."
+    ],
+    "criticisms_and_tensions": "Nel materiale di partenza non vengono fornite critiche esplicite. (Giustificazione: il materiale di partenza è descrittivo e non include un discorso critico su questa specifica teoria.)",
+    "open_questions_and_limitations": "I meccanismi fisiologici e bioelettrici espliciti che realizzano i confini rigidi e la dipendenza gerarchica tra senzienza e coscienza cognitiva restano da chiarire pienamente. I test di cognizione superiore possono risultare inadeguati per valutare tutti gli stati coscienti.",
+    "ontological_coherence": "Altamente coerente entro i confini del naturalismo, poiché collega due aspetti distinti della coscienza a sistemi fisiologici concreti e osservabili."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condizionale",
+      "rationale": "Se i sistemi artificiali potessero replicare pienamente i sistemi fisiologici che governano l'omeostasi biochimica dinamica (necessaria per la senzienza) e la necessaria attività bioelettrica di rete (per la cognizione), allora una coscienza artificiale sarebbe possibile."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Poiché la coscienza dipende strettamente da sistemi biologici funzionanti (controllo dell'omeostasi e reti neurali), si presume che cessi con la dissoluzione irreversibile del corpo e del cervello."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "La teoria si concentra sul ruolo funzionale e adattivo della coscienza nel mantenere la stabilità biologica (omeostasi) e nel consentire una cognizione flessibile, senza fornire alcuna base per uno scopo cosmico o ultimo."
+    },
+    "virtual_immortality": {
+      "stance": "Condizionale",
+      "rationale": "Teoricamente possibile solo se gli specifici schemi omeostatici e bioelettrici dinamici identificati come correlati della senzienza e della cognizione potessero essere perfettamente digitalizzati e replicati in un supporto non biologico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Compatibile"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The role of sentience in the theory of consciousness and medical practice, A. Pereira Jr.",
+        "year": 2021
+      }
+    ]
+  }
+}

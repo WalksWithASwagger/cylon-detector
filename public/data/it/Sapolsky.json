@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "L'incompatibilismo forte di Sapolsky",
+    "summary": "Questa prospettiva sostiene che la coscienza sia una complessa proprietà emergente che sorge unicamente da meccanismi biologici, indissolubilmente legata alle regole fisiche dell'universo. Il suo principale impegno filosofico è l'incompatibilismo forte, che afferma il determinismo biologico e di conseguenza nega l'esistenza del libero arbitrio.",
+    "associated_thinkers": ["Robert Sapolsky"],
+    "category": "Materialismo",
+    "subcategory": "Neurobiologico",
+    "core_identity_tagline": "‘La coscienza come complessa proprietà emergente’",
+    "classification_tags": [
+      "determinism",
+      "neurobiology",
+      "physicalism",
+      "emergence",
+      "hard incompatibilism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come una complessa proprietà emergente che sorge dalla fisica e dalla chimica dell'organismo biologico, in particolare del cervello, e dalle sue interazioni con l'ambiente.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Identità/Correlazione materialista: la mente e il sé sono rigorosamente prodotti dei processi biologici, o a essi identici, in coerenza con le regole fisiche.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (Dedotta): sebbene descritta come una 'complessa proprietà emergente' la cui natura è difficile da cogliere, il suo radicamento in un rigoroso determinismo biologico implica che l'emergenza debba, in linea di principio, conformarsi interamente alle leggi fisiche.",
+    "subjectivity_and_intentionality": "La soggettività (ciò che la coscienza è) è riconosciuta come esistente, ma si afferma che sia poco compresa e difficile da definire. L'intenzionalità e l'agentività (il libero arbitrio) sono esplicitamente respinte come incompatibili con il determinismo.",
+    "qualia_account": "Inspiegato: la qualità sentita dell'esperienza è riconosciuta ma ritenuta al di là dell'attuale comprensione neurobiologica, descritta ambiguamente come una 'complessa proprietà emergente' che 'spiega tutto e nulla'.",
+    "ontological_commitments": "Organismi biologici, strutture neurologiche e le regole fisiche dell'universo.",
+    "epistemic_access": "Accessibile tramite l'osservazione degli stati neurologici; tuttavia, la comprensione della coscienza fenomenica a livello neurobiologico è ammessa essere gravemente limitata.",
+    "constituents_and_structure": "La complessa organizzazione della materia biologica, governata da regole fisiche deterministiche."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Libero arbitrio (Critica/Negazione); Fenomenico (Riconosciuto come esistente ma inspiegato); Funzione neurologica (senso neurologico banale).",
+    "distinctive_mechanism_or_principle": "Il principio dell'incompatibilismo forte, secondo cui tutti gli eventi, compresi quelli mentali, sono pienamente determinati da cause biologiche e ambientali precedenti, senza lasciare spazio a meccanismi non biologici o non deterministici.",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico che sorge dai complessi processi organizzati del cervello.",
+    "location_and_distribution": "Localizzata interamente nel cervello e nell'organismo biologico.",
+    "causation_and_functional_role": "La coscienza è causalmente efficace (non è un mero epifenomeno), ma le sue azioni causali sono interamente vincolate dal flusso deterministico dei processi biologici.",
+    "integration_or_binding": "Implicitamente integrata dalla complessa organizzazione e dall'operare deterministico del sistema biologico.",
+    "information_flow_or_representation": "Implicito tramite la funzione biologica basata sulle regole fisiche fondamentali che governano i processi biologici.",
+    "evolutionary_account": "La coscienza è un prodotto dell'evoluzione biologica/filogenetica, in coerenza con la natura deterministica e biologica dell'organismo.",
+    "core_claims_and_evidence": [
+      "Il sé/la mente non è nulla di più né di meno della nostra biologia e delle sue interazioni con l'ambiente.",
+      "Il libero arbitrio è filosoficamente impossibile da conciliare con il determinismo biologico.",
+      "La coscienza sorge come una complessa proprietà emergente del cervello biologico.",
+      "La coscienza non è un epifenomeno illusorio."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico (impegno a priori verso il determinismo e il materialismo); Biologico/Neuroscientifico."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Premessa filosofica (Determinismo); empiricamente legato alla neurobiologia (poiché tutti i fenomeni sono biologici).",
+    "known_empirical_interventions_or_tests": "Nessuno specificato nella fonte; si fonda su evidenze biologiche e neurologiche di base che sostengono il fisicalismo deterministico.",
+    "criticisms_and_tensions": "Sapolsky ammette che la definizione di coscienza è confusa e si basa sull'ambiguo termine 'complessa proprietà emergente'. All'esterno, la negazione del libero arbitrio (incompatibilismo forte) è una posizione filosofica altamente controversa.",
+    "open_questions_and_limitations": "La natura e la definizione precise della coscienza fenomenica restano al di là della capacità dell'autore di comprenderle o spiegarle pienamente.",
+    "ontological_coherence": "Elevata, poiché la teoria aderisce rigorosamente a un'ontologia fisicalista e deterministica senza introdurre elementi non fisici."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "Se la coscienza è una proprietà emergente causalmente attiva governata dalle regole fisiche di una complessa organizzazione biologica, essa dovrebbe, in linea di principio, essere realizzabile in un sistema artificiale che replichi la complessità necessaria."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è unicamente il prodotto del cervello biologico; pertanto, la morte del cervello è la fine irrevocabile dell'esistenza personale."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "La natura deterministica della coscienza implica che non vi sia alcun significato o scopo cosmico ultimo; qualsiasi significato o valore è necessariamente creato dagli esseri umani stessi."
+    },
+    "virtual_immortality": {
+      "stance": "Probabile",
+      "rationale": "Poiché la coscienza è riducibile a stati fisici complessi e da essi dipendente, una duplicazione perfetta di tali stati in un substrato non biologico comporterebbe la continuazione del sé mentale in prima persona, in coerenza con le teorie del materialismo."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Flanagan’s Constructive Naturalism",
+        "relationship": "Sovrapposizione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Determined: A Science of Life without Free Will, R. Sapolsky",
+        "year": 2023
+      },
+      {
+        "title_with_names": "From Stanford to Medspire: an Exclusive Interview with Robert Sapolsky, R. Sapolsky",
+        "year": 2023
+      }
+    ]
+  }
+}

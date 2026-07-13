@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Il dualismo neo-tomista, neo-aristotelico e del senso comune di Feser",
+    "summary": "Questa teoria dualista postula che l'intelletto umano (i concetti astratti e il ragionamento) sia una facoltà immateriale e non possa essere ridotto a processi materiali. Risolve il 'problema difficile' propugnando un ritorno al realismo aristotelico del senso comune, in cui le qualità sensoriali (qualia) sono proprietà oggettive del mondo materiale esterno, dissolvendo così il dilemma causato dalla moderna concezione austera e quantitativa della materia.",
+    "associated_thinkers": ["Edward Feser"],
+    "category": "Dualismi",
+    "subcategory": "Dualismo neo-tomista, neo-aristotelico, del senso comune",
+    "core_identity_tagline": "La coscienza tramite l'intelletto immateriale e le qualità oggettive",
+    "classification_tags": [
+      "dualism",
+      "aristotelian",
+      "immaterial",
+      "intellect",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come una realtà composita costituita da una facoltà intellettuale immateriale, responsabile del pensiero determinato, e da facoltà sensoriali materiali che percepiscono proprietà oggettive e qualitative nel mondo.",
+    "ontological_status": "Dualismo (forma neo-tomista/neo-aristotelica)",
+    "mind_body_relationship": "L'anima è una realtà sostanziale e unificata che funge da forma del corpo (visione tomista). La facoltà intellettuale (un sottoinsieme degli stati mentali) è irriducibile ai processi materiali. La teoria sfida la concezione materialista della materia che ha generato il problema mente-corpo.",
+    "primitive_or_emergent_status": "Non emergente (per l'intelletto); le proprietà sensoriali sono fondamentali per la realtà oggettiva",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "La capacità dell'intelletto di afferrare gli universali e di mantenere un contenuto concettuale determinato e non ambiguo (intenzionalità) rende necessaria la sua irriducibilità ai processi materiali. Il realismo diretto del senso comune significa che percepiamo il mondo effettivamente come esso appare.",
+    "qualia_account": "Si sostiene che le caratteristiche qualitative (qualità secondarie come colore, suono, calore) siano proprietà reali e oggettive inerenti agli oggetti materiali esterni (realismo diretto del senso comune), eliminando la necessità che esse siano collocate esclusivamente in una mente immateriale come nei modelli cartesiani.",
+    "ontological_commitments": "Sostanze o facoltà immateriali (intelletto, anima), accanto a entità materiali dotate di proprietà qualitative oggettive inerenti.",
+    "epistemic_access": "Accessibile principalmente tramite l'analisi filosofica, la logica e il ragionamento sulla natura del pensiero, supportati dalla percezione del senso comune (realismo diretto).",
+    "constituents_and_structure": "Una struttura composita ilemorfica in cui l'anima (incluso l'intelletto immateriale) è la forma del corpo vivente. L'attività intellettuale comporta l'afferrare concetti astratti (universali)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Attività intellettuale (ragionamento, pensiero determinato), Coscienza sensoriale (qualia fenomenici come proprietà oggettive).",
+    "distinctive_mechanism_or_principle": "L'argomento secondo cui la necessità di un contenuto determinato nel pensiero (logica, matematica) comporta l'irriducibilità e l'immaterialità della facoltà intellettuale.",
+    "dynamics_of_emergence": "L'attenzione è rivolta a confutare le premesse metafisiche che conducono al problema difficile, piuttosto che a descrivere l'emergenza. L'irriducibilità dell'intelletto si basa sulla sua natura (afferrare gli universali) fondamentalmente incompatibile con i processi materiali (che trattano i particolari).",
+    "location_and_distribution": "L'intelletto è associato all'anima, che è immateriale e sussistente. Le qualità sensoriali sono localizzate oggettivamente negli oggetti esterni nel mondo, non solo nel cervello.",
+    "causation_and_functional_role": "La funzione dell'intelletto è cruciale per la matematica, la logica e il linguaggio, garantendo che pensieri e concetti abbiano un contenuto determinato e non ambiguo.",
+    "integration_or_binding": "L'unità dell'esperienza è implicitamente fondata sull'anima come realtà sostanziale e unificata che informa il corpo. (Una descrizione meccanicistica esplicita non è fornita nelle fonti.)",
+    "information_flow_or_representation": "L'attività intellettuale comporta concetti (universali) che sono categoricamente distinti da, e irriducibili a, immagini mentali o sensazioni (particolari).",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Il problema difficile è uno pseudo-problema derivante da una concezione moderna difettosa della materia (l'errore di Galileo).",
+      "L'attività intellettuale non può essere ridotta a processi materiali perché tale riduzione nega inevitabilmente l'esistenza di un contenuto determinato o non ambiguo nel pensiero.",
+      "Le qualità secondarie (come colore e suono) sono proprietà oggettive della materia, coerentemente con il senso comune."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofica, Razionalista, Del senso comune"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Fondata principalmente in modo concettuale e logico. Gli argomenti sono utilizzati per dimostrare l'incompatibilità del materialismo riduttivo con il pensiero determinato.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "I critici sostengono che la neuroscienza finirà per colmare il divario esplicativo senza bisogno di un intelletto immateriale. Deve fornire una spiegazione coerente della causazione mentale, sebbene tenti di evitare il problema dell'interazione cartesiana ridefinendo la materia.",
+    "open_questions_and_limitations": "Il meccanismo preciso di come l'intelletto immateriale interagisca con il cervello fisico rimane in gran parte inspiegato (il problema dell'interazione).",
+    "ontological_coherence": "Altamente coerente all'interno del suo quadro neo-tomista/neo-aristotelico, sostenendo di risolvere la fuorviante dicotomia tra il materialismo tradizionale e il dualismo cartesiano."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabilmente no",
+      "rationale": "Se l'intelletto (necessario per il pensiero determinato e i concetti astratti) è fondamentalmente immateriale e irriducibile ai processi materiali, allora un'IA puramente computazionale/materiale non può istanziare la completa coscienza umana descritta dalla teoria."
+    },
+    "survival_beyond_death": {
+      "stance": "Sì",
+      "rationale": "L'anima è definita come un'entità immateriale e sussistente, capace di esistere ed esercitare la funzione cognitiva per conto proprio, separata dal corpo, sebbene ciò sia considerato innaturale per essa."
+    },
+    "meaning_and_purpose": {
+      "stance": "Sì",
+      "rationale": "La conservazione del contenuto determinato nel pensiero, nella logica e negli universali intellettuali, unita all'impegno ontologico verso l'anima, implica una visione non deflazionista del significato che evita il nichilismo materialista."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "L'immortalità virtuale si basa sul funzionalismo computazionale. Poiché Feser sostiene che la coscienza intellettuale non è riducibile a, né spiegabile mediante, processi materiali, il sé umano completo non può essere caricato digitalmente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Stump’s Thomistic Dualism", "relationship": "Compatibile" },
+      { "name": "Cartesian Dualism", "relationship": "Critica" },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Critica"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "Critica" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Aristotle, call your office, Edward Feser",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Chomsky on consciousness, Edward Feser",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Non-cartesian substance dualism and materialism without reductionism, Eleonore Stump",
+        "year": 1995
+      }
+    ]
+  }
+}

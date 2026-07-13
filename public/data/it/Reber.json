@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Base cellulare della coscienza (CBC)",
+    "summary": "Questa teoria sostiene che la senzienza sia emersa con la vita stessa, argomentando che la coscienza è una caratteristica primitiva e intrinseca della forma organica, presente anche in specie unicellulari come i batteri . Essa reindirizza l'indagine sull'origine della mente dalle complesse strutture neurali a quelle biomeccaniche fondamentali .",
+    "associated_thinkers": ["Arthur Reber"],
+    "category": "Materialismo",
+    "subcategory": "Evoluzione filogenetica",
+    "core_identity_tagline": "La coscienza come caratteristica intrinseca della forma organica",
+    "classification_tags": [
+      "biological reductionism",
+      "evolutionary",
+      "sentience",
+      "foundational biomechanics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come la bio-sensibilità intrinseca o lo stato esperienziale presente in particolari tipi di forma organica, legata a strutture biomeccaniche fondamentali .",
+    "ontological_status": "Riduzionismo biologico / Fisicalismo",
+    "mind_body_relationship": "Gli stati mentali dipendono intrinsecamente dall'hardware, poiché la coscienza è una componente intrinseca della forma organica, il che richiede un impegno verso il riduzionismo biologico .",
+    "primitive_or_emergent_status": "Primitivo / Fondamentale",
+    "emergence_type": "N/D - La coscienza è considerata una caratteristica intrinseca della forma organica (un primitivo biologico) piuttosto che qualcosa che emerge da costituenti fisici non coscienti . Tuttavia, le funzioni cognitive complesse sorgono attraverso un'accrezione graduale di funzioni stratificate .",
+    "subjectivity_and_intentionality": "La soggettività è una caratteristica intrinseca di particolari tipi di forma organica . Essa è indicata da comportamenti come i sistemi sensoriali/percettivi, l'apprendimento, la memoria e il processo decisionale osservati anche in specie primitive .",
+    "qualia_account": "Si implica che i qualia esistano come l'esperienza soggettiva intrinseca alla forma organica, poiché 'Ogni esperienza è mentale' ed è presente nelle specie più primitive .",
+    "ontological_commitments": "Forme organiche con pareti cellulari flessibili, sensibilità ambientale e capacità di locomozione ; strutture biomeccaniche fondamentali .",
+    "epistemic_access": "Accessibile attraverso lo studio e l'osservazione del comportamento e del repertorio biologico delle specie unicellulari da parte di micro- e cito-biologi .",
+    "constituents_and_structure": "Forme organiche basilari, che includono attributi come pareti cellulari flessibili e bio-sensibilità . La complessità si costruisce attraverso uno schema piramidale in cui le funzioni si stratificano su quelle preesistenti e con esse si intrecciano ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Senzienza; stati esperienziali; mente primitiva . Si concentra sulle origini della coscienza e sulla soggettività basilare.",
+    "distinctive_mechanism_or_principle": "Il radicamento della soggettività in caratteristiche intrinseche della forma organica, che rende necessari substrati biologici (pareti cellulari flessibili, sensibilità, locomozione) per possedere i fondamenti biologici della mente .",
+    "dynamics_of_emergence": "La coscienza è primitiva. La complessità e la sofisticazione evolvono gradualmente attraverso l'accrezione e la modificazione di forme e funzioni adattive stratificate sulle strutture fondamentali .",
+    "location_and_distribution": "Diffusa tra le specie, localizzata nelle strutture biomeccaniche fondamentali, come le pareti cellulari flessibili degli organismi unicellulari .",
+    "causation_and_functional_role": "La coscienza svolge un ruolo adattivo (valore di sopravvivenza) . Gli stati mentali dipendono intrinsecamente dall'hardware e la causalità è legata all'hardware fisico .",
+    "integration_or_binding": "Non affrontato esplicitamente nelle fonti; la complessità comporta un'accrezione graduale di funzioni che sono stratificate e intrecciate .",
+    "information_flow_or_representation": "Le specie primitive elaborano informazioni tramite sofisticati sistemi sensoriali e percettivi per prendere decisioni basate su stati ambientali e interni . Rifiuta esplicitamente le teorie computazionali della mente .",
+    "evolutionary_account": "La coscienza è emersa con la vita stessa . L'evoluzione segue uno schema piramidale in cui le funzioni diventano progressivamente più complesse, a partire dalle caratteristiche organiche basilari .",
+    "core_claims_and_evidence": [
+      "La senzienza è indicata da funzioni primitive (apprendimento, memoria, processo decisionale) osservate in specie unicellulari come i batteri .",
+      "Il problema difficile è un errore categoriale, poiché la mente è una componente intrinseca della forma organica, non un elemento aggiunto .",
+      "Gli stati mentali dipendono intrinsecamente dall'hardware, il che mina il funzionalismo ."
+    ],
+    "basis_of_belief_or_evidence_type": "Biologico; Evolutivo; Fenomenologico (riposizionamento del problema dell'esperienza) ."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile , riorientando la ricerca verso la comprensione delle forme organiche basilari e primitive e della loro bio-sensibilità .",
+    "known_empirical_interventions_or_tests": "Sfruttare le scoperte e l'analisi del repertorio dei micro- e cito-biologi relative ai comportamenti complessi (sensoriali, di memoria, di apprendimento) delle specie unicellulari .",
+    "criticisms_and_tensions": "L'impegno della teoria verso il riduzionismo biologico e l'affermazione che gli stati mentali dipendano intrinsecamente dall'hardware minano il diffuso approccio funzionalista . Essa affronta la sfida di spiegare come la senzienza primitiva si estenda fino alla complessa coscienza umana, sebbene ciò venga inquadrato come accrezione piuttosto che come combinazione.",
+    "open_questions_and_limitations": " La CBC richiede una comprensione precisa di come le forme organiche basilari e primitive acquisiscano la bio-sensibilità . Essa si basa sul rifiuto dell'idea che le menti siano computazionali .",
+    "ontological_coherence": "Coerente all'interno di una rigorosa ontologia materialista  che esige il riduzionismo biologico e considera il problema difficile un errore categoriale derivante da assunti ontologici errati ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "La teoria rifiuta esplicitamente la visione computazionale della mente e afferma che la coscienza richiede una dipendenza intrinseca dall'hardware costituito dalla forma organica biologica, il che vieta l'istanziazione artificiale ."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "In quanto teoria del materialismo, la coscienza è unicamente il prodotto di cervelli/corpi biologici. La morte significa la non esistenza irrevocabile e permanente della persona/mente ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Umanistico/Biologico",
+      "rationale": "La coscienza funziona principalmente ai fini della sopravvivenza e dell'adattamento . Poiché la teoria è classificata come materialismo, non è implicato alcun significato o scopo cosmico ultimo ."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Il rifiuto esplicito delle spiegazioni computazionali della mente  e la dipendenza da processi biologici intrinsecamente legati all'hardware  rendono impossibile il caricamento digitale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Feinberg and Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "Sovrapposizione (condivide il contesto filogenetico)"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Critica (minato dall'affermazione che gli stati mentali dipendano intrinsecamente dall'hardware) "
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "Compatibile (condivide l'attenzione alle origini evolutive) "
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Caterpillars, consciousness and the origins of mind, Arthur Reber",
+        "year": 2016
+      },
+      {
+        "title_with_names": "The First Minds: Caterpillars, Karyotes, and Consciousness, Arthur Reber",
+        "year": 2018
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "Il monismo anomalo di Davidson",
+    "summary": "Il monismo anomalo sostiene che ogni evento mentale è identico a un evento fisico (identità di token), mantenendo un'ontologia monistica. Tuttavia, la teoria insiste sul fatto che non vi sono leggi naturali rigorose e senza eccezioni che colleghino i concetti mentali (tipi) con i concetti fisici, portando all'irriducibilità della psicologia alla fisica. Questa duplice asserzione risolve l'apparente conflitto tra la causalità mentale e la completezza causale del mondo fisico.",
+    "associated_thinkers": ["Donald Davidson"],
+    "category": "Monismi",
+    "subcategory": "Monismo anomalo",
+    "core_identity_tagline": "I token mentali sono fisici, i tipi mentali sono anomali",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "token identity",
+      "property dualism",
+      "mental causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Le entità mentali (oggetti ed eventi particolari, vincolati nel tempo e nello spazio, ovvero token) sono entità fisiche. Tuttavia, i concetti mentali non sono riducibili ai concetti fisici per definizione o per legge naturale.",
+    "ontological_status": "Monismo (Fisicalismo dell'identità di token/Dualismo delle proprietà). La teoria sostiene che gli eventi mentali abbiano un'ontologia fisica.",
+    "mind_body_relationship": "Identità di token: gli eventi mentali sono identici agli eventi fisici. Ciò è giustificato argomentando l'impossibilità di identità di tipo tra proprietà mentali e fisiche. La teoria è una forma di dualismo delle proprietà.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza forte. (Giustificazione: le proprietà mentali sono irriducibili in linea di principio e non possono essere catturate da leggi psicofisiche rigorose, in linea con la forte irriducibilità.)",
+    "subjectivity_and_intentionality": "La teoria affronta l'essenza intenzionale dei fenomeni mentali (ad esempio, l'aboutness) come una proprietà che distingue i fenomeni mentali dalle leggi o dalle cose fisiche.",
+    "qualia_account": "Il carattere qualitativo (qualia) è incorporato nella categoria più ampia delle proprietà/concetti mentali che sono anomali, ossia non soggetti a riduzione da parte di concetti o leggi fisiche.",
+    "ontological_commitments": "Entità ed eventi fisici (token); proprietà/concetti mentali irriducibili (tipi).",
+    "epistemic_access": "Conosciuto attraverso l'analisi filosofica della causalità e i requisiti unici della spiegazione psicologica, che non possono produrre leggi senza eccezioni come la fisica.",
+    "constituents_and_structure": "I costituenti sono entità/eventi fisici, ma la coscienza è strutturata da concetti/proprietà mentali che sono irriducibili."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Eventi mentali (token); causalità mentale; intenzionalità.",
+    "distinctive_mechanism_or_principle": "Anomalia del mentale: l'asserzione che non vi sono leggi naturali che colleghino i fenomeni mentali con i fenomeni fisici, anche se gli eventi mentali causano eventi fisici e tutte le relazioni causali sono sostenute da leggi naturali (l'identità di token è giustificata dall'impossibilità dell'identità di tipo).",
+    "dynamics_of_emergence": "Gli stati mentali coscienti sorgono come eventi fisici unici (token), caratterizzati dal fatto di non poter essere governati da leggi predittive rigorose come quelle della fisica di base.",
+    "location_and_distribution": "Gli eventi mentali sono entità fisiche, dunque situati nel cervello/substrato fisico.",
+    "causation_and_functional_role": "Gli eventi mentali possiedono genuini poteri causali e causano eventi fisici.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "I fenomeni mentali sono definiti dalla loro essenza intenzionale, che sembra radicalmente diversa dalle leggi puramente fisiche.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Gli eventi mentali (token) sono identici agli eventi fisici.",
+      "Le proprietà mentali (tipi) non sono riducibili a concetti fisici o a leggi naturali.",
+      "Gli eventi mentali hanno genuini poteri causali e causano eventi fisici.",
+      "La psicologia non può produrre leggi senza eccezioni per prevedere i pensieri e le azioni umane (anomalia del mentale)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico (argomentazione deduttiva basata su tre premesse riguardanti la causalità e il carattere nomologico)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettuale/Filosofico. (Giustificazione: le affermazioni centrali della teoria poggiano sulla necessità filosofica riguardante la natura della causalità e della spiegazione psicologica.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La principale tensione nasce dalla congiunzione di tre affermazioni: (i) la causalità mentale esiste, (ii) ogni causalità è sostenuta da leggi, e (iii) non vi sono leggi psicofisiche. Questa congiunzione appare a prima vista incoerente o contraddittoria.",
+    "open_questions_and_limitations": "Il quadro deve rendere pienamente conto di come possa aver luogo la causalità mentale se non vi sono leggi rigorose che colleghino i tipi di proprietà mentali ai tipi di proprietà fisiche (il problema dell'efficacia causale delle proprietà anomale).",
+    "ontological_coherence": "La coerenza interna è raggiunta, a condizione che le tre premesse fondamentali siano accettate come valide, poiché la conclusione dell'identità di token è incorporata in esse. Condivide caratteristiche con il fisicalismo non riduttivo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possibile",
+      "rationale": "Poiché l'ontologia è fondamentalmente monista (tutti gli eventi mentali sono eventi fisici), la coscienza dell'IA è possibile in linea di principio se i pertinenti sistemi fisici complessi possono essere replicati in mezzi artificiali, sebbene l'assenza di leggi mentali prevedibili (anomalia) complichi la valutazione."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Gli eventi mentali dipendono dagli eventi fisici (identità di token). La sopravvivenza oltre la distruzione del substrato biologico è preclusa sotto questo presupposto materialista."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "In quanto teoria del monismo ontologico, si allinea con le categorie materialiste che generalmente non razionalizzano un significato o uno scopo ultimo al di là di ciò che gli esseri umani creano per se stessi."
+    },
+    "virtual_immortality": {
+      "stance": "Probabile",
+      "rationale": "Se il substrato fisico (il pattern cerebrale) viene duplicato, anche gli eventi mentali (che sono identici a quei token) dovrebbero essere duplicati, rendendo raggiungibile l'immortalità virtuale, analogamente ad altre posizioni fisicaliste non riduttive."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Non-Reductive Physicalism", "relationship": "Sovrapposizione" },
+      { "name": "Property Dualism", "relationship": "Sovrapposizione" },
+      {
+        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "relationship": "Critica"
+      }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "L'evoluzione delle menti di Dennett",
+    "summary": "Questo quadro sostiene che la mente e la coscienza siano interamente il risultato dell'evoluzione per selezione naturale, sottolineando che l'organizzazione complessa (progetto, ragioni, competenza) è sorta senza richiedere un progettista o un ragionatore cosciente. Spiega lo sviluppo delle menti umane attraverso livelli successivi e puramente materiali di astrazione e complessità.",
+    "associated_thinkers": [
+      "Daniel Dennett"
+    ],
+    "category": "Teorie del materialismo",
+    "subcategory": "Evoluzione filogenetica",
+    "core_identity_tagline": "Menti evolute per selezione naturale, senza magia",
+    "classification_tags": [
+      "evolution",
+      "naturalism",
+      "phylogenetic",
+      "materialism",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza e la mente sono identificate come processi fisici altamente complessi: un insieme evoluto di strumenti di pensiero costruiti su processi materiali, in cui la 'magia' della mente è compiuta senza magia.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Teoria dell'identità/Riduzionista. Gli stati mentali sono interamente il prodotto dei cervelli biologici, spiegati pienamente dagli stati fisici, coerentemente con la più ampia posizione materialista di Dennett.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole. La coscienza è pienamente spiegabile in linea di principio dai processi fisici sottostanti, rifiutando la necessità di un'emergenza forte o di un intervento non fisico.",
+    "subjectivity_and_intentionality": "La soggettività è costruita tramite strutture organizzative evolute, come il 'centro di gravità narrativa'. L'intenzionalità (aboutness) sorge quando ammassi complicati di molecole evolvono la capacità di avere significato o contenuto.",
+    "qualia_account": "I qualia (il carattere qualitativo) sono trattati come 'illusioni d'uso' incoerenti e illusorie: reti neurali complesse e attivate risultanti dal processo evolutivo, piuttosto che proprietà mentali intrinseche e non analizzabili.",
+    "ontological_commitments": "Mondo fisico, leggi naturali, cervelli biologici e processi di selezione naturale.",
+    "epistemic_access": "La prospettiva in terza persona della scienza, in particolare usando il metodo dell'eterofenomenologia per trattare le affermazioni introspettive come dati da spiegare, non come resoconti veri della realtà mentale.",
+    "constituents_and_structure": "La struttura della mente consiste in un elaborato kit di 'strumenti di pensiero' evoluti e in strati organizzativi gerarchici costruiti sull'evoluzione biologica."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Origine filogenetica, Contenuto, Struttura della mente, Coscienza (sgonfiata/illusoria), Autoconsapevolezza (come costruzione narrativa).",
+    "distinctive_mechanism_or_principle": "L'immenso potere dell'evoluzione per selezione naturale, che crea risultati caratterizzati da 'ragioni senza un ragionatore, progetto senza un progettista e competenza senza comprensione'.",
+    "dynamics_of_emergence": "La coscienza è sorta attraverso un processo graduale e incrementale di sviluppo mentale nel corso della storia filogenetica, tracciabile dalle prime forme di vita fino alle menti umane.",
+    "location_and_distribution": "Localizzata nei cervelli complessi degli organismi superiori, in particolare gli esseri umani, dove un'organizzazione avanzata dell'attività neurale sostiene complessi 'strumenti di pensiero'.",
+    "causation_and_functional_role": "La mente è sorta perché forniva un vantaggio adattivo, che accresceva la fitness, in ambienti impegnativi. La sua funzione è consentire comportamenti e cognizione complessi, come l'autoriflessione.",
+    "integration_or_binding": "L'integrazione è raggiunta tramite l'evoluzione della fissazione e propagazione del contenuto nel cervello, che si coagula in una sorta di storia di vita o 'centro di gravità narrativa'.",
+    "information_flow_or_representation": "L'evoluzione consente al cervello di elaborare l'informazione in modo tale che diverse regioni cerebrali generino 'molteplici bozze' che competono per l'attenzione (fama nel cervello), formando un flusso narrativo.",
+    "evolutionary_account": "La coscienza è una conquista evolutiva non magica, in cui gli organismi hanno sviluppato capacità complesse come modellare, prevedere e simulare, culminando nell'introspezione umana e nel pensiero astratto.",
+    "core_claims_and_evidence": [
+      "L'origine delle menti può essere spiegata dall'evoluzione biologica senza ricorrere a elementi non fisici.",
+      "La complessità della mente umana è il culmine dell'evoluzione, che produce 'strumenti di pensiero' specializzati.",
+      "Le proprietà fenomenali sono illusioni incoerenti che sorgono da un'attività neurale complessa ed evoluta."
+    ],
+    "basis_of_belief_or_evidence_type": "Argomentazione filosofica, Biologia evolutiva, Logica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente verificabile rispetto alla coerenza biologica e neodarwiniana; sostenuta indirettamente da risultati neuroscientifici correlati con modelli funzionalisti.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Criticata per aggirare il 'problema difficile' affermando che la coscienza (i qualia) è un'illusione o uno pseudo-problema. Gli oppositori mettono in dubbio il vantaggio evolutivo dell'esperienza soggettiva se essa è meramente un'illusione o un epifenomeno.",
+    "open_questions_and_limitations": "Non fornisce una spiegazione diretta del carattere soggettivo dell'esperienza, ma solo una spiegazione del perché *riferiamo* di avere una tale esperienza.",
+    "ontological_coherence": "Altamente coerente, usando l'evoluzione darwiniana come 'acido universale' per fondare tutti gli aspetti della mente, inclusi concetti tradizionalmente non materiali, saldamente all'interno di un'ontologia fisicalista rigorosa."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sì",
+      "rationale": "Poiché la coscienza è interamente materiale e risulta da un'organizzazione complessa (funzionalismo/materialismo), non vi è alcun divieto di principio che le intelligenze non biologiche raggiungano la coscienza, se viene replicata la corretta complessità."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è interamente legata al cervello fisico; la morte comporta la non esistenza irrevocabile e permanente, a meno che il sé non sia preservato digitalmente (immortalità virtuale)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "Il processo evolutivo opera per 'progetto senza un progettista', il che significa che non vi è alcun significato o scopo cosmico intrinseco; il significato è auto-creato dagli esseri umani coscienti."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Se la coscienza è interamente spiegata dall'organizzazione fisica/funzionale evoluta del cervello, allora una perfetta duplicazione di questi pattern e percorsi neurali in un mezzo non biologico dovrebbe preservare il sé mentale in prima persona."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Multiple Drafts Model",
+        "relationship": "Fondamento"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Lycan’s Homuncular Functionalism",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "Compatibile"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Darwin’s Dangerous Idea: Evolution and the Meanings of Life, Daniel Dennett",
+        "year": 1995
+      }
+    ]
+  }
+}

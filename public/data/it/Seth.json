@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "La teoria della “macchina bestia” di Seth",
+    "summary": "Questa teoria sostiene che le esperienze coscienti, comprese le percezioni del mondo e del sé, siano forme di predizione percettiva basata sul cervello, metaforicamente definite 'allucinazioni controllate' . Essa radica il meccanismo della coscienza nell'imperativo biologico fondamentale di regolare la fisiologia corporea al fine di rimanere in vita .",
+    "associated_thinkers": ["Anil Seth"],
+    "category": "Teorie del Materialismo",
+    "subcategory": "Omeostatico e affettivo",
+    "core_identity_tagline": "‘La coscienza come allucinazione controllata basata sulla predizione’",
+    "classification_tags": [
+      "neurobiology",
+      "predictive processing",
+      "homeostatic",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata con forme di predizione percettiva basata sul cervello, in cui le proprietà fenomenologiche sono spiegate dagli aspetti computazionali di diverse forme di predizione .",
+    "ontological_status": "Fisicalismo / Materialismo (giustificato dalla sua classificazione tra le teorie del materialismo e dalla sua dipendenza da spiegazioni biologiche e computazionali) .",
+    "mind_body_relationship": "Le esperienze coscienti sono interamente basate sul cervello e istanziate fisicamente . Il modello sostiene una forte correlazione o teoria dell'identità, in cui le proprietà coscienti sorgono dall'architettura fisiologica e computazionale orientata alla regolazione corporea .",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (Giustificato: la teoria è una spiegazione materialista che propone che l'esperienza soggettiva sorga da complessi processi cerebrali computazionali . Si presume che tali processi siano spiegabili, in linea di principio, mediante le leggi fisiche sottostanti, caratteristica dell'emergenza debole.)",
+    "subjectivity_and_intentionality": "La soggettività sorge perché la percezione è determinata dal contenuto delle predizioni dall'alto verso il basso, dando luogo a un'esperienza fenomenica che è una 'fantasia neuronale dall'interno verso l'esterno' vincolata dalla realtà . La teoria rende conto dell'esperienza del sé spiegando le differenze tra le esperienze del mondo e le esperienze del sé .",
+    "qualia_account": "Le proprietà fenomenologiche delle esperienze coscienti sono spiegate dagli aspetti computazionali delle diverse forme di predizione percettiva utilizzate dal cervello .",
+    "ontological_commitments": "Cervelli biologici, attività neurale, apparato di elaborazione predittiva e meccanismi sottostanti di regolazione fisiologica corporea .",
+    "epistemic_access": "Accessibile tramite metodi neuroscientifici e computazionali, in particolare quelli che indagano i modelli di elaborazione predittiva della funzione cerebrale .",
+    "constituents_and_structure": "Una struttura computazionale costituita da predizioni dall'alto verso il basso che interagiscono con segnali sensoriali dal basso verso l'alto, radicata nei tentativi del sistema biologico di regolare il proprio stato interno ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Coscienza fenomenica, esperienza del sé, percezione .",
+    "distinctive_mechanism_or_principle": "La coscienza è spiegata attraverso l'elaborazione predittiva, in cui il cervello genera una costante 'migliore ipotesi' (predizione) delle cause dei suoi input sensoriali . Questo meccanismo è intrinsecamente legato alla regolazione della fisiologia corporea .",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico in cui l'esperienza sorge dalla predizione in corso; è simile a un 'sogno da svegli' costantemente tenuto a freno dalla realtà .",
+    "location_and_distribution": "Localizzata nel cervello biologico, legata all'apparato predittivo che regola la fisiologia corporea .",
+    "causation_and_functional_role": "La coscienza ha un ruolo funzionale legato alla sopravvivenza . Facilita la regolazione della fisiologia corporea e consente all'organismo di modellare, predire e simulare le cause degli input sensoriali .",
+    "integration_or_binding": "L'integrazione è realizzata attraverso la formazione di un mondo percettivo coerente—l'\"allucinazione controllata\"—che unifica i segnali sensoriali ambigui tramite predizioni dall'alto verso il basso .",
+    "information_flow_or_representation": "La percezione cosciente è determinata dal contenuto delle predizioni dall'alto verso il basso piuttosto che dai segnali sensoriali dal basso verso l'alto in sé. I segnali sensoriali sono interpretati come rappresentazioni di cause esterne .",
+    "evolutionary_account": "La coscienza è sorta attraverso l'evoluzione filogenetica, guidata dall'imperativo biologico fondamentale di regolare la fisiologia corporea e assicurare la sopravvivenza (rimanere in vita) .",
+    "core_claims_and_evidence": [
+      "Le esperienze coscienti sono forme di predizione basata sul cervello ('allucinazioni controllate') .",
+      "Le proprietà fenomenologiche sono spiegate dagli aspetti computazionali della predizione percettiva .",
+      "L'apparato predittivo che sottende la coscienza è sorto tramite l'imperativo biologico di regolare la fisiologia corporea ."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirico, Neurobiologico, Computazionale"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile (Dedotto, poiché la teoria si basa su concetti dei campi neurobiologico e computazionale che pongono l'accento sullo sviluppo, il test e il confronto delle teorie) .",
+    "known_empirical_interventions_or_tests": "Test che coinvolgono spiegazioni basate sull'elaborazione predittiva della percezione, cognizione e azione cerebrale (Giustificato: non vengono forniti test specifici denominati, ma la teoria è esplicitamente collocata all'interno del quadro dell'elaborazione predittiva) .",
+    "criticisms_and_tensions": "Non esplicitamente dettagliato nella fonte, ma generalmente soggetto alla tensione insita nelle spiegazioni deflazionarie della coscienza .",
+    "open_questions_and_limitations": "Come molte teorie della coscienza, affronta la sfida generale per cui, man mano che i dati empirici si accumulano, le teorie sembrano proliferare anziché essere definitivamente escluse .",
+    "ontological_coherence": "Molto coerente all'interno di un quadro fisicalista e di naturalismo biologico, offrendo una spiegazione sistematica della coscienza derivata dalla funzione biologica e dalla computazione ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "In quanto teoria materialista incentrata su meccanismi computazionali e di elaborazione dell'informazione (la predizione percettiva) , i sistemi di IA che istanziano meccanismi complessi simili dovrebbero essere in grado di raggiungere la coscienza ."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è un prodotto di cervelli biologici e di un complesso apparato predittivo fisicamente istanziato . La morte del cervello porta alla non esistenza irrevocabile e permanente della coscienza personale ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "Classificata come teoria del materialismo, non implica alcun significato o scopo ultimo o cosmico, sebbene sostenga un significato e un valore creati dall'uomo, derivati dall'agentività e dall'esperienza individuali ."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Se la coscienza è interamente spiegabile mediante i processi computazionali del cervello , allora, in linea di principio, il sé mentale in prima persona potrebbe essere duplicato e istanziato in un substrato non biologico, rendendo possibile l'immortalità virtuale ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "T. Clark’s Content Hypothesis",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Compatibile"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Being You: A New Science of Consciousness, Anil Seth",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Theories of consciousness, Anil Seth and Tim Bayne",
+        "year": 2022
+      }
+    ]
+  }
+}

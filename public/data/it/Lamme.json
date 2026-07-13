@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "La teoria dell'elaborazione ricorrente di Lamme",
+    "summary": "La teoria dell'elaborazione ricorrente (RPT) di Lamme sostiene che la coscienza è necessaria e sufficiente quando si verificano connessioni di retroazione reciproche (ricorrenti) tra aree neurali, in particolare nei sistemi sensoriali. Questa elaborazione, che avviene localmente nelle aree sensoriali e post-sensoriali (Fase 3), genera l'esperienza fenomenica senza richiedere l'accesso alla diffusione globale.",
+    "associated_thinkers": ["Victor Lamme"],
+    "category": "Materialismo",
+    "subcategory": "Rappresentazionale",
+    "core_identity_tagline": "«La coscienza come elaborazione ricorrente nei sistemi sensoriali»",
+    "classification_tags": [
+      "neuroscience",
+      "visual system",
+      "recurrent connections",
+      "first-order theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come uno specifico stato di elaborazione ricorrente che sussiste all'interno dei circuiti neurali pertinenti, come il sistema visivo.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Approccio identitario/riduzionista, che sostiene che la nozione di mente debba muovere verso quella di cervello, e che la coscienza sia identica a uno stato di elaborazione ricorrente nei circuiti fisici.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole",
+    "subjectivity_and_intentionality": "La soggettività (la coscienza fenomenica) è lo stato di elaborazione ricorrente stesso. L'intenzionalità è veicolata dal contenuto rappresentato all'interno di questi anelli (inferita in quanto teoria rappresentazionale/del primo ordine).",
+    "qualia_account": "I qualia sono generati quando un certo stato di elaborazione ricorrente sussiste nei circuiti visivi pertinenti, rendendo cosciente lo stato visivo.",
+    "ontological_commitments": "Sistemi sensoriali cerebrali, circuiti neurali (circuiti visivi), connessioni feedforward e di retroazione.",
+    "epistemic_access": "Accessibile attraverso misure neurali e comportamentali, che Lamme suggerisce di porre su un piano di parità.",
+    "constituents_and_structure": "Circuiti neurali massicciamente interconnessi (anelli ricorrenti) che coinvolgono connessioni feedforward e di retroazione."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica",
+    "distinctive_mechanism_or_principle": "L'elaborazione ricorrente (connessioni di retroazione) nelle aree sensoriali e post-sensoriali (Fase 3) è considerata sufficiente per la coscienza.",
+    "dynamics_of_emergence": "Processo dinamico. Gli stati coscienti sono il risultato dell'attività dinamica prodotta dalle connessioni di retroazione che collegano le aree visive con altre regioni cerebrali.",
+    "location_and_distribution": "Localizzata nelle aree sensoriali e post-sensoriali, specificamente nelle attivazioni ricorrenti nella «parte posteriore della testa».",
+    "causation_and_functional_role": "La coscienza è lo specifico stato di elaborazione ricorrente stesso. Lo scopo sottostante è implicitamente quello di avvicinare la comprensione della mente al cervello.",
+    "integration_or_binding": "L'integrazione si realizza localmente all'interno degli anelli ricorrenti nelle aree percettive.",
+    "information_flow_or_representation": "L'informazione comporta un'iniziale ondata in avanti (registrazione inconscia) seguita da connessioni di retroazione che producono l'elaborazione ricorrente (la coscienza).",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La coscienza richiede sistemi sensoriali massicciamente interconnessi che coinvolgono connessioni feedforward e di retroazione (elaborazione ricorrente).",
+      "L'elaborazione ricorrente nelle aree sensoriali e post-sensoriali è necessaria e sufficiente per la coscienza fenomenica.",
+      "La percezione cosciente è identificata con le attivazioni ricorrenti nella parte posteriore della testa (teoria del primo ordine)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirico, neurobiologico, concettuale"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Critica la teoria dello spazio di lavoro globale (GWT) in quanto «tutta incentrata sull'accesso ma non sul vedere». È a sua volta criticata da Ned Block come una «forma troncata del resoconto dello spazio di lavoro globale».",
+    "open_questions_and_limitations": "Le attivazioni ricorrenti sono sufficienti per la coscienza solo in presenza di certe «condizioni di sfondo», come la connettività intatta con le strutture sottocorticali.",
+    "ontological_coherence": "Altamente coerente entro l'ontologia materialista, in quanto radica la coscienza interamente in meccanismi neurali specifici e identificati."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "In quanto teoria materialista, la coscienza dell'IA deve, in linea di principio, essere possibile qualora il necessario pattern di elaborazione ricorrente potesse essere duplicato artificialmente in un substrato non biologico."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è legata all'attività cerebrale fisica e a specifici circuiti neurali (stati di elaborazione ricorrente), il che suggerisce la sua cessazione con la morte corporea."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "La teoria si concentra su una spiegazione puramente fisicalista e neurobiologica dell'esperienza fenomenica e non sostiene alcun significato o scopo cosmico ultimo."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Poiché la coscienza è lo stato di elaborazione ricorrente stesso, una duplicazione perfetta di tale processo su un nuovo mezzo (caricamento) genererebbe il sé in prima persona, rendendo possibile l'immortalità virtuale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Critica"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "Sovrapposizione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a true neural stance on consciousness, Victor Lamme",
+        "year": 2006
+      },
+      {
+        "title_with_names": "How neuroscience will change our view on consciousness, Victor Lamme",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Wu, 2018 (Discussing Lamme's RPT)",
+        "year": 2018
+      }
+    ]
+  }
+}

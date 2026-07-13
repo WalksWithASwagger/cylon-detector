@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "La società della mente di Minsky",
+    "summary": "La teoria postula che la cognizione e l'intelligenza umane emergano dalle interazioni parallele e non coscienti di numerosi elementi funzionali specializzati e semi-indipendenti, noti come «agenti», localizzati nel cervello. La coscienza stessa è considerata un «termine valigia», usato in modo ambiguo per etichettare un insieme di questi diversi processi cognitivi e di consapevolezza, piuttosto che una singola entità unificata.",
+    "associated_thinkers": ["Marvin Minsky"],
+    "category": "Materialismo",
+    "subcategory": "Neurobiologico",
+    "core_identity_tagline": "«La coscienza come termine valigia per gli agenti»",
+    "classification_tags": [
+      "computational",
+      "modularity",
+      "agents",
+      "functionalism",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come una descrizione collettiva di alto livello usata per una varietà di processi e fenomeni emergenti (per esempio, tipi di memoria, consapevolezze specializzate) generati da agenti computazionali sottostanti nel cervello.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "La mente/coscienza è interamente prodotta da, ed è una descrizione di alto livello dell', organizzazione fisica e delle attività di unità computazionali specializzate («agenti») nel cervello. L'organizzazione è cruciale, non il substrato materiale.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (Giustificazione: In quanto quadro materialista computazionale, la struttura e l'organizzazione degli stati mentali, per quanto complesse, sono fondamentalmente riducibili alle interazioni definite degli agenti non coscienti, il che non implica alcuna «magia» irriducibile al di là della descrizione di alto livello.)",
+    "subjectivity_and_intentionality": "La soggettività (il senso del sé) sorge come processo di alto livello: la capacità del sistema di costruire un modello di sé stesso come essere in un mondo e di usare questo modello per il pensiero di alto livello sul proprio passato e futuro. L'intenzionalità è veicolata dall'output di agenti specializzati.",
+    "qualia_account": "I qualia sono implicitamente respinti come parte del fuorviante «termine valigia» della coscienza, che distoglie l'attenzione dai complessi processi sottostanti. La teoria seziona varie forme di consapevolezza (per esempio, ricordare una sensazione vs. ricordare parole) ma rifiuta un carattere fenomenico irriducibile.",
+    "ontological_commitments": "Agenti cognitivi specializzati, livelli organizzativi gerarchici, strutture cerebrali fisiche (per esempio, le colonne corticali) e descrizioni computazionali di alto livello.",
+    "epistemic_access": "Principalmente attraverso lo studio dell'organizzazione computazionale, delle funzioni e delle relazioni delle componenti cerebrali di alto livello (gli «agenti»), piuttosto che concentrandosi sui neuroni di basso livello o sull'introspezione soggettiva.",
+    "constituents_and_structure": "Semplici unità di elaborazione specializzate e prive di mente, chiamate «agenti», organizzate in una vasta rete di macchine cooperanti e semi-indipendenti, risultanti dalla specializzazione e dall'associazione nel corso dell'evoluzione."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Di accesso, cognizione, memoria, autoconsapevolezza (come costruzione di modelli), pianificazione, risoluzione di problemi, molteplici diversi tipi di consapevolezza.",
+    "distinctive_mechanism_or_principle": "L'architettura della società della mente, in cui una complessa funzionalità di alto livello è raggiunta attraverso la cooperazione massiva e gerarchica e le conseguenti descrizioni di alto livello che sorgono da agenti semplici e non coscienti.",
+    "dynamics_of_emergence": "Processo dinamico. La consapevolezza si sviluppa attraverso il processo storico di neuroni che si raccolgono specializzandosi e associandosi, il che conduce a un'organizzazione gerarchica sempre più complessa (livelli multipli di organizzazione cerebrale).",
+    "location_and_distribution": "Distribuita su livelli multipli di organizzazione nel cervello, concepito come una grande rete di computer specializzati. I sostenitori argomentano contro la ricerca di una singola localizzazione fisica per la «coscienza» perché è un termine composito.",
+    "causation_and_functional_role": "La coscienza descrive funzioni di controllo di alto livello come riconoscere gli errori, sviluppare nuovi obiettivi e costruire modelli del sé per generare proposte di pianificazione e storie controfattuali. Questa funzione composita fornisce un valore adattivo di sopravvivenza.",
+    "integration_or_binding": "L'integrazione avviene implicitamente tramite le complesse interazioni tra le centinaia di agenti specializzati, i cui output sono interpretati come descrizioni unificate di alto livello (pensieri di Livello 5).",
+    "information_flow_or_representation": "L'informazione è elaborata gerarchicamente attraverso i livelli organizzativi. Le descrizioni di alto livello sono fondamentali, richiedendo un macchinario cognitivo specializzato (agenti) molti livelli al di sopra dell'attività neurofisiologica.",
+    "evolutionary_account": "La cognizione/mente è il prodotto finale di una vasta storia evolutiva in cui il progresso è stato compiuto attraverso la specializzazione e l'associazione tra neuroni primitivi, portando infine a strutture organizzative complesse a differenza degli animali precedenti.",
+    "core_claims_and_evidence": [
+      "La coscienza è un'etichetta composita e metaforica per processi diversi (un «termine valigia»).",
+      "L'architettura sottostante è una grande rete di macchine biologiche specializzate (agenti).",
+      "Comprendere l'attività neuronale di basso livello è insufficiente per spiegare i pensieri di alto livello e i processi cognitivi."
+    ],
+    "basis_of_belief_or_evidence_type": "Computazionale, filosofico (prospettiva dell'IA), neurobiologico (gerarchia organizzativa)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente e computazionalmente testabile (Giustificazione: Poiché la coscienza è definita puramente attraverso meccanismi funzionali e una gerarchia organizzativa, i principi possono essere implementati e testati all'interno di sistemi artificiali avanzati).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La critica principale rivolta alla ricerca della coscienza è che i ricercatori sprecano il loro tempo cercando un singolo «luogo del cervello in cui la coscienza è localizzata» quando essa è solo una parola per molti processi. Affronta inoltre le critiche standard del funzionalismo riduttivo riguardanti il rifiuto di autentici qualia soggettivi.",
+    "open_questions_and_limitations": "Il limite è l'immenso compito di determinare precisamente come funzioni ciascuno dei processi componenti raggruppati sotto il «termine valigia» e come essi si interrelazionino.",
+    "ontological_coherence": "Altamente coerente all'interno di un quadro fisicalista che pone l'accento sulla complessa organizzazione computazionale e sulla decomposizione funzionale, allineandosi con la posizione filosofica del funzionalismo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sì",
+      "rationale": "Se la coscienza risulta dalle necessarie interazioni computazionali e dalle descrizioni di alto livello di agenti specializzati, i sistemi artificiali capaci di istanziare questa specifica forma di organizzazione di alto livello dovrebbero essere coscienti."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza dipende interamente dall'esistenza fisica e dall'organizzazione funzionale del cervello/macchina biologico; la sua dissoluzione implica la fine permanente della mente."
+    },
+    "meaning_and_purpose": {
+      "stance": "Umanistico/Pragmatico",
+      "rationale": "Lo scopo funzionale della complessa organizzazione cognitiva (la coscienza) è aiutare l'organismo a orientarsi nel mondo, a fare piani e a modellare sé stesso, fornendo un significato soggettivo ma non implicando alcuno scopo cosmico onnicomprensivo."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Poiché la mente è definita dai suoi pattern informazionali e dalla sua organizzazione funzionale (descrizione di alto livello), la duplicazione totale o il caricamento in un supporto non biologico capace di replicare queste complesse interazioni trasferirebbe l'identità cosciente originale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Estensione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Society of Mind, Marvin Minsky",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Why is Consciousness So Mysterious?, Marvin Minsky",
+        "year": 2007
+      }
+    ]
+  }
+}

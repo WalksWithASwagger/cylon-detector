@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "La psicologia ecologica di Gibson",
+    "summary": "Gibson propone un approccio incarnato, situato e non rappresentazionale alla percezione, sostenendo che l'informazione è direttamente disponibile nell'ambiente (invarianti) ed è percepita in termini di affordance. Questo approccio offre una terza via oltre il cognitivismo e il comportamentismo e può essere cautamente inferito come spiegazione della coscienza.",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Incarnato ed Enattivo",
+    "core_identity_tagline": "La coscienza come percezione incarnata e situata delle affordance",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è compresa per estensione come una funzione dell'interazione continua e del flusso informativo all'interno del sistema organismo-ambiente, caratterizzata dalla percezione diretta di invarianti e affordance, piuttosto che da rappresentazioni mentali interne.",
+    "ontological_status": "Fisicalismo/Realismo diretto",
+    "mind_body_relationship": "La mente/percezione è in continuità con l'azione, ponendo l'accento sul sistema organismo-ambiente come unità di analisi e rifiutando l'idea che la mente sia riducibile esclusivamente a processi all'interno della testa.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole",
+    "subjectivity_and_intentionality": "La soggettività è costituita dalla relazione dinamica e situata dell'organismo con l'ambiente (sistema organismo-ambiente). L'intenzionalità (la direzionalità del pensiero) è spiegata dalla percezione delle affordance, che sono possibilità d'azione inerenti all'ambiente.",
+    "qualia_account": "La teoria è non rappresentazionale ed è generalmente allineata con visioni che rifiutano i dati sensoriali interni (qualia) come tradizionalmente concepiti, prediligendo la percezione diretta delle proprietà ambientali (invarianti e affordance).",
+    "ontological_commitments": "Sistema organismo-ambiente, informazione ottica (invarianti), affordance.",
+    "epistemic_access": "Accessibile attraverso lo studio della relazione tra l'organismo e il suo ambiente socio-fisico, piuttosto che tramite l'introspezione focalizzata sugli stati interni.",
+    "constituents_and_structure": "La struttura della coscienza/percezione si basa sulla relazione funzionale tra l'organismo e l'ambiente, sottolineando la continuità di percezione e azione."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Percezione/Cognizione, Fenomenica (per cauta inferenza)",
+    "distinctive_mechanism_or_principle": "Percezione diretta degli invarianti ambientali (elementi immutabili nel flusso ottico) e delle affordance (opportunità d'azione fornite dall'ambiente).",
+    "dynamics_of_emergence": "L'attenzione è rivolta al flusso dinamico e alla continuità all'interno del sistema organismo-ambiente, piuttosto che all'emergenza da strutture neurali discrete e localizzate.",
+    "location_and_distribution": "Situata all'interno del sistema organismo-ambiente, estendendosi oltre il cervello e l'interno della testa.",
+    "causation_and_functional_role": "La percezione funziona per guidare il comportamento adattativo e potenzia la fitness rilevando invarianti e opportunità d'azione (affordance).",
+    "integration_or_binding": "L'integrazione è inerente all'apprensione diretta e unificata del sistema organismo-ambiente come singola unità di analisi.",
+    "information_flow_or_representation": "Rifiuta i modelli di elaborazione dell'informazione; l'informazione è esterna (invarianti) e vi si accede direttamente tramite i sistemi percettivi senza necessità di una costruzione interna di rappresentazioni.",
+    "evolutionary_account": "L'enfasi sulle affordance suggerisce che questo sistema percettivo si sia evoluto perché forniva un ovvio valore di sopravvivenza e potenziava la fitness.",
+    "core_claims_and_evidence": [
+      "La percezione è direttamente correlata al solo stimolo, non richiedendo né inferenza né rappresentazioni mentali interne.",
+      "Gli oggetti primari della percezione sono le affordance, non particolari qualità sensoriali.",
+      "L'unità di analisi per comprendere la percezione è il sistema organismo-ambiente.",
+      "La teoria rifiuta la premessa della povertà dello stimolo comune nei modelli cognitivisti."
+    ],
+    "basis_of_belief_or_evidence_type": "Sperimentale, Filosofica, Ecologica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile, in particolare nell'ambito della psicologia ecologica e degli studi sulla percezione.",
+    "known_empirical_interventions_or_tests": "Osservazione empirica della percezione e analisi dettagliata dei campi di interazione organismo-ambiente.",
+    "criticisms_and_tensions": "La teoria critica le teorie mainstream della percezione, attaccando specificamente sia il comportamentismo sia il cognitivismo/elaborazione dell'informazione. La sua estensione alla coscienza fenomenica è speculativa e soggetta allo scetticismo di chi è impegnato nelle teorie della rappresentazione interna.",
+    "open_questions_and_limitations": "La teoria centrale affronta la percezione e la cognizione; l'applicazione o l'estensione alla spiegazione della coscienza fenomenica (l'aspetto del 'com'è') richiede una cauta inferenza.",
+    "ontological_coherence": "Altamente coerente all'interno della sua ontologia materialista ecologica, situata e anti-riduzionista, ma fondamentalmente in conflitto con le teorie che si basano sulla manipolazione cognitiva di simboli."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possibile",
+      "rationale": "Se la coscienza è un prodotto dell'interazione diretta e situata all'interno di un sistema organismo-ambiente (come implicato da questa teoria del Materialismo), allora l'IA potrebbe raggiungere la coscienza se progettata per incarnarsi e interagire all'interno di un ambiente fisico capace di percepire le affordance."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La teoria è classificata sotto il Materialismo, concentrandosi sull'organismo biologico vivente e sul suo ambiente fisico. Non è postulata alcuna componente non fisica che possa sopravvivere alla morte corporea."
+    },
+    "meaning_and_purpose": {
+      "stance": "Umanistico/Adattativo",
+      "rationale": "Il ruolo funzionale primario della percezione è il comportamento adattativo tramite il rilevamento delle affordance, coerentemente con una visione materialista in cui il significato è creato dagli esseri umani nel loro ambiente ai fini della sopravvivenza e del fiorire."
+    },
+    "virtual_immortality": {
+      "stance": "Condizionata",
+      "rationale": "Poiché la coscienza è legata all'unità fisica organismo-ambiente, l'immortalità virtuale sarebbe raggiungibile solo se le essenziali interazioni incarnate e non rappresentazionali potessero essere perfettamente catturate e simulate in un nuovo supporto fisico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Direct Perception Theory",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Critica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

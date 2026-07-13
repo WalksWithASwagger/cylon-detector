@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "Il linguaggio come classificatore della coscienza di Smith",
+    "summary": "Questa teoria, classificata all'interno del quadro del materialismo sotto le relazioni con il linguaggio, propone che il linguaggio funzioni fondamentalmente per categorizzare, strutturare e articolare i contenuti dell'esperienza soggettiva. La coscienza, pertanto, esiste come il contenuto che è stato organizzato e reso accessibile da queste strutture linguistiche.",
+    "associated_thinkers": ["Barry Smith"],
+    "category": "Teorie del Materialismo",
+    "subcategory": "Relazioni con il linguaggio",
+    "core_identity_tagline": "La coscienza come contenuto classificato linguisticamente",
+    "classification_tags": [
+      "language",
+      "materialism",
+      "classification",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata con il contenuto interno che è sottoposto a processi di classificazione linguistica, e da essi stabilizzato.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Identità o correlazione. In quanto teoria materialista, la mente (strutturata dal linguaggio) deve essere identica a, o correlarsi perfettamente con, i processi cerebrali sottostanti che sostengono la classificazione linguistica.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole",
+    "subjectivity_and_intentionality": "La soggettività sorge dalla peculiare strutturazione linguistica applicata agli stati interni di un individuo. L'intenzionalità è realizzata poiché il linguaggio fornisce il quadro rappresentazionale che collega gli stati mentali a oggetti o concetti esterni.",
+    "qualia_account": "I qualia sono visti come distinzioni o classificazioni linguistiche applicate all'input sensoriale grezzo. La 'qualità sentita' soggettiva è intrinseca alla specifica e complessa struttura imposta dal sistema linguistico.",
+    "ontological_commitments": "Meccanismi neurali fisici dedicati all'elaborazione del linguaggio, alla rappresentazione simbolica e alla categorizzazione.",
+    "epistemic_access": "Accessibile attraverso lo studio del comportamento linguistico, l'autodichiarazione e la correlazione con gli schemi di attivazione neurale relativi alla classificazione e alla comprensione del linguaggio.",
+    "constituents_and_structure": "Rappresentazioni basate sul linguaggio e schemi di categorizzazione organizzati dinamicamente dall'attività neurale."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Accesso, Rappresentazione, Linguaggio",
+    "distinctive_mechanism_or_principle": "Il principio centrale è la funzione del linguaggio come classificatore, che seleziona e struttura informazioni complesse in categorie coscienti discrete e riferibili.",
+    "dynamics_of_emergence": "La coscienza è un processo dinamico che sorge quando la complessa elaborazione dell'informazione interna è organizzata, definita e stabilizzata dalle strutture evolute del linguaggio.",
+    "location_and_distribution": "Distribuita tra le specifiche reti neurali responsabili dell'elaborazione, della rappresentazione e della classificazione del linguaggio all'interno del cervello.",
+    "causation_and_functional_role": "La coscienza funziona per rendere possibili capacità cognitive di ordine superiore, la comunicazione e un comportamento flessibile e adattivo, organizzando il contenuto mentale in categorie coerenti e comunicabili.",
+    "integration_or_binding": "L'integrazione è realizzata tramite il quadro unificato fornito dal sistema linguistico, che lega simbolicamente input sensoriali e cognitivi disparati.",
+    "information_flow_or_representation": "L'informazione è elaborata e strutturata dalla rappresentazione linguistica, rendendola accessibile a operazioni cognitive più ampie e all'automonitoraggio.",
+    "evolutionary_account": "La coscienza si è evoluta come un adattamento cognitivo strettamente legato allo sviluppo filogenetico del linguaggio, fornendo un maggiore beneficio di fitness attraverso una superiore organizzazione dell'informazione e la comunicazione sociale.",
+    "core_claims_and_evidence": [
+      "L'esperienza cosciente è fondamentalmente strutturata da categorie linguistiche.",
+      "L'attività neurale corrispondente alla classificazione linguistica si correla direttamente con la consapevolezza cosciente."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico, Linguistico, Cognitivo"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testabile (condizionale)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Le critiche comuni alle teorie linguo-centriche includono il rendere conto della coscienza negli esseri non linguistici (ad esempio, neonati, animali) e lo spiegare adeguatamente gli aspetti qualitativi e non simbolici dell'esperienza fenomenica.",
+    "open_questions_and_limitations": "Il preciso meccanismo neurobiologico mediante il quale il linguaggio impone una struttura all'input grezzo per generare l'esperienza soggettiva del 'classificatore' rimane esplicitamente indefinito nelle fonti.",
+    "ontological_coherence": "Molto coerente con un'ontologia materialista, che radica l'esperienza soggettiva nella complessità funzionale e strutturale dell'apparato linguistico del cervello."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "Se la coscienza è un prodotto di complessi meccanismi di classificazione linguistica, i sistemi artificiali con capacità di elaborazione del linguaggio e simbolica sufficientemente avanzate dovrebbero essere in grado di istanziarla."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è fondamentalmente legata al substrato fisico e biologico che sostiene il linguaggio e la classificazione; la sua estinzione è permanente al dissolversi del cervello."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "In quanto teoria materialista, sostiene un significato e un valore creati dall'uomo, derivati dalla complessità cognitiva e dall'autoriflessione, ma nega una teleologia cosmica ultima."
+    },
+    "virtual_immortality": {
+      "stance": "Sì",
+      "rationale": "Poiché la coscienza è funzionalmente riducibile a un sistema di classificazione e rappresentazione dell'informazione, la duplicazione o il caricamento digitale perfetto di questo sistema è possibile in linea di principio."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "T. Clark’s Content Hypothesis",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Chomsky’s Language and Consciousness",
+        "relationship": "Correlata/Contrasto"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Smith’s Language as Classifier of Consciousness",
+        "year": ""
+      },
+      {
+        "title_with_names": "Language and consciousness, Barry Smith",
+        "year": 2012
+      }
+    ]
+  }
+}

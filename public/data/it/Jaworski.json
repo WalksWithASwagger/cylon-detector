@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "L'ilemorfismo di Jaworski",
+    "summary": "La teoria di Jaworski afferma che la coscienza è fondamentalmente un fenomeno strutturale che scaturisce dall'ilemorfismo, il principio ontologico di base secondo cui la struttura rende conto dei poteri e delle capacità degli individui fisici. Definendo le esperienze coscienti come attività strutturate del percipiente, la teoria sostiene di risolvere il problema difficile della coscienza e di collocare i fenomeni mentali senza problemi all'interno del mondo naturale.",
+    "associated_thinkers": ["William Jaworski"],
+    "category": "Materialismo",
+    "subcategory": "Relazionale",
+    "core_identity_tagline": "«La coscienza come struttura e poteri fondamentali»",
+    "classification_tags": [
+      "hylomorphism",
+      "structure",
+      "physicalism",
+      "powers",
+      "mind-body solution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come un fenomeno strutturale—le attività e le capacità altamente organizzate e coordinate che scaturiscono dai materiali fisici che compongono il percipiente.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Identità strutturale. I fenomeni mentali sono fenomeni strutturali e dunque parte del mondo fisico. Il classico problema mente-corpo è visto come un sottoprodotto di visioni del mondo che rifiutano la struttura come principio ontologico di base.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Le fonti non specificano se debole o forte. Dato che la struttura spiega pienamente il carattere fenomenico, ciò suggerisce una concezione che mira alla riduzione alla struttura o a un'emergenza debole, compatibile con la sua classificazione materialista.",
+    "subjectivity_and_intentionality": "La soggettività scaturisce dal coordinamento che unifica le attività dei sottosistemi del percipiente in un tutto. L'intenzionalità è resa conto implicitamente come uno dei poteri o delle capacità fondamentali conferiti dalla specifica struttura fisica.",
+    "qualia_account": "Il carattere fenomenico dell'esperienza è pienamente spiegato descrivendo la struttura sottostante del percipiente, inclusi i sottosistemi percettivi, i loro poteri specifici e il coordinamento complessivo che unifica queste attività.",
+    "ontological_commitments": "Materiali fisici e struttura, dove la struttura è assunta come principio ontologico ed esplicativo di base, responsabile della determinazione dei poteri e delle capacità degli individui.",
+    "epistemic_access": "Alla coscienza si accede attraverso l'analisi e la descrizione della struttura fisica del percipiente e del coordinamento dei suoi sottosistemi percettivi.",
+    "constituents_and_structure": "Gli elementi costitutivi di base sono i materiali fisici combinati con una struttura specifica; la struttura complessiva detta le capacità coscienti e unifica attività diverse (come le esperienze percettive) nell'attività del percipiente considerato come un tutto."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica (spiega il carattere fenomenico/i qualia) e percettiva (le esperienze percettive sono un tipo di attività strutturata).",
+    "distinctive_mechanism_or_principle": "Il principio dell'ilemorfismo, che sostiene che l'organizzazione complessiva della materia detta i suoi poteri fondamentali, rendendo la coscienza una proprietà strutturale inerente di un sistema fisico sufficientemente complesso.",
+    "dynamics_of_emergence": "La coscienza si manifesta come «attività strutturate» (per es. esperienze percettive). È un processo dinamico definito dal coordinamento e dall'unificazione dei sottosistemi.",
+    "location_and_distribution": "Localizzata nei materiali fisici che possiedono la struttura richiesta, specificamente all'interno del corpo del percipiente (per es. il cervello umano e i sottosistemi associati).",
+    "causation_and_functional_role": "La struttura è responsabile dei poteri e delle capacità dell'individuo. Poiché i fenomeni mentali sono strutturali e parte del mondo fisico, essi possiedono un'efficacia causale inerente.",
+    "integration_or_binding": "L'unità dell'esperienza cosciente (integrazione) si realizza attraverso il «coordinamento che unifica» le attività dei vari sottosistemi percettivi nell'attività integrata dell'intero percipiente.",
+    "information_flow_or_representation": "La coscienza scaturisce da specifiche attività strutturate, come le esperienze percettive, che dipendono dall'organizzazione interna e dai poteri del percipiente, anziché unicamente da modelli astratti di elaborazione dell'informazione.",
+    "evolutionary_account": "Spiegazione giustificata: si osserva che la coscienza si inserisce «senza problemi nel mondo naturale» proprio come la vita, il che implica che essa sia un esito naturale e non misterioso dell'evoluzione, sebbene le tappe filogenetiche specifiche non siano dettagliate nel materiale di riferimento.",
+    "core_claims_and_evidence": [
+      "La struttura è un principio ontologico di base che determina i poteri e le capacità di un individuo.",
+      "Il carattere fenomenico dell'esperienza è pienamente spiegato descrivendo la struttura del percipiente.",
+      "I problemi mente-corpo sono meri sottoprodotti del rifiuto del principio dell'ilemorfismo."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofico e ontologico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente testabile. L'argomento centrale è metafisico e offre un quadro (l'ilemorfismo) per dissolvere il problema, che è testabile filosoficamente analizzandone le premesse.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La tensione principale della teoria è la necessità che i non aderenti accettino la struttura come principio ontologico di base capace di spiegare tutti gli aspetti soggettivi. I critici del fisicalismo respingerebbero la premessa che la sola struttura sia sufficiente a dissolvere il problema difficile.",
+    "open_questions_and_limitations": "Il quadro teorico richiede un lavoro considerevole per specificare con precisione come le strutture neurali o biologiche osservate corrispondano esaustivamente al carattere fenomenico percepito, anche accettando il fondamento metafisico.",
+    "ontological_coherence": "Altamente coerente. La teoria è formulata specificamente per stabilire una coerenza interna assicurando che i fenomeni mentali coscienti siano necessariamente parti strutturali integrate del mondo fisico, risolvendo così i problemi filosofici che essa si prefigge."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "Se la coscienza è il risultato diretto del raggiungimento di una specifica struttura e organizzazione fisica complessa (ilemorfismo), allora qualsiasi sistema artificiale progettato per possedere quella struttura e quei poteri richiesti istanzierebbe una coscienza genuina."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è legata inestricabilmente al materiale fisico altamente organizzato dell'individuo. La cessazione o la decomposizione di questa struttura implica la fine della coscienza."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "Classificata come materialismo, la coscienza è un prodotto di fenomeni naturali e strutturali. Qualsiasi significato o scopo è perciò generato dalle capacità e dalle attività strutturali degli esseri umani all'interno del mondo naturale, anziché essere cosmicamente inerente."
+    },
+    "virtual_immortality": {
+      "stance": "Possibile",
+      "rationale": "Se la coscienza è definita interamente dall'intricata «struttura» e dai «poteri» che ne risultano, allora duplicare o caricare questa configurazione strutturale complessiva in un nuovo substrato non biologico dovrebbe preservare il sé cosciente, coerentemente con l'aspetto funzionalista della teoria."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Mind-Body Identity Theory",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Feser’s Neo-Thomistic Dualism",
+        "relationship": "Correlata"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem, William Jaworski",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Hylomorphism and the construct of consciousness, William Jaworski",
+        "year": 2020
+      }
+    ]
+  }
+}

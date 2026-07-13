@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "Mente estesa",
+    "summary": "Questa teoria sostiene che i processi cognitivi non sono strettamente confinati al cervello biologico, ma si estendono nell'ambiente esterno (esternalismo attivo). Quando un organismo umano si collega a un'entità esterna in un'interazione bidirezionale, si forma un sistema accoppiato che agisce come sistema cognitivo a pieno titolo. La rimozione della componente esterna degrada la competenza comportamentale del sistema, così come la rimozione di una parte del cervello.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "David Chalmers"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Relazionale",
+    "core_identity_tagline": "‘La mente come sistema cognitivo accoppiato’",
+    "classification_tags": [
+      "externalism",
+      "embodiment",
+      "cognition",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata come una funzione dell'intero sistema cognitivo accoppiato, che comprende sia i processi neurali interni sia gli strumenti/l'ambiente esterni, sottolineandone la dipendenza dall'esternalismo attivo.",
+    "ontological_status": "Fisicalismo (funzionalista/relazionale)",
+    "mind_body_relationship": "Correlazione/estensione. La mente è una proprietà emergente o un processo funzionale distribuito tra cervello, corpo e ambiente rilevante, mettendo in discussione la visione tradizionale secondo cui la mente è confinata nel cranio.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole",
+    "subjectivity_and_intentionality": "Le fonti si concentrano principalmente sul ruolo funzionale della cognizione e sulla competenza comportamentale, non esplicitamente su come sorgano la soggettività fenomenica o l'intenzionalità. La soggettività è implicitamente trattata come una caratteristica del sistema cognitivo funzionante, ovunque esso si collochi.",
+    "qualia_account": "La teoria si concentra sull'estensione dei processi cognitivi e sul raggiungimento della competenza comportamentale, ma le fonti non spiegano esplicitamente come i qualia fenomenici (la dimensione qualitativa dell'esperienza) siano spiegati o estesi all'interno del sistema accoppiato.",
+    "ontological_commitments": "Cervello, corpo, oggetti/strumenti esterni e ambiente fisico, tutti partecipanti a un ruolo causale attivo all'interno del sistema accoppiato.",
+    "epistemic_access": "Accessibile attraverso lo studio dell'interazione bidirezionale e del ruolo causale attivo di tutte le componenti del sistema accoppiato, concentrandosi sulla competenza comportamentale e sui circuiti cognitivi.",
+    "constituents_and_structure": "Un 'sistema accoppiato' composto dall'organismo umano (cervello e corpo) collegato a entità esterne (il mondo sociale e materiale) in un'interazione bidirezionale, formando un tutto integrato e senza soluzione di continuità."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Cognizione, competenza comportamentale (si sottintende che la coscienza fenomenica risieda all'interno del sistema esteso, ma l'attenzione è funzionale).",
+    "distinctive_mechanism_or_principle": "Esternalismo attivo, in cui le entità esterne svolgono un ruolo causale attivo nei processi cognitivi, creando un 'sistema accoppiato' funzionalmente integrato.",
+    "dynamics_of_emergence": "Processo dinamico. Le menti emergono dal 'flusso variopinto' di cervello, corpo e mondo sociale/materiale come 'totalità sorprendentemente prive di soluzione di continuità'.",
+    "location_and_distribution": "Distribuita/estesa. I processi cognitivi si estendono oltre il cervello confinato nel cranio, comprendendo l'ambiente e gli strumenti esterni.",
+    "causation_and_functional_role": "Le componenti del sistema accoppiato svolgono un ruolo causale attivo e governano congiuntamente il comportamento, consentendo alla mente di facilitare l'interazione adattiva con il mondo.",
+    "integration_or_binding": "L'integrazione avviene attraverso l'interazione bidirezionale attiva tra l'organismo e l'entità esterna, formando un tutto cognitivo integrato e senza soluzione di continuità.",
+    "information_flow_or_representation": "L'elaborazione dell'informazione si basa su rappresentazioni estese fino a includere il ruolo partecipativo dell'ambiente nel guidare i processi cognitivi.",
+    "evolutionary_account": "La teoria è coerente con un quadro evolutivo in cui le capacità predittive del cervello sono facilitate dalla consapevolezza e dalla conformità alle realtà esterne, suggerendo un ruolo adattivo dell'estensione cognitiva.",
+    "core_claims_and_evidence": [
+      "I processi cognitivi si estendono oltre il confine del cervello fino a includere entità esterne.",
+      "Il sistema accoppiato agisce come sistema cognitivo a pieno titolo, con tutte le componenti che svolgono un ruolo causale attivo.",
+      "La rimozione della componente esterna degrada la competenza comportamentale del sistema."
+    ],
+    "basis_of_belief_or_evidence_type": "Argomento filosofico e concettuale (funzionalista)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente testabile/condizionale",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La teoria affronta una tensione filosofica riguardo alla precisa localizzazione e al confine della mente, mettendo in discussione la tradizionale priorità accordata ai processi interni, biologici e neurali.",
+    "open_questions_and_limitations": "La teoria si concentra fortemente sui processi cognitivi, lasciando aperta la questione di come la coscienza fenomenica stessa sia estesa o esperita attraverso il sistema accoppiato.",
+    "ontological_coherence": "Altamente coerente. La teoria fornisce una spiegazione materialista/funzionalista coerente ridefinendo il substrato richiesto per la cognizione oltre il cranio."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Probabile",
+      "rationale": "La teoria si allinea al funzionalismo computazionale, suggerendo che, se i processi cognitivi e le relazioni funzionali possono essere istanziati artificialmente, la mente può essere estesa a protesi cognitive, rendendo plausibile la coscienza dell'IA."
+    },
+    "survival_beyond_death": {
+      "stance": "Condizionale",
+      "rationale": "Pur essendo radicata nel materialismo (che generalmente nega la sopravvivenza), se il sé essenziale è definito da un pattern funzionale distribuito che può persistere indipendentemente dal suo substrato biologico, la sopravvivenza di quel pattern potrebbe essere possibile."
+    },
+    "meaning_and_purpose": {
+      "stance": "Solo umanistico",
+      "rationale": "In quanto teoria materialista, suggerisce che non vi sia alcun significato, scopo o valore cosmico; il significato è invece creato dall'organismo umano."
+    },
+    "virtual_immortality": {
+      "stance": "Possibile",
+      "rationale": "L'immortalità virtuale è plausibile perché la teoria concepisce la mente come un pattern funzionale intrinsecamente estendibile mediante 'protesi cognitive' esterne, e la replica in un mezzo non biologico è coerente con la sua base funzionalista."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Computational functionalism",
+        "relationship": "Influenza"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "Compatibile"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Extended Mind, Andy Clark and David Chalmers",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Supersizing the Mind: Embodiment, Action, and Cognitive Extension, Andy Clark",
+        "year": 2010
+      }
+    ]
+  }
+}

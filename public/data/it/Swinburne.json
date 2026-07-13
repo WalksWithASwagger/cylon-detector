@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "Il dualismo delle sostanze di Swinburne",
+    "summary": "Questa teoria postula che una persona sia costituita da due componenti radicalmente distinte: un corpo/cervello fisico e una sostanza separata, non fisica, ovvero l'anima, che è indipendente dal mondo fisico. L'anima non fisica è un'entità essenziale e irriducibile, necessaria per rendere conto della vita cosciente e per mantenere l'identità personale nel tempo.",
+    "associated_thinkers": ["Richard Swinburne"],
+    "category": "Dualismi",
+    "subcategory": "Dualismo delle sostanze",
+    "core_identity_tagline": "La coscienza come sostanza non fisica radicalmente separata",
+    "classification_tags": [
+      "substance dualism",
+      "soul",
+      "personal identity",
+      "nonphysical",
+      "theistic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è identificata con la vita cosciente interiore posseduta dalla sostanza separata, non fisica (l'anima), che è distinta dai processi fisici.",
+    "ontological_status": "Dualismo delle sostanze",
+    "mind_body_relationship": "Dualismo interazionista. Sebbene lo specifico meccanismo sia ampiamente dibattuto, la sostanza non fisica deve correlarsi o interagire con il cervello fisico per rendere conto della vita cosciente all'interno di una persona umana.",
+    "primitive_or_emergent_status": "Primitivo. L'anima è una sostanza separata, fondamentale, non fisica, non riducibile a stati fisici né soggetta a spiegazione puramente fisica.",
+    "emergence_type": "Non applicabile; la coscienza è identificata con una sostanza non fisica primitiva (l'anima). L'esistenza dell'anima è determinata o da un atto creativo (Dio) o da leggi irriducibili, non puramente da processi fisici che si elevano alla complessità.",
+    "subjectivity_and_intentionality": "La soggettività (esperienza in prima persona) è una proprietà irriducibile posseduta dalla sostanza non fisica (l'anima), il che fa dell'anima il soggetto essenziale dell'esperienza e la responsabile della vita cosciente.",
+    "qualia_account": "I qualia (il carattere qualitativo dell'esperienza) sono proprietà dell'entità mentale separata (l'anima) che costituiscono la «vita cosciente» e non possono essere resi conto unicamente dal corpo o dal cervello fisici.",
+    "ontological_commitments": "Sostanze fisiche (corpi, cervelli, atomi) e sostanze non fisiche (anime/entità mentali).",
+    "epistemic_access": "Accessibile principalmente tramite l'esperienza in prima persona (vita cosciente) e argomentazioni filosofiche, specialmente argomenti riguardanti l'identità personale, che rivelano verità sulle persone irriducibili a cervelli/corpi.",
+    "constituents_and_structure": "La singola persona è un composto di un corpo/cervello fisico e di una separata, essenziale anima non fisica. L'anima stessa è il soggetto indivisibile dell'esperienza.",
+    "basis_of_belief_or_evidence_type": "Argomentazioni filosofiche (specialmente argomenti modali basati sull'identità personale)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica, identità personale, continuazione della vita cosciente.",
+    "distinctive_mechanism_or_principle": "L'esistenza di una sostanza irriducibile, non fisica (anima) che funge da soggetto dell'esperienza e reca l'identità personale, indipendente dal cervello fisico .",
+    "dynamics_of_emergence": "Statica/creazionista. La coscienza esiste come sostanza irriducibile, o creata istantaneamente da Dio o sorgente tramite leggi di natura al raggiungimento di una complessità sufficiente, ma la sua natura è quella di una sostanza statica, non di un'emergenza per processo dinamico .",
+    "location_and_distribution": "L'anima non fisica è localizzata in un individuo e associata a uno specifico corpo fisico .",
+    "causation_and_functional_role": "Il ruolo funzionale è fondare l'identità personale nel tempo e possedere la vita cosciente. Se interazionista, l'anima deve avere il potere causale di influenzare il mondo fisico.",
+    "integration_or_binding": "L'unità è insita nell'unica sostanza non fisica (l'anima) che funge da soggetto irriducibile di tutte le esperienze, rendendo conto della totalità della vita cosciente .",
+    "information_flow_or_representation": "Non esplicitamente definito in termini di flusso di informazione; la sostanza-anima non fisica fornisce la base ontologica (chi ha quale vita cosciente) più che spiegare come venga elaborata l'informazione specifica .",
+    "evolutionary_account": "Si concentra sul requisito metafisico di una sostanza irriducibile per la personalità più che su una spiegazione evolutiva del sorgere della coscienza dalla materia .",
+    "core_claims_and_evidence": [
+      "La vita cosciente richiede soggetti di esperienza (anime) che sono sostanze radicalmente separate, non fisiche .",
+      "Le sole proprietà fisiche non possono distinguere tra persone coscienti distinte (l'argomento dell'identità personale) .",
+      "L'esistenza continuata di una persona consiste nell'esistenza continuata della sua anima .",
+      "Le leggi naturali che determinano l'esistenza di una persona con un certo carattere non possono determinare quale specifica persona (anima) nasca ."
+    ]
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente verificabile attraverso argomentazioni filosofiche e logiche riguardanti l'identità personale, ma generalmente considerata empiricamente speculativa o non verificabile dai paradigmi fisicalisti a causa del suo ricorso a una sostanza non fisica.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La tensione principale è il problema dell'interazione: il dualismo fatica a spiegare come una sostanza non fisica possa interagire causalmente con un cervello fisico senza violare le leggi fisiche, come la conservazione dell'energia . La visione di Swinburne è inoltre criticata riguardo a come delle leggi possano governare la creazione di una *specifica* anima individuale .",
+    "open_questions_and_limitations": "Il preciso meccanismo per cui la sostanza non fisica interagisce con il cervello fisico (il problema dell'interazione) resta irrisolto .",
+    "ontological_coherence": "Coerente all'interno della sua ontologia dualista, affrontando specificamente questioni di identità personale che le teorie materialiste non riescono a cogliere . Tuttavia, affronta profondi conflitti concettuali con i quadri fisicalisti che assumono la chiusura causale della fisica."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No (per lo più)",
+      "rationale": "Ai sistemi di IA mancherebbe la necessaria sostanza non fisica, radicalmente separata (anima) richiesta per una vera consapevolezza interiore. Il dualismo è generalmente considerato il principale baluardo contro la coscienza dell'IA."
+    },
+    "survival_beyond_death": {
+      "stance": "Sì",
+      "rationale": "Poiché la persona è costituita da una sostanza non fisica, tale sostanza (l'anima) potrebbe potenzialmente mantenere l'esistenza cosciente dopo la morte e la dissoluzione del corpo e del cervello fisici."
+    },
+    "meaning_and_purpose": {
+      "stance": "Sì",
+      "rationale": "Le teorie del dualismo e dell'idealismo offrono generalmente una qualche forma di significato, scopo o valore ultimo, in contrasto con le teorie puramente materialiste ."
+    },
+    "virtual_immortality": {
+      "stance": "No (per lo più)",
+      "rationale": "Caricare la sola struttura fisica del cervello sarebbe insufficiente, in quanto la necessaria componente non fisica (l'anima) non potrebbe essere duplicata o caricata dalla tecnologia, con la conseguente assenza del sé mentale originario in prima persona ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Contrasto"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Contrasto"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Critica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind, Brain, and Free Will, R. Swinburne",
+        "year": 2013
+      },
+      {
+        "title_with_names": "How does personal identity persist through time?, R. Swinburne",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Interview with science and religion news on mind-body dualism, R. Swinburne",
+        "year": 2006
+      }
+    ]
+  }
+}
