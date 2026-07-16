@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Epifenomenalisme-theorie",
+    "summary": "Deze theorie stelt dat bewustzijn een niet-reduceerbaar product van de biologische hersenen is, maar dat mentale toestanden absoluut geen causale kracht over de fysische werkelijkheid bezitten. Ons subjectieve gewaarzijn is reëel, maar onze perceptie dat onze gedachten handelingen veroorzaken is onjuist, aangezien bewustzijn geheel inert is, als schuim op een oceaangolf.",
+    "associated_thinkers": [
+      "David Chalmers (Classifier)",
+      "Frank Jackson (Related Thinker)"
+    ],
+    "category": "Materialistische theorieën",
+    "subcategory": "Filosofisch",
+    "core_identity_tagline": "Bewustzijn is reëel maar causaal inert.",
+    "classification_tags": [
+      "property dualism",
+      "non-reductive physicalism",
+      "mental causation",
+      "causal closure",
+      "illusion"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewustzijn wordt geïdentificeerd als fenomenale eigenschappen die ontologisch onderscheiden zijn van fysische eigenschappen, maar er causaal van afhankelijk zijn (fysisch → fenomenaal).",
+    "ontological_status": "Zwakke vorm van dualisme of niet-reductief fysicalisme. Het bevestigt de volledige causale geslotenheid van het fysische.",
+    "mind_body_relationship": "Mentale toestanden zijn geheel het product van biologische hersenen. Fysische toestanden veroorzaken fenomenale toestanden, maar fenomenale toestanden hebben geen causaal effect op het fysische (eenrichtingscausaliteit).",
+    "primitive_or_emergent_status": "Emergent. Bewustzijn is uitsluitend het product van biologische hersenen.",
+    "emergence_type": "De eigenschappen zijn onherleidbaar en ontologisch onderscheiden van fysische eigenschappen, wat wijst op een vorm van sterke emergentie voor de fenomenale eigenschap, ook al is deze causaal inert. (Gerechtvaardigd op grond van de onherleidbaarheidsclaim ).",
+    "subjectivity_and_intentionality": "Het gewaarzijn van bewustzijn is reëel. Subjectiviteit (fenomenale eigenschappen) is ontologisch onderscheiden. Het gevoel van mentale causaliteit is illusoir.",
+    "qualia_account": "Fenomenale eigenschappen (qualia) zijn reëel en ontologisch onderscheiden van fysische eigenschappen, maar zij zijn epifenomenen en dus causaal inert.",
+    "ontological_commitments": "Fysische toestanden (hersenen) en ontologisch onderscheiden fenomenale eigenschappen (mentale toestanden) die daaruit voortkomen.",
+    "epistemic_access": "Bewustzijn wordt gekend via introspectie, maar het gevoel van causaal agentschap dat aan die introspectie wordt ontleend is misleidend (een soort illusie of truc).",
+    "constituents_and_structure": "Bewustzijn is een emergente eigenschap of bijproduct van het functioneren van de biologische hersenen, vergeleken met 'schuim op een oceaangolf'."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenaal bewustzijn (gewaarzijn). Het behandelt en ontkent expliciet mentale causaliteit/agentschap.",
+    "distinctive_mechanism_or_principle": "Het principe van de 'causale geslotenheid van het fysische' schrijft voor dat mentale toestanden, ongeacht hun aard, geheel inerte bijproducten moeten zijn.",
+    "dynamics_of_emergence": "Mentale toestanden worden dynamisch uitsluitend door de biologische hersenen gegenereerd, waarbij alle bewuste mentale gebeurtenissen voorafgaande onbewuste verwerking behelzen.",
+    "location_and_distribution": "Geheel gelokaliseerd in de fysische, biologische hersenen.",
+    "causation_and_functional_role": "Mentale toestanden bezitten geen causale krachten. De geest is geheel inert en er is geen 'top-down-causaliteit'; bewustzijn is een niet-functioneel bijproduct.",
+    "integration_or_binding": "De eenmaking van ervaring wordt impliciet bereikt door de onderliggende complexe fysische processen in de hersenen die de eengemaakte fenomenale toestand voortbrengen. (Gerechtvaardigd: de nadruk ligt op het ontbreken van uitgaande causaliteit, niet op de mechanica van interne eenheid).",
+    "information_flow_or_representation": "Informatieverwerking is geheel fysisch/onbewust, en de fenomenale ervaring is een niet-causale parallelle uitkomst van deze verwerking.",
+    "evolutionary_account": "Impliciet verenigbaar met evolutie, aangezien bewustzijn een product van biologische hersenen is. De realiteit van de eigenschap suggereert dat zij via evolutie is ontstaan, hoewel het ontbreken van functie betekent dat zij niet werd geselecteerd op haar causale effectiviteit. (Gerechtvaardigd op grond van de classificatie onder de materialistische theorieën ).",
+    "core_claims_and_evidence": [
+      "Bewustzijn is geheel fysisch, uitsluitend het product van biologische hersenen.",
+      "Mentale toestanden zijn ontologisch onderscheiden van fysische toestanden (eigenschapsdualisme).",
+      "Mentale toestanden bezitten geen causale kracht vanwege de volledige causale geslotenheid van het fysische."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofisch (primair gedreven door de verklaringslast van mentale causaliteit en de toewijding aan fysische causale geslotenheid )."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptueel omstreden. De hoofdclaim — dat bewuste toestanden causale kracht ontberen — is contra-intuïtief en moeilijk empirisch te toetsen, aangezien zij het bewijzen van een negatief causaal verband behelst.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "De theorie is contra-intuïtief omdat het ons sterk lijkt dat onze fenomenaal bewuste toestanden er causaal toe doen. Zij dwingt tot de aanvaarding dat ons gevoel van mentale causaliteit (gedachten die dingen veroorzaken) een 'soort illusie of truc' is.",
+    "open_questions_and_limitations": "De integratie van mentale causaliteit staat centraal, aangezien het epifenomenalisme het probleem oplost door causaliteit te ontkennen, maar dit vereist de aanvaarding van een uiterst contra-intuïtief resultaat.",
+    "ontological_coherence": "Hoge coherentie binnen een materialistische ontologie die toegewijd is aan de volledige causale geslotenheid van het fysische, waarbij een zwakke vorm van dualisme wordt bereikt zonder de problemen van het interactionisme."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Waarschijnlijk",
+      "rationale": "Indien bewustzijn slechts een niet-causaal bijproduct (schuim) van fysische processen in de hersenen is, zou het repliceren van die fysische processen in AI dezelfde bewuste toestanden moeten voortbrengen zonder dat de niet-causale mentale toestanden de functionele replicatie belemmeren."
+    },
+    "survival_beyond_death": {
+      "stance": "Nee",
+      "rationale": "Bewustzijn is geheel fysisch en uitsluitend het product van biologische hersenen. Deze fysische afhankelijkheid sluit voortbestaan na de lichamelijke dood uit."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uitsluitend humanistisch",
+      "rationale": "Als filosofisch-materialistische theorie verschaft zij geen ultieme zin of doel. Aangezien bewustzijn causaal inert is, kan het geen kosmische teleologische waarde verlenen."
+    },
+    "virtual_immortality": {
+      "stance": "Zeer waarschijnlijk",
+      "rationale": "De inerte aard van bewustzijn betekent dat het uploaden van de fysische toestanden noodzakelijkerwijs de epifenomenale mentale toestanden zou dupliceren. Het inerte 'schuim' zou weinig invloed moeten hebben op het bereiken van virtuele onsterfelijkheid."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Zwakke vorm/type"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Zwakkere vorm/overlap"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "Vergelijkbaar maar minder populair alternatief"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Contrast (emergent dualisme bevestigt causale effectiviteit, epifenomenalisme ontkent deze )"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Facing up to the Problem of Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      }
+    ]
+  }
+}

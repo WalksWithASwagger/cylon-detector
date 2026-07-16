@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Predictieve theorieën (top-down)",
+    "summary": "Dit perspectief beschouwt de hersenen als een dynamische voorspellingsmachine waarin bewuste waarneming intern wordt gegenereerd door top-downverwachtingen (voorspellingen) te combineren met bottom-up zintuiglijke gegevens (voorspellingsfouten). Bewustzijn ontstaat als een functioneel mechanisme dat accurate voorspelling, gewaarzijn en responsief gedrag ten dienste van overleving mogelijk maakt.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "Richard Gregory",
+      "Karl Friston",
+      "Rudolfo Llinas"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Homeostatisch en affectief",
+    "core_identity_tagline": "Bewustzijn als actieve voorspellingssynthese",
+    "classification_tags": [
+      "prediction",
+      "computation",
+      "functionalism",
+      "top-down",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewustzijn wordt geïdentificeerd als de complexe synthese van predictieve verwachting en zintuiglijke input, voortkomend uit top-downsignalering die voorspellingen over de oorzaken van zintuiglijke input overbrengt.",
+    "ontological_status": "Fysicalisme",
+    "mind_body_relationship": "De geest (bewuste waarneming) is een functie of proces dat volledig geworteld is in fysische hersenmechanismen (predictieve verwerking), en dat de ervaring van lichaam en wereld medieert.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Zwakke emergentie",
+    "subjectivity_and_intentionality": "Subjectiviteit komt voort uit de interne synthese van voorspelling en gewaarwording, wat gewaarzijn en responsiviteit mogelijk maakt. Intentionaliteit (gerichtheid van het denken) is inherent aan de gerichtheid van het systeem op het anticiperen van uitkomsten en het minimaliseren van voorspellingsfouten.",
+    "qualia_account": "De theorie richt zich primair op de functie en het proces van waarneming via voorspelling. Qualia houden impliciet verband met de interne modellen of representaties die door het predictieve brein worden gegenereerd, hoewel het subjectieve 'gevoel' een uitdaging blijft voor de zuiver mechanistische opvatting.",
+    "ontological_commitments": "Biologische hersenen, predictieve modellen, zintuiglijke signalen, verwachtingsfouten en top-down/bottom-up signaleringsbanen.",
+    "epistemic_access": "Toegankelijk via het ontwikkelen van een systematisch begrip van voorspelling als een kernbeginsel van de werking van de hersenen, waarbij wordt geanalyseerd hoe zintuiglijke gegevens worden geïntegreerd met reeds bestaande overtuigingen ('priors').",
+    "constituents_and_structure": "Het bewuste systeem is gestructureerd als een dynamische voorspellingsmachine die top-downsignalen (voorspellingen) en bottom-upsignalen (voorspellingsfouten) gebruikt."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenaal (waarneming), cognitie, handeling, gewaarzijn, responsiviteit",
+    "distinctive_mechanism_or_principle": "Het beginsel is de continue minimalisatie van voorspellingsfouten (benadering van bayesiaanse inferentie), waarbij bewustzijn wordt geassocieerd met de actieve, top-down predictieve signalering in de hersenen.",
+    "dynamics_of_emergence": "Bewustzijn komt dynamisch op en faciliteert het cruciale biologische vermogen om de omgeving voortdurend te voorspellen en erop te reageren.",
+    "location_and_distribution": "Breingebaseerd, verdeeld over neurale netwerken die betrokken zijn bij top-downsignalering en recurrente banen, met een waarschuwing tegen een zuiver 'schedelgebonden' neurocentrische opvatting.",
+    "causation_and_functional_role": "Bewustzijn faciliteert adaptief gedrag en de selectie van optimale handelingen door snelle vergelijking tussen werkelijke gebeurtenissen en contrafeitelijke simulaties mogelijk te maken. De overkoepelende functie is overleving door de omgevingsgebonden 'verrassing' te minimaliseren.",
+    "integration_or_binding": "Integratie wordt bereikt via de continue synthese van predictieve verwachtingen en binnenkomende zintuiglijke informatie, wat resulteert in coherente waarneming.",
+    "information_flow_or_representation": "Informatie stroomt via top-downsignalen die voorspellingen overbrengen en bottom-upsignalen die voorspellingsfouten overbrengen, wat bayesiaanse inferentie benadert.",
+    "evolutionary_account": "Geëvolueerd uit de fundamentele biologische drijfveer van overleving, waarbij predictieve vermogens mogelijk worden gemaakt die cruciaal zijn voor actieve beweging en het effectief navigeren in complexe omgevingen.",
+    "core_claims_and_evidence": [
+      "Bewuste mentale toestanden worden geassocieerd met top-downsignalering die voorspellingen over zintuiglijke oorzaken overbrengt",
+      "De hersenen fungeren als een krachtige, dynamische voorspellingsmachine",
+      "Waarneming is een complexe synthese van predictieve verwachting en zintuiglijke input",
+      "Bewustzijn ontstond om predictieve vermogens mogelijk te maken die essentieel zijn voor overleving"
+    ],
+    "basis_of_belief_or_evidence_type": "Computationeel, neurobiologisch, evolutionair"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch toetsbaar (afhankelijk van specifieke mechanistische modellen, bijv. gerelateerd aan het vrije-energie-principe).",
+    "known_empirical_interventions_or_tests": "Geïmpliceerde methoden behelzen het meten van neurologische responsen die verband houden met predictieve codering en het toetsen van de dynamiek van verwachtingsfouten (bijv. studies gerelateerd aan actieve inferentie).",
+    "criticisms_and_tensions": "De voornaamste kritiek, gebruikelijk voor functionele theorieën, is het niet kunnen verklaren van het subjectieve 'waarom' — waarom het proces van voorspelling en synthese zou moeten resulteren in gevoelde ervaring (qualia) in plaats van slechts functionele output.",
+    "open_questions_and_limitations": "De kernbeperking is het overbruggen van de kloof tussen de functionele/computationele beschrijving van voorspelling en de fenomenale realisatie van bewustzijn. Het model richt zich sterk op 'hoe' de hersenen werken in plaats van 'wat' bewustzijn fundamenteel is.",
+    "ontological_coherence": "Zeer consistent met materialistische, functionalistische en emergentistische ontologieën."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Waarschijnlijk",
+      "rationale": "Als bewustzijn primair wordt opgevat als de computationele functie van het genereren en toetsen van voorspellingen om waarneming te synthetiseren, dan zouden voldoende complexe AI-systemen die deze functies uitvoeren bewust moeten worden."
+    },
+    "survival_beyond_death": {
+      "stance": "Nee",
+      "rationale": "De theorie verankert bewustzijn in de geëvolueerde biologische processen van de hersenen. Bewustzijn is gebonden aan het fysische substraat en zou ophouden bij de biologische dood."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistisch/evolutionair",
+      "rationale": "Bewustzijn evolueerde om het fundamentele biologische probleem van overleving en aanpassing op te lossen, en verschaft een doel in het maximaliseren van de fitness, maar het brengt geen kosmische zin met zich mee."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "De computationele en functionele aard van de theorie suggereert dat de predictieve organisatie die het zelf constitueert in principe kan worden gedigitaliseerd en herschapen in een niet-biologisch substraat, waardoor functionele voortzetting mogelijk wordt."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Grondslag"
+      },
+      {
+        "name": "Seth’s “Beast Machine” Theory",
+        "relationship": "Uitbreiding"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Contrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Machine: How Our Minds Predict and Shape Reality, A. Clark",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Brain from inside Out, G. Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A Predictive Processing perspective on the mind-body problem, R.L. Kuhn",
+        "year": 2024
+      }
+    ]
+  }
+}

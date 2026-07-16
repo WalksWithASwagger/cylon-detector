@@ -1,0 +1,114 @@
+{
+  "id_and_class": {
+    "theory_title": "Buzsáki’s neurale syntaxis en zelfveroorzaakte ritmes",
+    "summary": "Deze theorie stelt de hersenen voor als een zelf-georganiseerd systeem en een 'voorspellend apparaat' dat voortdurend intrinsieke patronen en ritmes (neurale syntaxis) genereert. Cognitie wordt opgevat als geïnternaliseerde actie die ontstaat wanneer de hersenen zich losmaken van hun sensoren om 'wat als'-scenario's te onderzoeken. Betekenis wordt later verworven wanneer deze interne patronen worden gegrond door op actie gebaseerde interacties met de omgeving.",
+    "associated_thinkers": [
+      "György Buzsáki"
+    ],
+    "category": "Materialismetheorieën",
+    "subcategory": "Neurobiologisch",
+    "core_identity_tagline": "'Bewustzijn als zelfveroorzaakte neurale ritmes gegrond in actie'",
+    "classification_tags": [
+      "neurobiological",
+      "rhythms",
+      "action-based cognition",
+      "emergentism",
+      "predictive processing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewustzijn, indien ontwikkeld uit deze cognitietheorie, wordt geïdentificeerd met zelf-geëmergeerde oscillatoire timing en de bijbehorende dynamische, zelf-georganiseerde neurale patronen (neurale syntaxis). De hersenen scheppen fundamenteel informatie, zij verwerken die niet.",
+    "ontological_status": "Fysicalisme / materialisme",
+    "mind_body_relationship": "De geest (cognitie/bewustzijn) verhoudt zich tot het lichaam als zelfveroorzaakte functies die voortkomen uit het buitengewoon complexe centrale zenuwstelsel. Dit functioneert als een identiteit of emergente correlatie binnen een materialistisch kader.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Zwakke emergentie (gerechtvaardigd door de indeling onder het materialisme, dat stelt dat bewustzijn volledig kan worden verklaard door fysische toestanden, zelfs indien het voortkomt uit complexe processen).",
+    "subjectivity_and_intentionality": "Subjectiviteit wordt verondersteld voort te komen uit het 'inside-out'-perspectief, waarbij de hersenen actief hypothesen op de wereld projecteren en toetsen. Intentionaliteit is verbonden met het doel van de hersenen als voorspellend apparaat, gericht op het genereren en voorspellen van de gevolgen van actie.",
+    "qualia_account": "Niet uitdrukkelijk aangegeven. De theorie richt zich primair op de mechanismen van cognitie. Zij impliceert dat fenomenale kwaliteiten zouden voortkomen uit de organisatie van complexe neurale syntaxis, in overeenstemming met haar indeling als een neurobiologische materialistische theorie.",
+    "ontological_commitments": "Neuronale assemblages, dynamische hersenritmes, reeds bestaande connectiviteit/dynamiek in corticale systemen, en neurale syntaxis.",
+    "epistemic_access": "Observatie en modellering van neuronale activiteit, in het bijzonder derdepersoonsmeting van elektrische activiteit (oscillatoire timing en ritmes) en de resulterende cognitieve functies.",
+    "constituents_and_structure": "Hiërarchische organisatie van geneste hersenritmes (oscillatoire timing) en kruisfrequentiekoppeling, ter ondersteuning van zelf-georganiseerde sequenties van celassemblages. De structuur is dynamisch en metastabiel."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Cognitie, geheugen, planning, zelfbewustzijn (als geïnternaliseerde actie). De theorie richt zich op mechanismen die potentieel fenomenaal bewustzijn kunnen verklaren.",
+    "distinctive_mechanism_or_principle": "Zelf-geëmergeerde oscillatoire timing ('ritmes van de hersenen') die dient als de fundamentele organisator van neuronale informatie (neurale syntaxis). Cognitie is uitdrukkelijk geïnternaliseerde actie.",
+    "dynamics_of_emergence": "Dynamisch proces. Cognitie ontstaat wanneer de hersenen hun intrinsieke zelf-georganiseerde dynamiek gebruiken om gevolgen te simuleren (geïnternaliseerde actie), en wordt in stand gehouden door voortdurende interacties tussen meerdere netwerkoscillatoren.",
+    "location_and_distribution": "Corticale en hippocampale netwerken, met bijzondere aandacht voor de wijze waarop grootschalige hersenstructuren en elektro-encefalogram (EEG)-golven informatie organiseren.",
+    "causation_and_functional_role": "Hersenactiviteit is fundamenteel zelfveroorzaakt, gedreven door een imperatief om hypothesen te toetsen en de gevolgen van acties te voorspellen. De functie is om interne ritmes te herstructureren teneinde cognitieve kaarten voor geheugen en planning te genereren, geëxapteerd uit basale lichamelijke regulatiecircuits.",
+    "integration_or_binding": "Neurale syntaxis organiseert en segmenteert neuronale informatie via diverse hersenritmes, waaronder hiërarchische en kruisfrequentiekoppeling. Semantiek bindt zich aan deze spontane neurale patronen door matching met externe invoer/actiegevolgen.",
+    "information_flow_or_representation": "De hersenen scheppen informatie in plaats van die te absorberen. De informatiestroom is 'inside-out': de hersenen vullen de wereld met actie, en externe invoer selecteert en modificeert spontane neurale patronen, waardoor deze betekenis (semantiek) krijgen.",
+    "evolutionary_account": "Cognitie (inclusief planning en geheugen) wordt verklaard door de exaptatie en uitbreiding van circuits en algoritmen die aanvankelijk noodzakelijke lichamelijke functies dienden, zoals het reguleren van metabolische en energetische processen.",
+    "core_claims_and_evidence": [
+      "De hersenen zijn een voorspellend apparaat dat via actie met de omgeving interacteert en interne ritmes herstructureert.",
+      "Spontane neuronactiviteit en zelf-geëmergeerde oscillatoire timing vormen de bron en organisator van cognitieve vermogens.",
+      "Semantiek wordt extern door de wereld geselecteerd, waarbij reeds bestaande neurale patronen (wartaal) worden gemodificeerd via matching tijdens op actie gebaseerde interactie.",
+      "Cognitie (geheugen, planning) ontstaat door de exaptatie van circuits die metabolische lichamelijke functies reguleren."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch, neurobiologische/fysiologische modellering, steunend op concepten als hersenritmes, neurale syntaxis en cellulaire activiteit."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch toetsbaar (tests richten zich op het genereren van neurale ritmes, kruisfrequentiekoppeling en sequenties van neuronale assemblages als correlaten van cognitieve functies).",
+    "known_empirical_interventions_or_tests": [
+      "Meting en analyse van hiërarchische hersenritmes en kruisfrequentiekoppeling.",
+      "Studies die de consolidatie van geheugensporen aantonen tijdens sharp wave-ripple-patronen van de slaap."
+    ],
+    "criticisms_and_tensions": "De belangrijkste conceptuele spanning is dat het verklaren van cognitie op hoog niveau (zoals neurale syntaxis, geheugen en planning) niet gelijk staat aan het verklaren van fenomenaal bewustzijn ('wat bewustzijn feitelijk is').",
+    "open_questions_and_limitations": "Pakt de succesvolle verklaring van complexe cognitie en de onderliggende neurale mechanismen het 'moeilijke probleem' van fenomenaal bewustzijn afdoende aan? De theorie zelf moet tot een theorie van bewustzijn worden ontwikkeld om dit te beantwoorden.",
+    "ontological_coherence": "Zeer coherent. De theorie past goed binnen het neurobiologische en computationele materialisme en sluit consistent aan bij verwante concepten zoals hersencircuits en -cycli en top-down predictieve theorieën."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Als een materialistische/neurobiologische theorie impliceert zij dat bewustzijn geheel fysisch is. Indien de mechanismen (neurale syntaxis, zelfveroorzaakte ritmes, op actie gebaseerde gronding) in niet-biologische systemen kunnen worden geïmplementeerd, is AI-bewustzijn in principe haalbaar."
+    },
+    "survival_beyond_death": {
+      "stance": "Nee",
+      "rationale": "Bewustzijn/cognitie wordt verklaard als uitsluitend voortkomend uit de specifieke, hoogst complexe dynamiek van biologische hersenmaterie. Voortbestaan na het ophouden van deze materiële processen is uitgesloten."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uitsluitend humanistisch",
+      "rationale": "De nadruk ligt op de hersenen als een mechanisme voor overleving en hypothesetoetsing dat is geëvolueerd voor adaptief voordeel. In overeenstemming met het materialisme biedt zij geen uiteindelijke kosmische zin, doel of waarde, slechts die welke door menselijk handelen worden geschapen."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Aangenomen dat bewustzijn strikt wordt gerealiseerd door de beschreven neurale patronen, ritmes en cognitieve kaarten, zou een perfecte duplicatie van dit hoogst geïntegreerde systeem naar een niet-biologisch medium het oorspronkelijke eerstepersoons mentale zelf moeten behouden, waardoor virtuele onsterfelijkheid in principe bereikbaar wordt."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Brain Circuits and Cycles (9.2.11)",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Top-Down Predictive Theories (9.5.1)",
+        "relationship": "Compatibel"
+      },
+      {
+        "name": "Electromagnetic Field Theories (9.3)",
+        "relationship": "Mogelijke aansluiting"
+      },
+      {
+        "name": "Integrated Information Theory (12)",
+        "relationship": "Contrast (mechanistische vs. fenomenale/axiomatische focus)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Brain from inside Out, György Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rhythms of the Brain, György Buzsáki",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Cognition from the body-brain partnership: exaptation of memory, György Buzsáki and David Tingley",
+        "year": 2023
+      },
+      {
+        "title_with_names": "If the brain is the answer, what was the question? Review of Buzsáki, György. The Brain from Inside Out, Alex Gomez-Marin",
+        "year": 2021
+      }
+    ]
+  }
+}

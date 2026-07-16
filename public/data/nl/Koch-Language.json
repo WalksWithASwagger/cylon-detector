@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Kochs theorie dat bewustzijn niet afhankelijk is van taal",
+    "summary": "Deze theorie stelt dat fenomenaal bewustzijn, oftewel de fundamentele innerlijke ervaring, functioneel onafhankelijk is van het taalvermogen. Zij wordt ondersteund door klinische gevallen waarin het taalvermogen ernstig is aangetast of verloren is gegaan, terwijl het fundamentele gewaarzijn behouden blijft, wat tot de conclusie leidt dat basale sentientie een wijdverbreide eigenschap is die met veel niet-talige dieren wordt gedeeld.",
+    "associated_thinkers": ["Christof Koch"],
+    "category": "Materialistische theorieën",
+    "subcategory": "Relaties met taal",
+    "core_identity_tagline": "Bewustzijn is onafhankelijk van taal",
+    "classification_tags": [
+      "phenomenal consciousness",
+      "language",
+      "neurobiology",
+      "animal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewustzijn wordt geïdentificeerd als een fysisch/biologisch fenomeen in de hersenen waarvan het fundamentele mechanisme verschilt van, en onafhankelijk is van, de symbolische verwerking van taal.",
+    "ontological_status": "Fysicalisme",
+    "mind_body_relationship": "De geest (het basale fenomenale bewustzijn) is verbonden met de fysische hersenprocessen, die gescheiden zijn van de talige processen.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Zwakke emergentie",
+    "subjectivity_and_intentionality": "De basale subjectiviteit (sentientie) blijft behouden, zelfs zonder taal. Taal draagt in grote mate bij aan het zelf als 'narratief centrum', wat de hogere-orde-aspecten van subjectiviteit constitueert.",
+    "qualia_account": "Qualia (de basale innerlijke ervaring) bestaan bij niet-talige entiteiten en zijn onafhankelijk van symbolische vermogens.",
+    "ontological_commitments": "Biologische hersenen en de onderliggende fysische mechanismen die het basale gewaarzijn voortbrengen.",
+    "epistemic_access": "Toegankelijk via observatie in de derde persoon, in het bijzonder via klinische gevallen die een dissociatie tonen tussen taalverlies en het behoud van bewustzijn.",
+    "constituents_and_structure": "Bewustzijn komt voort uit fysische hersenmechanismen die onafhankelijk zijn van de cerebrale structuren die aan taal en innerlijke spraak zijn gewijd."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenaal bewustzijn (de basale innerlijke ervaring) en sentientie.",
+    "distinctive_mechanism_or_principle": "Het principe van dissociatie, waarbij het neurale substraat dat noodzakelijk en voldoende is voor bewustzijn (NCC) verschilt van de neurale correlaten van taal.",
+    "dynamics_of_emergence": "Basaal bewustzijn is een product van biologische processen die onafhankelijk van de menselijke talige complexiteit zijn geëvolueerd.",
+    "location_and_distribution": "Gelokaliseerd in de biologische hersenen; wijdverbreid over soorten heen (bijv. alle zoogdieren), ongeacht het taalvermogen.",
+    "causation_and_functional_role": "Basaal bewustzijn functioneert onafhankelijk van talige functies. De rol van taal bestaat voornamelijk uit het versterken van hogere-orde menselijke functies, zoals het gevoel van een zelf.",
+    "binding_and_unity": "De eenheid van de basale fenomenale ervaring moet tot stand komen via niet-talige fysische of neurale mechanismen.",
+    "information_flow_or_representation": "Informatieverwerking die verband houdt met de rauwe ervaring vereist geen symbolische talige representatie.",
+    "evolutionary_account": "Bewustzijn is geëvolueerd vóór de menselijke taalvermogens, zoals blijkt uit de aanwezigheid ervan bij niet-talige dieren, wat suggereert dat de adaptieve rol ervan niet afhankelijk is van taal.",
+    "core_claims_and_evidence": [
+      "Bewustzijn is niet afhankelijk van taal.",
+      "Klinische gevallen van hersenletsel tonen aan dat bewustzijn behouden blijft wanneer taal verloren gaat.",
+      "Sentientie wordt gedeeld met alle zoogdieren, wat de antropocentrische opvatting verwerpt dat alleen mensen iets ervaren."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch, klinisch en filosofisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch toetsbaar door neurowetenschappelijk onderzoek naar niet-talige dieren en klinisch onderzoek naar slachtoffers van hersentrauma die aanhoudend gewaarzijn vertonen ondanks afatische condities.",
+    "critiques_and_challenges": "Hoewel Koch zich verzet tegen klassieke opvattingen die taal en bewustzijn met elkaar verbinden, is de hedendaagse wetenschappelijke consensus het er reeds over eens dat basaal bewustzijn geen taal vereist.",
+    "open_questions_and_limitations": "De theorie bevestigt waarvan bewustzijn *niet* afhankelijk is (taal), maar biedt geen positieve oplossing voor het moeilijke probleem van het bewustzijn (dat wil zeggen, wat fenomenale ervaring letterlijk is).",
+    "ontological_coherence": "Zeer coherent binnen de materialistische categorie, met name voor argumenten die basaal gewaarzijn onderscheiden van het complexe, door taal bemiddelde zelfbewustzijn."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Voorwaardelijk",
+      "rationale": "Aangezien taal niet noodzakelijk is voor bewustzijn, is het talige vermogen van AI (LLM's) niet ter zake. AI-bewustzijn hangt volledig af van de vraag of het noodzakelijke niet-talige fysische substraat in kunstmatige systemen kan worden gereproduceerd."
+    },
+    "survival_beyond_death": {
+      "stance": "Nee",
+      "rationale": "In overeenstemming met de materialistische categorisering is bewustzijn verbonden met een fysisch substraat (de hersenen) en kan het niet voortbestaan na de biologische dood."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uitsluitend humanistisch",
+      "rationale": "Bewustzijn stelt het zelf in staat om via taal als narratief centrum te functioneren, wat door de mens gecreëerde zin mogelijk maakt, maar de onderliggende materiële werkelijkheid suggereert geen uiteindelijk kosmisch doel."
+    },
+    "virtual_immortality": {
+      "stance": "Voorwaardelijk",
+      "rationale": "Als bewustzijn wordt losgekoppeld van taal, verschuift de aandacht volledig naar het dupliceren van het niet-talige, fysische substraat van basaal gewaarzijn. Als deze specifieke niet-talige neurale structuur kan worden gedupliceerd, is virtuele onsterfelijkheid mogelijk."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "Kritiek"
+      },
+      {
+        "name": "Searle’s Language and Consciousness",
+        "relationship": "Kritiek"
+      },
+      {
+        "name": "Andrews’s Consciousness Without Complex Brains",
+        "relationship": "Verenigbaar"
+      },
+      {
+        "name": "Smith’s Language as Classifier of Consciousness",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t Be Computed",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Consciousness doesn’t depend on language, Christof Koch",
+        "year": 2019
+      }
+    ]
+  }
+}

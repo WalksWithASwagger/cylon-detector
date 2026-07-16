@@ -19,7 +19,7 @@ export type Locale = typeof SUPPORTED_LOCALES[number]
 // and the browser-language auto-detect maps to. Keep in sync with the inline
 // detection script in index.html (it can't import this module).
 export const AVAILABLE_LOCALES = [
-  'en', 'es', 'fr', 'de', 'uk', 'hi', 'ms', 'it', 'zh-CN', 'zh-TW', 'ar'
+  'en', 'es', 'fr', 'de', 'uk', 'hi', 'ms', 'it', 'nl', 'zh-CN', 'zh-TW', 'ar'
 ] as const
 
 export const RTL_LOCALES = new Set<string>(['ar', 'he'])

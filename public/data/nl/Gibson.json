@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Gibsons ecologische psychologie",
+    "summary": "Gibson stelt een belichaamde, gesitueerde en niet-representationele benadering van waarneming voor, met het argument dat informatie rechtstreeks beschikbaar is in de omgeving (invarianten) en wordt waargenomen in termen van affordanties. Deze benadering biedt een derde weg voorbij het cognitivisme en het behaviorisme, en kan behoedzaam worden opgevat als een verklaring voor het bewustzijn.",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Belichaamd en enactief",
+    "core_identity_tagline": "Bewustzijn als belichaamde, gesitueerde waarneming van affordanties",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewustzijn wordt bij uitbreiding begrepen als een functie van de voortdurende interactie en informatiestroom binnen het organisme-omgevingssysteem, gekenmerkt door directe waarneming van invarianten en affordanties, in plaats van door interne mentale representaties.",
+    "ontological_status": "Fysicalisme/direct realisme",
+    "mind_body_relationship": "Geest/waarneming is continu met handelen en richt zich op het organisme-omgevingssysteem als eenheid van analyse, waarbij het idee wordt verworpen dat de geest uitsluitend herleidbaar is tot processen binnen het hoofd.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Zwakke emergentie",
+    "subjectivity_and_intentionality": "Subjectiviteit wordt geconstitueerd door de dynamische, gesitueerde relatie van het organisme tot de omgeving (organisme-omgevingssysteem). Intentionaliteit (gerichtheid van het denken) wordt verklaard door de waarneming van affordanties, dat wil zeggen handelingsmogelijkheden die inherent zijn aan de omgeving.",
+    "qualia_account": "De theorie is niet-representationeel en sluit over het algemeen aan bij opvattingen die interne zintuiglijke gegevens (qualia) zoals traditioneel opgevat verwerpen, ten gunste van directe waarneming van omgevingseigenschappen (invarianten en affordanties).",
+    "ontological_commitments": "Organisme-omgevingssysteem, optische informatie (invarianten), affordanties.",
+    "epistemic_access": "Toegankelijk door de relatie tussen het organisme en zijn sociaal-fysieke omgeving te bestuderen, in plaats van door introspectie die is gericht op interne toestanden.",
+    "constituents_and_structure": "De structuur van bewustzijn/waarneming is gebaseerd op de functionele relatie tussen het organisme en de omgeving, met nadruk op de continuïteit van waarneming en handelen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Waarneming/cognitie, fenomenaal (bij behoedzame gevolgtrekking)",
+    "distinctive_mechanism_or_principle": "Directe waarneming van invarianten in de omgeving (onveranderlijke elementen in de optische stroom) en affordanties (handelingsmogelijkheden die door de omgeving worden geboden).",
+    "dynamics_of_emergence": "De nadruk ligt op dynamische stroom en continuïteit binnen het organisme-omgevingssysteem, in plaats van op emergentie uit discrete, gelokaliseerde neurale structuren.",
+    "location_and_distribution": "Gesitueerd binnen het organisme-omgevingssysteem, dat zich uitstrekt voorbij de hersenen en het inwendige van het hoofd.",
+    "causation_and_functional_role": "Waarneming functioneert om adaptief gedrag te sturen en vergroot de fitness door invarianten en handelingsmogelijkheden (affordanties) te detecteren.",
+    "integration_or_binding": "Integratie is inherent aan het directe en verenigde bevatten van het organisme-omgevingssysteem als één enkele eenheid van analyse.",
+    "information_flow_or_representation": "Verwerpt modellen van informatieverwerking; informatie is extern (invarianten) en wordt rechtstreeks door de waarnemingssystemen benaderd zonder dat een interne constructie van representaties nodig is.",
+    "evolutionary_account": "De nadruk op affordanties suggereert dat dit waarnemingssysteem evolueerde omdat het een evidente overlevingswaarde bood en de fitness vergrootte.",
+    "core_claims_and_evidence": [
+      "Waarneming staat rechtstreeks in verband met de stimulus alleen en vereist noch gevolgtrekking noch interne mentale representaties.",
+      "De primaire objecten van waarneming zijn affordanties, niet bepaalde zintuiglijke kwaliteiten.",
+      "De eenheid van analyse voor het begrijpen van waarneming is het organisme-omgevingssysteem.",
+      "De theorie verwerpt de premisse van de armoede van de stimulus die in cognitivistische modellen gangbaar is."
+    ],
+    "basis_of_belief_or_evidence_type": "Experimenteel, filosofisch, ecologisch"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch toetsbaar, met name binnen de ecologische psychologie en waarnemingsstudies.",
+    "known_empirical_interventions_or_tests": "Empirische observatie van waarneming en gedetailleerde analyse van interactievelden tussen organisme en omgeving.",
+    "criticisms_and_tensions": "De theorie bekritiseert reguliere theorieën van waarneming en valt specifiek zowel het behaviorisme als het cognitivisme/de informatieverwerking aan. Haar uitbreiding naar fenomenaal bewustzijn is speculatief en onderhevig aan scepsis van hen die zich vastleggen op theorieën van interne representatie.",
+    "open_questions_and_limitations": "De kerntheorie behandelt waarneming en cognitie; de toepassing of uitbreiding naar het verklaren van fenomenaal bewustzijn (het 'hoe-het-is'-aspect) vereist behoedzame gevolgtrekking.",
+    "ontological_coherence": "Zeer coherent binnen haar ecologische en gesitueerde antireductionistische materialistische ontologie, maar fundamenteel in strijd met theorieën die berusten op cognitieve symboolmanipulatie."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mogelijk",
+      "rationale": "Indien bewustzijn een product is van directe, gesitueerde interactie binnen een organisme-omgevingssysteem (zoals deze materialistische theorie impliceert), dan zou AI bewustzijn kunnen bereiken indien deze zo wordt ontworpen dat zij belichaamd is en interageert binnen een fysieke omgeving die in staat is affordanties waar te nemen."
+    },
+    "survival_beyond_death": {
+      "stance": "Nee",
+      "rationale": "De theorie wordt onder het materialisme geclassificeerd en richt zich op het levende, biologische organisme en zijn fysieke omgeving. Er wordt geen niet-fysische component gepostuleerd die de lichamelijke dood zou kunnen overleven."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistisch/adaptief",
+      "rationale": "De primaire functionele rol van waarneming is adaptief gedrag door het detecteren van affordanties, in overeenstemming met een materialistische opvatting waarin zin door mensen in hun omgeving wordt geschapen ten behoeve van overleving en gedijen."
+    },
+    "virtual_immortality": {
+      "stance": "Voorwaardelijk",
+      "rationale": "Aangezien bewustzijn gebonden is aan de fysieke organisme-omgevingseenheid, zou virtuele onsterfelijkheid alleen haalbaar zijn indien de essentiële belichaamde, niet-representationele interacties perfect zouden kunnen worden gevat en gesimuleerd in een nieuw fysiek medium."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Direct Perception Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Verenigbaar"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Kritiek"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

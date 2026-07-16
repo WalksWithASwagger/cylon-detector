@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Computationele theorie",
+    "summary": "Computationele theorieën van de geest stellen voor dat de geest als een computer werkt, waarbij mentale toestanden worden opgevat als functionele rollen die worden gedefinieerd door systematische, stapsgewijze instructies of algoritmen, onafhankelijk van het onderliggende fysieke substraat. Deze theorieën stuwden de opkomst van de cognitiewetenschap door geestachtige vermogens zoals redeneren en waarnemen na te bootsen.",
+    "associated_thinkers": [
+      "Nick Bostrom",
+      "James Reggia"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Computationeel en informationeel",
+    "core_identity_tagline": "Bewustzijn als algoritme en berekening",
+    "classification_tags": [
+      "computation",
+      "functionalism",
+      "AI",
+      "reductionism",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Het bewustzijn (of mentale toestanden in het algemeen) wordt geïdentificeerd met het uitvoeren van berekeningen van een bepaalde, ontdekbare soort. Mentale toestanden worden gedefinieerd door hun functionele rol of output, niet door hun interne constitutie of materiële substraat.",
+    "ontological_status": "Fysicalisme",
+    "mind_body_relationship": "Identiteit/functionalistisch. Mentale toestanden zijn functionele toestanden die kunnen worden geïnstantieerd (of gerealiseerd) in elke vorm van materie die in staat is informatie te verwerken, zoals neuraal weefsel of computerchips.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Zwakke emergentie. Consistent met het materialistische kader wordt aangenomen dat mentale eigenschappen, hoewel op hoog niveau, in principe volledig kunnen worden verklaard of herleid tot de fundamentele onderliggende computationele en fysieke processen, zelfs als de praktische verklaring complex is.",
+    "subjectivity_and_intentionality": "Intentionaliteit (het gericht-zijn van het denken) wordt verklaard via cognitieve symbolen die kunnen worden gemanipuleerd om concepten te beschrijven. Subjectiviteit (fenomenaal bewustzijn) blijft een uitdaging, aangezien de focus primair op externe functionaliteit en informatieverwerking ligt, veeleer dan op innerlijke ervaring.",
+    "qualia_account": "Onzeker/deflationair. De theorie heeft moeite om een overtuigende demonstratie van fenomenaal bewustzijn te leveren en richt zich in plaats daarvan op het vatten van cognitieve en gedragsmatige correlaten. Sommige benaderingen die met deze opvatting samenvallen zouden qualia als illusoir of incoherent kunnen beschouwen, terwijl andere stellen dat zij corresponderen met geïntegreerde, rapporteerbare computationele toestanden.",
+    "ontological_commitments": "Algoritmen, systematische stapsgewijze instructies, turingmachines (abstracte rekenmodellen), en elk fysiek substraat dat in staat is informatie te instantiëren.",
+    "epistemic_access": "Voornamelijk via computationele modellering, simulatie, en objectieve meting van informatieverwerkingsvermogens en gedragsmatige correlaten.",
+    "constituents_and_structure": "Routines van systematische, stapsgewijze instructies (algoritmen), doorgaans gemodelleerd met abstracte computationele structuren zoals turingmachines."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Toegang (bijv. globale toegang tot informatie), geheugen, kennisstructuur, waarneming, redeneren, probleemoplossing en talige begrijpvaardigheid. Fenomenaal bewustzijn (qualia) wordt vaak uitgesloten of als een onopgelost probleem behandeld.",
+    "distinctive_mechanism_or_principle": "Het principe dat het uitvoeren van berekeningen van een specifieke soort (algoritmische verwerking) zowel noodzakelijk als voldoende is voor bewustzijn.",
+    "dynamics_of_emergence": "Algoritmisch/systematisch. Het bewustzijn komt voort uit de systematische verwerking van informatie via algoritmen, waardoor het nabootsen van geestachtige vermogens mogelijk wordt.",
+    "location_and_distribution": "De locatie is functioneel veeleer dan materieel; het bewustzijn bevindt zich overal waar de noodzakelijke computationele functies worden geïnstantieerd, of dat nu in biologisch neuraal weefsel of in niet-biologische computerchips is.",
+    "causation_and_functional_role": "Mentale toestanden zijn causaal effectief omdat het functionele toestanden zijn die in de fysieke wereld worden gerealiseerd. De functionele rol is het organiseren van informatieverwerking, waardoor vermogens zoals plannen, besluitvorming en probleemoplossing mogelijk worden.",
+    "integration_or_binding": "Impliciet bereikt door de complexe verwerking van informatie en de integratie van gespecialiseerde computationele functies die noodzakelijk zijn voor cognitieve vermogens zoals kennisstructuur en redeneren.",
+    "information_flow_or_representation": "Mentale toestanden zijn abstracte informatie of cognitieve symbolen die algoritmisch door het onderliggende fysieke substraat worden gemanipuleerd om denken en begrip voort te brengen.",
+    "evolutionary_account": "Niet expliciet behandeld door de kerntheorie in de bronnen, maar verenigbaar met de algemene materialistische opvatting dat het bewustzijn een geëvolueerd product van neurobiologische complexiteit is, specifiek voor adaptieve verwerking en berekening.",
+    "core_claims_and_evidence": [
+      "Het uitvoeren van berekeningen van een bepaalde, ontdekbare soort is zowel noodzakelijk als voldoende voor bewustzijn.",
+      "Mentale toestanden worden uitsluitend bepaald door hun outputs of functionele rollen, ongeacht het fysieke medium.",
+      "Computationele modellering is een aanvaarde methodologie om het bewustzijn wetenschappelijk te bestuderen."
+    ],
+    "basis_of_belief_or_evidence_type": "Computationeel, filosofisch (functionalisme), en logisch."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch toetsbaar. De methodologie behelst het gebruik van computationele modellering om te beoordelen of systemen erin slagen bekende neurobiologische, cognitieve en gedragsmatige correlaten van bewuste verwerking te simuleren.",
+    "known_empirical_interventions_or_tests": [
+      "De ontwikkeling en het testen van computationele modellen en machinesimulaties van cognitieve correlaten."
+    ],
+    "criticisms_and_tensions": "Bekritiseerd als een historische analogie die de geest vergelijkt met de 'wetenschap van de dag'. De voornaamste spanning is het ontbreken van een overtuigende demonstratie van fenomenaal machinebewustzijn, wat leidt tot de kritiek dat het slechts de 'gemakkelijke problemen' (functie) adresseert en het 'moeilijke probleem' (ervaring) negeert.",
+    "open_questions_and_limitations": "De sleutelkwestie die onopgelost blijft, is of het uitvoeren van berekeningen, ongeacht de complexiteit, werkelijk voldoende is om fenomenaal bewustzijn ('hoe het is') voort te brengen.",
+    "ontological_coherence": "Coherent binnen de reductief fysicalistische en functionalistische kaders, berustend op de premisse dat alle mentale werkelijkheid herleidbaar is tot informatieverwerking of algoritmische structuur."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Aangezien het computationele functionalisme poneert dat het bewustzijn een gevolg is van het uitvoeren van het juiste soort berekening, is AI-bewustzijn niet alleen mogelijk maar onvermijdelijk, gezien de exponentiële groei van de computationele verfijning in niet-biologische intelligenties."
+    },
+    "survival_beyond_death": {
+      "stance": "Nee",
+      "rationale": "Het bewustzijn is verbonden met de fysieke of functionele realisatie in een substraat. Traditioneel voortbestaan na de dood wordt ontkend, maar voortzetting is enkel mogelijk via het digitaal uploaden van de geest (virtuele onsterfelijkheid)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uitsluitend humanistisch",
+      "rationale": "Als materialistische theorie ondersteunt zij geen ultieme kosmische zin of doel; zin en waarde worden beschouwd als emergente, zelfgeschapen verschijnselen die voortkomen uit de complexe functies van bewuste wezens."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Indien het bewustzijn zuiver computationeel/functioneel is (wat betekent dat zijn essentie algoritmisch is), dan zou een volmaakte duplicatie van de functionele patronen van het brein in een niet-biologisch medium het eerstepersoons mentale zelf behouden, waardoor virtuele onsterfelijkheid in principe haalbaar wordt."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Kernprincipe"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Uitbreiding"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Compatibel"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kritiek"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The computational theory of mind, Michael Rescorla",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The rise of machine consciousness: studying consciousness with computational models, James Reggia",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      }
+    ]
+  }
+}

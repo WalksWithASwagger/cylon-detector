@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Thagards neurale representatie, binding, coherentie, competitie",
+    "summary": "Deze theorie schrijft bewuste ervaringen toe aan de interacties van vier empirisch plausibele breinmechanismen: neurale representatie, binding, coherentie en competitie. Zij stelt dat bewustzijn emergeert uit deze interacties door het brein heen, en biedt een wetenschappelijk gefundeerde verklaring voor complexe bewuste fenomenen zoals dromen, humor en zelfbewustzijn.",
+    "associated_thinkers": ["Paul Thagard"],
+    "category": "Materialisme",
+    "subcategory": "Representationeel",
+    "core_identity_tagline": "‘Bewustzijn opgebouwd door neurale mechanismen’",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "binding",
+      "physicalism",
+      "coherence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewustzijn wordt geïdentificeerd als de emergente uitkomst van de interacties tussen specifieke breinmechanismen: neurale representatie, binding, coherentie en competitie.",
+    "ontological_status": "Reductief fysicalisme/materialisme (dit standpunt wordt afgeleid omdat de theorie onder het materialisme wordt geclassificeerd en tracht bewustzijn volledig te verklaren als een niet-mysterieus biologisch product van het brein.)",
+    "mind_body_relationship": "Identiteit/reductie (bewuste ervaringen worden volledig verklaard door en emergeren uit fysieke breintoestanden en -processen, in overeenstemming met een hoge fysicalistische zekerheid.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Zwakke emergentie (afgeleid, aangezien de theorie steunt op strikte, empirisch gefundeerde neurowetenschap en stelt dat bewustzijn geen mysterie is zodra de constructie ervan door breinen begrepen wordt, wat in principe herleidbaarheid suggereert.)",
+    "subjectivity_and_intentionality": "Subjectieve ervaringen, waaronder waarnemingen, gewaarwordingen, emoties en abstracte gedachten (zoals zelfreflectie), worden verklaard door de complexe interacties van de vier kernmechanismen van het brein.",
+    "qualia_account": "Qualia (fenomenale ervaringen zoals het zien van kleur of het voelen van pijn) worden op omvattende wijze verklaard door de werking van de vier breinmechanismen (neurale representatie, binding, coherentie, competitie).",
+    "ontological_commitments": "Biologische breinen, neurale representaties en hun dynamische processen (binding, coherentie, competitie), vaak computationeel gemodelleerd.",
+    "epistemic_access": "Voornamelijk benaderd via empirische neurowetenschappelijke bevindingen en computationele modellering, met validatie die wordt gezocht via verklarende coherentie.",
+    "constituents_and_structure": "De structuur bestaat uit neurale mechanismen (representatie, binding, coherentie, competitie) die dynamisch opereren door breingebieden heen, waaronder mechanismen die gebruikmaken van 'tijdcellen' om ervaringen te volgen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenaal (waarnemingen, gewaarwordingen, emoties), zelfbewustzijn (zelfwaardering, zelfreflectie), timing, dromen, humor, religieus ontzag.",
+    "distinctive_mechanism_or_principle": "De gecombineerde, interagerende werking van neurale representatie, binding, coherentie en competitie tussen neurale representaties.",
+    "dynamics_of_emergence": "Bewuste toestanden zijn een dynamisch proces, dat emergeert uit de interacties en competitie tussen neurale representaties, en dat aansluit bij recente neurowetenschappelijke bevindingen over het volgen van ervaringen door de tijd heen.",
+    "location_and_distribution": "Gelokaliseerd in het biologische brein; specifiek verdeeld via de interacties van mechanismen in gebieden door het brein heen.",
+    "causation_and_functional_role": "Bewustzijn staat centraal in het menselijke leven (bijv. moraliteit, romantiek). De theorie impliceert causale werkzaamheid aangezien zij verklaart hoe fysieke breinmechanismen bewuste ervaringen opbouwen en complexe mentale functies mogelijk maken.",
+    "integration_or_binding": "Binding is een van de vier kernmechanismen waarvan de interactie bewustzijn verklaart, en verschaft de unificatie van de ervaring.",
+    "information_flow_or_representation": "Neurale representatie is een kernmechanisme; bewustzijn resulteert uit competitie tussen deze representaties, wat complexe mentale kenmerken verbindt met gedeelde neurale mechanismen.",
+    "evolutionary_account": "Bewustzijn is een product van breinen, wat impliceert dat het via fylogenetische evolutie is ontstaan. De benadering onderscheidt bewuste dieren van niet-bewuste entiteiten zoals planten en bacteriën.",
+    "core_claims_and_evidence": [
+      "Bewuste ervaringen resulteren uit de interactie van de mechanismen neurale representatie, binding, coherentie en competitie.",
+      "De mechanismen verklaren complexe ervaringen, waaronder zelfwaardering, humor en religieus ontzag.",
+      "De theorie wordt empirisch ondersteund en sluit aan bij bevindingen over hoe tijdcellen breinen in staat stellen ervaringen te volgen.",
+      "De theorie past verklarende coherentie toe om bewustzijn bij bots en beesten te beoordelen."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch, neurowetenschappelijk, computationeel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch toetsbaar (de mechanismen worden geacht empirisch plausibel te zijn en de theorie is gebouwd op strikte neurowetenschap, met verklarende coherentie als methodologische toetssteen.)",
+    "known_empirical_interventions_or_tests": "De theorie is verenigbaar met recente neurowetenschappelijke bevindingen betreffende hoe tijdcellen breinen in staat stellen ervaringen te volgen. (Er werden in de bron geen specifieke experimentele interventies beschreven die gericht zijn op het verifiëren of falsifiëren van de theorie.)",
+    "criticisms_and_tensions": "Er worden in het bronmateriaal geen specifieke externe kritieken aangehaald, wat aangeeft dat de kritiek minimaal is of nog niet breed gedocumenteerd is in de gegeven context.",
+    "open_questions_and_limitations": "Het precieze mechanisme waarmee de vier processen het subjectieve 'hoe-het-is-om' aanvoelen (qualia) voortbrengen, wordt niet volledig uitgewerkt, wat een gebruikelijke beperking is voor reductief-fysicalistische verklaringen.",
+    "ontological_coherence": "Hoogst coherent binnen een fysicalistisch kader, met de stelling dat bewustzijn fysiek is en volledig geconstrueerd wordt door breinmechanismen, waarmee het 'mysterie' van bewustzijn wordt opgelost."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Waarschijnlijk",
+      "rationale": "De theorie suggereert dat, hoewel de huidige computers niet bewust zijn, nieuwe generatieve AI-modellen mechanismen bezitten die vergelijkbaar zijn met die van mensen, wat enige mate van bewustzijn mogelijk zou kunnen maken, in het bijzonder als de vier kernmechanismen van het brein computationeel kunnen worden gemodelleerd of gerepliceerd."
+    },
+    "survival_beyond_death": {
+      "stance": "Nee",
+      "rationale": "Als materialistische theorie is bewustzijn volledig afhankelijk van het biologische brein; de dood van het brein resulteert daarom in het permanente niet-bestaan van de persoon en het bewustzijn."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uitsluitend humanistisch",
+      "rationale": "Als materialistische theorie houdt zij vast aan een fysicalistische verklaring die uiteindelijke kosmische zin of doel over het algemeen uitsluit, en enkel de zin en waarde erkent die door de mens zelf geschapen wordt."
+    },
+    "virtual_immortality": {
+      "stance": "Ja",
+      "rationale": "Als de materialistische theorie bewustzijn volledig verklaart via fysieke mechanismen (neurale representatie, binding, coherentie, competitie), dan is het eerstepersoons mentale zelf uploadbaar en is virtuele onsterfelijkheid haalbaar via geavanceerde technologie die in staat is die fysieke processen te dupliceren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "Uitbreiding"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Verenigbaar"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Verenigbaar"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dreams, Jokes, and Songs: How Brains Build Consciousness, Paul Thagard",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Bots and Beasts, Paul Thagard",
+        "year": 2021
+      }
+    ]
+  }
+}
