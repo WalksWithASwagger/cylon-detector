@@ -1,0 +1,113 @@
+{
+  "id_and_class": {
+    "theory_title": "コッホによる統合情報理論と汎心論の比較",
+    "summary": "本項目は、統合情報理論（IIT）と汎心論についてのクリストフ・コッホの比較を概説し、両者が意識を実在の内在的で根本的な性質とみなす直観を共有すると論じる。しかしIITは、意識の具体的な基準（$Phi$、ファイによって定量化される）を明確化し、排他公準を介して結合問題を解決し、伝統的な汎心論とは異なり具体的な経験的研究計画を提供するがゆえに優れているとされる。",
+    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
+    "category": "統合情報理論",
+    "subcategory": "比較／批判",
+    "core_identity_tagline": "IIT：汎心論の結合問題を解決する根本的に意識的な理論",
+    "classification_tags": [
+      "iit",
+      "panpsychism",
+      "intrinsic",
+      "fundamental",
+      "comparison"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は展開された内在的な因果力と同一視される。これは意識を内在的とみなす汎心論の見解と根本的に類似するが、最大限に還元不可能な概念的構造（$Phi$構造）として数学的に規定される。",
+    "ontological_status": "汎心論的／一元論的（根拠：この比較は意識が内在的で実在に根本的であるという共有された前提に基づき、IITを概念的に汎心論に合致させる。ただしIITは伝統的な汎心論が欠く厳密な数学的基準を規定する）。",
+    "mind_body_relationship": "説明的同一性（経験は物理的基盤から展開された$Phi$構造と同一である）。この関係は内在的であり、二元論や創発を要さないが、特定の物理的配置を要求する。",
+    "primitive_or_emergent_status": "根本的",
+    "emergence_type": "なし（根拠：コッホは、意識の根本的本性と整合的に、IITが創発の余地を残さないと論じる）。",
+    "subjectivity_and_intentionality": "主観性（経験）は、本来的にそれ自身のためにある、最大限に還元不可能な概念的構造（$Phi$構造）である。志向性は、この構造内の下位構造（$Phi$フォールド）に対応する。",
+    "qualia_account": "IITは、現象学（質的側面）が量的考察（内在的な因果力）によっていかに捉えられうるかについての詳細な数学的説明を提供し、量的枠組みは質を捉えられないと主張する批判者に反論する。クオリアはクオリア空間における最大限に還元不可能な概念的構造（$Phi$構造）と同一である。",
+    "ontological_commitments": "実在の内在的で根本的な性質、原因‐結果力、クオリア空間に存在する概念的構造（$Phi$構造）、意識の物理的基盤（PSC）。",
+    "epistemic_access": "科学的な検証可能性、厳密な数学的モデル化（$Phi$の測定）を通じてアクセス可能であり、経験の現象学（公理）に基礎づけられる。",
+    "constituents_and_structure": "意識は、物理系の原因‐結果構造によって決定される、準次元的な「クオリア空間」における最大限に還元された概念的構造（内側から見られた形）である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、質／クオリア、統合／統一、特異性／情報",
+    "distinctive_mechanism_or_principle": "排他公準：この規定は、どの存在体の集合（例えばニューロン）が、最大量の統合情報（$Phi$）をもつことによって単一の意識的存在体として存在するかを規定する。このメカニズムが汎心論の結合問題を解決する。",
+    "dynamics_of_emergence": "静的性質（根拠：意識は特定の配置の内在的性質であり、計算のような動的な流れや過程ではない。焦点は構造／存在に置かれる）。",
+    "location_and_distribution": "意識は段階的で広く分布する（汎心論と共有される直観）。脳においては、最大限に統合された因果構造（例えば後方皮質）に位置づけられる。",
+    "causation_and_functional_role": "内在的存在体（意識）は原因‐結果力をもち、その過去と未来を制約しうる。IITは、伝統的な汎心論の欠点である、意識がなぜ適応的であるかを説明すると主張される。",
+    "integration_or_binding": "統合は意識の公理であり、経験が統一され還元不可能であることを要求する。排他公準は、どの統合された全体が単一の意識的存在体とみなされるかを司る。",
+    "information_flow_or_representation": "意識はシステムの情報理論的性質である。意識の量は統合情報（$Phi$）によって定量化され、システムの還元不可能性を特徴づける。",
+    "evolutionary_account": "意識が適応的でありうる（選択上の利点を提供する）能力は、根本的意識の機能的な意義を正当化するのに通常苦労する汎心論に対するIITの優位性として提示される。",
+    "core_claims_and_evidence": [
+      "IITは、排他公準を介してどのシステムが意識的か（最大の$Phi$）を明確化することによって結合問題を解決する。",
+      "IITは、伝統的な汎心論とは異なり、概念的で潜在的に経験的な研究計画を提供する。",
+      "意識は機能や計算ではなく構造である。デジタルコンピュータは統合情報が無視できるほど小さいため感受性をもちえない。",
+      "IITは、量的な第一性質が第二（現象的）性質にいかに対応するかについての原理的証明を提供する。"
+    ],
+    "basis_of_belief_or_evidence_type": "現象学的、数学的、科学的（検証可能な命題へと至る公理的基礎）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（コッホは、IITが$Phi$を計算し特定の予測を検証することによって経験的研究計画を提供すると強調する）。",
+    "known_empirical_interventions_or_tests": [
+      "人間の脳の特定の神経回路網（例えば視覚野）についての$Phi$の計算",
+      "$Phi$の計算を意識状態（例えば麻酔中）と相関づける脳スキャンデータ",
+      "後方皮質の因果構造に関する予測を検証する敵対的協働実験"
+    ],
+    "criticisms_and_tensions": "IITは、常識に反する予測（単純な物体に意識を帰する）を行うと批判され、相当数の研究者によって「疑似科学」と特徴づけられてきた。敵対的な経験的検証の結果は、批判者によって中核理論を正当化するには不十分とみなされている。",
+    "open_questions_and_limitations": "IITを支持する経験的神経科学はいまだ初歩的であり、仮定された意識を引き起こす構造（「クオリア空間」）が技術によって操作されうるか否かを判定することは依然として未知である。",
+    "ontological_coherence": "高い（根拠：IITは、現象的経験を最大限に還元不可能な$Phi$構造と同一に結びつけ、原因‐結果力を通じて物理的存在を操作的に定義することによって、創発や二元論の余地を残さないと主張し、内的整合性を強く主張する。IITは厳密な基準を課すことで汎心論から自らを引き離す）。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "コッホは、IITがAIの意識に必要な機能主義的見解と根本的に対立すると論じ、デジタルコンピュータはその計算力や知能にかかわらず、そのハードウェア構造が無視できるほど小さい統合情報（$Phi$）をもたらすため、決して感受性をもたないと主張する。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確か",
+      "rationale": "存続は、IITが措定する実在の還元不可能な構造（クオリア空間）の未知の本性と技術的操作可能性に依拠する。ある種の存続は排除されないが、一人称的な存続は未解決の問いである。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確か",
+      "rationale": "IITの思弁的で無数のn次元構造は、究極的意味に関する判断を保留するに足るほど新奇ではあるが、本理論が伝える意識の中核的な測定と分析は、究極的な意味・目的・価値を提供しない。"
+    },
+    "virtual_immortality": {
+      "stance": "不確か",
+      "rationale": "意識が（IITが主張するように）単なるアルゴリズムではなく複雑系の物理学に結びついた構造であるならば、心のアップロードは不可能である。先進技術が意識を引き起こす$Phi$構造を操作できない限り、アップロードは主観的経験を欠いた「ディープフェイク」をもたらすだろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "共有された直観／批判"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "批判（計算不可能な意識）"
+      },
+      {
+        "name": "Galileo’s Error (Philip Goff)",
+        "relationship": "批判（コッホは、質的側面は量的枠組みで捉えられないというゴフの主張に反論する）"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "対比（暗黙裡に、所在および再帰／全域的放送の必要性に関して）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reflections of a natural scientist on panpsychism, Christof Koch",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t be Computed, Christof Koch",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Then I Am Myself the World: What Consciousness Is and How to Expand It, Christof Koch",
+        "year": 2024
+      },
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Masafumi Oizumi, Larissa Albantakis, Giulio Tononi",
+        "year": 2014
+      }
+    ]
+  }
+}

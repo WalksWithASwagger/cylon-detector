@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "トンプソンの生命のなかの心",
+    "summary": "この理論は生命と心のあいだの深い連続性を措定し、生物学的な生命の自己組織的・自己産出的な特徴（オートポイエーシス）が認知の基盤であると主張する。心はこれらの根源的な組織的性質の、豊かにされ感受性を備えた形態として理解され、脳のみならず身体と環境にわたって動的に位置づけられる。",
+    "associated_thinkers": [
+      "Evan Thompson",
+      "Humberto Maturana",
+      "Francisco Varela"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "身体化・エナクティブ",
+    "core_identity_tagline": "豊かにされた自己組織的生命としての心",
+    "classification_tags": [
+      "embodied",
+      "enactive",
+      "autopoiesis",
+      "phenomenology",
+      "dynamic systems"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、身体化され世界に位置づけられた、生命の豊かにされた自己組織的で動的な特徴（感受性）と同定される。",
+    "ontological_status": "自然主義的物理主義（身体化／エナクティブに焦点を置く）",
+    "mind_body_relationship": "心的な生は身体的な生であり、心が身体と環境を通じて分岐し、頭のなかの脳過程へ単純に還元されないという深い存在論的連続性を含意する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "創発的（非還元的／非階層的）。心は説明のギャップの還元的な閉鎖を求めることなく、生命の自己組織的な特徴の豊かにされた形態として創発する。",
+    "subjectivity_and_intentionality": "主観性（自己性）は、生きた認知的な存在に固有の自律性を説明することによって、根底から解明される。志向性は、外的状態の表象ではなく、擾乱によって引き起こされる自己組織的な補償から生じる。",
+    "qualia_account": "クオリアは行為、知覚、情動の自己組織的な動態に結びついており、説明のギャップに取り組むために、生きられた経験の構造についてのより豊かな現象学的説明を必要とする。",
+    "ontological_commitments": "生命の自己組織的な特徴、オートポイエーシス的な組織化、動的システムの方程式、そして生きられた経験（現象学）。",
+    "epistemic_access": "心と生命の科学的説明が、生きられた経験についてのより豊かな現象学的説明によって情報を得ることを要する（自然化された現象学）。",
+    "constituents_and_structure": "生命と心が共有する一群の形式的ないし組織的性質。状態空間における軌道として時間を通じた状態変化を記述する動的システムによって特徴づけられる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（感受性）、自己性、主観性、行為、知覚、情動、時間意識。",
+    "distinctive_mechanism_or_principle": "生命と心の深い連続性の原理であり、オートポイエーシス的な組織化と動的システム理論を活用して意識を説明する。",
+    "dynamics_of_emergence": "意識は動的で本来的に時間的な現象であり、意識状態はシステムの内在的な動態への擾乱に続く自己組織的な補償によって生成される。",
+    "location_and_distribution": "心は分散し位置づけられており、その根は脳のみに閉じ込められるのではなく、身体と環境を通じて分岐する。",
+    "causation_and_functional_role": "意識は生きた存在の自律性にとって決定的であり、外的な擾乱に対して統合性を維持するために必要な自己組織的な補償を含む。",
+    "integration_or_binding": "生きたシステムの内在的な統一性と自己産出的（オートポイエーシス的）な組織化を通じて達成され、それは「生命‐心」という統一された概念を含意する。（具体的な神経学的な結合機構は出典に示されていない。）",
+    "information_flow_or_representation": "入力は、従うべき指令や外的な事態の内的表象としてではなく、システムの内在的な動態への擾乱として概念化される。",
+    "evolutionary_account": "意識は生命の根源的な自己組織的性質の豊かにされた形態として創発し、非生命から生命への移行が生命から心への移行を可能にしたという連続性を示唆する。",
+    "core_claims_and_evidence": [
+      "生命と心は一群の形式的ないし組織的性質を共有する。",
+      "心的な生は身体化され位置づけられており、頭のなかの脳過程を超えて広がる。",
+      "このアプローチは、生きた認知的な存在に固有の自律性を説明することによって、自己性と主観性を根底から解明する。",
+      "認知は進化方程式で表現される本来的に時間的な現象である（動的システムのアプローチ）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、現象学的、生物学的（動的システム理論、オートポイエーシス）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能かつ経験的に情報を得ている。（動的システムモデルのような）科学的説明を現象学的説明と整合させることに依拠する。",
+    "known_empirical_interventions_or_tests": "一群の進化方程式によって特徴づけられる動的システムの説明を用いる（概念的なモデル化の枠組み）。（具体的で規範的な実験パラダイムは出典に挙げられていない。）",
+    "criticisms_and_tensions": "説明のギャップの還元的な閉鎖を達成できないとして厳格な還元主義者から批判される。豊かな現象学（生きられた経験）を科学的枠組みへと自然化するという哲学的課題に直面する。",
+    "open_questions_and_limitations": "説明のギャップを還元的な意味で閉じることを目指すのではなく、それに取り組むための資源を豊かにすることを目指す。より豊かな現象学的説明の必要性が鍵となる要件である。",
+    "ontological_coherence": "高い。この理論は身体化された動態と連続的な生命‐心の組織化という枠組みの内部で内的に整合的であり、身体化・エナクティブの範疇の支柱として働く。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き／不確定",
+      "rationale": "意識は生物学的な生命の特定の自己産出的（オートポイエーシス的）な組織化に依存する。もしAIが単なる計算やシミュレーションではなくこの核心的な生命の性質を具現化できるなら、意識が伴いうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "いいえ",
+      "rationale": "意識は根本的に、世界に位置づけられた生きた生物学的身体の自己組織的な動態に結びついている。このシステムの解体は、意識的な存在者の終焉を含意する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的／創発的",
+      "rationale": "意識は生きたシステムに自律性と行為者性を与え、生きられた自己産出的な経験に内在的価値を基礎づける。これは自然主義と整合的だが、理論そのものから導かれる宇宙的目的論は伴わない。"
+    },
+    "virtual_immortality": {
+      "stance": "ありそうにない",
+      "rationale": "心は脳過程と計算のみへ還元できない（入力は指令ではなく擾乱だからである）。自己産出的で深く身体化された「生命‐心」の組織化をデジタル的な基盤において複製することは、おそらく不可能であろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Enactivism",
+        "relationship": "中核的構成要素"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "影響"
+      },
+      {
+        "name": "Frank/Gleiser/Thompson’s “The Blind Spot”",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Process Theory",
+        "relationship": "重なり"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Autopoiesis and Cognition: the Realization of the Living, Humberto Maturana and Francisco Varela",
+        "year": 1980
+      },
+      {
+        "title_with_names": "The Blind Spot: Why Science Cannot Ignore Human Experience, Adam Frank, Marcello Gleiser, and Evan Thompson",
+        "year": 2024
+      }
+    ]
+  }
+}

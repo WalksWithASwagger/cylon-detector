@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "情報実在論と創発的情報理論",
+    "summary": "情報実在論は、実在が根本的に、諸存在が情報を交換する能力によって定義されると主張し、それが心身問題を解消する関係的な結合剤として働くとする。創発的情報理論（EIT）は、意識が非物質的で検出不可能な情報的「値」から生じ、それが生物学的システムにおいて階層的に創発し、物理的身体に対するトップダウンの因果を可能にすると提唱する。",
+    "associated_thinkers": ["William Dembski", "Daniel Boyd"],
+    "category": "唯物論",
+    "subcategory": "計算論的・情報的",
+    "core_identity_tagline": "「階層的な創発的情報としての意識」",
+    "classification_tags": [
+      "information",
+      "realism",
+      "emergence",
+      "non-material",
+      "top-down causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、物質やエネルギーとは区別されるが物理的システムの内部で実現される創発的で非物質的な情報と同一視される（EIT）。情報実在論は、実在の全体を情報の交換に基礎づける。",
+    "ontological_status": "物理主義／唯物論であるが、大幅に限定されている。この理論は唯物論の下に分類されるが、EITは明示的に非物質的で非エネルギー的な情報の値を措定する。",
+    "mind_body_relationship": "創発主義的。EITは、非物質的な情報の階層（心）がトップダウンの因果を通じて物理的身体に影響を与えると主張することで、心身の隔たりを架橋する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発。EITは、脳機能が、強く創発するシステムに共通する「トップダウンの因果」を用いる階層的で創発的な現象に依拠すると提唱する。",
+    "subjectivity_and_intentionality": "主観性と志向性は、創発的で階層的な情報構造に帰属される。情報実在論は、心が知覚を情報で代替することによって根源的な性質へ直接に接近すると示唆する。",
+    "qualia_account": "クオリアは、階層的で創発的な情報現象から生じる「意識の顕著な性質」のうちに暗黙的に含まれる。具体的な質的な感じは機構的には詳述されていない。",
+    "ontological_commitments": "情報は実在の根源的な「関係的結合剤」である。具体的な存在論的コミットメントには、非物質的な情報の基本単位（値）と、生物学的／技術的システムの内部の階層的な情報構造が含まれる。",
+    "epistemic_access": "EITの非物質的な情報の値は物理的装置によって検出できないが、それらを創り出すのに用いられた符号化システムを使って推論しうる。情報実在論は、心が情報を介して直接に接近すると示唆する。",
+    "constituents_and_structure": "意識の構造は、非物質的な情報の基本単位（バイトやサブルーチンに類する）によって形成される階層的な組織化の水準に基づく。実在そのものが「情報的に連結された全体」である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（心身の隔たりに取り組むことで含意される）、および機能的な脳の現象。",
+    "distinctive_mechanism_or_principle": "生物学的システムにおける検出不可能で非物質的な情報の「値」の実現であり、それが階層的構造へと組織化されトップダウンの因果を及ぼす。",
+    "dynamics_of_emergence": "動的過程。意識は、基本的な情報単位の結合を通じて階層的な創発的現象を形成することによって生じる。",
+    "location_and_distribution": "階層的な情報の創発を支えうる生物学的・技術的システムに局在する。情報実在論は情報を実在の遍在する定義的特徴として措定する。",
+    "causation_and_functional_role": "意識は非物質的な情報として、トップダウンの因果を及ぼし、物理的身体に影響を与える。機能的な脳の現象はこれらの情報の階層に依拠する。",
+    "integration_or_binding": "統合は、基本的な情報単位の結合と組み合わせを通じて階層的な組織化の水準を形成することによって達せられる。情報実在論は、実在が情報的に連結された全体であるとする。",
+    "information_flow_or_representation": "情報は、物質やエネルギーとは区別される非物質的な「値」として扱われ、階層的に組織化され、実在の主要な構成要素として働く。",
+    "evolutionary_account": "明示的には詳述されていない。この理論は、強く創発する情報を処理し支えうる生物学的システムの進化に暗黙のうちに依拠する。",
+    "core_claims_and_evidence": [
+      "実在の定義的特徴は、諸存在が情報を交換する能力である（情報実在論）",
+      "EITは、物質やエネルギーとは区別される非物質的な情報の値を措定する",
+      "意識は脳における階層的な創発的情報現象から生じる（EIT）",
+      "EITのメカニズムは、強く創発するシステムに共通するトップダウンの因果に依拠する"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、計算論的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的であり概念的に検証可能。EITの中核的構成要素（非物質的な値）は、いかなる装置によっても検出できないものとして定義される。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要な緊張は、この理論が唯物論の下に分類されながら、明示的に非物質的でエネルギーから成らないものとして定義される情報の構成要素に依拠しており、厳格な物理主義との整合性を損なう恐れがあることから生じる。",
+    "open_questions_and_limitations": "情報の値が単に諸状態から推論される「値」として定義されることを踏まえると、非物質的な情報の創発がどのように現象的な主観的経験へと翻訳されるのかという正確なメカニズムは、不明瞭なままである。",
+    "ontological_coherence": "層をなす情報に基づく強い創発とトップダウンの因果の理論としては内的に一貫している。物理主義との整合性は、非物質的で非エネルギー的な情報の構成要素の主張によって損なわれる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "唯物論の下に分類される計算論的・情報的理論として、人工システムが必要な複雑で階層的、かつ強く創発する情報構造を実現できるならば、意識が達成可能であることを含意する。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定する",
+      "rationale": "この理論は唯物論の下に分類され、唯物論は一般に、意識が物理的基盤（脳）に全面的に依存するとし、身体の破壊が意識ある自己の停止をもたらすことを意味する。情報の値の非物質的性質は、システムの物理的状態に依存する。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "意識が根本的に情報構造である（たとえその情報が非物質的であっても）ならば、この構造とその動態（階層的創発とトップダウンの因果の能力を含む）を非生物学的媒体へ複製すれば、一人称の心的自己の継続を可能にするはずである。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "唯物論のカテゴリーに位置するこの理論は、宇宙的ないし究極的な目的論ではなく、個人が創り出す人間主義的な意味と目的を典型的に含意する科学に基づく観点を支持する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "重複"
+      },
+      {
+        "name": "Emergence",
+        "relationship": "拡張"
+      },
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "対比"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "両立的"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "How informational realism subverts materialism, William Dembski",
+        "year": 2021
+      },
+      {
+        "title_with_names": "How informational realism dissolves the mind–body problem, William Dembski",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Emergent Information Theory, Daniel Boyd",
+        "year": 2020
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "エントロピー脳仮説",
+    "summary": "この仮説は、自発的な脳活動のエントロピーが、特定の上限と下限の内部で、意識状態の情報的な豊かさを指標づけると提唱する。原初的あるいはサイケデリックな意識状態は高いエントロピーと高い脳の「臨界性」に結びつくのに対し、通常の覚醒意識は抑制されたエントロピーを伴い、臨界性のすぐ下で作動すると論じる。",
+    "associated_thinkers": [
+      "Robin Carhart-Harris"
+    ],
+    "category": "唯物論の諸理論",
+    "subcategory": "ホメオスタシス的・情動的",
+    "core_identity_tagline": "情報的エントロピー／臨界性としての意識",
+    "classification_tags": [
+      "entropy",
+      "neurodynamics",
+      "psychedelics",
+      "criticality",
+      "DMN"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、エントロピーと呼ばれる無次元量によって指標づけられる、自発的な脳活動の情報的な豊かさによって同定される。",
+    "ontological_status": "物理主義／唯物論",
+    "mind_body_relationship": "意識は、物理的な脳活動、とりわけその神経動態の計測可能な動的状態として理解され、物質的な脳の内部に局在する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "この理論は、異なる意識状態に対応する系の動態(エントロピー)に焦点を置く。主観性と志向性は、通常の覚醒意識における抑制されたエントロピーによって可能となるメタ認知的機能(自己意識や現実検討など)を介して間接的に扱われる。",
+    "qualia_account": "この理論は質的な感じがいかにして生じるかを明示的に詳述しない。エントロピーが意識状態の「情報的な豊かさ」を指標づけると措定し、経験との連関を含意するが、その主観的な質そのものの本性は説明しない。",
+    "ontological_commitments": "自発的な脳活動、エントロピー、臨界性、そして組織化された神経ネットワーク、とりわけデフォルトモードネットワーク(DMN)がコミットされる存在物である。",
+    "epistemic_access": "意識は、神経画像データ(たとえばサイケデリック状態で観測される神経動態)からの脳エントロピーの客観的計算を介してアクセスされ特徴づけられる。",
+    "constituents_and_structure": "意識の構造は、時間を通じて形成され断片化する機能的結合モチーフのレパートリーと、デフォルトモードネットワーク(DMN)内部の組織化の水準に基づく。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの(情報的な豊かさを介して指標づけられる)、原初的・原始的状態、通常の覚醒意識、(抑制されたエントロピーによって制約される)自己意識。",
+    "distinctive_mechanism_or_principle": "意識状態の情報的な豊かさが自発的な脳活動のエントロピーによって統べられ、その結果として脳が秩序と無秩序の間の「臨界」点にどれだけ近いかによって統べられるという原理。",
+    "dynamics_of_emergence": "意識は、エントロピーの変動が状態の性格を規定する動的過程である。抑制されたエントロピーは通常の覚醒意識の制約された安定的な質を維持し、上昇したエントロピーは臨界的・原初的状態をもたらす。",
+    "location_and_distribution": "主として脳全体にわたる動的な機能的結合パターンに局在し、とりわけデフォルトモードネットワーク(DMN)内部の高度に組織化された活動に焦点を置く。",
+    "causation_and_functional_role": "エントロピーの抑制は、通常の覚醒意識に制約された質を付与し、現実検討や自己意識といったメタ認知的機能を可能にする働きをもつ。",
+    "integration_or_binding": "統合はエントロピーによって指標づけられる複雑性と豊かさを通じて推論される。高エントロピー状態はより大きな結合モチーフのレパートリーを示し、動的な形態の機能的統合を示唆する。",
+    "information_flow_or_representation": "エントロピーは情報的な豊かさの指標として働く。自由エネルギー原理との統合は、サイケデリックのエントロピー的効果が高次の事前信念を緩め、ボトムアップの情報の流れを解放することを示唆する。",
+    "evolutionary_account": "このモデルは、意識の原初的状態(高エントロピー)が原始的であるか、あるいは現代の成人・人間の通常の覚醒意識(抑制されたエントロピー)の発達に先立っていたことを示唆する。",
+    "core_claims_and_evidence": [
+      "自発的な脳活動のエントロピーは、意識状態の情報的な豊かさを指標づける。",
+      "原初的状態の一例であるサイケデリック状態は、神経画像データにおいて上昇したエントロピーと脳の臨界性を示す。",
+      "通常の覚醒意識は抑制されたエントロピーを維持し、臨界性のすぐ下で作動し、デフォルトモードネットワーク(DMN)の組織化に依存する。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的、計算論的、理論的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能。",
+    "known_empirical_interventions_or_tests": [
+      "脳エントロピーを計測する神経画像研究(たとえばシロシビンを用いたもの)。",
+      "脳の臨界性と機能的結合モチーフの測定。"
+    ],
+    "criticisms_and_tensions": "この理論は、「複雑性」や「多様性」といった概念を意識・経験と互換的に用い、それらを主観的な豊かさを説明しえない単なる「脳のノイズ」として解釈しているとして、とりわけ脳活動の低下が豊かなサイケデリック体験と相関する場合に、一部から批判される。",
+    "open_questions_and_limitations": "唯物論に根ざすこの理論は、エントロピーのような量的尺度がなぜ質的な主観的経験へと転じるのかを説明するという限界を共有する。ただしエントロピーはその経験の豊かさを指標づけるために用いられる。",
+    "ontological_coherence": "物理主義的存在論ときわめて整合的であり、定量化可能な神経生物学的指標(エントロピー、臨界性)を用いて意識の異なる状態を写像する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる(条件付き)",
+      "rationale": "この理論は物理系の計測可能な計算的特性(エントロピー、情報的な豊かさ、臨界性)に基づく唯物論的モデルであるため、これら必要とされる動的特性が非生物学的な基体に実現されれば、人工知能が意識を達成しうる可能性が高い。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は、自発的な脳活動やDMNといった物理的な脳の特定の動的な組織化と活動によって定義され、身体の死とともに停止することを含意する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "意識状態とそのメタ認知的機能に対する唯物論的・神経生物学的説明として、この理論は究極的で宇宙的な意味や目的の非物理的源泉を導入も要請もしない。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "意識が脳活動の特定のパターンと動的パラメータ(エントロピーや臨界性など)によって全面的に説明されるならば、これらのパターンを非生物学的媒体において完全に再現すれば一人称的な現象的自己が保存され、仮想的不死を支持する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Critical Brain Hypothesis",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Analytic Idealism (Kastrup)",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs, R.L. Carhart-Harris et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The entropic brain—revisited, R.L. Carhart-Harris",
+        "year": 2018
+      },
+      {
+        "title_with_names": "REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics, R.L. Carhart-Harris, K.J. Friston",
+        "year": 2019
+      }
+    ]
+  }
+}

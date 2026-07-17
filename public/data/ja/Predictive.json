@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "予測理論（トップダウン）",
+    "summary": "この観点は、脳を動的な予測エンジンとみなし、そこでは意識的知覚がトップダウンの期待（予測）とボトムアップの感覚データ（予測誤差）を組み合わせることによって内的に生成される。意識は、生存のための正確な予測、気づき、応答的行動を促進する機能的機構として生じる。",
+    "associated_thinkers": [
+      "Andy Clark",
+      "Richard Gregory",
+      "Karl Friston",
+      "Rudolfo Llinas"
+    ],
+    "category": "唯物論",
+    "subcategory": "ホメオスタシス的・情動的",
+    "core_identity_tagline": "能動的な予測の統合としての意識",
+    "classification_tags": [
+      "prediction",
+      "computation",
+      "functionalism",
+      "top-down",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、予測的な期待と感覚入力の複雑な統合として同定され、感覚入力の原因についての予測を伝えるトップダウンの信号伝達から生じる。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "心（意識的知覚）は、物理的な脳の機構（予測的処理）に完全に根ざした機能あるいは過程であり、身体と世界の経験を媒介する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性は予測と感覚の内的統合から生じ、気づきと応答性を可能にする。志向性（思考の指向性）は、結果を予期し予測誤差を最小化することへのシステムの焦点に本来的に備わっている。",
+    "qualia_account": "この理論は主として予測を介した知覚の機能と過程に焦点を当てる。クオリアは暗黙のうちに、予測する脳が生成する内的モデルあるいは表象に関連づけられるが、主観的な「感じ」は純粋に機構論的な見解にとって依然として課題である。",
+    "ontological_commitments": "生物学的な脳、予測モデル、感覚信号、期待誤差、そしてトップダウン／ボトムアップの信号経路。",
+    "epistemic_access": "予測を脳の中核的な作動原理として体系的に理解することを発展させることを通じてアクセスされ、感覚データがいかに既存の信念（「事前分布」）と統合されるかを分析する。",
+    "constituents_and_structure": "意識的システムは、トップダウン信号（予測）とボトムアップ信号（予測誤差）を用いる動的な予測エンジンとして構造化されている。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（知覚）、認知、行為、気づき、応答性",
+    "distinctive_mechanism_or_principle": "その原理は予測誤差の継続的な最小化（ベイズ推論の近似）であり、そこでは意識が脳における能動的なトップダウンの予測的信号伝達に関連づけられる。",
+    "dynamics_of_emergence": "意識は動的に創発し、環境を継続的に予測し応答するという決定的な生物学的能力を促進する。",
+    "location_and_distribution": "脳に基づくものであり、トップダウンの信号伝達と再帰的経路に関与する神経ネットワークに分散しており、純粋に「頭蓋に閉じ込められた」神経中心的な見解に対して警告を発する。",
+    "causation_and_functional_role": "意識は、現実世界の出来事と反事実的シミュレーションとの迅速な比較を可能にすることによって、適応的行動と最適な行為の選択を促進する。包括的な機能は、環境の「驚き」を最小化することによる生存である。",
+    "integration_or_binding": "統合は、予測的な期待と入来する感覚情報の継続的な統合を通じて達成され、首尾一貫した知覚をもたらす。",
+    "information_flow_or_representation": "情報は、予測を伝えるトップダウン信号と予測誤差を伝えるボトムアップ信号を介して流れ、ベイズ推論を近似する。",
+    "evolutionary_account": "生存という根本的な生物学的駆動力から進化し、能動的な運動と複雑な環境を効果的に航行するために決定的な予測能力を可能にした。",
+    "core_claims_and_evidence": [
+      "意識的な心的状態は、感覚の原因についての予測を伝えるトップダウンの信号伝達に関連づけられる",
+      "脳は強力で動的な予測エンジンとして作動する",
+      "知覚は予測的な期待と感覚入力の複雑な統合である",
+      "意識は生存に不可欠な予測能力を促進するために生じた"
+    ],
+    "basis_of_belief_or_evidence_type": "計算論的、神経生物学的、進化論的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（特定の機構論的モデル、例えば自由エネルギー原理に関連するものを条件とする）。",
+    "known_empirical_interventions_or_tests": "示唆される方法は、予測符号化に関連する神経学的反応を測定し、期待誤差の動態を検証すること（例：能動的推論に関連する研究）を含む。",
+    "criticisms_and_tensions": "機能的理論に共通する主たる批判は、主観的な「なぜ」を説明しそこなうこと、すなわち予測と統合の過程がなぜ単なる機能的出力ではなく感じられた経験（クオリア）をもたらすはずなのかを説明できないことである。",
+    "open_questions_and_limitations": "中核的な限界は、予測の機能的・計算論的記述と意識の現象的実現とのあいだの隔たりを架橋することである。このモデルは、意識が根本的に「何」であるかよりも、脳が「いかに」作動するかに大きく焦点を当てている。",
+    "ontological_coherence": "唯物論的、機能主義的、創発論的な存在論と高度に整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "意識が主として、知覚を統合するために予測を生成し検証する計算論的機能として理解されるならば、これらの機能を遂行する十分に複雑なAIシステムは意識的となるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "この理論は意識を、進化した生物学的な脳の過程に基礎づける。意識は物理的基体に結びついており、生物学的な死とともに消滅する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的／進化論的",
+      "rationale": "意識は生存と適応という根本的な生物学的問題を解決するために進化し、適応度を最大化することにおいて目的を与えるが、宇宙的な意味を伴わない。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "この理論の計算論的・機能的な本性は、原理的には自己を構成する予測的組織化がデジタル化され非生物学的基体に再創造されうることを示唆し、機能的な存続を可能にする。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Seth’s “Beast Machine” Theory",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "重複"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "対比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Machine: How Our Minds Predict and Shape Reality, A. Clark",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Brain from inside Out, G. Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A Predictive Processing perspective on the mind-body problem, R.L. Kuhn",
+        "year": 2024
+      }
+    ]
+  }
+}

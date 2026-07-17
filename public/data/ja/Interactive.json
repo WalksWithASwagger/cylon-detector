@@ -1,0 +1,103 @@
+{
+  "id_and_class": {
+    "theory_title": "相互作用二元論",
+    "summary": "本理論は、実在が二つの異なる存在論的範疇、すなわち物理的な脳と、それとは別個の非物理的実体（心／魂）から成ると主張する。\nその中心的な説明上の主張は、これら二つの実体が因果的に相互作用する、すなわち非物理的な心が物理的身体に影響を及ぼし、またその逆も成り立つ、というものである。",
+    "associated_thinkers": [],
+    "category": "二元論",
+    "subcategory": "相互作用主義",
+    "core_identity_tagline": "相互作用する別個の物理的実体と非物理的実体",
+    "classification_tags": [
+      "substance dualism",
+      "mental causation",
+      "nonphysical",
+      "interactionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、物理的な脳と並んで存在する別個の非物理的実体（ないしその一部）を必要とし、両者のあいだの相互作用が心的状態と行動を説明する。",
+    "ontological_status": "実体二元論（通常は含意される）",
+    "mind_body_relationship": "相互作用主義（因果的相互作用）",
+    "primitive_or_emergent_status": "原初的（非物理的実体は別個／根源的である）",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "主観性は、本質的に一人称的である別個の非物理的実体（心／魂）に宿る。志向性は、還元不可能な中核的心的性質として構想される。",
+    "qualia_account": "クオリアは、非物理的な心的実体ないし側面の、還元不可能な質的特徴である。",
+    "ontological_commitments": "物理的実体（脳／物質）と、別個の非物理的実体（心／魂／霊）。",
+    "epistemic_access": "内省は非物理的な心的実体への一人称的アクセスを提供し、他方で脳は三人称的観察を通じて研究される。",
+    "constituents_and_structure": "相互作用する二つの異なる実体ないし構成要素、すなわち物理的な脳／身体と、非物理的な魂／心／霊。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（還元不可能）、自己意識、行為主体性（自由意志）。",
+    "distinctive_mechanism_or_principle": "非物理的な心的実体と物理的な脳とのあいだの因果的相互作用。これにより心的なものが物理的領域に影響を及ぼすことが可能となる（下向き因果）。",
+    "dynamics_of_emergence": "静的性質（非物理的実体の性質）。ただし物理的なものと非物理的なものとの相互作用は動的で継続的である。",
+    "location_and_distribution": "物理的構成要素（脳）は空間内に位置づけられる。非物理的構成要素（心／魂）は別個ないし独立しており、ときに非延長的なものとして構想される。",
+    "causation_and_functional_role": "意識（非物理的な心）は物理的な脳／身体に因果的力を及ぼし、また脳／身体から因果的に影響を受け、意識的な制御と行為主体性を可能にする。",
+    "integration_or_binding": "統合はおそらく、物理的過程によってではなく、非物理的な心的実体の単純で分割不可能で根本的に統一された本性に帰される。",
+    "information_flow_or_representation": "情報の流れは、物理的なもの（脳の状態）と非物理的なもの（心的状態）の領域のあいだの双方向的な伝達を伴う。",
+    "evolutionary_account": "否。意識は、伝統的な唯物論的な系統発生的進化を通じてではなく、非物理的構成要素の根源的な存在ないし創造によって説明される。",
+    "core_claims_and_evidence": [
+      "意識は、物理的な脳に加えて別個の非物理的実体を必要とする。",
+      "心的状態は物理的状態に因果的影響を及ぼす（心的因果）。",
+      "相互作用問題という難点は、しばしば19世紀のビリヤード球的物理学という時代遅れの前提の上に成り立っている。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、現象学的、概念的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "高度に思弁的／経験的に検証することが困難",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要な批判は心的因果という「厄介な問題」であり、とりわけ非物理的なものが物理的なものに影響を及ぼす、考えうるメカニズムを特定することにある。また、エネルギー保存の物理法則および物理的領域の因果的閉包性に関する緊張にも直面する。",
+    "open_questions_and_limitations": "中核的な限界は、相互作用のメカニズムについての整合的な説明を与えることにあり、とりわけ物理法則の潜在的な侵犯や過剰決定の問題に関わる。",
+    "ontological_coherence": "現代の科学的唯物論とは高度に不整合である。二つの異なる存在論的範疇を措定し、物理的世界の因果的閉包性を侵犯することを要求するからである。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否（ほぼ）",
+      "rationale": "もし真であれば、意識は物理的世界から独立した、根本的に別個の非物理的実体（魂）を必要とする。非生物学的システムはこの必要な構成要素を持ちえない。"
+    },
+    "survival_beyond_death": {
+      "stance": "肯定",
+      "rationale": "二元論は、生物学的な脳から独立した別個の非物理的実体（魂）を措定するため、身体の死を生き延びることが可能である。"
+    },
+    "meaning_and_purpose": {
+      "stance": "肯定",
+      "rationale": "還元不可能な非物理的構成要素を措定することで、相互作用二元論は通常、しばしば拡張された実在に結びついた超越的な意味、目的、価値を支持する。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "仮想的不死は物理的な脳を複製することで心を複製することを要する。この手続きは失敗するだろう。一人称的意識に必要な本質的な非物理的構成要素が欠けているからである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "対立する理論"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "拡張／代替"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "類型／重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Interactionism (philosophy of mind)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Dualism, H. Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Substance of Consciousness: A Comprehensive Defense of Contemporary Substance Dualism, B. Rickabaugh and J.P. Moreland",
+        "year": 2023
+      }
+    ]
+  }
+}

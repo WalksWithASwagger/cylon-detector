@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "ラハヴの相対論的理論",
+    "summary": "本理論は、意識を「認知的準拠枠」によって行われる測定に相対的な物理的現象として特徴づける。物理学における速度に類比して、異なる認知的枠で作動する異なる観測者は、同一の現象を観測する際に異なる物理的性質（自分自身にとっては意識的な気づき、他者にとっては測定された脳活動）を顕現させる。",
+    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "category": "唯物論",
+    "subcategory": "関係的",
+    "core_identity_tagline": "認知的準拠枠に相対的な物理的現象としての意識",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識的経験は、「認知的準拠枠」に相対的な物理的測定の過程ゆえに生じるものと同一視される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "この関係は相対論的である。同一の根底にある現象が、測定の文脈に応じて、意識的な気づき（内的枠から）または脳活動（外的枠から）として顕現する。これは枠依存的な同一性ないし相関を示唆する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "明示的には詳述されていないが、おそらく弱い創発である。意識そのものの存在について新たな根本法則を措定するのではなく、確立された（ないし類比的な）物理的原理（相対性、測定）に依拠するからである。",
+    "subjectivity_and_intentionality": "主観性は「認知的準拠枠」の定義に内在する。二人の人物は、異なる認知的枠にあることで、意識を異なるように経験する。志向性（思考の指向性）は、提供された出典では明示的に扱われていない。",
+    "qualia_account": "クオリアは、特定の認知的準拠枠の内で顕現する主観的な物理的性質として暗黙裡に説明されるが、経験そのものの内在的な質的本性は詳述されていない。",
+    "ontological_commitments": "物理的実在、物理的測定の過程、および相対論的物理学から類比された「認知的準拠枠」。",
+    "epistemic_access": "アクセスは枠依存的である。自分自身の認知的枠の内では意識的な気づきが経験され、別個の認知的枠からは脳活動のみが測定されうる。",
+    "constituents_and_structure": "意識は物理的測定の過程そのものによって構造化され、準拠枠に応じて異なる物理的性質ないし顕現をもたらす。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意識的な気づき、諸性質の物理的顕現。",
+    "distinctive_mechanism_or_principle": "意識が計算によって生み出されるのではなく、認知的準拠枠における物理的測定に相対的であるという原理。",
+    "dynamics_of_emergence": "意識は物理的測定の過程から動的に生じる。異なる準拠枠における異なる物理的測定は、意識的経験と脳活動の異なる顕現をもたらす。",
+    "location_and_distribution": "観測者の「認知的準拠枠」に相対的に局在する。",
+    "causation_and_functional_role": "意識的経験は物理的測定の過程そのもの「ゆえに」生じる。意識は脳が遂行する計算過程からは生じない。",
+    "integration_or_binding": "明示的には扱われていないが、単一の認知的準拠枠の内で統一されると想定される。",
+    "information_flow_or_representation": "情報処理（計算）は意識的経験の起源では*ない*と明示的に指摘される。意識は根底にある物理的測定の過程から生じる。",
+    "evolutionary_account": "この項目は提供された出典では扱われていない。",
+    "core_claims_and_evidence": [
+      "意識は、認知的準拠枠の測定に相対的な物理的現象である。",
+      "意識的経験は物理的測定の過程ゆえに生じる。",
+      "脳は計算を通じて意識的経験を生み出すのではない。"
+    ],
+    "basis_of_belief_or_evidence_type": "物理学（相対性）への類比に基づく概念的／理論的論証。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "本理論は物理的現象と測定を定義することを扱うため概念的に検証可能だが、経験的検証は認知的枠の類比を検証するメカニズムの開発に依拠する。",
+    "known_empirical_interventions_or_tests": "出典には特定の経験的介入や検証は挙げられていない。",
+    "criticisms_and_tensions": "出典は批判の節ではなく記述を提供する。潜在的な緊張は、物理的相対性（速度のような）の類比を、検証可能で非隠喩的な認知的ないし神経生物学的過程へと翻訳することにある。",
+    "open_questions_and_limitations": "「認知的準拠枠」の正確な物理的ないし神経的な例化と定義は、依然として未解決の問いである。",
+    "ontological_coherence": "根本的な物理的性質が観測者ないし測定の過程に相対的でありうることを認める物理主義的枠組みの内では整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "本理論は意識が計算ではなく物理的測定から生じると措定するため、AIシステムは認知的準拠枠を構成する非計算的な物理的測定の過程を要し、単純な計算を超えたハードウェアの実装に条件付けられる。"
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "この項目は提供された出典では扱われていない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "この項目は提供された出典では扱われていない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が低い",
+      "rationale": "意識は非計算的であり物理的測定の過程に依拠するため、標準的な仮想的不死（ソフトウェア／データのアップロード）は考えにくいが、相対論的な物理系の物理的複製は理論的には可能かもしれない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories of consciousness",
+        "relationship": "重複"
+      },
+      {
+        "name": "Computational Theories of Mind",
+        "relationship": "批判"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}

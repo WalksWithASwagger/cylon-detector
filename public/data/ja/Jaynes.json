@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "ジェインズの二分心の崩壊",
+    "summary": "本理論は、内省と定義される意識が、生得的ないし根源的なものではなく、言語と文化に根ざした習得された行動であると主張する。意識は、聴覚幻覚を特徴とする二分心と呼ばれる非意識的な心性が社会的に崩壊したのち、紀元前2千年紀ごろに歴史的に出現したと示唆する。",
+    "associated_thinkers": ["Julian Jaynes"],
+    "category": "唯物論の理論",
+    "subcategory": "言語との関係",
+    "core_identity_tagline": "世界の習得された言語的／隠喩的アナログとしての意識",
+    "classification_tags": [
+      "language",
+      "introspection",
+      "culture",
+      "historical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識、すなわち「主観的意識心」は、外的行動に由来する隠喩の語彙から構築された現実世界のアナログである。それは貯蔵庫や事物としてではなく作動子として機能する。",
+    "ontological_status": "物理主義／唯物論（このデフレ的理論は唯物論のもとに分類され、意識は非自明な文化的産物ではあれ全面的に物質的であることを含意する）。",
+    "mind_body_relationship": "同一説（心は、言語的機能を実行し隠喩的な「心的空間」を組織する脳の過程と暗黙裡に同一である。ジェインズは大脳半球に関わる神経生物学的相関物を措定した）。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（意識は、根底にある生物学的・言語的機構の上に築かれた、進化的に新しく非根源的な文化的構築物として説明され、原理的な還元可能性を示唆する）。",
+    "subjectivity_and_intentionality": "主観性は、隠喩的な「心的空間」における心的な「見ること」に関係するアナログの「私」によって構成される。志向性は、出来事を絶えず物語へと当てはめる物語化を通じて達成され、これは外的行動の習得されたアナログである。",
+    "qualia_account": "クオリアは暗黙裡に再定義ないし退けられる。焦点が「内省的意識」に置かれ、それが現象的意識（「生の内的経験」）から明示的に区別されるからである。",
+    "ontological_commitments": "言語／語彙野、文化的構造、および脳領域（先行する二分心状態の相関物として大脳半球が示唆される）。",
+    "epistemic_access": "言語分析、「心的空間」についての内省、歴史的テクスト、および考古学的証拠。",
+    "constituents_and_structure": "主観的心は「心的空間」として構造化され、行動の隠喩とアナログから構成され、物語化・集中・抑制といった過程を通じて動的に組織される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "内省的意識、自己意識、意志／意思決定、および注意（「集中」）。（現象的意識と感覚的な気づきは明示的に拒否される。）",
+    "distinctive_mechanism_or_principle": "二分心的心性（意思決定が聴覚幻覚によってなされていた）の歴史的崩壊と、内的なアナログ世界（「心的空間」）の言語的・隠喩的構築によるその代替。",
+    "dynamics_of_emergence": "意識は、作動子として作動し、経験を絶えず物語形式へと当てはめる（物語化）、習得され歴史的に創発した過程（系統発生的には紀元前2千年紀ごろ）である。",
+    "location_and_distribution": "本理論は意識に恣意的で機能的な所在のみを認めるが、その前駆体である二分心は大脳半球間の伝達と相関づけられていた。",
+    "causation_and_functional_role": "意識の第一の機能的役割は、個人が行動の過程を近道し、より適切な意思決定に至ることを可能にすることであり、意志と密接に結びついている。",
+    "integration_or_binding": "統合は「物語化」──出来事を連続した物語へと当てはめること──および知覚的同化のアナログである「コンシリエンス（統合的一致）」を介して達成される。",
+    "information_flow_or_representation": "情報は、抽象的思考と意思決定を促すために隠喩的言語（語彙野）を用いて、現実世界のアナログとして表象される。",
+    "evolutionary_account": "意識は、社会的不安定が二分心システムを崩壊させたのち、新たな意思決定システムの必要に促されて、人間において比較的最近（紀元前2千年紀）に進化した習得された行動である。",
+    "core_claims_and_evidence": [
+      "意識は言語と隠喩に根ざしており、生得的性質ではない。",
+      "意識は、意思決定を近道し改善するためのアナログシステムとして機能する。",
+      "初期の人間社会は、指令が聴覚幻覚として知覚される非意識的な「二分心」を特徴としていた。",
+      "本理論は、古代テクストの解釈と（思弁的に）神経生物学的な側性化によって支持される。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、言語学的、心理史学的、神経生物学的思弁。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能／思弁的（中核をなす歴史的・言語学的主張は、伝統的な経験的検証よりも学術的論争の対象であり、本理論は専門家に広くは受け入れられていない）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "本理論は、この分野における探究の主たる対象である現象的意識を除外する、独自の意識の定義（「内省的意識」）を用いる。意識の専門家には受け入れられていない。",
+    "open_questions_and_limitation": "第一の限界は、伝統的に定義される現象的意識（「生の内的経験」）を説明ないし認めることができない点にある。",
+    "ontological_coherence": "整合的（言語的・文化的構築への依拠は、意識を複雑で機能的な創発的性質とみなすデフレ的な唯物論的存在論に合致する）。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "意識が根本的に言語と情報過程に根ざした習得されたアナログ／作動子であるならば、大規模言語モデルとAIの進歩は、この形態の意識をもっともらしく例化しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "物理主義的かつデフレ的な理論として、意識は脳の物理的機構とそれが支える言語構造に結びついており、物理的死後の存続の根拠を残さない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "意識は、生物学的・文化的要請に由来する機能的で生存に駆動された目的（意思決定の改善）に資するのであり、内在的な宇宙的意味を提供しない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "心は、（ソフトウェアと同様に）非生物学的基盤にアップロードないし複製されうる言語的・隠喩的構造によって定義されるため、このモデルのもとでは仮想的不死は概念的に成立しうる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "重複"
+      },
+      {
+        "name": "Language Theories (General)",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Consciousness and the voices of the mind",
+        "year": 1987
+      }
+    ]
+  }
+}

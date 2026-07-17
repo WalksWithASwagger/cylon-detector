@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "ギブソンの生態心理学",
+    "summary": "ギブソンは、知覚に対する身体化された、状況づけられた、非表象的なアプローチを提案し、情報は環境の中に（不変項として）直接利用可能であり、アフォーダンスの観点から知覚されると論じる。このアプローチは認知主義と行動主義を超えた第三の道を提供し、慎重にではあるが意識の説明として推論することができる。",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "唯物論",
+    "subcategory": "身体化・行為主義的",
+    "core_identity_tagline": "アフォーダンスの身体化された状況づけられた知覚としての意識",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は敷衍して、内的な心的表象ではなく、不変項とアフォーダンスの直接知覚によって特徴づけられる、有機体－環境システム内の継続的な相互作用と情報の流れの機能として理解される。",
+    "ontological_status": "物理主義／直接実在論",
+    "mind_body_relationship": "心／知覚は行為と連続しており、分析単位としての有機体－環境システムに焦点を当て、心がもっぱら頭の内部の過程に還元可能であるという考えを退ける。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性は、有機体と環境との動的で状況づけられた関係（有機体－環境システム）によって構成される。志向性（思考の指向性）は、環境に内在する行為の可能性であるアフォーダンスの知覚によって説明される。",
+    "qualia_account": "この理論は非表象的であり、一般に、伝統的に考えられてきた内的な感覚与件（クオリア）を退け、環境的性質（不変項とアフォーダンス）の直接知覚を支持する見解と整合する。",
+    "ontological_commitments": "有機体－環境システム、光学的情報（不変項）、アフォーダンス。",
+    "epistemic_access": "内的状態に焦点を当てた内省ではなく、有機体とその社会的・物理的環境との関係を研究することを通じてアクセス可能。",
+    "constituents_and_structure": "意識／知覚の構造は、有機体と環境との機能的関係に基づき、知覚と行為の連続性を強調する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "知覚／認知、現象的（慎重な推論による）",
+    "distinctive_mechanism_or_principle": "環境的不変項（光学的流れにおける不変の要素）とアフォーダンス（環境が提供する行為の機会）の直接知覚。",
+    "dynamics_of_emergence": "焦点は、離散的で局在化された神経構造からの創発ではなく、有機体－環境システム内の動的な流れと連続性にある。",
+    "location_and_distribution": "有機体－環境システムの内に状況づけられ、脳と頭の内部を超えて広がる。",
+    "causation_and_functional_role": "知覚は適応的行動を導くように機能し、不変項と行為の機会（アフォーダンス）を検出することによって適応度を高める。",
+    "integration_or_binding": "統合は、単一の分析単位としての有機体－環境システムの直接的で統一された把握に内在する。",
+    "information_flow_or_representation": "情報処理モデルを退ける。情報は外的（不変項）であり、表象の内的構築を必要とせずに知覚システムによって直接アクセスされる。",
+    "evolutionary_account": "アフォーダンスの強調は、この知覚システムが明白な生存価値を提供し適応度を高めたがゆえに進化したことを示唆する。",
+    "core_claims_and_evidence": [
+      "知覚は刺激のみに直接関係し、推論も内的な心的表象も必要としない。",
+      "知覚の第一次的対象は特定の感覚的性質ではなくアフォーダンスである。",
+      "知覚を理解するための分析単位は有機体－環境システムである。",
+      "この理論は、認知主義的モデルに共通する刺激の貧困という前提を退ける。"
+    ],
+    "basis_of_belief_or_evidence_type": "実験的、哲学的、生態学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "とりわけ生態心理学と知覚研究の内部で、経験的に検証可能。",
+    "known_empirical_interventions_or_tests": "知覚の経験的観察と、有機体－環境相互作用の場の詳細な分析。",
+    "criticisms_and_tensions": "この理論は主流の知覚理論を批判し、とりわけ行動主義と認知主義／情報処理の双方を攻撃する。現象的意識への拡張は思弁的であり、内的表象理論にコミットする者からの懐疑にさらされる。",
+    "open_questions_and_limitations": "中核理論は知覚と認知を扱う。現象的意識（「それがどのようなものか」という側面）の説明への適用または拡張は慎重な推論を要する。",
+    "ontological_coherence": "その生態学的で状況づけられた反還元主義的唯物論的存在論の内部では高度に整合的だが、認知的シンボル操作に依拠する理論とは根本的に対立する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "意識が有機体－環境システム内の直接的で状況づけられた相互作用の産物であるならば（この唯物論的理論が含意するように）、AIは、アフォーダンスを知覚できる物理的環境の内部で身体化され相互作用するように設計されれば、意識を達成しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "この理論は唯物論に分類され、生きた生物学的有機体とその物理的環境に焦点を当てる。身体の死を生き延びうる非物理的成分は仮定されていない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的／適応的",
+      "rationale": "知覚の第一次的な機能的役割はアフォーダンスの検出を通じた適応的行動であり、意味が生存と繁栄のために人間によって環境の中で創り出される唯物論的見解と整合する。"
+    },
+    "virtual_immortality": {
+      "stance": "条件付き",
+      "rationale": "意識は物理的な有機体－環境という単位に結びついているため、仮想的不死は、本質的な身体化された非表象的相互作用が新たな物理的媒体において完全に捉えられシミュレートされうる場合にのみ達成可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Direct Perception Theory",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

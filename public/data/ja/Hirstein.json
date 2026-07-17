@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "ハーシュタインのマインドメルディング",
+    "summary": "ウィリアム・ハーシュタインは、意識ある心の平明な物理的説明を妨げる主要な障害が、根拠のない「私秘性の想定」であると論じる。この形而上学的想定――ある人が他者の意識状態を決して経験できないという考え――を取り除くことによって、悩ましい二元論、汎心論、そして解決不可能性を主張する諸理論を生み出す動機が掘り崩される。",
+    "associated_thinkers": ["William Hirstein"],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "形而上学的な私秘性を拒否することで説明される意識",
+    "classification_tags": [
+      "privacy",
+      "physicalism",
+      "neuroscience",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、内在的な私秘性という誤った哲学的前提が退けられるならば、平明な物理的用語で説明可能な物理的現象である。",
+    "ontological_status": "物理主義／還元的物理主義（推定：この理論は完全に物理的な説明を論じることで非物理主義的な存在論に対抗しようとし、唯物論の下に分類される。）",
+    "mind_body_relationship": "同一（推定：意識ある心を「平明に物理的な用語」で説明しようとすることで、この理論は根本的に心脳同一の立場を支持し、二元論を動機づける概念的障壁を克服する。）",
+    "primitive_or_emergent_status": "創発的（推定：唯物論的／神経生物学的理論として、意識は根源的であるよりも、複雑な根底の物理的過程から生じると想定される。）",
+    "emergence_type": "弱い創発ないし還元（根拠づけ：目標は意識が物理的に、余剰なく説明できることを示すことであり、その性質が原理的に還元可能ないし弱く創発的であることを示している。）",
+    "subjectivity_and_intentionality": "主観性は、形而上学的な隔たりの錯覚を生み出す「私秘性の想定」がひとたび退けられれば、物理主義的説明と完全に両立可能であると考えられる。",
+    "qualia_account": "意識の質的な感じは、（私秘性の想定に駆り立てられた）非物理的説明への概念的必要がひとたび解消されれば、物理主義的説明の内部で根本的に説明される。",
+    "ontological_commitments": "物理的過程と神経生物学的メカニズム（推定：この理論は唯物論のカテゴリーに位置し、物理的実在、とりわけ脳が基盤であることを示唆する。）",
+    "epistemic_access": "主として客観的で三人称的な科学的・神経生物学的探究を通じてであり、他者の状態への一人称的接近を得ることの見かけ上の困難が形而上学的障壁ではないという哲学的認識によって支えられる。",
+    "constituents_and_structure": "神経メカニズムと構造（神経生物学的諸理論への分類から推定される。）"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（焦点は、しばしばクオリアと主観性に着目する非物理主義的諸理論を論駁する用語で意識ある心の性質を説明することにある）。",
+    "distinctive_mechanism_or_principle": "概念的な「私秘性の想定」の拒否ないし掘り崩しが中核的な説明原理であり、意識ある心を標準的な物理的説明によって解決できるようにする。",
+    "dynamics_of_emergence": "そのメカニズムは、同一カテゴリーの他の諸理論と一貫して、暗黙のうちに神経生物学的かつ動的である。具体的な動態は、提供された典拠では詳述されていない。",
+    "location_and_distribution": "脳に局在する（神経生物学的唯物論理論としての分類から推定される。）",
+    "causation_and_functional_role": "意識は物理的因果と両立する因果的有効性をもつ。というのも、この理論は二元論を打破する「平明に物理的な」説明を提供しようとするからである。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "概念的障壁が取り除かれれば、他の唯物論的理論と一貫して、情報の流れ／処理が意識の基盤であることが含意される。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "「私秘性の想定」（意識状態を共有することの形而上学的不可能性）は、誤って意識の非物理主義的諸理論へと導く。",
+      "私秘性の想定のような概念的誤りが克服されるならば、意識ある心は平明に物理的な用語で説明できる。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（形而上学的障壁の批判）、および推定される神経生物学的／経験的（積極的で「平明に物理的な」説明の基盤として）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能。主要な主張は哲学的前提（「私秘性の想定」）の論駁に依拠するため。経験的な検証可能性は、含意される後続の物理主義的理論の成功に依拠する。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要な批判はおそらく、「私秘性の想定」を誤りとして同定するだけで、実際に説明のギャップを埋め、意識の完全で詳細な物理的説明を提供するのに十分かどうかに着目するであろう。",
+    "open_questions_and_limitations": "この理論は、哲学的障害が取り除かれた後、意識を説明する詳細で積極的な物理的記述（例えば具体的な神経相関ないしメカニズム）を最終的に提示せねばならない。",
+    "ontological_coherence": "物理主義的・唯物論的な存在論的枠組みと高度に整合的である。その目標が明示的に物理的説明の十分性を証明することにあるためである。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "この理論は意識の「平明に物理的な」説明を求め、唯物論に分類されるため、意識あるAIを創出することに原理的な禁止はない。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定する",
+      "rationale": "この理論は二元論を打破しようとする唯物論的モデルである。唯物論は、意識がもっぱら生物学的な脳の産物であり、生物学的死とともに消滅するとする。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "唯物論的諸理論は一般に、人間が自らのために意味と価値を創り出しうる一方で、いかなる究極的な宇宙的意味や目的も存在しないと主張する。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定する",
+      "rationale": "意識が（ハーシュタインが論じるように）全面的に物理的な用語で説明可能であるならば、人の完全な神経パターンと経路をアップロードすれば、原理的に一人称の心的自己を保存できるであろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "批判" },
+      { "name": "Panpsychisms", "relationship": "批判" },
+      { "name": "Mind-Brain Identity Theory", "relationship": "両立的" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
+        "year": 2012
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "汎原意識論",
+    "summary": "汎原意識論は汎心論の一変種であり、基本的な物理的存在者が、それ自体は意識的ではないが「原現象的」である性質をもつと主張する。これらの原現象的性質は、（脳のような）複雑な構造において結合して、創発的な現象的意識を生み出さねばならない。",
+    "associated_thinkers": ["David Chalmers", "Philip Goff"],
+    "category": "汎心論",
+    "subcategory": "汎原意識論",
+    "core_identity_tagline": "原現象的性質が結合して意識を生み出す",
+    "classification_tags": [
+      "protophenomenal",
+      "panpsychism",
+      "emergence",
+      "qualia",
+      "russellian-monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、基本的で非意識的な原現象的性質の結合と複雑化から生じる創発的なマクロ経験として同定される。",
+    "ontological_status": "創発的汎心論（しばしばラッセル的一元論に分類される）",
+    "mind_body_relationship": "心（現象的意識）は、その内在的本性が原現象的性質からなる物理的基盤から、強くあるいは弱く創発する。この連関は伝統的二元論の因果的問題を回避することを目指す。",
+    "primitive_or_emergent_status": "創発的（現象的意識は創発的だが、その根底にある性質は原初的／基本的である）",
+    "emergence_type": "現象的性質が非意識的な原現象的事実から原理的にでも演繹可能かどうかに応じて、弱い創発にも強い創発にもなりうる。",
+    "subjectivity_and_intentionality": "主観性は、原現象的要素が結合するとき、複雑なマクロのレベルにおいてのみ生じる。基本的性質それ自体は経験されないもの、すなわち「薄い経験されない質」である。",
+    "qualia_account": "クオリア（現象的性質）は、基本的な原現象的性質の結合によって生み出され、「薄い経験されない質」から経験される質へと移行する。",
+    "ontological_commitments": "原現象的性質（物理的存在者の圏論的基盤）、基本的な物理的場、そして創発的な現象的性質。",
+    "epistemic_access": "経験的観察よりは、主として哲学的演繹（物質の隠れた内在的性質を措定することによってハードプロブレムを解決すること）と概念分析による。",
+    "constituents_and_structure": "原現象的性質をもつ基本的な物理的存在者であり、それが意識を生み出しうる複雑なマクロ構造（例えば脳）へと組織される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、主観性。",
+    "distinctive_mechanism_or_principle": "非意識的な原現象的要素を統一された複雑な意識的経験へと変容させるのに必要な、決定的だが現在は未知の結合メカニズム。",
+    "dynamics_of_emergence": "意識は、基本的な原現象的性質のある一定水準の複雑な構造的結合を達成したときに動的に生じる。",
+    "location_and_distribution": "原現象的性質は基本的な物理的存在者に遍在する。現象的意識は、それらを結合しうる複雑な生物学的システム（例えば脳）に局在する。",
+    "causation_and_functional_role": "創発的な現象的意識は通常、因果的有効性をもち、物理的実在の内在的（原現象的）本性への基礎づけを通じてその因果的役割を継承する。これは意識に機能的役割（例えば適応的な生存上の利点）を与える。",
+    "integration_or_binding": "「結合問題」の解決を必要とする。すなわち、非意識的な原現象的要素がいかに統合されて統一された主観的なマクロ経験を形成するのかを説明する問題である。",
+    "information_flow_or_representation": "根底にある原現象的性質（物理的構造と関係的傾向性の圏論的基盤である）を、現象的内容として経験されるマクロレベルの構造へと変容させることを含む。",
+    "evolutionary_account": "結合メカニズムは、創発的意識を通じて適応上の利点を与えるために、複雑な生物学的システム（動物の神経系のような）において進化したと前提される。",
+    "core_claims_and_evidence": [
+      "意識は、ミクロレベルの存在者の基本的で非意識的な原現象的性質に基礎づけられる。",
+      "この理論は、物質の内在的な心的性質を措定することで唯物論の物理的ギャップを回避する。",
+      "結合問題は、この理論の成立可能性にとって主要な概念的課題であり続ける。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（説明のギャップとハードプロブレムの解決、基本的な物理的性質の概念分析）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "きわめて思弁的／概念的に検証可能。現行の経験科学には一般に接近不可能な基本的性質を扱う。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要な緊張は「結合問題」である。すなわち、非意識的な基本的性質がいかに凝集して複雑で主観的な意識をもたらすのかを説明することである。原意識の導入は単にハードプロブレムを先送りするにすぎない、と批判者は論じる。",
+    "open_questions_and_limitations": "結合メカニズムの正確な本性は未解決の問いのままであり、結果として生じる意識が強く創発的なのか弱く創発的なのかを決定することも未解決である。",
+    "ontological_coherence": "唯物論と二元論のあいだの整合的な中間地点であることを意図しており、心性を実在の内在的本性に基礎づけつつ、マクロのスケールでの創発を許容する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "おそらく肯定",
+      "rationale": "意識が基本的性質の結合メカニズムから生じるなら、これらの性質をもつ物理的材料から構築された人工システムも、必要な結合構造を設計できる限りにおいて、意識をもちうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "ありそうにない（可能性は低い）",
+      "rationale": "現象的意識は創発的な複雑構造（例えば脳）に結びついている。この構造が死において解体するとき、複雑な意識は消え、存続する非意識的な原現象的基盤のみが残る。"
+    },
+    "meaning_and_purpose": {
+      "stance": "可能",
+      "rationale": "汎心論の一変種として、実在に基本的な心的側面を措定し、厳密に唯物論的な説明を超えた宇宙的意味ないし価値の可能性を示唆する。"
+    },
+    "virtual_immortality": {
+      "stance": "おそらく肯定",
+      "rationale": "遍在する原現象的性質を現象的自己へと結合する規則を理解し、非生物学的基盤において完全に複製できるなら、仮想的不死は達成可能なはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "対比"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Micropsychism",
+        "relationship": "対比"
+      },
+      {
+        "name": "Panqualityism",
+        "relationship": "重なり"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Consciousness and its place in nature, D. Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Panpsychism, P. Goff, W. Seager, and S. Allen-Hermanson",
+        "year": 2022
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "ペレイラのセンティエンス（感受性）",
+    "summary": "この理論は、意識には二つの異なる様態があると主張する。すなわち、痛みや空腹といった基本的な感じを特徴とする基底的なセンティエンス（感受性）と、抽象的思考や表象を含む高次の認知的意識である。中心的主張は、認知能力がこの基底にある感受的状態に依存しており、その状態は生物学的にホメオスタシス系に根ざしているというものである。",
+    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "category": "唯物論",
+    "subcategory": "ホメオスタシス的・情動的",
+    "core_identity_tagline": "感受性に根ざした二層システムとしての意識",
+    "classification_tags": [
+      "sentience",
+      "homeostatic",
+      "neurobiological",
+      "dual-modality",
+      "clinical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、センティエンス（生化学的ホメオスタシスの動的制御と相関する）と認知的意識（神経ネットワークにおける生体電気活動のパターンと相関する）とから成る複合的な生物学的システムである。",
+    "ontological_status": "物理主義／自然主義（唯物論への分類、および生理学的・神経的相関への焦点から推定される）",
+    "mind_body_relationship": "意識の様態（センティエンスと認知）は、生物学的有機体、とりわけホメオスタシス系と神経ネットワークに機能的に依存しており、その内部に正確な生理学的相関物をもつ。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（観察可能かつ測定可能な生物学的・生理学的過程に厳密に根ざしていることによって正当化され、複雑ではあるものの原理的には物理法則によって説明可能であることを示唆する）",
+    "subjectivity_and_intentionality": "主観性はセンティエンス、すなわち基本的な感覚（例：空腹、痛み）を感じる能力から生じる。志向性は、言語的および心像的表象の練り上げを通じて認知的意識のうちに現れる。",
+    "qualia_account": "クオリアは、基底的な様態であるセンティエンスを介して説明される。それは基本的で質的な感覚（例：痛み、渇き）を感じる能力に直接対応する。",
+    "ontological_commitments": "生化学的ホメオスタシスを制御する生理学的システム、神経ネットワークにおける生体電気活動のパターン、階層的な神経組織化。",
+    "epistemic_access": "生理学的相関物、とりわけホメオスタシスの動的制御との関連を研究することを通じて、また臨床的には基本的な感受的反応を観察することを通じてアクセスされる。",
+    "constituents_and_structure": "階層的な二層システム。すなわちセンティエンス（低次の、ホメオスタシス的な基盤）と認知的意識（高次の、表象的処理）である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（基本的な感覚／センティエンス）、認知的意識（思考／表象）、意識障害の臨床診断。",
+    "distinctive_mechanism_or_principle": "機能的依存の原理。すなわち高次の認知的意識は、ホメオスタシス系に根ざした低次の様態であるセンティエンスに厳密に依存し、それによって支えられている。",
+    "dynamics_of_emergence": "意識は階層的関係を通じて生じる。生理学的制御に結びついた基本的なセンティエンスの存在が、認知機能の創発にとって必要な基盤となる。",
+    "location_and_distribution": "中心的な相関物は、ホメオスタシス的制御を担う生理学的システム（センティエンスについて）と神経ネットワーク（認知的処理について）とに分散している。",
+    "causation_and_functional_role": "センティエンスは、生理学的過程を制御してホメオスタシスと生命の存続を維持するという生命維持上の機能を担う。それは基本的な生物学的制御に必要な意識的フィードバックを提供する。",
+    "integration_or_binding": "特定されていない。（意識の様態を統一する機構よりも、様態間の区別と階層的関係に理論が焦点を当てていることによって正当化される。）",
+    "information_flow_or_representation": "認知的意識は、神経ネットワークにおいて生じる言語的および心像的表象の処理と練り上げを含む。",
+    "evolutionary_account": "詳細には特定されていないが、意識の様態を生存やホメオスタシスの維持といった根本的な生物学的要請に結びつける、適応的で進化的なものと推定される。",
+    "core_claims_and_evidence": [
+      "認知的意識はセンティエンスに依存するが、その逆は成り立たない。",
+      "センティエンスは、生化学的ホメオスタシスを動的に制御する能力と相関する。",
+      "基本的な感覚を感じる能力（センティエンス）は、最小限の意識にとっての最小限の要件である（臨床診断に関連する）。"
+    ],
+    "basis_of_belief_or_evidence_type": "神経科学的、臨床的／医学的、哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "臨床的評価と介入を通じて、とりわけ植物状態や麻酔下における最小限の意識を分析することによって経験的に検証可能である。",
+    "known_empirical_interventions_or_tests": [
+      "遷延性意識障害を診断する基準として、基本的な感覚（空腹、痛み）を感じる能力を評価すること。"
+    ],
+    "criticisms_and_tensions": "出典資料には明示的な批判は示されていない。（正当化：出典資料は記述的であり、この特定の理論に関する批判的論議を含んでいない。）",
+    "open_questions_and_limitations": "センティエンスと認知的意識のあいだの厳密な境界と階層的依存を実現する具体的な生理学的・生体電気的機構は、いまだ十分に解明されていない。高次認知を測る検査は、あらゆる意識状態を評価するには不十分でありうる。",
+    "ontological_coherence": "自然主義の枠内では高度に一貫しており、意識の二つの異なる側面を具体的で観察可能な生理学的システムに結びつけている。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "人工システムが、生化学的ホメオスタシスを動的に制御する生理学的システム（センティエンスに必要）と、必要な生体電気的ネットワーク活動（認知に必要）を完全に再現できるならば、人工的な意識は可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は機能的な生物学的システム（ホメオスタシス制御と神経ネットワーク）に厳密に依存しているため、身体と脳の不可逆的な崩壊とともに消滅すると推定される。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的な意味のみ",
+      "rationale": "この理論は、生物学的安定性（ホメオスタシス）の維持と柔軟な認知の実現における意識の機能的・適応的役割に焦点を当てており、宇宙的あるいは究極的な目的の根拠を与えない。"
+    },
+    "virtual_immortality": {
+      "stance": "条件付き",
+      "rationale": "センティエンスと認知の相関物として同定された特定の動的ホメオスタシス的・生体電気的パターンを、非生物学的媒体に完全にデジタル化して再現できる場合にのみ、理論上は可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "重複"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The role of sentience in the theory of consciousness and medical practice, A. Pereira Jr.",
+        "year": 2021
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "デイヴィッドソンの非法則的一元論",
+    "summary": "非法則的一元論は、あらゆる心的出来事は物理的出来事と同一である（トークン同一性）と措定し、一元論的存在論を維持する。しかしこの理論は、心的概念（タイプ）と物理的概念を結びつける厳密で例外のない自然法則は存在しないと主張し、心理学の物理学への還元不可能性へと至る。この二重の主張は、心的因果と物理的世界の因果的完結性との間の見かけの対立を解消する。",
+    "associated_thinkers": ["Donald Davidson"],
+    "category": "一元論",
+    "subcategory": "非法則的一元論",
+    "core_identity_tagline": "心的トークンは物理的であり、心的タイプは非法則的である",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "token identity",
+      "property dualism",
+      "mental causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "心的実体（時空に束縛された個別の対象や出来事、すなわちトークン）は物理的実体である。しかし心的概念は、定義によっても自然法則によっても物理的概念に還元不可能である。",
+    "ontological_status": "一元論（トークン同一性物理主義/性質二元論）。この理論は心的出来事が物理的存在論をもつと主張する。",
+    "mind_body_relationship": "トークン同一性：心的出来事は物理的出来事と同一である。これは心的性質と物理的性質のタイプ同一性が不可能であることを論じることによって正当化される。この理論は性質二元論の一形態である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発。（正当化：心的性質は原理的に還元不可能であり、厳密な心理物理法則によって捉えられない点で、強い還元不可能性と合致する。）",
+    "subjectivity_and_intentionality": "この理論は、心的現象を物理法則や物理的事物から区別する性質として、心的現象の志向的本質（例えば「〜についてであること」）を扱う。",
+    "qualia_account": "質的な感じ（クオリア）は、心的性質/概念というより広いカテゴリーのもとに組み込まれる。これらは非法則的であり、物理的概念や法則による還元に服さないことを意味する。",
+    "ontological_commitments": "物理的実体および出来事（トークン）、還元不可能な心的性質/概念（タイプ）。",
+    "epistemic_access": "因果性の哲学的分析、および物理学のように例外のない法則を生み出しえない心理学的説明の固有の要件を通じて知られる。",
+    "constituents_and_structure": "構成要素は物理的実体/出来事であるが、意識は還元不可能な心的概念/性質によって構造化される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "心的出来事（トークン）、心的因果、志向性。",
+    "distinctive_mechanism_or_principle": "心的非法則性：心的出来事が物理的出来事を引き起こし、あらゆる因果関係が自然法則に裏づけられているにもかかわらず、心的現象と物理的現象を結びつける自然法則は存在しないという主張（トークン同一性はタイプ同一性の不可能性によって正当化される）。",
+    "dynamics_of_emergence": "意識的な心的状態は固有の物理的出来事（トークン）として生じ、基礎物理学におけるような厳密な予測法則によって支配されえないという事実によって特徴づけられる。",
+    "location_and_distribution": "心的出来事は物理的実体であり、したがって脳/物理的基体に位置する。",
+    "causation_and_functional_role": "心的出来事は真正な因果的力をもち、物理的出来事を引き起こす。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "心的現象はその志向的本質によって定義され、それは純粋に物理的な法則とは根本的に異なるように見える。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "心的出来事（トークン）は物理的出来事と同一である。",
+      "心的性質（タイプ）は物理的概念や自然法則に還元不可能である。",
+      "心的出来事は真正な因果的力をもち、物理的出来事を引き起こす。",
+      "心理学は人間の思考と行為を予測するための例外のない法則を生み出しえない（心的非法則性）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（因果性と法則性に関する三つの前提に基づく演繹的論証）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的/哲学的。（正当化：この理論の中心的主張は、因果性と心理学的説明の本性に関する哲学的必然性に依拠する。）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要な緊張は三つの主張の結合から生じる。すなわち（i）心的因果は存在する、（ii）あらゆる因果は法則に裏づけられている、（iii）心理物理法則は存在しない。この結合は一見して不整合あるいは矛盾しているように見える。",
+    "open_questions_and_limitations": "この枠組みは、心的性質タイプと物理的性質タイプを関係づける厳密な法則が存在しないにもかかわらず、いかにして心的因果が生じうるのかを十全に説明しなければならない（非法則的性質の因果的有効性の問題）。",
+    "ontological_coherence": "トークン同一性という結論が三つの基礎的前提の内に埋め込まれているため、それらが妥当なものとして受け入れられる限りにおいて内的整合性は達成される。非還元的物理主義と特徴を共有する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "存在論が根本的に一元論的である（あらゆる心的出来事は物理的出来事である）ため、関連する複雑な物理的システムが人工的媒体で再現されうるならば、AI の意識は原理的に可能である。ただし予測可能な心的法則の欠如（非法則性）は評価を複雑にする。"
+    },
+    "survival_beyond_death": {
+      "stance": "いいえ",
+      "rationale": "心的出来事は物理的出来事に依存する（トークン同一性）。この唯物論的前提のもとでは、生物学的基体の破壊を超えた存続は排除される。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "存在論的一元論の理論として、人間が自ら作り出すものを超えた究極的な意味や目的を一般に合理化しない唯物論的カテゴリーと合致する。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "物理的基体（脳のパターン）が複製されれば、心的出来事（それらのトークンと同一である）もまた複製されるはずであり、他の非還元的物理主義の見解と同様に、仮想的不死は到達可能となる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Non-Reductive Physicalism", "relationship": "重なり合い" },
+      { "name": "Property Dualism", "relationship": "重なり合い" },
+      {
+        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+    ]
+  }
+}

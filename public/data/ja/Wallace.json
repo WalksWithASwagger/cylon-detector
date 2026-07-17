@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "ウォレスの物理学内部の汎心論",
+    "summary": "デイヴィッド・ウォレスは、意識が別個の力や特徴ではなく、根本的な物理的存在の内在的本性として同定される汎心論的見解を提唱する。このアプローチは、標準的な唯物論（意識の説明を欠く）と二元論（閉じた物理系における意識の因果的役割を欠く）の問題を回避する統合として意図されている。",
+    "associated_thinkers": ["David Wallace"],
+    "category": "諸汎心論",
+    "subcategory": "物理学内部の汎心論",
+    "core_identity_tagline": "物理学の内在的本性としての意識",
+    "classification_tags": [
+      "panpsychism",
+      "philosophy of physics",
+      "intrinsic properties",
+      "causal role"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は根本的な物理的存在の内在的本性として同定される。それは、物理学が量的関係の観点からのみ記述する、その根底にある実在である。",
+    "ontological_status": "汎心論（とりわけ、二元論と唯物論の形而上学的統合を目指す非伝統的な変種）。",
+    "mind_body_relationship": "意識は物理世界から不可分であり、それを構成し、物質とエネルギーの内在的本性として働く。これは伝統的二元論の相互作用問題を回避する。",
+    "primitive_or_emergent_status": "原初的／根本的。ウォレスは意識が根本的で還元不可能であるという考えに好意的である。",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "明示的には詳述されない。中心的焦点は、主観性の心理学的細部よりも、根本的実在の内部における意識の形而上学的位置づけにある。",
+    "qualia_account": "クオリアは、実在を構成する根本的な物理的存在の内在的な現象的本性の性質として、暗黙のうちに説明される。",
+    "ontological_commitments": "意識を構成する内在的で原現象的な性質をもつ根本的な物理的存在（場と粒子）。",
+    "epistemic_access": "概念的／哲学的推論。物理学は関係論的構造を数学的に記述するにすぎないため、それらの存在の内在的本性は哲学的に推論されねばならない、とウォレスは論じる。",
+    "constituents_and_structure": "基本的構成要素は、その内在的本性が意識である根本的な物理的存在（場と粒子）である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、因果的行為主体性、基礎的存在論。",
+    "distinctive_mechanism_or_principle": "意識は、物理的存在の内在的本性を構成することによって、物理学の「内部」で因果的要因として働く。諸存在が互いに影響し合うとき、意識が「因果を担って」おり、こうして物理的閉包性を保ちつつ意識に因果的役割が与えられる。",
+    "dynamics_of_emergence": "静的性質／根本的。意識は動的あるいは時間的に生じる性質ではなく、実在の根底にある根本的本性である。",
+    "location_and_distribution": "至るところに。意識はすべての物理的存在の内在的本性として「物理世界の内部」に位置する。",
+    "causation_and_functional_role": "意識は物理的過程そのものの内在的本性であるため因果的に効力をもち、心に因果的役割を欠くという二元論の問題を解決する。",
+    "integration_or_binding": "提示された出典では明示的に扱われない。ウォレスは根本的存在と因果的役割に焦点を当て、汎心論に内在する結合問題を先送りする。",
+    "information_flow_or_representation": "物理学は諸存在がどう関係するか（関係論的情報）についての数学的理論を提供し、意識はこれらの関係の根底にある非量的な内在的本性である（「方程式に火を吹き込む」もの）。",
+    "evolutionary_account": "明示的には詳述されない。本理論は生物学的進化に先立つ実在の根本的本性を扱う。",
+    "core_claims_and_evidence": [
+      "意識は実在的かつ根本的であり、自然の最も底の水準に存在する。",
+      "意識は物理的存在の内在的本性として働き、こうして物理学内部の因果的力を提供する。",
+      "物理法則は諸関係を量的に記述するが、諸存在の内在的本性は記述しない。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的・形而上学的統合。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／概念的。本理論は物理的存在の非関係論的で内在的な本性を扱い、それは根本的に経験的検証が困難である。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "結合問題（微視的意識がどのように巨視的意識へと結合するか）に対処しなければならない。ウォレスは、この汎心論的見解が、意識が波動関数を収縮させるという考え（関連するが別個の量子意識理論）と矛盾すると指摘する。",
+    "open_questions_and_limitations": "微視的な意識的性質がどのように結合して複雑で統一された主観的経験を形成するのか、その正確な機構は依然として未解決の哲学的課題である。",
+    "ontological_coherence": "形而上学的立場として高度に整合している。物理学の因果的閉包性を侵す付加的で非物理的な力を措定することなく、意識を実在へ根本的に統合することを目指す。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "意識が物理学の記述するすべての物質／エネルギーの内在的本性であるなら、十分に複雑なAIアーキテクチャを含むあらゆる物理系は必然的に意識をもつことになる。"
+    },
+    "survival_beyond_death": {
+      "stance": "起こりにくい（可能性は低い）",
+      "rationale": "意識そのものは根本的で遍在する（汎心論）が、*個人的*意識を定義する特定の統合された構造は、複雑な物理的配置（例えば脳）に結びついている。この特定の構造が生物学的消滅を超えて存続するかどうかは不確かである。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確か／おそらく",
+      "rationale": "汎心論の変種として、意識が根本的であるため究極的な意味や目的を潜在的に許容するが、出典はこの含意についてのウォレスの立場を明示していない。"
+    },
+    "virtual_immortality": {
+      "stance": "おそらく",
+      "rationale": "意識は物理的構造の根底にある内在的本性であるため、物理学が記述する脳の物理的・関係論的構造を完全にデジタル複製すれば、対応する内在的な意識的本性もおそらく複製されるだろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dualism",
+        "relationship": "批判／統合"
+      },
+      {
+        "name": "Materialism",
+        "relationship": "批判／統合"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "重なり／拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Physics of the Observer, David Wallace",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Physics of consciousness, David Wallace",
+        "year": 2016
+      },
+      {
+        "title_with_names": "What Is Panpsychism, David Wallace",
+        "year": 2016
+      }
+    ]
+  }
+}

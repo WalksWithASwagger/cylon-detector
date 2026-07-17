@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "アンドリューズの複雑な脳を要しない意識",
+    "summary": "この観点は、複雑な哺乳類の脳のみが意識を支えうると想定する意識研究における神経中心主義的偏りを批判する。意識は多様な物理系にわたって多重に実現可能であると提唱し、感覚性（センティエンス）の偶然的ではなく根源的な特徴を同定するために、（ミツバチやタコのような）より単純な動物を研究することを主張する。",
+    "associated_thinkers": [
+      "Kristin Andrews"
+    ],
+    "category": "唯物論の諸理論",
+    "subcategory": "系統発生的進化",
+    "core_identity_tagline": "複数の単純なシステムを介して実現される意識",
+    "classification_tags": [
+      "evolution",
+      "animal minds",
+      "multiple realizability",
+      "comparative cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、頑健な行動プロファイル（例えば痛みの回避、栄養の探索）を可能にする根底的な能力として同定され、これは非常に異なる物理系によって実現されうる（多重実現可能性）。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "意識は物理過程と相関し、それによって実現されるが、この関係は柔軟であり、複雑な脳のみに焦点を当てる厳格な同一説とは対照的に、複雑でない、また系統発生的に遠く隔たった神経基体（多重実現可能性）を許容する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性と志向性は、動物が示す頑健な行動プロファイル（例えば所望の刺激へ向かう目的的な移動）から推論され、これらの心的能力が多様な物理的機構に結びついていることを示唆する。",
+    "qualia_account": "このアプローチは、より単純な動物における現象的経験（感覚性）の存在を想定し、伝統的にクオリアと結びつけられてきた複雑な脳の特徴とは独立に、意識の本質的な物理的基盤を同定することを目指す。",
+    "ontological_commitments": "感覚的な行動を支えうる物理系、とりわけ多様な神経系（頭足類、節足動物、脊椎動物）。",
+    "epistemic_access": "主として、多様な種における適応的行動の頑健なプロファイルを、一般的な意識のマーカー（例えば自己認識、刺激への反応）とともに観察・分析することを通じてアクセスされる。",
+    "constituents_and_structure": "特定の物理的構造は可変的であり（多重実現可能性）、大脳皮質のような特定の構造ではなく、単純な神経回路を含みうる生物系の内部に必要な組織化に焦点を当てる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（感覚性）、適応的行動、学習、自己認識（マーカーを通じて研究される）。",
+    "distinctive_mechanism_or_principle": "多重実現可能性の原理。心的能力が複雑な哺乳類の神経構造に限定されないと主張し、系統発生的に遠く隔たった種における意識の普遍的な行動マーカーの同定へと研究を導く。",
+    "dynamics_of_emergence": "系統発生的発達を通じて進化し、共通のミミズ状の祖先において一度だけ生じたか、あるいは異なる系統（例えば節足動物、頭足類、脊椎動物）において独立に生じた可能性がある。",
+    "location_and_distribution": "生命の樹上のさまざまな有機体（例えばミツバチ、タコ、ミミズ）にわたって分布しており、高等哺乳類における局在への神経中心主義的な焦点に異議を唱える。",
+    "causation_and_functional_role": "意識は適応的優位として機能し、有機体が痛みの回避や栄養の探索といった生存上の問題を解決し、柔軟な行動を支えることを可能にする。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "関連する研究は心的表象のような重要な主題を扱うが、中核となる理論は経験に結びついた行動プロファイルを強調する。",
+    "evolutionary_account": "意識は進化を通じて生じ、生存を高めるその役割ゆえに選択された。進化した意識の複数の事例を研究することは、本質的な特徴を偶然的な特徴から切り分ける助けとなる（「N = 1 問題」）。",
+    "core_claims_and_evidence": [
+      "（霊長類のような）複雑な哺乳類の脳のみに焦点を当てることは、意識の真に本質的な特徴の同定を妨げる「N = 1 問題」を招く。",
+      "感覚性はおそらく地球上で数回のみ、あるいは遠い共通祖先において一度だけ進化した。",
+      "頑健な行動プロファイル（例えば痛みを引き起こす刺激から遠ざかること）は、より単純な動物が意識をもつという仮説を正当化する。"
+    ],
+    "basis_of_belief_or_evidence_type": "比較生物学、哲学的、経験的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "比較行動研究を通じて経験的に検証可能。ただし種間評価の限界ゆえに困難を伴う。",
+    "known_empirical_interventions_or_tests": [
+      "ケンブリッジ宣言で同定された意識のマーカー（例えば相同的な脳回路、鏡による自己認識）の分析",
+      "適応的反応（例えば痛みの回避、栄養の探索）の行動観察"
+    ],
+    "criticisms_and_tensions": "意識には複雑な脳を要するという意識研究における支配的な通念と矛盾する。もし意識が遠い祖先に見出されるなら、（情報統合のための大脳皮質のような）特殊化した脳領域に依拠する理論は異議に晒される。",
+    "open_questions_and_limitations": "感覚性が非常に古い祖先において一度だけ進化したのであれば「N = 1 問題」は残り、感覚性に関わる本質的な根底的特徴は依然として未知のままとなる。",
+    "ontological_coherence": "広義の物理主義の枠組みの内部で整合的であり、必要な物理的基体について過度に特定的な唯物論的理論に対する方法論的批判として機能する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありそう",
+      "rationale": "意識が多様な生物系にわたって多重に実現可能であるならば、必要な機能的組織化と行動的複雑さを達成する非生物学的（人工的）システムにおいても実現されうる可能性が高い。ただしこの目標には動物の心の理解が不可欠である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "唯物論と系統発生的進化に根ざした理論として、意識は根本的に物理的・生物学的なハードウェアに依存しており、死後に存続しうる非物理的実体を措定しない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的／適応的",
+      "rationale": "焦点は、生存と繁栄を促進する意識の進化した機能的・適応的役割にあり、宇宙的な目的論ではなく生物学的な存在に由来する人間主義的な意味を支持する。"
+    },
+    "virtual_immortality": {
+      "stance": "ありそう",
+      "rationale": "「多重実現可能性」という中心概念は、機能的性質が正確に複製されるならば、意識をもつ心的自己が非生物学的なハードウェアにおいて再現されうることを含意する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "整合的"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "批判"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is it like to be a crab?, Kristin Andrews",
+        "year": ""
+      },
+      {
+        "title_with_names": "How to Study Animal Minds, Kristin Andrews",
+        "year": 2020
+      },
+      {
+        "title_with_names": "What has feelings?, Kristin Andrews and Jonathan Birch",
+        "year": 2023
+      }
+    ]
+  }
+}

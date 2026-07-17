@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "ストローソンの汎心論",
+    "summary": "ストローソンは、物理主義について実在論的な見解をとる哲学者は誰であれ、すべての物理的現象が内在的に経験的ないし現象的であることを受け入れざるをえず、それは「真正唯物論」の必然的帰結としての汎心論（ないし汎経験説）へと至ると論じる。もっとも確実な事実である意識的経験の存在は、真正の物理主義によって否定することができない。",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "汎心論",
+    "subcategory": "汎経験説",
+    "core_identity_tagline": "「真正唯物論は汎心論を含意する」",
+    "classification_tags": [
+      "real materialism",
+      "panexperientialism",
+      "monism",
+      "physicalism",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（経験）は、すべての根源的な物理的素材ないしエネルギーの内在的で還元不可能な現象的性質と同定される（汎経験説）。",
+    "ontological_status": "実在論的一元論／真正唯物論",
+    "mind_body_relationship": "同一説（強い意味）。真正の物理主義は経験を含むすべての実在的現象を包含するため、心的現象は具体的な物理的現象とみなされる。",
+    "primitive_or_emergent_status": "原初的／根源的",
+    "emergence_type": "該当なし（意識は原初的である）。この理論は「根源的」創発の不可能性に依拠して、汎心論が物理主義によって含意されるという主張を支える。",
+    "subjectivity_and_intentionality": "経験の主観的性格（「それであることの様相」という特徴）は、いかなる実在論的物理主義者も認めざるをえない具体的で根本的に与えられた自然的事実である。",
+    "qualia_account": "クオリアは世界の実在的で具体的な物理的性質である。その否定は「これまでになされたもっとも愚かな主張」とみなされる。",
+    "ontological_commitments": "物理的な究極者（エネルギー／物理的素材）と、それらに内在する現象的／経験的性質。",
+    "epistemic_access": "主として内省（経験はその存在がもっとも確実な現象である）と哲学的論証を通じてアクセスされ、それによって汎心論が物理主義の実在論的理解から論理的に導かれる。",
+    "constituents_and_structure": "基本的な構成要素は物理的素材であり、それは根本的に経験を含むものであって、あらゆるエネルギーが経験を含む現象であると想定されうる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（経験／クオリア）。",
+    "distinctive_mechanism_or_principle": "すべての具体的現象は物理的であるという原理と、経験が具体的な現象であって根源的に創発することはありえないという事実とが相まって、経験が根源的な物理学に内在的であることを帰結する。",
+    "dynamics_of_emergence": "意識は根源的であり、根源的な意味で動的に創発するものではない。根源的創発が退けられるなら、この理論は汎経験説を支持する。",
+    "location_and_distribution": "遍在的であり、根源的な場や粒子と同様に、物理的実在のあらゆる部分ないし側面に伴う。",
+    "causation_and_functional_role": "意識は物理的であるため、問題なく自然界に収まる。（個々の経験の具体的な因果的役割はその物理的地位を通じて含意されるが、諸出典では詳述されていない。）",
+    "integration_or_binding": "この理論は汎心論の結合問題（ミクロレベルの経験がいかに巨視的な意識的主体へと結合するか）に直面する。汎心論が最有力の理論となるためにはこの問題が解決されねばならない。（ストローソンは諸出典において具体的な解決機構を詳述していない。）",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "ストローソンは意識を物理的なものとして受け入れ、その本性に対する適切な応答は、波動‐粒子二重性と同様に「理解を期待しない受容」でありうると示唆する。",
+    "core_claims_and_evidence": [
+      "意識は全面的に物理的である。",
+      "意識的経験の否定はこれまでになされたもっとも愚かな主張である。",
+      "根源的創発の不可能性を前提すれば、真正の物理主義は汎心論を含意する。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的、現象学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能。物理世界の本性に関する哲学的前提から導かれる形而上学的提案である。ナガサワは、汎心論はたとえ真であっても証明できないため「認識的な行き止まり」に達するかもしれないと指摘する。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "一部の批判者からは広く「不合理」とみなされている。結合問題を抱えており、ミクロレベルの経験がいかに集積して巨視的現象的性質を生むかの説明を要する。",
+    "open_questions_and_limitations": "この見解が心身問題へのもっとも有望な解となるためには、結合問題への合理的な解を見出すことが必要である。",
+    "ontological_coherence": "提案された拡張的な唯物論／物理主義の定義（「実在論的一元論」）の内部では高度に整合的であり、意識を究極的な物理的実在へ統合することによって心身問題を解決することを目指す。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "おそらく",
+      "rationale": "もし意識があらゆる基本的な物理的存在者の還元不可能な性質であるならば、物理的物質から成るAIもまた内的な気づきを持つはずである。ただし結合問題が解決可能であり、微視的心的側面を高度な技術によって操作できることが前提となる。"
+    },
+    "survival_beyond_death": {
+      "stance": "ありそうにない（きわめて低い見込み）",
+      "rationale": "世界は意識に満ちているものの、存続には微視的要素が集まって巨視的意識を形成する複雑な過程を逆転させることが必要であり、脳の解体に際して一人称的に存続することは困難と思われる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "可能",
+      "rationale": "汎心論は唯物論（究極的目的なし）と二元論／観念論（究極的目的あり）のあいだに位置づけられ、究極的な意味／目的／価値がありうることを示唆する。"
+    },
+    "virtual_immortality": {
+      "stance": "おそらく",
+      "rationale": "もし意識が実在の織物に内在する通常の性質であるならば、高度な技術は、意識を複製ないしアップロードするために微視的心的な力を集積・操作するのに必要な規則性を学習しうるかもしれない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Panpsychism",
+        "relationship": "両立的／影響"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "重なり／総合"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism and Other Essays, Galen Strawson",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      }
+    ]
+  }
+}

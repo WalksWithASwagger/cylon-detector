@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "微小心論",
+    "summary": "微小心論は汎心論の伝統的な形態であり、現象的意識ないし原‐現象的性質が、基本粒子や場のようなすべての物理的究極項の原初的特徴として存在すると考える。これは、汎心論に関するすべての事実がミクロレベルで生成されることを意味する。",
+    "associated_thinkers": [],
+    "category": "汎心論",
+    "subcategory": "微小心論",
+    "core_identity_tagline": "ミクロレベルの現象的性質としての意識",
+    "classification_tags": [
+      "panpsychism",
+      "micro-level",
+      "fundamentalism",
+      "non-reductionist",
+      "constitutive"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "心性、気づき、ないし経験の本質は、物理的実在のあらゆる部分ないし側面に内在する原初的で還元不可能な特徴である。",
+    "ontological_status": "汎心論（しばしば構成的であり、心性／原‐心性を物理的実在の根本的レベルに定着させる）。",
+    "mind_body_relationship": "意識は物理的実在のミクロレベルに位置し、物理学の最も深い法則と共に根本的であり、物理的実在そのものの基礎をなす。",
+    "primitive_or_emergent_status": "原初的ないし根本的。意識ないし原‐意識は、実在の還元不可能な基底レベルに存在すると措定されるため。",
+    "emergence_type": "マクロ経験は、採用される微小心論の特定の変種に応じて、非創発的（構成的であり、単にミクロ経験に基礎づけられる）でありうるか、ミクロ経験から強く創発する（非構成的）でありうる。",
+    "subjectivity_and_intentionality": "このモデルは主観的なミクロ経験の存在を想定する。主観的な人間の意識は、これらの微小な意識的主体が融合するときに生じる。",
+    "qualia_account": "クオリア（現象的性質）は、微小物理的究極項が有する内在的な現象的ないし原‐現象的性質である。",
+    "ontological_commitments": "現象的ないし原‐現象的性質を有する物理的究極項（基本的な場と粒子）。",
+    "epistemic_access": "アクセスは一般に思弁的である。ミクロ経験の内在的本性は概念的に人間の経験とは大きく異なるためである。知識は観察可能なマクロ経験からの哲学的拡張に依拠する。",
+    "constituents_and_structure": "それぞれ独自のきわめて基本的な形態の意識的経験をもつミクロレベルの存在者。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（具体的にはミクロ経験であり、人間／動物のマクロ経験へと至る）。",
+    "distinctive_mechanism_or_principle": "基礎物理学における原‐意識の遍在性と還元不可能性。複雑な意識を形成するには集成メカニズムを要する。",
+    "dynamics_of_emergence": "動態は、より高次の経験を構成するためのミクロレベルの存在者の結合ないし集成を含み、その詳細は依然として複雑である。",
+    "location_and_distribution": "遍在的であり、エネルギー‐物質が存在するあらゆる場所で物理的実在の全体にわたって分布し、基礎物理学に関連する。",
+    "causation_and_functional_role": "意識は実在の原初的特徴である。構成的な変種では、ミクロ経験がマクロ経験を基礎づけ、引き起こす。",
+    "integration_or_binding": "統合は微小な意識的主体の結合を通じて生じなければならないが、それがどのように起こるのかを決定することは未解決の結合問題である。",
+    "information_flow_or_representation": "意識は純粋に情報的な計算ではなく、内在的な原‐現象的性質に根ざしている。",
+    "evolutionary_account": "意識は「初めから」現存する実在の根本的特徴であるが、複雑なマクロ的形態への進展は自然選択と結合の規則に従う。",
+    "core_claims_and_evidence": [
+      "現象的意識は微小物理的究極項の原初的で還元不可能な特徴である。",
+      "ミクロ経験は何らかの仕方で足し合わされてマクロ経験を生じさせねばならない（構成的汎心論）。",
+      "意識は物理的実在の根本的レベルに位置する。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、現象学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "きわめて思弁的。根本的存在者の内在的本性に関わるため、直接的な経験的検証は、不可能ではないにせよ、きわめて困難である。",
+    "known_empirical_interventions_or_tests": [],
+    "criticisms_and_tensions": "主要な課題は「結合問題」である。すなわち、無数の単純なミクロレベルの経験の主体が、どのように結合ないし融合して、複雑で統一された意識をもつ単一のマクロ的主体を形成しうるのかを説明することである。",
+    "open_questions_and_limitations": "第一の未解決の問題は結合問題である。また、物理学が記述する微小物理的構造が、それが有するとされる現象的性質と正確にどう関係するのかも不明である。",
+    "ontological_coherence": "意識を真剣に受け止め、伝統的な二元論（物理的‐非物理的な因果の問題を回避することで）や唯物論（ハードプロブレムを解くことで）に対する理論的利点を提供するという点で整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "おそらく可",
+      "rationale": "意識が、AIシステムを構成する根本的な物理的構成要素の内在的性質であるなら、非生物学的基体において結合問題を解決できるかぎり、人工システムは意識を有するはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "考えにくい",
+      "rationale": "微小な意識は根本的であり存続するが、複雑な個の人間の意識の存続には、整合的な集合体を保存する仕方でマクロ構造（脳）が解体される必要があり、それはこの理論によって保証されていない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "可能",
+      "rationale": "意識を物理的実在に根本的に定着させることは、存在のより深い究極的次元を示唆し、厳格な唯物論には欠けている意味ないし目的を潜在的に含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "おそらく可",
+      "rationale": "微小心的要素が結合して固有の複雑な意識を作り出す正確な仕方を、先進技術によって首尾よく複製・操作できるなら、仮想的不死は達成可能なはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panprotopsychism",
+        "relationship": "区別"
+      },
+      {
+        "name": "Cosmopsychism",
+        "relationship": "対比"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, G. Strawson",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Panpsychism, P. Goff, W. Seager, S. Allen-Hermanson",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Consciousness and its place in nature, D. Chalmers",
+        "year": 2003
+      }
+    ]
+  }
+}

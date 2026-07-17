@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "ダネットの多重草稿モデル",
+    "summary": "この神経生物学的理論は、意識が観察される中枢的な「デカルト劇場」という考えを退ける。代わりに、意識的内容は注意を求めて競合する並列的で多重トラックの情報処理の流れ（「複数の草稿」）から生じ、勝った草稿が「脳内での名声」を獲得すると措定する。これらの瞬間の連続的な統合が、「物語的重心」として特徴づけられる主観的な自己感覚を形成する。",
+    "associated_thinkers": [
+      "Daniel Dennett",
+      "Patricia Churchland",
+      "Paul Churchland",
+      "Keith Frankish"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "複数の草稿と物語的重心としての意識",
+    "classification_tags": [
+      "eliminative materialism",
+      "illusionism",
+      "functionalism",
+      "narrative",
+      "evolutionary"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳における並列的な解釈過程から生じる、絶えず改訂される「物語的な流れあるいは連なり」として同定される。主観的な現象的性質（クオリア）は「ユーザー錯覚」あるいは不整合な神経的構築物として定義される。",
+    "ontological_status": "物理主義/消去的唯物論",
+    "mind_body_relationship": "同一性/還元。心的状態は物理的状態に完全に還元可能であり、心についての常識的見解（民間心理学）は根本的に誤りであって、最終的には神経科学によって取って代わられる。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。この理論が意識を根本的な物理的過程に完全に還元あるいはそれによって説明できると主張し、還元主義的唯物論的見解を支持して原理的に強い創発を退ける、という事実によって正当化される。",
+    "subjectivity_and_intentionality": "主観性（「自己」）は「物語的重心」と呼ばれる分散した虚構的構築物として概念化される。志向性（内容）は優先され、意識の必要に先立つ、複雑な分子の塊の機能と見なされる。",
+    "qualia_account": "クオリアは錯覚的で不整合な概念として退けられる。それらは「ユーザー錯覚」——我々が内在的で分析不可能な現象的性質をもつと信じるよう仕向ける、複雑で活性化された神経ネットワーク——として説明し去られる。",
+    "ontological_commitments": "物理的な脳とその生物学的過程。実際に存在するものの異なる版であり、科学的イメージ（物理学、化学、分子生物学、神経生理学）によって表される「実在するパターン」。",
+    "epistemic_access": "もっぱら「異種現象学」と呼ばれる科学の三人称的視点を通じてである。一人称的内省と内的状態についての信念は、必ずしも心的実在の真なる記述としてではなく、説明されるべきデータとして扱われる。",
+    "constituents_and_structure": "「半独立的な行為主体の束」あるいは脳の領域/モジュールであり、絶え間ない編集に服する並列的な解釈（「複数の草稿」）を生成する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（縮減された/消去された）、アクセス、自己意識（物語的構造として）、内容/志向性。",
+    "distinctive_mechanism_or_principle": "「デカルト劇場」の隠喩の抑止。この機構は、処理資源をめぐる異なる脳領域/モジュール（草稿）の間の競合を伴い、勝者に「脳内での名声」をもたらし、それが意識的瞬間の内容を決定する。",
+    "dynamics_of_emergence": "意識は動的な過程——時間を通じた編集的改訂と物語形成の流れ——である。それは自然選択を通じて漸進的に生じ、「推論者なき理由」と「設計者なき設計」を強調する。",
+    "location_and_distribution": "脳全体に分散している。単一の中枢的な場所や内なる観察者を明示的に否定する。",
+    "causation_and_functional_role": "機能的には、意識は世界との複雑な情報的かつ反応的な関与である。その進化的役割は、適応度と繁殖成功を高める内的適応を提供することである。",
+    "integration_or_binding": "統合は、連続する意識的瞬間が凝集した一つのライフストーリー（「物語的重心」）へと合体することを通じて、遡及的に達成される。",
+    "information_flow_or_representation": "解釈と精緻化の並列的で多重トラックの処理が物語的な流れへと至る。内容は意識に先立ち、複雑な分子の塊が意味をもつことを可能にする。",
+    "evolutionary_account": "意識と心は、細菌の水準から始まり、意識そのもののような現象を理解するのに必要な思考の道具（言語など）の創出を経て進展しながら、自然選択を通じて進化した。",
+    "core_claims_and_evidence": [
+      "意識的経験を眺める「デカルト劇場」や内なる目撃者は存在しない。",
+      "意識は「脳内での名声」を求めて競合する「複数の草稿」から成る。",
+      "主観的自己は機能的構築物（「物語的重心」）である。",
+      "クオリアは錯覚的で不整合な性質として退けられる。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（消去主義）、進化論的/生物学的、計算論的（機能主義）、認知科学（異種現象学）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能。ダネットは、誤解を招く内省に依拠するのではなく、客観的な三人称的方法（異種現象学）を通じた検証を提唱する。",
+    "known_empirical_interventions_or_tests": "諸典拠は特定の名を冠した実験的介入を列挙していないが、この理論は標準的な認知科学の手続きと三人称的方法論（「異種現象学」）を通じて得られる支持的データに依拠する。",
+    "criticisms_and_tensions": "主要な批判は、この理論が現象的意識（ハードプロブレム）をそれが錯覚であると宣言することで扱いそこねている点であり、批判者はダネットが「易しい問題」を解いているが核心的な謎を回避していると論じる。彼のクオリア否定は、反直観的な前提への固執を要する重大な一手と見なされる。",
+    "open_questions_and_limitations": "内的経験についての常識的直観を克服することを要し、多くの者はこれを「難題」と見なす。ハードプロブレムが「消え去らない」かもしれない可能性は、未解決の緊張として残る。",
+    "ontological_coherence": "純粋に還元的で縮減的な唯物論的枠組みの内部で高度に整合的であり、意識が物理学と神経科学によって完全に説明できるという信念と整合する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "はい",
+      "rationale": "機能主義/計算論に根ざした強い唯物論的理論として、意識は全面的に物理的であり計算論的機能主義が真であると主張する。したがって超強力な AI を達成する非生物学的知能は、最終的に意識を達成するにちがいない。"
+    },
+    "survival_beyond_death": {
+      "stance": "いいえ",
+      "rationale": "唯物論理論では、生物学的な脳と身体の死は、その人物の取り返しのつかない永続的な非存在をもたらす。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "唯物論理論は究極的な宇宙的意味や目的を合理化せず、代わりに個人が自ら作り出す人間的な意味と価値を強調する。"
+    },
+    "virtual_immortality": {
+      "stance": "はい",
+      "rationale": "意識が全面的に物理的で情報処理に還元可能であるならば（この理論が主張するように）、一人称的な心的自己は非生物学的媒体にアップロード/複製可能であり、十分な技術があれば仮想的不死は到達可能となる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "重なり合い（中核的な哲学的基盤）"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "類似（機能主義的アプローチ）"
+      },
+      {
+        "name": "Global Workspace Theory (GWT)",
+        "relationship": "比較（両者ともデカルト劇場を退け情報的アクセスに焦点を当てるが、細部では異なる）"
+      },
+      {
+        "name": "Higher-Order Thought Theories",
+        "relationship": "重なり合い（ダネットのモデルは認知的内容を優先する点でしばしば高階理論の一形態と見なされる）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Explained, Daniel C. Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Eliminative Materialism and the Propositional Attitudes, Paul Churchland",
+        "year": 1981
+      }
+    ]
+  }
+}

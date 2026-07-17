@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "エーデルマンの神経ダーウィニズムと再入的神経回路",
+    "summary": "これは、意識が複雑な脳の形態と進化的選択から生じると措定する、純粋に生物学的で唯物論的な理論である。中核的機構は、とりわけ視床皮質系におけるニューロン群の間の絶え間ない大規模で再帰的なシグナル伝達（再入）によって定義される力学的コアを伴い、高階の弁別を可能にする。",
+    "associated_thinkers": [
+      "Gerald Edelman",
+      "Giulio Tononi"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "「再入的な神経的弁別としての意識」",
+    "classification_tags": [
+      "neural selectional system",
+      "reentry",
+      "dynamic core",
+      "biological",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、視床皮質系の力学的コアにおける再入的相互作用から生じる高階の弁別の結果として同定される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "心と心的状態は全面的に物理的であり、もっぱら生物学的な脳の過程の産物である（徹底して唯物論的な理論）。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性は個々の有機体の活動に内在し、その固有の表現型的性質と生活史を反映する。志向性は、適応的反応を優遇するシステムの選択的本性に反映される。",
+    "qualia_account": "クオリアは、基底の神経構造と動態によって可能となる高階の弁別として定義される。クオリアのハードプロブレムは、記述的理論がそれが説明する主観的経験を再現できないがゆえに、不適切に提起された問いとして退けられる。",
+    "ontological_commitments": "生物学的な脳、ニューロン群、再入的神経回路、そしてシナプス効力の変化。",
+    "epistemic_access": "主として、神経解剖学的構造と神経動態の科学的探究と三人称的記述を介してアクセスされるが、これが一人称的経験を再現できないことを認める。",
+    "constituents_and_structure": "変異回路のレパートリー、機能的に可塑的なニューロン群、そして視床皮質系（力学的コア）内の大規模に並列した相互的線維。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、一次意識（想起された現在）、高階意識（自己感覚、言語）、統一/結合。",
+    "distinctive_mechanism_or_principle": "神経ダーウィニズム（ニューロン群選択説、TNGS）と、再入的神経回路を介した力学的コアの組織化との結合。",
+    "dynamics_of_emergence": "意識は、再入的相互作用による多数の入力の統合から生じる動的な過程であり、時間を通じて異なる準安定状態の連続的な連なりを生成する。",
+    "location_and_distribution": "主として視床皮質回路（力学的コア）に局在する。",
+    "causation_and_functional_role": "機能的役割は、高階の弁別を可能にし、適応的反応へと至ることである。高階意識は、計画立案と、意識していることの意識を可能にする。",
+    "integration_or_binding": "再入を通じて達成される。再入は多様で相互作用するニューロン群に相関を課し、分散した脳領域にわたって同期的に活動する回路を優遇する。",
+    "information_flow_or_representation": "情報処理は選択的（ダーウィニズム的）であり、指令的であるのではなく、経験に基づく縮重回路の選択に依拠する。",
+    "evolutionary_account": "意識は二段階で進化した。一次意識は、絶え間ない範疇化が再入を介して記憶に結びついたとき（「想起された現在」）に生じた。高階意識は、後に言語的遂行と概念的記憶とともに生じた。",
+    "core_claims_and_evidence": [
+      "意識は、進化的選択の純粋に生物学的で徹底して唯物論的な帰結である（神経ダーウィニズム）。",
+      "力学的コアは、再入的神経回路を通じて入力を統合し意識的状態を生成する。",
+      "クオリアは、これらの神経動態が伴う高階の弁別である。",
+      "再入は、分散した皮質活動を同期させることによって結合問題を解決する。"
+    ],
+    "basis_of_belief_or_evidence_type": "生物学的、進化論的、神経生理学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": [
+      "視床皮質系における再入的神経活動の役割を調べる研究。",
+      "クオリアの差異と相関する神経構造と動態の測定。"
+    ],
+    "criticisms_and_tensions": "批判者は、この唯物論的枠組みがクオリアの主観的で現象的な存在を十全に説明するとは納得しておらず、エーデルマンによるハードプロブレムの退けを不十分と見なす。",
+    "open_questions_and_limitations": "この理論は、定義上、三人称的な科学的記述を通じて一人称的経験（「赤の赤さ」）を伝えることができず、経験的なギャップを残す。",
+    "ontological_coherence": "厳格な唯物論的、神経生物学的、ダーウィニズム的存在論的枠組みの内部で高度に整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "機構論的な生物学的理論として、選択的かつ再入的な神経回路の機構が非生物学的基体において十分かつ正しく実装されるならば、意識は人工的システムにおいて可能であるはずである。提唱者は意識的な人工物を設計することが実行可能であると示唆した。"
+    },
+    "survival_beyond_death": {
+      "stance": "いいえ",
+      "rationale": "意識は全面的に生物学的な脳の物理的作動に依存しており、それゆえ有機体の死とともに停止する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "この理論は進化的で適応的な機能の上に築かれており、意味と目的が根本的な宇宙的特徴ではなく意識的行為者によって作り出される創発的性質であることを含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "意識が特定の物理的/構造的な動態と機能（神経ダーウィニズム/力学的コア）の産物であるため、これらの機構をデジタル媒体に完全に複製あるいはアップロードすれば一人称的な心的自己は保存されるであろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重なり合い"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neural Darwinism: the Theory of Neuronal Group Selection, G.M. Edelman",
+        "year": 1987
+      },
+      {
+        "title_with_names": "A Universe of Consciousness: How Matter Becomes Imagination, G.M. Edelman and G. Tononi",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Naturalizing consciousness: a theoretical framework, G. Edelman",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Biology of consciousness, G. Edelman, J. Garlly, B. Baars",
+        "year": 2011
+      }
+    ]
+  }
+}

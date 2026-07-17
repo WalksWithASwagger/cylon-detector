@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "ホフマンの意識的実在論――実在に反対する論証",
+    "summary": "この理論は、進化が実在の真正な知覚ではなく生存と繁殖上の適応度を選択すると主張する。その結果、時空と物理的対象は、適応的行動を導く単なる「インターフェース」ないし錯覚として機能する。究極的実在は根本的に、相互作用する意識的作因とその経験から成り、それらは物理的世界に先立ち、それを生み出すものである。",
+    "associated_thinkers": ["Donald Hoffman"],
+    "category": "観念論",
+    "subcategory": "観念論（意識的実在論）",
+    "core_identity_tagline": "「意識こそ根源的実在である」",
+    "classification_tags": [
+      "idealism",
+      "conscious agents",
+      "interface theory of perception",
+      "fundamental consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は根源的実在と同一視され、相互作用する「意識的作因」とその経験の広大な社会的ネットワークとして構造化される。",
+    "ontological_status": "観念論",
+    "mind_body_relationship": "意識は根源的であり時空と対象を創出し、因果の在来的な矢印を逆転させる。脳活動が心的状態と相関するのは、意識が脳活動／物理的世界というインターフェースを創出するためである。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "実在が意識的作因とその経験から成るため、主観性は内在的である。志向性は、「他の作因の経験に影響を与えるよう行為する」意識的作因に固有である。",
+    "qualia_account": "クオリアは、意識的作因に固有の根源的経験であることが含意され、それが時空のインターフェースの内部で単純化された図像（色や対象のような）へと翻訳される。",
+    "ontological_commitments": "意識的作因、その経験、および作因のネットワークを定義する数学的構造。時空と物理的対象は存在論的な優位性を否定され、図像／インターフェースとしてのみ存在する。",
+    "epistemic_access": "哲学的論証、意識的作因ネットワークの数学的定式化、および知覚が非真正なインターフェースであるという概念的認識を介して接近される。",
+    "constituents_and_structure": "基本的構成要素は意識的作因であり、数学的に構造化された「広大な社会的ネットワーク」として組織化される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的経験（生成されたインターフェースとして）、自己意識（作因の経験の一部として）、および物理的実在の創出。",
+    "distinctive_mechanism_or_principle": "進化が真正な知覚よりも適応度を優先するという原理が、適応的行動を導く単純化された錯覚的な「インターフェース」（時空と物理的対象）の構築へと至る。",
+    "dynamics_of_emergence": "意識は根源的である（創発的ではない）。それは動的に時空のインターフェースを創出する。",
+    "location_and_distribution": "意識は宇宙において根源的である。それは空間と時間の産物でも、空間と時間の内部にある何ものの産物でもない。時空は意識的経験のための単なる形式（インターフェース）にすぎない。",
+    "causation_and_functional_role": "意識は因果的に根源的である。知覚される物理的世界の機能的役割は、もっぱら行動を導くことによって適応度と繁殖の成功を高めることにある。",
+    "integration_or_binding": "統合は、その経験が統一され「最大限に還元不可能な」実体として存在する根源的な「意識的作因」の定義の内部に暗黙のうちに含まれる。",
+    "information_flow_or_representation": "情報は時空のインターフェースにおいて図像（物理的対象）として非真正に表象される。意識的作因は、ネットワークの内部で他の作因の経験に影響を与えるよう行為する。",
+    "evolutionary_account": "自然選択による進化は、客観的実在への接近を提供するのではなく、適応度を最適化する種特異的なインターフェースとして機能するよう知覚系を形づくった。",
+    "core_claims_and_evidence": [
+      "進化は真正な実在の知覚ではなく適応度を選択する。",
+      "時空と物理的対象は、コンピュータのデスクトップの図像のようなインターフェース／錯覚である。",
+      "意識は根源的であり物理的実在を創出する。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（存在論的観念論）、数学的定式化、進化論（知覚のインターフェース理論）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "極めて思弁的／存在論的。意識的作因の数学的定式化を介して概念的に検証可能。経験的証拠は（観念論を支持するよう再解釈された）一般的な知覚的錯覚に依拠する。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "経験的証拠（ユーザー錯覚のような）を唯物論的説明（デネットやグラツィアーノの消去主義的唯物論など）と正反対に解釈することについて批判される。それは脳と心との間の在来的な因果関係の逆転を要求する。",
+    "open_questions_and_limitations": "意識的作因のネットワークがどのように数学的に時空のインターフェースを創出するのか（「逆ハードプロブレム」）という正確なメカニズムは、主要な未解決の問題である。",
+    "ontological_coherence": "観念論的枠組みの内部で高度に整合的であり、意識を実在の究極的基盤として措定することで、物質的世界の根源的存在を否定して心身問題を本来的に回避する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "意識が根源的である（観念論）ため、それは生物学的物質に限られない。人工システムが「意識的作因」に特徴的な組織的複雑性を達成すれば、その物理的基盤のいかんにかかわらず、根源的な意識場に接続しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能性が高い",
+      "rationale": "意識は根源的で物理的インターフェースを生み出すため、個別的な意識的作因は、生物学的身体／インターフェースの解体を超えて存続する可能性が高い。"
+    },
+    "meaning_and_purpose": {
+      "stance": "究極的な意味／目的／価値",
+      "rationale": "観念論は根本的に究極的な意味と目的を支持する。実在は相互作用する意識的作因から成り、その存在と行為（他の作因への影響）は本来的な価値と目的を含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "脳が根源的意識のための単なるインターフェースであるならば、仮想的不死は、非生物学的媒体において個別的な意識的作因を顕現させるために必要な構造ないし機能（「図像」ないしインターフェース）を再現する問題となる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Analytic Idealism (Kastrup)",
+        "relationship": "重複"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism (Dennett/Graziano)",
+        "relationship": "批判"
+      },
+      {
+        "name": "Mathematical Theories",
+        "relationship": "重複／拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Case against Reality: How Evolution Hid the Truth from Our Eyes, D. Hoffman",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Conscious realism and the mind-body problem, D. Hoffman",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Fact, fiction, and fitness, C. Prakash, C. Fields, D.D. Hoffman, R. Prentner, M. Singh",
+        "year": 2020
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "リナスの振動による「心性状態」理論",
+    "summary": "この理論は、意識的な「心性状態（mindness state）」が根本的にはニューロン内部の電気的振動と、それによって生じる離れた神経群間の同時的活動によって生成され、それが認知の神経生物学的根源をなすと措定する。経験される実在とは、こうした内的振動によって生成される一種の仮想現実であり、それは主として予測を可能にする機能を果たすと示唆する。",
+    "associated_thinkers": ["Rodolfo Llinas"],
+    "category": "唯物論の諸理論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "「ニューロンの振動と予測としての意識」",
+    "classification_tags": [
+      "neurobiology",
+      "oscillations",
+      "synchrony",
+      "prediction",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（心性状態）は、微小なニューロン電圧の振動的変動と、この電気的活動の同時性によって生成される内的状態として同定され、認知の神経生物学的根源をなす。",
+    "ontological_status": "物理主義／唯物論",
+    "mind_body_relationship": "同一性／還元主義。心的状態は脳内の特定の物理的プロセス（ニューロンの振動と同期）の機能的産物であり、意識が全面的に物理的であるという唯物論的前提と整合的である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性はこれらの振動によって生成される内的状態に根ざしている。志向性は、予測と環境との相互作用を可能にするという意識の主要な機能を通じて暗黙のうちに扱われる。",
+    "qualia_account": "提示された典拠では明示的に詳述されていない。このアプローチは通常、意識の客観的メカニズムに焦点を当て、主観的経験がニューロンの振動の動態とそれに続く認知的表象に直接対応すると含意する。",
+    "ontological_commitments": "ニューロン、電気的活動（振動）、機能的な脳回路、そして感覚入力。",
+    "epistemic_access": "主として、脳の電気的活動の客観的な神経生物学的観察とモデリングを通じて。",
+    "constituents_and_structure": "位相を合わせて振動するニューロン群。それが同時的な電気的活動を介して離れた群と共鳴する。全体の構造は「仮想現実」を構築する中央集約的な予測モデル（自己）である。",
+    "location_and_distribution": "神経系に位置し、ニューロンの電気的活動（振動）によって生成される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "認知、自己意識（予測の中央集約化として）、知覚（仮想現実として）。",
+    "distinctive_mechanism_or_principle": "ニューロンの電気的活動――振動する電圧として現れる――と、それによって生じる分散した神経群を横断するこれらの振動の同期／同時性。",
+    "dynamics_of_emergence": "意識は静的な性質ではなく動的な内的状態であり、能動的な運動と予測という中核機能を可能にするために進化した。",
+    "location_and_distribution": "脳内の電気的振動によって生成され、感覚によって導かれる。",
+    "causation_and_functional_role": "意識は主として、脳が運動や相互作用の結果を予期することを可能にする機能を果たし、予測する能力を脳の究極的機能とする。",
+    "integration_or_binding": "離れたニューロン群の同時的で位相の合った振動と共鳴を通じて達成される。",
+    "information_flow_or_representation": "情報の流れは電気的振動によって媒介される。心は、内的状態を導く感覚入力に基づいて実在を「仮想現実」として構築する。",
+    "evolutionary_account": "「心性状態」は、能動的な運動を可能にする神経系の進化に続いて、移動する生物とその環境との間の重要な予測的相互作用を可能にするために進化した。",
+    "core_claims_and_evidence": [
+      "意識的な「心性状態」はニューロンの振動によって生成される。",
+      "ニューロン活動の同時性が認知の神経生物学的根源である。",
+      "実在は脳の振動によって構築される一種の内的な仮想現実である。",
+      "自己は予測の中央集約化である。"
+    ],
+    "basis_of_belief_or_evidence_type": "神経生物学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "明示的には詳述されていないが、唯物論的説明として、電気的振動や同期がどのようにして主観的で質的な経験へと翻訳されるのか（説明のギャップ／ハードプロブレム）を説明する課題に直面する。",
+    "open_questions_and_limitations": "この理論は、ニューロンの振動／同期と一人称的経験との正確な関係を特定し、「仮想現実」がどのようにして外的な物理的実在を正確に写像するのかを説明しなければならない。",
+    "ontological_coherence": "意識を測定可能な低次の物理現象（電気的活動）に基礎づけるため、物理主義的枠組みの内部では高度に整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "意識が振動の同期と予測という計算的機能に根ざしているなら、これらの動態は原理的に、物理主義的立場に従って、洗練された人工システムにおいて実現ないしシミュレートされうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は脳内の生物学的な神経メカニズム（振動）によって生成される状態として定義されており、生物学的基体の死後の存続を排除する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "進化した神経生物学的メカニズムとして、意識の目的は主として機能的（予測と生存）であり、究極的な宇宙的意味を退けるデフレ的な唯物論の見解と整合的である。"
+    },
+    "virtual_immortality": {
+      "stance": "可",
+      "rationale": "意識が振動する神経活動のパターンによって全面的に説明されるなら、これらの動的パターンを非生物学的媒体へ完全に複製ないしアップロードすることは一人称的自己を保存し、仮想的不死を可能にするはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "カテゴリー的帰属／重複"
+      },
+      {
+        "name": "Predictive Processing Theories",
+        "relationship": "重複／拡張"
+      },
+      {
+        "name": "Recurrent Processing Theory (Lamme)",
+        "relationship": "重複"
+      },
+      {
+        "name": "Dendritic Integration Theory (Aru et al.)",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "I of the Vortex: from Neurons to Self, Rodolfo Llinas",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Can brain explain mind?, Rodolfo Llinas",
+        "year": 2007
+      }
+    ]
+  }
+}

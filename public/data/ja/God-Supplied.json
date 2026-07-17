@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "神授与説",
+    "summary": "この理論は、意識が、純粋に物質的な過程とは独立に、神によって各個人に直接授けられあるいは供給される非物理的な実体（魂あるいは霊）であると主張する。この神学的二元論は、魂が本質的な意識的自己を構成し、人格的同一性を基礎づけると説く。",
+    "associated_thinkers": [
+      "J.P. Moreland",
+      "Richard Swinburne",
+      "William Lane Craig"
+    ],
+    "category": "二元論",
+    "subcategory": "神学的二元論",
+    "core_identity_tagline": "神によって授けられた魂としての意識",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "theological",
+      "soul",
+      "nonphysical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、物理的身体とは別個の、神によって供給される、まったく非物質的で実体的な魂（自己、自我、私）として同定される。",
+    "ontological_status": "実体二元論（有神論的／神学的）",
+    "mind_body_relationship": "相互作用論的／創造論的二元論であり、そこでは神によって創造された非物質的な魂が物理的な脳／身体と相互作用する（例：二元論的相互作用論）。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "該当なし",
+    "subjectivity_and_intentionality": "主観性は、人格的同一性を基礎づける非物質的な実体（魂）に内在する。魂の統一された実在が志向性と統一された気づきを説明する。",
+    "qualia_account": "クオリアは非物理的な実体／魂に存する。質的経験は非物質的な意識的実体の内在的性質であり、物理的過程に還元不可能である。",
+    "ontological_commitments": "神、非物理的な実体（魂／霊）、そして物理的な脳／身体。",
+    "epistemic_access": "一人称的内省と、独立した統一された実体的自己の存在を擁護する哲学的論証を通じてアクセスされる。",
+    "constituents_and_structure": "中核的な構成要素は、実体的で統一された非物質的な魂であり、それは神によって供給され、身体に形相を与え、身体を人間たらしめる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、自己意識（人格的同一性として）、行為主体性（リバタリアン的自由意志に結びつく）、存続。",
+    "distinctive_mechanism_or_principle": "物質的複雑性による産出ではなく、神（あるいは類比的な究極的実在）による非物質的な意識的実体（魂）の直接的創造あるいは割り当て。",
+    "dynamics_of_emergence": "静的／供給される（意識は物質から動的に生じるのではなく、神的な行為によって具現される）。",
+    "location_and_distribution": "非物理的だが、生の間は物理的身体と結びつく。魂／霊は身体全体にわたって完全に「現前」し、生命付与と形相の原理を提供する。",
+    "causation_and_functional_role": "魂は身体に形相を与え、生命を吹き込み、これを導く。それは統一された気づきの座であり、相互作用論的な諸版では物理系に対して因果的力（トップダウン因果）を及ぼす。",
+    "integration_or_binding": "統一は、魂それ自体の実体的で統一された本性によって根本的に達成され、これが意識的経験を分離可能な物理的部分の集合体に還元されることから防ぐ。",
+    "information_flow_or_representation": "脳における情報処理は感覚入力と出力のために必要とされるが、その結果生じる現象的内容は非物理的な魂によって担われる。",
+    "evolutionary_account": "該当しない。この理論は、非意識的な物質からの進化的創発の枠組みの外で作動し、意識を神によって供給されるものと見なす。",
+    "core_claims_and_evidence": [
+      "意識は神によって直接供給される非物理的な実体（魂）である。",
+      "魂は人格的同一性と気づきの統一された本性を基礎づけるが、これは唯物論が説明に苦労するものである。",
+      "魂は独立しており身体の崩壊を生き延びるため、死後の存続は可能である。"
+    ],
+    "basis_of_belief_or_evidence_type": "神学的、哲学的、現象学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／概念的に検証可能（神学的前提と概念的論証に依拠する。非物理的な実体の本性ゆえに直接的な経験的反証は困難である）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "古典的な相互作用問題に直面する。すなわち、非物質的な実体がいかにして物理的な脳と因果的に相互作用しうるのかを説明することである。また、第二の実体を仮定することによってオッカムの剃刀に反するとして批判される。",
+    "open_questions_and_limitations": "神がいかにして特定の個別の意識（魂）をどの身体に割り当てるかを定めるのか、そして物理学の因果的閉包性に反することなくいかにして相互作用が生じるのかというメカニズムは、依然として未解決である。",
+    "ontological_coherence": "堅固な有神論的実体二元論の内部では整合的だが、非物理的な実体の存在を否定する物理主義的・唯物論的枠組みとは根本的に両立しない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否（ほぼ）",
+      "rationale": "意識が神によって供給される、根本的に別個の非物理的な実体（魂）を必要とするならば、人間の技術がこの実体を産出したり人工知能に割り当てたりすることは不可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "肯定",
+      "rationale": "二元論は存続の最も明確なメカニズムを提供する。というのも、非物理的な魂あるいは霊、すなわち「真の自己」は物理的身体とは独立に存在するからである。"
+    },
+    "meaning_and_purpose": {
+      "stance": "究極的／宇宙的",
+      "rationale": "意識の起源は神的な創造者にあり、しばしば宿命や救済の教義に結びついた、内在的で究極的な意味、目的、価値を含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "脳のアップロードを通じた仮想的不死は不可能である。というのも、物理的な脳構造を複製しても、一人称的同一性に必要な、神によって供給された非物理的な魂を再現することはできないからである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism (Generic)",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Moreland’s Christian Soul",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind, Brain, and Free Will, Richard Swinburne",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Blackwell Companion to Substance Dualism, J.P. Moreland et al.",
+        "year": 2018
+      },
+      {
+        "title_with_names": "The Origin of Humanity and Evolution, Andrew Ter Ern Loke",
+        "year": 2022
+      }
+    ]
+  }
+}

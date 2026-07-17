@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "ラウの知覚的実在モニタリング理論",
+    "summary": "この経験的に基礎づけられた高階理論は、特定の高階表象（HOR）が一階の感覚表象を外的世界の信頼できる反映として妥当と認めるときに意識的知覚が生じると提唱する。HORは知覚と認知のあいだのインターフェースとして働き、意識的経験に対する主観的な正当化感を提供する。",
+    "associated_thinkers": ["Hakwan Lau"],
+    "category": "唯物論",
+    "subcategory": "表象的",
+    "core_identity_tagline": "「知覚的実在モニタリングとしての意識」",
+    "classification_tags": [
+      "higher-order theory",
+      "representationalism",
+      "metacognition",
+      "functionalism",
+      "neurobiological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、一階の感覚状態の信頼性と認識的地位をモニタリングする高階表象によって例化される、知覚と認知のあいだの機能的メカニズムないしインターフェースである。",
+    "ontological_status": "物理主義／機能主義",
+    "mind_body_relationship": "意識は、一階の感覚表象をモニタリングする高階の神経メカニズム（おそらく前頭前皮質における）の特定の機能的活動と同一である。これは脳機能に基づく唯物論的説明である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。意識は脳における特定の複雑な組織化構造（HOR）から生じる機能であり、原理的に説明可能ないし還元可能であることを示唆し、その唯物論的分類と整合的である。",
+    "subjectivity_and_intentionality": "主観性は、主観的水準における信念形成および認識的正当化への意識の結びつきから生じる。志向性は、モニタリングされている一階の知覚表象によって担われる。",
+    "qualia_account": "主観的な「どのようなことか」性は、高階表象がより豊かで低次のアナログな知覚信号にアクセスすることによって説明される。これらの信号のアナログな本性が、他の可能な経験に相対的な主観的類似性を決定する。",
+    "ontological_commitments": "一階の知覚表象、高階のモニタリング表象（HOR）、および主として前頭前皮質に位置する特定の神経メカニズム。",
+    "epistemic_access": "意識的知覚と感覚的メタ認知のメカニズムのあいだの類似性に焦点を当てた、経験的探究と神経モデル化を通じてアクセス可能である。HORそれ自体は下位個人的過程だが、その出力は作動主体にとって主観的に正当化された推論へと至る。",
+    "constituents_and_structure": "この構造は二水準の過程を伴う。すなわち、一階（感覚）表象が高階（認知的／メタ認知的）表象によってタグ付けないしモニタリングされ、知覚と認知のあいだのメカニズム的インターフェースを形成する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（知覚とクオリア）、認知的（メタ認知、信念形成）、アクセス（潜在的帰結として）。",
+    "distinctive_mechanism_or_principle": "一階の感覚表象の知覚された信頼性を示す「タグないしラベル」としての高階表象（HOR）の機能（知覚的実在モニタリング）。これが空想や神経ノイズからそれを区別する。",
+    "dynamics_of_emergence": "意識は、特定の機能的HORメカニズムの例化に際して動的に生じ、感覚入力と認知的処理のあいだの決定的なインターフェースとして働く。",
+    "location_and_distribution": "このメカニズムはおそらく哺乳類の前頭前皮質のうち、一次感覚領域の外に存在し、知覚的メタ認知を司る領域と重なる。",
+    "causation_and_functional_role": "HORは、信頼できる感覚情報をさらなる認知的処理へと振り分けるゲート機構として働き、作動主体が実在を空想から信頼できる仕方で区別できることを保証する。",
+    "integration_or_binding": "高階表象は一階表象のより豊かで低次のアナログな知覚にアクセスし、このモニタリング過程が統一された現象的経験に必要な統合を促すことを含意する。",
+    "information_flow_or_representation": "情報は空間的に「アナログ」な感覚表象（一階）から高階の認知的システムへと流れ、計算上の利点を可能にし、質的性格を決定する。",
+    "evolutionary_account": "本理論は進化論的説明と整合的である。世界についての真の知覚を自己生成された心像やノイズから信頼できる仕方で区別することによって生存を高める識別器（AIに類比される）を組み込むからである。",
+    "core_claims_and_evidence": [
+      "意識的知覚は、一階の感覚入力を信頼できるものとして妥当と認める高階表象を要する。",
+      "意識的知覚の神経メカニズムは、感覚的メタ認知のそれ（前頭前皮質および頭頂皮質）と重なる。",
+      "本理論は、盲視を、対応する必要な高階表象を伴わない一階表象の生起として整合的に説明する。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的／認知神経科学的、機能主義的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "意識的知覚と感覚的メタ認知の神経相関物をマッピングし比較することによって、また盲視現象に関する予測力を通じて、経験的に検証可能である。",
+    "known_empirical_interventions_or_tests": [
+      "前頭前／頭頂の活動を感覚的メタ認知および意識的知覚と相関づける神経画像研究。"
+    ],
+    "criticisms_and_tensions": "ラウは対抗するモデルを批判し、本理論を、全域作業空間理論（アクセスに焦点を当てすぎ）と純粋に局所的／再帰的な理論（初期感覚領域に焦点を当てすぎ）の中間に位置する優れた「中道的」アプローチとして位置づける。それは、なぜモニタリング／メタ認知が質的な「どのようなことか」性を生み出すはずなのかを説明するという標準的な困難に直面する。",
+    "open_questions_and_limitations": "高階のタグによってアクセスされるメカニズム的でアナログな表象が経験の主観的質を十全に説明しうるという野心的な主張を、十全に裏づける必要がある。",
+    "ontological_coherence": "神経生物学的かつ機能主義的な唯物論的枠組みの内で高度に整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "機能主義的理論として、意識は正しい情報的／機能的アーキテクチャ（HORメカニズム）の実装に依拠する。このアーキテクチャがロボットやコンピュータプログラムにおいて例化されうるならば、人工的な意識は可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は生物学的な脳に位置する特定の専門化された神経メカニズム（例えば前頭前皮質）に明示的に結びついており、生物学的死後の存続の余地を残さない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "このメカニズムの第一の役割は機能的である（実在を空想から区別し情報を振り分ける）。それはこの生物学的メカニズムが付与する適応的利点を超えて、いかなる宇宙的ないし究極的な目的も提供しない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "表象のアナログな本性を含めて、特定の機能的で情報的なアーキテクチャが非生物学的基盤へと完璧にアップロードされ実行されうるならば、意識はその機能的構造によって定義されるため、一人称的な心的自己は保存されるだろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "特定の事例／拡張"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "批判（優れた中間的代替として位置づけられる）"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "批判（優れた中間的代替として位置づけられる）"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "両立可能（意識的主張を説明する機能主義的／認知的アプローチを共有する）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness, metacognition, & perceptual reality monitoring, Hakwan Lau",
+        "year": 2019
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Is consciousness a battle between your beliefs and perceptions?, Hakwan Lau",
+        "year": 2019
+      }
+    ]
+  }
+}

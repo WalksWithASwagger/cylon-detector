@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "意識の高階理論",
+    "summary": "高階理論（HOT）は、ある知覚を意識的にするのは、その知覚についての付随する認知的状態の存在であると主張する。このメカニズムは二層の過程であり、現象的意識は一階の知覚ないし心的状態についての高次の感知である。",
+    "associated_thinkers": [
+      "Peter Carruthers",
+      "David Rosenthal",
+      "Joseph LeDoux",
+      "Hakwan Lau"
+    ],
+    "category": "唯物論",
+    "subcategory": "表象的",
+    "core_identity_tagline": "高階の表象としての意識",
+    "classification_tags": [
+      "representation",
+      "cognitive",
+      "two-level process",
+      "inner-sense theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象的意識は、一階の心的状態ないし知覚へと向けられた高次の感知ないし表象（認知的状態ないし思考）と同一視される。",
+    "ontological_status": "還元的物理主義／機能主義（根拠づけ：唯物論的理論として、意識を脳によって実現される機能的／認知的過程へと還元し、しばしば心的な用語で枠づける。）",
+    "mind_body_relationship": "意識は、二つの心的層（一階の状態と二階の状態）の間の因果関係を通じて生じ、そのいずれも脳における物理的過程によって完全に実現される。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（根拠づけ：中核的な唯物論的理論として、還元が直接の神経生理学ではなく心的ないし機能的な用語で表現されるとしても、意識は原理的に還元可能とされる。）",
+    "subjectivity_and_intentionality": "主観性は、一階の状態が二階の思考の対象となるとき生じ、「〜のように見える」という次元ないし自己意識を与える。志向性は両層で作動する。すなわち一階（世界について）と二階（一階の状態について）である。",
+    "qualia_account": "クオリアないし現象的性格は、知覚についての付随する高階の認知的状態の存在によって説明され、現象的意識を心的な用語で還元的に説明することを目指す。",
+    "ontological_commitments": "一階の心的状態（知覚／感覚）、二階の認知的状態（思考／表象）、およびこれらの表象を実現する複雑な皮質ネットワーク（例えば前頭前皮質）。",
+    "epistemic_access": "内省を介して（意識状態とはわれわれが気づいている状態であるため）、また認知的アーキテクチャと相関する神経活性化パターンの三人称的モデリング（例えば知覚的現実監視）を通じて接近可能である。",
+    "constituents_and_structure": "一階の表象（感覚情報）と、それらの一階の状態へと向けられた二階の認知的表象（思考ないし知覚）から成る二層の処理構造。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、自己意識（自らの状態への気づきとして）、情動的意識（ルドゥーの変種において）。",
+    "distinctive_mechanism_or_principle": "低次の心的状態を標的とする付随的な認知的ないしメタ的状態（高階の表象ないし思考）の存在であり、それによって当該状態を無意識から意識へと転換させる。",
+    "dynamics_of_emergence": "意識は、感覚的表象と監視する認知的構造との間の二層の関係から生じる動的で過程的な現象である（例えば現実主義的HOTにおける実際の因果、あるいは性向主義的HOTにおける利用可能性）。",
+    "location_and_distribution": "主として、前頭前皮質（PFC）のような高階の認知機能とメタ認知に関連する皮質領域に局在し、「頭の後方」の理論とは対照的である。",
+    "causation_and_functional_role": "高階の状態が低次の状態に意識を付与する（現実主義的HOT）。その機能的役割は典型的に、一階の知覚の内容を柔軟な認知処理と報告に利用可能にすることである。",
+    "integration_or_binding": "統合は生じると想定される。おそらく統一された高階の表象によって可能となる機能的統合を介して暗黙のうちに、あるいは（ラウの変種で指摘されるように）知覚的表象を結びつける記憶メカニズムを介して生じる。",
+    "information_flow_or_representation": "意識は、一階の感覚入力を「標識づけ」ないし範疇化する表象の表象（二階の表象）をもたらす情報の流れによって達成される。",
+    "evolutionary_account": "意識のメカニズムはより単純な過程から進化し、皮質を基盤とする一般的な認知ネットワークを通じて、複雑な情動経験や自己中心的な気づきを可能にした可能性がある。",
+    "core_claims_and_evidence": [
+      "現象的意識は、知覚についての認知的状態によって媒介される（二層の過程）。",
+      "意識状態は、高階の表象の存在によって無意識の状態から区別される。",
+      "盲視は、対応する高階の表象を欠いた一階の表象の存在によって説明される。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（意識的／無意識的の区別の説明）、認知的、神経科学的モデリング（例えば盲視研究）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（とりわけ皮質における一階の処理と対応する高階の活動との差異に関して）。",
+    "known_empirical_interventions_or_tests": "経験的証拠は、しばしば意識的知覚と無意識的知覚（盲視のような）の比較を通じて、要求される高階の表象の存在ないし活動を検証するために求められる。",
+    "criticisms_and_tensions": "意識を付与するために高階の思考と一階の知覚との間に要求される正確な関係を特定することの困難について批判され、内容記述の不十分さに至る。「二重表象」のアプローチは概念的に不可解とみなされる。",
+    "open_questions_and_limitations": "意識が生じるために高階の状態と一階の知覚との間に成立せねばならない関係の正確な性質は、未解決の問いのままである。またクオリアの説明のギャップに関する一般的な反論にも直面する。",
+    "ontological_coherence": "物理主義的／唯物論的かつ機能主義的な存在論の内部で高度に整合的であり、表象や認知的状態のような科学的に扱いやすい概念に依拠する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "認知的・表象的構造に基づく唯物論的理論として、意識は根本的に計算論的ないし機能的であり、自己監視を行い高次の表象を形成できる高度なAIシステムは意識を達成しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定する",
+      "rationale": "意識は完全に、皮質を基盤とする複雑な脳のメカニズムによって実現される。したがって生物学的基盤の崩壊を超えて存続することはできない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "創発的な生物学的過程から生じる意識は、自己省察と主体性をもたらすが、いかなる究極的な宇宙的目的論も含意せず、唯物論の収縮主義的立場と軌を一にする。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "意識が全面的に表象的・機能的関係によって定義されるならば、これらの複雑な認知的状態を非生物学的媒体へ完全に複製しアップロードすれば、一人称の心的自己を保存できるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重複"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Higher-Order Theories of Consciousness, Peter Carruthers",
+        "year": 2020
+      },
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, Joseph LeDoux and Richard Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      }
+    ]
+  }
+}

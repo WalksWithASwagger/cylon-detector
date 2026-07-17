@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "マーフィーの非還元的物理主義",
+    "summary": "この理論は、意識が全面的に物理的であり、もっぱら生物学的な脳から生じると主張するが、心的性質ないし状態は存在論的に区別され、基底にある物理的状態へは還元不可能であると考える。哲学的に堅固で、科学的に両立可能で、神学的にも受け入れられる、人間という人格の非二元論的説明を提供しようとする。",
+    "associated_thinkers": ["Nancey Murphy"],
+    "category": "非還元的物理主義",
+    "subcategory": "非還元的物理主義",
+    "core_identity_tagline": "心は還元不可能なかたちで区別される物理的性質である",
+    "classification_tags": [
+      "physicalism",
+      "irreducibility",
+      "causal efficacy",
+      "theistic compatibility"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（心的状態ないし性質）は、脳の物理的状態に区別されつつも全面的に依存し、それによって生成されるものとして同定され、しばしば性質二元論と特徴を共有する。",
+    "ontological_status": "非還元的物理主義",
+    "mind_body_relationship": "心的状態は起源において完全に物理的である（脳によって因果的に生成される）が、存在論的に還元不可能である。この関係はしばしば下向き因果によって特徴づけられる。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発（推論による。原理的な還元不可能性を達成し還元主義的決定論を打ち破るために、マーフィーがシステム理論・カオス理論・下向き因果に依拠していることによって正当化される）。",
+    "subjectivity_and_intentionality": "これらの心的特徴は、意識に必要な、人間という有機体全体の実在的で還元不可能な性質／側面であると想定される。",
+    "qualia_account": "質的で現象的な性質は、脳の物理的過程から生じる還元不可能な心的状態である。この理論の核心は、還元主義を拒否しつつこれらの性質の実在性を保持することに依拠する。",
+    "ontological_commitments": "物理的実体、還元不可能な心的性質ないし状態、階層的な因果的組織（下向き因果）。",
+    "epistemic_access": "意識は、還元不可能性を論証する哲学的探究と、経験的な認知神経科学との両立可能性の双方を通じて認識可能である。",
+    "constituents_and_structure": "唯一の実体は全面的に物理的である。心的状態はこの物理的有機体のより高次のシステム的特徴であり、複雑で非線形な動態を通じて生じる。",
+    "epistemic_access": "還元不可能性を論証する哲学的論証と、認知神経科学からの経験的知見とが結び合わさることによって接近可能である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、心的性質（志向性を含む）、因果的有効性、自己意識（非二元論的人間論を介して推論される）。",
+    "distinctive_mechanism_or_principle": "下向き因果（全体‐部分因果）による因果的反還元主義と、心的状態が物理的な脳に実在的な因果的力を及ぼすと論じるための複雑系理論（カオス理論、非線形動態）への依拠。",
+    "dynamics_of_emergence": "心的状態は、生物学的な脳の複雑な組織から、還元不可能なシステム的特徴として動的に創発する。",
+    "location_and_distribution": "生物学的な脳／身体の内部に局在する。意識は人間という人格の創発的で分離不可能な特徴である（心身の統一）。",
+    "causation_and_functional_role": "意識（心的状態）は因果的に有効であり不活性ではない。下向き因果により、より高次の心的内容がより低次の神経過程を制約し、あるいはそれに影響を及ぼすことができる。",
+    "integration_or_binding": "統一された人間という人格は、意識が統一された全体として機能する複雑な階層システムとみなされ、システムの統一を反映する因果的力を可能にする。",
+    "information_flow_or_representation": "情報処理は生物学的な脳において生じ、その還元不可能な性質が非還元的レベルで保存されるような心的状態をもたらす。",
+    "evolutionary_account": "意識はもっぱら生物学的な脳の産物である。複雑性の進化が、創発的で還元不可能な心的性質へと至る。",
+    "core_claims_and_evidence": [
+      "意識的状態は全面的に物理的だが、物理法則による完全な説明を拒む還元不可能な心的性質をもつ",
+      "二元論を拒否し「魂」を生きた人格全体を指すものと解釈することで、神学的一貫性が達成される",
+      "還元不可能性は、還元主義的決定論に抵抗するために下向き因果と複雑性理論を援用することで確保される"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、神経科学的（両立可能性）、神学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "（因果的閉包性のような）哲学的論証に照らして概念的に検証可能であり、心と脳の強い相関を示す経験的証拠と一致する。",
+    "known_empirical_interventions_or_tests": [
+      "神経科学における局在研究（物理的依存性を論じるために用いられる）"
+    ],
+    "criticisms_and_tensions": "還元不可能性・随伴性・因果的有効性を組み合わせると非一貫性と心的性質の因果的無力さ（過剰決定の問題）に至る、と批判者は論じる。また「原理的に非還元的」を定義することへの懐疑にも直面する。",
+    "open_questions_and_limitations": "心的性質が、因果的に閉じた物理的世界の内部に厳密に存在しながら、いかにして原理的に非還元的でありうるのかについての、明確で矛盾のない説明を欠く。",
+    "ontological_coherence": "非二元論的人間論を提供する点で概念的整合性は高いが、因果的閉包性と性質の還元不可能性のメカニズムをめぐって重大な哲学的課題に直面する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありそう",
+      "rationale": "意識が、複雑な物理システム（「適切な種類」の物理）の還元不可能かつ全面的に物理的な創発的性質であるなら、それは十分に複雑な人工的基盤において実現可能なはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定、条件付きの例外あり",
+      "rationale": "意識は全面的に生物学的な脳に依存するため、身体の死とともに消滅する。存続には、神の介入（死者の復活）のような特定の外的メカニズムが必要となる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "究極的",
+      "rationale": "この理論はしばしば有神論的枠組み（キリスト教的人間論）の内部で展開され、心身を備えた人格への神の意図に由来する究極的な意味・目的・価値を支持する。"
+    },
+    "virtual_immortality": {
+      "stance": "きわめてありそう",
+      "rationale": "必要な複雑な物理システム（脳）の完全な複製を仮定すれば、創発的で還元不可能な心的性質もまた複製されねばならず、技術がその複雑性を達成できるなら一人称的連続性が確保される。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "重なり（しばしば性質二元論の一形態とみなされる）"
+      },
+      {
+        "name": "Emergence (Strong)",
+        "relationship": "影響（哲学的整合性のために下向き因果を必要とする）"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "批判（身体と魂という人間論的二元論への反対を明示的に示す）"
+      },
+      {
+        "name": "Polkinghorne's Dual-Aspect Monism",
+        "relationship": "両立可能（非二元論的な有神論的物理主義という目標と、情報／パターン／複雑性への依拠を共有する）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "For Non-reductive physicalism, Nancey Murphy",
+        "year": 2018
+      },
+      {
+        "title_with_names": "What is human mind in a theistic world?, Nancey Murphy",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Whatever Happened to the Soul?, Warren Brown, H. Newton Maloney, Nancey Murphy",
+        "year": 1998
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "タリスの反ニューロマニア懐疑論",
+    "summary": "この立場は、意識を説明しようとする自然主義的・唯物論的試みを批判し退けるものであり、神経活動を定量化することは、質的で主観的な経験へアクセスすることに根本的に自己矛盾すると論じる。脳は必要だが十分ではないと措定し、意識、自己、志向性の深い本質を還元不可能な謎のまま残す。",
+    "associated_thinkers": ["Raymond Tallis"],
+    "category": "チャレンジ理論",
+    "subcategory": "反ニューロマニア懐疑論",
+    "core_identity_tagline": "「損なわれざる謎としての意識」",
+    "classification_tags": [
+      "skepticism",
+      "anti-reductionism",
+      "phenomenology",
+      "critique"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は還元不可能な主観的実在（一人称的な現象的「現れ」）であり、客観的で定量的な物理科学の方法論によっては根本的にアクセス不可能かつ説明不可能である。",
+    "ontological_status": "存在論的不可知論／反唯物論（正当化：タリスは無神論者であり、超自然的説明、デカルト的二元論、汎心論を退け、代わりに意識の基盤の認識可能性についての深い懐疑論に与する）。",
+    "mind_body_relationship": "脳は意識にとって必要だが十分ではない。神経活動と現象的な現れとのあいだのいかなる同一性の主張も、両者が根源的に相互に似ていないため退けられる。",
+    "primitive_or_emergent_status": "還元不可能な謎（正当化：タリスは説明のギャップを唯物論的アプローチに内在する自己矛盾的な課題とみなし、その根源的本性の決定を妨げるとする）。",
+    "emergence_type": "該当なし（正当化：タリスは通常創発が論じられる還元主義的枠組みを批判する。物質的事実が主観的事実を説明できないことを指摘することで、弱い創発を暗に退ける）。",
+    "subjectivity_and_intentionality": "これらは唯物論によって説明されない核心的な心的特徴である。神経活動は心的存在者の「志向的関係（についてであること）」や自己の構築を説明できない。",
+    "qualia_account": "クオリア（質的な感じ）は主観的で一人称的な「現れ」であり、質量／エネルギーに焦点を当てる客観的アプローチには捉えられない。たとえば黄色に対応する神経活動は、黄色さの現象的経験とは物理的に似ていない。",
+    "ontological_commitments": "主観的意識（現象的な現前、行為者性、自己）は実在するが、遍在する謎のゆえに、いかなる特定の基底的存在論（物質的／非物質的）への与同も差し控えられる。",
+    "epistemic_access": "意識は主観的に（一人称で）アクセスされる。客観的／定量的な三人称的アプローチは、意識の質的な実在へのアクセスに不可避的に失敗する。",
+    "constituents_and_structure": "意識は同時的な統一性と多様性、過去の明示的な現前、そして未来を指し示す行為の開始を示すが、そのいずれも神経活動の記述では十分に捉えられない。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "批判は現象的意識、志向性、自己意識、行為者性に焦点を当て、これらが自然主義的理論によって説明されないと主張する。",
+    "distinctive_mechanism_or_principle": "提示されない。この理論は既存の提案された機構への批判として純粋に機能し、還元主義的な唯物論的機構が主観的実在を捉えそこなうと主張する。",
+    "dynamics_of_emergence": "不明。焦点は、現れることのない物理的対象と主観的経験とのあいだのギャップを架橋することにおける唯物論的理論の説明上の失敗にある。",
+    "location_and_distribution": "意識は「頭蓋内の」神経活動へ還元できない。脳は必要だが不十分とみなされる。",
+    "causation_and_functional_role": "唯物論的説明は、不在の未来を指し示す行為の開始を説明できず、意識が神経活動のみによっては説明されない能動的で因果的な役割を果たすことを含意する。",
+    "integration_or_binding": "意識的瞬間の同時的な統一性と多様性は、既存の神経学的アプローチによって説明されない核心的特徴である。",
+    "information_flow_or_representation": "唯物論は心的存在者の「志向的関係（についてであること）」を説明できず、客観的科学にはアクセスできない表象的ないし志向的構造を含意する。",
+    "evolutionary_account": "意識の進化は問い直される。タリスは、初期の有機体の原初的な感受性が、複雑な意識の出発点となるに足る生存上の利益を与えるかについて懐疑的である。",
+    "core_claims_and_evidence": [
+      "客観的な神経活動を用いて主観的意識を説明するという課題は自己矛盾的であり、不可避の失敗に終わる。",
+      "対象の現象的な現れは、それと相関する神経活動とは根源的に似ていない。",
+      "唯物論的・自然主義的説明は、自己、志向性、行為者性の核心的特徴を説明できない。",
+      "原初的感受性のいわゆる進化上の利益は疑わしく、意識の謎を損なわれざるまま残す。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的分析、論理的批判、および現象学的評価。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的批判（正当化：この理論の第一の目的は、新たな経験的に検証可能なモデルを提案することではなく、現在利用可能な経験的理論の概念的限界を示すことにある）。",
+    "known_empirical_interventions_or_tests": "タリスによって提案されたものはない。（正当化：タリスは神経活動と意識のあいだに観察される弱い相関への依拠を批判する。）",
+    "criticisms_and_tensions": "タリスは提案された代替案の根本的な弱点を認める。すなわち、二元論は「見込みのない企て」であり、汎心論は結合問題（心の塵がいかに主体を形成するか）を解決できず、超自然的説明は不確実性を矛盾した仕方で包み直したものである。",
+    "open_questions_and_limitations": "この理論は懐疑論に帰結し、現象的意識と知識の基盤が究極的には人間の理解を逃れることを認める。",
+    "ontological_coherence": "心身問題の深い手に負えなさを保持し、現在のあらゆる積極的な解決を不十分として退ける懐疑的な挑戦として整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "いいえ",
+      "rationale": "意識は純粋に物理的な作用では説明できない還元不可能な主観的性質と志向性を必要とするため、（物理的／機能的記述に基づいて作動する）人工的な計算システムは真の意識を達成できない。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確定",
+      "rationale": "タリスは二元論と超自然的な答えを退けるが、その存在論的不可知論と「何ごとも可能である」という信念は、存続の非唯物論的な可能性を排除できないことを含意する。ただし彼はそれを支持する積極的な理論を提供しない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的／未規定",
+      "rationale": "この理論は、意識、自己、人間的特徴を説明しないまま残す自然主義的説明を退け、暗に人間主義的に構成される意味への扉を開くが、究極的で宇宙的な目的は提供しない。"
+    },
+    "virtual_immortality": {
+      "stance": "いいえ",
+      "rationale": "もし意識が脳活動へ還元できず、（現象的「現れ」のような）根源的に非唯物論的な特徴を必要とするならば、神経基盤の機能的複製は意識的な自己の複製に失敗するであろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "You won’t find consciousness in the brain",
+        "year": 2010
+      },
+      {
+        "title_with_names": "The how & why of consciousness",
+        "year": 2023
+      },
+      {
+        "title_with_names": "What is Consciousness? (Closer To Truth)",
+        "year": 2011
+      },
+      {
+        "title_with_names": "The Mystery of Consciousness (Conclusion: remains intact)",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "ヴァン・インワーゲンのキリスト教的唯物論と死者の復活",
+    "summary": "この理論は、人間という人格が全面的に物質的存在であるとするキリスト教的唯物論の一形態を提唱し、それによって哲学的根拠と聖書的根拠の双方から実体二元論を退ける。死をまたぐ人格的同一性は、神が元の物質的身体の物理的かつ因果的に連続した「むき出しの核」を、最終的な復活まで保持することによって維持される、と論じる。",
+    "associated_thinkers": ["Peter van Inwagen"],
+    "category": "非還元的物理主義",
+    "subcategory": "キリスト教的唯物論",
+    "core_identity_tagline": "聖書的復活と和解した唯物論",
+    "classification_tags": [
+      "christian philosophy",
+      "materialism",
+      "personal identity",
+      "theology",
+      "resurrection"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識をもつ人格は物質的なものであり、人格的同一性を保持するためには物質的かつ因果的な連続性を維持しなければならない。",
+    "ontological_status": "キリスト教的唯物論（同一性の連続のために神的作用を組み込んだ独特の物理主義的立場）。",
+    "mind_body_relationship": "同一説。人格（心を含む）は物質的なものと同一であるが、長期的な存続の正確な機構は神的な保持に依拠する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "本理論は特定の神経学的創発機構よりも存在論的連続性（神による物質的存在の保持）に焦点を当てるが、生存中の意識については物理主義的／唯物論的説明を想定する。",
+    "subjectivity_and_intentionality": "主観性と志向性は物質的な人格／脳の性質であり、標準的な唯物論的立場と整合的である。本理論は生存中の意識機能よりも主として死後の連続性に焦点を当てるためである。",
+    "qualia_account": "本理論は主として存在論的連続性を扱うが、その根底にある唯物論的基盤と整合的に、質的経験が物質的有機体の全面的に物理的な現象であると暗黙のうちに想定する。",
+    "ontological_commitments": "物質的な人格／身体、原子、および（物質的かつ因果的連続性を確保する）神の力。魂のような非物理的実体を退ける。",
+    "epistemic_access": "哲学的推論と神学的釈義、とりわけ死と復活に関する聖書テキストへの着目を通じてアクセス可能である。",
+    "constituents_and_structure": "基本的構成要素は物質的身体、とりわけ死後に同一性の連続を維持する部分であり、「グムノス・コッコス」（むき出しの核あるいは裸の種子）によって象徴される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "人格的同一性、死後の存続、神学的整合性。",
+    "distinctive_mechanism_or_principle": "神が元の物質の小さな部分（むき出しの核）を保持することによって、死と復活のあいだの人格の物質的かつ因果的連続性を確保する機構。",
+    "dynamics_of_emergence": "意識は生存中の複雑な物質的有機体から生じる。死をまたぐその存続は連続的ではなく、神が物質的基盤の一要素を保持することによって確保される。",
+    "location_and_distribution": "生存中は物理的な身体／脳に所在する。同一性の連続は、死後に「グムノス・コッコス」を保持することによって維持される。",
+    "causation_and_functional_role": "意識と人格の心的生活は、物質的存在の性質であるため、物理的領域の内部で因果的に効力をもつ。",
+    "integration_or_binding": "生存中の意識の整合性は、唯物論的枠組みと整合的に、物質的身体内の神経過程を通じて達成されると想定される。",
+    "information_flow_or_representation": "意識的処理は、物質的な脳内の機能的表象と情報の流れに基づく。",
+    "evolutionary_account": "生存中の意識の創発は、その唯物論的立場が支持するとおり、生物学的・進化的過程に従う。",
+    "core_claims_and_evidence": [
+      "人間という人格は物質的なものであり、実体二元論を退ける。",
+      "新約聖書の復活テキストに対する伝統的な二元論的理解は錯綜しており、唯物論的な読解が支持される。",
+      "神は復活のための物質的かつ因果的連続性を確保するために、人格の何らかの物理的な「グムノス・コッコス」を保持しなければならない。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的議論、神学的／聖書的釈義。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／概念的。復活に関する中心的主張は哲学的／神学的議論に依拠しており、科学によって経験的に検証可能ではない。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "本理論は、原子が流動し広く拡散した人格を全能性がどのように再組成しうるか（無数の複製という難問）を説明することに困難を抱える。さらに、不死の魂に反対する議論は、多くのキリスト教二元論者を説得するには至らなかった。",
+    "open_questions_and_limitations": "身体の原子が絶えず流動し離散するなかで、神が「グムノス・コッコス」を保持し人格的同一性を確保する正確な機構は、未解決の要件のままである。",
+    "ontological_coherence": "唯物論をキリスト教教義と和解させる点で整合的であるが、物質的連続性を確保するために超自然的要素を導入する機構（神的保持）に依拠する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "唯物論的理論として、意識は究極的には複雑な物理的配置の産物であり、必要な物理的基盤が達成されれば、AIは原理的に意識を具現化しうるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "肯定（神的介入を条件とする）",
+      "rationale": "本理論の主たる目的は、物質的な人格が聖書的な復活と死後の存続を達成するための機構（神がむき出しの核を保持すること）を提供することにある。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙的／神学的",
+      "rationale": "枠組み全体が死者の復活への神学的コミットメントによって支えられており、神的計画の内部における究極的な意味と目的を含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "人格は物質的なものであるため、脳の完全な物理的状態をアップロードすれば、原理的には意識的自己の機能的複製が生じ、仮想的不死が可能となるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "批判" },
+      { "name": "Papineau’s Mind-Brain Identity", "relationship": "重なり" },
+      {
+        "name": "Murphy’s Non-Reductive Physicalism",
+        "relationship": "両立可能"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "重なり" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism and Materialism: Athens and Jerusalem?",
+        "year": 1995
+      },
+      {
+        "title_with_names": "A materialist ontology of the human person",
+        "year": 2007
+      },
+      {
+        "title_with_names": "What is the nature of personal identity?",
+        "year": 2007
+      }
+    ]
+  }
+}

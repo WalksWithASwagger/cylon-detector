@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "注意スキーマ理論",
+    "summary": "この理論は、脳が自らの注意の過程について迅速かつ簡略化された内的モデル――注意スキーマ――を構築するときに意識が生じると主張する。脳はこの内的表象を、根本的には計算論的な産物であるにもかかわらず、主観的で非物理的な本質ないし「自己戯画」として誤って解釈し報告する。",
+    "associated_thinkers": [
+      "Michael Graziano"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "注意の進化した自己戯画としての意識",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "functionalism",
+      "evolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳が自らの注意のメカニズムについてもつ内的表象ないし簡略化されたモデル（注意スキーマ）と同一視され、これは高階思考の一具体例である。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "意識は、生物学的な情報処理機械（脳）が自らの内的データを評価することによって生成する報告であり、したがって心的状態は計算論的かつ全面的に物理的である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性（「幽霊のような非物理的本質」という感覚）は、脳の内的な注意スキーマが生成する誤導的な報告である。志向性は暗黙のうちに説明される。というのも、結果として生じるモデルの主要な機能は、世界における行動を制御するために注意を監視することだからである。",
+    "qualia_account": "意識は「自己戯画」ないし非物理的本質の錯覚的な報告として記述されており、ダニエル・デネットの見解に類する、収縮主義的ないし錯覚主義的なクオリア論を示唆する。",
+    "ontological_commitments": "生物学的な脳、情報処理メカニズム、および内的表象（注意スキーマ）。",
+    "epistemic_access": "意識は、システム自身が内省（自らの内的データの評価）を介して接近し、その結果としてシステムは意識を主張するに至るが、その真の計算論的性質は三人称的な科学的分析（科学）によってのみ決定されうる。",
+    "constituents_and_structure": "脳自身の注意メカニズムを監視し調整するために発達させた計算論的モデルないし表象（注意スキーマ）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（生成された内的報告／主張として）、注意、行動制御。",
+    "distinctive_mechanism_or_principle": "制御工学の原理に根ざした、注意の過程の簡略化された内的モデル（注意スキーマ）の構築と維持。",
+    "dynamics_of_emergence": "意識は動的で進化した形質であり、内的な注意スキーマを生成する計算論的戦略に由来する。",
+    "location_and_distribution": "脳という生物学的な情報処理システムの内部に位置づけられる。",
+    "causation_and_functional_role": "注意スキーマの機能的役割は、世界における行動を制御するために脳の注意を監視し調整することである。結果として生じる能力によって、システムは意識を主張できるようになる。",
+    "integration_or_binding": "感覚データを注意スキーマへと統合する正確なメカニズムは典拠では詳述されていないが、この理論は注意全体を監視し調整するために必要な統合を含意している。",
+    "information_flow_or_representation": "情報処理が中心にある。脳は、自らの状態についての簡略化された表象（注意スキーマ）を発達させることによって膨大な情報を扱わねばならない。",
+    "evolutionary_account": "意識という形質は、適応上の利益をもたらすために進化した。すなわち、環境における行動を効率的に制御するために注意を監視し調整することである。",
+    "core_claims_and_evidence": [
+      "脳は自らの注意過程についての「手早く粗いモデル」（注意スキーマ）を発達させる。",
+      "脳はこの内的モデルを「幽霊のような非物理的本質」ないし「自己戯画」として報告する。",
+      "意識を主張する能力は、制御工学に由来する計算に基づいている。"
+    ],
+    "basis_of_belief_or_evidence_type": "神経生物学的、計算論的、進化論的、哲学的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "この理論は、システムがどのように意識を「主張」しうるかを説明するが、類似の機能主義的モデルと共通する一般的な限界に直面する。すなわち、実際の主観的な感じ（「誰かそこにいるのか」問題）を決定的に証明ないし説明することであり、これは提唱者自身の認めるところによっても永遠に不確実なままである。",
+    "open_questions_and_limitations": "システムは内省に依拠しているため、自らの意識の主張がもっぱら計算に基づいていることを内的には決定できない。外部の観察者は、システムに内的経験があるかどうかを真に知ることは決してできない。",
+    "ontological_coherence": "唯物論的枠組みの内部では高度に整合的であり、非物理的な実体に訴えることなく意識の主張を説明する他の機能主義的・計算論的アプローチと軌を一にする。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "意識は計算論的過程（注意スキーマの創出）として定義されるため、原理的には、必要な計算論的アーキテクチャを実装した人工システムは意識をもちうる。さらに観察者は、意識をもつかのように振る舞う十分に複雑なAIシステムに対して、不可避的に意識の社会的帰属を行うであろう。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定する",
+      "rationale": "唯物論的／神経生物学的理論として、意識は物理的な基盤（生物学的な情報処理機械）に結びついており、身体の崩壊を超えた存続を排除する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "意識は適応的・進化論的な目的（行動制御のために注意を監視し調整すること）をもたらすが、唯物論と一貫して、いかなる究極的ないし宇宙的な意味も含意しない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "意識が計算論的構造（注意スキーマ）として実現されるならば、そしてこの構造と関連する情報処理システムを非生物学的媒体へ正確にアップロードできるならば、仮想的不死は理論的に可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "重複"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "両立的"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "True nature of consciousness: solving the biggest mystery of your mind, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rethinking Consciousness: A Scientific Theory of Subjective Experience, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Can consciousness be non-biological?, M. Graziano",
+        "year": 2014
+      }
+    ]
+  }
+}

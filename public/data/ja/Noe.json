@@ -1,0 +1,117 @@
+{
+  "id_and_class": {
+    "theory_title": "感覚運動的（エナクティブ）意識理論（ノエの『脳より心が大きい理由』的見解）",
+    "summary": "この理論は、意識が脳の内部でのみ生じるという想定を拒否し、内的な脳過程だけでは経験を生み出すのに不十分であると論じる。意識は根本的に、脳・身体・環境のあいだの動的で連続的な熟練した相互作用を通じて演じ出される活動ないし過程である。",
+    "associated_thinkers": [
+      "Alva Noë",
+      "Kevin O’Regan"
+    ],
+    "category": "唯物論",
+    "subcategory": "関係論的",
+    "core_identity_tagline": "能動的な世界との相互作用としての意識",
+    "classification_tags": [
+      "relational",
+      "embodied",
+      "enactive",
+      "externalism",
+      "activity"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、世界を注視し、世界と接触を保ち、世界に注意を向け、世界と相互作用する活動として同定される。それは、能動的な関与によって定義される、世界へ接近しそれが有機体に対して「立ち現れる」ことを可能にする過程である。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "心は、脳・身体・環境が協働することによって生み出される活動である。脳は必要な機械的基盤を提供するが、意識にとって十分ではない。それは記号の座であって、意識そのものではない。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性（世界が「我々に対していかに立ち現れるか」）と志向性は、文脈・関心・知識・理解に影響された、有機体の能動的で熟練した環境への関与から生じる。",
+    "qualia_account": "クオリアは、連続的な世界との相互作用から生じる実生活の経験の密度・詳細・頑健性の一部であることが含意され、これが真の意識を単なる夢の経験から区別する。",
+    "ontological_commitments": "物理的環境、生物学的な脳／身体、そしてそれらのあいだの動的な相互作用／活動。",
+    "epistemic_access": "接近には、頭の内部ではなく、世界における有機体の能動的な役割と技能の獲得へと目を向けることが必要であり、焦点を内的な脳の出来事から外的な行為と相互作用へと移す。",
+    "constituents_and_structure": "脳、身体の感覚運動系、そして外的環境からなる、動的で相互接続されたシステム。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、行為主体性、アクセス（達成としての）",
+    "distinctive_mechanism_or_principle": "有機体とその周囲とのあいだの能動的で連続的な関与。意識は内的な脳状態だけにではなく、この相互作用／活動のループの内に位置づけられる。",
+    "dynamics_of_emergence": "意識は、世界と接触を保ち世界と相互作用する動的な過程であり、有機体によって連続的に演じ出される。",
+    "location_and_distribution": "脳・身体・環境のシステム全体にわたって分布し、「頭の外」に位置づけられる。",
+    "causation_and_functional_role": "意識は能動的であり、有機体が世界へ接近し世界を演じ出すことを可能にし、生存と理解のために熟慮的で文脈的で熟練した行為を導く役割を果たす。",
+    "integration_or_binding": "統合は、有機体の熟練した能動的な関与と世界への注意によって、世界が「我々に対して立ち現れる」ことの整合性を通じて達成される。",
+    "information_flow_or_representation": "情報は有機体の相互作用と技能によって能動的に取得され形づくられ、環境の意味を規定する。",
+    "evolutionary_account": "意識は、世界への接近を可能にし、身体化された熟練した相互作用を通じて意味を媒介するために生じ、生存にとって強い適応上の利点を示唆する。",
+    "core_claims_and_evidence": [
+      "意識は世界との連続的な関与という活動である。",
+      "（夢とは対照的な）実生活の経験の密度と頑健性は、外的相互作用の必要性を支持する。",
+      "脳は記号の機械的な座であるが、活動こそが意識そのものである。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的論証、現象学的洞察、伝統的内在主義への批判"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要な緊張は、相互作用が意識を単に可能にしあるいはそれに影響するのではなく、いかにして強い意味で意識であるのかを正確に説明することにある。内的な脳の出来事の研究が意識の理解に不十分であるという主張を批判者は拒否する。",
+    "open_questions_and_limitations": "この理論は、外的な相互作用／活動がいかにして内的経験ないしクオリアを構成するのか、またこの活動を単なる無意識的処理から厳密にいかに区別するのかについて、明確な定義を欠く。",
+    "ontological_coherence": "外在主義的で身体化された哲学的枠組みの内部では整合的であり、内在主義的唯物論と二元論の基礎的前提に直接異議を唱える。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確実／条件付き",
+      "rationale": "標準的な計算では不十分である。意識が可能となるのは、AIシステムが完全な身体化・技能・世界との連続的で自律的な相互作用を達成する場合（生きた有機体に課されるのと同じ要求を満たす場合）に限られる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定",
+      "rationale": "意識は、脳と身体が世界と相互作用する連続的で能動的な物理的ループから分離不可能であり、その停止は意識的活動の終焉を意味する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的のみ",
+      "rationale": "意識は行為主体が文脈・知識・理解を獲得することを可能にし、相互作用に意味を割り当て能動的な行動を導く能力を与えるが、超越的な目的を含意しはしない。"
+    },
+    "virtual_immortality": {
+      "stance": "きわめて信じがたい",
+      "rationale": "脳の内的過程（「機械的な座」）だけをアップロードしても、意識と定義される、脳に束縛されない外的で連続的な相互作用的活動を捉えることはできない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Enactivism (Varela & Thompson)", "relationship": "構成的枠組み" },
+      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "基礎的影響" },
+      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "哲学的影響" },
+      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "部分的に両立可能／重なり" },
+      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "関連／補完的（能動的知覚、共有回路モデル）" },
+      { "name": "Internalist Materialism", "relationship": "批判" },
+      { "name": "Dualism", "relationship": "批判" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
+        "year": 2010
+      },
+      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Is consciousness an illusion, Alva Noë",
+        "year": 2007
+      },
+      {
+        "title_with_names": "O’Regan, K., & Noë, A. A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–1031.",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Noë, A. Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness.",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Varela, F., Thompson, E., & Rosch, E. The Embodied Mind: Cognitive Science and Human Experience.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Gibson, J.J. The Ecological Approach to Visual Perception.",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Hurley, S. L. (1998). Consciousness in Action. Harvard University Press."
+      },
+      {
+        "title_with_names": "Hurley, S. (2008). The Shared Circuits Model (SCM): How control, mirroring, and simulation can enable imitation, deliberation, and mindreading. Behavioral and Brain Sciences, 31(1)."
+      }
+    ]
+  }
+}

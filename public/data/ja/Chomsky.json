@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "チョムスキーの言語と意識",
+    "summary": "この視座は、言語能力というレンズを通じて意識を分析し、言語(とりわけ普遍文法／深層構造)が生得的かつ無意識的であり、それによって内的な心的過程を照らし出すと論じる。チョムスキーは意識の特定のメカニズムを提唱するのではなく、「ハードプロブレム」の哲学的整合性を批判し、科学が「身体」や「物質」が真に何であるかについての確定した固定的観念をもたないため、それは擬似問題であると論じる。",
+    "associated_thinkers": [
+      "Noam Chomsky"
+    ],
+    "category": "唯物論の諸理論",
+    "subcategory": "言語との関係",
+    "core_identity_tagline": "意識は拡張された物理学の謎である",
+    "classification_tags": [
+      "language",
+      "physicalism",
+      "mysterianism",
+      "universal grammar",
+      "pseudo-problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、物理主義的存在論に従い、もっぱら脳において生成される特徴と同定される。しかしその特定の同一性は、科学が物質の真の拡張された本性を発見するまで定式化できず、意識はこれら新たに発見される「物質的」性質へと同化されるであろうと示唆される。",
+    "ontological_status": "非正統的な唯物論／物理主義",
+    "mind_body_relationship": "心はもっぱら脳において生成される(物理主義的コミットメント)。伝統的な心身問題は整合的に定式化できない。というのも「身体」(物質)の存在論的地位が現行の科学によって未知かつ未定義だからであり、この問題は拡張された未来の物理主義的同一性を通じてのみ解消されることを含意する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "未定義／暗黙的な弱い創発。この分類は、チョムスキーが物理主義的・唯物論的コミットメントを保持し、物質概念の拡張に続いて意識が「物理学の中核的概念」に同化されると期待し、強く創発的で非物理的な法則を措定する必要を避けていることから推論される。",
+    "subjectivity_and_intentionality": "焦点が特定の現象的機構の詳述ではなく基礎的な哲学的問題の解体にあるため、深くは明示的に扱われない。志向性は、彼の言語理論(深層構造)が行動主義に対立する内的過程に関わる点で暗黙的に関連する。",
+    "qualia_account": "(クオリアに関わる)ハードプロブレムは、一般に「なぜ物事は起こるのか」と問うのに似て、整合的に述べることも論理的に答えることもできない「擬似問題」として斥けられ、それゆえ現象的性質の還元的説明の必要を不要とする。",
+    "ontological_commitments": "物理的な脳の過程、生得的な言語構造(深層構造)、そして心的なものを包摂するであろう、拡張された未発見の物質的世界の定義。",
+    "epistemic_access": "外的な顕現に依拠する行動主義と対照的に、内的過程を検討することを通じてアクセスされる。究極的なアクセスは、物質の真の本性を定義する将来の科学的進展に依存する。",
+    "constituents_and_structure": "生得的な言語能力(普遍文法／深層構造)は、意識の本質に関わる中核的な組織構造である。意識それ自体は物理的な脳に構造的に依存する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意識の複雑な表現や潜在的な自己意識といった、言語に支えられた諸能力。純粋な現象的意識は概して回避されるか、哲学的な罠として斥けられる。",
+    "distinctive_mechanism_or_principle": "人間に固有の、基盤にある生得的な言語的深層構造こそが、彼の著作で論じられる主要な心的現象であり、意識それ自体は現時点では科学的な謎のままであるとしても、意識にとって決定的な内的過程への洞察を提供する。",
+    "dynamics_of_emergence": "おそらく物理的な脳機能に結びついた動的過程であるが、チョムスキーが厳密に漸進的な心的発達の理論に対する異論の声として引かれることから、純粋に漸進的ではないかもしれない。",
+    "location_and_distribution": "もっぱら脳において生成される。",
+    "causation_and_functional_role": "言語能力は基礎的であり、内的過程の検討を要する。意識の因果的影響は先送りされる。というのも因果的記述に要される物質の究極的本性が現時点では未知だからである。",
+    "integration_or_binding": "特定されない。この理論は内的な構造的メカニズムを提供するのではなく、基礎的前提の哲学的な不整合に焦点を置く。",
+    "information_flow_or_representation": "言語習得は無意識的で生得的な深層構造を用いる。情報の流れは内的過程の観点から分析され、行動主義的な類比を斥ける。",
+    "evolutionary_account": "意識は進化の物理的産物であるが、その系統発生的発達の時間的経過や様態は、漸進主義的な見解と対照的に、非漸進的であるかもしれない。",
+    "core_claims_and_evidence": [
+      "心はもっぱら脳において生成される(唯物論的存在論)。",
+      "心身問題は「身体」の概念が科学によって明確化されるまで定式化できない。",
+      "生得的な「深層構造」に基づく言語能力は、内的な心的現象の研究に革命をもたらした。"
+    ],
+    "basis_of_belief_or_evidence_type": "科学の限界、とりわけ「物理的なもの」の定義に関する哲学的・概念的分析。証拠は理論言語学(普遍文法)から引かれる。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能。中心的教義は現行の科学的・存在論的定義に対する哲学的な挑戦を含む。意識が将来の物理学に同化されることの経験的検証は現時点では不可能である。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "批判者はチョムスキーを「神秘主義者(mysterian)」に分類し、問題を本質的に解決不可能(あるいは不適切に定式化されている)として斥けることは非生産的だと論じる。さらに、問題に明確な内容が欠けるならば、その帰結として生じる哲学的立場(彼自身のものを含む)にも明確な内容が欠けることになる。",
+    "open_questions_and_limitations": "「物質」の究極的本性は未発見かつ未定義のままである。チョムスキーは、人間の知性が意識を含む実在の本性についての真正な謎を根本的に解きうるかについて確信がない。",
+    "ontological_coherence": "整合的。この理論は、「物理的なもの」の定義に関する哲学的懐疑を用いて意識の解決を先送りすることを正当化することで一貫性を達成し、それによって現在の説明的ギャップを認めつつ唯物論的立場を保持する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是(条件付き)",
+      "rationale": "基盤にある物理主義的コミットメントを踏まえれば、AIの意識は原理的に可能でなければならない。生得的な言語構造や深い計算能力が意識の鍵であるならば、大規模言語モデルの進展は人工的実現の見込みを高めるであろう。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "存在論は厳格に唯物論的である。すなわち心はもっぱら脳において生成される。実体二元論と非物理的な魂の概念は斥けられ、死後の存続は不可能となる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "唯物論的枠組みの内部で定式化された攻撃的な批判として、この理論は究極的で宇宙的な意味や目的が非合理化され、人間が創り出した意味のみが残るという物理主義的結論に沿う。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "意識が全面的に物理的であり脳の過程に還元可能である(「物理的なもの」が再定義された後で)ならば、技術が適切な水準で必要な物理的関係を再現できると仮定すれば、一人称的な心的自己はいずれアップロード可能でなければならない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mysterianism (McGinn)",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Searle’s Language and Consciousness",
+        "relationship": "対照的"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Language and Problems of Knowledge: the Managua Lectures",
+        "year": 1987
+      },
+      {
+        "title_with_names": "New Horizons in the Study of Language and Mind",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Why Only Us: Language and Evolution, Robert Berwick and Noam Chomsky",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Chomsky on consciousness, Edward Feser",
+        "year": 2022
+      }
+    ]
+  }
+}

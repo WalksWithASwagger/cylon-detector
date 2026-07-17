@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "ヴァレラの神経現象学",
+    "summary": "神経現象学は、生きられた経験に現前する一人称的現象（現象学）と、認知科学によって確立される三人称的な神経現象とのあいだに相互的な制約を打ち立てようとする方法論的アプローチである。その目標は、厳密な科学と、人間の経験の規律ある吟味とを結び合わせ、経験の構造を科学的探究の中核に据えることにある。",
+    "associated_thinkers": ["Francisco Varela"],
+    "category": "唯物論",
+    "subcategory": "身体化とエナクティブ",
+    "core_identity_tagline": "経験と脳の相互制約としての意識",
+    "classification_tags": [
+      "phenomenology",
+      "methodological",
+      "embodied",
+      "first-person",
+      "dissolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、直接的な現象の場としての還元不可能な本性によって同定され、その場は相関する神経生物学的探究の指針あるいは制約として働く。",
+    "ontological_status": "方法論的物理主義",
+    "mind_body_relationship": "共決定／相互制約（現象的領域と神経生物学的領域には同等の地位が与えられ、互いに相補的に照らし合う）。",
+    "primitive_or_emergent_status": "方法論的／不可知論的",
+    "emergence_type": "該当なし",
+    "subjectivity_and_intentionality": "主観性（一人称的経験）は還元不可能な出発点であり探究の中心的焦点として捉えられ、科学的説明に「人間の生」を回復させるために不可欠である。",
+    "qualia_account": "クオリアは、厳密に吟味され神経生物学的データと相関づけられねばならない、直接的経験の還元不可能で生きられた質として組み込まれる。",
+    "ontological_commitments": "一人称的経験／現象、神経生物学的現象（認知科学のデータ）、および「区別の行為」。",
+    "epistemic_access": "厳密な現象学的方法（例えば経験の規律ある吟味）を三人称的な神経生物学的・認知科学的方法論と編み合わせることによって達成される。",
+    "constituents_and_structure": "人間の経験そのものの構造。組織化の原理は「区別の行為」である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの、生きられた経験、行為、知覚、情動。",
+    "distinctive_mechanism_or_principle": "厳密な一人称的現象学的説明と三人称的な神経生物学的測定とのあいだの、相補的で相互に制約し合う関係。",
+    "dynamics_of_emergence": "意識は、行為・知覚・情動の動態と結びついた、動的で生きられた質である。本アプローチはハードプロブレムを開かれた研究プログラムへと変換する。",
+    "location_and_distribution": "身体化された系全体に分布し（身体と環境を通じて枝分かれし）、頭の内側の脳過程に厳密に局在するのではない。",
+    "causation_and_functional_role": "機能的役割は、人間の生と生きられた経験を説明へと再び挿入し、経験の構造を科学的営みの中心に据えることにある。",
+    "integration_or_binding": "行為・知覚・情動の動態を包含する、身体化され生きられた経験に固有の統一性によって、暗黙のうちに扱われる。",
+    "information_flow_or_representation": "心の計算主義的哲学において伝統的に定義される心的内容よりも、経験の現象と構造に焦点を当て、これらの構造を相関する神経生物学的現象と結びつける。",
+    "evolutionary_account": "オートポイエーシスおよび生命系の起源と関連する。非生命から生命への移行を可能にするのと同じ過程が、生命から心への移行を可能にするかもしれない（関連する思想家であるエヴァン・トンプソンが措定するとおり）。",
+    "core_claims_and_evidence": [
+      "直接的経験は、科学的探究を導かねばならない還元不可能な現象の場である。",
+      "現象学的説明と神経生物学的説明は、共決定的で相互に照らし合うループにおいて対等なパートナーとして機能しなければならない。",
+      "本アプローチは、理論的な修正策を見いだすのではなく方法論を変えることによって、伝統的なハードプロブレムを解消する。"
+    ],
+    "basis_of_belief_or_evidence_type": "現象学的、概念的、経験的／神経生物学的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能／方法論的（本アプローチは神経現象学的実験室のような新たな道具を用いて、開かれた研究プログラムを定義する）。",
+    "known_empirical_interventions_or_tests": [
+      "一人称的な経験的方法（例えば瞑想）を三人称的な脳の探究と編み合わせること（神経現象学的実験室）"
+    ],
+    "criticisms_and_tensions": "本アプローチはしばしば見過ごされ、あるいは誤解される。課題は、経験が科学を導くという相補的な方向が、実践において無視されないようにすることにある。二元論的思考様式を乗り越えようとするが、これを一部の批判者は還元性が不十分、あるいは二元論性が不十分と見なすかもしれない。",
+    "open_questions_and_limitations": "本枠組みは実存的／方法論的にハードプロブレムを解消することを目指しており、それゆえ一次的意識の物理的起源についての伝統的な知的解決を提供しない。",
+    "ontological_coherence": "高い。本枠組みは、二つの異なる領域（一人称と三人称）を方法論的制約を通じて調和させることにより、二元論的モデルに内在する分岐問題と説明のギャップを克服するために特別に設計されている。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "起こりにくい",
+      "rationale": "意識は身体化され生きられた経験と、生物学的過程に結びついた動態に大きく依拠しており、単なる計算的複製では不十分となる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "本理論は唯物論／身体化理論の下に分類され、生きている生物学的有機体に根ざしそれを通じて枝分かれするものとして意識を捉えるため、身体の死とともに停止することを含意する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的／実用主義的",
+      "rationale": "本方法論は科学的説明に「人間の生」と主観的経験を回復させようとし、宇宙的目的を措定することなく、純粋な機能による疎外よりも生きられた経験を重んじることで意味を提供する。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "意識が脳を超えて広がる身体化され生きられた経験に根ざすのであれば、神経的／機能的データの単純なアップロードでは、有機体と環境の関係に必要な動態を捉えそこなうことになる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Thompson’s Mind in Life",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Bitbol’s Radical Neurophenomenology",
+        "relationship": "拡張／精緻化"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "カテゴリーの重なり"
+      },
+      {
+        "name": "Chalmers's Hard Problem",
+        "relationship": "批判／解消のための枠組み"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neurophenomenology: a methodological remedy for the hard problem",
+        "year": 1996
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "At the cradle of things - the act of distinction and Francisco Varela’s non-dualist thought, S. Vörös",
+        "year": 2023
+      }
+    ]
+  }
+}

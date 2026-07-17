@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "サールの言語と意識",
+    "summary": "サールは、言語は人間の意識にとって決定的に重要であり、意識的経験を形づくり豊かにする役割を果たすと論じる。この関係は、前言語的な意識が言語を可能にし、その言語がひるがえって意識の構造を精緻化するという進化的な「ブートストラップ効果」とみなされる。",
+    "associated_thinkers": ["John Searle"],
+    "category": "唯物論",
+    "subcategory": "言語との関係",
+    "core_identity_tagline": "「意識を増強し形づくるものとしての言語」",
+    "classification_tags": [
+      "language",
+      "intentionality",
+      "biological naturalism",
+      "symbolic communication"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳内の生物学的な神経過程によって引き起こされ、そこで実現される、実在的で主観的な質的気づきの状態として同定される。次いで言語は、複雑で高次の意識的内容を創り出し構造化する機構として機能する。",
+    "ontological_status": "物理主義／生物学的自然主義（意識は存在論的に還元不能で主観的な脳の生物学的特徴である）",
+    "mind_body_relationship": "意識的状態は、より低次の脳過程によって引き起こされる高次のシステム的特徴として脳内で実現される。心は存在論的には還元不能（主観的）であるが、因果的には脳に還元可能である。言語能力は、実現される心的状態の範囲を大きく拡張する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "システム的／生物学的創発（意識は神経の組織化によって引き起こされる高次の特徴である。それは消化や光合成のように自然界の一部とみなされる。）",
+    "subjectivity_and_intentionality": "意識は存在論的に主観的であり、主観によって経験されるものとしてのみ存在する。動物が基本的な志向的状態をもつにもかかわらず、言語は、非言語的な動物には利用できない複雑で象徴的な志向的状態（たとえば所得税の計算や詩作）を可能にする。",
+    "qualia_account": "意識的状態は質的であり、内在的な「質的な感じ」（クオリア）をもつ。これらの質的状態は実在的で主観的、かつ存在論的に還元不能であるが、脳によって因果的に産出される。言語はこれらの意識的経験を形づくり豊かにする。",
+    "ontological_commitments": "生物学的な脳、神経過程、因果的に有効な意識的状態（実在的で主観的な高次のシステム的特徴としての）、および言語的／象徴的構造。",
+    "epistemic_access": "一人称的な主観的経験（現象学）を通じてアクセスされ、意識を引き起こし実現する脳過程の三人称的な科学的探究を通じて研究される。",
+    "constituents_and_structure": "意識は脳のシステム的特徴として実現される。言語は意識に精緻な構造を提供し、内的統語法を介した象徴の並べ替えによって複雑な思考を可能にする。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、志向性、自己意識（とりわけ言語によって可能となる高次の自己意識）。",
+    "distinctive_mechanism_or_principle": "前言語的な意識が言語能力を生み出し、その言語能力が次いで象徴的構造と内的統語法を通じて意識を再帰的に豊かにし複雑化する進化的な「ブートストラップ効果」。",
+    "dynamics_of_emergence": "動的な過程。意識と言語の進化は、連続的に強化し合う複合的な効果である。",
+    "location_and_distribution": "生物学的な脳に全面的に局在する。",
+    "causation_and_functional_role": "意識的状態は因果的に有効である。言語は複雑で抽象的な計画と象徴的思考を可能にし、膨大な認知的な力を付与し、意識的経験を構造化する。",
+    "integration_or_binding": "言語から生じる意識の精緻な構造を通じて暗黙的に達成され、「内的統語法」を介して複雑な象徴的思考を統一的に扱うことを可能にする。",
+    "information_flow_or_representation": "言語は内的統語法における象徴的表象の並べ替えを促進し、情報を抽象的に表象することを要する複雑な認知的課題（たとえば数の使用や複雑な仮定）を支える。",
+    "evolutionary_account": "意識は象徴的言語に先立つ（動物における志向的状態がその証しである）。人間の意識と言語は、正のフィードバックループ（ブートストラップ効果）を通じて共進化した。",
+    "core_claims_and_evidence": [
+      "言語は人間の意識の内容と構造を深く形づくり豊かにする。",
+      "非言語的な動物は、内的統語法を欠くために特定の複雑で象徴的な意識的経験をもつことができない。",
+      "意識的状態は存在論的に還元不能であるが、より低次の脳過程によって因果的に決定される。",
+      "意識は、われわれにとって最も重要な言語の部分にとって決定的に重要である。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的、神経生物学的（基底にある脳の因果作用の想定）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（根拠：生物学的自然主義にもとづく唯物論の理論として、特定の神経過程、言語能力、および結果として生じる複雑な意識的状態のあいだの因果関係は、存在論的還元不能性の検証は複雑であるものの、神経科学を介して検証可能であるはずである）。",
+    "known_empirical_interventions_or_tests": "一般的な神経生物学的・言語学的証拠への暗黙の依拠。（言語理論の側面に固有の特定の規範的検証は資料に詳述されていない。）",
+    "criticisms_and_tensions": "生物学的自然主義のより広範な主張、とりわけ因果的還元主義を肯定しつつ存在論的還元不能性を保持することについて批判されている。シミュレーションと生物学的因果作用の区別もきわめて論争的である（たとえば中国語の部屋の論証）。",
+    "open_questions_and_limitations": "脳過程が意識を生成する正確な機構はいまだ未知であり、それが、言語がこの創発的性質をいかに構造化するかの説明を制約する。",
+    "ontological_coherence": "サールの唯物論的枠組み（生物学的自然主義）の内部では整合的であるが、意識の物質的因果作用と存在論的還元不能性を同時に主張することに関して内的な緊張に直面する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "単なるシミュレーション（計算）が人間のような意識を実現しうることを退ける（中国語の部屋）。しかし、脳の必要な生物学的／因果的過程を再現する人工機械を構築すれば、それは原理的に意識をもちうる。言語の中心性は、先進的な言語システムが決定的に重要な内的統語法を再現するならば、AI意識をより蓋然的にするかもしれない。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は脳によって引き起こされそこで実現される生物学的特徴である。それは生物学的基盤が消散するときに終わる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "唯物論の理論として、それは究極的な意味や目的を宇宙的に合理化することができない。言語によって増強された意識は、人間が自らの意味、目的、複雑な行為主体性を生み出すことを可能にする。"
+    },
+    "virtual_immortality": {
+      "stance": "条件付き／ありうる",
+      "rationale": "シミュレーションのみは退けられるため、仮想的不死（心的自己のアップロード）は、複製が必要な生物学的／因果的システムを再現する場合にのみ達成可能である。言語が意識の深い本質にとって中心的であるならば、言語的／象徴的過程の首尾よい複製が達成可能性を促進する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Searle’s Biological Naturalism",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Chomsky’s Language and Consciousness",
+        "relationship": "重複"
+      },
+      {
+        "name": "Koch’s Consciousness does not Depend on Language",
+        "relationship": "批判"
+      },
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "重複／対比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Rediscovery of Mind, John Searle",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Consciousness and Language, John R. Searle",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Biological Naturalism, John R. Searle",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Language and consciousness, John Searle (Closer To Truth interview)",
+        "year": 2014
+      }
+    ]
+  }
+}

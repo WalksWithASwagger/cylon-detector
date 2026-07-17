@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "バースとドゥアンヌのグローバル・ワークスペース理論",
+    "summary": "この理論は、意識的な気づきが、脳全体にわたる存在と広範なアクセス可能性を達成する特定の多感覚的・多認知的な情報によって構成されると主張する。意識をこの情報が大域的に放送される内なる「劇場」として概念化し、瞬間的な意識内容の限られた容量と膨大な長期記憶へのアクセスとを調和させる。",
+    "associated_thinkers": [
+      "Bernard Baars",
+      "Stanislas Dehaene"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "大域的な情報アクセス可能性としての意識",
+    "classification_tags": [
+      "neurobiological",
+      "information",
+      "access",
+      "cognitive",
+      "broadcasting"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳内の多数の特殊化したモジュール系にわたる、特定の統合された情報の瞬時の大域的利用可能性と広範なアクセス可能性として同定される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一／相関。心（意識的な気づき）は、脳における大域的な情報放送という特定の生物学的に実現された過程として同定されるか、それと強く相関する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。中核的な唯物論的・神経生物学的理論として、意識は複雑ではあるが究極的には説明可能な生物学的な脳機能から生じると想定し、意識が原理上還元可能であることを意味する。",
+    "subjectivity_and_intentionality": "主観性はグローバル・ワークスペースの独自に統合された内容から生じる。志向性（思考の方向性）は、ワークスペースへのアクセスを得る多認知的で目標に関連する情報に内在する。",
+    "qualia_account": "現象的経験（クオリア）は、意識的な気づきの厳密に生物学的な機構を提唱することによって説明される。クオリアは、グローバル・ワークスペース内で広くアクセス可能となる、統合され報告可能な多感覚的情報の内容に対応する。",
+    "ontological_commitments": "特定の神経機構、ネットワーク、および意識の物理的基体（PSC）、とりわけ脳内の広範で統合された情報の流れのパターン。",
+    "epistemic_access": "意識的経験に対応する相関的な脳活性化パターン（例えば大域的な発火事象）を研究する、神経画像法やコンピュータ・モデリングを含む三人称的方法を通じてアクセス可能となる。",
+    "constituents_and_structure": "情報が選択的に増幅され、特殊化した脳モジュールの分散ネットワークにわたって放送される、内なる「劇場」あるいはワークスペースの構造。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、アクセス意識、記憶",
+    "distinctive_mechanism_or_principle": "情報の大域的な放送とアクセス可能性であり、単一の首尾一貫した内容を多数の特殊化した無意識のモジュールに同時に利用可能とする。",
+    "dynamics_of_emergence": "意識的状態は、情報が競合を克服して広範な皮質ネットワーク（グローバル・ワークスペース）にわたって放送されるときに生じる動的な事象である。",
+    "location_and_distribution": "脳全体にわたり、広範な領域、とりわけ前頭領域と頭頂領域に関連する（IIT のような「後頭部」理論と対照的に、しばしば「前頭部」理論と特徴づけられる）。",
+    "causation_and_functional_role": "大域的な放送が意識を構成する。機能的には、限られた瞬間的な意識内容と長期記憶資源との間の柔軟な制御と調和を可能にする。",
+    "integration_or_binding": "統合は、首尾一貫した情報の「一括パッケージ」を脳全体にわたって広くグローバル・ワークスペースへ放送することによって達成される。",
+    "information_flow_or_representation": "情報は特殊化したモジュールから流れ出て大域的アクセスをめぐって競合し、勝ち抜くと大域的に放送され、複数の系による認知処理に利用可能となる。",
+    "evolutionary_account": "整合的（ただし GWT 自体は系統発生的というより機構的である）。唯物論的・神経生物学的理論として、意識は情報管理の改善や柔軟な行動といったその認知的有用性を選択した進化的機構を介して生じたと含意する。",
+    "core_claims_and_evidence": [
+      "意識的な気づきは、特定の多感覚的・多認知的情報の脳全体にわたる存在と広範なアクセス可能性から成る。",
+      "大域的な放送は、単に意識によって引き起こされるのではなく、意識を構成する。",
+      "意識は神経生物学的データと整合する厳密に生物学的な現象である。",
+      "新奇な機械アーキテクチャは、意識を達成するためにグローバル・ワークスペースの計算を用いなければならない。"
+    ],
+    "basis_of_belief_or_evidence_type": "神経生物学的、計算論的、経験的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "その主張を検証するために用いられる神経画像法とコンピュータ・モデリングの研究。「前頭部」理論と後方理論とを対比する「神経地理学的」論争に暗黙のうちに晒される。",
+    "criticisms_and_tensions": "真正の現象的経験ではなく「アクセス」に焦点を当てているとして批判され、理論が「もっぱらアクセスについてであって見ることについてではない」という批判に例示される。大域的放送が必要なのか、それとも単に意識の帰結にすぎないのかをめぐる緊張に直面する。",
+    "open_questions_and_limitations": "「ハードプロブレム」、すなわちなぜ大域的アクセス可能性の機構が質的な主観的経験を帰結すべきなのかには十分に答えていない。",
+    "ontological_coherence": "物理主義の枠組みの内部で高度に整合的であり、意識の説明のために確立された脳機能と情報機構のみに依拠する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "この理論は意識を情報処理の計算とアーキテクチャによって定義し、提唱者たちは新奇な機械アーキテクチャがこれらの計算に基づきうると示唆するため、AI の意識は原理上可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は特定の複雑な生物学的な脳過程に全面的に依存すると理解され、それらは生物学的死とともに終焉する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "唯物論的・神経生物学的理論として、究極的・宇宙的な意味や目的を要請しないが、意識は人間の行為主体性と自己創出的な価値を支える本質的な機能（記憶の調和や統合された気づきなど）を提供する。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "意識が脳の計算論的組織化と情報の流れによって全面的に説明されるならば、これらの機構を非生物学的基体へ完全に複製あるいはアップロードすることによって、一人称的な心的自己を保存できるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Edelman’s Neural Darwinism and Reentrant Neural Circuitry",
+        "relationship": "整合的"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "対比"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "整合的"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "競合"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A Cognitive Theory of Consciousness",
+        "year": 1988
+      },
+      {
+        "title_with_names": "In the Theater of Consciousness",
+        "year": 1997
+      },
+      {
+        "title_with_names": "Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework, Dehaene and Naccache",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Biology of consciousness, Edelman, Garlly, Baars",
+        "year": 2011
+      }
+    ]
+  }
+}

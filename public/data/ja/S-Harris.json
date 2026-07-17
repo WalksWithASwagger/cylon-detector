@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "S・ハリスの意識の神秘",
+    "summary": "処方的な理論というよりは一つの挑戦として提示されるこの立場は、意識を純粋に物理的な手段では解決できない橋渡し不能な神秘として枠づける。ハリスは、物理的記述は主観的経験について「沈黙している」と論じる。感覚性を証し立てるものは意識そのもの以外になく、根本的な説明のギャップが生じる。彼は、科学がこの神秘を払拭できることについて悲観的なままである。",
+    "associated_thinkers": ["Sam Harris"],
+    "category": "挑戦理論",
+    "subcategory": "意識の神秘",
+    "core_identity_tagline": "「橋渡し不能なギャップとしての意識」",
+    "classification_tags": [
+      "mysterianism",
+      "skepticism",
+      "anti-reductionism",
+      "introspection"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は主観性ないし感覚性として同定され、それは根本的に神秘的であり、純粋に物理的な過程によっては説明不能である。",
+    "ontological_status": "懐疑主義／神秘主義（新神秘論）（根拠：この見解は、特定の代替的存在論を採用することなく、心身問題の哲学的な扱いにくさと橋渡し不能な性質を主張し、新神秘論の核心的教義に合致する。）",
+    "mind_body_relationship": "橋渡し不能なギャップ／非還元的な相関（根拠：ハリスは、物理的過程は意識と相関するが、これらの過程のいかなる分析も論理的に意識の像を生み出すことはできず、橋渡し不能なギャップが残ると主張する。）",
+    "primitive_or_emergent_status": "神秘（根拠：ハリスは創発を全面的に是認することを拒み、意識は無意識的処理の法則的な産物でありうるとしつつも、その文がセンティエンスを説明するうえで有意味だとは考えないと述べる。）",
+    "emergence_type": "神秘／未解明（根拠：核心的な前提は、複雑さを感覚性に結びつける機構が根本的に未知であり、人間の知性にとっておそらく認識不能であるという点であり、標準的な創発の下への分類を妨げる。）",
+    "subjectivity_and_intentionality": "主観性は意識の唯一の証しである。主観性への唯一の手がかりは主観性そのものである。",
+    "qualia_account": "クオリア（あるものであることの「何らかのようである」あり方）は、物理的事象が「沈黙している」当の現象であり、それゆえ橋渡し不能な神秘を生み出す。",
+    "ontological_commitments": "物理的過程と還元不能な感覚性（根拠：両方の領域の存在を想定するが、物理的記述ではなく内省的証拠にもとづいて後者の還元不能性へと傾倒する。）",
+    "epistemic_access": "内省が意識に関する真理を発見する唯一の道である。科学／三人称的観察は、神秘を払拭するうえで本来的に限界がある。",
+    "constituents_and_structure": "神秘（根拠：この理論は特定の構成要素や構造を提案しない。その焦点は、主観的経験を説明するうえでの複雑な物理的記述の根本的な不十分さにあるからである。）"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、感覚性（宇宙が感覚性によって照らされているという端的な事実にもっぱら焦点を当てる。）",
+    "distinctive_mechanism_or_principle": "なし（根拠：核心的な前提は、主観性を説明することにおける、現在および予見しうるすべての物理的／機構的原理の失敗である。）",
+    "dynamics_of_emergence": "明示されない（根拠：物理的複雑さと意識の関係こそがハリスが神秘的で説明不能とみなすものであり、導出の動態を明示する可能性を退ける。）",
+    "location_and_distribution": "未知／神秘的（根拠：意識は脳と相関するが、物理的世界は意識の証拠を一切生み出さないため、この理論は意識の説明を物理的な所在や分布に閉じ込めることを明示的に退ける。）",
+    "causation_and_functional_role": "未知／還元不能（根拠：因果的な力は無意識的な複雑さによって説明されない。感覚性の存在は、還元的に記述できる機能的適応というよりむしろ究極的な神秘である。）",
+    "integration_or_binding": "扱われていない（根拠：この理論は、統一された知覚の構造的問題ではなく、感覚性そのものの形而上学的な存在に焦点を当てる。）",
+    "information_flow_or_representation": "無意識的な情報処理は意識と法則的に相関するかもしれないが、この記述は感覚性を説明するには不十分であるとして退けられる。",
+    "evolutionary_account": "明示的には扱われていない（根拠：焦点は、意識の系統発生的起源ではなく、*いま*の意識という形而上学的な難題にある。）",
+    "core_claims_and_evidence": [
+      "物理的世界には意識の証拠は存在しない。物理的事象は、それらであることが「どのようであるか」について沈黙している。",
+      "意識の存在を証し立てる唯一のものは意識そのもの（主観性）である。",
+      "純粋に物理的な過程の分析が意識の像を生み出すことは決してない。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、内省、懐疑主義"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証不能（根拠：ハリスが主張するようにギャップが橋渡し不能であるならば、現在実践されている経験科学によってこの神秘を払拭することはできない。）",
+    "known_empirical_interventions_or_tests": "なし（根拠：この枠組みはハードプロブレムに取り組むことにおける科学の失敗の診断であり、神秘そのものに対する経験的検証を提案しない。）",
+    "criticisms_and_tensions": "それは主として、意識に関する還元主義と科学的楽観主義への批判として機能し、この問題を究極的な神秘に分類するが、還元主義者はそれを悲観主義（新神秘論）として退ける。",
+    "open_questions_and_limitations": "根本的な限界は、意識が無意識的な情報処理や複雑さといかに関係するかを理解できないことであり、感覚性の起源を説明不能なものにしている。",
+    "ontological_coherence": "（懐疑的立場としては）内的に整合的であるが、還元的物理主義およびハードプロブレムの機構的解決を主張する諸理論とは根本的に相容れない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意識が物理的記述から欠落した還元不能な主観性であるならば、先進的な計算（純粋に物理的な複雑さであるAI）は真正な感覚性を生み出すことに失敗する。"
+    },
+    "survival_beyond_death": {
+      "stance": "否（条件付き）",
+      "rationale": "自然主義者として、ハリスは意識が物理的な有機体に結びついているという見解に暗黙のうちに与しており、それは、生きているあいだのその本性の神秘にもかかわらず、その終焉が永久的な非存在をもたらすことを意味する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "神秘は宇宙的な目的を含意しないが、ハリスは内省を通じて個人的な真理を見出すことを提唱しており、自己発見的（自然化された）霊性と意味に合致する。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "意識が純粋に物理的な過程によって説明できないのであれば、物理的基盤の複製やアップロードは、本質的な主観的自己を捉えたり再創造したりすることに失敗する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "relationship": "重複"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "批判"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "両立可能（物理的説明についての素朴実在論の拒絶として。ただしハリスはなお意識の実在性を主張する）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mystery of consciousness (Part I & II), Sam Harris",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Explorations in Consciousness: Death Psychedelics and Mystical Experience",
+        "year": 2023
+      }
+    ]
+  }
+}

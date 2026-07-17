@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "クレーレマンスとタロン=ボードリの機能的価値",
+    "summary": "この理論は、現象的意識が報酬に基づく行動に決定的な自由度を加えることで機能的価値をもたらすがゆえに進化したと示唆する。主観的経験は、意識状態に内在的価値を割り当てる「心的通貨」として作用し、多様な経験の比較と統一を可能にすると提唱する。",
+    "associated_thinkers": [
+      "Axel Cleeremans",
+      "Catherine Tallon-Baudry"
+    ],
+    "category": "唯物論の諸理論",
+    "subcategory": "系統発生的進化",
+    "core_identity_tagline": "機能的価値および心的通貨としての意識",
+    "classification_tags": [
+      "functionalism",
+      "evolution",
+      "phenomenal worthiness",
+      "intrinsic value"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象的意識は内在的な機能的価値をもつものと同定され、行動の最適化のために意識状態に価値を付与する心的通貨として作用する。",
+    "ontological_status": "唯物論",
+    "mind_body_relationship": "意識は、報酬に基づく行動を統べる神経機構に結びついた進化的な生物学的特徴である。この関係はハードプロブレムを機能の問題へと還元しようとする。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性は、多様な経験を比較し価値づけるために必要な、共通の主観中心的空間(「心的通貨」)の要請から生じる。志向性は目標指向的で報酬に基づく行動に暗黙的に結びつく。",
+    "qualia_account": "クオリア(現象的経験)は、内在的価値をもつことによって機能的に説明され、それによってハードプロブレムを機能についての問題へと還元することが可能となる。",
+    "ontological_commitments": "報酬に基づく行動を支える生物学的メカニズム、内的状態を比較し価値づけうる系。",
+    "epistemic_access": "現象的経験が意思決定・情動研究・意識研究においていかに機能的価値を提供するかの研究を通じてアクセスされる。",
+    "constituents_and_structure": "報酬に基づく行動の進化的に選択された機構から生じる、共通の主観中心的空間。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの、機能的価値、統一された経験。",
+    "distinctive_mechanism_or_principle": "現象的値打ち(phenomenal worthiness)仮説は、意識が経験に内在的価値(「心的通貨」)を付与することで進化し、まったく異なる欲求どうしの比較を可能にし、報酬に基づく文脈での意思決定を最適化すると措定する。",
+    "dynamics_of_emergence": "意識は系統発生的進化と選択を通じて生じ、報酬に基づく行動の既存の機構に重要な自由度を加えた。",
+    "location_and_distribution": "報酬に基づく学習と内在的価値の比較に必要な生物学的機構をもつ生物に局在する。",
+    "causation_and_functional_role": "意識は能動的で因果的な役割を果たす。その機能的役割は、行動を最適化するために、多様で潜在的に競合する主観的状態を比較するための共通通貨(内在的価値)を提供することにある。",
+    "integration_or_binding": "現象的経験は、あらゆる内在的価値を同時に比較することを促す共通の主観中心的空間に収められるため、統一が達成される。",
+    "information_flow_or_representation": "多様な経験を表象する情報の流れが処理され、比較と行動の調節のために内在的価値(現象的値打ち)を割り当てられる。",
+    "evolutionary_account": "意識は、報酬に基づく行動に自由度を加えることで機能的優位を提供し、生存と探索を最適化するがゆえに進化し選択された。",
+    "core_claims_and_evidence": [
+      "現象的意識は機能的価値をもち、古典的な随伴現象説の見解を斥ける。",
+      "意識は報酬に基づく行動に重要な自由度を付与するがゆえに進化した。",
+      "現象的経験は、多様な内的状態の統一された比較を可能にする「心的通貨」として作用する。"
+    ],
+    "basis_of_belief_or_evidence_type": "進化論的、機能的・神経科学的、哲学的(機能への還元)。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能。",
+    "known_empirical_interventions_or_tests": "内在的価値の主観的報告、経験の統一、報酬に基づく文脈での意思決定のあいだの関係を研究する測定。",
+    "criticisms_and_tensions": "非唯物論者は、この理論がハードプロブレムを機能についての問題へと還元しようとするとして批判し、それが経験そのものの質的側面を説明するには不十分だとする。",
+    "open_questions_and_limitations": "主要な限界は、機能的価値がなぜ何かのように感じられるのかについての機構的説明を提供すること、すなわちこの感じが機能的有用性をもつと単に述べるにとどまらないことにある。",
+    "ontological_coherence": "唯物論的存在論の内部できわめて整合的であり、現象的経験を経験的に進化し機能的に有益な生物学的性質へと還元することを目指す。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "機能と進化的メカニズムに焦点を置く唯物論的理論として、内在的な価値づけと比較を可能にする機構(心的通貨)が人工的な基体に実現されうるならば、AIの意識は可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は生物の機能的必要に結びついた生物学的機構の進化的性質であり、死後の存続を斥ける唯物論と一貫する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "意識は適応的・生物学的な目的(報酬に基づく行動の最適化)に資し、究極的で宇宙的な意味はないことを含意し、唯物論に沿う。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "唯物論の下でのその強い機能主義的根拠を踏まえれば、内在的価値の割り当てを担う関連する機能的動態とメカニズムを非生物学的に複製できるならば、仮想的不死は原理的に達成可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Top-Down Predictive Theories",
+        "relationship": "両立的"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness matters: phenomenal experience has functional value, Axel Cleeremans, Catherine Tallon-Baudry",
+        "year": 2022
+      }
+    ]
+  }
+}

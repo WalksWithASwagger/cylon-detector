@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "ファインバーグとマラットの意識の古代的起源説",
+    "summary": "この理論は、現象的意識がしばしば想定されるよりもはるかに早い進化史の時点、すなわち5億2000万年から5億6000万年前の大規模なカンブリア爆発と時を同じくして出現したと提案する。最初の複雑な脳の発達が、単純な反射的行動を主観的経験の統一された内的世界へと変換したと論じ、これはすべての脊椎動物、そしておそらく一部の無脊椎動物が意識を有することを意味する。",
+    "associated_thinkers": [
+      "Todd Feinberg",
+      "Jon Mallatt"
+    ],
+    "category": "唯物論の理論",
+    "subcategory": "系統発生的進化",
+    "core_identity_tagline": "意識は最初の複雑な脳とともに出現した",
+    "classification_tags": [
+      "evolution",
+      "neurobiological",
+      "comparative",
+      "vertebrates",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脊椎動物進化の初期に確立された特定の生物学的・神経生物学的特徴から生じる、主観的経験の統一された内的世界として同定される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "心（意識）は複雑な生物学的脳構造の創発的産物である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（正当化：進化神経生物学に基づく意識の唯物論的理論として、意識は十分な科学的進歩があれば、原理的にはその物理的基盤に完全に還元可能であると想定される。）",
+    "subjectivity_and_intentionality": "主観性は、複雑な脳構造によって創り出される「主観的経験の統一された内的世界」である。志向性は、単純な反射的行動から進化した結果的な機能である。",
+    "qualia_account": "クオリア（主観的経験）は、最初の複雑な脳とともに生じた特定の生物学的・神経生物学的特徴の出力として説明される。",
+    "ontological_commitments": "複雑な脳、特定の生物学的・神経生物学的特徴、神経パターン。",
+    "epistemic_access": "現生種の生物学的・神経生物学的特徴を化石記録と照らし合わせて調査・比較すること（三人称的証拠）を通じてアクセスされる。",
+    "constituents_and_structure": "複雑な脳の生物学的・神経生物学的特徴、とりわけカンブリア爆発の間に起源をもつもの。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識",
+    "distinctive_mechanism_or_principle": "複雑な脳の進化的出現（5億2000万年から5億6000万年前）であり、単純な反射から統一された主観的経験への移行に十分な、包括的な生物学的・神経生物学的特徴の一式を備えていた。",
+    "dynamics_of_emergence": "系統発生史に結びついた動的過程。意識は、単純な反射的行動が統一された内的世界へと進化するにつれて漸進的に生じた。",
+    "location_and_distribution": "すべての脊椎動物、そして潜在的には一部の複雑な無脊椎動物（節足動物と頭足類）の神経系に位置する。",
+    "causation_and_functional_role": "意識は、脳が単純な行動から経験を創り出すことの進化的結果として機能する。その究極的な役割は適応的であり、生存能力を高める。",
+    "integration_or_binding": "統合は、複雑な脳が経験の「統一された内的世界」を創り出すことによって達成される。",
+    "information_flow_or_representation": "情報処理と表象は、主観的経験を創り出すために、進化した複雑な脳構造によって組織化されると想定される。",
+    "evolutionary_account": "意識は標準的モデルが示唆するよりも著しく早く（5億2000万年から5億6000万年前）進化し、カンブリア爆発の複雑な脳と結びついて起源した。",
+    "core_claims_and_evidence": [
+      "意識はカンブリア爆発（5億2000万年から5億6000万年前）の間に生じた。",
+      "すべての脊椎動物は意識を有し、常に有してきた。",
+      "これらの古代の脳の複雑性が、単純な反射を主観的経験の統一された内的世界へと変換した。"
+    ],
+    "basis_of_belief_or_evidence_type": "比較神経生物学的、系統発生的／進化的、哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "分岐した種間の神経生物学的特徴の継続的な比較研究を通じて経験的に検証可能。",
+    "known_empirical_interventions_or_tests": "現生の脊椎動物と無脊椎動物を、進化的時間尺度と解剖学的基準に照らして比較神経生物学的に分析すること。",
+    "criticisms_and_tensions": "この理論は意識進化の標準的モデルに挑戦するものとされる。「ハードプロブレム」を解決するというその喧伝された主張は、著者ら自身によってより断定的でない形で提示されている。",
+    "open_questions_and_limitations": "この理論が現象的経験の「ハードプロブレム」に対していかにして独自の解決を提供するのかは不明である。",
+    "ontological_coherence": "根本的な唯物論的・進化的存在論と整合的であり、意識を生物科学の内部に確固として位置づける。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "肯定",
+      "rationale": "唯物論の理論として、意識が出現するために必要な複雑な物理的構造を人工的に再現することを原理的に禁じるものはない。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は生物学的神経過程（複雑な脳）の産物として理解され、それは生物学的死とともに停止する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "意識は進化した生物学的メカニズムであるため、適応的機能と人間の自己創造を超えた究極的な宇宙的意味や目的を提供しない。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "意識は完全に物理的特徴（進化した複雑な脳構造）に結びついているため、それらの特徴を新たな媒体で複製すれば心的自己が保存されるはずであり、仮想的不死は達成可能となる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "両立的"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Standard-Model Theory (of Consciousness Evolution)",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ancient Origins of Consciousness: How the Brain Created Experience, Todd Feinberg and Jon Mallatt",
+        "year": 2016
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "プリンツの神経機能主義：注意が経験を生み出す",
+    "summary": "この理論は、意識が注意から生じると主張する。注意は、処理の中間段階において知覚情報が記憶システムへと流れることを促進する。この過程は根本的に同期した神経発火に依拠し、刺激についての、統合され視点を保持した表象をもたらす。",
+    "associated_thinkers": ["Jesse Prinz"],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "注意を向けられた中間表象としての意識",
+    "classification_tags": [
+      "attention",
+      "neurofunctionalism",
+      "perceptual",
+      "representational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、注意の機構によって、刺激についての統合され視点を保持した表象が作業記憶に利用可能になる過程として同定される。",
+    "ontological_status": "還元的物理主義",
+    "mind_body_relationship": "プリンツは心身問題への「神経機能的応答」を提唱し、機能的役割をそれを支える神経生物学的実現と結びつけ、それによって心的状態が唯物論の内部に完全に収まるようにする。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性は、注意の過程によって利用可能になる表象の「視点を保持した形式」に本来的に備わっている。あらゆる意識は知覚的であり、志向性（指向性）が鍵となるが、自己意識は直接には経験されない。",
+    "qualia_account": "この理論は、ハードプロブレムに対抗する完全な唯物論的説明を提供するために経験的知見を総合しようとする。クオリアは、注意の過程から生じる統合された表象として説明される。",
+    "ontological_commitments": "同期した神経発火、知覚処理の諸段階、そして情報の表象。",
+    "epistemic_access": "神経科学的に基礎づけられた経験的探究とモデル化を通じて、機能的データと神経生物学的データを組み合わせることによってアクセス可能である。",
+    "constituents_and_structure": "根本的な構成要素は、処理の中間段階で統合された表象であり、同期した神経発火によって制約され、また可能となっている。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、知覚的。",
+    "distinctive_mechanism_or_principle": "注意。それは同期した神経発火を用いて、中間的な知覚情報の表象を記憶システムに利用可能にすることによって、情報の流れを変える。",
+    "dynamics_of_emergence": "意識は動的な過程であり、知覚情報が特定の「中間」段階に達し、注意の機構によって作用を受けるときに生じる。",
+    "location_and_distribution": "知覚処理の特定の中間段階に局在する。",
+    "causation_and_functional_role": "意識は因果的に有効であり、柔軟な行動を可能にするシステムに知覚情報を容易に利用可能にするという機能を担う。",
+    "integration_or_binding": "統合は注意の過程によって達成され、刺激の諸性質を作業記憶がアクセスできる単一の、視点を保持した形式へと統一する。",
+    "information_flow_or_representation": "情報の流れは、記憶システムへのアクセスを与えるよう注意によって修正され、意識は完全に統合された表象に依拠する。",
+    "evolutionary_account": "意識は、柔軟な行動のためにシステムに知覚情報を利用可能にするよう進化し、適応上の利点を提供した。（正当化：柔軟な行動を可能にするという、明示的に述べられた意識の機能に基づく。）",
+    "core_claims_and_evidence": [
+      "意識は注意に依存し、知覚処理の中間段階で生じる。",
+      "この過程は同期した神経発火に依拠する。",
+      "あらゆる意識的経験は知覚的であり、柔軟な行動を可能にするのに役立つ。",
+      "この理論は唯物論の内部で完全な説明を提供し、チャーマーズのハードプロブレムを解決する。"
+    ],
+    "basis_of_belief_or_evidence_type": "神経科学的、機能的、哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "この理論は、同期した神経発火を経験の統一性と時間的持続に結びつける証拠によって支持され、その神経生物学的主張の基盤として役立つ。",
+    "criticisms_and_tensions": "唯物論の内部で「満足のいく、驚くほど完全な理論」であるというプリンツの主張は、デイヴィッド・チャーマーズのような批判者によって斥けられる。彼らは、いかなる純粋に物理的な説明も意識的経験を説明できないと論じる。",
+    "open_questions_and_limitations": "この理論自身が取り組む中核的な限界は、物理主義に反する哲学的議論にもかかわらず、純粋に機能的で神経生物学的な記述が現象的経験を説明するのに十分であることを、批判者（チャーマーズのような）に納得させることである。",
+    "ontological_coherence": "高度に整合的である。機能主義と神経生物学を明示的に一貫した唯物論的枠組みへと融合させ、伝統的な二元論の課題を解決しようとするからである。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "この理論は意識を、注意を介して情報を記憶に利用可能にする特定の神経機能的過程として同定するため、この計算論的機能は十分に高度な非生物学的システムにおいて達成可能なはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "唯物論の内部に完全に収まる理論として、意識は脳の生物学的組織と過程（例：同期した神経発火）に完全に依存し、それによって生成され、脳の破壊とともに消滅する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的な意味のみ",
+      "rationale": "意識の機能は実用的であり、柔軟な行動のために知覚情報を利用可能にすることである。それは唯物論的パラダイムの内部で作動し、そこでは通例、意味と目的は宇宙的ではなく自己創出的なものとされる。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "神経機能主義を基盤とし、完全な唯物論的説明を目指すことを踏まえれば、注意に基づく表象システムを非生物学的基体において完全に機能的に複製すれば、元の一人称の意識的自己が保存されるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Chalmers’s hard problem of consciousness",
+        "relationship": "批判"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Brain: How Attention Engenders Experience, Jesse J. Prinz",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The conscious brain, Christopher Mole",
+        "year": 2013
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "ストローソンの実在論的一元論と真正唯物論",
+    "summary": "この理論は、意識ないし現象的経験が全面的に物理的であり、われわれの存在についてもっとも確実な事実であると主張する。それゆえ「真正の」物理主義ないし唯物論は汎心論を含意せざるをえず、すなわち現象的性質はすべての根源的な物理的素材（エネルギー／物質）に内在的であって根源的に創発するものではない、ということになる。この見解は、拡張された実在論的な物理的存在論の内に主観的経験を直接に基礎づけることを目指す。",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "一元論",
+    "subcategory": "実在論的一元論",
+    "core_identity_tagline": "意識は全面的に物理的かつ経験的である",
+    "classification_tags": [
+      "physicalism",
+      "panpsychism",
+      "monism",
+      "experience"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "経験的現象としての意識は全面的に物理的であると同定され、それは根源的な物理的素材（エネルギーなど）が内在的に経験を含む現象であることを含意する。",
+    "ontological_status": "実在論的一元論／真正の物理主義（汎心論を含意する）",
+    "mind_body_relationship": "トークン同一性。心的なもの／経験的なものは物理的なもの「にほかならない」のであり、たとえばニューロンが現在の物理学や神経生理学では捉えられない経験的性質を持つことを示唆する。",
+    "primitive_or_emergent_status": "原初的（あるいは原初的性質から構成的に派生したもの）。",
+    "emergence_type": "この理論は「根源的」創発を退け、意識は実在の根源的な物理的本性に内在していなければならず、さもなければその存在が否定されることになるが、それは不合理であると論じる。意識的経験は根源的な経験的性質の構成を通じて生じる。",
+    "subjectivity_and_intentionality": "主観性（意識的経験、「それであることの様相」）は存在についてもっとも確実な事実であり、いかなる実在論的物理主義にとっても不可避の出発点として肯定される。志向性はこの拡張された物理的実在の内に含まれる。",
+    "qualia_account": "クオリア（質的な感じ）は具体的に実在し全面的に物質的なものとして肯定され、根源的な物理的存在者の内在的で還元不可能な性質として理解される（汎心論）。",
+    "ontological_commitments": "単一の根源的で具体的な対象ないし物（一元論）であって、物理的と定義されつつ経験的／現象的性質を包含するもの。これはエネルギーなどすべての物理的素材が経験を含むことを含む。",
+    "epistemic_access": "主として内省と一人称的経験を通じてアクセスされる。この経験は、その実在性が他の何よりも確実である根本的に与えられた自然的事実とみなされるからである。",
+    "constituents_and_structure": "基本的な構成要素は、現象的ないし原‐現象的性質を有する根源的な物理的存在者（エネルギー／物質）である。全体の構造は単一の統一された実在の構造である。",
+    "basis_of_belief_or_evidence_type": "哲学的・形而上学的論証であり、意識の具体的実在性の実在論的な評価と、現在の還元的物理主義の概念的限界に基づく。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "感じ、感覚、明示的な意識的思考を含む現象的意識。",
+    "distinctive_mechanism_or_principle": "論理的整合性のためには根源的な物理的構成要素の経験的本性を受け入れる必要があるという原理であり、それによって物理的なものの定義を変更することで説明のギャップを解決する。",
+    "dynamics_of_emergence": "意識は根源的な特徴であり、非意識的な構成要素から厳密に創発するものではない。より高次の意識は、これら根源的な経験的性質の集積ないし結合を通じて生じる。",
+    "location_and_distribution": "物理的な物質ないしエネルギーが存在するあらゆる場所に、生物学的有機体のニューロン内をも含めて分布する。",
+    "causation_and_functional_role": "心的なものは定義上全面的に物理的であるため、物理世界の因果構造に完全に参与せざるをえず、それによって二元論に内在する心的因果の問題を解消する。",
+    "integration_or_binding": "経験の統一は、汎心論に内在する「結合問題」を解決すること、すなわちミクロレベルの経験がいかにマクロレベルの経験の主体へと結合するかを説明することによって達成されねばならない。",
+    "information_flow_or_representation": "情報処理は物質の根源的な経験的性質に対して二次的であるか、それによって構成される。（情報は核心的機構として明示的に定義されるというより暗黙的である。）",
+    "evolutionary_account": "意識は根源的であり、したがって進化とは、この内在的な経験的性質を複雑な仕方で集積ないし表現しうる複雑な物理的構造が生じる過程である。",
+    "core_claims_and_evidence": [
+      "経験の実在性を完全に認めることが、実在論的物理主義にとって不可避の出発点である。",
+      "意識的経験の否定は「これまでになされたもっとも愚かな主張」であると論じられる。",
+      "根源的創発の不可能性を前提すれば、真正の物理主義は汎心論を必要とする。",
+      "経験的現象は物理的であり、物理的なものが何を含むかの拡張を要する。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的・現象学的証拠（経験の確実性）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に導かれる。この理論は根源的な物理学が経験的性質を含むよう改革されることを要求するため、現在の科学的パラダイムの下では標準的な経験的検証が困難となる。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "「物理的なもの」を経験的性質を含むよう概念的に再定義する点で、伝統的な物理主義者から強く批判される。この理論はなお汎心論の「結合問題」（ミクロレベルの経験がいかに複雑で統一された主観的経験へと融合するか）に直面している。",
+    "open_questions_and_limitations": "もっとも重大な未解決の問題は、結合問題への合理的な解を見出すことである。",
+    "ontological_coherence": "拡張された物理主義の定義を受け入れる限り高い。経験について実在論的である物理主義者にとって、もっとも倹約的な解として提案される。",
+    "basis_of_belief_or_evidence_type": "哲学的・現象学的"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "もし意識が根源的な物理的存在者の内在的性質（汎心論）であるならば、あらゆるものが同じ経験的素材から成るのだから、高度な技術は人工システムにおいてこれらの微視的心的側面を操作して複雑な内的な気づきを生成できるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "ありそうにない（きわめて低い見込み）",
+      "rationale": "一元論ではあるものの、この枠組みは明示的に「真正唯物論的」で根本的に物理主義的であるため、純粋な唯物論的理論と同様に、物理的身体の解体を超えた存続はありそうにない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "おそらく",
+      "rationale": "根源的で内在的な経験を組み込む一元論の一形態として、これはしばしば消去的唯物論に伴うニヒリスティックな結論を回避し、究極的な意味や目的が実在そのものの本性に結びつく余地を残す。"
+    },
+    "virtual_immortality": {
+      "stance": "おそらく可能",
+      "rationale": "もし意識が物理的組織化の通常かつ内在的な性質であるならば、非生物学的な基盤において物理的状態を完全に複製しうる高度な超技術は、対応する意識状態をも複製できるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "含意"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism, Galen Strawson",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      },
+      {
+        "title_with_names": "What is Panpsychism, Galen Strawson",
+        "year": 2011
+      }
+    ]
+  }
+}

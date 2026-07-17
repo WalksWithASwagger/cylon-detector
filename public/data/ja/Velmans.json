@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "ヴェルマンスの反照的一元論",
+    "summary": "反照的一元論は、宇宙の根本的実在が、物理的形態としても意識的経験としても顕現しうる単一の基本的素材であると措定する両面理論である。それは独自に、外界の意識的経験が経験された物理世界と同一であると主張し、現象的意識を脳の外部、すなわち世界のうちへと位置づけ直す。",
+    "associated_thinkers": ["Max Velmans"],
+    "category": "諸一元論",
+    "subcategory": "反照的一元論",
+    "core_identity_tagline": "脳とは三人称から眺められた心である",
+    "classification_tags": [
+      "dual-aspect theory",
+      "phenomenological externalism",
+      "non-reductionist",
+      "mind-body relation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、宇宙を構成する単一の基本的素材の経験的側面である。物理世界は、主観によって経験された世界である。",
+    "ontological_status": "両面一元論（スピノザの伝統において）",
+    "mind_body_relationship": "心と物質は共通の「心物的基盤」から生じ、統一的存在の二つの側面である。脳とは、外的（三人称的）視点から眺められた心である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "出典は創発の類型を明示しないが、宇宙が「ある原初の未分化の状態からの進化」から生じるものとして記述し、そこで宇宙は識別可能な諸存在へと分化し、その一部が意識的経験の潜在能力を獲得するとする。",
+    "subjectivity_and_intentionality": "全体の過程が「反照的」であるため、主観性は本来的である。すなわち宇宙は諸部分へと分化し、多様な仕方で自己を意識するようになる。本理論は主観性を含む日常経験の輪郭に従おうとする。",
+    "qualia_account": "クオリア（質的経験）は「経験された物理世界」と同一視される。すなわち経験は、もっぱら脳内にあるのではなく、それが在るように見えるおおよその場所に位置する（現象学的外在主義）。",
+    "ontological_commitments": "単一の未分化な基本的素材（一元論的基盤）、物理的形態、意識的経験、経験された現象的世界。",
+    "epistemic_access": "内省と主観的観察を通じてアクセス可能であり、これは外的（三人称的）観察と等しく妥当と見なされ、常識と日常経験を反映する。",
+    "constituents_and_structure": "宇宙は原初の状態から、相補的な物理的側面と経験的側面へと分化する。経験は、現象学の観点からは、現象的空間における実在的な広がりと位置をもち、その見かけの位置におおよそ対応する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの、主観性、（宇宙の）自己意識。",
+    "distinctive_mechanism_or_principle": "反照的原理。すなわち宇宙が諸部分へと分化し、自己を意識するようになる過程。これは内的経験を知覚された外界と統一することにより、説明のギャップを掘り崩す。",
+    "dynamics_of_emergence": "意識は、宇宙の単一の基本的素材の進化と分化から生じる動的過程である。",
+    "location_and_distribution": "心は基本的素材の一側面として一元論的に分布する。意識的経験そのものは、それが在るように見えるおおよその場所、すなわち外的な現象的世界に位置する（現象学的外在主義）。",
+    "causation_and_functional_role": "本理論は明示的な機能的役割よりも主として存在論的地位に焦点を当てる。ただし心と物質を単一の実在に位置づけることにより、二元論が直面する因果的相互作用の問題を暗黙のうちに回避し、心的効力を前提とする日常経験と整合することを目指す。",
+    "integration_or_binding": "正確な機構は詳述されないが、統一は概念的に、経験された対象や出来事を経験された物理世界と同一視することによって達成される（例えば、知覚された印刷物とその経験は「まさに同一」である）。",
+    "information_flow_or_representation": "本理論は「現象的世界」が「物理世界」とどう関係するかを論じるが、意識の機構として情報処理や計算的流れに主として依拠するわけではない。",
+    "evolutionary_account": "人間のような意識的存在は、宇宙の「ある原初の未分化の状態からの進化」を通じて生じ、基本的素材に内在する系統発生的な創発能力を示唆する。",
+    "core_claims_and_evidence": [
+      "宇宙は、物理的形態としても意識的経験としても顕現する単一の基本的素材から構成される。",
+      "脳とは、外的（三人称的）視点から眺められたときの人間の心である。",
+      "現象的経験は、それが在るように見えるおおよその場所にある（現象学的外在主義）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、現象学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／概念的。本理論は、日常経験と科学的知見、とりわけ還元主義的物理主義と衝突する知見とを和解させる成功度を評価することによって、概念的に検証可能である。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "経験は物理的対象とは異なり脳の外部に「実在的な」位置や広がりをもちえない、という深く根づいた前提に異議を唱える。物理主義的・機能主義的還元主義に挑戦することを意図している。",
+    "open_questions_and_limitations": "現象的空間（経験が在るように見える場所）と「実在的な」空間（測定された空間）との関係は、さらなる精緻化を要する。",
+    "ontological_coherence": "その枠組みの内部では整合性が高い。心的側面と物理的側面が共通の基盤を分かち合うと主張することにより、二元論の相互作用問題と、唯物論に突きつけられる意識のハードプロブレムを回避する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "一元論として、あらゆるものが同じ基本的素材からできている。AIが十分な物理的複雑性（三人称的側面／脳）を複製できるなら、根底にある実在が心物的であるため、両面のもう一方（心／経験）が生じるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確か",
+      "rationale": "根底にある根本的な一元論的素材は存続するが、本理論は特定の分化した存在（例えば人間）に意識が生じることに焦点を当てる。個人的で分化した意識的側面が物理的身体の消滅を生き延びるかどうかは、出典では未解決の問いとされている。"
+    },
+    "meaning_and_purpose": {
+      "stance": "可能",
+      "rationale": "諸一元論は一般に意味／目的について中間的立場を示唆する。本理論は宇宙が「多様な仕方で自己を意識するようになる」ことを含むため、この反照的過程は、単なる人間主義的価値を超えた、内在的だが非人格的な宇宙的意義を含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "物理的基盤（三人称的側面）が完全に複製あるいはアップロードされうるなら、一元論的理論の本性と整合的に、対応する両面のもう一方（一人称的な心／経験）もまた保存あるいは再創出されねばならない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Spinoza’s Dual-Aspect Monism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Physicalist Reductionism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reflexive monism, Max Velmans",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Wikipedia, the free Encyclopedia, Max Velmans",
+        "year": 2023
+      }
+    ]
+  }
+}

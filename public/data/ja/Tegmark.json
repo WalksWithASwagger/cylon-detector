@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "テグマークの物質の状態",
+    "summary": "テグマークは、意識が特定の物質の状態、すなわち「パーセプトロニウム」と名づけられたものとして理解できると提案する。それは独自の情報処理能力によって定義される。あらゆる存在は物理的であるという前提から出発し、この理論は意識的で複雑な情報処理を非意識的な処理から区別する原理を探求する。",
+    "associated_thinkers": ["Max Tegmark"],
+    "category": "一元論",
+    "subcategory": "",
+    "core_identity_tagline": "物質の状態としての意識：パーセプトロニウム",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "information",
+      "mathematics",
+      "perceptronium"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、情報が特定の複雑な仕方で処理されるときに生じる主観的経験ないし「感じ」と同定され、「パーセプトロニウム」と呼ばれる物質の状態を構成する。",
+    "ontological_status": "物理主義／一元論",
+    "mind_body_relationship": "同一性の関係が含意され、そこでは主観的経験（心）が特定の物理的状態（物質／情報処理の状態）と同定される。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性は「情報が特定の複雑な仕方で処理されるときの感じ方」と定義される。志向性は暗に、パーセプトロニウムが達成しうる複雑で高水準の情報的能力として扱われる。",
+    "qualia_account": "クオリアは暗に、パーセプトロニウムの特定の情報処理の配置に伴う「感じ」（主観的経験）であり、情報、統合、独立性、動態という四つの原理を通じて定式化される。",
+    "ontological_commitments": "物理系、情報。この理論は、あらゆる実在が根源的な数学的構造であるというより大きな存在論的主張に基礎を置く。",
+    "epistemic_access": "意識は、情報の流れを支配する客観的な物理的・数学的原理（情報、統合、独立性、動態）を通じてアクセスされ知られる。",
+    "constituents_and_structure": "その構造は「パーセプトロニウム」であり、情報、統合、独立性、動態という四つの原理によって定義される物質の状態である。この枠組みは統合情報理論（IIT）を任意の量子系へ一般化する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（主観的経験／感じ）とアクセス意識（意識に必要な情報処理）。",
+    "distinctive_mechanism_or_principle": "物理系における情報処理へ四つの明確な原理（情報、統合、独立性、動態）を適用することによるパーセプトロニウムの定義。",
+    "dynamics_of_emergence": "意識は物質の動的な配置ないし状態である。探求される諸原理は時間の創発をも含みうる。",
+    "location_and_distribution": "パーセプトロニウムを定義する特定の情報処理の基準を満たす物理系（神経回路網や任意の量子系など）に局在する。",
+    "causation_and_functional_role": "意識は情報の評価にとって決定的であり、昏睡状態の患者のケアや高度なAIとの意思疎通といった重要な必要にとって機能的に重要とみなされる。因果性は厳密に物理的である。",
+    "integration_or_binding": "統合はパーセプトロニウムを定義する四つの原理の一つであり、統一された意識的経験にとって決定的な機構であることを示唆する。",
+    "information_flow_or_representation": "意識は処理される情報の主観的な感じであるため、情報が基礎的である。その機構は完全に情報的原理によって駆動される。",
+    "evolutionary_account": "このアプローチは、意識を進化の偶然とする唯物論的理論とは一線を画し、代わりにそれを実在の根底にある数学的本性に関係づける。",
+    "core_claims_and_evidence": [
+      "意識は「物質の状態」（パーセプトロニウム）である。",
+      "意識は情報、統合、独立性、動態の諸原理によって定義される。",
+      "説明は「余分な秘密のたれ」を用いず、厳密に物理法則に従わねばならない。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、数学的、計算論的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "統合情報理論の一般化は、IITの測定関数（意識の度合いの定量化）との関連を含意する。この理論は、昏睡状態の患者の評価や高度なAIといった具体的な問題に取り組むことを意図している。",
+    "criticisms_and_tensions": "IITの一般化として、主観的な感じを純粋に物理的・情報的原理を通じて説明することの困難など、既存の批判を引き継ぐ。",
+    "open_questions_and_limitations": "意識的な処理を無意識的な処理から区別する正確な数学的原理は、いまだ見出されていない。",
+    "ontological_coherence": "強い物理主義的／数学的一元論の存在論の内部では高度に整合的であり、物理法則に厳密に従い、非物理的な構成要素を退ける。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "はい",
+      "rationale": "この理論は厳密に物理主義的（「すべては物理である」）であり、意識を複雑な情報処理を通じて達成しうる物質の状態として定義する。したがって人工システムは原理的にこの状態を達成しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "いいえ",
+      "rationale": "意識は物理的な脳の創発的な物質の状態（パーセプトロニウム）である。物理的基盤の不可逆な死と解体は、意識の停止を帰結する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定／人間主義的なもののみ",
+      "rationale": "物理学と数学的構造に基礎を置くことは、通例、消去的な物理主義的見解と整合的に、究極的な宇宙的目的がないことを示唆する。この理論は宇宙的目的論を明示的に提案しない。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "もし意識が数学的／物理的原理によって定義される特定の情報的な物質の状態であるならば、その状態は高度な技術によって非生物学的な媒体へ完全に複製ないしアップロードされうる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Mathematical Universe Hypothesis",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "両立的"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness is a state of matter",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality",
+        "year": 2014
+      }
+    ]
+  }
+}

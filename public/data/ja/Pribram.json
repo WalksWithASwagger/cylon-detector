@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "プリブラムのホロノミック脳理論",
+    "summary": "この理論は、人間の意識が脳細胞の内部あるいは細胞間で生じる量子効果から生じ、それによって脳がホログラフィックな情報記憶ネットワークとして機能すると提案する。このホログラフィックな本性は、情報、とりわけ記憶が神経ネットワーク全体にわたって非局所的に貯蔵されることを意味し、損傷後でも頑健な機能を可能にする。",
+    "associated_thinkers": ["Karl Pribram", "David Bohm"],
+    "category": "唯物論の諸理論",
+    "subcategory": "計算論的・情報論的",
+    "core_identity_tagline": "「ホログラフィックな量子的貯蔵としての意識」",
+    "classification_tags": [
+      "quantum",
+      "holographic",
+      "memory",
+      "non-local",
+      "neuroscience"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、ニューロンの樹状突起網内部の波動干渉パターンとして同定され、量子効果に由来するホログラフィックな情報符号化に特徴的なものである。",
+    "ontological_status": "物理主義（拡張的／量子生物学的）",
+    "mind_body_relationship": "心／意識は、物理的な脳の内部の特定の量子過程および情報構造と同一であり、量子レベルでの同一説を示唆する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発",
+    "subjectivity_and_intentionality": "意識は、ホログラフィックな情報パターンの組織的な検索と再構成に結びついており、主観的経験に必要な迅速な連想記憶を促進し、単純なフィードフォワード処理を超える知覚を可能にする。",
+    "qualia_account": "クオリアは暗黙のうちに、非局所的でホログラフィックな貯蔵構造によって説明される。この構造は、複雑な貯蔵された情報（記憶／知覚）の全体と統一性を、その任意の部分から再構成することを可能にする。",
+    "ontological_commitments": "量子効果／過程、樹状突起網、波動干渉パターン、ヒルベルト位相空間、そして非局所的な記憶の分散。",
+    "epistemic_access": "観察された現象（例：脳病変における非局所的記憶効果）からの理論的推論と、ホログラフィックな原理のような数学的モデル化を通じてアクセス可能である。",
+    "constituents_and_structure": "情報はニューロンの微細な繊維からなる樹状突起網内部の電気的振動と波動干渉パターンに符号化され、非局所的で分散した貯蔵ネットワークを形成する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（統一性と頑健性）、記憶、情報処理、非局所性。",
+    "distinctive_mechanism_or_principle": "ホログラフィックな類比。そこでは干渉パターンにおける情報の非局所的な貯蔵によって、貯蔵されたすべての内容が記憶ネットワークの任意の部分からアクセス可能であることが保証される。",
+    "dynamics_of_emergence": "意識は動的に生じる。量子効果が振動を生成し、それが干渉パターンを作り出し、次いで経験を符号化し再構成する。",
+    "location_and_distribution": "分散的かつ非局所的であり、ニューロンの樹状突起網における電気的振動のうちに、とりわけ記憶の非局所的貯蔵に関連して宿る。",
+    "causation_and_functional_role": "貯蔵された情報の異なる断片を迅速に結びつける速い連想記憶を可能にし、局所的な脳損傷に対する頑健性を提供する。",
+    "integration_or_binding": "統合は情報そのもののホログラフィックな本性によって解決される。ホログラムのように、場のあらゆる部分が統一された知覚を再構成するのに必要な情報の全体を含んでいる。",
+    "information_flow_or_representation": "情報は波動干渉パターンに符号化された流れと表象であり、特定の局所的な回路にではなく神経ネットワーク全体にわたって貯蔵される。",
+    "evolutionary_account": "この理論は、この機構の起源についての明示的な系統発生的説明を提供するのではなく、意識と非局所的記憶が機能する機械的手段に焦点を当てる。",
+    "core_claims_and_evidence": [
+      "意識は、ホログラフィックな貯蔵ネットワークとして働く脳細胞における量子効果から生じる。",
+      "記憶は非局所的に分散しており、局所的な損傷にもかかわらず脳機能を可能にする（ラシュリーの実験によって支持される）。",
+      "情報は樹状突起網における波動干渉パターンを介して符号化される。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、数学的（ホログラフィックなモデル）、経験的（神経生物学的な病変研究）、理論的（量子物理学）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能だが、脳内で必要な量子生物学的条件を検証することには極度の経験的困難がある。",
+    "known_empirical_interventions_or_tests": [
+      "大脳皮質の広範な病変にもかかわらず頑健な記憶機能を示すラシュリーのエングラム実験。"
+    ],
+    "criticisms_and_tensions": "主流の神経科学は、経験的支持の欠如、とりわけ脳の高温で雑音の多い環境で干渉性のある量子効果がいかに維持されうるか（デコヒーレンスの課題）を理由に、この理論を斥ける。",
+    "open_questions_and_limitations": "量子的貯蔵の正確な物理的基体と量子干渉性を維持する機構は不明のままであり、主流の科学によって大きく斥けられている。",
+    "ontological_coherence": "量子物理学と情報理論の拡張されたモデルの内部では整合的だが、古典的な還元主義的唯物論とは根本的に相容れない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "意識が古典的計算だけではなく特定の量子的／物理的性質（樹状突起の振動や波動干渉のような）に依存しているならば、人工システムはこの特定の、現在のところ未知の物理的構造を再現する場合にのみ意識的となりうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "きわめて起こりにくい／否",
+      "rationale": "意識は物理的な脳の樹状突起網内部の創発的な量子動態に結びついている。この物理的構造の破壊は、物理主義的存在論と整合的に、通常は意識の終止を伴う。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確実／人間的な意味のみ",
+      "rationale": "純粋に機構論的で物理主義的な理論（ただし型破りな物理学を援用するもの）として、それは内在的な宇宙的意味や価値を必要とはしないが、人間の経験と価値創造の物理的基盤について示唆を与える。"
+    },
+    "virtual_immortality": {
+      "stance": "条件付き",
+      "rationale": "仮想的不死は、技術が生物学的な脳のきわめて複雑で高度に敏感な量子的／ホログラフィックなパターンと動態を完全に測定し、写像し、非生物学的基体において再現できる場合にのみ理論上可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "拡張／協働"
+      },
+      {
+        "name": "Bohm's Implicate-Explicate Order",
+        "relationship": "影響／協働"
+      },
+      {
+        "name": "Holonomic Principle",
+        "relationship": "影響"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Holonomic Brain Theory",
+        "year": "N/A"
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Wholeness and the Implicate Order, David Bohm",
+        "year": 1980
+      }
+    ]
+  }
+}

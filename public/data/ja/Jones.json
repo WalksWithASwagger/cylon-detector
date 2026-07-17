@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "ジョーンズの電磁場理論",
+    "summary": "本理論は、心が脳の集合的な電気活動によって生成される神経電磁（EM）場と同一であるという考えを分類し支持する。この統一された場は神経回路と相互作用すると考えられ、意識の統一の基盤を提供し、クオリアの起源に取り組む。",
+    "associated_thinkers": ["Mostyn Jones"],
+    "category": "唯物論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "心は統一された神経電磁場である",
+    "classification_tags": [
+      "electromagnetic field",
+      "identity theory",
+      "neurobiological",
+      "panpsychism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（心）は、脳の集合的な電気活動によって生成される統一された神経電磁（EM）場と同一視される。あるいは特定の変種においては、意識は神経電気的に統一する物質エネルギーの根本的本性である。",
+    "ontological_status": "物理主義／唯物論（第一の分類）。ジョーンズが支持する神経電気的汎心論の変種においては、一元論的／汎心論的見解と重なる。",
+    "mind_body_relationship": "同一説：最も単純な説明は、心が神経EM場と同一であるというものである。これらの場はまた神経細胞や回路と因果的に相互作用する。",
+    "primitive_or_emergent_status": "創発的（集合した神経活動から）、あるいは原初的（意識が物質エネルギーの真の本性である神経電気的汎心論の変種において）。唯物論／神経生物学的枠組みのもとに置かれるため、主として創発的と分類される。",
+    "emergence_type": "弱い創発（電磁場は根底にある神経過程の直接的な物理的帰結である）。",
+    "subjectivity_and_intentionality": "主観性は、脳における微小経験の電気的結合によって生み出される統一された構造から生じる（ジョーンズの神経電気的汎心論の変種が論じるとおり）。",
+    "qualia_account": "本理論はクオリアを説明課題に据える。神経電気的汎心論の変種は、神経電気的活動が異なるクオリアを生成し統一すると示唆し、意識を物質エネルギーの真の本性と措定することでハードプロブレムに取り組む。",
+    "ontological_commitments": "神経電流、脳全体にわたる電磁場（EM）、および神経回路。",
+    "epistemic_access": "同期的な神経放電のような脳内の電気活動の経験的測定と観察を通じてアクセス可能である。",
+    "constituents_and_structure": "意識は、複数の特定の神経電流の累積的集合によって生成される脳全体にわたるEM場によって形成される統一されたパターンである。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（クオリア）、心の統一、および認知的結合。",
+    "distinctive_mechanism_or_principle": "心は、特定の神経電流によって生成されるより広範な脳全体にわたるEM場によって構成され、それが意識の統一された基盤として働く。",
+    "dynamics_of_emergence": "意識は、振動する神経放電の同期、とりわけガンマ帯域（30〜80 Hz）の同期のようなメカニズムから動的に生じ、これは統合的メカニズムとして働くと提案される。",
+    "location_and_distribution": "意識の基盤は、脳内の脳全体にわたる電磁場の精緻な三次元的網目である。",
+    "causation_and_functional_role": "統一された神経EM場は、相関を説明するために神経細胞や回路と相互作用し、脳の作動を導くのを助ける。",
+    "integration_or_binding": "経験の統一（心の統一）は、統一された神経電磁場そのものの統合された物理的構造によって自然に達成される。",
+    "information_flow_or_representation": "EM場は情報を符号化すると仮定されるが、場が回路と因果的に相互作用するという事実を超えて、詳細な流れのメカニズムは明示的に示されていない。",
+    "evolutionary_account": "出典はこの特定の理論の出現についての進化論的説明を明示的に詳述していない。（根拠：出典の制約。）",
+    "core_claims_and_evidence": [
+      "心は神経電磁場と同一であり、心と場の統一の説明を単純化する。",
+      "統一された神経電磁場は神経細胞や回路と因果的に相互作用する。",
+      "証拠は、同期的な神経放電（ガンマ振動）が意識の統合的メカニズムとして働くことを指し示す。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的（神経同期と場の生成に関する研究）および概念的／哲学的（同一性を最も単純な説明として措定する）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能。ジョーンズは、高度に思弁的な神経電気的汎心論の変種でさえ検証可能であると措定する。",
+    "known_empirical_interventions_or_tests": [
+      "認知行為と統合の相関物としての、振動する神経放電の同期（例えば30〜80 Hzのガンマ振動）の測定。"
+    ],
+    "criticisms_and_tensions": "電磁場理論は一般に依然として論争的であり、神経生物学者や哲学者にしばしば無視される。神経電気的汎心論という特定の提案は急進的な同一性主張である。",
+    "open_questions_and_limitations": "第一の未解決の問題は、EM場が（もしあるとすれば）いかなる因果的機能に資するのか、そしてこれらの場が相関を超えて現象的経験（クオリア）にいかに直接関わるのかを正確に定義することである。",
+    "ontological_coherence": "物理的な場を意識の基盤として受け入れる拡張された唯物論的存在論の内では整合的である。神経電気的汎心論の変種を含めることは、意識を物質エネルギーの根本的本性と措定することによって存在論的整合性を複雑にする。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "唯物論的／電磁場理論として、意識は特定の物理的な場の構造に依拠する。技術が必要なEM場パターンを生成し操作しうるハードウェアを複製できるならば、AIの意識は原理的に達成可能であるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は、生物学的な脳の継続的活動によって生成される特定の物理的な場のパターンとして定義される。場を生み出す生物学的機構が崩壊すれば意識も停止するだろう。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "本理論は物理的メカニズムと原理（唯物論）に根ざしており、意識は外的な宇宙的目的論や究極的意味なしに自然に生じることを示唆する。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "仮想的不死は意識の基盤の複製に依拠する。意識的な心が精密で複雑なEM場パターンへと還元可能であるならば、このパターンは非生物学的媒体で複製可能であるはずであり、実践的には達成が極めて複雑ではあれ、デジタルな継続を可能にする。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McFadden’s Conscious Electromagnetic Information Theory",
+        "relationship": "重複"
+      },
+      {
+        "name": "Pockett’s Conscious and Non-Conscious Patterns",
+        "relationship": "重複"
+      },
+      {
+        "name": "Neuroelectrical Panpsychism",
+        "relationship": "拡張／変種"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "対比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Electromagnetic-field theories of mind",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Mounting evidence that minds are neural EM fields interacting with brains",
+        "year": 2017
+      },
+      {
+        "title_with_names": "A simple, testable mind–body solution?",
+        "year": 2024
+      }
+    ]
+  }
+}

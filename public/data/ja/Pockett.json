@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "ポケットの意識的・非意識的パターン",
+    "summary": "この電磁場理論は、意識的経験が脳によって生成される特定の電磁パターンと同一であると主張する。意識は物理的なもの、すなわち空間的な電磁パターンであって神経過程ではないと強調し、意識的パターンの特定の三次元的形状についての定義を必要とする。",
+    "associated_thinkers": ["Susan Pockett"],
+    "category": "唯物論の諸理論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "「空間的電磁パターンとしての意識」",
+    "classification_tags": [
+      "electromagnetic field",
+      "materialism",
+      "identity theory",
+      "neurobiological",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳によって生成される空間的な電磁（EM）パターンあるいは「もの」として同定され、とりわけ意識的経験と特定のEMパターンとのあいだの同一性を主張する。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一説。意識的経験は特定の電磁パターンと文字どおり同一である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。意識は進行中の無意識的処理から生じ、その諸性質は原理的には基底にある物理学／電磁気学に還元可能であることを含意する。ただしこれは出典資料において弱い創発として明示されているのではなく暗黙のものである。",
+    "subjectivity_and_intentionality": "明示的に詳述されていない。焦点は、感じることや志向性という主観的過程ではなく、意識的パターンの客観的な物理的本性（三次元的形状）に置かれているためである。",
+    "qualia_account": "クオリアは、意識的電磁パターンの独自の三次元的形状によって定まる特定の質的特徴に対応する。",
+    "ontological_commitments": "物理的な電磁場（EM）、神経的なウェットウェア、そしてEM場における明確な三次元的幾何学パターン。",
+    "epistemic_access": "電磁場の特徴の物理的測定とモデル化を通じて、また意識的な場と非意識的な場の差異に関する検証可能な仮説を通じて、アクセス可能である。",
+    "constituents_and_structure": "哺乳類の脳における進行中の無意識的処理によって生成される空間的電磁パターンであり、特定の独自の三次元的形状を特徴とする。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識",
+    "distinctive_mechanism_or_principle": "意識を定義づける特徴は、脳の電磁場（EMパターン）における特定の三次元的形状あるいは特性の存在であり、これがあらゆる非意識的なEM活動から意識を区別する。",
+    "dynamics_of_emergence": "動的な過程／状態。意識は進行中の無意識的処理（過程）によって生成されるが、任意の瞬間には結果として生じる静的なパターン（もの）として存在する。",
+    "location_and_distribution": "哺乳類の脳の特定の時と場所で生成される特定の空間的電磁パターンとして局在する。",
+    "causation_and_functional_role": "明示的に詳述されていない。その役割は位置づけと同定に関わる（意識が当のパターンで「ある」）ものであり、暗黙のうちに脳機能に結びついているが、意識を（焦点的注意のような）第一次的過程とみなす見解を斥ける。",
+    "integration_or_binding": "明示的には扱われていないが、意識を単一の統一されたEMパターンと同定することによって暗黙のうちに解決される。",
+    "information_flow_or_representation": "脳における情報処理は無意識的である。意識は、この無意識的処理によって生成される結果としての電磁パターンである。",
+    "evolutionary_account": "明示的には扱われていないが、創発は必要なEM場の特徴を生成しうる脳構造に依存する。",
+    "core_claims_and_evidence": [
+      "意識的経験は脳によって生成される特定の電磁パターンと同一である",
+      "意識は過程ではなくもの（空間的EMパターン）である",
+      "一部の神経処理が意識的であるという錯覚は、主として意識を（焦点的注意のような）無意識的過程から区別しそこなうことから生じる"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的議論と、脳の場の幾何学に関する潜在的な経験的検証可能性との組み合わせ。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "根底にある前提は、意識的な電磁場と非意識的な電磁場とを区別する三次元的特徴を特定することに関する検証可能な仮説である。",
+    "criticisms_and_tensions": "この理論は、意識が過程であるという認知心理学の主流の見解（機能主義的教条）と根本的に矛盾する。主たる課題は、意識的パターンを構成する特定の三次元的空間特徴を厳密に定義することである。",
+    "open_questions_and_limitations": "意識的な電磁場を特徴づける正確な三次元的形状あるいはパターンはいまだ特定されておらず、意識の必要十分条件が不明のままである。",
+    "ontological_coherence": "拡張された物理主義の枠組みの内部では高度に整合的であり、意識をすでに神経活動の産物である物理的基体（EM場）によって定義する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能",
+      "rationale": "意識的なEMパターンは、原理的には生物学的ウェットウェアではなく特殊なハードウェアによって生成されうる。ただしそのハードウェアが必要な場の特徴を再現できることが条件となる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は物理的な脳によって生成される特定のEMパターンと同一である。生物学的な死と脳の崩壊とともに、これらのパターンは存在しなくなる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的な意味のみ",
+      "rationale": "純粋に唯物論的・物理主義的な理論として、意識は実在する物理的現象ではあるものの、人間の経験によって作り出されるもの以上の宇宙的目的や究極的価値の証拠を与えないことを示唆する。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "意識を構成するEMパターンが完全に測定され、非生物学的ハードウェアによって再現あるいはシミュレートされうるならば、一人称の自己は理論上、新たな媒体において存続しうる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McFadden’s Conscious Electromagnetic Information Theory",
+        "relationship": "重複"
+      },
+      {
+        "name": "Jones’s Electromagnetic Fields",
+        "relationship": "重複"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The electromagnetic field theory of consciousness",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Consciousness is a thing, not a process",
+        "year": 2017
+      }
+    ]
+  }
+}

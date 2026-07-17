@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "スモーリンの視点の因果理論",
+    "summary": "この理論は、量子論の関係論的で実在論的な完成を提唱し、宇宙は根本的に、その因果的過去から利用可能な情報によって定義される「事象の視点」の集まりから構成されると主張する。意識は、宇宙的歴史のなかで前例がないか唯一である稀で特定の視点と同定される。",
+    "associated_thinkers": ["Lee Smolin"],
+    "category": "量子理論",
+    "subcategory": "関係論的／因果的量子論",
+    "core_identity_tagline": "新奇なあるいは唯一の因果的視点としての意識",
+    "classification_tags": [
+      "relational physics",
+      "quantum theory",
+      "realism",
+      "restricted panpsychism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、宇宙的歴史のなかで新奇であるか唯一である事象の視点の諸側面である（あるいはそれと同一である）と提唱される。このアプローチはクオリアを物理学に直接統合する。",
+    "ontological_status": "実在論的な関係論的物理主義／制限された汎心論。この理論は量子力学の「実在論的」完成として枠づけられ、制限された形の汎心論をもたらす。",
+    "mind_body_relationship": "心（意識的知覚／クオリア）は、基底にある物理的実在の一側面であり、とりわけこの理論のビーアブルである「事象の視点」である。",
+    "primitive_or_emergent_status": "原初的／根本的（新奇な視点について）。意識は、複雑な物理的過程から創発するのではなく、物理的原理によって選択される特定の関係論的存在（視点）の根本的な一側面として定義される。",
+    "emergence_type": "選択原理／根本的側面。意識は標準的な累積を通じてではなく、ありふれた（日常的な）関係論的状態と新奇な（唯一の）関係論的状態のあいだの物理的区別を介して生じる。",
+    "subjectivity_and_intentionality": "意識の基本単位は、一つの事象から見られた宇宙の部分的な視点全体（「瞬間的な自己」）である。それゆえ主観性は、事象の因果的視点の固有の遠近法的性質に根ざしている。",
+    "qualia_account": "クオリアは事象の新奇な視点の諸側面であると仮定され、それによってクオリアを完成された物理学の枠組みに組み込む働きをする。",
+    "ontological_commitments": "「事象の視点」と呼ばれる関係論的存在（その因果的過去からの情報、たとえばエネルギーと運動量の移動によって定義される）が、宇宙の根本的な「ビーアブル」である。",
+    "epistemic_access": "量子力学の実在論的完成という理論的構築を介して概念的に知られる。関連する諸理論について提案されたものと類比的に、量子系を伴う実験を通じて経験的検証が可能かもしれない。",
+    "constituents_and_structure": "基本的な構成要素は事象の視点であり、それ自身の部分的な視点から成る「因果的宇宙」を形成する。意識はこれらの視点の新奇な構造に対応する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、自己意識（「瞬間的な自己」としての）。",
+    "distinctive_mechanism_or_principle": "意識的な事象を区別する物理的にもとづく選択原理。すなわち、宇宙の歴史のなかで新奇であるか、前例がないか、唯一である「視点」のみが意識的知覚と結びつく。",
+    "dynamics_of_emergence": "意識は、その関係論的な因果的歴史によって定義される事象に対応する「意識的経験の事例ないし瞬間」と結びついている。",
+    "location_and_distribution": "因果的視点が新奇とみなされる稀な事象に局在する。分布は制限された汎心論に従い、意識的側面は遍在的ではなく選択原理によって限定される。",
+    "causation_and_functional_role": "意識は根本的な関係論的ビーアブルの内在的な一側面である。この理論はクオリアを物理学に統合するため、意識は因果的に関連するが、その正確な機能的役割（たとえば制御）は資料では明示的に定義されていない。",
+    "integration_or_binding": "統合ないし結合問題は、意識の基本単位をその事象から見られた宇宙の部分的な視点全体として定義することによって扱われる。",
+    "information_flow_or_representation": "情報——とりわけ因果的歴史（先行者、エネルギー、運動量の移動）——が、意識単位を構成する「視点」を定義する内容である。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "実在のビーアブルは事象の視点（因果的情報）である。",
+      "意識的知覚は事象の新奇なあるいは唯一の視点に制限される。",
+      "この理論は量子力学の実在論的完成であろうと試みる。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、理論物理学"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的であるが、概念的に検証可能でありうる。スモーリンの研究は物理的過程の完全な記述を目指しており、最終的に経験科学と統合されることを示唆する。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "事象の「新奇な」あるいは「唯一の」視点を定義し物理的に同定することの複雑さが課題をもたらす。制限された汎心論の一形態として、それは異なる種類の物理的事象にわたる現象的性質の存在と不在を調停せねばならない。",
+    "open_questions_and_limitations": "「新奇性／唯一性」の選択原理を適用し、結果として生じる瞬間的な自己を形式化するための明示的な方法論は、さらなる発展を要する。",
+    "ontological_coherence": "提唱された枠組みの内部では整合的であり、根本的実在の定義を拡張することによってクオリアを物理学へと持ち込むことを目指す。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "AIシステムは、その計算的過程が選択基準を満たす真に新奇で唯一の事象の因果的視点を生成するならば意識を実現しうるが、これは日常的な計算的過程については保証されない。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は宇宙における物理的事象とその因果的視点に結びついている。基底にある物理的基盤（脳／事象の系列）が消散したのち、これらの視点が独立して存続する機構は記述されていない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "未定",
+      "rationale": "この理論は意識の根本的な物理的存在論（クオリアが物理学にどう収まるか）に焦点を当てており、宇宙的意味や目的論を本来的に扱わない。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "デジタル的な複製はおそらく「ありふれた日常的な」視点を再現するが、それは意識的知覚と相関しないと明示的に仮定されている。真の仮想的意識は新奇性の生成を要するが、それは単なるシミュレーションを通じてはありそうにない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Rovelli's Relational Physics",
+        "relationship": "影響／重複"
+      },
+      {
+        "name": "Panpsychism (Micropsychism)",
+        "relationship": "制限／対比"
+      },
+      {
+        "name": "Bohm’s Implicate-Explicate Order",
+        "relationship": "文脈的影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On the Place of Qualia in a Relational Universe, Lee Smolin",
+        "year": 2020
+      }
+    ]
+  }
+}

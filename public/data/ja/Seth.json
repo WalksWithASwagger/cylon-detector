@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "セスの「獣機械」理論",
+    "summary": "この理論は、世界や自己の知覚を含む意識的経験は、脳にもとづく知覚的予測の一形態であり、比喩的に「制御された幻覚」と呼ばれると主張する。それは、意識の機構を、生き続けるために身体の生理を調整するという根本的な生物学的要請に基礎づける。",
+    "associated_thinkers": ["Anil Seth"],
+    "category": "唯物論の諸理論",
+    "subcategory": "恒常性維持的・情動的",
+    "core_identity_tagline": "「予測にもとづく制御された幻覚としての意識」",
+    "classification_tags": [
+      "neurobiology",
+      "predictive processing",
+      "homeostatic",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳にもとづく知覚的予測の一形態として同定され、そこでは現象学的性質が、さまざまな形の予測の計算的側面によって説明される。",
+    "ontological_status": "物理主義／唯物論（唯物論の諸理論への分類と、生物学的および計算的な説明への依拠によって根拠づけられる）。",
+    "mind_body_relationship": "意識的経験は全面的に脳にもとづき、物理的に具現化されている。このモデルは、身体調整に向けられた生理的・計算的な構造から意識的性質が生じるという、強い相関ないし同一性理論を支持する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（根拠：この理論は、主観的経験が複雑な計算的脳過程から生じると提唱する唯物論的説明である。これらの過程は、弱い創発に特徴的なように、原理的に基底にある物理法則によって説明可能であると想定される。）",
+    "subjectivity_and_intentionality": "知覚がトップダウン予測の内容によって決定されるため主観性が生じ、実在によって制約された「内側から外側への神経的空想」である現象的経験をもたらす。この理論は、世界の経験と自己の経験の違いを説明することによって自己経験を説明する。",
+    "qualia_account": "意識的経験の現象学的性質は、脳が用いるさまざまな形の知覚的予測の計算的側面によって説明される。",
+    "ontological_commitments": "生物学的な脳、神経活動、予測的処理の機構、および基底にある身体的生理調整の機構。",
+    "epistemic_access": "神経科学的・計算的方法、とりわけ脳機能の予測的処理モデルを探究するものを通じてアクセス可能である。",
+    "constituents_and_structure": "ボトムアップの感覚信号と相互作用するトップダウン予測から成る計算的構造であり、内的状態を調整しようとする生物学的システムの試みに根ざしている。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、自己経験、知覚。",
+    "distinctive_mechanism_or_principle": "意識は予測的処理を通じて説明され、そこでは脳がその感覚入力の原因についての絶えざる「最善の推測」（予測）を生成する。この機構は身体の生理調整に本来的に結びついている。",
+    "dynamics_of_emergence": "意識は、経験が継続する予測から生じる動的な過程である。それは、実在によって絶えず抑制される「覚醒中の夢」に似ている。",
+    "location_and_distribution": "生物学的な脳に位置し、身体の生理を調整する予測的機構に結びついている。",
+    "causation_and_functional_role": "意識は生存に結びついた機能的役割をもつ。それは身体の生理調整を促進し、有機体が感覚入力の原因をモデル化し、予測し、シミュレートすることを可能にする。",
+    "integration_or_binding": "統合は、曖昧な感覚信号をトップダウン予測を介して統一する首尾一貫した知覚的世界——「制御された幻覚」——の形成を通じて達成される。",
+    "information_flow_or_representation": "意識的知覚は、ボトムアップの感覚信号そのものではなく、トップダウン予測の内容によって決定される。感覚信号は外的原因の表象として解釈される。",
+    "evolutionary_account": "意識は、身体の生理を調整し生存を確保する（生き続ける）という根本的な生物学的要請によって駆動される系統発生的進化を通じて生じた。",
+    "core_claims_and_evidence": [
+      "意識的経験は、脳にもとづく予測の一形態（「制御された幻覚」）である。",
+      "現象学的性質は、知覚的予測の計算的側面によって説明される。",
+      "意識の基底にある予測的機構は、身体の生理を調整するという生物学的要請を介して生じた。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的、神経生物学的、計算的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（推論。この理論は、理論の展開、検証、比較を重視する神経生物学的・計算的な諸分野の概念に依拠するため）。",
+    "known_empirical_interventions_or_tests": "脳の知覚、認知、行為の予測的処理による説明を伴う検証（根拠：具体的な名前のついた検証は提供されていないが、この理論は明示的に予測的処理の枠組みのなかに位置づけられている）。",
+    "criticisms_and_tensions": "資料には明示的に詳述されていないが、概して意識の収縮的な説明に内在する緊張の対象となる。",
+    "open_questions_and_limitations": "意識の多くの理論と同様に、経験的データが蓄積するにつれて理論が決定的に排除されるどころか増殖するように見えるという一般的な課題に直面する。",
+    "ontological_coherence": "物理主義的かつ生物学的自然主義的な枠組みの内部で高度に整合的であり、生物学的機能と計算から導かれる意識の体系的な説明を提供する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "計算的で情報処理的な機構（知覚的予測）に焦点を当てる唯物論の理論として、類似の複雑な機構を具現化するAIシステムは意識を実現できるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は、生物学的な脳と、複雑で物理的に具現化された予測的機構の産物である。脳の死は、個人的意識の取り返しのつかない永久的な非存在をもたらす。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "唯物論の理論に分類され、究極的あるいは宇宙的な意味や目的を含意しないが、個人の行為主体性と経験から導かれる人間が創出する意味と価値を支持する。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "意識が脳の計算的過程によって全面的に説明可能であるならば、原理的に一人称的な心的自己は非生物学的な基盤において複製・具現化されえ、仮想的不死を可能にする。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "重複"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "T. Clark’s Content Hypothesis",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Being You: A New Science of Consciousness, Anil Seth",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Theories of consciousness, Anil Seth and Tim Bayne",
+        "year": 2022
+      }
+    ]
+  }
+}

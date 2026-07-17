@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "バッハの皮質指揮者理論",
+    "summary": "この理論は現象的意識の機能的説明を提供し、皮質構造、とりわけ「指揮者」と呼ばれる計算論的実体が、報酬駆動型学習を通じて脳活動を調整するよう訓練されると提唱する。意識は、経験をもったことの再構成された記憶として同定され、反省と学習のためのプロトコルに統合される。",
+    "associated_thinkers": [
+      "Joscha Bach"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "最新の記憶としての意識",
+    "classification_tags": [
+      "functionalism",
+      "memory",
+      "computation",
+      "reflection",
+      "attention"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象的意識は、前頭前皮質が注意を向けた対象についての最新の記憶として機能的に同定され、指揮者のプロトコルを介して蓄積・再創出される。経験そのものの現実性は無関係とみなされる。",
+    "ontological_status": "物理主義／唯物論（脳の計算論的構造に根ざした意識の機能主義的モデルとして）。",
+    "mind_body_relationship": "意識的状態は皮質内の特定の計算論的構造（指揮者とその統合されたプロトコル）によって実現され、唯物論と整合する機能的実現／同一の関係を反映する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（意識的状態は、根底にある皮質機構と報酬駆動型学習の機能と構造から完全に説明され導かれる）。",
+    "subjectivity_and_intentionality": "「指揮者」は注意を方向づけ、諸過程を反省と首尾一貫した自己モデルの生成に用いられるプロトコルへと統合し、これが主観性と志向性を説明する。",
+    "qualia_account": "クオリア（現象的意識）は、経験をもったことの記憶あるいは再構成として機能的に理解され、指揮者のプロトコルに反映される。",
+    "ontological_commitments": "皮質構造、計算論的構造（「指揮者」）、報酬駆動型の学習信号、および統合された情報的プロトコル。",
+    "epistemic_access": "意識は、指揮者による統合されたプロトコルへの反省を通じてアクセスされる。",
+    "constituents_and_structure": "指揮者は、背外側前頭前皮質、前帯状皮質、前島皮質に関連すると考えられる計算論的構造として機能的に同定され、反省プロトコルを生成することによって中心的な統合機構として作動する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（経験の記憶と定義される）、アクセス意識、反省、自己認識（首尾一貫した自己モデルとして）。",
+    "distinctive_mechanism_or_principle": "報酬駆動型学習を介して訓練される「指揮者」という計算論的構造が、他の皮質機能を調整し、注意を向けられた情報をプロトコルへと統合する。",
+    "dynamics_of_emergence": "意識は、指揮者の訓練と継続的な作動から生じる動的過程であり、絶えず更新され再構成可能な記憶プロトコルとして発現する。",
+    "location_and_distribution": "脳の調整系に機能的に局在し、背外側前頭前皮質、前帯状皮質、前島皮質を関与させると考えられる。",
+    "causation_and_functional_role": "指揮者は実行機能を提供し、注意を方向づけ、経験を統合する。意識そのものは中心的統合と反省・学習を可能にする。",
+    "integration_or_binding": "指揮者は経験がプロトコルへと統合される唯一の場所であり、中心的統合を提供する。",
+    "information_flow_or_representation": "情報の流れは指揮者によって調整され、プロトコルへと統合される。現象的意識は、蓄積されたリンクとパラメータ（記憶）を介してこのプロトコルを再活性化することを伴う。",
+    "evolutionary_account": "指揮者の機能を支える皮質構造は報酬駆動型学習の産物であり、適応的な進化の経路を示唆する。",
+    "core_claims_and_evidence": [
+      "意識は「指揮者」と呼ばれる計算論的構造に基づく機能的説明である。",
+      "現象的意識は、指揮者が注意を向けた対象についての最新の記憶である。",
+      "指揮者は経験を反省と学習に用いられるプロトコルへと統合する。",
+      "指揮者を欠く脳は、中心的統合と反省を欠く「夢遊病者」として機能するだろう。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算論的、機能主義的、認知科学。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能／モデル化可能（計算論的構造と皮質構造に結びついた必要十分条件によって定義される）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主たる緊張は、現象的意識を単なる経験の記憶として定義し、経験そのものの現実性は無関係であると主張することでハードプロブレムを回避する点にある。",
+    "open_questions_and_limitations": "この理論は、その経験をもつことが「どのようであるか」という内在的で質的な本性を説明することを避け、代わりにそれについてのアクセス可能な記憶に焦点を当てる機能的定義に強く依拠する。",
+    "ontological_coherence": "機能主義的および唯物論的パラダイムの内部で高度に整合的であり、計算論的神経生物学に根ざした、デフレ的ではあるが包括的な説明を提供する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "バッハは AI の意識に強気である。意識を経験の記憶として機能的に定義することは、計算を行いその記憶を報告できる人工システムにおける意識の実装を単純化するからである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識を特定の皮質構造と計算論的構造（指揮者）に結びつける唯物論的理論として、物理的基体が機能しなくなると意識は終焉する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的／派生的",
+      "rationale": "唯物論の理論として、究極的な宇宙的意味は存在しないと示唆する。意味と目的は、首尾一貫した自己モデルを創り出し報酬駆動型学習に基づいて実行機能を導く指揮者の能力を介して、内的に派生する。"
+    },
+    "virtual_immortality": {
+      "stance": "ありそう",
+      "rationale": "意識は計算論的構造から生じる情報的プロトコル／記憶として定義されるため、この機能的状態を非生物学的媒体へ完全に複製・アップロードすることは仮想的不死をもたらすはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "類似／整合的"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "類似／整合的"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "対比（CTC は機能主義的であり、IIT の構造的定義とは異なる）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The cortical conductor theory: towards addressing consciousness in AI models, Joscha Bach",
+        "year": 2019
+      }
+    ]
+  }
+}

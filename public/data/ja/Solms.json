@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "ソームズの意識の隠された源泉としての情動",
+    "summary": "この理論は、意識の基本的な形を情動（感じ）と同定し、その生理的機構を上部脳幹に位置づけ、恒常性維持の拡張された形態として機能させる。それはフリストンの自由エネルギー原理を適用し、情動的経験（快／不快）が、複雑な有機体が環境の不確実性を監視し生存行動を最適化するために用いる効率的な機構であると論じる。",
+    "associated_thinkers": ["Mark Solms"],
+    "category": "唯物論",
+    "subcategory": "恒常性維持的・情動的",
+    "core_identity_tagline": "意識の基礎的な形としての情動",
+    "classification_tags": [
+      "affect",
+      "homeostasis",
+      "free energy principle",
+      "brainstem",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、感覚的主観性というその基本的な形において、情動（感じ）によって構成される。情動は自由エネルギー最小化を実装する（予期しない不確実性は不快として感じられ、その減少は快として感じられる）。",
+    "ontological_status": "二側面一元論（物理主義的枠組みの内部で解釈される）。このモデルは、生理的現象と心理的現象を、単一の基底にある過程の二重の現れとみなし、それを単一の物理的原因へと還元可能とし、生物学的機構への実践的適用において唯物論に合致する。",
+    "mind_body_relationship": "二側面的。生理的現象と心理的現象は、一方が他方を引き起こすのではなく、単一の基底にある統一された過程（放電の類比）の相補的な現れである。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（根拠：意識の機能的機構は、自由エネルギー則のような物理法則へと還元可能であると主張され、意識は新奇に見えるかもしれないが原理的に根本的な物理学によって説明可能であることを示唆する。）",
+    "subjectivity_and_intentionality": "感覚的主観性は文字どおり情動によって構成され、それが有機体に能動的にエントロピーへ抗することを可能にする。志向性は、自己組織化するシステムがその行動を決定するために自らの自由エネルギー（実存的欲求）について慢性的に「問い」を発せねばならないことから生じる。",
+    "qualia_account": "クオリアは、複雑な有機体の複数の欲求を効率的に符号化する「色分けされた」ないし「風味づけされた」範疇変数（情動、たとえば渇きと恐怖）として説明され、生存最適化のための計算的に複雑な「組み合わせ爆発」を回避する。",
+    "ontological_commitments": "物理法則（自由エネルギー則など）、生理的過程（拡張された恒常性維持）、および上部脳幹／網様体賦活系の特定の構造。",
+    "epistemic_access": "対応する神経生理学的事象の探究（三人称的）と、一人称的な情動的経験の疑いえない実在性を通じてアクセス可能である。",
+    "constituents_and_structure": "本質的な構造は上部脳幹において実現される拡張された恒常性維持機構であり、そこでは皮質意識がこの基礎的な脳幹意識に依存している。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（情動的／感覚的主観性）、行為主体性、生存最適化。",
+    "distinctive_mechanism_or_principle": "上部脳幹における情動的状態（快／不快）としての自由エネルギー原理（FEP）の実装であり、それが有機体の行動を安定へと導く。",
+    "dynamics_of_emergence": "意識は、自己組織化するシステムが自らの実存的欲求を監視し、予期される不確実性を最小化するための予測的行動を生成する必要性から生じる動的な過程である。",
+    "location_and_distribution": "基礎的な機構は上部脳幹／網様体賦活系に位置する。皮質意識（内容）はこの脳幹の情動的意識（水準）によって可能となり、それに依存する。",
+    "causation_and_functional_role": "情動は、環境との相互作用を監視し、行動を修正し、予測不能な文脈における生存を最適化する高度に効率的なアルゴリズムとして機能することで、決定的な因果的役割を果たす。",
+    "integration_or_binding": "相反する生物学的欲求（たとえば恐怖と眠気）の統合は、それらを別個の質的な情動（クオリア／風味）として符号化することで効率的に達成され、過度の計算なしに文脈依存的な解決を可能にする。",
+    "information_flow_or_representation": "意識は、実存的欲求に関して能動的に世界と関わらねばならない情報処理システムに結びついている。情動は、予期される不確実性（情報）の変化を監視することに結びついた感じである。",
+    "evolutionary_account": "情動という形の意識は、複雑な有機体が予測不能な環境に対処し、生存のための複数の文脈依存的な欲求を管理することを可能にする最も効率的な機構（アルゴリズム）として進化した。",
+    "core_claims_and_evidence": [
+      "情動は意識の基礎的な形であり、上部脳幹に起源をもつ。",
+      "核心的な機構はフリストンの自由エネルギー則に還元され、意識を数学的に扱いやすくする。",
+      "意識は自然の一部であり、エントロピーへの能動的な抵抗から生じる。",
+      "上部脳幹への損傷は確実に意識を消失させ、その基礎的役割を裏づける。"
+    ],
+    "basis_of_belief_or_evidence_type": "神経生物学的、現象学的、計算的（FEP）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（とりわけ脳幹の役割と情動の本性に関して）。",
+    "known_empirical_interventions_or_tests": [
+      "意識の喪失を網様体賦活系（上部脳幹）への損傷と相関させること。",
+      "主観的な快／不快と相関するFEPのパラメータの経験的探究。"
+    ],
+    "criticisms_and_tensions": "この理論は、脳幹が意識の*水準*（覚醒／昏睡）のみを調整しその*質的内容*は調整しないという伝統的な見解に対して説得力をもって論じねばならない。二側面一元論という自己記述は、生理的機構にもとづく唯物論の理論への分類を踏まえると、哲学的に微妙である。",
+    "open_questions_and_limitations": "エントロピーへの能動的な抵抗が、その機能的必要性を主張することを超えて、いかにして有機体にとって「何らかのように感じられる」かを説明する正確な機構は、さらなる説明を要する領域のままである。",
+    "ontological_coherence": "高い整合性。この枠組みは主観的経験を、物理法則（FEP）に支配された数学的に扱いやすい自然主義的なシステムのうちにうまく埋め込み、物理的に基礎づけられた心の理解を支持する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "この理論が正しければ、システムが能動的にエントロピーへ抗し実存的欲求を管理してフィードバックとして情動的状態を生成するように設計されるかぎり、人工的に意識をもつ自己組織化するシステムを工学的に構築しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "唯物論の理論として、意識は全面的に生物学的な脳とその物理的過程に依存しており、有機体の死とともに永久的な非存在を含意する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的／生物学的",
+      "rationale": "意識の核心は生存のための生物学的要請（消滅の回避と自由エネルギーの最小化）に根ざしており、それは生物学的および人間主義的に構築された意味を支えるが、究極的な宇宙的目的は支えない。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "唯物論の理論として、複雑な物理的機構（情動的および恒常性維持的な動態を含む）が合成的な基盤において包括的に複製されうるかぎり、一人称的な心的自己は原理的にアップロード可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "影響／拡張"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批判／対比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The hard problem of consciousness and the free energy principle",
+        "year": 2018
+      },
+      {
+        "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Précis of the hidden spring: a journey to the source of consciousness",
+        "year": 2021
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "直接知覚理論",
+    "summary": "この理論は、知覚に必要なあらゆる情報が観察者の外部にあり、もっぱら遠位刺激の性質に由来すると措定する。\n知覚的意識は外的対象への直接的で分析不可能な気づきの関係であり、内的な推論、記憶、あるいは表象の構築の助けを借りずに作動する。",
+    "associated_thinkers": [
+      "Ned Block (as describer of direct realist/naïve realist views)"
+    ],
+    "category": "唯物論",
+    "subcategory": "身体化・エナクティブ",
+    "core_identity_tagline": "「遠位刺激への直接的気づきとしての知覚」",
+    "classification_tags": [
+      "perception",
+      "realism",
+      "non-representational",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象的意識、とりわけその知覚的性格は、環境における対象や性質への直接的な気づきの関係——おそらく原初的で分析不可能な直知の関係——として同定される。",
+    "ontological_status": "直接実在論/素朴実在論（物理主義の一形態）。",
+    "mind_body_relationship": "現象的性格は、知覚経験の存在と個別化が外的対象に直接依存するという意味で「対象によって構成される」ものであり、媒介されない直接的な構成的関係を示唆する。",
+    "primitive_or_emergent_status": "原初的（直接的な気づきの関係それ自体が、原初的で分析不可能な直知の関係であると示唆される）。",
+    "emergence_type": "該当なし（中核的な気づきの関係は原初的で分析不可能なものと記述され、直接的な意識的行為そのものには創発の概念が適用不可能となる）。",
+    "subjectivity_and_intentionality": "主観的な一人称的経験（現象的性格）は外的対象によって直接構成される（志向性）。したがって志向性は非表象的であり、外的対象そのものに依存することによって単純に向きを達成する。",
+    "qualia_account": "質的な感じ（現象的性格）は対象によって構成される。ある経験が異なる対象についてのものであれば、たとえ主観的に区別不可能であっても（例えば完全な幻覚から）、それは異なる現象的性格をもつ。",
+    "ontological_commitments": "遠位刺激（環境における外的対象と性質）、そして原初的で分析不可能な直知の関係（直接的な気づき）。",
+    "epistemic_access": "世界についての知識は、内的表象や媒介する心的状態の内省を通じてではなく、知覚を通じて直接アクセスされる。",
+    "constituents_and_structure": "意識は遠位刺激の性質のみによって構造化される。根本的な構成単位は、独特な実体（感覚与件のような）あるいは環境における対象/性質への直接的な「直知の関係」である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（とりわけ知覚的意識）。",
+    "distinctive_mechanism_or_principle": "中間的処理の欠如。意識は、内的な認知過程（推論、記憶、表象の構築）の助けを借りない外的情報の直接的な検出から生じる。",
+    "dynamics_of_emergence": "この理論は、この関係がいかに生じあるいは時間を通じて変化するかという動的な過程を記述するよりも、直接的な気づきの関係の本性を原初的なものとして焦点化する。",
+    "location_and_distribution": "知覚に必要な情報は観察者の外部にある（脳/身体の外部にあり、遠位刺激に存する）。しかし意識的な現象的経験は観察者において具現化される。",
+    "causation_and_functional_role": "第一の機能的役割は、表象を構築しうる伝統的な認知過程を迂回して、観察者が遠位刺激のみに基づいて対象を正確に知覚することを可能にすることである。",
+    "integration_or_binding": "特定されていない。現象的区別の統合は、計算論的あるいは情報的な結合過程ではなく、対象そのものへの原初的で分析不可能な直知の関係の特徴であると想定される。",
+    "information_flow_or_representation": "情報は外的世界（遠位刺激）から観察者の知覚へと直接流れ、心的表象の内的構築の必要性を退ける。",
+    "evolutionary_account": "提供された諸典拠では明示的に扱われていない。（生態心理学の変種であるギブソンの理論は、有機体と環境の間の進化論的適合を含意するが、直接知覚理論そのものは非表象的機構に焦点を当てる。）",
+    "core_claims_and_evidence": [
+      "知覚は、推論や記憶の助けを借りず、遠位刺激の性質のみに基づく。",
+      "経験の現象的性格は対象によって構成される。対象の変化は現象的性格の変化を必然的に伴う。",
+      "気づきの関係は、表象の問題ではない原初的で分析不可能な直知の関係である。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的・概念的（表象理論に対する素朴実在論の擁護であり、真正な知覚と主観的に区別不可能な幻覚を区別する思考実験に依拠する）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能（思考実験を介して）。認知処理から分離された純粋に「分析不可能な原初的直知の関係」を分離するための経験的検証は困難である。",
+    "known_empirical_interventions_or_tests": "典拠には明示的に列挙されていない。典拠は、実物の知覚と主観的に区別不可能な幻覚の現象的性格を比較するような、理論の概念的含意に焦点を当てる。",
+    "criticisms_and_tensions": "主要な緊張は、主観的に区別不可能な経験（例えば実物のトマトを見ることと、同一のトマトを幻覚すること）が、現象的経験が外的対象の存在に依存するがゆえに、必然的に異なる現象的性格をもたねばならないという含意である。",
+    "open_questions_and_limitations": "「原初的で分析不可能な直知の関係」の正確な本性は未定義のままである。この理論は、実物の対象と主観的に区別不可能な錯覚的あるいは幻覚的経験との間の現象的性格の差異を説明しなければならない。",
+    "ontological_coherence": "内的な現象的性質の媒介を退ける厳格な物理主義的/実在論的存在論の内部では整合的であるが、対象による構成という本性が破綻する幻覚のような現象学的事実によって挑戦される。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定",
+      "rationale": "原初的な直知の関係が、遠位刺激へ直接結合するのに必要な特定の生物学的構造に根本的に依存するならば、AI の意識は不可能かもしれない。この理論は物理主義的/唯物論的であるため、基底の直接的機構が再現されうるならば、AI の意識は可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "いいえ",
+      "rationale": "この理論は経験が外的な物理的環境（遠位刺激）に依存することを強調し、唯物論のもとに分類され、意識が物理的有機体とその環境に結びついていることを示唆する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "条件付き",
+      "rationale": "この理論は主として知覚の機構に関わり、究極的実在や存在には関わらない。唯物論的理論として、我々自身が作り出す人間的な意味、目的、価値へと帰着する。"
+    },
+    "virtual_immortality": {
+      "stance": "不確定",
+      "rationale": "仮想的不死は意識の完全な複製を要する。現象的性格が対象によって構成されるため、仮想的自己が実物の物理的環境への真正な「直接的な気づきの関係」を欠くならば、元の現象的性格を保持しそこねるかもしれない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Naïve Realist Theories",
+        "relationship": "重なり合い"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "重なり合い（反表象的立場を共有する）"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "批判（表象による媒介を退ける）"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批判（現象的性格が機能的役割ではなく対象による構成に基づくため、含意される）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Direct Perception Theory",
+        "year": "APA website"
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking, N. Block",
+        "year": "2023"
+      }
+    ]
+  }
+}

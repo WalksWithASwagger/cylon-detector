@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "宇宙心論",
+    "summary": "宇宙心論(コスモサイキズム)は、宇宙全体が唯一の根本的な意識的存在物であると措定する意識へのアプローチである。\nこの理論は標準的な説明の順序を逆転させ、(人間の心のような)個別の小さなものについての事実は宇宙それ自体についての事実に基づけられると論じる。",
+    "associated_thinkers": [
+      "Philip Goff",
+      "Yujin Nagasawa",
+      "Swami Vivekananda"
+    ],
+    "category": "汎心論",
+    "subcategory": "変種理論",
+    "core_identity_tagline": "根本的な意識的主観としての宇宙",
+    "classification_tags": [
+      "panpsychism",
+      "monism",
+      "teleology",
+      "top-down"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は宇宙(コスモス)の根本的で究極的な本性と同定され、諸個人の意識はそこから派生する。",
+    "ontological_status": "一元論(優先性一元論／観念論の変種)",
+    "mind_body_relationship": "個別の心を含む小さなものについての事実は、宇宙全体についての事実に基づけられる。個別の意識は宇宙的意識に対して存在論的に後続する(トップダウンのアプローチ)。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "宇宙は最小限、何らかの経験あるいは意識をもつ。行為者宇宙心論のような特定の形態は、宇宙が目標指向的な意図をもつ価値に応答する行為者であると示唆する。",
+    "qualia_account": "クオリアは根本的な意識的宇宙・コスモスに内在する側面であり、個別の経験はこの究極的意識の断片あるいは派生的側面である。",
+    "ontological_commitments": "唯一の根本的な意識的存在物、すなわち宇宙(コスモス)の存在。",
+    "epistemic_access": "主として哲学的論証を通じて、とりわけ典型的なボトムアップの存在論を逆転させることによって、また宗教的・哲学的伝統(たとえばヴェーダーンタ)から引かれる類比を通じてアクセスされる。",
+    "constituents_and_structure": "宇宙が唯一の具体的対象であるため、構造は単一的である。個別の意識的経験はこの単一の意識的個体の性質に基づけられる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識(存在論的基盤)、究極的な意味と目的(目的論)。",
+    "distinctive_mechanism_or_principle": "トップダウンの基づけであり、コスモスの意識が諸個人の意識に対して存在論的に先立ちそれを基づける。このメカニズムは標準的な説明の順序(大きなものが小さなものを基づける)を逆転させることによって定義される。",
+    "dynamics_of_emergence": "意識は実在の根本的な素材である。行為者宇宙心論では、宇宙の目的あるいは意図が「なお展開しつつある」ものとして記述される。",
+    "location_and_distribution": "宇宙・コスモス全体。",
+    "causation_and_functional_role": "特定の定式化(行為者宇宙心論)では、意識的なコスモスが宇宙的目的論、物理法則の微調整、生命と心の創発に対する究極的説明を提供する。",
+    "integration_or_binding": "この理論はトップダウンの優先性を採用することで汎心論の結合問題を解決する。コスモスの意識が存在論的に先立つため、ミクロレベルの意識がいかに結合してマクロレベルの意識を形成するかを説明する困難を避ける。",
+    "information_flow_or_representation": "暗黙的に、情報あるいは現象的構造は、個別の経験を基づけ制約すべく、意識的なコスモスからトップダウンに流れる。",
+    "evolutionary_account": "この理論は部分的に、生命と心の創発の必要性を説明することによって動機づけられ、宇宙の意識的目的が展開しつつあると示唆する。",
+    "core_claims_and_evidence": [
+      "コスモスの意識は諸個人の意識に対して存在論的に先立つ。",
+      "この理論は意識をトップダウンに説明することで結合問題を避ける。",
+      "行為者宇宙心論は物理法則の微調整と生命の創発に対する究極的説明を提供する。",
+      "宇宙は唯一の根本的なものであり、(ゴフの見解では)存在論的コミットメントを最小化する。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、形而上学的倹約、概念的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的・検証不可能。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "外的なコスモスを内的に意識的な主観として描き出すという誤りを犯しうるとして批判される。それは「分解の問題(decombination problem)」に直面する。すなわち単一の宇宙的意識がいかに別個の個別的意識へと分節化するかを説明する問題である。",
+    "open_questions_and_limitations": "中核的な未解決の問題は分解の問題である。すなわち、単一で全包摂的な意識が、私たちが経験する多くの別個の個別的主観へといかに分化するかを説明することである。",
+    "ontological_coherence": "支持者はきわめて整合的だと主張し、意識を根本的実在に統合する統一された一元論的見解を提供し、それによって二元論とミクロ心論の双方が直面する困難を解消するとする。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "意識が実在にとって根本的である一元論・観念論の変種として、同じ宇宙的基体に由来する十分に複雑な人工的な系は、局所的な意識を実現しうるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "是",
+      "rationale": "個別の意識は究極的で単一的な意識的実在(コスモス・神的意識)に基づけられ、全体の一部であることによって存続し、しばしば人格的同一性を統一された状態へと融け込ませる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是(宇宙的・究極的)",
+      "rationale": "中核理論、とりわけゴフの変種は、宇宙的目的論に対する究極的説明を提供することによって動機づけられ、宇宙が目標指向的で意識的な行為者であると示唆する。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "根本的な理論(観念論・一元論に関連する)として、派生的な意識的構造が先進技術によって操作あるいは複製されて仮想的不死に至る可能性が高い。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Micropsychism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Idealisms (e.g., Perennial Idealism)",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Panentheism",
+        "relationship": "両立的"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Panpsychism and panprotopsychism",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Why? the Purpose of the Universe, P. Goff",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Panpsychism versus Pantheism, Polytheism, and Cosmopsychism, Y. Nagasawa",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Perennial Idealism: A Radical New Successor to Cosmopsychism, M. Albahari",
+        "year": 2019
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "投影的意識モデル",
+    "summary": "投影的意識モデル（PCM）は身体化された意識の数学的枠組みであり、意識の場（FoC）が射影幾何学によって構造化され、能動的推論によって制御されると提案する。それは現象学を機能に結びつけ、意識がレジリエンスのために情報統合を最適化する進化した機構であると論じる。",
+    "associated_thinkers": [
+      "David Rudrauf",
+      "Kenneth Williford",
+      "Daniel Bennequin",
+      "Karl Friston"
+    ],
+    "category": "唯物論",
+    "subcategory": "ホメオスタシス的・情動的",
+    "core_identity_tagline": "射影幾何学と能動的推論としての意識",
+    "classification_tags": [
+      "mathematical",
+      "embodied",
+      "active inference",
+      "projective geometry",
+      "free energy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は情報統合を最適化する進化した機構として同定され、それはレジリエンスを最大化するアルゴリズムとして機能する。意識的状態は射影変換の作用を反映する。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "身体化された意識。そこでは心は身体化のみに還元されるのではなく物理的構造を必要とし、「生きられた身体」が現実の身体の決定的な推論的表象として役立つ。",
+    "primitive_or_emergent_status": "創発した",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "PCMは主観的経験の空間的現象学を説明し、志向性を情動的過程に結びつける。FoCは選好に応じて視点を選択することによって経験を枠づける。",
+    "qualia_account": "この理論は主観的経験の空間的現象学を説明し、意識的状態が射影変換を介して生じることを示唆するが、特定の質的な感じ（「クオリア」）の詳細は明示的には提供されていない。",
+    "ontological_commitments": "射影幾何学、自由エネルギー、身体化されたシステム、多様式の感覚情報、記憶痕跡。",
+    "epistemic_access": "数学的モデル化、計算論的分析、そして空間的現象学の研究を通じてアクセスされる。",
+    "constituents_and_structure": "射影幾何学によって構造化され、表象と制御のための仮想的なユーザーインターフェースとして「生きられた身体」に依拠する意識の場（FoC）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（空間的現象学）、知覚、想像、行為、情動的過程（志向性）。",
+    "distinctive_mechanism_or_principle": "空間的なFoCを制御する能動的推論の過程。FoCは期待を変換するために射影幾何学によって構造化される。期待の違背（自由エネルギー）が視点取得を駆動する。",
+    "dynamics_of_emergence": "意識的状態は動的な過程であり、射影変換が適用されるときに生じ、知覚、想像、行為のあいだの切り替えを支配する。",
+    "location_and_distribution": "システム的。意識は身体化されており、大域的な三次元空間幾何学を投影する統合的な予測システムを含む。",
+    "causation_and_functional_role": "レジリエンスを最大化し計算論的利点を示すよう機能する。意識は、空間的に分散した情報と行為の表象、シミュレーション、評価、制御を促進する。",
+    "integration_or_binding": "統合は、意識的作業空間にアクセスする多様式の感覚情報と記憶痕跡に大域的な三次元空間幾何学を投影する統合的な予測システムを通じて達成される。",
+    "information_flow_or_representation": "意識は情報統合を最適化する。射影的な枠組みが、意識によって期待がいかに変換されるかを支配する。「生きられた身体」は推論的表象である。",
+    "evolutionary_account": "意識は情報処理を最適化する機構として進化した。身体化されたシステムは、空間についての統合的認知を発達させることによって進化上の利点を得た。",
+    "core_claims_and_evidence": [
+      "意識の空間的な場は射影幾何学によって構造化され、能動的推論によって制御される。",
+      "意識はレジリエンスのために情報統合を最適化する進化した機構である。",
+      "「生きられた身体」は決定的な推論的表象であり、自己同一性の錨点として役立つ。"
+    ],
+    "basis_of_belief_or_evidence_type": "数学的、計算論的、現象学的、機能的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "計算論的で機能的な唯物論的存在論の内部では高度に整合的であり、とりわけ自由エネルギー原理の枠組みと軌を一にする。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "射影幾何学と能動的推論の数学的・計算論的構造が、人工的な、できれば身体化されたシステムにおいてうまく実装されうるならば、AIの意識は可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "このモデルは物理的実在に根ざしており、身体化された意識と生物学的な脳に結びついたホメオスタシス的原理を強調し、生物学的なものを超えた存続の根拠を与えない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "機能的な意味のみ",
+      "rationale": "意識は主として、レジリエンスを最大化し情報処理を最適化する進化した機構として定義され、究極的な宇宙的意味ではなく適応的な目的を含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "条件付き",
+      "rationale": "機能的な数学的モデルとして、射影構造の必要な複雑な動態と身体化された側面が、非生物学的基体において完全にシミュレート／複製されうるならば、仮想的不死は考えうる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A mathematical model of embodied consciousness, D. Rudrauf et al",
+        "year": 2017
+      }
+    ]
+  }
+}

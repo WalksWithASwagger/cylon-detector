@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "ナガサワの非理論的物理主義理論",
+    "summary": "この理論は、世界は全面的に物理的であるが、それは物理諸科学の完全な理論によってさえ捉えることも説明することもできない意識についての特定の物理的事実を含む、と主張する。物理的存在論を、還元的理論が現象的意識を把握することに明らかに失敗している事態と調停しようとする、物理主義の代替的定式化として機能する。",
+    "associated_thinkers": ["Yujin Nagasawa"],
+    "category": "非還元的物理主義",
+    "subcategory": "代替的な物理主義の定式化",
+    "core_identity_tagline": "物理理論を超えた物理主義",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ontology",
+      "monism",
+      "nontheoretical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、完全な理論的物理科学の概念的枠組みの外部に存在する、存在者に基づく物理的事実によって構成される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "心／意識は物理的実在と同一である。しかし意識についての特定の事実は伝統的な理論的知識には接近不可能であり（認識論的ギャップ）、この同一性を理論に基づいてではなく存在者に基づいて理解することを必要とする。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発",
+    "subjectivity_and_intentionality": "主観的経験は、完全な科学的説明によって捉えられない特定の「非理論的」な物理的事実に基礎づけられ、それによって、主観性が物理的本性をもつと主張しつつ、その認識論的神秘を保持する。",
+    "qualia_account": "クオリアの事実は物理的事実であるが、それらは現行のあるいは完全な物理理論による把握を拒む物理的実在の領域に属する。",
+    "ontological_commitments": "物理的実在、物理的存在者、そして非理論的な物理的事実。",
+    "epistemic_access": "伝統的な科学理論を介しては認識論的に限定される。概念的な接近は、伝統的物理主義に対する論証の哲学的分析を通じて（認識論から存在論へと移行しつつ）得られる。",
+    "constituents_and_structure": "意識は、意識的システムの物理的構造に本来備わる、特定の存在者に基づく物理的事実ないし性質に基礎づけられる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（暗黙的に。知識論法のような論争への焦点から導かれる）",
+    "distinctive_mechanism_or_principle": "「非理論的」な（理論的法則によって定義可能であるよりは存在者に基づく）意識についての物理的事実の存在であり、それが物理主義の標準的定式化における転換を必要とさせる。",
+    "dynamics_of_emergence": "意識の事実が「非理論的」と定義されるため、動態の詳細は限定される。創発は、適切な複雑な物理的存在者の存在に基づいて前提される。",
+    "location_and_distribution": "物理的世界。捉えられない事実を含む特定の物理的存在者（例えば神経メカニズム）と結びつく。",
+    "causation_and_functional_role": "原典では明示的に詳述されていない。全面的に物理的な世界の制約の内部で、標準的な物理的因果に従うと推論される。",
+    "integration_or_binding": "この理論が特定の内的な処理の動態よりも形而上学的定義と認識論的ギャップに主として焦点を当てるため、未定義である。",
+    "information_flow_or_representation": "情報の捕捉は物理理論を介しては暗に不完全であり、非理論的な物理的事実の存在によって限定される。",
+    "evolutionary_account": "特定されていない。（物理主義の一形態であるため）全面的に物理的な世界の進化した形質であると想定される。",
+    "core_claims_and_evidence": [
+      "世界は全面的に物理的だが、物理科学の完全な理論によって捉えられない物理的事実を含む。",
+      "方法論は、知識論法（心）と神の知識についての論証（宗教）との間に類比を引き、非理論的な知識のギャップを確立する。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能（哲学的論証を介して）。「非理論的事実」の定義のため、経験的には限定的／思弁的である。",
+    "known_empirical_interventions_or_tests": "特定されていない。その中心的主張の経験的検証よりは、概念的／認識論的論証（例えば知識論法の批判）に依拠する。",
+    "criticisms_and_tensions": "完全な科学的理論化を必然的に免れる実在の諸側面に訴えることで物理主義を定義するという、この立場に内在する緊張に直面し、存在論的曖昧さの危険を冒す。これは伝統的物理主義の失敗に対する擁護である。",
+    "open_questions_and_limitations": "非理論的な物理的事実の正確な本性と構造、およびなぜこれら特定の事実が本来的に捉えられないのかの正当化は、未解決の課題として残る。",
+    "ontological_coherence": "その特定の目的（物理主義を保ちつつ認識論的ギャップに対処すること）については内的整合性が高いが、標準的な物理主義的存在論の範囲と伝統的な信条に異議を唱える。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありそう",
+      "rationale": "世界は全面的に物理的であり、意識は存在者に基づく物理的事実に根ざしているため、複雑な人工システムは原理的に、必要な非理論的な物理的事実を実現しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定",
+      "rationale": "物理主義の一形態として、意識は物理的世界に結びついており、物理的基盤の解体後に存続を許すという徴候はない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的のみ",
+      "rationale": "存在論は厳密に物理的であり、科学的理論に接近不可能な物理的事実を認めはするものの、それ自体として究極的な宇宙的意味や目的を含意しはしない。"
+    },
+    "virtual_immortality": {
+      "stance": "条件付き（技術的に限定される）",
+      "rationale": "非理論的な意識の事実を体現する特定の物理的存在者（あるいはその構成）を完全に複製あるいは非生物学的媒体へアップロードできるなら、仮想的不死は技術的に可能だが、きわめて困難である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Physicalism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "批判／代替"
+      },
+      {
+        "name": "The Knowledge Argument",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "God and Phenomenal Consciousness: A Novel Approach to Knowledge Arguments",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Anything non-physical about the mind? Closer to truth",
+        "year": 2012
+      }
+    ]
+  }
+}

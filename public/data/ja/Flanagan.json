@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "フラナガンの構成的自然主義",
+    "summary": "この理論は、人間の意識が奇跡的でも神秘的でもないと主張し、主観的・現象的側面を完全に認めつつ、それらをその神経的基盤によって余すところなく説明し、脳の中に残余なく存する、という強力な統合的見解を提供する。フラナガンは、心の自然主義的形而上学を、脳の機能の仕方についての成熟しつつある理解と噛み合わせようとする。",
+    "associated_thinkers": [
+      "Owen Flanagan"
+    ],
+    "category": "唯物論",
+    "subcategory": "哲学的",
+    "core_identity_tagline": "「神経哲学的構成的自然主義としての意識」",
+    "classification_tags": [
+      "physicalism",
+      "neurophilosophy",
+      "emergence",
+      "subjectivity",
+      "causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、経験されるという性質を共有する異質な事象と過程の集合として同定される。根本的には、心と脳はまったく同一のものである。",
+    "ontological_status": "物理主義／構成的自然主義",
+    "mind_body_relationship": "心と脳は同一であり、二つの異なる視点から見られたまったく同一のものである。主観的見解と客観的見解との間のギャップは認識的なものであって、存在論的なものではない。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発（フラナガンは、物理法則に従うにもかかわらず物理学に還元できない、創発的な自然的性質を認める。）",
+    "subjectivity_and_intentionality": "主観的意識は実在し、重要な因果的役割を果たす。個体が有機体的統合性を有するため、主観性は一人称的に生じる。志向性は、意味の全体論が真である「ダーウィン機械」としての脳によって暗黙のうちに説明される。",
+    "qualia_account": "意識の主観的・現象的側面は実在するものとして十分にその正当な地位を与えられる。ただし、現象学のみに依拠することは、意識の本性についての錯覚を助長しうるため戒められる。",
+    "ontological_commitments": "物質的実在。複雑な生物学的脳（並列プロセッサの「ダーウィン機械」と記述される）。創発的な自然的性質。",
+    "epistemic_access": "自己報告が誤りうることを認めつつ、自然主義的形而上学と経験的神経科学の神経哲学的統合を通じて。",
+    "constituents_and_structure": "意識は脳内で実現される、経験される過程の異質な集合であり、脳は広範に相互作用する並列プロセッサの極めて密に結合されたシステムと見なされる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、主観性、因果的役割／行為主体性。",
+    "distinctive_mechanism_or_principle": "意識は、心的因果を促進する脳内の創発的な自然的性質から生じる。たとえば、ある皮質領域（例：前頭前皮質）で生じた観念が別の領域（例：頭頂連合皮質）から情報を呼び出すといった具合である。",
+    "dynamics_of_emergence": "意識は、脳内のプロセッサの大規模な並列的相互作用から生じる、事象と過程の動的な集合である。",
+    "location_and_distribution": "脳の中に残余なく存する。",
+    "causation_and_functional_role": "意識的思考は行為の遂行において重要な因果的役割を果たし、随伴現象説を直接に退ける。心的因果は脳に縛られ、神経メカニズムに依拠する。",
+    "binding_and_unity": "統一と結合は、意味の全体論が達成される「極めて密に結合された並列プロセッサのシステム」としての脳の機能を通じて暗黙のうちに達成される。",
+    "information_flow_or_representation": "情報は、高度に結合された並列プロセッサのシステム内で全体論的に処理される。心的状態は、個々の脳の内部で独自の仕方で物理的に実現される。",
+    "evolutionary_account": "暗黙のうちに進化に依拠し、心を脳、すなわち「ダーウィン機械」と見なす。哲学的含意は「神経実存主義」——人間についての科学的イメージと人間主義的イメージとの衝突——を通じて探究される。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（成熟しつつある神経科学との合致に基づく）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "意識が完全に脳に縛られたままでありながら実在し因果的に有効であるという主張を擁護しなければならない。また、存在論的ギャップを仮定することなく「認識的ギャップ」（一人称的に見える様と三人称的記述との差異）に対処しなければならない。",
+    "open_questions_and_limitations": "この理論にとっての「真に難しい問題」は、「物質的世界における意味」（「神経実存主義」）を見出すことである。その説明的枠組みは、脳機能についての「依然として粗描的だが成熟しつつある理解」に依拠する。",
+    "ontological_coherence": "物理的同一性を非還元的な創発的性質と結びつける、構成的自然主義というその定義された枠組みの内部で整合的である。それは随伴現象説と厳格な消去的唯物論に対立する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "意識が完全に脳の中に存する強い物理主義的理論として、要求される複雑な創発的神経過程を人工システムにおいて実現することは、概念的にAIの意識を可能にするだろう。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は完全に物理的な脳の過程とその創発的性質によって構成されており、生物学的基体が破壊された後の存続を禁じる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "唯物論的基盤は究極的な宇宙的目的が存在しないことを含意する。フラナガンは「物質的世界における意味」を見出すという実存的関心（神経実存主義）に取り組み、目的は自ら創り出されねばならないと示唆する。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "意識的自己が脳の複雑な過程（創発的性質と因果的役割を含む）と同一であるならば、このシステムを非生物的媒体において完全かつ高度に再現すれば、原理的には仮想的不死を達成しうるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Emergence",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Reconsidered, Owen Flanagan",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Problem of the Soul, Owen Flanagan",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Really Hard Problem: Meaning in a Material World, Owen Flanagan",
+        "year": 2007
+      }
+    ]
+  }
+}

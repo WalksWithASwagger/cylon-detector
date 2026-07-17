@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "ビトボルの根源的神経現象学",
+    "summary": "この枠組みは、生きられた経験の優位を強調し、心身の連関を一方向的な物理的依存ではなく「絡み合った弁証法」とみなすことによって、意識の「ハードプロブレム」を解消することを目指す。客観的な解決を求めることから、主観的で一人称的な実在を探究することへの、研究者の姿勢の根源的な転換を主張する。",
+    "associated_thinkers": [
+      "Michel Bitbol",
+      "Francisco Varela",
+      "Maurice Merleau-Ponty"
+    ],
+    "category": "唯物論の諸理論",
+    "subcategory": "身体化・エナクティヴ",
+    "core_identity_tagline": "生きられた経験の優位とハードプロブレムの解消",
+    "classification_tags": [
+      "phenomenology",
+      "embodiment",
+      "dissolution",
+      "first-person",
+      "quantum analogy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、生きられた一人称的経験を通じてアクセス可能な、顕現し与えられた実在（内在的存在論＝エンド・オントロジー）として同定され、それが客観性の構成を条件づける。それは身体‐意識関係の動的で参与的な構想である。",
+    "ontological_status": "現象学的存在論（内在的存在論）",
+    "mind_body_relationship": "心と身体は「絡み合った弁証法」のうちに存在し、そこでは神経現象学的相関は身体化の生きられた感覚の延長にすぎず、一方向的な物質的依存を退ける。",
+    "primitive_or_emergent_status": "暗黙のうちに原初的",
+    "emergence_type": "解消／非還元的",
+    "subjectivity_and_intentionality": "主観性（生きられた経験）が実効的な優位を保つ。志向性、すなわち対象への「向かっていること」は経験から派生する。というのも、客観性は与えられた経験から構造的不変項を抽出することによって構成されるからである。",
+    "qualia_account": "クオリアは、現象的経験を顕現した実在とする基礎的なコミットメントによって扱われる。質的な感じの問題は、それを「見せかけの謎」として生み出す唯物論的枠組みを退けることによって解消される。",
+    "ontological_commitments": "生きられた経験、自己顕現する存在（内在的存在論）、および経験から構成される構造的不変項（客観性）。標準的な物理主義的あるいは二元論的コミットメントには一切譲歩しない。",
+    "epistemic_access": "ミクロ現象学的インタビューのような訓練された実践を通じて達成される真正の一人称的姿勢を要し、三人称的な神経科学的説明と組み合わされる（編み合わされる）。",
+    "constituents_and_structure": "サイバネティックな弁証法（ヴァレラ）をモデルとしうる動的で参与的な構造であり、そこでは意識が依存を伴わずに物理的なものと本質的に関係している。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、ハードプロブレム（解消）、および意識の変性状態。",
+    "distinctive_mechanism_or_principle": "鍵となる原理は、焦点を知的なパズルから「実存的選択肢」へと移すことによるハードプロブレムの解消であり、それは客観的判断を停止し、主観的経験からの対象の構成へと探究を向け直すことによって達成される。",
+    "dynamics_of_emergence": "意識は動的な流れであり、恒常的に現前する存在の様態（近接的な存在様態）である。その顕現は物理的起源の問題を退け、その探求を存在論的偏見として位置づける。",
+    "location_and_distribution": "神経現象学的相関は、意識が身体的な脳のみに局在するのではなく、身体化の生きられた感覚を通じて分布していることを含意する。",
+    "causation_and_functional_role": "物理的な脳への根源的依存という想定を批判する。因果性は、主観的経験の協調を通じていかに客観性が得られるかを強調することによって捉え直される。",
+    "integration_or_binding": "現象学的分析の出発点である、生きられた経験の根源的な統一性と首尾一貫性によって含意される。",
+    "information_flow_or_representation": "情報と表象は経験に対して二次的である。客観的科学は、量子法則が実験的情報の限界を表現するのと同様に（QBism の類比）、顕現した実在から抽出された特徴（構造的不変項）を画定する。",
+    "evolutionary_account": "提示された諸出典は形而上学的・現象学的論証に焦点を当てており、この理論に固有の系統発生的進化の説明はない。",
+    "core_claims_and_evidence": [
+      "根源的神経現象学は、意識のハードプロブレムを批判し解消するというヴァレラの計画を推し進める。",
+      "「ハードプロブレム」は、標準的な物理主義的な存在論的偏見によって生み出された見せかけの謎である。",
+      "生きられた経験は客観的説明に対して実効的な優位をもつため、神経科学的データが現象学的記述より高い存在論的地位を与えられるべきではない。",
+      "この方法論は、一人称的方法（ミクロ現象学的インタビューなど）と三人称的神経科学との相互解明に依拠する。"
+    ],
+    "basis_of_belief_or_evidence_type": "現象学的、哲学的・形而上学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的かつ方法論的に検証可能",
+    "known_empirical_interventions_or_tests": [
+      "ミクロ現象学的インタビュー（過去の経験の想起）",
+      "一人称的説明と三人称的神経データの編み合わせ（神経現象学プログラム）"
+    ],
+    "criticisms_and_tensions": "ハードプロブレムへの知的な解決を回避し、代わりにそれを態度の平面へと逸らしている、あるいは「はぐらかし」とみなされるとして批判される。研究者に自己変容を採用し中立的観察者の姿勢を放棄することを要求し、これは負担が大きい。",
+    "open_questions_and_limitations": "この枠組みは意識の起源という伝統的な知的パズルを意図的に開いたままにしており、「解消」を十分とみなすためには哲学的態度の根本的転換を要する。",
+    "ontological_coherence": "現象学的存在論の伝統の内部で高度に整合的であり、標準的な物理主義的一元論と性質二元論の双方に固有の整合性の問題を退けるよう明示的に構成されている。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定",
+      "rationale": "意識は還元不可能な生きられた経験と身体‐意識の弁証法に根ざしており、AI の意識の主張の基礎であるシミュレーションや計算論的実現に抵抗する可能性が高い。"
+    },
+    "survival_beyond_death": {
+      "stance": "おそらく可能",
+      "rationale": "根源的現象学的アプローチは、（臨死体験のような）意識の変性状態を、外在的でない自己開示的な「内在的存在論」——標準的な唯物論的制約を越える深い連続性を示唆する存在様態——を明らかにしうるものと解釈する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "実存的／哲学的",
+      "rationale": "この理論は意識の本性を知的な謎から「実存的選択肢」へと変え、生きられた経験と主観的存在（内的存在論＝イントラ・オントロジー）への関与的な存在論的アプローチに意味を中心づける。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "仮想的不死は一人称的な心的自己をデジタル情報へ還元することを要するが、これは身体化された生きられた経験の優位と非還元性に関するこの理論の基礎的前提と整合しない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Varela’s Neurophenomenology",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Merleau-Ponty’s Intra-ontology",
+        "relationship": "影響"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Standard Physicalism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The tangled dialectic of body and consciousness: a metaphysical counterpart of radical neurophenomenology",
+        "year": 2021
+      },
+      {
+        "title_with_names": "On the too often overlooked radicality of neurophenomenology, M. Bitbol, E. Antonova",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Neurophenomenology and the micro-phenomenological interview, M. Bitbol, C. Petitmengin",
+        "year": 2017
+      }
+    ]
+  }
+}

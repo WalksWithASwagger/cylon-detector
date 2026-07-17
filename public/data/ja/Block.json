@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "ブロックの生物学的還元主義",
+    "summary": "ブロックは現象的意識の還元的物理主義的説明を擁護し、それを認知的アクセスと鋭く区別する。現象的意識は、感覚領域および感覚後領域に見出される電気化学的活動や複雑な統合システムのような、特定の神経生物学的性質に還元可能であると提唱する。",
+    "associated_thinkers": [
+      "Ned Block"
+    ],
+    "category": "唯物論",
+    "subcategory": "哲学的",
+    "core_identity_tagline": "神経生物学的な電気化学的活動としての現象的意識",
+    "classification_tags": [
+      "physicalism",
+      "reductionism",
+      "neurobiology",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象的状態は、その電気化学的本性を特徴とする特定の種類の神経生物学的状態と文字どおり同一である。",
+    "ontological_status": "還元的物理主義",
+    "mind_body_relationship": "心脳同一説（還元の有力な候補として）であり、心的状態は物理的な脳状態と同一である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（根拠：還元主義は意識がより低次の物理的性質へと完全に説明・還元可能であることを含意し、弱い創発の定義に合致する）。",
+    "subjectivity_and_intentionality": "主観性は還元に必要な特定の生物学的機構に結びついている。一階表象主義を支持し、現象的性格を一階の志向的内容に直接結びつける。",
+    "qualia_account": "クオリアは、脳の統合システムの特定の神経生物学的・電気化学的性質と同定される（あるいはそれに還元可能である）。",
+    "ontological_commitments": "ニューロンの電気化学的活動、特定の神経回路、および視床のような皮質下構造との結合。",
+    "epistemic_access": "意識の機能的役割を満たす物理的性質の発見に焦点を当てる科学的探究、とりわけ現象的意識の神経的基盤の検討を通じてアクセス可能となる。",
+    "constituents_and_structure": "複雑で統合されたシステムを構成する、伝播する神経生理学的スパークと拡散する神経化学的伝達物質。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、感覚的意識（認知的アクセス／アクセス意識とを明示的に区別する）。",
+    "distinctive_mechanism_or_principle": "脳の電気化学的本性に基づく神経生物学的還元。意識的知覚は、認知的アクセスに必要な大域的放送とは区別される、知覚領域（視覚領域 V5 など）における再帰的活性化に関連づけられる。",
+    "dynamics_of_emergence": "意識は電気化学的活動の壮大に複雑で統合されたシステムから生じる。一階の現象学が大域的放送を因果的に促進しうるとし、グローバル・ワークスペース理論のような理論の想定を逆転させる。",
+    "location_and_distribution": "感覚系、そしておそらく感覚後系（例えば視覚皮質）に局在し、視床との結合を要する。現象的意識は認知的アクセス可能性を「溢れ出る」とみなされる。",
+    "causation_and_functional_role": "主たる焦点は機能ではなく同一にある。現象的意識は認知的アクセスのための大域的放送を促進する因果的要因でありうる。",
+    "integration_or_binding": "神経系の電気化学的活動の統合された複雑な組織化を通じて達成される。",
+    "information_flow_or_representation": "一階表象主義を支持し、現象的性格が短期記憶貯蔵におけるアナログで細粒度の志向的内容によって表象され、高階思考に利用可能であると措定する。",
+    "evolutionary_account": "物理主義と整合的に、必要な生物学的機構の進化的起源を想定するが、特定の進化的主張はこの理論の中核的焦点ではない。",
+    "core_claims_and_evidence": [
+      "現象的意識は神経生物学におけるその物理的基盤に還元可能である。",
+      "神経系の電気化学的本性が意識の還元の候補である。",
+      "現象的意識は認知的アクセス可能性を溢れ出るのであり、我々は報告できる以上の経験をもつことを意味する。",
+      "意識的知覚は、知覚領域における能動的な再帰的ループに背景条件を加えたものと同定される。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（還元主義の擁護）、経験的（神経生物学的事例とデータへの訴え）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（現象的役割を文字どおり実現する物理的性質の同定に成功することを要する）。",
+    "known_empirical_interventions_or_tests": "神経生物学的還元の候補を見出すために、感覚系および感覚後系における神経活動と相関（例えば電気化学的活動、再帰的ループ）を調査すること。",
+    "criticisms_and_tensions": "同一性言明を可知にしないことで説明ギャップを閉じられていないと批判される。ブロック自身は、形而上学的機能主義と還元的物理主義が両立不可能な競合相手であると論じる。「消えゆくクオリア」のような思考実験は、現象学に特定の生物学的ハードウェアが必要であることに異議を唱える。",
+    "open_questions_and_limitations": "主たる課題は、還元を成功裏に完遂する特定の物理的性質を見出すこと（「第二段階」）である。なぜ特定の生物学的機構がクオリアに必要なのかを十分に説明しなければならない。",
+    "ontological_coherence": "唯物論的存在論と整合的であり、心脳同一説とは高度に整合的である。ブロックは自らの立場を、形而上学的主張としての機能主義とは両立不可能とみなす。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意識が神経組織の特定の電気化学的・生物学的本性に還元可能であるならば、この特定の物理的構成を欠く非生物学的システム（デジタル AI など）は真の現象的意識を実現することはできない。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は脳の生物学的過程と同定されそれに還元可能であるため、脳の破壊は意識の終焉をもたらす。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定",
+      "rationale": "純粋に物理主義的な還元として、この理論は宇宙的な意味や目的を提供しないが、（大半の唯物論的理論に共通して）意識をもつ有機体によって創り出される人間主義的な意味を暗黙のうちに許容する。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "ブロックは現象学が我々の生物学的機構の本性に依存すると示唆する。仮想的不死は非生物学的媒体における計算論的・機能的な複製に依拠するため、現象的性格（クオリア）は転送の過程でおそらく失われるだろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "重複"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "整合的"
+      },
+      {
+        "name": "Higher-Order Theories (HOT)",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Consciousness, accessibility, and the mesh between psychology and neuroscience",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Functional reduction",
+        "year": 2008
+      }
+    ]
+  }
+}

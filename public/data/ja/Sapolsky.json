@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "サポルスキーの強い両立不可能論",
+    "summary": "この立場は、意識はもっぱら生物学的機構から生じる複雑な創発的性質であり、宇宙の物理的規則と分かちがたく結びついていると考える。その主要な哲学的傾倒は強い両立不可能論であり、生物学的決定論を肯定し、その帰結として自由意志の存在を否定する。",
+    "associated_thinkers": ["Robert Sapolsky"],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "「複雑な創発的性質としての意識」",
+    "classification_tags": [
+      "determinism",
+      "neurobiology",
+      "physicalism",
+      "emergence",
+      "hard incompatibilism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、生物学的有機体、とりわけ脳の物理学と化学、およびそれと環境との相互作用から生じる複雑な創発的性質として同定される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一性／唯物論的相関。心と自己は、物理的規則に整合的に、厳密に生物学的過程の産物であるか、あるいはそれと同一である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（推論）。その本性を把握することが困難な「複雑な創発的性質」として記述されるものの、その厳格な生物学的決定論への基礎づけは、創発が原理的に物理法則に全面的に従わねばならないことを含意する。",
+    "subjectivity_and_intentionality": "主観性（意識が何であるか）は存在すると認められるが、十分に理解されておらず定義が困難であると述べられる。志向性と行為主体性（自由意志）は、決定論と相容れないものとして明示的に退けられる。",
+    "qualia_account": "未解明。経験の質的な感じは認められるが、現在の神経生物学的理解を超えるとみなされ、「すべてを説明すると同時に何も説明しない」複雑な創発的性質として曖昧に記述される。",
+    "ontological_commitments": "生物学的有機体、神経学的構造、および宇宙の物理的規則。",
+    "epistemic_access": "神経学的状態の観察を通じてアクセス可能である。ただし、神経生物学的レベルでの現象的意識の理解はきわめて限られていると認められている。",
+    "constituents_and_structure": "決定論的な物理的規則に支配された、生物学的物質の複雑な組織化。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "自由意志（批判／否定）、現象的（存在は認められるが未解明）、神経学的機能（退屈な神経学的意味での）。",
+    "distinctive_mechanism_or_principle": "強い両立不可能論の原理。ここでは、心的事象を含むすべての事象が先行する生物学的・環境的原因によって完全に決定され、非生物学的あるいは非決定論的な機構の余地を残さない。",
+    "dynamics_of_emergence": "意識は、脳の複雑で組織化された過程から生じる動的な過程である。",
+    "location_and_distribution": "脳と生物学的有機体に全面的に局在する。",
+    "causation_and_functional_role": "意識は因果的に有効である（単なる随伴現象ではない）が、その因果的作用は生物学的過程の決定論的な流れによって全面的に制約されている。",
+    "integration_or_binding": "生物学的システムの複雑な組織化と決定論的な作動によって暗黙的に統合される。",
+    "information_flow_or_representation": "生物学的過程を支配する根本的な物理的規則にもとづく生物学的機能を介して含意される。",
+    "evolutionary_account": "意識は、有機体の決定論的で生物学的な本性に整合的に、生物学的／系統発生的進化の産物である。",
+    "core_claims_and_evidence": [
+      "自己／心は、われわれの生物学とその環境との相互作用に他ならず、それ以上でも以下でもない。",
+      "自由意志は、生物学的決定論と哲学的に調和させることが不可能である。",
+      "意識は、生物学的な脳の複雑な創発的性質として生じる。",
+      "意識は幻想的な随伴現象ではない。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（決定論と唯物論へのア・プリオリな傾倒）、生物学的／神経科学的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "哲学的前提（決定論）。すべての現象が生物学的であるがゆえに、神経生物学と経験的に結びついている。",
+    "known_empirical_interventions_or_tests": "資料に明記なし。決定論的物理主義を支える基礎的な生物学的・神経学的証拠に依拠する。",
+    "criticisms_and_tensions": "サポルスキーは、意識の定義が混乱しており、曖昧な用語「複雑な創発的性質」に依拠していることを認めている。外的には、自由意志の否定（強い両立不可能論）はきわめて論争的な哲学的立場である。",
+    "open_questions_and_limitations": "現象的意識の正確な本性と定義は、著者が完全に理解あるいは説明する能力を超えたままである。",
+    "ontological_coherence": "高い。この理論は非物理的要素を導入することなく、物理主義的で決定論的な存在論に厳格に従っているからである。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "意識が、複雑な生物学的組織化の物理的規則に支配された因果的に能動的な創発的性質であるならば、必要な複雑さを再現する人工システムにおいて原理的に実現可能であるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識はもっぱら生物学的な脳の産物である。それゆえ、脳の死は個人的存在の取り返しのつかない終焉である。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "意識の決定論的な本性は、究極的な宇宙的意味や目的が存在しないことを意味する。いかなる意味や価値も、必然的に人間自身によって創出される。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "意識は複雑な物理的状態に還元可能でありそれに依存するため、これらの状態を非生物学的な基盤において完全に複製すれば、唯物論の諸理論に整合的に、一人称的な心的自己の存続がもたらされるであろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "批判"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Flanagan’s Constructive Naturalism",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Determined: A Science of Life without Free Will, R. Sapolsky",
+        "year": 2023
+      },
+      {
+        "title_with_names": "From Stanford to Medspire: an Exclusive Interview with Robert Sapolsky, R. Sapolsky",
+        "year": 2023
+      }
+    ]
+  }
+}

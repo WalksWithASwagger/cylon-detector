@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "心脳同一説",
+    "summary": "意識に関するこの古典的な哲学理論は、心的状態、出来事、ないしプロセスが、脳内で生じる特定の状態、出来事、ないしプロセスと厳密に同一であると措定する。意識が全面的に物理的であると主張することで、唯物論の範例として機能する。",
+    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "category": "唯物論",
+    "subcategory": "哲学的",
+    "core_identity_tagline": "心的状態は脳状態である",
+    "classification_tags": [
+      "identity",
+      "reductionism",
+      "physicalism",
+      "classical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（心的状態／プロセス）は脳の物理的状態／プロセスと文字どおり同一である。これは強い意味での同一性の主張であり、明けの明星と宵の明星を金星に比するのに似ている。",
+    "ontological_status": "還元的物理主義／唯物論",
+    "mind_body_relationship": "同一説。心的出来事と物理的出来事は同じものであり、根本的に同一である。すなわち「二つ」は分離しえないことを意味する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性と志向性はある種の物理的状態と厳密に同一である。この見解は、なぜ感じが物理的状態に伴うのかを問うことは、両者が一にして同じものであるがゆえに見当違いであることを含意する。",
+    "qualia_account": "痛みや赤を見ることのようなクオリア（感じられる経験）は、侵害受容特異的ニューロンの発火のような脳の特定の物理的状態と文字どおり同一である。",
+    "ontological_commitments": "脳の物理的状態とプロセス。この理論は意識が全面的に物理的であることに傾倒する。",
+    "epistemic_access": "これらの同一性の知識は後験的な経験的探究に基づき、どの物理的状態がどの心的状態に対応するかを発見することを科学に要求する。",
+    "constituents_and_structure": "意識は、心的状態と同義になるよう組織された、脳に見出される特定の物理的状態とプロセスから成る。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、アクセス",
+    "distinctive_mechanism_or_principle": "心的種類（例えば痛み）を物理的種類（例えばC線維の発火）と相関させるために適用される厳密な同一性関係の原理。",
+    "dynamics_of_emergence": "意識は生物学的プロセスの帰結であり、具体的には脳の物理的動態と同定される。",
+    "location_and_distribution": "全面的に脳内に局在する。",
+    "causation_and_functional_role": "心的因果は暗黙のうちに解決される。心的状態は物理的状態であり、それは因果的効力と機能的役割をもつためである。",
+    "integration_or_binding": "統合は同一なる物理的脳状態の複雑な組織において実現される。哲学的主張として、結合のための独自の神経生物学的メカニズムを特定しない。",
+    "information_flow_or_representation": "心的内容ないし表象は、それらを体現する物理的状態と等価であり、物理法則に従う。",
+    "evolutionary_account": "意識は生物学的な脳から生じる進化した物理的産物である。",
+    "core_claims_and_evidence": [
+      "心的状態は脳状態と厳密に同一である。",
+      "この同一性は、心的出来事（例えば痛み）と特定のニューロン活動を結びつける経験的証拠を通じて後験的に発見される。"
+    ],
+    "basis_of_belief_or_evidence_type": "蓄積される相関の経験的証拠に支持された哲学的推論。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "特定の心的状態と物理的状態の相関を写像することによって原理的に経験的に検証可能。",
+    "known_empirical_interventions_or_tests": "経験的な相関の証拠（例えば痛みを侵害受容特異的ニューロンの発火と結びつけること）。",
+    "criticisms_and_tensions": "その原初的形態においては、諸反論、とりわけ多重実現可能性（同じ心的状態が異なる物理的メカニズムによって実現されうる）によって、一般に掘り崩されたとみなされている。中核的な哲学的課題は「説明のギャップ」、すなわちなぜ脳状態が何かとして感じられるのかである。",
+    "open_questions_and_limitations": "この理論は、哲学的ゾンビ（意識を欠く物理的に同一の生物）が考えうるという直観を解消するのに苦慮する。それは「二つ」が分離しうることを含意する。また、どの類の神経活動が意識を構成するのかを明確に区別しない。",
+    "ontological_coherence": "厳格な還元的物理主義的存在論の内部では高度に整合的だが、主観性とクオリアに関する基本的な現象学的直観との緊張に直面する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可",
+      "rationale": "心脳同一説は意識が物理的プロセスへ還元可能であると主張するため、それらの特定の物理的プロセスを人工的な非生物学的基体において再現できれば、意識は必然的に実現される。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は脳の機能的・物理的完全性と厳密に同一であり、死とともにそれが解体されると、意識的自己の恒久的な終焉に至る。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "唯物論的理論として、心脳同一説はいかなる究極的な宇宙的意味や目的も含意しない。意味と価値は意識的な人間の行為者によって作り出される創発的性質である。"
+    },
+    "virtual_immortality": {
+      "stance": "可",
+      "rationale": "意識（正確な物理的パターン）をスキャンし、新たな物理的媒体（デジタルその他）へ完全に複製／アップロードできるなら、この理論は同一なる意識的自己の存続を保証する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "重複"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Tye’s Contingentism",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mind/brain identity theory, J.J.C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "We must shed our metaphysical assumptions, David Papineau",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Mind-Brain Identity Theory, István Aranyosi",
+        "year": ""
+      }
+    ]
+  }
+}

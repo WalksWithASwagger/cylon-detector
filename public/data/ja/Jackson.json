@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "ジャクソンの透明な表象主義と知識論法",
+    "summary": "フランク・ジャクソンの透明な表象主義は、知覚経験の現象的性格はその表象的内容によって余すところなく尽くされる、すなわち我々は経験を「透かして」対象の諸性質を見ているのだと主張する。この立場は主として、以前は物理主義に反対する論証であった彼自身の有名な思考実験、すなわち知識論法の結論を掘り崩すために展開された。",
+    "associated_thinkers": ["Frank Jackson"],
+    "category": "唯物論の理論",
+    "subcategory": "表象的",
+    "core_identity_tagline": "「現象的性格は表象的内容によって尽くされる」",
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "physicalism defense",
+      "epistemology",
+      "intentionality"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（現象的性格）は、一定の条件を満たす関連する心的状態の表象的内容と同一視され、しばしば経験の対象の諸性質に結びつけられる。",
+    "ontological_status": "還元的物理主義。（根拠：本理論の第一の目的は知識論法を打ち破ることにあり、それによって現象的意識に関する物理主義／唯物論の十全性を維持する。）",
+    "mind_body_relationship": "同一性。現象的性質は、物理的に例化される機能的および志向的内容（表象的事実）によって尽くされる。",
+    "primitive_or_emergent_status": "創発的。（根拠：意識は物理的過程によって例化される表象的内容に完全に捉えられており、それゆえ実在にとって根源的ではない。）",
+    "emergence_type": "弱い創発。（根拠：還元的物理主義の擁護として、現象的性質は物理的／表象的内容および機能的役割によって完全に捉えられる、あるいはそれらと同一であり、原理的には導出可能であることを含意する。）",
+    "subjectivity_and_intentionality": "主観性は透明性テーゼによって説明される。すなわち、経験の本性にアクセスすることは、単にその対象の諸性質にアクセスすることにほかならない。心的状態の「〜についてのもの」であるという志向性は、経験が本質的に表象的であるがゆえに中心的である。",
+    "qualia_account": "クオリア（現象的性格）は、関連する心的状態の表象的内容によって完全に説明される、あるいは尽くされる。これは、いかなる非物理的知識（「赤を見るとはどのようなことか」など）も物理的／表象的事実によって説明されないまま残ることはない、と示すことを意図している。",
+    "ontological_commitments": "心的表象、物理的事実、および心的状態の機能的役割／志向的内容。",
+    "epistemic_access": "内省は、経験そのものの内在的特徴ではなく、外的対象とその諸性質のみを露わにすることによって透明性テーゼを支持する。したがって表象的内容の三人称的な科学的研究で十分である。",
+    "constituents_and_structure": "意識の構造は、心的状態の志向的内容ないし表象的本性によって全面的に決定される。表象的事実が、知覚経験を捉えるのに十分な一そろいを形成する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（とりわけ知覚経験／クオリアの質的本性）。",
+    "distinctive_mechanism_or_principle": "知覚経験の透明性（透過性）。意識は対象の表象の結果であり、そこで主観は知覚状態を「透かして」対象の諸性質を見る。",
+    "dynamics_of_emergence": "静的性質。（根拠：本モデルは意識を表象的内容／志向的構造と同一視し、生成の動的過程よりも最終状態の同一性に焦点を当てる。出典は時間的動態を詳述していない。）",
+    "location_and_distribution": "脳の表象的処理によって例化される心的状態に位置づけられる。",
+    "causation_and_functional_role": "意識的経験は機能的役割と表象的内容によって尽くされる。表象的事実は完全な知覚経験を捉えるのに十分である。",
+    "integration_or_binding": "知覚経験という一そろいを構成する志向的内容の包括的本性を通じて暗黙裡に達成される。（根拠：結合の明示的メカニズムは出典に詳述されていないが、「一そろい」において統一が前提されている。）",
+    "information_flow_or_representation": "心的表象は、単なる神経状態を超えて、内的に知覚される観念／心像の説明力を高め、経験の本性を尽くす。",
+    "evolutionary_account": "意識は脳の表象的機構の一部として進化したと推定される。（根拠：これは唯物論の理論という分類から推測されるが、出典においてジャクソン自身による具体的な説明は与えられていない。）",
+    "core_claims_and_evidence": [
+      "経験は透明（透過的）である。現象的性質は経験の対象の諸性質である。",
+      "強い表象主義は、経験が事物をいかに表象するかがその経験の本性を完全に尽くすと主張する。",
+      "現象的な学びは表象的事実へと還元されるため知識論法は失敗し、それによって物理主義は保持される。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的／概念的（現象的概念および内省の本性の論理的分析に基づく）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能。（本理論の成否は、表象的内容が現象的性格を論理的に尽くしうるという哲学的論証にかかっており、それによって知識論法のような思考実験を解決する。）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要な緊張は、批判者たちが、表象主義は知識論法を論理的に退けはしないと論じる点にある。というのも、「メアリーの挑戦」の表象主義版が物理主義にとっての難点を保持するからである。",
+    "open_questions_and_limitations": "表象的内容が現象的性格を捉える正確な条件が特定されねばならず、また現象的性質を志向的性質へと全面的に還元することの概念的整合性は依然として問われたままである。",
+    "ontological_coherence": "還元的物理主義の枠組み内では高度に整合的である。その動機のすべては、還元不可能な現象的性質（「クオリア」）を除去することによって物理主義を維持することにあるからである。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "肯定",
+      "rationale": "意識が表象的内容と機能的役割によって尽くされ、かつこれらの性質が計算論的に実現されうるならば、AIシステムは意識を達成しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定",
+      "rationale": "本理論は唯物論／物理主義の擁護であり、意識はもっぱら物理系（脳またはその機能的／表象的等価物）に結びついていることを含意するため、生物学的停止を超えた存続は妨げられる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "唯物論の理論として、人間が自らのために作り出すもの以外に究極的な意味や目的を提供しない。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "現象的性格は機能的／表象的内容によって完全に捉えられるため、それらの内容の完全な複製（アップロード）は、もとの一人称的な心的自己を保存するだろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Knowledge Argument (Mary's Room)",
+        "relationship": "批判／起源"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "基盤"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "重複"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "対比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The knowledge argument, diaphanousness, representationalism, Frank Jackson",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, Frank Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "What Mary Didn’t Know, Frank Jackson",
+        "year": 1986
+      }
+    ]
+  }
+}

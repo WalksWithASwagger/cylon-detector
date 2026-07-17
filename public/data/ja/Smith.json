@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "スミスの意識の分類器としての言語",
+    "summary": "唯物論の枠組みの言語との関係の下に分類されるこの理論は、言語が根本的に、主観的経験の内容を範疇化し、構造化し、明確に分節する働きをすると提唱する。それゆえ意識は、これらの言語的構造によって組織化されアクセス可能になった内容として存在する。",
+    "associated_thinkers": ["Barry Smith"],
+    "category": "唯物論の諸理論",
+    "subcategory": "言語との関係",
+    "core_identity_tagline": "言語的に分類された内容としての意識",
+    "classification_tags": [
+      "language",
+      "materialism",
+      "classification",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、言語的分類の過程にかけられ、それによって安定化される内的内容として同定される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一性ないし相関。唯物論の理論として、（言語によって構造化された）心は、言語的分類を支える基底にある脳過程と同一であるか、あるいはそれと完全に相関せねばならない。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性は、個人の内的状態に適用される固有の言語的構造化から生じる。志向性は、言語が心的状態を外的な対象や概念に結びつける表象的枠組みを提供することによって達成される。",
+    "qualia_account": "クオリアは、生の感覚入力に適用される言語的区別ないし分類とみなされる。主観的な「感じ」は、言語システムによって課される特定の複雑な構造に内在する。",
+    "ontological_commitments": "言語処理、象徴的表象、範疇化に専従する物理的な神経機構。",
+    "epistemic_access": "言語的行動、自己報告、および分類と言語理解に関連する神経活性化パターンとの相関の研究を通じてアクセス可能である。",
+    "constituents_and_structure": "神経活動によって動的に組織化される、言語にもとづく表象と範疇化のスキーマ。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "アクセス、表象、言語",
+    "distinctive_mechanism_or_principle": "核心的な原理は、複雑な情報を選択し、離散的で報告可能な意識的範疇へと構造化する分類器としての言語の機能である。",
+    "dynamics_of_emergence": "意識は、複雑な内的情報処理が言語の進化した構造によって組織化され、定義され、安定化されるときに生じる動的な過程である。",
+    "location_and_distribution": "脳内で言語処理、表象、分類を担う特定の神経ネットワークにわたって分布する。",
+    "causation_and_functional_role": "意識は、心的内容を首尾一貫し伝達可能な範疇へと組織化することによって、高次の認知能力、伝達、および柔軟で適応的な行動を可能にするように機能する。",
+    "integration_or_binding": "統合は、異なる感覚的・認知的入力を象徴的に結合する言語システムが提供する統一された枠組みを介して達成される。",
+    "information_flow_or_representation": "情報は言語的表象によって処理・構造化され、より広範な認知的操作と自己監視に利用可能になる。",
+    "evolutionary_account": "意識は、言語の系統発生的発達と密接に結びついた認知的適応として進化し、優れた情報の組織化と社会的伝達を通じて適応度上の利益を高めた。",
+    "core_claims_and_evidence": [
+      "意識的経験は根本的に言語的範疇によって構造化されている。",
+      "言語的分類に対応する神経活動は、意識的な気づきと直接的に相関する。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、言語学的、認知的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（条件付き）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "言語中心的な理論に対する一般的な批判には、非言語的な存在（たとえば乳児、動物）における意識の説明や、現象的経験の質的で非象徴的な側面を十分に説明することが含まれる。",
+    "open_questions_and_limitations": "言語が生の入力に構造を課して主観的な「分類器」経験を生成する正確な神経生物学的機構は、資料では明示的に未定義のままである。",
+    "ontological_coherence": "主観的経験を脳の言語装置の機能的・構造的複雑さに基礎づける唯物論的存在論と高度に整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "意識が複雑な言語的分類の機構の産物であるならば、十分に先進的な言語処理と象徴的処理の能力をもつ人工システムはそれを具現化できるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は、言語と分類を支える物理的で生物学的な基盤に根本的に結びついている。その消滅は、脳の消散とともに永久的である。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "唯物論の理論として、認知的複雑さと自己省察から導かれる人間が創出する意味と価値を支持するが、究極的な宇宙的目的論を否定する。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "意識は情報の分類と表象のシステムへと機能的に還元可能であるため、このシステムの完全なデジタル的複製ないしアップロードは原理的に可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "T. Clark’s Content Hypothesis",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Chomsky’s Language and Consciousness",
+        "relationship": "関連／対比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Smith’s Language as Classifier of Consciousness",
+        "year": ""
+      },
+      {
+        "title_with_names": "Language and consciousness, Barry Smith",
+        "year": 2012
+      }
+    ]
+  }
+}

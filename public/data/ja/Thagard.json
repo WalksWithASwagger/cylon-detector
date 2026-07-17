@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "サガードの神経表象・結合・整合性・競合",
+    "summary": "この理論は、意識的経験を四つの経験的に妥当な脳の機構、すなわち神経表象、結合、整合性、競合の相互作用に帰する。意識はこれらの相互作用から脳全体にわたって創発すると主張し、夢、ユーモア、自己意識といった複雑な意識現象に科学的に基礎づけられた説明を与える。",
+    "associated_thinkers": ["Paul Thagard"],
+    "category": "唯物論",
+    "subcategory": "表象的",
+    "core_identity_tagline": "「神経機構によって構築される意識」",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "binding",
+      "physicalism",
+      "coherence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、特定の脳の機構、すなわち神経表象、結合、整合性、競合のあいだの相互作用の創発的帰結と同定される。",
+    "ontological_status": "還元的物理主義／唯物論（この立場は推論による。この理論は唯物論の下に分類され、意識を脳の神秘的でない生物学的産物として完全に説明しようとするからである。）",
+    "mind_body_relationship": "同一性／還元（意識的経験は物理的な脳状態と過程によって完全に説明され、そこから創発する。これは高い物理主義的確信と整合的である。）",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（推論による。この理論は厳密で経験に基づく神経科学に依拠し、脳による意識の構築が理解されればそれは神秘ではないと主張し、原理的な還元可能性を示唆するからである。）",
+    "subjectivity_and_intentionality": "知覚、感覚、情動、（自己省察のような）抽象的思考を含む主観的経験は、四つの核心的な脳の機構の複雑な相互作用によって説明される。",
+    "qualia_account": "クオリア（色を見ることや痛みを感じることといった現象的経験）は、四つの脳の機構（神経表象、結合、整合性、競合）の作動によって包括的に説明される。",
+    "ontological_commitments": "生物学的な脳、神経表象、およびそれらの動的過程（結合、整合性、競合）であり、しばしば計算論的にモデル化される。",
+    "epistemic_access": "主として経験的な神経科学的知見と計算論的モデル化を通じてアクセスされ、説明的整合性を通じて検証が求められる。",
+    "constituents_and_structure": "その構造は、脳の諸領域にわたって動的に作動する神経機構（表象、結合、整合性、競合）から成り、経験を追跡するために「時間細胞」を利用する機構を含む。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（知覚、感覚、情動）、自己意識（自己評価、自己省察）、時間認識、夢、ユーモア、宗教的畏敬。",
+    "distinctive_mechanism_or_principle": "神経表象、結合、整合性、そして神経表象間の競合が結合し相互作用する作用。",
+    "dynamics_of_emergence": "意識状態は動的過程であり、神経表象間の相互作用と競合から創発し、時間を通じて経験を追跡することに関する最近の神経科学的知見に適合する。",
+    "location_and_distribution": "生物学的な脳に位置する。とりわけ脳全体の諸領域における機構の相互作用を通じて分布する。",
+    "causation_and_functional_role": "意識は人間の生（道徳、恋愛など）にとって中心的である。この理論は、物理的な脳の機構がいかに意識的経験を構築し複雑な心的機能を可能にするかを説明するため、因果的効力を含意する。",
+    "integration_or_binding": "結合は意識を説明する相互作用をなす四つの鍵となる機構の一つであり、経験の統一を与える。",
+    "information_flow_or_representation": "神経表象は核心的な機構である。意識はこれらの表象間の競合から生じ、複雑な心的特徴を共有された神経機構へ結びつける。",
+    "evolutionary_account": "意識は脳の産物であり、系統発生的進化を介して生じたことを含意する。このアプローチは、意識的な動物を植物や細菌のような非意識的な存在者から区別する。",
+    "core_claims_and_evidence": [
+      "意識的経験は、神経表象、結合、整合性、競合の機構の相互作用から生じる。",
+      "これらの機構は、自己評価、ユーモア、宗教的畏敬を含む複雑な経験を説明する。",
+      "この理論は経験的に支持されており、時間細胞が脳に経験を追跡させる仕方に関する知見に適合する。",
+      "この理論はボットや獣における意識を評価するために説明的整合性を適用する。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的、神経科学的、計算論的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（諸機構は経験的に妥当であると主張され、この理論は厳密な神経科学の上に構築され、説明的整合性を方法論的な試金石として用いる。）",
+    "known_empirical_interventions_or_tests": "この理論は、時間細胞が脳に経験を追跡させる仕方に関する最近の神経科学的知見と整合的である。（この理論の検証ないし反証を目指す具体的な実験的介入は出典では詳述されていない。）",
+    "criticisms_and_tensions": "出典の資料には具体的な外部からの批判は挙げられておらず、批判が最小限であるか、与えられた文脈においてはまだ広く記録されていないことを示す。",
+    "open_questions_and_limitations": "四つの過程がいかにして「それであることの様相」という主観的な感じ（クオリア）を生成するかという正確な機構は十分に詳述されておらず、これは還元的物理主義的説明に典型的な限界である。",
+    "ontological_coherence": "物理主義的枠組みの内部では高度に整合的であり、意識は物理的であって脳の機構によって全面的に構築されると主張し、意識の「神秘」を解決する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "この理論は、現在のコンピュータは意識を持たないものの、新しい生成AIモデルは人間に類似した機構を備えており、とりわけ四つの核心的な脳の機構が計算論的にモデル化ないし複製されうるなら、ある程度の意識を可能にしうると示唆する。"
+    },
+    "survival_beyond_death": {
+      "stance": "いいえ",
+      "rationale": "唯物論的理論として、意識は生物学的な脳に全面的に依存する。したがって脳の死は、人格と意識の永続的な非存在を帰結する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "唯物論的理論として、一般に究極的な宇宙的意味や目的を排する物理主義的説明に従い、人間自身が作り出す意味と価値のみを認める。"
+    },
+    "virtual_immortality": {
+      "stance": "はい",
+      "rationale": "もし唯物論的理論が意識を物理的機構（神経表象、結合、整合性、競合）を通じて全面的に説明するならば、一人称的な心的自己はアップロード可能であり、それらの物理的過程を複製しうる高度な技術を介して仮想的不死が達成可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "両立的"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dreams, Jokes, and Songs: How Brains Build Consciousness, Paul Thagard",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Bots and Beasts, Paul Thagard",
+        "year": 2021
+      }
+    ]
+  }
+}

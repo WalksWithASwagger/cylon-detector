@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "ノートフの非還元的神経哲学理論",
+    "summary": "この理論は主として、哲学的概念および存在論的理論を経験的神経科学のデータと双方向的に体系的に結びつけることによって、脳と心の込み入った関係を分析するために設計された方法論的戦略である。その目標は、心的概念を物理的事実へと還元することなく、主観性への洞察を提供することにある。",
+    "associated_thinkers": ["Georg Northoff"],
+    "category": "非還元的物理主義",
+    "subcategory": "非還元的神経哲学",
+    "core_identity_tagline": "哲学と神経科学の接点における方法論的道具",
+    "classification_tags": [
+      "neurophilosophy",
+      "methodology",
+      "spatiotemporal",
+      "sentience",
+      "non-reduction"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "このアプローチは主として方法論的であり、概念と事実の厳密な関係に焦点を当てる。意識の基礎的次元（感受性〈センティエンス〉）は、脳の自発的活動から生じる本来的に時空的な構造として同定される。",
+    "ontological_status": "非還元的物理主義",
+    "mind_body_relationship": "意識的状態は動的な時空的用語で構想され、心的なものを物理的なものへと還元することなく、その認知的特徴づけを補完し拡張する。心的特徴は脳の活動の内部に入れ子になったものとみなされる。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "方法論的非還元。（根拠：物理的基盤を肯定しつつ心的概念の還元不可能性を保つことに明示的に焦点を当てており、非還元的物理主義の哲学的目標と軌を一にする。）",
+    "subjectivity_and_intentionality": "方法論的アプローチは、脳‐心の連関の主観性への洞察を提供することに照準を合わせている。志向性のような心的特徴は、脳の根底にある複雑で動的な時空的実在から切り離された側面とみなされる。",
+    "qualia_account": "「感受性」と定義される感じる能力を説明する。これは意識の基礎的で根本的な次元であり、脳がその時空的マトリクスの内部で身体と環境の入力を統合することから生じる。",
+    "ontological_commitments": "脳の活動、時空的関係（入れ子状のスケール）、そして感受性への機能的能力。",
+    "epistemic_access": "理論的概念と経験的な脳データとの体系的で双方向的な連関を通じて接近される。典型的な入力‐出力関係よりは脳の活動と構造（時空的神経科学）の分析に焦点を当てる。",
+    "constituents_and_structure": "脳の自発的活動を構造化する時空的メカニズムであり、進行中の脳のマトリクスの内部に（マトリョーシカのように）入れ子状のスケールとして組織される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "感受性（感じる能力）、および意識の形式／構造／組織。",
+    "distinctive_mechanism_or_principle": "概念モデルを経験的データと非還元的かつ体系的なやり方で結びつける方法論的戦略。メカニズムの観点からは、感受性は本来的に時空的な特定の神経生態学的および神経内臓的メカニズムから生じる。",
+    "dynamics_of_emergence": "意識は、脳の進行中の時空的マトリクスの内部で環境的および身体的入力を連続的に統合することから生じる動的過程であり、異なる準安定状態の系列へと至る。",
+    "location_and_distribution": "脳の自発的活動に由来する、特定の神経生態学的および神経内臓的メカニズムに位置づけられる。",
+    "causation_and_functional_role": "このモデルの機能的役割は方法論的であり、脳‐心の連関への洞察を得るための体系的戦略を提供する。根底にある感受性は感じる基礎的能力を提供し、時空的メカニズムによって媒介される。",
+    "integration_or_binding": "身体と環境からの異なる入力の統合は、感受性を生み出すために脳の進行中の時空的マトリクスの内部で生じる。",
+    "information_flow_or_representation": "情報はその時空的関係と構造を通じて分析され、認知科学の入力‐認知‐出力の関係よりは脳の活動を強調する。",
+    "evolutionary_account": "明示的には論じられていない。（根拠：主要な記述は系統発生的発達ではなく方法論と現行のメカニズムに焦点を当てている。）",
+    "core_claims_and_evidence": [
+      "このアプローチは、脳‐心の連関への妥当な洞察のために、理論的概念を経験的な脳データと体系的に連関させることを必要とする。",
+      "感受性は、脳の自発的活動に関連する本来的に時空的なメカニズムを介して生じる。",
+      "心的特徴は、脳のより大きな時空的活動の内部に入れ子になった、小さく切り離されたスケールとして概念化される。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（方法論的枠組み）および経験的（時空的神経科学研究に由来する）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "時空的神経科学のデータに適用される方法論的戦略として定義されるため、経験的かつ概念的に検証可能である。",
+    "known_empirical_interventions_or_tests": "脳の活動・構造・時空的関係の分析に焦点を当てる、時空的神経科学を用いた研究。",
+    "criticisms_and_tensions": "この特定の理論に対して明示的に挙げられた批判はないが、焦点を世界‐脳の関係へと移すことで心身問題のような一般的な哲学的問題を解消することを目指す。",
+    "open_questions_and_limitations": "異なる時空的スケールがいかに入れ子になっているか、またこれがいかに心的特徴を包括的に捉えるかについて、より詳細な説明を要する。",
+    "ontological_coherence": "非還元的物理主義のパラメータの内部ではきわめて整合的であり、その方法論が、強制的な還元なしに主観的な心的領域を客観的な物理的事実と並べて研究することを可能にすると論じる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありそう",
+      "rationale": "非還元的物理主義的アプローチとして、意識は特定の複雑な動態（時空的メカニズム）の実現に結びついている。これらの動態を人工的に複製できるなら、AIにおける意識は可能なはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定",
+      "rationale": "この理論は脳の物理的メカニズム（神経生態学的、神経内臓的、自発的活動のマトリクス）に基礎づけられる。これらの物理的過程の停止は、創発的な意識的構造（感受性）の停止を含意する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確実",
+      "rationale": "この理論は主として方法論的であり、究極的な宇宙的意味よりは意識のメカニズムと構造に焦点を当てる。しかし、その非還元的立場は、主観性から生じる意味と価値を肯定することと両立する。"
+    },
+    "virtual_immortality": {
+      "stance": "ありそう",
+      "rationale": "意識が複雑で非還元的な時空的動態から創発するなら、これらの複雑なパターンの完全な複製とアップロードが一人称的な意識的自己を首尾よく保存するという理論的可能性が存在し、このカテゴリーに暗に含まれる機能主義的側面と軌を一にする。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Northoff’s Temporo-Spatial Sentience",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Mind-Body Problem",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why is there Sentience? G. Northoff",
+        "year": 2021
+      },
+      {
+        "title_with_names": "My way to non-reductive neurophilosophy, G. Northoff",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Spatiotemporal neuroscience – what is it and why we need it, G. Northoff et al.",
+        "year": 2020
+      }
+    ]
+  }
+}

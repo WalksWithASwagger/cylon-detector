@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "一階表象主義",
+    "summary": "一階表象主義（FOR）は、意識を外的で世界に向けられた志向的状態に還元することによって説明しようとする。それは、経験の現象的性格が表象の内容によって完全に決定されると主張し、クオリアを、経験が対象に帰属させる外的性質と同一視する。",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "唯物論の理論",
+    "subcategory": "表象的",
+    "core_identity_tagline": "外的で世界に向けられた志向的状態としての意識",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "知覚経験の現象的側面は、経験が対象に帰属させる外的で現実世界の性質とまったく同一である。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一説／還元主義的相関。心的状態は、特定の情報的機能を獲得した脳状態において実現される表象と同一視される。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "志向性（思考の指向性）が第一義的である。感覚的表象が主観に直接利用可能であるため、主観性は表象的内容によって完全に決定される。",
+    "qualia_account": "クオリア（現象的性格）は、表象的内容（強い表象主義）あるいは経験によって表象される外的性質と同一視され、こうして還元的説明を介してハードプロブレムを解決する。",
+    "ontological_commitments": "心的表象、情報的機能を獲得する脳状態、感覚的／知覚的回路。",
+    "epistemic_access": "神経相関と表象の大域的放送に焦点を当てた三人称的方法を介してアクセス可能であり、自己報告によって補完される。",
+    "constituents_and_structure": "脳内で大域的に放送される一階の感覚的表象と非概念的内容。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、アクセス意識、感覚的経験。",
+    "distinctive_mechanism_or_principle": "意識は、脳状態が通常は自然選択を通じて外的対象に関連する情報を担う機能を獲得し、こうして心的表象となるときに生じる。",
+    "dynamics_of_emergence": "意識は、非概念的内容がアクセスと利用のために脳全体にわたって大域的に放送されるにつれて動的に生じる。",
+    "location_and_distribution": "特定の意識の神経相関には、感覚皮質と特定の視床核の活動が含まれ、知覚領域における反復的処理に結びつく。",
+    "causation_and_functional_role": "意識は、柔軟な行動、信念形成、行為選択を可能にするシステムに対して知覚情報を利用可能にするように機能する。",
+    "integration_or_binding": "統合は、大域的な認知ネットワーク全体にわたる感覚情報（表象）の利用可能性を通じて達成される（大域的放送と同時に生じる）。",
+    "information_flow_or_representation": "一階の表象は外的刺激から直接流れる。情報処理は、脳状態を意識に適した表象へと転換するために不可欠である。",
+    "evolutionary_account": "意識は自然選択を介して進化し、それによって脳状態は、有機体の適応能力を高める情報を担う機能を獲得した。",
+    "core_claims_and_evidence": [
+      "現象的性質は、経験によって表象される外的で現実世界の性質と同一である。",
+      "意識的経験は、脳内における一階の非概念的内容の大域的放送と同時に生じる。",
+      "意識的状態は、その内容が主観的な感じを完全に決定する表象である。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（概念的還元、志向性への焦点）および経験的（神経科学的相関データ）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": [
+      "一般的および特定的意識の神経相関のマッピング（感覚皮質、視床核）",
+      "意識を一階の内容の大域的放送と相関させる研究"
+    ],
+    "criticisms_and_tensions": "表象理論に共通する一般的な課題、すなわち現象学を純粋に志向性の観点から説明することに直面する。批判者は、単なる表象や情報内容がいかにして質的な感じ（クオリア）を完全に説明しうるのかを問う。",
+    "open_questions_and_limitations": "非概念的表象の内容がいかにして主観的な「それがどのようなものか」を決定するのかという精密なメカニズムは、依然として説明的ギャップのままである。もっとも、支持者は現象的側面が外的性質との同一性によって解決されると論じる。",
+    "ontological_coherence": "還元的唯物論的かつ機能主義的存在論の内部で高度に整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "肯定",
+      "rationale": "意識が情報内容と機能的構造に依存する唯物論的理論として、人工システムは必要な表象構造と情報機能を実現すれば意識を具現しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は完全に物理的な脳の過程によって実現される。生物学的基体の破壊を超えた存続は排除される。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "唯物論の理論として、それはいかなる究極的な宇宙的意味や目的をも合理化せず、意識的行為者自身によって生成される意味のみを認める。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "一人称的自己が表象的内容と情報的状態によって完全に捉えられるならば、これらの状態を非生物的媒体へ完全に複製（アップロード）すれば、元の心的自己が保存されるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "批判／対比"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "拡張／重なり"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "両立的／重なり"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

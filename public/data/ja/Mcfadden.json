@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "マクファデンの意識的電磁情報理論",
+    "summary": "この理論は、意識の基体がニューロンという物質ではなく脳の電磁（EM）場であり、電磁場は情報を空間的に本来的に統合することによって結合問題を解決すると提唱する。意識は、このグローバルな場に符号化された、物理的に統合され因果的に能動的な情報として定義される。",
+    "associated_thinkers": ["Johnjoe McFadden"],
+    "category": "唯物論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "「物理的に統合された電磁情報としての意識」",
+    "classification_tags": [
+      "electromagnetic field",
+      "information",
+      "binding",
+      "causal activity",
+      "scientific dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳のグローバルな電磁（EM）場に符号化された、物理的に統合され因果的に能動的な情報であり、空間内で作動するアルゴリズムとして実装される。",
+    "ontological_status": "科学的二元論（物質とエネルギーの差異に根ざすが、唯物論の下に分類される）",
+    "mind_body_relationship": "意識（EM場）は物理的な脳（ニューロンという物質）によって生成されるが、エネルギー場として存在論的に区別される。したがってそれは物質とエネルギーの差異に根ざした科学的二元論である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発（正当化：この理論は意識を、それを生成する神経物質へと還元できない独自の因果的性質――物理的に統合された情報――をもつ創発的なエネルギー場として記述し、原理的な還元不可能性を示唆する）。",
+    "subjectivity_and_intentionality": "主観性は、EM場によって生成される統合された（ゲシュタルト的）情報としての意識の本性に暗黙のうちに含まれており、それがシステムに思考を生成し外界に報告することを可能にする。",
+    "qualia_account": "この理論は、EM場が現象的経験を説明し結合問題を解決する、意識の内在的で空間的に統合された基盤を提供すると主張することによってクオリアを扱う。",
+    "ontological_commitments": "ニューロンという物質、電磁（EM）場、物理的に統合された情報。",
+    "epistemic_access": "意識的EM場の客観的基準（ゲシュタルト的情報の生成）の外的観察を通じて、また意識に関連する電場のEEG検出のような相関物を通じて経験的にアクセス可能。",
+    "constituents_and_structure": "空間的に処理されるアルゴリズムによって組織され、統合された（ゲシュタルト的）情報を形成する、脳のグローバルな電磁場。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（クオリア／結合）、情報統合、意識的な因果的作用、報告／伝達。",
+    "distinctive_mechanism_or_principle": "EM場は意識の瞬時的な空間的基体として作用し、情報が空間を横断して統合されることを可能にする。これは典型的な神経処理や計算に見られる従来の時間的統合とそれを区別する。",
+    "dynamics_of_emergence": "意識は、時間ではなくEM場内の空間において作動するアルゴリズムを通じて実装される動的プロセスであり、システムが統合された情報を生成することを可能にする。",
+    "location_and_distribution": "脳のグローバルな電磁（EM）場であり、脳のグローバル・ワークスペースとして作用する。",
+    "causation_and_functional_role": "因果的に能動的であり、脳のグローバル・ワークスペースとして作用してゲシュタルト的情報を生成し、それが運動系を介して外部に伝達される。",
+    "integration_or_binding": "単に時間内で実装される統合に依拠する神経理論とは異なり、EM場を介して空間を横断する物理的に統合された情報を達成することによって結合問題を解決する。",
+    "information_flow_or_representation": "情報はEM場を通じて流れ、そこで物理的に統合された情報として符号化される。作業記憶内容の安定性は主として電場に存すると仮説される。",
+    "evolutionary_account": "この理論はメカニズムに焦点を当て、系統発生には焦点を当てない（正当化：唯物論／電磁場理論に位置づけられるものの、記述されるメカニズムは純粋に物理的で脳の現在の機能に局在しており、EM場メカニズム自体の起源や適応的発達を特定しない）。",
+    "core_claims_and_evidence": [
+      "意識の基体はニューロンという物質ではなく脳のEM場である。",
+      "意識はグローバルなEM場における物理的に統合され因果的に能動的な情報である。",
+      "作業記憶の安定性は神経状態よりもEM場（EEG）と高度に相関し、EM場を基体とする主張を支持する。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、神経生理学的（EEG／作業記憶データ）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（例えば意識的なEM場を非意識的なEM場から区別すること）",
+    "known_empirical_interventions_or_tests": [
+      "作業記憶内容の安定性と脳の電場（EEG）との相関研究"
+    ],
+    "criticisms_and_tensions": "電磁場理論は依然として論争的であり、多くの神経生物学者や哲学者にしばしば見過ごされている。批判者は、EM場だけで現象的意識を説明するのに必要な複雑さを備えているのかを問う。",
+    "open_questions_and_limitations": "EM場が単に相関的であるのではなく、真に因果的である程度は、依然として未解決の問いである。",
+    "ontological_coherence": "物質とは区別されるエネルギー場に物理的地位と因果力を認める拡張された物理主義的存在論（科学的二元論）と整合的。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "実現可能",
+      "rationale": "この理論は、新奇なハードウェアが必要な空間的統合とEM場の動態を再創出し、意識の空間的アルゴリズムを実装できるなら、人工意識は実現可能な道筋であると論じる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否（EM場の存続を条件とする）",
+      "rationale": "意識は生物学的な脳の創発的な場の性質である。その死後の存続には、基底の物理的活動に依存するEM場構造の維持ないし再構成が必要である。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不特定／人間主義的",
+      "rationale": "焦点は経験に必要な物理的メカニズムと基体（EM場／情報）にあり、システムの作動上の機能を超えた内在的な宇宙的意味や目的論を提供しない。（推論された根拠。）"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "意識は純粋にニューロンのプロセスではなく場に符号化された情報として定義されるため、必要なEM場構造と空間的処理の動態を宿しうる非生物学的ハードウェアへのデジタル複製ないし転送は原理的に可能であるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批判（IITが時間的統合に依拠するのに対し、CEMIは空間的統合に焦点を当てる点を批判する）"
+      },
+      {
+        "name": "Pockett’s Conscious and Non-Conscious Patterns",
+        "relationship": "重複（EM場が意識の座であるという基礎的前提を共有する）"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重複（EM場が脳のグローバル・ワークスペースとして作用する）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Synchronous firing and its influence on the brain’s electromagnetic field, Johnjoe McFadden",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Integrating information in the brain’s EM field: the cemi field theory of consciousness, Johnjoe McFadden",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Consciousness: matter or EMF?, Johnjoe McFadden",
+        "year": 2023
+      }
+    ]
+  }
+}

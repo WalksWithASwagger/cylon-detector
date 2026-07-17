@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "グロスバーグの適応共鳴理論（ART）",
+    "summary": "グロスバーグの理論は、すべての意識状態が、ボトムアップの感覚パターンと学習されたトップダウンの期待との相互作用から生じる共鳴状態であると定める。この理論的基盤である適応共鳴理論（ART）は、動的な世界において脳がどのように自己組織化して意識的に注意を向け、範疇化し、認識し、予測するのかを説明する。これらの脳の共鳴の諸種が意識のハードプロブレムの解決へ向けて前進をもたらすと主張する。",
+    "associated_thinkers": [
+      "Stephen Grossberg"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的・情報的",
+    "core_identity_tagline": "「共鳴状態としての意識状態」",
+    "classification_tags": [
+      "computation",
+      "resonance",
+      "neurobiological",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、ボトムアップのパターンと学習されたトップダウンの期待との相互作用から生じる持続的な共鳴状態と同一視され、クオリアを表現する特徴選択的な細胞を含むとき意識的な気づきを支えることができる。心は静的な実体ではなく、活動、すなわち動詞として概念化される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一／一元論的。心は物理的な脳の活動（名詞ではなく動詞）であり、細胞システムを通じて保存された機構的に類似の法則によって調整される。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。計算論的構造と保存された生物学的法則に依拠する唯物論的理論としての分類に基づき、意識は、直観的には還元できないとしても、より低次の過程によって完全に説明可能であると期待される。",
+    "subjectivity_and_intentionality": "志向性（認識、予測、学習）は、共鳴状態において実現される注意的意識によって調整される。主観性は、これらの状態の内部でクオリアを表現する特徴選択的な細胞を含めることによって説明される。",
+    "qualia_account": "クオリアは、持続的な共鳴状態の内部に含まれ意識的な気づきを支える特徴選択的な細胞と同一視される。グロスバーグは、これが意識のハードプロブレムに取り組むのに役立つと示唆する。",
+    "ontological_commitments": "共鳴状態、計算論的構造、ボトムアップの感覚パターン、トップダウンの期待、および生物学的システムを通じた短期記憶・長期記憶／活性化の保存された法則。",
+    "epistemic_access": "神経・認知モデリング、脳データの観察、および人間が事物を意識的に知覚し知る仕方の分析を介して接近可能である。",
+    "constituents_and_structure": "ボトムアップの感覚入力とトップダウンの学習された期待との継続的な相互作用を通じて確立され、短期記憶と長期記憶の共通の法則によって調整される共鳴状態。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、注意的意識、学習、認識、予測、行動調整。",
+    "distinctive_mechanism_or_principle": "適応共鳴理論（ART）。ここではボトムアップ経路とトップダウン経路との間の持続的で最大限に還元不可能な共鳴状態が、意識の必要十分条件であると主張される（すべての意識状態は共鳴状態である）。",
+    "dynamics_of_emergence": "動的過程。意識は、学習や予測のような認知過程と絶えず相互作用しそれを調整する動的な共鳴状態として実現される。",
+    "location_and_distribution": "脳構造の内部、とりわけクオリアを表現する特徴選択的な細胞が共鳴状態に含まれる場所に局在する。",
+    "causation_and_functional_role": "注意的意識は、学習、認識、予測のような認知過程と相互作用する行動を調整する。それは変化する世界において対象や出来事を自律的に学習し範疇化する能力をもたらす。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "認知・神経モデルにその基盤をもつため、経験的かつ計算論的に検証可能。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "典拠では特定の主要な外部批判は詳述されていないが、唯物論的理論に共通する一般的な緊張（例えば、純粋に機能的な定義を通じて主観的な質／クオリアを完全に捉えることの困難）が当てはまる。",
+    "open_questions_and_limitations": "この理論はハードプロブレムの解決を目指しており、共鳴状態と現象的経験との関係を完全に定義することが継続的な課題であることを示している。",
+    "ontological_coherence": "計算論的および唯物論的な存在論的枠組みの内部で整合的であり、意識の性質を機能的な脳活動と直接的に一致させている。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "この理論は、意識が特定の計算論的構造と保存された法則の実現の結果であるとする機能主義的モデルである。これらの計算論的構造（共鳴状態）を非生物学的ハードウェアで実装できるならば、AIの意識は可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定する",
+      "rationale": "意識は根本的に、物理的に実現された生物学的な脳の共鳴活動に結びついており、身体の死後の存続への概念的経路を提供しない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "脳の自己組織化と適応的機能（学習、予測、生存）に焦点を当てた唯物論的理論として、人間の経験の外にあるいかなる究極的ないし宇宙的な意味や目的も含意しない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "心が計算論的活動（共鳴状態）のシステムとして機能的に定義されるならば、この構造を非生物学的媒体において十分に完全に再現すれば、原理的に一人称の心的自己を保存できるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "類似（機能主義的アプローチ）"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "類似（機能主義的アプローチ）"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "類似（機能主義的アプローチ）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Adaptive Resonance Theory: how a brain learns to consciously attend, learn, and recognize a changing world, Stephen Grossberg",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The resonant brain: how attentive conscious seeing regulates action sequences that interact with attentive cognitive learning, recognition, and prediction, Stephen Grossberg",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Conscious Mind, Resonant Brain: How Each Brain Makes a Mind, Stephen Grossberg",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Towards solving the hard problem of consciousness: the varieties of brain resonances and the conscious experiences that they support, Stephen Grossberg",
+        "year": 2017
+      }
+    ]
+  }
+}

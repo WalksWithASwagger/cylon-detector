@@ -1,0 +1,116 @@
+{
+  "id_and_class": {
+    "theory_title": "透明性テーゼ（透明性理論）",
+    "summary": "透明性テーゼは、感覚経験が純粋に表象的なものであり、知覚状態そのものの内在的特徴ではなく、もっぱら外的対象とその諸性質へと注意を向けると主張する。中心的テーゼは、内省がこれらの表象を超えたいかなる心的性質も明らかにしないがゆえに、現象的意識は唯物論にとって特別な問題を提起しないと説く。",
+    "associated_thinkers": [
+      "William G. Lycan",
+      "Gilbert Harman",
+      "Michael Tye",
+      "Dirk Franken"
+    ],
+    "category": "唯物論の諸理論",
+    "subcategory": "表象主義的理論",
+    "core_identity_tagline": "「透明な表象としての意識」",
+    "classification_tags": [
+      "representationalism",
+      "materialism",
+      "intentionalism",
+      "qualia_reduction"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象的意識（現象的性格）は、経験の表象的内容（志向的内容）と同一視される、あるいはそれへと還元される。",
+    "ontological_status": "還元的物理主義／唯物論（本理論は物理主義に反対する諸議論を掘り崩すために用いられる）。",
+    "mind_body_relationship": "同一説／還元主義（現象的性格は志向的内容へと還元され、その内容は物理的に実現されると想定され、唯物論陣営に属する）。",
+    "primitive_or_emergent_status": "原初的ではなく、還元的に創発する（神経的な表象的内容に付随する）",
+    "emergence_type": "弱い創発（本理論は、現象的性質が表象的内容によって完全に汲み尽くされる、あるいはそれへと還元可能であることを示すことを目指しており、これは弱い創発／還元主義の原理と整合する）。",
+    "subjectivity_and_intentionality": "主観的な現象的質は、主観に提示される感覚可能な諸性質によって完全に定義され、汲み尽くされる。志向性（外的対象を表象するという性質）は意識状態にとって根本的である。",
+    "qualia_account": "クオリア、すなわち現象的意識の質的特徴は、それが表象的性質を超えて知覚状態がもつ性質と見なされる場合、幻想的あるいは不整合なものとなる。現象的性格は志向的内容へと還元される。",
+    "ontological_commitments": "外的対象とその見かけ上の諸性質、知覚状態、および表象的内容。本理論は、内在的で非表象的な心的性質の存在を明示的に否定する。",
+    "epistemic_access": "内省（中心的な透明性テーゼは経験の内省に依拠しており、その内省は対象によって表象される性質を超えたいかなる内在的性質も明らかにしないとされる）。",
+    "constituents_and_structure": "知覚状態は、もっぱら外的対象とその諸性質を表象することによって機能する。意識経験の構造は、主観に提示される感覚可能な諸性質の分布である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（クオリア）、知覚（とりわけ視覚経験）。",
+    "distinctive_mechanism_or_principle": "透明性テーゼ。すなわち、注意が内側へ向けられるとき、知覚されている外的対象の特徴のみを見いだすという原理であり、これによって現象的性格が表象的内容に等しいという主張が支持される。",
+    "dynamics_of_emergence": "焦点は、創発の動的過程を記述することよりも、意識状態の諸性質を特徴づけることにある。人が媒介する状態を「そのまま透かし見る」に至った結果としての状態を記述する。",
+    "location_and_distribution": "本理論は現象的内容（表象）そのものの本性に焦点を当てる。含意として、唯物論の一理論である以上、この内容は脳内の神経活動によって実現される。",
+    "causation_and_functional_role": "機能的役割は、知覚状態そのものにではなく、外的対象を正確に表象し、それらに諸性質を帰属させることにある。",
+    "integration_or_binding": "明示的には詳述されないが、知覚された諸性質（例えば色、形）を統一された外的対象へと帰属させることの成功のうちに含意されている。知覚された諸性質は、現われの場において主観に現前するものである。",
+    "information_flow_or_representation": "情報は表象として処理される。現象的意識は本質的に情報的なものであり、とりわけ外的対象を表象する内容である。",
+    "evolutionary_account": "明示的には扱われないが、唯物論の表象主義的下位区分と整合しており、環境を正確に表象することによって適応度を高める感覚機能についての進化論的説明と一般に両立する。",
+    "core_claims_and_evidence": [
+      "感覚経験は外的対象とその見かけ上の諸性質を表象し、唯物論にとっての問題を消去する。",
+      "内省は表象的性質を超えたいかなる心的性質も明らかにしない（透明性テーゼそのもの）。",
+      "強い表象主義は唯物論に反対する知識論証を掘り崩すという主張。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（現象学的観察と内省に基づく議論）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能／現象学的に制約されている（その主たる試金石は内省的主張の整合性であり、客観的な反証方法は中心的ではない）。",
+    "known_empirical_interventions_or_tests": "内省（本理論は「最も徹底した内省がそのような付加的性質をこれまで一度でも明らかにするか」にかかっている）。ぼやけた視覚のような問題事例は支持者によって扱われる。",
+    "criticisms_and_tensions": "批判者は、知覚されるすべての性質が対象の外的性質であるという主張への潜在的反例として、ぼやけた視覚のような現象を挙げる。本テーゼは、現象的質が心的状態の独立した性質であるという考えを否定する。",
+    "open_questions_and_limitations": "経験が外的性質のみを含むのであれば、ぼやけた視覚のような内的状態がどのように経験されうるのかといった、見かけ上の不整合を解決しなければならない。",
+    "ontological_coherence": "高い（還元的物理主義や、還元不可能な現象的性質の存在を否定することで心身問題を解決しようとする強い表象主義のような諸理論と、内的に高度に整合している）。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "唯物論の諸理論に対する哲学的擁護として、意識は計算的あるいは表象的であるという見解を支持し、それゆえAIの意識は原理的に絶対的に可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は物理的な脳に由来する表象的状態に基づいている。唯物論のパラダイムに従えば、脳の破壊はその人の恒久的な非存在を意味する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "本理論は唯物論を補強するように機能し、唯物論は通例、人間主義的に創出された意味・目的・価値のみを支持する。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "意識がもっぱら表象的内容によって説明され尽くすのであれば、この情報は理論的に複製され、非生物学的基盤へアップロードされうるため、仮想的不死は達成可能となる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Intentionalism",
+        "relationship": "類似／同等"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "擁護／支持"
+      },
+      {
+        "name": "Jackson’s Representationalism",
+        "relationship": "拡張／支持"
+      },
+      {
+        "name": "Amy Kind",
+        "relationship": "批判／精緻化"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The intrinsic quality of experience, G. Harman",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Representationalism and the transparency of experience, M. Tye",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Transparency and the Structure of Consciousness, D. Franken",
+        "year": ""
+      },
+      {
+        "title_with_names": "Representational theories of consciousness, W. Lycan",
+        "year": 2019
+      }
+    ]
+  }
+}

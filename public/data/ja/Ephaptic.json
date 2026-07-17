@@ -1,0 +1,92 @@
+{
+  "id_and_class": {
+    "theory_title": "エファプス結合理論",
+    "summary": "この理論は、ニューロンが十分に強く、かつ精密に配置された電場を生成し、隣接するニューロンの電気的興奮性に瞬時に影響を及ぼす（エファプス結合）と主張する。この結合が脳全体にわたって広範に生じるならば、それは意識の電磁場理論を構成するのを助ける根底的な物理的基盤であると提案される。",
+    "associated_thinkers": [
+      "Chen"
+    ],
+    "category": "唯物論の理論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "電場を介したほぼ瞬時的な神経影響としての意識",
+    "classification_tags": [
+      "electromagnetic field",
+      "neurobiological",
+      "neural dynamics",
+      "coupling"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、ニューロン間の瞬時的な非シナプス性の電気的影響（エファプス結合）から生じる電磁場の集合的動態によって、潜在的に構成あるいは支持される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一性／相関（心は脳内の物理的過程／場である）",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "エファプス結合は主として神経影響のための生物物理学的メカニズムであるため、主観性と志向性についてのその説明は、結果として生じる電磁場、あるいはそれが支持するより大きな枠組みに委ねられる。",
+    "qualia_account": "この特定の結合メカニズムはクオリアを明示的には扱わないが、それが支持するより広範な電磁場理論は、現象的経験を説明課題として掲げることがある。",
+    "ontological_commitments": "ニューロン、電場、およびほぼ瞬時的な非シナプス性の神経影響。",
+    "epistemic_access": "神経活動に対する電場の効果に焦点を当て、生物物理学的現象の観察とモデル化を通じてアクセス可能。",
+    "constituents_and_structure": "発電性ニューロンによって生成される電場であり、これが近隣ニューロンの興奮性に影響を与え、大規模な脳活動を組織化する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（暗黙的に。一般化された意識の電磁場理論を支持する限りにおいて）",
+    "distinctive_mechanism_or_principle": "近隣ニューロン間のほぼ瞬時的な電気的通信を可能にする、電場の非シナプス性の影響（エファプス結合）。",
+    "dynamics_of_emergence": "意識は、脳組織全体にわたって急速に変化する電場によって可能となる瞬時的な結合と同期から生じる動的過程である。",
+    "location_and_distribution": "脳組織内に広く分布し、ニューロン間で有意なエファプス結合が生じるあらゆる場所に及ぶ。",
+    "causation_and_functional_role": "近隣ニューロンの電気的興奮性に瞬時に影響を及ぼし、意識に必要な迅速な統合と同期を促進しうること。",
+    "integration_or_binding": "統合あるいは結合は、分散した神経ネットワーク全体にわたるほぼ瞬時的なエファプス結合によって可能となる広範な影響と同期を介して生じると仮定される。",
+    "information_flow_or_representation": "情報処理は、従来のシナプス経路の外で行われるニューロン間の電気的影響の瞬時的な伝達に依拠する。",
+    "evolutionary_account": "唯物論の理論としての分類と整合的に、中枢神経系の系統発生的進化における、極めて迅速で統合された神経通信の適応的価値と合致しなければならない。",
+    "core_claims_and_evidence": [
+      "ニューロンは、近隣の神経興奮性にほぼ瞬時に影響を与えるほど強い電場を生成する。",
+      "エファプス結合は、それが広範であれば、意識の電磁場理論を構成するのを助ける。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的（生物物理学と、神経活動および場の生理学的観察に依拠する）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "すべての唯物論の理論に共通する一般的な困難、すなわち物理的メカニズム（電気的結合）がいかにして主観的・現象的経験を生じさせるのかを説明するという困難に直面する。",
+    "open_questions_and_limitations": "主要な未解決の問いは、エファプス結合が脳組織内で、意識を説明しうる大域的な場を構成するに足るほど広範に生じるかどうかである。",
+    "ontological_coherence": "唯物論的存在論と高度に整合的であり、脳内の複雑な電場の創発に対する生物物理学的メカニズムを提供する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "意識が電気的活動と結合から生じる物理的な場の現象に基づくのであれば、類似した複雑な場の効果を生成しうる人工システムは、より広範な唯物論のカテゴリーと整合的に、意識を達成するはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "唯物論の理論として、意識は機能する物理的基体（脳とその電場）に結びついており、身体的死後の存続を排除する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "神経生物学的・電磁的メカニズムから導かれる純粋に物理的な理論として、究極的な宇宙的意味や目的を含意しない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "エファプス結合を含む精密な神経動態とそれに伴う電場が、非生物的媒体において正確に再現あるいはシミュレートできるならば、唯物論と整合的に、仮想的不死は妥当である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "支持"
+      },
+      {
+        "name": "CEMI Field Theory",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Neurobiological Theories",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Ephaptic coupling",
+        "year": 2020
+      }
+    ]
+  }
+}

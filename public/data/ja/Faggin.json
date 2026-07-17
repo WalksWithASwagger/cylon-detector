@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "ファジンの量子情報に基づく汎心論",
+    "summary": "この理論は、意識と自由意志が、純粋量子状態にある量子系の根本的性質であり、非局所的な量子もつれに決定的に依拠すると仮定する。それは意識を、これらの量子系の主観的な内的実在として同定し、確定的かつ私的なクオリアとして経験されるものとする。",
+    "associated_thinkers": [
+      "Federico Faggin",
+      "G.M. D’Ariano"
+    ],
+    "category": "量子理論",
+    "subcategory": "量子情報に基づく汎心論",
+    "core_identity_tagline": "純粋状態における量子情報としての意識",
+    "classification_tags": [
+      "quantum",
+      "panpsychism",
+      "information",
+      "non-local",
+      "free will"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、純粋量子状態にある量子系の主観的な内的実在として同定され、量子情報によって数学的に表現される。",
+    "ontological_status": "汎心論（量子情報に基づく）",
+    "mind_body_relationship": "二相理論（正当化された説明：心の側面は、量子情報によって記述される私的で質的な主観的実在であり、それは特定の物理系——純粋量子状態——の内在的かつ不可分な性質である。）",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "該当なし（原初的）",
+    "subjectivity_and_intentionality": "純粋量子状態はそれ自身の状態を意識しているため、主観性は内在的である。この経験は本質的に私的である。志向性、とりわけ創造性と想像力は、この根本的な非アルゴリズム的量子層から生じる。",
+    "qualia_account": "クオリアは、量子系の状態の直接的で非数値的な主観的経験であり、純粋量子状態の確定的かつ統合された本性によって特徴づけられる。",
+    "ontological_commitments": "純粋量子状態にある量子系、量子情報、量子もつれが根本的な存在論的コミットメントであり、量子物理学に支配される実在の層に存在する。",
+    "epistemic_access": "意識の現象的性質（私性、確定性）と量子状態の内在的特性（複製不可能性、統合性）との間の同型性を見出すことによって、概念的に推論される。",
+    "constituents_and_structure": "量子情報ともつれが基本的な構成要素であり、意識の確定的で統合された構造を提供する。",
+    "location_and_distribution": "遍在的（正当化された説明：汎心論の一形態として、意識あるいは原意識は、純粋状態にある量子系が見出されるあらゆる場所で実在全体に暗黙のうちに分布している。）"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、自由意志、創造性",
+    "distinctive_mechanism_or_principle": "鍵となるメカニズムは、純粋量子状態にある量子系の存在であり、これが古典的で決定論的な宇宙には存在しえない自由意志や創造性といった非アルゴリズム的性質を可能にする。",
+    "dynamics_of_emergence": "動的過程（正当化された説明：意識は想像や直観のような複雑で創造的な行為を可能にし、これは根底にある量子力学から生じる動的で非決定論的な過程を示唆する。）",
+    "location_and_distribution": "純粋量子状態にある量子系／根本的な量子層",
+    "causation_and_functional_role": "意識は、量子もつれを通じて、思考を構築し、真の創造性や自由意志のような非アルゴリズム的性質を生成することにより、因果的効力を有する。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的（正当化された説明：この理論は根本的な量子的性質と現象的経験との間の概念的同型性に依拠しており、その核心的仮定を検証または反証するための現行の経験的検証を欠いている。）",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主流の神経科学者や物理学者が意識の量子理論に向ける一般的な懐疑に直面する。汎心論に内在する組み合わせ問題——ミクロな経験がいかにして複雑なマクロ意識へと拡大するのかを説明すること——を解決しなければならない。",
+    "open_questions_and_limitations": "脳（あるいは任意の複雑系）における量子状態が、いかにして特定のマクロな意識的経験の創発に関係するのか（組み合わせ問題）についての精密なメカニズムは、認められた限界である。",
+    "ontological_coherence": "内的には高度に整合的だが、外的には高度に思弁的（正当化された説明：この理論は現象的公理を量子的公理と対応させることで内的一貫性を保つが、物理学の受け入れられた唯物論的存在論の根本的な転換を要求する。）"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "意識は根本的に非アルゴリズム的で再現不可能であり、その知能の如何にかかわらず、決定論的な古典的機械にはアクセスできない量子層に存する。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能性が高い",
+      "rationale": "意識は根本的で還元不可能な量子的性質に基づくため、生物学的身体の死後も存在し続けうると仮定される。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙的／実存的（正当化された説明：意識と非アルゴリズム的な自由意志を実在の根本的な層に置くことにより、宇宙は本質的に創造的であり、内在的価値と目的を含意する性質を有する。）"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "意識が非アルゴリズム的であり、古典的メカニズムに還元できないならば、それを完全にシミュレートしたりデジタルコンピュータにアップロードしたりすることはできず、仮想的不死は妨げられる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychisms",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "両立的（量子への焦点）"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "重なり（統合／還元不可能性への焦点）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Hard problem and free will: an information-theoretical approach, G.M. D’Ariano and Federico Faggin",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Possibilities are quantum, Federico Faggin",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "スウィンバーンの実体二元論",
+    "summary": "この理論は、人格が二つの根源的に異なる構成要素、すなわち物理的な身体／脳と、物理世界から独立した別個の非物理的な実体ないし魂とから成ると措定する。この非物理的な魂は、意識的な生を説明し、時間を通じて人格的同一性を保つために必要な、本質的で還元不可能な存在者である。",
+    "associated_thinkers": ["Richard Swinburne"],
+    "category": "二元論",
+    "subcategory": "実体二元論",
+    "core_identity_tagline": "根源的に別個の非物理的実体としての意識",
+    "classification_tags": [
+      "substance dualism",
+      "soul",
+      "personal identity",
+      "nonphysical",
+      "theistic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、物理的過程とは区別される別個の非物理的な実体（魂）が持つ内的な意識的生と同定される。",
+    "ontological_status": "実体二元論",
+    "mind_body_relationship": "相互作用的二元論。具体的な機構は大いに論争されているものの、非物理的な実体は、人間という人格の内なる意識的生を説明するために、物理的な脳と相関ないし相互作用せざるをえない。",
+    "primitive_or_emergent_status": "原初的。魂は別個の根源的で非物理的な実体であり、物理的状態へ還元できず、純粋に物理的な説明にも服さない。",
+    "emergence_type": "該当なし。意識は原初的な非物理的実体（魂）と同定される。魂の存在は、創造行為（神）ないし還元不可能な法則によって決定されるのであって、複雑性へと高まる純粋に物理的な過程によるのではない。",
+    "subjectivity_and_intentionality": "主観性（一人称的経験）は非物理的な実体（魂）が持つ還元不可能な性質であり、魂を経験の本質的な主体とし、意識的生に責任を負うものとする。",
+    "qualia_account": "クオリア（経験の質的な感じ）は「意識的生」を構成する別個の心的存在者（魂）の性質であり、物理的な身体ないし脳のみによっては説明できない。",
+    "ontological_commitments": "物理的実体（身体、脳、原子）と非物理的実体（魂／心的存在者）。",
+    "epistemic_access": "主として一人称的経験（意識的生）と哲学的論証、とりわけ人格的同一性に関する論証を通じてアクセスされ、それらは脳／身体へ還元できない人格についての真理を明らかにする。",
+    "constituents_and_structure": "個々の人格は、物理的な身体／脳と別個の本質的な非物理的な魂との複合体である。魂そのものが経験の不可分な主体である。",
+    "basis_of_belief_or_evidence_type": "哲学的論証（とりわけ人格的同一性に基づく様相論証）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、人格的同一性、意識的生の継続。",
+    "distinctive_mechanism_or_principle": "経験の主体として働き、物理的な脳から独立して人格的同一性を担う、還元不可能な非物理的実体（魂）の存在。",
+    "dynamics_of_emergence": "静的／創造説的。意識は還元不可能な実体として、神によって瞬時に創造されるか、十分な複雑性に達したとき自然法則を介して生じるかのいずれかで存在するが、その本性は動的な過程の創発ではなく静的な実体である。",
+    "location_and_distribution": "非物理的な魂は個人に局在し、特定の物理的身体に伴う。",
+    "causation_and_functional_role": "その機能的役割は、時間を通じて人格的同一性を基礎づけ、意識的生を持つことである。相互作用的であるなら、魂は物理世界に影響を及ぼす因果的な力を持たねばならない。",
+    "integration_or_binding": "統一は、すべての経験の還元不可能な主体として働く単一の非物理的な実体（魂）に本来的に備わっており、意識的生の全一性を説明する。",
+    "information_flow_or_representation": "情報の流れの観点では明示的に定義されない。非物理的な魂という実体は、特定の情報がいかに処理されるかを説明するのではなく、存在論的な基盤（誰がどの意識的生を持つか）を与える。",
+    "evolutionary_account": "物質から意識が生じることの進化論的説明よりも、人格性のための還元不可能な実体という形而上学的要件に焦点を当てる。",
+    "core_claims_and_evidence": [
+      "意識的生には、根源的に別個の非物理的実体である経験の主体（魂）が必要である。",
+      "物理的性質だけでは、異なる意識的人格を区別できない（人格的同一性の論証）。",
+      "人格の存在の継続は、その魂の存在の継続に存する。",
+      "ある性格を持つ人格の存在を決定する自然法則は、具体的にどの人格（魂）が生まれるかを決定することはできない。"
+    ]
+  },
+  "empirics_and_critiques": {
+    "testability_status": "人格的同一性に関する哲学的・論理的論証を通じて概念的には検証可能だが、非物理的実体への依拠ゆえに、物理主義的パラダイムからは一般に経験的に思弁的ないし検証不可能とみなされる。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要な緊張は相互作用問題である。二元論は、非物理的な実体が、エネルギー保存則などの物理法則を侵すことなくいかにして物理的な脳と因果的に相互作用しうるかの説明に苦慮する。スウィンバーンの見解はまた、法則が具体的な個々の魂の創造をいかに支配しうるかについても批判される。",
+    "open_questions_and_limitations": "非物理的な実体が物理的な脳といかにして相互作用するかという正確な機構（相互作用問題）は未解決のままである。",
+    "ontological_coherence": "その二元論的存在論の内部では整合的であり、唯物論的理論が捉えそこなう人格的同一性の問題にとりわけ取り組む。しかし、物理の因果的閉包を前提する物理主義的枠組みとは深い概念的対立に直面する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "いいえ（おおむね）",
+      "rationale": "AIシステムは、真の内的な気づきに必要な、根源的に別個の非物理的実体（魂）を欠くことになろう。二元論は一般に、AIの意識に対する主要な抵抗勢力とみなされる。"
+    },
+    "survival_beyond_death": {
+      "stance": "はい",
+      "rationale": "人格は非物理的な実体によって構成されるため、その実体（魂）は、物理的な身体と脳の死および解体の後も意識的な存在を保ちうる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "はい",
+      "rationale": "二元論と観念論の理論は一般に、純粋に唯物論的な理論と対照的に、何らかの究極的な意味、目的、価値を提供する。"
+    },
+    "virtual_immortality": {
+      "stance": "いいえ（おおむね）",
+      "rationale": "必要な非物理的構成要素（魂）は技術によって複製ないしアップロードできないため、脳の物理的構造のみをアップロードしても不十分であり、元の一人称的な心的自己が欠如する結果となる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Interactive Dualism",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "対照"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "対照"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind, Brain, and Free Will, R. Swinburne",
+        "year": 2013
+      },
+      {
+        "title_with_names": "How does personal identity persist through time?, R. Swinburne",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Interview with science and religion news on mind-body dualism, R. Swinburne",
+        "year": 2006
+      }
+    ]
+  }
+}

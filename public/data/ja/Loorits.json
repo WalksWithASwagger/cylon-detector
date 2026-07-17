@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "ローリッツの構造的実在論",
+    "summary": "この理論は、意識的経験が全面的に構造的な現象であり、神経活動における複雑な高階パターンとして脳内に存在すると措定する。ハードプロブレムを解くにあたり、クオリアは質的で非構造的に見えるものの、実際には複雑な合成的構造であり、神経パターン自体によって誤って一元的性質として知覚されているのだと論じる。",
+    "associated_thinkers": ["Kristjan Loorits"],
+    "category": "唯物論",
+    "subcategory": "関係主義的",
+    "core_identity_tagline": "全面的に構造的な神経パターンとしての意識",
+    "classification_tags": [
+      "structuralism",
+      "qualia",
+      "neural patterns",
+      "internalism",
+      "illusionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、本質的に構造的な現象である神経活動の複雑な高階パターンとして同定される。クオリアは、無意識的連合の広大なネットワークの合成的構造である。",
+    "ontological_status": "構造的実在論（物理主義）",
+    "mind_body_relationship": "同一性／還元（意識的経験は脳内に存在する構造的現象であり、全面的に構造的な用語で分析可能である）。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（推論される。この理論は意識が全面的に構造的で物理的な用語で分析可能であると主張し、ハードプロブレムを概念的に解きつつも、唯物論的還元主義の枠組みに収まるため）。",
+    "subjectivity_and_intentionality": "主観性は、複雑な神経パターンが自らのきわめて複雑な構造的性質を単純で一元的な性質として誤知覚することによって生じる。意識的経験は世界に存在する客観的構造として理解される。",
+    "qualia_account": "クオリアは全面的に構造的な現象――無意識的連合の合成的構造――であり、システムによって非構造的ないし質的なもの（視点依存的現象）として単に*知覚される*にすぎない。",
+    "ontological_commitments": "複雑な高階の神経パターン、世界に存在する客観的構造、無意識的連合の広大なネットワーク。",
+    "epistemic_access": "客観的分析（全面的に構造的な用語）と内省（それが誤知覚された一元的性質を明らかにする）を通じてアクセス可能。適切な脳刺激技術を通じて直接アクセスできる可能性もある。",
+    "constituents_and_structure": "脳内の複雑な神経パターンであり、全面的に構造的な用語で分析可能である。これらの構造は、社会物理的環境の諸要素を含むように拡張される場合もある。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、ハードプロブレム（クオリア）、そして私秘性／位置の問題。",
+    "distinctive_mechanism_or_principle": "メカニズムは、自らの構造的複雑さを一元的で質的なものとして誤知覚する複雑な神経パターンの生成であり、それによって非構造的なクオリアという主観的な「見え」を作り出す。",
+    "dynamics_of_emergence": "動的プロセス（意識は神経活動のパターンとして存在し、連続的で動的なプロセスを示唆する）。",
+    "location_and_distribution": "主として神経プロセス内に脳に束縛された（「内在主義的」）ものであるが、その構造は環境の諸要素を含むように拡張される場合もある。",
+    "causation_and_functional_role": "典拠となる資料は意識の構造的同一性と認識論に焦点を当てており、その明示的な因果的機能的役割には言及していない。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（予測は脳刺激技術の発展に依拠する）。",
+    "known_empirical_interventions_or_tests": [
+      "適切な脳刺激技術が、経験する主観に対してクオリアの構造的本性を直接明らかにするはずだという予測。"
+    ],
+    "criticisms_and_tensions": "ローリッツは内的緊張を指摘した。すなわち、クオリアは「舞台裏では」関係的でありうるものの、主観的には内在的に感じられる限り依然として科学的記述を逃れ、ある意味でハードプロブレムが存続するということである。",
+    "open_questions_and_limitations": "限界は、主観がクオリアの基底にある構造的／関係的な構成要素に気づいていないときに、クオリアの内在的な感じが現象的に持続することを説明する点にある。",
+    "ontological_coherence": "構造的実在論に傾倒する物理主義的枠組みの内部で高度に整合的であり、現象的性質を脳に関する構造的事実へと還元する。「非構造的な見え」を視点依存的なものとして説明することで、幻想主義とも穏当に整合する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "意識を構造的な神経パターンと同定する唯物論的理論として、これらのパターンは概念的に非生物学的な計算基体において再現可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "この理論は意識を生物学的な脳内に存在する全面的に構造的な現象として定義する。したがって、意識はこれらの神経プロセスの停止とともに終わるであろう。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "唯物論的理論として、現象的意識の物理主義的説明を提供するが、究極的・宇宙的な意味や目的を支持しない。"
+    },
+    "virtual_immortality": {
+      "stance": "可（ありうる）",
+      "rationale": "意識は構造的な物理的性質（神経パターン）と全面的に同定されるため、これらのパターンを非生物学的媒体において複製すれば、唯物論／機能主義の原理と整合的に、意識的自己の完全な存続がもたらされるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "拡張／支持（ローリッツは非構造的特徴が全面的に構造的であるという考えを支持し、「見え」を視点依存的現象とみなす）"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "重複（この理論は、誤知覚されているとはいえ、クオリアの構造的表象に依拠する）"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "両立可能（基体よりも構造の機能／役割に焦点を当て、異なる媒体での実現を許容する）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Structural qualia: a solution to the hard problem of consciousness, K. Loorits",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The location and boundaries of consciousness: a structural realist approach, K. Loorits",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Phenomenal Consciousness as a Structure in Our Brains, K. Loorits",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Qualities in the world, in science, and in consciousness, K. Loorits",
+        "year": 2022
+      }
+    ]
+  }
+}

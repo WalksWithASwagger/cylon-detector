@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "張の長距離光速通信",
+    "summary": "この理論は、遠隔にあり並列配置されたニューロン間で、伝播する電場を介した光速の通信を提唱することによって、脳と心の謎が解かれうると示唆する。同期の法則に基づくこの機構は、ニューロンが知的生命に不可欠な剛的ネットワークを形成することを可能にする。",
+    "associated_thinkers": ["Ping Zhang"],
+    "category": "唯物論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "「光速通信としての意識」",
+    "classification_tags": [
+      "neurobiology",
+      "synchronization",
+      "electrical field",
+      "light-speed",
+      "ephaptic"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、遠隔ニューロン間の光速の電場伝達から生じる同期の動態と同一視され、それは情報処理のための「超高速道路」として働く。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "心は、電場を介した物理的な脳内の高速で同期した過程として実現され、トークン同一性と整合的である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性は、光速で同期したネットワークの複雑で大規模かつ高度に統合された動態によって暗黙のうちに説明される。志向性はネットワークが課題に集中する能力から生じる（出典の限界からの推論）。",
+    "qualia_account": "経験の質的本性は、光速で同期した神経ネットワークの特定の構成と動態によって完全に説明されると想定される（出典の限界からの推論）。",
+    "ontological_commitments": "電場、ニューロン、活動電位、同期の法則、および光速運動量ネットワークにおける物理的実在。",
+    "epistemic_access": "主として科学的探究と特定の経験的観察を通じてであり、例えば遠隔細胞間の伝播する電場を介した活動電位の伝達を検出することである。",
+    "constituents_and_structure": "構造は、伝播する電場を介して光速ネットワークへと剛的に結合された、並列配置の縦長細胞から成る。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの、知能、認知、同期、結合",
+    "distinctive_mechanism_or_principle": "同期の法則によって定義される、光速運動量で作動する伝播する電場によって達成される、広く隔たったニューロン（10 mm を超える距離）間の活動電位の同期。",
+    "dynamics_of_emergence": "意識は、遠隔ニューロンが互いから「学習」し、そのペースを調整し、やがて位相をロックして集中した同期ネットワーク構造を形成するにつれて、動的に生じる。",
+    "location_and_distribution": "この機構は皮質における遠隔の並列配置された細胞（例えば細胞間距離が 10 mm を超える）にわたって分布する。",
+    "causation_and_functional_role": "この機構は複雑な機能に必要であり、伝統的なシナプスネットワークが単独では提供できない、人間の知能に要する「超高速道路」を提供する。",
+    "integration_or_binding": "高速の電場ネットワークを介した神経発火リズムの同期と位相ロックを通じて達成される。",
+    "information_flow_or_representation": "情報は電場ネットワークを通じて急速に（光速で）流れ、伝統的なシナプスの制約を超えて皮質全体にわたる急速な通信を可能にする。",
+    "evolutionary_account": "この光速通信ネットワークの創発は、より単純な生命に見られる基本的なシナプス伝達に優る、知的生命形態の発達のための進化的要件と見なされる。",
+    "core_claims_and_evidence": [
+      "並列配置された遠隔細胞間の光速通信が脳と心の謎を解く。",
+      "根底にある機構は同期の法則に依拠する。",
+      "経験的観察は、10 mm を超える解剖学的距離にわたる電場を介した活動電位の伝達を記録している。",
+      "この超高速道路機構は知的生命形態の存在にとって必要と見なされる。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的（神経科学）、科学的仮説"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": [
+      "皮質における 10 mm を超える距離にわたる興奮性細胞間の、伝播する電場を介した活動電位の伝達の観察。"
+    ],
+    "criticisms_and_tensions": "出典は外部からの批判を明示的に列挙しておらず、この理論が現在この分野で比較的知られていないか特異なものであり、広範な批判的議論が限られていることを示唆する。",
+    "open_questions_and_limitations": "同期と電場活動が、豊かで私秘的な現象的経験（クオリア）へとどのように翻訳されるかという特定の仕方は出典で詳述されておらず、多くの唯物論的理論に共通する古典的な説明のギャップという課題を提起する（出典の限界からの推論）。",
+    "ontological_coherence": "電磁場唯物論の枠組みの内部で高度に整合しており、観察された神経生理学的現象に基づく厳密に物理的な意識の説明を提供する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "複製可能な物理法則（電場、同期）に依拠する唯物論的理論として、複雑な構造を工学的に実現できるなら、意識に必要な機構は高度な非生物学的ハードウェアにおいて構築可能なはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は全面的に、生物学的な神経系の特定の複雑な組織と物理的動態（電場と同期発火）に根ざしている。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "本理論は知能に要する物理的機構に焦点を当て、宇宙的あるいは究極的な目的を扱うことなく、生物学的産物としての人間の認知と行為主体性を支持する。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "意識を生成する機構——光速で同期した神経ネットワークの精確な空間的・時間的組織——が完全にデジタル複製されうるなら、仮想的不死は理論的に達成可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McFadden’s Conscious Electromagnetic Information Theory (CEMI)",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Jones’s electromagnetic fields",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Computational and Informational Theories",
+        "relationship": "批判"
+      },
+      {
+        "name": "Neurobiological Theories",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Synaptic neuroscientist Ping Zhang suggests that the long-time puzzle between brain and mind might be solved by a light-speed telecommunication between remote cells that are arranged in parallel",
+        "year": 2019
+      }
+    ]
+  }
+}

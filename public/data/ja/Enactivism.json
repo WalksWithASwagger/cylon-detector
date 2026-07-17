@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "エナクティヴィズム",
+    "summary": "エナクティヴィズムは、心的活動と認知が、生きた有機体とその環境との間の、感覚運動的過程によって媒介された動的で相互的な相互作用から生じると措定する。意識は身体化された活動と見なされ、身体なき心という考えを不整合なものとする。",
+    "associated_thinkers": [
+      "Francisco Varela",
+      "Eleanor Rosch",
+      "Evan Thompson"
+    ],
+    "category": "唯物論",
+    "subcategory": "身体化・エナクティブ",
+    "core_identity_tagline": "動的な有機体と環境の相互作用を介した認知",
+    "classification_tags": [
+      "embodied",
+      "cognition",
+      "dynamic",
+      "interaction",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "心的活動は、感覚運動的過程によって調整された、有機体とその周囲との動的で双方向的な交換から創発する身体化された活動として同定される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "心と心的生活は身体と環境を通じて枝分かれし、頭の内部の脳の過程に単純に還元できないことを意味する。その関係は動的な相互作用と共相関の関係であり、しばしば「身体化された力動性」と呼ばれる。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "自然な創発。意識は認知と原意識の進化の諸段階を介して生じる。このアプローチは、非生命から生命への移行を可能にするのと同じ種類の過程を用いて、生命から心への移行を説明しようとする。",
+    "subjectivity_and_intentionality": "主観性は、生きられた経験の優位性（現象学）を通じて探究される。志向性（思考の向き）は、心がその対象を能動的に構成し、相互作用を通じて世界を気づきへともたらしあるいは開示するという考えによって説明される。",
+    "qualia_account": "この理論に付随する方法論である神経現象学は、意識的経験と生きられた経験の還元不可能な本性を強調する。クオリア生成の機構的細部は提供された本文では明示的に詳述されていないが、焦点は経験の直接的で生きられた質にある。",
+    "ontological_commitments": "生きたシステム、有機体と環境の相互作用、感覚運動的過程、そして自己組織化する制約。このアプローチは時に、身体化の優位性を強調する存在論的突破として特徴づけられる。",
+    "epistemic_access": "生きられた経験が探究の必要な出発点であり導きの糸（「神経現象学」）であり、それは生物学と認知科学の進展と体系的に結びつけられねばならない。",
+    "constituents_and_structure": "自己を作り出し、自己を組織化し、自己を適応させ、自己を維持する生きた被造物であり、その心は連続的な相互的相互作用（身体化された力動性）から生じる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（神経現象学を介して研究される）、認知（身体化された活動として）、そして行為主体性（能動的行為者としての有機体）。",
+    "distinctive_mechanism_or_principle": "感覚運動的過程によって媒介された、有機体とその環境との間の連続的で反復的で動的な双方向的交換。",
+    "dynamics_of_emergence": "意識は動的で継続的な時間的過程であり、そこでは自己組織化された内的状態が、もっぱら内的表象としてではなく、環境的擾乱によって引き起こされる補償として創発する。",
+    "location_and_distribution": "意識の所在は分散しているあるいは「世界のうちに位置して」おり、身体と環境を通じて枝分かれし、脳だけの境界を超える。",
+    "causation_and_functional_role": "有機体が、自己を調整し、自己の統合性を維持し、自己創出の能力を持続的に再創出する能動的行為者であることを可能にする。",
+    "integration_or_binding": "統合は、分析の単位としての有機体と環境のシステムの定義と、結果として生じる生きた有機体の自己組織化的で自己維持的な本性のうちに暗黙のうちに含まれている。",
+    "information_flow_or_representation": "しばしば認知を非表象的なものとして枠づけ、内的表象の理論と対比する。内的状態は、外的事象の表象ではなく、擾乱によって引き起こされる自己組織化された補償として記述される。",
+    "evolutionary_account": "意識は、困難な環境における適応度を高める形質のゆえに選択された認知と原意識の諸段階を介して進化した。",
+    "core_claims_and_evidence": [
+      "認知/心的活動は身体化された活動によって構成される。",
+      "有機体はその環境を能動的に形づくり、反復的にその環境によって形づくられる。",
+      "エナクティヴィズムの拡張である神経現象学は、還元不可能な生きられた経験（一人称）を神経科学（三人称）と体系的に結びつけようと試みる。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（現象学的）、理論的、生物学的/進化論的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "一人称的記述を三人称的な神経生物学的データと調整する神経現象学の適用を通じて経験的に検証可能。",
+    "known_empirical_interventions_or_tests": [
+      "神経現象学的研究手法（例えばマイクロ現象学的インタビュー） ",
+      "神経学的および現象学的データを用いた自己の境界の経験の調査 "
+    ],
+    "criticisms_and_tensions": "主要な方法論的課題は、正確な一人称的報告と解釈を収集し、それを客観的な神経科学的データと体系的に相関させることにある。",
+    "open_questions_and_limitations": "還元的な意味で説明のギャップを完全に架橋するのではなく、むしろそれに取り組むための資源を拡大し豊かにしようとする。",
+    "ontological_coherence": "高い。このアプローチは、探究を生物学と認知科学に整合させることによってそれらを自然化するために現象学を用い、生きられた世界と科学的記述の間の内的整合性を求める。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "エナクティヴィズムは唯物論理論（身体化された）である。唯物論は一般に、必要な物理的かつ身体化された組織的複雑性（環境と動的に相互作用する能力を含む）が人工的システムにおいて再現される限り、AI の意識が原理的に可能であるにちがいないと主張する。"
+    },
+    "survival_beyond_death": {
+      "stance": "いいえ",
+      "rationale": "意識は身体化された生きた有機体とその生物学的過程に緊密に結びついている。有機体が物理的であるため、意識は生物学的死とともに停止すると予期される（標準的な唯物論的立場）。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "唯物論理論として、エナクティヴィズムは究極的な宇宙的意味や目的の証拠を提供せず、人間が行為主体性と相互作用を通じて自ら作り出す意味と価値のみを認める。"
+    },
+    "virtual_immortality": {
+      "stance": "はい",
+      "rationale": "エナクティヴィズムが正しいならば、身体化された自己組織化する心を構成する複雑で動的な諸過程が非生物学的媒体において完全に複製あるいはシミュレートされうる場合、仮想的不死は到達可能となる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied Cognition",
+        "relationship": "重なり合い"
+      },
+      {
+        "name": "Neurophenomenology",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Ecological Psychology (Gibson’s)",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Dynamic Systems Approach",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, Francisco Varela, Eleanor Rosch, Evan Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Enactivism, Daniel Hutto",
+        "year": 2023
+      }
+    ]
+  }
+}

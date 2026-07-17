@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "アンブロンの局所場電位と電磁波",
+    "summary": "この仮説は、意識、とりわけ痛みのような現象的経験が、神経生理学的情報（活動電位）が電磁（EM）波へと変換されるときに生じると示唆する。これらの EM 波にわたる情報の統合が、結合問題を解決し統一された意識的経験をもたらす機構として提唱される。",
+    "associated_thinkers": [
+      "Richard Ambron"
+    ],
+    "category": "唯物論",
+    "subcategory": "電磁場",
+    "core_identity_tagline": "統合された電磁波としての意識",
+    "classification_tags": [
+      "electromagnetic field",
+      "neurobiology",
+      "pain",
+      "binding",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、神経過程によって生成され、感覚入力を統一された経験へと結合する、統合された電磁（EM）波として同定される。",
+    "ontological_status": "物理主義／唯物論（この理論は唯物論の諸理論に分類され、意識が全面的に物理的であると主張する）。",
+    "mind_body_relationship": "心（意識的経験）は、複雑な神経活動（局所場電位）によって生成される物理的な電磁場・電磁波から派生するか、それと同一である。",
+    "primitive_or_emergent_status": "創発的（意識は神経情報の複雑な組織化と EM 波への変換から生じる）。",
+    "emergence_type": "弱い創発（特定の唯物論的・神経生物学的理論として、意識は原理上、根底にある物理的な場と動態のみによって説明・予測可能である）。",
+    "subjectivity_and_intentionality": "諸出典では明示的に詳述されていない。主観性と志向性は、最大限に統合された EM 波の構造に符号化された組織的性質と内容から生じると推論される。",
+    "qualia_account": "クオリア（例えば痛みという特定の経験）は、結果として生じる電磁波の内に含まれる統合された情報によって説明される。",
+    "ontological_commitments": "活動電位、神経化学的伝達物質、局所場電位、および累積的な神経活動によって生成され伝播する電磁波。",
+    "epistemic_access": "内省的報告（例えば痛みの強度）と相関する神経生理学的活動（例えば局所場電位、EM 波）の客観的・三人称的測定を通じて、また仮説の検証可能性を通じてアクセス可能となる。",
+    "constituents_and_structure": "基本的な構成単位は（活動電位によって符号化された）感覚入力であり、それらは EM 波へと変換され、相互作用して首尾一貫した統一的構造（意識的瞬間）を形成する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（とりわけ痛みの知覚の機構を通じて示される）と知覚的統一性・結合。",
+    "distinctive_mechanism_or_principle": "活動電位として符号化された感覚情報（痛みの信号など）の電磁波への変換と、それに続くこれらの波の統合。",
+    "dynamics_of_emergence": "意識は、異なる感覚系にわたる EM 波の急速かつ絶え間ない総和と統合から生じる動的過程である。",
+    "location_and_distribution": "脳内に局在し、神経電流によって生成される電磁場（局所場電位）に結びついた、脳全体にわたる現象である。",
+    "causation_and_functional_role": "「世界の統一された首尾一貫した版」を創り出し、生存に重要な機能（例えば痛みの感覚を優先すること）を果たす。",
+    "integration_or_binding": "組み合わせ問題は、個々の感覚入力から（EM 波へと変換された）情報が結合の際に本質的に統合されると想定することで解決され、それらがいかにして統一された経験を生み出すかを説明する。",
+    "information_flow_or_representation": "情報は当初活動電位に符号化され、EM 波を介して流れ表象され、他の感覚からの情報との統合を可能にする。",
+    "evolutionary_account": "意識、とりわけ痛みの感覚は、生存にとっての優先性と決定的重要性ゆえに進化したと仮定される。",
+    "core_claims_and_evidence": [
+      "痛みは生存にとって決定的に重要であるため意識の研究に理想的である。",
+      "情報は活動電位から EM 波へと変換される。",
+      "統合された EM 波が感覚入力の統一（「結合／組み合わせ問題」）を説明する。"
+    ],
+    "basis_of_belief_or_evidence_type": "神経生物学的、仮説／思弁、相関的（検証可能な物理的信号に着目することから推論される）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（アンブロンは自らの仮説が検証可能であると考えている）。",
+    "known_empirical_interventions_or_tests": "神経の活動電位から意識を形成する EM 波への特定の変換を検証すること、および EM 波の統合が意識的経験、とりわけ痛みの強度とどのように相関するかを測定すること。",
+    "criticisms_and_tensions": "具体的な批判は諸出典では詳述されていない。この理論は、神経生物学および哲学の共同体における意識の電磁場理論（EMF-ToCs）をめぐる一般的な論争と懐疑の対象となる。",
+    "open_questions_and_limitations": "神経情報が現象的内容に十分な首尾一貫した統合的 EM 波へと変換されるという仮説を経験的に示し、EM 波の統合が意識的統一の真の源泉であることを証明しなければならない。",
+    "ontological_coherence": "神経活動によって生成される物理的な場（エネルギー・場）に意識を根ざすことによって、唯物論的存在論と整合する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "情報処理から生じる特定の物理的機構（EM 波）に基づく唯物論的理論として、意識は原理上、類似の場を生成・統合できる非生物学的ハードウェアにおいて再現可能であるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は神経活動から EM 波を生成する生物学的な脳の機能に明示的に結びついており、したがってこの物理的基体が死ぬときに終焉する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "この理論は唯物論の枠内に位置づけられ、意識を生物学的な要請と生存上の決定的重要性（例えば痛み）によって説明するため、究極的・宇宙的な目的の根拠を提供しない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "特定の物理的機構（統合された EM 波とそれを生成する過程）を完全に測定・複製し、非生物学的媒体でシミュレートできるならば、仮想的不死は原理上達成可能であり、唯物論と整合する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory (CEMI)",
+        "relationship": "重複／同カテゴリー成員（いずれも EM 場・波を意識の基体として措定する）。"
+      },
+      {
+        "name": "Jones’s Electromagnetic Fields",
+        "relationship": "重複／同カテゴリー成員（いずれも意識を電磁場のサブカテゴリーに分類する）。"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "拡張／代替（再帰的処理はしばしば意識に先行する。アンブロンの理論は EM 波がこの活動の結果として意識を形成すると示唆する）。"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Toward the unknown: consciousness and pain",
+        "year": 2023,
+        "names": [
+          "Richard Ambron"
+        ]
+      },
+      {
+        "title_with_names": "How we experience pain may unlock the mystery of consciousness",
+        "year": 2023,
+        "names": [
+          "Richard Ambron"
+        ]
+      },
+      {
+        "title_with_names": "The Brain and Pain; Breakthroughs in Neuroscience",
+        "year": 2022,
+        "names": [
+          "Richard Ambron",
+          "Sinav"
+        ]
+      }
+    ]
+  }
+}

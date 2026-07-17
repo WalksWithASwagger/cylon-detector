@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "身体化された認知",
+    "summary": "この概念は、心が本来的に身体化されていること、すなわち思考と意味の構造が根本的に身体の感覚運動系と情動的経験に依存することを措定する。身体とその環境との相互作用が、意識が何を行うかではなく、意識が何であるかの不可分の一部であると論じる。",
+    "associated_thinkers": [
+      "George Lakoff",
+      "Mark Johnson"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "身体化・エナクティブ",
+    "core_identity_tagline": "根本的に身体化された経験としての意識",
+    "classification_tags": [
+      "embodiment",
+      "sensorimotor",
+      "cognition",
+      "materialism",
+      "non-reductive"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識と思考は、身体に結びついた神経回路によって生成される有意味な出力として同定され、身体化された経験を特徴づける。そこでは思考の構造が身体の本性に由来する。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "心は深く身体化されている。思考のまさにその構造が身体の感覚運動系と情動に依拠し、心に必要な基体を脳だけを超えて拡張する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（推論。というのも、複雑性は高いものの、意識が原理的に還元可能であることを含意する唯物論的理論だからである。）",
+    "subjectivity_and_intentionality": "主観性は身体化された経験に結びついている。志向性（思考の向き）は、抽象的な観念と言語が感覚運動系によって隠喩的に身体化される仕方に内在する。",
+    "qualia_account": "クオリアは、「身体化された経験」を生じさせあるいは構成する身体の感覚運動系と情動系によって特徴づけられる。",
+    "ontological_commitments": "物理的な神経回路、身体の感覚運動系、情動、そして身体的経験に由来する隠喩。",
+    "epistemic_access": "自然主義的で科学に基づく視点の内部で、神経回路、身体、そして生きられた経験の間の結びつきを研究することを通じてアクセス可能である。",
+    "constituents_and_structure": "身体の感覚運動系と情動系に結びついた神経回路であり、抽象的な観念と言語を隠喩的に構造化する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（身体に不可分のものとして）、認知、抽象的観念、言語、情動。",
+    "distinctive_mechanism_or_principle": "その原理は、思考が身体に結びついた神経回路によって有意味なものとなり、我々の思考の構造が身体の諸系（例えば感覚運動系）の本性によって決定されるというものである。",
+    "dynamics_of_emergence": "意識は動的な過程であり、そこでは抽象的概念が連続的な身体的経験に由来する基本的な隠喩に大きく依拠する。",
+    "location_and_distribution": "心は脳だけに局在するのではなく、物理的身体の感覚運動系全体に分布する。",
+    "causation_and_functional_role": "機能的役割は有意味な思考を提供することである。というのも、身体の諸系に関与することなしには理解は生じえないからである。意識は適応的機能に不可分である。",
+    "integration_or_binding": "統合は、神経回路と身体の統一された結びつきを通じて生じ、感覚系、運動系、情動系を凝集した身体化された経験へと結合する。",
+    "information_flow_or_representation": "情報は大部分、身体的経験に由来する隠喩を通じて表され、感覚運動系に基づいて抽象的概念を構造化する。",
+    "evolutionary_account": "典拠には明示的に詳述されていないが、意識が選択された形質を介して進化したという唯物論的視点と合致し、選択の範囲を身体と環境の相互作用を含むよう拡張する。",
+    "core_claims_and_evidence": [
+      "心は本来的に身体化されており、脳を必要とするという自明の事柄を超えて進む。",
+      "我々の思考のまさにその構造は身体の本性に由来する。",
+      "抽象的概念は大部分、身体的経験に基づく隠喩的なものである。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、認知言語学的、経験的（神経活動を身体的経験に結びつけることに基づく）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（推論。というのも、測定可能な神経回路と生理学的な諸系を扱うからである）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "認知と意識が同一ではないと指摘することで暗黙のうちに批判され、身体化された思考を説明することが現象的意識を説明するのに十分かどうかという問いを提起する。",
+    "open_questions_and_limitations": "身体化された認知がいかにして現象的意識へと翻訳されるのかという正確な手立て。というのも、認知と意識の概念はしばしば区別されるからである。",
+    "ontological_coherence": "物理主義的存在論の内部で高度に整合的であり、身体全体を思考の構造に統合することによって、拡張されたあるいは自明でない形態の唯物論をとりわけ受け入れる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "意識が特定の身体化を要するならば、人工的システムは、必要な身体的および感覚運動的な諸系を完全に再現する非生物学的基体を構築することに唯物論が成功する場合にのみ、意識をもちうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "いいえ",
+      "rationale": "意識は生物学的身体とその諸系の存在と作動に緻密に依存しており、それらの物理的構成要素が機能しなくなれば存続しえない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "唯物論的理論として、究極的な宇宙的意味は存在しないが、意識が自己決定的な意味と価値を創出する基盤を提供するという見解と合致する。"
+    },
+    "virtual_immortality": {
+      "stance": "不確定",
+      "rationale": "複製は身体化された系全体とその感覚運動的機構を再現することを要し、脳の活動を再現するだけを超えて、著しい、おそらく克服不可能な複雑性の次元を付加する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Enactivism",
+        "relationship": "重なり合い"
+      },
+      {
+        "name": "Projective Consciousness Model (PCM)",
+        "relationship": "影響"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "重なり合い"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Philosophy in the Flesh: the Embodied Mind and its Challenge to Western Thought, G. Lakoff and M. Johnson",
+        "year": 1999
+      },
+      {
+        "title_with_names": "How philosophy illuminates the physical world, G. Lakoff",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, and E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, E. Thompson",
+        "year": 2002
+      }
+    ]
+  }
+}

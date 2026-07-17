@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "ベック‐エクルズのシナプスにおける量子過程",
+    "summary": "この先駆的な量子神経生物学的理論は、意識的行為すなわち心的意図が、量子的な引き金として作用することによって物理的な脳過程に影響を及ぼすと主張する。具体的には、心的意図が、シナプスにおける量子状態の還元を介して、シナプス前ニューロンにおける伝達物質分子の放出を調節する。",
+    "associated_thinkers": [
+      "Sir John Eccles",
+      "Friedrich Beck"
+    ],
+    "category": "量子理論",
+    "subcategory": "量子神経生物学的機構",
+    "core_identity_tagline": "シナプスにおける量子的引き金としての意識",
+    "classification_tags": [
+      "quantum",
+      "neurobiology",
+      "synapse",
+      "volition",
+      "interactionist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は本質的に、シナプス前ニューロンにおける情報伝達の間に生じる量子状態の還元（すなわち振幅の選択）という物理過程に関係している。",
+    "ontological_status": "二元論的相互作用説（根拠：この機構は非物理的な心的行為・意志が物理過程に直接影響することを記述しており、相互作用説に特徴的である）。",
+    "mind_body_relationship": "心的意図（意志）は、特定の皮質領域におけるエクソサイトーシス（伝達物質分子の放出）の確率を瞬間的に高めることによって神経的に有効となり、意識的行為を量子的引き金に結びつける。",
+    "primitive_or_emergent_status": "創発的（根拠：意識はあらゆる実在にとって根源的なのではなく、シナプス構造に局在する複雑な量子力学的相互作用を通じて特異的に生じる）。",
+    "emergence_type": "強い創発（量子的引き金）（根拠：量子論理と予測不可能性の導入が、非物理的な心的力に物理的な脳状態への影響を可能にし、古典物理学への還元不可能性を含意する）。",
+    "subjectivity_and_intentionality": "主観性と志向性（心的意図・意志）は、シナプスのレベルで物理的な確率に能動的に影響を及ぼす特定の心的力である。",
+    "qualia_account": "明示的には詳述されていない。（根拠：この理論は主として心的影響（意志・意図）の因果的機構の確立に焦点を当てており、現象的内容の本性には焦点を当てていない）。",
+    "ontological_commitments": "量子力学的特徴、シナプス構造（シナプス前ニューロン、シナプス膜）、心的意図・意志、皮質神経ネットワーク。",
+    "epistemic_access": "神経生物学に適用された具体的な量子力学的特徴の物理的モデル化を通じて、また結果を観察される意識的行為に関係づけることを通じて。",
+    "constituents_and_structure": "大脳皮質ニューロンのシナプス膜内における電子移動過程に適用され、シナプスのスイッチを調節する量子効果（状態還元）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "行為主体性、自由意志、意志・意図、現象的意識（含意される）",
+    "distinctive_mechanism_or_principle": "量子状態の還元／振幅の選択であり、意識的行為がエクソサイトーシスの物理過程を調節することを可能にする「新たな論理への扉」（量子論理）を提供する。",
+    "dynamics_of_emergence": "意識的行為は大脳皮質に時間的パターンを形成する動的過程であり、量子的引き金が無数のシナプスのスイッチの有効な調節を可能にする。",
+    "location_and_distribution": "大脳皮質に、とりわけニューロン間のシナプス（シナプス前神経インパルス、シナプス膜における電子移動過程）に局在する。",
+    "causation_and_functional_role": "意識は直接的な因果的役割をもち、量子状態の崩壊に根源的な非決定性を誘導することによって、心的力（意図）が脳状態に影響を及ぼすことを可能にする。",
+    "integration_or_binding": "明示的には詳述されていない。（根拠：焦点は感覚入力を統一された経験へ結合することではなく、意志的影響の機構にある）。",
+    "information_flow_or_representation": "情報伝達はシナプス前ニューロンにおける量子力学的特徴を介して生じ、単一事象については予測不可能性を特徴とする量子論理を導入する。",
+    "evolutionary_account": "提示された諸出典では扱われていない。（根拠：焦点はもっぱら、現存する生物系における意識的影響に必要な物理的・量子的基体にある）。",
+    "core_claims_and_evidence": [
+      "意識的行為は本質的に脳における量子状態の還元に関係している。",
+      "心的意図は、選択された皮質領域におけるエクソサイトーシスの確率を瞬間的に高めることによって神経的に有効となる。",
+      "量子論理は、心的力が脳状態に影響を及ぼす機会を開く。"
+    ],
+    "basis_of_belief_or_evidence_type": "理論的、量子力学的モデル"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能（この理論は生物学的過程を記述するために具体的な量子力学的特徴を適用しており、原理上の検証の道筋を示唆する）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "この理論は意識の量子理論に共通する一般的な懐疑に直面する。というのも、大半の物理学者や神経科学者が、温かく巨視的なレベルの脳における量子効果のスケーリングと関連性を疑問視するからである。",
+    "open_questions_and_limitations": "シナプスにおける単一の量子事象がいかにして複雑で統合された意識的経験へと変換されるのかという中心的問題、および量子現象を巨視的スケールの神経生物学と調和させるという持続的な課題。",
+    "ontological_coherence": "量子物理学に見出される固有の非決定性を活用することによって、非物理的な心的状態（意志）に因果的有効性を付与する存在論的枠組みの内部で整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "意識が生物学的シナプスに固有の特定の非計算的な量子力学的特徴（電子移動過程）に依拠するのであれば、人工システムが意識をもつためにはこれらの精密な量子基体を再現する必要があろう。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確定",
+      "rationale": "この理論は心的意図と脳活動の間の因果的結びつきを確立する。しかし、これらの量子過程を引き起こす非物理的な心的実体（意志・意図）が、生物学的な装置が破壊された後も持続するかどうかは規定していない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "是",
+      "rationale": "意識的行為・意志が物理過程に直接影響し、自由意志が量子的非決定性によって可能となると主張することで、この理論は意図的な心的生の因果的有効性と重要性を支持し、行為における内在的な目的・価値を含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "不確定",
+      "rationale": "仮想的不死は、意識を生み出すために必要な構造（シナプス機構における量子状態の還元）が、先端技術によって非生物学的媒体において操作あるいは複製されうるかどうかに依存する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "重複"
+      },
+      {
+        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Quantum aspects of brain activity and the role of consciousness, Beck and Eccles",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Quantum processes in the brain: a scientific basis of consciousness, Beck and Eccles",
+        "year": 1998
+      }
+    ]
+  }
+}

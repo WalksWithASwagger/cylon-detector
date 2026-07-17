@@ -1,0 +1,86 @@
+{
+  "id_and_class": {
+    "theory_title": "ラマチャンドランの新しい物理学と神経科学",
+    "summary": "この立場は、意識の問題は現在の神経科学や物理学によっては解決できないと主張する。これらの学問は三人称的な記述しか提供せず、主観的経験（クオリア）を排除しているからである。この立場は、意識を実在の構成要素として根本的に組み込む、物理学と神経科学の新しいハイブリッドな学問を求め、意識がいかに物理法則と絡み合っているかを探究する。",
+    "associated_thinkers": ["V.S. Ramachandran"],
+    "category": "一元論",
+    "subcategory": "物理学と意識の統合",
+    "core_identity_tagline": "新しい物理法則と絡み合う意識",
+    "classification_tags": ["monism", "physics", "neuroscience", "qualia"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は実在の根本的な一部として同定され、新しいハイブリッドな学問を通じて物理法則および神経科学と統合されねばならない。",
+    "ontological_status": "一元論（ハイブリッド／必須）",
+    "mind_body_relationship": "心は実在の不可分な一側面であり、その物理法則との関係は探究されねばならない。これは厳密な還元や分離ではなく、絡み合った同一性を含意する。",
+    "primitive_or_emergent_status": "原初的／根本的（暗黙的）",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "主観性（一人称視点）は実在の特権的な一側面であり、現在の三人称的な物理学と神経科学はこれを認めることができないため、その組み込みには新しい枠組みが必要とされる。",
+    "qualia_account": "色を見ることなどのクオリアは、一次的な感覚経験であり、その説明のために提案される新しいハイブリッドな学問を必要とする。なぜなら、それらは従来の物理学の三人称的性質によって排除されているからである。",
+    "ontological_commitments": "物理的実在（脳と物理法則）と意識／主観的経験であり、これらは根本的に結びついており実在的である。",
+    "epistemic_access": "もっぱら三人称的な記述（物理学）から、一人称視点（主観性）を明示的に含める方向への転換を要する。",
+    "constituents_and_structure": "意識がいかに物理法則と統合され「絡み合う」かを定義する統一された概念的構造であり、実在の根本的な構成要素の再定式化を要求する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（特にクオリア／一人称視点）",
+    "distinctive_mechanism_or_principle": "その原理は、意識の一人称視点を物理学と神経科学の客観的規則と機能的に統合する「新しいハイブリッドな学問」を創出する必要性である。",
+    "dynamics_of_emergence": "具体的な動態は現在のところ未知であるが、目標は実在の完全な記述のために意識を物理法則へと動的に統合することである。",
+    "location_and_distribution": "意識は根本的に実在の一部であり、その物理的な実現は脳に結びついている。彼は脳を物理学の一分野とみなし、根本法則のレベルでの統合を要求する。",
+    "causation_and_functional_role": "意識は実在の根本的な一部であり、その力あるいは機能は、それがいかに「物理法則と絡み合う」かという文脈のなかで探究されねばならない。",
+    "integration_or_binding": "首尾一貫した「一次的な感覚経験」を説明するために統合を暗黙的に要求するが、具体的な機構は詳述しない。",
+    "information_flow_or_representation": "物理学が世界の三人称的な記述であると批判し、経験の主観的な流れを、欠落している情報的／表象的要素として強調する。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "意識とクオリアの問題は、現在の神経科学や物理学によっては答えられない。",
+      "物理学は本質的に三人称的な記述に限定されており、主観的で一人称的な経験を排除する。",
+      "実在の一部としての意識がいかに物理法則と絡み合うかを探究するには、新しいハイブリッドな学問が必要である。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的批判、存在論的必然性、現象学的観察"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能（既存の方法への批判として）。当該の学問はいまだ存在しないため、経験的には未定義である。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "この見解は、意識の問題が明白な形では立ち現れないためにそれを無視しているとして、主流の神経科学と物理学を批判しており、その結果、主流からの懐疑を招いている。",
+    "open_questions_and_limitations": "主な限界は、これが完成された理論ではなく基礎的な計画にとどまる点である。意識を物理法則へと科学的にいかに統合すべきかは、まさに未解決のままである。",
+    "ontological_coherence": "一元論の内部では高度に整合的であり、現在の物理的存在論は主観的実在を排除しているために不完全であり、それゆえ拡張／訂正を要すると論じる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定／条件付き",
+      "rationale": "最終的な「新しい物理学」の枠組みが、一人称視点をこれらの根本法則を体現しうる非生物学的システムによって実現できることを明らかにするならば、AI意識は可能である。そうでなければ、おそらく不可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確定／条件付き",
+      "rationale": "この枠組みは、意識を扱い死後存在を含意しうるヴェーダの文献に依拠しているが、科学的な「新しい物理学と神経科学」の構築に焦点を当てているため、生物学的存続の問題は発見される法則の根本的な性質に条件付けられたままとなる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "未定義",
+      "rationale": "この理論は、主観性を物理的実在へと統合することで存在論的・認識論的な完全性を達成することに焦点を当てるが、宇宙的な意味や目的を本質的に付与するものではない。"
+    },
+    "virtual_immortality": {
+      "stance": "不確定／条件付き",
+      "rationale": "仮想的不死は、意識が実在と「絡み合う」その具体的な仕方が、先進技術によってシミュレートされた基盤上で完全に再現・操作可能であるかどうかに全面的に依存する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Monisms",
+        "relationship": "カテゴリー"
+      },
+      {
+        "name": "Dualisms",
+        "relationship": "批判"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "潜在的な拡張／両立可能性"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What makes brains conscious?",
+        "year": 2019
+      }
+    ]
+  }
+}

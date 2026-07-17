@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "脳回路・周期の諸理論",
+    "summary": "この一群のより古い理論は、意識を、外側路・網様体賦活系・視床皮質の垂直放射（回路）といった大規模な神経生理学的構造と、広範な脳領域にわたる同期的な神経発火（EEG 波のような周期）などの動的な電気的活動の作動に帰する。これらの説明は概してそれ自体では不十分とみなされており、より洗練された現代の神経生物学的理論へと発展してきた。",
+    "associated_thinkers": [
+      "Field of Neuroscience/Neurobiology (General)"
+    ],
+    "category": "唯物論の諸理論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "大規模な神経構造と振動としての意識",
+    "classification_tags": [
+      "neurobiology",
+      "materialism",
+      "neural circuits",
+      "oscillations",
+      "synchrony"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、複雑で大規模な脳の構造（回路）と、生物学的な脳内でそれから帰結する大規模な同期的電気的活動（周期）の機能あるいは産物として同定される。",
+    "ontological_status": "物理主義（還元的唯物論）",
+    "mind_body_relationship": "同一／相関。心的状態は、大規模な神経回路と動的パターンの特定の物理的状態と同一であるか、それと直接相関する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（暗黙的：既知の物理的構成要素の複雑な組織化から生じ、古典的な神経生物学的還元主義と整合する）。",
+    "subjectivity_and_intentionality": "意識的状態に必要な物理的基体の提供に焦点を当てる。還元不可能な一人称的主観性や志向性を生み出す特定の機構は、しばしば未展開であるか、後継理論に委ねられている。",
+    "qualia_account": "経験の特定の質的な感じ（クオリア）はこの理論によって直接には説明されない。この理論は主として意識と相関する組織的機構（回路と周期）に焦点を当てる。",
+    "ontological_commitments": "大規模な神経構造（例えば経路、網様体賦活系、皮質）、ニューロンの電気生理学（同期的発火）、および測定可能な脳の周期（例えば EEG 波）。",
+    "epistemic_access": "主として経験的方法を通じて、とりわけ脳の電気的活動（EEG）の測定と分析、および大規模な神経経路と機能的神経生理学の研究を通じて。",
+    "constituents_and_structure": "視床皮質路や外側皮質路のような構造に組織された、ニューロンの大規模なネットワークとその同期的発火パターン。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、覚醒、および目覚め（必要な背景条件として）。",
+    "distinctive_mechanism_or_principle": "大規模な脳構造の作動と電気的活動の同期であり、例えば再帰的な皮質‐視床路や、脳の周期（例えばガンマ波）を生み出す大規模な同期的発火である。",
+    "dynamics_of_emergence": "意識は、広範な皮質領域にわたる膨大な数のニューロンの同期的発火から生じ、測定可能な EEG 波をもたらす動的過程である。",
+    "location_and_distribution": "大脳皮質、視床、網様体賦活系を含む大規模な回路と経路にわたって分布する。",
+    "causation_and_functional_role": "因果的力はボトムアップに発揮され、そこでは神経活動と同期的周期が意識的状態を調節し媒介する。その機能は異なる領域にわたる情報を統合し協調させることである。",
+    "integration_or_binding": "統合は、大規模な経路によって連結された広く分布する脳領域にわたる同期的な神経活動（例えばガンマ波）を通じて達成される。",
+    "information_flow_or_representation": "情報は、電気生理学的スパークとニューロン群の同期的発火を通じて、双方向的に（例えば皮質‐視床ループ）処理され転送される。",
+    "evolutionary_account": "明示的には詳述されていないが、意識の生成に必要な複雑な脳の組織化をもたらした生物学的進化の産物と推定される。",
+    "core_claims_and_evidence": [
+      "意識は大規模な脳回路（外側路、網様体賦活系、視床皮質路）と周期（EEG 波）を伴う。",
+      "再帰的な皮質‐視床路における双方向的な情報伝達が意識的状態を調節し、意識喪失の際には減弱する。",
+      "樹状突起統合理論（DIT）は、これらの回路における細胞レベルの機構（第 5 層錐体細胞）を意識的経験に結びつける。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的、神経生理学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "同定された回路における大規模な脳の同期と活動を追跡する神経生理学的測定（例えば EEG、機能的画像法）を通じて経験的に検証可能。",
+    "known_empirical_interventions_or_tests": [
+      "意識的状態に関連する周波数帯（例えば 40 Hz のガンマ波）の EEG 測定。",
+      "意識的状態と無意識的状態における皮質‐視床路での双方向的な情報伝達の研究。"
+    ],
+    "criticisms_and_tensions": "主たる批判は、これらの理論がそれ自体では意識を説明するのに不十分であり、より洗練されたモデルへの発展を要するという点である。相関と過程には対処するが、現象的経験の本性（「それが何であるか」）を十分に説明できないことが多い。",
+    "open_questions_and_limitations": "関与する物理過程を越えて意識が「何であるか」を十分に定義しない。主として意識の生成における代替的な決定的過程を記述するが、それ自体では不十分とみなされる。",
+    "ontological_coherence": "高い。既知で測定可能な生物学的構造と機構に依拠するため、根源的な還元的物理主義および主流の神経生物学と高度に整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "意識がもっぱら特定の物理的な神経回路と動的な活動パターンの産物であるならば、これらの機構は原理上、非生物学的基体において完全に複製可能であり、AI の意識を可能にする。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "唯物論の理論として、意識は全面的に生物学的な脳に結びついている。これらの特定の神経回路と周期の停止は意識の終焉を意味する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "唯物論と整合的に、この理論は究極的な宇宙的意味や目的を提供しない。いかなる意味も意識をもつ実体自身によって創り出される。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "一人称的自己は神経パターンと経路の複雑な物理的組織化と同定されるため、これらの回路を非生物学的媒体へ完全に複製することは現象的意識を保存するはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "拡張／重複"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "精緻化"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "重複（脳の周期は電磁場に関係する）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Brain circuits and cycles theories (General Discussion)",
+        "year": ""
+      },
+      {
+        "title_with_names": "Cellular mechanisms of conscious processing, J. Aru et al.",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Criticality supports cross-frequency cortical-thalamic information transfer during conscious states, D. Toker et al.",
+        "year": 2024
+      }
+    ]
+  }
+}

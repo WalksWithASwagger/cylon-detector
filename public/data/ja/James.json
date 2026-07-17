@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "ウィリアム・ジェイムズの心理学理論におけるハードプロブレムの不在",
+    "summary": "ウィリアム・ジェイムズの著作の一解釈に基づくこの見解は、意識は主観的経験の謎ではなく「選択問題」を解決するために進化したメカニズムであると論じることで、ハードプロブレムのパラダイムを反転させる。このメカニズムは、複雑な脳が生み出す膨大な選択肢のなかから適応的な反応を選択し、脳の長期的利害に合致した結果を優先することで、生体の適応度を高める。",
+    "associated_thinkers": ["William James", "Tracy Witham"],
+    "category": "唯物論",
+    "subcategory": "系統発生的進化",
+    "core_identity_tagline": "適応的選択メカニズムとしての意識",
+    "classification_tags": [
+      "evolution",
+      "functionalism",
+      "deflationary",
+      "selection problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、特定の感覚への選好（事実上の目的）の付与に根ざしつつ、生体の最も永続的な利害にかなう遂行を有利にする圧力を加える選択メカニズムと同一視される。",
+    "ontological_status": "機能主義的／物理主義的（根拠：本理論は意識に純粋に機能的・適応的な役割を割り当てることでハードプロブレムを解消し、意識をもっぱら物理系を通じて説明するという唯物論の目標に合致させる）。",
+    "mind_body_relationship": "意識は複雑な脳の過程と機能的に関与しており、とりわけ選好が生体と環境の相互作用に影響を及ぼす「大脳反射」の形成に結びつく。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（根拠：意識は、脳の複雑性が最適でない反応の選択肢の増殖を招くときに適応上の必然として創発し、洗練された物理的組織からの創発を含意する）。",
+    "subjectivity_and_intentionality": "主観性は機能的に扱われる。意識はある感覚を他の感覚よりも選好させ、それによって生体の「事実上の目的」（志向的標的）の源泉を決定するからである。",
+    "qualia_account": "ハードプロブレム（クオリアないし「どのようなことか」の説明）は、意識が解決する機能的問題（選択問題）へと焦点を移すことによって本質的に解消される。",
+    "ontological_commitments": "複雑な生物学的脳、適応的選択を要求する環境状況、および進化した心理的機能（選択メカニズム、選好）。",
+    "epistemic_access": "主として、生体の適応度を高め行動を選択するという機能的役割の分析（三人称的進化論的分析）を通じてアクセスされる。",
+    "constituents_and_structure": "反応の選択肢の増殖を支えうる複雑な脳構造と、適応的な結果を優先するために重ね合わされた選択メカニズムとの結合。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "行為主体性、適応的反応の選択、選好の付与（意識の機能的側面）。",
+    "distinctive_mechanism_or_principle": "このメカニズムは、意識が選択圧として働き、複雑な行動が生体の長期的で永続的な利害を有利にすることを保証することにある。",
+    "dynamics_of_emergence": "競合する反応の選択肢を生み出すほど複雑な脳において生じる動的過程であり、最も有利な結果を選別ないし選択する働きをなし、それによって選好された感覚から「事実上の目的」を形成する。",
+    "location_and_distribution": "「選択問題」に直面するのに十分な複雑性を獲得した脳に位置づけられる。",
+    "causation_and_functional_role": "意識は、適応度を促進する遂行に圧力を加えることによって因果的に有効である。その機能は複雑系に内在する「選択問題」を解決することにある。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能／経験的に妥当（根拠：進化の諸原理および生物学的適応度に基づいており、これらは科学的研究と両立し、本理論を系統発生的進化のもとに分類する）。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要な概念的緊張は、意識が、記述されたとおりの「選択問題」に対処するのに、一見しても本当に適合するのか、という点にある。",
+    "open_questions_and_limitations": "意識と「選択問題」との正確な適合は未解決の問いのままであり、「大脳反射」のスキーマの含意を理解することも同様である。",
+    "ontological_coherence": "機能主義的かつ進化論的枠組みの内で整合的である。意識の問題を再定義することによって伝統的な形而上学的コミットメントを回避するからである。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "意識が主として機能的な選択メカニズムであるならば、十分な複雑性を達成し、適応的な出力を優先するための同様のメカニズムを必要とするいかなる人工システムも、意識をもつとみなされる可能性が高い。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "この意識の解釈は、進化した生物学的必然性と脳の機能に固く根ざしており、生物学的死後の存続を何ら認めない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "プラグマティック",
+      "rationale": "意味と目的は生物学的機能に結びつく。すなわち進化的適応度を高め、「脳の所有者の最も永続的な利害」を達成することである。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "機能主義的理論として、根底にある選択メカニズムと機能的組織の複製ないしアップロードは、意識の首尾よい継続をもたらすはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Chalmers’s Hard Problem",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Principles of Psychology, William James",
+        "year": 1890
+      }
+    ]
+  }
+}

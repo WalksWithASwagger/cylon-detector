@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "インドの二元論の理論",
+    "summary": "インド哲学の古代のサーンキヤ学派に由来するこの理論は、二つの永遠で根源的な実在、すなわち *purusha*（感覚をもつ意識ないし霊）と *prakriti*（感覚をもたない自然ないし物質）との間の厳格な形而上学的二元論を措定する。心と身体は *prakriti* の精妙な形態と粗大な形態であり、受動的な証人＝意識である *purusha* がそれらを照らし出すためにのみ意識をもつように見える。",
+    "associated_thinkers": [
+      "Samkhya philosophers",
+      "Swami Sarvapriyananda",
+      "Swami Medhananda",
+      "Swami Vivekananda"
+    ],
+    "category": "二元論",
+    "subcategory": "インド哲学における個人的意識と宇宙的意識",
+    "core_identity_tagline": "感覚をもたないPrakritiとは区別される、永遠で感覚をもつPurushaとしての意識",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "purusha",
+      "prakriti",
+      "indian philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（*purusha*）は、永遠で絶対的、独立し感覚をもつ霊ないし自己と同一視される。それは、単なる精妙な物質にすぎない心を含め、実在のすべての物質的側面から区別される。",
+    "ontological_status": "形而上学的二元論（とりわけ purusha／意識と prakriti／物質との間の）",
+    "mind_body_relationship": "心は、内的器官（antaḥkaraṇa）として働く精妙な物質的存在（*prakriti*）である。それは *purusha*（非物質的な意識）によって受動的に照らし出され、両者が同一であったり還元可能であったりすることなく、意識をもつように見える。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "該当なし",
+    "subjectivity_and_intentionality": "主観性（感覚性）は、証人＝意識として働く *purusha* の内在的な性質である。志向性（例えば思考、意志）は心（*prakriti*）に宿り、それは *purusha* による照明を通じて意識の見かけを得る。",
+    "qualia_account": "質的な感じは、感覚をもつ証人＝意識としての *purusha* の役割によって説明される。それは感覚をもたない心（感覚的識別と経験が宿る場）を照らし出し、それによってそれらを意識的経験にする。",
+    "ontological_commitments": "二つの根源的で普遍的、かつ別個の実在、すなわち *purusha*（意識ある霊）と *prakriti*（心を含む無意識の自然／物質）。",
+    "epistemic_access": "*purusha* そのものは絶対的で、知覚を超え、言葉で記述することが不可能であり、非経験的な接近（例えば哲学的な悟り）を示唆する。それが心と相互作用する効果は主観的経験を介して観察される。",
+    "constituents_and_structure": "基本的な構成要素は、意識の永遠なる個別的単位（*purusha*）と、（三つの *gunas* から成る）感覚をもたない *prakriti* である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（感覚をもつ経験）と自己。",
+    "distinctive_mechanism_or_principle": "照明／反映。意識そのもの（*purusha*）は作用しないが、その「光」が物質的な心の上に反映し、経験の見かけを可能にする。",
+    "dynamics_of_emergence": "意識ある機能の見かけは、静的で根源的な *purusha* が、*prakriti*（心）の動的で進展しうる変容の上に反映ないし「光」を投じることによって達せられる。意識そのものは根源的であり、動的に創発するのではない。",
+    "location_and_distribution": "*purusha* は個別的（各人が個別的な意識である）で、非延長的であり、空間的に延長した身体／脳（これは *prakriti* である）から根本的に区別される。",
+    "causation_and_functional_role": "*purusha* の機能的役割は主として証人ないし経験者のそれである。心と身体は能動的であるが、*purusha* が必要な感覚性を付与し、それなくしては諸活動が純粋に機械的で無意識のものとなる。",
+    "integration_or_binding": "経験の統一は、心／身体の複合体全体を一つの全体として照らし出す個別的な *purusha* の単一的な性質を通じて達せられる。",
+    "information_flow_or_representation": "情報は内的器官ないし心（*antaḥkaraṇa*、物質的な構成要素）によって処理される。この処理は、その後 *purusha* の照らし出す現前によって感覚をもつものとされる。",
+    "evolutionary_account": "意識（*purusha*）は永遠で非被造である。心を含む *prakriti*（自然／物質）のみが進化と変容を経る。",
+    "core_claims_and_evidence": [
+      "Purusha（意識）とPrakriti（物質）は、二つの根源的で普遍的、かつ別個の実在である。",
+      "心（antaḥkaraṇa）は精妙な物質であり、purushaからの照明によってのみ意識をもつように見える。",
+      "Purushaは絶対的で独立し感覚をもち、受動的な証人＝意識として働く。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、論理的、古代の伝統的教義"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／哲学的。中核的主張は、標準的な科学的観察や経験的検証に接近できない非物質的存在（*purusha*）を伴う。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "相互作用主義の古典的問題に直面する。すなわち非物理的で永遠な実体（*purusha*）が、物理的で一時的な実体（*prakriti*）をどのように照らし出し、あるいはそれと関係するのかという因果的メカニズムを説明することである。また、感覚をもたない物質（心）がどのように認知的内容と志向性を生み出しうるのかについても異議を唱えられる。",
+    "open_questions_and_limitations": "非物質的な *purusha* が精妙な物質的な心と相互作用して意識を付与する「照明」の具体的な性質とメカニズムは、説明されないままである。*purusha* そのものは在来的な記述を超えている。",
+    "ontological_coherence": "形而上学的二元論としてその創始的前提の内部では内的に整合的である。還元不可能で非物理的な実体を主張するため、厳格な現代の物理主義や唯物論とは相容れない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否定する",
+      "rationale": "意識（*purusha*）は永遠で非物質的な実体である。AIシステムは物質（*prakriti*）の産物であるため、真の感覚性に必要な根源的な *purusha* を必然的に欠くであろう。"
+    },
+    "survival_beyond_death": {
+      "stance": "肯定する",
+      "rationale": "*purusha*（意識／霊）は永遠であり、身体と心から独立して存在し、生・死・再生（輪廻）の循環を通じた人格的同一性の基盤である。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙的／実存的",
+      "rationale": "意識は根源的実在であり、究極的な宇宙的秩序を含意する。もっとも目的は、インドの伝統においてはしばしば、物理的世界の目的論というより再生の循環からの解脱という観点で枠づけられる。"
+    },
+    "virtual_immortality": {
+      "stance": "否定する",
+      "rationale": "仮想的不死は神経パターンを捉えることで心的自己を複製することを要するが、この二元論的理論は、物質的過程を通じて複製ないしアップロードできない別個の非物理的実体（*purusha*）を要求する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "重複（還元不可能な非物理的実体へのコミットメントを共有する）"
+      },
+      {
+        "name": "Advaita Vedānta (Indian Cosmic Consciousness)",
+        "relationship": "批判（サーンキヤは二元論的であるが、アドヴァイタ・ヴェーダーンタは不二論的であり、意識を唯一の根源的な存在者として措定する）"
+      },
+      {
+        "name": "Gaudíya Vaiṣṇava (GV) Vedānta",
+        "relationship": "区別（GVヴェーダーンタは意識の多くの性質が物質のうちに実現されうると示唆するが、サーンキヤは心／身体の複合体を厳格に感覚をもたない物質とみなす）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Personal and Cosmic Consciousness in Indian Philosophy (discussing Samkhya)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Samkhya (Wikipedia)",
+        "year": 2024
+      }
+    ]
+  }
+}

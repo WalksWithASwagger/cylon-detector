@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "機能主義",
+    "summary": "機能主義は、心的状態が、それらが実現される物理的媒体（基体）とは独立に、相互の因果的関係、感覚入力、行動出力によって定義されると主張する。意識の本質は、心的状態が物質的に何から構成されているかによってではなく、それがいかに機能あるいは作動するかによって決定される。",
+    "associated_thinkers": [
+      "Ned Block",
+      "J.J.C. Smart",
+      "Janet Levin"
+    ],
+    "category": "唯物論",
+    "subcategory": "哲学的",
+    "core_identity_tagline": "心的状態はその因果的役割によって定義される機能的状態である",
+    "classification_tags": [
+      "functional role",
+      "multiple realizability",
+      "computational",
+      "causal relations"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "心的状態は、その因果的関係、役割、結果、出力によって構成される機能的状態として同定され、それらの機能を支えるいかなる基体においても実現可能であることを含意する。",
+    "ontological_status": "物理主義（広い意味で、実体については不可知論的）。この理論は唯物論に分類されるが、非物理的な実体に関しては形而上学的に不可知論的であり、主として心的状態の機能的記述に焦点を当てる。",
+    "mind_body_relationship": "心的状態は、物理的基体において実現あるいは具現される機能的役割と同一の機能的状態であり、「機能的状態同一性テーゼ」へと至る。",
+    "primitive_or_emergent_status": "創発的。意識は、十分に複雑な基体（神経組織やコンピュータチップのような）によって実現される機能的組織から生じる。",
+    "emergence_type": "弱い創発。機能は定義可能であり、異なる基体にわたって多重実現されうるため、創発的な心的性質は原理的に、根底にある機能的構造と物理法則によって説明可能である。",
+    "subjectivity_and_intentionality": "主観性と志向性は、特定の機能的組織と因果的関係の観点から説明される。たとえば、関連する機能主義的理論では、志向性は心的状態の二階の表象を介して理解される。",
+    "qualia_account": "この理論は伝統的に現象的クオリアの説明に苦労しており、しばしば質的な感じが機能的役割によって完全に汲み尽くされると主張することで、あるいは表象理論と結合することで、それに対処する。",
+    "ontological_commitments": "機能的役割あるいは因果的関係が決定的な存在者である。この理論は、神経組織であれコンピュータチップであれ、情報と機能的構造を具現できる基体の存在を前提とする。",
+    "epistemic_access": "意識は、心的状態が感覚入力と行動出力への因果的関係を通じていかに作動するかを分析することによってアクセスされ理解され、しばしば計算論的・三人称的視点と結びつく。",
+    "constituents_and_structure": "心的状態は、感覚入力、内部状態、行動出力の間に定義される因果的関係から構成される。これらの関係が心の機能的構造を構成する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "心理的状態（記憶、思考、創造）と現象的意識のための構造的要件。人工知能の意識と仮想的不死の基礎を提供する。",
+    "distinctive_mechanism_or_principle": "多重実現可能性の原理であり、心的状態の実現が物理的基体とは独立であり、要求される機能が具現されることのみに依存すると述べる。",
+    "dynamics_of_emergence": "意識は、必要な機能的関係（アルゴリズムや因果的流れによって定義されるものなど）が物理系の内部に存在するときはいつでも、機能的過程あるいは活動として実現される。",
+    "location_and_distribution": "基体が神経組織であるか配線された計算部品であるかにかかわらず、機能的組織が首尾よく実現されるあらゆる場所に分布する。",
+    "causation_and_functional_role": "機能、役割、出力が決定的である。心的状態は、システム内の因果的関係（機能的役割）によって定義されるがゆえに、因果的に有効である。",
+    "integration_or_binding": "統合は、複数の入力と内部状態が因果的に関係して統一された出力を生み出す、複雑な機能的構造の首尾よい実現を介して達成される。",
+    "information_flow_or_representation": "情報は中心的であり、とりわけ計算論的機能主義においてそうである。そこでは古典的計算モデル（アルゴリズム）が心的状態の機能的要件を例示する。",
+    "evolutionary_account": "直接には扱われないが、この理論は唯物論に分類されるため進化論的説明と完全に両立し、意識が機能的過程を介して適応上・生存上の利点をもたらす進化したメカニズムであることを示唆する。",
+    "core_claims_and_evidence": [
+      "心的状態は、相互の、および入力／出力への因果的関係によって構成される。",
+      "心的状態は機能的状態と同一である（機能的状態同一性テーゼ）。",
+      "基体の本性は問題ではなく、遂行される機能のみが問題である。",
+      "それは「仮想的不死」の理論的基礎として働く。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（概念的定義）、計算論的（心の計算理論を介して）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的にも経験的にも検証可能。思考実験（基体の置換など）はその概念的限界を探り、計算的実現（AI）はその経験的応用を検証する。",
+    "known_empirical_interventions_or_tests": "シリコンチップ置換の思考実験は、基体の変化にわたって機能的役割が維持されるときに現象的意識が保存されるかどうかを検証するために概念的に用いられる。",
+    "criticisms_and_tensions": "機能的役割のみを記述することによって現象的意識（クオリア）を説明しそこなうとして強く批判され、機能的役割が意識的経験の本性を汲み尽くさないかもしれないという「ハードプロブレム」の課題へと至る。",
+    "open_questions_and_limitations": "主要な未解決の問題は、意識的経験が機能的役割によって完全に汲み尽くされるかどうかである。機能的定義がいかにして経験の主観的・質的側面を完全に捉えるのかは不明である。",
+    "ontological_coherence": "広い物理主義的存在論と高度に整合的である。ある支持者によって形而上学的根拠から還元的物理主義の「両立しない競合相手」と定義されてはいるが、それは還元的な企てに必要な機能的性格づけを提供する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "肯定",
+      "rationale": "機能主義は、意識が生物学ではなく機能に基づくと主張する。正しい機能が非生物的基体において計算的に実現されうるならば、AIの意識は原理的に可能であり、唯物論が真であれば確実である。"
+    },
+    "survival_beyond_death": {
+      "stance": "条件付き／否",
+      "rationale": "物理主義的理論として、意識は基体に結びついている。生物学的身体の死を超えた存続は、機能的な心的状態が新たな継続する基体へ首尾よく転送（アップロード）されうる場合にのみ可能である（仮想的不死）。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "機能主義は、物理的世界の内部で心／意識が作動するメカニズムを記述し、行為主体性と反省の能力を提供するが、究極的な宇宙的意味や目的論についての根拠は提供せず、唯物論の一般的な立場と整合する。"
+    },
+    "virtual_immortality": {
+      "stance": "達成可能",
+      "rationale": "機能主義は仮想的不死の理論的基礎として働く。心的自己の機能的役割が完全に複製され新たな媒体へアップロードされうるならば、一人称的な心的自己は保存される。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Functionalism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Homuncular Functionalism (Lycan)",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "両立的／競合"
+      },
+      {
+        "name": "Neurofunctionalism (Prinz)",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism? (N. Block)",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Is Functionalism? Consciousness, Function, and Representation (N. Block)",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Functionalism (J. Levin)",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "タイの偶然主義",
+    "summary": "この理論は、現象的な意識状態が、我々の現実世界において特定の物理状態あるいは脳状態と文字どおり同一であると主張する。しかし決定的に重要なのは、この同一性が偶然的なものとして理解される点であり、すなわちそれはすべての可能世界にわたって形而上学的に必然ではない。この様相的主張は、哲学的ゾンビ（意識をもたない物理的複製）の構想可能性が、現実世界における物理主義の真理には無関係であると認めることによって、ハードプロブレムを解決することを意図している。",
+    "associated_thinkers": [
+      "Michael Tye",
+      "Herbert Feigl",
+      "Ullin Place",
+      "J.J.C. Smart"
+    ],
+    "category": "唯物論",
+    "subcategory": "表象主義的",
+    "core_identity_tagline": "「偶然的な物理的同一性としての意識」",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "representationalism",
+      "modal philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象的性格（Q）は、物理的性質（R）とまさに同一のものとして同定される。ここでRは機能的状態や表象主義が措定する状態を含みうる。この同一性は我々の世界においてのみ偶然的に成り立つ。",
+    "ontological_status": "還元的物理主義（機能主義と表象主義を含むものとして広く解される）。ただしタイは後に、徹底した還元的物理主義からの距離を表明した。",
+    "mind_body_relationship": "偶然的同一説。心的状態（感覚）は物理状態／脳過程と文字どおり同一であるが、この同一性はすべての可能世界における必然ではなく、偶然的事実である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性と現象的性格は、表象的内容へと還元される、あるいはそれと同一視される（一階表象主義）。現象的性格は現在の状態だけでなく過去の状態によっても固定される（「歴史は現象学にとって決定的に重要である」）。",
+    "qualia_account": "質的性格（Q）は物理的性質（R）と同一である。RなしにQを想像する能力（ゾンビ）は理解可能なものとして認められるが、それは形而上学的に可能な世界を記述するにすぎず現実世界を記述するものではないため、無関係なものとして退けられ、これにより説明のギャップが解消される。",
+    "ontological_commitments": "何らかの種類の物理状態であり、神経生理学的状態、機能的状態、および微視物理的状態に基づく表象的内容を包含する。",
+    "epistemic_access": "意識は主観的経験（現象学）を通じてアクセスされ、哲学的・様相的分析を通じて研究される。その分析はその物理的実現の偶然的本性を論証するために用いられる。",
+    "constituents_and_structure": "意識は脳内で実現される物理状態（R）から、あるいは同等に表象的内容から成り、そこでは個体の歴史が、ある時点における現象的性格を決定するうえで決定的に重要である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的状態（クオリア）、意識のハードプロブレム、およびその物理状態との関係。",
+    "distinctive_mechanism_or_principle": "意識に関する同一性言明（Q=R）が偶然的でありうるという原理。これにより意識の事例が典型的な必然的科学的同一性（水=H2Oなど）と区別され、説明上の難問が消去される。",
+    "dynamics_of_emergence": "意識は現実世界における物理的現象である。それは漸進的に進化したかもしれない（タイの後年の進化論的見解）が、中心的な動態は偶然的同一性関係そのものである。",
+    "location_and_distribution": "意識と同一である物理状態（R）は脳内に位置し、神経生理学的状態、機能的状態、あるいは表象的状態を含む。",
+    "causation_and_functional_role": "物理主義が真であるなら、意識は物理的であり、したがってその因果的効力と創発の問題は、物理世界の因果的閉包性の内部で満足に扱われうる。",
+    "integration_or_binding": "本理論は主として現象的性格の同一性関係に焦点を当てる。統合は、還元主義的枠組みと整合的に、物理的・機能的・表象的状態の基底にある機構を通じて暗黙のうちに扱われる。",
+    "information_flow_or_representation": "本理論は表象主義と両立し、経験を表象主義的かつ広く還元主義的な仕方で捉え、そこでは現象的性格は表象的内容と同一である。",
+    "evolutionary_account": "意識は特定の進化的瞬間より前に不在であったのではなく、基底的であった（原意識が常に存在していた）。一方で、多様な意識状態は漸進的に現れ、これが意識を進化論的に評価する際の「曖昧さ」に対処する。",
+    "core_claims_and_evidence": [
+      "現象的状態は、現実世界において物理状態と偶然的に同一である（Q=R）。",
+      "RなしのQ（ゾンビ）という構想可能な可能性が、現実世界ではなく形而上学的に可能な世界のみを指すと理解することで、ハードプロブレムは解消する。",
+      "この見解は還元的物理主義に対する最良の哲学的擁護を提示する。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／概念的。中心的主張は、同一性そのものの経験的な反証や検証ではなく、同一性と必然性に関する様相的哲学論証に依拠する。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "中心的信条は、他の科学的同一性言明が必然的である一方で意識状態の同一性は偶然的であると主張することに依拠しており、批判者はこれに異議を唱えうる。この論証は哲学的ゾンビの構想可能性を認めつつ、その現実世界への関連性を否定する。",
+    "open_questions_and_limitations": "タイは最終的に、徹底した還元的物理主義に疑念を表明し、意識のある要素は高次の還元によって捉えられないと考えるに至り、汎心論の一形態へと向かった。",
+    "ontological_coherence": "正統的なア・ポステリオリ物理主義の枠組みの内部で高度に整合しており、知識論証に直面しても物理主義を維持するための哲学的道具を提供する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "意識が我々の世界において物理的／機能的／表象的状態と偶然的に同一であり、これらの状態が非生物学的な系において具現化されうるのであれば、AIの意識は原理的に可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は現実世界において物理的な脳過程に偶然的に依存し、それと同一である。脳の消滅は一人称的な意識的自己の終焉をもたらす。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "唯物論と還元的物理主義に根ざした理論として、意識をもつ人間の行為者によって創出されるものを超えた、究極的な宇宙的意味や目的の根拠を提供しない。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "現象的意識は物理状態（R）と同一視されるため、デジタルアップロードなどによってRを複製すれば、Qも首尾よくアップロードされることになり、仮想的不死は原理的に達成可能となる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "影響"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "拡張／転換"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A New Solution to the Hard Problem of Consciousness, Michael Tye",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Representationalism and the Transparency of Experience, Michael Tye",
+        "year": 2002
+      }
+    ]
+  }
+}

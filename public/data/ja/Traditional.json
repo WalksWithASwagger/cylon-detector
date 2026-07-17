@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "歴史的および伝統的な二元論",
+    "summary": "この範疇は、数千年にわたって広まってきた二元論的理論を包含し、しばしば物理的な身体から分離した心の非物理的な側面（魂など）を想定する。古代哲学や主要な宗教的伝統（アブラハムの宗教や特定のインドの学派など）に見られるものを含むこれらの二元論は、実在が少なくとも二つの区別される存在論的範疇、すなわち物理的なものと非物理的なものから成ると主張する。",
+    "associated_thinkers": [
+      "Plato",
+      "René Descartes (Modern Start)",
+      "Richard Swinburne",
+      "J.P. Moreland"
+    ],
+    "category": "二元論",
+    "subcategory": "歴史的/伝統的二元論",
+    "core_identity_tagline": "「分離した非物理的実体（魂）としての意識」",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "soul",
+      "religion",
+      "classical philosophy",
+      "nonphysical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳と身体から独立した非物理的な実体（しばしば魂ないし霊と呼ばれる）と同定される。",
+    "ontological_status": "実体二元論",
+    "mind_body_relationship": "典型的には相互作用説として特徴づけられ、物理的状態が心的状態を引き起こし、その逆もまた然りであって、物理世界が因果的に閉じていないことを要する。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "該当なし",
+    "subjectivity_and_intentionality": "主観性は非物理的な実体（魂／霊）に本来的に備わり、それが一人称的な経験者ないし「私」として働く。志向性はしばしばこの区別される心的実体の性質とみなされる。",
+    "qualia_account": "質的な特徴（クオリア）は、物理的物質とは区別される非物理的な実体（心／魂）のうちに全面的に宿る。",
+    "ontological_commitments": "物理的物質／脳と、別個の非物理的な実体（魂、霊、プルシャ）。",
+    "epistemic_access": "一般に、経験的科学よりも、共通の直観、哲学的省察、そして宗教的／精神的な伝統を通じて知られる。",
+    "constituents_and_structure": "二つの区別される種類の実体。すなわち物理的なもの（延長を持つ）と非物理的なもの（延長を持たない心的なもの）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的経験、人格的同一性、死後の存続、道徳的価値、そして自己の概念。",
+    "distinctive_mechanism_or_principle": "根源的に区別される物理的実体と非物理的実体とのあいだの相互作用であり、悪名高い「相互作用問題」を帰結する。",
+    "dynamics_of_emergence": "意識は非物理的な実体の持続的な特徴であり、動的な物理的過程から独立して存在する。",
+    "location_and_distribution": "物理的な部分（身体／脳）は局所的である。非物理的な部分（魂）は分離しており非局在的で、物理的制約から独立して存在する。",
+    "causation_and_functional_role": "（非物理的な実体の）心的状態は物理世界に影響を及ぼす因果的役割を果たし、魂が人格的同一性を基礎づける。",
+    "integration_or_binding": "統一（結合）は、統一された不可分な非物理的実体（魂）に本来的に備わる。",
+    "information_flow_or_representation": "情報ないし表象は心的実体の性質であり、それは徹底して目的論的で本来的に志向的であると特徴づけられる。",
+    "evolutionary_account": "通例扱われない。意識（魂）はしばしば進化の産物ではなく、根源的な創造ないし所与の構成要素とみなされるからである。",
+    "core_claims_and_evidence": [
+      "実在は二つの還元不可能な実体、すなわち物理的なものと非物理的なもの（魂／霊）から成る",
+      "魂は人格的同一性を基礎づけ、肉体の死を超えて存続する",
+      "心的因果は実在する。非物理的な状態が物理的状態に影響を及ぼす",
+      "直観と（とりわけアブラハムの宗教における）広く行き渡った信念が、別個の魂の存在を支持する"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、宗教的／伝統的、直観的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／哲学的",
+    "known_empirical_interventions_or_tests": "該当なし",
+    "criticisms_and_tensions": "相互作用問題（非物理的な実体がいかにして物理的変化を引き起こすか）、非倹約性の問題（オッカムの剃刀）、そして魂に関する客観的な科学的知識の欠如に直面する。",
+    "open_questions_and_limitations": "物理的実体と非物理的実体とのあいだの相互作用を可能にする根源的な機構（相互作用問題）は未解決である。",
+    "ontological_coherence": "物理世界の因果的閉包という科学における一般的な想定とは相容れない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "いいえ（おおむね）",
+      "rationale": "意識は、物理世界によって因果的に決定されない根源的に別個の非物理的実体（魂）を必要とする。したがって非生物学的な知能は真の内的な気づきを経験できない。"
+    },
+    "survival_beyond_death": {
+      "stance": "はい",
+      "rationale": "非物理的な魂／霊は身体から独立しているため、一人称的な自己が物理的身体の解体を超えて存続する最も明確な機構を与え、宗教的伝統において支配的である。"
+    },
+    "meaning_and_purpose": {
+      "stance": "究極的な意味／目的／価値",
+      "rationale": "二元論は、存在と人間の生に本来的に宇宙的な意味、目的、価値を帰す宗教的信念体系（アブラハムの宗教など）と密接に結びついている。"
+    },
+    "virtual_immortality": {
+      "stance": "いいえ",
+      "rationale": "脳をアップロードしても、意識に必要な非物理的構成要素（魂）を複製できず、それゆえ仮想的不死は妨げられる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism (Generic)",
+        "relationship": "同一"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "対照"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "対照／拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism, Howard Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Theosophy, Theosophy Wiki",
+        "year": 2023
+      }
+    ]
+  }
+}

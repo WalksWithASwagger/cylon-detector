@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "フリストンの自由エネルギー原理と能動的推論",
+    "summary": "この理論は、意識を「自由エネルギー」——有機体の内部モデル（知覚的期待）とリアルタイムの感覚入力との差——の最小化から生じる自然的過程として概念化する。したがって意識は、生存を確保し恒常性を維持するために、世界のシナリオをシミュレートし予測誤差を低減するための、進化したメカニズムとして機能する。",
+    "associated_thinkers": [
+      "Karl Friston"
+    ],
+    "category": "唯物論の理論",
+    "subcategory": "恒常性・情動的",
+    "core_identity_tagline": "能動的推論と最小化された驚きとしての意識",
+    "classification_tags": [
+      "active inference",
+      "free energy",
+      "predictive processing",
+      "process theory",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は推論の自然的過程として、具体的には自由エネルギー原理（驚き）を監視・最小化する内的な創発的モデルとして同定され、それによって物理的／脳システムの表象能力を最適化する。",
+    "ontological_status": "物理主義。しばしばマルコフ的一元論と呼ばれ、心と物質の区別を存在論的なものではなく弁証法的なものと見なす。",
+    "mind_body_relationship": "一元論的／同一性。この理論は、意識が物理的／脳システムの自己組織化過程の自然的帰結であると提案し、心と物質との間のなじみ深い弁証法を解消する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。意識は、複雑な自己組織化する物理系から生じる自然的過程（進化や天候のような）にほかならず、それ以上でもそれ以下でもないと見なされる。",
+    "subjectivity_and_intentionality": "主観性（一人称視点）は、システムの内部状態が外部状態から区別されうるときに誘導される情報幾何学によって枠づけられる（マルコフ的一元論）。志向性は、感覚状態の原因を推論し世界を渡り歩くことを含む能動的推論の過程に反映される。",
+    "qualia_account": "この理論はハードプロブレムに関して高度に収縮的であり、意識をその質的属性が定義を要する「もの」ではなく、理解されるべき過程として扱う。クオリアは、もし認められるとしても、随伴現象、あるいは推論に必要な内的生成モデルの側面であろう。",
+    "ontological_commitments": "物理的／脳システム、複雑な自己組織化系、内在的および外在的な情報幾何学、そして推論／過程という概念。",
+    "epistemic_access": "意識は自由エネルギー原理の数学的定式化を通じて知られ研究され、意識という観念を生じさせる過程の客観的分析を可能にする。",
+    "constituents_and_structure": "自己組織化系における動的平衡とアトラクターに基づいて作動する内的生成モデル（予測処理階層）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（進化したメカニズムとして）、知覚、行為、推論、生存。",
+    "distinctive_mechanism_or_principle": "自由エネルギー原理（FEP）であり、すべての自己組織化系は自由エネルギー（または「驚き」）を最小化しなければならず、能動的推論を通じて行為と知覚を駆動すると述べる。",
+    "dynamics_of_emergence": "動的過程。意識は、自己証拠化（システムがアトラクターを介して安定性を達成する過程）が「時間的厚み」あるいは「反事実的深さ」を獲得し、将来の行為についての推論を可能にするときに創発する。",
+    "location_and_distribution": "物理的な脳システムに局在する。皮質反応は、自由エネルギーを最小化しようとする脳の試みと見なされる。",
+    "causation_and_functional_role": "意識は、シナリオをシミュレートし、自由エネルギーを監視・最小化して生存（恒常性）を促進し世界を渡り歩くための進化したメカニズムとして、適応的かつ機能的な役割を果たす。",
+    "integration_or_binding": "統合は、外部世界を予測し大域的な驚き／予測誤差を最小化する単一の内的な創発的モデルの構築において暗黙的である。",
+    "information_flow_or_representation": "情報処理は予測を中心に構造化され、そこでは内部モデル（知覚的期待）が感覚入力と比較され、学習は脳の自由エネルギーの最小化に依拠する。",
+    "evolutionary_account": "意識は、予測誤差を最小化し身体の生理を調節する（生存）という根本的な生物学的要請から生じる進化したメカニズムである。",
+    "core_claims_and_evidence": [
+      "意識は、行為と知覚のための自由エネルギー原理（能動的推論）の自然的帰結である。",
+      "驚きの最小化が決定的に重要なのは、それに失敗するとシステムの存在が脅かされるからである。",
+      "意識は、感覚がいかにして生成されるかの内部モデルに依拠した、自らの未来についての推論である。",
+      "この理論の形而上学的刻印はマルコフ的一元論であり、心と物質の弁証法を解消することを目指す。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算論的、数学的、理論神経科学／物理学。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "物理系の表象能力を定式化することへの依拠を通じて、検証可能なモデル（例：神経生物学と心理学における）と概念的・経験的に結びつく。",
+    "known_empirical_interventions_or_tests": "FEPの原理は、変性状態（例：サイケデリクス下でのエントロピー脳仮説）や関連する知覚・認知の理論に関する経験的研究で用いられるモデルの基礎をなす。",
+    "criticisms_and_tensions": "高度に収縮的であり、現象的経験の一人称的実在（ハードプロブレム）と調和させることが難しいとして批判される。というのも、意識を単なる数学的過程あるいは「自然的帰結」と見なすからである。フリストンは、意識を「もの」とする哲学的前提に取り組むことを難しいと感じている。",
+    "open_questions_and_limitations": "この理論は、意識を「もの」として定義することなく、推論最小化の自然的過程がいかにして主観的経験が存在するという*観念*あるいは*錯覚*を生じさせるのかを説明するという課題に直面する。",
+    "ontological_coherence": "高い。この理論は内的に整合的であり、マルコフ的一元論を用いて心的過程と物理的物質を統一された記述的枠組みへと統合する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "肯定",
+      "rationale": "強い唯物論的理論として、意識が推論と表象最小化の計算的過程によって完全に説明されるならば、これらの過程を実行できる非生物的システムは、原理的に最終的には意識を獲得するはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は、生物学的な脳の機能的動態と物理的基体に直接結びついた創発的な自然的過程である。したがって、身体の崩壊を生き延びることはできない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "意識的過程の根本的な要請は生存（驚きの最小化／恒常性の維持）である。この理論は究極的な宇宙的意味や目的を合理化せず、一般的な唯物論的見解と整合する。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "意識は創発的で定式化された推論最適化の過程として理解されるため、脳の情報処理と表象的動態を非生物的媒体において完全に複製すれば、心的自己の存続に十分であるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Clark's Predictive Processing",
+        "relationship": "影響"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Carhart-Harris’s Entropic Brain Hypothesis",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Projective Consciousness Model",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A theory of cortical responses, K. Friston",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Active interference: a process theory, K. Friston et al",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Mathematics of Mind-Time, K. Friston",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Sentience and the origins of consciousness: from cartesian duality to markovian monism, K. Friston, W. Wiese, J.A. Hobson",
+        "year": 2020
+      }
+    ]
+  }
+}

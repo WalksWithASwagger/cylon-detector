@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "複雑適応系モデル理論",
+    "summary": "この理論は、意識を、複雑で非線形な相互作用の動的ネットワークとみなされる脳の創発的かつ適応的な出力としてモデル化する。意識は、予測不可能性、カオス的動態、自己組織化の原理といった、複雑適応系（CAS）に固有の特徴を体現している。",
+    "associated_thinkers": [],
+    "category": "唯物論",
+    "subcategory": "計算論的・情報論的",
+    "core_identity_tagline": "複雑適応系の動的で創発的な出力としての意識",
+    "classification_tags": [
+      "complex systems",
+      "emergentism",
+      "non-linear",
+      "functionalism",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、複雑適応系として作動する脳内の複雑で非線形な相互作用から生じる、知的で動的かつ適応的な振る舞いとして同定される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "創発主義的。心は物理系（脳）の高度に複雑で非線形な相互作用から創発的性質として生じる。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。ただし系の動態が高度にカオス的で予測不可能であるため強い創発へと傾く。",
+    "subjectivity_and_intentionality": "主観性は内的複雑さと系の自己組織化能力から暗黙のうちに生じる。志向性は、問題を解決するために感覚入力と行動出力を媒介する必要性によって説明される（知的な CAS）。",
+    "qualia_account": "クオリアは、根底にある物理的基体の集合的で複雑な非線形動態から直接生じる創発的性質として同定される。",
+    "ontological_commitments": "動的ネットワーク、複雑で非線形な相互作用、情報、およびそこから帰結する創発的性質。",
+    "epistemic_access": "系の動態、とりわけ複雑系に特徴的な予測不可能でカオス的かつ非線形な振る舞いの観察と数理モデル化を通じてアクセスされる。",
+    "constituents_and_structure": "基本構造は、階層的に組織され、非線形性とカオス的関係を特徴とする、相互作用する構成要素（ニューロン／神経集合）の動的ネットワークである。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（創発的性質として）、アクセス意識（適応を通じて）、および行為主体性（系が問題を解決する際に）。",
+    "distinctive_mechanism_or_principle": "非線形動態に基づく自己組織化の原理と適応の機構であり、系が自らの振る舞いを変化させ新奇性を生み出すことを可能にする。",
+    "dynamics_of_emergence": "動的過程。意識は、しばしば閾値と再帰的相互作用を伴いながら、異なる組織化のレベルにわたって進行する自己組織化的な変化を引き起こす事象から生じる。",
+    "location_and_distribution": "系全体的。意識は脳・有機体の動的ネットワーク全体にわたって分散している。",
+    "causation_and_functional_role": "意識は「知的な CAS」として機能し、その主たる目的は問題解決であり、複雑な感覚入力を媒介し、生存のために柔軟で適応的な行動出力を生成する。",
+    "integration_or_binding": "統合は複雑系の内在的性質であり、そこでは「集合的振る舞いはその構成要素の振る舞いから予測できないことがある」とされ、意識的出力の統一性が確保される。",
+    "information_flow_or_representation": "情報処理は非線形で再帰的な相互作用を特徴とし、単純な線形処理やアルゴリズム的処理とは区別される。",
+    "evolutionary_account": "意識は、入力と出力を媒介することにより、複雑な問題解決と生存上の優位に必要な創発的性質を生み出す知的な CAS として進化した。",
+    "core_claims_and_evidence": [
+      "脳は複雑適応系であり、その意識的出力は非線形性とカオス的特徴を示す。",
+      "意識は履歴、閾値、再帰的相互作用に依拠しており、CAS としての本性を反映している。",
+      "意識を知的な CAS としてモデル化することは、感覚入力と行動出力の間の問題解決におけるその適応的役割を明らかにする。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算論的、数理モデル化、システム理論、神経哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "神経ネットワーク内の複雑性、カオス、非線形動態を定量化することに基づき、経験的にも計算論的にも検証可能。",
+    "known_empirical_interventions_or_tests": "複雑系の入力と出力の間の非線形でカオス的な関係を分析し、摂動に続く適応的な行動反応を評価する検証。",
+    "criticisms_and_tensions": "この理論は、他の機能主義的アプローチと同様に、主観的経験（クオリア）の根源的本性を説明することなく創発的な系の振る舞いの*構造*を記述しているにすぎないと、しばしば批判される。",
+    "open_questions_and_limitations": "（無意識的な複雑処理とは対照的に）現象的意識の創発に必要とされる、カオス的動態における正確な閾値や特定の特徴は未確定のままである。",
+    "ontological_coherence": "物理主義の枠組みの内部では高度に整合的であり、物理的複雑性から帰結する適応的な機能的役割に基づいて意識を定義する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありそう",
+      "rationale": "意識が主として十分に複雑で自己組織化するネットワークの創発的かつ適応的な振る舞いであるならば、これらの属性は理論上、先進的な人工システムにおいて再現可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は身体（脳）内の動的ネットワークという物理的現実に根ざしており、生物学的基体の解体とともに終焉することが含意される。"
+    },
+    "meaning_and_purpose": {
+      "stance": "実用的／実存的",
+      "rationale": "意識の機能的役割は生存のための適応と問題解決であり、意味は宇宙的な計画にではなく系の持続的な存在そのものにのみ内在すると示唆する。"
+    },
+    "virtual_immortality": {
+      "stance": "可能／条件付き",
+      "rationale": "生物学的な CAS の複雑で非線形な自己組織化の動態を捉え、非生物学的媒体において維持できるならば、仮想的不死は可能となるだろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Bunge’s Emergent Materialism",
+        "relationship": "重複"
+      },
+      {
+        "name": "Combs’s Chaotic Attractor and Autopoietic Systems",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "整合的"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness as an intelligent complex adaptive system: a neuroanthropological perspective, C. Laughlin",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Emergence and the mind, M. Bunge",
+        "year": 1977
+      }
+    ]
+  }
+}

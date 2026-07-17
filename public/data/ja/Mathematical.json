@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "数学的諸理論",
+    "summary": "このカテゴリーには、意識的経験の構造、水準、内容、動態を記述するために厳密な数学的道具を用いるアプローチ（認識論的見解）と、数学的構造を意識そのものの究極的基盤ないし本質として措定する基礎理論（存在論的見解）が含まれる。",
+    "associated_thinkers": [
+      "Johannes Kleiner",
+      "Tim Ludwig",
+      "Yucong Duan",
+      "Max Tegmark",
+      "Roger Penrose"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算的・情報的",
+    "core_identity_tagline": "形式的な数学的構造としての意識",
+    "classification_tags": [
+      "mathematics",
+      "ontology",
+      "formalism",
+      "structure",
+      "computation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は根本的に、基底の数学的構造、関係、ないし空間と同定される、あるいはそれらから導かれるものであり、経験的性質の形式化を可能にする。",
+    "ontological_status": "条件付き一元論（正当化：伝統的な物理主義／唯物論のモデルを支持するものから、数学的実在を究極的基盤とする存在論的主張を提唱するものまで幅広く、後者は厳格な唯物論を超える）。",
+    "mind_body_relationship": "きわめて多様。存在論的な変種は、物理的世界と心的経験の双方が、一次的な数学的実在の二次的な現れないし「影」であると示唆する（例えばペンローズのプラトン的世界）。認識論的な変種は、現象的経験と数学的空間との間の構造的同型性を示唆する。",
+    "primitive_or_emergent_status": "多様",
+    "emergence_type": "多様（正当化：存在論的な変種は、意識が究極的な数学的実在の一部として原初的／根本的であると示唆する。動態に焦点を当てるモデルは、複雑な数学的関係を通じた意識的状態の弱い創発を示唆する）。",
+    "subjectivity_and_intentionality": "主観性と現象的性質は数学的空間と構造によって形式的に特徴づけられ、意識の経験される諸相に対応する構成と領域を同定することを目指す。",
+    "qualia_account": "クオリア、すなわち現象的空間は、その特徴が経験の性質と同型である数学的構造として扱われる。この理論は、意識的経験における何かが主張された構造に文字どおり対応することを保証しようと試みる。",
+    "ontological_commitments": "数学的構造と形式、意識的経験の諸相を表す領域、抽象的なプラトン的実在（一部の変種において）。",
+    "epistemic_access": "抽象的な形式的方法、数学的モデリング、そして現象的特徴の厳密な定量的ないし構造的記述を通じてアクセスされる。",
+    "constituents_and_structure": "その要素が意識的経験の諸相に対応する「領域」と呼ばれる集合と、それらの領域に作用する厳密に定義された関係ないし関数から成る。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意識的経験の構造、水準、内容、そして動態（進展の軌跡、安定状態、情報の流れ）。",
+    "distinctive_mechanism_or_principle": "鍵となるメカニズムは意識の厳密な形式的表現である。存在論的見解は、意識が量子力学とよく似て、数学的法則によって本来的に構造化されていると措定する。",
+    "dynamics_of_emergence": "意識の動態は、進展の軌跡と安定状態を特徴づける動的システム理論のような理論を用いて記述されうる。",
+    "location_and_distribution": "所在は抽象的な数学的構造に対して二次的である。存在論的見解では、所在は宇宙的でありうるか、形相のプラトン的領域に存するかもしれない。",
+    "causation_and_functional_role": "数学は、パターン、周期性、関連性を見出すために必要な「意識の言語」として作用し、それによって因果関係と機能を明らかにする。",
+    "integration_or_binding": "統一と結合は通常、情報の流れのモデルや、複雑さと統合の尺度といった形式化された数学的構造を通じて定量化ないし記述される。",
+    "information_flow_or_representation": "情報理論はしばしば意識内の流れとエントロピー値を定量化するために適用される。中核的な企図は、意識的経験を数学的空間の観点から表現することである。",
+    "evolutionary_account": "中核理論によって直接には扱われない（正当化：数学的諸理論の焦点は一般に、系統発生的発達よりも瞬時の構造と根本的本質にあるが、フリストンのFEPのような進化論的説明をもつ理論を支持する）。",
+    "core_claims_and_evidence": [
+      "意識は数学的構造によって構成される（存在論的見解）。",
+      "意識的経験は数学的対象と幾何学的特徴に正確に対応する。",
+      "動的システム理論や情報理論のような数学的道具は意識の内的動態を定量化しうる。"
+    ],
+    "basis_of_belief_or_evidence_type": "形式的／数学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能。特定の科学的理論（例えば統合情報理論）に数学的枠組みを提供する場合には経験的に検証可能。",
+    "known_empirical_interventions_or_tests": "理論依存的（正当化：このアプローチは統合情報理論や自由エネルギー原理のような他の理論に形式的言語を提供し、それらの理論が具体的な経験的尺度と介入を定義する）。",
+    "criticisms_and_tensions": "数学的形式主義が、単に機能的相関物を記述するのではなく、意識的経験の実際の本質を捉えていることを示すのが困難であるとして批判される。存在論的主張（意識が数学から「できている」など）はきわめて論争的である。",
+    "open_questions_and_limitations": "主要な未解決の問題は、数学の抽象的な形式的存在者を、意識的経験の具体的な現象的な感じ（クオリア）とどのように橋渡しするかである。",
+    "ontological_coherence": "プラトン主義ないし数学的宇宙仮説の存在論と対にされる場合には高度に整合的。厳格な還元的物理主義に適用される場合には質的主観性の説明に課題を抱える。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "意識が純粋に抽象的な数学的構造ないし計算論理によって定義されるなら、その構造を実現する人工システムは意識を実現しうる可能性がある。"
+    },
+    "survival_beyond_death": {
+      "stance": "条件付き",
+      "rationale": "存在論的な数学的理論（例えばテグマーク、ペンローズ）は、実在の基盤が永遠の数学的構造であると示唆し、抽象的な意味で意識が物理的な脳を超えて存続することを潜在的に許容する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "条件付き宇宙的",
+      "rationale": "宇宙が根本的に数学的である、あるいはプラトン的形相に根ざしているなら、それは存在に内在的な合理的意義を含意する。ただし必ずしも人格的で目的論的な意味を含意するわけではない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "心が定量化可能な数学的構造ないし情報の流れへと全面的に還元されるなら、このパターンは原理的に保存され、新たな基体において実現されうる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "影響"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "影響"
+      },
+      {
+        "name": "Tegmark’s State of Matter",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is a mathematical structure of conscious experience?",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality, Max Tegmark",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Shadows of the Mind: A Search for the Missing Science of Consciousness, Roger Penrose",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Consciousness, mathematics, and natural laws, Yucong Duan and Shiming Gong",
+        "year": 2024
+      }
+    ]
+  }
+}

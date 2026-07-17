@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "クリックとコッホの意識の神経相関(NCC)",
+    "summary": "この理論は、意識の神経相関(NCC)を同定するという科学的研究計画を提唱する。NCCとは、任意の特定の意識的知覚あるいは主観的経験にとって共同で十分かつ必要な、脳における最小限の活動として定義される。意識は全面的に物理的であり、これらの特定の脳活動へ完全に還元しうると主張する。",
+    "associated_thinkers": [
+      "Francis Crick",
+      "Christof Koch"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "最小限の脳活動としての意識",
+    "classification_tags": [
+      "neurobiological",
+      "reductionism",
+      "qualia",
+      "neurophysiology",
+      "macroscopic materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識(現象的意識・クオリア)は意識の神経相関(NCC)、すなわち主観的経験にとって必要かつ十分な脳における神経活動の正確な最小限のパターンと同定される。",
+    "ontological_status": "還元的物理主義／唯物論。NCCのアプローチは巨視的唯物論とみなされる。",
+    "mind_body_relationship": "同一説。心的状態は物理的なNCCの状態と全面的に同一であり、それによって完全に説明される。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。生物学的な脳の産物としての意識が、明示的な連関は現時点では捉えがたいとしても、原理的には低次の物理法則によって説明可能である、という還元的唯物論の立場と一貫する。",
+    "subjectivity_and_intentionality": "主観性(内的な気づき)と現象的経験は、同定されたNCCと直接に相関するか、それと同一である。志向性も同様にNCCを構成する物理的過程によって説明されるであろう。",
+    "qualia_account": "クオリア(経験の質的な感じ)は、特定の意識的知覚にとって共同で十分な最小限の神経活動(NCC)と同定される。ただしこの同一性のメカニズムは依然として中心的な「ハードプロブレム」の難問である。",
+    "ontological_commitments": "生物学的な脳、ニューロン、電気生理学的活動(スパイク)、神経化学的伝達物質の流れ、そして特定の再帰的な脳回路。",
+    "epistemic_access": "意識的経験の一人称的報告と相関づけられた三人称的な科学的観察(神経生理学、脳スキャン)を通じてアクセスされる。",
+    "constituents_and_structure": "構造は、皮質のような主要な脳領域に局在する特定の神経集成体と動的な電気的・化学的活動パターン(たとえば活動電位、伝達物質の流れ、再帰的回路)からなる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの(主観的経験、クオリア)と、意識に必要な関連する気づき・覚醒。",
+    "distinctive_mechanism_or_principle": "意識の神経相関(NCC)、すなわち主観的経験にとって必要かつ十分な特定の最小限の神経活動の探索と定義。",
+    "dynamics_of_emergence": "動的過程。意識は、伝播する神経生理学的な火花と拡散する神経化学的伝達物質の統合された系から生じる。",
+    "location_and_distribution": "特定の脳領域に局在する。初期の候補には(知覚をまとめる「指揮者」としての)前障が含まれ、後の候補は後部大脳皮質(側頭-頭頂-後頭のホットゾーン)に焦点を置いた。",
+    "causation_and_functional_role": "意識はNCCの活動によって直接に引き起こされ、それと同一である。NCCのメカニズム(スパイク、流れ、回路)は現象的意識を構成するものとみなされる。",
+    "integration_or_binding": "様々な皮質領域からの入力を調整して統合された意識的知覚を生成する「指揮者」(たとえば前障)として作用する神経メカニズムによって達成されると仮説される。",
+    "information_flow_or_representation": "神経回路の内部での電気生理学的・神経化学的シグナル伝達を介した情報の物理的表象と流れに焦点を置く。",
+    "evolutionary_account": "唯物論に根ざすこの理論は、意識が神経系の発達を担う系統発生的過程を通じて進化したと暗黙的に想定するが、これはNCCの定義それ自体の焦点ではない。",
+    "core_claims_and_evidence": [
+      "意識は、特定の意識的知覚にとって共同で十分かつ必要な最小限の脳活動(NCC)によって完全に説明される。",
+      "NCCのメカニズムは、神経の電気生理学的な活動電位、神経化学的伝達物質の流れ、再帰的な脳回路を含む。",
+      "NCCは経験的に観測可能である(たとえば後部大脳皮質におけるホットゾーンの探索)。",
+      "明確なNCCは決定的には発見されていない(2023年のチャーマーズとコッホの賭けの敗北によって示される)。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的、科学的、神経生物学的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能。NCCの探索は、意識の検証可能な生物学的基盤を求める科学的プログラムとして定義される。",
+    "known_empirical_interventions_or_tests": [
+      "意識的経験の際に活動する特定のニューロン群あるいは脳領域(前障や後部皮質など)の同定。",
+      "電気生理学的活動(たとえば活動電位や神経回路)の計測。"
+    ],
+    "criticisms_and_tensions": "主要な緊張は「説明的ギャップ」である。すなわち相関(NCC)を同定することは、物理的活動(スパイク・化学物質)がいかに文字どおり現象的な感じ(クオリア)を生成するかという同一性言明を説明しない。数十年の研究の後にも「明確な」NCCの同定に失敗していることは実際的な限界である。",
+    "open_questions_and_limitations": "この理論は、物理的メカニズム(神経活動)と主観的経験(現象的意識)のあいだの根本的な連関を説明できない。相関と因果の区別は依然として批判点である。",
+    "ontological_coherence": "唯物論的・物理主義的存在論の内部できわめて整合的であり、意識がいかに物質へ還元されうるかの野心的な一例として機能する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "意識が全面的に物理的な組織化パターン(NCC)へ還元可能であるならば、それらの正確なパターンを再現しうる非生物学的な系も、技術的制約がない限り意識をもつはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "唯物論的理論として、意識は全面的に物理的な脳に依存する。脳機能の停止は意識の終焉を伴う。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "唯物論と一貫して、意識は進化と物理学の生物学的産物であり、人間が自ら創り出すもの以外の究極的で宇宙的な意味や目的論を与えない。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "NCCの状態をデジタルあるいは人工的な媒体において完全に計測・再現(心のアップロード)できるならば、その結果生じる系は機能的にも現象的にも同一となり、原理的に仮想的不死を達成する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Recurrent Processing Theory (Lamme)",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "重なり・対比"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "対比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a neurobiological theory of consciousness, F. Crick and C. Koch",
+        "year": 1990
+      },
+      {
+        "title_with_names": "What is the function of the claustrum?, F. Crick and C. Koch",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Quest for Consciousness: a Neurobiological Approach, C. Koch",
+        "year": 2004
+      }
+    ]
+  }
+}

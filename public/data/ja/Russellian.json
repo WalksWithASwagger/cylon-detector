@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "ラッセル的一元論",
+    "summary": "ラッセル的一元論は、物理学が構造と関係のみによって記述する物理的世界は、現象的あるいは原-現象的な内在的本性（クィディティ）を有すると主張する。このアプローチは、二元論や還元的唯物論の伝統的な問題を回避しつつ、意識を根本的な実在へと統合する。",
+    "associated_thinkers": [
+      "Bertrand Russell",
+      "Torin Alter",
+      "Yujin Nagasawa",
+      "David Chalmers",
+      "Philip Goff",
+      "Daniel Stoljar"
+    ],
+    "category": "一元論",
+    "subcategory": "哲学的一元論",
+    "core_identity_tagline": "現象的性質は根本的な物質の内在的本性である",
+    "classification_tags": [
+      "monism",
+      "panprotopsychism",
+      "physicalism",
+      "quidditism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（あるいは原-意識）は、物理学が記述する物理的実在の関係論的構造の基底にある内在的で範疇的な本性ないし性質（「クィディティ」あるいは「不可知なもの」）である。",
+    "ontological_status": "中立一元論あるいは物理的一元論あるいは現象的一元論（変種による）。根本的には一元論的。",
+    "mind_body_relationship": "心と物理的世界は深く絡み合っており、心的性質が根本的な物理的存在の内在的本性（物理的傾向性の範疇的基盤）を構成する。",
+    "primitive_or_emergent_status": "原初的（実在の根本レベルにおいて、微視的存在の現象的あるいは原-現象的な性質として）。",
+    "emergence_type": "該当なし（性質は原初的／内在的である）。意識の巨視的な集積は、創発というよりむしろ結合問題として特徴づけられることがある。",
+    "subjectivity_and_intentionality": "根本的な物理的存在が現象的性質を帯びているため、主観性は内在的である。志向性の詳細な定式化は、この理論の資料では明示的に詳述されていない。",
+    "qualia_account": "クオリアは、根本的な物質の内在的本性を構成する現象的性質（あるいはその前駆物）に対応する。",
+    "ontological_commitments": "現象的あるいは原-現象的な範疇的／内在的性質（クィディティ／不可知なもの）を具現化した根本的な物理的存在（たとえば電子、クォーク）。",
+    "epistemic_access": "経験科学は実在の関係論的構造にのみアクセスするが、内在的本性（現象的／原-現象的なクィディティ）は物理学にはアクセス不能であり、哲学的思弁を通じてアクセスされる。",
+    "constituents_and_structure": "物理学は時空的／関係論的な構造と動態を記述する。現象的あるいは原-現象的なクィディティがこの構造の基底にある。微視的レベルのものでも宇宙的なもの（優先性一元論）でもありうる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的性質および究極的実在の内在的本性。",
+    "distinctive_mechanism_or_principle": "鍵となる原理は、物質の観測されない内在的で範疇的な性質（「クィディティ」）が現象的であるという存在であり、これにより関係の物理的存在論を拡張することなく意識を根本的実在に基礎づける。",
+    "dynamics_of_emergence": "意識は根本的な現象的／原-現象的性質の結合を通じて生じる。この過程は、微視的性質がいかにして複雑な巨視的経験を生むかという「結合問題」の解決に依拠する。",
+    "location_and_distribution": "根本的な微視レベルの物理的存在の内在的性質に位置するか、あるいは宇宙全体によって具現化されうる（優先性一元論）。",
+    "causation_and_functional_role": "意識を物理的世界の根本的性質へと埋め込むことで二元論の因果排除問題を回避する。すなわち意識は物理的実在そのものの基底にある。",
+    "integration_or_binding": "統合は、微視物理的な現象的性質を複雑で統一された巨視的経験へと結合する機構（「結合問題」）を通じて生じねばならない。",
+    "information_flow_or_representation": "情報の流れの機構を詳述するというより、主として物理的な関係／構造の基底にある内在的本性（クィディティ）に焦点を当てる。",
+    "evolutionary_account": "この理論は、とりわけ意識が進化する系において、意識が原-現象的性質から進化する変種を許容する。",
+    "core_claims_and_evidence": [
+      "物理学は実在の関係論的構造のみを記述する。",
+      "根本的な物質の内在的本性（クィディティ）は経験科学にはアクセス不能である。",
+      "これらの内在的性質は現象的あるいは原-現象的である。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／概念的。内在的性質に関するその根本的主張は、一般に経験的アクセスや数理的モデル化を超えている。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "主要な課題は結合問題であり、これは決定的である。すなわち、微視物理的性質がいかに結合して複雑で統合された巨視レベルの意識を形成するかを説明することである。汎原-心論が想定される場合、原-現象的性質から意識（クオリア）を導出する問題に直面する。",
+    "open_questions_and_limitations": "この理論が心身問題の最も有望な解となるには、結合問題の首尾よい解決が必要である。「不可知なもの」の具体的な本性（現象的、原-現象的、物理的、あるいは中立的）は、依然として主要な内部論争である。",
+    "ontological_coherence": "意識を根本的実在へと統合し、二元論が直面する相互作用問題を事実上解決するため、形而上学的に高度に整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "おそらく肯定",
+      "rationale": "意識が物質／エネルギーに内在的であり、結合問題が技術的に活用されうるのであれば、物理的基盤から構築された人工システムは意識を実現するはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "条件付き",
+      "rationale": "個体の意識（巨視的な結合）は生物学的死とともにおそらく消散するため、結合機構が保存されるか、あるいはこの理論が宇宙的一元論の見方と一致するのでないかぎり、個体としての意識的集積の存続はありそうにない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "ありうる",
+      "rationale": "一元論は一般に究極的な意味／目的／価値を許容する。ラッセル的一元論が意識の進化を伴う優先性一元論の形をとるならば、宇宙的な目的が含意されうる。"
+    },
+    "virtual_immortality": {
+      "stance": "おそらく肯定",
+      "rationale": "単一の素材から成る実在は、先進技術が微視心的性質を操作・活用して巨視的な意識的集積をデジタル的に正確に再現できるかぎり、仮想的不死を許容するはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "重複"
+      },
+      {
+        "name": "Panprotopsychism",
+        "relationship": "変種"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Materialism/Physicalism",
+        "relationship": "総合"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is Russellian Monism?, T. Alter and Y. Nagasawa",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Russellian Monism, T. Alter and D. Pereboom",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2016
+      }
+    ]
+  }
+}

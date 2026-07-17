@@ -1,0 +1,103 @@
+{
+  "id_and_class": {
+    "theory_title": "臨界脳仮説",
+    "summary": "臨界脳仮説は、神経ネットワークが相転移の臨界点の近くで作動し、秩序ある活動とランダムな活動の間で均衡するときに最適に機能すると示唆する。この臨界状態は、複雑で情報に富むパターンを生む脳の能力を最大化し、計算・伝達・貯蔵を最適化する。",
+    "associated_thinkers": [
+      "John Beggs",
+      "Per Bak"
+    ],
+    "category": "唯物論の諸理論",
+    "subcategory": "計算論的・情報的",
+    "core_identity_tagline": "最適な神経ネットワークの臨界性としての意識",
+    "classification_tags": [
+      "neural networks",
+      "criticality",
+      "information processing",
+      "phase transition",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、複雑な情報処理を生む能力を最大化する、神経ネットワークの最適な組織化状態(臨界性)と同定されるか、それに根本的に依存する。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一性／相関(意識と脳の臨界的な力学的状態のあいだの)。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性と志向性は、脳が臨界性で作動するときに利用可能となる最大化された複雑性と情報容量によって可能となる。この理論は高次認知の機能的前提条件に焦点を置く。",
+    "qualia_account": "明示的には扱われない。クオリアはおそらく、臨界点で生成される最大限に複雑で情報に富むパターンの帰結あるいは側面として扱われ、その基礎的な唯物論的・計算論的原理と一貫する。",
+    "ontological_commitments": "神経ネットワーク、結合強度、情報パターン、そして相転移を統べる物理法則(統計力学)。",
+    "epistemic_access": "経験的探究、とりわけ数学的モデル化、物理学(統計力学)、そして脳における神経発火パターンとネットワーク動態を計測する実験を通じてアクセスされる。",
+    "constituents_and_structure": "特定の結合強度によって特徴づけられ、動的に「アバランチ(雪崩)」あるいは多数の中程度の大きさの安定した神経集成体を形成する神経ネットワーク。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの(含意される)、計算、情報の貯蔵・伝達、ネットワークの組織化。",
+    "distinctive_mechanism_or_principle": "相転移の臨界点における最適な作動であり、複雑性を最大化し、結合性を均衡させ(弱すぎず強すぎず)、自己組織化臨界性を通じて達成される。",
+    "dynamics_of_emergence": "意識は動的過程であり、脳が臨界点の周りで絶えず不安定に揺れ動き、不活性・ランダムな状態と過活動・発作的な状態のあいだの相転移を管理することによって特徴づけられる。",
+    "location_and_distribution": "神経ネットワークに所在し、とりわけ皮質で観測される。",
+    "causation_and_functional_role": "複数の情報処理課題を同時に最適化し、最大数の安定した神経集成体の形成を可能にすることによって情報貯蔵を最大化することを含む。",
+    "integration_or_binding": "臨界性におけるネットワークの均衡した複雑性を通じて達成され、多数の中程度の大きさのニューロン群が一つの巨大な集成体へ合体することなく結合することを許す。",
+    "information_flow_or_representation": "臨界状態は情報の伝達容量を高め、最大限に複雑で情報に富む活動パターンを生み出す。",
+    "evolutionary_account": "含意される。意識・最適なネットワーク組織は、生存にとって決定的な情報処理容量と複雑性を最大化することがもたらす相当な適応的優位ゆえに進化した。",
+    "core_claims_and_evidence": [
+      "神経ネットワークは臨界点の近くで作動するときに情報処理と複雑性を最大化する。",
+      "臨界状態は秩序ある活動とランダムな活動を均衡させ、過度の減衰や増幅を避ける。",
+      "べき法則に従う神経の「アバランチ」の実験的観測は、脳組織における自己組織化臨界性の考えを支持する。",
+      "(睡眠遮断のような)撹乱は脳を臨界点から遠ざける(超臨界となる)。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的、計算論的、数学的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能。孤立したネットワークと無傷の脳に対する実験が行われており、この理論の予測の多くを支持すると主張される。",
+    "known_empirical_interventions_or_tests": [
+      "神経ネットワークにおける神経の「アバランチ」とべき法則の計測。",
+      "環境的あるいは生理的変化(たとえば睡眠遮断)によって引き起こされる力学的移行(たとえば超臨界性)の観測。"
+    ],
+    "criticisms_and_tensions": "批判者は、動的な生物学的環境において臨界性がいかに維持あるいは「微調整」されるかに異を唱え、ニューロン間の真の集団的臨界性をランダムなノイズからいかに厳密に区別するかを問う。",
+    "open_questions_and_limitations": "未解決の問題には、脳が臨界性を維持すべく自らを微調整するメカニズムと、集団的相互作用に由来する真の臨界性とノイズから生じる見かけの臨界性の厳密な区別が含まれる。",
+    "ontological_coherence": "唯物論的・計算論的存在論ときわめて整合的であり、物理的動態を認知的最適化に結びつける数学的に厳密な枠組みを提供する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "意識がネットワークにおけるこの最適な計算状態(臨界性)の達成から生じ、その過程が計算的規則と組織化によって数学的に定義されるならば、類似の動態を実装しうる人工的な系において再現可能なはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "唯物論に分類される理論として、意識は生物学的な神経ネットワークの特定の物理的組織化と動態に本来的に依存する。存続にはこの物理的構造の維持が要される。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "意識は機能的に最適で創発的な生物学的現象(情報処理容量の最大化)として理解され、その目的は宇宙的あるいは究極的な目的論を伴わず純粋に適応的なものであると示唆する。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "意識がネットワークの臨界的な情報処理の動態と構造によって定義されるので、これらのパターンを(機能的構造をアップロードして)臨界性を保ちうる適切な非生物学的媒体へ複製すれば、仮想的不死を可能にするはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Entropic Brain Hypothesis",
+        "relationship": "両立的・重なり"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "範疇・拡張"
+      },
+      {
+        "name": "Complex Adaptive Systems Models",
+        "relationship": "重なり・範疇"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "When does the brain operate at peak performance?, John Beggs",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Brains may teeter near their tipping point, Jennifer Ouellette",
+        "year": 2018
+      }
+    ]
+  }
+}

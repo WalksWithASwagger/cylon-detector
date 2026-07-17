@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "瞑想と脳",
+    "summary": "このアプローチは、瞑想を、脳活動における測定可能な変化を誘発する意識の変性状態として検討し、意識的状態が特定の脳機能やリズム（例えばアルファ波の変調）と高度に相関するという考えを支持する , 。深いトランス状態における同期の低下といった知見は、脳全体の統合を強調する物理主義的理論に経験的制約を提供する , 。",
+    "associated_thinkers": [
+      "Catherine Kerr",
+      "Anne Trafton",
+      "Madhav Goyal",
+      "Shayla Love"
+    ],
+    "category": "変則的・変性状態",
+    "subcategory": "変性状態",
+    "core_identity_tagline": "変性した脳リズムと相関する意識",
+    "classification_tags": [
+      "neurobiology",
+      "altered states",
+      "brain synchronization",
+      "EEG"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳活動の動的変化との測定可能な相関を通じて、具体的には瞑想実践によって誘発される変性した脳波パターンと神経統合の水準において同定される , 。",
+    "ontological_status": "物理主義（相関的）",
+    "mind_body_relationship": "相関は強い。意識的状態の変化（瞑想）が特定の脳機能の変化（神経リズムと同期／脱同期）と一貫して相関するためである , 。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "主観性は変性状態の一人称的記述（例えば思考の停止）を通じてアクセスされる 。持続的注意のような志向性は、脳リズムの動的な神経調節に直接結びついている 。",
+    "qualia_account": "クオリアは、脳波パターンおよびニューロン統合の水準（ないしその喪失）における特定の測定可能な変化と相関する、あるいはそれによって構成されると想定される , 。",
+    "ontological_commitments": "神経パターン、特定の脳リズム（アルファ波）、そして皮質内の全体的統合／脱同期の状態 , 。",
+    "epistemic_access": "瞑想経験の内省的（一人称的）報告を、生理学的脳活動の客観的（三人称的）測定（例えばEEG）と相関させることによって達成される , 。",
+    "constituents_and_structure": "意識的状態は脳リズム、とりわけ脳領域間の同期（統合）ないし脱同期の動的パターンによって組織される , 。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（変性状態）、アクセス（注意、感覚）、そして統合／統一 , 。",
+    "distinctive_mechanism_or_principle": "原理は、とりわけ感覚皮質におけるアルファ脳リズムの動的で自己調節的な制御であり、それが無関係な感覚情報を抑制し、集中した意識に必要な動的な神経調節を強化する 。",
+    "dynamics_of_emergence": "意識は動的プロセスである。変性状態は、集中した心的実践（瞑想）が脳の同期と特定のリズムを時間をかけて能動的に操作するときに創発する , 。",
+    "location_and_distribution": "一次感覚皮質を含む脳領域を横断する脳波パターンと同期を介して分布し、統一された場ないし統合されたネットワーク活動としての意識という考えを支持する , 。",
+    "causation_and_functional_role": "意識は自己調節と治療的効果（例えば不安の軽減、痛みの軽減）を達成するうえで有用である 。瞑想実践は、認知的効果のために神経活動を動的に調節する機能を果たす 。",
+    "integration_or_binding": "統合／統一は脳全体の同期に結びついている。思考の停止（最高の瞑想状態）は脳全体の同期の低下と相関し、意識が統合された単位として機能することを含意する , 。",
+    "information_flow_or_representation": "情報処理は影響を受ける。アルファ波の制御は無関係な刺激が注意を捉える可能性を減じ、それによって物事が意識に与える影響を調節するためである 。",
+    "evolutionary_account": "このアプローチは現在の脳状態を特徴づけることに焦点を当てており、意識ないし瞑想そのものの起源や適応的役割に関する明示的な系統発生的説明を提供しない。この分野は変性状態を誘発するために進化した脳の能力に依拠している。",
+    "core_claims_and_evidence": [
+      "瞑想は一次感覚皮質においてアルファリズムのような特定の脳波パターンを変性させる 。",
+      "深い瞑想状態（滅尽定、nirodha-samāpatti）は脳全体の同期の低下と相関し、意識を統合に結びつけるモデルと合致する , 。",
+      "マインドフルネスは動的な神経調節を改善し、気を散らす感覚情報の抑制を助ける 。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的、神経生物学的、現象学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "高度に経験的に検証可能",
+    "known_empirical_interventions_or_tests": [
+      "瞑想者におけるアルファ波の変調を測定するEEG／神経画像法 ",
+      "深いトランス、睡眠、麻酔（例えばプロポフォール、ケタミン）における脳の同期の比較研究 "
+    ],
+    "criticisms_and_tensions": "これらの現象は唯物論の諸理論を強く支持するが、根本的な主観的本性（ハードプロブレム）を説明するのではなく、「易しい問題」（神経相関）のみを扱っているとしてしばしば批判される , 。非物理的理論も観察された神経変化と整合しうるため、それらを排除するのは困難である 。",
+    "open_questions_and_limitations": "限界は、神経メカニズムに関する明確な経験的知見にもかかわらず、これらの研究が意識の本質、あるいはなぜ生理学的変化が感じられた主観的経験をもたらすべきなのかについて存在論的な解明を提供しない点にある , 。",
+    "ontological_coherence": "唯物論のパラダイムの内部で高度に整合的であり、意識と統合／同期した脳活動との結びつきを経験的に検証することで、とりわけグローバル・ワークスペース理論や統合情報理論のようなモデルを支持する 。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き／ありうる",
+      "rationale": "意識が、変性した人間の状態に示されるように、同期や統合のような動態に依存するなら、それらの動態を計算的に再現できれば、工学的AIシステムは類似の状態を達成しうる可能性がある 。データ自体はAIの意識を排除しない。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "焦点はもっぱら、意識的状態が生物学的な脳における複雑で測定可能な生理学的活動（例えば神経同期）に依存することにあり、生物学的な死とともに終わることを含意する 。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "瞑想は認知機能を変性させ（例えば痛みの軽減、集中）幸福を高めることで実用的価値を提供するが、基底のメカニズムは意識にとっていかなる究極的な宇宙的目的も示唆しない , 。"
+    },
+    "virtual_immortality": {
+      "stance": "考えにくい",
+      "rationale": "物理的相関は強いものの、この研究は主としてリアルタイムでの生物学的ウェットウェアの操作を扱う。仮想的不死の達成には恒久的な存続のために基底の神経生物学的・リズム的構造の完全な複製が必要であり、それはこの現象だけの範囲を超える前提を要する営みである 。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Psychedelic Theories of Consciousness",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Meditation programs for psychological stress and well-being - a systematic review and meta-analysis, Goyal, Madhav et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Effects of mindfulness meditation training on anticipatory alpha modulation in primary somatosensory cortex, Kerr, Catherine et al.",
+        "year": 2011
+      },
+      {
+        "title_with_names": "What happens to the brain during consciousness-ending meditation?, Love, Shayla",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Benefits of Meditation, Trafton, Anne",
+        "year": 2011
+      }
+    ]
+  }
+}

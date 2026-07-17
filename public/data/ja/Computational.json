@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "計算論",
+    "summary": "心の計算論は、心がコンピュータのように作動すると提唱し、心的状態を、基盤にある物理的基体から独立した、体系的で段階的な指示すなわちアルゴリズムによって定義される機能的役割とみなす。これらの理論は、推論や知覚といった心に似た能力を模倣することによって認知科学の興隆を促した。",
+    "associated_thinkers": [
+      "Nick Bostrom",
+      "James Reggia"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的・情報的",
+    "core_identity_tagline": "アルゴリズムおよび計算としての意識",
+    "classification_tags": [
+      "computation",
+      "functionalism",
+      "AI",
+      "reductionism",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識(あるいは心的状態一般)は、特定の発見可能な種類の計算の遂行と同定される。心的状態は、その内的構成や物質的基体ではなく、その機能的役割あるいは出力によって定義される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一性／機能主義的。心的状態は機能的状態であり、神経組織やコンピュータチップのように情報を処理しうるあらゆる形態の物質において実現(realize)されうる。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。唯物論的枠組みと一貫して、心的性質は高次のものであっても、実際の説明が複雑であるとしても、原理的には基盤にある根本的な計算的・物理的過程へと完全に説明あるいは還元できると想定される。",
+    "subjectivity_and_intentionality": "志向性(思考の方向づけられていること)は、概念を記述するために操作されうる認知的シンボルを通じて説明される。主観性(現象的意識)は依然として難問である。というのも焦点が内的経験ではなく主として外的な機能性と情報処理にあるからである。",
+    "qualia_account": "不確定／デフレ的。この理論は現象的意識の説得力ある実証を提供することに苦慮し、代わりに認知的・行動的相関物を捉えることに焦点を置く。この見解に沿う一部のアプローチはクオリアを幻影的あるいは非整合的なものとして扱うかもしれず、他のものはそれが統合され報告可能な計算的状態に対応すると主張する。",
+    "ontological_commitments": "アルゴリズム、体系的で段階的な指示、チューリングマシン(計算の抽象モデル)、そして情報を実現しうるあらゆる物理的基体。",
+    "epistemic_access": "主として計算的モデル化、シミュレーション、および情報処理能力と行動的相関物の客観的計測を通じて。",
+    "constituents_and_structure": "体系的で段階的な指示のルーチン(アルゴリズム)であり、通例チューリングマシンのような抽象的な計算構造を用いてモデル化される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "アクセス(たとえば情報への全域的アクセス)、記憶、知識構造、知覚、推論、問題解決、言語的理解。現象的意識(クオリア)はしばしば除外されるか未解決の問題として扱われる。",
+    "distinctive_mechanism_or_principle": "特定の種類の計算(アルゴリズム的処理)を遂行することが意識にとって必要かつ十分であるという原理。",
+    "dynamics_of_emergence": "アルゴリズム的・体系的。意識はアルゴリズムを介した情報の体系的処理を通じて生じ、心に似た能力の模倣を可能にする。",
+    "location_and_distribution": "所在は物質的というより機能的である。意識は、生物学的な神経組織であれ非生物学的なコンピュータチップであれ、必要な計算機能が実現されるところに宿る。",
+    "causation_and_functional_role": "心的状態は物理的世界において実現される機能的状態であるため因果的に有効である。その機能的役割は情報処理を組織化し、計画立案・意思決定・問題解決といった能力を可能にすることにある。",
+    "integration_or_binding": "情報の複雑な処理と、知識構造や推論といった認知能力に必要な専門的な計算機能の統合を通じて暗黙的に達成される。",
+    "information_flow_or_representation": "心的状態は抽象的な情報あるいは認知的シンボルであり、思考と理解を生成すべく基盤にある物理的基体によってアルゴリズム的に操作される。",
+    "evolutionary_account": "典拠における中核理論では明示的に扱われないが、意識が神経生物学的複雑性の進化的産物、とりわけ適応的処理と計算のためのものであるという一般的な唯物論的見解と両立する。",
+    "core_claims_and_evidence": [
+      "特定の発見可能な種類の計算を遂行することは意識にとって必要かつ十分である。",
+      "心的状態は、物理的媒体のいかんにかかわらず、もっぱらその出力あるいは機能的役割によって決定される。",
+      "計算的モデル化は意識を科学的に研究するための受容された方法論である。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算論的、哲学的(機能主義)、論理的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能。その方法論は、系が意識的処理の既知の神経生物学的・認知的・行動的相関物をうまくシミュレートするかを評価するために計算的モデル化を用いることを含む。",
+    "known_empirical_interventions_or_tests": [
+      "認知的相関物の計算モデルと機械シミュレーションの開発と検証。"
+    ],
+    "criticisms_and_tensions": "心を「その時代の科学」になぞらえる歴史的な類比として批判される。主要な緊張は説得力ある機械の現象的意識の実証が欠けていることであり、それは機能という「易しい問題」のみを扱い経験という「ハードプロブレム」を無視しているという批判につながる。",
+    "open_questions_and_limitations": "鍵となる未解決の問題は、計算を遂行することが複雑性のいかんにかかわらず、現象的意識(「どのようなものであるか」)を生み出すのに真に十分であるかどうかである。",
+    "ontological_coherence": "還元的物理主義および機能主義の枠組みの内部で整合的であり、あらゆる心的実在が情報処理あるいはアルゴリズム的構造へと還元されうるという前提に依拠する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "計算論的機能主義は意識が正しい種類の計算を遂行することの結果であると措定するため、非生物学的な知能における計算的精緻さの指数関数的成長を踏まえれば、AIの意識は可能であるのみならず不可避である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は基体における物理的あるいは機能的実現に結びついている。伝統的な死後の存続は否定されるが、継続はデジタルな心のアップロード(仮想的不死)を通じてのみ可能である。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "唯物論の理論として、いかなる究極的で宇宙的な意味や目的も支持しない。意味と価値は、意識的存在の複雑な機能から生じる創発的で自己創出的な現象とみなされる。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "意識が純粋に計算的・機能的であるならば(すなわちその本質がアルゴリズム的であるならば)、脳の機能的パターンを非生物学的媒体において完全に複製すれば一人称的な心的自己が保存され、仮想的不死は原理的に達成可能となる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "中核原理"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The computational theory of mind, Michael Rescorla",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The rise of machine consciousness: studying consciousness with computational models, James Reggia",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      }
+    ]
+  }
+}

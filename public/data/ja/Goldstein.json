@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "ゴールドスタインの心身問題論",
+    "summary": "この理論は、意識が完全に脳の物質から成ると主張し、非物質的な状態を退ける。しかしそれは、物理的過程が科学によって完全に分析されうる（外的記述）一方で、人の内的な主観的記述（思考、情動、感じ）はその純粋に物理的な記述からは導出も完全なアクセスもできないという考えに心身問題の中心を据え、根強い説明的ギャップを浮き彫りにする。",
+    "associated_thinkers": [
+      "Rebecca Newberger Goldstein"
+    ],
+    "category": "唯物論",
+    "subcategory": "哲学的",
+    "core_identity_tagline": "「導出不可能な脳の物質としての意識」",
+    "classification_tags": [
+      "explanatory gap",
+      "materialism",
+      "subjectivity",
+      "description"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "内的な思考、知覚、情動、夢、感じの状態を包含する意識は、完全に脳の物質であると同定される。ただし、この脳の物質の主観的で内的な記述は、完全な外的科学的分析にとってはアクセス不可能である。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "意識的状態は脳状態と根本的に同一である（唯物論的同一説）が、主観的（内的）記述の概念的複雑性は、物理的（外的）脳状態の記述的分析からは演繹できない。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発／説明的ギャップ。意識は究極的には物質的だが、その主観的記述は、原理的にすら、物理的基体の客観的記述から導出できない。",
+    "subjectivity_and_intentionality": "主観性は、人であることの「内的記述」（思考、情動、夢）であり、物理的な脳の完全な分析はこれに完全にアクセスしたり記述したりすることができない。志向的状態は完全に脳の物質に基づく。",
+    "qualia_account": "クオリア（感じの状態）は、完全に脳の物質でありながら、科学の純粋に物理的な語彙によって完全には明確化できない、意識的経験の内的記述の側面である。",
+    "ontological_commitments": "物理的な身体と脳。非物質的な状態あるいは実体の明示的な拒絶（二元論を退ける）。",
+    "epistemic_access": "内的記述は主として一人称視点を通じて知られる。たとえば、小説において登場人物を創造するときのように。三人称的な科学的アプローチ（脳の分析）は、この知識へのアクセスにおいて本来的に限界がある。",
+    "constituents_and_structure": "根底にある基本的な物質は「完全に脳の物質」である。中核的な構造は、単一の物質的実在についての物理的／分析可能な記述と、内的／アクセス不可能な記述との間の緊張を中心に展開する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": [
+      "現象的",
+      "志向性"
+    ],
+    "distinctive_mechanism_or_principle": "この原理は、心的なものと物理的なものの存在論的同一性にもかかわらず、人の主観的で内的な記述が、その物理的な身体と脳の完全で客観的な分析から導出できないことを中心に据える。",
+    "dynamics_of_emergence": "焦点は哲学的かつ記述的であり、時間的あるいはシステム的な発達メカニズムではなく、物理的記述と心的記述との間の情報的／概念的分離を強調する。",
+    "location_and_distribution": "もっぱら物理的な身体と脳に位置する。",
+    "causation_and_functional_role": "志向的状態および感じの状態としての意識は、物理的な脳の物質である。唯物論的見解として、心的状態は物理的な脳状態として因果的に有効である。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "哲学的／概念的。中心的主張は、主観性にアクセスするための記述的科学の本来的限界についてのものであり、経験的手段によって反証可能ではない。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "この理論はタイプB唯物論に固有の緊張に直面する。すなわち、意識が完全に物理的であるという存在論的主張を受け入れつつ、主観的経験の本性に関して閉じることができないかもしれない説明的（認識的）ギャップを主張することである。",
+    "open_questions_and_limitations": "第一次的な限界は、たとえ根底にある実在が一元論的であっても、科学が脳状態と一人称的経験の豊かさとの間の記述的ギャップを埋めることが依然としてできないことである。",
+    "ontological_coherence": "タイプB唯物論のような、ハードプロブレムを主として存在論的ではなく認識的なものと認める物理主義的枠組みの内部で高度に整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "この理論は根本的に唯物論的であり非物質的な実体を退けるため、たとえ結果として生じる主観的経験が外的分析にとって不透明なままであっても、計算的あるいは物理的なシステムが必要な「脳の物質」の構成を具現できるならば、AIの意識は原理的に可能であるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は完全に「脳の物質」であり物理的身体から不可分であり、この理論は、しばしば死後の存続と結びつけられる二元論を明示的に退ける。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確定",
+      "rationale": "存在論的には物理主義的だが、この理論が人の還元不可能なほど豊かな内的生に焦点を当てることは、主観性における深遠で内在的な価値を含意する。ただし、それは宇宙的あるいは究極的な目的を要求するものではない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能性が高い",
+      "rationale": "意識的状態が物理的な脳状態（脳の物質）と同一であるならば、それらの物理的状態を新たな媒体へ完全に複製あるいはアップロードすれば、論理的には元の一人称的な心的自己が保存されるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Stoljar’s Epistemic View and Non-Standard Physicalism",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Dualisms",
+        "relationship": "批判"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "対比的見解"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why a Mind-Body Problem?",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is consciousness irreducible?",
+        "year": 2011
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "フェザーの新トマス主義的・新アリストテレス主義的・常識的二元論",
+    "summary": "この二元論的理論は、人間の知性（抽象的概念と推論）が非物質的な能力であり、物質的過程に還元できないと主張する。それは、感覚的性質（クオリア）が外的な物質的世界の客観的性質であるとするアリストテレス的な常識的実在論への回帰を唱えることによって「ハードプロブレム」を解決し、それによって近代の禁欲的で量的な物質観がもたらしたジレンマを解消する。",
+    "associated_thinkers": ["Edward Feser"],
+    "category": "二元論",
+    "subcategory": "新トマス主義的・新アリストテレス主義的・常識的二元論",
+    "core_identity_tagline": "非物質的知性と客観的性質を介した意識",
+    "classification_tags": [
+      "dualism",
+      "aristotelian",
+      "immaterial",
+      "intellect",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、確定的思考を担う非物質的な知的能力と、世界における客観的で質的な性質を知覚する物質的な感覚能力とからなる複合的実在として同定される。",
+    "ontological_status": "二元論（新トマス主義的／新アリストテレス主義的形態）",
+    "mind_body_relationship": "魂は実体的で統一された実在であり、身体の形相として作用する（トマス主義的見解）。知的能力（心的状態の一部）は物質的過程に還元不可能である。この理論は、心身問題を生み出した唯物論的な物質観に異議を唱える。",
+    "primitive_or_emergent_status": "非創発的（知性について）。感覚的性質は客観的実在にとって根本的である。",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "普遍を把握し、確定的で曖昧さのない概念的内容（志向性）を保持する知性の能力は、それが物質的過程に還元不可能であることを必然的に要求する。常識的直接実在論は、我々が世界を実際に現れるがままに知覚することを意味する。",
+    "qualia_account": "質的特徴（色、音、熱のような二次性質）は、外的な物質的対象に内在する実在的で客観的な性質であると論じられ（常識的直接実在論）、デカルト的モデルのようにそれらが非物質的な心のみに位置づけられる必要を排除する。",
+    "ontological_commitments": "非物質的な実体または能力（知性、魂）と、内在的で客観的な質的性質を有する物質的存在者。",
+    "epistemic_access": "主として、思考の本性についての哲学的分析、論理、推論を通じてアクセスされ、常識的知覚（直接実在論）によって支えられる。",
+    "constituents_and_structure": "魂（非物質的知性を含む）が生きた身体の形相であるという質料形相論的複合構造。知的活動は抽象的概念（普遍）を把握することを含む。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "知的活動（推論、確定的思考）、感覚的意識（客観的性質としての現象的クオリア）。",
+    "distinctive_mechanism_or_principle": "思考（論理、数学）における確定的内容の必然性が、知的能力の還元不可能性と非物質性を含意するという論証。",
+    "dynamics_of_emergence": "焦点は創発を記述することではなく、ハードプロブレムをもたらす形而上学的前提を論駁することにある。知性の還元不可能性は、その本性（普遍の把握）が物質的過程（個別を扱う）と根本的に両立しないことに基づく。",
+    "location_and_distribution": "知性は魂と結びついており、魂は非物質的で自存的である。感覚的性質は、脳内だけでなく、世界における外的対象に客観的に位置づけられる。",
+    "causation_and_functional_role": "知性の機能は、思考と概念が確定的で曖昧さのない内容を有することを保証することにより、数学、論理、言語にとって不可欠である。",
+    "integration_or_binding": "経験の統一は、身体に形相を与える実体的で統一された実在としての魂に暗黙のうちに基礎づけられる。（明示的な機構的記述は出典には示されていない。）",
+    "information_flow_or_representation": "知的活動は概念（普遍）を含み、これは心的イメージや感覚（個別）とはカテゴリー的に区別され、それらに還元不可能である。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "ハードプロブレムは、欠陥のある近代的な物質観（ガリレオの誤り）から生じる疑似問題である。",
+      "知的活動は物質的過程に還元できない。なぜなら、この還元は思考における確定的または曖昧さのない内容の存在を不可避的に否定するからである。",
+      "二次性質（色や音のような）は物質の客観的性質であり、常識と整合的である。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、合理主義的、常識的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "主として概念的・論理的に基礎づけられる。論証は、還元的唯物論が確定的思考と両立しないことを示すために用いられる。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "批判者は、神経科学が非物質的知性を必要とせずに最終的には説明的ギャップを埋めるだろうと論じる。この理論は、物質を再定義することによってデカルト的相互作用問題を避けようと試みるものの、心的因果についての整合的な説明を提供しなければならない。",
+    "open_questions_and_limitations": "非物質的知性がいかにして物理的な脳と相互作用するのかという精密なメカニズムは、依然として大部分が説明されていない（相互作用問題）。",
+    "ontological_coherence": "その新トマス主義的／新アリストテレス主義的枠組みの内部では高度に整合的であり、伝統的唯物論とデカルト的二元論との間の誤導的な二分法を解決すると論じる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "おそらく否",
+      "rationale": "知性（確定的思考と抽象的概念に必要とされる）が根本的に非物質的であり、物質的過程に還元不可能であるならば、純粋に計算的／物質的なAIは、この理論が記述する完全な人間の意識を具現することはできない。"
+    },
+    "survival_beyond_death": {
+      "stance": "肯定",
+      "rationale": "魂は非物質的で自存的な存在者として定義され、身体とは別に、それ自身で存在し認知機能を行使することができる。ただし、これは魂にとって不自然なものと見なされる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "肯定",
+      "rationale": "思考、論理、知的普遍における確定的内容の保存は、魂への存在論的コミットメントと相まって、唯物論的ニヒリズムを避ける非収縮的な意味観を含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "仮想的不死は計算論的機能主義に依拠する。フェザーは知的意識が物質的過程に還元できず、それによって説明もできないと論じるため、完全な人間の自己をデジタルにアップロードすることはできない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Stump’s Thomistic Dualism", "relationship": "両立的" },
+      { "name": "Cartesian Dualism", "relationship": "批判" },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "批判"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "批判" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Aristotle, call your office, Edward Feser",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Chomsky on consciousness, Edward Feser",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Non-cartesian substance dualism and materialism without reductionism, Eleonore Stump",
+        "year": 1995
+      }
+    ]
+  }
+}

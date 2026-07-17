@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "ライカンのホムンクルス的機能主義",
+    "summary": "この理論は、意識が全面的に物理的かつ機能的であり、階層的に組織された情報処理システムから成ると主張する。意識は特に二階の表象から生じ、システム自身の下位の心的状態へと向けられた内的感覚メカニズムとして機能する。",
+    "associated_thinkers": ["William Lycan"],
+    "category": "唯物論",
+    "subcategory": "表象主義的",
+    "core_identity_tagline": "「二階表象と内的注意としての意識」",
+    "classification_tags": [
+      "functionalism",
+      "representationalism",
+      "higher-order",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識（心）は情報処理システムの機能的組織として同定され、志向性と心的状態の二階表象によって全面的に説明される。クオリアはこれらの表象の志向的内容と同定される。",
+    "ontological_status": "還元的物理主義／唯物論。ライカンは全般的に唯物論を擁護する。",
+    "mind_body_relationship": "同一説、とりわけ機能主義（あるいは目的機能主義）であり、心的状態はその物理システム内での機能的役割によって定義される。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。現象的本性は機能的・表象的な事実によって汲み尽くされると論じる唯物論的説明であり、心的なものは基底の物理的プロセスから生じ、それによって全面的に説明可能であることを含意する（唯物論を困窮させないために必要な立場）。",
+    "subjectivity_and_intentionality": "志向性（「～についてであること」）と機能的組織が心／意識を全面的に説明する（「表象の覇権」）。主観性は、下位状態へと向けられた内的注意メカニズムの働きから生じる（内的感覚説）。",
+    "qualia_account": "質的特徴（クオリア）は表象的に解釈される。それらは経験の志向的対象（表象されるもの）であり、非物理的ないし非表象的な「心的斑点」は一切関与しないことを意味する。クオリアは、関連する心的状態の志向的／表象的本性によって汲み尽くされる。",
+    "ontological_commitments": "物理的構成要素（非物理的な部分や性質は存在しない）、機能的に組織された情報処理システム、志向的内容、そして二階の心的状態。",
+    "epistemic_access": "意識は内省（言表不可能で微細粒度の視点依存的な事実をもたらし、「説明のギャップ」を説明する）と、脳の機能的組織および表象的能力の三人称的な科学的モデリングを通じて知られる。",
+    "constituents_and_structure": "人間は階層的に構成された志向的システム（ホムンクルス的組織）であり、その表象的能力は生物学的機能の観点から理解される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（表象的に説明されるもの）、気づき、そして特権的アクセス。",
+    "distinctive_mechanism_or_principle": "下位の心的状態へと向けられた内的注意メカニズムの働き。それが意識を二階表象として作り出す（内的感覚説）。",
+    "dynamics_of_emergence": "意識は脳の生物学的機能と機能的組織において実現される動的な性質であり、心を名詞（もの）ではなく動詞（プロセス）とみなす見解と整合的である。",
+    "location_and_distribution": "脳内に、とりわけ下位の心的状態へと向けられた内的注意メカニズムに局在する。",
+    "causation_and_functional_role": "心的因果は、心的状態の機能的役割を通じて暗黙のうちに主張される。意識は内的注意／内的感覚システムとして機能し、一階の心的状態の二階表象を提供する。",
+    "integration_or_binding": "経験の統合ないし統一は、心的状態の二階表象を支える機能的組織を介して暗黙のうちに達成される（具体的な結合メカニズムの詳細は典拠の抜粋では目立たないが、機能的組織に依拠する）。",
+    "information_flow_or_representation": "情報処理が中心的であり、意識は機能的に組織された情報処理システムの観点から記述される。「表象の覇権」とは、志向性と表象が中核的な説明要素であることを意味する。",
+    "evolutionary_account": "この理論は、唯物論的・機能主義的枠組みに共通する進化論的説明と全般的に両立可能であり、表象と意識を担う機能的組織が適応的目的のために進化したと想定する。ただし具体的な系統発生的詳細は典拠に示されていない。",
+    "core_claims_and_evidence": [
+      "意識は機能的組織と二階表象によって余すところなく説明される。",
+      "クオリアは志向的対象（表象されるもの）であり、その本性は表象的内容によって汲み尽くされる。",
+      "知覚される「説明のギャップ」は実在するが、それは現象的事実の言表不可能で微細粒度の本性ゆえであって、唯物論の失敗によるものではない。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的擁護（唯物論／機能主義の擁護）と概念分析。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に、そして原理的に経験的に検証可能。現象的本性が機能的／表象的役割によって汲み尽くされるなら、それらの役割の十全な神経科学的／計算的実証で十分なはずである。もっともライカンは唯物論に対する諸論証の哲学的性質を強調する。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "現象的性格が表象的性格によって汲み尽くされると論じることで知識論証（メアリーの思考実験）を反駁しようとするライカンの試みは、批判者に退けられている。批判者は、機能的役割が経験の質的側面を真に捉えられるのかを問う。",
+    "open_questions_and_limitations": "中核的な限界は、クオリアを表象的／機能的内容へ還元することが現象的な謎を真に解消するのだと、懐疑論者（撤回前のジャクソンなど）を納得させることにある。",
+    "ontological_coherence": "物理主義的／唯物論的存在論の内部で高度に整合的。意識的経験（クオリアを含む）を機能的・表象的役割と同定することで、それが物理主義と完全に両立可能であることを明示的に示そうとする。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可",
+      "rationale": "機能主義的理論として、人工システムが必要な機能的組織と二階の表象能力を実現できるなら、それらは原理的に意識的でなければならない。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "この理論は厳格に唯物論的であり、意識は機能的に組織された物理的な脳の内部で全面的に実現されると措定する。したがって身体の死後に存続することはできない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "その唯物論的基盤と整合的に、意識は志向性と行為主体性を可能にし、生物学的システム自身が作り出す意味を提供するが、いかなる究極的な宇宙的目的も含意しない。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "意識は機能的組織と表象的内容によって定義されるため、神経パターンと経路を非生物学的媒体へ完全に機能的に複製（アップロード）すれば、原理的に一人称的な心的自己が保存されるであろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories of Consciousness",
+        "relationship": "重複／拡張"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "拡張／対比"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "分類／基盤"
+      },
+      {
+        "name": "Jackson’s Representationalism and the Knowledge Argument",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Consciousness and Experience",
+        "year": 1996
+      },
+      {
+        "title_with_names": "The Plurality of Consciousness",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Representational theories of consciousness, W. G. Lycan",
+        "year": 2019
+      }
+    ]
+  }
+}

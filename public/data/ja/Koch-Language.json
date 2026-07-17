@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "意識は言語に依存しないというコッホの理論",
+    "summary": "本理論は、現象的意識、すなわち基本的な内的経験が、言語能力から機能的に独立していると主張する。それは、言語能力が重度に損なわれあるいは失われながらも根本的な気づきが保持される臨床例によって支持され、基本的な感受性が多くの非言語的動物と共有される広く分布した性質であるという結論へと至る。",
+    "associated_thinkers": ["Christof Koch"],
+    "category": "唯物論の理論",
+    "subcategory": "言語との関係",
+    "core_identity_tagline": "意識は言語から独立している",
+    "classification_tags": [
+      "phenomenal consciousness",
+      "language",
+      "neurobiology",
+      "animal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は脳における物理的／生物学的現象と同一視され、その根本的なメカニズムは記号的な言語処理とは区別され、それから独立している。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "心（基本的な現象的意識）は、言語過程とは別個の物理的な脳の過程に結びついている。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "基本的な主観性（感受性）は言語なしでも保持される。言語は「物語の中心」としての自己に多大に寄与し、それが主観性の高次の側面を構成する。",
+    "qualia_account": "クオリア（基本的な内的経験）は非言語的な存在体に存在し、記号的能力から独立している。",
+    "ontological_commitments": "生物学的脳と、基本的な気づきを生み出す根底にある物理的メカニズム。",
+    "epistemic_access": "三人称的観察、とりわけ言語の喪失と意識の保持のあいだの解離を示す臨床例を通じてアクセスされる。",
+    "constituents_and_structure": "意識は、言語と内言に専用の大脳構造から独立した物理的な脳のメカニズムから生じる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（基本的な内的経験）および感受性。",
+    "distinctive_mechanism_or_principle": "解離の原理。意識に必要十分な神経基盤（NCC）が、言語の神経相関物とは区別される。",
+    "dynamics_of_emergence": "基本的な意識は、人間の言語的複雑性から独立して進化した生物学的過程の産物である。",
+    "location_and_distribution": "生物学的脳に位置づけられる。言語能力にかかわらず、諸種（例えばすべての哺乳類）にわたって広く分布する。",
+    "causation_and_functional_role": "基本的な意識は言語機能から独立して作動する。言語の役割は主として、自己感のような高次の人間的機能を高めることにある。",
+    "binding_and_unity": "基本的な現象的経験の統一は、非言語的な物理的ないし神経的メカニズムを通じて達成されねばならない。",
+    "information_flow_or_representation": "生の経験に関わる情報処理は、記号的な言語表象を要さない。",
+    "evolutionary_account": "意識は人間の言語能力に先立って進化した。これは非言語的動物にそれが存在することによって証拠づけられ、その適応的役割が言語に依存しないことを示唆する。",
+    "core_claims_and_evidence": [
+      "意識は言語に依存しない。",
+      "脳損傷の臨床例は、言語が失われても意識が保持されることを示す。",
+      "感受性はすべての哺乳類と共有されており、人間だけが何かを経験するという人間中心主義的見解を退ける。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的、臨床的、哲学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "非言語的動物の神経科学的研究、および失語症状態にもかかわらず持続する気づきを示す脳外傷患者についての臨床研究を通じて経験的に検証可能である。",
+    "critiques_and_challenges": "コッホは言語と意識を結びつける古典的見解に反論するが、現代の科学的合意はすでに、基本的な意識が言語を要さないことで一致している。",
+    "open_questions_and_limitations": "本理論は意識が何に依存し*ない*か（言語）を確認するが、意識のハードプロブレム（すなわち現象的経験が文字どおり何であるか）についての積極的な解決を提供しない。",
+    "ontological_coherence": "唯物論の範疇の内では高度に整合的であり、とりわけ基本的な気づきを複雑で言語に媒介された自己意識から区別する論証にとってそうである。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "言語は意識に必要ではないため、AIの言語能力（大規模言語モデル）は無関係である。AIの意識は、必要な非言語的な物理的基盤が人工システムにおいて複製されうるか否かに全面的に依拠する。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "その唯物論的分類と整合的に、意識は物理的基盤（脳）に結びついており、生物学的死後に持続しえない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "意識は自己が言語を介して物語の中心として機能することを可能にし、人間が作り出す意味を許すが、根底にある物質的実在は究極的な宇宙的目的が存在しないことを示唆する。"
+    },
+    "virtual_immortality": {
+      "stance": "条件付き",
+      "rationale": "意識が言語から切り離されるならば、焦点は基本的な気づきの非言語的で物理的な基盤を複製することへと全面的に移る。この特定の非言語的な神経構造が複製されうるならば、仮想的不死は可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "批判"
+      },
+      {
+        "name": "Searle’s Language and Consciousness",
+        "relationship": "批判"
+      },
+      {
+        "name": "Andrews’s Consciousness Without Complex Brains",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Smith’s Language as Classifier of Consciousness",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t Be Computed",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Consciousness doesn’t depend on language, Christof Koch",
+        "year": 2019
+      }
+    ]
+  }
+}

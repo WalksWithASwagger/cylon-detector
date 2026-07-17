@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "性質二元論",
+    "summary": "性質二元論は、物理的実体が唯一の根本的な実体でありながら、還元不可能な二つの範疇の性質、すなわち物理的性質と心的性質が存在すると主張する。意識的経験のような心的性質は、物理的な脳によって生成されるが、物理的性質のみに還元されることも、それのみによって完全に説明されることもできない。",
+    "associated_thinkers": [
+      "David Chalmers (for Naturalistic Dualism, a variant); historically influenced by numerous philosophers seeking to preserve mental reality within a monist substance framework."
+    ],
+    "category": "二元論",
+    "subcategory": "性質二元論",
+    "core_identity_tagline": "一つの実体、二つの還元不可能な性質（心的なものと物理的なもの）",
+    "classification_tags": [
+      "irreducible properties",
+      "non-reductive",
+      "physicalism",
+      "dualism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、物理的性質に根本的に還元不可能な心的性質あるいは側面（例：思考、概念、観念）から成る。ただし両者はともに物理的システム（脳）によって例化される。",
+    "ontological_status": "（実体については）物理主義／（性質については）性質二元論。",
+    "mind_body_relationship": "心（心的性質）は還元不可能であり物理的性質から存在論的に区別されるが、完全に物理的状態（脳）によって生成される。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発（心的性質は原理的に還元不可能であり、物理法則のみによっては説明不可能であるため）。",
+    "subjectivity_and_intentionality": "主観性（一人称の現象的経験）は、物理的な人間という人格の本来的で還元不可能な性質／側面として生じる。志向性は暗黙のうちに根本的な心的性質／側面の一つとして含まれる。",
+    "qualia_account": "クオリア（質的に感じられる経験）は、微視物理的性質のみによって純粋に定義されることに抵抗する還元不可能な心的性質である。",
+    "ontological_commitments": "物理的実体（物質）と還元不可能な心的性質（思考、概念、観念を含む）。",
+    "epistemic_access": "物理的基盤（脳）についての三人称の観察と、創発的性質（主観性）についての一人称の内省の双方を通じてアクセス可能である。",
+    "constituents_and_structure": "物理的実体は根本物理学の構成要素から成り、複雑な構造（脳）へと組織化され、それが心的性質を生成する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的性質、思考、概念、観念。",
+    "distinctive_mechanism_or_principle": "心的性質の還元不可能性の原理。現象的側面が物理的性質から区別されるとする。",
+    "dynamics_of_emergence": "心的性質は、物理的物質が一定の複雑性の水準（すなわち脳）に達したときに生じる。",
+    "location_and_distribution": "物理的対象（人間という人格／脳）に局在する。",
+    "causation_and_functional_role": "心的性質は因果的に有効であり、物理的世界に影響を及ぼす（付随現象説と対照的な立場）。",
+    "integration_or_binding": "明示的には詳述されていない。統合は、統一された心的性質／側面を生み出す物理的な脳の構造の内部で生じると推定される。",
+    "information_flow_or_representation": "心的性質／側面は概念と観念を含み、複雑な情報的／表象的処理への関与を含意する。",
+    "evolutionary_account": "明示的には詳述されていない。性質の創発は、それらを生成しうる生物学的複雑性の進化に依存する。",
+    "core_claims_and_evidence": [
+      "人間という人格は、根本的な物理的構成要素から成る完全に物理的な対象である。",
+      "心的性質（例：現象的意識）は物理的な脳によって生成されるが、物理的性質のみには還元不可能である。",
+      "スーパーヴィーニエンスの潜在的な破綻は、可想性の議論（例：哲学的ゾンビ）を通じて示される。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的（純粋に還元的な物理主義の見かけの不十分さを扱う）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的／哲学的（検証可能性は、哲学的ゾンビのような反事実的シナリオの論理的可能性とその含意にかかっている）。",
+    "known_empirical_interventions_or_tests": "物理的に識別不可能な「ゾンビ」や、色スペクトルが逆転した人（スーパーヴィーニエンスの破綻）を含む思考実験。",
+    "criticisms_and_tensions": "スーパーヴィーニエンスが破綻するならば、まさに同一の微視物理的状態からいかにして異なる心的状態が生じるのかを明らかにしなければならない。批判者は、性質二元論の動機は最終的に実体二元論へと至ると論じる。",
+    "open_questions_and_limitations": "心的性質が物理的な脳に因果的影響を及ぼす正確な手段（心的因果）は依然として論争的であり、明確化を要する。",
+    "ontological_coherence": "内的一貫性は高いが、還元不可能な性質が一元論的な物理的世界のみから生じ、その内部で因果的に有効でありうるということを厳密に維持する点で緊張に直面する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "非生物学的システムが、記述された還元不可能な心的性質を生成するのに必要な特定の複雑な物理的組織を例化できるならば、AIは意識的でありうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は物理的な脳によって生成される性質から成る。これらの性質は、死とともに物理的実体（脳／身体）が崩壊するときに存在しなくなる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "言明なし／中立",
+      "rationale": "この理論は存在論的範疇と性質の関係に焦点を当てる。根本的に物理的な実体を受け入れ、宇宙的目的論を本来的に支持しはしない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "意識が特定の物理的組織の創発的性質であるならば、その完全な物理的状態（脳の構造）を非生物学的基体において複製すれば、同一の心的性質が生成されるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "重複／両立可能（しばしば同義あるいは密接に関連するものとして扱われる）"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "批判／対比（実体の二元論を斥けるが、性質の二元論は維持する）"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判／対比（性質二元論は付随現象説とは異なり、心的状態に因果的有効性を認めるのが一般的である）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Dualism in the Philosophy of Mind, Dean Zimmerman",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Mind-Body Problem and Metaphysics: an Argument from Consciousness to Mental Substance, Ralph Weir",
+        "year": 2023
+      }
+    ]
+  }
+}

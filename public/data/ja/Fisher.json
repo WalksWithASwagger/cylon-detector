@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "フィッシャーの量子認知説",
+    "summary": "この理論は、核スピンを伴う量子処理が脳内で作動しており、その機能にとって鍵であり、意識の生物学的メカニズムとして働くと提案する。それは、リン核スピンがポスナー分子によって保護される量子ビット（神経量子ビット）として作用し、神経活動に影響を及ぼすのに必要な量子もつれを可能にすると仮定する。",
+    "associated_thinkers": [
+      "Matthew Fisher"
+    ],
+    "category": "量子理論",
+    "subcategory": "量子認知",
+    "core_identity_tagline": "核スピン量子処理としての意識",
+    "classification_tags": [
+      "quantum",
+      "neurobiology",
+      "materialist",
+      "qubit",
+      "entanglement"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、生物学的量子ビット（リン核スピン）と長寿命のもつれを利用する量子処理の結果として同定され、これが神経通信に根本的に影響を及ぼす。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一説。意識は物理的過程であり、生物学的基体内の特定の低レベルの量子力学的相互作用に由来する（あるいはそれと同一である）。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。意識は、量子力学的過程を可能にする複雑な生物学的構造から生じ、その過程は既知の根本的物理原理によって支配される。",
+    "subjectivity_and_intentionality": "この理論は意識に必要な根底的な物理的基体に焦点を当てるが、この量子メカニズムがいかにして主観的な感じや志向性を生成するのかを明示的に詳述しない。これらの性質は、必要な量子処理機能が達成されれば生じると暗黙のうちに想定される。",
+    "qualia_account": "出典資料は意識に必要な物理的メカニズム（量子ビット、もつれ）を詳述するが、質的な感じ（クオリア）がいかにしてこれら特定の量子生物学的過程から生じ、あるいはそれに対応するのかについての明示的な説明は提供しない。",
+    "ontological_commitments": "リン核スピン（神経量子ビットとして）、リン酸イオン、ポスナー分子（リン酸カルシウムクラスター）、量子もつれ、神経発火率。",
+    "epistemic_access": "科学的探究、とりわけ物性物理学、量子生物学、および脳内の量子力学的相互作用のモデル化を通じてアクセス可能。",
+    "constituents_and_structure": "基本的な構成要素はポスナー分子内に収められたリン核スピン（量子ビット）であり、もつれと、それに続く大規模神経ネットワーク活動に影響を及ぼす非局所的相関を可能にするように組織化されている。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、脳機能、神経量子処理。",
+    "distinctive_mechanism_or_principle": "神経量子ビット（ポスナー分子内のリン核スピン）の量子もつれに続く量子測定であり、これがカルシウムイオン放出へと転換し、神経伝達物質の放出とニューロンの発火に影響を及ぼす。",
+    "dynamics_of_emergence": "意識は、量子もつれ（ポスナー分子によって保護される）と客観的収縮（測定／崩壊）のサイクルから生じる動的過程であり、これが古典的な神経信号を変調する。",
+    "location_and_distribution": "特定の分子構造（ポスナー分子）と、それに続く脳内ニューロンのミクロレベルの動態への効果に局在する。",
+    "causation_and_functional_role": "神経量子処理のメカニズムを提供し、そこでは量子測定事象（ポスナー分子の結合と融解）がカルシウムイオンの放出を引き起こし、シナプス後ニューロンの発火を増強する。",
+    "integration_or_binding": "統合は、複数のポスナー分子のもつれから生じる神経発火率の非局所的量子相関を介して達成される。",
+    "information_flow_or_representation": "情報は量子メモリ（ポスナー分子）ともつれの中に符号化・格納され、古典的な神経システムへと流れ込む複雑で非局所的な情報処理を促進する。",
+    "evolutionary_account": "出典では明示的に論じられていないが、暗黙のうちに、生物学的進化が、処理と機能の向上のために量子力学を利用しうるシステムを選択したことに依拠する。",
+    "core_claims_and_evidence": [
+      "リン核スピンは、脳内の量子処理のための神経量子ビットとして働く。",
+      "ポスナー分子は、これらの量子ビットを量子メモリとして保護する。",
+      "もつれたポスナー分子は、カルシウム放出を介して神経発火率の非局所的量子相関を引き起こす。",
+      "この理論は、量子処理が意識にとって根本的である場合に必要となる特定の説明的段階を同定する。"
+    ],
+    "basis_of_belief_or_evidence_type": "物性物理学と、新興分野である量子生物学に基づく概念的モデル化。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能／思弁的。この理論は、量子神経科学における将来の経験的検証のための潜在的な生物学的標的と説明的段階を同定できるほど具体的である。",
+    "known_empirical_interventions_or_tests": "この理論を検証または反証したものとして出典に列挙されている特定の経験的介入や検証はない。これまでのところ、その主たる役割は将来の量子生物学研究への概念的指針である。",
+    "criticisms_and_tensions": "出典は、この理論が「その具体的な点において誤っている」可能性があり、大半の意識の量子理論と同様に、物理学者や神経科学者からの懐疑に直面すると指摘する。",
+    "open_questions_and_limitations": "量子ビットとポスナー分子に関する特定の化学的・生物学的詳細は、生物学的に不正確でありうる。このメカニズムが、たとえ脳機能について真であるとしても、現象的意識にとって十分または必要であるかは不明である。",
+    "ontological_coherence": "意識に関連する生物学的計算において量子力学が特定の根本的役割を果たすことを受け入れる、拡張された唯物論的または物理主義的存在論の内部で整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "意識が量子力学とその予測可能な規則性に依拠するならば、量子状態を制御するという技術的課題が克服されうる限り、先進的技術は原理的にAIの意識を創り出しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "この理論は意識を、物理的な脳内の特定の短命な分子的／生物学的構造と過程（リン、ポスナー分子）に厳密に結びつけており、意識が生物学的死とともに停止することを示唆する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "分子的メカニズムに基づく純粋に物理主義的な意識の説明として、この理論は非物理的または究極的な宇宙的意味を導入せず、目的を意識的・生物学的行為者によって創り出されるものに限定する。"
+    },
+    "virtual_immortality": {
+      "stance": "おそらく（不確実性を伴う）",
+      "rationale": "意識のアップロードには、複雑な量子状態を精密に操作・複製できる技術が必要となる。量子力学は規則性によって支配されるが、その内在的な非決定性は、完全な複製可能性についてある程度の不確実性をもたらす。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Poznanski’s Dynamic Organicity Theory",
+        "relationship": "両立的"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Matthew Fisher, Quantum cognition: the possibility of processing with nuclear spins in the brain",
+        "year": 2015
+      }
+    ]
+  }
+}

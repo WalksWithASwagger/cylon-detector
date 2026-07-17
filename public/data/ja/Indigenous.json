@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "先住民の諸宗教における魂",
+    "summary": "このカテゴリーは、世界の先住民の宗教や民俗宗教に見られる多様な魂の概念を集める。これらの信仰は典型的に、多岐にわたる非物理的な魂の構成要素を含み、そのあるものは死とともに消滅すると考えられ、他のものは存続するとされ、伝統的な二元論の諸側面を反映する。",
+    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
+    "category": "二元論",
+    "subcategory": "先住民の諸宗教における魂",
+    "core_identity_tagline": "多岐にわたり、遍在し、時代を超えて存続する魂の信仰",
+    "classification_tags": [
+      "indigenous",
+      "folk religion",
+      "soul belief",
+      "dualism",
+      "anthropology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識ないし「自己」は、物理的身体とは区別される、一つないし複数の霊的ないし非物理的な魂の実体に由来する、あるいはそれから成るものと同一視される。",
+    "ontological_status": "伝統的二元論／多相的スピリチュアリズム。これらの体系は、複数の別個で根源的な存在のカテゴリー（霊的／魂と物質的／身体）を措定する。",
+    "mind_body_relationship": "複雑で、しばしば部分的な、二元論的な相互作用／相関。魂の構成要素は身体に形を与え、あるいはそれを生かすが、特定の魂の構成要素は物理的身体に存続ないし先立ちうるものとされ、独立性を示す。",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "該当なし。魂はしばしば創造者に先立つ、あるいはそれに由来するものとして記述されるため、物質的過程から創発するのではなく根源的な存在とみなされる。",
+    "subjectivity_and_intentionality": "主観性と志向性は非物理的な魂の実体そのものに固有であり、それはしばしば運命を選ぶ（例えばエウェの伝統）、あるいは人格を定義すると信じられている。",
+    "qualia_account": "明示的には定義されていない。焦点は魂の実体の存在と存続にあり、質的経験が霊的な構成要素の内在的性質であることを含意する。",
+    "ontological_commitments": "物理的身体と複数の非物理的な魂の実体（例えば異なる種類の魂、生命の息、身体を離れた霊）。",
+    "epistemic_access": "知識は、体系的な三人称的な科学的観察ではなく、宗教的伝統、文化的知識、個人的信仰、および霊的ないし変容的な経験を通じて接近される。",
+    "constituents_and_structure": "意識ある構造は多岐にわたる魂の種類（例えばガボンのファン族が認める七種類）から成り、しばしば死後の運命に関して階層的ないし機能的な区別をもつ。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "死後の存続、人格的同一性、霊的存在、および運命。",
+    "distinctive_mechanism_or_principle": "霊的起源（創造者に由来する魂）と、特定の物理的ないし儀礼的行為（例えば戦闘、巡礼）を通じた獲得が、魂の創造ないし増強に関わる鍵となる原理である。",
+    "dynamics_of_emergence": "霊的起源。魂はしばしば、受肉の時点から、あるいはそれ以前から存在し、全能の霊ないし至高の創造者に由来するものとして記述される。",
+    "location_and_distribution": "その所在は個別的／個人的であるが、ときに物理的属性（息や血のような）に結びつく。信仰体系そのものは地理的に遍在する。",
+    "causation_and_functional_role": "魂は個体の運命を決定ないし選択し、身体の死を生き延びる構成要素である。",
+    "integration_or_binding": "暗黙的。一個体の内部に複数の魂の種類が存在しうるが、それらが単一の統一された経験へと結びつくメカニズムは詳述されていない。しかしそれらは集合的に人格を定義する。",
+    "information_flow_or_representation": "明示的には論じられていない。これらの概念は、意識の説明的要因としての情報処理の現代的諸理論に先立つ。",
+    "evolutionary_account": "該当なし／霊的起源が生物学的進化に取って代わる。魂はしばしば究極的な源泉に由来し、自然な系統発生的進化と対比される。",
+    "core_claims_and_evidence": [
+      "魂の信仰は広く行きわたり、持続する人類学的データであり、意識研究が認めるべきものである。",
+      "人間の人格は複数の別個の魂の構成要素から成り、同一性の複雑な配置を示唆する。",
+      "魂の特定の部分は物理的死の後も存続し、死後の存続を可能にする。"
+    ],
+    "basis_of_belief_or_evidence_type": "人類学的データ、宗教的伝統、文化史。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／人類学的。古代の信仰体系として、これらの概念は現代の科学的な実験ないし反証の方法の対象とはならない。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "哲学的洗練ないし経験的基礎を欠くとして、主流の研究者からしばしば「前近代的」ないし「前科学的」と分類される。これらの信仰が現代の哲学的二元論を厳密に裏づけるという主張はなされていない。",
+    "open_questions_and_limitations": "さまざまな魂の側面と現象的意識との関係はゆるやかにしか定義されていない。このモデルは、相互作用を説明する現代物理学と両立する因果的メカニズムを提供しない。",
+    "ontological_coherence": "特定の文化的枠組みの内部では内的に整合的であるが、非物理的な実体に依拠するため、物理主義的・唯物論的な存在論的枠組みとは根本的に相容れない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否定する",
+      "rationale": "意識は非物理的な源泉ないし創造者に由来する霊的な構成要素（魂／霊）を要するが、人工システムは本質的にこれを欠くであろう。"
+    },
+    "survival_beyond_death": {
+      "stance": "肯定する",
+      "rationale": "死後の存続は中心的な特徴である。魂のいくつかの構成要素が生物学的身体の死の後も存続すると措定されるためである。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙的／実存的",
+      "rationale": "これらの信仰体系は、先在、創造者からの霊的起源、および個体の運命を支配する包括的な構造を措定することで、究極的な意味を含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "否定する",
+      "rationale": "不死は本来の霊的な魂の存続を通じて達せられるのであり、物理的身体の機能的パターンの技術的複製ないし模擬を介しては得られない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "重複"
+      },
+      {
+        "name": "Historical and Traditional Dualisms",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Soul in Islamic Philosophy",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Soul: concepts in indigenous religions, C. Rivière",
+        "year": 1987
+      },
+      {
+        "title_with_names": "The concept of soul in Chinese folk religion, S. Harrell",
+        "year": 1979
+      }
+    ]
+  }
+}

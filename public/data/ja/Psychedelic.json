@@ -1,0 +1,118 @@
+{
+  "id_and_class": {
+    "theory_title": "意識のサイケデリック理論",
+    "summary": "この研究領域は、サイケデリック薬物によって誘発される状態から得られる意識についての洞察を検討する。提唱者はしばしば、深遠で神秘的な変性経験（例：一体感、自我の溶解）を用いて汎心論や観念論のような非唯物論的見解を支持するが、主流の科学は、関連する神経生物学的データ（脳エントロピーの増大や同期した神経活動のような）を用いて、エントロピー脳仮説のような唯物論的モデルを推し進める。",
+    "associated_thinkers": [
+      "Rupert Carhart-Harris",
+      "Karl Friston",
+      "Peter Sjöstedt-Hughes",
+      "Aldous Huxley"
+    ],
+    "category": "異常状態と変性状態",
+    "subcategory": "サイケデリック意識",
+    "core_identity_tagline": "変性状態の認識論としての意識",
+    "classification_tags": [
+      "altered states",
+      "neurobiology",
+      "phenomenology",
+      "entropic brain",
+      "mysticism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "中心的主張は認識論的である。すなわち意識への攪乱を研究することは、通常の意識の根底にある機構を明らかにする（物理主義的見解）か、あるいは実在の根本的な本性を露わにする（非物理主義的見解）のであって、意識そのものに独自の同一性を措定するのではない。",
+    "ontological_status": "条件付き／混合的存在論。科学的モデルは結果を物理主義的／機能主義的に解釈する（例：エントロピー脳仮説）。主観的経験から導かれる形而上学的解釈はしばしば観念論あるいは汎心論に傾く。",
+    "mind_body_relationship": "二重の解釈。物理主義的モデルは現象的状態を特定の神経力学的攪乱（例：デフォルト・モード・ネットワークの崩壊）の相関物とみなす。非物理主義的見解は、脳がフィルターとして働き、薬物によって一時的に抑制されて非局所的／根本的な意識へのアクセスを許すと措定する。",
+    "primitive_or_emergent_status": "解釈に依存する。物理主義的モデルはサイケデリック状態（高エントロピー）を脳の創発的で変性した動態とみなす。非物理主義的解釈は、薬物が制約を緩め、原初的あるいは根本的な意識を露わにすると示唆する。",
+    "emergence_type": "弱いあるいは強いと明示的には標識されていない。現象学的変化は、脳における高エントロピーあるいはカオス的動態（臨界性）の状態への動的な移行（相転移）として特徴づけられる。",
+    "subjectivity_and_intentionality": "主観性は劇的に変化し、しばしば自我の溶解、統一（一体感）、時間知覚の変化を含む「計り知れないほど豊かな経験的状態」を特徴とする。これらの強烈な一人称の経験が研究と解釈の中心的な焦点である。",
+    "qualia_account": "クオリアは増強され質的に変化する（例：爆発する色彩、深遠な霊的感覚）。これらの経験は純粋に量的な理論の説明能力に挑戦するものの、そもそもなぜクオリアが何かとして感じられるのかという「ハードプロブレム」を本来的に解決しはしない。",
+    "ontological_commitments": "神経生物学的なもの：神経化学的変化、変化した神経振動パターン、デフォルト・モード・ネットワーク（DMN）活動の低減。形而上学的解釈は根本的な意識、非局所的な領域、あるいは霊的存在にコミットする。",
+    "epistemic_access": "二重のアクセス。一人称の現象学的報告（根本的な主観的変化のため必要）が、三人称の客観的な経験的データ（神経画像法と生理学的測定）と相関づけられる。",
+    "constituents_and_structure": "変化した動態は、複雑でカオス的な神経活動（高エントロピー）と、しばしばデフォルト・モード・ネットワークのような大規模ネットワークの脱同期を特徴とする。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（質的な変化と増強）、自己意識（自己／自我の溶解）、情動と神秘的経験。",
+    "distinctive_mechanism_or_principle": "神経伝達物質を介した高次の信念／事前分布の調整（REBUSモデル）であり、これが脳エントロピーの増大とカオス的（臨界的）動態をもたらし、原初的あるいは第一次的な意識状態に類似する。",
+    "dynamics_of_emergence": "薬理学的介入を介した、制約された低エントロピーの覚醒状態（臨界性のわずかに下で作動する）から、解放された高エントロピーの第一次的状態（臨界性の近傍で作動する）への動的な移行。",
+    "location_and_distribution": "脳全体にわたり、同期した神経振動パターンの特定の変化と、デフォルト・モード・ネットワーク内部の高度に組織化された活動の崩壊を通じて観察される。",
+    "causation_and_functional_role": "生理学的には、サイケデリックは通常の予測的過程を攪乱する。機能的には、深遠な神秘的経験が長期的な心理的・信念的変容を引き起こし、主観的な目的や価値を付与する。",
+    "integration_or_binding": "変性状態のあいだに脳全体で観察される同期した神経振動パターンは、経験の統一（結合）に関する手がかりを提供しうるものであり、電磁場理論を支持する可能性がある。",
+    "information_flow_or_representation": "サイケデリックは高次の事前分布／信念の精度を緩め、ボトムアップの情報の流れ（例：辺縁系からの）が意識的経験を支配することを許す。これがREBUSモデルの機構である。",
+    "evolutionary_account": "結果として生じる高エントロピー状態は、通常の成人の覚醒意識の制約された本性に先立つ、原初的な意識状態に類似すると仮説される。",
+    "core_claims_and_evidence": [
+      "サイケデリック状態は、高まった脳エントロピーおよび臨界性と相関する。",
+      "この経験は、DMNを含む皮質ネットワークにおける活動の低減に関連する。",
+      "LSDとケタミンは脳全体にわたって同期した神経振動パターンを誘発する。",
+      "シロシビンによって引き起こされる神秘的経験は、抑うつと不安の低減のような治療的成果と相関する。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的、現象学的、臨床的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "化学的介入を脳状態の変化と主観的報告に相関づける神経生物学的・臨床的研究を通じて経験的に検証可能。",
+    "known_empirical_interventions_or_tests": [
+      "エントロピー増大と脱同期のEEG／fMRI測定（例：DMNの崩壊）",
+      "神秘的経験の強度を治療的成果と相関づける研究（例：末期がん患者におけるシロシビン）",
+      "神経振動パターンの同期の分析"
+    ],
+    "criticisms_and_tensions": "主たる哲学的批判は、経験の深遠な主観的本性が存在論的真理を保証しない（認識論的空虚）というものである。神経生物学的批判は、高エントロピーが根本的な意識の啓示ではなく単に機能的な「脳のノイズ」でありうると論じる。",
+    "open_questions_and_limitations": "これらの理論は、意識そのものの「ハードプロブレム」を解決するには一般に不十分であると認められている。それらは機構と相関に関する「イージープロブレム」のみを扱う。非唯物論的解釈は、真正な洞察を単なる幻覚から区別するという限界（「サイケデリック意識のハードプロブレム」）に直面する。",
+    "ontological_coherence": "脳の動態／エントロピーを意識的状態の鍵となる相関物として受け入れる唯物論的枠組みの内部では高い整合性をもつ。非唯物論的解釈（物理主義に挑戦する）と中核的な経験的データ（本性上物理主義的である）とのあいだの整合性は低い。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "意識が複雑で動的かつカオス的な組織状態（高エントロピーのような）に由来するならば、AIはこれらの構造を再現しうるかもしれない。ただし神秘的経験から導かれる非唯物論的解釈はしばしば計算論的十分性を斥ける。"
+    },
+    "survival_beyond_death": {
+      "stance": "肯定（非唯物論的解釈を条件とする）",
+      "rationale": "しばしば臨死体験に類似し、自我の溶解と「一体感」を伴う強烈な経験は、一部の支持者によって、身体と脳から独立して存続する非局所的な意識の証拠として解釈される。"
+    },
+    "meaning_and_purpose": {
+      "stance": "強く経験的／霊的",
+      "rationale": "サイケデリック経験はしばしば深遠な神秘的・霊的状態を誘発し、変容的な個人的意味、高まった慈悲、信念体系の変化へと至らせ、決定的な心理的・実存的機能を果たす。"
+    },
+    "virtual_immortality": {
+      "stance": "曖昧／不要",
+      "rationale": "意識が神経力学的パターンであるならば（物理主義的見解）、複製可能かもしれない。それが根本的／霊的であるならば（観念論的見解）、それはすでに死を超えて存続しており、デジタル・シミュレーションを不要にする。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Carhart-Harris’s Entropic Brain Hypothesis",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Near Death Experiences, Survival, Past Lives",
+        "relationship": "重複"
+      },
+      {
+        "name": "Idealisms",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The entropic brain—revisited, R.L. Carhart-Harris",
+        "year": 2018
+      },
+      {
+        "title_with_names": "REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics, R.L. Carhart-Harris and K.J. Friston",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A whole-brain model of the neural entropy increase elicited by psychedelic drugs, R. Herzog et al.",
+        "year": 2023
+      },
+      {
+        "title_with_names": "On the need for metaphysics in psychedelic therapy and research, P. Sjöstedt-Hughes",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "拡張された心",
+    "summary": "この理論は、認知過程が生物学的な脳に厳密に限定されるのではなく、外部環境へと拡張されると主張する（能動的外在主義）。人間という有機体が双方向の相互作用において外部の実体と結びつくと、それ自体で一個の認知システムとして機能する結合システムが形成される。外部の構成要素を取り除くことは、脳の一部を取り除くのとほぼ同様に、システムの行動的能力を低下させる。",
+    "associated_thinkers": [
+      "Andy Clark",
+      "David Chalmers"
+    ],
+    "category": "唯物論",
+    "subcategory": "関係論的",
+    "core_identity_tagline": "「結合認知システムとしての心」",
+    "classification_tags": [
+      "externalism",
+      "embodiment",
+      "cognition",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、内的な神経過程と外部の道具・環境の双方を包含する結合認知システム全体の機能として同定され、能動的外在主義への依存が強調される。",
+    "ontological_status": "物理主義（機能主義的・関係論的）",
+    "mind_body_relationship": "相関／拡張。心は脳・身体・関連する環境にわたって分散した創発的性質または機能的過程であり、心が頭蓋に閉じ込められているとする伝統的見解に異議を唱える。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発",
+    "subjectivity_and_intentionality": "諸出典は主として認知の機能的役割と行動的能力に焦点を当てており、現象的な主観性や志向性がいかにして生じるかを明示的には論じていない。主観性は、機能している認知システムの特徴として、その所在がどこであれ暗黙のうちに扱われている。",
+    "qualia_account": "この理論は認知過程の拡張と行動的能力の達成に焦点を当てているが、諸出典は現象的クオリア（経験の質的次元）が結合システム内でいかに説明され、あるいは拡張されるかを明示的に詳述していない。",
+    "ontological_commitments": "脳、身体、外部の対象・道具、および物理的環境であり、これらすべてが結合システム内で能動的な因果的役割を担う。",
+    "epistemic_access": "結合システムを構成するすべての要素の双方向的相互作用と能動的な因果的役割を、行動的能力と認知回路に着目して研究することによってアクセス可能となる。",
+    "constituents_and_structure": "人間という有機体（脳と身体）が外部の実体（社会的・物質的世界）と双方向の相互作用において結びつき、切れ目のない統合された全体を形成する「結合システム」。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "認知、行動的能力（現象的意識は拡張されたシステム内に宿ると含意されるが、焦点は機能的側面にある）。",
+    "distinctive_mechanism_or_principle": "能動的外在主義。ここでは外部の実体が認知過程において能動的な因果的役割を果たし、機能的に統合された「結合システム」を生み出す。",
+    "dynamics_of_emergence": "動的過程。心は脳・身体・社会的物質的世界という「多彩な流動」から「驚くほど切れ目のない全体」として創発する。",
+    "location_and_distribution": "分散的／拡張的。認知過程は頭蓋に閉じ込められた脳を越えて広がり、環境や外部の道具を包含する。",
+    "causation_and_functional_role": "結合システムの各構成要素は能動的な因果的役割を果たし、共同して行動を統御することで、心が世界との適応的な相互作用を促進することを可能にする。",
+    "integration_or_binding": "統合は、有機体と外部の実体との能動的な双方向的相互作用を通じて生じ、切れ目のない統合された認知的全体を形成する。",
+    "information_flow_or_representation": "情報処理は、認知過程を駆動する環境の参与的役割を含むよう拡張された表象に依拠する。",
+    "evolutionary_account": "この理論は、脳の予測能力が外的現実への気づきと適合によって促進されるという進化論的枠組みと整合的であり、認知の拡張に適応的役割があることを示唆する。",
+    "core_claims_and_evidence": [
+      "認知過程は脳の境界を越えて拡張し、外部の実体を含む。",
+      "結合システムはそれ自体で一個の認知システムとして機能し、すべての構成要素が能動的な因果的役割を果たす。",
+      "外部の構成要素を取り除くことはシステムの行動的能力を低下させる。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的・概念的論証（機能主義的）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能／条件付き",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "この理論は、心の正確な所在と境界をめぐる哲学的緊張に直面しており、内的・生物学的・神経的過程を優先する伝統的立場に異議を唱える。",
+    "open_questions_and_limitations": "この理論は認知過程に強く焦点を当てており、現象的意識そのものが結合システム全体にわたっていかに拡張され、あるいは経験されるかという問いは未解決のまま残されている。",
+    "ontological_coherence": "高度に整合的。この理論は、認知に要する基体を頭蓋を越えて再定義することによって、一貫した唯物論的・機能主義的説明を提供する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありそう",
+      "rationale": "この理論は計算主義的機能主義と軌を一にしており、認知過程と機能的関係が人工的に実現されうるならば、心は認知的補綴へと広がりうると示唆し、AI の意識をもっともらしいものとする。"
+    },
+    "survival_beyond_death": {
+      "stance": "条件付き",
+      "rationale": "唯物論（一般に存続を否定する）に根ざしてはいるが、本質的な自己が生物学的基体とは無関係に持続しうる分散的で機能的なパターンとして定義されるならば、そのパターンの存続は可能かもしれない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "唯物論の理論として、宇宙的な意味・目的・価値は存在しないと示唆する。意味はむしろ人間という有機体によって創り出される。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "仮想的不死はもっともらしい。というのも、この理論は心を外部の「認知的補綴」を介して本質的に拡張可能な機能的パターンとみなし、非生物学的媒体での複製がその機能主義的基盤と整合するからである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "重複"
+      },
+      {
+        "name": "Computational functionalism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "整合的"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Extended Mind, Andy Clark and David Chalmers",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Supersizing the Mind: Embodiment, Action, and Cognitive Extension, Andy Clark",
+        "year": 2010
+      }
+    ]
+  }
+}

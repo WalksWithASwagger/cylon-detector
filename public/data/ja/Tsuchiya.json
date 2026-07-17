@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "土谷の意識への関係論的アプローチ",
+    "summary": "このアプローチは主として、他のすべての意識との関係を網羅的に記述することを通じて意識を特徴づけ、定義しようとする方法論である。数学的構造とその関係に基づく道具である圏論を用い、意識の現象学の構造と相互関係を数学的な精密さで記述する。",
+    "associated_thinkers": ["Nao Tsuchiya", "Hayato Saigo"],
+    "category": "唯物論の諸理論",
+    "subcategory": "関係論的",
+    "core_identity_tagline": "数学的に特徴づけられた関係としての意識",
+    "classification_tags": [
+      "relational",
+      "category theory",
+      "mathematical",
+      "methodology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、現象的経験に適用された圏論（数学的構造とその関係）によって特徴づけられる関係の構造として同定される。",
+    "ontological_status": "物理主義（関係論的）。根拠：本理論は唯物論の諸理論という包括的カテゴリーの下に分類される。",
+    "mind_body_relationship": "複雑な構造的関係に基づく相関／同一性。根拠：唯物論／関係論的理論への分類から推測され、還元不可能な心的実体ではなく構造の定義に焦点を当てる。",
+    "primitive_or_emergent_status": "創発的。根拠：本アプローチが唯物論の諸理論のうちに分類されることから推測される。",
+    "emergence_type": "弱い創発。根拠：唯物論の枠組み内に一貫して位置づけられることから想定され、関係の複雑性はより低次の物理的構成要素から生じ、原理的にはそれによって説明可能であることを示唆する。",
+    "subjectivity_and_intentionality": "明示的には詳述されないが、本アプローチは意識の諸カテゴリーを定義し、それが暗黙のうちに現象的内容を構造化する。根拠：本方法論は、主観的な感じそのものというハードプロブレムではなく、内容と水準の定義に焦点を当てる。",
+    "qualia_account": "クオリアは、数学的な精密さで特徴づけられる、定義可能で関係論的な現象学的構造に対応する。根拠：意識の現象学の構造を数学を介して特徴づけるという本理論の明示的な焦点から導かれる。",
+    "ontological_commitments": "数学的構造（圏論）、意識の現象学、およびこれらの関係を実現する物理的基盤（唯物論的分類から含意される）。",
+    "epistemic_access": "数学的記述、圏論に由来する概念的道具、および本手法が触発することを目指す後続の理論的・経験的研究から生じる経験的検証を通じてアクセス可能である。",
+    "constituents_and_structure": "意識の基本構造は、厳密な構造的・関係論的性質に基づいて、数学的に「圏」として特徴づけられる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意識の水準と内容。哲学と心理学における複雑な理論的概念の明確化を目指す。",
+    "distinctive_mechanism_or_principle": "他のすべての意識との関係の網羅的記述を達成するための圏論の使用。",
+    "dynamics_of_emergence": "明示的には詳述されない。本アプローチは方法論的であり、時間的動態の記述よりも、構造を数学的に特徴づけることに焦点を当てる。",
+    "location_and_distribution": "所在は、これらの必要な関係を支える物理系（唯物論の下に分類されることから、脳／身体系と含意される）によって定義される。",
+    "causation_and_functional_role": "主として方法論的アプローチであるため、明示的には詳述されない。ただし、これらの関係を首尾よく特徴づけることは、意識の関係論的理論を支持することになる。",
+    "integration_or_binding": "統合は、現象的成員の相互関係と、単一の圏としての意識の全体構造を記述することによって、暗黙のうちに扱われる。",
+    "information_flow_or_representation": "情報は現象的成員間の構造的関係として捉えられ、圏論を用いて形式化され記述される。",
+    "evolutionary_account": "明示的には扱われない。根拠：出典資料は本理論を定義と特徴づけのための方法論的枠組みとして提示している。",
+    "core_claims_and_evidence": [
+      "意識は、他のすべての意識との関係を網羅的に記述することを通じて特徴づけられ、定義されうる。",
+      "圏論は、意識の現象学を精密に記述するために必要な数学的構造を提供する。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、数学的、方法論的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的にも経験的にも検証可能。本アプローチはさらなる理論的・経験的研究を触発することを目指す。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "出典では明示的に詳述されない。根拠：当該テキストは本アプローチを方法論として中立的に記述している。",
+    "open_questions_and_limitations": "主たる限界は、提案された概念的道具が意識を首尾よく明確化し定義しうるか、そしてそれが決定的な経験的検証を触発しうるかにある。",
+    "ontological_coherence": "厳密な数学的形式化（圏論）に依拠するため、内的整合性は高い。関係論的物理主義の枠組みと整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "意識が根本的に、数学的に（圏論を介して）精密に記述されうる関係と構造によって定義されるのであれば、これらの構造は高度な非生物学的計算系において実現可能なはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "本理論は唯物論の下に分類され、意識は関係論的構造を実現する物理的基盤（おそらく脳）に依存することを含意する。したがって生物学的死とともに意識は停止する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的／実用主義的",
+      "rationale": "構造的・唯物論的な方法論として、意識を定義する道具を提供するが、人間の経験によって創出されるものを超えた、内在的な宇宙的あるいは究極的な意味は提供しない。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "意識は精密に定量化され定義可能な関係とカテゴリーによって特徴づけられるため、これらの構造を仮想的あるいはデジタルな基盤において複製すれば、原理的には意識的自己の継続が可能となるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories",
+        "relationship": "支持される"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "関連（カテゴリーを共有）"
+      },
+      {
+        "name": "Category Theory in Mathematics",
+        "relationship": "基礎"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relational approach to consciousness: categories of level and contents of consciousness, N. Tsuchiya and H. Saigo",
+        "year": 2021
+      }
+    ]
+  }
+}

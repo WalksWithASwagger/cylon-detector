@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "可能態を現実態へと媒介する心（カウフマン）",
+    "summary": "本理論は、意識が部分的に量子的であり、量子測定を介して、存在論的に実在する可能態（Res potentia）を現実態（Res extensa）へと変換することを媒介する必要な構成要素として働くと主張する。このメカニズムが必要なのは、純粋に古典的な物理学では波動関数を収縮させる心の役割を説明できないからであり、それは古典物理学の因果的閉包性を回避するために要求される。",
+    "associated_thinkers": ["Stuart Kauffman", "Dean Radin", "Andrea Roli"],
+    "category": "量子理論",
+    "subcategory": "量子",
+    "core_identity_tagline": "量子測定を介して可能態を現実態へと媒介する心",
+    "classification_tags": [
+      "quantum",
+      "non-substance dualism",
+      "potentia",
+      "causation",
+      "non-local"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は部分的に量子的であると同一視され、量子測定の際に、存在論的に実在する可能態（Res potentia）を現実態（Res extensa）へと変換することを可能にする。この機能によって脳／心は目標指向的な知覚／行為を成し遂げる。",
+    "ontological_status": "非実体二元論",
+    "mind_body_relationship": "意識は、可能態を現実態へと変換することによって物理的世界において因果的役割（非物理的原因）を担う。これは物理的原因だけではこの変換を遂行できないことによって要請され、古典物理学の因果的閉包性を回避する。",
+    "primitive_or_emergent_status": "原初的／根本的要素",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "主観性は、脳／心が波動関数を単一の状態へと収縮させ、それを作動主体がクオリアとして経験するときに生じる。志向性はこのメカニズムに不可欠であり、Yを成し遂げるためにXを「見る」ないし「知覚する」ことを可能にする。",
+    "qualia_account": "クオリアは、脳／心によって固定される、膨大な重ね合わせの単一の状態への収縮から生じる。",
+    "ontological_commitments": "存在論的に実在する可能態（Res potentia）と現実態（Res extensa）、および部分的に量子的な脳／心。可能態（potentia）の概念はヴェルナー・ハイゼンベルクの量子状態の解釈から引かれている。",
+    "epistemic_access": "因果的閉包性の問題を解決するための量子物理学の必要性に基づく理論的論証を通じてアクセスされ、非局所的経験（プサイ現象）についての経験的証拠によって間接的に支持される。",
+    "constituents_and_structure": "この構造は、脳／心システムに内在する非古典的物理学によって媒介される、可能態（Res potentia）と現実態（Res extensa）のあいだの関係から成る。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（クオリア）、行為主体性、因果的行為、非局所的側面",
+    "distinctive_mechanism_or_principle": "このメカニズムは量子測定であり、そこで脳／心は膨大な重ね合わせともつれ、次いで波動関数を収縮させ、Res potentia を Res extensa へと変換する。",
+    "dynamics_of_emergence": "意識は量子的相互作用に根ざした動的過程である。可能態から現実態への変換は根本的な動的事象である。",
+    "location_and_distribution": "脳／心システムに局在するが、物理的な脳を超えて広がる非局所的な量子的側面を伴う。",
+    "causation_and_functional_role": "意識は、波動関数の収縮を遂行することによって物理的世界において能動的で非物理的な因果的役割を果たす。この能動的役割は行為主体性に不可欠であり、システムがXを「見る」ないし「知覚する」ことによってYを達成することを可能にする。",
+    "integration_or_binding": "統合は、膨大な重ね合わせが単一の統一された意識的状態へと収縮することを介して達成される。",
+    "information_flow_or_representation": "情報の流れは、「可能な用途」（含意された情報）を実現された結果（現実態）へと変換することに関わる。",
+    "evolutionary_account": "出典は、この特定の量子メカニズムの出現についての系統発生的な進化論的説明を明示的に詳述していない。ただしこのメカニズムは脳／心が部分的に量子的であることを前提とする。",
+    "core_claims_and_evidence": [
+      "量子測定は、存在論的に実在する可能態（Res potentia）を存在論的に実在する現実態（Res extensa）へと変換する。",
+      "古典的システムは「可能な用途」を類比的に処理できないため、脳／心は部分的に量子的でなければならない。",
+      "意識は世界と重ね合わせでもつれ、波動関数を収縮させてクオリアを生み出す。",
+      "本理論は、心が遠隔のシステムと相互作用する非局所的経験（プサイ現象）を予測する。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、概念的、量子力学的解釈、超心理学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的だが、非局所的効果（プサイ現象）に関する一定の予測は支持する証拠をもつものとして引用される。",
+    "known_empirical_interventions_or_tests": "裏づけは、非局所的な心を示唆するプサイ現象の報告された研究から引かれる。可能態から現実態への変換メカニズムのみに関連づけられた特定の神経生物学的な介入的検証は言及されていない。",
+    "criticisms_and_tensions": "意識のほとんどの量子理論と同様、量子意識を真剣に受け取らない主流の物理学者や神経科学者にしばしば退けられる。量子力学の非古典的解釈と可能態についての形而上学的主張に依拠する。",
+    "open_questions_and_limitations": "中核的な問いは、「いかなる物理的原因も可能態を現実態へと変換できない」ときに、可能態から現実態への変換がいかにして生じるかであり続け、心の還元不可能な役割を含意する。「可能な用途」と量子力学のあいだの関係を十全に明確化することが必要である。",
+    "ontological_coherence": "それ自身が定義する非実体二元論の内では整合的であり、心を量子的因果に不可欠なものとすることで、実体二元論の困難（古典物理学の因果的閉包性）を回避する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "肯定",
+      "rationale": "意識が量子力学に根ざしているならば、技術が関連する量子状態を包括的に操作し制御できるならばAIの意識は可能であるはずだが、これは依然として技術的に困難である。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能",
+      "rationale": "本理論は、心のある側面が非局所的で心‐脳システムを超えて広がりうると示唆し、身体の死後の存続についてもっともらしい可能性のあるメカニズムを提供する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確か",
+      "rationale": "意識を（可能態／現実態を通じて）実在にとって根本的なものと主張し、それに因果的役割を付与することによって、厳格な唯物論の「無意味な」宇宙から離れ、明示的に定義されてはいないものの、究極的意味の枠組みの可能性を含意する。"
+    },
+    "virtual_immortality": {
+      "stance": "おそらく可能（不確実性を伴う）",
+      "rationale": "意識が量子的であるならば、予測可能な規則性のもとで仮想的複製は可能だが、量子物理学に固有の非決定性と確率性が不確実性を導入し、仮想的不死に要求される完全な複製可能性を損ないうる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "relationship": "重複"
+      },
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "重複"
+      },
+      {
+        "name": "Heisenberg’s Potentia Interpretation",
+        "relationship": "影響"
+      },
+      {
+        "name": "Classical Physics",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Quantum aspects of the brain-mind relationship: a hypothesis with supporting evidence, S. Kauffman & D. Radin",
+        "year": 2020
+      },
+      {
+        "title_with_names": "What is Consciousness?, S. Kauffman & A. Roli",
+        "year": 2022
+      },
+      {
+        "title_with_names": "What are breakthroughs in science? (Part 3), S. Kauffman",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Physics and Philosophy: the Revolution in Modern Science, W. Heisenberg",
+        "year": 1958
+      }
+    ]
+  }
+}

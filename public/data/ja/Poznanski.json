@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "動的有機性理論（DOT）",
+    "summary": "これはB型唯物論に根ざした量子生物学的理論であり、多スケールの時間的・位相的枠組みを用いて意識をモデル化する。意識は、脳の生きたネゲントロピー状態における多スケール複雑性の機能性が、最大複雑性から導かれる機能性を超えるときに自発的に生じると主張される。",
+    "associated_thinkers": ["Roman Poznanski"],
+    "category": "量子理論",
+    "subcategory": "動的有機性（量子生物学的）",
+    "core_identity_tagline": "多スケール複雑性の機能性としての意識",
+    "classification_tags": [
+      "quantum biological",
+      "type-b materialism",
+      "negentropy",
+      "functional-structural realism",
+      "temporal-topological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳における物理的過程の独自の生物学的実現として同定され、多スケール複雑性の機能性（$F_{MultiComplexity}$）が最大複雑性の機能性（$F_{MaxComplexity}$）を超えるときに生じる",
+    "ontological_status": "B型唯物論",
+    "mind_body_relationship": "意識は物理的過程であるが、認識的に客観的な知識だけでは物理主義を定義しない。この理論は、物質的な脳の内部に意識を確立するために自己言及的な動的経路を用いる。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発（推定）",
+    "subjectivity_and_intentionality": "主観性は認識的に接近され、そこでは物理的性質が量子生物学的効果を介して主観的に評価される。志向性はこの自発的過程の出力であり、経路選択において行為するための指令として働き、自己言及を通じて自己感を生じさせる。",
+    "qualia_account": "クオリアは論議において避けられる。機能的・構造的実在論のもとでは意識的実在に適用されず、代わりに「存在」のブラックボックスとして現れるからである。ただしこの理論は、独自の機能的相互作用が他のシステムにおいて現象的に等価ではないことを含意する。",
+    "ontological_commitments": "多スケール複雑性（機能的および構造的）、脳の生きたネゲントロピー状態、そして（暗黙のうちに、追加的な自由度の源泉としての）量子ポテンシャルエネルギー。",
+    "epistemic_access": "意識は、動的有機性への認識的に主観的な接近を通じてアクセスされ、内省や記憶想起に依拠するのではなく、不確実性を理解するという行為に焦点を当てる。",
+    "constituents_and_structure": "ホラーキー的モジュール性を特徴とする非空間的な位相的枠組みであり、機能性の時間的側面と、ミクロスケールからマクロスケールに及ぶ自己言及的な動的経路に焦点を当てる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "センティエンス、志向性、自己感",
+    "distinctive_mechanism_or_principle": "意識は $F_{MultiComplexity} > F_{MaxComplexity}$ のときに生じる。この必要とされる機能性の増大は、脳の生きたネゲントロピー状態によって課される量子生物学的効果によって可能となる追加的な自由度が提供する。",
+    "dynamics_of_emergence": "意識は有機的であることの動的状態であって、静的な性質ではない。それは階段関数ではなく、諸プラトーへの漸進的な上昇であり、還元不可能な量子熱ゆらぎから自発的に現れる。",
+    "location_and_distribution": "物質的な脳の機能的動態のうちに位置づけられる。ミクロスケールからマクロスケールに及ぶ自己言及的な動的経路（非局所的経路を含む）を介して分散する。",
+    "causation_and_functional_role": "意識の機能性は巨視的システムに熱力学的制約を課す。その出力（志向性）は経路選択において行為するための指令を与える。機能性を扱うにあたって自己言及が創発／自己組織化に取って代わり、通時的な因果と弱い統一性を可能にする。",
+    "integration_or_binding": "その時間的構造を介して意識の弱い統一性を作り出す自己言及的な動的経路の独自性を通じて達成される。",
+    "information_flow_or_representation": "意識は、追加的な自由度を活用して、脳のネゲントロピー状態の内部に内在的情報が構造化されることを可能にする。",
+    "evolutionary_account": "この理論は進化的発展と整合的であり、必要とされる機能的な多スケール複雑性が意識の必要条件を満たすように進化したと仮定する。",
+    "core_claims_and_evidence": [
+      "意識は、多スケールの時間的・位相的枠組みに基づく量子生物学的理論である。",
+      "意識は $F_{MultiComplexity} > F_{MaxComplexity}$ のときにのみ生じる。",
+      "機能性の増大は、生きたネゲントロピー状態における量子生物学に由来する追加的な自由度から導かれる。",
+      "志向性は出力であり、経路選択のための指令として働き、自己感を生じさせる。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、哲学的（形而上学的モデル化）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／概念的に検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "$F_{MultiComplexity} > F_{MaxComplexity}$ という条件は必要条件としてのみ確立され、十分条件としては確立されていない。伝統的な現象的性質（クオリア）の斥けは、意識の他の諸理論との大きな緊張である。",
+    "open_questions_and_limitations": "$F_{MultiComplexity} > F_{MaxComplexity}$ という条件の十分性は未解決のままである。主観性／クオリアを扱うために非空間的な位相的枠組みと自己言及に依拠することは一つの限界である。",
+    "ontological_coherence": "B型唯物論と機能的・構造的実在論という定義された枠組みの内部では整合的だが、量子生物学的効果に対する強力で独自の役割に依拠しており、それは高度に思弁的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き／可能性が高い",
+      "rationale": "B型唯物論者として、意識は物理的過程である。人工システムが複雑な機能的アーキテクチャと多スケール動態をうまく再現し、$F_{MultiComplexity} > F_{MaxComplexity}$ に必要な量子生物学的自由度を利用できるならば、意識は生じるだろう。"
+    },
+    "survival_beyond_death": {
+      "stance": "不確実／否",
+      "rationale": "意識は「生きたネゲントロピー状態」と物質的な脳の特定の動態に依存している。この有機的システムから独立した存続は、この理論の唯物論の中心的教義によって支持されない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的な意味のみ",
+      "rationale": "この理論は生物学的・機能的効率に焦点を当て、内在的な志向性を行為の指針として同定する。それは自己感と目的を与えるが、外的あるいは宇宙的な目的論を伴わない。"
+    },
+    "virtual_immortality": {
+      "stance": "可能／条件付き",
+      "rationale": "$F_{MultiComplexity} > F_{MaxComplexity}$ を生み出すために必要な基底の生物学的・量子機能的制約が、非生物学的媒体においてうまく複製され実装されうるならば、意識的自己の複製を可能にし、仮想的不死は可能である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "対比"
+      },
+      {
+        "name": "Type-B Materialism",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The dynamic organicity theory of consciousness: how consciousness arises from the functionality of multiscale complexity in the material brain, Roman Poznanski",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "レヴィンの「あらゆる場所に心を」への技術的アプローチ（TAME）",
+    "summary": "この枠組みは、心と認知を、工学的材料や合成生物学を含む多様でしばしば非慣習的な基体を横断する機能的・目標志向的活動を通じて理解する。意識ないし有感性は連続的かつ段階的なものであると措定し、動物の心を細胞群における集合的知性の一事例とみなす。",
+    "associated_thinkers": ["Michael Levin"],
+    "category": "唯物論の諸理論",
+    "subcategory": "系統発生的進化",
+    "core_identity_tagline": "「あらゆる場所に心を」への技術的アプローチ（TAME）",
+    "classification_tags": [
+      "technological",
+      "embodiment",
+      "agency",
+      "synthetic biology",
+      "graded consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識／有感性は、さまざまな身体化された基体において実現される目標志向的活動として同定され、しばしば複雑な知覚‐行為システムとして組織される。",
+    "ontological_status": "物理主義（唯物論）",
+    "mind_body_relationship": "意識は根本的に身体化されており、物理的基体（慣習的な生物学的組織でも、新奇なキメラ的アーキテクチャでもありうる）の配置と動態から創発する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（意識の連続性は、その複雑な機能的動態が物理的なものであり、鋭く説明不能な相転移を要さずにその出現へと至ることを示唆する）",
+    "subjectivity_and_intentionality": "主観性（意識それ自体）は客観的にアクセスするのが困難である。志向性は中心的であり、目標志向的活動と身体化された行為主体性に直接結びついている。",
+    "qualia_account": "この理論は認知的機能に焦点を当て、三人称的で客観的な視点から現象的意識（クオリア）を定義することについてはおおむね懐疑的なままである。",
+    "ontological_commitments": "物理的基体、生物学的および非生物学的なもの（キメラ的アーキテクチャ）、集合的知性を示す細胞群、そして抽象的空間（例えば形態形成的、転写的な空間）で作動する知覚‐行為システム。",
+    "epistemic_access": "主として、目標志向的活動と認知的機能を研究する三人称的アプローチを通じて。意識の内在的経験は客観的にアクセスするのが依然として困難である。",
+    "constituents_and_structure": "意識の構造は連続的で非二値的であり、多様な意識（例えば細胞群）のパッチワークとして実現され、行為主体性とさまざまな空間を横断する情報の流れを通じて統合される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "認知、目標志向的活動（行為主体性）、動物の有感性、系統発生的および個体発生的な出現。",
+    "distinctive_mechanism_or_principle": "「あらゆる場所に心を」への技術的アプローチ（TAME）は、合成生物学と生体工学を通じて非慣習的な基体における認知の創出と操作を定式化する。",
+    "dynamics_of_emergence": "意識は連続的で段階的なプロセスであり、短期的（個体発生的）にも長期的（系統発生的）にも、物理的システム（身体）の可塑性と可鍛性に結びついて漸進的に生じる。",
+    "location_and_distribution": "さまざまな身体化された基体にわたって分布し、脳に限定されず、非3次元空間（例えば形態形成的空間）で作動するシステムにも存在しうる。",
+    "causation_and_functional_role": "意識は、目標志向的活動に駆動される、強い身体化された行為主体性と集合的知性を支える機能的役割を果たす。",
+    "integration_or_binding": "統合は、細胞群内における集合的知性の形成と、知覚‐行為システムの統一的作動を通じて達成される。",
+    "information_flow_or_representation": "転写的空間や形態形成的空間を含むさまざまな抽象的情報空間で作動する知覚‐行為システムに基づく。",
+    "evolutionary_account": "意識は、種を超えた比較的滑らかな連続性と整合的に漸進的に進化し、選択と行為主体性の能力をもつシステムを有利にする進化的圧力から生じた。",
+    "core_claims_and_evidence": [
+      "意識には程度と種類があり、鋭い相転移という観念に異を唱える。",
+      "有感性は根本的に観察可能な目標志向的活動に結びついている。",
+      "認知システムは非慣習的なキメラ的アーキテクチャにおいて創出・研究されうる。",
+      "個々の行為主体は多様な意識（例えば細胞群）の「パッチワーク」でありうる。"
+    ],
+    "basis_of_belief_or_evidence_type": "実験的（合成生物学）、計算的、哲学的（認知の連続性）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "生体工学の手法を用いた新奇な身体化された認知システムの創出と操作を通じて経験的に検証可能。",
+    "known_empirical_interventions_or_tests": [
+      "多様な材料におけるキメラ的認知システムの合成的創出",
+      "意識の変化を観察するための急進的な脳‐コンピュータ・インターフェースの将来的実装"
+    ],
+    "criticisms_and_tensions": "批判者は鋭い相転移の否定に異を唱え、意識の能力における質的転換をもたらす正確な物理的変化を特定するよう求める。",
+    "open_questions_and_limitations": "この理論は、客観的で三人称的な視点から現象的意識（意識が「何であるか」）を決定的に記述することにおける限界を認めている。",
+    "ontological_coherence": "機能主義的かつ拡張された唯物論的存在論の内部で整合的であり、物理主義的分類を保ちつつ多様な基体を受け入れる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "TAMEは設計された材料やキメラ的材料に適用されるため、人工システムは（目標志向的で身体化された知覚‐行為システムとして構成されるならば）もっともらしく意識を実現しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識を身体化された物理的基体の継続的機能に結びつける唯物論的枠組みとして、その基体の存在を超えた存続は支持されない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的／行為主体性に結びついたもの",
+      "rationale": "意識は目標志向的活動に結びついており、意味は宇宙的な目的論からではなく、システムに内在する行為主体性から導かれることを示唆する。"
+    },
+    "virtual_immortality": {
+      "stance": "ありうる",
+      "rationale": "心が新奇な非生物学的アーキテクチャにおいて工学的に構築・実現されうるという前提は、複雑で身体化された知覚‐行為システムの複製と転送が原理的に可能であることを示唆する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied Cognition",
+        "relationship": "両立可能／影響"
+      },
+      {
+        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
+        "relationship": "重複"
+      },
+      {
+        "name": "Computational and Informational Theories",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Technological approach to mind everywhere: an experimentally- grounded framework for understanding diverse bodies and minds, Michael Levin",
+        "year": 2022
+      }
+    ]
+  }
+}

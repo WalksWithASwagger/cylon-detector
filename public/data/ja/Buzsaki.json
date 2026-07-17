@@ -1,0 +1,114 @@
+{
+  "id_and_class": {
+    "theory_title": "ブザーキの神経構文と自己惹起的リズム",
+    "summary": "この理論は、脳を自己組織化する系、すなわち内在的なパターンとリズム(神経構文)を絶えず生成する「予告装置」として提示する。認知は、脳がセンサーから離脱して「もし〜ならどうなるか」というシナリオを検討するときに立ち現れる内面化された行為として理解される。意味は後に、これらの内的パターンが環境との行為に基づく相互作用によって基づけられることで獲得される。",
+    "associated_thinkers": [
+      "György Buzsáki"
+    ],
+    "category": "唯物論の諸理論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "「行為に基づけられた自己惹起的な神経リズムとしての意識」",
+    "classification_tags": [
+      "neurobiological",
+      "rhythms",
+      "action-based cognition",
+      "emergentism",
+      "predictive processing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "この認知理論から発展させるならば、意識は自己創発的な振動タイミングと、それに対応する動的で自己組織化された神経パターン(神経構文)と同一視される。脳は根本的に情報を処理するのではなく創り出す。",
+    "ontological_status": "物理主義／唯物論",
+    "mind_body_relationship": "心(認知・意識)は、きわめて複雑な中枢神経系から生じる自己惹起的な機能として身体と関係する。これは唯物論的枠組みの内部での同一性または創発的相関として機能する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発(意識が複雑な過程から生じるとしても物理的状態によって完全に説明できると主張する唯物論への分類により正当化される)。",
+    "subjectivity_and_intentionality": "主観性は「内から外へ(inside-out)」の観点から生じると推論される。この観点では脳が世界に対して仮説を能動的に投射し検証する。志向性は、行為の帰結を生成し予測することに焦点を置く予告装置としての脳の目的に結びつけられる。",
+    "qualia_account": "明示的には示されていない。この理論は主として認知のメカニズムに焦点を置く。神経生物学的唯物論の理論としての分類と一貫して、現象的性質は複雑な神経構文の組織化から生じるであろうと含意する。",
+    "ontological_commitments": "神経集成体、動的な脳リズム、皮質系における既存の結合性・動態、そして神経構文。",
+    "epistemic_access": "神経活動の観測とモデル化、とりわけ電気活動(振動タイミングとリズム)およびそれに起因する認知機能の三人称的計測。",
+    "constituents_and_structure": "入れ子状の脳リズム(振動タイミング)と周波数間結合の階層的組織化であり、自己組織化された細胞集成体の系列を支える。この構造は動的かつ準安定的である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "認知、記憶、計画立案、(内面化された行為としての)自己意識。この理論は現象的意識を潜在的に説明しうるメカニズムに焦点を置く。",
+    "distinctive_mechanism_or_principle": "神経情報(神経構文)の根本的な組織者として働く、自己創発的な振動タイミング(「脳のリズム」)。認知は明示的に内面化された行為である。",
+    "dynamics_of_emergence": "動的過程。認知は、脳がその内在的な自己組織化された動態を用いて帰結をシミュレートする(内面化された行為)ときに生じ、複数のネットワーク振動子どうしの絶えざる相互作用によって維持される。",
+    "location_and_distribution": "皮質および海馬のネットワークであり、とりわけ大規模な脳構造と脳波(EEG)がいかに情報を組織化するかに焦点を置く。",
+    "causation_and_functional_role": "脳活動は根本的に自己惹起的であり、仮説を検証し行為の帰結を予測しようとする命令によって駆動される。その機能は、基本的な身体調節回路から外適応(exaptation)され、記憶と計画立案のための認知地図を生成すべく内的リズムを再構造化することにある。",
+    "integration_or_binding": "神経構文は、階層的結合や周波数間結合を含む多様な脳リズムを介して神経情報を組織化し分節化する。意味論(セマンティクス)は、外的入力・行為の帰結との照合を通じて、これらの自発的な神経パターンに結びつく。",
+    "information_flow_or_representation": "脳は情報を吸収するのではなく創り出す。情報の流れは「内から外へ」であり、脳は世界を行為で満たし、外的入力は自発的な神経パターンを選択・修飾してそれらに意味(意味論)を与える。",
+    "evolutionary_account": "認知(計画立案や記憶を含む)は、当初は代謝的・エネルギー的過程の調節といった不可欠な身体機能に資していた回路とアルゴリズムの外適応と拡張によって説明される。",
+    "core_claims_and_evidence": [
+      "脳は、行為を通じて環境と相互作用し内的リズムを再構造化する予告装置である。",
+      "自発的な神経活動と自己創発的な振動タイミングは、認知能力の源泉かつ組織者である。",
+      "意味論は世界によって外的に選択され、行為に基づく相互作用の際の照合を介して既存の神経パターン(意味をなさないもの)を修飾する。",
+      "認知(記憶、計画立案)は、代謝的な身体機能を調節する回路の外適応を通じて生じる。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的、神経生物学的・生理学的モデル化であり、脳リズム、神経構文、細胞活動といった概念に依拠する。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能(検証は、認知機能の相関物としての神経リズム生成、周波数間結合、神経集成体の系列に焦点を置く)。",
+    "known_empirical_interventions_or_tests": [
+      "階層的な脳リズムと周波数間結合の計測および解析。",
+      "睡眠中のシャープウェーブ・リップルパターンにおける記憶痕跡の固定化を示す研究。"
+    ],
+    "criticisms_and_tensions": "主要な概念的緊張は、高次認知(神経構文、記憶、計画立案など)を説明することが現象的意識(「意識が実際に何であるか」)を説明することと等価ではない点にある。",
+    "open_questions_and_limitations": "複雑な認知とその基盤にある神経メカニズムの説明が成功したとしても、それは現象的意識の「ハードプロブレム」に十分に応えるものであろうか。この問いに答えるには、この理論自体が意識の理論へと発展させられねばならない。",
+    "ontological_coherence": "きわめて整合的。この理論は神経生物学的・計算論的唯物論の内部によく収まり、脳回路とサイクルやトップダウンの予測理論といった関連概念と一貫して整合する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "是",
+      "rationale": "唯物論的・神経生物学的理論として、意識は全面的に物理的であることを含意する。そのメカニズム(神経構文、自己惹起的リズム、行為に基づく基づけ)を非生物学的な系に実装できるならば、AIの意識は原理的に達成可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識・認知は、生物学的な脳という物質の特定のきわめて複雑な動態のみに由来するものとして説明される。これらの物質的過程の停止を超えた存続は排除される。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "焦点は、適応的優位のために進化した生存および仮説検証のメカニズムとしての脳に置かれる。唯物論と一貫して、究極的で宇宙的な意味・目的・価値は与えず、人間の営みが創り出すもののみを与える。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "意識が記述された神経パターン、リズム、認知地図によって厳密に実現されると仮定すれば、このきわめて統合された系を非生物学的媒体へ完全に複製することで元の一人称的な心的自己が保存されるはずであり、仮想的不死は原理的に達成可能となる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Brain Circuits and Cycles (9.2.11)",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Top-Down Predictive Theories (9.5.1)",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Electromagnetic Field Theories (9.3)",
+        "relationship": "整合の可能性"
+      },
+      {
+        "name": "Integrated Information Theory (12)",
+        "relationship": "対比(機構的な焦点と現象的・公理的な焦点)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Brain from inside Out, György Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rhythms of the Brain, György Buzsáki",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Cognition from the body-brain partnership: exaptation of memory, György Buzsáki and David Tingley",
+        "year": 2023
+      },
+      {
+        "title_with_names": "If the brain is the answer, what was the question? Review of Buzsáki, György. The Brain from Inside Out, Alex Gomez-Marin",
+        "year": 2021
+      }
+    ]
+  }
+}

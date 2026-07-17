@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "パピノーの心脳同一説",
+    "summary": "この理論は、意識的状態が根本的かつ文字どおりに特定の脳状態と同一であると主張することによって、神経生物学的物理主義を擁護する。この同一性は科学的推論を介して後験的に発見されると主張し、根強い「説明のギャップ」は深く根づいた二元論的直観のもたらす誤解を招く産物であるとする。",
+    "associated_thinkers": ["David Papineau"],
+    "category": "唯物論",
+    "subcategory": "哲学的",
+    "core_identity_tagline": "「根本的な心脳同一性としての意識」",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "abduction",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "（痛みのような）意識的状態は、（特定領域における神経発火のような）特定の物理的な脳状態と厳密に同一である。それらは単にこれらの物理的状態によって引き起こされたり生成されたりするのではない。",
+    "ontological_status": "還元的物理主義（強い心脳同一説）",
+    "mind_body_relationship": "厳密な同一説。心的状態はある種の神経状態と物理的に同一であり、その関係は事実の関係（後験的同一性）である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。心的状態は物理的状態と同一であるため、たとえその同一性が経験的に（後験的に）発見されねばならないとしても、究極的には物理法則によって還元可能ないし説明可能である。",
+    "subjectivity_and_intentionality": "主観性（「どのようであるか」という感じ）は単に物理的な脳状態それ自体の性質であり、それが実現されたときにどう「感じられるか」ということである。志向性は、同定された脳状態の物理的機能を通じて継承される。",
+    "qualia_account": "クオリアは脳状態の根底にある物理的性質と同一である。クオリアをめぐる神秘は、感じを物理的状態から誤って分離する、誤解を招く「自発的な二元論的思考」に帰される。",
+    "ontological_commitments": "物理的状態、特定の神経過程、物理的領域の因果的閉包性。",
+    "epistemic_access": "科学的・経験的観察を通じた後験的な接近であり、相関からのアブダクション的推論（二つのものが常に同じ時に同じ場所にあると見出すこと）に依拠する。",
+    "constituents_and_structure": "意識は生物学的物質の複雑な組織的状態によって構成され、とりわけニューロンの部分集合の精密な発火（例えば侵害受容特異的ニューロン）によって規定される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、主観性、因果的有効性。",
+    "distinctive_mechanism_or_principle": "物理的なものの因果的閉包性が、心的出来事が物理的出来事でなければならないことを保証する。同一性は、神経科学によって確立された首尾よい後験的相関によって確証される。",
+    "dynamics_of_emergence": "意識は同定された物理的な脳状態の恒常的な特徴であり、なぜあるいはいかにして両者が「共に生じる」のかという問いを解消する。",
+    "location_and_distribution": "特定の脳状態（例えば侵害受容系における神経発火パターン）に局在するが、この同一性はあらゆる唯物論的・物理主義的理論に広く当てはまる。",
+    "causation_and_functional_role": "意識は、物理学の因果的閉包性に従う物理的状態であるため、因果的に有効である。その機能は、同定された脳状態の物理的振る舞いに本来備わる。",
+    "integration_or_binding": "経験は複雑であっても単一の定義可能な根底にある物理的出来事に対応するという事実によって、暗に達成される（例えば統一された痛みは複雑な侵害受容神経の発火に対応する）。",
+    "information_flow_or_representation": "意識を記述するために用いられる現象的概念（一人称的報告）は曖昧で不正確とみなされ、科学が同定しようとする根底にある物質的本質をしばしば覆い隠す。",
+    "evolutionary_account": "明示的には詳述されていないが、神経生物学的物理主義への基礎づけと、生物学的有機体から得られた相関データの受容によって含意される。",
+    "core_claims_and_evidence": [
+      "意識的状態は物理的状態と徹底的に同一であり、概念的に「分離する」ことはできない。",
+      "意識の謎は、「説明のギャップ」を煽る二元論的前提を拒否することによって解決される。",
+      "哲学的ゾンビは形而上学的に不可能だが、現象的概念の曖昧さゆえに構想可能ではある。",
+      "心脳同一性は、強い時空的相関とアブダクションを通じた説明力を観察することによって確立される。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、経験的、アブダクション的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能（条件付き）。同一性の主張を支持する厳密な神経科学的証拠を見出すことに依拠するが、現象的概念の曖昧さゆえに必要な物理的相関物を規定することは困難である。",
+    "known_empirical_interventions_or_tests": "特定の複雑な脳状態（例えば測定された神経発火パターン）を対応する主観的経験（例えば痛みの報告）と結びつける相関研究。",
+    "criticisms_and_tensions": "この論証は同一性を証明するのではなく単に物理主義の妥当性を前提しているにすぎない、と批判者は論じる。物理的相関物についての完全な知識をもってしても主観的な感じを論理的に必然化しないという主張（知識論法）に対して、この理論は脆弱である。",
+    "open_questions_and_limitations": "主観的（現象的）概念の曖昧な本性が、任意の意識的状態について単一で精密な物質的本質を厳密に同定することを妨げる（「キメラ」）。",
+    "ontological_coherence": "内的にきわめて整合的であり、還元的唯物論的／物理主義的存在論の標準的な信条、とりわけ物理学の因果的閉包性と完全に両立する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "肯定",
+      "rationale": "意識的状態が物質と過程の特定の構成と根本的に同一であるなら、これらの状態は、必要な物理的構成と複雑性を実現しうるいかなる媒体においても——人工システムを含めて——再現可能でなければならない。"
+    },
+    "survival_beyond_death": {
+      "stance": "否定",
+      "rationale": "意識は生物学的な脳の過程の特定の組織に厳密に依存し、それと同一である。その物理システムの不可逆な停止の後に意識が存続することは不可能である。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的のみ",
+      "rationale": "厳密な物理主義に根ざした理論として、心を自然過程の産物とみなし、人間の行為主体性が創り出すものを超えた宇宙的ないし超越的な意味や目的の基盤を提供しない。"
+    },
+    "virtual_immortality": {
+      "stance": "肯定",
+      "rationale": "意識は脳の特定の物理的組織であるため、この構造を新たな物理的基盤へ完全に複製（アップロード）することは、原理的に意識的同一性を保存するのに十分である。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "David Chalmers' Hard Problem",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Papineau, D., The problem of consciousness",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Papineau, D., We must shed our metaphysical assumptions",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Papineau, D., Could there be a science of consciousness?",
+        "year": 2003
+      }
+    ]
+  }
+}

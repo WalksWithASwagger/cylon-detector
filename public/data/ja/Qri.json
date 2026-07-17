@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "QRIの状態空間、クオリア形式主義、価値実在論",
+    "summary": "このモデルは、意識がその内的な主観的構造（「クオリア形式主義」）によって定義され、それが広大な「意識の状態空間」として数学的に精密に表現されうると主張する。情動的経験（「価値実在論」）は、この空間内の根本的で実在的な性質として扱われ、その幾何学の対称性と定量的に結びつけられる。",
+    "associated_thinkers": [
+      "Qualia Research Institute (QRI)",
+      "Michael Edward Johnson"
+    ],
+    "category": "一元論",
+    "subcategory": "状態空間、クオリア形式主義、価値実在論",
+    "core_identity_tagline": "数学的に表現可能な状態空間と価値としての意識",
+    "classification_tags": [
+      "qualia formalism",
+      "valence realism",
+      "state-space",
+      "dual-aspect monism",
+      "mathematical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、想像を絶するほど広大な準次元的な「意識の状態空間」として同定される。現象的性質は、計算の自発的な産物ではなく、世界の根本的な特徴である。",
+    "ontological_status": "二相一元論あるいは中立一元論。この枠組みは、諸法則がクオリアの場を記述する拡張された物理主義と両立可能である。",
+    "mind_body_relationship": "二相／中立一元論。意識（心）は物理的実在（身体）の相補的な側面であるか、あるいは共通の中立的実質に由来する。",
+    "primitive_or_emergent_status": "原初的（現象的性質は世界の根本的な特徴である）。",
+    "emergence_type": "該当なし（中核的な現象的性質は創発的ではなく根本的であると主張され、汎原心論の諸変種から区別される）。",
+    "subjectivity_and_intentionality": "主観性は、根本的なクオリア空間の現象的構造から本来的に生じる。志向性（思考の指向性）は出典において明示的に詳述されていないが、状態空間の幾何学の内部で数学的にモデル化されるであろう。",
+    "qualia_account": "クオリア（現象的性質）は数学的概念、主として幾何学と対称性（クオリア形式主義）によって精密に形式化される。価値（情動的性質）は実在的で根本的かつ定量化可能な性質である。",
+    "ontological_commitments": "現象的性質、意識の状態空間、そして精密な数学的／幾何学的関係（対称性）。",
+    "epistemic_access": "主観的経験の内的構造に適用される厳密な数学的モデル化（クオリア形式主義）を通じてアクセス可能であり、価値の現象学的観察によって補完される。",
+    "constituents_and_structure": "基本的な構造は、その幾何学によって定義される広大な準次元的状態空間である。個々の経験は、その対称性を特徴とする離散的な幾何学的構造（点）であり、対称性は価値と相関する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（クオリア形式主義、価値実在論）。",
+    "distinctive_mechanism_or_principle": "価値の対称性理論。経験の快／不快が、その経験の情報幾何学における対称性あるいはその欠如によって定まるとする。",
+    "dynamics_of_emergence": "動的な過程（意識の状態空間は「超幾何学的に」増大し、絶えず運動している状態から成ると記述され、静的な実質ではなく動的な流れを含意する）。",
+    "location_and_distribution": "システム的／状態空間。意識は広大で独立した準次元的状態空間に存在し、クオリアの場（拡張された物理主義）と両立可能である。",
+    "causation_and_functional_role": "機能的必然性の観点からは特定されていない。しかし価値は実在的で明確に定義された性質として扱われ、経験における因果的役割を含意し、適応的行動を導きうるが、この機構は提供されていない。",
+    "integration_or_binding": "統合は、状態空間内で個々の意識的知覚を表現する単一の幾何学的構造に本来的に備わっている。",
+    "information_flow_or_representation": "意識的処理は根本的に情報的かつ表象的であり、数学的パターンと構造（幾何学）に完全に還元可能である。",
+    "evolutionary_account": "明示的には詳述されていない。このモデルは、意識の進化的起源よりもその根本的構造に焦点を当てるが、現象的性質は計算によってのみ引き起こされるわけではない。",
+    "core_claims_and_evidence": [
+      "現象的性質は世界の根本的な特徴である。",
+      "主観的経験（クオリア）の内的構造は数学によって精密に写像されうる。",
+      "情動的価値は、幾何学の対称性に結びついた実在的な性質である（価値実在論／価値の対称性理論）。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、現象学的、数学的（形式主義）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的／数学的（現象的構造／価値の数学的モデルを測定された経験に相関づけることを要する）。",
+    "known_empirical_interventions_or_tests": "出典に明示的に列挙されたものはないが、研究はおそらく、きわめて特定的な情動的あるいは知覚的状態を、根底の神経活動／情報構造において予測される対称性に相関づけることを含む。",
+    "criticisms_and_tensions": "この理論は機能主義を斥け、現象学に根ざした数学的形式性を要求することで自らを差異化する。抽象的な現象的構造（状態空間）を物理的実在に結びつけるという、一元論に内在する課題を克服しなければならない。",
+    "open_questions_and_limitations": "準次元的状態空間の正確な本性は未特定のままであり、数学的対称性がいかにして質的価値に翻訳されるのか、その正確な機構も未特定である。",
+    "ontological_coherence": "高い。自己整合的であり、現象的経験を形式化しようと明示的に試み、二相一元論あるいは中立一元論の立場を堅持するからである。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確実／条件付き",
+      "rationale": "意識は状態空間内の精密な数学的・幾何学的構造を再現することを要する。これは非生物学的基体において検証も実装も困難な条件であり、さらにこの理論は単純な計算論的機能主義を明示的に斥ける。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能",
+      "rationale": "現象的性質を根本的で特定の生物学的物質に還元不可能なものと分類する一元論的理論として、意識の存在は生物学的な脳／身体の存続に依存せず、現象的状態空間が何らかの形で死後に存続することを許す。"
+    },
+    "meaning_and_purpose": {
+      "stance": "条件付き／内在的",
+      "rationale": "価値（「善さ」あるいは「悪さ」）は意識的状態の根本的で内在的な性質とみなされ、価値の客観的基盤を含意するが、宇宙的目的論は明示的には主張されない。"
+    },
+    "virtual_immortality": {
+      "stance": "条件付き",
+      "rationale": "技術が広大な状態空間内の個の独自の幾何学的な意識構造を完全に捉え精密に再現しうる場合にのみ可能であり、それは現在の理解を超える極度の精密さを要求する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory (IIT)",
+        "relationship": "両立可能／重複（意識的経験を独自の数学的構造に写像するという概念を共有し活用する）。"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "両立可能（QRIは自らの見解が「おおむね汎心論的な見解とよく合致する」と述べる）。"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "批判（QRIは機能主義を明示的に斥ける）。"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Qualia Formalism and a Symmetry Theory of Valence",
+        "year": 2023
+      },
+      {
+        "title_with_names": "QRI FAQ",
+        "year": null
+      }
+    ]
+  }
+}

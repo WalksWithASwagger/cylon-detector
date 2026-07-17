@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "ダネットの心の進化",
+    "summary": "この枠組みは、心と意識が全面的に自然選択による進化の結果であると措定し、複雑な組織化（設計、理由、能力）が意識的な設計者や推論者を要することなく生じたことを強調する。人間の心の発達を、純粋に物質的な抽象化と複雑性の継起的な諸水準を通じて説明する。",
+    "associated_thinkers": [
+      "Daniel Dennett"
+    ],
+    "category": "唯物論理論",
+    "subcategory": "系統発生的進化",
+    "core_identity_tagline": "魔法なしに自然選択によって進化した心",
+    "classification_tags": [
+      "evolution",
+      "naturalism",
+      "phylogenetic",
+      "materialism",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識と心は、きわめて複雑な物理的過程——物質的過程の上に築かれた、進化した一連の思考の道具——として同定され、心の「魔法」は魔法なしに達成される。",
+    "ontological_status": "物理主義",
+    "mind_body_relationship": "同一説/還元主義。心的状態は全面的に生物学的な脳の産物であり、物理的状態によって完全に説明され、ダネットのより広い唯物論的立場と整合する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。意識は原理的に基底の物理的過程によって完全に説明可能であり、強い創発や非物理的介入の必要を退ける。",
+    "subjectivity_and_intentionality": "主観性は、「物語的重心」のような進化した組織的構造を介して構築される。志向性（〜についてであること）は、複雑な分子の塊が意味や内容をもつ能力を進化させたときに生じる。",
+    "qualia_account": "クオリア（質的な感じ）は、内在的で分析不可能な心的性質ではなく、進化過程に由来する複雑で活性化された神経ネットワークとして、不整合で錯覚的な「ユーザー錯覚」として扱われる。",
+    "ontological_commitments": "物理的世界、自然法則、生物学的な脳、そして自然選択の諸過程。",
+    "epistemic_access": "科学の三人称的視点であり、とりわけ異種現象学の方法を用いて、内省的主張を心的実在の真なる記述としてではなく、説明されるべきデータとして扱う。",
+    "constituents_and_structure": "心の構造は、進化した「思考の道具」の精巧な一式と、生物学的進化の上に築かれた階層的な組織的層から成る。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "系統発生的起源、内容、心の構造、意識（縮減された/錯覚的な）、自己意識（物語的構築として）。",
+    "distinctive_mechanism_or_principle": "自然選択による進化の甚大な力。それは「推論者なき理由、設計者なき設計、理解なき能力」によって特徴づけられる結果を作り出す。",
+    "dynamics_of_emergence": "意識は、系統発生史を通じた心的発達の漸進的で漸増的な過程を通じて生じ、初期の生命形態から人間の心まで辿ることができる。",
+    "location_and_distribution": "高等生物、とりわけ人間の複雑な脳に局在し、そこでは神経活動の高度な組織化が複雑な「思考の道具」を支える。",
+    "causation_and_functional_role": "心は、困難な環境において適応的で適応度を高める利益を提供したがゆえに生じた。その機能は、自己省察のような複雑な行動と認知を可能にすることである。",
+    "integration_or_binding": "統合は、脳における内容の固定と伝播の進化を介して達成され、それが一種のライフストーリーあるいは「物語的重心」へと合体する。",
+    "information_flow_or_representation": "進化は、異なる脳領域が注意（脳内での名声）を求めて競合する「複数の草稿」を生成するように脳が情報を処理することを可能にし、物語的な流れを形成する。",
+    "evolutionary_account": "意識は非魔法的な進化的達成であり、生物はモデル化・予測・シミュレーションのような複雑な能力を発達させ、人間の内省と抽象的思考へと結実した。",
+    "core_claims_and_evidence": [
+      "心の起源は、非物理的要素に訴えることなく生物学的進化によって説明できる。",
+      "人間の心の複雑さは進化の頂点であり、専門化された「思考の道具」を生み出す。",
+      "現象的性質は、複雑で進化した神経活動から生じる不整合な錯覚である。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的論証、進化生物学、論理"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "生物学的およびネオダーウィニズム的整合性に照らして概念的には検証可能。機能主義的モデルと相関する神経科学的知見によって間接的に支持される。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "意識（クオリア）を錯覚あるいは疑似問題であると主張することで「ハードプロブレム」を回避しているとして批判される。反対者は、主観的経験が単なる錯覚あるいは随伴現象であるならば、その進化的利益に疑問を呈する。",
+    "open_questions_and_limitations": "経験の主観的な感じそのものについての直接的な説明を提供せず、なぜ我々がそのような経験をもつと*報告する*のかについての説明のみを提供する。",
+    "ontological_coherence": "ダーウィン進化を「普遍的な酸」として用い、伝統的に非物質的な概念を含む心のあらゆる側面を厳格な物理主義的存在論の内にしっかりと基礎づけており、高度に整合的である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "はい",
+      "rationale": "意識が全面的に物質的であり複雑な組織化（機能主義/唯物論）から生じるため、正しい複雑性が再現されるならば、非生物学的知能が意識を達成することに対する原理的な禁止はない。"
+    },
+    "survival_beyond_death": {
+      "stance": "いいえ",
+      "rationale": "意識は全面的に物理的な脳に結びついている。死は、自己がデジタルに保存される（仮想的不死）のでない限り、取り返しのつかない永続的な非存在をもたらす。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "進化過程は「設計者なき設計」によって作動する。これは本来的な宇宙的意味や目的が存在しないことを意味し、意味は意識的な人間によって自ら作り出される。"
+    },
+    "virtual_immortality": {
+      "stance": "はい",
+      "rationale": "意識が全面的に脳の進化した物理的/機能的組織化によって説明されるならば、これらの神経パターンと経路を非生物学的媒体において完全に複製すれば一人称的な心的自己は保存されるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Multiple Drafts Model",
+        "relationship": "基礎"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "重なり合い"
+      },
+      {
+        "name": "Lycan’s Homuncular Functionalism",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Darwin’s Dangerous Idea: Evolution and the Meanings of Life, Daniel Dennett",
+        "year": 1995
+      }
+    ]
+  }
+}

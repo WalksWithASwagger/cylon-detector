@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "クオリア空間理論",
+    "summary": "この理論は、意識が、四つの力、時空、質量エネルギーといった根本的な物理法則と並んで存在する、独立した還元不可能な実在の特徴であると主張する。この特徴は、実在の異なる次元として存在する可能性のある、根本的に新しい構造あるいは組織として構想される。",
+    "associated_thinkers": ["Giulio Tononi", "Christof Koch"],
+    "category": "汎心論",
+    "subcategory": "概念的範疇",
+    "core_identity_tagline": "実在の独立した還元不可能な次元的特徴としての意識",
+    "classification_tags": [
+      "independent feature",
+      "non-reducible",
+      "dimension",
+      "phenomenology",
+      "conceptual structure"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、実在の独立した還元不可能な特徴として同定され、「クオリア空間」と呼ばれる根本的に新しい組織あるいは次元として構造化される。",
+    "ontological_status": "還元不可能な根本的特徴（正当化：独立かつ還元不可能なものとして定義され、根本物理学に「加えて」存在し、それが分類される汎心論のような拡張された存在論の枠組みに位置づけられる）。",
+    "mind_body_relationship": "物理的な脳が、物理的実在と並んで存在するこの還元不可能な特徴にアクセスし、あるいはそれを顕現させる相関あるいは相互作用を要する。（具体的な詳細は理論の実装に依存する。）",
+    "primitive_or_emergent_status": "原初的",
+    "emergence_type": "該当なし（根本的／還元不可能な特徴として定義される）。",
+    "subjectivity_and_intentionality": "主観性はクオリア空間の構造そのものの存在に本来的に備わっている。志向性は、この構造内の特定の組織的性質へと写像され、意識的知覚に対応する。",
+    "qualia_account": "クオリアは、クオリア空間を構成する根本的に新しい構造あるいは組織である。経験の質は、この空間内の数学的特徴あるいは概念的構造に直接対応する。",
+    "ontological_commitments": "根本的な物理法則と実体（四つの力、時空、質量エネルギー）、および独立した還元不可能なクオリア空間／構造。",
+    "epistemic_access": "現象的経験への内省と、クオリア空間の構造と幾何学を定義するのに必要な数学的モデル化（関連する諸理論に例示されるように）を通じてアクセス可能である。",
+    "constituents_and_structure": "実在の根本的に新しい構造あるいは組織であり、通例、数学的に概念化される（例：概念的構造あるいは意識の状態空間として）。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（クオリア）、内在的存在、統一性。",
+    "distinctive_mechanism_or_principle": "意識が、この独立した「空間」における概念的あるいは情報的構造によって定義される実在の根本的特徴であるという原理。",
+    "dynamics_of_emergence": "意識は、物理的システム（脳のような）によって局所的に顕現される構造的あるいは次元的な実在である。",
+    "location_and_distribution": "クオリア空間そのものは実在の独立した還元不可能な次元である。意識的経験（例：人間における）は、この空間内の構造の局所化された顕現あるいは「展開」である。",
+    "causation_and_functional_role": "内在的実体あるいは真の存在として定義されるならば（関連するIITの概念のように）、意識の構造は因果作用力をもつ。機能的には、現象的経験／クオリアの存在を説明する。",
+    "integration_or_binding": "クオリア空間を構成する構造そのものの統一性と最大限の還元不可能性によって本来的に達成される。",
+    "information_flow_or_representation": "意識は、クオリア空間の概念的構造内に含まれる情報あるいは表象の構造によって定義される。",
+    "evolutionary_account": "クオリア空間という特徴は根本的である。この構造にアクセスし、あるいはそれを体現しうる物理的システムは、十分な複雑性へと進化しなければならない（正当化：意識の顕現についての汎心論の一般的立場と整合的）。",
+    "core_claims_and_evidence": [
+      "意識は実在の独立した還元不可能な特徴である。",
+      "この特徴は根本的な物理法則に加えて存在する。",
+      "意識の構造はクオリア空間として概念的にモデル化されうる。"
+    ],
+    "basis_of_belief_or_evidence_type": "概念的、現象学的、数学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的かつ概念的に検証可能（正当化：根本的に新しい未知の構造／次元を措定するため、直接的な経験的検証は困難だが、その概念的構造に関連する諸理論は検証可能性を主張する）。",
+    "known_empirical_interventions_or_tests": "数学的モデル化と現象学的相関への依拠（例：経験の構造／幾何学の定義）（正当化：この概念的構造を活用するIITやQRIのような関連する諸理論に依拠する）。",
+    "criticisms_and_tensions": "現在の物理学で知られているものを超える実在の拡張を要するとして批判され、「科学的記述を逃れる」かもしれない理論へと至る。新しい次元を措定する必然性が問われている。",
+    "open_questions_and_limitations": "意識を引き起こす特徴の正確な本性と因果的機構は未知である。この特徴が遍在的（古典的汎心論）なのか、それとも局所的（その最も明快な範例であるIITが示唆するように）なのかは不明である。",
+    "ontological_coherence": "還元不可能な意識を受け入れるべく存在論を拡張する点で整合的であり、汎心論の高次の目標と軌を一にするが、還元的物理主義とは鋭く対照をなす。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確実",
+      "rationale": "クオリア空間における還元不可能な、意識を引き起こす特徴が、技術的に制御され、あるいは非生物学的システムによって例化されうるかどうかに依存する。"
+    },
+    "survival_beyond_death": {
+      "stance": "おそらく可能",
+      "rationale": "意識が実在の根本的な構造あるいは次元であるならば、その恒常性は斥けられえず、必ずしも人格的意識としてではないにせよ、存続の可能性を開いたままにする。"
+    },
+    "meaning_and_purpose": {
+      "stance": "不確実",
+      "rationale": "独立した非物理的な特徴を措定することは究極的意味の可能な基盤を示唆し、それを、究極的な意味／目的／価値の可能性をもつ理論（汎心論や一元論のような）の中間的範疇に位置づける。"
+    },
+    "virtual_immortality": {
+      "stance": "可能",
+      "rationale": "仮想的不死は、クオリア空間内の意識を引き起こす構造が、予測可能な規則性を介して高度な技術によって導かれ、あるいは操作されうるかどうかに依存する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory (IIT)",
+        "relationship": "重複"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "範疇"
+      },
+      {
+        "name": "Qualia Research Institute (QRI)",
+        "relationship": "重複"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, Robert Lawrence Kuhn",
+        "year": 2024
+      },
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Masafumi Oizumi, Larissa Albantakis, Giulio Tononi",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Qualia Research Institute: FAQ",
+        "year": "n.d."
+      }
+    ]
+  }
+}

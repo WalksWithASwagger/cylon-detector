@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "スタンプのトマス主義的二元論",
+    "summary": "この理論は、人間の魂に関する聖トマス・アクィナスの説明を、非デカルト的な形態の二元論として提示する。魂を本質的に非物質的ないし配置的な構成要素でありながらも物質的構成要素の内に実現されるものとして措定し、それによって人間の物質性と、肉体の死後における霊の存続との調停を可能にする。",
+    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "category": "二元論",
+    "subcategory": "哲学的",
+    "core_identity_tagline": "物質の内に実現される非デカルト的な非物質的魂",
+    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識、すなわち人間の魂／霊は、本質的に非物質的ないし配置的な実体であり、物質的構成要素（身体）の内に実現される。",
+    "ontological_status": "実体二元論（非デカルト的／トマス主義的変種）",
+    "mind_body_relationship": "非物質的な魂／霊は物質的構成要素の内に実現され、人間の物質的本性（「汝は塵なり」）と、死後の霊の存続（「霊は神のもとに帰る」）の双方を受け入れる。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発／非還元的（正当化：魂は身体から独立して存続する非物質的な本質を保つと記述されており、それが生じてくる物質的過程へ完全には還元できないことを示している。）",
+    "subjectivity_and_intentionality": "主観性と志向性は根本的に非物質的／配置的な魂に座を持ち、それは肉体の解体後に霊として存続しうる能力によって裏づけられる。",
+    "qualia_account": "クオリアは、物質的身体の内に実現される非物質的／配置的な魂の構成要素の性質に結びつく。",
+    "ontological_commitments": "（「塵」のように）解体に服する物質的身体と、独立した存在が可能な本質的に非物質的ないし配置的な魂／霊。",
+    "epistemic_access": "主として、人間本性および霊的存続に関する基礎的テクストないし直観の哲学的論証と神学的解釈を通じてアクセスされる。",
+    "constituents_and_structure": "人間という人格は複合的な存在者であり、そこでは魂が身体の物質的構成要素によって実現される形相ないし配置的構造として働く。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "一人称的主観性、人格的同一性、死後の存続。",
+    "distinctive_mechanism_or_principle": "人間の魂の非デカルト的な本性は、魂が本来的に配置的であって物理的な人格を結び合わせることを可能にすると同時に、非物質的な構成要素としての独立した存在を保ち、それによって物質的存在と霊的存続の双方を受け入れる。",
+    "dynamics_of_emergence": "魂は生のあいだ物質的身体の内に実現される。死に際して、身体は解体する（「汝は塵なり」）一方、霊は非物質的要素として存続する（「霊は神のもとに帰る」）。",
+    "location_and_distribution": "魂は本来的に非物質的ないし配置的だが、生のあいだは物質的身体の内に実現ないし具現化される。死後、魂は物理世界に対して非局在的である。",
+    "causation_and_functional_role": "この理論は機能よりも存在論に焦点を当てるが、魂の機能は、首尾一貫した人格的同一性と、生を貫きその後も続く持続にとって必要であると含意される。",
+    "integration_or_binding": "魂／霊は、物質的構成要素を単一の人間へと結び合わせる統一的で配置的な原理（形相）として働く。",
+    "information_flow_or_representation": "この理論は、情報的ないし表象的な処理の力学ではなく、存在論的構成（物質と形相／霊）に焦点を当てる。",
+    "evolutionary_account": "この理論は歴史的なスコラ哲学に基礎を置くが、現代的な解釈はおそらく、生物学的複雑性を魂の実現の必要条件として受け入れ、それによって創発を可能にするであろう。",
+    "core_claims_and_evidence": [
+      "魂は非デカルト的かつ配置的であり、物質的構成要素の内に実現される。",
+      "人間は物質的対象である（創世記3章19節に沿う）。",
+      "霊が存在し続けるため、人間という人格は死を超えて存続する（伝道の書12章7節に沿う）。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的および神学的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "おおむね概念的であり、哲学的整合性と、生と死に関する宗教的教義との形而上学的な一貫性に焦点を当てる。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "とりわけ相互作用の問題に関して、伝統的なデカルト的二元論が広く偽ないし非整合的とみなされているという一般的な哲学的批判に応えようと試みる。",
+    "open_questions_and_limitations": "非物質的／配置的な本質が物質的構成要素の内にいかにして「実現」されるのか、そしてこの本質が死後にいかにして意識を維持するのかという正確な機構は、出典の資料では規定されていない。",
+    "ontological_coherence": "その定められたトマス主義的な形而上学的枠組みの内部では高い整合性を持ち、物質的身体の存在と持続的な霊的要素とを調和させるために特に設計されている。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "条件付き",
+      "rationale": "もし意識が、生物学的物質の内に実現される本質的に非物質的ないし配置的な魂に結びついているならば、物理的構成要素のみから構築された人工システムは、魂を生み出す心理物理的法則が非生物学的な基盤にも適用されうるのでない限り、この必要な非物理的構成要素を欠くことになろう。"
+    },
+    "survival_beyond_death": {
+      "stance": "はい",
+      "rationale": "この理論は、人格の意識の座である霊／魂が身体の解体後も存続することを受け入れるよう明示的に構築されている。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙的／神学的",
+      "rationale": "この枠組みはキリスト教スコラ哲学に根ざし、創造と霊の神への帰還に関する聖書的教義を統合し、それによって究極的な意味と目的を与える。"
+    },
+    "virtual_immortality": {
+      "stance": "いいえ",
+      "rationale": "非物理的な実体（魂）を必要とする実体二元論の一変種として、（仮想的不死のように）物理的構造のみを複製しても、自己の連続性に必要な本質的な非物理的構成要素が欠落することになる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "区別（性質二元論は実体二元論を否定するが、トマス主義的二元論は実体と物質的還元主義との伝統的な二分法を超えることを目指す。）"
+      },
+      {
+        "name": "Substance Dualism (Cartesian)",
+        "relationship": "批判"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "重なり"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Non-Cartesian Substance Dualism and Materialism Without Reductionism, Eleonore Stump",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Summa Theologiae, St. Thomas Aquinas",
+        "year": "c. 1265-1274"
+      }
+    ]
+  }
+}

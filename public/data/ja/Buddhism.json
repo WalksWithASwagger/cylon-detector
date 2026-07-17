@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "仏教の空にして幻の現象的意識",
+    "summary": "この理論は、現象的意識あるいは「どのようであるか」という感覚が認知的錯覚の一例であると示唆し、恒常的で内的な「自己」あるいは「魂」の存在を退ける。意識は、あらゆる現象と同様に究極的には固有の本性を欠いて空であり、関係的過程のネットワークとして理解する方がよいと措定する。",
+    "associated_thinkers": [
+      "Nāgārjuna",
+      "Jay Garfield",
+      "Yifa"
+    ],
+    "category": "観念論",
+    "subcategory": "空にして幻の現象的意識",
+    "core_identity_tagline": "「認知的錯覚かつ空としての現象的意識」",
+    "classification_tags": [
+      "emptiness",
+      "illusionism",
+      "non-self",
+      "relationalism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は（現象的な意味で）、過程・関係のネットワークによって構成される認知的錯覚あるいは世俗的実在（中観派）として、あるいは表象の内的で主観的な基体（唯識派）として同定される。",
+    "ontological_status": "観念論（とりわけ唯識派）あるいはデフレ的関係主義（とりわけ中観派）であり、そこではあらゆるものが世俗的には実在するが究極的には固有の本性を欠いて空である。",
+    "mind_body_relationship": "この関係は相互依存的で関係的であり、固有の自己・実体を欠くものと理解される。中心化された心あるいは自己という錯覚は退けられる。",
+    "primitive_or_emergent_status": "諸関係によって構成される世俗的実在。それが記述する現象的自己は根本的に幻であるため、それは典型的な西洋的意味での原初的実体でも創発的性質でもない。",
+    "emergence_type": "自己という主観的感覚は錯覚として退けられるため、強い創発や弱い創発の概念は回避される。意識は相互依存的な過程から生起する世俗的な実在として存在する。",
+    "subjectivity_and_intentionality": "主観性（「私にとって性」）の感覚は第七識によって創り出される有害な認知的錯覚であるが、無我（アナッター）の教説の悟りにおいて究極的には解消する。",
+    "qualia_account": "クオリア（「どのようであるか」）は実在的で固有の性質であることを退けられ、代わりに幻とみなされ、根底にある過程のネットワークのために解消していく。",
+    "ontological_commitments": "世俗的実在と相互依存的な現象へのコミットメント。その一方で、還元不可能な現象的性質、内的表象（中観派）、および恒常的な自己の存在を退ける。第八識（阿頼耶識）もまた措定される。",
+    "epistemic_access": "哲学的論証、意識の過程の分析、および訓練された内省的方法、とりわけ瞑想の技法（これは脳の同期の減少をもたらしうる）を通じて。",
+    "constituents_and_structure": "九種類・九レベルの識の枠組みを通じて分析される過程のネットワーク。すなわち五感、意識（諸感覚を統合する）、内向きの識（自己概念を創り出す）、蔵識（持続し業を担う）、そして仏性（最も清浄な基礎）である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（それを否定するため）、アクセス意識、自己認識（自己を否定するため）、および感覚的・認知的な気づきの異なるレベル。",
+    "distinctive_mechanism_or_principle": "あらゆる現象に適用される空（固有の本性の欠如）の原理であり、現象的意識が認知的錯覚であるという悟りに至る。",
+    "dynamics_of_emergence": "意識は諸過程の相互依存から生起する。自己の経験は気づきと「気づきの気づき」から系列的に立ち現れるが、この自己は幻である。",
+    "location_and_distribution": "非局在的。意識はしばしば関係的に理解される。第九識（仏性）が根源的で最も清浄な核心である。",
+    "causation_and_functional_role": "内向きの第七識が自己という概念を引き起こし、それが欺瞞の源泉である。第八識は業のエネルギーを蓄え死を越えて持続し、それによって再生を可能にする。",
+    "integration_or_binding": "第六識、すなわち意識は、五感を統合し意味を提供するよう機能する。",
+    "information_flow_or_representation": "情報は識のさまざまなレベル（九種類）を通じて処理される。デフレ的な見方は内的表象・クオリアを退け、知覚に関与する過程のネットワークのみを支持する。",
+    "evolutionary_account": "意識は、魂・霊魂に関するインド哲学の伝統の文脈のうちに理解され、それは典型的には生・死・再生の無数の循環を通じた輪廻を伴う。これは意識の持続（第八識）の非生物学的基盤を示唆する。",
+    "core_claims_and_evidence": [
+      "現象的意識（どのようであるか）は認知的錯覚として退けられる。",
+      "意識は、他のあらゆるものと同様に、固有の本性を欠いて空である。",
+      "意識は九つの離散的な気づきのレベルを通じて分析される。",
+      "「自己」は存在しない。それへの信念は幻である。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的、現象学的、霊的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "主として概念的であり、内的な哲学的整合性と瞑想実践を介して得られる現象学的洞察に基づく。経験的研究は、高次の瞑想状態（滅尽定＝ニローダ・サマーパッティ）を測定可能な脳の変化（同期の減少）と相関させることがある。",
+    "known_empirical_interventions_or_tests": [
+      "全体的な脳の同期の減少を示す高次の瞑想状態（滅尽定＝ニローダ・サマーパッティ）の研究。"
+    ],
+    "criticisms_and_tensions": "西洋の哲学者はしばしば、現象的意識が幻であるという中核的主張を反直観的で受け入れがたいとみなす。内部的には、観念論的な唯識派と関係主義的な中観派との間に緊張が存在する。",
+    "open_questions_and_limitations": "中観派が受け入れられる（意識は空である）ならば、問題は意識を定義することから、気づきそのものがいかに生起するかを説明することへと移る。錯覚という主張が堅持されるならば、その提唱者は主観的経験の直観的な実在性に対して絶えず擁護しなければならない。",
+    "ontological_coherence": "二諦（究極的な空と世俗的実在）のような、それ自体の基礎的な形而上学的教説の内部で整合的である。観念論のカテゴリーにおおむね収まるが、中観派は観念論に典型的な実体性に異議を唱える。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定",
+      "rationale": "意識が根本的に過程のネットワークから生じる錯覚であるならば、計算が根本的に排除されはしないとしても、先進的な計算（AI）が複雑な世俗的実在や、この錯覚を生み出す特定の無我の過程を再現できるかは定かでない。"
+    },
+    "survival_beyond_death": {
+      "stance": "是（曖昧／非人格的）",
+      "rationale": "第八識（蔵識）は死後も持続し、輪廻の循環を通じて業のエネルギーを担う。ただし、存続はしばしば宇宙的意識への回帰的な拡張を伴い、個別の一人称的同一性を曖昧にするか消失させる（「砂糖になること」）。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙的／霊的",
+      "rationale": "究極の目標は霊的達成（第九識すなわち仏性への到達）であり、それがエネルギーの核心的源泉かつ究極の成就として、単に人間主義的な目的を超えて働く。"
+    },
+    "virtual_immortality": {
+      "stance": "不要",
+      "rationale": "この理論はすでに持続の機構（第八識）あるいは超越（第九識）を提供しており、人工的でデジタルな複製（仮想的不死）を哲学的に無意味なものとする。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Indian Cosmic Consciousness (Advaita Vedānta)",
+        "relationship": "重複／歴史的背景"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "整合的（現象的実在の拒否に関して）"
+      },
+      {
+        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "relationship": "整合的（自己の拒否に関して）"
+      },
+      {
+        "name": "Madhyamaka School",
+        "relationship": "サブカテゴリー"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Engaging Buddhism, Jay L. Garfield",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Illusionism and givenness, Jay Garfield",
+        "year": 2016
+      },
+      {
+        "title_with_names": "The Nine Consciousness",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Consciousness from Non-Self in Buddhism, Wenge Huang",
+        "year": ""
+      }
+    ]
+  }
+}

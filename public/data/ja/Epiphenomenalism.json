@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "随伴現象説",
+    "summary": "この理論は、意識は生物学的な脳の還元不可能な産物であるが、心的状態は物理的実在に対していかなる因果的力も持たないと主張する。我々の主観的な気づきは実在するが、思考が行為を引き起こすという我々の知覚は誤りである。というのも、意識は海の波の上の泡のように、まったく不活性だからである。",
+    "associated_thinkers": [
+      "David Chalmers (Classifier)",
+      "Frank Jackson (Related Thinker)"
+    ],
+    "category": "唯物論の理論",
+    "subcategory": "哲学的",
+    "core_identity_tagline": "意識は実在するが因果的に不活性である。",
+    "classification_tags": [
+      "property dualism",
+      "non-reductive physicalism",
+      "mental causation",
+      "causal closure",
+      "illusion"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、物理的性質とは存在論的に区別されるが、それらに因果的に依存する現象的性質として同定される（物理的→現象的）。",
+    "ontological_status": "弱い形態の二元論、あるいは非還元的物理主義。物理的なものの完全な因果的閉包性を肯定する。",
+    "mind_body_relationship": "心的状態は完全に生物学的な脳の産物である。物理的状態は現象的状態を引き起こすが、現象的状態は物理的なものに対していかなる因果的効果も持たない（一方向的因果性）。",
+    "primitive_or_emergent_status": "創発的。意識はもっぱら生物学的な脳の産物である。",
+    "emergence_type": "これらの性質は還元不可能であり、物理的性質とは存在論的に区別されるため、たとえ因果的に不活性であっても、現象的性質については一種の強い創発を示唆する。（還元不可能性の主張に基づいて正当化される。）",
+    "subjectivity_and_intentionality": "意識の気づきは実在する。主観性（現象的性質）は存在論的に区別される。心的因果の感覚は錯覚的である。",
+    "qualia_account": "現象的性質（クオリア）は実在し、物理的性質とは存在論的に区別されるが、それらは随伴現象であり、したがって因果的に不活性である。",
+    "ontological_commitments": "物理的状態（脳）と、そこから創発する存在論的に区別された現象的性質（心的状態）。",
+    "epistemic_access": "意識は内省を通じて知られるが、その内省から導かれる因果的行為主体性の感覚は誤導的である（一種の錯覚あるいはトリック）。",
+    "constituents_and_structure": "意識は生物学的な脳の機能の創発的性質あるいは副産物であり、「海の波の上の泡」になぞらえられる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（気づき）。心的因果／行為主体性を明示的に扱い、否定する。",
+    "distinctive_mechanism_or_principle": "「物理的なものの因果的閉包性」という原理は、心的状態がその本性がどうであれ、まったく不活性な副産物でなければならないことを命じる。",
+    "dynamics_of_emergence": "心的状態はもっぱら生物学的な脳によって動的に生成され、すべての意識的な心的事象は先行する無意識的処理を伴う。",
+    "location_and_distribution": "完全に物理的・生物学的な脳の内に位置する。",
+    "causation_and_functional_role": "心的状態はいかなる因果的力も持たない。心はまったく不活性であり、「トップダウン因果」は存在しない。意識は非機能的な副産物である。",
+    "integration_or_binding": "経験の統一は、統一された現象的状態を生み出す脳内の根底的な複雑な物理的過程によって暗黙のうちに達成される。（正当化：焦点は内部の統一の仕組みではなく、外向きの因果性の欠如にある。）",
+    "information_flow_or_representation": "情報処理は完全に物理的／無意識的であり、現象的経験はこの処理の非因果的な並列出力である。",
+    "evolutionary_account": "意識は生物学的な脳の産物であるため、進化と暗黙的に両立する。この性質が実在することは、それが進化を通じて生じたことを示唆するが、その機能の欠如は、それが因果的効力ゆえに選択されたのではないことを意味する。（唯物論の理論としての分類に基づいて正当化される。）",
+    "core_claims_and_evidence": [
+      "意識は完全に物理的であり、もっぱら生物学的な脳の産物である。",
+      "心的状態は物理的状態とは存在論的に区別される（性質二元論）。",
+      "物理的なものの完全な因果的閉包性のゆえに、心的状態はいかなる因果的力も持たない。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（主として心的因果の説明的負担と、物理的因果的閉包性へのコミットメントに動機づけられる）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に問題を抱える。その主要な主張、すなわち意識的状態が因果的力を欠くという主張は、直観に反し、負の因果的関係を証明することを含むため、経験的に検証することが困難である。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "我々には現象的に意識的な状態が因果的に重要であると強く思われるため、この理論は直観に反する。それは、心的因果（思考が物事を引き起こすこと）の感覚が「一種の錯覚あるいはトリック」であることを受け入れることを強いる。",
+    "open_questions_and_limitations": "心的因果の統合が中心的である。というのも、随伴現象説は因果性を否定することで問題を解決するが、これは極めて直観に反する帰結を受け入れることを要求するからである。",
+    "ontological_coherence": "物理的なものの完全な因果的閉包性にコミットする唯物論的存在論の内部では高度に整合的であり、相互作用論的な問題を避けつつ弱い形態の二元論を達成する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可能性が高い",
+      "rationale": "意識が脳内の物理的過程の単なる非因果的副産物（泡）であるならば、それらの物理的過程をAIにおいて再現すれば、非因果的な心的状態が機能的な再現を妨げることなく、同じ意識的状態が生じるはずである。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は完全に物理的であり、もっぱら生物学的な脳の産物である。この物理的依存性は、身体的死を超えた存続を排除する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的な意味のみ",
+      "rationale": "哲学的唯物論の理論として、それは究極的な意味や目的を提供しない。意識は因果的に不活性であるため、宇宙的な目的論的価値を付与することはできない。"
+    },
+    "virtual_immortality": {
+      "stance": "きわめて可能性が高い",
+      "rationale": "意識の不活性な本性は、物理的状態をアップロードすれば必然的に随伴現象的な心的状態も複製されることを意味する。不活性な「泡」は、仮想的不死の達成にほとんど影響を及ぼさないはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "弱い形態／類型"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "より弱い形態／重なり"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "類似するが、より支持の少ない代替案"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "対比（創発的二元論は因果的効力を肯定し、随伴現象説はそれを否定する）"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Facing up to the Problem of Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      }
+    ]
+  }
+}

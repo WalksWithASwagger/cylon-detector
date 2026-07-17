@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "ブンゲの創発的唯物論",
+    "summary": "マリオ・ブンゲは、心身一元論(psychoneural monism)の一形態である創発的唯物論を提唱し、心とは複雑な中枢神経系(CNS)の機能・活動の集合であると主張する。心的状態は脳状態の創発的な部分集合であり、神経可塑性によって特徴づけられ、基礎的な物理法則には還元できない性質をもつ。彼は科学に基づく心理生物学的アプローチを求める。",
+    "associated_thinkers": [
+      "Mario Bunge"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "創発的なCNSの機能としての心的状態",
+    "classification_tags": [
+      "materialism",
+      "emergentism",
+      "psychoneural monism",
+      "systems theory",
+      "neurobiological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識(心)は、きわめて複雑な中枢神経系の機能(活動、出来事)の集合、とりわけ神経可塑性と学習を示す心的状態と同一視される。",
+    "ontological_status": "創発的唯物論／心身一元論(唯物論的でありながら明示的に非物理主義的であると定義される。すなわち世界は全面的に物質的であるが、物理学がすべての現象を説明できるわけではない)。",
+    "mind_body_relationship": "心的状態は、区別される脳状態・過程の部分集合と同一である(心身一元論)。この関係は、完全な認識論的還元を伴わない存在論的還元を含む。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発が含意される。というのも心的性質はCNSという系に固有であり、その構成要素である物理的・化学的性質には還元できないからである。",
+    "subjectivity_and_intentionality": "CNSのきわめて複雑な創発的機能として説明される。この理論は独立した心的実体の必要性を斥け、主観的経験をこうした複雑な系全体の機能の産物として扱うが、詳細なメカニズムは綱領的なままである。",
+    "qualia_account": "クオリアは、神経可塑性を示す特定の創発的なCNSの機能・状態と同一でなければならない。この理論は、CNSのこうした特異な創発的性質を無視するとして、二元論と還元的唯物論を斥ける。",
+    "ontological_commitments": "物質的世界、中枢神経系(CNS)、創発的性質、状態空間(数学的に厳密な言語のために用いられる)。",
+    "epistemic_access": "心理生物学的アプローチによる厳密な科学的探究を通じてアクセスされ、客観的な脳の事実と、状態空間に基づく数学的に厳密な言語を重視する。",
+    "constituents_and_structure": "複雑な中枢神経系。これは多層的な系として組織され、心的状態は神経可塑性を示す機能である。",
+    "causation_and_functional_role": "心(CNSの機能)は因果的に有効であり、行動を説明する。この理論は一般システム理論の内部で多層的アプローチを用いる。",
+    "integration_or_binding": "複雑で統一された中枢神経系の内在的機能と、状態空間言語によって数学的に定義される系レベルの創発的性質を通じて、暗黙的に達成される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの、学習／神経可塑性、行動／神経過程。",
+    "distinctive_mechanism_or_principle": "中枢神経系の複雑で組織化された構造の内部で作動する創発の原理であり、低次の物理法則に還元できない性質(心的状態・機能)を生み出す。",
+    "dynamics_of_emergence": "意識は動的な過程、あるいは活動・出来事の集合である。創発は、系(CNS)は有するがその構成要素は有しない性質として定義される。",
+    "location_and_distribution": "脳状態の部分集合として、中枢神経系(CNS)の内部に局在する。",
+    "causation_and_functional_role": "心的状態は行動を説明するために用いられる、CNSの因果的に有効な機能である。その説明には神経科学と社会科学の総合が必要である。",
+    "integration_or_binding": "統合は複雑で統一されたCNSという系に内在する機能であり、おそらく数学的に厳密な状態空間言語によって記述可能である。",
+    "information_flow_or_representation": "心的状態は神経可塑性、とりわけ学習を示す過程によって区別される。状態空間言語を用いる数学モデルが表象にとって決定的に重要である。",
+    "evolutionary_account": "心的状態は生体系において進化した過程であり、神経可塑性と学習の能力によって、系統発生的に固定された脳状態から区別される。",
+    "core_claims_and_evidence": [
+      "心は中枢神経系の創発的な機能・活動の集合である。",
+      "心的状態は、神経可塑性と学習によって区別される脳状態の部分集合をなす。",
+      "その説明には、神経科学と社会科学を総合する心理生物学的アプローチが必要である。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的(一元論的・唯物論的コミットメント)、科学的・経験的(入手可能なデータと既存の心理学モデルに基づく)、システム理論的・数学的。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "綱領的かつ検証可能性をもつ。ブンゲはこれを、心理生物学的データに基づく詳細なメカニズム、とりわけ数学的なメカニズムを要する仮説として提唱したからである。",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "この理論は綱領的であり、詳細な数学的・機構的発展を要する。ブンゲは、CNSの特異な創発的性質を無視するとして、競合する唯物論的理論(消去的唯物論や還元的唯物論など)を批判する。",
+    "open_questions_and_limitations": "この理論には、創発がいかにして生じるか、また心的状態が特定の脳状態にいかに対応するかを十全に明示するための、詳細な数学的メカニズムが必要である。",
+    "ontological_coherence": "きわめて整合的であり、古典的物理主義の不備に応えつつ非物質的実体や二元論を斥ける、特定の唯物論的立場(創発的唯物論)を打ち立てている。",
+    "causation_and_functional_role": "この理論は、CNSの創発的性質としての心的状態の因果的有効性を含意し、その随伴現象説の拒否と整合する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "ありうる",
+      "rationale": "意識が複雑な物理系(CNS)の特定の機能である唯物論的一元論として、必要とされる複雑な創発的機能を人工的な基体において実現することに対する原理的な禁止は存在しない。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識は生物学的な中枢神経系の活動・機能として定義され、死後の存続に必要となる「独立した心的実体」や魂を明示的に斥ける。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間的なもののみ",
+      "rationale": "唯物論の諸理論と一貫して、この理論は意識の純粋に物理主義的な説明を提供し、究極的で宇宙的な意味や目的はありそうにないと示唆する。ただし人間的な意味と価値は意識的な行為者によって創り出される。"
+    },
+    "virtual_immortality": {
+      "stance": "是",
+      "rationale": "一人称的な心的自己はCNSの機能・過程の集合と同一視されるので、これらの機能を非生物学的媒体へ完全に複製・シミュレーション(アップロード)すれば、原理的には意識の連続性が確保されるはずである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Searle’s Biological Naturalism",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Reductive Materialism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "重なり"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Mind-Body Problem: A Psychobiological Approach, Mario Bunge",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Matter and Mind: A Philosophical Inquiry, Mario Bunge",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Emergence and the mind, Mario Bunge",
+        "year": 1977
+      }
+    ]
+  }
+}

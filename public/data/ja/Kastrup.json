@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "分析的観念論",
+    "summary": "分析的観念論は、現象的意識が根源的であり、実在の唯一の原初的なものであると主張する意識のみの存在論である。物理的世界や個々の心を含む自然のなかの他のすべては、この空間的に非局限的な宇宙意識の励起パターンないし表現に基礎づけられる。",
+    "associated_thinkers": ["Bernardo Kastrup"],
+    "category": "観念論",
+    "subcategory": "存在論的観念論",
+    "core_identity_tagline": "究極的実在にして唯一の存在論的原初としての意識",
+    "classification_tags": [
+      "metaphysical",
+      "consciousness-only",
+      "dissociation",
+      "non-materialist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、唯一の、空間的に非局限的な、根本的な存在論的原初（宇宙意識）と同一視される。",
+    "ontological_status": "観念論（現代の分析的形而上学）",
+    "mind_body_relationship": "個々の心は宇宙意識の解離した交代人格である。無生物的な物理的世界は、この普遍的意識内の思考と情動の外的な眺めであり、意識から独立した物理的世界とは誤った知的抽象であることを意味する。",
+    "primitive_or_emergent_status": "原初的（根本的）",
+    "emergence_type": "該当なし",
+    "subjectivity_and_intentionality": "個体的な主観性は、宇宙意識の解離によって生み出される局在化から生じる。志向性は、根本的な気づきの固有の諸性質に基礎づけられる。",
+    "qualia_account": "クオリアは内在的に実在し根本的であり、根本的な現象的意識内の励起パターンを構成する。",
+    "ontological_commitments": "現象的意識（宇宙意識）、解離した交代人格、励起パターン。",
+    "epistemic_access": "意識はあらゆる実在の基盤であるため、根本的には現象的経験／内省を通じてアクセス可能である。状況証拠的な経験的証拠（例えば変性状態）は物理主義的な代替案に異議を唱えるために用いられる。",
+    "constituents_and_structure": "基本的な構成要素は空間的に非局限的な意識である。個々の存在体は、この単一の場の内で解離を介して生み出される局在化された構造である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、実在の存在論、物理的存在、死後の生。",
+    "distinctive_mechanism_or_principle": "解離の原理。これは単一の宇宙意識を、一見孤立した主観（交代人格）へと局在化する。",
+    "dynamics_of_emergence": "意識は根本的で動的である（創造的過程）。個々の心は解離の過程を通じて生じ、より大きな宇宙意識の内に局在化される。",
+    "location_and_distribution": "遍在的である。意識は根本的で空間的に非局限的である。個々の意識的主観は局在化された境界条件（解離した交代人格）である。",
+    "causation_and_functional_role": "因果性は意識そのものに基礎づけられる。無生物的世界は普遍的な心的活動の外的な顕現であり、他方で脳は個体的意識を制約ないし媒介する働きをなす。",
+    "integration_or_binding": "統合は宇宙意識の単一の本性に内在する。個体的な心の内での局在化ないし統一は、解離した交代人格の境界によって定義される。",
+    "information_flow_or_representation": "物理的過程（脳活動など）は、意識に根ざしたその心的活動の外的な眺めに対応するため、個人の心的活動と密接に相関する。",
+    "evolutionary_account": "意識は根本的であるため、意識の起源のメカニズムとしては直接扱われないが、個々の生体が宇宙意識の構造の一部として進化すると想定する。",
+    "core_claims_and_evidence": [
+      "現象的意識は唯一の存在論的原初である。",
+      "物理的世界は普遍的意識の外的な眺めである。",
+      "脳活動の低下を示すサイケデリック経験の神経画像は、物理主義的な生成仮説と矛盾する。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的論証、現象学的洞察、概念的節約性、状況証拠的な経験的証拠。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的／概念的。主として、対抗する形而上学的理論の非整合性ないし節約性の欠如を示すことによって、また極限的状態における経験的帰結を予測することによって検証可能である。",
+    "known_empirical_interventions_or_tests": [
+      "物理主義的理論を批判するために、サイケデリック状態の神経画像（豊かな経験が脳活動の低下と相関する）を引用する。"
+    ],
+    "criticisms_and_tensions": "主要な批判的難点は「分解問題」である。すなわち、諸主観の一見別個の現象的な内的生が、根本的に単一の現象的な場の内でいかに生じうるかを説明することである。また、共通の外的世界が個人の意志から独立していることを調停せねばならない。",
+    "open_questions_and_limitations": "中核的な困難は、解離のメカニズム、および局在化（分解問題）が個々の交代人格によっていかに維持され経験されるかを十全に詳述することにある。",
+    "ontological_coherence": "それ自身の観念論的枠組みの内では高度に整合的であり、物理主義、汎心論、宇宙心論よりも大きな説明上の節約性を有すると論じる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "否",
+      "rationale": "カストラップは、意識のあるAIは幻想であると示唆し、意識は現在のコンピュータが行う計算ないし情報処理へと還元可能ではないと論じる。意識はハードウェアの機能ではなく根本的な現象的実在に結びついている。"
+    },
+    "survival_beyond_death": {
+      "stance": "可能性が高い",
+      "rationale": "身体の死は局所的な境界（解離した交代人格）の停止をもたらすと予測され、意識的な内的生を根底にある普遍的意識へと再び拡張させる。これは臨死体験（NDE）の報告によって状況証拠的に支持される。"
+    },
+    "meaning_and_purpose": {
+      "stance": "宇宙的かつ究極的",
+      "rationale": "意識は究極的実在であるため、存在は根本的に心／気づきに基礎づけられ、唯一の根本的な意識に根ざした意味と目的を内在的に提供する。"
+    },
+    "virtual_immortality": {
+      "stance": "否",
+      "rationale": "意識は物理的構造へと還元可能なアルゴリズムやソフトウェアプログラムではない。それゆえ神経パターンのアップロード（シミュレートされた継続）は、真の主観的経験を欠いた機能的複製（「ディープフェイク」）をもたらすにすぎない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Physicalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Bottom-Up Panpsychism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Cosmopsychism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Faggin's Quantum Information-based Panpsychism",
+        "relationship": "両立可能／影響"
+      },
+      {
+        "name": "Jung’s Synchronicity and the Collective Unconscious",
+        "relationship": "両立可能／影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "An ontological solution to the mind-body problem",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The universe in consciousness",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Analytic Idealism: A Consciousness-Only Ontology, Dissertation",
+        "year": 2019
+      }
+    ]
+  }
+}

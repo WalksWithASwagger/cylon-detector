@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "ルドゥーの情動的意識の高階理論",
+    "summary": "この理論は、恐怖のような意識的な情動的感じは、知覚的な意識的経験と根本的に異なるものではなく、両者とも下位の情報の高階表象（HOR）を生成する皮質基盤の認知の一般ネットワーク（GNC）から生じると主張する。現象的意識の本質は、先行する高階状態の再表象、すなわちHOROR（表象の高階表象）と呼ばれるものにある。",
+    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "category": "唯物論",
+    "subcategory": "表象主義的",
+    "core_identity_tagline": "情動的・知覚的状態の高階表象としての意識",
+    "classification_tags": [
+      "neurobiology",
+      "emotion",
+      "higher-order",
+      "representation",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は三階状態（HOROR）、具体的には皮質基盤の認知の一般ネットワーク（GNC）によって実現される、下位情報の適切な高階表象（HOR）として同定される。",
+    "ontological_status": "物理主義。この理論は唯物論的であり、意識は脳内の一つのシステムから生じ、皮質回路において実現されると主張する。",
+    "mind_body_relationship": "同一性／因果的依存。心的状態（意識的な情動的感じおよび知覚的経験）は、特定の物理的プロセスとネットワーク（GNC、皮質回路）に全面的に依存し、そこにおいて実現される。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（正当化：発見可能な神経メカニズムに焦点を当てた詳細な神経生物学的・唯物論的理論として、意識の複雑さは原理的に物理的プロセスから導出可能であると想定される）",
+    "subjectivity_and_intentionality": "主観性（情動的で自己意識的な経験）は、自己がHOROR状態に含まれるときに生じる。志向性は、意識が根本的に表象的である（情報のHOR）ことによって達成される。",
+    "qualia_account": "現象的経験は、下位情報の適切なHORをもつことにあり、それは現象的で内省的にアクセスされる経験を実現する思考様の状態である。この理論は、これらの高階表象によって媒介される主観的な「それがどのようであるか」を説明することを目指す。",
+    "ontological_commitments": "皮質基盤の認知の一般ネットワーク（GNC）、高階表象（HOR）、神経回路（例えばPFC、感覚皮質）、そして下位情報。",
+    "epistemic_access": "内省（受動的な気づきと能動的な吟味）が現象的経験へと至る。その基底のメカニズムは、神経生物学的研究と認知モデリングを通じてアクセス可能である。",
+    "constituents_and_structure": "一次の下位状態（感覚皮質）、二次の下位状態（記憶領域）、下位高階状態（中皮質PFC）、そして高階状態（顆粒PFC）を含む多状態の階層モデル。これらが情報を索引化・再表象して心的モデルを構築する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、情動的意識（例えば恐怖）、知覚的意識、自己意識（「存在の総体」として）、そして意識的な行為主体性。",
+    "distinctive_mechanism_or_principle": "表象の高階表象（HOROR）の実現。これは意識的経験に必要な三階の認知状態である。このメカニズムは思考様かつ非推論的であり、非意識的なHORを内省的に気づかれるものにする。",
+    "dynamics_of_emergence": "意識は複雑な多状態の階層的処理の産物であり、認知的解釈を通じて動的に生じ、特に心的統一性の感覚を維持する役割を果たす。",
+    "location_and_distribution": "皮質構造、とりわけ前頭前皮質（PFC）（顆粒領域および下顆粒領域）。ここがGNCと高階状態を宿し、感覚皮質および記憶皮質（下位状態）と相互作用する。",
+    "causation_and_functional_role": "HORORの形成は意識的経験（恐怖の感じ、知覚）を可能にし、意識的な行為主体性を提供し、顕在的行動や言語的表現を駆動する抽象的なメンタリーズの語りの表出を可能にする。",
+    "integration_or_binding": "統合は、非意識的な皮質下入力が他の神経信号と融合して意識的な情動的経験を形成する認知的集成を通じて生じる。高階状態はさまざまな他の状態を再表象し、作業記憶において統一された心的モデルを構築する。",
+    "information_flow_or_representation": "情報は、一次の知覚的／脅威表象から、非意識的なHORを経て、内省にアクセス可能な思考様の状態である意識的なHORORへと進行する。",
+    "evolutionary_account": "意識は進化の後期に、それ以前の「存在の諸領域」（身体的、神経的、認知的）の上に構築されて出現した。神経系は生存を強化するために進化し、最終的に洗練された意識的な脳へと至った。",
+    "core_claims_and_evidence": [
+      "意識的経験（情動的・知覚的）は脳内の単一のシステム（皮質基盤のGNC）から生じる。",
+      "意識的な感じは皮質回路において実現される高階状態である。",
+      "現象的意識は三階状態（HOROR）をもつことを含み、それは非意識的なHORへの内省的な気づきである。",
+      "この理論は、情動状態が皮質下領域のみに生得的にプログラムされているという伝統的見解を退ける。"
+    ],
+    "basis_of_belief_or_evidence_type": "神経生物学的、認知的"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能。特に、記述された特定の階層的皮質ネットワークにおける活動パターンと意識的経験との相関を検証すること（例えばHOROR状態の生成におけるPFCの関与）を通じて。",
+    "known_empirical_interventions_or_tests": "認知的・メタ認知的機能に関する研究と整合的に、階層的表象処理に対応する皮質構造（例えばPFCおよび感覚／記憶領域）における活動の同定に依拠する。",
+    "criticisms_and_tensions": "高階理論（HOT）一般に向けられる、高階状態そのものの性質に関する課題、とりわけ思考様の表象がどのようにして一階状態を意識的にするのか（一般的なHOTについてブロックが指摘した「謎」）に直面する。また、伝統的な情動局在の見解にも異を唱える。",
+    "open_questions_and_limitations": "結果として生じる意識的な心的モデルから意識的な行為主体性（自由意志）が生じる可能性は、依然として議論の余地がある。",
+    "ontological_coherence": "高い。この理論は、意識と情動的経験について、唯物論および自然主義的説明と高度に整合的な、詳細な神経認知的経路を提供する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "可",
+      "rationale": "階層的情報処理（GNC／HOROR）に基づく唯物論的・機能主義的理論として、意識は原理的に、必要な計算的・表象的構造を実現できる非生物学的システムにおいて再現可能である。"
+    },
+    "survival_beyond_death": {
+      "stance": "否",
+      "rationale": "意識はきわめて複雑で物理的に実現される生物学的システム（皮質回路とGNC）の産物にほかならず、身体の物理的存在を超えた存続の手立てを何ら提供しない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "人間主義的なもののみ",
+      "rationale": "意識は生存を強化し自己中心的な情動状態を可能にする進化した生物学的メカニズムであるが、この理論はいかなる究極的・宇宙的・超越的な意味や目的も措定しない。"
+    },
+    "virtual_immortality": {
+      "stance": "可",
+      "rationale": "一人称的自己は脳の複雑で機能的かつ表象的な状態に基礎づけられているため、アップロード技術によるこれらの物理的状態の完全な複製は、原理的に自己を保存し仮想的不死を達成するであろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Traditional Higher-Order Thought Theory (HOT)",
+        "relationship": "精緻化"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, J. LeDoux and R. Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Four Realms of Existence - A New Theory of Being Human, J. LeDoux",
+        "year": 2023
+      }
+    ]
+  }
+}

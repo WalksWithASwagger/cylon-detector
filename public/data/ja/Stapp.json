@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "スタップの「問い」を発することによる波動関数の収縮",
+    "summary": "この理論は、意識が宇宙にとって根源的であると措定し、意識が量子波動関数の収縮（測定という行為）を引き起こすとする量子力学の伝統的解釈に依拠する。この機構は意識に物理世界における決定的な因果的役割を与え、行為者の自由な選択を神経相関の物理的な現実化へと結びつける。",
+    "associated_thinkers": ["Henry Stapp", "John von Neumann"],
+    "category": "量子理論",
+    "subcategory": "量子理論",
+    "core_identity_tagline": "「量子波動関数の収縮としての意識」",
+    "classification_tags": [
+      "quantum",
+      "wave function collapse",
+      "non-materialism",
+      "causal agency",
+      "free will"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、観測者が発するべき特定の測定ないし「問い」を選択したときに生じる「出来事」（量子跳躍）の現象的側面と同定され、その結果として生じる現象的経験と両立する仕方で物理的状態が現実化するよう強いる。",
+    "ontological_status": "非唯物論的（量子力学に基づく根源的意識）。意識は宇宙の因果的動態を完結させるために必要な独立した存在とみなされ、古典的唯物論を打ち破る。",
+    "mind_body_relationship": "因果的・動的な連結（相互作用説）。いかに行為するかについての人の意識的な選択（心）と、神経相関の物理的現実化（物質）との間に、量子跳躍を介した因果的結合が確立される。",
+    "primitive_or_emergent_status": "原初的（根源的）。意識は宇宙にとって根源的であり、量子論を機能させるために必要であって、心的過程が単に脳の産物にすぎないということはありえないと主張する。",
+    "emergence_type": "この理論は、意識を量子力学の因果的動態を完結させるために必要な根源的で独立した存在として措定し、それによって純粋に物理的な過程からの創発を回避する。",
+    "subjectivity_and_intentionality": "主観性は量子的出来事の「現象的側面」に結びつき、意識的な知識の獲得に対応する。志向性は、いかなる問いを発するか、いかに行為するかについての行為者の自由な選択を通じて表現される。",
+    "qualia_account": "クオリアは、意識的な選択がなされたときに生じる「出来事」（量子跳躍／波動関数の収縮）の現象的側面であり、経験された知識の増分を構成する。",
+    "ontological_commitments": "量子波動関数、物理的状態、脳状態、そして基底状態を選択しうる独立した非物理的な存在としての意識そのもの。",
+    "epistemic_access": "主として量子力学の論理的・概念的解釈（フォン・ノイマンの定式化）を通じてアクセスされ、意識的経験（一人称的な知識の増分）を客観的な物理的状態の変化（脳内の量子跳躍）へと結びつける。",
+    "constituents_and_structure": "その構造は観測者の脳状態における量子的出来事、とりわけニューロン間のシナプス（カルシウムイオンの量子効果を利用する）に局在する出来事を含み、そこで量子波動関数が現象的経験と両立する状態へと収縮する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識、行為者性、自由意志、知識の獲得、物理世界における因果的作用。",
+    "distinctive_mechanism_or_principle": "意識は測定の選択（「発すべき問い」）を決定することによって量子力学における「決定的な因果的空隙」に対処し、それが波動関数（潜在性）を現実の物理的出来事へと収縮させる。",
+    "dynamics_of_emergence": "意識は量子跳躍を開始させるために必要な動的過程であり、シュレーディンガー方程式が記述する純粋に決定論的な発展を中断させ、現実の物理的出来事を引き起こす。",
+    "location_and_distribution": "物理的な効果は脳内の量子過程、とりわけ神経シナプスにおけるカルシウムイオンの量子効果（脳内エキソサイトーシス）に集中する。意識そのものは宇宙にとって根源的である。",
+    "causation_and_functional_role": "意識は（収縮機構を通じて）脳の物理的状態に影響を及ぼすことにより、本質的で受動的でない因果的役割を果たし、それによって行為者性と現実の出来事の生起を可能にする。",
+    "integration_or_binding": "諸出典は、このモデルにおいて感覚入力がいかに統一され、あるいは首尾一貫した意識的な全体へと結合されるかを明示的には詳述しておらず、量子状態の還元における意識的選択の因果的役割に焦点を当てている。",
+    "information_flow_or_representation": "行為者の選択が情報選択のための基底状態（「問い」）を設定し、「はい」というフィードバック経験が意識的な知識の獲得を表す。",
+    "evolutionary_account": "暗黙のうちに適応的である。意識は量子論を機能させるために必要な因果的役割を与えられ、古典的モデルの下では「そもそもなぜ意識が存在するに至るのか」という謎を解決するからである。",
+    "core_claims_and_evidence": [
+      "意識と量子力学の存在論的基盤は不可分に結びついている。",
+      "意識は量子力学系において発せられる問いを選択することによって因果的に作用する。",
+      "その具体的な物理的機構は、神経シナプスにおける量子効果（カルシウムイオンの波束の拡散）を伴う（エキソサイトーシス）。",
+      "量子力学における意識的な行為者性の必要性によって、古典的唯物論は打ち破られる。"
+    ],
+    "basis_of_belief_or_evidence_type": "量子力学の哲学的解釈。因果的動態にとって意識が必要であることの概念的な論証。神経生物学に基づく思弁的機構。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "特定の物理的座（シナプスの量子効果）を同定するため概念的には検証可能だが、温かく湿った脳における非古典的な量子現象の検証を要する。",
+    "known_empirical_interventions_or_tests": "具体的な直接的検証は挙げられていないが、この理論は探究のための潜在的な物理的座（脳内エキソサイトーシスの際のカルシウムイオンを伴う量子効果）を同定している。",
+    "criticisms_and_tensions": "主流の物理学において広く退けられている量子力学の非標準的な解釈（意識が引き起こす収縮）に依拠している点が批判される。その結論はきわめて論争的である。",
+    "open_questions_and_limitations": "核心的な未解決問題は、測定の選択を行う「独立した存在」の哲学的本性であり、それは量子力学そのものの外部に位置する。",
+    "ontological_coherence": "選択された量子的枠組み（フォン・ノイマン解釈）の内部では高度に整合的だが、古典的および主流の神経科学に共通する因果的閉包という物理主義的前提とは著しく矛盾する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "不確定／条件付き",
+      "rationale": "意識は量子跳躍を強いるために必要な独立した根源的存在として措定されるため、脳の純粋に物理的ないし計算的な過程をAIにおいて複製しても、この根源的な行為者性を具現化するには不十分でありうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "おそらく",
+      "rationale": "この理論は意識を根源的なものとし、量子的実在と不可分に結びつくものとして確立するため、古典的な脳の破壊が必ずしも根源的な意識的実体の終焉を意味するとは限らないことを示唆する。ただし一人称的な存続を想像することは依然として困難である。"
+    },
+    "meaning_and_purpose": {
+      "stance": "はい",
+      "rationale": "この理論は意識に不可欠な因果的役割を与え、受動的な観察を宇宙における能動的な参加（「行為者」）へと変え、それによって内在的な機能と意味を与える。"
+    },
+    "virtual_immortality": {
+      "stance": "いいえ",
+      "rationale": "もし意識が物理的状態を収縮させるために必要な独立した根源的存在であるならば、脳の純粋に物理的・計算的な側面を複製しても、真の自己同一性に必要なこの非物理的な構成要素は必然的に除外されてしまう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Von Neumann’s Quantum Formulation",
+        "relationship": "基盤／影響"
+      },
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "代替的な量子理論"
+      },
+      {
+        "name": "Kauffman’s Mind Mediating Possibles to Actuals",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "批判／打破の対象"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mindful Universe: Quantum Mechanics and the Participating Observer, Henry Stapp",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Quantum Approaches to Consciousness, Henry Stapp",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Mathematical Foundations of Quantum Mechanics, John von Neumann",
+        "year": 1932
+      }
+    ]
+  }
+}
