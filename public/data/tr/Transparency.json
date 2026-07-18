@@ -1,0 +1,116 @@
+{
+  "id_and_class": {
+    "theory_title": "Saydamlık Tezi (Saydamlık Kuramı)",
+    "summary": "Saydamlık tezi, duyusal deneyimin salt temsilî olduğunu, dikkati algısal durumun kendi içkin özelliklerine değil yalnızca dış nesnelere ve onların özelliklerine yönelttiğini savunur. Merkezî tez, içe bakışın bu temsillerin ötesinde herhangi bir zihinsel özelliği açığa çıkaramaması nedeniyle, fenomenal bilincin materyalizm açısından özel bir sorun oluşturmadığını ileri sürer.",
+    "associated_thinkers": [
+      "William G. Lycan",
+      "Gilbert Harman",
+      "Michael Tye",
+      "Dirk Franken"
+    ],
+    "category": "Materyalist Kuramlar",
+    "subcategory": "Temsilî Kuramlar",
+    "core_identity_tagline": "'Saydam Temsil Olarak Bilinç'",
+    "classification_tags": [
+      "representationalism",
+      "materialism",
+      "intentionalism",
+      "qualia_reduction"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Fenomenal bilinç (fenomenal karakter), deneyimin temsilî içeriğiyle (yönelimsel içerik) özdeşleştirilir ya da ona indirgenir.",
+    "ontological_status": "İndirgemeci Fizikalizm/Materyalizm (kuram, fizikalizme karşı öne sürülen argümanları çürütmek için kullanılır).",
+    "mind_body_relationship": "Özdeşlik kuramı/İndirgemecilik (fenomenal karakter, fiziksel olarak gerçeklendiği varsayılan yönelimsel içeriğe indirgenir ve böylece materyalist kampa yerleşir).",
+    "primitive_or_emergent_status": "İlksel değil; indirgemeci biçimde beliren (nöral temsilî içerik üzerine süpervenient)",
+    "emergence_type": "Zayıf Beliriş (kuram, fenomenal özelliklerin tümüyle temsilî içerikle tükendiğini ya da ona indirgenebildiğini göstermeyi amaçlar; bu da zayıf beliriş/indirgemecilik ilkeleriyle uyumludur).",
+    "subjectivity_and_intentionality": "Öznel fenomenal nitelik, özneye sunulan duyulur özelliklerle bütünüyle tanımlanır ve tükenir. Yönelimsellik (dış nesneleri temsil etme niteliği), bilinçli durum için temeldir.",
+    "qualia_account": "Qualia, yani fenomenal bilincin niteliksel özellikleri, algısal durumun temsilî özelliklerinin ötesinde ve üstünde bir özellik olarak kabul edildiklerinde yanıltıcı ya da tutarsızdır. Fenomenal karakter yönelimsel içeriğe indirgenir.",
+    "ontological_commitments": "Dış nesneler ve onların görünen özellikleri, algısal durumlar ve temsilî içerik. Kuram, içkin, temsilî olmayan zihinsel özelliklerin varlığını açıkça reddeder.",
+    "epistemic_access": "İçe bakış (merkezî saydamlık tezi, deneyimin içe bakışına dayanır; bunun, nesne tarafından temsil edilenlerin ötesinde herhangi bir içkin özelliği açığa çıkarmadığı öne sürülür).",
+    "constituents_and_structure": "Yalnızca dış nesneleri ve onların özelliklerini temsil ederek işleyen algısal durumlar. Bilinçli deneyimin yapısı, özneye sunulan duyulur özelliklerin dağılımıdır."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal Bilinç (qualia), Algı (özellikle görsel deneyim).",
+    "distinctive_mechanism_or_principle": "Saydamlık Tezi: dikkat içe yöneltildiğinde yalnızca algılanan dış nesnenin özelliklerini bulduğu ilkesi; bu da fenomenal karakterin temsilî içeriğe eşit olduğu iddiasını destekler.",
+    "dynamics_of_emergence": "Vurgu, dinamik bir beliriş sürecini betimlemekten ziyade bilinçli durumların özelliklerini nitelemeye yöneliktir. Kişinin aracı durumun içinden 'doğrudan gördüğü' sonuç durumunu betimler.",
+    "location_and_distribution": "Kuram, fenomenal içeriğin (temsilin) kendi doğasına odaklanır. Bir Materyalist kuram olarak örtük biçimde, bu içerik beyindeki nöral etkinlikle gerçeklenir.",
+    "causation_and_functional_role": "İşlevsel rol, algısal durumun kendisine değil, dış nesneleri doğru biçimde temsil etmek ve onlara özellikler atfetmektir.",
+    "integration_or_binding": "Açıkça ayrıntılandırılmamış, ancak algılanan özelliklerin (örn. renk, biçim) birleşik dış nesneye başarıyla atfedilmesinde ima edilmiştir. Algılanan özellikler, bir görünüş alanında özneye sunulanlardır.",
+    "information_flow_or_representation": "Bilgi, temsil olarak işlenir; fenomenal bilinç özünde bilgisel niteliktedir, özellikle dış nesneleri temsil eden içeriktir.",
+    "evolutionary_account": "Açıkça ele alınmamış, ancak materyalizmin temsilci alt kategorisiyle uyumludur; bu alt kategori genellikle çevreyi doğru biçimde temsil ederek uyum başarısını artıran duyusal işlevin evrimsel açıklamasıyla bağdaşır.",
+    "core_claims_and_evidence": [
+      "Duyusal deneyim, dış nesneleri ve onların görünen özelliklerini temsil eder ve böylece materyalizm için doğan sorunları ortadan kaldırır.",
+      "İçe bakış, temsilî olanların ötesinde herhangi bir zihinsel özellik açığa çıkarmaz (asıl Saydamlık Tezi).",
+      "Güçlü temsilciliğin, materyalizme karşı öne sürülen bilgi argümanını çürüttüğü iddiası."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefî (fenomenolojik gözleme ve içe bakışa dayalı argüman)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir/Fenomenolojik olarak sınırlanmış (başlıca sınaması, nesnel yanlışlama yöntemleri merkezî olmasa da, içe bakış iddiasının tutarlılığıdır).",
+    "known_empirical_interventions_or_tests": "İçe bakış (kuram, 'en kararlı içe bakışın dahi böyle ek özellikleri hiç açığa çıkarıp çıkarmadığı' sorusuna dayanır). Bulanık görme gibi sorunlu durumlar, savunucular tarafından ele alınır.",
+    "criticisms_and_tensions": "Eleştirmenler, algılanan tüm özelliklerin nesnenin dış özellikleri olduğu iddiasına olası karşı örnekler olarak bulanık görme gibi olguları öne sürer. Tez, fenomenal niteliklerin zihinsel durumun bağımsız özellikleri olduğu düşüncesini yadsır.",
+    "open_questions_and_limitations": "Deneyim yalnızca dış özellikler içeriyorsa bulanık görme gibi içsel durumların nasıl deneyimlenebildiği gibi görünürdeki tutarsızlıkları çözmelidir.",
+    "ontological_coherence": "Yüksek (indirgemeci fizikalizmle ve indirgenemez fenomenal özelliklerin varlığını yadsıyarak zihin-beden sorununu çözmeye çalışan güçlü temsilcilik gibi kuramlarla iç tutarlılığı yüksektir)."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Materyalist Kuramların felsefî bir savunması olarak, bilincin hesaplamalı ya da temsilî olduğu görüşünü destekler; bu da yapay zeka bilincinin ilkece kesinlikle mümkün olduğu anlamına gelir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, fiziksel beyinden türeyen temsilî durumlara dayanır. Materyalist paradigmayı izleyerek, beynin yok olması kişinin kalıcı olarak var olmayışı demektir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Kuram, tipik olarak yalnızca insanca yaratılmış anlamı, amacı ve değeri destekleyen materyalizmi pekiştirmeye hizmet eder."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç tümüyle temsilî içerikle açıklanabiliyorsa, bu bilgi kuramsal olarak çoğaltılabilir ve biyolojik olmayan bir taşıyıcıya yüklenebilir; bu da sanal ölümsüzlüğü ulaşılabilir kılar."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "Temel"
+      },
+      {
+        "name": "Intentionalism",
+        "relationship": "Benzer/Eşdeğer"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Savunma/Destek"
+      },
+      {
+        "name": "Jackson’s Representationalism",
+        "relationship": "Genişletme/Destek"
+      },
+      {
+        "name": "Amy Kind",
+        "relationship": "Eleştiri/İnceltme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The intrinsic quality of experience, G. Harman",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Representationalism and the transparency of experience, M. Tye",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Transparency and the Structure of Consciousness, D. Franken",
+        "year": ""
+      },
+      {
+        "title_with_names": "Representational theories of consciousness, W. Lycan",
+        "year": 2019
+      }
+    ]
+  }
+}

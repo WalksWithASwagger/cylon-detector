@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "van Inwagen'ın Hristiyan Materyalizmi ve Ölülerin Dirilişi",
+    "summary": "Bu kuram, insan kişisinin bütünüyle maddi bir varlık olduğu bir Hristiyan Materyalizmi biçimi önerir ve böylece töz düalizmini hem felsefî hem de İncil'e dayalı gerekçelerle reddeder. Ölüm boyunca kişisel özdeşliğin, Tanrı'nın özgün maddi bedenin fiziksel ve nedensel olarak sürekli bir 'çıplak çekirdeğini' nihai dirilişe dek koruması yoluyla sürdürüldüğünü ileri sürer.",
+    "associated_thinkers": ["Peter van Inwagen"],
+    "category": "İndirgemeci Olmayan Fizikalizm",
+    "subcategory": "Hristiyan Materyalizmi",
+    "core_identity_tagline": "İncil'deki Dirilişle Uzlaştırılmış Materyalizm",
+    "classification_tags": [
+      "christian philosophy",
+      "materialism",
+      "personal identity",
+      "theology",
+      "resurrection"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinçli kişi, kişisel özdeşliğini koruyabilmek için maddi ve nedensel sürekliliği sürdürmesi gereken maddi bir şeydir.",
+    "ontological_status": "Hristiyan Materyalizmi (özdeşlik sürekliliği için ilahi eylemi içeren kendine özgü bir fizikalist duruş).",
+    "mind_body_relationship": "Özdeşlik Kuramı: kişi (zihin dahil) maddi bir şeyle özdeştir, gerçi uzun vadeli varkalışın kesin düzeneği ilahi korumaya dayanır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Kuram, belirli nörolojik beliriş düzeneklerinden çok ontolojik sürekliliğe (Tanrı'nın maddi varlığı koruması) odaklanır, ancak yaşam boyunca bilincin fizikalist/materyalist bir açıklamasını varsayar.",
+    "subjectivity_and_intentionality": "Öznellik ve yönelimsellik, maddi kişinin/beynin özellikleridir; kuram öncelikle yaşam boyunca bilinçli işlevden çok ölüm sonrası sürekliliğe odaklandığı için, bu standart materyalist konumlarla tutarlıdır.",
+    "qualia_account": "Kuram öncelikle ontolojik süreklilikle ilgilenir, ancak örtük olarak niteliksel deneyimin, temelindeki materyalist zemine uygun biçimde, maddi organizmanın tümüyle fiziksel bir olgusu olduğunu varsayar.",
+    "ontological_commitments": "Maddi kişi/beden, atomlar ve Tanrı'nın gücü (maddi ve nedensel sürekliliği güvence altına almak için). Ruh gibi fiziksel olmayan tözleri reddeder.",
+    "epistemic_access": "Felsefî akıl yürütme ve teolojik tefsir yoluyla, özellikle ölüm ve dirilişe ilişkin İncil metinlerine odaklanarak erişilebilir.",
+    "constituents_and_structure": "Temel bileşen maddi bedendir, özellikle ölümden sonra özdeşlik sürekliliğini koruyan kısımdır; bu, 'gumnos kókkos' (çıplak çekirdek ya da çıplak tohum) ile simgelenir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kişisel Özdeşlik, Ölümden Sonra Varkalış, Teolojik Tutarlılık.",
+    "distinctive_mechanism_or_principle": "Tanrı'nın, ölüm ile diriliş arasında kişinin maddi ve nedensel sürekliliğini sağlamak için özgün maddenin küçük bir bölümünü (çıplak bir çekirdeği) koruduğu düzenek.",
+    "dynamics_of_emergence": "Bilinç, yaşam boyunca karmaşık maddi organizmadan doğar. Ölüm boyunca sürmesi kesintisiz değildir, Tanrı'nın maddi taşıyıcının bir öğesini alıkoyması yoluyla güvence altına alınır.",
+    "location_and_distribution": "Yaşam boyunca fiziksel bedende/beyinde bulunur. Özdeşlik sürekliliği, ölümden sonra bir 'gumnos kókkos'un korunmasıyla sürdürülür.",
+    "causation_and_functional_role": "Kişinin bilinci ve zihinsel yaşamı, maddi varlığın özellikleri oldukları için, fiziksel alan içinde nedensel olarak etkilidir.",
+    "integration_or_binding": "Yaşam boyunca bilincin tutarlılığının, materyalist bir çerçeveyle uyumlu biçimde, maddi beden içindeki nöral süreçler aracılığıyla sağlandığı varsayılır.",
+    "information_flow_or_representation": "Bilinçli işleme, maddi beyin içindeki işlevsel temsile ve bilgi akışına dayanır.",
+    "evolutionary_account": "Materyalist konumunun gereğince, bilincin yaşam boyunca belirişi biyolojik ve evrimsel süreçleri izler.",
+    "core_claims_and_evidence": [
+      "İnsan kişisi maddi bir şeydir; töz düalizmi reddedilir.",
+      "Yeni Ahit'teki diriliş metinlerinin geleneksel düalist anlayışı dolambaçlıdır; materyalist bir okuma yeğlenir.",
+      "Tanrı, diriliş için maddi ve nedensel sürekliliği sağlamak amacıyla kişinin bir fiziksel 'gumnos kókkos'unu korumalıdır."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefî argüman, Teolojik/İncil'e dayalı tefsir."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kurgusal/Kavramsal. Dirilişe ilişkin merkezî iddialar felsefî/teolojik argümana dayanır ve bilim tarafından görgül olarak sınanamaz.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kuram, atomları akışa girmiş ve geniş bir alana yayılmış bir kişiyi mutlak kudretin nasıl yeniden bir araya getirebileceğini açıklamada güçlük çeker (sayısız eş bilmecesi). Ayrıca, ölümsüz ruha karşı öne sürülen argüman birçok Hristiyan düalisti ikna etmekte başarısız oldu.",
+    "open_questions_and_limitations": "Bedensel atomların sürekli akışı ve dağılması karşısında Tanrı'nın 'gumnos kókkos'u nasıl koruduğu ve kişisel özdeşliği nasıl sağladığı kesin düzeneği, çözülmemiş bir gereklilik olarak kalır.",
+    "ontological_coherence": "Materyalizmi Hristiyan öğretisiyle uzlaştırmakta tutarlıdır, ancak maddi sürekliliği güvence altına almak için doğaüstü bir öğe getiren bir düzeneğe (ilahi koruma) dayanır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Materyalist bir kuram olarak, bilinç nihayetinde karmaşık fiziksel bir düzenlemenin ürünüdür; bu da gerekli fiziksel taşıyıcı elde edilirse yapay zekanın ilkece bilinci örnekleyebilmesi gerektiği anlamına gelir."
+    },
+    "survival_beyond_death": {
+      "stance": "Evet (İlahi Müdahaleye Bağlı)",
+      "rationale": "Kuramın başlıca amacı, maddi kişinin İncil'deki dirilişe ve ölüm sonrası varkalışa ulaşması için bir düzenek (Tanrı'nın çıplak bir çekirdeği koruması) sağlamaktır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Kozmik/Teolojik",
+      "rationale": "Çerçevenin tamamı ölülerin dirilişine ilişkin teolojik bir bağlanımla desteklenir; bu da ilahi bir plan içinde nihai anlam ve amacı ima eder."
+    },
+    "virtual_immortality": {
+      "stance": "Olası",
+      "rationale": "Kişi maddi bir şey olduğu için, beynin tam fiziksel durumunun yüklenmesi ilkece bilinçli benliğin işlevsel bir kopyasıyla sonuçlanmalı ve böylece sanal ölümsüzlüğe olanak tanımalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "Eleştiri" },
+      { "name": "Papineau’s Mind-Brain Identity", "relationship": "Örtüşme" },
+      {
+        "name": "Murphy’s Non-Reductive Physicalism",
+        "relationship": "Bağdaşır"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "Örtüşme" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism and Materialism: Athens and Jerusalem?",
+        "year": 1995
+      },
+      {
+        "title_with_names": "A materialist ontology of the human person",
+        "year": 2007
+      },
+      {
+        "title_with_names": "What is the nature of personal identity?",
+        "year": 2007
+      }
+    ]
+  }
+}

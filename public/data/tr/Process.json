@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Süreç Kuramı",
+    "summary": "Süreç Kuramı, temel gerçekliğin durağan tözlerden değil, dinamik değişim ve oluştan meydana geldiğini öne süren metafizik bir çerçevedir. Pandeneyimselci bir ontolojiyi benimser; deneyimin doğanın her yerinde içkin olduğunu ve bilincin, zaman içinde deneyimsel olayların evrimi yoluyla erişilen yaratıcı bir ilerleme olarak ortaya çıktığını ileri sürer.",
+    "associated_thinkers": [
+      "Alfred North Whitehead",
+      "David Ray Griffin",
+      "Matthew Segall"
+    ],
+    "category": "Monizmler",
+    "subcategory": "Süreç Monizmi",
+    "core_identity_tagline": "Dinamik Oluş ve Deneyimsel Yaratıcılık Olarak Bilinç",
+    "classification_tags": [
+      "process philosophy",
+      "panexperientialism",
+      "emergentism",
+      "relational",
+      "metaphysics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, gerçekliği oluşturan temel olaylara (vesilelere) içkin, temel, kısmen öz-yaratıcı bir süreç ya da 'deneyimsel yaratıcılık' olarak belirlenir.",
+    "ontological_status": "Pandeneyimselci Monizm (Süreç-İlişkisel). Gerçekliğin, hem zihinsel hem fiziksel yönlere sahip tek bir temel töz türünden (olaylar/süreçler) oluştuğunu savunur.",
+    "mind_body_relationship": "Zihin ve beden, tek bir gerçekliğin tamamlayıcı yönleridir; burada zihin, altta yatan sürecin yenilik uyandıran kutbuna, madde ise istikrar sağlayan kutbuna benzer. Ayrı tözler değil, iç içe geçmişlerdir.",
+    "primitive_or_emergent_status": "Hem İlksel Hem Beliren. Deneyim temeldir (pandeneyimselcilik), ancak karmaşık bilinç, evrimsel süreçlerin bir 'başarısı' ya da 'yaratıcı ilerlemesi' olarak gerçekten belirir.",
+    "emergence_type": "Beliren (Yaratıcı İlerleme). Bilinç, 'konkresans' yoluyla ortaya çıkar; bu, parçaların salt toplamsal birleşiminden ziyade, geçmişin 'yeni birliktelik' üreten birikimli, yaratıcı bir yinelenmesidir.",
+    "subjectivity_and_intentionality": "Öznellik, deneyimsel olayların içkin, kısmen öz-yaratıcı doğasından doğar. Yönelimsellik, örtük olarak deneyimin geleceğe dönük doğasına bağlıdır ve devralınan geçmiş ile beklenen gelecek arasında bir gerilim olarak tezahür eder.",
+    "qualia_account": "Qualia, salt maddesel yapılara indirgenemeyen, temel enerjinin/etkinliğin doğası gereği zihinsel olan yönünden doğan 'deneyim çalkantıları' ya da somut öznel nitelikler olarak anlaşılır.",
+    "ontological_commitments": "Gerçeklik temelde sabit tözlerden değil, olaylardan ya da 'vesilelerden' oluşur; bu olaylar 'süreç-ilişkiseldir' ve kozmik bir edimsellik (çoğu zaman Tanrı ya da Evrensel Ruh olarak tasarlanan) tarafından örgütlenir.",
+    "epistemic_access": "Bilince öncelikle birinci-şahıs yaşanmış deneyim ve temel varoluşun felsefi çözümlemesi (metafizik) yoluyla erişilir; bu da nesnel bilimsel verinin anlaşılmasına yön verir.",
+    "constituents_and_structure": "Yapı iki kutupludur; yani her temel olayın hem zihinsel bir kutbu (yenilik, öznel erek) hem de maddesel bir kutbu (istikrar, önceki olgulara uyum) vardır ve hiyerarşik, ilişkisel bir tarzda işler."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal; Pandeneyimsel (doğada her yerde bulunan temel duyarlılık); Faillik; Öz-farkındalık (karmaşık sürecin evrilmiş bir sonucu olarak).",
+    "distinctive_mechanism_or_principle": "Konkresans; dağılmış ögelerin (geçmiş olayların) yeni, karmaşık, benzersiz ve bilinçli bir 'deneyim vesilesinde' (yeni birliktelik) birleştiği süregelen süreç olarak tanımlanır.",
+    "dynamics_of_emergence": "Bilinç, gerçekliğin durmaksızın dinamik ve zamansal bir tözüdür. Üst düzey bilinç, olayların zaman içindeki ısrarlı, karmaşık açılımı yoluyla dinamik olarak belirir ve 'yaratıcı ilerlemeyi' sergiler.",
+    "location_and_distribution": "Gerçekliğin tüm temel süreçlerinde her yerde bulunur (pandeneyimselcilik). Yerelleşmiş karmaşık bilinç, örgütlü sistemlerde (beyinler gibi) konkresansın özellikle başarılı başarımları olarak ortaya çıkar.",
+    "causation_and_functional_role": "Süreçler doğası gereği 'kısmen öz-yaratıcıdır' ve bu, temel gerçekliğe kök salmış güçlü bir metafizik faillik biçimini düşündürür. Zihinsel kutup yeniliği uyandırır ve bu da onu yaratıcılık ve beliriş için hayati kılar.",
+    "integration_or_binding": "Bütünleşme, bir olayın birbirinden farklı yönlerinin yeni, birleşik bir bütünde kaynaştığı konkresansla sağlanır ve çoğu zaman 'varoluşsal olarak birleşmiş' ya da erimiş olarak görülür.",
+    "information_flow_or_representation": "Bilgi, olayların süreç-ilişkisel doğasına içkindir ve geçmişin edimsel olguları ile geleceğin olası imkânları arasında bir gerilim olarak akar.",
+    "evolutionary_account": "Bilinç, zaman içinde evrilen evrensel akışın içkin bir parçasıdır. Karmaşık bilinç, kozmosun yeniliğe ve öz-gerçekleşmeye yönelik içkin itkisiyle seçilen bir 'deneyimin evriminin başarısı' (yaratıcı ilerleme) olarak belirir.",
+    "core_claims_and_evidence": [
+      "Temel gerçeklik, durağan töz değil, dinamik süreç ve oluştur.",
+      "Deneyim (proto-bilinç) doğaya temeldir (pandeneyimselcilik).",
+      "Bilinç, sürekli 'konkresans' (yeni terkip) edimleri yoluyla belirir.",
+      "Zihni ve maddeyi sürecin ayrılmaz yönleri olarak tanımlayarak düalizmin etkileşim sorunundan kaçınır."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (Metafizik, Süreç Felsefesi), Kavramsal Tutarlılık."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekülatif / Kavramsal Olarak Sınanabilir. Temel bir metafizik çerçeve olarak doğrudan ampirik sınama sınırlıdır, ancak doğada gözlemlenen beliren karmaşıklığı yorumlamak için kavramsal bir temel sağlar.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Süreç Kuramı, özellikle Whitehead'in pandeneyimselciliği, bileşenlerin ve birleşmenin doğasını temelden yeniden tanımlayarak töz-özellik panpsişizminin karşılaştığı birleşme sorununu çözmeyi amaçlar. Eleştirmenler çoğu zaman temel 'olayların' tanımı ve kozmik bir edimselliğin metafizik zorunluluğu konusunda güçlük çeker.",
+    "open_questions_and_limitations": "Klasik töz ontolojisinin baştan aşağı elden geçirilmesini gerektirir ('şeylerin' yerine 'olayların' konması). Olaylardaki basit deneyim ile karmaşık, üst düzey bilinç arasındaki çizgiyi tam olarak tanımlamada bir belirsizlik vardır.",
+    "ontological_coherence": "Kendi monistik metafizik çerçevesi içinde yüksek düzeyde tutarlıdır; yaratıcılığı, yeniliği, deneyimi ve fiziği, indirgemeci materyalizme ya da ikiye bölünmüş düalizme dayanmadan bütünleştirmek için zarif ve kapsamlı bir model sunar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mümkün/Koşullu",
+      "rationale": "Bilinç 'deneyimsel yaratıcılık' ve 'konkresansta' köklüyse, yapay sistemler gereken öz-yaratıcı, iki kutuplu ilişkisel süreçleri barındırıp gerçek bir 'oluş' sergilerlerse bilinçli olabilirler."
+    },
+    "survival_beyond_death": {
+      "stance": "Mümkün/Koşullu",
+      "rationale": "Birey, deneyimsel olaylardan (vesilelerden) oluşur. Bireysel beden çözülse de, altta yatan evrensel süreç (Tanrı/Yaratıcılık) ebedidir ve birikimli süreci korur/yeniden bedenlendirir; bu da bir tür sürekliliği olası kılar, ancak belki tam olarak özgün kişisel bilincin sürekliliği değildir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Kozmik/İçkin",
+      "rationale": "Gerçeklik, 'yaratıcı ilerleme' ve 'yenilik' nihai amacıyla güdülenen, doğası gereği erekbilimseldir. Evrenin kendisi, artan karmaşıklığa ve değere/varlığa doğru çabalıyor olarak görülür."
+    },
+    "virtual_immortality": {
+      "stance": "Belirsiz",
+      "rationale": "Sanal ölümsüzlük, benzersiz bir tarihsel akışa ('konkresansa') kök salmış öznel, kısmen öz-yaratıcı bir sürecin kusursuzca çoğaltılmasını gerektirir. Durağan bir hâlin basitçe çoğaltılması, yaşayan, dinamik deneyimi yeniden üretmek için büyük olasılıkla yetersizdir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Monisms",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Process Philosophy",
+        "relationship": "Temel"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Eleştiri"
+      }
+    ],
+    "sources_and_references": []
+  }
+}

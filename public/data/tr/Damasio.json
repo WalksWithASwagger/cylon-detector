@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Damasio'nun Homeostatik Hisleri ve Bilincin Belirişi",
+    "summary": "Bu kuram, bilincin temelde, organizmanın yaşamının süregiden durumunu ideal bir duruma (homeostaz) göre sürekli olarak temsil eden, homeostatik hisler olarak bilinen içsel hislerden doğduğunu öne sürer. Bu hislerin sağladığı kendiliğinden bilinç, tasarlanmış yaşam düzenlemesi ve hayatta kalma için gerekli değerli bilgiyi sunar.",
+    "associated_thinkers": [
+      "Antonio Damasio",
+      "Hanna Damasio"
+    ],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Homeostatik ve Duygulanımsal",
+    "core_identity_tagline": "Homeostatik Hisler Olarak Bilinç",
+    "classification_tags": [
+      "homeostasis",
+      "affective",
+      "neurobiological",
+      "emergence",
+      "survival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, zihinsel özellikleri ve bedensel özellikleri birleştiren melez doğaya sahip, kendiliğinden bilinçli süreçler olan homeostatik hisler olarak özdeşleştirilir. Bu hisler, temel homeostatik durumları (örneğin açlık, acı, esenlik) tercüme eder.",
+    "ontological_status": "Fizikalizm (Biyolojik Doğalcılık)",
+    "mind_body_relationship": "Çekirdek fenomenal süreçler (homeostatik hisler) melezdir; zihinsel ve bedensel özellikleri birleştirir. Zihin, bedenin biyolojik süreçlerine, özellikle içsel düzenlemeye (interosepsiyon) ayrılmaz biçimde bağlıdır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Açıkça etiketlenmese de, belirli biyolojik mekanizmalara (homeostaz) dayanan bir Materyalizm kuramı olarak, bilincin, karmaşık olsa da, altta yatan fiziksel/nöral süreçlerden doğduğunu ve ilkece onlara indirgenebilir olduğunu ima eder.",
+    "subjectivity_and_intentionality": "Öznellik, homeostatik hisler dışalgısal kanallar (görme gibi) tarafından üretilen imgelerle birleştiğinde üretilir. Yönelimsellik, hislerin yaşam düzenlemesiyle ilgili karar verme için sunduğu kendiliğinden yönlendirmeye yansır.",
+    "qualia_account": "Qualia, homeostatik hislerde köklenir. Bu hisler (acı ya da esenlik gibi temel homeostatik durumları tercüme eden), 'deneyimlerin doğal kaynağıdır'.",
+    "ontological_commitments": "Sinir sistemleriyle donatılmış karmaşık organizmalar , homeostatik mekanizmalar, interoseptif süreçler ve bedensel/zihinsel özellikler.",
+    "epistemic_access": "Yaşamın durumunu açığa çıkaran içsel perspektif (birinci şahıs hisleri/duygulanım) aracılığıyla erişilir; bu, odağı dışsal bilişten (dışalgı) içsel düzenlemeye (interosepsiyon) kaydırır.",
+    "constituents_and_structure": "Temel yapı taşları, organizmanın içsel durumunun sürekli temsilinden türeyen homeostatik hislerdir. Yapı, bu hislerin dışsal algılardan türeyen bilişsel imgelerle eşgüdümlenmesini içerir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Duygulanımsal/Duygusal, Yaşam Düzenlemesi/Hayatta Kalma, Karar Verme.",
+    "distinctive_mechanism_or_principle": "Yaşam düzenlemesi ve hayatta kalmaya ilişkin bilgiyi kendiliğinden sunan homeostatik hislerin içkin bilinçli konumu.",
+    "dynamics_of_emergence": "Bilinç, biyolojik tarihte, daha sonraki 'bilişsel yol'dan çok 'duygulanım yolu' (interoseptif süreçler) aracılığıyla erkenden belirdi. Organizmanın iç durumunu temsil eden süreçlerle sürekli olarak sürdürülür.",
+    "location_and_distribution": "Karmaşık organizmaların içsel düzenleyici sistemlerine ve sinir sistemine yerelleşmiştir.",
+    "causation_and_functional_role": "Bilinç, organizmaların tasarlanmış ve bilerek davranmasına olanak tanıyarak nedensel olarak etkilidir; hayatta kalma için kritik olan yeni bir yaşam düzenlemesi katmanı sağlar. Homeostatik hisler doğası gereği düzenleyicidir.",
+    "integration_or_binding": "Bütünleşme, homeostatik hisler öznellik üretmek için dışalgısal kanallar tarafından üretilen imgelerle birleştiğinde gerçekleşir.",
+    "information_flow_or_representation": "Homeostatik hisler kendiliğinden bilgilendiricidir; mevcut durumun homeostatik idealden ne kadar uzak olduğunu bildirir. Bilinç, bu değerli bilgiyi karar verme zihinsel alanına sunar.",
+    "evolutionary_account": "Bilinç, hayatta kalma durumlarına ilişkin içsel olarak hissedilen bilgiye dayanan tasarlanmış yaşam düzenlemesini mümkün kılarak uyum sağlayıcı bir avantaj sağlamak için erkenden evrimleşti.",
+    "core_claims_and_evidence": [
+      "Bilincin temel kökü, organizmanın iç, homeostatik durumuyla ilgili hislerdir.",
+      "Homeostatik hisler, hayatta kalma için kritik bilgiyi kendiliğinden sağlayan 'içkin bir bilinçli konuma' sahiptir.",
+      "Bilinç, bilişsel yoldan önce gelerek, evrimde erkenden duygulanımsal/interoseptif yol aracılığıyla doğdu."
+    ],
+    "basis_of_belief_or_evidence_type": "Nörobiyolojik, Evrimsel, Fenomenolojik"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir. Sinir sistemindeki fizyolojik süreçlere dayanan bir Materyalist kuram olarak, biyolojik ve nörobilimsel yöntemlerle araştırılabilir.",
+    "known_empirical_interventions_or_tests": "Kaynaklar belirli adlandırılmış ampirik müdahaleler listelemez, ancak doğrulama, fizyolojik homeostatik durumlar/interoseptif sinyalleşme ile bildirilen bilinçli hisler arasındaki bağıntının araştırılmasını içerirdi (Gerekçeli Açıklama).",
+    "criticisms_and_tensions": "Birçok biyolojik açıklama gibi, bu kuram da öncelikle bilincin işlevsel ve uyum sağlayıcı rolüne ('kolay problemlere') odaklanır; homeostatik durumların neden bir şey gibi hissettirdiği 'zor problemini' açıklamadan bırakma olasılığı taşır, ancak hislerin doğası gereği bilince sahip olduğunu öne sürer.",
+    "open_questions_and_limitations": "Homeostatik hislerin 'içkin bilinçli doğasını' ya da 'lütfunu' edinme mekanizması, sağlanan betimleyici çerçeve içinde belirsiz kalmaktadır.",
+    "ontological_coherence": "Biyolojik materyalist çerçeve içinde son derece tutarlıdır; bilinç için evrimsel yaşam-destek sistemlerine bağlanmış açık bir nedensel rol sağlar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Yapay sistemler, karmaşık homeostatik düzenlemeye ve sistemin 'yaşamının' (ya da eşdeğer hayatta kalma zorunluluğunun) durumunu yansıtan gerekli 'homeostatik hisleri' üretmeye yetenekli bir dayanağa ulaşabilirse, Materyalizmle tutarlı olarak yapay zeka bilinci olanaklı olurdu."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç temelde biyolojik süreçlere, özellikle karmaşık organizmaların sinir sistemi içinde doğan homeostatik hislere bağlıdır. Biyolojik dayanağın ölümünden sağ çıkan fiziksel-olmayan bir bileşen öngörüsü yoktur."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bilinç, yaşam düzenlemesine ve hayatta kalmaya hizmet etmek için evrimleşti. Bir Materyalizm kuramı olarak, nihai anlamın/amacın yokluğu, ancak anlam ve değerin bilinçli insanlar tarafından yaratıldığı görüşüyle uyumlanır."
+    },
+    "virtual_immortality": {
+      "stance": "Olası",
+      "rationale": "Fiziksel süreçler (homeostatik his üretimi ve bilişsel imgelerle bütünleşmeyle ilgili tüm mekanizmalar dahil) biyolojik olmayan bir ortamda kusursuz biçimde çoğaltılabilirse, fiziksel durumların ortaya çıkan kusursuz çoğaltımı zihinsel durumların kusursuz çoğaltımını gerektirir ve böylece sanal ölümsüzlüğe olanak tanır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Neurobiological Theories",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Uyumlu"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of what Happens: Body and Emotion in the Making of Consciousness, Antonio Damasio",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Feeling & Knowing: Making Minds Conscious, Antonio Damasio",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Feelings are the source of consciousness, Antonio Damasio and Hanna Damasio",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Homeostatic feelings and the emergence of consciousness, Antonio Damasio and Hanna Damasio",
+        "year": 2024
+      }
+    ]
+  }
+}

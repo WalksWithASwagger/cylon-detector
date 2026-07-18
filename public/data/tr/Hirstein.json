@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Hirstein’in Zihin Kaynaştırması (Mindmelding)",
+    "summary": "William Hirstein, bilinçli zihnin dolaysız bir fiziksel açıklamasını engelleyen başlıca engelin, temelsiz 'mahremiyet varsayımı' olduğunu savunur. Bu metafizik varsayım -bir kişinin bir başkasının bilinçli durumlarını asla deneyimleyemeyeceği düşüncesi- ortadan kaldırıldığında, çetrefil düalizmler, panpsişizmler ve çözülemezlik iddiasındaki kuramlar yaratma güdüsü de temelsiz kalır.",
+    "associated_thinkers": ["William Hirstein"],
+    "category": "Materyalizm",
+    "subcategory": "Nörobiyolojik",
+    "core_identity_tagline": "Metafizik mahremiyeti reddederek açıklanan bilinç",
+    "classification_tags": [
+      "privacy",
+      "physicalism",
+      "neuroscience",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, özsel mahremiyetin yanlış felsefi öncülü bir kenara bırakıldığı sürece, dolaysız fiziksel terimlerle açıklanabilen fiziksel bir fenomendir.",
+    "ontological_status": "Fizikalizm / İndirgemeci Fizikalizm (Çıkarımsal: Kuram, tümüyle fiziksel bir açıklamayı savunarak fizikalist olmayan ontolojilere karşı çıkmayı amaçlar ve Materyalizm altında sınıflandırılır.)",
+    "mind_body_relationship": "Özdeşlik (Çıkarımsal: Bilinçli zihni 'dolaysızca fiziksel terimlerle' açıklamayı amaçlayarak, kuram temelde bir zihin-beyin özdeşlik duruşunu destekler ve düalizmi güdüleyen kavramsal engelleri aşar.)",
+    "primitive_or_emergent_status": "Beliren (Çıkarımsal: Materyalist/Nörobiyolojik bir kuram olarak bilincin, temel olmaktan çok karmaşık altta yatan fiziksel süreçlerden doğduğu varsayılır.)",
+    "emergence_type": "Zayıf Beliriş ya da İndirgeme (Gerekçe: Amaç, bilincin fiziksel olarak ve artık bırakmadan açıklanabileceğini göstermektir; bu da özelliklerin ilke olarak indirgenebilir ya da zayıfça beliren olduğunu gösterir.)",
+    "subjectivity_and_intentionality": "Öznellik, metafizik bir mesafe yanılsaması yaratan 'mahremiyet varsayımı' reddedildiğinde, fizikalist açıklamayla tümüyle bağdaşır olarak kavranır.",
+    "qualia_account": "Bilincin niteliksel hissi, (mahremiyet varsayımının güdülediği) fiziksel olmayan açıklamalara duyulan kavramsal gereksinim ortadan kalktığında, fizikalist bir açıklama içinde temelden açıklanır.",
+    "ontological_commitments": "Fiziksel süreçler ve nörobiyolojik mekanizmalar (Çıkarımsal: Kuram Materyalizm kategorisinde yer alır ve bu da fiziksel gerçekliğin, özellikle beynin, altkatman olduğunu düşündürür.)",
+    "epistemic_access": "Öncelikle nesnel, üçüncü-şahıs bilimsel ve nörobiyolojik araştırma yoluyla; başkalarının durumlarına birinci-şahıs erişim kazanmanın görünürdeki güçlüğünün metafizik bir engel olmadığı yönündeki felsefi kavrayışla desteklenerek.",
+    "constituents_and_structure": "Nöral mekanizmalar ve yapılar (Nörobiyolojik Kuramlar altında sınıflandırılmasından çıkarılmıştır.)"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç (Odak, çoğunlukla qualia ve öznelliğe yoğunlaşan fizikalist olmayan kuramları çürüten terimlerle bilinçli zihnin doğasını açıklamaktır).",
+    "distinctive_mechanism_or_principle": "Kavramsal 'mahremiyet varsayımının' reddi ya da temelsizleştirilmesi temel açıklayıcı ilkedir ve bilinçli zihnin standart fiziksel açıklamayla çözülmesine olanak tanır.",
+    "dynamics_of_emergence": "Mekanizma, kendi kategorisindeki diğer kuramlarla tutarlı biçimde örtük olarak nörobiyolojik ve dinamiktir. Belirli dinamikler sunulan kaynaklarda ayrıntılandırılmaz.",
+    "location_and_distribution": "Beyinde konumlanır (Nörobiyolojik Materyalizm Kuramı olarak sınıflandırılmasından çıkarılmıştır.)",
+    "causation_and_functional_role": "Bilinç, fiziksel nedensellikle bağdaşan nedensel bir etkililiğe sahiptir; çünkü kuram, düalizmi yenilgiye uğratan 'dolaysızca fiziksel' bir açıklama sunmayı amaçlar.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Kavramsal engeller kaldırıldığında, diğer Materyalist kuramlarla tutarlı biçimde, bilgi akışının/işlemenin bilincin temeli olduğu ima edilir.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "'Mahremiyet varsayımı' (bilinçli durumların paylaşılmasının metafizik olanaksızlığı), bilincin fizikalist olmayan kuramlarına yanlış biçimde yol açar.",
+      "Mahremiyet varsayımı gibi kavramsal hatalar aşılırsa, bilinçli zihin dolaysız fiziksel terimlerle açıklanabilir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (Metafizik engellerin eleştirisi) ve çıkarımsal Nörobiyolojik/Ampirik (olumlu, 'dolaysızca fiziksel' açıklamanın temeli olarak)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir; çünkü başlıca iddia felsefi bir öncülü ('mahremiyet varsayımı') çürütmeye dayanır. Ampirik sınanabilirlik, ima edilen sonraki fizikalist kuramın başarısına bağlıdır.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Başlıca eleştiri, büyük olasılıkla 'mahremiyet varsayımını' hata olarak belirlemenin, açıklayıcı boşluğu kapatmaya ve bilincin eksiksiz, ayrıntılı fiziksel bir açıklamasını sunmaya gerçekten yetip yetmediğine odaklanır.",
+    "open_questions_and_limitations": "Kuram, felsefi engel kaldırıldıktan sonra bilinci açıklayan ayrıntılı olumlu fiziksel betimlemeyi (örneğin belirli nöral bağıntılar ya da mekanizmalar) nihayetinde sunmalıdır.",
+    "ontological_coherence": "Fizikalist ve materyalist ontolojik çerçevelerle son derece tutarlıdır; çünkü amacı açıkça fiziksel açıklamaların yeterliliğini göstermektir."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Kuram, bilinç için 'dolaysızca fiziksel' bir açıklama aradığından ve Materyalizm olarak sınıflandırıldığından, bilinçli yapay zeka yaratmaya ilke olarak bir engel yoktur."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Kuram, düalizmleri yenmeyi amaçlayan Materyalist bir modeldir. Materyalizm, bilincin yalnızca biyolojik beynin ürünü olduğunu savunur; bu da biyolojik ölümle sona erdiği anlamına gelir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Materyalizm Kuramları genellikle insanların kendileri için anlam ve değer yaratabileceğini, ancak nihai bir kozmik anlam ya da amaç bulunmadığını ileri sürer."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç (Hirstein'ın savunduğu gibi) tümüyle fiziksel terimlerle açıklanabiliyorsa, bir kişinin eksiksiz nöral örüntülerinin ve yolaklarının yüklenmesi ilke olarak birinci-şahıs zihinsel benliği korur."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "Eleştiri" },
+      { "name": "Panpsychisms", "relationship": "Eleştiri" },
+      { "name": "Mind-Brain Identity Theory", "relationship": "Uyumlu" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
+        "year": 2012
+      }
+    ]
+  }
+}

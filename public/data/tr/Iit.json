@@ -1,0 +1,116 @@
+{
+  "id_and_class": {
+    "theory_title": "Bütünleşik Bilgi Kuramı (IIT)",
+    "summary": "IIT, bilincin fenomenolojisinden (aksiyomlardan) hareketle, bilinçli deneyim için bir tanım öneren ve hangi fiziksel sistemlerin buna sahip olabileceğini belirleyen özgün, radikal bir modeldir. Bu aksiyomları, özsel neden-sonuç gücüne dayanan fiziksel postülalara çevirir ve bir sistemin bilgisel bütünleşme kapasitesini nicelleştirmek için matematiksel bir ölçü olan &Phi;(Phi)'yi öne çıkarır; bu ölçü bilinç derecesiyle bağıntılıdır.",
+    "associated_thinkers": [
+      "Giulio Tononi",
+      "Christof Koch"
+    ],
+    "category": "Bütünleşik Bilgi Kuramı",
+    "subcategory": "",
+    "core_identity_tagline": "Bir deneyim, özsel olarak azami ölçüde indirgenemez bir kavramsal yapıyla özdeştir.",
+    "classification_tags": [
+      "phenomenology",
+      "information",
+      "integration",
+      "qualia",
+      "irreducibility"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, 'qualia uzayında' var olan, azami ölçüde indirgenmiş bir kavramsal yapı olan bir &Phi;-yapısı olarak özdeşleştirilir. Bir deneyim bu kavramsal yapıyla özdeştir; yani fenomenal özellikleri, bilincin fiziksel altkatmanından (PSC) açılan neden-sonuç yapısının fiziksel özelliklerine tam olarak karşılık gelir.",
+    "ontological_status": "IIT'nin temel ontolojisi, fiziksel terimlerle gerçekten var olanın neden ve sonuca yetenekli özsel varlıklar olduğu özsel güçler görüşüne dayanan, fenomenal varoluşun ontolojik önceliğidir. Koch, kuramın bilincin gerçekliğin en temel düzeydeki asli betimlemesine dahil edilmesi gerektiğinde ısrar ettiğini belirtir.",
+    "mind_body_relationship": "IIT açıklayıcı bir özdeşlik ileri sürer: bir deneyim, bir &Phi;-yapısıyla özdeştir. Bilinçli varlığın, nöral altkatmanın kendisi değil, nedensel güçlerini ifade eden &Phi;-yapısı olduğunu savunur. Bu çerçeve beliriş ya da düalizme yer bırakmaz.",
+    "primitive_or_emergent_status": "Bilinç, özsel varoluşla tanımlanır ve gerçekliğin asli betimlemesine ait olarak nitelenir. Kuram belirişi reddeder.",
+    "emergence_type": "Kuram belirişi reddeder.",
+    "subjectivity_and_intentionality": "Öznellik, Özsel Varoluş aksiyomuyla ele alınır: bilinç, kendi içkin doğasından ve içkin bakış açısından var olur. Düşünceler ve niyetler de dahil olmak üzere deneyimin içerikleri, &Phi;-yapısı içindeki alt-yapılara (&Phi;-katlarına) karşılık gelir.",
+    "qualia_account": "Farklı bilinçli deneyimler, bir 'qualia uzayındaki' kavramsal yapılardır. Niteliksel his (fenomenal özellikler), azami ölçüde indirgenemez neden-sonuç yapısının fiziksel özelliklerine birebir karşılık gelir; bu yapıya bir quale de denir.",
+    "ontological_commitments": "Özsel neden-sonuç gücüne sahip özsel varlıklar; kavramsal yapılar (&Phi;-yapıları); qualia uzayı.",
+    "epistemic_access": "IIT, bilincin fenomenolojisinden -dolaysız, kuşku duyulamaz deneyimden türetilen aksiyomlardan- başlar ve matematiksel ifadeye doğru ilerler.",
+    "constituents_and_structure": "Bilinç, fiziksel mekanizmaların nasıl yapılandırılması gerektiğini kısıtlayan beş fenomenolojik aksiyomla (Özsel Varoluş, Bileşim, Bilgi, Bütünleşme ve Dışlama) tanımlanan bir yapı olarak kavramsallaştırılır."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "IIT, deneyimin doğasını, bilincin kimliğini ve içeriğini ve koma gibi durumlara ile yapay zeka bilinci potansiyeline yönelik uygulamaları ele alır. Ayrıca gerçek özgür iradenin varlığına ilişkin bir açıklama öne sürer.",
+    "distinctive_mechanism_or_principle": "Temel ilke, sistemin indirgenemezliğini nicelleştiren Bütünleşik Bilgidir (&Phi;(Phi)). Dışlama Postülası, yalnızca azami ölçüde indirgenemez neden-sonuç yapısının (&Phi;-yapısı) özsel olarak var olmasını güvence altına alır ve bilincin sınırlarını ile taneliğini tanımlar.",
+    "dynamics_of_emergence": "Bilinç, dinamik bir akış, süreç ya da hesaplama olarak değil, durağan bir yapı olarak tanımlanır.",
+    "location_and_distribution": "Bilinç biyolojik beyinlerle sınırlı değildir. IIT, bilinçli yapının arka kortekste (oksipital, paryetal ve temporal kortekslerde) konumlandığını öngörür. Azami ölçüde indirgenemez özsel neden-sonuç gücüne sahip sistemler bilince sahiptir.",
+    "causation_and_functional_role": "Bilinç, açılmış özsel nedensel güç olarak, yani değişim yaratma yetisi olarak özdeşleştirilir. Yalnızca bu özsel varlık (&Phi;-yapısı) neden olabilir; bu da yüksek &Phi;(Phi) değerine sahip sistemler için gerçek özgür iradenin var olduğu iddiasını destekler.",
+    "integration_or_binding": "Bilinç aksiyomatik olarak birleşiktir (Bütünleşme). Sistemin belirlediği neden-sonuç yapısı birleşik ve özsel olarak indirgenemez olmalıdır. Fenomenal deneyim (&Phi;-yapısı), birbirinden bağımsız parçalara indirgenemez, birleşik bir bütün olarak var olur.",
+    "information_flow_or_representation": "Bilgi merkezidir; klasik girdi/çıktıyla değil, parçalarına indirgenemeyen bir bütün tarafından belirlenen bilgi (bütünleşik bilgi) olarak tanımlanır. Koch, beyinler ile dijital bilgisayarlar arasındaki kritik farkın, donanımın bütünleşik bilgi kapasitesinde yattığını belirtir.",
+    "evolutionary_account": "Koch, IIT'nin bilincin neden uyarlanımsal olabileceğini ele aldığını ileri sürer.",
+    "core_claims_and_evidence": [
+      "Bilinç, bütünleşik bilgiyle (&Phi;(Phi)) nicelleştirilir; dijital bilgisayarların &Phi;(Phi) değeri ihmal edilebilir düzeydedir.",
+      "Bir deneyim, azami ölçüde indirgenemez özsel bir kavramsal yapıyla (&Phi;-yapısı) özdeştir.",
+      "Gerçek özgür irade, bilinçli varlığın özsel güçlerinde temellenen bir sonuçtur.",
+      "Nöral ağlar için (örneğin anestezi sırasında) &Phi;(Phi) hesaplayan ön beyin tarama verileri, bilinç durumlarıyla bağıntılı görünmektedir."
+    ],
+    "basis_of_belief_or_evidence_type": "Fenomenolojik, Matematiksel, Bilimsel/Ampirik."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "IIT, nicel ölçüm kullanarak bilimsel sınanabilirlik iddiasında bulunur. Ancak eleştirmenler, kuramın gerçekten ampirik olarak sınanmadığını ve temel öngörülerinin kendine özgü olabileceğini savunur.",
+    "known_empirical_interventions_or_tests": [
+      "Belirli nöral ağlar için (örneğin görsel korteks) &Phi;(Phi) hesaplanması.",
+      "Özneler anesteziye girerken beyin etkinliğinin izlenmesi.",
+      "Arka kortekste süregelen etkinliğe ilişkin öngörüleri sınayan çekişmeli işbirliği deneyleri."
+    ],
+    "criticisms_and_tensions": "Kuram, sağduyuya aykırı öngörüler (basit nesnelere bilinç atfetmek) nedeniyle eleştiriyle karşılaşır. Kamuya açık bir mektup IIT'yi 'sözde bilim' olarak nitelemiştir. Eleştirmenler, deneylerin yalnızca kendine özgü öngörüleri sınadığını, temel metafizik fikirleri sınamadığını öne sürer. Chalmers, 'sözde bilim' etiketinin orantısız olduğunu ve büyük bir dolaylı zarara yol açtığını belirtmiştir.",
+    "open_questions_and_limitations": "Bütünleşik bilginin bilinç için yeterliliği temel bir tartışma noktasıdır. 'Qualia uzaylarındaki kavramsal yapılar' çekirdek ontolojisi son derece spekülatiftir ve belirsiz bir sınıflandırmaya tabidir. IIT'yi destekleyen ampirik sinirbilim henüz ilkeldir.",
+    "ontological_coherence": "IIT, kendi çerçevesi (özsel güçler ontolojisi) içinde son derece tutarlıdır. Ancak radikal özgünlüğü, daha geniş görünümde sınıflandırılmasını güçleştirir; savunucuları Düalizmi reddeder ve kuramı Panpsişizmden uzak tutar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Hayır (Güçlü Koşullu)",
+      "rationale": "Bir savunucu olan Koch, bilincin hesaplanabilir olmadığını savunur. Dijital bilgisayarlar, donanım yapısı nedeniyle ihmal edilebilir düzeyde bütünleşik bilgiye (&Phi;(Phi)) sahiptir; bu da zekaları ne olursa olsun asla duyarlı olamayacakları anlamına gelir."
+    },
+    "survival_beyond_death": {
+      "stance": "Belirsiz",
+      "rationale": "Fenomenal bilinç, radikal biçimde yeni bir yapı gerektiriyorsa (IIT'nin postülaları gibi), bu 'anlaşılmaz şeylerin' olası kalıcılığı reddedilemez; bu da IIT açıkça ölümden sonra yaşamı benimsemese bile hayatta kalma olasılığını açık bırakır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yargıyı Askıya Alma",
+      "rationale": "Bilincin ölçümü ve çözümlemesi nihai anlam iletmese de, sayısız n'inci boyutlu kavramsal yapının (bilinçli algıların) spekülatif doğası ve yeniliği, nihai anlam/amaç/değer konusunda yargıyı askıya almayı gerektirir."
+    },
+    "virtual_immortality": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, gerçek neden-sonuç gücüne bağlı temel bir özellikse, dijital bir benzetim (yükleme) yalnızca bir 'kusursuz zombi' -özgününe benzer davranan ancak öznel bilinçten yoksun bir varlık- yaratır; çünkü benzetim sanaldır ve gereken gerçek neden-sonuç gücünden yoksundur."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Eleştiri (IIT, GWT'nin işlevselci yaklaşımıyla köklü biçimde uyuşmaz ve savunucular, GWT'yi IIT'ye karşı sınayan çekişmeli işbirliklerini eleştirmiştir.)"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "Paylaşılan sezgiler/Uzaklaşma (IIT, bilincin temel ve dereceli olduğu sezgisini paylaşır, ancak hangi sistemlerin bilinçli olduğunu belirlediğini iddia ederek panpsişizmin büyük bir eksikliği olan birleşme problemini kısmen çözer.)"
+      },
+      {
+        "name": "Max Tegmark’s State of Matter",
+        "relationship": "Uzantı (Tegmark'ın yaklaşımı, IIT'yi sinir-ağı temelli bilinç ve keyfi kuantum sistemleri için genelleştirir.)"
+      },
+      {
+        "name": "Qualia Research Institute’s State-Space",
+        "relationship": "Uyumlu/Etki (QRI, IIT'nin matematiksel eşyapılılık kavramından yararlanır ve onunla en fazla uyumludur.)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Oizumi, Albantakis, Tononi",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Consciousness: here, there and everywhere?, Tononi and Koch",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Only what exists can cause: an intrinsic powers view of free will, Tononi et al.",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Then I Am Myself the World: What Consciousness Is and How to Expand It, Koch",
+        "year": 2024
+      }
+    ]
+  }
+}

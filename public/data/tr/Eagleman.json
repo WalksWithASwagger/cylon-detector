@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Eagleman'ın Olabilirciliği",
+    "summary": "Bu bakış açısı, katı metafizik dogmaları reddederek bilinç konusunda entelektüel açıklığı (Olabilircilik) savunur. Mekanik açıdan bilinci, kitlesel altta yatan sinirsel süreçleri filtreleyen, öncelikle hedef başarısını izlemeye ve şaşırtıcı olaylar sırasında müdahale etmeye hizmet eden son derece soyut, üst düzey bir temsil (bir CEO'ya benzer) olarak görür. Kuram, zihin beyne bütünsel olarak bağımlı olsa da öznel deneyimin (qualia) doğasının derin, belki de kavramsal olarak çözülemez bir gizem olarak kaldığını vurgular.",
+    "associated_thinkers": [
+      "David Eagleman"
+    ],
+    "category": "Meydan Okuyan Kuramlar",
+    "subcategory": "",
+    "core_identity_tagline": "'Üst Düzey Soyut Temsil olarak Bilinç'",
+    "classification_tags": [
+      "possibilianism",
+      "abstraction",
+      "mysterianism",
+      "functionalism",
+      "skepticism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, karmaşıklığı özetlemek ve uzun vadeli hedefler belirlemek için gerekli olan, altta yatan sinirsel etkinliğin üst düzey, soyut bir temsili olarak tanımlanır.",
+    "ontological_status": "Agnostik Olabilircilik. Fizikalizme güçlü ampirik bağı kabul eder, ancak zor problemin kavramsal güçlüğü nedeniyle alternatif (maddeci olmayan) açıklamalara açık kalır.",
+    "mind_body_relationship": "Bütünsel Bağımlılık. Bilinç, beyin hasarının etkilerinin gösterdiği gibi beyne bütünsel olarak bağımlıdır, ancak bağımlılık ilişkisi açıkça açık bir soru olarak bırakılır (yani zorunluluk mu yoksa yeterlilik mi).",
+    "primitive_or_emergent_status": "Beliren/Belirsiz. Bilinç, karmaşık makinenin üstünde yer alıyor olarak betimlenir; bu da belirişi ima eder, ancak öznel 'his', salt belirişe meydan okuyabilecek çözülmemiş bir gizem olarak görülür.",
+    "emergence_type": "Belirsiz. Gözlemlenen bağıntı fiziksel süreçlerden belirişi ima etse de, niteliksel hissin nasıl doğduğunu kavramsal olarak açıklayamamak, materyalizm yetersizse maddi olmayan etkenlerin olası zorunluluğunu düşündürür.",
+    "subjectivity_and_intentionality": "Öznellik ('his'), mevcut bilimin ve matematiğin açıklayamadığı merkezi gizem olarak kabul edilir. Yönelimsellik, örtük olarak, hedef durumlarını (örneğin başarı/başarısızlık) izlemeyle ilgili üst düzey soyut temsiller aracılığıyla ele alınır.",
+    "qualia_account": "Qualia (içsel deneyim), mevcut hiçbir kuramsal açıklaması olmayan, temelde gizemli olarak kabul edilir. Fiziksel süreçler ile niteliksel deneyim arasında kavramsal köprü kuramamak, mevcut tüm kuramlar için kritik bir sınırlılık olarak vurgulanır.",
+    "ontological_commitments": "Kitlesel bir sinirsel altyapının ve üst düzey soyut temsillerin varlığına bağlanır. Qualia'nın gizemi nedeniyle, ek, şu anda bilinmeyen fiziksel ya da fiziksel olmayan öğelerin olasılığına dair entelektüel açıklığı korur.",
+    "epistemic_access": "Bilinç, üst düzey bir soyutlama olarak (birinci şahıs) deneyimlenir. Bilimsel olarak, özellikle hasar bilinçli deneyimi etkilediğinde, beyin durumlarıyla bağıntı yoluyla (üçüncü şahıs) erişilir.",
+    "constituents_and_structure": "Altta yatan karmaşık sinirsel makine üzerine kurulmuş, rehberlik ve müdahale için gerekli üst düzey bir özet sağlayacak biçimde yapılandırılmış ardışık soyutlama düzeyleri."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Erişim (soyutlanmış özet olarak), Faillik (CEO işlevi), Fenomenal (indirgenemez gizem/meydan okuma olarak).",
+    "distinctive_mechanism_or_principle": "'CEO Modeli' ya da 'üst düzey soyutlama'; buna göre bilinç, yalnızca karmaşık sonuçlarla ilgilenen ve uzun vadeli hedefler belirleyen, şaşırmadıkça altta yatan alt düzey makineyi genellikle görmezden gelen bir yönetici olarak işlev görür.",
+    "dynamics_of_emergence": "Bilinç, ham veri bütünleştirmesinden çok verimli işlemeye odaklanarak, beyin içindeki ardışık soyutlama düzeylerinden doğan dinamik bir süreçtir.",
+    "location_and_distribution": "Beyinde yerelleşmiştir; etkinlik 'muazzam miktarda makinenin üstünde' yer alır; bu da son derece örgütlü sinirsel sistemlere bağımlılığı düşündürür.",
+    "causation_and_functional_role": "Bilinç, üst düzey karar verme, planlama ve hedef gerçekleşiminin izlenmesini (örneğin başarı ya da başarısızlık) olanaklı kılar; sonuçlar belirsiz ya da şaşırtıcı olduğunda kaynakları odaklayarak uyumsal bir işlev görür.",
+    "integration_or_binding": "Bütünleşme, son derece soyut, üst düzey temsillerin yaratılması yoluyla, muazzam miktarda altta yatan etkinliği uyumlu, basit özetlerde sentezleyerek gerçekleşir.",
+    "information_flow_or_representation": "Bilgi büyük ölçüde filtrelenir ve üst düzey temsillere soyutlanır; 'sinirsel etkinlik yıldırım fırtınası' basit, işlevsel özetlere indirgenir.",
+    "evolutionary_account": "Soyutlama işlevi, muhtemelen hesaplama yükünü en aza indirerek ve dikkati yalnızca gerekli üst düzey bilgiye ya da anormalliklere odaklayarak verimliliği ve uygunluğu artırmak için evrimleşmiştir.",
+    "core_claims_and_evidence": [
+      "Bilinç, soyutlanmış, üst düzey bir temsildir (CEO Modeli).",
+      "Bilinç son derece gizemlidir; 'hissi' açıklayan bir kuramı henüz hayal edemiyoruz.",
+      "Zihin beyne bütünsel olarak bağımlıdır (beyin hasarının klinik kanıtlarıyla desteklenir)."
+    ],
+    "basis_of_belief_or_evidence_type": "Ampirik (sinirbilim), Kavramsal, Felsefi (Agnostik/Olabilirci)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "İşlevsel soyutlama modeli (CEO rolü) ve onun sinirsel bağıntıları açısından kısmen ampirik olarak sınanabilir, ancak öznel hissin temel felsefi problemi kavramsal olarak çözülemez sayılır.",
+    "known_empirical_interventions_or_tests": "Biyolojideki değişimler (örneğin beyin hasarı) ile bilinç durumundaki değişimler arasındaki bağıntıların gözlemlenmesi, bağımlılığı doğrular.",
+    "criticisms_and_tensions": "Eleştirmenler, bu duruşun bir çözümden çok sorunun bir teşhisi olduğunu, bilimsel bir reçete olmadan felsefi açıklık sunduğunu belirtir. Temelde mevcut indirgemeci iddialara karşı kuşkucudur.",
+    "open_questions_and_limitations": "Başlıca sınırlılık 'Zor Problem'dir: neden üst düzey soyutlama bir şey gibi hissettiriyor? Bir çözümün yokluğunun hayal gücü eksikliği mi yoksa materyalizmin yanlışlanması mı olduğu bilinmemektedir.",
+    "ontological_coherence": "Hem ampirik kısıtlamaları (beyne bağımlılık) hem de kabul edilen kavramsal/açıklayıcı boşluğu sadakatle kapsadığından, Olabilirci çerçeve içinde tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası (Koşullu)",
+      "rationale": "Bilinç öncelikle üst düzey bir soyutlayıcı işlevse, yeterince karmaşık bir yapay zeka bu işlevi örnekleyebilir. Ancak öznel 'hissin' (qualia) gizemi açık bir kavramsal engel olarak kalır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır (Koşullu)",
+      "rationale": "Zihin açıkça 'beyne bütünsel olarak bağımlı' sayılır. Ancak Olabilirci felsefe, gelecekteki bilimin hayatta kalmaya izin veren, şu anda hayal edilemeyen fiziksel olmayan bileşenleri açığa çıkarabileceğine olanak tanır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Belirsiz/Hümanistik",
+      "rationale": "Kuşkucu bir meydan okuyan kuram olarak kozmik ya da nihai bağlanımdan kaçınır (Olabilircilik). Anlam, bilincin işlevinden (hedef belirleme ve failliği yürütme) hümanistik olarak türetilir."
+    },
+    "virtual_immortality": {
+      "stance": "Mümkün (Koşullu)",
+      "rationale": "Bilinç, biyolojik makinenin üstünde yer alan üst düzey soyut temsile başarıyla indirgenirse, teknolojik karmaşıklık aşıldığı ve öznel 'his' korunduğu takdirde bu temsiller ilkece yüklenebilir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Örtüşme (bilinci gerekli bir işlevsel/temsili mekanizmaya indirgeme açısından)"
+      },
+      {
+        "name": "Mysterianism",
+        "relationship": "Örtüşme (qualia'nın temel doğasının kavramsal olarak erişilemez olabileceği sonucuna varma açısından)"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Eleştiri (beyne bağımlılığı kabul etmesine rağmen materyalizmin yeterliliğine meydan okur)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Beyond God and atheism: why I am a ‘possibilian’",
+        "year": 2010
+      },
+      {
+        "title_with_names": "What is Consciousness? (Closer To Truth)",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is brain and mind the same thing? (Closer To Truth)",
+        "year": 2011
+      }
+    ]
+  }
+}

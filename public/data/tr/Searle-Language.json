@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Searle’ün Dili ve Bilinci",
+    "summary": "Searle, dilin insan bilinci için can alıcı olduğunu, bilinçli deneyimi biçimlendirmeye ve zenginleştirmeye hizmet ettiğini savunur . Bu ilişki, dil öncesi bilincin dili olanaklı kıldığı, dilin de karşılığında bilincin yapısını incelttiği evrimsel bir \"kendini yukarı çekme etkisi\" olarak görülür .",
+    "associated_thinkers": ["John Searle"],
+    "category": "Materyalizm",
+    "subcategory": "Dil İlişkileri",
+    "core_identity_tagline": "‘Bilincin Güçlendiricisi ve Biçimlendiricisi Olarak Dil’",
+    "classification_tags": [
+      "language",
+      "intentionality",
+      "biological naturalism",
+      "symbolic communication"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, beyindeki biyolojik nöronal süreçlerce neden olunan ve onlarda gerçekleşen gerçek, öznel, nitel farkındalık durumları olarak tanımlanır . Dil ise karmaşık, üst düzey bilinçli içeriği yaratmak ve yapılandırmak için bir mekanizma olarak işlev görür .",
+    "ontological_status": "Fizikalizm/Biyolojik Doğalcılık (bilinç, beynin ontolojik olarak indirgenemez, öznel bir biyolojik özelliğidir) ",
+    "mind_body_relationship": "Bilinçli durumlar, alt düzey beyin süreçlerince neden olunan üst düzey sistem özellikleri olarak beyinde gerçekleşir . Zihin ontolojik olarak indirgenemezdir (özneldir), ancak nedensel olarak beyne indirgenebilir . Dil yetenekleri, gerçekleşen zihinsel durumların kapsamını büyük ölçüde genişletir .",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Sistemik/Biyolojik Beliriş (Bilinç, nöronal örgütlenmece neden olunan üst düzey bir özelliktir . Sindirim ya da fotosentez gibi doğal dünyanın bir parçası olarak görülür .)",
+    "subjectivity_and_intentionality": "Bilinç ontolojik olarak özneldir; yalnızca bir özne tarafından deneyimlendiği biçimde var olur . Hayvanlar temel yönelimsel durumlara sahip olsa da, dil, dilsel olmayan hayvanların erişemeyeceği karmaşık, simgesel yönelimsel durumları (örneğin gelir vergisi yapmak ya da şiir yazmak) olanaklı kılar .",
+    "qualia_account": "Bilinçli durumlar niteldir; içkin bir \"nitel his\" (qualia) taşırlar . Bu nitel durumlar gerçek, öznel ve ontolojik olarak indirgenemezdir, ancak nedensel olarak beyin tarafından üretilir . Dil bu bilinçli deneyimleri biçimlendirir ve zenginleştirir .",
+    "ontological_commitments": "Biyolojik beyinler, nöronal süreçler, nedensel olarak etkili bilinçli durumlar (gerçek, öznel, üst düzey sistem özellikleri olarak) ve dilsel/simgesel yapılar .",
+    "epistemic_access": "Birinci şahıs öznel deneyim (fenomenoloji) yoluyla erişilir  ve bilince neden olan ve onu gerçekleştiren beyin süreçlerinin üçüncü şahıs bilimsel incelenmesi aracılığıyla çalışılır .",
+    "constituents_and_structure": "Bilinç, beynin sistem özellikleri olarak gerçekleşir . Dil, bilinç için ayrıntılı bir yapı sağlar; karmaşık düşünce için iç sözdizimi aracılığıyla simgelerin harmanlanmasını olanaklı kılar ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Yönelimsellik, Öz-farkındalık (özellikle dilin olanaklı kıldığı üst düzey öz-farkındalık) .",
+    "distinctive_mechanism_or_principle": "Dil öncesi bilincin dilsel kapasiteyi doğurduğu, bu kapasitenin de simgesel yapılar ve iç sözdizimi aracılığıyla bilinci özyinelemeli olarak zenginleştirip karmaşıklaştırdığı evrimsel \"kendini yukarı çekme etkisi\" .",
+    "dynamics_of_emergence": "Dinamik süreç. Bilincin ve dilin evrimi, sürekli pekiştiren ve bileşik bir etkidir .",
+    "location_and_distribution": "Tümüyle biyolojik beyinde konumlanmıştır .",
+    "causation_and_functional_role": "Bilinçli durumlar nedensel olarak etkilidir . Dil, karmaşık, soyut planlamayı ve simgesel düşünceyi olanaklı kılar; muazzam bilişsel güç kazandırır ve bilinçli deneyimi yapılandırır .",
+    "integration_or_binding": "Dilden doğan ayrıntılı bilinç yapısı aracılığıyla örtük biçimde sağlanır; karmaşık simgesel düşüncelerin \"iç sözdizimi\" yoluyla birleşik biçimde ele alınmasını olanaklı kılar .",
+    "information_flow_or_representation": "Dil, bir iç sözdiziminde simgesel temsillerin harmanlanmasını kolaylaştırır; bilgiyi soyut olarak temsil etmeyi gerektiren karmaşık bilişsel görevleri (örneğin sayılar ya da karmaşık varsayımlar kullanmayı) destekler .",
+    "evolutionary_account": "Bilinç, simgesel dilden önce gelir (hayvanlardaki yönelimsel durumların gösterdiği gibi) . İnsan bilinci ve dili, olumlu bir geri besleme döngüsü (kendini yukarı çekme etkisi) yoluyla birlikte evrildi .",
+    "core_claims_and_evidence": [
+      "Dil, insan bilincinin içeriğini ve yapısını derinden biçimlendirir ve zenginleştirir .",
+      "Dilsel olmayan hayvanlar, iç sözdizimi eksikliği nedeniyle belirli karmaşık, simgesel bilinçli deneyimlere sahip olamaz .",
+      "Bilinçli durumlar ontolojik olarak indirgenemezdir, ancak nedensel olarak alt düzey beyin süreçlerince belirlenir .",
+      "Bilinç, dilin bizim için en önemli olan parçaları için can alıcıdır ."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi, Kavramsal, Nörobiyolojik (Altta yatan beyin nedenselliği varsayımı) ."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir (Gerekçe: Biyolojik Doğalcılığa dayalı bir Materyalist kuram olarak, belirli sinirsel süreçler, dil kapasitesi ve bunlardan doğan karmaşık bilinçli durumlar arasındaki nedensel ilişki sinirbilim yoluyla sınanabilir olmalıdır, ancak ontolojik indirgenemezliği sınamak karmaşıktır) .",
+    "known_empirical_interventions_or_tests": "Genel nörobiyolojik ve dilsel kanıta örtük dayanma . (Kaynaklarda Dil Kuramı yönüne özgü belirli kanonik testler ayrıntılandırılmaz).",
+    "criticisms_and_tensions": "Biyolojik Doğalcılığın daha geniş iddiaları nedeniyle, özellikle nedensel indirgemeciliği onaylarken ontolojik indirgenemezliği sürdürmesi nedeniyle eleştirilir . Benzetim ile biyolojik nedensellik arasındaki ayrım da son derece tartışmalıdır (örneğin Çin Odası argümanı) .",
+    "open_questions_and_limitations": "Beyin süreçlerinin bilinci nasıl ürettiğine dair kesin mekanizma hâlâ bilinmemektedir , bu da dilin bu beliren özelliği nasıl yapılandırdığının açıklanmasını sınırlar .",
+    "ontological_coherence": "Searle’ün Materyalist çerçevesi (Biyolojik Doğalcılık) içinde tutarlıdır , ancak maddesel nedenselliğin ve bilincin ontolojik indirgenemezliğinin eşzamanlı ileri sürülmesi bakımından içsel gerilimle karşılaşır ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Salt benzetimin (hesaplamanın) insan benzeri bilince ulaşabileceğini reddeder (Çin Odası) . Ancak beynin gerekli biyolojik/nedensel süreçlerini çoğaltan yapay bir makine inşa edersek, bu ilkesel olarak bilinçli olabilir . Dilin merkeziliği, ileri dil sistemleri can alıcı iç sözdizimini çoğaltırsa yapay zeka bilincini daha olası kılabilir ."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, beyinde neden olunan ve gerçekleşen biyolojik bir özelliktir . Biyolojik taşıyıcı çözüldüğünde sona erer ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bir Materyalizm kuramı olarak, nihai anlamı ya da amacı kozmik olarak temellendiremez . Dille güçlendirilmiş bilinç, insanların kendi anlamını, amacını ve karmaşık failliğini üretmesine olanak tanır ."
+    },
+    "virtual_immortality": {
+      "stance": "Koşullu/Muhtemel",
+      "rationale": "Sanal ölümsüzlük (zihinsel benliğin yüklenmesi), yalnızca kopyalama gerekli biyolojik/nedensel sistemi çoğaltırsa elde edilebilir; çünkü salt benzetim reddedilir . Dil, bilincin derin özü için merkeziyse, dilsel/simgesel süreçlerin başarıyla çoğaltılması elde edilebilirliği kolaylaştırır ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Searle’s Biological Naturalism",
+        "relationship": "Temel"
+      },
+      {
+        "name": "Chomsky’s Language and Consciousness",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Koch’s Consciousness does not Depend on Language",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "Örtüşme/Karşıtlık"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Rediscovery of Mind, John Searle",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Consciousness and Language, John R. Searle",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Biological Naturalism, John R. Searle",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Language and consciousness, John Searle (Closer To Truth interview)",
+        "year": 2014
+      }
+    ]
+  }
+}

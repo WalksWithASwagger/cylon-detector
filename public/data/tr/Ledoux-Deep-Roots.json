@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "LeDoux'nun Bilincin Derin Kökleri Kuramı",
+    "summary": "Bu kuram, insan bilincini ve davranışını derin evrimsel tarihin merceğinden ele alır ve bilincin, kortikal bilişsel devrelerin gelişkin bir ürünü olarak nispeten yakın bir dönemde ortaya çıktığını ileri sürer. En eski organizmalardan devralınan temel hayatta kalma yetilerinin, sinir sistemlerinin evrimiyle nasıl güçlendirilerek nihayetinde bilince yol açtığını izler.",
+    "associated_thinkers": ["Joseph LeDoux"],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Filogenetik Evrim",
+    "core_identity_tagline": "Güçlendirilmiş hayatta kalma mekanizmalarının beliren bir ürünü olarak bilinç.",
+    "classification_tags": [
+      "evolution",
+      "neurobiology",
+      "materialism",
+      "phylogeny",
+      "survival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, derin köklere sahip hayatta kalma yetilerinin evrimsel güçlenmesinden doğan bir dizi kortikal bilişsel durum olarak tanımlanır.",
+    "ontological_status": "İndirgemeci fizikalizm",
+    "mind_body_relationship": "Bilinç, biyolojik beynin ve sinir sisteminin evrimsel işleyişinden beliren, tümüyle fiziksel bir fenomendir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf beliriş",
+    "subjectivity_and_intentionality": "Kuram, bilinci hayatta kalmayı ve gelişip serpilmeyi güçlendirme yönündeki evrimsel zorunlulukla ilişkilendirir. Öznellik (korku duygusu gibi), eski bilinçdışı hayatta kalma devrelerinden ayrı olarak, kortikal bilişsel devrelerin yakın dönemde ortaya çıkan bir ifadesi olarak belirir.",
+    "qualia_account": "Bu kuramı betimleyen metin, qualia'nın kendisinden çok evrimsel tarihe ve hayatta kalma devrelerine odaklanır; ne var ki materyalist duruşuyla tutarlı biçimde qualia, örtük olarak kortikal bilişsel devrelerin karmaşık ifadeleri sayılır ve hayatta kalma devrelerine kıyasla sığ bir evrimsel tarihe sahiptir.",
+    "ontological_commitments": "Evrimleşmiş sinir sistemleri, biyolojik beyinler ve savunmacı hayatta kalma devreleri.",
+    "epistemic_access": "Evrimsel zaman çizelgesinin izlenmesi, karşılaştırmalı nörobiyolojinin incelenmesi ve erken organizmaların problem çözme ile hayatta kalma davranışlarının çözümlenmesi yoluyla erişilebilir.",
+    "constituents_and_structure": "Evrimleşmiş sinir sistemleri; bunlar, derin köklere sahip savunmacı hayatta kalma devreleri üzerine inşa olan kortikal bilişsel devrelere (bilinç için) yol açar."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç (özellikle onun filogenetik belirişinin izlenmesi), davranış ve duygusal hisler.",
+    "distinctive_mechanism_or_principle": "Bilinç, bir organizmanın hayatta kalma ve gelişip serpilme yetisini güçlendiren sinir sistemlerinin evriminden doğar; kökeni ilk canlı organizmaların çözdüğü sorunlara kadar geri götürülür.",
+    "dynamics_of_emergence": "Bilinç, 'daha sığ bir tarihe' sahip bir beliriş süreciyle, yani eski savunmacı hayatta kalma devreleri üzerine inşa olan kortikal bilişsel devrelerin yakın dönemli bir ifadesi olarak nitelenen dinamik bir süreçtir.",
+    "location_and_distribution": "Bilinçli deneyimin kendisi, derin köklere sahip kortikal altı hayatta kalma devrelerinden gelen girdilere dayanan yakın dönemli kortikal bilişsel devrelerde konumlanır.",
+    "causation_and_functional_role": "Bilinç, tehditleri tanıyıp bunlara yanıt verme (örneğin korkunun bilinçli hissi) gibi esnek ve bilişsel işlemeyi olanaklı kılarak hayatta kalmayı ve gelişip serpilmeyi güçlendirme işlevi görür.",
+    "core_claims_and_evidence": [
+      "İnsan bilincini anlamanın anahtarı, evrimi ilk canlı organizmaların prizmasından görmekte yatar.",
+      "Bilincin, temel hayatta kalma devreleri aracılığıyla kurulmuş, yaşamın başlangıcına kadar uzanan 'derin kökleri' vardır.",
+      "Bilinç (örneğin korku duygusu), kortikal bilişsel devrelerin yakın dönemli bir ifadesidir."
+    ],
+    "basis_of_belief_or_evidence_type": "Nörobiyolojik, evrimsel, bilimsel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir",
+    "known_empirical_interventions_or_tests": "Sinir sistemlerinin filogenetik gelişimini izleyen ve savunmacı hayatta kalma devrelerini türler arasında karşılaştıran çalışmalar.",
+    "criticisms_and_tensions": "Sağlanan metinde özgül eleştiriler bulunmasa da, Materyalizm kuramlarına genel olarak yöneltilen eleştiri, bilincin biyolojik temeli ve evrimi anlaşılsa bile onun niteliksel özünü (Zor Problem) açıklayamamaktır.",
+    "open_questions_and_limitations": "Öznel deneyimin belirişine yol açan tam adımlar ve bilinçli hislerden sorumlu kortikal bilişsel devrelerin (sığ tarih) bilinçdışı hayatta kalma mekanizmalarından (derin tarih) ayrılması açık sorular olarak durmaktadır.",
+    "ontological_coherence": "Materyalist ve evrimsel natüralist bir çerçeve içinde son derece tutarlı."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Beliren biyolojik mekanizmalara odaklanan bir Materyalizm kuramı olarak, gerekli evrimsel ve hayatta kalma işlevleri yapay bir zeminde yeniden üretilebilirse, yapay zeka bilinci ilkece mümkün olmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, ölümde işlevini yitiren, evrimleşmiş biyolojik beyne ve onun kortikal bilişsel devrelerine açıkça bağımlıdır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Materyalizmle tutarlı biçimde bilinç, öncelikle hayatta kalmayı ve gelişip serpilmeyi güçlendirme biyolojik işlevine hizmet eder; insanların kendileri için yarattıklarının ötesinde hiçbir içkin kozmik anlam ya da teleoloji sunmaz."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç saf fiziksel ve karmaşık biyolojik bilgi işlemeden beliren bir şey olarak anlaşıldığından, nöral örüntünün kopyalanması ilkece sanal ölümsüzlüğe olanak tanımalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "LeDoux's Higher-Order Theory of Emotional Consciousness",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Feinberg/Mallatt’s Ancient Origins of Consciousness",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Deep History of Ourselves: the Four-Billion-Year Story of How We Got Conscious Brains, Joseph LeDoux",
+        "year": 2019
+      },
+      {
+        "title_with_names": "As soon as there was life, there was danger: the deep history of survival behaviours and the shallower history of consciousness, Joseph LeDoux",
+        "year": 2021
+      }
+    ]
+  }
+}

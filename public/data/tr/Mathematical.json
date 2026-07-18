@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Matematiksel Kuramlar",
+    "summary": "Bu kategori, bilinçli deneyimin yapısını, düzeyini, içeriğini ve dinamiklerini betimlemek için titiz matematiksel araçlardan yararlanan yaklaşımları (epistemolojik görüş) ve matematiksel yapıları bilincin kendisinin nihai temeli ya da özü olarak öne süren temel kuramları (ontolojik görüş) kapsar.",
+    "associated_thinkers": [
+      "Johannes Kleiner",
+      "Tim Ludwig",
+      "Yucong Duan",
+      "Max Tegmark",
+      "Roger Penrose"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Hesaplamalı ve Bilgisel",
+    "core_identity_tagline": "Biçimsel Matematiksel Yapı Olarak Bilinç",
+    "classification_tags": [
+      "mathematics",
+      "ontology",
+      "formalism",
+      "structure",
+      "computation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, temelde altta yatan matematiksel yapılar, ilişkiler ya da uzaylarla özdeşleştirilir veya onlardan türetilir; bu da deneyimsel özelliklerin biçimselleştirilmesini olanaklı kılar.",
+    "ontological_status": "Koşullu monizm (Gerekçe: Geleneksel Fizikalizm/Materyalizm modellerini desteklemekten, katı materyalizmi aşan matematiksel gerçekliğin nihai temel olduğuna dair ontolojik iddialar öne sürmeye kadar uzanır.)",
+    "mind_body_relationship": "Son derece değişken. Ontolojik türevler, hem fiziksel dünyanın hem de zihinsel deneyimin, birincil matematiksel gerçekliğin ikincil tezahürleri ya da 'gölgeleri' olduğunu öne sürer (örneğin Penrose'un Platonik dünyası). Epistemolojik türevler, fenomenal deneyim ile matematiksel uzay arasında yapısal eşyapılılık öne sürer.",
+    "primitive_or_emergent_status": "Değişken",
+    "emergence_type": "Değişken (Gerekçe: Ontolojik türevler, bilincin nihai matematiksel gerçekliğin bir parçası olarak ilksel/temel olduğunu öne sürer. Dinamiklere odaklanan modeller ise karmaşık matematiksel ilişkiler yoluyla bilinçli durumların zayıf belirişini öne sürer.)",
+    "subjectivity_and_intentionality": "Öznellik ve fenomenal nitelikler, matematiksel uzaylar ve yapılarla biçimsel olarak nitelenir; amaç, bilincin deneyimlenen yönlerine karşılık gelen bileşimi ve alanları belirlemektir.",
+    "qualia_account": "Qualia, ya da fenomenal uzaylar, özellikleri deneyimin özelliklerine eşyapılı olan matematiksel yapılar olarak ele alınır. Kuram, bilinçli deneyimdeki bir şeyin, öne sürülen yapıya sözcük anlamıyla karşılık gelmesini sağlamaya çalışır.",
+    "ontological_commitments": "Matematiksel yapılar ve biçimler; bilinçli deneyimin yönlerini temsil eden alanlar; soyut Platonik gerçeklik (bazı türevlerde).",
+    "epistemic_access": "Soyut biçimsel yöntemler, matematiksel modelleme ve fenomenal özelliklerin titiz niceliksel ya da yapısal betimlenmesi yoluyla erişilir.",
+    "constituents_and_structure": "Öğeleri bilinçli deneyimlerin yönlerine karşılık gelen 'alanlar' adı verilen kümelerden ve bu alanlar üzerinde işleyen titiz biçimde tanımlanmış ilişkiler ya da işlevlerden oluşur."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Bilinçli deneyimin yapısı, düzeyi, içeriği ve dinamikleri (evrim izi, kararlı durum, bilgi akışı).",
+    "distinctive_mechanism_or_principle": "Temel mekanizma, bilincin titiz biçimsel temsilidir. Ontolojik görüşler, bilincin, tıpkı kuantum mekaniği gibi, doğası gereği matematiksel yasalarla yapılandığını öne sürer.",
+    "dynamics_of_emergence": "Bilinç dinamikleri, evrim izini ve kararlı durumları niteleyen dinamik sistem kuramı gibi kuramlar kullanılarak betimlenebilir.",
+    "location_and_distribution": "Konum, soyut matematiksel yapıya kıyasla ikincildir. Ontolojik görüşlerde konum kozmik olabilir ya da biçimlerin Platonik âleminde yer alabilir.",
+    "causation_and_functional_role": "Matematik, örüntüleri, periyodikliği ve ilgililiği bulmak için gerekli 'bilincin dili' olarak işler; böylece nedensel ilişkileri ve işlevleri açığa çıkarır.",
+    "integration_or_binding": "Birlik ve bağlama, tipik olarak bilgi akışı modelleri ya da karmaşıklık ve bütünleşme ölçüleri gibi biçimselleştirilmiş matematiksel yapılar aracılığıyla nicelenir ya da betimlenir.",
+    "information_flow_or_representation": "Bilinç içindeki akışı ve entropi değerlerini nicelemek için çoğu kez bilgi kuramı uygulanır. Temel proje, bilinçli deneyimi matematiksel uzaylar açısından temsil etmektir.",
+    "evolutionary_account": "Çekirdek kuram tarafından doğrudan ele alınmaz (Gerekçe: Matematiksel Kuramların odağı genel olarak filogenetik gelişimden çok anlık yapı ve temel öz üzerinedir; ancak evrimsel açıklamaları olan Friston'un FEP'si gibi kuramları destekler).",
+    "core_claims_and_evidence": [
+      "Bilinç, matematiksel yapılar tarafından kurulur (ontolojik görüş).",
+      "Bilinçli deneyim, matematiksel nesnelere ve geometrik özelliklere tam olarak karşılık gelir.",
+      "Dinamik sistem kuramı ve bilgi kuramı gibi matematiksel araçlar, bilincin içsel dinamiklerini niceleyebilir."
+    ],
+    "basis_of_belief_or_evidence_type": "Biçimsel/matematiksel, kavramsal"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir. Belirli bilimsel kuramlar (örneğin Bütünleşik Bilgi Kuramı) için matematiksel çerçeveyi sağladığında ampirik olarak sınanabilir.",
+    "known_empirical_interventions_or_tests": "Kurama bağlı (Gerekçe: Bu yaklaşım, Bütünleşik Bilgi Kuramı ve Serbest Enerji İlkesi gibi, ardından belirli ampirik ölçüleri ve müdahaleleri tanımlayan başka kuramlar için biçimsel dili sağlar).",
+    "criticisms_and_tensions": "Matematiksel biçimciliğin, salt işlevsel bağıntıları betimlemek yerine bilinçli deneyimin gerçek özünü yakaladığını göstermenin güçlüğü nedeniyle eleştirilir. Ontolojik iddialar (bilincin matematikten 'yapılmış' olması gibi) son derece tartışmalıdır.",
+    "open_questions_and_limitations": "Başlıca çözümsüz sorun, matematiğin soyut biçimsel varlıklarını bilinçli deneyimin somut fenomenal hissiyle (qualia) nasıl köprüleyeceğidir.",
+    "ontological_coherence": "Platoncu ya da Matematiksel Evren Hipotezi ontolojisiyle eşleştirildiğinde yüksek tutarlılık gösterir; katı indirgemeci fizikalizme uygulandığında niteliksel öznelliği açıklama meydan okumalarıyla karşılaşır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Bilinç salt soyut matematiksel yapı ya da hesaplamalı mantıkla tanımlanıyorsa, bu yapıyı gerçekleştiren yapay sistemler potansiyel olarak bilinci örnekleyebilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Koşullu",
+      "rationale": "Ontolojik matematiksel kuramlar (örneğin Tegmark, Penrose), gerçekliğin temelinin ebedi matematiksel yapı olduğunu öne sürer; bu da bilincin soyut bir anlamda fiziksel beynin ötesinde sürmesine olanak tanıyabilir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Koşullu kozmik",
+      "rationale": "Kozmos temelde matematikselse ya da Platonik biçimlerde köklüyse, bu, varoluşa içkin bir ussal anlam olduğunu ima eder; ancak zorunlu olarak kişisel teleolojik anlam değil."
+    },
+    "virtual_immortality": {
+      "stance": "Mümkün",
+      "rationale": "Zihin tümüyle nicelenebilir bir matematiksel yapıya ya da bilgi akışına indirgeniyorsa, bu örüntü ilkece korunup yeni bir zeminde örneklenebilir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Etki"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "Etki"
+      },
+      {
+        "name": "Tegmark’s State of Matter",
+        "relationship": "Genişletme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is a mathematical structure of conscious experience?",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality, Max Tegmark",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Shadows of the Mind: A Search for the Missing Science of Consciousness, Roger Penrose",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Consciousness, mathematics, and natural laws, Yucong Duan and Shiming Gong",
+        "year": 2024
+      }
+    ]
+  }
+}

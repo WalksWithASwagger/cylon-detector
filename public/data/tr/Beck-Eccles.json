@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Beck-Eccles'in Sinapstaki Kuantum Süreçleri",
+    "summary": "Bu öncü kuantum nörobiyolojik kuram, bilinçli eylemin ya da zihinsel niyetin, bir kuantum tetikleyicisi olarak davranarak fiziksel beyin süreçlerini etkilediğini öne sürer. Özellikle, zihinsel niyet, sinapstaki kuantum durum indirgenmesi yoluyla presinaptik nöronlardaki iletici moleküllerin salınımını düzenler.",
+    "associated_thinkers": [
+      "Sir John Eccles",
+      "Friedrich Beck"
+    ],
+    "category": "Kuantum Kuramları",
+    "subcategory": "Kuantum Nörobiyolojik Mekanizma",
+    "core_identity_tagline": "Sinapstaki Kuantum Tetikleyicisi Olarak Bilinç",
+    "classification_tags": [
+      "quantum",
+      "neurobiology",
+      "synapse",
+      "volition",
+      "interactionist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, özünde presinaptik nöronlarda bilgi aktarımı sırasında gerçekleşen kuantum durum indirgenmesi (ya da genliklerin seçilmesi) fiziksel süreciyle ilişkilidir.",
+    "ontological_status": "Düalist Etkileşimcilik (Gerekçe: Mekanizma, fiziksel olmayan zihinsel eylemin/iradenin fiziksel süreçleri doğrudan etkilemesini betimler; bu, etkileşimciliğe özgüdür.)",
+    "mind_body_relationship": "Zihinsel niyet (irade), belirli kortikal alanlarda ekzositozun (iletici molekül salınımının) olasılığını anlık olarak artırarak sinirsel açıdan etkili hâle gelir ve bilinçli eylemi kuantum tetikleyicilerine bağlar.",
+    "primitive_or_emergent_status": "Beliren (Gerekçe: Bilinç, tüm gerçekliğe temel olmaktan ziyade, sinaptik yapıda konumlanmış karmaşık kuantum mekanik etkileşimler yoluyla özgül olarak ortaya çıkar.)",
+    "emergence_type": "Güçlü Beliriş (Kuantum Tetikleyicisi) (Gerekçe: Bir kuantum mantığının ve öngörülemezliğin devreye girmesi, fiziksel olmayan zihinsel güçlerin fiziksel beyin durumlarını etkilemesine olanak tanır; bu da klasik fiziğe indirgenemezliği ima eder.)",
+    "subjectivity_and_intentionality": "Öznellik ve yönelimsellik (zihinsel niyet/irade), sinaptik düzeyde fiziksel olasılıkları etkin biçimde etkileyen belirli zihinsel güçlerdir.",
+    "qualia_account": "Açıkça ayrıntılandırılmamıştır. (Gerekçe: Kuram öncelikle fenomenal içeriğin doğasına değil, zihinsel etkinin (irade/niyet) nedensel bir mekanizmasını kurmaya odaklanır.)",
+    "ontological_commitments": "Kuantum mekanik özellikler; sinaptik yapılar (presinaptik nöronlar, sinaptik zar); zihinsel niyet/irade; kortikal sinir ağları.",
+    "epistemic_access": "Nörobiyolojiye uygulanan somut kuantum mekanik özelliklerin fiziksel modellenmesi ve sonuçların gözlemlenen bilinçli eylemlerle ilişkilendirilmesi yoluyla.",
+    "constituents_and_structure": "Serebral korteks nöronlarının sinaptik zarı içindeki elektron aktarım süreçlerine uygulanan ve sinaptik anahtarları düzenleyen kuantum etkileri (durum indirgenmesi)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Faillik, Özgür İrade, İrade/Niyet, Fenomenal (İma edilen)",
+    "distinctive_mechanism_or_principle": "Kuantum durum indirgenmesi/genliklerin seçilmesi; bilinçli eylemin ekzositozun fiziksel süreçlerini düzenlemesine olanak tanıyan ‘yeni bir mantığa açılan bir kapı’ (kuantum mantığı) sağlar.",
+    "dynamics_of_emergence": "Bilinçli eylem, serebral kortekste zamansal örüntüler oluşturan dinamik bir süreçtir; kuantum tetikleyicisi, sayısız sinaptik anahtarın etkin biçimde düzenlenmesini mümkün kılar.",
+    "location_and_distribution": "Serebral kortekse, özellikle nöronlar arasındaki sinapslara (presinaptik sinir impulsları, sinaptik zardaki elektron aktarım süreçleri) konumlanmıştır.",
+    "causation_and_functional_role": "Bilinç, doğrudan nedensel bir role sahiptir; kuantum durum çöküşünde temel belirsizlik uyandırarak zihinsel güçlerin (niyetin) beyin durumlarını etkilemesine olanak tanır.",
+    "integration_or_binding": "Açıkça ayrıntılandırılmamıştır. (Gerekçe: Odak, duyusal girdilerin birleşik bir deneyime bağlanmasından ziyade iradi etkinin mekanizmasıdır.)",
+    "information_flow_or_representation": "Bilgi aktarımı, presinaptik nöronlardaki kuantum mekanik özellikler yoluyla gerçekleşir ve tekil olaylar için öngörülemezlikle nitelenen bir kuantum mantığı getirir.",
+    "evolutionary_account": "Sunulan kaynaklarda ele alınmamıştır. (Gerekçe: Odak, katı biçimde mevcut biyolojik dizgelerde bilinçli etki için gerekli fiziksel/kuantum zeminidir.)",
+    "core_claims_and_evidence": [
+      "Bilinçli eylem, özünde beyindeki kuantum durum indirgenmesiyle ilişkilidir.",
+      "Zihinsel niyet, seçilmiş kortikal alanlarda ekzositoz olasılığını anlık olarak artırarak sinirsel açıdan etkili hâle gelir.",
+      "Kuantum mantığı, zihinsel güçlerin beyin durumlarını etkilemesi için fırsat açar."
+    ],
+    "basis_of_belief_or_evidence_type": "Kuramsal, Kuantum Mekanik Model"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir (Kuram, biyolojik süreçleri betimlemek için somut kuantum mekanik özellikler uygular ve ilkece doğrulama yolları önerir).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kuram, bilincin kuantum kuramlarına ortak olan genel bir kuşkuculukla karşı karşıyadır; çoğu fizikçi ve sinirbilimci, kuantum etkilerinin beynin ılık, makroskopik düzeyindeki ölçeklenmesini ve ilgililiğini sorgular.",
+    "open_questions_and_limitations": "Sinapstaki tekil kuantum olaylarının karmaşık, bütünleşik bilinçli deneyime nasıl dönüştüğü çekirdek sorunu ve kuantum fenomenlerini makro ölçekli nörobiyolojiyle bağdaştırmanın süregelen güçlüğü.",
+    "ontological_coherence": "Kuantum fiziğinde bulunan içkin belirsizlikten yararlanarak fiziksel olmayan zihinsel durumlara (iradeye) nedensel etkililik tanıyan bir ontolojik çerçeve içinde tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Bilinç, biyolojik sinapslara içkin belirli, hesaplamalı olmayan kuantum mekanik özelliklere (elektron aktarım süreçlerine) dayanıyorsa, yapay dizgelerin bilinçli olması için bu tam kuantum zeminlerini çoğaltması gerekir."
+    },
+    "survival_beyond_death": {
+      "stance": "Belirsiz",
+      "rationale": "Kuram, zihinsel niyet ile beyin etkinliği arasında nedensel bir bağ kurar. Ancak bu kuantum süreçlerini tetikleyen fiziksel olmayan zihinsel varlığın (irade/niyet), biyolojik aygıt yok olduğunda varlığını sürdürüp sürdürmediğini belirtmez."
+    },
+    "meaning_and_purpose": {
+      "stance": "Evet",
+      "rationale": "Bilinçli eylemin/iradenin fiziksel süreçleri doğrudan etkilediğini ve özgür iradenin kuantum belirsizliğiyle mümkün kılındığını ileri sürerek, kuram niyetli zihinsel yaşamın nedensel etkililiğini ve önemini destekler; bu da eylemde içkin bir amaç/değer ima eder."
+    },
+    "virtual_immortality": {
+      "stance": "Belirsiz",
+      "rationale": "Sanal ölümsüzlük, gerekli bilinç üreten yapının (sinaptik mekanizmalardaki kuantum durum indirgenmesinin) biyolojik olmayan bir ortamda gelişmiş teknolojiyle değiştirilip değiştirilemeyeceğine ya da çoğaltılıp çoğaltılamayacağına bağlıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Quantum aspects of brain activity and the role of consciousness, Beck and Eccles",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Quantum processes in the brain: a scientific basis of consciousness, Beck and Eccles",
+        "year": 1998
+      }
+    ]
+  }
+}

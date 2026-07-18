@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Edelman'ın Sinirsel Darwinciliği ve Yeniden-Girişli Sinir Devreleri",
+    "summary": "Bu, bilincin karmaşık beyin morfolojisinden ve evrimsel seçilimden doğduğunu öne süren, salt biyolojik ve materyalist bir kuramdır. Temel mekanizma, özellikle talamokortikal sistemde nöron grupları arasında süregelen, kitlesel, özyinelemeli sinyalleşme (yeniden-giriş) ile tanımlanan ve üst düzey ayrımları olanaklı kılan Dinamik Çekirdek'i içerir.",
+    "associated_thinkers": [
+      "Gerald Edelman",
+      "Giulio Tononi"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Nörobiyolojik",
+    "core_identity_tagline": "'Yeniden-Girişli Sinirsel Ayrımlar olarak Bilinç'",
+    "classification_tags": [
+      "neural selectional system",
+      "reentry",
+      "dynamic core",
+      "biological",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, talamokortikal sistemin dinamik çekirdeğindeki yeniden-girişli etkileşimlerden doğan üst düzey ayrımların sonucu olarak tanımlanır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Zihin ve zihinsel durumlar tümüyle fizikseldir, yalnızca biyolojik beyin süreçlerinin ürünüdür (baştan sona materyalist bir kuram).",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Öznellik, bireysel organizmanın etkinliğine içkindir ve onun benzersiz fenotipik özelliklerini ve yaşam öyküsünü yansıtır. Yönelimsellik, uyumsal tepkileri kayıran sistemin seçilimci doğasında yansır.",
+    "qualia_account": "Qualia, altta yatan sinirsel yapı ve dinamikler tarafından olanaklı kılınan üst düzey ayrımlar olarak tanımlanır. Qualia'nın zor problemi, betimleyici bir kuramın açıkladığı öznel deneyimi yeniden üretemeyeceği gerekçesiyle yanlış kurulmuş olarak bir kenara bırakılır.",
+    "ontological_commitments": "Biyolojik beyinler, nöron grupları, yeniden-girişli sinir devreleri ve sinaptik etkinlik değişimleri.",
+    "epistemic_access": "Öncelikle bilimsel inceleme ile nöroanatomik yapının ve sinirsel dinamiklerin üçüncü şahıs betimlemesi aracılığıyla erişilir; bunun birinci şahıs deneyimi yeniden üretemeyeceği kabul edilir.",
+    "constituents_and_structure": "Varyant devre repertuvarları, işlevsel olarak esnek nöron grupları ve talamokortikal sistem (Dinamik Çekirdek) içindeki kitlesel paralel karşılıklı lifler."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Birincil Bilinç (hatırlanan şimdi), Üst Düzey Bilinç (benlik duygusu, dil), Birlik/Bağlama.",
+    "distinctive_mechanism_or_principle": "Sinirsel Darwincilik (Nöron Grubu Seçilimi Kuramı, TNGS) ile yeniden-girişli sinir devreleri aracılığıyla Dinamik Çekirdek örgütlenmesinin birleşimi.",
+    "dynamics_of_emergence": "Bilinç, birçok girdinin yeniden-girişli etkileşimlerle bütünleşmesinden doğan, zaman içinde farklı yarı-kararlı durumların sürekli bir dizisini üreten dinamik bir süreçtir.",
+    "location_and_distribution": "Ağırlıklı olarak talamokortikal devrelerde (Dinamik Çekirdek) yerelleşmiştir.",
+    "causation_and_functional_role": "İşlevsel rol, uyumsal tepkilere yol açan üst düzey ayrımları olanaklı kılmaktır. Üst düzey bilinç, planlamaya ve bilinçli olma bilincine izin verir.",
+    "integration_or_binding": "Yeniden-giriş yoluyla sağlanır; bu, çeşitli, etkileşen nöron gruplarına bağıntılar dayatarak dağıtılmış beyin alanları boyunca eşzamanlı olarak etkin devreleri kayırır.",
+    "information_flow_or_representation": "Bilgi işleme seçilimcidir (Darwinci); talimatsal olmaktan çok, deneyime dayalı yozlaşmış (degenerate) devrelerin seçimine dayanır.",
+    "evolutionary_account": "Bilinç iki aşamada evrimleşti: Birincil Bilinç, sürekli kategorizasyon yeniden-giriş yoluyla belleğe bağlandığında ('hatırlanan şimdi') ortaya çıktı; Üst Düzey Bilinç, dilsel performans ve kavramsal bellekle daha sonra ortaya çıktı.",
+    "core_claims_and_evidence": [
+      "Bilinç, evrimsel seçilimin (Sinirsel Darwincilik) salt biyolojik, baştan sona materyalist bir sonucudur.",
+      "Dinamik Çekirdek, yeniden-girişli sinir devreleri aracılığıyla bilinçli durumlar üretmek için girdileri bütünleştirir.",
+      "Qualia, bu sinirsel dinamiklerin gerektirdiği üst düzey ayrımlardır.",
+      "Yeniden-giriş, dağıtılmış kortikal etkinliği eşzamanlayarak bağlama problemini çözer."
+    ],
+    "basis_of_belief_or_evidence_type": "Biyolojik, Evrimsel, Nörofizyolojik"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir",
+    "known_empirical_interventions_or_tests": [
+      "Talamokortikal sistemde yeniden-girişli sinirsel etkinliğin rolünü araştıran çalışmalar.",
+      "Qualia'daki farklılıklarla ilişkili sinirsel yapı ve dinamiklerin ölçümleri."
+    ],
+    "criticisms_and_tensions": "Eleştirmenler, bu materyalist çerçevenin qualia'nın öznel, fenomenal varlığını tümüyle açıkladığına ikna olmamış durumdadır ve Edelman'ın zor problemi bir kenara bırakmasını yetersiz görmektedir.",
+    "open_questions_and_limitations": "Kuram, tanımı gereği birinci şahıs deneyimini (kırmızının 'kırmızılığı') üçüncü şahıs bir bilimsel betimleme yoluyla aktaramaz; bu da bir deneyimsel boşluk bırakır.",
+    "ontological_coherence": "Katı bir materyalist, nörobiyolojik ve Darwinci ontolojik çerçeve içinde son derece tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Mekanik bir biyolojik kuram olarak, seçilimci ve yeniden-girişli sinir devresi mekanizmaları biyolojik olmayan altyapılarda yeterince ve doğru biçimde uygulanırsa bilinç yapay sistemlerde mümkün olmalıdır. Savunucuları bilinçli bir yapıntı tasarlamanın olanaklı olduğunu ileri sürmüştür."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç tümüyle biyolojik beynin fiziksel işleyişine bağlıdır; dolayısıyla organizmanın ölümüyle sona erer."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanistik",
+      "rationale": "Kuram, evrimsel ve uyumsal işlevler üzerine kuruludur; bu da anlam ve amacın temel kozmik özellikler değil, bilinçli failler tarafından yaratılan beliren özellikler olduğunu ima eder."
+    },
+    "virtual_immortality": {
+      "stance": "Olası",
+      "rationale": "Bilinç belirli fiziksel/yapısal dinamiklerin ve işlevlerin (Sinirsel Darwincilik/Dinamik Çekirdek) ürünü olduğundan, bu mekanizmaların dijital bir ortama kusursuzca çoğaltılması ya da yüklenmesi birinci şahıs zihinsel benliği korurdu."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Genişletme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neural Darwinism: the Theory of Neuronal Group Selection, G.M. Edelman",
+        "year": 1987
+      },
+      {
+        "title_with_names": "A Universe of Consciousness: How Matter Becomes Imagination, G.M. Edelman and G. Tononi",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Naturalizing consciousness: a theoretical framework, G. Edelman",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Biology of consciousness, G. Edelman, J. Garlly, B. Baars",
+        "year": 2011
+      }
+    ]
+  }
+}

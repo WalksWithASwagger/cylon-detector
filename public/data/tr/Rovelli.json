@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Rovelli’nin İlişkisel Fiziği",
+    "summary": "Bu kuram, bilincin fiziğin, özellikle kuantum mekaniği ve genel göreliliğin, derinden ilişkisel yönü tarafından yeterince açıklandığını öne sürerek zor probleme deflasyonist bir bakış getirir. Fizik, varlıkların birbirlerine nasıl tezahür ettiğini betimleyen perspektifsel bir şey olarak doğru anlaşıldığında, fiziksel dünya ile öznel deneyim arasında algılanan uyumsuzluğu ortadan kaldırır.",
+    "associated_thinkers": ["Carlo Rovelli"],
+    "category": "Kuantum Kuramları",
+    "subcategory": "İlişkisel Fizik",
+    "core_identity_tagline": "‘Perspektifsel Gerçeklik Olarak Bilinç’",
+    "classification_tags": [
+      "relationalism",
+      "quantum",
+      "physicalism",
+      "perspectival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç ya da 'düşünceler', etkileşen fiziksel sistemlerin perspektife bağlı, ilişkisel tezahürleriyle açıklanır ve bu, modern fiziğin sunduğu betimleme içinde yeterlidir.",
+    "ontological_status": "İlişkisel Fizikalizm/Monizm (Gerekçe: Kuram, bilinci fiziğin genişletilmiş bir görüşü içinde tam olarak açıklamaya çalışır; temelde fiziksel ancak ilişkisel bir gerçekliğe işaret ederek çok ılımlı bir panpsişizm biçimini destekler.)",
+    "mind_body_relationship": "Deflasyonist Özdeşlik/Yeterlilik. Gerçeklik etkileşen sistemlerden oluşan bir ağ olarak betimlendiğinde, zihinsel ile fiziksel arasındaki tutarsızlık çok daha az çarpıcı görünür; bu da fiziğin düşünceleri açıklamaya yettiği derin bir eş-ilişkiye işaret eder.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş/Deflasyonist (Gerekçe: Bilinç, karmaşık, etkileşen fiziksel sistemlerin yeterli özellikleriyle açıklanır; sonuç öznel olarak derin olsa bile bu, zayıf beliriş ilkeleriyle uyumludur.)",
+    "subjectivity_and_intentionality": "Öznellik açıklanır; çünkü fiziksel gerçeklik doğası gereği perspektifseldir, yani daima bir fiziksel sisteme göreli betimlenir. Bu içkin perspektifsel doğa, bilincin özel akışına koşutluk gösterir. Yönelimsellik açıkça ele alınmaz ancak karmaşık sistem etkileşiminin bir özelliği olarak örtük biçimde kapsanır.",
+    "qualia_account": "Üçüncü şahıs fizik ile birinci şahıs deneyim (qualia) arasındaki uyumsuzluk, fiziğin ilişkisel olduğunun, dolayısıyla her gözlemciye özgü olduğunun ileri sürülmesiyle ortadan kalkar ve böylece iki taraf daha az uyumsuz hale gelir.",
+    "ontological_commitments": "Fiziksel sistemler (basit ve karmaşık), ilişkiler, perspektifler ve modern fiziğin temel alanları ile parçacıkları.",
+    "epistemic_access": "Bilinç içe bakış yoluyla bilinir, ancak temel doğası fiziksel kuramların felsefi ve kavramsal incelmeleri aracılığıyla, özellikle fiziğin ilişkisel yönlerine odaklanılarak anlaşılır.",
+    "constituents_and_structure": "Varlıkların yalnızca diğer varlıklarla temas noktalarında özellikler kazandığı, etkileşen fiziksel sistemlerden oluşan bir 'ilişkiler ağı'."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (deflate edilmiş görüş); Bilinç (karmaşık sistem etkileşimi ve 'düşünceler' olarak).",
+    "distinctive_mechanism_or_principle": "Fiziğin temelde ilişkisel olduğu (varlıkların birbirlerine nasıl tezahür ettiği) ilkesi, düşünceler gibi bilinçli fenomenleri açıklamak için gerekli örgütleyici ilkeyi sağlar.",
+    "dynamics_of_emergence": "Bilinç, fiziksel sistemlerin etkileşmesi ve birbirini etkilemesiyle ortaya çıkan dinamik bir tezahürdür; bu da gerçekliğin ilişkisel yapısına içkin bir süreci ima eder.",
+    "location_and_distribution": "Karmaşık ilişkisel etkileşime yeteneği olan karmaşık sistemlerde (beyin gibi) dağıtılmıştır. Altta yatan ilişkisel yapı gerçeklik boyunca her yerde bulunur.",
+    "causation_and_functional_role": "Bilinç (düşünceler) nedensel olarak etkilidir; çünkü altta yatan ilişkisel fiziksel dünya tarafından tümüyle betimlenir. Fiziksel betimleme, düşünceleri ve onların sonraki eylemlerini açıklamaya yeter.",
+    "integration_or_binding": "Bütünleşme, gerçekliğin yapısının özelliklerin temas yoluyla kazanıldığı bir 'ilişkiler ağı' olmasıyla açıklanır; bu da karmaşık sistemlerin birleşik ilişkisel bir betimlemesine işaret eder. (Gerekçe: Odak temel ilişkilerdedir ve karmaşık sistem etkileşimlerinin bilgiyi nasıl bağladığını örtük biçimde ele alır.)",
+    "information_flow_or_representation": "Bilinçli işlem, fiziksel sistemlerin diğer sistemlere kendilerini nasıl tezahür ettirdiğiyle açıklanır; bu da fizik tarafından betimlenebilir.",
+    "evolutionary_account": "Kaynaklarda açık bir içerik sunulmamıştır.",
+    "core_claims_and_evidence": [
+      "Gerçeklik etkileşen, ilişkisel sistemler açısından anlaşıldığında, zihinsel ile fiziksel arasında algılanan tutarsızlık azalır.",
+      "Fiziksel gerçeklik doğası gereği perspektifseldir; daima bir fiziksel sisteme göreli betimlenir ve bu, öznel deneyimi yansıtır.",
+      "İlişkisel olarak anlaşılan fizik, düşünceler ve gök gürültülü fırtınalar gibi karmaşık fenomenleri açıklamaya yeter."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi; Kavramsal; İlişkisel Kuantum Mekaniği ilkeleri."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekülatif/Kavramsal. (Gerekçe: Kuram öncelikle bilinç için belirli ampirik testler önermekten ziyade fiziğin temel bir kavramsal yeniden çerçevelenmesine odaklanır; ancak ilişkisel fizik savunucuları daha geniş doğrulamalar arayabilir.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Eleştirmenler, fizik ilişkisel olsa bile öznel deneyimin zorunlu olarak ilişkisel görünmediğini ve bu görüşün bilincin öznel ve nitel yönlerini tam olarak açıklamada başarısız olabileceğini belirtir.",
+    "open_questions_and_limitations": "Kuram, zor problemin deflasyonist bir çözümünü kabul etmeyi, ilişkisel fiziğin düşünceleri açıklamaya yetmesinin öznel deneyim gizemini çözdüğüne güvenmeyi gerektirir.",
+    "ontological_coherence": "Tutarlı. Kuram, bilinci açıklamak için gerekli yapıyı doğası gereği içerecek biçimde fiziksel dünyanın temelini yeniden tanımlayarak (İlişkisel Fizikalizm) ontolojik tutarlılığını korur."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç (düşünceler), ilişkisel olarak betimlenen karmaşık fiziksel sistemlerin etkileşimiyle tam olarak açıklanıyorsa, işleyişi bu fiziksel yasalarca yönetilen yeterince karmaşık herhangi bir yapay sistem bilince ulaşır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Kuram, bilincin kuantum mekaniğinde özel, mahrem bir rol oynadığını açıkça reddeder ve düşünceleri karmaşık fiziksel sistemler aracılığıyla açıklar. Dolayısıyla bilinç, ölümle çözülen fiziksel sistemin (örneğin beynin) varlığına bağlıdır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Olası değil/Yalnızca hümanist",
+      "rationale": "Odak, gerçekliğin ilişkiler aracılığıyla nasıl yapılandırıldığını betimlemektir. Karmaşık beliren sistemler (insanlar) anlam yaratabilse de, ilişkisel fiziğin betimlediği temel fiziksel gerçeklik kozmik bir teleoloji ya da nihai bir amaç sunmaz."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç, fiziksel sistemlerin yapısı ve etkileşimiyle açıklandığından, bu karmaşık ilişkisel fiziksel durumların yapay bir taşıyıcıda tam olarak kopyalanması ya da benzetimi, teknoloji yeterince gelişmiş olması koşuluyla sanal ölümsüzlüğe ulaşmalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "Uyumlu ('çok ılımlı bir biçimi' destekler)"
+      },
+      {
+        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "relationship": "Eleştiri (Rovelli, bilincin kuantum mekaniğinin çöküşünde özel bir rolü olduğuna karşı çıkar.)"
+      },
+      {
+        "name": "Musser’s 'Is It Really So Hard?'",
+        "relationship": "Etki (Musser, Rovelli’nin ilişkisel yaklaşımını onaylayarak alıntılar.)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Relations and panpsychism, C. Rovelli",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Consciousness is irrelevant to quantum mechanics - an interview with Carlo Rovelli, C. Rovelli",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Rovelli’s relational quantum mechanics, monism and quantum becoming, M. Dorato",
+        "year": 2016
+      }
+    ]
+  }
+}

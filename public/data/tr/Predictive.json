@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Öngörücü Kuramlar (Yukarıdan-Aşağı)",
+    "summary": "Bu bakış açısı, beyni, bilinçli algının yukarıdan-aşağı beklentileri (öngörüleri) aşağıdan-yukarı duyusal verilerle (öngörü hatalarıyla) birleştirerek içsel olarak üretildiği dinamik bir öngörü motoru olarak görür. Bilinç, hayatta kalma için isabetli öngörüyü, farkındalığı ve tepkisel davranışı kolaylaştıran işlevsel bir mekanizma olarak ortaya çıkar.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "Richard Gregory",
+      "Karl Friston",
+      "Rudolfo Llinas"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Homeostatik ve Duygulanımsal",
+    "core_identity_tagline": "Etkin Öngörü Sentezi Olarak Bilinç",
+    "classification_tags": [
+      "prediction",
+      "computation",
+      "functionalism",
+      "top-down",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, öngörücü beklentinin ve duyusal girdinin karmaşık sentezi olarak belirlenir; duyusal girdinin nedenlerine ilişkin öngörüleri ileten yukarıdan-aşağı işaretlemeden doğar.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Zihin (bilinçli algı), tümüyle fiziksel beyin mekanizmalarına (öngörücü işleme) kök salmış, beden ve dünya deneyimine aracılık eden bir işlev ya da süreçtir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Öznellik, öngörü ile duyumun içsel sentezinden doğar ve farkındalığı ile tepkiselliği olanaklı kılar. Yönelimsellik (düşüncenin yönelmişliği), sistemin sonuçları öngörmeye ve öngörü hatalarını en aza indirmeye odaklanmasında içkindir.",
+    "qualia_account": "Kuram öncelikle öngörü yoluyla algının işlevine ve sürecine odaklanır. Qualia, örtük olarak öngörücü beynin ürettiği içsel modellere ya da temsillere bağlıdır; ancak öznel 'his', salt mekanistik görüş için bir güçlük olmayı sürdürür.",
+    "ontological_commitments": "Biyolojik beyinler, öngörücü modeller, duyusal işaretler, beklenti hataları ve yukarıdan-aşağı/aşağıdan-yukarı işaretleme yolları.",
+    "epistemic_access": "Beynin temel bir işleyiş ilkesi olarak öngörüye ilişkin sistematik bir anlayış geliştirmek yoluyla, duyusal verinin önceden var olan inançlarla ('öncüllerle') nasıl bütünleştiğini çözümleyerek erişilir.",
+    "constituents_and_structure": "Bilinçli sistem, yukarıdan-aşağı işaretleri (öngörüler) ve aşağıdan-yukarı işaretleri (öngörü hataları) kullanan dinamik bir öngörü motoru olarak yapılandırılmıştır."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (Algı), Biliş, Eylem, Farkındalık, Tepkisellik",
+    "distinctive_mechanism_or_principle": "İlke, öngörü hatalarının sürekli en aza indirilmesidir (Bayesçi çıkarımın yaklaşımı); burada bilinç, beyindeki etkin, yukarıdan-aşağı öngörücü işaretlemeyle ilişkilendirilir.",
+    "dynamics_of_emergence": "Bilinç dinamik olarak belirir ve çevreyi sürekli öngörüp ona tepki verme yönündeki hayati biyolojik kapasiteyi kolaylaştırır.",
+    "location_and_distribution": "Beyin temellidir; yukarıdan-aşağı işaretleme ve yinelemeli yollarda yer alan sinir ağlarına dağılmıştır ve salt 'kafatasıyla sınırlı' bir sinirmerkezci görüşe karşı uyarır.",
+    "causation_and_functional_role": "Bilinç, gerçek dünya olayları ile karşı-olgusal benzetimler arasında hızlı karşılaştırmayı olanaklı kılarak uyarlanımsal davranışı ve en uygun eylemlerin seçimini kolaylaştırır. Kapsayıcı işlev, çevresel 'sürprizi' en aza indirerek hayatta kalmaktır.",
+    "integration_or_binding": "Bütünleşme, öngörücü beklentilerin ve gelen duyusal bilginin sürekli sentezi yoluyla sağlanır ve tutarlı bir algıyla sonuçlanır.",
+    "information_flow_or_representation": "Bilgi, öngörüleri ileten yukarıdan-aşağı işaretler ve öngörü hatalarını ileten aşağıdan-yukarı işaretler yoluyla akar; bu da Bayesçi çıkarıma yaklaşır.",
+    "evolutionary_account": "Hayatta kalmanın temel biyolojik itkisinden evrilmiş olup, etkin hareket ve karmaşık çevrelerde başarıyla yol bulma için hayati öngörü yeteneklerini olanaklı kılar.",
+    "core_claims_and_evidence": [
+      "Bilinçli zihinsel hâller, duyusal nedenlere ilişkin öngörüleri ileten yukarıdan-aşağı işaretlemeyle ilişkilidir",
+      "Beyin, güçlü, dinamik bir öngörü motoru olarak işler",
+      "Algı, öngörücü beklentinin ve duyusal girdinin karmaşık bir sentezidir",
+      "Bilinç, hayatta kalma için elzem olan öngörü yeteneklerini kolaylaştırmak üzere ortaya çıkmıştır"
+    ],
+    "basis_of_belief_or_evidence_type": "Hesaplamalı, Sinirbiyolojik, Evrimsel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir (belirli mekanistik modellere, örneğin Serbest-Enerji İlkesi ile ilgili olanlara bağlı olarak).",
+    "known_empirical_interventions_or_tests": "İma edilen yöntemler, öngörücü kodlamaya ilişkin nörolojik tepkilerin ölçülmesini ve beklenti hatalarının dinamiklerinin sınanmasını içerir (örneğin Etkin Çıkarımla ilgili çalışmalar).",
+    "criticisms_and_tensions": "İşlevsel kuramlar için yaygın olan başlıca eleştiri, öznel 'neden'i açıklayamamasıdır; yani öngörü ve sentez sürecinin neden salt işlevsel çıktı yerine hissedilen deneyimle (qualia) sonuçlanması gerektiğini açıklayamaması.",
+    "open_questions_and_limitations": "Temel sınırlılık, öngörünün işlevsel/hesaplamalı betimlemesi ile bilincin fenomenal gerçekleşmesi arasındaki boşluğu köprülemektir. Model, bilincin temelde 'ne' olduğundan çok beynin 'nasıl' işlediğine ağırlık verir.",
+    "ontological_coherence": "Materyalist, işlevselci ve belirişçi ontolojilerle yüksek düzeyde tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç öncelikle algıyı sentezlemek için öngörüler üretme ve sınama hesaplamalı işlevi olarak anlaşılırsa, bu işlevleri yerine getiren yeterince karmaşık yapay zeka sistemleri bilinçli olmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Kuram, bilinci beynin evrilmiş biyolojik süreçlerine dayandırır. Bilinç fiziksel alt katmana bağlıdır ve biyolojik ölümle son bulur."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hümanist/Evrimsel",
+      "rationale": "Bilinç, hayatta kalma ve uyum sağlamanın temel biyolojik sorununu çözmek için evrilmiştir ve uyumu azamileştirmede amaç sağlar, ancak kozmik bir anlam içermez."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Kuramın hesaplamalı ve işlevsel doğası, benliği oluşturan öngörücü örgütlenmenin ilkece sayısallaştırılıp biyolojik olmayan bir alt katmanda yeniden yaratılabileceğini ve işlevsel sürekliliğin sağlanabileceğini düşündürür."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Temel"
+      },
+      {
+        "name": "Seth’s “Beast Machine” Theory",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Karşıtlık"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Machine: How Our Minds Predict and Shape Reality, A. Clark",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Brain from inside Out, G. Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A Predictive Processing perspective on the mind-body problem, R.L. Kuhn",
+        "year": 2024
+      }
+    ]
+  }
+}

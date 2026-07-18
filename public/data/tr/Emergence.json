@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Beliriş (Bilinç İlkesi)",
+    "summary": "Beliriş, bilinç ya da psikolojik durumlar gibi niteliksel olarak yeni özelliklerin, tümüyle fiziksel yasalarca yönetilen altta yatan fiziksel özelliklerden doğduğu yönündeki felsefi iddiadır. Öncelikle, ilkece indirgenebilir olan zayıf beliriş ile temelde indirgenemez olan ve yeni fiziksel yasalar gerektirebilecek güçlü beliriş olarak ayrılır.",
+    "associated_thinkers": [
+      "David Chalmers",
+      "Paul Davies",
+      "George Ellis"
+    ],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Felsefi",
+    "core_identity_tagline": "Fiziksel Sistemlerden Doğan Niteliksel Olarak Yeni Özellikler",
+    "classification_tags": [
+      "emergentism",
+      "reductionism",
+      "non-reductive",
+      "physicalism",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, fiziksel özelliklerden doğan niteliksel olarak yeni bir özellik ya da psikolojik durum olarak tanımlanır. Bu kavram, zihin ile madde arasındaki ilişkiyi temel fiziğe indirgenebilirlik ya da indirgenemezlik temelinde tanımlar.",
+    "ontological_status": "Son derece değişken/Tartışmalı. Zayıf Beliriş indirgemeci Fizikalizmi destekler. Güçlü Beliriş sıklıkla İndirgemeci Olmayan Fizikalizmi ya da doğa kavrayışının genişletilmesi gereğini ima eder ve olası olarak yeni temel yasalar gerektirir (Doğalcı Düalizm ya da Özellik Düalizmi).",
+    "mind_body_relationship": "Belirişçi. Zihin bedenden (karmaşık fiziksel sistemler) doğar. İlişkinin doğası beliriş türüne bağlıdır: Zayıf, ilkece indirgemeyi düşündürür; Güçlü, ilkece dahi indirgenemezliği düşündürür ve sıklıkla aşağı doğru nedenselliği içerir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Hem Zayıf Hem Güçlü. Zayıf beliriş ilkece indirgenebilirliği ima eder (pratikte güç olsa da), güçlü beliriş ise olgunun indirgeme yoluyla ilkece dahi açıklanmasının imkânsız olduğunu ima eder ve temel psikofiziksel yasalar gerektirir.",
+    "subjectivity_and_intentionality": "Beliriş, öznelliğin öznel-olmayan parçalardan *nasıl* doğduğuna dair çerçeveyi sağlar. Güçlü beliriş söz konusuysa, ortaya çıkan öznel özellikler (qualia gibi), alt düzey alanı yöneten fiziksel yasalardan temelde çıkarsanamaz.",
+    "qualia_account": "Qualia, fiziksel sistemden doğan yeni, niteliksel olarak yeni özelliklerdir (örneğin duyusal nitelikler). Güçlü beliriş, bilinci (ve dolayısıyla qualia'yı), altta yatan fiziksel olgulara temelde indirgenemez, güçlü biçimde beliren bir olgunun en açık örneği olarak görür.",
+    "ontological_commitments": "Fiziksel özellikler ve fiziksel yasalar. Güçlü Beliriş için bu bağlanım, olası olarak yeni temel psikofiziksel yasaları ya da ilkeleri, özellikle yukarıdan-aşağıya nedensellikle ilgili olanları içerecek biçimde genişler.",
+    "epistemic_access": "Zayıf beliriş için erişim, temel bilim aracılığıyla (ilkece) potansiyel olarak sağlanabilir. Güçlü beliriş için olgu, epistemik olarak erişilemez ya da alt düzey fizikten çıkarsanamazdır; bu da bilimsel açıklamaya kalıcı bir meydan okuma oluşturur.",
+    "constituents_and_structure": "Bütün varlığın ya da onun yeni özelliklerinin, tüm parçalarının toplamından fazla olduğu (ya da öyle göründüğü), biyolojik nöronlar gibi fiziksel atomların karmaşık düzenlenmelerinden doğan bir sistem."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Öznellik, Qualia. Bilinçli özelliklerin varlığını ve indirgenemezliğini ele alır, çeşitli belirli kuramları güçlendirir.",
+    "distinctive_mechanism_or_principle": "İlke, yeni, niteliksel olarak farklı özelliklerin daha yüksek karmaşıklık düzeylerinde doğduğu iddiasıdır; bu sıklıkla ana akım bilimin indirgemeci varsayımlarıyla karşıtlaştırılır.",
+    "dynamics_of_emergence": "Bilinç, fiziksel bileşenlerin belirli bir tür karmaşık düzenlenmesi (örneğin biyolojik nöronlar) bir araya geldiğinde doğan ve bileşenlerin kendisinde bulunmayan özelliklerle sonuçlanan dinamik bir özelliktir. Güçlü beliriş aşağı doğru nedenselliği içerebilir.",
+    "location_and_distribution": "Genellikle karmaşık biyolojik sistemlerde (örneğin beyinlerde) yerelleşmiştir, ancak güçlü beliriş savunucuları, altyapıdan bağımsız olarak yeterli fiziksel karmaşıklığa ulaşılırsa yapay zeka bilincinin mümkün olduğunu savunabilir.",
+    "causation_and_functional_role": "Değişir. Zayıf beliriş standart fiziksel nedensellikle uyumludur. Güçlü beliriş sıklıkla yukarıdan-aşağıya nedensellik öne sürer; burada beliren üst hiyerarşik düzeyler alt düzeyler üzerinde nedensel güç uygulayarak beliren özelliğe nedensel güçler kazandırır.",
+    "integration_or_binding": "Ortaya çıkan beliren özelliğin kendisi, alt düzey bileşenlerin birleşik bir bütünde bütünleşmesini temsil eder ve parçaların toplamına indirgenemez özellikler üretir.",
+    "information_flow_or_representation": "Bilgi, beliren özellikler için bir ortam olarak işin içine girer (örneğin Beliren Bilgi Kuramı'nda maddi olmayan zihin, hiyerarşik, beliren bilgi olguları aracılığıyla bedeni etkiler), ancak genel ilkenin temel mekanizması değildir.",
+    "evolutionary_account": "Bilinç, beliren ise, belirli fiziksel karmaşıklık eşikleri aşıldığında evrimsel aşamalar boyunca ortaya çıktığı ve uyumsal yararlar sağladığı (örneğin parçalarının toplamından fazla olan sistemlere izin verdiği) varsayılır.",
+    "core_claims_and_evidence": [
+      "Niteliksel olarak yeni, özgün özellikler fiziksel özelliklerden doğar (Genel İddia).",
+      "Zayıf beliriş, yeni olguların basit yasalarda temellendiğini göstererek fizikalizmi destekler (Zayıf İddia).",
+      "Güçlü beliriş, yeni temel psikofiziksel yasalar gerektirir ve indirgenemezliği düşündürerek fizikalizme meydan okur (Güçlü İddia)."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi, Kavramsal"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekülatif ve felsefi olarak tartışmalı. Zayıf beliriş ilkece bilimsel olarak uyumludur. Güçlü beliriş, olguların temel bilimden çıkarsanamaz olduğunu öne sürdüğü için ampirik olarak sınanması güçtür.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "İndirgemeci fizikalistlerce (Elemeci Materyalistler gibi), açıklayıcı değeri az, gereksiz olmakla ya da bilinçsiz karmaşıklığın *nasıl* bilinç ürettiğini açıklayamayan bir 'mucizenin yeniden ifadesi' gibi davranmakla eleştirilir. Güçlü beliriş özellikle fiziksel dünyanın nedensel kapanışına meydan okur.",
+    "open_questions_and_limitations": "Zayıf (ilkece indirgenebilirlik) ile güçlü (ilkece indirgenemezlik) beliriş arasındaki temel ayrım açık bir felsefi sorun olarak kalır; bunun yalnızca karmaşık olguları mı betimlediğini yoksa ontolojiyi mi temelden değiştirdiğini belirler.",
+    "ontological_coherence": "Zayıf beliriş, Materyalist/Fizikalist ontoloji içinde tutarlıdır. Güçlü beliriş son derece tartışmalıdır, çünkü çıkarsanamazlık ve aşağı doğru nedensellik talebi standart fiziksel kuramla tutarlılığı zorlar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu/Olası",
+      "rationale": "Bilinç zayıf biçimde beliren ise, yeterli karmaşıklık verildiğinde yapay zeka bilinci kesindir. Güçlü biçimde beliren ise, işin içindeki meta-psikofiziksel yasalara bağlı olarak, biyolojik olmayan fiziksel karmaşıklıktan fiziksel olmayan özellikler doğarsa yapay zeka bilinci yine de mümkündür."
+    },
+    "survival_beyond_death": {
+      "stance": "Olası Değil (Zayıf); Mümkün (Güçlü)",
+      "rationale": "Materyalizme yakın olan zayıf beliriş, hayatta kalmayı dışlar. Güçlü beliriş, özellikle Beliren Düalizm biçiminde, kuramsal olarak fiziksel beyne bağlı ancak onunla kesinlikle özdeş olmayan fiziksel olmayan bir töz (zihin/ruh) üretebilir; bu da spekülatif olsa da ölümden sonra olası bağımsız bir varlığa izin verir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Muhtemelen",
+      "rationale": "Beliriş, özellikle yukarıdan-aşağıya nedensellik gibi kavramlarla birleşen güçlü beliriş, bilinç gibi üst düzey özelliklerin ve onunla ilişkili değerlerin gerçek nedensel güce sahip olabileceği bir çerçeve sunar; bu da ortaya çıkan ontolojiye bağlı olarak kozmik amaç ya da anlamı potansiyel olarak destekler."
+    },
+    "virtual_immortality": {
+      "stance": "Olası (Zayıf); Son Derece Koşullu (Güçlü)",
+      "rationale": "Bilinç zayıf biçimde beliren ise, fiziksel durumları çoğaltmak zihinsel durumları da çoğaltırdı (olası). Güçlü biçimde beliren ise, indirgenemez özelliklerin ve olası aşağı doğru nedenselliğin yeni ortamda kusursuzca yakalanıp yeniden yaratılması gerekir; bu da önemli, belki de aşılamaz teknik ve kavramsal güçlükler doğurur."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Reductionism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Biological Naturalism (Searle)",
+        "relationship": "Uyumlu"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Re-emergence of Emergence: the Emergentist Hypothesis from Science to Religion, P. Clayton and P. Davies",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Strong and weak emergence, D. Chalmers",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Why reductionism does not work, G.F.R. Ellis",
+        "year": 2019
+      }
+    ]
+  }
+}

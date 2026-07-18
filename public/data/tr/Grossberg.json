@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Grossberg’in Uyarlanımsal Rezonans Kuramı (ART)",
+    "summary": "Grossberg’in kuramı, tüm bilinçli durumların, aşağıdan yukarıya duyusal örüntülerin öğrenilmiş yukarıdan aşağıya beklentilerle etkileşiminden doğan rezonans durumları olduğunu ortaya koyar. Bu kuramsal temel, yani Uyarlanımsal Rezonans Kuramı (ART), beynin dinamik bir dünyada fenomenlere bilinçli olarak yönelmek, onları kategorize etmek, tanımak ve öngörmek için nasıl kendi kendini örgütlediğini açıklar. Bu beyin rezonanslarının çeşitliliğinin, bilincin zor problemini çözme yolunda ilerleme kaydettiğini ileri sürer.",
+    "associated_thinkers": [
+      "Stephen Grossberg"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Hesaplamalı ve Bilgisel",
+    "core_identity_tagline": "‘Rezonans Durumları Olarak Bilinçli Durumlar’",
+    "classification_tags": [
+      "computation",
+      "resonance",
+      "neurobiological",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, aşağıdan yukarıya örüntüler ile öğrenilmiş yukarıdan aşağıya beklentiler arasındaki etkileşimden doğan ve qualia'yı temsil eden özellik-seçici hücreleri içerdiğinde bilinçli farkındalığı destekleyebilen kalıcı bir rezonans durumu olarak özdeşleştirilir. Zihin, durağan bir varlık olarak değil, bir etkinlik ya da bir eylem olarak kavramsallaştırılır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik/Monist. Zihin, fiziksel beynin etkinliğidir (bir ad değil, bir eylem) ve hücresel sistemler boyunca korunan mekanistik olarak benzer yasalarla düzenlenir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Hesaplamalı yapılara ve korunan biyolojik yasalara dayanan bir Materyalizm Kuramı olarak sınıflandırılmasından hareketle, bilincin -belki sezgisel olarak indirgenemese de- alt düzey süreçlerle tümüyle açıklanabilir olması beklenir.",
+    "subjectivity_and_intentionality": "Yönelimsellik (tanıma, öngörü, öğrenme), rezonans durumunda gerçekleşen dikkatli bilinç tarafından düzenlenir. Öznellik, bu durumlar içinde qualia'yı temsil eden özellik-seçici hücrelerin dahil edilmesiyle açıklanır.",
+    "qualia_account": "Qualia, kalıcı rezonans durumu içinde yer alan ve bilinçli farkındalığı destekleyen özellik-seçici hücreler olarak özdeşleştirilir. Grossberg bunun bilincin zor problemini ele almaya yardımcı olduğunu öne sürer.",
+    "ontological_commitments": "Rezonans durumları, hesaplamalı yapılar, aşağıdan yukarıya duyusal örüntüler, yukarıdan aşağıya beklentiler ve biyolojik sistemler boyunca korunan kısa süreli ve uzun süreli bellek/etkinleşme yasaları.",
+    "epistemic_access": "Nöral ve bilişsel modelleme, beyin verilerinin gözlemlenmesi ve insanların şeyleri nasıl bilinçli olarak algılayıp bildiğinin çözümlenmesi aracılığıyla erişilebilir.",
+    "constituents_and_structure": "Aşağıdan yukarıya duyusal girdilerin ve yukarıdan aşağıya öğrenilmiş beklentilerin sürekli etkileşimi yoluyla kurulan ve ortak kısa süreli ile uzun süreli bellek yasalarıyla düzenlenen bir rezonans durumu."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Dikkatli Bilinç, Öğrenme, Tanıma, Öngörü, Eylem Düzenlemesi.",
+    "distinctive_mechanism_or_principle": "Uyarlanımsal Rezonans Kuramı (ART); aşağıdan yukarıya ve yukarıdan aşağıya yolaklar arasındaki kalıcı, azami ölçüde indirgenemez bir rezonans durumunun bilincin gerekli ve yeterli koşulu olduğu ileri sürülür (tüm bilinçli durumlar rezonans durumlarıdır).",
+    "dynamics_of_emergence": "Dinamik süreç. Bilinç, öğrenme ve öngörü gibi bilişsel süreçlerle sürekli etkileşen ve onları düzenleyen dinamik bir rezonans durumu olarak gerçekleşir.",
+    "location_and_distribution": "Beyin yapıları içinde, özellikle qualia'yı temsil eden özellik-seçici hücrelerin rezonans durumuna dahil edildiği yerlerde konumlanır.",
+    "causation_and_functional_role": "Dikkatli bilinç, öğrenme, tanıma ve öngörü gibi bilişsel süreçlerle etkileşen eylemleri düzenler. Değişen bir dünyadaki nesneleri ve olayları özerk biçimde öğrenme ve kategorize etme yetisi sağlar."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Bilişsel ve nöral modellere dayandığından ampirik ve hesaplamalı olarak sınanabilir.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kaynaklarda belirli büyük dışsal eleştiriler ayrıntılandırılmaz, ancak materyalist kuramlara özgü genel gerilimler (örneğin öznel niteliğin/qualia'nın salt işlevsel tanımlarla tam olarak yakalanmasının güçlüğü) geçerlidir.",
+    "open_questions_and_limitations": "Kuram, zor problemi çözmeyi amaçlar; bu da rezonans durumları ile fenomenal deneyim arasındaki ilişkiyi tam olarak tanımlamanın süregelen bir zorluk olduğunu gösterir.",
+    "ontological_coherence": "Hesaplamalı ve materyalist ontolojik çerçeveler içinde tutarlıdır; bilincin doğasını doğrudan işlevsel beyin etkinliğiyle hizalar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Kuram, bilincin belirli hesaplamalı yapıların ve korunan yasaların gerçekleşmesinin sonucu olduğu işlevselci bir modeldir. Bu hesaplamalı yapılar (rezonans durumları) biyolojik olmayan donanımda uygulanabilirse, yapay zeka bilinci mümkündür."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, temelde biyolojik beynin fiziksel olarak örneklenmiş rezonans etkinliğine bağlıdır ve bedensel ölümden sonra süreklilik için hiçbir kavramsal yol sunmaz."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Beynin kendi kendini örgütlemesine ve uyarlanımsal işlevine (öğrenme, öngörü, hayatta kalma) odaklanan bir Materyalist kuram olarak, insan deneyiminin dışında herhangi bir nihai ya da kozmik anlam veya amaç ima etmez."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemel",
+      "rationale": "Zihin işlevsel olarak bir hesaplamalı etkinlikler sistemi (rezonans durumları) olarak tanımlanıyorsa, bu yapının biyolojik olmayan bir ortamda yeterince eksiksiz biçimde yeniden üretilmesi, ilke olarak birinci-şahıs zihinsel benliği korumalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "Benzerlik (İşlevselci Yaklaşım)"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Benzerlik (İşlevselci Yaklaşım)"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Benzerlik (İşlevselci Yaklaşım)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Adaptive Resonance Theory: how a brain learns to consciously attend, learn, and recognize a changing world, Stephen Grossberg",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The resonant brain: how attentive conscious seeing regulates action sequences that interact with attentive cognitive learning, recognition, and prediction, Stephen Grossberg",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Conscious Mind, Resonant Brain: How Each Brain Makes a Mind, Stephen Grossberg",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Towards solving the hard problem of consciousness: the varieties of brain resonances and the conscious experiences that they support, Stephen Grossberg",
+        "year": 2017
+      }
+    ]
+  }
+}

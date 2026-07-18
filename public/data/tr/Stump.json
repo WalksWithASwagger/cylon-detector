@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Stump'ın Thomasçı Düalizmi",
+    "summary": "Bu kuram, Aziz Thomas Aquinas'ın insan ruhu anlayışını Kartezyen olmayan bir düalizm biçimi olarak sunar. Ruhu, özsel olarak maddi olmayan ya da düzenleyici bir bileşen olarak, buna karşın maddi bileşenler içinde gerçekleşen bir şey olarak ortaya koyar ve böylece insanın maddiliğini bedensel ölümden sonra ruhun hayatta kalışıyla uzlaştırmaya olanak tanır.",
+    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "category": "Düalizmler",
+    "subcategory": "Felsefi",
+    "core_identity_tagline": "Maddede Gerçekleşen Kartezyen Olmayan Maddi Olmayan Ruh",
+    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, ya da insan ruhu/tini, maddi bileşenlerde (bedende) gerçekleşen, özsel olarak maddi olmayan ya da düzenleyici bir tözdür.",
+    "ontological_status": "Töz Düalizmi (Kartezyen Olmayan/Thomasçı Türev)",
+    "mind_body_relationship": "Maddi olmayan ruh/tin, maddi bileşenlerde gerçekleşir; bu da hem kişinin maddi doğasını ('topraktansın') hem de tinin ölümden sonraki hayatta kalışını ('tin Tanrı'ya geri dönecektir') barındırır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Güçlü Beliriş/İndirgemeci Olmayan (Gerekçe: Ruhun, bedenden bağımsız olarak süregelen maddi olmayan bir öz koruduğu betimlenir; bu da onun, doğduğu maddi süreçlere tam olarak indirgenemez olduğunu gösterir.)",
+    "subjectivity_and_intentionality": "Öznellik ve yönelimsellik, bedensel çözülmeden sonra tin olarak süregelme kapasitesinin gösterdiği gibi, temelde maddi olmayan/düzenleyici ruhta yerleşiktir.",
+    "qualia_account": "Qualia, maddi bedende gerçekleşen maddi olmayan/düzenleyici ruh bileşeninin özellikleriyle ilişkilendirilir.",
+    "ontological_commitments": "Maddi beden ('toprak' gibi çözülmeye tabi) ve bağımsız varoluşa muktedir, özsel olarak maddi olmayan ya da düzenleyici bir ruh/tin.",
+    "epistemic_access": "Öncelikle felsefi argüman ve insan doğası ile tinsel hayatta kalışa ilişkin temel metinlerin ya da sezgilerin teolojik yorumu aracılığıyla erişilir.",
+    "constituents_and_structure": "İnsan kişisi, ruhun, bedenin maddi bileşenleri tarafından gerçekleştirilen form ya da düzenleyici yapı işlevi gördüğü bileşik bir varlıktır."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Birinci şahıs öznellik, kişisel özdeşlik, ölümden sonra hayatta kalma.",
+    "distinctive_mechanism_or_principle": "İnsan ruhunun Kartezyen olmayan doğası, ona doğası gereği düzenleyici olmasına, fiziksel kişiyi bir arada bağlamasına, aynı zamanda maddi olmayan bir bileşen olarak bağımsız varoluşunu korumasına olanak tanır ve böylece hem maddi varoluşu hem de tinsel hayatta kalışı barındırır.",
+    "dynamics_of_emergence": "Ruh, yaşam boyunca maddi bedende gerçekleşir. Ölümde beden çözülürken ('topraktansın'), tin maddi olmayan unsur olarak süregelir ('tin Tanrı'ya geri dönecektir').",
+    "location_and_distribution": "Ruh özünde maddi olmayan ya da düzenleyicidir, ancak yaşam boyunca maddi bedende gerçekleşir ya da örneklenir. Ölüm sonrası, ruh fiziksel dünyaya göre yerelleşmemiştir.",
+    "causation_and_functional_role": "Kuram işlevden çok ontolojiye odaklanır, ancak ruhun işlevinin, tutarlı kişisel özdeşlik ve yaşam boyunca ve ötesinde süreklilik için gerekli olduğu ima edilir.",
+    "integration_or_binding": "Ruh/tin, maddi bileşenleri tek bir insan hâlinde bağlayan birleştirici, düzenleyici ilke (form) olarak işlev görür.",
+    "information_flow_or_representation": "Kuram, bilgisel ya da temsilsel işleme mekaniğinden çok ontolojik bileşime (madde ve form/tin) odaklanır.",
+    "evolutionary_account": "Kuram tarihsel skolastik felsefeye dayanır, ancak modern yorumlar büyük olasılıkla biyolojik karmaşıklığı ruhun gerçekleşmesi için gerekli bir koşul olarak barındırır ve böylece belirişi olanaklı kılar.",
+    "core_claims_and_evidence": [
+      "Ruh Kartezyen olmayan ve düzenleyicidir, maddi bileşenlerde gerçekleşir.",
+      "İnsan maddi bir nesnedir (Yaratılış 3:19 ile uyumlu).",
+      "İnsan kişisi ölümden sonra hayatta kalır çünkü tin var olmayı sürdürür (Vaiz 12:7 ile uyumlu)."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi ve Teolojik"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Büyük ölçüde kavramsal; felsefi tutarlılığa ve yaşam ile ölüme ilişkin dinî öğretilerle metafiziksel bağdaşırlığa odaklanır.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Geleneksel Kartezyen düalizmin, özellikle etkileşim problemi bakımından, yaygın olarak yanlış ya da tutarsız kabul edildiği yaygın felsefi eleştiriyi ele almaya çalışır.",
+    "open_questions_and_limitations": "Maddi olmayan/düzenleyici bir özün maddi bileşenlerde nasıl 'gerçekleştiği' ve bu özün bilinci ölüm sonrasında nasıl sürdürdüğü kesin mekanizması kaynak metinde tanımlanmadan bırakılır.",
+    "ontological_coherence": "Tanımlı Thomasçı metafiziksel çerçevesi içinde yüksek tutarlılık; özellikle maddi bir bedenin varlığını süregelen bir tinsel unsurla uyumlaştırmak için tasarlanmıştır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Bilinç, biyolojik maddede gerçekleşen özsel olarak maddi olmayan ya da düzenleyici bir ruha bağlıysa, yalnızca fiziksel bileşenlerden inşa edilmiş yapay sistemler, ruhu doğuran psikofiziksel yasalar biyolojik olmayan dayanaklara uygulanabilmedikçe, büyük olasılıkla bu gerekli fiziksel olmayan bileşenden yoksun kalacaktır."
+    },
+    "survival_beyond_death": {
+      "stance": "Evet",
+      "rationale": "Kuram, beden çözüldükten sonra, kişinin bilincinin merkezi olan tinin/ruhun süregelmesini barındırmak üzere açıkça kurulmuştur."
+    },
+    "meaning_and_purpose": {
+      "stance": "Kozmik/Teolojik",
+      "rationale": "Çerçeve, Hristiyan skolastik felsefesine dayanır ve yaratılışa ve tinin Tanrı'ya dönüşüne dair İncil öğretilerini bütünleştirerek nihai anlam ve amaç sağlar."
+    },
+    "virtual_immortality": {
+      "stance": "Hayır",
+      "rationale": "Fiziksel olmayan bir töz (ruh) gerektiren bir töz düalizmi türevi olarak, yalnızca fiziksel yapının çoğaltılması (sanal ölümsüzlükte olduğu gibi), benliğin sürekliliği için gerekli temel fiziksel olmayan bileşeni atlayacaktır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Ayrım (Özellik düalizmi töz düalizmini reddederken, Thomasçı düalizm töz ile maddi indirgemecilik arasındaki geleneksel ikiliği aşmayı amaçlar.)"
+      },
+      {
+        "name": "Substance Dualism (Cartesian)",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Non-Cartesian Substance Dualism and Materialism Without Reductionism, Eleonore Stump",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Summa Theologiae, St. Thomas Aquinas",
+        "year": "c. 1265-1274"
+      }
+    ]
+  }
+}

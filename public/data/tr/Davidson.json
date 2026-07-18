@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "Davidson'ın Anomal Monizmi",
+    "summary": "Anomal Monizm, her zihinsel olayın bir fiziksel olayla özdeş olduğunu (token/örnek özdeşliği) öne sürerek monist bir ontolojiyi korur. Ancak kuram, zihinsel kavramları (tipleri) fiziksel kavramlarla birbirine bağlayan kesin, istisnasız doğa yasalarının bulunmadığında ısrar eder ve bu da psikolojinin fiziğe indirgenemezliğine yol açar. Bu ikili öne sürüm, zihinsel nedensellik ile fiziksel dünyanın nedensel bütünlüğü arasındaki görünür çelişkiyi çözer.",
+    "associated_thinkers": ["Donald Davidson"],
+    "category": "Monizmler",
+    "subcategory": "Anomal Monizm",
+    "core_identity_tagline": "Zihinsel Token'lar Fizikseldir, Zihinsel Tipler Anomaldir",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "token identity",
+      "property dualism",
+      "mental causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Zihinsel varlıklar (belirli zaman ve uzama bağlı nesneler ve olaylar, yani token'lar) fiziksel varlıklardır. Ancak zihinsel kavramlar, tanım ya da doğa yasası gereği fiziksel kavramlara indirgenemez.",
+    "ontological_status": "Monizm (Token Özdeşliği Fizikalizmi/Özellik Düalizmi). Kuram, zihinsel olayların fiziksel bir ontolojiye sahip olduğunu savunur.",
+    "mind_body_relationship": "Token Özdeşliği: Zihinsel olaylar fiziksel olaylarla özdeştir. Bu, zihinsel ve fiziksel özellikler arasında tip-özdeşliklerinin imkânsızlığı savunularak temellendirilir. Kuram bir tür özellik düalizmidir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Güçlü Beliriş. (Gerekçe: Zihinsel özellikler ilkece indirgenemezdir ve kesin psikofiziksel yasalarla yakalanamaz; bu da güçlü indirgenemezlik ile uyumludur.)",
+    "subjectivity_and_intentionality": "Kuram, zihinsel fenomenlerin yönelimsel özünü (örneğin bir şey hakkında olma özelliğini), zihinsel fenomenleri fiziksel yasalardan veya şeylerden ayıran bir özellik olarak ele alır.",
+    "qualia_account": "Niteliksel his (qualia), anomal olan -yani fiziksel kavramlara ya da yasalara indirgenmeye tabi olmayan- zihinsel özellikler/kavramlar şeklindeki daha geniş kategori altında ele alınır.",
+    "ontological_commitments": "Fiziksel varlıklar ve olaylar (token'lar); indirgenemez zihinsel özellikler/kavramlar (tipler).",
+    "epistemic_access": "Nedenselliğin felsefi çözümlemesi ve psikolojik açıklamanın, fizik gibi istisnasız yasalar üretemeyen kendine özgü gereklilikleri aracılığıyla bilinir.",
+    "constituents_and_structure": "Bileşenler fiziksel varlıklar/olaylardır, ancak bilinç indirgenemez olan zihinsel kavramlar/özellikler tarafından yapılandırılır."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Zihinsel olaylar (token'lar); zihinsel nedensellik; yönelimsellik.",
+    "distinctive_mechanism_or_principle": "Zihinsel Anomallik: Zihinsel olaylar fiziksel olaylara neden olsa ve tüm nedensel ilişkiler doğa yasalarınca desteklense de, zihinsel fenomenleri fiziksel fenomenlerle birbirine bağlayan hiçbir doğa yasasının bulunmadığı öne sürümü (token özdeşliği, tip özdeşliğinin imkânsızlığıyla temellendirilir).",
+    "dynamics_of_emergence": "Bilinçli zihinsel durumlar, temel fizikteki kesin öngörücü yasalarla yönetilememeleriyle nitelenen benzersiz fiziksel olaylar (token'lar) olarak ortaya çıkar.",
+    "location_and_distribution": "Zihinsel olaylar fiziksel varlıklardır, dolayısıyla beyinde/fiziksel altyapıda konumlanmışlardır.",
+    "causation_and_functional_role": "Zihinsel olaylar gerçek nedensel güçlere sahiptir ve fiziksel olaylara neden olur.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Zihinsel fenomenler, salt fiziksel yasalardan kökten farklı görünen yönelimsel özleriyle tanımlanır.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Zihinsel olaylar (token'lar) fiziksel olaylarla özdeştir.",
+      "Zihinsel özellikler (tipler) fiziksel kavramlara ya da doğa yasasına indirgenemez.",
+      "Zihinsel olaylar gerçek nedensel güçlere sahiptir ve fiziksel olaylara neden olur.",
+      "Psikoloji, insan düşüncelerini ve eylemlerini öngörmek için istisnasız yasalar üretemez (zihinsel anomallik)."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (Nedensellik ve nomolojik nitelik hakkındaki üç öncüle dayanan tümdengelimsel argüman)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal/Felsefi. (Gerekçe: Kuramın temel iddiaları, nedenselliğin ve psikolojik açıklamanın doğasına ilişkin felsefi zorunluluğa dayanır.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Başlıca gerilim, üç iddianın birleşiminden doğar: (i) zihinsel nedensellik vardır, (ii) tüm nedensellik yasayla desteklenir ve (iii) psikofiziksel yasalar yoktur. Bu birleşim ilk bakışta tutarsız ya da çelişkili görünür.",
+    "open_questions_and_limitations": "Çerçevenin, zihinsel özellik tiplerini fiziksel özellik tiplerine bağlayan kesin yasalar yoksa zihinsel nedenselliğin nasıl gerçekleşebileceğini tam olarak açıklaması gerekir (anomal özelliklerin nedensel etkililiği sorunu).",
+    "ontological_coherence": "Token özdeşliği sonucu üç kurucu öncülün içine gömülü olduğundan, bu üç temel öncül geçerli kabul edildiği takdirde iç tutarlılık sağlanır. İndirgemeci Olmayan Fizikalizm ile ortak özellikler taşır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mümkün",
+      "rationale": "Ontoloji temelde monist olduğundan (tüm zihinsel olaylar fiziksel olaylardır), ilgili karmaşık fiziksel sistemler yapay ortamlarda çoğaltılabildiği takdirde yapay zeka bilinci ilkece mümkündür; ancak öngörülebilir zihinsel yasaların yokluğu (anomallik) değerlendirmeyi zorlaştırır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Zihinsel olaylar fiziksel olaylara bağımlıdır (token özdeşliği). Bu materyalist varsayım altında biyolojik altyapının yıkımının ötesinde varlığın sürmesi olanaksızdır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanistik",
+      "rationale": "Bir ontolojik monizm kuramı olarak, genellikle insanın kendisi için yarattığının ötesinde nihai bir anlam ya da amacı gerekçelendirmeyen materyalist kategorilerle uyumludur."
+    },
+    "virtual_immortality": {
+      "stance": "Olası",
+      "rationale": "Fiziksel altyapı (beyin örüntüsü) çoğaltılırsa, o token'larla özdeş olan zihinsel olaylar da çoğaltılmalıdır; bu da diğer indirgemeci olmayan fizikalist görüşlere benzer biçimde sanal ölümsüzlüğü erişilebilir kılar."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Non-Reductive Physicalism", "relationship": "Örtüşme" },
+      { "name": "Property Dualism", "relationship": "Örtüşme" },
+      {
+        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "relationship": "Eleştiri"
+      }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+    ]
+  }
+}

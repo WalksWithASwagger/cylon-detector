@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Nagasawa'nın Kuram-Dışı Fizikalizm Kuramı",
+    "summary": "Bu kuram, dünyanın tümüyle fiziksel olduğunu ileri sürer; ancak dünyanın, fizik bilimlerinin eksiksiz kuramlarıyla bile yakalanamayan ya da açıklanamayan, bilince ilişkin belirli fiziksel olgular içerdiğini savunur. Fiziksel ontolojiyi, indirgemeci kuramların fenomenal bilinci kavramadaki görünürdeki başarısızlıklarıyla bağdaştırmayı amaçlayan alternatif bir fizikalizm formülasyonu olarak işlev görür.",
+    "associated_thinkers": ["Yujin Nagasawa"],
+    "category": "İndirgemeci Olmayan Fizikalizm",
+    "subcategory": "Alternatif Fizikalizm Formülasyonu",
+    "core_identity_tagline": "Fiziksel Kuramın Ötesinde Fizikalizm",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ontology",
+      "monism",
+      "nontheoretical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, eksiksiz kuramsal fizik biliminin kavramsal çerçevesinin dışında var olan, varlık temelli fiziksel olgulardan oluşur.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Zihin/bilinç, fiziksel gerçeklikle özdeştir; ancak bilince ilişkin belirli olgular geleneksel kuramsal bilgiye erişilemezdir (epistemik boşluk); bu da bu özdeşliğin kuram temelli değil varlık temelli bir anlayışını zorunlu kılar.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Güçlü Beliriş",
+    "subjectivity_and_intentionality": "Öznel deneyim, eksiksiz bilimsel açıklamayla yakalanamayan belirli, 'kuram-dışı' fiziksel olgularda temellenir; böylece öznelliğin epistemik gizemi korunurken fiziksel doğası ileri sürülür.",
+    "qualia_account": "Qualia olguları fiziksel olgulardır ama güncel ya da eksiksiz fiziksel kuramların yakalamasına direnen fiziksel gerçeklik alanına aittirler.",
+    "ontological_commitments": "Fiziksel gerçeklik, fiziksel varlıklar ve kuram-dışı fiziksel olgular.",
+    "epistemic_access": "Geleneksel bilimsel kuram aracılığıyla epistemolojik olarak sınırlıdır; kavramsal erişim, geleneksel fizikalizme karşı argümanların felsefi çözümlemesi yoluyla (epistemolojiden ontolojiye geçerek) türetilir.",
+    "constituents_and_structure": "Bilinç, bilinçli sistemlerin fiziksel yapısına içkin, belirli, varlık temelli fiziksel olgular ya da özelliklerde temellenir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (Örtük olarak; Bilgi Argümanı gibi tartışmalara odaklanmasından türetilir)",
+    "distinctive_mechanism_or_principle": "Bilince ilişkin 'kuram-dışı' (kuramsal yasalarla tanımlanabilir olmaktan çok varlık temelli) fiziksel olguların var oluşu; bu, fizikalizmin standart formülasyonunda bir kayma gerektirir.",
+    "dynamics_of_emergence": "Bilinç olguları 'kuram-dışı' olarak tanımlandığı için dinamik ayrıntılar sınırlıdır; beliriş, uygun karmaşık fiziksel varlıkların var oluşuna dayanılarak varsayılır.",
+    "location_and_distribution": "Fiziksel dünya; yakalanamayan olguları içeren belirli fiziksel varlıklarla (ör. nöral mekanizmalar) ilişkilidir.",
+    "causation_and_functional_role": "Kaynaklarda açıkça ayrıntılandırılmaz; tümüyle fiziksel bir dünyanın kısıtlamaları içinde standart fiziksel nedenselliğe uyduğu çıkarsanır.",
+    "integration_or_binding": "Tanımsızdır, çünkü kuram belirli içsel işleme dinamiklerinden çok metafiziksel tanıma ve epistemik boşluğa odaklanır.",
+    "information_flow_or_representation": "Bilgi yakalama, fiziksel kuramlar aracılığıyla örtük olarak eksiktir; kuram-dışı fiziksel olguların var oluşuyla sınırlanmıştır.",
+    "evolutionary_account": "Belirtilmemiştir; tümüyle fiziksel dünyanın evrimleşmiş bir niteliği olduğu varsayılır (bir fizikalizm biçimi olması nedeniyle).",
+    "core_claims_and_evidence": [
+      "Dünya tümüyle fizikseldir ama fizik biliminin eksiksiz kuramlarıyla yakalanamayan fiziksel olgular içerir.",
+      "Metodoloji, kuram-dışı bilgi boşluklarını ortaya koymak için Bilgi Argümanı (zihin) ile Tanrı'nın bilgisine ilişkin argümanlar (din) arasında koşutluklar kurar."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir (felsefi argümanlar aracılığıyla); 'kuram-dışı olgular'ın tanımı nedeniyle ampirik olarak sınırlı/spekülatiftir.",
+    "known_empirical_interventions_or_tests": "Belirtilmemiştir; temel iddialarının ampirik sınanmasından çok kavramsal/epistemolojik argümanlara (ör. Bilgi Argümanı eleştirisi) dayanır.",
+    "criticisms_and_tensions": "Fizikalizmi, eksiksiz bilimsel kuramsallaştırmadan zorunlu olarak kaçan gerçeklik veçhelerine başvurarak tanımlamanın doğasında bulunan gerilimle karşı karşıyadır; bu da ontolojik belirsizlik riski taşır. Geleneksel fizikalizmin başarısızlıklarına karşı bir savunmadır.",
+    "open_questions_and_limitations": "Kuram-dışı fiziksel olguların kesin doğası ve yapısı ile bu belirli olguların neden özünde yakalanamaz olduğunun gerekçelendirmesi açık sorunlar olarak kalmaktadır.",
+    "ontological_coherence": "Kendi özel amacı (fizikalizmi korurken epistemik boşluğu ele alma) bakımından yüksek içsel tutarlılığa sahiptir ama standart fizikalist ontolojinin kapsamına ve geleneksel ilkelerine meydan okur."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemelen",
+      "rationale": "Dünya tümüyle fiziksel olduğundan ve bilinç varlık temelli fiziksel olgularda köklendiğinden, karmaşık yapay sistemler ilkesel olarak gerekli kuram-dışı fiziksel olguları gerçekleyebilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bir fizikalizm biçimi olarak bilinç fiziksel dünyaya bağlıdır ve fiziksel dayanağın çözülmesinden sonra sürmesine izin verdiğine dair hiçbir gösterge yoktur."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Ontoloji katı biçimde fizikseldir; bu, bilimsel kurama erişilemez fiziksel olguları kabul etse de özünde nihai kozmik anlam ya da amaç gerektirmez."
+    },
+    "virtual_immortality": {
+      "stance": "Koşullu (Teknolojik olarak sınırlı)",
+      "rationale": "Kuram-dışı bilinç olgularını cisimleştiren belirli fiziksel varlık (ya da onun düzenlenişi) kusursuzca çoğaltılabilir ya da biyolojik olmayan ortamlara yüklenebilirse, sanal ölümsüzlük teknik olarak mümkündür, gerçi son derece güçtür."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Physicalism",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Eleştiri/Alternatif"
+      },
+      {
+        "name": "The Knowledge Argument",
+        "relationship": "Etki"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "God and Phenomenal Consciousness: A Novel Approach to Knowledge Arguments",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Anything non-physical about the mind? Closer to truth",
+        "year": 2012
+      }
+    ]
+  }
+}

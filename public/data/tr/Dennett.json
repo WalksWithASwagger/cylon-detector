@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Dennett'in Çoklu Taslaklar Modeli",
+    "summary": "Bu nörobiyolojik kuram, bilincin gözlemlendiği merkezi bir 'Kartezyen Tiyatro' fikrini reddeder. Bunun yerine, bilinçli içeriğin dikkat için yarışan, paralel, çok yollu bilgi işleme akışlarından ('çoklu taslaklar') doğduğunu ve kazanan taslağın 'beyinde şöhrete' ulaştığını öne sürer. Bu anların sürekli bütünleşmesi, 'anlatısal ağırlık merkezi' olarak nitelenen öznel benlik duygusunu oluşturur.",
+    "associated_thinkers": [
+      "Daniel Dennett",
+      "Patricia Churchland",
+      "Paul Churchland",
+      "Keith Frankish"
+    ],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Nörobiyolojik",
+    "core_identity_tagline": "Çoklu Taslaklar ve Anlatısal Ağırlık olarak Bilinç",
+    "classification_tags": [
+      "eliminative materialism",
+      "illusionism",
+      "functionalism",
+      "narrative",
+      "evolutionary"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, beyindeki paralel yorumlama süreçlerinden kaynaklanan, sürekli gözden geçirilen bir 'anlatısal akış ya da dizi' olarak tanımlanır. Öznel fenomenal özellikler (qualia), 'kullanıcı yanılsamaları' ya da tutarsız sinirsel yapılar olarak tanımlanır.",
+    "ontological_status": "Fizikalizm / Elemeci Materyalizm",
+    "mind_body_relationship": "Özdeşlik/İndirgeme. Zihinsel durumlar fiziksel durumlara tümüyle indirgenebilir ve zihnin sağduyusal görüşü (halk psikolojisi) köklü biçimde yanlıştır, sonunda sinirbilim tarafından yerinden edilecektir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Kuramın bilincin temel fiziksel süreçlere tümüyle indirgenebileceğini ya da bunlarla açıklanabileceğini savunması gerçeğiyle temellendirilir; bu da indirgemeci materyalist bir görüşü destekler ve güçlü belirişi ilkece reddeder.",
+    "subjectivity_and_intentionality": "Öznellik ('benlik'), 'anlatısal ağırlık merkezi' adı verilen dağıtılmış, kurgusal bir yapı olarak kavramsallaştırılır. Yönelimsellik (içerik), önceliklendirilir ve karmaşık molekül yığınlarının bir işlevi olarak görülür; bilinç gereksiniminden önce gelir.",
+    "qualia_account": "Qualia, yanılsamalı ve tutarsız kavramlar olarak reddedilir. 'Kullanıcı yanılsamaları' -bizi içkin, çözümlenemez fenomenal özelliklere sahip olduğumuza inanmaya eğilimli kılan karmaşık, etkinleşmiş sinir ağları- olarak açıklanıp bir kenara bırakılır.",
+    "ontological_commitments": "Fiziksel beyinler ve onların biyolojik süreçleri. Bilimsel imgeyle (fizik, kimya, moleküler biyoloji ve nörofizyoloji) temsil edilen, gerçekte var olanın farklı versiyonları olan 'gerçek örüntüler'.",
+    "epistemic_access": "Yalnızca bilimin 'heterofenomenoloji' olarak adlandırılan üçüncü şahıs bakış açısı aracılığıyla. Birinci şahıs içe bakışı ve içsel durumlara dair inançlar, zorunlu olarak zihinsel gerçekliğin doğru açıklamaları olarak değil, açıklanacak veri olarak ele alınır.",
+    "constituents_and_structure": "Sürekli düzenlemeye tabi paralel yorumlar ('çoklu taslaklar') üreten bir 'yarı-bağımsız faillikler demeti' ya da beyin bölgeleri/modülleri."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (indirgenmiş/elenmiş); Erişim; Öz-farkındalık (anlatısal yapı olarak); İçerik/Yönelimsellik.",
+    "distinctive_mechanism_or_principle": "'Kartezyen Tiyatro' metaforunun bastırılması. Mekanizma, farklı beyin bölgeleri/modülleri (taslaklar) arasında işleme kaynakları için yarışmayı içerir; bu da kazanan için 'beyinde şöhret' ile sonuçlanır ve bilinçli anın içeriğini belirler.",
+    "dynamics_of_emergence": "Bilinç dinamik bir süreçtir -zaman içinde bir editoryal gözden geçirmeler ve anlatı oluşumu akışı. Doğal seçilim yoluyla aşamalı olarak ortaya çıkar; 'akıl yürütücü olmadan gerekçeler' ve 'tasarımcı olmadan tasarım' vurgulanır.",
+    "location_and_distribution": "Beyne dağılmıştır. Tek bir merkezi konumu ya da içsel gözlemciyi açıkça reddeder.",
+    "causation_and_functional_role": "İşlevsel olarak bilinç, dünyayla karmaşık, bilgisel ve tepkisel bir etkileşimdir. Evrimsel rolü, uygunluğu ve üreme başarısını artıran içsel bir uyarlanma sağlamaktır.",
+    "integration_or_binding": "Bütünleşme, sürekli bilinçli anların uyumlu bir yaşam öyküsü ('anlatısal ağırlık merkezi') hâlinde birleşmesiyle geriye dönük olarak sağlanır.",
+    "information_flow_or_representation": "Yorumların ve ayrıntılandırmaların paralel, çok yollu işlenmesi anlatısal bir akışa yol açar. İçerik bilinçten önce gelir ve karmaşık molekül yığınlarının anlam taşımasına izin verir.",
+    "evolutionary_account": "Bilinç ve zihinler, bakteri düzeyinden başlayarak ve bilincin kendisi gibi fenomenleri anlamak için gerekli düşünme araçlarının (dil gibi) yaratılmasıyla ilerleyerek doğal seçilim yoluyla evrimleşmiştir.",
+    "core_claims_and_evidence": [
+      "Bilinçli deneyimi izleyen bir 'Kartezyen Tiyatro' ya da içsel tanık yoktur.",
+      "Bilinç, 'beyinde şöhret' için yarışan 'çoklu taslaklardan' oluşur.",
+      "Öznel benlik işlevsel bir yapıdır ('anlatısal ağırlık merkezi').",
+      "Qualia, yanılsamalı ve tutarsız özellikler olarak reddedilir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (Elemecilik), Evrimsel/Biyolojik, Hesaplamalı (İşlevselcilik), Bilişsel Bilim (Heterofenomenoloji)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir. Dennett, yanıltıcı içe bakışa dayanmak yerine nesnel üçüncü şahıs yöntemleri (heterofenomenoloji) aracılığıyla sınamayı savunur.",
+    "known_empirical_interventions_or_tests": "Kaynaklar belirli adlandırılmış deneysel müdahaleler listelemez, ancak kuram standart bilişsel bilim prosedürleri ve üçüncü şahıs yöntemleri ('heterofenomenoloji') aracılığıyla elde edilebilecek destekleyici verilere dayanır.",
+    "criticisms_and_tensions": "Başlıca eleştiri, kuramın fenomenal bilinci (zor problem) bir yanılsama ilan ederek ele almaması; bu da eleştirmenlerin Dennett'in 'kolay problemleri' çözdüğünü ancak temel gizemden kaçındığını savunmasına yol açar. Qualia'yı yadsıması, sezgiye aykırı öncüllere bağlılık gerektiren kritik bir hamle olarak görülür.",
+    "open_questions_and_limitations": "Birçoklarının 'zor bir istek' bulduğu, içsel deneyime dair sağduyusal sezginin aşılmasını gerektirir. Zor Problem'in 'buharlaşmayabileceği' olasılığı açık bir gerilim olarak kalır.",
+    "ontological_coherence": "Bilincin fizik ve sinirbilimle tümüyle açıklanabileceği inancıyla tutarlı olarak, salt indirgemeci, indirgemeci materyalist bir çerçeve içinde son derece tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "İşlevselcilik/hesaplama temelli güçlü bir materyalist kuram olarak, bilincin tümüyle fiziksel olduğunu ve hesaplamalı işlevselciliğin doğru olduğunu savunur. Dolayısıyla süper güçlü yapay zekâya ulaşan biyolojik olmayan zekâların sonunda bilince ulaşması gerekir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Materyalizm Kuramlarında, biyolojik beynin ve bedenin ölümü, kişinin geri döndürülemez ve kalıcı yokluğu ile sonuçlanır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanistik",
+      "rationale": "Materyalizm Kuramları nihai kozmik anlamı ya da amacı gerekçelendirmez; bunun yerine bireylerin kendileri için yarattığı hümanistik anlamı ve değeri vurgular."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç tümüyle fiziksel ve bilgi işlemeye indirgenebiliyorsa (kuramın savunduğu gibi), birinci şahıs zihinsel benlik biyolojik olmayan bir ortama yüklenebilir/çoğaltılabilir; bu da yeterli teknoloji verildiğinde sanal ölümsüzlüğü erişilebilir kılar."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Örtüşme (Temel felsefi zemin)"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "Benzerlik (İşlevselci yaklaşım)"
+      },
+      {
+        "name": "Global Workspace Theory (GWT)",
+        "relationship": "Karşılaştırma (Her ikisi de Kartezyen Tiyatro'yu reddeder ve bilgisel erişime odaklanır, ancak ayrıntılarda farklılaşır)"
+      },
+      {
+        "name": "Higher-Order Thought Theories",
+        "relationship": "Örtüşme (Dennett'in modeli, bilişsel içeriği önceliklendirmesiyle sıklıkla bir tür Üst Düzey kuram olarak görülür)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Explained, Daniel C. Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Eliminative Materialism and the Propositional Attitudes, Paul Churchland",
+        "year": 1981
+      }
+    ]
+  }
+}

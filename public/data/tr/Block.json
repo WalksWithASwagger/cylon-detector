@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Block'un Biyolojik İndirgemeciliği",
+    "summary": "Block, fenomenal bilincin indirgemeci bir fizikalist açıklamasını savunur ve onu bilişsel erişimden keskin biçimde ayırır. Fenomenal bilincin, duyusal ve duyu sonrası beyin bölgelerinde bulunan elektrokimyasal etkinlikler ve karmaşık bütünleşik dizgeler gibi belirli nörobiyolojik özelliklere indirgenebilir olduğunu öne sürer.",
+    "associated_thinkers": [
+      "Ned Block"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Felsefi",
+    "core_identity_tagline": "Nörobiyolojik Elektrokimyasal Etkinlik Olarak Fenomenal Bilinç",
+    "classification_tags": [
+      "physicalism",
+      "reductionism",
+      "neurobiology",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Fenomenal durumlar, elektrokimyasal doğalarıyla nitelenen belirli türden nörobiyolojik durumlarla harfiyen özdeştir.",
+    "ontological_status": "İndirgemeci Fizikalizm",
+    "mind_body_relationship": "Zihin-Beyin Özdeşlik Kuramı (indirgeme için güçlü bir aday olarak); burada zihinsel durumlar fiziksel beyin durumlarıyla özdeştir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş (Gerekçe: İndirgemecilik, bilincin tümüyle daha alt düzey fiziksel özelliklere açıklanabilir ve indirgenebilir olduğunu ima eder ve zayıf beliriş tanımına uyar.)",
+    "subjectivity_and_intentionality": "Öznellik, indirgeme için gerekli belirli biyolojik düzeneğe bağlıdır. Fenomenal karakteri doğrudan birinci düzey yönelimsel içeriğe bağlayan Birinci Düzey Temsilciliği destekler.",
+    "qualia_account": "Qualia, beynin bütünleşik dizgesinin belirli nörobiyolojik ve elektrokimyasal özellikleriyle özdeşleştirilir (ya da onlara indirgenir).",
+    "ontological_commitments": "Nöronların elektrokimyasal etkinliği, belirli sinirsel devreler ve talamus gibi kortikal-altı yapılarla bağlantı.",
+    "epistemic_access": "Bilincin işlevsel rolünü dolduran fiziksel özelliği bulmaya odaklanan, özellikle fenomenal bilincin sinirsel dayanağını inceleyen bilimsel araştırma yoluyla erişilebilir.",
+    "constituents_and_structure": "Karmaşık ve bütünleşik bir dizge oluşturan, yayılan nörofizyolojik kıvılcımlar ve dağılan nörokimyasal iletici maddeler."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal Bilinç, duyusal bilinç (bunu açıkça bilişsel erişimden/erişim bilincinden ayırır).",
+    "distinctive_mechanism_or_principle": "Beynin elektrokimyasal doğasına dayanan nörobiyolojik indirgeme. Bilinçli algı, bilişsel erişim için gerekli küresel yayımdan farklı olarak, algısal alanlardaki (görsel alan V5 gibi) özyinelemeli etkinleşmelerle ilişkilendirilir.",
+    "dynamics_of_emergence": "Bilinç, elektrokimyasal etkinliğin muhteşem ölçüde karmaşık ve bütünleşik dizgesinden doğar. Birinci düzey fenomenoloji, küresel yayımı nedensel olarak destekleyebilir ve Küresel Çalışma Alanı Kuramı gibi kuramların varsayımını tersine çevirebilir.",
+    "location_and_distribution": "Talamusla bağlantı gerektiren duyusal ve belki duyu sonrası dizgelerde (örneğin görsel korteks) konumlanmıştır. Fenomenal bilincin bilişsel erişilebilirliği ‘taşırdığı’ kabul edilir.",
+    "causation_and_functional_role": "Birincil odak, işlevden ziyade özdeşliktir. Fenomenal bilinç, bilişsel erişim için küresel yayımı desteklemede nedensel bir etken olabilir.",
+    "integration_or_binding": "Sinirsel dizgenin elektrokimyasal etkinliğinin bütünleşik ve karmaşık örgütlenmesi yoluyla sağlanır.",
+    "information_flow_or_representation": "Birinci Düzey Temsilciliği tercih eder ve fenomenal karakterin, kısa süreli bellek depolarında, üst düzey düşüncelere açık olan analog, ince taneli yönelimsel içerikle temsil edildiğini öne sürer.",
+    "evolutionary_account": "Gerekli biyolojik düzeneğin, fizikalizmle tutarlı bir evrimsel kökenini varsayar; ancak özgül evrimsel iddialar kuramın çekirdek odağı değildir.",
+    "core_claims_and_evidence": [
+      "Fenomenal bilinç, nörobiyolojideki fiziksel dayanağına indirgenebilir.",
+      "Sinirsel dizgelerin elektrokimyasal doğası, bilinç indirgemesinin adayıdır.",
+      "Fenomenal bilinç, bilişsel erişilebilirliği taşırır; yani raporlayabildiğimizden daha fazla deneyime sahibizdir.",
+      "Bilinçli algı, algısal alanlardaki etkin özyinelemeli döngülerle ve arka plan koşullarıyla özdeşleştirilir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (indirgemeciliğin savunusu), Ampirik (nörobiyolojik örneklere ve verilere başvuru)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir (fenomenal rolü harfiyen gerçekleştiren fiziksel özelliğin başarıyla belirlenmesini gerektirir).",
+    "known_empirical_interventions_or_tests": "Nörobiyolojik indirgeme adayını bulmak için duyusal ve duyu sonrası dizgelerdeki sinirsel etkinliği ve bağıntıları (örneğin elektrokimyasal etkinlik, özyinelemeli döngüler) araştırmak.",
+    "criticisms_and_tensions": "Özdeşlik ifadesini anlaşılır kılmayarak açıklama boşluğunu kapatmadığı için eleştirilir. Block'un kendisi, metafizik işlevselcilik ile indirgemeci fizikalizmin bağdaşmaz rakipler olduğunu savunur. ‘Solan qualia’ gibi düşünce deneyleri, fenomenoloji için belirli biyolojik donanımın gerekliliğine meydan okur.",
+    "open_questions_and_limitations": "Başlıca zorluk, indirgemeyi başarıyla tamamlayan (‘ikinci adım’) belirli fiziksel özelliği bulmaktır. Belirli biyolojik düzeneğin qualia için neden gerekli olduğunu tümüyle açıklamalıdır.",
+    "ontological_coherence": "Materyalist ontolojiyle tutarlıdır; Zihin-Beyin Özdeşlik kuramıyla son derece tutarlıdır. Block, konumunu metafizik bir iddia olarak İşlevselcilikle bağdaşmaz görür."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, sinir dokusunun belirli elektrokimyasal/biyolojik doğasına indirgenebilirse, bu belirli fiziksel bileşimden yoksun biyolojik olmayan dizgeler (dijital yapay zeka gibi) gerçek fenomenal bilinci gerçekleştiremez."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, beynin biyolojik süreçleriyle özdeşleştirildiği ve onlara indirgenebilir olduğu için, beynin yok olması bilincin sona ermesini gerektirir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Belirsiz",
+      "rationale": "Salt fizikalist bir indirgeme olarak kuram hiçbir kozmik anlam ya da amaç sağlamaz; ancak bilinçli organizmanın yarattığı hümanist anlama örtük olarak izin verir (çoğu Materyalizm kuramında ortaktır)."
+    },
+    "virtual_immortality": {
+      "stance": "Hayır",
+      "rationale": "Block, fenomenolojinin biyolojik düzeneğimizin doğasına bağlı olduğunu öne sürer. Sanal ölümsüzlük biyolojik olmayan bir ortamda hesaplamalı/işlevsel çoğaltmaya dayandığından, fenomenal karakter (qualia) aktarımda büyük olasılıkla yitirilecektir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Bağdaşır"
+      },
+      {
+        "name": "Higher-Order Theories (HOT)",
+        "relationship": "Eleştiri"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Consciousness, accessibility, and the mesh between psychology and neuroscience",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Functional reduction",
+        "year": 2008
+      }
+    ]
+  }
+}

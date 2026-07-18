@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Eleştiriler Kuramı",
+    "summary": "Bu girdi, bilinç çalışmaları içindeki temel ve yaygın kuşkucu işlevi temsil eder; önerilen tüm bilinç kuramlarının açıklayıcı tutarlılığına, ampirik geçerliliğine ve metafizik varsayımlarına sistematik olarak meydan okur. Açıklayıcı boşluk ve bağıntı-nedensellik çıkmazı gibi kalıcı kavramsal gerilimlere dikkat çeker ve kuramları içsel tutarlılıklarını ile ampirik temellerini savunmaya zorlar.",
+    "associated_thinkers": [
+      "R.L. Kuhn",
+      "Critics of specific theories (e.g., Hakwan Lau, Scott Aaronson)",
+      "Proponents of Challenge Theories (e.g., Thomas Nagel, Sam Harris)"
+    ],
+    "category": "Meydan Okuma Kuramları",
+    "subcategory": "Eleştiri/Kuşkuculuk",
+    "core_identity_tagline": "Temel Kuşkucu İşlev",
+    "classification_tags": [
+      "critique",
+      "skepticism",
+      "meta-problem",
+      "tension",
+      "adjudication"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Eleştiri, bilincin birbiriyle yarışan tüm açıklamalarında içkin olan açıklayıcı kusurların (örneğin açıklayıcı boşluklar, tutarlılık eksikliği, yetersiz ampirik gerekçe) sistematik değerlendirilmesi ve tanılanması olarak özdeşleştirilir.",
+    "ontological_status": "Epistemolojik/Yöntembilimsel Duruş (Eleştiri, olumlu bir ontoloji sunmaktan çok öncelikle diğer kuramların bilgi iddialarını ve yöntembilimlerini değerlendirir.)",
+    "mind_body_relationship": "Uygulanamaz (Yöntembilimsel bir kavram olarak Eleştiri, kendi olumlu çözümünü önermeksizin, zihin-beden problemini çözme girişimleri gibi mevcut ontolojik önerilerin tutarlılığını çözümler.)",
+    "primitive_or_emergent_status": "Hiçbiri (Eleştiri, gerçekliğin temel bir özelliği ya da beliren bir süreci değil, söylemsel ve analitik bir pratiktir.)",
+    "emergence_type": "Uygulanamaz (Kavram tümüyle yöntembilimseldir.)",
+    "subjectivity_and_intentionality": "Eleştiriler sıklıkla, fizikalist kuramların öznel birinci şahıs deneyimini (öznellik) ve düşüncenin yönelmişliğini (yönelimsellik) açıklamadaki başarısızlığına odaklanır ve bu yönlerin tümüyle niceliksel modellerce gözden kaçırıldığını savunur.",
+    "qualia_account": "Değerlendirme Aracı (Eleştiri, deneyimin niteliksel boyutunu -qualia- materyalist ve indirgemeci açıklamalara karşı öncelikli bir meydan okuma olarak silahlandırır ve 'zor problemi' çözülmemiş bir analitik eksiklik olarak öne çıkarır.)",
+    "ontological_commitments": "Bağlanımlar, devreye sokulan belirli eleştiriye göre değişir; birleşik bir 'Eleştiriler Kuramı' ontolojisi yoktur, ancak çoğu zaman mevcut bilimsel dünya görüşünün eksik ya da kusurlu olduğu bağlanımına dayanır.",
+    "epistemic_access": "Kavramsal çözümleme, mantıksal tutarlılık denetimleri, felsefi düşünce deneyleri (örneğin zombiler, nörofizyolog Mary) ve birbiriyle yarışan bilimsel paradigmaların karşılaştırılması.",
+    "constituents_and_structure": "Kavramsal gerilimler, çözülmemiş mantıksal çelişkiler ve içkin epistemik sınırlılıklar (örneğin epistemoloji-ontoloji ayrımı, bağıntı-nedensellik çıkmazı)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Tüm yönler (Eleştiri, fenomenal bilinç, erişim bilinci, öz-farkındalık ve faillik hakkında yapılan tüm kuramsal iddialara evrensel olarak uygulanır.)",
+    "distinctive_mechanism_or_principle": "Kuramlardaki açıklayıcı hastalıkları belirlemek ve tanılamak; örneğin döngüsellik, tutarsızlık ya da qualia'yı/öznelliği açıklamadaki başarısızlık.",
+    "dynamics_of_emergence": "Uygulanamaz (Eleştiri, gerçeklikteki dinamik bir süreç değil, eleştirel çözümleme için bir çerçevedir.)",
+    "location_and_distribution": "Söylemsel/Akademik (Felsefi ve bilimsel söylem içinde işler ve daha iyi açıklamalara duyulan gereksinimi tetikler.)",
+    "causation_and_functional_role": "Başlıca işlevi entelektüel hijyendir: bilincin nedensel mekanizmalarını önermek yerine kavramsal ve ampirik kusurları tanılamak.",
+    "integration_or_binding": "Eleştiri, deneyimin bütünleşmesine ve birliğine ilişkin mevcut açıklamalara meydan okur; örneğin bilgi bütünleşmesinin uzamsal olarak mı yoksa zamansal olarak mı örneklendiğine ilişkin tartışmalar.",
+    "information_flow_or_representation": "Eleştiri çoğu zaman, tümüyle niceliksel ya da temsile dayalı açıklamaların öznel deneyimin niteliğini yakalamadaki algılanan açıklayıcı sınırlılığına odaklanır.",
+    "evolutionary_account": "Uygulanamaz (Eleştirinin kendisi bir evrim kuramı değildir, ancak diğer kuramların evrimsel makullüğünü yargılar.)",
+    "core_claims_and_evidence": [
+      "Eleştiriler, zihin-beden probleminin derin çözülemezliğini ve gizemini öne çıkarır.",
+      "Başlıca meydan okuma, nesnel fiziksel betimlemeleri (üçüncü şahıs verileri) öznel deneyime (birinci şahıs fenomenal olguları) mantıksal ya da ampirik olarak köprüleyememektir.",
+      "Belirli kuramlar (Bütünleşik Bilgi Kuramı gibi) sınanamaz oldukları ya da gerekli ampirik gerekçeden yoksun iddiaları teşvik ettikleri için eleştirilir."
+    ],
+    "basis_of_belief_or_evidence_type": "Kavramsal/Felsefi Çözümleme (Belirli kuramların lehine ve aleyhine argümanlardaki mantıksal ve epistemolojik tutarsızlıkları belirlemeye dayanır.)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Belirli kuramsal iddialarla ilişkili olarak sınanabilir (Eleştiri, hedeflenen öngörüleri doğrulamak ya da yanlışlamak için karşıt işbirliği deneyleri gibi ampirik araştırma programlarını başlatan açık meydan okumalar üretir.)",
+    "known_empirical_interventions_or_tests": [
+      "Karşıt işbirliği deneyleri (IIT ve Küresel Çalışma Alanı Kuramı gibi birbiriyle yarışan kuramların çelişen öngörülerini sınamak için tasarlanmış)",
+      "Fizikalist iddialara karşı kavramsal sınamalar olarak kullanılan düşünce deneyleri (örneğin zombi argümanı, bilgi argümanı)"
+    ],
+    "criticisms_and_tensions": "Eleştirmenler, aşırı kuşkuculuğun (örneğin kuramları sözde-bilim olarak damgalamanın) orantısız olduğunu ve olgunlaşmamış bilimsel alana zarar verdiğini savunur. Ayrıca, eleştiriler çoğu zaman yapıcı çözümler sunmadan sorunları tanılar.",
+    "open_questions_and_limitations": "Nihai sınırlılık, bilincin insan bilişi için özünde çözülemez olup olmadığı (gizemcilik) ya da kavramsal engelin yalnızca mevcut açıklayıcı kısıtlamalar nedeniyle geçici mi olduğu sorusudur.",
+    "ontological_coherence": "Meta-kuramsal bir araç olarak yüksek tutarlılığa sahiptir; çünkü amacı başkalarının tutarlılığını çözümlemektir, ancak daha geniş metafizik manzaraya karşı yargılanacak kendi içsel ontolojisini sunmaz."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Eleştiri, yapay zekada gerçek iç farkındalığı doğrulamanın güçlüğünü öne çıkarır; hesaplanan karmaşıklığın yalnızca *görünürde* bilince yol açabileceğini (simülasyon meydan okuması) vurgular ve belirli iddiaları güvenilmez kılar."
+    },
+    "survival_beyond_death": {
+      "stance": "Belirsiz",
+      "rationale": "Eleştiri, son derece anormal fenomenlerin (doğrulanabilir Ölüme Yakın Deneyimler gibi) ampirik olarak doğrulanması durumunda, bunların materyalist üretim modellerini anında yanlışlayacağını ve kuramsal desteği fiziksel-olmayan varlık sürme hipotezlerine kaydıracağını kabul eder."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nihai anlam eksikliğini tanılar",
+      "rationale": "Eleştiriler sıklıkla, materyalist ve indirgemeci açıklamalara nihai anlamı ya da değeri rasyonelleştiremedikleri için meydan okur ve geriye yalnızca amacın hümanist öz-yaratımını bırakır."
+    },
+    "virtual_immortality": {
+      "stance": "Koşullu",
+      "rationale": "Eleştiri, bilincin *ne olduğuna* dair metafizik bulmacayı çözmeden (örneğin yüklemenin birinci şahıs benliği kusursuz biçimde koruduğunu göstermeden), sanal ölümsüzlüğün kavramsal olarak sorunlu ve doğrulanmamış kaldığını ileri sürer."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Meta-Problem of Consciousness",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Etki"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, R.L. Kuhn",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Integrated Information Theory of Consciousness as Pseudoscience, S.M. Fleming et al.",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The mystery of consciousness, S. Harris",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False, T. Nagel",
+        "year": 2012
+      }
+    ]
+  }
+}

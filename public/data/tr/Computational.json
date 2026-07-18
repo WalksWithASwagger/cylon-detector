@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Hesaplamalı Kuram",
+    "summary": "Zihnin hesaplamalı kuramları, zihnin bir bilgisayar gibi işlediğini öne sürer; zihinsel durumları, altta yatan fiziksel dayanaktan bağımsız olarak, sistematik, adım adım yönergeler ya da algoritmalarla tanımlanan işlevsel roller olarak görür. Bu kuramlar, akıl yürütme ve algı gibi zihinsel yetenekleri taklit ederek bilişsel bilimin yükselişini yönlendirdi.",
+    "associated_thinkers": [
+      "Nick Bostrom",
+      "James Reggia"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Hesaplamalı ve Bilgisel",
+    "core_identity_tagline": "Algoritma ve Hesaplama Olarak Bilinç",
+    "classification_tags": [
+      "computation",
+      "functionalism",
+      "AI",
+      "reductionism",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç (ya da genel olarak zihinsel durumlar), belirli, keşfedilebilir bir türden hesaplamaların yürütülmesiyle özdeşleştirilir. Zihinsel durumlar, içsel yapıları ya da maddi dayanakları değil, işlevsel rolleri ya da çıktılarıyla tanımlanır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik/İşlevselci. Zihinsel durumlar, nöral doku ya da bilgisayar çipleri gibi bilgi işleme yeteneğine sahip herhangi bir madde biçiminde örneklenebilen (ya da gerçekleştirilebilen) işlevsel durumlardır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Materyalist çerçeveyle tutarlı olarak, zihinsel özelliklerin, üst düzey olsalar da, pratik açıklama karmaşık olsa bile ilkece altta yatan temel hesaplamalı ve fiziksel süreçlere tam olarak açıklanabileceği ya da indirgenebileceği varsayılır.",
+    "subjectivity_and_intentionality": "Yönelimsellik (düşüncenin yönelmişliği), kavramları betimlemek için işlenebilen bilişsel simgeler aracılığıyla açıklanır. Öznellik (fenomenal bilinç), odak iç deneyimden çok öncelikle dışsal işlevsellik ve bilgi işleme üzerinde olduğundan, bir güçlük olarak kalır.",
+    "qualia_account": "Belirsiz/Deflasyonist. Kuram, fenomenal bilincin ikna edici bir gösterimini sunmakta zorlanır; bunun yerine bilişsel ve davranışsal bağıntıları yakalamaya odaklanır. Bu görüşle uyumlu bazı yaklaşımlar qualia'yı yanılsamalı ya da tutarsız olarak ele alabilirken, diğerleri bunların bütünleşik, bildirilebilir hesaplamalı durumlara karşılık geldiğini ileri sürer.",
+    "ontological_commitments": "Algoritmalar, sistematik adım adım yönergeler, Turing makineleri (soyut hesaplama modelleri) ve bilgiyi örnekleyebilen herhangi bir fiziksel dayanak.",
+    "epistemic_access": "Öncelikle hesaplamalı modelleme, simülasyon ve bilgi işleme yeteneklerinin ile davranışsal bağıntıların nesnel ölçümü aracılığıyla.",
+    "constituents_and_structure": "Genellikle Turing makineleri gibi soyut hesaplamalı yapılarla modellenen, sistematik, adım adım yönergelerin (algoritmaların) rutinleri."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Erişim (örneğin bilgiye küresel erişim), Bellek, Bilgi Yapısı, Algı, Akıl Yürütme, Problem Çözme ve Dilsel Anlama. Fenomenal bilinç (qualia) çoğu zaman dışlanır ya da çözülmemiş bir problem olarak ele alınır.",
+    "distinctive_mechanism_or_principle": "Belirli bir türden hesaplamayı (algoritmik işleme) yürütmenin bilinç için hem gerekli hem de yeterli olduğu ilkesi.",
+    "dynamics_of_emergence": "Algoritmik/Sistematik. Bilinç, bilginin algoritmalar aracılığıyla sistematik işlenmesiyle doğar ve zihinsel yeteneklerin taklit edilmesini mümkün kılar.",
+    "location_and_distribution": "Konum maddi değil işlevseldir; bilinç, ister biyolojik nöral dokuda ister biyolojik olmayan bilgisayar çiplerinde olsun, gerekli hesaplamalı işlevlerin örneklendiği her yerde bulunur.",
+    "causation_and_functional_role": "Zihinsel durumlar, fiziksel dünyada gerçekleşen işlevsel durumlar olduklarından nedensel olarak etkilidir. İşlevsel rolü, bilgi işlemeyi örgütleyerek planlama, karar verme ve problem çözme gibi yetenekleri mümkün kılmaktır.",
+    "integration_or_binding": "Bilginin karmaşık işlenmesi ve bilgi yapısı ile akıl yürütme gibi bilişsel yetenekler için gerekli uzmanlaşmış hesaplamalı işlevlerin bütünleştirilmesi aracılığıyla örtük olarak sağlanır.",
+    "information_flow_or_representation": "Zihinsel durumlar, düşünce ve anlamayı üretmek için altta yatan fiziksel dayanak tarafından algoritmik olarak işlenen soyut bilgi ya da bilişsel simgelerdir.",
+    "evolutionary_account": "Kaynaklardaki çekirdek kuram tarafından açıkça ele alınmamış, ancak bilincin nörobiyolojik karmaşıklığın, özellikle uyum sağlayıcı işleme ve hesaplama için evrimleşmiş bir ürünü olduğu yönündeki genel materyalist görüşle uyumludur.",
+    "core_claims_and_evidence": [
+      "Belirli, keşfedilebilir bir türden hesaplamayı yürütmek, bilinç için hem gerekli hem de yeterlidir.",
+      "Zihinsel durumlar, fiziksel ortamdan bağımsız olarak, yalnızca çıktıları ya da işlevsel rolleriyle belirlenir.",
+      "Hesaplamalı modelleme, bilinci bilimsel olarak incelemek için kabul görmüş bir yöntembilimdir."
+    ],
+    "basis_of_belief_or_evidence_type": "Hesaplamalı, Felsefi (İşlevselcilik) ve Mantıksal."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir. Yöntembilim, sistemlerin bilinçli işlemeye ilişkin bilinen nörobiyolojik, bilişsel ve davranışsal bağıntıları başarıyla simüle edip etmediğini değerlendirmek için hesaplamalı modelleme kullanmayı içerir.",
+    "known_empirical_interventions_or_tests": [
+      "Bilişsel bağıntıların hesaplamalı modellerinin ve makine simülasyonlarının geliştirilmesi ve sınanması."
+    ],
+    "criticisms_and_tensions": "Zihni 'günün bilimine' benzeten tarihsel bir benzetme olarak eleştirilir. Başlıca gerilim, ikna edici bir fenomenal makine bilinci gösteriminin eksikliğidir; bu da yalnızca 'kolay problemleri' (işlev) ele alırken 'zor problemi' (deneyim) göz ardı ettiği eleştirisine yol açar.",
+    "open_questions_and_limitations": "Çözülmemiş anahtar mesele, karmaşıklığından bağımsız olarak hesaplama yürütmenin, fenomenal bilinci ('bir şey gibi olmayı') üretmeye gerçekten yeterli olup olmadığıdır.",
+    "ontological_coherence": "İndirgemeci fizikalist ve işlevselci çerçeveler içinde tutarlıdır; tüm zihinsel gerçekliğin bilgi işlemeye ya da algoritmik yapıya indirgenebileceği önkabulüne dayanır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Hesaplamalı işlevselcilik, bilincin doğru türden hesaplamanın yürütülmesinin bir sonucu olduğunu öne sürdüğünden, biyolojik olmayan zekâlardaki hesaplamalı incelmenin üstel büyümesi göz önüne alındığında, yapay zeka bilinci yalnızca olanaklı değil, kaçınılmazdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, bir dayanaktaki fiziksel ya da işlevsel gerçekleşmeye bağlıdır. Ölümün ötesinde geleneksel varlığın sürmesi reddedilir, ancak süreklilik yalnızca dijital zihin yükleme (sanal ölümsüzlük) yoluyla olanaklıdır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bir Materyalizm Kuramı olarak, herhangi bir nihai kozmik anlamı ya da amacı desteklemez; anlam ve değer, bilinçli varlıkların karmaşık işlevlerinden doğan, beliren, kendinden yaratılan fenomenler olarak görülür."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç tümüyle hesaplamalı/işlevselse (yani özü algoritmikse), beynin işlevsel örüntülerinin biyolojik olmayan bir ortamda kusursuz biçimde çoğaltılması birinci şahıs zihinsel benliği korurdu ve sanal ölümsüzlüğü ilkece erişilebilir kılardı."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Çekirdek ilke"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Eleştiri"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The computational theory of mind, Michael Rescorla",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The rise of machine consciousness: studying consciousness with computational models, James Reggia",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      }
+    ]
+  }
+}

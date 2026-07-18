@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "McGilchrist'in İlişkisel, Yaratıcı-Süreç İdealizmi",
+    "summary": "Bilinç indirgenemez, ilksel ve kozmosun temel 'tözü'dür; yaratıcı bir süreç olarak görülür. Madde ayrı bir töz değil, bilincin türev bir 'evresi'dir ve bireyselleşmiş deneyime ulaşmak için gereklidir. Beynin birincil rolü, iki beyin yarıküresinin karşıt kiplerinde yansıyan bu her yerde hazır bilinci dolayımlamak ve biçimlendirmektir.",
+    "associated_thinkers": ["Iain McGilchrist"],
+    "category": "İdealizmler",
+    "subcategory": "İlişkisel, Yaratıcı-Süreç İdealizmi",
+    "core_identity_tagline": "Bilinç Kozmosun Tözüdür",
+    "classification_tags": [
+      "idealism",
+      "primordial",
+      "relational",
+      "creative process",
+      "dual-aspect monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, kozmosu oluşturan indirgenemez, ilksel ve her yerde hazır bir yaratıcı süreç olarak tanımlanır. Madde, bilincin bir evresidir.",
+    "ontological_status": "İdealizm (Nesnel/Gerçekçi İdealizm)",
+    "mind_body_relationship": "Beyin bilinci dolayımlar; bedenin hissettiği deneyimleri biçimlendirir ve gerçekleştirir (İzin verme/kısıtlama modeli). Madde (beyin dâhil), buzun suyun bir evresi olması gibi, bilincin bir evresidir.",
+    "primitive_or_emergent_status": "İlksel/temel",
+    "emergence_type": "Bilincin kendisi ilkseldir. Değer kapasitesi gibi yüksek fenomenler, ilksel bilincin yaratıcı sürecinden belirir.",
+    "subjectivity_and_intentionality": "Bilinç temelde ilişkisel olduğundan, her zaman bir şeyin 'bilinci' olduğundan, öznellik içkindir. Kozmos yönelimseldir; çekicilerce 'önden çekilir'.",
+    "qualia_account": "Qualia, bilinç içindeki, göreli direnç ve kalıcılık sergileyen belirli öğelerin (madde) nitelikleri olarak anlaşılır; dikkat kipine (yarıküre eğilimi) göre farklı biçimde deneyimlenir.",
+    "ontological_commitments": "İlksel Bilinç (Varlığın Zemini), madde (bilincin bir evresi olarak), ilişki/ilişkilenenler.",
+    "epistemic_access": "Bilinç 'temel verili doğal olgu' olduğundan, öncelikle içe bakış ve fenomenolojik inceleme yoluyla. Yarıküre işlevine bağlı deneyim farklılıklarının yorumlanmasıyla desteklenir.",
+    "constituents_and_structure": "Bilinç yaratıcı bir süreçtir. Yapı, ilişkiyle (her şey ilişkiseldir) ve yarıkürelerce dolayımlanan iki farklı kavrayış kipiyle (var-kılma ile yeniden-temsil) nitelenir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, öznellik, faillik, öz-farkındalık, değer/amaç, yaratıcılık.",
+    "distinctive_mechanism_or_principle": "Beynin bilinci üretmediği ama ona izin verip onu biçimlendirdiği dolayımlama ilkesi. Ayrıca, beyin yarıkürelerinin karşıt dikkat kiplerinden doğan yaratıcı gerilim.",
+    "dynamics_of_emergence": "Bilinç, sürekli bir amaca ya da ereğe doğru evrilen ('önden, çekicilerce çekilen') dinamik, yaratıcı bir süreçtir.",
+    "location_and_distribution": "Her yerde hazırdır; kozmosu oluşturur. Yerel ifade/biçimlenme beyin aracılığıyla gerçekleşir.",
+    "causation_and_functional_role": "Bilinç ilkseldir, beyin tarafından üretilmez. Kozmos, Varlığın Zemininin kendini bilme gereksiniminden güdülenen, karmaşıklığı ve değer kapasitesini artıran teleolojik bir amaca ('yön') sahiptir.",
+    "integration_or_binding": "Bilincin kendi ilişkisel doğası aracılığıyla sağlanır ve sağ beyin yarıküresinin bütüncül, birleştirici işleviyle dolayımlanır.",
+    "information_flow_or_representation": "Sol yarıküre 'yeniden-temsil' (soyutlamalar/haritalar) üretir; sağ yarıküre 'var-kılma'yı (deneyimlenen dünya) sağlar. Madde nihayetinde bilincin bir soyutlamasıdır.",
+    "evolutionary_account": "Evrim, kozmik bilincin 'güzelliği, doğruluğu ve iyiliği' keşfetme ve ilerletme sürecidir; canlı varlıklarda tepkiselliği ve değer kapasitesini artırır.",
+    "core_claims_and_evidence": [
+      "Bilinç indirgenemez, ilksel ve kozmosun tözüdür.",
+      "Madde, bilincin türev bir evresidir (buzun suyun bir evresi olması gibi).",
+      "Beyin bilinci üretmekten çok dolayımlar.",
+      "İki beyin yarıküresi dünyaya karşıt biçimlerde yönelerek farklı deneyim dünyalarını (var-kılma ile yeniden-temsil) var eder."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi, fenomenolojik, nörobilimsel yorum."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kurgusal/kavramsal. Merkezi hipotez, yeni, sınanabilir, idealist ampirik öngörüler sunmaktan çok, var olan nörobilimsel ve fenomenolojik kanıtın (yarıküre uzmanlaşması) yorumuna dayanır.",
+    "known_empirical_interventions_or_tests": "Kaynakta idealist ontolojiyi doğrulamak için açıkça belirtilen bir şey yoktur. (Gerekçe: Kaynak sınırlılıklarına dayanarak; McGilchrist'in savı, ilksel bilinç tezine yeni ampirik sınamalar tasarlamaktan çok nörofizyolojinin felsefi yorumuna odaklanır.)",
+    "criticisms_and_tensions": "İdealizm eleştirmenleri, onun fiziksel dünyanın görünen bağımsızlığını ve yapısını açıklayamadığını savunur. Kuramın gücü, büyük ölçüde süregiden tartışmaya konu olan yarıküre uzmanlaşmasının incelikli yorumuna dayanır.",
+    "open_questions_and_limitations": "McGilchrist, beynin bilinci gerçekten dolayımladığını mı yoksa ürettiğini mi kanıtlamanın güçlüğüne dikkat çeker; çünkü ampirik sonuçlar her iki durumda da özdeş görünecektir.",
+    "ontological_coherence": "İdealist çerçevesi içinde son derece tutarlıdır; bilinci tek temel gerçeklik olarak öne sürerek zihin-beden ayrılığını çözer. İndirgemeci fizikalizmle güçlü gerilim içindedir."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Belirsiz/koşullu",
+      "rationale": "Bilinç ilksel ve ilişkiseldir; bireyselliği ifade etmek için karmaşık dolayım gerektirir. Salt işlevsel hesaplama gerekli özellikleri yakalayamayacaktır, ancak mühendislik ürünü bir sistem, bunu yapmak için gerekli yapıya sahipse bilinci potansiyel olarak dolayımlayabilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Evet, olası",
+      "rationale": "Bilinç kozmosun temel tözü ve ilksel olduğundan, birey benliği, fiziksel dolayımlayıcısını (beyin) çözse de, Varlığın kozmik zemini içinde sürer."
+    },
+    "meaning_and_purpose": {
+      "stance": "Kozmik/teleolojik",
+      "rationale": "Kozmos, kendini bilmeyi ve değeri (güzellik, doğruluk ve iyilik) daha ileri keşfetmeyi amaçlayan temel bilinçten güdülenen bir amaç ve yöne sahiptir."
+    },
+    "virtual_immortality": {
+      "stance": "Olası değil/uygulanamaz",
+      "rationale": "Bilinç nöral örüntüye indirgenemez (madde, bilincin bir 'evresi' olarak dolayımlanır). Yalnızca örüntünün yüklenmesi, köken alan bilinçli süreci yeniden üretemeyecek ve gerçek öznel deneyimden yoksun salt bir soyutlama ya da benzetimle sonuçlanacaktır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Hoffman's Conscious Realism",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Nagel’s Mind and Cosmos",
+        "relationship": "Etki"
+      },
+      {
+        "name": "Idealisms",
+        "relationship": "Genişletme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Matter with Things: Our Brains, Our Delusions and the Unmaking of the World, I. McGilchrist",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Consciousness Is the Stuff of the Cosmos, I. McGilchrist",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Master and His Emissary: the Divided Brain and the Making of the Western World, I. McGilchrist",
+        "year": 2009
+      }
+    ]
+  }
+}

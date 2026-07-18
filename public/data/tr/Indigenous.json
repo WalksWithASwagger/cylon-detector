@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Yerli dinlerde ruh",
+    "summary": "Bu kategori, dünya genelinde yerli ve halk dinlerinde bulunan çeşitli ruh kavramlarını bir araya getirir. Bu inançlar tipik olarak çok sayıda, fiziksel olmayan ruh bileşenini içerir; bunların bazılarının ölümde yok olduğu, bazılarının ise sürdüğü düşünülür ki bu da geleneksel düalizmin yönlerini yansıtır.",
+    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
+    "category": "Düalizmler",
+    "subcategory": "Yerli dinlerde ruh",
+    "core_identity_tagline": "Çok sayıda, her yerde bulunan, zamana dirençli ruh inançları",
+    "classification_tags": [
+      "indigenous",
+      "folk religion",
+      "soul belief",
+      "dualism",
+      "anthropology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç ya da 'benlik', fiziksel bedenden farklı, bir ya da daha fazla tinsel veya fiziksel olmayan ruh tözünden kaynaklanan ya da bunlardan oluşan olarak özdeşleştirilir.",
+    "ontological_status": "Geleneksel Düalizm/Çok-yönlü Tinselcilik. Bu sistemler, birden fazla farklı, temel varoluş kategorisi (tinsel/ruh ve maddi/beden) öne sürer.",
+    "mind_body_relationship": "Karmaşık, çoğunlukla kısmi, düalist etkileşim/bağıntı. Ruh bileşeni bedene bilgi verir ya da onu canlandırır, ancak belirli ruh bileşenleri fiziksel bedenden sonra sürebilir ya da ona öncel olabilir; bu da bağımsızlığa işaret eder.",
+    "primitive_or_emergent_status": "İlksel",
+    "emergence_type": "Uygulanamaz. Ruh çoğunlukla önceden var olan ya da bir yaratıcıdan türetilen olarak betimlendiğinden, maddi süreçlerden belirmekten çok temel bir varlık sayılır.",
+    "subjectivity_and_intentionality": "Öznellik ve yönelimsellik, çoğunlukla kaderi seçtiğine (örneğin Ewe geleneği) ya da kişiliği tanımladığına inanılan fiziksel olmayan ruh varlığının kendisinin doğasında bulunur.",
+    "qualia_account": "Açıkça tanımlanmaz. Odak, ruh varlığının varlığı ve sürekliliği üzerindedir; bu da niteliksel deneyimin tinsel bileşenin içkin bir özelliği olduğunu ima eder.",
+    "ontological_commitments": "Fiziksel beden ve birden fazla fiziksel olmayan ruh tözü (örneğin farklı ruh türleri, yaşam soluğu, bedensizleşmiş tinler).",
+    "epistemic_access": "Bilgiye, sistematik üçüncü-şahıs bilimsel gözlemden çok, dinsel gelenek, kültürel bilgi, kişisel inanç ve tinsel veya dönüştürücü deneyim aracılığıyla erişilir.",
+    "constituents_and_structure": "Bilinçli yapı, çok sayıda ruh türünden oluşur (örneğin Gabon Fang halkının tanıdığı yedi tür) ve çoğunlukla ölüm anındaki yazgıları bakımından hiyerarşik ya da işlevsel ayrımlar taşır."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Ölümden sonra hayatta kalma, kişisel kimlik, tinsel varoluş ve kader.",
+    "distinctive_mechanism_or_principle": "Tinsel kökenleniş (bir yaratıcıdan türetilen ruh) ve belirli fiziksel ya da ritüelistik eylemler yoluyla edinim (örneğin savaş, hac), ruhun yaratılması ya da güçlendirilmesiyle ilgili temel ilkelerdir.",
+    "dynamics_of_emergence": "Tinsel kökenleniş. Ruh çoğunlukla bedenlenmeden itibaren ya da ondan önce var olan, kadir bir tinden ya da yüce bir yaratıcıdan kaynaklanan olarak betimlenir.",
+    "location_and_distribution": "Konum bireysel/kişiseldir, ancak kimi zaman fiziksel niteliklere (soluk ya da kan gibi) bağlıdır. İnanç sistemlerinin kendileri coğrafi olarak her yerde bulunur.",
+    "causation_and_functional_role": "Ruh, bireyin kaderini belirler ya da seçer ve bedensel ölümden sonra sürviven bileşendir.",
+    "integration_or_binding": "Örtük. Tek bir bireyde birden fazla ruh türü bulunabilse de, bunların tek bir birleşik deneyimde nasıl bağlandığı mekanizması ayrıntılandırılmaz, ancak topluca kişiyi tanımlarlar.",
+    "information_flow_or_representation": "Açıkça tartışılmaz. Bu kavramlar, bilinç için açıklayıcı etkenler olarak modern bilgi işleme kuramlarına önceldir.",
+    "evolutionary_account": "Uygulanamaz/Tinsel kökenleniş biyolojik evrimin yerini alır. Ruh çoğunlukla nihai bir kaynaktan türetilir ve doğal filogenetik evrimle karşıtlık oluşturur.",
+    "core_claims_and_evidence": [
+      "Ruh inançları, bilinç çalışmalarının kabul etmesi gereken yaygın, süregelen antropolojik verilerdir.",
+      "İnsan kişisi, birden fazla farklı ruh bileşeninden oluşur ki bu da karmaşık bir kimlik yapılanmasına işaret eder.",
+      "Ruhun belirli parçaları fiziksel ölümden sonra sürer ve ölüm sonrası hayatta kalmaya olanak tanır."
+    ],
+    "basis_of_belief_or_evidence_type": "Antropolojik veri, dinsel gelenek, kültürel tarih."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekülatif/Antropolojik. Kadim inanç sistemleri olarak bu kavramlar, modern bilimsel deney ya da yanlışlama yöntemlerinin konusu değildir.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Felsefi incelikten ya da ampirik temelden yoksun olduğu için ana akım araştırmacılarca çoğunlukla 'modern öncesi' ya da 'bilim öncesi' olarak kategorize edilir. Bu inançların modern felsefi düalizmi titizlikle desteklediğine dair hiçbir iddiada bulunulmaz.",
+    "open_questions_and_limitations": "Çeşitli ruh yönleri ile fenomenal bilinç arasındaki ilişki gevşek biçimde tanımlanır. Model, etkileşimi açıklamak için çağdaş fizikle bağdaşan bir nedensel mekanizma sunmaz.",
+    "ontological_coherence": "Belirli kültürel çerçeveler içinde içsel olarak tutarlıdır, ancak fiziksel olmayan tözlere dayanması nedeniyle fizikalist ve materyalist ontolojik çerçevelerle temelde bağdaşmaz."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, fiziksel olmayan kaynaklardan ya da bir yaratıcıdan türetilen tinsel bir bileşen (ruh/tin) gerektirir ki yapay sistemler özünde bundan yoksun olur."
+    },
+    "survival_beyond_death": {
+      "stance": "Evet",
+      "rationale": "Ölüm sonrası hayatta kalma merkezi bir özelliktir; çünkü ruhun birçok bileşeninin biyolojik bedenin ölümünden sonra sürdüğü öne sürülür."
+    },
+    "meaning_and_purpose": {
+      "stance": "Kozmik/Varoluşsal",
+      "rationale": "İnanç sistemleri, önceden varoluşu, bir yaratıcıdan tinsel kökenlenişi ve bireysel kaderi yöneten kapsayıcı bir yapıyı öne sürerek nihai anlam gerektirir."
+    },
+    "virtual_immortality": {
+      "stance": "Hayır",
+      "rationale": "Ölümsüzlük, özgün tinsel ruhun sürekliliği yoluyla elde edilir ve fiziksel bedenin işlevsel örüntülerinin teknolojik olarak çoğaltılması ya da benzetimi yoluyla elde edilemez."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Historical and Traditional Dualisms",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Soul in Islamic Philosophy",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Soul: concepts in indigenous religions, C. Rivière",
+        "year": 1987
+      },
+      {
+        "title_with_names": "The concept of soul in Chinese folk religion, S. Harrell",
+        "year": 1979
+      }
+    ]
+  }
+}

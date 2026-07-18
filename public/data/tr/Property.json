@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Özellik Düalizmi",
+    "summary": "Özellik Düalizmi, tek temel tözün fiziksel töz olduğunu, ancak indirgenemez iki özellik ulamının bulunduğunu ileri sürer: fiziksel ve zihinsel . Bilinçli deneyim gibi zihinsel özellikler, fiziksel beyinler tarafından üretilir, ancak yalnızca fiziksel özelliklere indirgenemez ya da tamamen onlarla açıklanamaz .",
+    "associated_thinkers": [
+      "David Chalmers (for Naturalistic Dualism, a variant); historically influenced by numerous philosophers seeking to preserve mental reality within a monist substance framework."
+    ],
+    "category": "Düalizmler",
+    "subcategory": "Özellik Düalizmi",
+    "core_identity_tagline": "Tek Töz, İki İndirgenemez Özellik (Zihinsel ve Fiziksel)",
+    "classification_tags": [
+      "irreducible properties",
+      "non-reductive",
+      "physicalism",
+      "dualism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, her ikisi de fiziksel sistemler (beyinler) tarafından örneklendirilse bile, fiziksel özelliklere temelde indirgenemeyen zihinsel özelliklerden ya da yönlerden (örneğin düşünceler, kavramlar, fikirler) oluşur .",
+    "ontological_status": "Fizikalizm (töz bakımından) / Özellik Düalizmi (özellikler bakımından) .",
+    "mind_body_relationship": "Zihin (zihinsel özellikler), fiziksel özelliklerden indirgenemez ve ontolojik olarak ayrıdır, ancak tümüyle fiziksel hâller (beyinler) tarafından üretilir .",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Güçlü Beliriş (zihinsel özellikler ilkece indirgenemez ve yalnızca fiziksel yasalarla açıklanamaz olduğundan) .",
+    "subjectivity_and_intentionality": "Öznellik (birinci-şahıs fenomenal deneyim), fiziksel insan kişisinin içkin, indirgenemez bir özelliği/yönü olarak doğar . Yönelimsellik, örtük olarak temel zihinsel özelliklerden/yönlerden biri olarak içerilir .",
+    "qualia_account": "Qualia (niteliksel hissedilen deneyimler), yalnızca mikrofiziksel özellikler cinsinden tanımlanmaya direnen indirgenemez zihinsel özelliklerdir .",
+    "ontological_commitments": "Fiziksel töz (madde) ve indirgenemez zihinsel özellikler (düşünceler, kavramlar, fikirler dâhil) .",
+    "epistemic_access": "Hem fiziksel temelin (beyinler) üçüncü-şahıs gözlemi hem de beliren özelliklerin (öznellik) birinci-şahıs içe bakışı yoluyla erişilebilir.",
+    "constituents_and_structure": "Fiziksel töz, temel fiziğin bileşenlerinden oluşur; bunlar zihinsel özellikleri üreten karmaşık yapılara (beyinler) örgütlenmiştir ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal özellikler, düşünceler, kavramlar ve fikirler .",
+    "distinctive_mechanism_or_principle": "Fenomenal yönlerin fiziksel özelliklerden farklı olduğunu savunan, zihinsel özelliklerin indirgenemezliği ilkesi .",
+    "dynamics_of_emergence": "Zihinsel özellikler, fiziksel madde belirli bir karmaşıklık düzeyine (yani beyne) ulaştığında ortaya çıkar.",
+    "location_and_distribution": "Fiziksel nesnelerde (insan kişilerinde/beyinlerde) yerelleşmiştir .",
+    "causation_and_functional_role": "Zihinsel özellikler nedensel olarak etkilidir ve fiziksel dünyayı etkiler (Epifenomenalizmle çelişen bir konum) .",
+    "integration_or_binding": "Açıkça ayrıntılandırılmamıştır. Bütünleşmenin, birleşik zihinsel özelliği/yönü üreten fiziksel beyin yapısı içinde gerçekleştiği varsayılır.",
+    "information_flow_or_representation": "Zihinsel özellikler/yönler kavramları ve fikirleri içerir , bu da karmaşık enformasyonel/temsile dayalı işlemeye katılımı ima eder.",
+    "evolutionary_account": "Açıkça ayrıntılandırılmamıştır. Özelliklerin belirişi, onları üretebilecek biyolojik karmaşıklığın evrimine bağlıdır .",
+    "core_claims_and_evidence": [
+      "İnsan kişileri, temel fiziksel bileşenlerden oluşan tümüyle fiziksel nesnelerdir .",
+      "Zihinsel özellikler (örneğin fenomenal bilinç) fiziksel beyinler tarafından üretilir, ancak yalnızca fiziksel özelliklere indirgenemez .",
+      "Süpervenyansın olası başarısızlığı, tasavvur edilebilirlik savları (örneğin felsefi zombiler) yoluyla gösterilir ."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi; Kavramsal (Salt indirgemeci fizikalizmin görünürdeki yetersizliğini ele alır) ."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal/Felsefi (Sınanabilirlik, felsefi zombiler gibi karşı-olgusal senaryoların mantıksal olanağına ve çıkarımlarına dayanır) .",
+    "known_empirical_interventions_or_tests": "Fiziksel olarak ayırt edilemez 'zombileri' ya da ters çevrilmiş renk tayfına sahip kişileri içeren düşünce deneyleri (süpervenyansın başarısızlığı) .",
+    "criticisms_and_tensions": "Süpervenyans başarısız olursa, tam olarak aynı mikrofiziksel hâlden farklı zihinsel hâllerin nasıl doğduğunu açıklığa kavuşturmalıdır . Eleştirmenler, Özellik Düalizminin gerekçelerinin nihayetinde Töz Düalizmine yol açtığını ileri sürer .",
+    "open_questions_and_limitations": "Zihinsel özelliklerin fiziksel beyin üzerinde nedensel etki uyguladığı kesin yol (zihinsel nedensellik) tartışmalı olmayı sürdürür ve belirlenmesi gerekir .",
+    "ontological_coherence": "Yüksek iç tutarlılık gösterir, ancak indirgenemez özelliklerin yalnızca monist bir fiziksel dünyadan doğabildiğini ve onun içinde nedensel olarak etkili olabildiğini titizlikle savunmada gerilim yaşar ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Biyolojik olmayan sistemler, betimlenen indirgenemez zihinsel özellikleri üretmek için gereken belirli karmaşık fiziksel örgütlenmeyi örnekleyebilirse yapay zeka bilinçli olabilir ."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, fiziksel beyin tarafından üretilen özelliklerden oluşur. Bu özellikler, fiziksel töz (beyin/beden) ölümle çözüldüğünde var olmaktan çıkar ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Belirtilmemiş/Yansız",
+      "rationale": "Kuram, ontolojik ulamlara ve özellik ilişkilerine odaklanır; temelde fiziksel bir tözü kabul eder ve doğası gereği kozmik erekbilimi onaylamaz ."
+    },
+    "virtual_immortality": {
+      "stance": "Mümkün",
+      "rationale": "Bilinç belirli fiziksel örgütlenmenin beliren bir özelliğiyse, o eksiksiz fiziksel hâlin (beyin yapısının) biyolojik olmayan bir alt katmanda çoğaltılması aynı zihinsel özellikleri üretmelidir ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Örtüşme/Uyumlu (Çoğu zaman eşanlamlı ya da yakından ilişkili olarak ele alınır)"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "Eleştiri/Karşıtlık (Töz düalizmini reddeder ama özellik düalizmini korur)"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Eleştiri/Karşıtlık (Özellik Düalizmi, Epifenomenalizmin aksine genellikle zihinsel hâllere nedensel etkililik tanır)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Dualism in the Philosophy of Mind, Dean Zimmerman",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Mind-Body Problem and Metaphysics: an Argument from Consciousness to Mental Substance, Ralph Weir",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Epifenomenalizm Kuramı",
+    "summary": "Bu kuram, bilincin biyolojik beynin indirgenemez bir ürünü olduğunu, ancak zihinsel durumların fiziksel gerçeklik üzerinde kesinlikle hiçbir nedensel güce sahip olmadığını ileri sürer. Öznel farkındalığımız gerçektir, oysa düşüncelerimizin eylemlere neden olduğu yönündeki algımız yanlıştır; çünkü bilinç, bir okyanus dalgasının üzerindeki köpük gibi tümüyle edilgendir.",
+    "associated_thinkers": [
+      "David Chalmers (Classifier)",
+      "Frank Jackson (Related Thinker)"
+    ],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Felsefi",
+    "core_identity_tagline": "Bilinç gerçektir ama nedensel olarak edilgendir.",
+    "classification_tags": [
+      "property dualism",
+      "non-reductive physicalism",
+      "mental causation",
+      "causal closure",
+      "illusion"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, fiziksel özelliklerden ontolojik olarak ayrı ancak onlara nedensel olarak bağımlı olan fenomenal özellikler olarak tanımlanır (Fiziksel → Fenomenal).",
+    "ontological_status": "Düalizmin zayıf bir biçimi ya da İndirgemeci-Olmayan Fizikalizm. Fizikselin tam nedensel kapalılığını olumlar.",
+    "mind_body_relationship": "Zihinsel durumlar tümüyle biyolojik beyinlerin ürünüdür. Fiziksel durumlar fenomenal durumlara neden olur, ancak fenomenal durumların fiziksel üzerinde hiçbir nedensel etkisi yoktur (tek yönlü nedensellik).",
+    "primitive_or_emergent_status": "Beliren. Bilinç yalnızca biyolojik beyinlerin ürünüdür.",
+    "emergence_type": "Özellikler indirgenemez ve fiziksel özelliklerden ontolojik olarak ayrıdır; bu da fenomenal özellik için, nedensel olarak edilgen olsa bile, bir tür güçlü beliriş olduğunu düşündürür. (İndirgenemezlik iddiasına dayanılarak gerekçelendirilmiştir.)",
+    "subjectivity_and_intentionality": "Bilincin farkındalığı gerçektir. Öznellik (fenomenal özellikler) ontolojik olarak ayrıdır. Zihinsel nedensellik duygusu yanıltıcıdır.",
+    "qualia_account": "Fenomenal özellikler (qualia) gerçektir ve fiziksel özelliklerden ontolojik olarak ayrıdır, ancak epifenomenlerdir ve dolayısıyla nedensel olarak edilgendir.",
+    "ontological_commitments": "Fiziksel durumlar (beyinler) ve onlardan beliren, ontolojik olarak ayrı fenomenal özellikler (zihinsel durumlar).",
+    "epistemic_access": "Bilinç içe bakış yoluyla bilinir, ancak bu içe bakıştan türeyen nedensel faillik duygusu yanıltıcıdır (bir tür yanılsama ya da hile).",
+    "constituents_and_structure": "Bilinç, 'okyanus dalgasının üzerindeki köpük'e benzetilen, biyolojik beynin işleyişinin beliren bir özelliği ya da yan ürünüdür."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç (farkındalık). Zihinsel nedenselliği/failliği açıkça ele alır ve reddeder.",
+    "distinctive_mechanism_or_principle": "'Fizikselin nedensel kapalılığı' ilkesi, zihinsel durumların doğaları ne olursa olsun tümüyle edilgen yan ürünler olması gerektiğini dikte eder.",
+    "dynamics_of_emergence": "Zihinsel durumlar yalnızca biyolojik beyin tarafından dinamik olarak üretilir; tüm bilinçli zihinsel olaylar öncül bilinçdışı işlemeyi içerir.",
+    "location_and_distribution": "Tümüyle fiziksel, biyolojik beyinde konumlanmıştır.",
+    "causation_and_functional_role": "Zihinsel durumların hiçbir nedensel gücü yoktur. Zihin tümüyle edilgendir ve hiçbir 'yukarıdan-aşağıya nedensellik' yoktur; bilinç işlevsel-olmayan bir yan üründür.",
+    "integration_or_binding": "Deneyimin birleştirilmesi, örtük biçimde, birleşik fenomenal durumu üreten beynin altta yatan karmaşık fiziksel süreçleri tarafından sağlanır. (Gerekçe: Odak, iç birlik mekaniği değil, dışa doğru nedenselliğin yokluğudur.)",
+    "information_flow_or_representation": "Enformasyon işleme tümüyle fiziksel/bilinçdışıdır ve fenomenal deneyim, bu işlemenin nedensel-olmayan paralel bir çıktısıdır.",
+    "evolutionary_account": "Bilinç biyolojik beyinlerin ürünü olduğundan evrimle örtük biçimde bağdaşır. Özelliğin gerçekliği, onun evrim yoluyla ortaya çıktığını düşündürür; ancak işlevinin yokluğu, nedensel etkinliği açısından seçilim baskısına uğramadığı anlamına gelir. (Materyalizm Kuramları altındaki sınıflandırmaya dayanılarak gerekçelendirilmiştir.)",
+    "core_claims_and_evidence": [
+      "Bilinç tümüyle fizikseldir, yalnızca biyolojik beyinlerin ürünüdür.",
+      "Zihinsel durumlar fiziksel durumlardan ontolojik olarak ayrıdır (Özellik Düalizmi).",
+      "Fizikselin tam nedensel kapalılığı nedeniyle zihinsel durumların hiçbir nedensel gücü yoktur."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (öncelikle zihinsel nedenselliğin açıklama yükü ve fiziksel nedensel kapalılığa bağlılık tarafından yönlendirilir)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sorgulanabilir. Temel iddiası —bilinçli durumların nedensel güçten yoksun olduğu— sezgilere aykırıdır ve olumsuz bir nedensel bağlantıyı kanıtlamayı gerektirdiğinden ampirik olarak sınanması güçtür.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kuram sezgilere aykırıdır; çünkü fenomenal olarak bilinçli durumlarımızın nedensel olarak önem taşıdığı bize güçlü biçimde görünür. Zihinsel nedensellik duygumuzun (düşüncelerin bir şeylere neden olması) 'bir tür yanılsama ya da hile' olduğunu kabul etmeye zorlar.",
+    "open_questions_and_limitations": "Zihinsel nedenselliğin bütünleştirilmesi merkezidir; Epifenomenalizm bu sorunu nedenselliği reddederek çözer, ancak bu, son derece sezgilere aykırı bir sonucu kabul etmeyi gerektirir.",
+    "ontological_coherence": "Fizikselin tam nedensel kapalılığına bağlı materyalist bir ontoloji içinde yüksek tutarlılığa sahiptir; etkileşimci sorunlardan kaçınırken düalizmin zayıf bir biçimini gerçekleştirir."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Eğer bilinç yalnızca beyindeki fiziksel süreçlerin nedensel-olmayan bir yan ürünüyse (köpük), bu fiziksel süreçlerin yapay zekâda yeniden üretilmesi, nedensel-olmayan zihinsel durumlar işlevsel yeniden üretimi engellemeden aynı bilinçli durumları üretmelidir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç tümüyle fizikseldir ve yalnızca biyolojik beyinlerin ürünüdür. Bu fiziksel bağımlılık, bedensel ölümden sonra varlığın sürmesini engeller."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Felsefi bir materyalizm kuramı olarak nihai bir anlam ya da amaç sunmaz. Bilinç nedensel olarak edilgen olduğundan, kozmik teleolojik bir değer bahşedemez."
+    },
+    "virtual_immortality": {
+      "stance": "Yüksek olasılıkla",
+      "rationale": "Bilincin edilgen doğası, fiziksel durumların yüklenmesinin epifenomenal zihinsel durumları zorunlu olarak çoğaltacağı anlamına gelir. Edilgen 'köpük', sanal ölümsüzlüğe ulaşmada pek az etkiye sahip olmalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Zayıf biçim/Tür"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Daha zayıf biçim/Örtüşme"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "Benzer ama daha az yaygın seçenek"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Karşıtlık (Beliren Düalizm nedensel etkinliği olumlar, Epifenomenalizm reddeder)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Facing up to the Problem of Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      }
+    ]
+  }
+}

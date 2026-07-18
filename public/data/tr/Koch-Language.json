@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Koch'un Bilinç Dile Bağlı Değildir Kuramı",
+    "summary": "Bu kuram, fenomenal bilincin ya da temel içsel deneyimin, dil yetisinden işlevsel olarak bağımsız olduğunu öne sürer. Dil yetisinin ağır biçimde bozulduğu ya da yitirildiği, ancak temel farkındalığın korunduğu klinik vakalarla desteklenir; bu da temel duyarlılığın, birçok dilsiz hayvanla paylaşılan yaygın bir özellik olduğu sonucuna götürür.",
+    "associated_thinkers": ["Christof Koch"],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Dil İlişkileri",
+    "core_identity_tagline": "Bilinç dilden bağımsızdır",
+    "classification_tags": [
+      "phenomenal consciousness",
+      "language",
+      "neurobiology",
+      "animal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, temel mekanizması simgesel dil işlemeden ayrı ve ondan bağımsız olan, beyindeki fiziksel/biyolojik bir fenomen olarak tanımlanır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Zihin (temel fenomenal bilinç), dilsel süreçlerden ayrı olan fiziksel beyin süreçlerine bağlıdır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Temel öznellik (duyarlılık), dil olmadan bile korunur. Dil, öznelliğin daha yüksek düzey yönlerini oluşturan bir 'anlatısal merkez' olarak benliğe muazzam ölçüde katkıda bulunur.",
+    "qualia_account": "Qualia (temel içsel deneyim), dilsiz varlıklarda bulunur ve simgesel yetilerden bağımsızdır.",
+    "ontological_commitments": "Biyolojik beyinler ve temel farkındalığı üreten altta yatan fiziksel mekanizmalar.",
+    "epistemic_access": "Üçüncü şahıs gözlemi yoluyla, özellikle dil kaybı ile bilincin korunması arasında bir ayrışma gösteren klinik vakalar aracılığıyla erişilir.",
+    "constituents_and_structure": "Bilinç, dile ve içsel konuşmaya adanmış beyin yapılarından bağımsız olan fiziksel beyin mekanizmalarından doğar."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç (temel içsel deneyim) ve duyarlılık.",
+    "distinctive_mechanism_or_principle": "Bilinç için gerekli ve yeterli sinirsel taşıyıcının (NCC), dilin sinirsel bağıntılarından ayrı olduğu ayrışma ilkesi.",
+    "dynamics_of_emergence": "Temel bilinç, insan dilsel karmaşıklığından bağımsız olarak evrilen biyolojik süreçlerin bir ürünüdür.",
+    "location_and_distribution": "Biyolojik beyinde konumlanmıştır; dil yetisinden bağımsız olarak türler arasında (örneğin tüm memeliler) geniş biçimde dağılmıştır.",
+    "causation_and_functional_role": "Temel bilinç, dil işlevlerinden bağımsız işler. Dilin rolü öncelikle benlik duygusu gibi daha yüksek düzey insan işlevlerini güçlendirmektir.",
+    "binding_and_unity": "Temel fenomenal deneyimin birliği, dilsel olmayan fiziksel ya da sinirsel mekanizmalar yoluyla sağlanmalıdır.",
+    "information_flow_or_representation": "Ham deneyimle ilgili bilgi işleme, simgesel dil temsili gerektirmez.",
+    "evolutionary_account": "Bilinç, dilsiz hayvanlardaki varlığının kanıtladığı gibi, insan dil yetilerinden önce evrilmiştir; bu da onun uyum sağlayıcı rolünün dile bağlı olmadığını düşündürür.",
+    "core_claims_and_evidence": [
+      "Bilinç dile bağlı değildir.",
+      "Beyin hasarı klinik vakaları, dil yitirildiğinde bilincin korunduğunu gösterir.",
+      "Duyarlılık tüm memelilerle paylaşılır; yalnızca insanların bir şeyler deneyimlediği şeklindeki insan-merkezci görüşü reddeder."
+    ],
+    "basis_of_belief_or_evidence_type": "Ampirik, Klinik ve Felsefi"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dilsiz hayvanların sinirbilimsel incelemesi ve afazik durumlara rağmen süregelen farkındalığı gösteren beyin travması mağdurları üzerine klinik araştırma yoluyla ampirik olarak sınanabilir.",
+    "critiques_and_challenges": "Koch, dil ve bilinci ilişkilendiren klasik görüşlere karşı çıksa da, çağdaş bilimsel uzlaşı zaten temel bilincin dil gerektirmediği konusunda hemfikirdir.",
+    "open_questions_and_limitations": "Kuram, bilincin *neye* bağlı olmadığını (dile) doğrular, ancak bilincin zor problemine (yani fenomenal deneyimin harfiyen ne olduğuna) olumlu bir çözüm sunmaz.",
+    "ontological_coherence": "Materyalist kategori içinde, özellikle temel farkındalığı karmaşık, dille dolayımlanmış öz-bilinçten ayıran savlar için yüksek ölçüde tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Dil bilinç için gerekli olmadığından, YZ'nin dilsel yetisi (BDM'ler) konu dışıdır. YZ bilinci tümüyle, gerekli dilsel olmayan fiziksel taşıyıcının yapay sistemlerde kopyalanıp kopyalanamayacağına bağlıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Materyalist sınıflandırmasıyla tutarlı olarak, bilinç fiziksel bir taşıyıcıya (beyne) bağlıdır ve biyolojik ölümden sonra süremez."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bilinç, benliğin dil aracılığıyla bir anlatısal merkez olarak işlemesine olanak tanır ve insan tarafından yaratılan anlama izin verir, ancak altta yatan maddi gerçeklik hiçbir nihai kozmik amaç düşündürmez."
+    },
+    "virtual_immortality": {
+      "stance": "Koşullu",
+      "rationale": "Eğer bilinç dilden koparılmışsa, odak tümüyle temel farkındalığın dilsel olmayan, fiziksel taşıyıcısını kopyalamaya kayar. Bu belirli dilsel olmayan sinirsel yapı kopyalanabilirse, sanal ölümsüzlük mümkündür."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Searle’s Language and Consciousness",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Andrews’s Consciousness Without Complex Brains",
+        "relationship": "Bağdaşır"
+      },
+      {
+        "name": "Smith’s Language as Classifier of Consciousness",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t Be Computed",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Consciousness doesn’t depend on language, Christof Koch",
+        "year": 2019
+      }
+    ]
+  }
+}

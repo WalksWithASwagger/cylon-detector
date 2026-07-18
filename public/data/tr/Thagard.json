@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Thagard'ın Nöral Temsil, Bağlama, Tutarlılık, Yarışma Kuramı",
+    "summary": "Bu kuram, bilinçli deneyimleri ampirik olarak akla yatkın dört beyin mekanizmasının etkileşimlerine bağlar: nöral temsil, bağlama, tutarlılık ve yarışma. Bilincin, beyin genelindeki bu etkileşimlerden belirdiğini iddia eder ve rüyalar, mizah ve öz-farkındalık gibi karmaşık bilinçli olgular için bilimsel temelli bir açıklama sunar.",
+    "associated_thinkers": ["Paul Thagard"],
+    "category": "Materyalizm",
+    "subcategory": "Temsilsel",
+    "core_identity_tagline": "‘Nöral Mekanizmalarca İnşa Edilen Bilinç’",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "binding",
+      "physicalism",
+      "coherence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, belirli beyin mekanizmaları arasındaki etkileşimlerin beliren sonucu olarak özdeşleştirilir: nöral temsil, bağlama, tutarlılık ve yarışma.",
+    "ontological_status": "İndirgemeci Fizikalizm/Materyalizm (Bu konum, kuramın Materyalizm altında sınıflandırılması ve bilinci beynin gizemli olmayan biyolojik bir ürünü olarak tam açıklamaya çalışması nedeniyle çıkarsanmıştır.)",
+    "mind_body_relationship": "Özdeşlik/İndirgeme (Bilinçli deneyimler, yüksek fizikalist güvenle tutarlı olarak, fiziksel beyin durumları ve süreçleri tarafından tam olarak açıklanır ve onlardan belirir.)",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş (Çıkarsanmış; çünkü kuram katı, ampirik temelli sinirbilime dayanır ve bilincin, beyinlerce inşa edilişi anlaşıldığında bir gizem olmadığını iddia eder; bu da ilkece indirgenebilirliği düşündürür.)",
+    "subjectivity_and_intentionality": "Algılar, duyumlar, duygular ve soyut düşünceler (öz-düşünüm gibi) dahil öznel deneyimler, dört çekirdek beyin mekanizmasının karmaşık etkileşimleriyle açıklanır.",
+    "qualia_account": "Qualia (renk görme ya da acı hissetme gibi fenomenal deneyimler), dört beyin mekanizmasının (nöral temsil, bağlama, tutarlılık, yarışma) işleyişiyle kapsamlı biçimde açıklanır.",
+    "ontological_commitments": "Biyolojik beyinler, nöral temsiller ve bunların dinamik süreçleri (bağlama, tutarlılık, yarışma), çoğu zaman hesaplamalı olarak modellenir.",
+    "epistemic_access": "Öncelikle ampirik sinirbilimsel bulgular ve hesaplamalı modelleme aracılığıyla erişilir; doğrulama açıklayıcı tutarlılık yoluyla aranır.",
+    "constituents_and_structure": "Yapı, beyin alanları genelinde dinamik olarak işleyen nöral mekanizmalardan (temsil, bağlama, tutarlılık, yarışma) oluşur; deneyimleri izlemek için 'zaman hücreleri' kullanan mekanizmalar dahil."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (algılar, duyumlar, duygular), Öz-farkındalık (öz-değerlendirme, öz-düşünüm), Zamanlama, Rüya görme, Mizah, Dinsel huşu.",
+    "distinctive_mechanism_or_principle": "Nöral temsil, bağlama, tutarlılık ve nöral temsiller arasındaki yarışmanın birleşik, etkileşen eylemi.",
+    "dynamics_of_emergence": "Bilinçli durumlar, nöral temsiller arasındaki etkileşimlerden ve yarışmadan beliren dinamik bir süreçtir ve deneyimleri zaman içinde izlemeye ilişkin yeni sinirbilimsel bulgulara uyar.",
+    "location_and_distribution": "Biyolojik beyinde yerleşiktir; özellikle beyin genelindeki alanlarda mekanizmaların etkileşimleri yoluyla dağılmıştır.",
+    "causation_and_functional_role": "Bilinç, insan yaşamının merkezindedir (örneğin ahlak, romantizm). Kuram, fiziksel beyin mekanizmalarının bilinçli deneyimleri nasıl inşa ettiğini ve karmaşık zihinsel işlevleri nasıl olanaklı kıldığını açıkladığından nedensel etkinliği ima eder.",
+    "integration_or_binding": "Bağlama, etkileşimi bilinci açıklayan ve deneyimin birleşmesini sağlayan dört anahtar mekanizmadan biridir.",
+    "information_flow_or_representation": "Nöral temsil çekirdek bir mekanizmadır; bilinç, bu temsiller arasındaki yarışmadan doğar ve karmaşık zihinsel özellikleri paylaşılan nöral mekanizmalara bağlar.",
+    "evolutionary_account": "Bilinç beyinlerin bir ürünüdür ve bunun filogenetik evrim yoluyla ortaya çıktığını ima eder. Yaklaşım, bilinçli hayvanları bitkiler ve bakteriler gibi bilinçsiz varlıklardan ayırır.",
+    "core_claims_and_evidence": [
+      "Bilinçli deneyimler, nöral temsil, bağlama, tutarlılık ve yarışma mekanizmalarının etkileşiminden doğar.",
+      "Mekanizmalar, öz-değerlendirme, mizah ve dinsel huşu dahil karmaşık deneyimleri açıklar.",
+      "Kuram ampirik olarak desteklenir ve zaman hücrelerinin beyinlere deneyimleri izleme olanağını nasıl verdiğine ilişkin bulgulara uyar.",
+      "Kuram, botlarda ve hayvanlarda bilinci değerlendirmek için açıklayıcı tutarlılığı uygular."
+    ],
+    "basis_of_belief_or_evidence_type": "Ampirik, Sinirbilimsel, Hesaplamalı"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir (Mekanizmaların ampirik olarak akla yatkın olduğu iddia edilir ve kuram, açıklayıcı tutarlılığı bir yöntemsel mihenk taşı olarak kullanarak katı sinirbilim üzerine kuruludur.)",
+    "known_empirical_interventions_or_tests": "Kuram, zaman hücrelerinin beyinlere deneyimleri izleme olanağını nasıl verdiğine ilişkin yeni sinirbilimsel bulgularla tutarlıdır. (Kuramı doğrulamayı ya da yanlışlamayı amaçlayan belirli deneysel müdahaleler kaynakta ayrıntılandırılmamıştır.)",
+    "criticisms_and_tensions": "Kaynak metinde belirli dışsal eleştiriler alıntılanmaz; bu da eleştirinin asgari düzeyde olduğunu ya da verili bağlamda henüz yaygın olarak belgelenmediğini gösterir.",
+    "open_questions_and_limitations": "Dört sürecin 'nasıl bir şey olma' öznel hissini (qualia) hangi kesin mekanizmayla ürettiği tam olarak ayrıntılandırılmaz; bu da indirgemeci fizikalist açıklamalar için standart bir sınırlılıktır.",
+    "ontological_coherence": "Fizikalist bir çerçeve içinde son derece tutarlıdır; bilincin fiziksel olduğunu ve tümüyle beyin mekanizmalarınca inşa edildiğini ileri sürerek bilincin 'gizemini' çözer."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Kuram, mevcut bilgisayarlar bilinçli olmasa da, yeni üretken yapay zekâ modellerinin, özellikle dört çekirdek beyin mekanizması hesaplamalı olarak modellenebilir ya da çoğaltılabilirse, bir dereceye kadar bilinci olanaklı kılabilecek, insanlara benzer mekanizmalara sahip olduğunu düşündürür."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bir Materyalizm Kuramı olarak bilinç tümüyle biyolojik beyne bağımlıdır; bu nedenle beynin ölümü, kişinin ve bilincin kalıcı olarak var olmayışıyla sonuçlanır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bir Materyalizm Kuramı olarak, genellikle nihai kozmik anlam ya da amacı dışlayan fizikalist bir açıklamaya bağlı kalır ve yalnızca insanların kendilerinin yarattığı anlam ve değeri tanır."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Materyalizm Kuramı bilinci tümüyle fiziksel mekanizmalarla (nöral temsil, bağlama, tutarlılık, yarışma) açıklıyorsa, birinci şahıs zihinsel benlik yüklenebilirdir ve bu fiziksel süreçleri çoğaltabilen ileri teknoloji aracılığıyla sanal ölümsüzlüğe ulaşılabilir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Bağdaşır"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Bağdaşır"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dreams, Jokes, and Songs: How Brains Build Consciousness, Paul Thagard",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Bots and Beasts, Paul Thagard",
+        "year": 2021
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "İşlevselcilik",
+    "summary": "İşlevselcilik, zihinsel durumların, gerçekleştirildikleri fiziksel ortamdan (dayanaktan) bağımsız olarak, birbirleriyle, duyusal girdilerle ve davranışsal çıktılarla olan nedensel ilişkileriyle tanımlandığını ileri sürer. Bilincin özü, neyden maddi olarak oluştuğuyla değil, zihinsel durumların nasıl işlediği ya da çalıştığıyla belirlenir.",
+    "associated_thinkers": [
+      "Ned Block",
+      "J.J.C. Smart",
+      "Janet Levin"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Felsefi",
+    "core_identity_tagline": "Zihinsel durumlar, nedensel rolleriyle tanımlanan işlevsel durumlardır",
+    "classification_tags": [
+      "functional role",
+      "multiple realizability",
+      "computational",
+      "causal relations"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Zihinsel durumlar, nedensel ilişkileri, rolleri, sonuçları ve çıktıları tarafından oluşturulan işlevsel durumlar olarak tanımlanır; bu da onların bu işlevleri destekleyen herhangi bir dayanakta gerçekleştirilebilir olduğunu ima eder.",
+    "ontological_status": "Fizikalizm (geniş anlamda, tözden bağımsız). Kuram Materyalizm altında sınıflandırılır, ancak fiziksel-olmayan tözler konusunda metafiziksel olarak agnostiktir; öncelikle zihinsel durumların işlevsel betimlenmesine odaklanır.",
+    "mind_body_relationship": "Zihinsel durumlar, fiziksel bir dayanakta gerçekleştirilen ya da örneklenen işlevsel rollerle özdeş işlevsel durumlardır; bu da 'işlevsel durum özdeşlik tezlerine' yol açar.",
+    "primitive_or_emergent_status": "Beliren. Bilinç, yeterince karmaşık bir dayanağın (nöral doku ya da bilgisayar çipleri gibi) gerçekleştirdiği işlevsel örgütlenmeden doğar.",
+    "emergence_type": "Zayıf Beliriş. İşlev tanımlanabilir ve potansiyel olarak farklı dayanaklarda çoklu gerçekleştirilebilir olduğundan, beliren zihinsel özellik ilkece altta yatan işlevsel yapı ve fiziksel yasalarla açıklanabilir.",
+    "subjectivity_and_intentionality": "Öznellik ve yönelimsellik, belirli işlevsel örgütlenme ve nedensel ilişkiler terimleriyle açıklanır. Örneğin, ilgili işlevselci kuramlarda yönelimsellik, zihinsel durumların ikinci düzey temsili yoluyla anlaşılır.",
+    "qualia_account": "Kuram, geleneksel olarak fenomenal qualia'yı açıklamakta zorlanır; genellikle nitel hissin tümüyle işlevsel rol tarafından tüketildiğini ileri sürerek ya da temsili kuramlarla birleşerek bunu ele alır.",
+    "ontological_commitments": "İşlevsel roller ya da nedensel ilişkiler kritik varlıklardır. Kuram, ister nöral doku ister bilgisayar çipleri olsun, enformasyonu ve işlevsel mimariyi örnekleyebilen dayanakların varlığını varsayar.",
+    "epistemic_access": "Bilinç, zihinsel durumların duyusal girdilerle ve davranışsal çıktılarla olan nedensel ilişkileri yoluyla nasıl çalıştığı analiz edilerek erişilir ve anlaşılır; genellikle hesaplamalı ve üçüncü şahıs perspektifleriyle ilişkilendirilir.",
+    "constituents_and_structure": "Zihinsel durumlar, duyusal girdiler, içsel durumlar ve davranışsal çıktılar arasında tanımlanan nedensel ilişkilerden oluşur. Bu ilişkiler zihnin işlevsel yapısını oluşturur."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Psikolojik durumlar (hatırlama, düşünme, yaratma) ve fenomenal bilincin yapısal gereklilikleri; yapay zekâ bilinci ve sanal ölümsüzlük için temel sağlar.",
+    "distinctive_mechanism_or_principle": "Çoklu gerçekleştirilebilirlik ilkesi; zihinsel durum gerçekleşmesinin fiziksel dayanaktan bağımsız olduğunu, yalnızca gerekli işlevin örneklenmesine bağlı olduğunu belirtir.",
+    "dynamics_of_emergence": "Bilinç, gerekli işlevsel ilişkiler (algoritmalar ya da nedensel akış tarafından tanımlananlar gibi) bir fiziksel sistem içinde mevcut olduğunda işlevsel bir süreç ya da etkinlik olarak gerçekleşir.",
+    "location_and_distribution": "Dayanağın nöral doku mu yoksa donanımsal hesaplama bileşenleri mi olduğuna bakılmaksızın, işlevsel örgütlenmenin başarıyla gerçekleştirildiği her yerde dağılmıştır.",
+    "causation_and_functional_role": "İşlevler, roller ve çıktılar belirleyicidir. Zihinsel durumlar nedensel olarak etkilidir; çünkü sistem içindeki nedensel ilişkileriyle (işlevsel rol) tanımlanırlar.",
+    "integration_or_binding": "Bütünleşme, birden çok girdi ve içsel durumun birleşik çıktılar üretmek üzere nedensel olarak ilişkilendirildiği karmaşık işlevsel mimarilerin başarılı gerçekleştirilmesi yoluyla sağlanır.",
+    "information_flow_or_representation": "Enformasyon, özellikle klasik hesaplamalı modellerin (algoritmaların) zihinsel durumların işlevsel gerekliliklerini örneklediği hesaplamalı işlevselcilikte merkezidir.",
+    "evolutionary_account": "Doğrudan ele alınmaz, ancak kuram Materyalizm altında sınıflandırıldığından evrimsel açıklamalarla tümüyle bağdaşır; bu da bilincin işlevsel süreçler aracılığıyla uyarlanır ya da hayatta kalma avantajı sağlayan evrilmiş bir mekanizma olduğunu düşündürür.",
+    "core_claims_and_evidence": [
+      "Zihinsel durumlar, birbirleriyle ve girdiler/çıktılarla olan nedensel ilişkileriyle oluşturulur.",
+      "Zihinsel durumlar işlevsel durumlarla özdeştir (işlevsel durum özdeşlik tezleri).",
+      "Dayanağın doğası önemli değildir, yalnızca gerçekleştirilen işlevler önemlidir.",
+      "'Sanal ölümsüzlüğün' kuramsal temeli olarak hizmet eder."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (kavramsal tanımlar), Hesaplamalı (zihnin hesaplamalı kuramları aracılığıyla)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal ve ampirik olarak sınanabilir. Düşünce deneyleri (dayanak değiştirme gibi) kavramsal sınırlarını yoklar ve hesaplamalı gerçekleştirme (yapay zekâ) ampirik uygulamasını sınar.",
+    "known_empirical_interventions_or_tests": "Silikon çip değiştirme düşünce deneyi, dayanaktaki bir değişim boyunca işlevsel rol korunduğunda fenomenal bilincin korunup korunmadığını sınamak için kavramsal olarak kullanılır.",
+    "criticisms_and_tensions": "Yalnızca işlevsel rolü betimleyerek fenomenal bilinci (qualia) açıklamakta başarısız olduğu için ağır biçimde eleştirilir; bu da işlevsel rollerin bilinçli deneyimin doğasını tüketmeyebileceği yönündeki 'zor problem' güçlüğüne yol açar.",
+    "open_questions_and_limitations": "Başlıca çözülmemiş sorun, bilinçli deneyimin tümüyle işlevsel rol tarafından tüketilip tüketilmediğidir. İşlevsel tanımların deneyimin öznel, nitel yönlerini tam olarak nasıl kavradığı belirsizdir.",
+    "ontological_coherence": "Geniş Fizikalist ontolojilerle son derece tutarlıdır. Bir savunucu tarafından metafiziksel gerekçelerle İndirgemeci Fizikalizme 'bağdaşmaz bir rakip' olarak tanımlansa da, indirgemeci projeler için gerekli işlevsel nitelemeyi sağlar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "İşlevselcilik, bilincin biyolojiye değil işleve dayandığını savunur. Doğru işlevler biyolojik-olmayan dayanaklarda hesaplamalı olarak gerçekleştirilebilirse, yapay zekâ bilinci ilkece olanaklıdır ve Materyalizm doğruysa kesindir."
+    },
+    "survival_beyond_death": {
+      "stance": "Koşullu/Hayır",
+      "rationale": "Fizikalist bir kuram olarak bilinç dayanağa bağlıdır. Biyolojik bedenin ölümünden sonra varlığın sürmesi, ancak işlevsel zihinsel durumun yeni, süregelen bir dayanağa başarıyla aktarılabilmesiyle (yüklenebilmesiyle) olanaklıdır (sanal ölümsüzlük)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "İşlevselcilik, zihnin/bilincin fiziksel bir dünyada nasıl işlediği mekanizmasını betimler ve faillik ile düşünüm için kapasiteler sağlar, ancak nihai kozmik bir anlam ya da teleoloji için gerekçe sunmaz; Materyalizmin genel tutumuyla uyumludur."
+    },
+    "virtual_immortality": {
+      "stance": "Ulaşılabilir",
+      "rationale": "İşlevselcilik, sanal ölümsüzlüğün kuramsal temeli olarak hizmet eder. Zihinsel benliğin işlevsel rolü kusursuz biçimde çoğaltılıp yeni bir ortama yüklenebilirse, birinci şahıs zihinsel benlik korunur."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Uzantı"
+      },
+      {
+        "name": "Homuncular Functionalism (Lycan)",
+        "relationship": "Uzantı"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "Uyumlu/Rakip"
+      },
+      {
+        "name": "Neurofunctionalism (Prinz)",
+        "relationship": "Uzantı"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism? (N. Block)",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Is Functionalism? Consciousness, Function, and Representation (N. Block)",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Functionalism (J. Levin)",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Levin'in Her Yerde Zihin İçin Teknolojik Yaklaşımı (TAME)",
+    "summary": "Bu çerçeve, zihni ve bilişi, mühendislik ürünü malzemeler ve sentetik biyoloji de dâhil çeşitli, çoğu kez alışılmadık zeminler boyunca işlevsel, amaca yönelik etkinlik üzerinden anlar. Bilincin ya da duyarlılığın sürekli ve dereceli olduğunu ileri sürer; hayvan zihinlerini, hücre grupları arasındaki kolektif zekânın bir örneği olarak görür.",
+    "associated_thinkers": ["Michael Levin"],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Filogenetik Evrim",
+    "core_identity_tagline": "Her Yerde Zihin İçin Teknolojik Yaklaşım (TAME)",
+    "classification_tags": [
+      "technological",
+      "embodiment",
+      "agency",
+      "synthetic biology",
+      "graded consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç/duyarlılık, çoğu kez karmaşık algı-eylem sistemleri olarak örgütlenen, çeşitli bedenlenmiş zeminlerde gerçekleşen amaca yönelik etkinlik olarak tanımlanır.",
+    "ontological_status": "Fizikalizm (Materyalizm)",
+    "mind_body_relationship": "Bilinç temelde bedenlenmiştir; fiziksel zeminin (geleneksel biyolojik doku ya da yeni kimerik mimariler olabilir) yapılanmasından ve dinamiklerinden belirir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf beliriş (Bilincin sürekliliği, fiziksel olan karmaşık işlevsel dinamiklerinin, keskin, açıklanamaz faz geçişleri gerektirmeksizin onun ortaya çıkmasına yol açtığını gösterir.)",
+    "subjectivity_and_intentionality": "Öznelliğe (bilincin kendisine) nesnel olarak erişmek güçtür. Yönelimsellik ise merkezidir; doğrudan amaca yönelik etkinliğe ve bedenlenmiş failliğe bağlıdır.",
+    "qualia_account": "Kuram bilişsel işleve odaklanır ve büyük ölçüde fenomenal bilinci (qualia'yı) üçüncü şahıs, nesnel bir bakış açısından tanımlama konusunda kuşkucu kalır.",
+    "ontological_commitments": "Fiziksel zeminler, biyolojik ve biyolojik olmayan (kimerik mimariler), kolektif zekâ sergileyen hücre grupları ve soyut uzaylarda (örneğin morfogenetik, transkripsiyonel) işleyen algı-eylem sistemleri.",
+    "epistemic_access": "Öncelikle amaca yönelik etkinliği ve bilişsel işlevi inceleyen üçüncü şahıs yaklaşımları yoluyla. Bilincin içsel deneyimine nesnel olarak erişmek güç olmayı sürdürür.",
+    "constituents_and_structure": "Bilincin yapısı sürekli ve ikili-olmayandır; faillik ve çeşitli uzaylar boyunca bilgi akışı aracılığıyla bütünleşen çeşitli bilinçlerin (örneğin hücre gruplarının) bir yaması olarak gerçekleşir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Biliş, amaca yönelik etkinlik (faillik), hayvan duyarlılığı, filogenetik ve ontogenetik beliriş.",
+    "distinctive_mechanism_or_principle": "Her Yerde Zihin İçin Teknolojik Yaklaşım (TAME), alışılmadık zeminlerde bilişin sentetik biyoloji ve biyomühendislik yoluyla yaratılmasını ve el altında tutulmasını biçimlendirir.",
+    "dynamics_of_emergence": "Bilinç, kademeli olarak doğan, sürekli, dereceli bir süreçtir; hem kısa (ontogenetik) hem de uzun (filogenetik) zaman ölçeklerinde fiziksel sistemlerin (bedenlerin) plastikliğine ve biçim değiştirebilirliğine bağlıdır.",
+    "location_and_distribution": "Çeşitli bedenlenmiş zeminler boyunca dağılmıştır, beyinle sınırlı değildir ve 3B olmayan uzaylarda (örneğin morfogenetik uzayda) işleyen sistemlerde var olabilir.",
+    "causation_and_functional_role": "Bilinç, amaca yönelik etkinlikle güdülenerek, güçlü bedenlenmiş failliği ve kolektif zekâyı destekleme işlevsel rolünü üstlenir.",
+    "integration_or_binding": "Bütünleşme, hücre grupları içinde kolektif zekânın oluşumu ve algı-eylem sistemlerinin bütünleşik işleyişi aracılığıyla sağlanır.",
+    "information_flow_or_representation": "Transkripsiyonel ve morfogenetik uzaylar da dâhil çeşitli soyut bilgi uzaylarında çalışan algı-eylem sistemlerine dayanır.",
+    "evolutionary_account": "Bilinç kademeli olarak evrildi; türler arasında nispeten pürüzsüz bir süreklilikle tutarlı biçimde, seçim ve faillik yetisine sahip sistemleri kayıran evrimsel baskılardan doğdu.",
+    "core_claims_and_evidence": [
+      "Bilinç, keskin faz geçişleri kavramına meydan okuyarak, dereceler ve türler hâlinde gelir.",
+      "Duyarlılık, temelde gözlemlenebilir amaca yönelik etkinliğe bağlıdır.",
+      "Bilişsel sistemler alışılmadık, kimerik mimarilerde yaratılabilir ve incelenebilir.",
+      "Tekil failler, çeşitli bilinçlerin (örneğin hücre gruplarının) 'yamaları' olabilir."
+    ],
+    "basis_of_belief_or_evidence_type": "Deneysel (sentetik biyoloji), hesaplamalı, felsefi (bilişin sürekliliği)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Biyomühendislik yöntemleri kullanılarak yeni bedenlenmiş bilişsel sistemlerin yaratılması ve el altında tutulması yoluyla ampirik olarak sınanabilir.",
+    "known_empirical_interventions_or_tests": [
+      "Çeşitli malzemelerde kimerik bilişsel sistemlerin sentetik olarak yaratılması",
+      "Bilinçteki kaymaları gözlemlemek için radikal beyin-bilgisayar arayüzlerinin ileride uygulanması"
+    ],
+    "criticisms_and_tensions": "Eleştirmenler, keskin faz geçişlerinin reddedilmesine meydan okur ve bilinç kapasitesinde niteliksel bir kaymaya yol açan tam fiziksel değişimin belirtilmesini talep eder.",
+    "open_questions_and_limitations": "Kuram, fenomenal bilinci (bilincin ne 'olduğunu') nesnel, üçüncü şahıs bir bakış açısından kesin biçimde betimlemedeki sınırlılığını kabul eder.",
+    "ontological_coherence": "İşlevselci ve genişletilmiş materyalist bir ontoloji içinde tutarlıdır; fizikalist bir sınıflandırmayı korurken çeşitli zeminleri barındırır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "TAME tasarlanmış ve kimerik malzemelere uygulandığından, yapay sistemler (amaca yönelik, bedenlenmiş algı-eylem sistemleri olarak yapılandırılırsa) makul biçimde bilinci gerçekleştirebilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinci bedenlenmiş bir fiziksel zeminin süregiden işleyişine bağlayan materyalist bir çerçeve olarak, o zeminin varlığının ötesinde bir hayatta kalmayı desteklemez."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hümanist/failliğe bağlı",
+      "rationale": "Bilinç amaca yönelik etkinliğe bağlıdır; bu da anlamın kozmik teleolojiden değil, sistemin içkin failliğinden türediğini gösterir."
+    },
+    "virtual_immortality": {
+      "stance": "Olası",
+      "rationale": "Zihnin yeni, biyolojik olmayan mimarilerde tasarlanıp örneklenebileceği önermesi, karmaşık, bedenlenmiş algı-eylem sisteminin kopyalanıp aktarılmasının ilkece mümkün olması gerektiğini gösterir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied Cognition",
+        "relationship": "Uyumlu/etki"
+      },
+      {
+        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Computational and Informational Theories",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Technological approach to mind everywhere: an experimentally- grounded framework for understanding diverse bodies and minds, Michael Levin",
+        "year": 2022
+      }
+    ]
+  }
+}

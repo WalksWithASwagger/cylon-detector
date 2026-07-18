@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "Genişlemiş Zihin",
+    "summary": "Bu kuram, bilişsel süreçlerin katı biçimde biyolojik beyinle sınırlı olmadığını, dış çevreye doğru genişlediğini öne sürer (etkin dışsalcılık). Bir insan organizması bir dış varlıkla çift yönlü bir etkileşim içinde bağlandığında, kendi başına bir bilişsel dizge olarak işleyen eşleşmiş bir dizge oluşur. Dış bileşenin çıkarılması, tıpkı beynin bir parçasının çıkarılması gibi, dizgenin davranışsal yetkinliğini bozar.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "David Chalmers"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "İlişkisel",
+    "core_identity_tagline": "‘Eşleşmiş Bilişsel Dizge Olarak Zihin’",
+    "classification_tags": [
+      "externalism",
+      "embodiment",
+      "cognition",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, hem içsel sinirsel süreçleri hem de dışsal araçları/çevreyi kapsayan, eşleşmiş bilişsel dizgenin bütününün bir işlevi olarak tanımlanır ve etkin dışsalcılığa bağımlılığı vurgulanır.",
+    "ontological_status": "Fizikalizm (İşlevselci/İlişkisel)",
+    "mind_body_relationship": "Bağıntı/Genişleme. Zihin, beyin, beden ve ilgili çevre boyunca dağılmış beliren bir özellik ya da işlevsel bir süreçtir; bu, zihnin kafatasıyla sınırlı olduğu yönündeki geleneksel görüşe meydan okur.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Kaynaklar öncelikle bilişin işlevsel rolüne ve davranışsal yetkinliğe odaklanır, fenomenal öznelliğin ya da yönelimselliğin nasıl ortaya çıktığını açıkça ele almaz. Öznellik, nerede konumlanmış olursa olsun, işleyen bilişsel dizgenin bir özelliği olarak örtük biçimde ele alınır.",
+    "qualia_account": "Kuram, bilişsel süreçlerin genişlemesine ve davranışsal yetkinliğin sağlanmasına odaklanır; ancak kaynaklar, fenomenal qualia'nın (deneyimin niteliksel boyutunun) eşleşmiş dizge içinde nasıl açıklandığını ya da genişletildiğini açıkça ayrıntılandırmaz.",
+    "ontological_commitments": "Eşleşmiş dizge içinde etkin bir nedensel rol üstlenen beyin, beden, dışsal nesneler/araçlar ve fiziksel çevre.",
+    "epistemic_access": "Eşleşmiş dizgedeki tüm bileşenlerin çift yönlü etkileşimini ve etkin nedensel rolünü inceleyerek, davranışsal yetkinlik ve bilişsel devreler üzerinde odaklanarak erişilebilir.",
+    "constituents_and_structure": "İnsan organizmasının (beyin ve beden) dışsal varlıklarla (toplumsal ve maddi dünya) çift yönlü bir etkileşim içinde bağlanmasından oluşan, kesintisiz, bütünleşik bir bütün oluşturan bir ‘eşleşmiş dizge’."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Biliş, Davranışsal Yetkinlik (Fenomenal bilincin genişlemiş dizge içinde bulunduğu ima edilir, ancak odak işlevseldir).",
+    "distinctive_mechanism_or_principle": "Dışsal varlıkların bilişsel süreçlerde etkin bir nedensel rol oynadığı ve işlevsel olarak bütünleşmiş bir ‘eşleşmiş dizge’ oluşturduğu Etkin Dışsalcılık.",
+    "dynamics_of_emergence": "Dinamik Süreç. Zihinler, beyin, beden ve toplumsal/maddi dünyanın ‘renkli akışından’ ‘şaşırtıcı ölçüde kesintisiz bütünler’ olarak belirir.",
+    "location_and_distribution": "Dağılmış/Genişlemiş. Bilişsel süreçler, kafatasıyla sınırlı beynin ötesine yayılır ve çevreyi ile dışsal araçları kapsar.",
+    "causation_and_functional_role": "Eşleşmiş dizgedeki bileşenler etkin bir nedensel rol oynar ve davranışı ortaklaşa yönetir; bu, zihnin dünyayla uyarlanabilir etkileşimi kolaylaştırmasına olanak tanır.",
+    "integration_or_binding": "Bütünleşme, organizma ile dışsal varlık arasındaki etkin çift yönlü etkileşim yoluyla gerçekleşir ve kesintisiz, bütünleşik bir bilişsel bütün oluşturur.",
+    "information_flow_or_representation": "Bilgi işleme, çevrenin bilişsel süreçleri yönlendirmedeki katılımcı rolünü içerecek biçimde genişletilmiş temsillere dayanır.",
+    "evolutionary_account": "Kuram, beynin öngörücü yetilerinin dışsal gerçekliklere farkındalık ve uyum yoluyla kolaylaştırıldığı bir evrimsel çerçeveyle bağdaşır; bu da bilişsel genişlemenin uyarlanabilir bir rolüne işaret eder.",
+    "core_claims_and_evidence": [
+      "Bilişsel süreçler, beyin sınırının ötesine geçerek dışsal varlıkları kapsar.",
+      "Eşleşmiş dizge, tüm bileşenlerinin etkin bir nedensel rol oynadığı, kendi başına bir bilişsel dizge olarak işler.",
+      "Dışsal bileşenin çıkarılması, dizgenin davranışsal yetkinliğini bozar."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi, Kavramsal Argüman (İşlevselci)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal Olarak Sınanabilir/Koşullu",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kuram, zihnin tam konumu ve sınırı konusunda felsefi bir gerilimle karşı karşıyadır ve içsel, biyolojik ve sinirsel süreçlerin geleneksel önceliğine meydan okur.",
+    "open_questions_and_limitations": "Kuram büyük ölçüde bilişsel süreçlere odaklanır ve fenomenal bilincin kendisinin eşleşmiş dizge boyunca nasıl genişlediği ya da deneyimlendiği sorusunu açık bırakır.",
+    "ontological_coherence": "Yüksek Ölçüde Tutarlı. Kuram, biliş için gerekli olan zemini kafatasının ötesine yeniden tanımlayarak tutarlı bir materyalist/işlevselci açıklama sunar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Kuram, hesaplamalı işlevselcilikle uyumludur; bilişsel süreçlerin ve işlevsel ilişkilerin yapay olarak gerçekleştirilebilmesi hâlinde zihnin bilişsel protezlere yayılabileceğini ve böylece yapay zeka bilincini olanaklı kıldığını öne sürer."
+    },
+    "survival_beyond_death": {
+      "stance": "Koşullu",
+      "rationale": "Materyalizme dayansa da (ki bu genellikle hayatta kalmayı yadsır), özsel benlik biyolojik zemininden bağımsız olarak sürebilen dağılmış, işlevsel bir örüntüyle tanımlanıyorsa, bu örüntünün varlığını sürdürmesi olanaklı olabilir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bir Materyalizm kuramı olarak, hiçbir kozmik anlam, amaç ya da değer önermez; anlam bunun yerine insan organizması tarafından yaratılır."
+    },
+    "virtual_immortality": {
+      "stance": "Olanaklı",
+      "rationale": "Sanal ölümsüzlük olanaklıdır; çünkü kuram zihni, dışsal ‘bilişsel protezler’ aracılığıyla özünde genişletilebilir işlevsel bir örüntü olarak görür ve biyolojik olmayan bir ortamda çoğaltılması işlevselci temeliyle bağdaşır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Computational functionalism",
+        "relationship": "Etki"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "Bağdaşır"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Extended Mind, Andy Clark and David Chalmers",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Supersizing the Mind: Embodiment, Action, and Cognitive Extension, Andy Clark",
+        "year": 2010
+      }
+    ]
+  }
+}

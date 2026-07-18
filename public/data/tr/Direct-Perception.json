@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Doğrudan Algı Kuramı",
+    "summary": "Bu kuram, algı için gerekli tüm bilginin gözlemciye dışsal olduğunu ve yalnızca uzak uyarıcının özelliklerinden kaynaklandığını öne sürer.\nAlgısal bilinç, içsel çıkarım, bellek ya da temsillerin inşasının yardımı olmaksızın işleyen, dış nesnelere doğrudan ve çözümlenemez bir farkındalık ilişkisidir.",
+    "associated_thinkers": [
+      "Ned Block (as describer of direct realist/naïve realist views)"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Bedenlenmiş ve Edimsel",
+    "core_identity_tagline": "'Uzak Uyarıcının Doğrudan Farkındalığı olarak Algı'",
+    "classification_tags": [
+      "perception",
+      "realism",
+      "non-representational",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Fenomenal bilinç, özellikle algısal karakteri, çevredeki nesnelere ya da özelliklere doğrudan bir farkındalık ilişkisi -muhtemelen ilksel, çözümlenemez bir tanışıklık ilişkisi- olarak tanımlanır.",
+    "ontological_status": "Doğrudan Gerçekçilik / Naif Gerçekçilik (Bir tür Fizikalizm).",
+    "mind_body_relationship": "Fenomenal karakter, bir algısal deneyimin varlığı ve bireyleşmesi doğrudan dış nesneye bağlı olduğu anlamda 'nesne-tarafından-oluşturulur'; bu da aracısız, doğrudan bir kurucu ilişkiyi düşündürür.",
+    "primitive_or_emergent_status": "İlksel (Doğrudan farkındalık ilişkisinin kendisinin ilksel, çözümlenemez bir tanışıklık ilişkisi olduğu ileri sürülür).",
+    "emergence_type": "Uygulanamaz (Temel farkındalık ilişkisi ilksel ve çözümlenemez olarak betimlenir; bu da beliriş kavramını dolaysız bilinçli edimin kendisine uygulanamaz kılar).",
+    "subjectivity_and_intentionality": "Öznel, birinci şahıs deneyim (fenomenal karakter), doğrudan dış nesne tarafından oluşturulur (yönelimsellik). Yönelimsellik böylece temsili-olmayandır; yönelmişliği yalnızca dış nesnenin kendisine dayanarak elde eder.",
+    "qualia_account": "Niteliksel his (fenomenal karakter) nesne tarafından oluşturulur. Bir deneyim farklı bir nesneye ilişkinse, öznel olarak ayırt edilemez olsa bile (örneğin kusursuz bir halüsinasyondan), farklı bir fenomenal karaktere sahiptir.",
+    "ontological_commitments": "Uzak uyarıcı (çevredeki dış nesneler ve özellikler) ve ilksel, çözümlenemez bir tanışıklık ilişkisi (doğrudan farkındalık).",
+    "epistemic_access": "Dünyanın bilgisine, aracı zihinsel durumların içsel temsili ya da içe bakışı yoluyla değil, doğrudan algı aracılığıyla erişilir.",
+    "constituents_and_structure": "Bilinç yalnızca uzak uyarıcının özellikleriyle yapılanır. Temel yapı taşı, tuhaf varlığa (bir duyu verisi gibi) ya da çevredeki nesnelere/özelliklere doğrudan 'tanışıklık ilişkisi'dir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç (özellikle algısal bilinç).",
+    "distinctive_mechanism_or_principle": "Ara işlemenin yokluğu; bilinç, içsel bilişsel süreçlerin (çıkarım, bellek, temsil inşası) yardımı olmaksızın dış bilginin doğrudan saptanmasından doğar.",
+    "dynamics_of_emergence": "Kuram, bu ilişkinin nasıl doğduğunu ya da zaman içinde nasıl değiştiğini betimleyen dinamik bir süreçten çok, dolaysız farkındalık ilişkisinin ilksel doğasına odaklanır.",
+    "location_and_distribution": "Algı için gerekli bilgi gözlemciye dışsaldır (beyne/bedene dışsal olup uzak uyarıcıda bulunur). Ancak bilinçli fenomenal deneyim gözlemcide örneklenir.",
+    "causation_and_functional_role": "Birincil işlevsel rol, gözlemcinin, temsil inşa edebilecek geleneksel bilişsel süreçleri atlayarak, yalnızca uzak uyarıcıya dayanarak bir nesneyi doğru biçimde algılamasını olanaklı kılmaktır.",
+    "integration_or_binding": "Belirtilmemiş. Fenomenal ayrımların bütünleşmesinin, hesaplamalı ya da bilgisel bir bağlama süreci değil, nesnenin kendisine ilksel, çözümlenemez tanışıklık ilişkisinin bir özelliği olduğu varsayılır.",
+    "information_flow_or_representation": "Bilgi, dış dünyadan (uzak uyarıcı) gözlemcinin algısına doğrudan akar; zihinsel temsillerin içsel inşasının gerekliliğini reddeder.",
+    "evolutionary_account": "Sunulan kaynaklarda açıkça ele alınmamıştır. (Ekolojik psikoloji varyantı, Gibson'ın kuramı, organizma ile çevre arasında evrimsel bir uyum ima eder, ancak DPT'nin kendisi temsili-olmayan mekanizmaya odaklanır).",
+    "core_claims_and_evidence": [
+      "Algı, çıkarımın ya da belleğin yardımı olmaksızın yalnızca uzak uyarıcının özelliklerine dayanır.",
+      "Deneyimin fenomenal karakteri nesne tarafından oluşturulur; nesnedeki bir değişim fenomenal karakterde bir değişimi zorunlu kılar.",
+      "Farkındalık ilişkisi, temsil meselesi olmayan, ilksel, çözümlenemez bir tanışıklık ilişkisidir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi ve Kavramsal (Naif Gerçekçiliğin temsili kuramlara karşı savunusu; doğru algı ile öznel olarak ayırt edilemez halüsinasyonu ayırt eden düşünce deneylerine dayanır)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir (düşünce deneyleri yoluyla). Bilişsel işlemeden ayrı, salt 'çözümlenemez ilksel tanışıklık ilişkisini' yalıtmaya yönelik ampirik sınama güçtür.",
+    "known_empirical_interventions_or_tests": "Kaynakta açıkça listelenen bir şey yoktur; kaynak, gerçek algının fenomenal karakterini öznel olarak ayırt edilemez halüsinasyonla karşılaştırmak gibi kuramın kavramsal çıkarımlarına odaklanır.",
+    "criticisms_and_tensions": "Başlıca gerilim, öznel olarak ayırt edilemez deneyimlerin (örneğin gerçek bir domates görmek ile ona özdeş bir domates halüsinasyonu görmek), fenomenal deneyim dış nesnenin varlığına bağlı olduğu için zorunlu olarak farklı fenomenal karakterlere sahip olması gerektiği imasıdır.",
+    "open_questions_and_limitations": "'İlksel, çözümlenemez tanışıklık ilişkisinin' kesin doğası tanımsız kalır. Kuramın, gerçek nesneler ile öznel olarak ayırt edilemez yanıltıcı ya da halüsinatif deneyimler arasındaki fenomenal karakter farkını açıklaması gerekir.",
+    "ontological_coherence": "İçsel fenomenal özelliklerin aracılığını reddeden katı bir fizikalist/gerçekçi ontoloji içinde tutarlıdır, ancak nesne tarafından oluşturulma doğasının çöktüğü halüsinasyonlar gibi fenomenolojik olgularla sınanır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Belirsiz",
+      "rationale": "İlksel tanışıklık ilişkisi, uzak uyarıcılara doğrudan bağlanmak için gerekli belirli biyolojik yapılara temelden bağlıysa, yapay zeka bilinci imkânsız olabilir. Kuram fizikalist/materyalist olduğundan, altta yatan doğrudan mekanizma yeniden üretilebilirse yapay zeka bilinci mümkündür."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Kuram, deneyimin dış fiziksel çevreye (uzak uyarıcı) bağımlılığını vurgular ve Materyalizm altında sınıflandırılır; bu da bilincin fiziksel organizmaya ve çevresine bağlı olduğunu düşündürür."
+    },
+    "meaning_and_purpose": {
+      "stance": "Koşullu",
+      "rationale": "Kuram öncelikle algının mekaniğiyle ilgilenir, nihai gerçeklik ya da varoluşla değil. Bir Materyalist kuram olarak, kendimizin yarattığı hümanistik anlam, amaç ve değere varsayılan olarak yönelir."
+    },
+    "virtual_immortality": {
+      "stance": "Belirsiz",
+      "rationale": "Sanal ölümsüzlük, bilincin kusursuz çoğaltılmasını gerektirir. Fenomenal karakter nesne tarafından oluşturulduğundan, sanal bir benlik, gerçek fiziksel çevreye gerçek bir 'doğrudan farkındalık ilişkisinden' yoksunsa özgün fenomenal karakterini koruyamayabilir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Naïve Realist Theories",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Örtüşme (temsil karşıtı duruşu paylaşır)"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "Eleştiri (temsil aracılığını reddeder)"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Eleştiri (fenomenal karakter işlevsel role değil nesne oluşumuna dayandığından, örtük)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Direct Perception Theory",
+        "year": "APA website"
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking, N. Block",
+        "year": "2023"
+      }
+    ]
+  }
+}

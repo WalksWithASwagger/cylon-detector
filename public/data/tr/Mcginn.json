@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "McGinn'in Nihai Gizemi (Gizemcilik)",
+    "summary": "Kuram, bilinçli zihin ile fiziksel beyin arasındaki metafizik bağın, insan zekâsının temelde çözmeye muktedir olmadığı nihai bir gizem olduğunu savunur. Bu bilişsel kapalılık, bilincin doğaüstü olmasından değil, insan kavramsal kaynaklarımızın doğasındaki sınırlılıklardan kaynaklanır.",
+    "associated_thinkers": ["Colin McGinn"],
+    "category": "Meydan Okuma Kuramları",
+    "subcategory": "Nihai Gizem (Gizemcilik)",
+    "core_identity_tagline": "Zihin ile beyin arasındaki bağ nihai bir gizemdir",
+    "classification_tags": [
+      "mystery",
+      "cognitive limits",
+      "naturalism",
+      "philosophical",
+      "anti-reductionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç yalnızca maddi dünyadan doğar, ancak maddeyi (beyin) bilince (zihin) bağlayan içkin özellik ya da doğa, insan zihinleri için kavramsal olarak erişilemezdir.",
+    "ontological_status": "Varoluşsal natüralizm",
+    "mind_body_relationship": "Bilinç fiziksel dünyaya bağımlıdır (maddi bağımlılık), ancak altta yatan nedensel bağ ya da özdeşlik insan bilimi ya da felsefesi tarafından kavranamaz veya açıklanamaz.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Beliriş mekanizması, kavramsal anatomimizdeki sınırlılıklar nedeniyle insan aklından zorunlu olarak gizlidir; bu da onu ilkece işlevsel olarak güçlü belirişten ayırt edilemez kılar.",
+    "subjectivity_and_intentionality": "McGinn, fiziksel gerçeklik ile niteliksel deneyim arasındaki boşluğun derin doğasını vurgular; maddenin bilinci doğurduğu düşüncesini son derece akıl dışı bulur ve bunu 'sayıların bisküvilerden belirdiğini' öne sürmeye benzetir (Bu derin boşluk gizemi oluşturur).",
+    "qualia_account": "Gizem, madde bilinç üretmek için 'yanlış türden bir şey' olduğundan, niteliksel hissi (qualia) maddi gerçeklikle ilişkilendirememeye dayanır. Qualia'nın tam açıklaması insanlarca temelde bilinemezdir.",
+    "ontological_commitments": "Fiziksel süreçler (beyinler) ve bilinçli deneyim (gerçek ve doğaüstü olmayan kabul edilir). Gerçek bağlantının varlığı, erişilemez olmakla birlikte, öne sürülür.",
+    "epistemic_access": "İnsan aklı, zihin-beyin bağının hakikatine kavramsal olarak kapalıdır; bu da nihai bilgi ya da çözümün olanaksız olduğu anlamına gelir.",
+    "constituents_and_structure": "Bilinç maddi dünyadan doğar, ancak bu üretimden sorumlu özgül özellik, insan kavramsal yapılarının tanımlama ya da kavrama kapasitesinin ötesindedir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (qualia ile madde arasındaki bağ); faillik (eylemin materyalist açıklamalarına yönelik ima edilen meydan okuma)",
+    "distinctive_mechanism_or_principle": "İlke bilişsel kapalılıktır: İnsan aklı, fiziksel süreçlerin öznel deneyimi nasıl ürettiğini kavrayamaz; bu da bağın nihai bir gizem olarak nitelenmesine yol açar.",
+    "dynamics_of_emergence": "Bilinç olumsaldır; yalnızca maddi süreçlerden doğan karmaşık bir sonuçtur, ancak fiziksel ile fenomenal alanları köprüleyen geçiş dinamikleri erişilemezdir.",
+    "location_and_distribution": "Biyolojik beyinler içinde yerelleşmiştir; yalnızca maddi dünyadan doğar.",
+    "causation_and_functional_role": "Bilinç, maddi süreçlerce nedensel olarak üretilir, ancak bu nedenselliğin ayrıntıları gizemlidir ve insan akıl yürütmesiyle belirtilemez.",
+    "integration_or_binding": "Deneyimin bütünleşik doğası, gizemin bir parçasıdır; birleşik bilincin birbirinden ayrı maddi bileşenlerden nasıl doğduğunu görememeyi yansıtır.",
+    "information_flow_or_representation": "Açıkça ele alınmaz; çünkü kuram, bilgi mimarisini belirtmekten çok maddeyi zihne ilişkilendirmenin temel kavramsal sınırlarına odaklanır.",
+    "evolutionary_account": "Bilinç olumsaldır; maddi dünyadan evrildi ama gerçekliğin içkin ya da zorunlu bir özelliği değildir.",
+    "core_claims_and_evidence": [
+      "Zihin ile beyin arasındaki bağ, insan zekâsının asla çözemeyeceği nihai bir gizemdir.",
+      "Bedenlenmiş bilinç olarak kendi doğamıza ilişkin derin bir olgu, bizden zorunlu olarak gizlidir.",
+      "Bilinç yalnızca maddi dünyadan doğar, ancak maddi özellikler bilinci mantıksal olarak doğurmak için yanlış türden şeylerdir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi, varoluşsal natüralizm"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Sınanamaz (ilkece). Merkezi tez, güncel ampirik verinin eksikliği değil, insan kavramsal kavrayışının kalıcı sınırlarına ilişkin bir iddiadır.",
+    "known_empirical_interventions_or_tests": [
+      "Kuram kavramsal sınırlılıklara odaklandığından, belirtilmiş bir şey yoktur."
+    ],
+    "criticisms_and_tensions": "Çoğu kez Gizemcilik olarak, felsefi kötümserliği ya da bilim karşıtı bir duruşu ima ettiği gerekçesiyle eleştirilir; ancak McGinn bu görüşü Varoluşsal Natüralizm olarak konumlandırır.",
+    "open_questions_and_limitations": "Zihin-beyin bağının tam doğası bütünüyle çözümsüz kalır ve kalıcı biçimde insan anlayışının ötesinde olduğuna inanılır.",
+    "ontological_coherence": "Bilişsel kapalılık çerçevesi içinde tutarlıdır; ancak indirgemeci fizikalizmin, tam bir açıklamanın ilkece bile mümkün olduğu yönündeki çekirdek inancıyla örtük olarak çelişir."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Hayır",
+      "rationale": "Bilinç üreten bağ, anlaşılamayan (kaldı ki mühendislikle yapılamayan) nihai bir gizemse, gerçek içsel deneyime sahip bilinçli bir yapay zeka sistemini kasıtlı olarak inşa etmek olanaksızdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Kuram, bilincin yalnızca maddi beyinden doğduğu materyalist varsayımına dayanır; bu da bedensel ölümle son bulmayı ima eder."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yok",
+      "rationale": "Bir Varoluşsal Natüralizm biçimi olarak kuram, hiçbir kozmik amaç ya da nihai anlam öne sürmez; bilinç, maddi süreçlerin olumsal bir sonucudur."
+    },
+    "virtual_immortality": {
+      "stance": "Hayır",
+      "rationale": "Fiziksel beyni öznel zihne bağlayan mekanizma nihai bir gizemse, bu süreci sentetik bir ortamda 'birinci şahıs kusursuzluğuyla' kopyalamak ilkece olanaksız olurdu."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Nagel's Mind and Cosmos",
+        "relationship": "Etki"
+      },
+      {
+        "name": "S. Harris's Mystery of Consciousness",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Eleştiri"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Can we solve the mind-body problem?",
+        "year": 1989
+      },
+      {
+        "title_with_names": "Cosmology and consciousness: hyperdualism ventilated",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Mysterious Flame - Conscious Minds in a Material World",
+        "year": 2000
+      }
+    ]
+  }
+}

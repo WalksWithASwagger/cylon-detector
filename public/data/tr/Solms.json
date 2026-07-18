@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Solms’un Bilincin Gizli Kaynağı Olarak Duygulanım Kuramı",
+    "summary": "Bu kuram, bilincin temel biçimini duygulanım (his) olarak tanımlar ve fizyolojik mekanizmasını, homeostazın genişlemiş bir biçimi olarak işlev gören üst beyin sapına konumlandırır. Friston’ın serbest enerji ilkesini uygular; duygulanımsal deneyimin (haz/hazsızlık), karmaşık organizmaların çevresel belirsizliği izlemek ve hayatta kalma davranışını en iyilemek için kullandığı verimli mekanizma olduğunu savunur.",
+    "associated_thinkers": ["Mark Solms"],
+    "category": "Materyalizm",
+    "subcategory": "Homeostatik ve Duygulanımsal",
+    "core_identity_tagline": "Bilincin Temel Biçimi Olarak Duygulanım",
+    "classification_tags": [
+      "affect",
+      "homeostasis",
+      "free energy principle",
+      "brainstem",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, duyarlı öznellik biçimindeki temel halinde, serbest enerji en aza indirimini işlevselleştiren duygulanımdan (hislerden) oluşur (beklenmedik belirsizlik hazsızlık olarak hissedilirken, azalmalar haz olarak hissedilir).",
+    "ontological_status": "İki Yönlü Monizm (Fizikalist bir çerçeve içinde yorumlanan). Bu model, fizyolojik ve psikolojik fenomenleri, birleşik fiziksel nedenlere indirgenebilen tek bir altta yatan sürecin ikili tezahürleri olarak görür; biyolojik mekanizmalara pratik uygulamasında Materyalizmle uyumlanır.",
+    "mind_body_relationship": "İki yönlü; fizyolojik ve psikolojik fenomenler, birinin diğerine neden olmasından ziyade, tek bir altta yatan birleşik sürecin (elektrik boşalımı benzeşimi) tamamlayıcı tezahürleridir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş (Gerekçe: Bilincin işlevsel mekanizmasının serbest enerji yasası gibi fiziksel yasalara indirgenebilir olduğu iddia edilir; bu da bilinç yeni görünse bile ilkesel olarak temel fizikle açıklanabilir olduğunu düşündürür.)",
+    "subjectivity_and_intentionality": "Duyarlı öznellik tam anlamıyla duygulanımdan oluşur; bu, organizmanın entropiye etkin biçimde direnmesine olanak tanır. Yönelimsellik doğar; çünkü kendini örgütleyen sistemler, eylemlerini belirlemek için serbest enerjileri (varoluşsal ihtiyaçları) hakkında sürekli 'sorular sormalıdır'.",
+    "qualia_account": "Qualia, karmaşık organizmaların çoklu ihtiyaçlarını verimli biçimde kodlayan, hayatta kalma en iyilemesi için hesaplamalı olarak karmaşık bir 'birleşimsel patlamadan' kaçınan 'renk kodlu' ya da 'tatlandırılmış' kategorik değişkenler (duygulanımlar, örneğin susuzluk ile korku) olarak açıklanır.",
+    "ontological_commitments": "Fiziksel yasalar (serbest enerji yasası gibi), fizyolojik süreçler (genişlemiş homeostaz) ve üst beyin sapının/retiküler aktive edici sistemin belirli yapıları.",
+    "epistemic_access": "Karşılık gelen nörofizyolojik olayların araştırılması (üçüncü şahıs) ve birinci şahıs duygulanımsal deneyimin kuşku götürmez gerçekliği yoluyla erişilebilir.",
+    "constituents_and_structure": "Asli yapı, üst beyin sapında gerçekleşen genişlemiş homeostatik mekanizmadır; burada kortikal bilinç, bu temel beyin sapı bilincine bağlıdır."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (duygulanımsal/duyarlı öznellik); Faillik; Hayatta Kalma En İyilemesi.",
+    "distinctive_mechanism_or_principle": "Serbest Enerji İlkesinin (FEP), organizmanın davranışını kararlılığa doğru yönlendiren, üst beyin sapındaki duygulanımsal durumlar (haz/hazsızlık) olarak işlevselleştirilmesi.",
+    "dynamics_of_emergence": "Bilinç, kendini örgütleyen sistemlerin varoluşsal ihtiyaçlarını izleme ve beklenen belirsizliği en aza indirmek için öngörücü eylemler üretme zorunluluğundan doğan dinamik bir süreçtir.",
+    "location_and_distribution": "Temel mekanizma üst beyin sapında/retiküler aktive edici sistemde konumlanmıştır. Kortikal bilinç (içerik), bu beyin sapı duygulanımsal bilinci (düzey) tarafından olanaklı kılınır ve ona bağlıdır.",
+    "causation_and_functional_role": "Duygulanım, çevresel etkileşimleri izlemek, davranışı değiştirmek ve öngörülemeyen bağlamlarda hayatta kalmayı en iyilemek için son derece verimli bir algoritma olarak işlev görerek can alıcı bir nedensel rol oynar.",
+    "integration_or_binding": "Çatışan biyolojik ihtiyaçların (örneğin korku ile uykululuk) bütünleştirilmesi, bunları ayrı, nitel duygulanımlar (qualia/tatlar) olarak kodlayarak verimli biçimde sağlanır; bu da aşırı hesaplama olmadan bağlama bağlı çözümü olanaklı kılar.",
+    "information_flow_or_representation": "Bilinç, varoluşsal ihtiyaçlar bakımından dünyayla etkin biçimde ilişki kurması gereken bilgi işleme sistemleriyle ilişkilidir; duygulanım, beklenen belirsizlikteki (bilgideki) değişimleri izlemeyle ilişkili histir.",
+    "evolutionary_account": "Duygulanım biçimindeki bilinç, karmaşık organizmaların öngörülemeyen çevrelerle başa çıkmasını ve hayatta kalma için çoklu, bağlama bağlı ihtiyaçları yönetmesini olanaklı kılan en verimli mekanizma (algoritma) olarak evrildi.",
+    "core_claims_and_evidence": [
+      "Duygulanım, üst beyin sapında kaynaklanan, bilincin temel biçimidir.",
+      "Çekirdek mekanizma Friston’ın serbest enerji yasasına indirgenir; bu da bilinci matematiksel olarak ele alınabilir kılar.",
+      "Bilinç doğanın bir parçasıdır ve entropiye etkin dirençten doğar.",
+      "Üst beyin sapının hasarı bilinci güvenilir biçimde yok eder; bu da onun temel rolünü destekler."
+    ],
+    "basis_of_belief_or_evidence_type": "Nörobiyolojik, Fenomenolojik, Hesaplamalı (FEP)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir (özellikle beyin sapının rolü ve duygulanımın doğası bakımından).",
+    "known_empirical_interventions_or_tests": [
+      "Bilinç kaybını retiküler aktive edici sistemdeki (üst beyin sapı) hasarla bağıntılandırma.",
+      "Öznel haz/hazsızlıkla bağıntılı FEP parametrelerinin ampirik incelenmesi."
+    ],
+    "criticisms_and_tensions": "Kuram, beyin sapının yalnızca bilincin *düzeyini* (uyanık/komada) düzenlediği, *nitel içeriğini* düzenlemediği geleneksel görüşe karşı ikna edici biçimde savunmalıdır. İki yönlü monizm olarak kendini betimlemesi, fizyolojik mekanizmalara dayalı bir Materyalizm Kuramı olarak sınıflandırılması göz önüne alındığında felsefi olarak incedir.",
+    "open_questions_and_limitations": "Entropiye etkin direncin, işlevsel zorunluluğunu iddia etmenin ötesinde, organizmaya nasıl 'bir şey gibi hissettirdiğini' açıklayan kesin mekanizma, daha fazla açıklama gerektiren bir alan olarak kalır.",
+    "ontological_coherence": "Yüksek tutarlılık. Çerçeve, öznel deneyimi fiziksel yasalarca (FEP) yönetilen, matematiksel olarak ele alınabilir, doğalcı bir sisteme başarıyla yerleştirir; zihnin fiziksel olarak temellendirilmiş bir anlayışını korur."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Kuram doğruysa, sistem entropiye etkin biçimde direnecek ve varoluşsal ihtiyaçları yönetecek, geri bildirim olarak duygulanımsal durumlar üretecek biçimde tasarlandığı sürece yapay olarak bilinçli, kendini örgütleyen bir sistem mühendislikle yapılabilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bir Materyalizm Kuramı olarak bilinç, tümüyle biyolojik beyne ve onun fiziksel süreçlerine bağımlıdır; bu da organizmanın ölümüyle kalıcı yokluğu ima eder."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hümanist/Biyolojik",
+      "rationale": "Bilincin çekirdeği, hayatta kalmaya yönelik biyolojik zorunlulukta (yok oluştan kaçınma ve serbest enerjiyi en aza indirme) kökleşmiştir; bu, biyolojik ve hümanist olarak kurulmuş anlamı destekler, ancak nihai bir kozmik amaç sunmaz."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bir Materyalizm Kuramı olarak, karmaşık fiziksel mekanizmalar (duygulanımsal ve homeostatik dinamikler dahil) sentetik bir taşıyıcıda kapsamlı biçimde çoğaltılabildiği sürece birinci şahıs zihinsel benlik ilkesel olarak yüklenebilirdir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Etki/Genişletme"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Eleştiri/Karşıtlık"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The hard problem of consciousness and the free energy principle",
+        "year": 2018
+      },
+      {
+        "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Précis of the hidden spring: a journey to the source of consciousness",
+        "year": 2021
+      }
+    ]
+  }
+}

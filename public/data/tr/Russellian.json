@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Russellcı Monizm",
+    "summary": "Russellcı Monizm, fiziğin yalnızca yapı ve ilişkiler açısından betimlediği fiziksel dünyanın, fenomenal ya da proto-fenomenal olan içkin bir doğaya (özsel nitelikler) sahip olduğunu öne sürer. Bu yaklaşım, bilinci temel gerçekliğe bütünleştirirken düalizmin ve indirgemeci materyalizmin geleneksel sorunlarından kaçınır.",
+    "associated_thinkers": [
+      "Bertrand Russell",
+      "Torin Alter",
+      "Yujin Nagasawa",
+      "David Chalmers",
+      "Philip Goff",
+      "Daniel Stoljar"
+    ],
+    "category": "Monizmler",
+    "subcategory": "Felsefi Monizm",
+    "core_identity_tagline": "Fenomenal özellikler, temel maddenin içkin doğasıdır",
+    "classification_tags": [
+      "monism",
+      "panprotopsychism",
+      "physicalism",
+      "quidditism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç (ya da proto-bilinç), fiziğin betimlediği fiziksel gerçekliğin ilişkisel yapısının altında yatan içkin, kategorik doğa ya da özelliktir ('özsel nitelikler' ya da 'kavranamazlar').",
+    "ontological_status": "Nötr Monizm ya da Fiziksel Monizm ya da Fenomenal Monizm (varyanta bağlı); temelde Monist.",
+    "mind_body_relationship": "Zihin ve fiziksel dünya derinden iç içe geçmiştir; zihinsel özellikler temel fiziksel varlıkların içkin doğasını (fiziksel eğilimlerin kategorik temellerini) oluşturur.",
+    "primitive_or_emergent_status": "İlksel (gerçekliğin temel düzeyinde, mikro-varlıkların fenomenal ya da proto-fenomenal özellikleri olarak).",
+    "emergence_type": "Uygulanamaz (özellikler ilksel/içkindir). Bilincin makroskobik toplanması bazen beliriş olarak değil, bir birleşme problemi olarak nitelenir.",
+    "subjectivity_and_intentionality": "Öznellik içkindir; çünkü temel fiziksel varlıklar fenomenal özelliklerle donanmıştır. Yönelimselliğin ayrıntılı bir açıklaması bu kuramın kaynak malzemesinde açıkça ele alınmaz.",
+    "qualia_account": "Qualia, temel maddenin içkin doğasını oluşturan fenomenal özelliklere (ya da onların öncüllerine) karşılık gelir.",
+    "ontological_commitments": "Fenomenal ya da proto-fenomenal olan kategorik/içkin özelliklerle (özsel nitelikler/kavranamazlar) örneklenmiş temel fiziksel varlıklar (örneğin elektronlar, kuarklar).",
+    "epistemic_access": "Ampirik bilim yalnızca gerçekliğin ilişkisel yapısına erişir; ancak içkin doğa (fenomenal/proto-fenomenal özsel nitelikler) fiziğe erişilemez ve felsefi spekülasyon yoluyla erişilir.",
+    "constituents_and_structure": "Fizik, uzay-zamansal/ilişkisel yapıyı ve dinamikleri betimler; fenomenal ya da proto-fenomenal özsel nitelikler bu yapının altında yatar. Mikro düzeyde ya da kozmik (öncelik monizmi) olabilir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal özellikler ve nihai gerçekliğin içkin doğası.",
+    "distinctive_mechanism_or_principle": "Temel ilke, maddenin gözlemlenmemiş, içkin kategorik özelliklerinin ('özsel nitelikler') fenomenal olması ve böylece bilinci, ilişkilerin fiziksel ontolojisini genişletmeksizin temel gerçeklikte temellendirmesidir.",
+    "dynamics_of_emergence": "Bilinç, temel fenomenal/proto-fenomenal özelliklerin birleşmesi yoluyla ortaya çıkar. Süreç, mikro-özelliklerin karmaşık makro-deneyimleri nasıl doğurduğuna dair 'birleşme problemini' çözmeye dayanır.",
+    "location_and_distribution": "Temel mikro düzey fiziksel varlıkların içkin özelliklerinde konumlanır ya da olası olarak evren tarafından bir bütün olarak örneklenir (öncelik monizmi).",
+    "causation_and_functional_role": "Bilinci fiziksel dünyanın temel özelliklerine yerleştirerek düalizmin nedensel dışlama probleminden kaçınır; bu da bilincin fiziksel gerçekliğin kendisinin altında yattığı anlamına gelir.",
+    "integration_or_binding": "Bütünleşme, mikrofiziksel fenomenal özellikleri karmaşık, birleşik makro-deneyimlere birleştiren bir mekanizma aracılığıyla gerçekleşmelidir ('birleşme problemi').",
+    "information_flow_or_representation": "Bilgi akışı mekanizmalarını ayrıntılandırmaktan ziyade öncelikle fiziksel ilişkilerin/yapının altında yatan içkin doğaya (özsel nitelik) odaklanır.",
+    "evolutionary_account": "Kuram, bilincin proto-fenomenal özelliklerden, özellikle bilinç geliştiren sistemlerde evrildiği varyantlara izin verir.",
+    "core_claims_and_evidence": [
+      "Fizik yalnızca gerçekliğin ilişkisel yapısını betimler.",
+      "Temel maddenin içkin doğası (özsel nitelikler) ampirik bilime erişilemez.",
+      "Bu içkin özellikler fenomenal ya da proto-fenomenaldir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi, Kavramsal"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekülatif/Kavramsal. İçkin özelliklere ilişkin temel iddiaları genellikle ampirik erişimin ya da matematiksel modellemenin ötesindedir.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Başlıca güçlük, birleşme problemidir ve kritiktir: mikrofiziksel özelliklerin karmaşık, bütünleşik makro düzey bilinci oluşturmak üzere nasıl birleştiğini açıklamak. Panprotopsişizm varsayılırsa, bilinci (qualia) proto-fenomenal özelliklerden türetme problemiyle karşılaşır.",
+    "open_questions_and_limitations": "Kuramın zihin-beden problemine en umut verici çözüm olabilmesi için birleşme probleminin başarıyla çözülmesi gereklidir. 'Kavranamazlar'ın belirli doğası, büyük bir iç tartışma olarak kalır (Fenomenal, Protofenomenal, Fiziksel ya da Nötr).",
+    "ontological_coherence": "Bilinci temel gerçekliğe bütünleştirdiği ve düalizmin karşılaştığı etkileşim problemini fiilen çözdüğü için metafiziksel olarak son derece tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemelen",
+      "rationale": "Bilinç maddeye/enerjiye içkinse ve birleşme problemi teknolojik olarak dizginlenebilirse, fiziksel taşıyıcılardan inşa edilmiş yapay sistemler bilince ulaşmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Koşullu",
+      "rationale": "Birleşme mekanizması korunmadıkça ya da kuram kozmik bir monist görüşle uyumlanmadıkça, bireysel bilinçli bütün için hayatta kalma olası değildir; çünkü bireysel bilinç (makroskobik birleşme) büyük olasılıkla biyolojik ölümle çözülür."
+    },
+    "meaning_and_purpose": {
+      "stance": "Olasılıkla",
+      "rationale": "Monizmler genellikle nihai anlam/amaç/değere izin verir. RM, evrilen bilinçle birlikte bir öncelik monisti biçim alırsa, kozmik amaç ima edilebilir."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemelen",
+      "rationale": "Tek maddeli bir gerçeklik, ileri teknolojinin makroskobik bilinçli bütünü dijital olarak doğru biçimde yeniden üretmek için mikropsişik özellikleri işleyip dizginleyebilmesi koşuluyla sanal ölümsüzlüğe olanak tanımalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Panprotopsychism",
+        "relationship": "Varyant"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Materialism/Physicalism",
+        "relationship": "Sentez"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is Russellian Monism?, T. Alter and Y. Nagasawa",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Russellian Monism, T. Alter and D. Pereboom",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2016
+      }
+    ]
+  }
+}

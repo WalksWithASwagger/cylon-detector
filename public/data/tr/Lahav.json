@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "Lahav'ın görelilikçi kuramı",
+    "summary": "Bu kuram, bilinci bir 'bilişsel gönderme çerçevesi' tarafından gerçekleştirilen ölçümlere göreli olan fiziksel bir fenomen olarak niteler. Fizikteki hıza benzer biçimde, farklı bilişsel çerçevelerde işleyen farklı gözlemciler, aynı fenomeni gözlemlerken farklı fiziksel özellikler (kişinin kendisi için bilinçli farkındalık, bir başkası için ölçülen beyin etkinliği) sergileyecektir.",
+    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "category": "Materyalizm",
+    "subcategory": "İlişkisel",
+    "core_identity_tagline": "Bir bilişsel gönderme çerçevesine göreli fiziksel bir fenomen olarak bilinç",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinçli deneyimler, bir 'bilişsel gönderme çerçevesine' göreli fiziksel ölçüm süreci nedeniyle doğan deneyimler olarak tanımlanır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "İlişki görelilikçidir: aynı altta yatan fenomen, ölçüm bağlamına bağlı olarak (içsel çerçeveden) bilinçli farkındalık ya da (dışsal çerçeveden) beyin etkinliği olarak tezahür eder. Bu, çerçeveye bağlı bir özdeşliği ya da bağıntıyı düşündürür.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Açıkça ayrıntılandırılmamıştır, ancak olasılıkla Zayıf Beliriştir; zira bilincin varlığı için yeni temel yasalar varsaymaktan ziyade yerleşik (ya da benzeşik) fiziksel ilkelere (görelilik, ölçüm) dayanır.",
+    "subjectivity_and_intentionality": "Öznellik, 'bilişsel gönderme çerçevesi' tanımına içkindir; farklı bilişsel çerçevelerde bulunan iki kişi bilinci farklı deneyimler. Yönelimsellik (düşüncenin yönelmişliği), sunulan kaynaklarda açıkça ele alınmaz.",
+    "qualia_account": "Qualia, örtük olarak belirli bir bilişsel gönderme çerçevesi içinde tezahür eden öznel fiziksel özellikler olarak açıklanır, ancak deneyimin kendisinin içkin niteliksel doğası ayrıntılandırılmaz.",
+    "ontological_commitments": "Fiziksel gerçeklik, fiziksel ölçüm süreçleri ve görelilikçi fizikten benzeşimle türetilmiş bir 'bilişsel gönderme çerçevesi'.",
+    "epistemic_access": "Erişim çerçeveye bağlıdır: kişinin kendi bilişsel çerçevesinde bilinçli farkındalık deneyimlenir; ayrı bir bilişsel çerçeveden yalnızca beyin etkinliği ölçülebilir.",
+    "constituents_and_structure": "Bilinç, fiziksel ölçüm sürecinin kendisi tarafından yapılandırılır; bu da gönderme çerçevesine bağlı olarak farklı fiziksel özellikler ya da tezahürlerle sonuçlanır."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Bilinçli farkındalık, özelliklerin fiziksel tezahürü.",
+    "distinctive_mechanism_or_principle": "Bilincin, hesaplamalarla yaratılmaktan ziyade bir bilişsel gönderme çerçevesindeki fiziksel ölçüme göreli olması ilkesi.",
+    "dynamics_of_emergence": "Bilinç, fiziksel ölçüm sürecinden dinamik olarak doğar. Farklı gönderme çerçevelerindeki farklı fiziksel ölçümler, bilinçli deneyimin ve beyin etkinliğinin farklı tezahürlerini verir.",
+    "location_and_distribution": "Gözlemcinin 'bilişsel gönderme çerçevesine' göreli olarak yerelleşmiştir.",
+    "causation_and_functional_role": "Bilinçli deneyimler, fiziksel ölçüm sürecinin kendisi 'nedeniyle' doğar. Bilinç, beynin gerçekleştirdiği hesaplama süreçlerinden doğmaz.",
+    "integration_or_binding": "Açıkça ele alınmaz, ancak tek bir bilişsel gönderme çerçevesi içinde birleşik olduğu varsayılır.",
+    "information_flow_or_representation": "Bilgi işlemenin (hesaplamanın) bilinçli deneyimlerin kaynağı *olmadığı* açıkça belirtilir; bilinç, altta yatan fiziksel ölçüm sürecinden doğar.",
+    "evolutionary_account": "Bu alan, sunulan kaynak malzemede ele alınmaz.",
+    "core_claims_and_evidence": [
+      "Bilinç, bir bilişsel gönderme çerçevesinin ölçümlerine göreli fiziksel bir fenomendir.",
+      "Bilinçli deneyimler, fiziksel ölçüm süreci nedeniyle doğar.",
+      "Beyin, bilinçli deneyimleri hesaplamalar yoluyla yaratmaz."
+    ],
+    "basis_of_belief_or_evidence_type": "Fiziğe (göreliliğe) benzeşime dayalı Kavramsal/Kuramsal sav."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir; zira kuram fiziksel fenomenleri ve ölçümü tanımlamayla ilgilenir, ancak ampirik sınama, bilişsel çerçeve benzeşimini test edecek mekanizmalar geliştirmeye dayanır.",
+    "known_empirical_interventions_or_tests": "Kaynaklarda belirli bir ampirik müdahale ya da test listelenmemiştir.",
+    "criticisms_and_tensions": "Kaynak, bir eleştiri bölümü değil, bir betimleme sunar. Olası gerilim, fiziksel göreliliğin (hız gibi) benzeşimini doğrulanabilir, mecazi olmayan bilişsel ya da nörobiyolojik süreçlere çevirmekte yatar.",
+    "open_questions_and_limitations": "'Bilişsel gönderme çerçevesinin' kesin fiziksel ya da sinirsel örneklenmesi ve tanımı açık bir soru olarak kalır.",
+    "ontological_coherence": "Temel fiziksel özelliklerin bir gözlemciye ya da ölçüm sürecine göreli olmasına olanak tanıyan fizikalist bir çerçeve içinde tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Kuram, bilincin hesaplamadan değil fiziksel ölçümden doğduğunu öne sürdüğünden, YZ sistemleri bir bilişsel gönderme çerçevesi oluşturan hesaplamalı olmayan fiziksel ölçüm süreçleri gerektirir; bu da onu, yalın hesaplamanın ötesinde donanım uygulamasına bağlı kılar."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "Bu alan, sunulan kaynak malzemede ele alınmaz."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "Bu alan, sunulan kaynak malzemede ele alınmaz."
+    },
+    "virtual_immortality": {
+      "stance": "Olası değil",
+      "rationale": "Bilinç hesaplamalı olmayan ve fiziksel ölçüm sürecine bağlı olduğundan, standart sanal ölümsüzlük (yazılım/veri yükleme) olası değildir, ancak görelilikçi fiziksel sistemin fiziksel olarak kopyalanması kuramsal olarak mümkün olabilir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories of consciousness",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Computational Theories of Mind",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "Etki"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}

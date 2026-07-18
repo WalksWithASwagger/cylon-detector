@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Zihin-Beyin Özdeşlik Kuramı",
+    "summary": "Bu klasik bilinç felsefesi kuramı, zihinsel durumların, olayların ya da süreçlerin, beyinde gerçekleşen belirli durum, olay ya da süreçlerle katı biçimde özdeş olduğunu ileri sürer. Bilincin tümüyle fiziksel olduğunu öne sürerek materyalizmin örnek modeli olarak işlev görür.",
+    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "category": "Materyalizm",
+    "subcategory": "Felsefi",
+    "core_identity_tagline": "Zihinsel Durumlar Beyin Durumlarıdır",
+    "classification_tags": [
+      "identity",
+      "reductionism",
+      "physicalism",
+      "classical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç (zihinsel durumlar/süreçler), beynin fiziksel durumlarıyla/süreçleriyle sözcük anlamıyla özdeştir. Bu, Sabah Yıldızı ile Akşam Yıldızını Venüs'e benzetmeye benzer biçimde, güçlü anlamda bir özdeşlik iddiasıdır.",
+    "ontological_status": "İndirgemeci fizikalizm/materyalizm",
+    "mind_body_relationship": "Özdeşlik kuramı: Zihinsel olaylar ile fiziksel olaylar aynı şeylerdir, kökten özdeştir; yani 'ikisi' birbirinden ayrılamaz.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf beliriş",
+    "subjectivity_and_intentionality": "Öznellik ve yönelimsellik, belirli fiziksel durumlarla katı biçimde özdeştir. Bu görüş, bir hissin bir fiziksel duruma neden eşlik ettiğini sormanın yanlış yönlendirilmiş olduğunu ima eder; çünkü onlar bir ve aynı şeydir.",
+    "qualia_account": "Qualia (hissedilen deneyim), örneğin ağrı ya da kırmızı görme, beynin belirli fiziksel durumlarıyla, örneğin nosisepsiyona özgü nöronların ateşlenmesiyle sözcük anlamıyla özdeştir.",
+    "ontological_commitments": "Beynin fiziksel durumları ve süreçleri. Kuram, bilincin tümüyle fiziksel olmasına bağlıdır.",
+    "epistemic_access": "Bu özdeşliklerin bilgisi a posteriori ampirik araştırmaya dayanır; hangi fiziksel durumların hangi zihinsel durumlara karşılık geldiğini keşfetmek için bilimi gerektirir.",
+    "constituents_and_structure": "Bilinç, beyinde bulunan, zihinsel durumlarla eşanlamlı olacak biçimde örgütlenmiş belirli fiziksel durumlar ve süreçlerden oluşur."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, erişim",
+    "distinctive_mechanism_or_principle": "Zihinsel türleri (örneğin ağrı) fiziksel türlerle (örneğin C-lifi ateşlenmesi) bağıntılamak için uygulanan titiz özdeşlik ilişkisi ilkesi.",
+    "dynamics_of_emergence": "Bilinç, biyolojik süreçlerin bir sonucudur; özellikle beynin fiziksel dinamikleriyle özdeşleştirilir.",
+    "location_and_distribution": "Tümüyle beyin içinde yerelleşmiştir.",
+    "causation_and_functional_role": "Zihinsel nedensellik örtük olarak çözülür; çünkü zihinsel durumlar, nedensel etkinliğe ve işlevsel rollere sahip fiziksel durumlardır.",
+    "integration_or_binding": "Bütünleşme, özdeş fiziksel beyin durumunun karmaşık örgütlenmesinde gerçekleşir. Felsefi bir iddia olarak, bağlama için ayrı bir nörobiyolojik mekanizma belirtmez.",
+    "information_flow_or_representation": "Zihinsel içerik ya da temsiller, fiziksel yasalara uyarak, onları cisimleştiren fiziksel durumlarla eşdeğerdir.",
+    "evolutionary_account": "Bilinç, biyolojik beyinlerden doğan, evrimleşmiş fiziksel bir üründür.",
+    "core_claims_and_evidence": [
+      "Zihinsel durumlar, beyin durumlarıyla katı biçimde özdeştir.",
+      "Bu özdeşlik, zihinsel olayları (örneğin ağrı) belirli nöronal etkinlikle ilişkilendiren ampirik kanıt yoluyla a posteriori keşfedilir."
+    ],
+    "basis_of_belief_or_evidence_type": "Birikmekte olan bağıntı ampirik kanıtlarıyla desteklenen felsefi çıkarım."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Belirli zihinsel ve fiziksel durumlar arasındaki bağıntıları eşleyerek ilkece ampirik olarak sınanabilir.",
+    "known_empirical_interventions_or_tests": "Ampirik bağıntı kanıtı (örneğin ağrıyı nosisepsiyona özgü nöron ateşlenmesiyle ilişkilendirme).",
+    "criticisms_and_tensions": "İtirazlarca, en dikkat çekici olarak çoklu gerçeklenebilirlikle (aynı zihinsel durum farklı fiziksel mekanizmalarca gerçeklenebilir), özgün biçiminde genel olarak zayıflatılmış sayılır. Temel felsefi meydan okuma, 'açıklama boşluğu' ya da beyin durumlarının neden bir şey gibi hissedildiğidir.",
+    "open_questions_and_limitations": "Kuram, felsefi zombilerin (bilinçten yoksun, fiziksel olarak özdeş yaratıklar) tasarlanabilir olduğu sezgisini çözmekte zorlanır; bu da 'ikisinin' birbirinden ayrılabileceğini ima eder. Hangi tür nöral etkinliğin bilinci oluşturduğunu açıkça ayırt etmez.",
+    "ontological_coherence": "Katı indirgemeci fizikalist bir ontoloji içinde son derece tutarlıdır, ancak öznelliğe ve qualia'ya ilişkin temel fenomenolojik sezgilerle gerilim içindedir."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "MBIT bilincin fiziksel süreçlere indirgenebilir olduğunu öne sürdüğünden, bu belirli fiziksel süreçler yapay, biyolojik olmayan bir zeminde yeniden üretilebilirse, bilinç zorunlu olarak örneklenir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, beynin işlevsel ve fiziksel bütünlüğüyle katı biçimde özdeştir; ölümde çözülmesi, bilinçli benliğin kalıcı olarak son bulmasıyla sonuçlanır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bir materyalizm kuramı olarak MBIT hiçbir nihai kozmik anlam ya da amaç içermez. Anlam ve değer, bilinçli insan failleri tarafından yaratılan beliren özelliklerdir."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç (tam fiziksel örüntü) taranıp yeni bir fiziksel ortama (dijital ya da başka) kusursuzca kopyalanabilir/yüklenebilirse, kuram özdeş bilinçli benliğin hayatta kalmasını güvence altına alır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Tye’s Contingentism",
+        "relationship": "Etki"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mind/brain identity theory, J.J.C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "We must shed our metaphysical assumptions, David Papineau",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Mind-Brain Identity Theory, István Aranyosi",
+        "year": ""
+      }
+    ]
+  }
+}

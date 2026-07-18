@@ -1,0 +1,113 @@
+{
+  "id_and_class": {
+    "theory_title": "Koch Bütünleşik Bilgi Kuramını Panpsişizm Kuramıyla Karşılaştırıyor",
+    "summary": "Bu girdi, Christof Koch'un Bütünleşik Bilgi Kuramı (IIT) ile Panpsişizm karşılaştırmasını ana hatlarıyla verir; her ikisinin de bilincin gerçekliğin içkin, temel bir özelliği olduğu sezgisini paylaştığını savunur. Ancak IIT, geleneksel Panpsişizm'in aksine bilinç için belirli ölçütler (Phi, $Phi$ ile nicelenen) eklemlediği, Dışlama Postülatı yoluyla birleşim problemini çözdüğü ve somut bir ampirik araştırma programı sunduğu için üstün konumlandırılır.",
+    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
+    "category": "Bütünleşik Bilgi Kuramı",
+    "subcategory": "Karşılaştırma/Eleştiri",
+    "core_identity_tagline": "IIT: Panpsişizm'in Birleşim Problemini Çözen Temelde Bilinçli Bir Kuram",
+    "classification_tags": [
+      "iit",
+      "panpsychism",
+      "intrinsic",
+      "fundamental",
+      "comparison"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, açımlanmış içkin nedensel güç olarak tanımlanır; bu, Panpsişizm'in bilinci içkin gören görüşüne temelde benzer, ancak matematiksel olarak azami ölçüde indirgenemez bir kavramsal yapı ($Phi$-yapısı) olarak belirtilir.",
+    "ontological_status": "Panpsişist/Monist (Gerekçe: Karşılaştırma, bilincin gerçekliğe içkin ve temel olduğu ortak öncülüne dayanır ve IIT'yi kavramsal olarak panpsişizmle hizalar, ancak IIT, geleneksel panpsişizmde bulunmayan katı matematiksel ölçütler belirtir.)",
+    "mind_body_relationship": "Açıklayıcı Özdeşlik (Deneyim, fiziksel taşıyıcıdan açımlanan bir $Phi$-yapısıyla özdeştir). İlişki içkindir; düalizm ya da beliriş gerektirmez, ancak belirli bir fiziksel konfigürasyon talep eder.",
+    "primitive_or_emergent_status": "Temel",
+    "emergence_type": "Yok (Gerekçe: Koch, IIT'nin bilincin temel doğasıyla tutarlı olarak belirişe yer bırakmadığını savunur.)",
+    "subjectivity_and_intentionality": "Öznellik (deneyim), özünde kendisi-için olan, azami ölçüde indirgenemez kavramsal yapıdır ($Phi$-yapısı). Yönelimsellik, bu yapı içindeki alt yapılara ($Phi$-katmanlarına) karşılık gelir.",
+    "qualia_account": "IIT, fenomenolojinin (niteliksel yönlerin) nicel değerlendirmelerle (içkin nedensel güçlerle) nasıl kavranabileceğine dair ayrıntılı bir matematiksel açıklama sunar; niceliksel çerçevelerin niteliği kavrayamayacağını iddia eden eleştirmenlere karşı çıkar. Qualia, qualia uzamındaki azami ölçüde indirgenemez kavramsal yapılarla ($Phi$-yapısıyla) özdeştir.",
+    "ontological_commitments": "Gerçekliğin içkin, temel özelliği; neden-etki gücü; qualia uzamında var olan kavramsal yapılar ($Phi$-yapıları); bilincin fiziksel taşıyıcıları (PSC'ler).",
+    "epistemic_access": "Bilimsel sınanabilirlik, titiz matematiksel modelleme ($Phi$ ölçümü) yoluyla erişilebilir ve deneyimin fenomenolojisinde (aksiyomlarda) temellenir.",
+    "constituents_and_structure": "Bilinç, bir fiziksel sistemin neden-etki yapısıyla belirlenen, yarı-boyutlu bir 'qualia uzamında' azami ölçüde indirgenmiş bir kavramsal yapıdır (içeriden görülen bir şekil)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Nitelik/Qualia, Bütünleşme/Birlik, Belirlilik/Bilgi",
+    "distinctive_mechanism_or_principle": "Dışlama Postülatı: Bu buyruk, hangi varlık kümesinin (örneğin nöronların) azami miktarda bütünleşik bilgiye ($Phi$) sahip olarak birlikli bir bilinçli varlık olarak var olduğunu belirtir. Bu mekanizma, Panpsişizm'in birleşim problemini çözer.",
+    "dynamics_of_emergence": "Statik Özellik (Gerekçe: Bilinç, hesaplama gibi dinamik bir akış ya da süreç değil, belirli konfigürasyonların içkin bir özelliğidir. Odak yapı/varoluş üzerinedir.)",
+    "location_and_distribution": "Bilinç dereceli ve yaygındır (Panpsişizm'le paylaşılan sezgi); beyinde, azami ölçüde bütünleşik nedensel yapıda (örneğin arka kortekste) konumlanır.",
+    "causation_and_functional_role": "İçkin varlık (bilinç), neden-etki gücüne sahiptir ve geçmişini ile geleceğini kısıtlayabilir. IIT'nin, geleneksel Panpsişizm'in bir eksiği olan, bilincin neden uyum sağlayıcı olduğunu açıkladığı öne sürülür.",
+    "integration_or_binding": "Bütünleşme, bilincin bir aksiyomudur; deneyimin birleşik ve indirgenemez olmasını gerektirir. Dışlama Postülatı, hangi bütünleşik bütünlerin birlikli bilinçli varlıklar sayıldığını yönetir.",
+    "information_flow_or_representation": "Bilinç, sistemlerin bilgi-kuramsal bir özelliğidir. Bilinç miktarı, sistemin indirgenemezliğini niteleyen bütünleşik bilgiyle ($Phi$) nicelenir.",
+    "evolutionary_account": "Bilincin uyum sağlayıcı olma (seçilim avantajı sağlama) yetisi, temel bilincin işlevsel önemini gerekçelendirmekte genellikle zorlanan Panpsişizm'e karşı IIT'nin bir üstünlüğü olarak sunulur.",
+    "core_claims_and_evidence": [
+      "IIT, hangi sistemlerin bilinçli olduğunu (azami $Phi$) dışlama postülatı yoluyla eklemleyerek birleşim problemini çözer.",
+      "IIT, geleneksel Panpsişizm'in aksine kavramsal ve olasılıkla ampirik bir araştırma programı sunar.",
+      "Bilinç, işlev ya da hesaplama değil, yapıdır; dijital bilgisayarlar ihmal edilebilir bütünleşik bilgi nedeniyle duyarlı olamaz.",
+      "IIT, niceliksel birincil niteliklerin ikincil (fenomenal) niteliklere nasıl karşılık geldiğine dair ilkesel bir kanıt sunar."
+    ],
+    "basis_of_belief_or_evidence_type": "Fenomenolojik, Matematiksel, Bilimsel (Sınanabilir önermelere yol açan aksiyomatik temel)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir (Koch, IIT'nin $Phi$ hesaplayarak ve belirli öngörüleri sınayarak ampirik bir araştırma programı sunduğunu vurgular.)",
+    "known_empirical_interventions_or_tests": [
+      "İnsan beynindeki belirli sinir ağları için $Phi$ hesaplamak (örneğin görsel korteks)",
+      "$Phi$ hesabını bilinç durumlarıyla (örneğin anestezi sırasında) bağıntılayan beyin tarama verileri",
+      "Arka kortekste nedensel yapılara ilişkin öngörüleri sınayan çekişmeli işbirliği deneyleri"
+    ],
+    "criticisms_and_tensions": "IIT, sağduyuya aykırı öngörülerde bulunmakla (basit nesnelere bilinç atfetmekle) eleştirilir ve hatırı sayılır bir araştırmacı grubu tarafından 'sözde bilim' olarak nitelenmiştir. Çekişmeli ampirik testlerin sonuçları, eleştirmenlerce çekirdek kuramı gerekçelendirmeye yetersiz görülür.",
+    "open_questions_and_limitations": "IIT'yi destekleyen ampirik sinirbilim hâlâ ilkeldir ve varsayılan bilinci-üreten yapının ('qualia uzamının') teknolojiyle işlenip işlenemeyeceğini belirlemek bilinmez kalır.",
+    "ontological_coherence": "Yüksek (Gerekçe: IIT, fenomenal deneyimi azami ölçüde indirgenemez $Phi$-yapısına özdeş biçimde bağlı ve fiziksel varoluşu işlevsel olarak neden-etki gücü yoluyla tanımlayarak, belirişe ya da düalizme yer bırakmadığını iddia ederek iç tutarlılığı güçlü biçimde öne sürer. IIT, katı ölçütler dayatarak kendini Panpsişizm'den ayırır.)"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Hayır",
+      "rationale": "Koch, IIT'nin YZ bilinci için gerekli işlevselci görüşle temelde uyuşmadığını savunur; dijital bilgisayarların, hesaplama gücü ya da zekâsı ne olursa olsun, donanım yapılarının ihmal edilebilir bütünleşik bilgiyle ($Phi$) sonuçlanması nedeniyle asla duyarlı olmayacağını öne sürer."
+    },
+    "survival_beyond_death": {
+      "stance": "Belirsiz",
+      "rationale": "Hayatta kalma, IIT'nin varsaydığı gerçekliğin indirgenemez yapısının (qualia uzamının) bilinmeyen doğasına ve teknolojiyle işlenebilirliğine bağlıdır. Bir tür sürekliliğin dışlanmaması, birinci şahıs hayatta kalmayı açık bir soru olarak bırakır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Belirsiz",
+      "rationale": "IIT'nin spekülatif, sayısız n-boyutlu yapıları nihai anlama ilişkin yargıyı askıya alacak kadar yeni olsa da, kuramın aktardığı bilincin çekirdek ölçümü ve çözümlemesi nihai bir anlam, amaç ya da değer sunmaz."
+    },
+    "virtual_immortality": {
+      "stance": "Belirsiz",
+      "rationale": "Eğer bilinç, yalnızca bir algoritma değil de karmaşık sistem fiziğiyle ilişkili bir yapıysa (IIT'nin savunduğu gibi), zihin yükleme imkânsızdır. İleri teknoloji bilinci-üreten $Phi$-yapısını işleyemedikçe, yükleme öznel deneyimden yoksun bir 'deep fake' ile sonuçlanırdı."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "Paylaşılan Sezgi/Eleştiri"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Eleştiri (Hesaplanamaz bilinç)"
+      },
+      {
+        "name": "Galileo’s Error (Philip Goff)",
+        "relationship": "Eleştiri (Koch, niteliksel yönlerin niceliksel çerçevelerle kavranamayacağı yönündeki Goff'un iddiasına karşı çıkar.)"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Karşıtlık (Örtük; konum ve yinelemenin/küresel yayının gerekliliği bakımından)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reflections of a natural scientist on panpsychism, Christof Koch",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t be Computed, Christof Koch",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Then I Am Myself the World: What Consciousness Is and How to Expand It, Christof Koch",
+        "year": 2024
+      },
+      {
+        "title_with_names": "From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0, Masafumi Oizumi, Larissa Albantakis, Giulio Tononi",
+        "year": 2014
+      }
+    ]
+  }
+}

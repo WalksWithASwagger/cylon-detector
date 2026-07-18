@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Sapolsky’nin Katı Bağdaşmazcılığı",
+    "summary": "Bu bakış açısı, bilincin yalnızca biyolojik mekanizmalardan doğan, evrenin fiziksel kurallarına ayrılmaz biçimde bağlı karmaşık bir beliren özellik olduğunu savunur. Başlıca felsefi bağlanımı katı bağdaşmazcılıktır; biyolojik determinizmi onaylar ve dolayısıyla özgür iradenin varlığını yadsır.",
+    "associated_thinkers": ["Robert Sapolsky"],
+    "category": "Materyalizm",
+    "subcategory": "Nörobiyolojik",
+    "core_identity_tagline": "‘Karmaşık Beliren Özellik Olarak Bilinç’",
+    "classification_tags": [
+      "determinism",
+      "neurobiology",
+      "physicalism",
+      "emergence",
+      "hard incompatibilism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, biyolojik organizmanın, özellikle beynin, fizik ve kimyasından ve onun çevreyle etkileşimlerinden doğan karmaşık bir beliren özellik olarak tanımlanır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik/Materyalist İlişki: Zihin ve benlik, fiziksel kurallarla tutarlı biçimde, kesinlikle biyolojik süreçlerin ürünüdür ya da onlarla özdeştir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş (Çıkarsanan): Doğasını kavramak güç olan 'karmaşık bir beliren özellik' olarak betimlense de, katı biyolojik determinizmde temellenmesi, belirişin ilkesel olarak tümüyle fiziksel yasalara uyması gerektiğini ima eder.",
+    "subjectivity_and_intentionality": "Öznelliğin (bilincin ne olduğunun) var olduğu kabul edilir, ancak iyi anlaşılmadığı ve tanımlanmasının güç olduğu belirtilir. Yönelimsellik ve faillik (özgür irade), determinizmle bağdaşmaz olarak açıkça reddedilir.",
+    "qualia_account": "Açıklanmayan: Deneyimin nitel hissi kabul edilir, ancak mevcut nörobiyolojik anlayışın ötesinde sayılır; 'her şeyi ve hiçbir şeyi açıklayan' bir 'karmaşık beliren özellik' olarak muğlak biçimde betimlenir.",
+    "ontological_commitments": "Biyolojik organizmalar, nörolojik yapılar ve evrenin fiziksel kuralları.",
+    "epistemic_access": "Nörolojik durumların gözlemi yoluyla erişilebilir; ancak fenomenal bilincin nörobiyolojik düzeyde anlaşılmasının ciddi biçimde sınırlı olduğu kabul edilir.",
+    "constituents_and_structure": "Deterministik fiziksel kurallarca yönetilen biyolojik maddenin karmaşık örgütlenmesi."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Özgür İrade (Eleştiri/Yadsıma); Fenomenal (Var olduğu kabul edilir ama açıklanmaz); Nörolojik işlev (Sıradan nörolojik anlamda).",
+    "distinctive_mechanism_or_principle": "Katı bağdaşmazcılık ilkesi; burada zihinsel olaylar da dahil tüm olaylar önceki biyolojik ve çevresel nedenlerce tümüyle belirlenir ve biyolojik olmayan ya da deterministik olmayan mekanizmalara yer bırakmaz.",
+    "dynamics_of_emergence": "Bilinç, beynin karmaşık, örgütlü süreçlerinden doğan Dinamik bir Süreçtir.",
+    "location_and_distribution": "Tümüyle beyinde ve biyolojik organizmada konumlanmıştır.",
+    "causation_and_functional_role": "Bilinç nedensel olarak etkilidir (salt bir epifenomen değildir), ancak nedensel eylemleri tümüyle biyolojik süreçlerin deterministik akışıyla sınırlıdır.",
+    "integration_or_binding": "Biyolojik sistemin karmaşık örgütlenmesi ve deterministik işleyişiyle örtük biçimde bütünleşir.",
+    "information_flow_or_representation": "Biyolojik süreçleri yöneten temel fiziksel kurallara dayalı biyolojik işlev aracılığıyla ima edilir.",
+    "evolutionary_account": "Bilinç, organizmanın deterministik, biyolojik doğasıyla tutarlı biçimde, biyolojik/filogenetik evrimin bir ürünüdür.",
+    "core_claims_and_evidence": [
+      "Benlik/zihin, biyolojimizden ve onun çevreyle etkileşimlerinden ne fazla ne de eksik bir şeydir.",
+      "Özgür irade, biyolojik determinizmle felsefi olarak uzlaştırılamaz.",
+      "Bilinç, biyolojik beynin karmaşık bir beliren özelliği olarak doğar.",
+      "Bilinç yanıltıcı bir epifenomen değildir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (Determinizme ve materyalizme a priori bağlanım); Biyolojik/Nörobilimsel."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Felsefi öncül (Determinizm); Ampirik olarak Nörobiyolojiye bağlı (tüm fenomenler biyolojik olduğundan).",
+    "known_empirical_interventions_or_tests": "Kaynakta belirtilmemiştir; deterministik fizikalizmi destekleyen temel biyolojik ve nörolojik kanıta dayanır.",
+    "criticisms_and_tensions": "Sapolsky, bilinç tanımının kafa karıştırıcı olduğunu ve muğlak 'karmaşık beliren özellik' terimine dayandığını kabul eder. Dışsal olarak, özgür iradenin yadsınması (katı bağdaşmazcılık) son derece tartışmalı bir felsefi konumdur.",
+    "open_questions_and_limitations": "Fenomenal bilincin kesin doğası ve tanımı, yazarın tümüyle anlama ya da açıklama yetisinin ötesinde kalır.",
+    "ontological_coherence": "Yüksek; çünkü kuram, fiziksel olmayan öğeler getirmeksizin fizikalist, deterministik bir ontolojiye kesin biçimde bağlı kalır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç, karmaşık biyolojik örgütlenmenin fiziksel kurallarınca yönetilen, nedensel olarak etkin, beliren bir özellikse, gerekli karmaşıklığı çoğaltan bir yapay sistemde ilkesel olarak elde edilebilir olmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç yalnızca biyolojik beynin ürünüdür; dolayısıyla beynin ölümü kişisel varoluşun geri dönülmez sonudur."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bilincin deterministik doğası, nihai kozmik bir anlam ya da amacın olmadığı anlamına gelir; herhangi bir anlam ya da değer zorunlu olarak insanların kendisince yaratılır."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç karmaşık fiziksel durumlara indirgenebilir ve onlara bağımlı olduğundan, bu durumların biyolojik olmayan bir taşıyıcıda kusursuz biçimde çoğaltılması, Materyalizm Kuramlarıyla tutarlı biçimde birinci şahıs zihinsel benliğin sürmesiyle sonuçlanır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Flanagan’s Constructive Naturalism",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Determined: A Science of Life without Free Will, R. Sapolsky",
+        "year": 2023
+      },
+      {
+        "title_with_names": "From Stanford to Medspire: an Exclusive Interview with Robert Sapolsky, R. Sapolsky",
+        "year": 2023
+      }
+    ]
+  }
+}

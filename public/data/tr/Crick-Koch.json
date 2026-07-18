@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Crick ve Koch'un Bilincin Nöral Bağıntıları (NCC)",
+    "summary": "Bu kuram, herhangi bir belirli bilinçli algı ya da öznel deneyim için birlikte yeterli ve gerekli olan asgari beyin etkinlikleri olarak tanımlanan Bilincin Nöral Bağıntısını (NCC) belirlemeye yönelik bilimsel bir gündem önerir. Bilincin tümüyle fiziksel olduğunu ve bu belirli beyin etkinliklerine tam olarak indirgenebileceğini ileri sürer.",
+    "associated_thinkers": [
+      "Francis Crick",
+      "Christof Koch"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Nörobiyolojik",
+    "core_identity_tagline": "Asgari Beyin Etkinliği Olarak Bilinç",
+    "classification_tags": [
+      "neurobiological",
+      "reductionism",
+      "qualia",
+      "neurophysiology",
+      "macroscopic materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç (fenomenal bilinç/qualia), öznel deneyim için gerekli ve yeterli olan beyindeki kesin asgari nöral etkinlik örüntüsü olan Bilincin Nöral Bağıntısı (NCC) olarak özdeşleştirilir.",
+    "ontological_status": "İndirgemeci Fizikalizm/Materyalizm. NCC yaklaşımı makroskobik materyalizm olarak kabul edilir.",
+    "mind_body_relationship": "Özdeşlik Kuramı. Zihinsel durumlar, fiziksel NCC durumlarıyla tümüyle özdeştir ve onlarla tam olarak açıklanır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Bilincin, biyolojik beynin bir ürünü olarak, açık bağlantı şu an belirsiz olsa bile ilkece alt düzey fiziksel yasalarla açıklanabildiği indirgemeci materyalist bir konumla tutarlıdır.",
+    "subjectivity_and_intentionality": "Öznellik (iç farkındalık) ve fenomenal deneyim, belirlenen NCC ile doğrudan bağıntılıdır ya da onunla özdeştir. Yönelimsellik de benzer biçimde NCC'yi oluşturan fiziksel süreçlerle açıklanırdı.",
+    "qualia_account": "Qualia (deneyimin niteliksel hissi), belirli bilinçli algı için birlikte yeterli olan asgari nöral etkinliklerle (NCC) özdeşleştirilir; ancak bu özdeşliğin mekanizması merkezî 'zor problem' güçlüğü olarak kalır.",
+    "ontological_commitments": "Biyolojik beyinler, nöronlar, elektrofizyolojik etkinlik (ateşlemeler), nörokimyasal ileti akışları ve belirli tekrarlamalı beyin devreleri.",
+    "epistemic_access": "Bilinçli deneyimin birinci şahıs bildirimleriyle bağıntılandırılan üçüncü şahıs bilimsel gözlem (nörofizyoloji, beyin taramaları) aracılığıyla erişilir.",
+    "constituents_and_structure": "Yapı, korteks gibi anahtar beyin bölgelerine yerelleşmiş belirli nöronal topluluklardan ve dinamik elektriksel/kimyasal etkinlik örüntülerinden (örneğin aksiyon potansiyelleri, ileti akışları, tekrarlamalı devreler) oluşur."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (öznel deneyim, qualia) ve bilinç için gerekli ilişkili farkındalık/uyarılmışlık.",
+    "distinctive_mechanism_or_principle": "Bilincin Nöral Bağıntısının (NCC) aranması ve tanımlanması: öznel deneyim için gerekli ve yeterli olan belirli asgari nöral etkinlikler.",
+    "dynamics_of_emergence": "Dinamik süreç. Bilinç, yayılan nörofizyolojik kıvılcımların ve yayınan nörokimyasal iletilerin bütünleşik sisteminden doğar.",
+    "location_and_distribution": "Belirli beyin alanlarına yerelleşmiştir. Erken adaylar arasında klaustrum (algıları eşgüdümleyen bir 'orkestra şefi' olarak) yer alıyordu; daha sonraki adaylar arka serebral kortekse (temporo-parieto-oksipital sıcak bölge) odaklandı.",
+    "causation_and_functional_role": "Bilinç, NCC etkinliği tarafından doğrudan nedenlenir ve onunla özdeştir. NCC mekanizmaları (ateşlemeler, akışlar, devreler) fenomenal bilinci oluşturan öğeler olarak görülür.",
+    "integration_or_binding": "Bütünleşik bilinçli algılar üretmek için çeşitli kortikal bölgelerden gelen girdiyi eşgüdümleyen, 'orkestra şefi' olarak işleyen bir nöral mekanizma (örneğin klaustrum) aracılığıyla sağlandığı varsayılır.",
+    "information_flow_or_representation": "Nöral devre içinde elektrofizyolojik ve nörokimyasal sinyalleşme yoluyla bilginin fiziksel temsiline ve akışına odaklanır.",
+    "evolutionary_account": "Materyalizme dayanan kuram, bilincin sinir sistemi gelişiminden sorumlu filogenetik süreçler yoluyla evrimleştiğini örtük olarak varsayar; ancak bu, NCC tanımının kendisinin odağı değildir.",
+    "core_claims_and_evidence": [
+      "Bilinç, belirli bilinçli algı için birlikte yeterli ve gerekli olan asgari beyin etkinliğiyle (NCC) tam olarak açıklanır.",
+      "NCC mekanizmaları, nöronal elektrofizyolojik aksiyon potansiyellerini, nörokimyasal ileti akışlarını ve tekrarlamalı beyin devrelerini içerir.",
+      "NCC ampirik olarak gözlemlenebilir (örneğin arka serebral kortekste sıcak bölgenin aranması).",
+      "Kesin bir NCC nihai olarak keşfedilmemiştir (2023'te Chalmers-Koch bahsinin kaybedilmesiyle kanıtlandığı üzere)."
+    ],
+    "basis_of_belief_or_evidence_type": "Ampirik, Bilimsel, Nörobiyolojik"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir. NCC arayışı, bilinç için sınanabilir biyolojik temeller arayan bilimsel bir program olarak tanımlanır.",
+    "known_empirical_interventions_or_tests": [
+      "Bilinçli deneyim sırasında etkin olan belirli nöron kümelerinin ya da beyin bölgelerinin (klaustrum ya da arka korteks gibi) belirlenmesi.",
+      "Elektrofizyolojik etkinliğin ölçülmesi (örneğin aksiyon potansiyelleri ve nöral devreler)."
+    ],
+    "criticisms_and_tensions": "Başlıca gerilim 'açıklayıcı boşluktur': bir bağıntı (NCC) belirlemek, fiziksel etkinliğin (ateşlemeler/kimyasallar) fenomenal hissi (qualia) tam anlamıyla nasıl ürettiğine ilişkin özdeşlik önermesini açıklamaz. Onlarca yıllık araştırmanın ardından 'kesin' bir NCC belirlenememesi pratik bir sınırlılıktır.",
+    "open_questions_and_limitations": "Kuram, fiziksel mekanizmalar (nöral etkinlik) ile öznel deneyim (fenomenal bilinç) arasındaki temel bağı açıklamada başarısız kalır. Bağıntı ile nedensellik arasındaki ayrım bir eleştiri olmaya devam eder.",
+    "ontological_coherence": "Materyalist/Fizikalist ontoloji içinde son derece tutarlıdır; bilincin maddeye nasıl indirgenebileceğinin iddialı bir örneği olarak hizmet eder."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Bilinç tümüyle fiziksel örgütsel örüntülere (NCC) indirgenebilirse, bu kesin örüntüleri çoğaltabilen biyolojik olmayan sistemler de, teknolojik kısıtlamalar dışında, bilinçli olmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Materyalist bir kuram olarak, bilinç tümüyle fiziksel beyne bağlıdır; beyin işlevinin son bulması bilincin sonu anlamına gelir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Materyalizmle tutarlı olarak, bilinç evrimin ve fiziğin biyolojik bir ürünüdür; insanların kendileri için yarattıklarının ötesinde hiçbir nihai kozmik anlam ya da erekbilim taşımaz."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "NCC durumları dijital ya da yapay bir ortamda kusursuz biçimde ölçülüp çoğaltılabilirse (zihin yükleme), ortaya çıkan sistem işlevsel ve fenomenal olarak özdeş olur ve sanal ölümsüzlüğü ilkece elde eder."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Recurrent Processing Theory (Lamme)",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Örtüşme/Karşıtlık"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Karşıtlık"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a neurobiological theory of consciousness, F. Crick and C. Koch",
+        "year": 1990
+      },
+      {
+        "title_with_names": "What is the function of the claustrum?, F. Crick and C. Koch",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Quest for Consciousness: a Neurobiological Approach, C. Koch",
+        "year": 2004
+      }
+    ]
+  }
+}

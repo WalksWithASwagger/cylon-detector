@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "Pereira'nın Duyarlılık Kuramı",
+    "summary": "Bu kuram, bilincin iki ayrı kipe sahip olduğunu ileri sürer: acı ve açlık gibi temel hisleri barındıran temel duyarlılık ile soyut düşünme ve temsili içeren üst düzey bilişsel bilinç. Temel iddia, bilişsel kapasitenin, biyolojik olarak homeostatik sistemlere dayanan bu altta yatan duyarlı hâle bağımlı olduğudur.",
+    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "category": "Materyalizm",
+    "subcategory": "Homeostatik ve Duygulanımsal",
+    "core_identity_tagline": "Duyarlılığa dayanan iki katmanlı bir sistem olarak bilinç",
+    "classification_tags": [
+      "sentience",
+      "homeostatic",
+      "neurobiological",
+      "dual-modality",
+      "clinical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, duyarlılıktan (biyokimyasal homeostazın dinamik denetimiyle ilişkili) ve bilişsel bilinçten (sinir ağlarındaki biyoelektriksel etkinlik örüntüleriyle ilişkili) oluşan bileşik bir biyolojik sistemdir.",
+    "ontological_status": "Fizikalizm/Natüralizm (Materyalizm altındaki sınıflandırmasından ve fizyolojik/nöral bağıntılara odaklanmasından çıkarsanmıştır)",
+    "mind_body_relationship": "Bilinç kipleri (duyarlılık ve biliş), biyolojik organizmaya, özellikle de homeostatik sistemler ve sinir ağlarına işlevsel olarak bağımlıdır ve bunların içinde kesin fizyolojik bağıntılara sahiptir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş (Gözlemlenebilir ve ölçülebilir biyolojik/fizyolojik süreçlere sıkı biçimde dayanmasıyla temellendirilmiş olup, karmaşıklığına rağmen ilkece fiziksel yasalarla açıklanabilir olduğunu düşündürür.)",
+    "subjectivity_and_intentionality": "Öznellik, temel duyumları (örneğin açlık, acı) hissetme kapasitesi olan duyarlılıktan doğar. Yönelimsellik, dilsel ve imgesel temsillerin işlenmesi yoluyla bilişsel bilinçte mevcuttur.",
+    "qualia_account": "Qualia, temel niteliksel duyumları (örneğin acı, susuzluk) hissetme kapasitesine doğrudan karşılık gelen temel duyarlılık kipi aracılığıyla açıklanır.",
+    "ontological_commitments": "Biyokimyasal homeostazı denetleyen fizyolojik sistemler; sinir ağlarındaki biyoelektriksel etkinlik örüntüleri; hiyerarşik nöral örgütlenme.",
+    "epistemic_access": "Özellikle homeostazın dinamik denetimiyle ilişkili olarak fizyolojik bağıntıların incelenmesi yoluyla ve klinik olarak temel duyarlı tepkilerin gözlemlenmesiyle erişilir.",
+    "constituents_and_structure": "Hiyerarşik, iki katmanlı bir sistem: Duyarlılık (düşük düzeyli, homeostatik temel) ve Bilişsel Bilinç (yüksek düzeyli, temsile dayalı işleme)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (temel duyumlar/duyarlılık); Bilişsel Bilinç (düşünme/temsil); bilinç bozukluklarının klinik tanısı.",
+    "distinctive_mechanism_or_principle": "İşlevsel bağımlılık ilkesi; buna göre üst düzey bilişsel bilinç, homeostatik sistemlere kök salmış olan alt düzey duyarlılık kipine sıkı biçimde bağlıdır ve onun tarafından desteklenir.",
+    "dynamics_of_emergence": "Bilinç, fizyolojik denetime bağlı temel duyarlılığın varlığının bilişsel işleyişin belirişi için zorunlu bir temel oluşturduğu hiyerarşik bir ilişki yoluyla doğar.",
+    "location_and_distribution": "Temel bağıntılar, homeostatik denetimden sorumlu fizyolojik sistemler (duyarlılık için) ile sinir ağları (bilişsel işleme için) arasında dağılmıştır.",
+    "causation_and_functional_role": "Duyarlılık, homeostazı ve yaşamın sürekliliğini korumak için fizyolojik süreçleri düzenlemenin hayati işlevini yerine getirir. Temel biyolojik düzenleme için gerekli bilinçli geri bildirimi sağlar.",
+    "integration_or_binding": "Belirtilmemiş. (Kuramın duyusal girdilerin birleştirilmesi mekanizmasından ziyade bilinç kipleri arasındaki ayrım ve hiyerarşik ilişkiye odaklanmasıyla temellendirilmiştir.)",
+    "information_flow_or_representation": "Bilişsel bilinç, sinir ağlarında gerçekleşen dilsel ve imgesel temsillerin işlenmesini ve düzenlenmesini içerir.",
+    "evolutionary_account": "Ayrıntılı olarak belirtilmemiştir, ancak uyarlanımsal ve evrimsel olduğu çıkarsanır; bilinç kiplerini hayatta kalma ve homeostazın korunması gibi temel biyolojik zorunluluklara bağlar.",
+    "core_claims_and_evidence": [
+      "Bilişsel bilinç duyarlılığa bağımlıdır, ancak bunun tersi geçerli değildir.",
+      "Duyarlılık, biyokimyasal homeostazın dinamik denetimi kapasitesiyle ilişkilidir.",
+      "Temel duyumları hissetme kapasitesi (duyarlılık), asgari bilinç için asgari gereksinimdir (klinik tanı açısından ilgilidir)."
+    ],
+    "basis_of_belief_or_evidence_type": "Sinirbilimsel, Klinik/Tıbbi, Felsefi"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Özellikle vejetatif durumlarda veya anestezi altındaki asgari bilincin çözümlenmesinde klinik değerlendirme ve müdahale yoluyla ampirik olarak sınanabilir.",
+    "known_empirical_interventions_or_tests": [
+      "Uzamış bilinç bozukluklarının tanısında bir ölçüt olarak temel duyumları (açlık, acı) hissetme kapasitesinin değerlendirilmesi."
+    ],
+    "criticisms_and_tensions": "Kaynak materyalde açık bir eleştiri sunulmamaktadır. (Gerekçe: Kaynak materyal betimleyicidir ve bu belirli kuram hakkında eleştirel bir söylem içermez.)",
+    "open_questions_and_limitations": "Duyarlılık ile bilişsel bilinç arasındaki katı sınırları ve hiyerarşik bağımlılığı gerçekleştiren açık fizyolojik ve biyoelektriksel mekanizmaların tam olarak aydınlatılması gerekmektedir. Üst düzey biliş testleri, tüm bilinç hâllerini değerlendirmek için yetersiz olabilir.",
+    "ontological_coherence": "Natüralizmin sınırları içinde yüksek düzeyde tutarlıdır; bilincin iki ayrı yönünü somut, gözlemlenebilir fizyolojik sistemlere bağlar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Yapay sistemler, dinamik biyokimyasal homeostazı yöneten fizyolojik sistemleri (duyarlılık için gerekli) ve gerekli biyoelektriksel ağ etkinliğini (biliş için) tümüyle yeniden üretebilirse, o zaman yapay bilinç mümkündür."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç sıkı biçimde işlevsel biyolojik sistemlere (homeostaz denetimi ve sinir ağları) bağımlı olduğundan, bedenin ve beynin geri döndürülemez biçimde çözülmesiyle son bulacağı varsayılır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Kuram, bilincin biyolojik istikrarı (homeostaz) sürdürme ve esnek bilişi olanaklı kılmadaki işlevsel, uyarlanımsal rolüne odaklanır; kozmik veya nihai bir amaç için hiçbir temel sağlamaz."
+    },
+    "virtual_immortality": {
+      "stance": "Koşullu",
+      "rationale": "Yalnızca duyarlılık ve bilişin bağıntıları olarak belirlenen özgül dinamik homeostatik ve biyoelektriksel örüntüler kusursuzca sayısallaştırılıp biyolojik olmayan bir ortamda yeniden üretilebilirse kuramsal olarak mümkündür."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Uyumlu"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The role of sentience in the theory of consciousness and medical practice, A. Pereira Jr.",
+        "year": 2021
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Searle’ün Biyolojik Doğalcılığı",
+    "summary": "Biyolojik Doğalcılık, bilincin beynin gerçek, indirgenemez, öznel bir biyolojik özelliği olduğunu; tümüyle alt düzey nörobiyolojik süreçlerce neden olunduğunu ve üst düzey sistem özellikleri olarak gerçekleştiğini öne sürer. Bu yaklaşım, bilimsel dünya görüşünü kabul ederken bilinçli deneyimin birinci şahıs ontolojisini de teslim ederek zihin-beden problemini çözmeye çalışır.",
+    "associated_thinkers": ["John Searle"],
+    "category": "Materyalizm",
+    "subcategory": "Felsefi",
+    "core_identity_tagline": "Beynin indirgenemez bir biyolojik özelliği olarak bilinç",
+    "classification_tags": [
+      "biological",
+      "naturalism",
+      "causal_reductionism",
+      "first-person_ontology",
+      "irreducible"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinçli durumlar, beynin üst düzey sistem özellikleri olan gerçek dünyanın gerçek parçaları olarak tanımlanır; uyanıklık sırasında süren farkındalık, duyarlılık ya da his durumları olarak belirlenir.",
+    "ontological_status": "Fizikalizm (Biyolojik Doğalcılık). Bilincin öznel, nitel bir biyolojik özellik olarak doğanın bir parçası olduğunu savunur; öznel ontolojisini yadsıyarak onu 'doğallaştırma' girişimlerini reddeder.",
+    "mind_body_relationship": "Bilinçli durumlar nedensel olarak alt düzey beyin süreçlerine indirgenir (nedensel indirgenebilirlik), ancak ontolojik olarak bu süreçlere indirgenemez; çünkü bilinç öznel (birinci şahıs) bir ontolojiye sahipken, temeli nesnel (üçüncü şahıs) bir ontolojiye sahiptir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Kaynaklar beliriş türünü açıkça sınıflandırmaz. Bilinç tümüyle fiziksel süreçlerce neden olunduğu (Materyalizm) ama ontolojik olarak indirgenemez olduğu için, bu model fizikalist alanda özgün bir yerde durur; katı biçimde biyolojik nedenselliğe bağlı, sağlam, elenemez bir beliren gerçeklik ileri sürer.",
+    "subjectivity_and_intentionality": "Bilinçli durumlar ontolojik olarak özneldir (yalnızca bir özne tarafından deneyimlendiği biçimde var olur) ve çoğu bilinçli durum yönelimseldir (nesneler ve olgu durumları hakkındadır ya da onlara gönderme yapar).",
+    "qualia_account": "Bilinçli durumlar doğası gereği niteldir; herhangi belirli bir bilinçli durumda olmanın belirgin bir nitel hissi olması anlamında, ve bu nitel his dünyanın gerçek ve indirgenemez bir parçasıdır.",
+    "ontological_commitments": "Biyolojik beyinler ve onların alt düzey nörobiyolojik süreçleri; nitel his, ontolojik öznellik, birlik ve yönelimsellikle nitelenen bilinçli durumlar.",
+    "epistemic_access": "Bilinç, doğrudan içe bakış (birinci şahıs bakış açısı) yoluyla ve dolaylı olarak alt düzey beyin süreçlerindeki nedensel temelinin araştırılması (üçüncü şahıs nesnellik) yoluyla bilinir.",
+    "constituents_and_structure": "Bilinç, tek bir birleşik bilinç alanı olarak var olur ve beyin sisteminin üst düzey bir özelliğidir; nitel his ve öznellik gibi asli özelliklere sahiptir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç (nitel his), yönelimsellik ve nedensel etkililik.",
+    "distinctive_mechanism_or_principle": "İlke, tüm bilinçli durumların alt düzey beyin süreçlerince güvenilir ve evrensel biçimde neden olunması ve sistem özellikleri olarak gerçekleşmesi; gerçek bir biyolojik makine gibi işlev görmesidir.",
+    "dynamics_of_emergence": "Süregelen sinirsel etkinlikçe sürekli neden olunan, rüyasız uykudan uyanıldığında başlayan öznel bir farkındalık durumuyla (bilinçle) sonuçlanan dinamik bir süreç.",
+    "location_and_distribution": "Biyolojik beyinde konumlanmıştır; özellikle beyinde üst düzey ya da sistem özellikleri olarak gerçekleşir.",
+    "causation_and_functional_role": "Bilinçli durumlar, gerçek dünyanın gerçek parçaları olarak nedensel işlev görür (nedensel etkililik); yönelimsel eyleme ve çevreyle etkileşime bir temel sağlar.",
+    "integration_or_binding": "Bilinçli durumlar tek bir birleşik bilinç alanının parçası olarak deneyimlenir, ancak bu sinirsel birleşmenin belirli mekanizması kaynaklarda ayrıntılandırılmaz.",
+    "information_flow_or_representation": "Bilinçli durumlar büyük ölçüde yönelimseldir (bir şey hakkındadır); yani içerik barındırır; Searle, bilinci içerikten önce önceler.",
+    "evolutionary_account": "İma edilen. 'Biyolojik Doğalcılık' çerçevesi, bilincin bilim temelli, doğalcı bir bakış açısıyla tutarlı biçimde biyolojik bir özellik olarak doğduğunu varsayar, ancak belirli evrimsel ayrıntılar sunulmaz.",
+    "core_claims_and_evidence": [
+      "Bilinçli durumlar gerçek dünyanın gerçek parçalarıdır ve elenemez ya da başka bir şeye indirgenemez (ontolojik indirgenemezlik).",
+      "Tüm bilinçli durumlar alt düzey beyin süreçlerince neden olunur; bu, ezici miktarda kanıtla ortaya konmuştur (nedensel indirgenebilirlik).",
+      "Bilinçli durumlar beyinde üst düzey ya da sistem özellikleri olarak gerçekleşir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (asli özelliklerin tanımlanması) ve Ampirik (zihin-beyin bağıntısına ilişkin nörobilimsel kanıt)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kuram, alt düzey beyin süreçlerinin bilince tam olarak nasıl neden olduğuna dair kesin nedensel ayrıntıların bulunmasını gerektirdiğinden, ilkesel olarak ampirik olarak sınanabilir.",
+    "known_empirical_interventions_or_tests": "Kuram genel olarak, bilinç ile beyin etkinliği arasındaki bağlantıyı gösteren nörobilimden gelen ampirik kanıtla (örneğin beyin hasarı, beyin uyarımı) desteklenir.",
+    "criticisms_and_tensions": "Eleştirmenler, beyin durumları ile bilinç arasındaki nedensel bağlantının tümüyle ortaya konduğu iddiasına karşı çıkar. Materyalizmi sürdürürken bilincin ontolojik olarak öznel ve nesnel fiziksel süreçlere indirgenemez olduğunu savunmakta gerilim vardır.",
+    "open_questions_and_limitations": "Bilincin beyin süreçlerince tam olarak nasıl neden olunduğuna dair belirli ayrıntılar bilinmemektedir; bu da bilincin yapay olarak çoğaltılmasını engeller.",
+    "ontological_coherence": "Yüksek. Kuram, bilinci doğanın belirli bir biyolojik özelliği olarak tanımlayarak içsel olarak tutarlıdır; böylece zorunlu bir nedensel ama ontolojik olmayan özdeşlik ileri sürerek geleneksel zihin-beden problemini aşar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu/Olanaklı",
+      "rationale": "Searle, benzetim yoluyla bilinci reddeder (Çin Odası Argümanı), ancak nedensel olarak yeterli biyolojik mekanizma bilinirse, aynı mekanizmayı gerçekleştiren yapay bir makinenin bilinçli olabileceğini savunur; çünkü bilinç katı biçimde biyolojik nöronları değil, yalnızca yeterli nedensel gücü gerektirir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç tümüyle fizikseldir ve yalnızca biyolojik beyinlerin ürünüdür; dolayısıyla beynin ve bedenin ölümü geri dönülmez, kalıcı yokluk anlamına gelir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bir materyalist kuram olarak Biyolojik Doğalcılık, nihai kozmik bir anlamı ya da amacı temellendirmekte zorlanır, ancak kendimizce yaratılan hümanist anlam olanaklı kalır."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç tümüyle fiziksel/biyolojik durumlarla açıklanabilirse, bu durumların (ve nedensel ilişkilerinin) biyolojik olmayan bir ortamda çoğaltılması ilkesel olarak birinci şahıs zihinsel benliğin yüklenmesine ve sürmesine olanak tanır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Örtüşme/Evrim (Beyin özdeşliğine dayanan daha incelmiş bir materyalizm biçimi)"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Karşıtlık (Her ikisi de biyolojik doğalcıdır, ancak Dennett içeriği/işlevi önceler, Searle ise bilinci/öznelliği önceler)"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Eleştiri (Searle, modern bilimsel bir dünya görüşünden başlanınca bunu ve diğer geleneksel kuramları ilgisiz olarak reddeder)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Rediscovery of Mind",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Biological naturalism",
+        "year": 2007
+      },
+      {
+        "title_with_names": "What things are conscious?",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Consciousness and Language",
+        "year": 2002
+      }
+    ]
+  }
+}

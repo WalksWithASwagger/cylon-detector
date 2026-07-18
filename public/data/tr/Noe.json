@@ -1,0 +1,117 @@
+{
+  "id_and_class": {
+    "theory_title": "Duyu-Devinim (Enaktif) Bilinç Kuramı (Noë'nin \"Kafamızın Dışında\" Görüşü)",
+    "summary": "Bu kuram, bilincin yalnızca beynin içinde meydana geldiği varsayımını reddeder ve içsel beyin süreçlerinin tek başına deneyim üretmek için yetersiz olduğunu savunur. Bilinç, temelde beyin, beden ve çevre arasındaki dinamik, sürekli ve becerili etkileşim yoluyla eyleme geçirilen bir etkinlik ya da süreçtir.",
+    "associated_thinkers": [
+      "Alva Noë",
+      "Kevin O’Regan"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "İlişkisel",
+    "core_identity_tagline": "Etkin Dünya-Etkileşimi Olarak Bilinç",
+    "classification_tags": [
+      "relational",
+      "embodied",
+      "enactive",
+      "externalism",
+      "activity"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, dünyayı izleme, onunla temasta kalma, ona dikkat etme ve onunla etkileşme etkinliği olarak tanımlanır. Etkin katılımla tanımlanan, organizma için dünyaya erişme ve dünyanın 'belirmesini' mümkün kılma sürecidir.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Zihin, beynin, bedenin ve çevrenin birlikte işlemesiyle üretilen etkinliktir. Beyin, gerekli mekanik dayanağı sağlar ama bilinç için yeterli değildir; sembollerin yeridir, bilincin kendisi değildir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Öznellik (dünyanın 'bizim için nasıl belirdiği') ve yönelimsellik, organizmanın çevreyle bağlam, ilgi, bilgi ve anlayışın etkilediği etkin, becerili katılımından doğar.",
+    "qualia_account": "Qualia'nın, sürekli dünya etkileşiminden doğan gerçek yaşam deneyimlerinin yoğunluğunun, ayrıntısının ve sağlamlığının bir parçası olduğu ima edilir; bu da gerçek bilinci salt rüya deneyimlerinden ayırır.",
+    "ontological_commitments": "Fiziksel çevre, biyolojik beyin/beden ve bunlar arasındaki dinamik etkileşim/etkinlik.",
+    "epistemic_access": "Erişim, kafanın dışına, organizmanın dünyadaki öngörücü rolüne ve beceri edinimine bakmayı gerektirir; odağı içsel beyin olaylarından dışsal eyleme ve etkileşime kaydırır.",
+    "constituents_and_structure": "Beyni, bedenin duyu-devinim sistemlerini ve dışsal çevreyi kapsayan dinamik, birbirine bağlı sistem."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Faillik, Erişim (bir başarı olarak)",
+    "distinctive_mechanism_or_principle": "Organizma ile çevresi arasındaki etkin ve sürekli katılım. Bilinç, tek başına içsel beyin hâlinde değil, bu etkileşim/etkinlik döngüsünde yer alır.",
+    "dynamics_of_emergence": "Bilinç, organizma tarafından sürekli olarak eyleme geçirilen, dünyayla temasta kalma ve etkileşme sürecidir.",
+    "location_and_distribution": "Beyin, beden ve çevrenin oluşturduğu bütün sistem boyunca dağılmıştır; 'kafamızın dışında' yer alır.",
+    "causation_and_functional_role": "Bilinç öngörücüdür; organizmanın dünyaya erişmesine ve dünyayı eyleme geçirmesine olanak tanır; hayatta kalma ve anlama için kasıtlı, bağlamsal ve becerili eylemi yönlendirmeye hizmet eder.",
+    "integration_or_binding": "Bütünleşme, organizmanın becerili, etkin katılımı ve dünyaya dikkat etmesi sayesinde dünyanın 'bizim için belirmesi'nin tutarlılığı yoluyla sağlanır.",
+    "information_flow_or_representation": "Bilgi, organizmanın etkileşimi ve becerileri tarafından öngörücü biçimde erişilir ve biçimlendirilir; bu, çevrenin anlamını tanımlar.",
+    "evolutionary_account": "Bilinç, dünyaya erişimi mümkün kılmak ve bedenlenmiş, becerili etkileşim yoluyla anlama aracılık etmek için ortaya çıkmıştır; bu da hayatta kalma için güçlü bir uyarlanımsal avantaj öne sürer.",
+    "core_claims_and_evidence": [
+      "Bilinç, dünyayla sürekli katılım etkinliğidir.",
+      "Gerçek yaşam deneyiminin yoğunluğu ve sağlamlığı (rüyaların aksine) dışsal etkileşimin zorunluluğunu destekler.",
+      "Beyin, sembollerin mekanik yeridir ama etkinliğin kendisi bilinçtir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi argüman, Fenomenolojik içgörü, Geleneksel içselciliğin eleştirisi"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Başlıca gerilim, etkileşimin bilinci yalnızca mümkün kılmaktan ya da etkilemekten çok, güçlü anlamda tam olarak nasıl bilinç olduğunu açıklamaktır. Eleştirmenler, içsel beyin olaylarını incelemenin bilinci anlamak için yetersiz olduğunu reddeder.",
+    "open_questions_and_limitations": "Kuram, dışsal etkileşimin/etkinliğin iç deneyimi ya da qualia'yı nasıl oluşturduğuna ve bu etkinliğin salt bilinçsiz işlemeden nasıl titizce ayırt edileceğine dair açık bir tanımdan yoksundur.",
+    "ontological_coherence": "Dışsalcı ve bedenlenmiş bir felsefi çerçeve içinde tutarlıdır; içselci materyalizmin ve düalizmin temel öncüllerine doğrudan meydan okur."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Belirsiz/Koşullu",
+      "rationale": "Standart hesaplama yetersizdir; bilinç ancak YZ sistemleri tam bedenlenmeye, becerilere ve bir dünyayla sürekli, özerk etkileşime ulaşırsa (yaşayan organizmalara koşulan aynı gerekleri karşılayarak) mümkündür."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, beyin ve bedenin dünyayla etkileştiği sürekli, etkin fiziksel döngüden ayrılamaz; bu döngünün sona ermesi bilinçli etkinliğin sona ermesi demektir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bilinç, failin bağlam, bilgi ve anlayış edinmesini sağlar; etkileşimlere anlam atfetme ve öngörücü davranışı yönlendirme kapasitesi verir ama aşkın hiçbir amaç ima etmez."
+    },
+    "virtual_immortality": {
+      "stance": "Son Derece Olası Dışı",
+      "rationale": "Yalnızca beynin içsel süreçlerini ('mekanik yeri') yüklemek, bilinç olarak tanımlanan beyne bağlı olmayan, dışsal ve sürekli etkileşimli etkinliği yakalayamaz."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Enactivism (Varela & Thompson)", "relationship": "Kurucu Çerçeve" },
+      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "Temel Etki" },
+      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "Felsefi Etki" },
+      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "Kısmen Uyumlu / Örtüşen" },
+      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "İlgili / Tamamlayıcı (etkin algı, paylaşılan devreler modeli)" },
+      { "name": "Internalist Materialism", "relationship": "Eleştiri" },
+      { "name": "Dualism", "relationship": "Eleştiri" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
+        "year": 2010
+      },
+      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Is consciousness an illusion, Alva Noë",
+        "year": 2007
+      },
+      {
+        "title_with_names": "O’Regan, K., & Noë, A. A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–1031.",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Noë, A. Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness.",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Varela, F., Thompson, E., & Rosch, E. The Embodied Mind: Cognitive Science and Human Experience.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Gibson, J.J. The Ecological Approach to Visual Perception.",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Hurley, S. L. (1998). Consciousness in Action. Harvard University Press."
+      },
+      {
+        "title_with_names": "Hurley, S. (2008). The Shared Circuits Model (SCM): How control, mirroring, and simulation can enable imitation, deliberation, and mindreading. Behavioral and Brain Sciences, 31(1)."
+      }
+    ]
+  }
+}

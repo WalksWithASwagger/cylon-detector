@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Tarihsel ve Geleneksel Düalizmler",
+    "summary": "Bu kategori, binyıllar boyunca yaygın olan, çoğu zaman zihnin fiziksel bedenden ayrı fiziksel olmayan bir yönünü (ruh gibi) varsayan düalist kuramları kapsar. Antik felsefede ve başlıca dinî geleneklerde (İbrahimî dinler ve belirli Hint okulları gibi) bulunanlar dahil bu düalizmler, gerçekliğin en az iki ayrı ontolojik kategoriden oluştuğunu ileri sürer: fiziksel ve fiziksel olmayan.",
+    "associated_thinkers": [
+      "Plato",
+      "René Descartes (Modern Start)",
+      "Richard Swinburne",
+      "J.P. Moreland"
+    ],
+    "category": "Düalizmler",
+    "subcategory": "Tarihsel/Geleneksel Düalizm",
+    "core_identity_tagline": "‘Ayrı Fiziksel Olmayan Töz (Ruh) Olarak Bilinç’",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "soul",
+      "religion",
+      "classical philosophy",
+      "nonphysical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, beyinden ve bedenden bağımsız, fiziksel olmayan bir tözle (çoğu zaman ruh ya da tin olarak adlandırılır) özdeşleştirilir.",
+    "ontological_status": "Töz Düalizmi",
+    "mind_body_relationship": "Tipik olarak Etkileşimcilik olarak nitelendirilir; fiziksel durumlar zihinsel durumlara, zihinsel durumlar da fiziksel durumlara neden olur ve bu da fiziksel dünyanın nedensel olarak kapalı olmamasını gerektirir.",
+    "primitive_or_emergent_status": "İlksel",
+    "emergence_type": "Geçerli değil",
+    "subjectivity_and_intentionality": "Öznellik, birinci şahıs deneyimci ya da 'ben' olarak eyleyen fiziksel olmayan töze (ruh/tin) içkindir. Yönelimsellik çoğu zaman bu ayrı zihinsel tözün bir özelliği olarak görülür.",
+    "qualia_account": "Niteliksel özellikler (qualia), tümüyle fiziksel maddeden ayrı olan fiziksel olmayan tözde (zihin/ruh) yer alır.",
+    "ontological_commitments": "Fiziksel madde/beyin ve ayrı, fiziksel olmayan bir töz (ruh, tin, puruşa).",
+    "epistemic_access": "Genellikle ampirik bilimden çok, ortak sezgi, felsefi tefekkür ve dinî/tinsel gelenekler aracılığıyla bilinir.",
+    "constituents_and_structure": "İki ayrı töz türü: fiziksel (uzamlı) ve fiziksel olmayan (uzamsız, zihinsel)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal deneyim, kişisel özdeşlik, ölümden sonra hayatta kalma, ahlaki değerler ve benlik kavramı.",
+    "distinctive_mechanism_or_principle": "Köklü biçimde ayrı fiziksel ve fiziksel olmayan tözler arasındaki, kötü şöhretli 'etkileşim problemiyle' sonuçlanan etkileşim.",
+    "dynamics_of_emergence": "Bilinç, fiziksel olmayan tözün süregelen bir niteliğidir; dinamik fiziksel süreçlerden bağımsız olarak var olur.",
+    "location_and_distribution": "Fiziksel kısım (beden/beyin) yereldir; fiziksel olmayan kısım (ruh) ayrıdır ve yerelleşmemiştir, fiziksel kısıtlamalardan bağımsız olarak var olur.",
+    "causation_and_functional_role": "Zihinsel durumlar (fiziksel olmayan tözün), fiziksel dünyayı etkilemede nedensel bir rol oynar ve ruh kişisel özdeşliği temellendirir.",
+    "integration_or_binding": "Birlik (bağlama), birleşik, bölünmez fiziksel olmayan töze (ruha) içkindir.",
+    "information_flow_or_representation": "Bilgi ya da temsil, baştan sona teleolojik ve doğası gereği yönelimsel olarak nitelendirilen zihinsel tözün bir özelliğidir.",
+    "evolutionary_account": "Bilinç (ruh) çoğu zaman evrimsel bir üründen çok temel bir yaratım ya da verili bir bileşen olarak kabul edildiğinden, tipik olarak ele alınmaz.",
+    "core_claims_and_evidence": [
+      "Gerçeklik iki indirgenemez tözden oluşur: fiziksel ve fiziksel olmayan (ruh/tin)",
+      "Ruh kişisel özdeşliği temellendirir ve bedensel ölümden sonra hayatta kalır",
+      "Zihinsel nedensellik gerçektir: fiziksel olmayan durumlar fiziksel durumları etkiler",
+      "Sezgi ve yaygın inanç (özellikle İbrahimî dinlerde) ayrı bir ruhun varlığını destekler"
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi, Dinî/Geleneksel, Sezgisel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekülatif/Felsefi",
+    "known_empirical_interventions_or_tests": "Geçerli değil",
+    "criticisms_and_tensions": "Etkileşim problemiyle (fiziksel olmayan tözün fiziksel değişime nasıl neden olduğu), tutumluluk-dışılık problemiyle (Occam'ın usturası) ve ruha ilişkin nesnel bilimsel bilgi eksikliğiyle karşı karşıyadır.",
+    "open_questions_and_limitations": "Fiziksel ve fiziksel olmayan tözler arasındaki etkileşime olanak tanıyan temel mekanizma (etkileşim problemi) çözülmemiştir.",
+    "ontological_coherence": "Bilimdeki fiziksel dünyanın nedensel kapalılığı ortak varsayımıyla tutarsızdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Hayır (Çoğunlukla)",
+      "rationale": "Bilinç, fiziksel dünya tarafından nedensel olarak belirlenmeyen, köklü biçimde ayrı, fiziksel olmayan bir töz (ruh) gerektirir; bu nedenle biyolojik olmayan zekâlar gerçek içsel farkındalık deneyimleyemez."
+    },
+    "survival_beyond_death": {
+      "stance": "Evet",
+      "rationale": "Bedenden bağımsız olan fiziksel olmayan ruh/tin, birinci şahıs benliğin fiziksel bedenin çözülmesinden sonra hayatta kalması için en açık mekanizmayı sağlar ve dinî geleneklere egemendir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nihai Anlam/Amaç/Değer",
+      "rationale": "Düalizm, varoluşa ve insan yaşamına doğası gereği kozmik anlam, amaç ve değer atfeden dinî inanç sistemleriyle (örneğin İbrahimî dinler) yakından bağlıdır."
+    },
+    "virtual_immortality": {
+      "stance": "Hayır",
+      "rationale": "Beynin yüklenmesi, bilinç için gereken fiziksel olmayan bileşeni (ruhu) çoğaltmakta başarısız olacak ve böylece sanal ölümsüzlüğü engelleyecektir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism (Generic)",
+        "relationship": "Özdeşlik"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Karşıtlık"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Karşıtlık/Genişletme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism, Howard Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Theosophy, Theosophy Wiki",
+        "year": 2023
+      }
+    ]
+  }
+}

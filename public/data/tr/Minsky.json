@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Minsky'nin Zihin Toplumu",
+    "summary": "Kuram, insan bilişinin ve zekâsının, beyinde yer alan, 'failler' olarak bilinen çok sayıda uzmanlaşmış, yarı-bağımsız işlevsel öğenin paralel, bilinçdışı etkileşimlerinden belirdiğini ileri sürer. Bilincin kendisi, tek, birleşik bir varlık değil, bu çeşitli bilişsel ve farkındalık süreçlerinin bir topluluğunu belirsizce etiketlemek için kullanılan bir 'bavul terim' olarak görülür.",
+    "associated_thinkers": ["Marvin Minsky"],
+    "category": "Materyalizm",
+    "subcategory": "Nörobiyolojik",
+    "core_identity_tagline": "'Failler İçin Bir Bavul Terim Olarak Bilinç'",
+    "classification_tags": [
+      "computational",
+      "modularity",
+      "agents",
+      "functionalism",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, beyindeki altta yatan hesaplamalı faillerce üretilen çeşitli beliren süreçler ve fenomenler (örneğin bellek türleri, uzmanlaşmış farkındalıklar) için kullanılan kolektif, yüksek düzeyli bir betimleme olarak tanımlanır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Zihin/bilinç tümüyle, beyindeki uzmanlaşmış hesaplamalı birimlerin ('failler') fiziksel örgütlenmesi ve etkinlikleri tarafından üretilir ve bunların yüksek düzeyli bir betimlemesidir. Belirleyici olan, maddi zemin değil, örgütlenmedir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf beliriş (Gerekçe: Hesaplamalı materyalist bir çerçeve olarak, zihin durumlarının yapısı ve örgütlenmesi karmaşık olsa da, temelde bilinçdışı faillerin tanımlı etkileşimlerine indirgenebilirdir; bu da yüksek düzeyli betimlemenin ötesinde indirgenemez bir 'sihir' olmadığını ima eder.)",
+    "subjectivity_and_intentionality": "Öznellik (benlik duygusu), yüksek düzeyli bir süreç olarak doğar: Sistemin, kendisini bir dünyadaki varlık olarak modelleme ve bu modeli geçmişi ile geleceği hakkında yüksek düzeyli düşünme için kullanma kapasitesi. Yönelimsellik, uzmanlaşmış faillerin çıktısı tarafından taşınır.",
+    "qualia_account": "Qualia, örtük olarak, karmaşık altta yatan süreçlerden dikkati saptıran, yanıltıcı bilinç 'bavul terimi'nin bir parçası olarak reddedilir. Kuram, çeşitli farkındalık biçimlerini (örneğin bir hissi anımsamaya karşı sözcükleri anımsama) ayrıştırır ama indirgenemez bir fenomenal hissi reddeder.",
+    "ontological_commitments": "Uzmanlaşmış bilişsel failler, hiyerarşik örgütlenme düzeyleri, fiziksel beyin yapıları (örneğin kortikal sütunlar) ve yüksek düzeyli hesaplamalı betimlemeler.",
+    "epistemic_access": "Öncelikle alt düzeyli nöronlara ya da öznel içe bakışa odaklanmak yerine, yüksek düzeyli beyin bileşenlerinin ('failler') hesaplamalı örgütlenmesini, işlevlerini ve ilişkilerini inceleyerek.",
+    "constituents_and_structure": "Evrim sırasında uzmanlaşma ve çağrışım sonucu ortaya çıkan, işbirliği yapan yarı-bağımsız makinelerden oluşan geniş bir ağ hâlinde örgütlenmiş, 'failler' adı verilen basit, zihinsiz, uzmanlaşmış işleme birimleri."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Erişim, biliş, bellek, öz-farkındalık (model kurma olarak), planlama, problem çözme, birden çok farklı farkındalık türü.",
+    "distinctive_mechanism_or_principle": "Karmaşık yüksek düzeyli işlevselliğin, basit, bilinçdışı faillerden doğan büyük çaplı, hiyerarşik işbirliği ve ardından gelen yüksek düzeyli betimlemeler aracılığıyla elde edildiği Zihin Toplumu mimarisi.",
+    "dynamics_of_emergence": "Dinamik süreç. Farkındalık, nöronların uzmanlaşıp çağrışım kurması yönündeki tarihsel süreç aracılığıyla gelişir; bu da giderek daha karmaşık hiyerarşik örgütlenmeye (birden çok beyin örgütlenme düzeyi) yol açar.",
+    "location_and_distribution": "Beyinde birden çok örgütlenme düzeyi boyunca dağılmıştır; uzmanlaşmış bilgisayarlardan oluşan büyük bir ağ olarak tasarlanır. Savunucular, 'bilinç' bileşik bir terim olduğundan, ona tek bir fiziksel konum aramaya karşı çıkar.",
+    "causation_and_functional_role": "Bilinç, hataları tanıma, yeni amaçlar geliştirme ve planlama önerileri ile karşıolgusal tarihler üretmek için benliğin modellerini kurma gibi yüksek düzeyli denetim işlevlerini betimler. Bu bileşik işlev, uyarlanımsal hayatta kalma değeri sağlar.",
+    "integration_or_binding": "Bütünleşme, çıktıları yüksek düzeyli birleşik betimlemeler (Düzey 5 düşünceler) olarak yorumlanan yüzlerce uzmanlaşmış fail arasındaki karmaşık etkileşimler aracılığıyla örtük olarak gerçekleşir.",
+    "information_flow_or_representation": "Bilgi, örgütlenme düzeyleri boyunca hiyerarşik olarak işlenir. Yüksek düzeyli betimlemeler en önemlisidir; nörofizyolojik etkinliğin çok üstünde, birçok düzeyde uzmanlaşmış bilişsel düzenek (failler) gerektirir.",
+    "evolutionary_account": "Biliş/zihin, ilerlemenin ilkel nöronlar arasında uzmanlaşma ve çağrışım yoluyla sağlandığı geniş bir evrimsel tarihin nihai ürünüdür; bu da nihayetinde daha erken hayvanlardan farklı karmaşık örgütlenme yapılarına yol açmıştır.",
+    "core_claims_and_evidence": [
+      "Bilinç, çeşitli süreçler için bileşik, mecazi bir etikettir (bir 'bavul terim').",
+      "Altta yatan mimari, uzmanlaşmış biyolojik makinelerden (failler) oluşan büyük bir ağdır.",
+      "Alt düzeyli nöron etkinliğini anlamak, yüksek düzeyli düşünceleri ve bilişsel süreçleri açıklamak için yetersizdir."
+    ],
+    "basis_of_belief_or_evidence_type": "Hesaplamalı, felsefi (yapay zeka bakış açısı), nörobiyolojik (örgütlenme hiyerarşisi)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal ve hesaplamalı olarak sınanabilir (Gerekçe: Bilinç salt işlevsel mekanizmalar ve örgütlenme hiyerarşisi aracılığıyla tanımlandığından, ilkeler ileri yapay sistemler içinde uygulanabilir ve sınanabilir).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Bilinç arayışına yöneltilen başlıca eleştiri, bilinç aslında birçok süreç için bir sözcük iken, araştırmacıların 'bilincin bulunduğu tek bir fiziksel beyin yeri' arayarak vakit yitirmeleridir. Ayrıca, gerçek öznel qualia'nın reddine ilişkin indirgemeci işlevselciliğe yöneltilen standart eleştirilerle de karşı karşıyadır.",
+    "open_questions_and_limitations": "Sınırlılık, 'bavul terimi' altında toplanan bileşen süreçlerin her birinin tam olarak nasıl işlediğini ve nasıl birbirleriyle ilişkilendiğini belirlemenin muazzam görevidir.",
+    "ontological_coherence": "Karmaşık hesaplamalı örgütlenmeyi ve işlevsel ayrıştırmayı vurgulayan fizikalist bir çerçeve içinde son derece tutarlıdır; işlevselciliğin felsefi konumuyla hizalanır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Bilinç, uzmanlaşmış faillerin gerekli hesaplamalı etkileşimlerinden ve yüksek düzeyli betimlemelerinden doğuyorsa, bu özgül yüksek düzeyli örgütlenme biçimini örnekleyebilen yapay sistemler bilinçli olmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç tümüyle biyolojik beynin/makinenin fiziksel varlığına ve işlevsel örgütlenmesine bağlıdır; çözülmesi zihnin kalıcı sonunu ima eder."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hümanist/pragmatik",
+      "rationale": "Karmaşık bilişsel örgütlenmenin (bilinç) işlevsel amacı, organizmanın dünyada yol almasına, planlar yapmasına ve kendini modellemesine yardımcı olmaktır; öznel anlam sağlar ama hiçbir kapsayıcı kozmik amacı ima etmez."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Zihin, bilgisel örüntüleriyle ve işlevsel örgütlenmesiyle (yüksek düzeyli betimleme) tanımlandığından, bu karmaşık etkileşimleri yeniden üretebilen biyolojik olmayan bir ortama tam kopyalama ya da yükleme, özgün bilinçli kimliği aktarırdı."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Genişletme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Society of Mind, Marvin Minsky",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Why is Consciousness So Mysterious?, Marvin Minsky",
+        "year": 2007
+      }
+    ]
+  }
+}

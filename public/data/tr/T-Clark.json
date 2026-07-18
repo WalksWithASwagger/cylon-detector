@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "T. Clark'ın İçerik Hipotezi Kuramı",
+    "summary": "Bu kuram, fenomenal bilincin, bilişsel bir sistemin yeterince yapılandırılmış işlemesinden türeyen temsilsel içerik olduğunu ileri sürer . Bilinçli deneyim kategorik olarak özneldir ve temelde fiziksel beyne bağlıdır; beyin tarafından örneklenen maddi bir olgu olarak işler .",
+    "associated_thinkers": ["Thomas Clark"],
+    "category": "Materyalizm",
+    "subcategory": "Temsilsel",
+    "core_identity_tagline": "Yapılandırılmış temsilsel içerik olarak fenomenal bilinç",
+    "classification_tags": [
+      "representational",
+      "subjective",
+      "materialist",
+      "cognitive",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Fenomenal bilinç, bilişsel bir sistemin yeterince yapılandırılmış temsilsel işlemesinin temsilsel içeriği olarak özdeşleştirilir .",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik/Belirişçi. Bilinç, beyin tarafından örneklenen kesinlikle fiziksel bir olgu olarak betimlenir .",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Bilinç, yeterince karmaşık ve yapılandırılmış maddi işlemeden doğar (materyalist bir konumun temel bir varsayımı) .",
+    "subjectivity_and_intentionality": "Bilinçli deneyim kategorik olarak özneldir çünkü yalnızca bilinçli sistem için var olur . Öznellik, kendini kendi başlangıcına ya da sonuna tanık olmaktan alıkoyan öz-düşünümsel sistemin sonluluğuna bağlıdır ve 'aşılamaz bir nesne' olarak işlev görür .",
+    "qualia_account": "Qualia (temel duyusal nitelikler), daha ileri temsile direnen epistemik ilksellerdir; bu da onların ayrıştırılamaz, monadik karakterini açıklar .",
+    "ontological_commitments": "Bilişsel sistemler, yapılandırılmış temsilsel işleme, temsilsel içerik ve epistemik ilkseller .",
+    "epistemic_access": "Bilinç, temsilsel içeriğin yapısının ve öz-düşünümsel bilişsel sistemin işlevsel kısıtlamalarının çözümlenmesi yoluyla incelenir .",
+    "constituents_and_structure": "Temel yapı, öz-düşünümsel bir bilişsel sistem içindeki yeterince yapılandırılmış temsilsel işlemeyi içerir . Bu sistemin yarattığı fenomenal dünya, kendi yok oluşuna öznel olarak bağışıktır ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Öznellik, Temel Duyusal Nitelikler",
+    "distinctive_mechanism_or_principle": "Daha ileri temsile direnen epistemik ilksellerin işleyişi, yeterince yapılandırılmış temsilsel işlemeyle birleşmiş olarak .",
+    "dynamics_of_emergence": "Dinamik süreç. Bilinç, yeterince yapılandırılmış bir bilişsel sistem içindeki süregelen etkinlik (işleme) tarafından üretilir .",
+    "location_and_distribution": "Bilişsel sistem (beyin) içinde yerelleşmiştir; burada kesinlikle fiziksel olarak örneklenir .",
+    "causation_and_functional_role": "Bilincin işlevsel rolü, öz-düşünümsel bir bilişsel sistemin doğasına bağlıdır ve ona nesnel varoluşundan bağımsız öznel bir dünya yaratma olanağı verir .",
+    "integration_or_binding": "Bütünleşme, birleşik içerik oluşturmak için 'yeterince yapılandırılmış temsilsel işleme' üreten süreçte örtüktür .",
+    "information_flow_or_representation": "Bilinç, yapılandırılmış ve öz-düşünümsel olan temsilsel bilgi akışının nihai ürünü ya da içeriğidir .",
+    "evolutionary_account": "Bilinç, öz-düşünümsel bir bilişsel sistemin sonluluğuna bağlıdır ve sistemi kendi yokluğunu deneyimlemekten alıkoymak için ortaya çıkar .",
+    "core_claims_and_evidence": [
+      "Fenomenal bilinç, yeterince yapılandırılmış bir işleme sisteminin temsilsel içeriğidir .",
+      "Temel duyusal nitelikler, daha ileri temsile direnen epistemik ilkseller olmaları nedeniyle monadik bir karakter taşır .",
+      "Model, Bütünleşik Bilgi Kuramı, Küresel Çalışma Alanı Kuramı ve Öngörücü İşleme ile tutarlıdır ."
+    ],
+    "basis_of_belief_or_evidence_type": "Kavramsal, Felsefi, Hesaplamalı (temsil biliminde beklenen doğrulama) "
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir. 'Temsil ve temsilsel içerik bilimindeki gelişmelerden' doğrulama arar .",
+    "known_empirical_interventions_or_tests": "Belirli testler sıralanmaz, ancak model Bütünleşik Bilgi Kuramı (IIT), Küresel Çalışma Alanı Kuramı (GWT) ve Öngörücü İşleme ile ilgili araştırmalarla tutarlıdır (ve dolayısıyla onlardan bilgilenebilir) .",
+    "criticisms_and_tensions": "Diğer temsilsel kuramlar gibi, niteliksel, indirgenemez fenomenal deneyimin salt yapılandırılmış bilgisel içerikle nasıl tam olarak açıklandığını izah etme güçlüğüyle karşı karşıyadır .",
+    "open_questions_and_limitations": "İçerik Hipotezinin açık ampirik doğrulaması ve gereken temsilsel işlemenin ayrıntılı yapısı açık kalır .",
+    "ontological_coherence": "Bilinci tümüyle natüralist ve materyalist bir ontoloji içinde temellendirerek son derece tutarlıdır ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç, yeterince yapılandırılmış işlemeden doğan kesinlikle fiziksel bir olgu olarak konumlandırıldığından, bu yapının ileri yapay sistemlerde çoğaltılması bilinci olanaklı kılmalıdır ."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır (kişisel benlik için) / Evet (genel öznellik için)",
+      "rationale": "Bireysel bilinç fiziksel bir örneklemedir ve beyin ölümüyle çözülür. Ancak 'genel öznel süreklilik', bilincin başka bağlamlarda, ölen birey olarak olmasa da, sürdüğünü düşündürür ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Varoluşsal/İçkin",
+      "rationale": "Öz-düşünümsel sistemin sonluluğunun sürüklediği bilinç, doğası gereği içsel bir dünya yaratır ve öznel sürekliliğin korunmasına bağlı bir amaç sağlar ."
+    },
+    "virtual_immortality": {
+      "stance": "Koşullu",
+      "rationale": "Materyalist bir kuram olarak, belirleyici 'yeterince yapılandırılmış temsilsel işleme' biyolojik olmayan bir ortamda tam olarak çoğaltılabilirse, kişisel bilinç aktarımı mümkündür ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Tutarlı"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Tutarlı"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "Tutarlı"
+      },
+      {
+        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "relationship": "Etki"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Locating consciousness: why experience can’t be objectified, T. Clark",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Death, nothingness, and subjectivity, T. Clark",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Personal Communication, T. Clark",
+        "year": 2024
+      }
+    ]
+  }
+}

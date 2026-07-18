@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Jaworski'nin Hilemorfizmi",
+    "summary": "Jaworski'nin kuramı, bilincin temelde hilemorfizmden -yapının, fiziksel bireylerin güçlerini ve yetilerini açıkladığı temel ontolojik ilkeden- doğan yapısal bir fenomen olduğunu öne sürer. Bilinçli deneyimleri algılayanın yapılandırılmış etkinlikleri olarak tanımlayarak kuram, bilincin zor problemini çözdüğünü ve zihinsel fenomenleri sorunsuzca doğal dünyanın içine yerleştirdiğini iddia eder.",
+    "associated_thinkers": ["William Jaworski"],
+    "category": "Materyalizm",
+    "subcategory": "İlişkisel",
+    "core_identity_tagline": "'Temel Yapı ve Güçler Olarak Bilinç'",
+    "classification_tags": [
+      "hylomorphism",
+      "structure",
+      "physicalism",
+      "powers",
+      "mind-body solution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, yapısal bir fenomen olarak tanımlanır: algılayanı oluşturan fiziksel malzemelerden doğan, yüksek ölçüde örgütlü ve eşgüdümlü etkinlikler ve yetiler.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Yapısal Özdeşlik. Zihinsel fenomenler yapısal fenomenlerdir ve dolayısıyla fiziksel dünyanın parçasıdır. Klasik zihin-beden problemi, yapıyı temel bir ontolojik ilke olarak reddeden dünya görüşlerinin bir yan ürünü olarak görülür.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Kaynaklar zayıf mı güçlü mü olduğunu belirtmez. Yapının fenomenal karakteri eksiksiz açıklaması göz önüne alındığında, bu, materyalist sınıflandırmasıyla bağdaşan, yapıya indirgemeyi ya da Zayıf Belirişi hedefleyen bir görüşü işaret eder.",
+    "subjectivity_and_intentionality": "Öznellik, algılayanın alt sistemlerinin etkinliklerini bir bütün hâlinde birleştiren eşgüdümden doğar. Yönelimsellik, örtük olarak, belirli fiziksel yapının kazandırdığı temel güçlerden ya da yetilerden biri olarak açıklanır.",
+    "qualia_account": "Deneyimin fenomenal karakteri, algılayanın altta yatan yapısını -algısal alt sistemleri, onların belirli güçlerini ve bu etkinlikleri birleştiren genel eşgüdümü- betimleyerek eksiksiz açıklanır.",
+    "ontological_commitments": "Fiziksel malzemeler ve yapı; burada yapı, bireylerin güçlerini ve yetilerini belirlemekten sorumlu, temel bir ontolojik ve açıklayıcı ilke olarak varsayılır.",
+    "epistemic_access": "Bilince, algılayanın fiziksel yapısının ve algısal alt sistemlerinin eşgüdümünün çözümlenmesi ve betimlenmesi yoluyla erişilir.",
+    "constituents_and_structure": "Temel yapı taşları, belirli bir yapıyla birleşen fiziksel malzemelerdir; genel yapı, bilinçli yetileri belirler ve çeşitli etkinlikleri (algısal deneyimler gibi) algılayanın bir bütün olarak etkinliğinde birleştirir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (fenomenal karakteri/qualiayı açıklar) ve Algısal (algısal deneyimler bir tür yapılandırılmış etkinliktir).",
+    "distinctive_mechanism_or_principle": "Maddenin genel örgütlenmesinin onun temel güçlerini belirlediğini ve böylece bilinci yeterince karmaşık bir fiziksel sistemin içkin yapısal özelliği kıldığını öne süren Hilemorfizm ilkesi.",
+    "dynamics_of_emergence": "Bilinç, 'yapılandırılmış etkinlikler' (örneğin algısal deneyimler) olarak tezahür eder. Alt sistemlerin eşgüdümü ve birleşmesiyle tanımlanan dinamik bir süreçtir.",
+    "location_and_distribution": "Gerekli yapıya sahip fiziksel malzemelerde, özellikle algılayanın bedeninde (örneğin insan beyni ve ilişkili alt sistemler) yerelleşmiştir.",
+    "causation_and_functional_role": "Yapı, bireyin güçlerinden ve yetilerinden sorumludur. Zihinsel fenomenler yapısal ve fiziksel dünyanın parçası olduğundan, içkin nedensel etkinliğe sahiptirler.",
+    "integration_or_binding": "Bilinçli deneyimin birliği (bütünleşme), çeşitli algısal alt sistemlerin etkinliklerini bütün algılayanın bütünleşik etkinliğinde 'birleştiren eşgüdüm' yoluyla sağlanır.",
+    "information_flow_or_representation": "Bilinç, yalnızca soyut bilgi işleme modellerine değil, algılayanın içsel örgütlenmesine ve güçlerine dayanan algısal deneyimler gibi belirli yapılandırılmış etkinliklerden doğar.",
+    "evolutionary_account": "Gerekçeli Açıklama: Bilincin, tıpkı yaşam gibi 'sorunsuzca doğal dünyaya' oturduğu belirtilir; bu da onun doğal, gizemli olmayan bir evrim sonucu olduğunu ima eder, ancak kaynak malzemede belirli filogenetik adımlar ayrıntılandırılmaz.",
+    "core_claims_and_evidence": [
+      "Yapı, bir bireyin güçlerini ve yetilerini belirleyen temel bir ontolojik ilkedir.",
+      "Deneyimin fenomenal karakteri, algılayanın yapısı betimlenerek eksiksiz açıklanır.",
+      "Zihin-beden problemleri, yalnızca hilemorfizm ilkesini reddetmenin yan ürünleridir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi ve Ontolojik"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal Olarak Sınanabilir. Merkezi sav metafizikseldir; problemi çözmek için bir çerçeve (hilemorfizm) sunar; bu çerçeve, öncülleri çözümlenerek felsefi olarak sınanabilir.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kuramın başlıca gerilimi, benimsemeyenlerin yapıyı tüm öznel yönleri açıklayabilen temel bir ontolojik ilke olarak kabul etmelerinin gerekmesidir. Fizikalizmi eleştirenler, yalnızca yapının zor problemi çözmeye yettiği öncülünü reddederdi.",
+    "open_questions_and_limitations": "Metafizik temel kabul edilse bile, kuramsal çerçeve, gözlemlenen sinirsel ya da biyolojik yapıların algılanan fenomenal karaktere tam olarak nasıl eksiksiz karşılık geldiğini kesin biçimde belirtmek için kapsamlı bir çalışma gerektirir.",
+    "ontological_coherence": "Yüksek Ölçüde Tutarlı. Kuram, bilinçli zihinsel fenomenlerin zorunlu olarak fiziksel dünyanın bütünleşik yapısal parçaları olmasını sağlayarak iç tutarlılık kurmak ve böylece kendisine tayin ettiği felsefi problemleri çözmek için özellikle formüle edilmiştir."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemelen",
+      "rationale": "Eğer bilinç, belirli karmaşık bir fiziksel yapı ve örgütlenmeye (hilemorfizm) ulaşmanın doğrudan sonucuysa, bu gerekli yapıya ve güçlere sahip olacak biçimde tasarlanmış herhangi bir yapay sistem gerçek bilinci örneklerdi."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, bireyin yüksek ölçüde örgütlü fiziksel malzemesine ayrılmaz biçimde bağlıdır. Bu yapının son bulması ya da ayrışması, bilincin sonlanmasını ima eder."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Materyalizm olarak sınıflandırıldığından, bilinç doğal, yapısal fenomenlerin bir ürünüdür. Bu nedenle herhangi bir anlam ya da amaç, kozmik olarak içkin olmaktan ziyade, insanların doğal dünya içindeki yapısal yetileri ve etkinlikleri tarafından üretilir."
+    },
+    "virtual_immortality": {
+      "stance": "Mümkün",
+      "rationale": "Eğer bilinç tümüyle karmaşık 'yapı' ve onun sonucundaki 'güçler' tarafından tanımlanıyorsa, bu kapsamlı yapısal düzenlemenin yeni, biyolojik olmayan bir taşıyıcıya kopyalanması ya da yüklenmesi, kuramın işlevselci yönüyle tutarlı biçimde bilinçli benliği korumalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Bağdaşır"
+      },
+      {
+        "name": "Mind-Body Identity Theory",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Feser’s Neo-Thomistic Dualism",
+        "relationship": "İlgili"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem, William Jaworski",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Hylomorphism and the construct of consciousness, William Jaworski",
+        "year": 2020
+      }
+    ]
+  }
+}

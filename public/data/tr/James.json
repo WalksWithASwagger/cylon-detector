@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "William James'in Psikoloji Kuramında Zor Problemin Yokluğu",
+    "summary": "William James'in çalışmasının bir yorumuna dayanan bu görüş, bilincin öznel deneyimin bir gizemi değil, 'seçim problemini' çözmek üzere tasarlanmış evrilmiş bir mekanizma olduğunu savunarak Zor Problem paradigmasını tersine çevirir. Bu mekanizma, karmaşık bir beynin ürettiği seçenek bolluğu arasından uyum sağlayıcı tepkileri seçerek ve beynin uzun vadeli çıkarlarıyla uyumlu sonuçları kayırarak organizmanın uygunluğunu artırır.",
+    "associated_thinkers": ["William James", "Tracy Witham"],
+    "category": "Materyalizm",
+    "subcategory": "Filogenetik Evrim",
+    "core_identity_tagline": "Uyum Sağlayıcı Seçim Mekanizması Olarak Bilinç",
+    "classification_tags": [
+      "evolution",
+      "functionalism",
+      "deflationary",
+      "selection problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, organizmanın en kalıcı çıkarlarını sağlayan icraatlar lehine baskı uygulayan bir seçim mekanizması olarak tanımlanır; kökeni, belirli duyumlara yönelik tercihlerin (fiili amaçların) kazandırılmasına dayanır.",
+    "ontological_status": "İşlevselci/Fizikalist (Gerekçe: Kuram, bilince tümüyle işlevsel, uyum sağlayıcı bir rol atayarak Zor Problem'i çözer ve onu, bilinci yalnızca fiziksel sistemler yoluyla açıklama şeklindeki Materyalizm amacıyla hizalar).",
+    "mind_body_relationship": "Bilinç, karmaşık beyin süreçleriyle işlevsel olarak iç içedir; özellikle tercihlerin organizma-çevre etkileşimlerini etkilediği 'serebral reflekslerin' oluşumuna bağlıdır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş (Gerekçe: Bilinç, beyin karmaşıklığı en uygun olmayan tepki seçeneklerinin çoğalmasına yol açtığında uyum sağlayıcı bir zorunluluk olarak belirir; bu da gelişmiş fiziksel örgütlenmeden bir beliriş ima eder).",
+    "subjectivity_and_intentionality": "Öznellik işlevsel olarak ele alınır; zira bilinç bazı duyumlar için diğerlerine göre tercihler kazandırır ve böylece organizmanın 'fiili amaçlarının' (yönelimsel hedeflerinin) kaynağını belirler.",
+    "qualia_account": "Zor Problem (qualia ya da 'nasıl bir şey olduğu'nu açıklama), odağı bilincin çözdüğü işlevsel probleme (seçim problemine) kaydırarak esasen çözülür.",
+    "ontological_commitments": "Karmaşık biyolojik beyinler, uyum sağlayıcı seçim gerektiren çevresel durumlar ve evrilmiş psikolojik işlevler (seçim mekanizmaları, tercihler).",
+    "epistemic_access": "Öncelikle, organizmanın uygunluğunu artırma ve davranışları seçmedeki işlevsel rolünün çözümlenmesi yoluyla erişilir (üçüncü şahıs evrimsel çözümleme).",
+    "constituents_and_structure": "Bir tepki seçenekleri bolluğunu destekleyebilen karmaşık bir beyin yapısı, uyum sağlayıcı sonuçları önceliklendirmek için üzerine bindirilmiş bir seçim mekanizmasıyla birleşir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Faillik, uyum sağlayıcı tepkilerin seçimi, tercihlerin kazandırılması (bilincin işlevsel yönleri).",
+    "distinctive_mechanism_or_principle": "Mekanizma, karmaşık davranışların organizmanın uzun vadeli, kalıcı çıkarlarını kayırmasını sağlayarak bir seçim baskısı gibi işleyen bilinçtir.",
+    "dynamics_of_emergence": "Rekabet eden tepki seçenekleri oluşturacak kadar karmaşık beyinlerde ortaya çıkan, en avantajlı sonucu süzmeye ya da seçmeye yarayan ve böylece tercih edilen duyumlardan 'fiili amaçlar' oluşturan dinamik bir süreç.",
+    "location_and_distribution": "'Seçim problemi' ile yüzleşecek yeterli karmaşıklığa ulaşmış beyinlerde konumlanmıştır.",
+    "causation_and_functional_role": "Bilinç, uygunluğu artıran icraatlara baskı uygulayarak nedensel olarak etkilidir; işlevi, karmaşık sistemlere içkin olan 'seçim problemini' çözmektir."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir/Ampirik olarak makul (Gerekçe: Bilimsel incelemeyle bağdaşan evrimsel ilkelere ve biyolojik uygunluğa dayanır; bu da onu Filogenetik Evrim altında sınıflandırır).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Başlıca kavramsal gerilim, bilincin, betimlendiği biçimde 'seçim problemini' ele almak için gerçekten -ilk bakışta bile- iyi bir uyum sağlayıp sağlamadığıdır.",
+    "open_questions_and_limitations": "Bilinç ile 'seçim problemi' arasındaki tam uyum açık bir soru olarak kalır; 'serebral refleks' şemalarının imasını anlamak da öyle.",
+    "ontological_coherence": "İşlevselci ve evrimsel bir çerçeve içinde tutarlıdır; zira bilinç problemini yeniden tanımlayarak geleneksel metafizik bağlanımlardan kaçınır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemelen",
+      "rationale": "Eğer bilinç öncelikle işlevsel bir seçim mekanizmasıysa, yeterli karmaşıklığa ulaşan ve uyum sağlayıcı çıktıları önceliklendirmek için benzer bir mekanizma gerektiren herhangi bir yapay sistemin bilinçli sayılması muhtemeldir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bu bilinç yorumu, sağlamca evrilmiş biyolojik zorunluluğa ve beynin işlevine dayanır; biyolojik ölümden sonra sürekliliğe hiçbir olanak tanımaz."
+    },
+    "meaning_and_purpose": {
+      "stance": "Pragmatik",
+      "rationale": "Anlam ve amaç biyolojik işleve bağlıdır: evrimsel uygunluğu artırmak ve 'beynin sahibinin en kalıcı çıkarlarına' ulaşmak."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemelen",
+      "rationale": "İşlevselci bir kuram olarak, altta yatan seçim mekanizmasının ve işlevsel örgütlenmenin kopyalanması ya da yüklenmesi, bilincin başarılı biçimde sürmesiyle sonuçlanmalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Bağdaşır"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Bağdaşır"
+      },
+      {
+        "name": "Chalmers’s Hard Problem",
+        "relationship": "Eleştiri"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Principles of Psychology, William James",
+        "year": 1890
+      }
+    ]
+  }
+}

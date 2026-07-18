@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Bilincin Üst-Düzey Kuramları",
+    "summary": "Üst-Düzey Kuramlar (HOT), bir algıyı bilinçli kılan şeyin, o algıya ilişkin eşlik eden bir bilişsel durumun varlığı olduğunu ileri sürer. Bu mekanizma, fenomenal bilincin, birinci-düzey algıların ya da zihinsel durumların üst-düzey duyumsanması olduğu iki-düzeyli bir süreçtir.",
+    "associated_thinkers": [
+      "Peter Carruthers",
+      "David Rosenthal",
+      "Joseph LeDoux",
+      "Hakwan Lau"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Temsilci",
+    "core_identity_tagline": "Üst-Düzey Temsil Olarak Bilinç",
+    "classification_tags": [
+      "representation",
+      "cognitive",
+      "two-level process",
+      "inner-sense theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Fenomenal bilinç, birinci-düzey bir zihinsel duruma ya da algıya yönelmiş üst-düzey duyumsama ya da temsil (bir bilişsel durum veya düşünce) olarak özdeşleştirilir.",
+    "ontological_status": "İndirgemeci Fizikalizm/İşlevselcilik (Gerekçe: Materyalist bir kuram olarak bilinci, beyin tarafından uygulanan işlevsel/bilişsel süreçlere indirger; bu da çoğunlukla mentalist terimlerle çerçevelenir.)",
+    "mind_body_relationship": "Bilinç, her ikisi de beyindeki fiziksel süreçlerle tümüyle gerçekleştirilen iki zihinsel düzey (birinci-düzey ve ikinci-düzey durumlar) arasındaki nedensel ilişki yoluyla doğar.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş (Gerekçe: Temel bir Materyalist kuram olarak bilincin, indirgeme mentalist ya da işlevsel terimlerle ifade edilse bile, ilke olarak indirgenebilir olduğu savunulur.)",
+    "subjectivity_and_intentionality": "Öznellik, birinci-düzey durum ikinci-düzey bir düşüncenin nesnesi olduğunda doğar ve bir 'görünme' ya da öz-farkındalık boyutu kazandırır. Yönelimsellik her iki düzeyde de işler: birinci-düzey (dünyaya dair) ve ikinci-düzey (birinci-düzey duruma dair).",
+    "qualia_account": "Qualia, yani fenomenal nitelik, algıya ilişkin eşlik eden üst-düzey bilişsel durumun varlığıyla açıklanır ve fenomenal bilinci mentalist terimlerle indirgemeci biçimde açıklamayı amaçlar.",
+    "ontological_commitments": "Birinci-düzey zihinsel durumlar (algılar/duyumlar), ikinci-düzey bilişsel durumlar (düşünceler/temsiller) ve bu temsilleri örnekleyen karmaşık kortikal ağlar (örneğin prefrontal korteks).",
+    "epistemic_access": "İçe bakış yoluyla (bilinçli durumlar, farkında olduğumuz durumlar olduğundan) ve bilişsel mimarilerin ile bağıntılı nöral etkinleşme örüntülerinin üçüncü-şahıs modellenmesi (örneğin algısal gerçeklik izleme) aracılığıyla erişilebilir.",
+    "constituents_and_structure": "Birinci-düzey temsillerden (duyusal bilgi) ve bu birinci-düzey durumlara yönelmiş ikinci-düzey bilişsel temsillerden (düşünceler ya da algılar) oluşan iki-düzeyli bir işleme yapısı."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç; Öz-farkındalık (kişinin kendi durumlarının farkındalığı olarak); Duygusal bilinç (LeDoux'nun varyantında).",
+    "distinctive_mechanism_or_principle": "Daha alt düzey bir zihinsel durumu hedef alan ve onu böylece bilinçdışından bilinçliye dönüştüren eşlik eden bir bilişsel ya da meta-durumun (üst-düzey temsil ya da düşünce) varlığı.",
+    "dynamics_of_emergence": "Bilinç, duyusal temsil ile izleyici bilişsel yapı arasındaki iki-düzeyli ilişkiden doğan dinamik, süreçsel bir fenomendir (örneğin Edimselci HOT'ta fiili nedensellik ya da Eğilimselci HOT'ta erişilebilirlik).",
+    "location_and_distribution": "Öncelikle üst-düzey bilişsel işlev ve üstbilişle ilişkili kortikal bölgelerde, örneğin prefrontal kortekste (PFC) konumlanır; 'kafanın arkası' kuramlarıyla karşıtlık oluşturur.",
+    "causation_and_functional_role": "Üst-düzey durum, alt düzey duruma bilinç bahşeder (Edimselci HOT). İşlevsel rolü tipik olarak birinci-düzey algının içeriğini esnek bilişsel işleme ve bildirim için erişilebilir kılmaktır.",
+    "integration_or_binding": "Bütünleşmenin gerçekleştiği varsayılır; belki birleşik üst-düzey temsilin sağladığı işlevsel bütünleşme yoluyla örtük olarak ya da algısal temsilleri birbirine bağlayan bellek mekanizmaları aracılığıyla (Lau'nun varyantında belirtildiği gibi).",
+    "information_flow_or_representation": "Bilinç, birinci-düzey duyusal girdiyi 'etiketleyen' ya da kategorize eden temsillerin temsillerini (ikinci-düzey temsiller) üreten bir bilgi akışıyla elde edilir.",
+    "evolutionary_account": "Bilinçli mekanizmalar, kortikal temelli genel biliş ağları aracılığıyla karmaşık duygusal deneyimleri ve benlik-merkezli farkındalığı olanaklı kılarak daha basit süreçlerden evrimleşmiştir.",
+    "core_claims_and_evidence": [
+      "Fenomenal bilinç, algıya ilişkin bir bilişsel durum tarafından aracılanır (iki-düzeyli süreç).",
+      "Bilinçli durumlar, bilinçdışı durumlardan bir üst-düzey temsilin varlığıyla ayırt edilir.",
+      "Körgörü, karşılık gelen üst-düzey temsil olmaksızın bir birinci-düzey temsilin varlığıyla açıklanır."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (bilinçli/bilinçdışı ayrımını açıklama), Bilişsel, Sinirbilimsel Modelleme (örneğin körgörü çalışmaları)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir (özellikle kortekste birinci-düzey işleme ile karşılık gelen üst-düzey etkinlik arasındaki fark açısından).",
+    "known_empirical_interventions_or_tests": "Ampirik kanıt, gerekli üst-düzey temsilin varlığını ya da etkinliğini sınamak için çoğunlukla bilinçli ve bilinçdışı algının (körgörü gibi) karşılaştırmaları yoluyla aranır.",
+    "criticisms_and_tensions": "Bilinç bahşetmek için üst-düzey düşünce ile birinci-düzey algı arasında gereken tam ilişkinin belirlenmesindeki güçlük nedeniyle eleştirilir ki bu da içerik-betimleme yetersizliklerine yol açar. 'Çifte temsil' yaklaşımı kavramsal olarak muğlak görülür.",
+    "open_questions_and_limitations": "Bilincin doğması için üst-düzey bir durum ile birinci-düzey bir algı arasında bulunması gereken ilişkinin kesin doğası açık bir soru olarak kalır. Ayrıca qualia için açıklayıcı boşluğa ilişkin genel itirazla karşı karşıyadır.",
+    "ontological_coherence": "Temsil ve bilişsel durumlar gibi bilimsel olarak ele alınabilir kavramlara dayanarak fizikalist/materyalist ve işlevselci bir ontoloji içinde son derece tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Bilişsel ve temsilci yapılara dayanan bir Materyalist kuram olarak bilinç, temelde hesaplamalı ya da işlevseldir; bu da kendini izleyebilen ve üst-düzey temsiller oluşturabilen gelişmiş yapay zeka sistemlerinin bilince ulaşabileceği anlamına gelir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, tümüyle karmaşık, kortikal temelli beyin mekanizmalarıyla gerçekleştirilir; dolayısıyla biyolojik altkatmanın çöküşünden sonra süremez."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Beliren biyolojik süreçlerden doğan bilinç, öz-düşünüm ve fail olma sağlar, ancak Materyalizmin indirgemeci tutumuyla uyumlu biçimde herhangi bir nihai kozmik ereksellik ima etmez."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç tümüyle temsilci ve işlevsel ilişkilerle tanımlanıyorsa, bu karmaşık bilişsel durumların biyolojik olmayan bir ortama kusursuz biçimde çoğaltılıp yüklenmesi birinci-şahıs zihinsel benliği korumalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "Uzantı"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Higher-Order Theories of Consciousness, Peter Carruthers",
+        "year": 2020
+      },
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, Joseph LeDoux and Richard Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      }
+    ]
+  }
+}

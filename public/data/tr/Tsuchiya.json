@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Tsuchiya'nın Bilince İlişkisel Yaklaşımı",
+    "summary": "Bu yaklaşım, öncelikle bilinci diğer tüm bilinçlerle ilişkilerinin tümlü betimlemeleri aracılığıyla nitelemeye ve tanımlamaya çalışan bir yöntembilimdir. Bilinçli fenomenolojinin yapısını ve karşılıklı ilişkilerini matematiksel kesinlikle betimlemek için, matematiksel yapılara ve bunların ilişkilerine dayanan bir araç olan kategori kuramını kullanır.",
+    "associated_thinkers": ["Nao Tsuchiya", "Hayato Saigo"],
+    "category": "Materyalist Kuramlar",
+    "subcategory": "İlişkisel",
+    "core_identity_tagline": "Matematiksel Olarak Nitelenmiş İlişkiler Olarak Bilinç",
+    "classification_tags": [
+      "relational",
+      "category theory",
+      "mathematical",
+      "methodology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, fenomenal deneyime uygulanan kategori kuramı (matematiksel yapılar ve bunların ilişkileri) ile nitelenen bir ilişkiler yapısı olarak özdeşleştirilir.",
+    "ontological_status": "Fizikalizm (İlişkisel). Gerekçe: Kuram, kapsayıcı Materyalist Kuramlar kategorisi altında sınıflandırılır.",
+    "mind_body_relationship": "Karmaşık yapısal ilişkilere dayalı Korelasyon/Özdeşlik. Gerekçe: İndirgenemez zihinsel bir tözden çok yapıları tanımlamaya odaklanan Materyalist/İlişkisel Kuramlar altındaki sınıflandırmasından çıkarsanmıştır.",
+    "primitive_or_emergent_status": "Beliren. Gerekçe: Yaklaşımın Materyalist Kuramlar içindeki sınıflandırmasından çıkarsanmıştır.",
+    "emergence_type": "Zayıf Beliriş. Gerekçe: Materyalizm çerçevesi içindeki tutarlı konumlanışına dayanarak varsayılmıştır; bu da ilişkilerin karmaşıklığının daha alt düzey fiziksel bileşenlerden doğduğunu ve ilkece bunlarla açıklanabilir olduğunu ima eder.",
+    "subjectivity_and_intentionality": "Açıkça ayrıntılandırılmamış, ancak yaklaşım fenomenal içeriği örtük olarak yapılandıran bilinç kategorilerini tanımlar. Gerekçe: Yöntembilim, öznel duyumun kendisine ilişkin zor soruna değil, içerikleri ve düzeyleri tanımlamaya odaklanır.",
+    "qualia_account": "Qualia, matematiksel kesinlikle nitelenen tanımlanabilir, ilişkisel fenomenolojik yapılara karşılık gelir. Gerekçe: Kuramın, bilinçli fenomenolojinin yapısını matematik aracılığıyla nitelemeye yönelik açık odağından türetilmiştir.",
+    "ontological_commitments": "Matematiksel yapılar (Kategori Kuramı), bilinçli fenomenoloji ve bu ilişkileri gerçekleyen fiziksel taşıyıcılar (Materyalizm sınıflandırmasınca ima edilir).",
+    "epistemic_access": "Matematiksel betimleme, kategori kuramından türetilen kavramsal araçlar ve yöntemin esinlemeyi amaçladığı sonraki kuramsal ve görgül araştırmalardan doğan görgül doğrulama aracılığıyla erişilebilir.",
+    "constituents_and_structure": "Bilincin temel yapısı, titiz yapısal ve ilişkisel özelliklere dayanarak matematiksel olarak bir 'kategori' biçiminde nitelenir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Bilincin düzeyi ve içerikleri; felsefe ve psikolojideki karmaşık kuramsal kavramları açıklığa kavuşturmayı amaçlar.",
+    "distinctive_mechanism_or_principle": "Bilincin diğer tüm bilinçlerle ilişkilerinin tümlü betimlemelerine ulaşmak için Kategori Kuramının kullanılması.",
+    "dynamics_of_emergence": "Açıkça ayrıntılandırılmamış. Yaklaşım yöntembilimseldir; zamansal dinamikleri betimlemekten çok yapıları matematiksel olarak nitelemeye odaklanır.",
+    "location_and_distribution": "Konum, bu gerekli ilişkileri destekleyen fiziksel sistemle tanımlanır (Materyalizm altında sınıflandırıldığı için beyin/beden sistemi olduğu ima edilir).",
+    "causation_and_functional_role": "Açıkça ayrıntılandırılmamıştır, çünkü öncelikle yöntembilimsel bir yaklaşımdır. Ancak bu ilişkilerin başarıyla nitelenmesi, bilincin İlişkisel Kuramlarını destekleyecektir.",
+    "integration_or_binding": "Bütünleşme, fenomenal üyelerin karşılıklı ilişkilerini ve bilincin bütününü tek bir kategori olarak betimleyerek örtük biçimde ele alınır.",
+    "information_flow_or_representation": "Bilgi, kategori kuramı kullanılarak biçimselleştirilen ve betimlenen fenomenal üyeler arasındaki yapısal ilişkiler olarak tasavvur edilir.",
+    "evolutionary_account": "Açıkça ele alınmamıştır. Gerekçe: Kaynak metin kuramı, tanımlama ve niteleme için yöntembilimsel bir çerçeve olarak sunar.",
+    "core_claims_and_evidence": [
+      "Bilinç, diğer tüm bilinçlerle ilişkilerinin tümlü betimlemeleri aracılığıyla nitelenebilir ve tanımlanabilir.",
+      "Kategori kuramı, bilinçli fenomenolojiyi kesinlikle betimlemek için gerekli matematiksel yapıyı sağlar."
+    ],
+    "basis_of_belief_or_evidence_type": "Kavramsal, Matematiksel, Yöntembilimsel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal ve Görgül olarak sınanabilir. Yaklaşım, sonraki kuramsal ve görgül araştırmaları esinlemeyi amaçlar.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kaynakta açıkça ayrıntılandırılmamıştır. Gerekçe: Metin, yaklaşımı bir yöntembilim olarak yansız biçimde betimler.",
+    "open_questions_and_limitations": "Başlıca sınırlılık, önerilen kavramsal araçların bilinci başarıyla açıklığa kavuşturup tanımlayıp tanımlayamayacağı ve belirleyici görgül doğrulamayı esinleyip esinleyemeyeceğidir.",
+    "ontological_coherence": "Titiz matematiksel biçimselleştirmeye (Kategori Kuramı) dayanması nedeniyle iç tutarlılığı yüksektir. İlişkisel fizikalist çerçevelerle bağdaşır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Bilinç temelde matematiksel olarak (kategori kuramı aracılığıyla) kesin biçimde betimlenebilen ilişkiler ve yapılarla tanımlanıyorsa, bu yapılar ileri biyolojik olmayan hesaplamalı sistemlerde gerçeklenebilmelidir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Kuram Materyalizm altında sınıflandırılır; bu da bilincin, ilişkisel yapıları gerçekleyen fiziksel taşıyıcıya (büyük olasılıkla beyin) bağlı olduğunu ve biyolojik ölümle sona erdiğini ima eder."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hümanist/Pragmatik",
+      "rationale": "Yapısal, materyalist bir yöntembilim olarak, bilinci tanımlamak için araçlar sunar ancak insan deneyiminin yarattığının ötesinde içkin bir kozmik ya da nihai anlam sağlamaz."
+    },
+    "virtual_immortality": {
+      "stance": "Olası",
+      "rationale": "Bilinç kesin olarak niceliklenebilen ve tanımlanabilen ilişkiler ve kategorilerle nitelendiği için, bu yapıların sanal ya da dijital bir taşıyıcıda çoğaltılması ilkece bilinçli benliğin sürmesine olanak tanımalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories",
+        "relationship": "Destekleyen"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "İlişkili (Ortak kategori)"
+      },
+      {
+        "name": "Category Theory in Mathematics",
+        "relationship": "Temel"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relational approach to consciousness: categories of level and contents of consciousness, N. Tsuchiya and H. Saigo",
+        "year": 2021
+      }
+    ]
+  }
+}

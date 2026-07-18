@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Stoljar'ın Epistemik Görüşü ve Standart Olmayan Fizikalizm",
+    "summary": "Bu kuram, bilinçle ilgili bir tür fiziksel olgu ya da özellikten derinlemesine habersiz olduğumuzu ileri süren cehalet hipotezini öne sürerek fizikalizmi anti-materyalist argümanlara karşı savunur. Bilinç ile fizikalizm arasındaki sözde bağdaşabilirlik sorununun, fizikalizmin kendisindeki ontolojik bir kusurdan değil, mevcut epistemik sınırlılıklarımızdan kaynaklandığını savunur.",
+    "associated_thinkers": ["Daniel Stoljar"],
+    "category": "Materyalizm",
+    "subcategory": "Felsefi",
+    "core_identity_tagline": "Epistemik Cehalet Yoluyla Savunulan Fizikalizm",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ignorance hypothesis",
+      "compatibility problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, hâlihazırda bilmediğimiz bir tür fiziksel olgu ya da özellik tarafından oluşturulan fiziksel bir olgudur. Bilinçli durumlar başka şeylere bağımlıdır ve temel değildir.",
+    "ontological_status": "Standart Olmayan Fizikalizm",
+    "mind_body_relationship": "Bilinç, fiziksel özelliklerle özdeştir (örneksel özdeşlik) ya da onlar tarafından zorunlu kılınır, ancak bu fiziksel özelliğin belirli doğası epistemik cehalet nedeniyle bilinmezdir. Bu ilişki fizikalizmi ampirik bir hakikat olarak savunur.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Epistemik Beliriş. Bu, kuram fizikalizmi savunurken (ilkece zayıf beliriş ya da özdeşlik önerirken) belirleyici özelliğin, ilgili fiziksel olguların şu anda standart yöntemlerle bilinemez oluşu ve cehalete dayalı bir açıklama boşluğunun sürdürülmesi olmasıyla haklılık kazanır.",
+    "subjectivity_and_intentionality": "Öznellik ve yönelimsellik, nihayetinde bilinçle ilgili bilinmeyen fiziksel özellikler tarafından gerçekleştirilir; bu da kuramın savunduğu genel fizikalist ontolojiyle tutarlıdır. Belirli gerçekleştirme mekanizması şu anda bilinmezdir.",
+    "qualia_account": "Niteliksel his (qualia), belirli, bilinmeyen fiziksel olgulara ya da özelliklere karşılık gelir. Qualia'ya dayanan anti-fizikalist argümanlar (Tasavvur Edilebilirlik Argümanı gibi), bu temeldeki fiziksel olguların tam bilgisini yanlışlıkla önvarsaydıkları için başarısız olur.",
+    "ontological_commitments": "Fiziksel özellikler, özellikle bilinçle ilgili bir tür fiziksel olgu ya da özellik; ki bunun doğası hakkında şu anda derinlemesine cahiliz. Ayrıca bilincin varlığına ve fizikalizmin genel yapısına da bağlılık gösterilir.",
+    "epistemic_access": "Erişim şu anda 'cehalet hipotezi' tarafından derinlemesine sınırlıdır; yani mevcut bilimsel yöntemleri kullanarak bilinçle ilgili fiziksel olguları tam olarak bilemeyiz. Ancak ampirik yasalar kuran sınırlı bir 'bilinç bilimi' mümkündür.",
+    "constituents_and_structure": "Bilinçli durumlar, fiziksel dünya tarafından gerçekleştirilen ancak onun temel özellikleri olmayan bağımlı yapılardır; gerçekleştirilmeleri şu anda bilinmeyen fiziksel olgulara bağlıdır."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç (özellikle fizikalizmle bağdaşabilirliğine karşı argümanları ele alarak).",
+    "distinctive_mechanism_or_principle": "Cehalet Hipotezi: Bilinci tam olarak açıklamak için gereken ilgili türdeki fiziksel olgu/özellikten habersiz olduğumuz düşüncesi; bu da tam fiziksel bilgi varsayan anti-fizikalist argümanları çökertir.",
+    "dynamics_of_emergence": "Bilinç, fiziksel sistemlerin bağımlı bir özelliği olarak ortaya çıkar. Bilinmeyen fiziksel olgulara bağımlılığın gerçek dinamik süreci henüz keşfedilmemiştir.",
+    "location_and_distribution": "Beyin ve beden; habersiz olduğumuz belirli fiziksel olgular tarafından gerçekleştirilir ve fizikalizmle tutarlıdır.",
+    "causation_and_functional_role": "Kuram işlevsel roldense metafiziksel bağdaşabilirliğe odaklanır. Bilinçli durumlar temel değildir ve 'başka şeylere bağlıdır.' Nedensel gücün (cehalet aşıldığında) tam olarak anlaşılmış fiziksel alanda yer aldığı ima edilir.",
+    "integration_or_binding": "Belirtilmemiştir. Bağlama probleminin, bilincin temelindeki şu anda bilinmeyen fiziksel olguların nihai olarak keşfedilmesi ve nitelendirilmesiyle çözüleceği varsayılır.",
+    "information_flow_or_representation": "Belirtilmemiştir. Kuram, belirli bilişsel ya da bilgisel mekanizmalardan çok fizikalizmin metafiziksel savunmasına odaklanır.",
+    "evolutionary_account": "Kuram, bilincin karmaşık biyolojik örgütlenmenin evrimsel bir sonucu olarak ortaya çıktığı ve bilinmeyen fiziksel özellikler tarafından gerçekleştirildiği standart bir fizikalist evrimsel açıklamayla bağdaşır.",
+    "core_claims_and_evidence": [
+      "Fizikalizme karşı Tasavvur Edilebilirlik Argümanı ve Bilgi Argümanı, bilinçle ilgili fiziksel olguların tam bilgisini yanlışlıkla önvarsaydıkları için ikna edici değildir.",
+      "Bilinçli durumlar temel değildir ve başka (fiziksel) şeylere bağlıdır.",
+      "Fizikalizm a priori bir argüman değil, ampirik bir hakikattir ve şu anda cehalet hipotezi aracılığıyla savunulabilirdir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (Kavramsal analiz ve savunma)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak kısıtlı. Stoljar, ampirik yasalar kuran bir bilinç biliminin mümkün olduğuna inanır, ancak eksiksiz bir sistematik kuramın inşa edilebileceğinden kuşkuludur.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kuram, temel fiziksel olgulara ilişkin derin cehalet varsayımına dayanır; eleştirmenler bunu açıklamayı erteleme olarak görebilir. Ayrıca kendisi geleneksel-dışı kalırken 'standart fizikalizmi' de eleştirir.",
+    "open_questions_and_limitations": "Bilinçle ilgili fiziksel olguların ya da özelliklerin kesin kimliği ve doğası bilinmezdir. Bilinci yöneten yasaların sistematik bilgisine ulaşma olasılığı da Stoljar tarafından akla yatkın bulunmaz.",
+    "ontological_coherence": "Yüksek tutarlılık; çünkü fizikalizmi bağdaşmazlık argümanlarına karşı ayakta tutmak için tasarlanmış, açıklama yükünü (şimdilik) ontolojik açıklamadan epistemik sınırlılığa kaydıran, kendi kendine yeten bir felsefi çerçeve sunar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Fizikalizmin bir savunması olarak kuram, bilincin fiziksel olduğunu ileri sürer. Bu nedenle ilkece, gerekli fiziksel olguları (şu anda bilinmeyenler dahil) gerçekleştiren herhangi bir yapay sistem bilinçli hâle gelmelidir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç fiziksel olgulara ve süreçlere bağımlıdır ve temel değildir. Fiziksel dayanağın (beynin) yıkımıyla birlikte bilinç varlığını yitirir; bu da fizikalizmle tutarlıdır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Temel fizikalist bağlılığıyla tutarlı olarak kuram, nihai kozmik anlam ya da amaç için bir temel sunmaz; anlam, bilinçli failler tarafından inşa edilir."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç tümüyle fizikselse, karmaşık fiziksel dayanak (cehalet hipotezinde belirlenen bilinmeyen özellikler dahil) biyolojik olmayan bir ortamda çoğaltılabildiği takdirde, birinci şahıs zihinsel benlik potansiyel olarak yüklenebilirdir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Conceivability Argument",
+        "relationship": "Eleştiri/Yanıt"
+      },
+      {
+        "name": "Knowledge Argument",
+        "relationship": "Eleştiri/Yanıt"
+      },
+      {
+        "name": "Standard Physicalism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Kind’s Dualism 2.0",
+        "relationship": "Tartışma Ortağı/Ortak Proje"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Physicalism, D. Stoljar",
+        "year": 2010
+      }
+    ]
+  }
+}

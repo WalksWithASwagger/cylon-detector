@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Strawson'ın Gerçekçi Monizmi ve Gerçek Materyalizm Kuramı",
+    "summary": "Bu kuram, bilincin ya da fenomenal deneyimin tümüyle fiziksel olduğunu ve varoluşumuzun en kesin olgusu olduğunu ileri sürer. Dolayısıyla 'gerçek' fizikalizm ya da materyalizm panpsişizmi gerektirmelidir; yani fenomenal özellikler tüm temel fiziksel malzemeye (enerji/madde) içkindir ve radikal biçimde beliren değildir. Bu görüş, öznel deneyimi genişletilmiş, gerçekçi bir fiziksel ontoloji içinde doğrudan temellendirmeyi amaçlar.",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "Monizmler",
+    "subcategory": "Gerçekçi Monizm",
+    "core_identity_tagline": "Bilinç Tümüyle Fiziksel ve Deneyimseldir",
+    "classification_tags": [
+      "physicalism",
+      "panpsychism",
+      "monism",
+      "experience"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Deneyimsel olgular olarak bilinç, tümüyle fiziksel olarak özdeşleştirilir; bu da temel fiziksel malzemenin (enerji gibi) içkin olarak deneyim içeren bir olgu olduğunu ima eder.",
+    "ontological_status": "Gerçekçi Monizm / Gerçek Fizikalizm (Panpsişizmi Gerektirir)",
+    "mind_body_relationship": "Örneksel özdeşlik: zihinsel/deneyimsel olan 'zaten' fizikseldir; bu da örneğin nöronların, mevcut fizik ve nörofizyolojinin yakalayamadığı deneyimsel özelliklere sahip olduğunu düşündürür.",
+    "primitive_or_emergent_status": "İlksel (ya da ilksel özelliklerden bileşim yoluyla türetilen).",
+    "emergence_type": "Kuram 'radikal' belirişi reddeder ve bilincin gerçekliğin temel fiziksel doğasına içkin olması gerektiğini, aksi takdirde varlığının yadsınacağını ve bunun saçma sayılacağını savunur. Bilinçli deneyim, temel deneyimsel özelliklerin bileşimi yoluyla ortaya çıkar.",
+    "subjectivity_and_intentionality": "Öznellik (bilinçli deneyim, 'nasıl bir şey olma') varoluşun en kesin olgusu ve her gerçekçi fizikalizmin zorunlu başlangıç noktası olarak onaylanır. Yönelimsellik bu genişletilmiş fiziksel gerçekliğe dahildir.",
+    "qualia_account": "Qualia (niteliksel his), somut olarak gerçek ve tümüyle maddi olarak onaylanır; temel fiziksel varlıkların içkin, indirgenemez özellikleri olarak anlaşılır (panpsişizm).",
+    "ontological_commitments": "Fiziksel olarak tanımlanan ancak deneyimsel/fenomenal özellikleri kapsayan tek bir temel somut nesne ya da şey (monizm). Bu, enerji gibi tüm fiziksel malzemenin deneyim içermesini de kapsar.",
+    "epistemic_access": "Öncelikle içe bakış ve birinci şahıs deneyim aracılığıyla; çünkü bu deneyim, gerçekliği başka her şeyden daha kesin olan temel verili doğal olgu olarak kabul edilir.",
+    "constituents_and_structure": "Temel yapı taşları, fenomenal ya da proto-fenomenal özelliklere sahip temel fiziksel varlıklardır (enerji/madde). Genel yapı, tek, birleşik bir gerçekliğinkidir.",
+    "basis_of_belief_or_evidence_type": "Bilincin somut gerçekliğinin gerçekçi bir değerlendirmesine ve mevcut indirgemeci fizikalizmin kavramsal sınırlarına dayanan felsefi ve metafiziksel argüman."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "His, duyum ve açık bilinçli düşünce dahil fenomenal bilinç.",
+    "distinctive_mechanism_or_principle": "Mantıksal tutarlılığın, temel fiziksel bileşenlerin deneyimsel doğasını kabul etmeyi gerektirdiği ve böylece fizikselin tanımını değiştirerek açıklama boşluğunu çözdüğü ilkesi.",
+    "dynamics_of_emergence": "Bilinç temel bir özelliktir, bilinçsiz bileşenlerden kesinlikle beliren değildir. Daha üst düzey bilinç, bu temel deneyimsel özelliklerin bir araya gelmesi ya da birleşmesi yoluyla ortaya çıkar.",
+    "location_and_distribution": "Fiziksel madde ya da enerjinin bulunduğu her yerde, biyolojik organizmalardaki nöronlar dahil, dağılmıştır.",
+    "causation_and_functional_role": "Zihinsel olan tanımı gereği tümüyle fiziksel olduğundan, fiziksel dünyanın nedensel yapısına tam olarak katılmalı ve böylece düalizme içkin zihinsel nedensellik problemini çözmelidir.",
+    "integration_or_binding": "Deneyimin birliği, panpsişizme içkin 'birleşim problemini' çözerek, mikro düzeydeki deneyimlerin makro düzeydeki deneyim öznelerinde nasıl birleştiğini açıklayarak sağlanmalıdır.",
+    "information_flow_or_representation": "Bilgi işleme, maddenin temel deneyimsel özelliklerine ikincildir ya da onlar tarafından oluşturulur. (Bilgi, temel mekanizma olarak açıkça tanımlanmaktan çok örtük kalır.)",
+    "evolutionary_account": "Bilinç temeldir; dolayısıyla evrim, bu içkin deneyimsel özelliği karmaşık yollarla bir araya getirebilen ya da dışavurabilen karmaşık fiziksel yapıların ortaya çıkış sürecidir.",
+    "core_claims_and_evidence": [
+      "Deneyimin gerçekliğinin tam olarak tanınması, gerçekçi bir fizikalizmin zorunlu başlangıç noktasıdır.",
+      "Bilinçli deneyimin yadsınmasının 'şimdiye dek ileri sürülmüş en aptalca iddia' olduğu savunulur.",
+      "Gerçek fizikalizm, radikal belirişin imkânsızlığı varsayıldığında panpsişizmi zorunlu kılar.",
+      "Deneyimsel olgular fizikseldir ve fizikselin kapsadığı şeyin genişletilmesini gerektirir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi ve fenomenolojik kanıt (deneyimin kesinliği)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak türetilmiş; kuram, deneyimsel özellikleri kapsaması için temel fiziğin bir reformunu talep eder ve bu da mevcut bilimsel paradigmalar altında standart ampirik sınamayı güçleştirir.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "'Fiziksel' kavramını deneyimsel özellikleri kapsayacak biçimde kavramsal olarak yeniden tanımladığı için geleneksel fizikalistlerce güçlü biçimde eleştirilir. Kuram, panpsişizmin 'birleşim problemiyle' (mikro düzeydeki deneyimlerin karmaşık, birleşik öznel deneyimde nasıl kaynaştığı) hâlâ karşı karşıyadır.",
+    "open_questions_and_limitations": "En önemli çözülmemiş sorun, birleşim problemine makul bir çözüm bulmaktır.",
+    "ontological_coherence": "Genişletilmiş fizikalizm tanımı kabul edildiğinde yüksek. Deneyim konusunda gerçekçi olan her fizikalist için en tutumlu çözüm olarak önerilir.",
+    "basis_of_belief_or_evidence_type": "Felsefi ve fenomenolojik"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç, temel fiziksel varlıkların içkin bir özelliğiyse (panpsişizm), her şey aynı deneyimsel malzemeden yapıldığından, ileri teknoloji yapay sistemlerde bu mikropsişik yönleri karmaşık içsel farkındalık üretecek biçimde işleyebilmelidir."
+    },
+    "survival_beyond_death": {
+      "stance": "Olası değil (Zayıf İhtimal)",
+      "rationale": "Bir monizm olsa da çerçeve açıkça 'gerçek materyalist' ve temelde fizikalisttir; bu da fiziksel bedenin çözülmesinin ötesinde hayatta kalmayı, saf materyalist kuramlara benzer biçimde, olası kılmaz."
+    },
+    "meaning_and_purpose": {
+      "stance": "Muhtemelen",
+      "rationale": "Temel, içkin deneyimi içeren bir monizm biçimi olarak, çoğu zaman deflasyonist materyalizmle ilişkilendirilen nihilist sonuçtan kaçınır ve nihai anlam ya da amacın gerçekliğin kendi doğasına bağlanmasına yer bırakır."
+    },
+    "virtual_immortality": {
+      "stance": "Herhalde",
+      "rationale": "Bilinç, fiziksel örgütlenmenin düzenli ve içkin bir özelliğiyse, fiziksel durumu biyolojik olmayan bir dayanakta kusursuz biçimde çoğaltabilen ileri hiper-teknoloji, karşılık gelen bilinçli durumu da çoğaltmalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "Gerektirme"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Genişletme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism, Galen Strawson",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      },
+      {
+        "title_with_names": "What is Panpsychism, Galen Strawson",
+        "year": 2011
+      }
+    ]
+  }
+}

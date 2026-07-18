@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "LeDoux'nun Yüksek Düzeyli Duygusal Bilinç Kuramı",
+    "summary": "Bu kuram, korku gibi bilinçli duygusal hislerin, algısal bilinçli deneyimlerden temelde farklı olmadığını öne sürer; her ikisinin de, daha alt düzeyli bilginin yüksek düzeyli temsillerini (HOR) üreten, kortikal temelli genel biliş ağlarından (GNC) doğduğunu savunur. Fenomenal bilincin özü, HOROR (Bir Temsilin Yüksek Düzeyli Temsili) olarak adlandırılan, önceki bir yüksek düzeyli durumun yeniden temsilinde yatar.",
+    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "category": "Materyalizm",
+    "subcategory": "Temsilci",
+    "core_identity_tagline": "Duygusal ve Algısal Durumların Yüksek Düzeyli Temsili Olarak Bilinç",
+    "classification_tags": [
+      "neurobiology",
+      "emotion",
+      "higher-order",
+      "representation",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, kortikal temelli Genel Biliş Ağları (GNC) tarafından örneklenen, alt düzeyli bilginin uygun yüksek düzeyli temsili (HOR) olan üçüncü düzeyli bir durum (HOROR) olarak tanımlanır.",
+    "ontological_status": "Fizikalizm. Kuram materyalisttir; bilincin, beyindeki tek bir sistemden, kortikal devrelerde örneklenerek doğduğunu savunur.",
+    "mind_body_relationship": "Özdeşlik/nedensel bağımlılık. Zihinsel durumlar (bilinçli duygusal hisler ve algısal deneyimler) tümüyle belirli fiziksel süreçlere ve ağlara (GNC, kortikal devreler) bağımlıdır ve onlarda örneklenir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf beliriş (Gerekçe: Keşfedilebilir nöral mekanizmalara odaklanan ayrıntılı bir nörobiyolojik/materyalist kuram olarak, bilincin karmaşıklığının ilkece fiziksel süreçlerden çıkarsanabilir olduğu varsayılır.)",
+    "subjectivity_and_intentionality": "Öznellik (duygusal, öz-farkındalıklı deneyim), benlik HOROR durumuna dâhil edildiğinde ortaya çıkar. Yönelimsellik ise bilincin temelde temsilci olması (bilginin HOR'ları) sayesinde sağlanır.",
+    "qualia_account": "Fenomenal deneyim, alt düzeyli bilginin uygun HOR'una sahip olmaktan ibarettir; bu, fenomenal, içe bakışla erişilen deneyimi örnekleyen düşünce benzeri bir durumdur. Kuram, bu yüksek düzeyli temsiller aracılığıyla dolayımlanan öznel 'nasıl-bir-şey-olduğu'nu açıklamayı amaçlar.",
+    "ontological_commitments": "Kortikal temelli Genel Biliş Ağları (GNC), yüksek düzeyli temsiller (HOR), nöral devreler (örneğin PFC, duyusal korteks) ve alt düzeyli bilgi.",
+    "epistemic_access": "İçe bakış (edilgen fark etme ve etkin inceleme) fenomenal deneyime yol açar. Altta yatan mekanizmalar nörobiyolojik araştırma ve bilişsel modelleme yoluyla erişilebilir.",
+    "constituents_and_structure": "Zihinsel modeller kurmak üzere bilgiyi indeksleyen ve yeniden temsil eden birincil alt düzeyli durumları (duyusal korteks), ikincil alt düzeyli durumları (bellek alanları), alt-yüksek düzeyli durumları (mezo-kortikal PFC) ve yüksek düzeyli durumları (granüler PFC) içeren çok durumlu hiyerarşik bir model."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç, duygusal bilinç (örneğin korku), algısal bilinç, öz-farkındalık (bir 'varoluş bütünü' olarak) ve bilinçli faillik.",
+    "distinctive_mechanism_or_principle": "Bilinçli deneyim için gerekli üçüncü düzeyli bilişsel durum olan, Bir Temsilin Yüksek Düzeyli Temsilinin (HOROR) örneklenmesi. Bu mekanizma düşünce benzeri ve çıkarımsal değildir; bilinçdışı bir HOR'u içe bakışla farkında kılar.",
+    "dynamics_of_emergence": "Bilinç, bilişsel yorumlama yoluyla dinamik olarak doğan, özellikle zihinsel bir birlik duygusunu sürdürmeye hizmet eden karmaşık, çok durumlu hiyerarşik işlemenin bir ürünüdür.",
+    "location_and_distribution": "Kortikal yapılar, özellikle GNC'yi ve yüksek düzeyli durumları barındıran ve duyusal ile bellek kortekslerine (alt düzeyli durumlar) etkileşen prefrontal korteks (PFC) (granüler ve alt-granüler alanlar).",
+    "causation_and_functional_role": "HOROR'ların oluşumu bilinçli deneyime (korku hisleri, algı) olanak tanır; bilinçli faillik sağlar ve açık davranışı ile sözel ifadeyi yönlendiren soyut zihinsel dil anlatılarının ifade edilmesini olanaklı kılar.",
+    "integration_or_binding": "Bütünleşme, bilinçdışı kortikal altı girdilerin bilinçli duygusal deneyimler oluşturmak üzere diğer nöral sinyallerle birleştiği bilişsel bir düzenleme aracılığıyla gerçekleşir. Yüksek düzeyli durumlar, çalışma belleğinde bütünleşik zihinsel modeller kurmak için çeşitli başka durumları yeniden temsil eder.",
+    "information_flow_or_representation": "Bilgi, birinci düzeyli algısal/tehdit temsillerinden bilinçdışı HOR'lar aracılığıyla, içe bakışa erişilebilir düşünce benzeri durumlar olan bilinçli HOROR'lara doğru ilerler.",
+    "evolutionary_account": "Bilinç, evrimde geç ortaya çıktı; önceki 'varoluş alanları' (bedensel, nöral, bilişsel) üzerine inşa oldu; sinir sistemleri hayatta kalmayı güçlendirmek üzere evrilerek nihayetinde gelişkin bilinçli beyinlere yol açtı.",
+    "core_claims_and_evidence": [
+      "Bilinçli deneyimler (duygusal ve algısal), beyindeki tek bir sistemden (kortikal temelli GNC) doğar.",
+      "Bilinçli hisler, kortikal devrelerde örneklenen yüksek düzeyli durumlardır.",
+      "Fenomenal bilinç, bilinçdışı bir HOR'un içe bakışsal farkındalığı olan üçüncü düzeyli bir duruma (HOROR) sahip olmayı içerir.",
+      "Kuram, duygusal durumların yalnızca kortikal altı alanlarda doğuştan programlandığı geleneksel görüşü reddeder."
+    ],
+    "basis_of_belief_or_evidence_type": "Nörobiyolojik, bilişsel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir; özellikle bilinçli deneyim ile betimlenen belirli hiyerarşik kortikal ağlardaki etkinlik örüntüleri (örneğin HOROR durumlarını üretmede PFC'nin rolü) arasındaki bağıntının sınanmasıyla.",
+    "known_empirical_interventions_or_tests": "Bilişsel ve üstbilişsel işlevlere ilişkin araştırmalarla tutarlı olarak, hiyerarşik temsil işlemeye karşılık gelen kortikal yapılardaki (örneğin PFC ile duyusal/bellek alanları) etkinliğin belirlenmesine dayanır.",
+    "criticisms_and_tensions": "Yüksek düzeyli durumun kendisinin doğasına ilişkin olarak, özellikle düşünce benzeri bir temsilin birinci düzeyli bir durumu nasıl bilinçli kıldığına dair Yüksek Düzeyli Kuramlara (HOT) yöneltilen genel meydan okumayla karşı karşıyadır (Block'un genel HOT için andığı 'gizem'). Ayrıca duygunun yerleşimine ilişkin geleneksel görüşlere de meydan okur.",
+    "open_questions_and_limitations": "Ortaya çıkan bilinçli zihinsel modelden doğan bilinçli failliğin (özgür irade) mümkün olup olmadığı hâlâ tartışma konusudur.",
+    "ontological_coherence": "Yüksek. Kuram, bilinç ve duygusal deneyim için Materyalizm ve natüralist açıklamayla son derece tutarlı, ayrıntılı bir nörobilişsel güzergâh sunar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Hiyerarşik bilgi işlemeye (GNC/HOROR) dayanan materyalist, işlevsel bir kuram olarak bilinç, gerekli hesaplamalı ve temsilci yapıları örnekleyebilen biyolojik olmayan sistemlerde ilkece yeniden üretilebilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, tümüyle son derece karmaşık, fiziksel olarak örneklenen biyolojik sistemlerin (kortikal devreler ve GNC) bir ürünüdür ve bedenin fiziksel varlığının ötesinde bir hayatta kalma için hiçbir kaynak sunmaz."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bilinç, hayatta kalmayı güçlendiren ve benlik merkezli duygusal durumları olanaklı kılan, evrimleşmiş biyolojik bir mekanizmadır; ancak kuram herhangi bir nihai, kozmik ya da aşkın anlam veya amaç öne sürmez."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Birinci şahıs benlik, beynin karmaşık, işlevsel ve temsilci durumlarında temellendiğinden, bu fiziksel durumların yükleme teknolojisiyle kusursuzca kopyalanması ilkece benliği koruyup sanal ölümsüzlüğü sağlar."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Traditional Higher-Order Thought Theory (HOT)",
+        "relationship": "İyileştirme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, J. LeDoux and R. Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Four Realms of Existence - A New Theory of Being Human, J. LeDoux",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Soyut Gerçekçilik (AR)",
+    "summary": "Soyut Gerçekçilik, zihin-madde açıklama boşluğunu köprülemek için birinci şahıs (deneyimleyen) ve üçüncü şahıs (gözlemlenen) bakış açıları arasında, her biri eşdeğer bir gözlemci işlevi içeren bir tamamlayıcılık önerir . Bilinç, beyinde, elektromanyetik alanlar olarak gerçekleşen iki bilgi sisteminin çift yönlü nedensel etkileşimiyle üretilir; bunlardan biri diğeri için gözlemleyen referans işlevi görür .",
+    "associated_thinkers": ["John Sanfey"],
+    "category": "İndirgemeci Olmayan Fizikalizm",
+    "subcategory": "Soyut Gerçekçilik",
+    "core_identity_tagline": "‘Bakış Açılarının Tamamlayıcılığı Olarak Bilinç’",
+    "classification_tags": [
+      "non-reductive physicalism",
+      "phenomenal simultaneity",
+      "electromagnetic field",
+      "strong emergence",
+      "information systems"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, beyindeki iki bilgi sistemi (iki elektromanyetik alan) arasında, biri diğeri için gözlemleyen referans olacak biçimde yapılandırılmış, nedensel, çift yönlü bir etkileşimin ortaya çıkan durumudur .",
+    "ontological_status": "İndirgemeci Olmayan Fizikalizm ",
+    "mind_body_relationship": "Bilinç nedensel olarak güçlüdür ve yeterince karmaşık biçimde örgütlendiğinde fiziksel sistemler (beyin) tarafından üretilir . Zihin ve madde, bilinci fizikle bütünleştiren, birinci ve üçüncü şahıs bakış açılarının bir tamamlayıcılığı olarak görülür .",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Güçlü Beliriş (İma edilen). Bilincin nedensel mekaniği ilkesel olarak gözlemlenemez; bu da bilinci güçlü belirişten ayırt edilemez kılar .",
+    "subjectivity_and_intentionality": "Öznellik, deneyimleyeni deneyimlenenden hiçbir zamanın ayırmadığı fenomenal eşzamanlılıkta köklüdür . Yönelimsellik kaynakta açıkça ayrıntılandırılmaz, ancak model onun bütünleşik nedensel süreçlerden doğduğunu ima eder.",
+    "qualia_account": "Nitel deneyim (örneğin 'kırmızıyı deneyimlemenin nasıl bir şey olduğu'), fenomenal eşzamanlılık ve mevcudiyete bağlıdır .",
+    "ontological_commitments": "Fiziksel sistemler (beyinler), bilgi sistemleri, elektromanyetik alanlar . Madde temelde fiziksel yasalarla tanımlanır ve duyusal ya da kavramsal bir model olarak algılanır .",
+    "epistemic_access": "Birinci şahıs bakış açısı (fenomenoloji) ile üçüncü şahıs bakış açısı (bilim) arasındaki tamamlayıcılığın çözümlenmesi yoluyla .",
+    "constituents_and_structure": "Beyin içinde iki elektromanyetik alan olarak gerçekleşen, biri diğeri için gözlemleyen benlik/referans işlevi gören iki etkileşen bilgi sistemi ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç, Birinci Şahıs Bakış Açısı, Nedensel Etkililik .",
+    "distinctive_mechanism_or_principle": "İki elektromanyetik alanın çift yönlü nedensel etkileşimiyle sağlanan , deneyimleyen ile deneyimlenen arasındaki fenomenal eşzamanlılık .",
+    "dynamics_of_emergence": "Bilinç, iki elektromanyetik bilgi sistemi çift yönlü ve yeterli karmaşıklıkta etkileştiğinde üretilir .",
+    "location_and_distribution": "İki elektromanyetik alanın etkileşimiyle beyinde üretilir .",
+    "causation_and_functional_role": "Bilincin 'kanıtlanmış nedensel gücü' vardır ve bu, onun İndirgemeci Olmayan Fizikalizm paradigması içinde fizikle bütünleştirilmesine olanak tanır .",
+    "integration_or_binding": "Bütünleşme, hem birinci hem de üçüncü şahıs bakış açıları için eşdeğer bir gözlemci işlevi sağlayan 'tek bir fiziksel kavram' olarak işlev gören fenomenal eşzamanlılık aracılığıyla sağlanır .",
+    "information_flow_or_representation": "Bilinç, elektromanyetik alanlar olarak gerçekleşen iki farklı bilgi sisteminin nedensel etkileşimine dayanır .",
+    "evolutionary_account": "Kaynaklarda açıkça ele alınmaz. Odak, bilincin evrimsel kökenlerinden ziyade üretilme mekanizmasındadır.",
+    "core_claims_and_evidence": [
+      "Kuram, birinci ve üçüncü şahıs bakış açılarının tamamlayıcılığını kullanarak zihin-madde problemini çözer .",
+      "Bilinç, gözlemleyen referanslar işlevi gören iki elektromanyetik alanın çift yönlü nedensel etkileşiminden doğar .",
+      "Nedensel mekanik ilkesel olarak gözlemlenemez; bu da bilinci güçlü belirişten ayırt edilemez kılar ."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi savunu, Fenomenolojik çözümleme (fenomenal eşzamanlılık) ."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekülatif ve kavramsal olarak temellendirilmiş. Çekirdek mekanizmanın 'ilkesel olarak gözlemlenemez' olması ampirik sınamayı güçleştirir .",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kuram, ilkesel olarak gözlemlenemeyen nedensel mekaniğe dayanır ve bu, ampirik doğrulamayı sınırlar . Kendileri de çeşitlilik gösteren elektromanyetik alan kuramlarından yararlanır (9.3) .",
+    "open_questions_and_limitations": "Fenomenal eşzamanlılığın ve altta yatan ikili bilgi sistemlerinin nedensel mekaniğini ampirik olarak gözlemleme ya da ölçmenin güçlüğü .",
+    "ontological_coherence": "İndirgemeci, düalist, idealist ve panpsişist çerçeveleri aşmak için özellikle tasarlanmış olan indirgemeci olmayan fizikalist çerçeve içinde yüksek tutarlılık ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Kuram, bilincin gerekli çift yönlü nedensel karmaşıklığı (yani iki bilgi sistemi/EM alanının etkileşimini) sağlamaları koşuluyla fiziksel sistemler tarafından, 'sentetik olanlar da dahil', üretilebileceğini belirtir ."
+    },
+    "survival_beyond_death": {
+      "stance": "Olası değil",
+      "rationale": "İndirgemeci Olmayan Fizikalist bir kuram olarak bilinç, karmaşık fiziksel mekanizmalara (beyindeki EM alanları) bağlıdır . Fenomenal mevcudiyet, bedensiz bir zihin için mantıksal olanak yaratsa da, temel mekanizma beynin fiziksel işleyişine bağımlıdır ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Belirsiz",
+      "rationale": "Kuramın odağı, zihin-madde açıklama boşluğunu çözmektir. İndirgemeci Olmayan Fizikalizm, nihai anlam/amaç konusunda genellikle ara bir konumda durur; bu da bunu olanaklı kılar, ancak kuramın kendisince açıkça gerektirilmez ."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç, kanıtlanmış nedensel güce sahip fiziksel sistemler tarafından üretiliyorsa, bu karmaşık bilgisel ve alan dinamiklerini sanal bir taşıyıcıda çoğaltmak için gereken ileri teknoloji, indirgemeci olmayan fizikalist sınıflandırmayla tutarlı biçimde zihinsel benliğin yüklenmesine olanak tanımalıdır ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Conscious Electromagnetic Information Theory (CEMI)",
+        "relationship": "Örtüşme (iki elektromanyetik alan mekanizmasını içerir)"
+      },
+      {
+        "name": "Strong Emergence",
+        "relationship": "Uyumlu (bilinç güçlü belirişten ayırt edilemez sayılır)"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "Eleştiri (AR, indirgemeci fizikalizme başvurmaktan açıkça kaçınır)"
+      },
+      {
+        "name": "Dualism and Idealism",
+        "relationship": "Eleştiri (AR, düalizm ya da idealizme başvurmaksızın fizik içinde bütünleşme arar)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Simultaneity of consciousness with physical reality: the key that unlocks the mind-matter problem, John Sanfey",
+        "year": 2023
+      }
+    ]
+  }
+}

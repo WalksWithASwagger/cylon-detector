@@ -1,0 +1,93 @@
+{
+  "id_and_class": {
+    "theory_title": "Mitchell'in Özgür Failleri",
+    "summary": "Bu kuram, özgür iradenin ya da failliğin, tümüyle beynin salt fiziksel işleyişinden beliren gerçek bir olgu olduğunu ileri sürer. Sinir sistemlerinin öğrenme, modelleme, öngörme ve simülasyon yapma kapasitesini geliştirdiği ve böylece canlı varlıkların gerçek seçimler yapmasına olanak tanıyan evrimsel yolu vurgular.",
+    "associated_thinkers": ["Kevin Mitchell"],
+    "category": "Materyalizm",
+    "subcategory": "Nörobiyolojik",
+    "core_identity_tagline": "Salt Fiziksel Beyin İşleyişinden Doğan Özgür Failler",
+    "classification_tags": [
+      "neuroscience",
+      "agency",
+      "free will",
+      "evolutionary",
+      "physicalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç ve davranış, tümüyle beyindeki nöral etkinliğin fiziksel işleyişinden ve örüntülerinden doğan beliren ürünler olarak tanımlanır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik/Belirişçi. Düşünceler fiziksel olarak nöral etkinlik örüntülerinde gerçeklenir; yani 'hayalet', iş başındaki makinenin kendisidir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Öznellik ve 'benlik' duygusu, iş başındaki fiziksel makinenin veçheleri olarak açıklanır. Yönelimsellik, organizmanın amaca yönelik failliği mümkün kılmak üzere dünyayı modellemesine, öngörmesine ve simüle etmesine olanak tanıyan evrimleşmiş yetilerden doğar.",
+    "qualia_account": "Niteliksel his, karmaşık fiziksel beyin işleyişinin ve belirli nöral etkinlik örüntülerinin bir ürünü olarak örtük biçimde açıklanır. Kaynak metin, fenomenal qualia'nın doğasını, fiziksel olarak belirdiklerini belirtmenin ötesinde açıkça ayrıntılandırmaz.",
+    "ontological_commitments": "Fiziksel beyinler, sinir sistemleri, nöral etkinlik örüntüleri.",
+    "epistemic_access": "Salt fiziksel beynin mekanizmalarının nesnel, üçüncü şahıs bilimsel araştırması aracılığıyla erişilebilir.",
+    "constituents_and_structure": "Son derece karmaşık ve evrimleşmiş sinir sistemi içindeki nöral etkinlik örüntüleri."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Faillik, Özgür irade, Bilinç, Öz-farkındalık, Planlama, İçe bakış.",
+    "distinctive_mechanism_or_principle": "Sinir sistemlerinin öğrenme, modelleme, öngörme ve simülasyon yapma kapasitesini sağlayan biyolojik evrimi; bu, gerçek bireysel faillik ve seçimle doruğa ulaşır.",
+    "dynamics_of_emergence": "Bilinç ve faillik, cansız maddeden karmaşık sinir sistemlerine uzanan belirli bir evrimsel yörünge boyunca ortaya çıkan dinamik süreçlerdir.",
+    "location_and_distribution": "Beynin fiziksel işleyişinde yerelleşmiştir; nöral etkinlik örüntülerinde gerçeklenir.",
+    "causation_and_functional_role": "Bilinç, özellikle de faillik (özgür irade), nedensel olarak etkilidir. İşlevi, duyarlı varlıkların geleceklerini modellemesi ve biçimlendirmesi için gerekli olan muhakeme ve içe bakış gibi üst düzey kapasiteleri mümkün kılmaktır.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Bilgi işleme, sonuçları modelleme, öngörme ve simüle etme yetilerinin gelişmesine olanak tanır ve insanın imgelem ile içe bakış kapasitesinde doruğa ulaşır.",
+    "evolutionary_account": "Sinir sistemlerinin belirişi yoluyla cansız maddeden evrimleşmiştir; hayatta kalma için gerekli olan seçimi ve üst düzey bilişsel işlevleri mümkün kılan uyarlanımsal bir avantaj sunar.",
+    "core_claims_and_evidence": [
+      "Bireysel faillik (özgür irade) gerçektir, bir yanılsama değildir.",
+      "Bilinç ve davranış, tümüyle beynin salt fiziksel işleyişinden belirir.",
+      "Modelleme ve simülasyon gibi yetiler, sinir sisteminin evrimi yoluyla gelişmiştir.",
+      "Düşünceler fiziksel olarak nöral etkinlik örüntülerinde gerçeklenir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi, Evrimsel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınırlanmış (nörobiyolojik ve evrimsel verilerle); failliğin beliriş mekanizması kavramsal olarak fizikalizme dayandırılmıştır.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kuram, katı deterministler ve özgür irade şüphecileri tarafından tartışılır. Tam da 'gerçek' özgür iradeyi savunurken fizikalizme ödünsüz bir bağlılık sürdürmesi nedeniyle önemlidir; bu, onu diğer birçok materyalist görüşten ayırır.",
+    "open_questions_and_limitations": "Salt fiziksel beyin süreçlerinin yanılsama olmayan bir faillik ve öznel deneyim üretme biçimine ilişkin kesin mekanizmaların tam olarak belirlenmesi gerekmektedir.",
+    "ontological_coherence": "Zihin ile beyin süreçlerinin özdeşliğini kabul eden evrimci materyalist bir ontoloji içinde son derece tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Bilinç ve faillik, karmaşık sistemlerden beliren tümüyle fiziksel olgulardır. Dolayısıyla, yeterli teknolojik ilerleme sağlandığında yapay sistemler gerekli fiziksel işleyişi gerçekleyebilir ve bilince ulaşabilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, tümüyle biyolojik beyindeki salt fiziksel işleyişe ve etkinlik örüntülerine bağlıdır; 'hayalet' iş başındaki makinedir; bu da beyin ölümüyle birlikte sona erdiğini ima eder."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hümanist/Evrimci",
+      "rationale": "Faillik, bireylerin geleceklerini bilinçli olarak biçimlendirmesine ve bir amaçla eylemesine olanak tanıyarak içsel, yaratılmış bir anlam sağlar; ancak altta yatan kozmik düzen materyalisttir (cansız maddeden belirir)."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Fizikalist bir kuram olarak sanal ölümsüzlük, nöral etkinliğin temel örüntüleri ve onların desteklediği beliren faillik biyolojik olmayan ortamlarda kusursuzca çoğaltılabilirse ilkesel olarak ulaşılabilirdir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "Eleştiri"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Free Agents, K. J. Mitchell",
+        "year": 2023
+      }
+    ]
+  }
+}

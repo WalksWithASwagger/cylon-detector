@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Murphy'nin İndirgemeci Olmayan Fizikalizmi",
+    "summary": "Bu kuram, bilincin tümüyle fiziksel olduğunu ve yalnızca biyolojik beyinlerden doğduğunu ileri sürer; ancak zihinsel özellikler ya da hâller, ontolojik olarak farklı ve altta yatan fiziksel hâllere indirgenemez kabul edilir. İnsan kişisine dair felsefi açıdan sağlam, bilimsel açıdan bağdaşır ve teolojik açıdan kabul edilebilir düalist olmayan bir açıklama sunmayı amaçlar.",
+    "associated_thinkers": ["Nancey Murphy"],
+    "category": "İndirgemeci Olmayan Fizikalizm",
+    "subcategory": "İndirgemeci Olmayan Fizikalizm",
+    "core_identity_tagline": "Zihin, İndirgenemez Biçimde Farklı Bir Fiziksel Özelliktir",
+    "classification_tags": [
+      "physicalism",
+      "irreducibility",
+      "causal efficacy",
+      "theistic compatibility"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç (zihinsel hâller ya da özellikler), farklı olmakla birlikte tümüyle beynin fiziksel hâllerine bağlı ve onlar tarafından üretilen olarak tanımlanır; çoğu zaman özellik düalizmiyle ortak yönler taşır.",
+    "ontological_status": "İndirgemeci Olmayan Fizikalizm",
+    "mind_body_relationship": "Zihinsel hâller kökeni bakımından tümüyle fizikseldir (beyin tarafından nedensel olarak üretilir) ama ontolojik olarak indirgenemezdir. Bu ilişki çoğu zaman aşağıya yönelik nedensellikle nitelenir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Güçlü Beliriş (Çıkarımsal; Murphy'nin ilkesel indirgenemezliği elde etmek ve indirgemeci determinizmi alt etmek için sistem kuramına, kaos kuramına ve aşağıya yönelik nedenselliğe dayanmasıyla gerekçelendirilir).",
+    "subjectivity_and_intentionality": "Bu zihinsel nitelikler, bilinç için gerekli olan, bütün insan organizmasının gerçek, indirgenemez özellikleri/veçheleri olarak varsayılır.",
+    "qualia_account": "Niteliksel fenomenal özellikler, beynin fiziksel süreçlerinden doğan indirgenemez zihinsel hâllerdir. Kuramın özü, bu özelliklerin gerçekliğini korurken indirgemeciliği reddetmeye dayanır.",
+    "ontological_commitments": "Fiziksel töz; indirgenemez zihinsel özellikler ya da hâller; hiyerarşik nedensel örgütlenme (aşağıya yönelik nedensellik).",
+    "epistemic_access": "Bilinç, hem indirgenemezliği ortaya koyan felsefi araştırma yoluyla hem de ampirik bilişsel sinirbilimle bağdaşırlık yoluyla bilinebilir.",
+    "constituents_and_structure": "Tek töz tümüyle fizikseldir; zihinsel hâller, bu fiziksel organizmanın karmaşık, doğrusal olmayan dinamikler yoluyla ortaya çıkan üst düzey sistem nitelikleridir.",
+    "epistemic_access": "İndirgenemezliği ortaya koyan felsefi argümanlar ile bilişsel sinirbilimin ampirik bulgularının birleşimi aracılığıyla erişilebilir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal; Zihinsel özellikler (yönelimsellik dâhil); Nedensel etkililik; Öz-farkındalık (düalist olmayan antropoloji yoluyla çıkarımsal).",
+    "distinctive_mechanism_or_principle": "Aşağıya yönelik nedensellik (bütün-parça nedenselliği) yoluyla nedensel indirgeme karşıtlığı ve zihinsel hâllerin fiziksel beyin üzerinde gerçek nedensel güç uyguladığını savunmak için karmaşık sistemler kuramına (kaos kuramı, doğrusal olmayan dinamikler) başvurma.",
+    "dynamics_of_emergence": "Zihinsel hâller, biyolojik beyinlerin karmaşık örgütlenmesinden indirgenemez sistem nitelikleri olarak dinamik biçimde belirir.",
+    "location_and_distribution": "Biyolojik beyin/beden içinde yerelleşmiştir; bilinç, insan kişisinin beliren, ayrılamaz bir niteliğidir (psikosomatik birlik).",
+    "causation_and_functional_role": "Bilinç (zihinsel hâller) nedensel olarak etkilidir ve etkisiz değildir. Aşağıya yönelik nedensellik, üst düzey zihinsel içeriğin alt düzey nöral süreçleri kısıtlamasına ya da etkilemesine olanak tanır.",
+    "integration_or_binding": "Birleşik insan kişisi, bilincin birleşik bir bütün olarak iş gördüğü ve sistemin birliğini yansıtan nedensel güçleri mümkün kıldığı karmaşık hiyerarşik bir sistem olarak görülür.",
+    "information_flow_or_representation": "Bilgi işleme biyolojik beyinde gerçekleşir ve indirgenemez özellikleri indirgemeci olmayan düzeyde korunan zihinsel hâllerle sonuçlanır.",
+    "evolutionary_account": "Bilinç, yalnızca biyolojik beyinlerin ürünüdür. Karmaşıklığın evrimi, beliren, indirgenemez zihinsel özelliklere yol açar.",
+    "core_claims_and_evidence": [
+      "Bilinçli hâller tümüyle fizikseldir ama fiziksel yasalarla eksiksiz açıklanmaya direnen indirgenemez zihinsel özelliklere sahiptir",
+      "Teolojik tutarlılık, düalizmi reddederek ve 'ruh'u bütün yaşayan kişiye gönderme yapan bir terim olarak yorumlayarak sağlanır",
+      "İndirgenemezlik, indirgemeci determinizme direnmek için aşağıya yönelik nedenselliğe ve karmaşıklık kuramına başvurularak güvence altına alınır"
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi, Nörobilimsel (bağdaşırlık), Teolojik"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Felsefi argümanlara karşı (nedensel kapalılık gibi) kavramsal olarak sınanabilir ve güçlü zihin-beyin ilişkisini gösteren ampirik kanıtlarla bağdaşır.",
+    "known_empirical_interventions_or_tests": [
+      "Sinirbilimdeki yerelleştirme çalışmaları (fiziksel bağımlılığı savunmak için kullanılır)"
+    ],
+    "criticisms_and_tensions": "Eleştirmenler, indirgenemezliği, süpervenyansı ve nedensel etkililiği bir araya getirmenin tutarsızlığa ve zihinsel özelliklerin nedensel edilgenliğine yol açtığını (aşırı belirlenim güçlüğü) ileri sürer. Ayrıca 'ilkesel olarak indirgemeci olmayan'ı tanımlama konusunda şüpheyle karşılanır.",
+    "open_questions_and_limitations": "Zihinsel özelliklerin nedensel olarak kapalı bir fiziksel dünyada bulunurken nasıl ilkesel olarak indirgemeci olmayabileceğine dair açık, çelişkisiz bir açıklamadan yoksundur.",
+    "ontological_coherence": "Düalist olmayan bir antropoloji sunmak bakımından yüksek kavramsal tutarlılığa sahiptir ama nedensel kapalılığın ve özellik indirgenemezliğinin mekaniğine ilişkin ciddi felsefi güçlüklerle karşı karşıyadır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemelen",
+      "rationale": "Bilinç, karmaşık fiziksel sistemlerin ('doğru türden' fiziğin) indirgenemez ama tümüyle fiziksel, beliren bir özelliğiyse, yeterince karmaşık yapay dayanaklarda gerçeklenebilmelidir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır, koşullu istisna",
+      "rationale": "Bilinç tümüyle biyolojik beyne bağlı olduğundan, bedensel ölümle birlikte yok olur. Varlığın sürmesi, İlahi müdahale (ölülerin diriltilmesi) gibi belirli bir dışsal mekanizma gerektirir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nihai",
+      "rationale": "Kuram çoğu zaman teistik bir çerçeve (Hristiyan antropolojisi) içinde, Tanrı'nın psikosomatik kişiye yönelik amaçlarından türeyen nihai anlamı, amacı ve değeri desteklemek için kullanılır."
+    },
+    "virtual_immortality": {
+      "stance": "Çok Muhtemel",
+      "rationale": "Gerekli karmaşık fiziksel sistemin (beynin) kusursuz çoğaltıldığı varsayılırsa, beliren, indirgenemez zihinsel özelliklerin de çoğaltılması gerekir; teknoloji bu karmaşıklığa ulaşabilirse bu, birinci şahıs sürekliliğini güvence altına alır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Örtüşme (çoğu zaman bir özellik düalizmi biçimi olarak görülür)"
+      },
+      {
+        "name": "Emergence (Strong)",
+        "relationship": "Etki (felsefi tutarlılık için aşağıya yönelik nedensellik gerektirir)"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "Eleştiri (beden ve ruhun antropolojik düalizmlerine açıkça karşıtlık gösterir)"
+      },
+      {
+        "name": "Polkinghorne's Dual-Aspect Monism",
+        "relationship": "Uyumlu (düalist olmayan teistik fizikalizm amacını ve bilgi/örüntü/karmaşıklığa dayanmayı paylaşır)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "For Non-reductive physicalism, Nancey Murphy",
+        "year": 2018
+      },
+      {
+        "title_with_names": "What is human mind in a theistic world?, Nancey Murphy",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Whatever Happened to the Soul?, Warren Brown, H. Newton Maloney, Nancey Murphy",
+        "year": 1998
+      }
+    ]
+  }
+}

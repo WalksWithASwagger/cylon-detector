@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Doyle'un Deneyim Kaydedici ve Yeniden Üreticisi (ERR)",
+    "summary": "ERR kuramı, bilinci, zihnin (yazılım gibi) maddi olmayan bilgiden oluştuğu bir bilgi modeli olarak öne sürer. Mevcut algılar geçmiş deneyimlere benzediğinde, duyusal ayrıntılar ve duygu da dâhil olmak üzere bu deneyimleri geri oynatarak çalışır ve organizmaya kritik bir hayatta kalma değeri sağlar.",
+    "associated_thinkers": [
+      "Bob Doyle"
+    ],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Hesaplamalı ve Bilgisel",
+    "core_identity_tagline": "'Bilgi Geri Oynatımı olarak Bilinç'",
+    "classification_tags": [
+      "information",
+      "memory",
+      "binding",
+      "survival",
+      "biological model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, beyindeki yapılandırılmış sinirsel kümeler tarafından kaydedilen ve yeniden üretilen (yeniden-sunulan) maddi olmayan bilgi olarak tanımlanır. Bilginin ele alınışının, fiziksel ile fenomenali bir \"çifte gerçekleşimde\" birbirine bağladığı söylenir.",
+    "ontological_status": "Fizikalizm (Bilgi temelli). Kuram Materyalizm altında sınıflandırılır, ancak bilginin kendisinin temel olabileceğini öne sürer; bu da fiziksel bir altyapıda kök salmış bilgisel monist ya da çift-görünümlü bir görüşü düşündürür.",
+    "mind_body_relationship": "'Birlikte kablolanmış' fiziksel nöronlarda depolanan bilgi, hem fenomenal durumları hem de bilgi durumlarını gerçekleştirir; bu da bilginin fiziksel ile fenomenali köprülediği içkin bir bağlantıyı ya da 'çifte yaşamı' düşündürür.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Bilinç, gerçekliğin temel bir bileşeni olmaktan çok, sinirsel yapılar içinde bilginin karmaşık örgütlenmesinden ve işlenmesinden doğar.",
+    "subjectivity_and_intentionality": "Yönelimsellik (anlam), mevcut algıya benzeyen geçmiş deneyimlerin yeniden üretilmesiyle uyandırılır; bu da organizmanın uygun tepkisine rehberlik eder. Öznellik, özgün birinci şahıs deneyimin ve ona eşlik eden duygunun 'yeniden-sunumuna' içkindir.",
+    "qualia_account": "Qualia, algoritmik olarak bir araya getirilmek yerine, ilk depolama sırasında birbirine bağlanan ve geri oynatım sırasında yeniden üretilen (yeniden-sunulan) özgün deneyimin bileşenleri (duyusal nitelikler ve duygu) olarak açıklanır.",
+    "ontological_commitments": "Maddi olmayan bilgi; sinirsel kümeler (birlikte kablolanmış nöronlar); bilgi yapıları (beyinde).",
+    "epistemic_access": "Bilgi işleme mimarisini modelleyerek ve bilgiye verilen davranışsal tepkileri gözlemleyerek ('bilgi bilinci'ni tanımlayarak) erişilebilir.",
+    "constituents_and_structure": "Sinirsel kümelerde (Hebbian ilkelere dayanarak birlikte kablolanmış nöronlar) depolanan bilgi yapıları."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Deneyimin Birliği (Bağlama), Bellek, Uyumsal Davranış.",
+    "distinctive_mechanism_or_principle": "Deneyim Kaydedici ve Yeniden Üretici (ERR) mekanizması; buna göre minimal ilksel bir zihnin, benzer mevcut deneyimlerle uyarıldığında (temsilleri geri getirmek yerine) yalnızca geçmiş, depolanmış deneyimleri 'geri oynatması' gerekir.",
+    "dynamics_of_emergence": "Dinamik Süreç. Bilinç, işlevsel olarak, çevresindeki bilgiye dinamik biçimde uygun tepki veren bir varlığın özelliği olarak tanımlanır.",
+    "location_and_distribution": "Deneyimleri kaydeden ve yeniden üreten beyindeki bilgi yapılarında (sinirsel kümelerde) yerelleşmiştir.",
+    "causation_and_functional_role": "Bilinç, organizmanın geçmiş ilgili deneyimleri anımsamasına izin vererek, eylemlere rehberlik ederek ve varlığın çevresel bilgiye uygun tepki vermesini olanaklı kılarak hayatta kalma değeri sağlar.",
+    "integration_or_binding": "Bağlama problemi çözülür, çünkü tüm duyusal bileşenler ve ona eşlik eden duygusal içerik ilk kayıt sırasında birbirine bağlanır ve yeniden üretim sırasında bağlı kalır; bu da algoritmik birleştirme gereksinimini ortadan kaldırır.",
+    "information_flow_or_representation": "Bilgi, yazılım gibi maddi değildir. Beyin yapılarında depolanır ve dış algı tarafından uyarıldığında doğrudan deneyim olarak 'yeniden-sunulur'.",
+    "evolutionary_account": "Bilinç, organizmanın yeni algılarla karşılaştığında geçmiş deneyimleri geri getirip kullanmasını olanaklı kılmadaki 'apaçık ilgisi (hayatta kalma değeri)' nedeniyle evrimleşmiştir.",
+    "core_claims_and_evidence": [
+      "Zihin, dijital bilgi işlemeden farklı, maddi olmayan bilgidir.",
+      "Bilinç, çevresindeki bilgiye uygun tepki veren bir varlığın özelliği olarak tanımlanır.",
+      "Bilinç, sinirsel kümelerde depolanmış, bütünleşik deneyimlerin anlık yeniden üretimi (yeniden-sunumu) yoluyla gerçekleşir (ERR)."
+    ],
+    "basis_of_belief_or_evidence_type": "Kavramsal; Hesaplamalı (Bilgi Modeli); Felsefi."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir. Kuram nörobiyolojik ilkelere (Hebb) ve bilgi kuramına dayanır; bu da karmaşık bilgi depolama ve yeniden üretimin sinirsel sistemlerde nasıl gerçekleştiğini modelleyerek olası sınanabilirlik önerir.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Başlıca kavramsal gerilim, zihni maddi olmayan bilgi olarak betimlerken beynin dijital bilgi işlemediğini açıkça belirtmekte yatar; bu da geleneksel hesaplama modellerinden ayrı bir bilgi tanımı gerektirir.",
+    "open_questions_and_limitations": "Bilginin 'çifte gerçekleşiminin' kesin doğası -bilginin fiziksel süreçleri ve bilinçli deneyimi nasıl bağladığı- temel bir bilinç kuramı oluşturabilmek için ayrıntılı açıklama gerektirir.",
+    "ontological_coherence": "Bir bilgi modeli olarak içsel olarak tutarlıdır, ancak maddi olmayan bilgiye dayanması katı indirgemeci materyalizme meydan okur ve sınıflandırmasını fizikalizmin sınırına iter."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Bilinç işlevsel olarak bilgi terimleriyle tanımlandığından (bilgiye uygun tepki verme) ve zihin yazılıma benzetildiğinden, yapay sistemler bütünleşik deneyimin karmaşıklığını yeniden üretebildikleri sürece bilince ulaşmak için gerekli bilgi yapılarını örnekleyebilmelidir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, biyolojik sinirsel kümeler içindeki bilgi yapılarının fiziksel gerçekleşimine bağlıdır; dolayısıyla bedenin ve beynin çözülmesiyle sona erer."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanistik",
+      "rationale": "Kuram, bilinci uyumsal hayatta kalma değeri açısından açıklar; bu da genellikle nihai bir kozmik anlam ya da amacı gerekçelendirmeyen materyalist bir çerçeveyle tutarlıdır."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Zihin, beyinde kaydedilmiş maddi olmayan bilgi (yazılım) ise, bu bilgi yapısının biyolojik olmayan bir ortamda kusursuzca çoğaltılması birinci şahıs zihinsel benliği korumalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "Genişletme (Belirli, dijital olmayan bir hesaplamalı/bilgisel modeldir)"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Uyumlu (Depolanmış deneyimler ile fiziksel olarak 'birlikte kablolanmış' nöronlar arasındaki güçlü özdeşliğe dayanır)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Recorder and Reproducer, Bob Doyle",
+        "year": null
+      }
+    ]
+  }
+}

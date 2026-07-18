@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "Dikkat Şeması Kuramı",
+    "summary": "Bu kuram, beynin kendi dikkat sürecine ilişkin hızlı, basitleştirilmiş, içsel bir model -bir dikkat şeması- oluşturduğunda bilincin ortaya çıktığını ileri sürer. Beyin, temelde hesaplamalı bir ürün olmasına rağmen, bu içsel temsili hatalı biçimde öznel, fiziksel olmayan bir öz ya da bir 'benlik karikatürü' olarak yorumlar ve bildirir.",
+    "associated_thinkers": [
+      "Michael Graziano"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Nörobiyolojik",
+    "core_identity_tagline": "Dikkatin Evrimleşmiş Bir Benlik Karikatürü Olarak Bilinç",
+    "classification_tags": [
+      "neuroscience",
+      "representation",
+      "functionalism",
+      "evolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, beynin kendi dikkat mekanizmasına ilişkin içsel temsili ya da basitleştirilmiş modeli (dikkat şeması) ile özdeşleştirilir; bu da üst-düzey düşüncenin özgül bir örneğidir.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Bilinç, biyolojik, bilgi işleyen bir makinenin (beyin) kendi içsel verilerini değerlendirmesiyle ürettiği bildirimdir; bu da zihinsel durumların hesaplamalı ve tümüyle fiziksel olduğu anlamına gelir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Öznellik ('hayaletimsi, fiziksel olmayan bir öz' duygusu), beynin içsel dikkat şeması tarafından üretilen yanıltıcı bildirimdir. Yönelimsellik örtük olarak açıklanır; çünkü ortaya çıkan modelin birincil işlevi, dünyadaki eylemleri denetlemek üzere dikkati izlemektir.",
+    "qualia_account": "Bilinç, bir 'benlik karikatürü' ya da fiziksel olmayan bir özün yanıltıcı bir bildirimi olarak betimlenir; bu da Daniel Dennett'in görüşüne benzer biçimde qualia'ya ilişkin indirgemeci ya da yanılsamacı bir açıklamaya işaret eder.",
+    "ontological_commitments": "Biyolojik beyinler, bilgi işleme mekanizmaları ve içsel temsiller (dikkat şeması).",
+    "epistemic_access": "Bilince, sistemin kendisi içe bakış yoluyla (içsel verilerini değerlendirerek) erişir ve bu, sistemin bilinç iddiasında bulunmasına yol açar; ancak gerçek hesaplamalı doğası ancak üçüncü şahıs bilimsel çözümlemesiyle (bilim) belirlenebilir.",
+    "constituents_and_structure": "Beynin kendi dikkat mekanizmasını izlemek ve düzenlemek için geliştirilen hesaplamalı bir model ya da temsil (dikkat şeması)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (üretilen içsel bir bildirim/iddia olarak), Dikkat, Eylem Denetimi.",
+    "distinctive_mechanism_or_principle": "Denetim mühendisliği ilkelerine dayanan, dikkat sürecine ilişkin basitleştirilmiş bir içsel modelin (dikkat şeması) inşası ve sürdürülmesi.",
+    "dynamics_of_emergence": "Bilinç, içsel dikkat şemasını üreten bir hesaplamalı stratejiden kaynaklanan, dinamik ve evrimleşmiş bir özelliktir.",
+    "location_and_distribution": "Beynin biyolojik, bilgi işleyen sistemi içinde konumlanır.",
+    "causation_and_functional_role": "Dikkat şemasının işlevsel rolü, dünyadaki eylemleri denetlemek amacıyla beynin dikkatini izlemek ve düzenlemektir. Ortaya çıkan bu yeti, sistemin bilinç iddiasında bulunmasına olanak tanır.",
+    "integration_or_binding": "Duyusal verilerin dikkat şemasına bütünleştirilmesine ilişkin kesin mekanizma kaynaklarda ayrıntılandırılmamıştır, ancak kuram, genel dikkati izlemek ve düzenlemek için gereken bütünleşmeyi ima eder.",
+    "information_flow_or_representation": "Bilgi işleme merkezidir; beyin, kendi durumuna ilişkin basitleştirilmiş bir temsil (dikkat şeması) geliştirerek bir bilgi bolluğuyla başa çıkmalıdır.",
+    "evolutionary_account": "Bilinç özelliği, uyarlanımsal bir yarar sağlamak için evrimleşmiştir: çevredeki eylemleri verimli biçimde denetlemek üzere dikkati izlemek ve düzenlemek.",
+    "core_claims_and_evidence": [
+      "Beyin, kendi dikkat sürecine ilişkin 'hızlı ve kaba bir model' (dikkat şeması) geliştirir.",
+      "Beyin, bu içsel modeli 'hayaletimsi, fiziksel olmayan bir öz' ya da bir 'benlik karikatürü' olarak bildirir.",
+      "Bilinç iddiasında bulunma yetisi, denetim mühendisliğinden türetilen hesaplamalara dayanır."
+    ],
+    "basis_of_belief_or_evidence_type": "Nörobiyolojik, Hesaplamalı, Evrimsel, Felsefi."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kuram, bir sistemin bilinç *iddiasında* nasıl bulunabileceğini açıklar, ancak benzer işlevselci modellerle paylaştığı genel bir sınırlamayla karşı karşıyadır: gerçek öznel hissi (yani 'içeride biri var mı' problemini) kesin olarak kanıtlamak ya da açıklamak, savunucusunun da kabul ettiği gibi sonsuza dek belirsiz kalır.",
+    "open_questions_and_limitations": "Sistem, içe bakışa dayandığından, bilinç iddiasının salt hesaplamalara dayandığını içsel olarak belirleyemez. Dışsal gözlemci ise sistemde iç deneyimin bulunup bulunmadığını asla gerçekten bilemez.",
+    "ontological_coherence": "Materyalist çerçeve içinde son derece tutarlıdır; fiziksel olmayan tözlere başvurmadan bilinç iddiasını açıklamak için diğer işlevselci ve hesaplamalı yaklaşımlarla uyumludur."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç hesaplamalı bir süreç (bir dikkat şemasının yaratılması) olarak tanımlandığından, ilke olarak gerekli hesaplamalı mimariyi uygulayan yapay sistemler bilinçli hale gelebilir. Dahası, gözlemciler, bilinçliymiş gibi davranan yeterince karmaşık yapay zeka sistemlerine kaçınılmaz olarak toplumsal bilinç atfında bulunacaktır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Materyalist/Nörobiyolojik bir kuram olarak bilinç, fiziksel altkatmana (biyolojik, bilgi işleyen makineye) bağlıdır; bu da bedenin çürümesinden sonra hayatta kalmayı olanaksız kılar."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bilinç, uyarlanımsal, evrimsel bir amaç sağlar (eylem denetimi için dikkati izlemek ve düzenlemek), ancak Materyalizmle tutarlı biçimde herhangi bir nihai ya da kozmik anlam ima etmez."
+    },
+    "virtual_immortality": {
+      "stance": "Mümkün",
+      "rationale": "Bilinç hesaplamalı bir yapı (dikkat şeması) olarak gerçekleşiyorsa ve bu yapı ile ilgili bilgi işleme sistemleri biyolojik olmayan bir ortama doğru biçimde yüklenebilirse, sanal ölümsüzlük kuramsal olarak mümkündür."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Uyumlu"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "True nature of consciousness: solving the biggest mystery of your mind, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Rethinking Consciousness: A Scientific Theory of Subjective Experience, M. Graziano",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Can consciousness be non-biological?, M. Graziano",
+        "year": 2014
+      }
+    ]
+  }
+}

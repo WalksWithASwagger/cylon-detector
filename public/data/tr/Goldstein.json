@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Goldstein’ın Zihin-Beden Problemi",
+    "summary": "Bu kuram, bilincin tümüyle beyin maddesinden oluştuğunu ileri sürer ve maddi-olmayan durumları reddeder. Ancak zihin-beden problemini şu düşünce üzerine kurar: fiziksel süreçler bilim tarafından bütünüyle çözümlenebilirken (dışsal betimleme), bir kişinin içsel öznel betimlemesi (düşünceler, duygular, hisler) bu salt fiziksel betimlemeden türetilemez ya da onunla tam olarak erişilemez; bu da kalıcı bir açıklama boşluğunu vurgular.",
+    "associated_thinkers": [
+      "Rebecca Newberger Goldstein"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Felsefi",
+    "core_identity_tagline": "‘Türetilemez Beyin Maddesi Olarak Bilinç’",
+    "classification_tags": [
+      "explanatory gap",
+      "materialism",
+      "subjectivity",
+      "description"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "İçsel düşünceleri, algıları, duyguları, düşleri ve his durumlarını kapsayan bilinç, tümüyle beyin maddesi olarak tanımlanır; ancak bu beyin maddesinin öznel, içsel betimlemesi eksiksiz dışsal bilimsel analize erişilemezdir.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Bilinçli durumlar beyin durumlarıyla radikal biçimde özdeştir (Materyalist Özdeşlik Kuramı), ancak öznel (içsel) betimlemenin kavramsal karmaşıklığı, fiziksel (dışsal) beyin durumunun betimsel analizinden çıkarsanamaz.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş/Açıklama Boşluğu. Bilinç nihayetinde maddidir, ancak öznel betimlemesi ilkece bile fiziksel dayanağın nesnel betimlemesinden türetilemez.",
+    "subjectivity_and_intentionality": "Öznellik, bir kişi olmanın 'içsel betimlemesidir' (düşünceler, duygular, düşler); fiziksel beynin eksiksiz bir analizi buna tam olarak erişemez ya da onu betimleyemez. Yönelimsel durumlar tümüyle beyin maddesine dayanır.",
+    "qualia_account": "Qualia (his durumları), bilinçli deneyimin içsel betimlemesinin, tümüyle beyin maddesi olan ancak bilimin salt fiziksel sözcük dağarcığıyla tam olarak dile getirilemeyen yönleridir.",
+    "ontological_commitments": "Fiziksel bedenler ve beyinler. Maddi-olmayan durumların ya da tözlerin açık reddi (düalizmi reddeder).",
+    "epistemic_access": "İçsel betimleme öncelikle birinci şahıs bakış açısıyla bilinir; örneğin bir romanda bir karakter yaratırken. Üçüncü şahıs bilimsel yaklaşım (beynin analizi), bu bilgiye erişmede özsel olarak sınırlıdır.",
+    "constituents_and_structure": "Altta yatan temel madde 'tümüyle beyin maddesidir'. Çekirdek yapı, tek bir maddi gerçekliğin fiziksel/çözümlenebilir betimlemesi ile içsel/erişilemez betimlemesi arasındaki gerilim etrafında döner."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": [
+      "Fenomenal",
+      "Yönelimsellik"
+    ],
+    "distinctive_mechanism_or_principle": "İlke, zihinselin ve fizikselin ontolojik özdeşliğine rağmen, bir kişinin öznel, içsel betimlemesinin, onun fiziksel bedeni ve beyninin eksiksiz, nesnel analizinden türetilemezliği üzerine kuruludur.",
+    "dynamics_of_emergence": "Odak felsefi ve betimseldir; zamansal ya da sistemsel bir gelişimsel mekanizmadan çok, fiziksel ve zihinsel betimlemeler arasındaki enformasyonel/kavramsal ayrımı vurgular.",
+    "location_and_distribution": "Yalnızca fiziksel bedenlerde ve beyinlerde konumlanmıştır.",
+    "causation_and_functional_role": "Bilinç, yönelimsel durumlar ve his durumları olarak fiziksel beyin maddesidir. Materyalist bir görüş olarak, zihinsel durumlar fiziksel beyin durumları olarak nedensel açıdan etkilidir."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Felsefi/Kavramsal. Merkezi iddia, betimsel bilimin öznelliğe erişmedeki içkin sınırlılıklarına ilişkindir; bu da ampirik araçlarla yanlışlanabilir değildir.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kuram, B Türü Materyalizmin içkin gerilimiyle karşı karşıyadır: bilincin tümüyle fiziksel olduğu ontolojik iddiasını kabul ederken, öznel deneyimin doğasına ilişkin potansiyel olarak kapatılamaz bir açıklama (epistemik) boşluğu öne sürmek.",
+    "open_questions_and_limitations": "Başlıca sınırlılık, altta yatan gerçeklik monistik olsa bile, bilimin beyin durumları ile birinci şahıs deneyiminin zenginliği arasındaki betimsel boşluğu kapatmadaki kalıcı yetersizliğidir.",
+    "ontological_coherence": "Zor problemi öncelikle ontolojik değil epistemik olarak kabul eden fizikalist çerçeveler içinde, örneğin B Türü Materyalizm içinde son derece tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Kuram temelde materyalist olduğundan ve maddi-olmayan tözleri reddettiğinden, hesaplamalı ya da fiziksel sistemler gerekli 'beyin maddesi' düzenlemelerini örnekleyebilirse, ortaya çıkan öznel deneyim dışsal analize kapalı kalsa bile, yapay zekâ bilinci ilkece olanaklı olmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç tümüyle 'beyin maddesidir' ve fiziksel bedenden ayrılamaz; kuram, genellikle ölümden sonra varlığın sürmesiyle ilişkilendirilen düalizmi açıkça reddeder."
+    },
+    "meaning_and_purpose": {
+      "stance": "Belirsiz",
+      "rationale": "Ontolojik olarak fizikalist olmasına karşın, kuramın kişinin indirgenemez biçimde zengin iç yaşamına odaklanması, öznellikte derin, içkin bir değeri ima eder; ancak kozmik ya da nihai bir amacı zorunlu kılmaz."
+    },
+    "virtual_immortality": {
+      "stance": "Olası",
+      "rationale": "Eğer bilinçli durumlar fiziksel beyin durumlarıyla (beyin maddesi) özdeşse, bu fiziksel durumların yeni bir ortama kusursuz biçimde çoğaltılması ya da yüklenmesi, özgün birinci şahıs zihinsel benliği mantıksal olarak korumalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Stoljar’s Epistemic View and Non-Standard Physicalism",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Dualisms",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "Karşıt Görüş"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why a Mind-Body Problem?",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is consciousness irreducible?",
+        "year": 2011
+      }
+    ]
+  }
+}

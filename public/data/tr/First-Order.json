@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Birinci Düzey Temsilcilik",
+    "summary": "Birinci Düzey Temsilcilik (FOR), bilinci dışsal, dünyaya-yönelik yönelimsel durumlara indirgeyerek açıklamayı amaçlar. Deneyimin fenomenal karakterinin tümüyle temsilin içeriği tarafından belirlendiğini savunur ve qualia'yı, deneyimin nesneleri sahipmiş gibi temsil ettiği dışsal özelliklerle özdeşleştirir.",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Temsilsel",
+    "core_identity_tagline": "Dışsal, dünyaya-yönelik yönelimsel durumlar olarak bilinç",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Algısal deneyimlerin fenomenal yönleri, deneyimin nesneleri sahipmiş gibi temsil ettiği dışsal, gerçek-dünya özellikleriyle bir ve aynıdır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik kuramı/İndirgemeci bağıntı. Zihinsel durumlar, belirli enformasyonel işlevler kazanan beyin durumlarında gerçekleşen temsillerle özdeşleştirilir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Yönelimsellik (düşüncenin yönelmişliği) önceldir. Öznellik tümüyle temsili içerik tarafından belirlenir; çünkü duyusal temsiller özneye dolaysızca sunulur.",
+    "qualia_account": "Qualia (fenomenal karakter), temsili içerikle (güçlü temsilcilik) ya da deneyimin temsil ettiği dışsal özelliklerle özdeşleştirilir; böylece zor problem indirgemeci açıklama yoluyla çözülür.",
+    "ontological_commitments": "Zihinsel temsiller, enformasyonel işlevler kazanan beyin durumları, duyusal/algısal devreler.",
+    "epistemic_access": "Nöral bağıntılara ve temsillerin küresel yayınlanmasına odaklanan üçüncü şahıs yöntemleriyle, öz-bildirimle tamamlanarak erişilebilir.",
+    "constituents_and_structure": "Beyinde küresel olarak yayınlanan birinci düzey duyusal temsiller ve kavramsal-olmayan içerikler."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç, Erişim bilinci, Duyusal deneyim.",
+    "distinctive_mechanism_or_principle": "Bilinç, beyin durumları tipik olarak doğal seçilim yoluyla dışsal nesnelerle ilgili enformasyonu taşıma işlevi kazandığında ve böylece zihinsel temsiller hâline geldiğinde ortaya çıkar.",
+    "dynamics_of_emergence": "Bilinç, kavramsal-olmayan içerikler erişim ve kullanım için beyin boyunca küresel olarak yayınlandıkça dinamik biçimde ortaya çıkar.",
+    "location_and_distribution": "Belirli bilincin nöral bağıntıları, algısal alanlardaki yinelemeli işlemeyle bağlantılı olarak duyusal korteks ve belirli talamik çekirdeklerdeki etkinliği içerir.",
+    "causation_and_functional_role": "Bilinç, algısal enformasyonu esnek davranışa, inanç oluşumuna ve eylem seçimine olanak tanıyan sistemlere sunma işlevi görür.",
+    "integration_or_binding": "Bütünleşme, duyusal enformasyonun (temsillerin) küresel bilişsel ağlar boyunca erişilebilirliği yoluyla sağlanır (küresel yayınlanmayla eş zamanlı olarak).",
+    "information_flow_or_representation": "Birinci düzey temsiller dışsal uyaranlardan dolaysızca akar; enformasyon işleme, beyin durumlarını bilince uygun temsillere dönüştürmek için can alıcıdır.",
+    "evolutionary_account": "Bilinç doğal seçilim yoluyla evrilmiştir; bu süreçte beyin durumları, organizmanın uyarlanır yetilerini artıran enformasyonu taşıma işlevi kazanmıştır.",
+    "core_claims_and_evidence": [
+      "Fenomenal özellikler, deneyimin temsil ettiği dışsal, gerçek-dünya özellikleriyle özdeştir.",
+      "Bilinçli deneyim, beyinde birinci düzey kavramsal-olmayan içeriklerin küresel yayınlanmasıyla eş zamanlı olarak ortaya çıkar.",
+      "Bilinçli durumlar, içeriği öznel hissi tümüyle belirleyen temsillerdir."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi (kavramsal indirgeme, yönelimsellik odağı) ve Ampirik (sinirbilimsel bağıntı verileri)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik Olarak Sınanabilir",
+    "known_empirical_interventions_or_tests": [
+      "Genel ve belirli bilincin nöral bağıntılarının haritalanması (duyusal korteks, talamik çekirdekler)",
+      "Bilinci birinci düzey içeriğin küresel yayınlanmasıyla ilişkilendiren çalışmalar"
+    ],
+    "criticisms_and_tensions": "Temsili kuramlar için geçerli olan genel zorlukla karşı karşıyadır: fenomenolojiyi salt yönelimsellik terimleriyle açıklamak. Eleştirmenler, salt temsilin ya da enformasyon içeriğinin nitel hissi (qualia) tümüyle nasıl açıklayabileceğini sorgular.",
+    "open_questions_and_limitations": "Kavramsal-olmayan bir temsilin içeriğinin öznel 'nasıl bir şey olduğu'nu tam olarak nasıl belirlediğine ilişkin kesin mekanizma bir açıklama boşluğu olarak kalır; ancak savunucular fenomenal yönün dışsal özelliklerle özdeşlik yoluyla çözüldüğünü savunur.",
+    "ontological_coherence": "İndirgemeci materyalist ve işlevselci bir ontoloji içinde son derece tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Bilincin enformasyonel içeriğe ve işlevsel mimariye bağlı olduğu materyalist bir kuram olarak, yapay sistemler gerekli temsili yapıları ve enformasyon işlevlerini gerçekleştirebilirse bilinci hayata geçirebilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç tümüyle fiziksel beyin süreçleriyle gerçekleşir; biyolojik dayanağın yok olmasından sonra varlığın sürmesi olanaksızdır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bir Materyalizm Kuramı olarak nihai kozmik bir anlam ya da amacı temellendirmez; yalnızca bilinçli faillerin kendilerinin ürettiği anlamı temellendirir."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Eğer birinci şahıs benlik tümüyle temsili içerik ve enformasyonel durumlar tarafından kavranıyorsa, bu durumların biyolojik-olmayan bir ortama kusursuz biçimde çoğaltılması (yüklenmesi) özgün zihinsel benliği korumalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Eleştiri/Karşıtlık"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Uzantı/Örtüşme"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Uyumlu/Örtüşme"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Etki"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

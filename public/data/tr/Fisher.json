@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Fisher’ın Kuantum Bilişi",
+    "summary": "Bu kuram, çekirdek spinlerini içeren kuantum işlemenin beyinde işler olduğunu ve işleyişinin anahtarı olduğunu, bilincin biyolojik mekanizması olarak hizmet ettiğini öne sürer. Fosfor çekirdek spinlerinin, Posner molekülleri tarafından korunan kübitler (nöral kübitler) gibi davrandığını ve nöral etkinliği etkilemek için gerekli kuantum dolanıklığını olanaklı kıldığını ileri sürer.",
+    "associated_thinkers": [
+      "Matthew Fisher"
+    ],
+    "category": "Kuantum Kuramları",
+    "subcategory": "Kuantum Bilişi",
+    "core_identity_tagline": "Çekirdek Spini Kuantum İşleme Olarak Bilinç",
+    "classification_tags": [
+      "quantum",
+      "neurobiology",
+      "materialist",
+      "qubit",
+      "entanglement"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, biyolojik kübitler (fosfor çekirdek spinleri) ve uzun-ömürlü dolanıklık kullanan kuantum işlemenin bir sonucu olarak tanımlanır; bu da nöral iletişimi temelden etkiler.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik kuramı. Bilinç, biyolojik dayanak içindeki belirli, düşük-düzeyli kuantum mekanik etkileşimlerden türetilen (ya da onlarla özdeş olan) fiziksel bir süreçtir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Bilinç, bilinen temel fizik ilkelerince yönetilen kuantum mekanik süreçleri olanaklı kılan karmaşık biyolojik yapılardan doğar.",
+    "subjectivity_and_intentionality": "Kuram, bilinç için gerekli olan altta yatan fiziksel dayanağa odaklanır, ancak bu kuantum mekanizmasının öznel hissi ya da yönelimselliği nasıl ürettiğini açıkça ayrıntılandırmaz. Bu özelliklerin, gerekli kuantum işleme işlevleri sağlanırsa ortaya çıkacağı örtük biçimde varsayılır.",
+    "qualia_account": "Kaynak malzeme, bilinç için gerekli fiziksel mekanizmayı (kübitler, dolanıklık) ayrıntılandırır, ancak nitel hissin (qualia) bu belirli kuantum biyolojik süreçlerden nasıl doğduğuna ya da onlara nasıl karşılık geldiğine ilişkin açık bir açıklama sunmaz.",
+    "ontological_commitments": "Fosfor çekirdek spinleri (nöral kübitler olarak), fosfat iyonları, Posner molekülleri (kalsiyum fosfat kümeleri), kuantum dolanıklığı ve nöral ateşleme oranları.",
+    "epistemic_access": "Özellikle yoğun madde fiziği, kuantum biyolojisi ve beyin içindeki kuantum mekanik etkileşimlerin modellenmesi olmak üzere bilimsel araştırma yoluyla erişilebilir.",
+    "constituents_and_structure": "Temel yapı taşları, Posner molekülleri içinde barınan fosfor çekirdek spinleridir (kübitler); büyük ölçekli nöral ağ etkinliğini etkileyen dolanıklığa ve ardından yerel-olmayan korelasyonlara olanak tanıyacak biçimde örgütlenmişlerdir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç, beyin işlevi ve nöral kuantum işleme.",
+    "distinctive_mechanism_or_principle": "Nöral kübitlerin (Posner moleküllerindeki fosfor çekirdek spinleri) kuantum dolanıklığı ve ardından gelen kuantum ölçümü; bu da nörotransmitter salınımını ve nöron ateşlemesini etkileyen kalsiyum iyonu salınımına dönüşür.",
+    "dynamics_of_emergence": "Bilinç, klasik nöral sinyalleri modüle eden kuantum dolanıklığı (Posner molekülleriyle korunan) ile nesnel indirgeme (ölçüm/çöküş) döngüsünden doğan dinamik bir süreçtir.",
+    "location_and_distribution": "Belirli moleküler yapılara (Posner molekülleri) ve bunların beyin içindeki nöronların mikro-düzey dinamikleri üzerindeki sonraki etkilerine yerelleşmiştir.",
+    "causation_and_functional_role": "Nöral kuantum işleme için bir mekanizma sağlar; burada kuantum ölçüm olayları (Posner moleküllerinin bağlanması ve erimesi) post-sinaptik nöron ateşlemesini artıran kalsiyum iyonlarının salınımını tetikler.",
+    "integration_or_binding": "Bütünleşme, birden çok Posner molekülünün dolanıklığından kaynaklanan nöron ateşleme oranlarının yerel-olmayan kuantum korelasyonları yoluyla sağlanır.",
+    "information_flow_or_representation": "Enformasyon, kuantum belleğinde (Posner molekülleri) ve dolanıklıkta kodlanır ve depolanır; bu da klasik nöral sistemlere beslenen karmaşık, yerel-olmayan enformasyon işlemeyi kolaylaştırır.",
+    "evolutionary_account": "Kaynaklarda açıkça tartışılmaz, ancak örtük biçimde, geliştirilmiş işleme ve işlev için kuantum mekaniğini kullanabilen sistemleri seçen biyolojik evrime dayanır.",
+    "core_claims_and_evidence": [
+      "Fosfor çekirdek spinleri, beyindeki kuantum işleme için nöral kübitler olarak hizmet eder.",
+      "Posner molekülleri bu kübitleri kuantum belleği olarak korur.",
+      "Dolanık Posner molekülleri, kalsiyum salınımı yoluyla nöron ateşleme oranlarının yerel-olmayan kuantum korelasyonlarını tetikler.",
+      "Kuram, eğer kuantum işleme bilinç için temelse gerekli olan belirli açıklama adımlarını tanımlar."
+    ],
+    "basis_of_belief_or_evidence_type": "Yoğun madde fiziğine ve yükselen kuantum biyolojisi alanına dayalı kavramsal modelleme."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik Olarak Sınanabilir/Spekülatif. Kuram, kuantum sinirbiliminde gelecekteki ampirik sınamalar için potansiyel biyolojik hedefleri ve açıklama adımlarını tanımlayacak kadar belirlidir.",
+    "known_empirical_interventions_or_tests": "Kaynaklarda kuramı doğrulayan ya da yanlışlayan belirli bir ampirik müdahale ya da sınama listelenmemiştir. Şimdiye kadarki başlıca rolü, gelecekteki kuantum biyolojik araştırmalar için kavramsal rehberliktir.",
+    "criticisms_and_tensions": "Kaynak, kuramın 'ayrıntılarında yanlış' olabileceğini ve çoğu kuantum bilinç kuramı gibi fizikçiler ve sinirbilimcilerin kuşkusuyla karşılaştığını belirtir.",
+    "open_questions_and_limitations": "Kübitler ve Posner moleküllerine ilişkin belirli kimyasal ve biyolojik ayrıntılar biyolojik olarak yanlış olabilir. Bu mekanizmanın, beyin işlevi için doğru olsa bile, fenomenal bilinç için yeterli ya da gerekli olup olmadığı belirsizdir.",
+    "ontological_coherence": "Kuantum mekaniğini bilinçle ilgili biyolojik hesaplamada belirli, temel bir rol oynadığını kabul eden genişletilmiş bir materyalist ya da fizikalist ontoloji içinde tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Eğer bilinç kuantum mekaniğine ve onun öngörülebilir düzenliliklerine dayanıyorsa, kuantum durumlarını denetlemenin teknolojik güçlükleri aşılabildiği takdirde, ileri teknoloji ilkece yapay zekâ bilinci yaratabilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Kuram, bilinci fiziksel beyin içindeki belirli, kısa-ömürlü moleküler/biyolojik yapılara ve süreçlere (fosfor, Posner molekülleri) sıkı sıkıya bağlar; bu da bilincin biyolojik ölümle sona erdiğini düşündürür."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Moleküler mekanizmalara dayalı salt fizikalist bir bilinç açıklaması olarak kuram, fiziksel-olmayan ya da nihai kozmik bir anlam getirmez; amacı bilinçli, biyolojik faillerin yarattığıyla sınırlar."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemelen (belirsizlikle)",
+      "rationale": "Bilinci yüklemek, karmaşık kuantum durumlarını tam olarak manipüle edebilen ve çoğaltabilen bir teknoloji gerektirir. Kuantum mekaniği düzenliliklerce yönetilse de, içkin belirsizliği kusursuz çoğaltılabilirlik konusunda belirli bir belirsizlik derecesi getirir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "Uzantı"
+      },
+      {
+        "name": "Poznanski’s Dynamic Organicity Theory",
+        "relationship": "Uyumlu"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Matthew Fisher, Quantum cognition: the possibility of processing with nuclear spins in the brain",
+        "year": 2015
+      }
+    ]
+  }
+}

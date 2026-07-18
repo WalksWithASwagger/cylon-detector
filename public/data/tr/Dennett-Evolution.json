@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Dennett'in Zihinlerin Evrimi Görüşü",
+    "summary": "Bu çerçeve, zihnin ve bilincin tümüyle doğal seçilim yoluyla evrimin sonucu olduğunu öne sürer ve karmaşık örgütlenmenin (tasarım, gerekçeler, yetkinlik) bilinçli bir tasarımcı ya da akıl yürütücü gerektirmeden ortaya çıktığını vurgular. İnsan zihinlerinin gelişimini, ardışık, salt maddi soyutlama ve karmaşıklık düzeyleri aracılığıyla açıklar.",
+    "associated_thinkers": [
+      "Daniel Dennett"
+    ],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Filogenetik Evrim",
+    "core_identity_tagline": "Sihir Olmaksızın Doğal Seçilim Yoluyla Evrimleşmiş Zihinler",
+    "classification_tags": [
+      "evolution",
+      "naturalism",
+      "phylogenetic",
+      "materialism",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç ve zihin, son derece karmaşık fiziksel süreçler -maddi süreçler üzerine kurulmuş, evrimleşmiş bir düşünme araçları takımı- olarak tanımlanır; burada zihnin 'sihri' sihir olmaksızın gerçekleştirilir.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik kuramı/İndirgemeci. Zihinsel durumlar tümüyle biyolojik beyinlerin ürünüdür ve Dennett'in daha geniş materyalist duruşuyla tutarlı olarak, fiziksel durumlarla tam olarak açıklanır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Bilinç ilkece altta yatan fiziksel süreçlerle tümüyle açıklanabilir; güçlü belirişe ya da fiziksel olmayan müdahaleye duyulan gereksinimi reddeder.",
+    "subjectivity_and_intentionality": "Öznellik, 'anlatısal ağırlık merkezi' gibi evrimleşmiş örgütsel yapılar aracılığıyla inşa edilir. Yönelimsellik (bir şey hakkında olma), karmaşık molekül yığınları anlam ya da içeriğe sahip olma kapasitesini evrimleştirdiğinde doğar.",
+    "qualia_account": "Qualia (niteliksel his), tutarsız ve yanılsamalı 'kullanıcı yanılsamaları' olarak ele alınır -içkin, çözümlenemez zihinsel özellikler değil, evrim sürecinden kaynaklanan karmaşık, etkinleşmiş sinir ağları.",
+    "ontological_commitments": "Fiziksel dünya, doğa yasaları, biyolojik beyinler ve doğal seçilim süreçleri.",
+    "epistemic_access": "Bilimin üçüncü şahıs bakış açısı; özellikle içe bakış temelli iddiaları zihinsel gerçekliğin doğru açıklamaları olarak değil, açıklanacak veri olarak ele alan heterofenomenoloji yöntemini kullanır.",
+    "constituents_and_structure": "Zihnin yapısı, ayrıntılı bir evrimleşmiş 'düşünme araçları' takımından ve biyolojik evrim üzerine kurulmuş hiyerarşik örgütsel katmanlardan oluşur."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Filogenetik Köken, İçerik, Zihin yapısı, Bilinç (indirgenmiş/yanılsamalı), Öz-farkındalık (anlatısal inşa olarak).",
+    "distinctive_mechanism_or_principle": "'Akıl yürütücü olmadan gerekçeler, tasarımcı olmadan tasarım ve kavrayış olmadan yetkinlik' ile nitelenen sonuçlar yaratan doğal seçilim yoluyla evrimin muazzam gücü.",
+    "dynamics_of_emergence": "Bilinç, filogenetik tarih boyunca zihinsel gelişimin aşamalı, artımsal bir süreci aracılığıyla ortaya çıkmış olup erken yaşam biçimlerinden insan zihinlerine kadar izlenebilir.",
+    "location_and_distribution": "Üst düzey organizmaların, özellikle de insanların, gelişmiş sinirsel etkinlik örgütlenmesinin karmaşık 'düşünme araçlarını' desteklediği karmaşık beyinlerinde yerelleşmiştir.",
+    "causation_and_functional_role": "Zihin, zorlu ortamlarda uyumsal, uygunluğu artırıcı bir avantaj sağladığı için ortaya çıkmıştır. İşlevi, öz-düşünüm gibi karmaşık davranışları ve bilişi olanaklı kılmaktır.",
+    "integration_or_binding": "Bütünleşme, beyinde içerik sabitleme ve yayılmanın evrimi aracılığıyla sağlanır; bu da bir tür yaşam öyküsü ya da 'anlatısal ağırlık merkezi' hâlinde birleşir.",
+    "information_flow_or_representation": "Evrim, beynin bilgiyi işlemesini olanaklı kılar; öyle ki farklı beyin bölgeleri, dikkat için (beyindeki şöhret) yarışan 'çoklu taslaklar' üreterek anlatısal bir akış oluşturur.",
+    "evolutionary_account": "Bilinç, organizmaların modelleme, öngörme ve simüle etme gibi karmaşık yetenekler geliştirdiği, insan içe bakışı ve soyut düşünceyle doruğa ulaşan, sihirsel olmayan bir evrimsel başarıdır.",
+    "core_claims_and_evidence": [
+      "Zihinlerin kökeni, fiziksel olmayan öğelere başvurmadan biyolojik evrimle açıklanabilir.",
+      "İnsan zihninin karmaşıklığı, özelleşmiş 'düşünme araçları' üreten evrimin doruğudur.",
+      "Fenomenal özellikler, karmaşık, evrimleşmiş sinirsel etkinlikten doğan tutarsız yanılsamalardır."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi Argüman, Evrimsel Biyoloji, Mantık"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Biyolojik ve neo-Darwinci tutarlılığa karşı kavramsal olarak sınanabilir; işlevselci modellerle ilişkilendirilen sinirbilimsel bulgularla dolaylı olarak desteklenir.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Bilincin (qualia) bir yanılsama ya da sözde-sorun olduğunu öne sürerek 'zor problemi' atlamakla eleştirilir. Karşıtlar, öznel deneyim salt bir yanılsama ya da epifenomen ise onun evrimsel avantajını sorgular.",
+    "open_questions_and_limitations": "Deneyimin öznel hissine doğrudan bir açıklama getirmez, yalnızca böyle bir deneyime sahip olduğumuzu neden *bildirdiğimize* dair bir açıklama sunar.",
+    "ontological_coherence": "Zihnin geleneksel olarak maddi olmayan kavramlar da dâhil tüm görünümlerini katı bir fizikalist ontoloji içinde sağlam biçimde temellendirmek için Darwinci evrimi bir 'evrensel asit' olarak kullanarak son derece tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Bilinç tümüyle maddi olduğundan ve karmaşık örgütlenmeden (işlevselcilik/materyalizm) kaynaklandığından, doğru karmaşıklık çoğaltılırsa biyolojik olmayan zekâların bilince ulaşmasına ilkesel bir engel yoktur."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç tümüyle fiziksel beyne bağlıdır; benlik dijital olarak korunmadıkça (sanal ölümsüzlük), ölüm geri döndürülemez ve kalıcı yokluk ile sonuçlanır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanistik",
+      "rationale": "Evrim süreci 'tasarımcı olmadan tasarım' yoluyla işler; bu da içkin bir kozmik anlam ya da amaç bulunmadığı anlamına gelir; anlam, bilinçli insanlarca kendi kendine yaratılır."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç tümüyle beynin evrimleşmiş fiziksel/işlevsel örgütlenmesiyle açıklanıyorsa, bu sinirsel örüntülerin ve yolakların biyolojik olmayan bir ortamda kusursuzca çoğaltılması birinci şahıs zihinsel benliği korumalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Multiple Drafts Model",
+        "relationship": "Temel"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Lycan’s Homuncular Functionalism",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "Uyumlu"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Darwin’s Dangerous Idea: Evolution and the Meanings of Life, Daniel Dennett",
+        "year": 1995
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Humphrey’in Zihinsel Temsilleri ve Beyin Çekicileri",
+    "summary": "Bu materyalist kuram, fenomenal bilinci yalnızca belirli karmaşık türlerde bulunan geç bir evrimsel gelişme olarak görür. Duyumlar iki aşamalı bir süreçte üretilir: duyusal bilginin toplanması, ardından fenomenal özelliklere (qualia) sahip zihinsel temsiller üreten ve çoğunlukla beyindeki karmaşık çekici durumlarınca kararlılaştırılan yorumlayıcı bir \"bilinçli okuma\".",
+    "associated_thinkers": ["Nicholas Humphrey"],
+    "category": "Materyalizm",
+    "subcategory": "Temsilci",
+    "core_identity_tagline": "Çekiciler İçinde Evrimleşmiş Zihinsel Temsiller Olarak Fenomenal Bilinç",
+    "classification_tags": [
+      "evolutionary",
+      "representation",
+      "qualia",
+      "attractor states",
+      "phenomenal self"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, uyaranların zihinsel temsilleri (ürettiğimiz fikirler) olarak, özellikle yorumlayıcı aşamada (\"bilinçli okuma\") doğan ve beyinde karmaşık çekici durumlara kararlılaştırılan özellikler olarak özdeşleştirilir.",
+    "ontological_status": "Materyalizm / İndirgemeci Fizikalizm",
+    "mind_body_relationship": "Zihin-durumları (duyumlar/temsiller) fiziksel beyin tarafından üretilir. Fenomenal özellikler beyin durumlarının gerçek özellikleri olmasa da, beynin tasarladığı zihin-durumlarıdır (temsiller); bu da bir bağımlılık ima eder.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Öznellik, yorumlayıcı aşamadan doğar ve uyaranların organizmayı nasıl etkilediğine ilişkin temsillere dayanan, psikolojik olarak etkileyici bir benlik duygusu -bir \"fenomenal benlik\"- üretir. Yönelimsellik, duyumların uyaranların temsilleri olmasının doğasında bulunur.",
+    "qualia_account": "Qualia, yalnızca yorumlayıcı aşamada (bilinçli okumada) doğan \"fenomenal özelliklerdir\". Beyindeki matematiksel olarak karmaşık çekici durumlarca inceltilip kararlılaştırılan zihinsel temsiller olarak üretilir.",
+    "ontological_commitments": "Zihinsel temsiller, beyin çekici durumları, eferans kopyaları ve temsilleri kararlılaştıran nöral geri besleme döngüleri.",
+    "epistemic_access": "Deneyimin kendisi son derece öznel olsa da (\"benim olmanın nasıl bir şey olduğu\"), nesnel, üçüncü-şahıs yaklaşımlar aracılığıyla, özellikle evrimsel adımların yeniden kurgulanması (ileri mühendislik) ve nöral mekanizmaların incelenmesi yoluyla erişilebilir.",
+    "constituents_and_structure": "Özyinelemeli hale gelen ve zamanda uzayan, matematiksel olarak karmaşık çekici durumlara kararlılaştırılan ve fenomenal deneyimi oluşturan içsel temsiller (içsel bir metin gibi) üreten nöral geri besleme döngüleri."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç (duyarlılık), qualia üretimi ve fenomenal benlik.",
+    "distinctive_mechanism_or_principle": "Temsillerin karmaşık beyin çekici durumlarınca inceltilip kararlılaştırıldığı iki aşamalı bir işleme sistemi (duyusal girdi ve ardından bilinçli okuma/yorumlama). Bu süreç, ilkel değerlendirici tepkilerin 'eferans kopyaları' aracılığıyla izlenmesinden doğmuştur.",
+    "dynamics_of_emergence": "Bilinç, doğal seçilim yoluyla, ilkel değerlendirici tepkilerden başlayarak ve inceltme ile kararlılaştırma yoluyla karmaşık, özyinelemeli nöral etkinliğe ilerleyerek kademeli olarak ortaya çıkan dinamik bir süreçtir.",
+    "location_and_distribution": "Biyolojik beyinde, özellikle karmaşık zihinsel temsilleri ve çekici durumları destekleyebilen nöral geri besleme döngülerinde konumlanır. Görece geç bir evrimsel buluş sayılır ki bu da gradyant olmayan bir dağılım öngörür (örneğin memelilerde ve kuşlarda bulunur, ancak ıstakozlarda ya da kurbağalarda bulunmaz).",
+    "causation_and_functional_role": "Başlıca işlevsel rol, fenomenal benliğin belirmesi ile uyaranları izleme ve yorumlama (bir his) yetisi aracılığıyla organizmaya \"uygunluk oyununda\" uyarlanımsal bir üstünlük sağlamaktır.",
+    "integration_or_binding": "Bütünleşme, nöral geri besleme döngüleri karmaşık çekici durumlara kararlılaştıkça sağlanır; bu durumlar duyusal qualia'nın birleşik niteliklerini üretir.",
+    "information_flow_or_representation": "Bilgi iki aşamada akar: duyusal girdi (duyusal metin) ve ardından yorumlayıcı temsil (bilinçli okuma); burada beyin, uyaranların içsel bir temsilini (içsel metin) üretir.",
+    "evolutionary_account": "Bilinç, ilkel hayvan tepkilerinden doğal seçilim yoluyla ('ileri mühendislik') icat edilen ve özneye psikolojik yararlar sağlayan görece geç bir evrimsel uyarlanımdır.",
+    "core_claims_and_evidence": [
+      "Bilinç, beyin etkinliğinin gerçek bir eşlemesi değil, beyin tarafından üretilen bir zihinsel temsildir (fikir).",
+      "Fenomenal özellikler (qualia), yalnızca işlemenin yorumlayıcı aşamasında (bilinçli okuma) doğar.",
+      "'Fenomenal benliğin' icadı, uygunluk oyununda uyarlanımsal yararlar sağlamıştır.",
+      "Zor problem, fenomenal özelliklere eşlenen bir nöral bağıntı aramada hatalı olduğu için 'yanlış problem' sayılır."
+    ],
+    "basis_of_belief_or_evidence_type": "Evrimsel, Nöropsikolojik, Felsefi/Kavramsal."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir. Kuram, fenomenal deneyim ve tür dağılımıyla bağıntılı olması gereken belirli evrimsel eşikler ve beyin dinamikleri (çekici durumlar, eferans kopyaları) öne sürer.",
+    "known_empirical_interventions_or_tests": "Kuram, fenomenal bilincin türler arasındaki dağılımının sınanmasını ima eder (örneğin memelileri/kuşları kertenkeleler/kurbağalar gibi daha az karmaşık hayvanlardan ayırt etmek). Ayrıca araştırmayı, beyin etkinliği ile fenomenal özellikler arasında doğrudan bir eşleme beklemekten uzaklaştırır.",
+    "criticisms_and_tensions": "Matematiksel olarak karmaşık çekici durumların, duyusal qualia'nın görünürde açıklanamaz niteliklerini ('birdenbire') nasıl ürettiğine dair olası bir gerilim vardır. Humphrey ayrıca zor problemin öncülünü reddeder ki bu da materyalist olmayan konumlarla temel bir gerilim olarak kalır.",
+    "open_questions_and_limitations": "Fenomenal bilince sahip türler için evrimsel kesme noktasının tam olarak tanımlanması açık bir soru olarak kalır. Karmaşık çekici durumların belirli niteliksel hislere nasıl çevrildiği mekanizması daha fazla ayrıntı gerektirir.",
+    "ontological_coherence": "Katı materyalist ve indirgemeci bir çerçeve içinde tutarlıdır; çünkü bilinci ve qualia'yı karmaşık ama nihayetinde fiziksel temsiller olarak açıklayıp bertaraf etmeyi amaçlar ve böylece zor problemin ortaya koyduğu geleneksel zihin-beden güçlüğünü aşar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Bilincin beyindeki karmaşık bilgisel işleme, temsiller ve çekici durumlarla gerçekleştirildiği materyalist bir kuram olarak, bu mekanizmaları yeniden üretebilen yapay sistemler ilke olarak bilinçli hale gelmelidir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç tümüyle evrimleşmiş biyolojik beyne ve onun belirli nöral mekanizmalarına (temsiller ve çekici durumlar) bağlıdır. Beynin ölümü, materyalizmle tutarlı biçimde bilincin sona ermesini gerektirir."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Kuram, bilincin 'uygunluk oyunundaki' uyarlanımsal yararlar için doğduğu katı bir evrimsel bağlamda çerçevelenir; bu da anlam ve amacın kozmik ya da nihai değil, insan-yaratımı ya da öznel olduğunu düşündürür."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemel",
+      "rationale": "Bilinç, beyin tarafından üretilen belirli nöral örüntüler, temsiller ve çekici durumlarla tümüyle açıklanabiliyorsa (Materyalizm Kuramları), bu işlevsel dinamiklerin biyolojik olmayan bir ortama kusursuz biçimde çoğaltılması birinci-şahıs zihinsel benliği korumalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Thought Theory",
+        "relationship": "Uzantı"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Sentience: the Invention of Consciousness, Nicholas Humphrey",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The invention of consciousness, Nicholas Humphrey",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Seeing and somethingness, Nicholas Humphrey",
+        "year": 2022
+      }
+    ]
+  }
+}

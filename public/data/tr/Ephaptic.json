@@ -1,0 +1,92 @@
+{
+  "id_and_class": {
+    "theory_title": "Efaptik Bağlaşım Kuramı",
+    "summary": "Bu kuram, nöronların komşu nöronların elektriksel uyarılabilirliğini anında etkileyecek kadar güçlü ve tam yerinde elektrik alanları ürettiğini ileri sürer (efaptik bağlaşım). Eğer bu bağlaşım beyin genelinde yaygın biçimde meydana geliyorsa, bilincin bir elektromanyetik alan kuramını oluşturmaya yardımcı olan temel fiziksel dayanak olarak önerilir.",
+    "associated_thinkers": [
+      "Chen"
+    ],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Elektromanyetik Alan",
+    "core_identity_tagline": "Elektrik Alanları Aracılığıyla Neredeyse Anlık Nöral Etki Olarak Bilinç",
+    "classification_tags": [
+      "electromagnetic field",
+      "neurobiological",
+      "neural dynamics",
+      "coupling"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, nöronlar arasındaki anlık sinaps-dışı elektriksel etkilerden (efaptik bağlaşım) doğan elektromanyetik alanların kolektif dinamikleri tarafından potansiyel olarak oluşturulur ya da desteklenir.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik/Bağıntı (Zihin, beyindeki fiziksel süreçler/alanlardır)",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Efaptik Bağlaşım öncelikle nöral etki için biyofiziksel bir mekanizma olduğundan, öznellik ve yönelimselliğe ilişkin açıklaması, ortaya çıkan elektromanyetik alana ya da desteklediği daha geniş çerçeveye havale edilir.",
+    "qualia_account": "Belirli bağlaşım mekanizması qualia'yı açıkça ele almaz, ancak desteklediği daha geniş Elektromanyetik Alan Kuramları fenomenal deneyimi bazen açıklayıcı gündemlerine yerleştirir.",
+    "ontological_commitments": "Nöronlar, elektrik alanları ve neredeyse anlık sinaps-dışı nöral etkiler.",
+    "epistemic_access": "Elektrik alanının nöral etkinlik üzerindeki etkilerine odaklanarak, biyofiziksel fenomenlerin gözlemi ve modellenmesi yoluyla erişilebilir.",
+    "constituents_and_structure": "Elektrojenik nöronların ürettiği ve komşu nöronların uyarılabilirliğini etkileyerek büyük ölçekli beyin etkinliğini örgütleyen elektrik alanları."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (örtük biçimde, bilincin genelleştirilmiş Elektromanyetik Alan Kuramlarını desteklediği ölçüde)",
+    "distinctive_mechanism_or_principle": "Komşu nöronlar arasında neredeyse anlık elektriksel iletişimi mümkün kılan, elektrik alanlarının sinaps-dışı etkisi (efaptik bağlaşım).",
+    "dynamics_of_emergence": "Bilinç, beyin dokusu boyunca hızla değişen elektrik alanlarının olanaklı kıldığı anlık bağlaşım ve senkronizasyondan doğan dinamik bir süreçtir.",
+    "location_and_distribution": "Nöronlar arasında anlamlı efaptik bağlaşımın meydana geldiği her yerde, beyin dokusu içinde geniş ölçüde dağılmıştır.",
+    "causation_and_functional_role": "Komşu nöronların elektriksel uyarılabilirliğini anında etkilemek ve böylece bilinç için gerekli olan hızlı bütünleşme ile senkronizasyonu potansiyel olarak kolaylaştırmak.",
+    "integration_or_binding": "Bütünleşme ya da bağlamanın, dağıtık nöral ağlar boyunca neredeyse anlık efaptik bağlaşımın olanaklı kıldığı yaygın etki ve senkronizasyon aracılığıyla meydana geldiği varsayılır.",
+    "information_flow_or_representation": "Enformasyon işleme, geleneksel sinaptik yolakların dışında nöronlar arasındaki elektriksel etkinin anlık aktarımına dayanır.",
+    "evolutionary_account": "Materyalizm Kuramları altındaki sınıflandırmasıyla uyumlu olarak, merkezi sinir sisteminin filogenetik evrimi sırasında son derece hızlı ve bütünleşik nöral iletişimin uyarlanır değeriyle örtüşmelidir.",
+    "core_claims_and_evidence": [
+      "Nöronlar, komşu nöral uyarılabilirliği neredeyse anında etkileyecek kadar güçlü elektrik alanları üretir.",
+      "Efaptik bağlaşım, eğer yaygınsa, bilincin bir elektromanyetik alan kuramını oluşturmaya yardımcı olur."
+    ],
+    "basis_of_belief_or_evidence_type": "Ampirik (Nöral etkinlik ve alanların biyofizik ile fizyolojik gözlemine dayanır)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik Olarak Sınanabilir",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Tüm Materyalizm Kuramlarında ortak olan genel güçlükle, yani fiziksel bir mekanizmanın (elektriksel bağlaşım) öznel, fenomenal deneyime nasıl yol açtığını açıklama güçlüğüyle karşı karşıyadır.",
+    "open_questions_and_limitations": "Başlıca açık soru, efaptik bağlaşımın beyin dokusunda bilinci açıklayabilecek küresel bir alan oluşturacak kadar yaygın olup olmadığıdır.",
+    "ontological_coherence": "Materyalist ontolojiyle son derece tutarlıdır; beyinde karmaşık elektrik alanlarının belirişi için biyofiziksel bir mekanizma sağlar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Eğer bilinç, elektriksel etkinlik ve bağlaşımdan doğan fiziksel alan fenomenlerine dayanıyorsa, benzer karmaşık alan etkileri üretebilen yapay sistemler daha geniş Materyalizm kategorisiyle uyumlu olarak bilince ulaşmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bir Materyalizm kuramı olarak bilinç, işlevini sürdüren fiziksel dayanağa (beyin ve onun elektrik alanları) bağlıdır; bu da bedensel ölümden sonra varlığın sürmesini engeller."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Nörobiyolojik ve elektromanyetik mekanizmalardan türetilmiş salt fiziksel bir kuram olarak, nihai kozmik bir anlam ya da amaç içermez."
+    },
+    "virtual_immortality": {
+      "stance": "Olası",
+      "rationale": "Eğer efaptik bağlaşım dâhil olmak üzere kesin nöral dinamikler ve bunlardan doğan elektrik alanları biyolojik-olmayan ortamlarda doğru biçimde yeniden üretilebilir ya da benzetimlenebilirse, Materyalizmle uyumlu olarak sanal ölümsüzlük akla yatkındır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "Destek"
+      },
+      {
+        "name": "CEMI Field Theory",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Neurobiological Theories",
+        "relationship": "Uzantı"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Ephaptic coupling",
+        "year": 2020
+      }
+    ]
+  }
+}

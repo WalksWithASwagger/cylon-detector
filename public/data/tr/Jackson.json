@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Jackson'ın Saydam Temsilciliği ve Bilgi Argümanı",
+    "summary": "Frank Jackson'ın Saydam Temsilciliği, algısal deneyimin fenomenal karakterinin temsilsel içeriği tarafından tüketildiğini, yani deneyimin 'içinden görüp' nesnenin özelliklerine ulaştığımızı ileri sürer. Bu tutum, öncesinde Fizikalizme karşı çıkan kendi ünlü düşünce deneyi Bilgi Argümanı'nın vardığı sonucu çürütmek amacıyla geliştirilmiştir.",
+    "associated_thinkers": ["Frank Jackson"],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Temsilsel",
+    "core_identity_tagline": "'Fenomenal Karakter, Temsilsel İçerik Tarafından Tüketilir'",
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "physicalism defense",
+      "epistemology",
+      "intentionality"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç (fenomenal karakter), belirli koşulları karşılayan ilgili zihinsel durumların temsilsel içeriği olarak tanımlanır; bu içerik çoğu zaman deneyimin nesnesinin özelliklerine bağlanır.",
+    "ontological_status": "İndirgemeci Fizikalizm. (Gerekçe: Kuramın birincil amacı Bilgi Argümanı'nı çürütmek ve böylece fenomenal bilinç bakımından fizikalizmin/materyalizmin yeterliliğini korumaktır).",
+    "mind_body_relationship": "Özdeşlik. Fenomenal doğa, fiziksel olarak örneklenen işlevsel ve yönelimsel içerikler (temsilsel olgular) tarafından tüketilir.",
+    "primitive_or_emergent_status": "Beliren. (Gerekçe: Bilinç, fiziksel süreçler tarafından örneklenen temsilsel içerikçe eksiksiz kavranır; yani gerçekliğin temel bir bileşeni değildir).",
+    "emergence_type": "Zayıf Beliriş. (Gerekçe: İndirgemeci bir fizikalist savunma olarak, fenomenal özellikler fiziksel/temsilsel içerikler ve işlevsel roller tarafından eksiksiz kavranır ya da onlarla özdeştir; bu da ilke olarak türetilebilirliği ima eder).",
+    "subjectivity_and_intentionality": "Öznellik, saydamlık tezi tarafından açıklanır: deneyimin doğasına erişmek, yalnızca onun nesnesinin özelliklerine erişmektir. Deneyim özünde temsilsel olduğundan, zihinsel durumların '-e ilişkinliği' olan yönelimsellik merkezidir.",
+    "qualia_account": "Qualia (fenomenal karakter), ilgili zihinsel durumların temsilsel içerikleri tarafından eksiksiz açıklanır ya da tüketilir. Bunun amacı, ('kırmızıyı görmenin nasıl bir şey olduğu' gibi) fiziksel/temsilsel olgularca açıklanmayan hiçbir fiziksel olmayan bilginin geriye kalmadığını göstermektir.",
+    "ontological_commitments": "Zihinsel temsiller, fiziksel olgular ve zihinsel durumların işlevsel rolü/yönelimsel içerikleri.",
+    "epistemic_access": "İçe bakış, yalnızca dışsal nesneleri ve onların özelliklerini açığa çıkararak saydamlık tezini destekler; deneyimin kendisinin içkin özelliklerini değil. Böylece temsilsel içeriğin üçüncü şahıs bilimsel incelemesi yeterlidir.",
+    "constituents_and_structure": "Bilincin yapısı tümüyle zihinsel durumların yönelimsel içerikleri ya da temsilsel doğası tarafından belirlenir; temsilsel olgular, algısal deneyimi kavramaya yeten bir bütün oluşturur."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal bilinç (özellikle algısal deneyimin/qualianın niteliksel doğası).",
+    "distinctive_mechanism_or_principle": "Algısal deneyimin saydamlığı (şeffaflığı). Bilinç, nesnelerin temsillerinin sonucudur; öznenin algısal durumun 'içinden görüp' nesnenin özelliklerine ulaştığı yerdir.",
+    "dynamics_of_emergence": "Statik Özellik. (Gerekçe: Model, bilinci temsilsel içerik/yönelimsel yapıyla özdeşleştirir; dinamik bir üretim sürecinden ziyade son-durum özdeşliğine odaklanır. Kaynaklar zamansal dinamikleri ayrıntılandırmaz)",
+    "location_and_distribution": "Beynin temsilsel işlemesi tarafından örneklenen zihinsel durumlarda konumlanmıştır.",
+    "causation_and_functional_role": "Bilinçli deneyim, işlevsel rol ve temsilsel içerik tarafından tüketilir. Temsilsel olgular, algısal deneyimin tümünü kavramaya yeter.",
+    "integration_or_binding": "Örtük olarak, algısal deneyim bütününü oluşturan yönelimsel içeriklerin kapsayıcı doğası aracılığıyla sağlanır. (Gerekçe: Bağlamaya dair açık bir mekanizma kaynaklarda ayrıntılandırılmaz, ancak birleşme 'bütün' içinde varsayılır.)",
+    "information_flow_or_representation": "Zihinsel temsiller, içsel olarak algılanan kavramların/imgelerin açıklayıcı gücünü yalın sinirsel durumların üzerine çıkararak deneyimsel doğayı tüketir.",
+    "evolutionary_account": "Bilincin, beynin temsilsel düzeneğinin bir parçası olarak evrildiği varsayılır. (Gerekçe: Bu, bir Materyalizm Kuramı olarak sınıflandırılmasından çıkarılır, ancak kaynaklarda Jackson tarafından özel bir açıklama sunulmamıştır.)",
+    "core_claims_and_evidence": [
+      "Deneyim saydamdır (şeffaftır): fenomenal özellikler, deneyimin nesnesinin özellikleridir.",
+      "Güçlü temsilcilik, bir deneyimin şeyleri nasıl temsil ettiğinin, onun deneyimsel doğasını eksiksiz tükettiğini öne sürer.",
+      "Bilgi Argümanı başarısızdır çünkü fenomenal öğrenme temsilsel olgulara indirgenir ve böylece fizikalizm korunur."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi/Kavramsal (fenomenal kavramların ve içe bakışın doğasının mantıksal çözümlemesine dayanır)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal Olarak Sınanabilir. (Kuramın başarısı, temsilsel içeriğin fenomenal karakteri mantıksal olarak tüketebileceği ve böylece Bilgi Argümanı gibi düşünce deneylerini çözebileceği felsefi savına dayanır).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Başlıca gerilim, eleştirmenlerin temsilciliğin Bilgi Argümanı'nı mantıksal olarak reddetmediğini savunmasıdır; zira 'Mary meydan okumasının' temsilci bir versiyonu fizikalizm açısından güçlüğü sürdürür.",
+    "open_questions_and_limitations": "Temsilsel içeriğin fenomenal karakteri hangi kesin koşullar altında kavradığı belirtilmelidir ve fenomenal özellikleri tümüyle yönelimsel özelliklere indirgemenin kavramsal tutarlılığı hâlâ tartışmalıdır.",
+    "ontological_coherence": "İndirgemeci bir fizikalist çerçeve içinde yüksek ölçüde tutarlıdır; zira tüm güdüsü, indirgenemez fenomenal özellikleri ('qualia') ortadan kaldırarak fizikalizmi korumaktır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Eğer bilinç temsilsel içerik ve işlevsel rol tarafından tüketiliyorsa ve bu özellikler hesaplamalı olarak gerçekleştirilebiliyorsa, YZ sistemleri bilince erişebilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Kuram, Materyalizm/Fizikalizm savunmasıdır; bilincin yalnızca fiziksel sisteme (beyne ya da onun işlevsel/temsilsel eşdeğerine) bağlı olduğunu ima eder ve biyolojik son ötesinde hayatta kalmayı engeller."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Materyalist bir kuram olarak, insanların kendileri için yarattıklarının ötesinde nihai bir anlam ya da amaç sunmaz."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Fenomenal karakter, işlevsel/temsilsel içerik tarafından eksiksiz kavrandığından, bu içeriklerin kusursuz bir kopyalanması (yükleme) özgün birinci şahıs zihinsel benliği korurdu."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Knowledge Argument (Mary's Room)",
+        "relationship": "Eleştiri/Köken"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Temel"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Karşıtlık"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The knowledge argument, diaphanousness, representationalism, Frank Jackson",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, Frank Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "What Mary Didn’t Know, Frank Jackson",
+        "year": 1986
+      }
+    ]
+  }
+}

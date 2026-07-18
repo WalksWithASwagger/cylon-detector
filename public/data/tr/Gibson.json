@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Gibson’ın Ekolojik Psikolojisi",
+    "summary": "Gibson, algıya bedenlenmiş, durumsal ve temsili-olmayan bir yaklaşım önerir; enformasyonun çevrede dolaysızca mevcut olduğunu (değişmezler) ve affordance'lar terimleriyle algılandığını savunur. Bu yaklaşım, bilişselcilik ve davranışçılığın ötesinde üçüncü bir yol sunar ve bilinç için bir açıklama olarak temkinli biçimde çıkarsanabilir.",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Bedenlenmiş ve Enaktif",
+    "core_identity_tagline": "Affordance'ların Bedenlenmiş, Durumsal Algısı Olarak Bilinç",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, uzantı yoluyla, organizma-çevre sistemi içindeki sürekli etkileşimin ve enformasyonel akışın bir işlevi olarak anlaşılır; içsel zihinsel temsillerle değil, değişmezlerin ve affordance'ların dolaysız algısıyla nitelenir.",
+    "ontological_status": "Fizikalizm/Dolaysız Gerçekçilik",
+    "mind_body_relationship": "Zihin/algı eylemle süreklidir; analiz birimi olarak organizma-çevre sistemine odaklanır ve zihnin yalnızca kafanın içindeki süreçlere indirgenebilir olduğu fikrini reddeder.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Öznellik, organizmanın çevreyle olan dinamik, durumsal ilişkisiyle (organizma-çevre sistemi) oluşur. Yönelimsellik (düşüncenin yönelmişliği), çevrede içkin eylem olanakları olan affordance'ların algısıyla açıklanır.",
+    "qualia_account": "Kuram temsili-olmayandır ve genellikle içsel duyu verilerini (geleneksel anlamıyla qualia) reddeden görüşlerle hizalanır; çevresel özelliklerin (değişmezler ve affordance'lar) dolaysız algısını yeğler.",
+    "ontological_commitments": "Organizma-çevre sistemi, optik enformasyon (değişmezler), affordance'lar.",
+    "epistemic_access": "İçsel durumlara odaklanan içe bakış yerine, organizma ile onun toplumsal-fiziksel çevresi arasındaki ilişki incelenerek erişilebilir.",
+    "constituents_and_structure": "Bilincin/algının yapısı, organizma ile çevre arasındaki işlevsel ilişkiye dayanır; algı ile eylemin sürekliliğini vurgular."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Algı/Biliş, Fenomenal (temkinli çıkarım yoluyla)",
+    "distinctive_mechanism_or_principle": "Çevresel değişmezlerin (optik akıştaki değişmeyen ögeler) ve affordance'ların (çevrenin sağladığı eylem fırsatları) dolaysız algısı.",
+    "dynamics_of_emergence": "Odak, ayrık, yerelleşmiş nöral yapılardan belirişten çok, organizma-çevre sistemi içindeki dinamik akış ve süreklilik üzerindedir.",
+    "location_and_distribution": "Organizma-çevre sistemi içinde konumlanmıştır; beynin ve kafanın içinin ötesine uzanır.",
+    "causation_and_functional_role": "Algı, değişmezleri ve eylem fırsatlarını (affordance'lar) saptayarak uyarlanır davranışı yönlendirmeye ve uyum başarısını artırmaya hizmet eder.",
+    "integration_or_binding": "Bütünleşme, organizma-çevre sisteminin tek bir analiz birimi olarak dolaysız ve birleşik biçimde kavranmasında içkindir.",
+    "information_flow_or_representation": "Enformasyon işleme modellerini reddeder; enformasyon dışsaldır (değişmezler) ve içsel temsil inşasına gerek kalmadan algısal sistemlerce dolaysızca erişilir.",
+    "evolutionary_account": "Affordance'lara vurgu, bu algısal sistemin apaçık hayatta kalma değeri sağladığı ve uyum başarısını artırdığı için evrildiğini düşündürür.",
+    "core_claims_and_evidence": [
+      "Algı yalnızca uyaranla dolaysızca ilişkilidir; ne çıkarım ne de içsel zihinsel temsil gerektirir.",
+      "Algının birincil nesneleri, belirli duyusal nitelikler değil, affordance'lardır.",
+      "Algıyı anlamak için analiz birimi organizma-çevre sistemidir.",
+      "Kuram, bilişselci modellerde yaygın olan uyaranın yetersizliği öncülünü reddeder."
+    ],
+    "basis_of_belief_or_evidence_type": "Deneysel, Felsefi, Ekolojik"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Özellikle ekolojik psikoloji ve algı çalışmaları içinde ampirik olarak sınanabilir.",
+    "known_empirical_interventions_or_tests": "Algının ampirik gözlemi ve organizma-çevre etkileşim alanlarının ayrıntılı analizi.",
+    "criticisms_and_tensions": "Kuram, ana akım algı kuramlarını eleştirir; özellikle hem davranışçılığa hem de bilişselciliğe/enformasyon işlemeye saldırır. Fenomenal bilince uzatılması spekülatiftir ve içsel temsil kuramlarına bağlı olanların kuşkusuna tabidir.",
+    "open_questions_and_limitations": "Çekirdek kuram algı ve bilişi ele alır; fenomenal bilinci ('nasıl bir şey olduğu' yönünü) açıklamaya uygulanması ya da uzatılması temkinli bir çıkarım gerektirir.",
+    "ontological_coherence": "Ekolojik ve durumsal, indirgemeci-karşıtı materyalist ontolojisi içinde son derece tutarlıdır, ancak bilişsel simge işlemeye dayanan kuramlarla temelde çatışır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olanaklı",
+      "rationale": "Eğer bilinç, bir organizma-çevre sistemi içindeki dolaysız, durumsal etkileşimin ürünüyse (bu Materyalizm kuramının ima ettiği gibi), yapay zekâ, affordance'ları algılayabilen bir fiziksel çevre içinde bedenlenip etkileşecek biçimde tasarlanırsa bilince ulaşabilir."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Kuram Materyalizm altında sınıflandırılır ve yaşayan, biyolojik organizmaya ve onun fiziksel çevresine odaklanır. Bedensel ölümden sonra varlığını sürdürebilecek fiziksel-olmayan bir bileşen varsayılmaz."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hümanist/Uyarlanır",
+      "rationale": "Algının birincil işlevsel rolü, affordance'ların saptanması yoluyla uyarlanır davranıştır; bu da anlamın hayatta kalma ve gelişme için çevrelerinde insanlarca yaratıldığı Materyalist bir görüşle uyumludur."
+    },
+    "virtual_immortality": {
+      "stance": "Koşullu",
+      "rationale": "Bilinç fiziksel organizma-çevre birimine bağlı olduğundan, sanal ölümsüzlük ancak temel bedenlenmiş, temsili-olmayan etkileşimlerin yeni bir fiziksel ortamda kusursuz biçimde yakalanıp benzetimlenebilmesiyle ulaşılabilir olurdu."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Direct Perception Theory",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Eleştiri"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

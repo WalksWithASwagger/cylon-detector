@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "Baars ve Dehaene'nin Küresel Çalışma Alanı Kuramı",
+    "summary": "Bu kuram, bilinçli farkındalığın, beyin çapında bulunma ve geniş erişilebilirlik kazanan belirli çok duyulu, çok bilişli bilgiyle oluştuğunu öne sürer. Bilinci, bu bilginin küresel olarak yayımlandığı içsel bir ‘tiyatro’ olarak kavramsallaştırır ve anlık bilinçli içeriğin sınırlı kapasitesini geniş uzun süreli bellek erişimiyle bağdaştırır.",
+    "associated_thinkers": [
+      "Bernard Baars",
+      "Stanislas Dehaene"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Nörobiyolojik",
+    "core_identity_tagline": "Küresel Bilgi Erişilebilirliği Olarak Bilinç",
+    "classification_tags": [
+      "neurobiological",
+      "information",
+      "access",
+      "cognitive",
+      "broadcasting"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, belirli, bütünleşik bilginin beyindeki çok sayıda özelleşmiş modüler dizge boyunca anlık küresel erişilebilirliği ve geniş erişilebilirliği olarak tanımlanır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik/Bağıntı. Zihin (bilinçli farkındalık), beyindeki küresel bilgi yayımının belirli, biyolojik olarak gerçekleştirilen süreçleriyle özdeşleştirilir ya da güçlü biçimde ilişkilendirilir.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Çekirdek bir Materyalist/Nörobiyolojik kuram olarak, bilincin karmaşık ancak nihayetinde açıklanabilir biyolojik beyin işlevlerinden doğduğunu varsayar; yani bilinç ilkece indirgenebilirdir.",
+    "subjectivity_and_intentionality": "Öznellik, küresel çalışma alanının benzersiz biçimde bütünleşmiş içeriklerinden doğar; yönelimsellik (düşüncenin yönelmişliği) ise çalışma alanına erişim kazanan çok bilişli ve amaç odaklı bilgiye içkindir.",
+    "qualia_account": "Fenomenal deneyim (qualia), bilinçli farkındalık için katı biçimde biyolojik bir mekanizma önerilerek açıklanır. Qualia, küresel çalışma alanı içinde geniş biçimde erişilebilir olan, bütünleşik, raporlanabilir çok duyulu bilginin içeriğine karşılık gelir.",
+    "ontological_commitments": "Belirli sinirsel mekanizmalar, ağlar ve bilincin fiziksel zemini (PSC), özellikle beyin içindeki yaygın ve bütünleşik bilgi akışı örüntüleri.",
+    "epistemic_access": "Bilinçli deneyime karşılık gelen ilişkili beyin etkinleşme örüntülerini (örneğin küresel ateşleme olaylarını) inceleyen nörogörüntüleme ve bilgisayar modellemesi dâhil üçüncü şahıs yöntemleri yoluyla erişilebilir.",
+    "constituents_and_structure": "Bilginin seçici olarak güçlendirildiği ve özelleşmiş beyin modüllerinden oluşan dağıtık bir ağ boyunca yayımlandığı içsel bir ‘tiyatro’ ya da çalışma alanı yapısı."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Erişim, Bellek",
+    "distinctive_mechanism_or_principle": "Bilginin küresel yayımı ve erişilebilirliği; tek bir tutarlı içeriğin aynı anda birçok özelleşmiş, bilinçdışı modüle sunulmasına olanak tanır.",
+    "dynamics_of_emergence": "Bilinçli durumlar, bilgi rekabeti aştığında ve yaygın kortikal ağ (küresel çalışma alanı) boyunca yayımlandığında ortaya çıkan dinamik olaylardır.",
+    "location_and_distribution": "Beyin çapında, yaygın bölgeleri kapsar, özellikle ön ve yan (parietal) bölgelerle ilişkilidir (IIT gibi ‘başın arkası’ kuramlarının aksine çoğu kez ‘başın önü’ kuramı olarak nitelenir).",
+    "causation_and_functional_role": "Küresel yayım bilinci oluşturur. İşlevsel olarak, sınırlı anlık bilinçli içerik ile uzun süreli bellek kaynakları arasında esnek denetim ve bağdaştırmaya olanak tanır.",
+    "integration_or_binding": "Bütünleşme, tutarlı bir ‘bütün paketin’ küresel çalışma alanına geniş, beyin çapında yayımlanmasıyla sağlanır.",
+    "information_flow_or_representation": "Bilgi, özelleşmiş modüllerden akar, küresel erişim için yarışır ve kazandığında küresel olarak yayımlanarak birçok dizge tarafından bilişsel işlemeye açık hâle gelir.",
+    "evolutionary_account": "Bağdaşır (GWT'nin kendisi filogenetik değil, mekanizmacı olsa da). Materyalist/Nörobiyolojik bir kuram olarak, bilincin gelişmiş bilgi yönetimi ve esnek davranış gibi bilişsel yararı için seçilim yapan evrimsel mekanizmalarla ortaya çıktığını ima eder.",
+    "core_claims_and_evidence": [
+      "Bilinçli farkındalık, belirli çok duyulu, çok bilişli bilginin beyin çapında bulunması ve geniş erişilebilirliğinden oluşur.",
+      "Küresel yayım, bilinç tarafından yalnızca nedenlenmek yerine bilinci oluşturur.",
+      "Bilinç, nörobiyolojik verilerle tutarlı, katı biçimde biyolojik bir fenomendir.",
+      "Yeni makine mimarileri, bilince ulaşmak için küresel çalışma alanı hesaplamalarını kullanmalıdır."
+    ],
+    "basis_of_belief_or_evidence_type": "Nörobiyolojik, Hesaplamalı, Ampirik"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir",
+    "known_empirical_interventions_or_tests": "İddialarını araştırmak için kullanılan nörogörüntüleme ve bilgisayar modellemesi çalışmaları. ‘Başın önü’ kuramlarını arka kuramlarla karşılaştıran ‘nörocoğrafi’ tartışmasına örtük olarak tabidir.",
+    "criticisms_and_tensions": "Gerçek fenomenal deneyim yerine ‘erişime’ odaklanmakla eleştirilir; bu, kuramın ‘tümüyle erişimle ilgili ama görmeyle ilgili değil’ olduğu eleştirisiyle örneklenir. Küresel yayımın bilinç için gerekli mi yoksa yalnızca onun bir sonucu mu olduğu konusunda bir gerilimle karşı karşıyadır.",
+    "open_questions_and_limitations": "‘Zor problemi’ tam olarak ele almaz; küresel erişilebilirlik mekanizmasının neden niteliksel öznel deneyimle sonuçlanması gerektiğini açıklamaz.",
+    "ontological_coherence": "Bilinci açıklamak için yalnızca yerleşik beyin işlevlerine ve bilgi mekanizmalarına dayanarak fizikalist bir çerçeve içinde son derece tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Kuram bilinci bilgi işleme hesaplamaları ve mimarileri cinsinden tanımladığından ve savunucuları yeni makine mimarilerinin bu hesaplamalara dayanabileceğini öne sürdüğünden, yapay zeka bilinci ilkece olanaklıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, biyolojik ölümle sona eren belirli, karmaşık biyolojik beyin süreçlerine tümüyle bağlı olarak anlaşılır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Materyalist/Nörobiyolojik bir kuram olarak nihai kozmik anlam ya da amaç zorunlu kılmaz; ancak bilinç, insan failliğini ve kendince yaratılan değeri temellendiren temel işlevler (bellek bağdaştırması ve bütünleşik farkındalık gibi) sağlar."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç tümüyle beynin hesaplamalı örgütlenmesi ve bilgi akışıyla açıklanıyorsa, bu mekanizmaların biyolojik olmayan bir zemine kusursuz biçimde çoğaltılması ya da yüklenmesi birinci şahıs zihinsel benliğini korumalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Edelman’s Neural Darwinism and Reentrant Neural Circuitry",
+        "relationship": "Bağdaşır"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "Karşıtlık"
+      },
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Bağdaşır"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Rekabet"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A Cognitive Theory of Consciousness",
+        "year": 1988
+      },
+      {
+        "title_with_names": "In the Theater of Consciousness",
+        "year": 1997
+      },
+      {
+        "title_with_names": "Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework, Dehaene and Naccache",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Biology of consciousness, Edelman, Garlly, Baars",
+        "year": 2011
+      }
+    ]
+  }
+}

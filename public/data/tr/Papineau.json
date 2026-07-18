@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Papineau'nun Zihin-Beyin Özdeşliği",
+    "summary": "Bu kuram, bilinçli hâllerin temelde ve harfi harfine belirli beyin hâlleriyle özdeş olduğunu ileri sürerek nörobiyolojik fizikalizmi savunur. Bu özdeşliğin bilimsel çıkarım yoluyla a posteriori keşfedildiğini öne sürer ve süregelen 'açıklama boşluğu'nun, derinlemesine yerleşmiş düalist sezgilerin yanıltıcı bir yapıntısı olduğunu savunur.",
+    "associated_thinkers": ["David Papineau"],
+    "category": "Materyalizm",
+    "subcategory": "Felsefi",
+    "core_identity_tagline": "'Temel Zihin-Beyin Özdeşliği Olarak Bilinç'",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "abduction",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinçli hâller (acı gibi), belirli fiziksel beyin hâlleriyle (belirli bir bölgedeki nöronal ateşleme gibi) katı biçimde özdeştir. Bu fiziksel hâller tarafından yalnızca meydana getirilmez ya da üretilmezler.",
+    "ontological_status": "İndirgemeci Fizikalizm (Güçlü Zihin-Beyin Özdeşliği)",
+    "mind_body_relationship": "Katı Özdeşlik Kuramı. Zihinsel hâller belirli nöronal hâllerle fiziksel olarak özdeştir; ilişkileri bir olgu ilişkisidir (a posteriori özdeşlik).",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Zihinsel hâller fiziksel hâllerle özdeş olduğundan, özdeşlik ampirik olarak (a posteriori) keşfedilmek zorunda olsa da, nihayetinde fiziksel yasalarla indirgenebilir ya da açıklanabilirler.",
+    "subjectivity_and_intentionality": "Öznellik ('nasıl bir şey olduğu' hissi), fiziksel beyin hâlinin kendisinin bir özelliğidir; gerçeklendiğinde 'hissettiği şey' budur. Yönelimsellik, özdeşleştirilen beyin hâlinin fiziksel işlevi yoluyla devralınır.",
+    "qualia_account": "Qualia, beyin hâlinin altta yatan fiziksel özellikleriyle özdeştir. Qualia'yı çevreleyen gizem, hissi fiziksel hâlden yanlış biçimde ayıran yanıltıcı 'kendiliğinden düalist düşünce'ye atfedilir.",
+    "ontological_commitments": "Fiziksel hâller; belirli nöral süreçler; fiziksel âlemin nedensel kapalılığı.",
+    "epistemic_access": "Bilimsel ve ampirik gözlem yoluyla a posteriori erişim; korelasyonlardan abdüktif çıkarıma dayanır (iki şeyin her zaman aynı yerde ve aynı anda bulunduğunu bulma).",
+    "constituents_and_structure": "Bilinç, biyolojik maddenin karmaşık örgütsel hâllerinden, özellikle de nöron altkümelerinin kesin ateşlemesiyle (ör. nosisepsiyona özgü nöronlar) tanımlanan hâllerden oluşur."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Öznellik, Nedensel Etkililik.",
+    "distinctive_mechanism_or_principle": "Fizikselin nedensel kapalılığı, zihinsel olayların fiziksel olaylar olmak zorunda olduğunu güvence altına alır. Özdeşlik, sinirbilimin kurduğu başarılı a posteriori korelasyonlarla doğrulanır.",
+    "dynamics_of_emergence": "Bilinç, özdeşleştirilen fiziksel beyin hâlinin kalıcı bir niteliğidir; ikisinin neden ya da nasıl 'bir arada gittiği' sorularını çözer.",
+    "location_and_distribution": "Belirli beyin hâllerinde (ör. nosisepsiyon sistemlerindeki nöral ateşleme örüntüleri) yerelleşmiştir, gerçi özdeşlik tüm materyalist ve fizikalist kuramlara geniş biçimde uygulanır.",
+    "causation_and_functional_role": "Bilinç, fiziğin nedensel kapalılığına uyan bir fiziksel hâl olduğundan nedensel olarak etkilidir. İşlevi, özdeşleştirilen beyin hâlinin fiziksel davranışına içkindir.",
+    "integration_or_binding": "Deneyimin, karmaşık olsa da tek, tanımlanabilir bir altta yatan fiziksel olaya karşılık gelmesi gerçeğiyle örtük olarak sağlanır (ör. birleşik acı, karmaşık nosiseptif nöronal ateşlemeye karşılık gelir).",
+    "information_flow_or_representation": "Bilinci betimlemek için kullanılan fenomenal kavramlar (birinci şahıs raporlar) belirsiz ve kesinlikten uzak kabul edilir; çoğu zaman bilimin belirlemeye çalıştığı altta yatan maddi özü örter.",
+    "evolutionary_account": "Açıkça ayrıntılandırılmaz ama nörobiyolojik fizikalizmdeki temeli ve biyolojik organizmalardan türetilen korelasyon verilerini kabulüyle ima edilir.",
+    "core_claims_and_evidence": [
+      "Bilinçli hâller fiziksel hâllerle köklü biçimde özdeştir; yani kavramsal olarak 'ayrışamazlar'.",
+      "Bilinç bulmacası, 'açıklama boşluğunu' besleyen düalist önvarsayımları reddederek çözülür.",
+      "Felsefi zombiler metafiziksel olarak imkânsızdır, gerçi fenomenal kavramların belirsizliği nedeniyle tasarlanabilirdirler.",
+      "Zihin-beyin özdeşlikleri, güçlü uzay-zamansal korelasyonların ve abdüksiyon yoluyla açıklama gücünün gözlemlenmesiyle kurulur."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi, Ampirik, Abdüktif"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir (Koşullu). Özdeşlik iddialarını destekleyen titiz nörobilimsel kanıt bulmaya dayanır, gerçi fenomenal kavramların belirsizliği gerekli fiziksel karşılığı tanımlamayı güçleştirir.",
+    "known_empirical_interventions_or_tests": "Belirli, karmaşık beyin hâllerini (ör. ölçülen nöronal ateşleme örüntüleri) karşılık gelen öznel deneyimlerle (ör. acı raporları) bağlayan korelasyonel çalışmalar.",
+    "criticisms_and_tensions": "Eleştirmenler, argümanın özdeşliği kanıtlamaktan çok fizikalizmin geçerliliğini yalnızca varsaydığını savunur. Kuram, fiziksel karşılıkların kusursuz bilgisinin bile mantıksal olarak öznel hissi gerektirmediği (Bilgi Argümanı) iddiasına karşı savunmasızdır.",
+    "open_questions_and_limitations": "Öznel (fenomenal) kavramların belirsiz doğası, herhangi bir bilinçli hâl için tek, kesin bir maddi özün titizce belirlenmesini engeller (bir 'kimera').",
+    "ontological_coherence": "İçsel olarak son derece tutarlıdır ve indirgemeci materyalist/fizikalist ontolojinin standart ilkeleriyle, özellikle de fiziğin nedensel kapalılığıyla kusursuz biçimde bağdaşır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Bilinçli hâller temelde belirli madde ve süreç düzenlenişleriyle özdeşse, bu hâller gerekli fiziksel düzenlenişleri ve karmaşıklığı gerçekleyebilen herhangi bir ortamda, yapay sistemler dâhil, yeniden üretilebilir olmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, biyolojik beyin süreçlerinin belirli örgütlenmesine katı biçimde bağlıdır ve onunla özdeştir. O fiziksel sistemin geri döndürülemez biçimde sona ermesinin ardından sürmesi imkânsızdır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Titiz fizikalizmde köklenen bir kuram olarak zihni doğal süreçlerin bir ürünü olarak görür; insan failliğinin yarattığının ötesinde kozmik ya da aşkın anlam veya amaç için hiçbir temel sunmaz."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç beynin belirli fiziksel örgütlenmesi olduğundan, bu yapının yeni bir fiziksel dayanağa kusursuzca çoğaltılması (yüklenmesi), ilkesel olarak bilinçli kimliği korumak için yeterlidir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "David Chalmers' Hard Problem",
+        "relationship": "Eleştiri"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Papineau, D., The problem of consciousness",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Papineau, D., We must shed our metaphysical assumptions",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Papineau, D., Could there be a science of consciousness?",
+        "year": 2003
+      }
+    ]
+  }
+}

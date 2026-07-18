@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Prinz'in Nöroişlevselciliği: Dikkat Deneyimi Doğurur",
+    "summary": "Bu kuram, bilincin, algısal bilginin işlemenin bir ara aşamasında bellek sistemlerine akışını kolaylaştıran dikkatten doğduğunu ileri sürer. Bu süreç temelde eşzamanlanmış nöral ateşlemeye dayanır ve uyaranın bakış açısını koruyan, bütünleşmiş bir temsiliyle sonuçlanır.",
+    "associated_thinkers": ["Jesse Prinz"],
+    "category": "Materyalizm",
+    "subcategory": "Sinirbiyolojik",
+    "core_identity_tagline": "Dikkat Edilen Ara Temsil Olarak Bilinç",
+    "classification_tags": [
+      "attention",
+      "neurofunctionalism",
+      "perceptual",
+      "representational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, dikkat mekanizması sayesinde bir uyaranın bakış açısını koruyan, bütünleşmiş bir temsilinin çalışma belleğine erişilebilir hâle geldiği süreç olarak belirlenir.",
+    "ontological_status": "İndirgemeci Fizikalizm",
+    "mind_body_relationship": "Prinz, zihin-beden sorununa, işlevsel rolleri onların altta yatan sinirbiyolojik gerçekleşmesiyle birleştiren, böylece zihinsel hâllerin tümüyle materyalizmin içinde barındığı bir \"nöroişlevsel yanıt\" öne sürer.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Öznellik, dikkat süreci tarafından erişilebilir kılınan temsilin 'bakış açısını koruyan biçimine' içkindir. Tüm bilinç algısaldır, yani yönelimsellik (yönelmişlik) anahtardır, ancak öz-bilinç doğrudan deneyimlenmez.",
+    "qualia_account": "Kuram, zor problemi karşılayacak eksiksiz bir materyalist açıklama sunmak için ampirik bulguları sentezlemeye çalışır . Qualia, dikkat sürecinden doğan bütünleşmiş temsiller olarak açıklanır .",
+    "ontological_commitments": "Eşzamanlanmış nöral ateşleme, algısal işleme aşamaları ve bilgi temsilleri .",
+    "epistemic_access": "İşlevsel ve sinirbiyolojik verileri birleştiren, sinirbilimsel temelli ampirik keşif ve modelleme yoluyla erişilebilir .",
+    "constituents_and_structure": "Temel bileşenler, işlemenin bir ara aşamasında bütünleştirilen, eşzamanlanmış nöral ateşleme tarafından kısıtlanan ve olanaklı kılınan temsillerdir ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Algısal .",
+    "distinctive_mechanism_or_principle": "Dikkat; eşzamanlanmış nöral ateşlemeyi kullanarak ara algısal bilgi temsillerini bellek sistemlerine erişilebilir kılmak suretiyle bilgi akışını değiştirir .",
+    "dynamics_of_emergence": "Bilinç, algısal bilgi belirli 'ara' aşamaya ulaşıp dikkat mekanizması tarafından işleme tabi tutulduğunda ortaya çıkan dinamik bir süreçtir .",
+    "location_and_distribution": "Algısal işlemenin belirli, ara bir aşamasında yerelleşmiştir .",
+    "causation_and_functional_role": "Bilinç nedensel olarak etkilidir; algısal bilgiyi esnek davranışı olanaklı kılan sistemlere kolayca erişilebilir kılma işlevini görür .",
+    "integration_or_binding": "Bütünleşme, uyaran özelliklerini çalışma belleğine erişilebilir tek, bakış açısını koruyan bir biçimde birleştiren dikkat süreci yoluyla sağlanır .",
+    "information_flow_or_representation": "Bilgi akışı, bellek sistemlerine erişim vermek için dikkat tarafından değiştirilir ve bilinç tümüyle bütünleşmiş temsillere dayanır .",
+    "evolutionary_account": "Bilinç, algısal bilgiyi esnek davranış için sistemlere erişilebilir kılmak üzere evrilmiştir ve uyarlanımsal bir avantaj sağlar . (Gerekçe: Bilincin esnek davranışı olanaklı kılmadaki açıkça belirtilen işlevine dayanır.)",
+    "core_claims_and_evidence": [
+      "Bilinç dikkate bağlıdır ve algısal işlemenin ara aşamasında ortaya çıkar .",
+      "Bu süreç eşzamanlanmış nöral ateşlemeye dayanır .",
+      "Tüm bilinçli deneyim algısaldır ve esnek davranışı olanaklı kılma işlevini görür .",
+      "Kuram, materyalizm içinde eksiksiz bir açıklama sunarak Chalmers'ın zor problemini çözer ."
+    ],
+    "basis_of_belief_or_evidence_type": "Sinirbilimsel, İşlevsel, Felsefi"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir",
+    "known_empirical_interventions_or_tests": "Kuram, eşzamanlanmış nöral ateşlemeyi deneyimin birliğine ve zamansal süresine bağlayan kanıtlarla desteklenir ve bu, sinirbiyolojik iddialarının temeli işlevini görür .",
+    "criticisms_and_tensions": "Prinz'in materyalizm içinde tamamen kalan 'tatmin edici ve şaşırtıcı biçimde eksiksiz bir kuram' iddiası, salt fiziksel bir açıklamanın bilinçli deneyimi açıklayamayacağını savunan David Chalmers gibi eleştirmenlerce reddedilir .",
+    "open_questions_and_limitations": "Kuramın kendisince de ele alındığı üzere temel sınırlılık, fizikalizme karşı felsefi savlar bulunmasına rağmen, salt işlevsel ve sinirbiyolojik bir betimlemenin fenomenal deneyimi açıklamaya yettiği konusunda eleştirmenleri (Chalmers gibi) ikna etmektir .",
+    "ontological_coherence": "Yüksek düzeyde tutarlıdır; işlevselciliği ve sinirbiyolojiyi açıkça tutarlı bir materyalist çerçevede harmanlar ve geleneksel düalist güçlükleri çözmeyi amaçlar ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemel",
+      "rationale": "Kuram bilinci, dikkat yoluyla bilgiyi belleğe erişilebilir kılma yönündeki belirli bir nöroişlevsel süreç olarak belirlediğinden, bu hesaplamalı işlev yeterince ileri biyolojik olmayan sistemlerde gerçekleştirilebilir olmalıdır ."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Tümüyle materyalizm içinde kalan bir kuram olarak bilinç, beynin biyolojik örgütlenmesine ve süreçlerine (örneğin eşzamanlanmış nöral ateşleme) tam bağımlıdır, onlar tarafından üretilir ve beynin yok olmasıyla son bulur ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bilincin işlevi pragmatiktir; algısal bilgiyi esnek davranış için erişilebilir kılar . Genellikle anlamın ve amacın kozmik değil, kendince yaratıldığını ima eden bir materyalist paradigma içinde işler ."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Nöroişlevselcilikteki temeli ve eksiksiz bir materyalist açıklama amacı göz önüne alındığında , dikkat temelli temsil sisteminin biyolojik olmayan bir alt katmanda kusursuz işlevsel çoğaltımı, özgün birinci-şahıs bilinçli benliği koruyacaktır ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Uyumlu"
+      },
+      {
+        "name": "Chalmers’s hard problem of consciousness",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Brain: How Attention Engenders Experience, Jesse J. Prinz",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The conscious brain, Christopher Mole",
+        "year": 2013
+      }
+    ]
+  }
+}

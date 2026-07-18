@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Lamme'nin Yinelemeli İşleme Kuramı",
+    "summary": "Lamme'nin Yinelemeli İşleme Kuramı (RPT), bilincin, özellikle duyusal sistemlerde, sinirsel alanlar arasında karşılıklı (yinelemeli) geri besleme bağlantıları oluştuğunda hem gerekli hem yeterli olduğunu ileri sürer. Duyusal ve duyu-sonrası alanlarda yerel olarak gerçekleşen bu işleme (3. Aşama), küresel yayın erişimi gerektirmeden fenomenal deneyim üretir.",
+    "associated_thinkers": ["Victor Lamme"],
+    "category": "Materyalizm",
+    "subcategory": "Temsilsel",
+    "core_identity_tagline": "'Duyusal Sistemlerde Yinelemeli İşleme Olarak Bilinç'",
+    "classification_tags": [
+      "neuroscience",
+      "visual system",
+      "recurrent connections",
+      "first-order theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, görsel sistem gibi ilgili sinirsel devreler içinde geçerli olan belirli bir yinelemeli işleme durumu olarak tanımlanır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Özdeşlik/İndirgemeci yaklaşım; zihin kavramının beyin kavramına doğru ilerlemesi gerektiğini ve bilincin fiziksel devrelerdeki bir yinelemeli işleme durumuyla özdeş olduğunu savunur.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "Öznellik (fenomenal bilinç), yinelemeli işleme durumunun kendisidir. Yönelimsellik, bu döngüler içinde temsil edilen içerik tarafından taşınır (bir Temsilsel/Birinci Düzey kuram olarak çıkarsanır).",
+    "qualia_account": "Qualia, ilgili görsel devrelerde belirli bir yinelemeli işleme durumu geçerli olduğunda üretilir ve görsel durumu bilinçli kılar.",
+    "ontological_commitments": "Beyin duyusal sistemleri, sinirsel devreler (görsel devreler), ileri besleme ve geri besleme bağlantıları.",
+    "epistemic_access": "Lamme'nin eşit temele oturtulmasını önerdiği sinirsel ve davranışsal ölçütler yoluyla erişilebilir.",
+    "constituents_and_structure": "İleri besleme ve geri besleme bağlantılarını içeren, yoğun biçimde birbirine bağlı sinirsel devreler (yinelemeli döngüler)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal",
+    "distinctive_mechanism_or_principle": "Duyusal ve duyu-sonrası alanlarda (3. Aşama) yinelemeli işleme (geri besleme bağlantıları), bilinç için yeterli sayılır.",
+    "dynamics_of_emergence": "Dinamik süreç. Bilinçli durumlar, görsel alanları diğer beyin bölgeleriyle bağlayan geri besleme bağlantılarının doğurduğu dinamik etkinliğin sonucudur.",
+    "location_and_distribution": "Duyusal ve duyu-sonrası alanlarda, özellikle 'kafanın arkasındaki' yinelemeli etkinleşmelerde yerelleşmiştir.",
+    "causation_and_functional_role": "Bilinç, belirli yinelemeli işleme durumunun kendisidir. Altta yatan amacın, zihin anlayışını beyne doğru taşımak olduğu ima edilir.",
+    "integration_or_binding": "Bütünleşme, algısal alanlardaki yinelemeli döngüler içinde yerel olarak sağlanır.",
+    "information_flow_or_representation": "Bilgi, başlangıçtaki bir ileri süpürmeyi (bilinçdışı kayıt) ve ardından yinelemeli işlemeyi (bilinci) doğuran geri besleme bağlantılarını içerir.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Bilinç, ileri besleme ve geri besleme bağlantılarını (yinelemeli işlemeyi) içeren, yoğun biçimde birbirine bağlı duyusal sistemler gerektirir.",
+      "Duyusal ve duyu-sonrası alanlarda yinelemeli işleme, fenomenal bilinç için gerekli ve yeterlidir.",
+      "Bilinçli algı, kafanın arkasındaki yinelemeli etkinleşmelerle özdeşleştirilir (birinci düzey kuram)."
+    ],
+    "basis_of_belief_or_evidence_type": "Ampirik, Nörobiyolojik, Kavramsal"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Küresel Çalışma Alanı Kuramı'nı (GWT) 'tümüyle erişimle ilgili ama görmeyle ilgili değil' diye eleştirir. Kendisi de Ned Block tarafından 'küresel çalışma alanı açıklamasının budanmış bir biçimi' olarak eleştirilir.",
+    "open_questions_and_limitations": "Yinelemeli etkinleşmeler, ancak kortikal-altı yapılarla sağlam bağlanabilirlik gibi belirli 'arka plan koşulları' verildiğinde bilinç için yeterlidir.",
+    "ontological_coherence": "Bilinci tümüyle belirli, tanımlanmış sinirsel mekanizmalarda temellendirerek Materyalist ontoloji içinde yüksek ölçüde tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemelen",
+      "rationale": "Bir Materyalizm Kuramı olarak, gerekli yinelemeli işleme örüntüsü biyolojik olmayan bir taşıyıcıda yapay olarak kopyalanabilirse, YZ bilinci ilke olarak mümkün olmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, fiziksel beyin etkinliğine ve belirli sinirsel devrelere (yinelemeli işleme durumlarına) bağlıdır; bu da bedensel ölümde son bulmayı düşündürür."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Kuram, fenomenal deneyimin tümüyle fizikalist, nörobiyolojik bir açıklamasına odaklanır ve hiçbir nihai kozmik anlam ya da amacı desteklemez."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç yinelemeli işleme durumunun kendisi olduğundan, bu sürecin yeni bir ortama kusursuz kopyalanması (yükleme) birinci şahıs benliği üretir ve sanal ölümsüzlüğü mümkün kılar."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Genişletme"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a true neural stance on consciousness, Victor Lamme",
+        "year": 2006
+      },
+      {
+        "title_with_names": "How neuroscience will change our view on consciousness, Victor Lamme",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Wu, 2018 (Discussing Lamme's RPT)",
+        "year": 2018
+      }
+    ]
+  }
+}

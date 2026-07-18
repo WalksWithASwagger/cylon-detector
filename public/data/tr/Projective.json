@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Projektif Bilinç Modeli",
+    "summary": "Projektif Bilinç Modeli (PCM), bedenlenmiş bilincin matematiksel bir çerçevesidir; Bilinç Alanı'nın (FoC) projektif bir geometriyle yapılandırıldığını ve etkin çıkarımla denetlendiğini öne sürer. Fenomenolojiyi işleve bağlar ve bilincin, dayanıklılık için bilgi bütünleşmesini eniyileyen evrilmiş bir mekanizma olduğunu savunur.",
+    "associated_thinkers": [
+      "David Rudrauf",
+      "Kenneth Williford",
+      "Daniel Bennequin",
+      "Karl Friston"
+    ],
+    "category": "Materyalizm",
+    "subcategory": "Homeostatik ve Duygulanımsal",
+    "core_identity_tagline": "Projektif Geometri ve Etkin Çıkarım Olarak Bilinç",
+    "classification_tags": [
+      "mathematical",
+      "embodied",
+      "active inference",
+      "projective geometry",
+      "free energy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, dayanıklılığı azamileştirmek için bir algoritma olarak işlev gören, bilgi bütünleşmesini eniyileyen evrilmiş bir mekanizma olarak belirlenir. Bilinç hâlleri, projektif dönüşümlerin eylemini yansıtır.",
+    "ontological_status": "Fizikalizm",
+    "mind_body_relationship": "Bedenlenmiş bilinç; burada zihin yalnızca bedenlenmeye indirgenmez, ancak fiziksel yapıyı gerektirir; 'yaşanan beden', edimsel bedenin hayati bir çıkarımsal temsili işlevini görür.",
+    "primitive_or_emergent_status": "Belirmiş",
+    "emergence_type": "Zayıf Beliriş",
+    "subjectivity_and_intentionality": "PCM, öznel deneyimin uzamsal fenomenolojisini açıklar ve yönelimselliği duygulanımsal süreçlere bağlar. FoC, tercihlere göre bakış açıları seçerek deneyimleri çerçeveler.",
+    "qualia_account": "Kuram, öznel deneyimin uzamsal fenomenolojisini açıklar ve bilinç hâllerinin projektif dönüşümler yoluyla ortaya çıktığını öne sürer, ancak belirli niteliksel his ('qualia') ayrıntıları açıkça sunulmamıştır.",
+    "ontological_commitments": "Projektif geometri, Serbest enerji, Bedenlenmiş sistemler, Çok kipli duyusal bilgi, Bellek izleri.",
+    "epistemic_access": "Matematiksel modelleme, hesaplamalı çözümleme ve uzamsal fenomenolojinin incelenmesi yoluyla erişilir.",
+    "constituents_and_structure": "Projektif geometriyle yapılandırılmış ve temsil ile denetim için 'yaşanan bedene' sanal bir kullanıcı arayüzü olarak dayanan Bilinç Alanı (FoC)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (uzamsal fenomenoloji), Algı, İmgelem, Eylem, Duygulanımsal süreçler (yönelimsellik).",
+    "distinctive_mechanism_or_principle": "Beklentileri dönüştürmek için projektif bir geometriyle yapılandırılan uzamsal FoC'yi denetleyen etkin çıkarım süreci. Beklenti ihlalleri (serbest enerji), bakış açısı almayı harekete geçirir.",
+    "dynamics_of_emergence": "Bilinç hâlleri, projektif dönüşümler uygulandığında ortaya çıkan, algı, imgelem ve eylem arasındaki geçişi yöneten dinamik bir süreçtir.",
+    "location_and_distribution": "Sistemik; bilinç bedenlenmiştir ve küresel bir 3B uzamsal geometri yansıtan bütünleştirici bir öngörücü sistemi içerir.",
+    "causation_and_functional_role": "Dayanıklılığı azamileştirme ve hesaplamalı avantajlar gösterme işlevini görür. Bilinç, uzamsal olarak dağılmış bilgi ve eylemlerin temsilini, benzetimini, değerlendirilmesini ve denetimini kolaylaştırır.",
+    "integration_or_binding": "Bütünleşme, bilinçli çalışma alanına erişen çok kipli duyusal bilgiye ve bellek izlerine küresel bir 3B uzamsal geometri yansıtan bütünleştirici bir öngörücü sistem yoluyla sağlanır.",
+    "information_flow_or_representation": "Bilinç, bilgi bütünleşmesini eniyiler. Projektif çerçeveler, beklentilerin bilinç tarafından nasıl dönüştürüldüğünü yönetir. 'Yaşanan beden' çıkarımsal bir temsildir.",
+    "evolutionary_account": "Bilinç, bilgi işlemeyi eniyilemeye yönelik bir mekanizma olarak evrilmiştir. Bedenlenmiş sistemler, uzayın bütünleştirici bilişini geliştirerek evrimsel bir avantaj elde etmiştir.",
+    "core_claims_and_evidence": [
+      "Bilincin uzamsal alanı projektif bir geometriyle yapılandırılır ve etkin çıkarımla denetlenir.",
+      "Bilinç, dayanıklılık için bilgi bütünleşmesini eniyileyen evrilmiş bir mekanizmadır.",
+      "'Yaşanan beden', hayati bir çıkarımsal temsil ve benlik bütünlüğü için bir çıpa noktası işlevini görür."
+    ],
+    "basis_of_belief_or_evidence_type": "Matematiksel, Hesaplamalı, Fenomenolojik, İşlevsel"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Kavramsal olarak sınanabilir",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "Hesaplamalı ve işlevsel Materyalist ontoloji içinde, özellikle Serbest Enerji İlkesi çerçevesiyle uyumlu olarak yüksek düzeyde tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Koşullu",
+      "rationale": "Projektif geometrinin ve etkin çıkarımın matematiksel ve hesaplamalı yapıları yapay, tercihen bedenlenmiş sistemlerde başarıyla uygulanabilirse, yapay zeka bilinci mümkündür."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Model, fiziksel gerçekliğe kök salmıştır; bedenlenmiş bilinci ve biyolojik beyne bağlı homeostatik ilkeleri vurgular ve biyoloji sonrası bir hayatta kalma için hiçbir temel sağlamaz."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca işlevsel",
+      "rationale": "Bilinç öncelikle dayanıklılığı azamileştirmek ve bilgi işlemeyi eniyilemek için evrilmiş bir mekanizma olarak tanımlanır; bu da nihai kozmik anlamdan çok uyarlanımsal bir amaç ima eder."
+    },
+    "virtual_immortality": {
+      "stance": "Koşullu",
+      "rationale": "İşlevsel bir matematiksel model olarak, projektif yapının gerekli karmaşık dinamikleri ve bedenlenmiş yönü biyolojik olmayan bir alt katmanda kusursuzca benzetimlenebilir/çoğaltılabilirse sanal ölümsüzlük düşünülebilir."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "Temel"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Temel"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Uyumlu"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A mathematical model of embodied consciousness, D. Rudrauf et al",
+        "year": 2017
+      }
+    ]
+  }
+}

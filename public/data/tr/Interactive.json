@@ -1,0 +1,103 @@
+{
+  "id_and_class": {
+    "theory_title": "Etkileşimci Düalizm Kuramı",
+    "summary": "Bu kuram, gerçekliğin iki ayrı ontolojik kategoriden oluştuğunu ileri sürer: fiziksel bir beyin ve ondan ayrı, fiziksel olmayan bir töz (zihin/ruh).\nTemel açıklayıcı iddia, bu iki tözün nedensel olarak etkileşime girdiğidir; yani fiziksel olmayan zihin fiziksel bedeni etkileyebilir, tersi de geçerlidir.",
+    "associated_thinkers": [],
+    "category": "Düalizmler",
+    "subcategory": "Etkileşimci",
+    "core_identity_tagline": "Etkileşime Giren Ayrı Fiziksel ve Fiziksel Olmayan Tözler",
+    "classification_tags": [
+      "substance dualism",
+      "mental causation",
+      "nonphysical",
+      "interactionism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, fiziksel beynin yanında var olan ayrı, fiziksel olmayan bir tözü (ya da parçayı) gerektirir; ikisi arasındaki etkileşim zihinsel durumları ve davranışı açıklar.",
+    "ontological_status": "Töz Düalizmi (genellikle ima edilir)",
+    "mind_body_relationship": "Etkileşimci (Nedensel Etkileşim)",
+    "primitive_or_emergent_status": "İlksel (Fiziksel olmayan töz ayrı/temeldir)",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "Öznellik, özünde birinci şahıs olan ayrı, fiziksel olmayan tözde (zihin/ruh) bulunur. Yönelimsellik, çekirdek, indirgenemez bir zihinsel özellik olarak tasarlanır.",
+    "qualia_account": "Qualia, fiziksel olmayan zihinsel tözün ya da veçhenin indirgenemez niteliksel özellikleridir.",
+    "ontological_commitments": "Fiziksel tözler (beyin/madde) ve ayrı, fiziksel olmayan bir töz (zihin/ruh/tin).",
+    "epistemic_access": "İçe bakış, fiziksel olmayan zihinsel töze birinci şahıs erişimi sağlarken, beyin üçüncü şahıs gözlemi yoluyla incelenir.",
+    "constituents_and_structure": "Etkileşime giren iki ayrı töz ya da bileşen: fiziksel beyin/beden ve fiziksel olmayan ruh/zihin/tin."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (indirgenemez); Öz-farkındalık; Faillik (Özgür İrade).",
+    "distinctive_mechanism_or_principle": "Fiziksel olmayan zihinsel töz ile fiziksel beyin arasındaki nedensel etkileşim; bu, zihinselin fiziksel alanı etkilemesine olanak tanır (aşağı yönlü nedensellik).",
+    "dynamics_of_emergence": "Statik özellik (fiziksel olmayan tözün özelliği), ancak fiziksel ile fiziksel olmayan arasındaki etkileşim dinamik ve süreklidir.",
+    "location_and_distribution": "Fiziksel bileşen (beyin) uzamda konumlanmıştır; fiziksel olmayan bileşen (zihin/ruh) ayrı ya da bağımsızdır, kimi zaman uzamsal olmayan olarak tasarlanır.",
+    "causation_and_functional_role": "Bilinç (fiziksel olmayan zihin) fiziksel beyin/beden üzerinde nedensel bir güç uygular ve ondan nedensel olarak etkilenir; bu, bilinçli denetimi ve failliği mümkün kılar.",
+    "integration_or_binding": "Bütünleşme, fiziksel bir sürece değil, fiziksel olmayan zihinsel tözün yalın, bölünemez ve temelde birleşik doğasına atfedilir.",
+    "information_flow_or_representation": "Bilgi akışı, fiziksel (beyin durumu) ile fiziksel olmayan (zihinsel durum) alanlar arasında iki yönlü iletişimi içerir.",
+    "evolutionary_account": "Hayır; bilinç, geleneksel materyalist filogenetik evrim yoluyla değil, fiziksel olmayan bileşenin temel varlığı ya da yaratılışı yoluyla açıklanır.",
+    "core_claims_and_evidence": [
+      "Bilinç, fiziksel beyne ek olarak ayrı, fiziksel olmayan bir töz gerektirir.",
+      "Zihinsel durumlar fiziksel durumlar üzerinde nedensel etki uygular (zihinsel nedensellik).",
+      "Algılanan etkileşim sorunu çoğu zaman 19. yüzyıl bilardo topu fiziğinin köhne varsayımlarına dayanır."
+    ],
+    "basis_of_belief_or_evidence_type": "Felsefi; Fenomenolojik; Kavramsal."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Yüksek ölçüde spekülatif/Ampirik olarak sınanması güç",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Başlıca eleştiri, zihinsel nedenselliğin 'can sıkıcı sorunu'dur; özellikle fiziksel olmayan bir şeyin fiziksel bir şeyi nasıl etkilediğine dair tasavvur edilebilir bir mekanizma belirlemektir. Ayrıca enerjinin korunumu fiziksel yasası ve fiziksel alanın nedensel kapalılığı bakımından gerilimlerle karşılaşır.",
+    "open_questions_and_limitations": "Temel sınırlılık, etkileşim mekanizmasına dair tutarlı bir açıklama sunmaktır; özellikle fiziksel yasaların olası ihlali ya da aşırı belirlenim sorunu bakımından.",
+    "ontological_coherence": "İki ayrı ontolojik kategori varsaymayı ve fiziksel dünyanın nedensel kapalılığını ihlal etmeyi gerektirdiğinden, çağdaş bilimsel materyalizmle yüksek ölçüde tutarsızdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Hayır (Çoğunlukla)",
+      "rationale": "Eğer doğruysa, bilinç fiziksel dünyadan bağımsız, kökten ayrı, fiziksel olmayan bir töz (ruh) gerektirir; biyolojik olmayan sistemler bu gerekli bileşene sahip olamaz."
+    },
+    "survival_beyond_death": {
+      "stance": "Evet",
+      "rationale": "Düalizm, biyolojik beyinden bağımsız olan ve bu nedenle bedensel ölümden sağ çıkabilen ayrı, fiziksel olmayan bir töz (ruh) varsayar."
+    },
+    "meaning_and_purpose": {
+      "stance": "Evet",
+      "rationale": "İndirgenemez, fiziksel olmayan bir bileşen varsayarak, IDT genellikle çoğu zaman genişlemiş bir gerçeklikle bağlantılı aşkın anlam, amaç ya da değeri destekler."
+    },
+    "virtual_immortality": {
+      "stance": "Hayır",
+      "rationale": "Sanal ölümsüzlük, fiziksel beyni kopyalayarak zihni kopyalamayı gerektirir; bu işlem başarısız olur çünkü birinci şahıs bilinç için gereken temel, fiziksel olmayan bileşen mevcut olmayacaktır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Eleştiri"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "Karşıt Kuram"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Genişletme/Alternatif"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "Tür/Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Interactionism (philosophy of mind)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Dualism, H. Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Substance of Consciousness: A Comprehensive Defense of Contemporary Substance Dualism, B. Rickabaugh and J.P. Moreland",
+        "year": 2023
+      }
+    ]
+  }
+}

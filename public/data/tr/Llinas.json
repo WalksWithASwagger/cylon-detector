@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Llinás'ın Salınımların Zihinsellik Durumu Kuramı",
+    "summary": "Bu kuram, bilinçli \"zihinsellik durumu\"nun temelde nöronlar içindeki elektriksel salınımlar ve bunun sonucunda uzak nöral gruplar boyunca ortaya çıkan eşzamanlı etkinlik tarafından üretildiğini ileri sürer; bu da bilişin nörobiyolojik kökünü oluşturur. Deneyimlenen gerçekliğin, öncelikle öngörüyü olanaklı kılma işlevi gören bu içsel salınımlarca üretilen bir tür sanal gerçeklik olduğunu öne sürer.",
+    "associated_thinkers": ["Rodolfo Llinas"],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Elektromanyetik Alan",
+    "core_identity_tagline": "'Nöronal Salınımlar ve Öngörü Olarak Bilinç'",
+    "classification_tags": [
+      "neurobiology",
+      "oscillations",
+      "synchrony",
+      "prediction",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç (zihinsellik durumu), minik nöronal voltajlardaki salınımsal değişimler ve bu elektriksel etkinliğin eşzamanlılığı tarafından üretilen, bilişin nörobiyolojik kökünü oluşturan içsel bir durum olarak tanımlanır.",
+    "ontological_status": "Fizikalizm / Materyalizm",
+    "mind_body_relationship": "Özdeşlik/indirgemeci. Zihinsel durumlar, beyindeki belirli fiziksel süreçlerin (nöronal salınımlar ve eşzamanlılık) işlevsel ürünüdür; bu, bilincin tümüyle fiziksel olduğu Materyalist önermesiyle tutarlıdır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf beliriş",
+    "subjectivity_and_intentionality": "Öznellik, bu salınımlarca üretilen içsel durumda köklenir. Yönelimsellik ise, bilincin öngörüyü ve çevreyle etkileşimi olanaklı kılma birincil işlevi aracılığıyla örtük olarak ele alınır.",
+    "qualia_account": "Sağlanan kaynaklarda açıkça ayrıntılandırılmaz. Bu yaklaşım tipik olarak bilincin nesnel mekanizmalarına odaklanır; öznel deneyimin, nöronal salınımların dinamiklerine ve ardından gelen bilişsel temsile doğrudan karşılık geldiğini ima eder.",
+    "ontological_commitments": "Nöronlar, elektriksel etkinlik (salınımlar), işlevsel beyin devreleri ve duyusal girdiler.",
+    "epistemic_access": "Öncelikle nesnel nörobiyolojik gözlem ve elektriksel beyin etkinliğinin modellenmesi yoluyla.",
+    "constituents_and_structure": "Fazda salınan nöron grupları; bunlar, eşzamanlı elektriksel etkinlik aracılığıyla uzak gruplarla rezonansa girer. Genel yapı, bir 'sanal gerçeklik' kuran merkezileşmiş öngörü modelidir (Benlik).",
+    "location_and_distribution": "Sinir sisteminde konumlanır; nöronların elektriksel etkinliği (salınımlar) tarafından üretilir."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Biliş, öz-farkındalık (öngörünün merkezileşmesi olarak), algı (sanal gerçeklik olarak).",
+    "distinctive_mechanism_or_principle": "Nöronların salınan voltajlar olarak beliren elektriksel etkinliği ve bu salınımların dağıtık nöral gruplar boyunca ortaya çıkan eşzamanlanması/eşzamanlılığı.",
+    "dynamics_of_emergence": "Bilinç, statik bir özellik değil, etkin hareketi ve öngörünün çekirdek işlevini olanaklı kılmak üzere evrilmiş dinamik bir içsel durumdur.",
+    "location_and_distribution": "Beyin içindeki elektriksel salınımlarca üretilir ve duyular tarafından yönlendirilir.",
+    "causation_and_functional_role": "Bilinç, öncelikle beynin hareketlerin ve etkileşimlerin sonucunu önceden görmesini olanaklı kılma işlevi görür; öngörü yetisini nihai beyin işlevi kılar.",
+    "integration_or_binding": "Uzak nöron gruplarının eşzamanlı, faz-içi salınımı ve rezonansı aracılığıyla sağlanır.",
+    "information_flow_or_representation": "Bilgi akışı elektriksel salınımlarca dolayımlanır. Zihin, içsel durumu yönlendiren duyusal girdiye dayanarak gerçekliği bir \"sanal gerçeklik\" olarak kurar.",
+    "evolutionary_account": "\"Zihinsellik durumu\", etkin harekete olanak tanımak üzere sinir sisteminin evriminin ardından, hareketli canlılar ile çevreleri arasındaki hayati öngörüsel etkileşimleri olanaklı kılmak için evrildi.",
+    "core_claims_and_evidence": [
+      "Bilinçli \"zihinsellik durumu\" nöronal salınımlarca üretilir.",
+      "Nöronal etkinliğin eşzamanlılığı, bilişin nörobiyolojik köküdür.",
+      "Gerçeklik, beynin salınımlarınca kurulan bir tür içsel sanal gerçekliktir.",
+      "Benlik, öngörünün merkezileşmesidir."
+    ],
+    "basis_of_belief_or_evidence_type": "Nörobiyolojik, kavramsal"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ampirik olarak sınanabilir",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Açıkça ayrıntılandırılmaz; ancak materyalist bir açıklama olarak, elektriksel salınımların ya da eşzamanlılığın öznel, niteliksel deneyime nasıl dönüştüğünü açıklama meydan okumasıyla (açıklama boşluğu/zor problem) karşı karşıyadır.",
+    "open_questions_and_limitations": "Kuram, nöronal salınımlar/eşzamanlılık ile birinci şahıs deneyim arasındaki tam ilişkiyi belirtmeli ve 'sanal gerçekliğin' dış fiziksel gerçekliğe nasıl doğru biçimde eşlendiğini açıklamalıdır.",
+    "ontological_coherence": "Fizikalist çerçeve içinde son derece tutarlıdır; bilinci ölçülebilir, alt düzeyli fiziksel fenomenlerde (elektriksel etkinlik) temellendirir."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Olası",
+      "rationale": "Bilinç, salınım eşzamanlılığının ve öngörünün hesaplamalı işlevinde köklüyse, bu dinamikler ilkece gelişkin yapay sistemlerde gerçekleştirilebilir ya da benzetimlenebilir; bu da fizikalist duruşa uygundur."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, beyin içindeki biyolojik nöral mekanizmaların (salınımlar) ürettiği bir durum olarak tanımlanır; bu da biyolojik zeminin ölümünden sonra hayatta kalmayı olanaksızlaştırır."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Evrimleşmiş, nörobiyolojik bir mekanizma olarak bilincin amacı öncelikle işlevseldir (öngörü ve hayatta kalma); bu, nihai kozmik anlamı reddeden yalınlaştırıcı Materyalizm görüşüyle tutarlıdır."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç tümüyle salınan nöral etkinlik örüntüleriyle açıklanıyorsa, bu dinamik örüntülerin biyolojik olmayan bir ortama kusursuzca kopyalanması ya da yüklenmesi birinci şahıs benliği korumalıdır; bu da sanal ölümsüzlüğü mümkün kılar."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "Kategori üyeliği/örtüşme"
+      },
+      {
+        "name": "Predictive Processing Theories",
+        "relationship": "Örtüşme/genişletme"
+      },
+      {
+        "name": "Recurrent Processing Theory (Lamme)",
+        "relationship": "Örtüşme"
+      },
+      {
+        "name": "Dendritic Integration Theory (Aru et al.)",
+        "relationship": "Örtüşme"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "I of the Vortex: from Neurons to Self, Rodolfo Llinas",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Can brain explain mind?, Rodolfo Llinas",
+        "year": 2007
+      }
+    ]
+  }
+}

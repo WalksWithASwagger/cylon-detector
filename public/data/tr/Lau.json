@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Lau'nun Algısal Gerçeklik İzleme Kuramı",
+    "summary": "Ampirik temelli bu yüksek düzey kuram, bilinçli algının, belirli bir yüksek düzey temsilin (HOR) birinci düzey duyusal bir temsili dış dünyanın güvenilir bir yansıması olarak doğruladığında ortaya çıktığını öne sürer. HOR, algı ile biliş arasında bir arayüz olarak işler ve bilinçli deneyim için öznel gerekçelendirme duygusu sağlar.",
+    "associated_thinkers": ["Hakwan Lau"],
+    "category": "Materyalizm",
+    "subcategory": "Temsilsel",
+    "core_identity_tagline": "'Algısal Gerçeklik İzleme Olarak Bilinç'",
+    "classification_tags": [
+      "higher-order theory",
+      "representationalism",
+      "metacognition",
+      "functionalism",
+      "neurobiological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, birinci düzey duyusal durumların güvenilirliğini ve epistemik statüsünü izleyen yüksek düzey temsiller tarafından örneklenen, algı ile biliş arasında işlevsel bir mekanizma ya da arayüzdür.",
+    "ontological_status": "Fizikalizm / İşlevselcilik",
+    "mind_body_relationship": "Bilinç, birinci düzey duyusal temsilleri izleyen yüksek düzey sinirsel mekanizmaların (olasılıkla prefrontal kortekste) belirli işlevsel etkinliğiyle özdeştir. Bu, beyin işlevine dayanan materyalist bir açıklamadır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Bilinç, beyindeki belirli karmaşık örgütlenme yapılarından (HOR'lardan) doğan bir işlevdir; bu da onun materyalist sınıflandırmasıyla tutarlı olarak ilke olarak açıklanabilir ya da indirgenebilir olduğunu düşündürür.",
+    "subjectivity_and_intentionality": "Öznellik, bilincin öznel düzeyde inanç oluşumuna ve epistemik gerekçelendirmeye bağlanmasından doğar. Yönelimsellik, izlenen birinci düzey algısal temsil tarafından taşınır.",
+    "qualia_account": "Öznel 'nasıl bir şey olduğu', yüksek düzey temsillerin daha zengin, daha alt düzey analog algısal sinyallere erişmesiyle açıklanır. Bu sinyallerin analog doğası, diğer olası deneyimlere göre öznel benzerliği belirler.",
+    "ontological_commitments": "Birinci düzey algısal temsiller, yüksek düzey izleme temsilleri (HOR'lar) ve öncelikle prefrontal kortekste konumlanan belirli sinirsel mekanizmalar.",
+    "epistemic_access": "Bilinçli algı ile duyusal üstbiliş mekanizmaları arasındaki benzerliklere odaklanan ampirik araştırma ve sinirsel modelleme yoluyla erişilebilir. HOR'un kendisi kişi-altı bir süreçtir, ancak çıktısı fail için öznel olarak gerekçelendirilmiş çıkarımlara yol açar.",
+    "constituents_and_structure": "Yapı iki düzeyli bir süreci içerir: birinci düzey (duyusal) temsiller, yüksek düzey (bilişsel/üstbilişsel) temsiller tarafından etiketlenir ya da izlenir; bu da algı ile biliş arasında mekanizmacı bir arayüz oluşturur."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (algı ve qualia), Bilişsel (üstbiliş, inanç oluşumu), Erişim (olası bir sonuç olarak).",
+    "distinctive_mechanism_or_principle": "Yüksek düzey bir temsilin (HOR), birinci düzey duyusal temsillerin algılanan güvenilirliğini gösteren bir 'etiket ya da yafta' olarak işlemesi (Algısal Gerçeklik İzleme); bunu hayal gücünden ya da nöronal gürültüden ayırır.",
+    "dynamics_of_emergence": "Bilinç, belirli işlevsel HOR mekanizmasının örneklenmesiyle dinamik olarak doğar ve duyusal girdi ile bilişsel işleme arasında kritik bir arayüz olarak hizmet eder.",
+    "location_and_distribution": "Mekanizma, olasılıkla memeli prefrontal korteksinde, birincil duyusal bölgelerin dışında, algısal üstbilişten sorumlu alanlarla örtüşerek bulunur.",
+    "causation_and_functional_role": "HOR, güvenilir duyusal bilgiyi daha ileri bilişsel işleme için yönlendiren bir geçit mekanizması olarak işler; failin gerçekliği hayal gücünden güvenilir biçimde ayırt edebilmesini sağlar.",
+    "integration_or_binding": "Yüksek düzey temsil, birinci düzey temsillerin daha zengin, daha alt düzey analog algılarına erişir; bu da bu izleme sürecinin, birleşik bir fenomenal deneyim için gereken bütünleşmeyi kolaylaştırdığını ima eder.",
+    "information_flow_or_representation": "Bilgi, uzamsal olarak 'analog' duyusal temsillerden (birinci düzey) yüksek düzey bilişsel sistemlere akar; bu da hesaplamalı avantajlar sağlar ve niteliksel karakteri belirler.",
+    "evolutionary_account": "Kuram, bir evrimsel açıklamayla tutarlıdır; zira dünyanın gerçek algılarını kendi üretilmiş imgelerinden ya da gürültüden güvenilir biçimde ayırt ederek hayatta kalmayı güçlendiren bir ayırt edici (YZ'ye benzer) içerir.",
+    "core_claims_and_evidence": [
+      "Bilinçli algı, birinci düzey duyusal girdiyi güvenilir olarak doğrulayan yüksek düzey bir temsil gerektirir.",
+      "Bilinçli algının sinirsel mekanizmaları, duyusal üstbilişinkilerle örtüşür (prefrontal ve paryetal kortikuslar).",
+      "Kuram, kör görüşü, karşılık gelen gerekli yüksek düzey temsil olmaksızın birinci düzey bir temsilin ortaya çıkması olarak tutarlı biçimde açıklar."
+    ],
+    "basis_of_belief_or_evidence_type": "Ampirik/Bilişsel Sinirbilimsel, İşlevselci"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Bilinçli algının ve duyusal üstbilişin sinirsel bağıntılarını haritalayıp karşılaştırarak ve kör görüş fenomenlerine ilişkin öngörü gücü yoluyla ampirik olarak sınanabilir.",
+    "known_empirical_interventions_or_tests": [
+      "Prefrontal/paryetal etkinliği duyusal üstbiliş ve bilinçli algıyla bağıntılayan nörogörüntüleme çalışmaları."
+    ],
+    "criticisms_and_tensions": "Lau, rakip modelleri eleştirir; kuramı, Küresel Çalışma Alanı Kuramı (erişime fazla odaklanmış) ile tümüyle yerel/yinelemeli kuramlar (erken duyusal alanlara fazla odaklanmış) arasında ara bir konumda, üstün bir 'merkezci' yaklaşım olarak konumlandırır. İzlemenin/üstbilişin neden niteliksel 'nasıl bir şey olduğu' üretmesi gerektiğini açıklamanın standart güçlüğüyle karşılaşır.",
+    "open_questions_and_limitations": "Yüksek düzey bir etiket tarafından erişilen mekanizmacı, analog bir temsilin deneyimin öznel niteliğini eksiksiz açıklayabileceği şeklindeki iddialı savı tam olarak temellendirmesi gerekir.",
+    "ontological_coherence": "Nörobiyolojik ve işlevselci materyalist bir çerçeve içinde yüksek ölçüde tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Muhtemelen",
+      "rationale": "İşlevselci bir kuram olarak, bilinç doğru bilgisel/işlevsel mimarinin (HOR mekanizmasının) uygulanmasına bağlıdır. Bu mimari bir robotta ya da bilgisayar programında örneklenebilirse, yapay bilinç mümkündür."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, biyolojik beyinde konumlanan belirli, özelleşmiş sinirsel mekanizmalara (örneğin prefrontal kortekse) açıkça bağlıdır; biyolojik ölümden sonra sürekliliğe yer bırakmaz."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Mekanizmanın birincil rolü işlevseldir (gerçekliği hayal gücünden ayırmak ve bilgiyi yönlendirmek). Bu biyolojik mekanizmanın sağladığı uyum sağlayıcı avantajların ötesinde hiçbir kozmik ya da nihai amaç sunmaz."
+    },
+    "virtual_immortality": {
+      "stance": "Muhtemelen",
+      "rationale": "Temsillerin analog doğası dahil belirli işlevsel ve bilgisel mimari, biyolojik olmayan bir taşıyıcıya kusursuzca yüklenip çalıştırılabilirse, birinci şahıs zihinsel benlik korunurdu; zira bilinç o işlevsel yapıyla tanımlanır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Özgül Örnek/Genişletme"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Eleştiri (Üstün bir ara alternatif olarak konumlandırılır)"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Eleştiri (Üstün bir ara alternatif olarak konumlandırılır)"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Bağdaşır (Bilinçli iddiaları açıklamada işlevselci/bilişsel bir yaklaşımı paylaşır)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness, metacognition, & perceptual reality monitoring, Hakwan Lau",
+        "year": 2019
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Is consciousness a battle between your beliefs and perceptions?, Hakwan Lau",
+        "year": 2019
+      }
+    ]
+  }
+}

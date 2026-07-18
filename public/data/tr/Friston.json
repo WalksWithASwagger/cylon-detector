@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Friston’ın serbest-enerji ilkesi ve etkin çıkarımı",
+    "summary": "Bu kuram, bilinci, bir organizmanın içsel modeli (algısal beklentiler) ile gerçek zamanlı duyusal girdiler arasındaki fark olan 'serbest enerji'nin en aza indirilmesinden doğan doğal bir süreç olarak kavramsallaştırır. Dolayısıyla bilinç, dünyanın senaryolarını benzetimlemek ve hayatta kalmayı güvence altına almak ile homeostazı sürdürmek için öngörü hatasını azaltmak üzere evrilmiş mekanizma olarak işlev görür.",
+    "associated_thinkers": [
+      "Karl Friston"
+    ],
+    "category": "Materyalizm Kuramları",
+    "subcategory": "Homeostatik ve Duygulanımsal",
+    "core_identity_tagline": "Etkin Çıkarım ve En Aza İndirilmiş Şaşkınlık Olarak Bilinç",
+    "classification_tags": [
+      "active inference",
+      "free energy",
+      "predictive processing",
+      "process theory",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bilinç, doğal bir çıkarım süreci olarak, özellikle serbest-enerji ilkesini (şaşkınlığı) izleyen ve en aza indiren, böylece fiziksel/beyin sistemlerinin temsili kapasitelerini eniyileyen içsel beliren model olarak tanımlanır.",
+    "ontological_status": "Fizikalizm; genellikle zihin/madde ayrımını ontolojik değil diyalektik gören Markovcu Monizm olarak anılır.",
+    "mind_body_relationship": "Monistik/Özdeşlik. Kuram, bilincin fiziksel/beyin sisteminin öz-örgütlenen süreçlerinin doğal sonucu olduğunu öne sürer ve zihin ile madde arasındaki bilindik diyalektikleri ortadan kaldırır.",
+    "primitive_or_emergent_status": "Beliren",
+    "emergence_type": "Zayıf Beliriş. Bilinç, karmaşık, öz-örgütlenen fiziksel sistemlerden doğan (evrim ya da hava durumu gibi) bir doğal süreçten ne fazla ne de eksik bir şey olarak görülür.",
+    "subjectivity_and_intentionality": "Öznellik (birinci şahıs bakış açısı), bir sistemin içsel durumları dışsal durumlardan ayırt edilebildiğinde ortaya çıkan enformasyonel geometriyle çerçevelenir (Markovcu Monizm). Yönelimsellik, duyusal durumların nedenlerini çıkarsamayı ve dünyada yol almayı içeren etkin çıkarım sürecinde yansır.",
+    "qualia_account": "Kuram, Zor Problem konusunda son derece indirgeyicidir; bilinci, nitel nitelikleri tanımlanması gereken bir 'şey' olarak değil, anlaşılması gereken bir süreç olarak ele alır. Qualia, kabul edilirse, çıkarım için gerekli içsel üretici modelin epifenomenleri ya da yönleri olurdu.",
+    "ontological_commitments": "Fiziksel/beyin sistemleri, karmaşık öz-örgütlenen sistemler, içsel ve dışsal enformasyon geometrileri ve çıkarım/süreç kavramı.",
+    "epistemic_access": "Bilinç, serbest-enerji ilkesinin matematiksel biçimselleştirilmesi yoluyla bilinir ve incelenir; bu da bilinç kavramına yol açan süreçlerin nesnel analizine olanak tanır.",
+    "constituents_and_structure": "Öz-örgütlenen sistemlerdeki dinamik denge ve çekicilere dayanarak işleyen içsel üretici modeller (öngörücü işleme hiyerarşisi)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (evrilmiş bir mekanizma olarak), Algı, Eylem, Çıkarım, Hayatta Kalma.",
+    "distinctive_mechanism_or_principle": "Serbest-Enerji İlkesi (FEP); tüm öz-örgütlenen sistemlerin serbest enerjiyi (ya da 'şaşkınlığı') en aza indirmesi gerektiğini, etkin çıkarım yoluyla eylem ve algıyı yönlendirdiğini belirtir.",
+    "dynamics_of_emergence": "Dinamik süreç. Bilinç, öz-kanıtlama (sistemlerin çekiciler yoluyla kararlılığa ulaşma süreci) 'zamansal kalınlık' ya da 'karşı-olgusal derinlik' kazandığında ve gelecekteki eylemler hakkında çıkarımlara olanak tanıdığında ortaya çıkar.",
+    "location_and_distribution": "Fiziksel beyin sisteminde yerelleşmiştir; kortikal yanıtlar, beynin serbest enerjiyi en aza indirme girişimi olarak görülür.",
+    "causation_and_functional_role": "Bilinç, senaryoları benzetimlemek, serbest enerjiyi izlemek ve en aza indirmek için evrilmiş mekanizma olarak uyarlanır ve işlevsel bir rol üstlenir; böylece hayatta kalmayı (homeostaz) destekler ve dünyada yol alır.",
+    "integration_or_binding": "Bütünleşme, dış dünyayı öngören ve küresel şaşkınlığı/öngörü hatasını en aza indiren tek bir içsel beliren modelin inşasında örtüktür.",
+    "information_flow_or_representation": "Enformasyon işleme öngörü etrafında yapılandırılır; içsel modeller (algısal beklentiler) duyusal girdiyle karşılaştırılır ve öğrenme beynin serbest enerjisini en aza indirmeye dayanır.",
+    "evolutionary_account": "Bilinç, öngörü hatasını en aza indirme ve bedensel fizyolojiyi düzenleme (hayatta kalma) yönündeki temel biyolojik zorunluluktan doğan, evrilmiş bir mekanizmadır.",
+    "core_claims_and_evidence": [
+      "Bilinç, eylem ve algı için serbest-enerji ilkesinin doğal sonucudur (etkin çıkarım).",
+      "Şaşkınlığı en aza indirmek can alıcıdır; çünkü bunu yapmamak sistemin varlığını tehdit eder.",
+      "Bilinç, kişinin geleceği hakkında, duyumların nasıl üretildiğine dair içsel bir modele dayanan çıkarımdır.",
+      "Kuramın metafiziksel damgası, zihin-madde diyalektiğini ortadan kaldırmayı amaçlayan Markovcu monizmdir."
+    ],
+    "basis_of_belief_or_evidence_type": "Hesaplamalı, Matematiksel, Kuramsal Sinirbilim/Fizik."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Fiziksel sistemlerin temsili kapasitelerini biçimselleştirmeye dayanması yoluyla sınanabilir modellerle (örn. nörobiyoloji ve psikolojide) kavramsal ve ampirik olarak bağlantılıdır.",
+    "known_empirical_interventions_or_tests": "FEP ilkeleri, değişmiş durumlara (örn. psikedelikler altında Entropik Beyin Hipotezi) ve ilgili algı ve biliş kuramlarına ilişkin ampirik çalışmalarda kullanılan modellerin temelini oluşturur.",
+    "criticisms_and_tensions": "Son derece indirgeyici olduğu ve fenomenal deneyimin birinci şahıs gerçekliğiyle (Zor Problem) bağdaştırılmasının güç olduğu için eleştirilir; bilinci yalnızca matematiksel bir süreç ya da 'doğal sonuç' olarak görür. Friston, bilincin bir 'şey' olduğu felsefi öncülüyle uğraşmayı güç bulur.",
+    "open_questions_and_limitations": "Kuram, doğal bir çıkarım en aza indirme sürecinin, bilinci bir 'şey' olarak tanımlamadan, öznel deneyimin var olduğu *kanısını* ya da *yanılsamasını* nasıl doğurduğunu açıklama güçlüğüyle karşı karşıyadır.",
+    "ontological_coherence": "Yüksek. Kuram, zihinsel süreçleri ve fiziksel maddeyi birleşik, betimsel bir çerçevede bütünleştirmek için Markovcu Monizmi kullanarak içsel olarak tutarlıdır."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Evet",
+      "rationale": "Güçlü bir materyalist kuram olarak, eğer bilinç tümüyle çıkarım ve temsil en aza indirme hesaplamalı süreçleriyle açıklanıyorsa, bu süreçleri yürütebilen biyolojik-olmayan sistemler ilkece eninde sonunda bilince ulaşmalıdır."
+    },
+    "survival_beyond_death": {
+      "stance": "Hayır",
+      "rationale": "Bilinç, biyolojik beynin işlevsel dinamiklerine ve fiziksel dayanağına doğrudan bağlı, beliren doğal bir süreçtir; dolayısıyla bedensel çürümeden sonra varlığını sürdüremez."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yalnızca hümanist",
+      "rationale": "Bilinçli sürecin temel zorunluluğu hayatta kalmadır (şaşkınlığı en aza indirmek/homeostazı sürdürmek). Kuram, genel materyalist perspektiflerle uyumlu olarak, nihai kozmik bir anlam ya da amacı temellendirmez."
+    },
+    "virtual_immortality": {
+      "stance": "Evet",
+      "rationale": "Bilinç, beliren, biçimselleştirilmiş bir çıkarım eniyileme süreci olarak anlaşıldığından, beynin enformasyon işleme ve temsili dinamiklerinin biyolojik-olmayan bir ortamda kusursuz biçimde çoğaltılması zihinsel benliğin sürmesi için yeterli olmalıdır."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Clark's Predictive Processing",
+        "relationship": "Etki"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "Uzantı"
+      },
+      {
+        "name": "Carhart-Harris’s Entropic Brain Hypothesis",
+        "relationship": "Uzantı"
+      },
+      {
+        "name": "Projective Consciousness Model",
+        "relationship": "Uzantı"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A theory of cortical responses, K. Friston",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Active interference: a process theory, K. Friston et al",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Mathematics of Mind-Time, K. Friston",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Sentience and the origins of consciousness: from cartesian duality to markovian monism, K. Friston, W. Wiese, J.A. Hobson",
+        "year": 2020
+      }
+    ]
+  }
+}
