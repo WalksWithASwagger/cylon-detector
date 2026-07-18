@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "A Teoria da “Máquina-Besta” de Seth",
+    "summary": "Esta teoria sustenta que as experiências conscientes, incluindo as perceções do mundo e do eu, são formas de predição percetiva baseada no cérebro, metaforicamente designadas por 'alucinações controladas'. Enraíza o mecanismo da consciência no imperativo biológico fundamental de regular a fisiologia corporal para se manter vivo.",
+    "associated_thinkers": ["Anil Seth"],
+    "category": "Teorias do Materialismo",
+    "subcategory": "Homeostático e Afetivo",
+    "core_identity_tagline": "‘A Consciência como Alucinação Controlada Baseada na Predição’",
+    "classification_tags": [
+      "neurobiology",
+      "predictive processing",
+      "homeostatic",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como formas de predição percetiva baseada no cérebro, em que as propriedades fenomenológicas são explicadas pelos aspetos computacionais das diferentes formas de predição.",
+    "ontological_status": "Fisicalismo / Materialismo (justificado pela sua classificação nas Teorias do Materialismo e pela sua dependência de explicações biológicas e computacionais).",
+    "mind_body_relationship": "As experiências conscientes são inteiramente baseadas no cérebro e fisicamente instanciadas. O modelo sustenta uma correlação forte ou uma teoria da identidade, em que as propriedades conscientes surgem da arquitetura fisiológica e computacional orientada para a regulação corporal.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência Fraca (justificação: a teoria é uma explicação materialista que propõe que a experiência subjetiva surge de processos cerebrais computacionais complexos. Presume-se que estes processos sejam, em princípio, explicáveis por leis físicas subjacentes, o que é característico da emergência fraca.)",
+    "subjectivity_and_intentionality": "A subjetividade surge porque a perceção é determinada pelo conteúdo das predições descendentes, resultando numa experiência fenomenal que é uma 'fantasia neuronal de dentro para fora' condicionada pela realidade. A teoria dá conta da experiência do eu ao explicar as diferenças entre as experiências do mundo e as experiências do eu.",
+    "qualia_account": "As propriedades fenomenológicas das experiências conscientes são explicadas pelos aspetos computacionais das diferentes formas de predição percetiva utilizadas pelo cérebro.",
+    "ontological_commitments": "Cérebros biológicos, atividade neural, maquinaria de processamento preditivo e mecanismos subjacentes de regulação fisiológica corporal.",
+    "epistemic_access": "Acessível através de métodos neurocientíficos e computacionais, em particular os que investigam modelos de processamento preditivo da função cerebral.",
+    "constituents_and_structure": "Uma estrutura computacional constituída por predições descendentes que interagem com sinais sensoriais ascendentes, enraizada nas tentativas do sistema biológico de regular o seu estado interno."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenomenal, experiência do eu, perceção.",
+    "distinctive_mechanism_or_principle": "A consciência é explicada através do processamento preditivo, no qual o cérebro gera uma constante 'melhor conjetura' (predição) das causas das suas entradas sensoriais. Este mecanismo está intrinsecamente ligado à regulação da fisiologia corporal.",
+    "dynamics_of_emergence": "A consciência é um processo dinâmico em que a experiência surge da predição contínua; é semelhante a um 'sonho acordado' constantemente refreado pela realidade.",
+    "location_and_distribution": "Localizada no cérebro biológico, ligada à maquinaria preditiva que regula a fisiologia corporal.",
+    "causation_and_functional_role": "A consciência tem um papel funcional ligado à sobrevivência. Facilita a regulação da fisiologia corporal e permite ao organismo modelar, prever e simular as causas das entradas sensoriais.",
+    "integration_or_binding": "A integração é alcançada através da formação de um mundo percetivo coerente — a 'alucinação controlada' —, que unifica sinais sensoriais ambíguos por meio de predições descendentes.",
+    "information_flow_or_representation": "A perceção consciente é determinada pelo conteúdo das predições descendentes, e não pelos próprios sinais sensoriais ascendentes. Os sinais sensoriais são interpretados como representações de causas externas.",
+    "evolutionary_account": "A consciência surgiu através da evolução filogenética, impulsionada pelo imperativo biológico fundamental de regular a fisiologia corporal e assegurar a sobrevivência (manter-se vivo).",
+    "core_claims_and_evidence": [
+      "As experiências conscientes são formas de predição baseada no cérebro ('alucinações controladas').",
+      "As propriedades fenomenológicas são explicadas pelos aspetos computacionais da predição percetiva.",
+      "A maquinaria preditiva subjacente à consciência surgiu através do imperativo biológico de regular a fisiologia corporal."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírico, Neurobiológico, Computacional"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável (inferido, uma vez que a teoria assenta em conceitos dos domínios neurobiológico e computacional, que privilegiam o desenvolvimento, o teste e a comparação de teorias).",
+    "known_empirical_interventions_or_tests": "Testes que envolvem explicações de processamento preditivo da perceção, cognição e ação cerebrais (justificação: não são fornecidos testes específicos nomeados, mas a teoria posiciona-se explicitamente dentro do enquadramento do processamento preditivo).",
+    "criticisms_and_tensions": "Não explicitamente detalhadas na fonte, mas sujeitas, em geral, à tensão inerente às explicações deflacionárias da consciência.",
+    "open_questions_and_limitations": "Como muitas teorias da consciência, enfrenta o desafio geral de que, à medida que os dados empíricos se acumulam, as teorias parecem proliferar em vez de serem definitivamente excluídas.",
+    "ontological_coherence": "Altamente coerente dentro de um enquadramento fisicalista e naturalista biológico, oferecendo uma explicação sistemática da consciência derivada da função biológica e da computação."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Provável",
+      "rationale": "Enquanto teoria materialista centrada em mecanismos computacionais e de processamento de informação (a predição percetiva), os sistemas de IA que instanciem mecanismos complexos semelhantes deveriam ser capazes de alcançar a consciência."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência é um produto de cérebros biológicos e de uma maquinaria preditiva complexa e fisicamente instanciada. A morte do cérebro conduz à inexistência irrevogável e permanente da consciência pessoal."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanístico",
+      "rationale": "Categorizada como Teoria do Materialismo, não implica qualquer sentido ou propósito últimos ou cósmicos, embora sustente o sentido e o valor criados pelos humanos a partir da agência e da experiência individuais."
+    },
+    "virtual_immortality": {
+      "stance": "Sim",
+      "rationale": "Se a consciência é inteiramente explicável pelos processos computacionais do cérebro, então, em princípio, o eu mental na primeira pessoa poderia ser duplicado e instanciado num substrato não biológico, viabilizando a imortalidade virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Sobreposição"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Compatível"
+      },
+      {
+        "name": "T. Clark’s Content Hypothesis",
+        "relationship": "Compatível"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Compatível"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Being You: A New Science of Consciousness, Anil Seth",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Theories of consciousness, Anil Seth and Tim Bayne",
+        "year": 2022
+      }
+    ]
+  }
+}

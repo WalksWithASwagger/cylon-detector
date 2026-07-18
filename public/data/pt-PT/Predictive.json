@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Teorias Preditivas (Descendentes)",
+    "summary": "Esta perspetiva encara o cérebro como um motor de predição dinâmico, no qual a perceção consciente é gerada internamente pela combinação de expectativas descendentes (predições) com dados sensoriais ascendentes (erros de predição). A consciência surge como um mecanismo funcional que facilita a predição rigorosa, a consciência (no sentido atencional) e o comportamento reativo necessário à sobrevivência.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "Richard Gregory",
+      "Karl Friston",
+      "Rudolfo Llinas"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Homeostático e Afetivo",
+    "core_identity_tagline": "A Consciência como Síntese Preditiva Ativa",
+    "classification_tags": [
+      "prediction",
+      "computation",
+      "functionalism",
+      "top-down",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como a síntese complexa da expectativa preditiva e do estímulo sensorial, decorrendo de uma sinalização descendente que transmite predições acerca das causas do estímulo sensorial.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "A mente (perceção consciente) é uma função ou processo inteiramente radicado em mecanismos físicos do cérebro (o processamento preditivo), mediando a experiência do corpo e do mundo.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca",
+    "subjectivity_and_intentionality": "A subjetividade decorre da síntese interna de predição e sensação, viabilizando a consciência atencional e a reatividade. A intencionalidade (direcionalidade do pensamento) é inerente ao enfoque do sistema em antecipar resultados e minimizar erros de predição.",
+    "qualia_account": "A teoria centra-se sobretudo na função e no processo da perceção via predição. Os qualia estão implicitamente relacionados com os modelos ou representações internas gerados pelo cérebro preditivo, embora o «carácter» subjetivo continue a ser um desafio para a visão puramente mecanicista.",
+    "ontological_commitments": "Cérebros biológicos, modelos preditivos, sinais sensoriais, erros de expectativa e vias de sinalização descendente/ascendente.",
+    "epistemic_access": "Acedido mediante o desenvolvimento de uma compreensão sistemática da predição enquanto princípio operacional central do cérebro, analisando como os dados sensoriais são integrados com crenças preexistentes («priores»).",
+    "constituents_and_structure": "O sistema consciente está estruturado como um motor de predição dinâmico que utiliza sinais descendentes (predições) e sinais ascendentes (erros de predição)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (perceção), cognição, ação, consciência (sentido atencional), reatividade",
+    "distinctive_mechanism_or_principle": "O princípio é a minimização contínua dos erros de predição (uma aproximação da inferência bayesiana), estando a consciência associada à sinalização preditiva ativa e descendente no cérebro.",
+    "dynamics_of_emergence": "A consciência emerge dinamicamente, facilitando a capacidade biológica crucial de prever e responder continuamente ao ambiente.",
+    "location_and_distribution": "Baseada no cérebro, distribuída por redes neuronais envolvidas na sinalização descendente e nas vias recorrentes, alertando contra uma visão neurocêntrica puramente «confinada ao crânio».",
+    "causation_and_functional_role": "A consciência facilita o comportamento adaptativo e a seleção de ações ótimas ao permitir uma comparação rápida entre os acontecimentos do mundo real e as simulações contrafactuais. A sua função abrangente é a sobrevivência, pela minimização da «surpresa» ambiental.",
+    "integration_or_binding": "A integração é alcançada através da síntese contínua das expectativas preditivas e da informação sensorial recebida, resultando numa perceção coerente.",
+    "information_flow_or_representation": "A informação flui através de sinais descendentes que transmitem predições e de sinais ascendentes que transmitem erros de predição, aproximando a inferência bayesiana.",
+    "evolutionary_account": "Evoluiu a partir do impulso biológico fundamental da sobrevivência, viabilizando capacidades preditivas cruciais para o movimento ativo e para navegar eficazmente em ambientes complexos.",
+    "core_claims_and_evidence": [
+      "Os estados mentais conscientes estão associados a uma sinalização descendente que transmite predições acerca das causas sensoriais",
+      "O cérebro funciona como um motor de predição poderoso e dinâmico",
+      "A perceção é uma síntese complexa da expectativa preditiva e do estímulo sensorial",
+      "A consciência surgiu para facilitar capacidades preditivas essenciais à sobrevivência"
+    ],
+    "basis_of_belief_or_evidence_type": "Computacional, Neurobiológica, Evolutiva"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável (dependente de modelos mecanicistas específicos, p. ex., relacionados com o Princípio da Energia Livre).",
+    "known_empirical_interventions_or_tests": "Os métodos implícitos envolvem a medição de respostas neurológicas relacionadas com a codificação preditiva e o teste da dinâmica dos erros de expectativa (p. ex., estudos relacionados com a Inferência Ativa).",
+    "criticisms_and_tensions": "A principal crítica, comum às teorias funcionais, é a incapacidade de explicar o «porquê» subjetivo — por que razão o processo de predição e síntese haveria de resultar em experiência sentida (qualia) em vez de um mero produto funcional.",
+    "open_questions_and_limitations": "A limitação central é colmatar a lacuna entre a descrição funcional/computacional da predição e a realização fenomenal da consciência. O modelo centra-se fortemente no «como» o cérebro funciona, mais do que no «que» a consciência fundamentalmente é.",
+    "ontological_coherence": "Altamente consistente com as ontologias materialista, funcionalista e emergentista."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Provável",
+      "rationale": "Se a consciência for entendida sobretudo como a função computacional de gerar e testar predições para sintetizar a perceção, então os sistemas de IA suficientemente complexos que desempenhem estas funções deveriam tornar-se conscientes."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A teoria ancora a consciência nos processos biológicos evoluídos do cérebro. A consciência está ligada ao substrato físico e cessaria com a morte biológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanista/Evolutivo",
+      "rationale": "A consciência evoluiu para resolver o problema biológico fundamental da sobrevivência e da adaptação, conferindo propósito na maximização da aptidão, mas não implica um sentido cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Sim",
+      "rationale": "A natureza computacional e funcional da teoria sugere que, em princípio, a organização preditiva que constitui o eu poderia ser digitalizada e recriada num substrato não biológico, permitindo uma continuação funcional."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Seth’s “Beast Machine” Theory",
+        "relationship": "Extensão"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "Sobreposição"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Machine: How Our Minds Predict and Shape Reality, A. Clark",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Brain from inside Out, G. Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A Predictive Processing perspective on the mind-body problem, R.L. Kuhn",
+        "year": 2024
+      }
+    ]
+  }
+}

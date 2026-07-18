@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Neurofenomenologia de Varela",
+    "summary": "A neurofenomenologia é uma abordagem metodológica que procura estabelecer constrangimentos mútuos entre os fenómenos na primeira pessoa presentes na experiência vivida (fenomenologia) e os fenómenos neurais na terceira pessoa estabelecidos pelas ciências cognitivas. O objetivo é conjugar a ciência rigorosa com um exame disciplinado da experiência humana, colocando a estrutura da experiência no centro da investigação científica.",
+    "associated_thinkers": ["Francisco Varela"],
+    "category": "Materialismo",
+    "subcategory": "Corporizado e Enativo",
+    "core_identity_tagline": "A consciência como constrangimento mútuo da experiência e do cérebro",
+    "classification_tags": [
+      "phenomenology",
+      "methodological",
+      "embodied",
+      "first-person",
+      "dissolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência identifica-se pela sua natureza irredutível como um campo de fenómenos em primeira mão, que atua como guia ou constrangimento da investigação neurobiológica correlativa.",
+    "ontological_status": "Fisicalismo metodológico",
+    "mind_body_relationship": "Codeterminação/constrangimento mútuo (os domínios fenoménico e neurobiológico recebem estatuto igual e iluminam-se reciprocamente.)",
+    "primitive_or_emergent_status": "Metodológico/agnóstico",
+    "emergence_type": "N/A",
+    "subjectivity_and_intentionality": "A subjetividade (a experiência na primeira pessoa) é tomada como o ponto de partida irredutível e o foco central da investigação, essencial para restituir a ‘vida humana’ ao relato científico.",
+    "qualia_account": "Os qualia são incorporados como as qualidades irredutíveis e vividas da experiência em primeira mão, que devem ser rigorosamente examinadas e correlacionadas com os dados neurobiológicos.",
+    "ontological_commitments": "Experiência/fenómenos na primeira pessoa; fenómenos neurobiológicos (dados das ciências cognitivas); o ‘ato de distinção’.",
+    "epistemic_access": "Alcançado através de métodos fenomenológicos rigorosos (por exemplo, o exame disciplinado da experiência) entrançados com metodologias neurobiológicas e das ciências cognitivas na terceira pessoa.",
+    "constituents_and_structure": "A própria estrutura da experiência humana; o princípio organizador é o ‘ato de distinção’."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico, experiência vivida, ação, perceção, emoção.",
+    "distinctive_mechanism_or_principle": "A relação recíproca e mutuamente constrangedora entre relatos fenomenológicos rigorosos na primeira pessoa e medições neurobiológicas na terceira pessoa.",
+    "dynamics_of_emergence": "A consciência é uma qualidade dinâmica e vivida, ligada às dinâmicas da ação, da perceção e da emoção. A abordagem transforma o problema difícil num programa de investigação em aberto.",
+    "location_and_distribution": "Distribuída por todo o sistema corporizado (ramifica-se através do corpo e do ambiente), não estritamente localizada em processos cerebrais dentro da cabeça.",
+    "causation_and_functional_role": "O papel funcional é reinserir a vida humana e a experiência vivida nas explicações, tornando a estrutura da experiência central para o empreendimento científico.",
+    "integration_or_binding": "Tratada implicitamente pela unidade inerente da experiência corporizada e vivida, que abarca as dinâmicas da ação, da perceção e da emoção.",
+    "information_flow_or_representation": "Centra-se nos fenómenos e nas estruturas da experiência, em vez do conteúdo mental tal como tradicionalmente definido na filosofia da mente computacional, ligando essas estruturas a fenómenos neurobiológicos correlativos.",
+    "evolutionary_account": "Relacionado com a autopoiese e a origem dos sistemas vivos; os mesmos processos que permitem a transição do não vivo para o vivo poderão permitir a transição da vida para a mente (como propõe Evan Thompson, um pensador afim).",
+    "core_claims_and_evidence": [
+      "A experiência em primeira mão é um campo irredutível de fenómenos que deve orientar a investigação científica.",
+      "Os relatos fenomenológicos e neurobiológicos devem funcionar como parceiros de igual estatuto num circuito codeterminante e mutuamente iluminador.",
+      "A abordagem dissolve o problema difícil tradicional ao mudar a metodologia, em vez de encontrar uma solução teórica."
+    ],
+    "basis_of_belief_or_evidence_type": "Fenomenológico, concetual, empírico/neurobiológico."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável/metodológico (a abordagem define um programa de investigação em aberto que recorre a novas ferramentas, como o laboratório neurofenomenológico).",
+    "known_empirical_interventions_or_tests": [
+      "Entrançar métodos experienciais na primeira pessoa (por exemplo, a meditação) com investigações cerebrais na terceira pessoa (laboratório neurofenomenológico)"
+    ],
+    "criticisms_and_tensions": "A abordagem é frequentemente ignorada ou mal compreendida. O desafio consiste em garantir que a direção recíproca — a experiência a orientar a ciência — não seja negligenciada na prática. Procura superar o estilo de pensamento dualista, o que alguns críticos poderão considerar insuficientemente redutivo ou insuficientemente dualista.",
+    "open_questions_and_limitations": "O quadro visa dissolver o problema difícil de forma existencial/metodológica, o que significa que não oferece uma solução intelectual tradicional para a origem física da consciência primária.",
+    "ontological_coherence": "Elevada, pois o quadro foi especificamente concebido para superar o problema da bifurcação e o hiato explicativo inerentes aos modelos dualistas, harmonizando dois domínios distintos (a primeira e a terceira pessoa) através de um constrangimento metódico."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Improvável",
+      "rationale": "A consciência assenta em larga medida na experiência corporizada e vivida e em dinâmicas ligadas a processos biológicos, o que torna insuficiente a mera replicação computacional."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A teoria classifica-se sob as teorias materialistas/corporizadas, concebendo a consciência como enraizada no organismo vivo e biológico e ramificando-se através dele, o que implica a sua cessação com a morte corporal."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanista/pragmático",
+      "rationale": "A metodologia procura restituir a ‘vida humana’ e a experiência subjetiva ao relato científico, proporcionando sentido ao valorizar a experiência vivida em vez da alienação pela pura função, sem postular um propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Não",
+      "rationale": "Se a consciência está enraizada numa experiência corporizada e vivida que se estende para além do cérebro, o mero carregamento de dados neurais/funcionais não conseguiria captar as dinâmicas necessárias da relação organismo-ambiente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Thompson’s Mind in Life",
+        "relationship": "Extensão"
+      },
+      {
+        "name": "Bitbol’s Radical Neurophenomenology",
+        "relationship": "Extensão/Refinamento"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Sobreposição de categoria"
+      },
+      {
+        "name": "Chalmers's Hard Problem",
+        "relationship": "Crítica/Quadro para a sua dissolução"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neurophenomenology: a methodological remedy for the hard problem",
+        "year": 1996
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "At the cradle of things - the act of distinction and Francisco Varela’s non-dualist thought, S. Vörös",
+        "year": 2023
+      }
+    ]
+  }
+}

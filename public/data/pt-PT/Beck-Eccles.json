@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "Os Processos Quânticos na Sinapse de Beck-Eccles",
+    "summary": "Esta teoria neurobiológica quântica pioneira postula que a ação consciente, ou intenção mental, influencia os processos físicos do cérebro atuando como um gatilho quântico. Concretamente, a intenção mental regula a emissão de moléculas transmissoras nos neurónios pré-sinápticos através da redução do estado quântico na sinapse.",
+    "associated_thinkers": [
+      "Sir John Eccles",
+      "Friedrich Beck"
+    ],
+    "category": "Teorias Quânticas",
+    "subcategory": "Mecanismo Neurobiológico Quântico",
+    "core_identity_tagline": "A consciência como gatilho quântico na sinapse",
+    "classification_tags": [
+      "quantum",
+      "neurobiology",
+      "synapse",
+      "volition",
+      "interactionist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência está essencialmente relacionada com o processo físico de redução do estado quântico (ou seleção de amplitudes) que ocorre durante a transferência de informação nos neurónios pré-sinápticos.",
+    "ontological_status": "Interacionismo dualista (Justificação: O mecanismo descreve a ação/vontade mental não física a influenciar diretamente processos físicos, característica do interacionismo.)",
+    "mind_body_relationship": "A intenção mental (vontade) torna-se neuronalmente eficaz ao aumentar momentaneamente a probabilidade de exocitose (emissão de moléculas transmissoras) em áreas corticais específicas, ligando a ação consciente a gatilhos quânticos.",
+    "primitive_or_emergent_status": "Emergente (Justificação: A consciência surge especificamente através de interações quânticas complexas localizadas na estrutura sináptica, em vez de ser fundamental a toda a realidade.)",
+    "emergence_type": "Emergência forte (gatilho quântico) (Justificação: A introdução de uma lógica quântica e da imprevisibilidade permite que poderes mentais não físicos afetem estados cerebrais físicos, implicando a não redutibilidade à física clássica.)",
+    "subjectivity_and_intentionality": "A subjetividade e a intencionalidade (intenção/vontade mental) são os poderes mentais específicos que influenciam ativamente as probabilidades físicas ao nível sináptico.",
+    "qualia_account": "Não é explicitamente detalhado. (Justificação: A teoria concentra-se sobretudo em estabelecer um mecanismo causal para a influência mental (vontade/intenção), e não na natureza do conteúdo fenoménico.)",
+    "ontological_commitments": "Características da mecânica quântica; estruturas sinápticas (neurónios pré-sinápticos, membrana sináptica); intenção/vontade mental; redes neuronais corticais.",
+    "epistemic_access": "Através da modelação física de características concretas da mecânica quântica aplicadas à neurobiologia, e da relação dos resultados com ações conscientes observadas.",
+    "constituents_and_structure": "Efeitos quânticos (redução de estado) aplicados aos processos de transferência de eletrões na membrana sináptica dos neurónios do córtex cerebral, regulando os comutadores sinápticos."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Agência, livre-arbítrio, vontade/intenção, fenoménica (implícita)",
+    "distinctive_mechanism_or_principle": "Redução do estado quântico/seleção de amplitudes, proporcionando uma «porta para uma nova lógica» (lógica quântica) que permite à ação consciente regular os processos físicos da exocitose.",
+    "dynamics_of_emergence": "A ação consciente é um processo dinâmico que forma padrões temporais no córtex cerebral, com o gatilho quântico a possibilitar a regulação eficaz de inúmeros comutadores sinápticos.",
+    "location_and_distribution": "Localizada no córtex cerebral, especificamente nas sinapses entre neurónios (impulsos nervosos pré-sinápticos, processos de transferência de eletrões na membrana sináptica).",
+    "causation_and_functional_role": "A consciência tem um papel causal direto, permitindo que os poderes mentais (intenção) afetem os estados cerebrais ao induzir um indeterminismo fundamental no colapso do estado quântico.",
+    "integration_or_binding": "Não é explicitamente detalhado. (Justificação: O foco recai sobre o mecanismo da influência volitiva, e não sobre a ligação dos inputs sensoriais numa experiência unificada.)",
+    "information_flow_or_representation": "A transferência de informação ocorre através de características da mecânica quântica nos neurónios pré-sinápticos, introduzindo uma lógica quântica caracterizada pela imprevisibilidade dos eventos singulares.",
+    "evolutionary_account": "Não é abordado nas fontes fornecidas. (Justificação: O foco incide estritamente sobre o substrato físico/quântico necessário à influência consciente em sistemas biológicos existentes.)",
+    "core_claims_and_evidence": [
+      "A ação consciente está essencialmente relacionada com a redução do estado quântico no cérebro.",
+      "A intenção mental torna-se neuronalmente eficaz ao aumentar momentaneamente a probabilidade de exocitose em áreas corticais selecionadas.",
+      "A lógica quântica abre a oportunidade para os poderes mentais afetarem os estados cerebrais."
+    ],
+    "basis_of_belief_or_evidence_type": "Teórica, modelo da mecânica quântica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente testável (A teoria aplica características concretas da mecânica quântica para descrever processos biológicos, sugerindo, em princípio, vias de verificação).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "A teoria enfrenta o ceticismo geral comum às teorias quânticas da consciência, uma vez que a maioria dos físicos e neurocientistas questiona a escala e a pertinência dos efeitos quânticos ao nível quente e macroscópico do cérebro.",
+    "open_questions_and_limitations": "O problema central de como eventos quânticos singulares na sinapse se traduzem em experiência consciente complexa e integrada, e o desafio persistente de reconciliar os fenómenos quânticos com a neurobiologia à macroescala.",
+    "ontological_coherence": "Coerente dentro de um quadro ontológico que confere eficácia causal a estados mentais não físicos (vontade) ao explorar o indeterminismo inerente presente na física quântica."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Se a consciência assenta em características quânticas específicas e não computacionais, inerentes às sinapses biológicas (processos de transferência de eletrões), então os sistemas artificiais teriam de replicar estes substratos quânticos precisos para se tornarem conscientes."
+    },
+    "survival_beyond_death": {
+      "stance": "Incerto",
+      "rationale": "A teoria estabelece uma ligação causal entre a intenção mental e a atividade cerebral. Contudo, não especifica se a entidade mental não física (vontade/intenção) que desencadeia estes processos quânticos persiste uma vez destruído o aparelho biológico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Sim",
+      "rationale": "Ao afirmar que a ação/vontade consciente afeta diretamente os processos físicos e que o livre-arbítrio é possibilitado pelo indeterminismo quântico, a teoria sustenta a eficácia causal e a relevância da vida mental intencional, implicando um propósito/valor intrínseco na ação."
+    },
+    "virtual_immortality": {
+      "stance": "Incerto",
+      "rationale": "A imortalidade virtual depende de saber se a estrutura geradora de consciência necessária (a redução do estado quântico nos mecanismos sinápticos) pode ser manipulada ou replicada por tecnologia avançada num meio não biológico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "Sobreposição"
+      },
+      {
+        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "relationship": "Sobreposição"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Quantum aspects of brain activity and the role of consciousness, Beck and Eccles",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Quantum processes in the brain: a scientific basis of consciousness, Beck and Eccles",
+        "year": 1998
+      }
+    ]
+  }
+}

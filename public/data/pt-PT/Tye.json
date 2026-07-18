@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Contingentismo de Tye",
+    "summary": "Esta teoria afirma que os estados conscientes fenoménicos são literalmente idênticos a estados físicos ou cerebrais específicos no nosso mundo real. Contudo, e de forma crucial, esta identidade é entendida como contingente, ou seja, não é metafisicamente necessária em todos os mundos possíveis. Esta alegação modal visa resolver o problema difícil ao aceitar que a concebibilidade dos zombies filosóficos (duplicados físicos inconscientes) é irrelevante para a verdade do fisicalismo no mundo real.",
+    "associated_thinkers": [
+      "Michael Tye",
+      "Herbert Feigl",
+      "Ullin Place",
+      "J.J.C. Smart"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Representacional",
+    "core_identity_tagline": "‘A consciência como identidade física contingente’",
+    "classification_tags": [
+      "physicalism",
+      "identity theory",
+      "representationalism",
+      "modal philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "O carácter fenoménico (Q) é identificado como uma e a mesma coisa que uma propriedade física (R), em que R pode incluir estados funcionais ou estados postulados pelo representacionalismo. Esta identidade vigora apenas de forma contingente no nosso mundo.",
+    "ontological_status": "Fisicalismo redutivo (entendido em sentido amplo, de modo a incluir o funcionalismo e o representacionalismo), embora Tye tenha posteriormente manifestado distanciamento em relação a um fisicalismo redutivo integral.",
+    "mind_body_relationship": "Teoria da identidade contingente. Os estados mentais (sensações) são literalmente idênticos a estados físicos/processos cerebrais, mas esta identidade é um facto contingente, e não uma necessidade em todos os mundos possíveis.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca",
+    "subjectivity_and_intentionality": "A subjetividade e o carácter fenoménico são reduzidos a, ou identificados com, o conteúdo representacional (representacionalismo de primeira ordem). O carácter fenoménico é fixado não só pelos estados atuais mas também pelos estados passados (‘a história importa de forma crucial para a fenomenologia’).",
+    "qualia_account": "O carácter qualitativo (Q) é idêntico a uma propriedade física (R). A capacidade de imaginar Q sem R (zombies) é reconhecida como inteligível, mas descartada como irrelevante, pois descreve apenas um mundo metafisicamente possível, e não o mundo real, resolvendo assim o hiato explicativo.",
+    "ontological_commitments": "Estados físicos de algum tipo, abrangendo estados neurofisiológicos, estados funcionais e conteúdos representacionais, que assentam em estados microfísicos.",
+    "epistemic_access": "A consciência é acedida através da experiência subjetiva (fenomenologia) e estudada através de análise filosófica e modal, que é usada para argumentar a favor da natureza contingente da sua realização física.",
+    "constituents_and_structure": "A consciência consiste em estados físicos (R) realizados no cérebro ou, de forma equivalente, em conteúdos representacionais, sendo a história do indivíduo crucial para determinar o carácter fenoménico num dado momento."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Estados fenoménicos (qualia), o problema difícil da consciência e a sua relação com os estados físicos.",
+    "distinctive_mechanism_or_principle": "O princípio de que os enunciados de identidade relativos à consciência (Q=R) podem ser contingentes, distinguindo o caso da consciência das típicas identidades científicas necessárias (como água=H2O), eliminando assim o enigma explicativo.",
+    "dynamics_of_emergence": "A consciência é um fenómeno físico no mundo real. Embora possa ter evoluído gradualmente (as posições evolutivas mais tardias de Tye), a dinâmica central é a própria relação de identidade contingente.",
+    "location_and_distribution": "Os estados físicos (R) com que a consciência é idêntica localizam-se no cérebro, incluindo estados neurofisiológicos, estados funcionais ou estados representacionais.",
+    "causation_and_functional_role": "Se o fisicalismo for verdadeiro, a consciência é física e, por conseguinte, a sua eficácia causal e as questões da emergência podem ser tratadas de forma satisfatória dentro do fecho causal do mundo físico.",
+    "integration_or_binding": "A teoria centra-se sobretudo na relação de identidade do carácter fenoménico. A integração é tratada implicitamente através dos mecanismos subjacentes dos estados físicos, funcionais ou representacionais, de forma consistente com um quadro reducionista.",
+    "information_flow_or_representation": "A teoria é compatível com o representacionalismo, concebendo as experiências de modo representacionalista e amplamente reducionista, em que o carácter fenoménico é idêntico ao conteúdo representacional.",
+    "evolutionary_account": "A consciência não estava ausente antes de um momento evolutivo específico, mas era fundacional (a protoconsciência sempre presente), ao passo que os diversos estados conscientes surgiram gradualmente, respondendo à ‘vagueza’ na avaliação evolutiva da consciência.",
+    "core_claims_and_evidence": [
+      "Os estados fenoménicos são contingentemente idênticos a estados físicos (Q=R) no mundo real.",
+      "O problema difícil dissolve-se ao perceber-se que a possibilidade concebível de Q sem R (zombie) remete apenas para um mundo metafisicamente possível, e não para o mundo real.",
+      "A posição apresenta a melhor defesa filosófica do fisicalismo redutivo."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, concetual"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativo/concetual. A alegação central assenta em argumentos filosóficos modais sobre identidade e necessidade, e não na falsificação ou verificação empírica da própria identidade.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "O princípio fundamental assenta em sustentar que a identidade dos estados conscientes é contingente, ao passo que outros enunciados de identidade científica são necessários, o que os críticos poderão contestar. O argumento reconhece a concebibilidade dos zombies filosóficos, negando ao mesmo tempo a sua relevância para o mundo real.",
+    "open_questions_and_limitations": "Tye acabou por manifestar dúvidas quanto a um fisicalismo redutivo integral, considerando que um elemento da consciência não pode ser captado por reduções de nível superior, o que o encaminhou para uma forma de panpsiquismo.",
+    "ontological_coherence": "Altamente coerente no quadro do fisicalismo ortodoxo a posteriori, fornecendo uma ferramenta filosófica para manter o fisicalismo face ao argumento do conhecimento."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Provável",
+      "rationale": "Se a consciência for contingentemente idêntica a estados físicos/funcionais/representacionais no nosso mundo, e se esses estados puderem ser instanciados em sistemas não biológicos, então a consciência da IA é, em princípio, possível."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência é contingente relativamente a, e idêntica a, processos cerebrais físicos no mundo real; a dissolução do cérebro implica o fim do eu consciente na primeira pessoa."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "Enquanto teoria enraizada no materialismo e no fisicalismo redutivo, não oferece fundamento para um sentido ou propósito cósmico último para além do que é criado por agentes humanos conscientes."
+    },
+    "virtual_immortality": {
+      "stance": "Sim",
+      "rationale": "Uma vez que a consciência fenoménica é identificada com estados físicos (R), duplicar R, por exemplo através do carregamento digital, carregaria com sucesso Q, tornando a imortalidade virtual, em princípio, alcançável."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Compatível"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Influência"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "Extensão/Desvio"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A New Solution to the Hard Problem of Consciousness, Michael Tye",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Representationalism and the Transparency of Experience, Michael Tye",
+        "year": 2002
+      }
+    ]
+  }
+}

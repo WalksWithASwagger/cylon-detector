@@ -1,0 +1,93 @@
+{
+  "id_and_class": {
+    "theory_title": "A Multiplicidade, Duração, Perceção e Memória de Bergson",
+    "summary": "Esta teoria não redutiva encara a consciência como uma realidade dinâmica e incessantemente temporal, caracterizada pela «duração» e pela «multiplicidade», e que é fundamentalmente memória. O cérebro não gera a consciência, mas atua como um filtro, limitando uma consciência avassaladora de modo a possibilitar a ação focada no mundo.",
+    "associated_thinkers": ["Henri Bergson"],
+    "category": "Estados Anómalos e Alterados",
+    "subcategory": "Multiplicidade, Duração, Perceção, Memória",
+    "core_identity_tagline": "A consciência como memória filtrada e duração pura",
+    "classification_tags": [
+      "duration",
+      "memory",
+      "dualism",
+      "filter_theory",
+      "non-reductive"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como «a memória tomada no seu todo» e uma «substância da realidade incessantemente dinâmica e inerentemente temporal», manifestando-se como um movimento contínuo entre a perceção pura (imagens) e a memória pura.",
+    "ontological_status": "Francamente dualista. Bergson afirma a realidade tanto da matéria como do espírito, postulando um meio-termo (perceção pura/imagens) entre o realismo e o idealismo.",
+    "mind_body_relationship": "Correlação interacionista/não redutiva. A relação é íntima, mas o papel do cérebro é estritamente de transmissão e filtragem; não gera a consciência/o espírito.",
+    "primitive_or_emergent_status": "Primitivo/Fundamental. A consciência é considerada uma substância existente («espírito») que o cérebro filtra, e não algo que emerge de processos físicos.",
+    "emergence_type": "Não aplicável. A consciência é encarada como uma substância fundamental/realidade dinâmica existente (espírito), e não como uma propriedade emergente da matéria.",
+    "subjectivity_and_intentionality": "A subjetividade radica na «duração», a multiplicidade qualitativa que constitui os dados imediatos da consciência. A intencionalidade exprime-se através da capacidade da consciência de antecipar o futuro pela memória e de possibilitar o «ato livre chamado escolha».",
+    "qualia_account": "O sentir qualitativo («o como é») é explicado pela «multiplicidade» e pela «duração» enquanto dados imediatos, heterogéneos e contínuos da consciência. A própria matéria é entendida como «apenas imagens», ligando a realidade fenoménica diretamente à matéria.",
+    "ontological_commitments": "Espírito (ou anima/mente/consciência humana); matéria (como imagens); perceção pura; memória pura; duração (enquanto tempo qualitativo).",
+    "epistemic_access": "Introspeção (a consciência como dado imediato da consciência) e argumento filosófico.",
+    "constituents_and_structure": "A estrutura da consciência caracteriza-se pela duração e pela multiplicidade, organizada como um movimento contínuo entre a perceção pura e a memória pura."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica, memória, agência (escolha), autoconsciência (implicitamente, uma vez que a consciência é memória pessoal).",
+    "distinctive_mechanism_or_principle": "O cérebro funciona como um filtro ou barreira que impede que uma consciência avassaladora e não filtrada chegue à consciência pessoal, permitindo assim o foco e a ação prática. A consciência opera com base na duração (tempo qualitativo).",
+    "dynamics_of_emergence": "A consciência é um fluxo dinâmico e temporal, fabricando ativamente o futuro através da escolha e produzindo o tempo através da memória. Define-se pela sucessão sem exterioridade recíproca.",
+    "location_and_distribution": "O cérebro (componente material) é a localização do mecanismo de filtragem e da transmissão sensorial/motora. A própria consciência («espírito») é vasta, agitando-se no exterior, ou é não local.",
+    "causation_and_functional_role": "A consciência possibilita um «ato livre chamado escolha» que fabrica o futuro e produz o tempo. A função do cérebro é transmitir as perceções à consciência e devolver ao corpo as ordens de ação.",
+    "integration_or_binding": "A integração é inerente ao facto de a consciência ser «a memória tomada no seu todo» e o movimento contínuo entre a perceção pura e a memória pura.",
+    "information_flow_or_representation": "A informação é processada através da perceção pura, na qual «as imagens são tudo o que sentimos». O cérebro transmite estas imagens dos órgãos à consciência.",
+    "evolutionary_account": "A função do cérebro como filtro é adaptativa, possibilitando uma ação prática e focada no mundo ao proteger a consciência pessoal de uma consciência vasta e estupefaciente. (Não é fornecida uma origem filogenética explícita a partir do não vivo, uma vez que a consciência é considerada fundamental.)",
+    "core_claims_and_evidence": [
+      "O cérebro é um filtro da consciência, e não o seu gerador, impedindo uma consciência avassaladora.",
+      "A consciência é fundamentalmente memória e duração, operando como sucessão sem exterioridade recíproca.",
+      "A matéria não difere em natureza da representação; a matéria é apenas imagens."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica, fenomenológica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativa/Conceptual. A teoria, radicada em distinções filosóficas entre duração e multiplicidade, é primordialmente não empírica e não mecanicista, por contraste com as teorias materialistas.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Bergson reconheceu as dificuldades teóricas tradicionais do dualismo. As suas conceções constituem um desafio às Teorias Materialistas. Os críticos de tais modelos de filtro/transmissão têm dificuldade em reconciliar a alegação da não geração com os vastos dados neurocientíficos que ligam o conteúdo da consciência à atividade cerebral.",
+    "open_questions_and_limitations": "O problema central continua a ser como o cérebro/corpo (matéria) e a mente/espírito (consciência) interagem, e como funciona precisamente o mecanismo de filtro.",
+    "ontological_coherence": "Altamente coerente, fundada numa análise filosófica rigorosa concebida para superar o impasse conceptual do paralelismo metafísico ao postular a duração como propriedade ontológica central da mente."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Não",
+      "rationale": "A consciência é definida como espírito/memória não computacional associada à duração, que é inerentemente não mecanicista. É improvável que os sistemas artificiais construídos sobre computação captem esta substância temporal fundamental.",
+      "justification": "Inferido a partir da natureza estritamente não materialista e não mecanicista dos conceitos centrais."
+    },
+    "survival_beyond_death": {
+      "stance": "Possível",
+      "rationale": "Uma vez que o cérebro é um filtro, e não um gerador, da consciência (espírito/memória), isto sugere que a consciência é independente do corpo físico e pode persistir após a morte corporal.",
+      "justification": "A teoria de Bergson «poderia até admitir algum tipo de sobrevivência após a morte»."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cósmico/Existencial",
+      "rationale": "A consciência é definida como uma substância dinâmica e fundamental («espírito») capaz do «ato livre chamado escolha», o que implica um propósito intrínseco para além de constrangimentos puramente humanistas ou biológicos.",
+      "justification": "Inferido a partir da sua natureza «francamente dualista» e da sua associação ao espírito e à escolha."
+    },
+    "virtual_immortality": {
+      "stance": "Não",
+      "rationale": "A imortalidade virtual assenta na transferência de estados computacionais ou físicos. Uma vez que a consciência é espírito/memória não redutível (duração pura), apenas filtrada pelo cérebro físico, duplicar os estados neuronais não duplicaria a entidade consciente.",
+      "justification": "Inferido com base na definição não materialista e não funcionalista da consciência."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "William James's filter model", "relationship": "Compatível" },
+      { "name": "Substance Dualism", "relationship": "Identidade/Sobreposição" },
+      { "name": "Process Theory", "relationship": "Influência" },
+      { "name": "Neurophenomenology (Varela)", "relationship": "Influência" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
+        "year": 1889
+      },
+      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Life and Consciousness (Mind-Energy)",
+        "year": 1920
+      }
+    ]
+  }
+}

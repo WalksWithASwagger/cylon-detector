@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "Os potenciais de campo locais e as ondas eletromagnéticas de Ambron",
+    "summary": "Esta hipótese sugere que a consciência, em particular a experiência fenoménica como a dor, surge quando a informação neurofisiológica (potenciais de ação) é transformada em ondas eletromagnéticas (EM). A integração da informação através dessas ondas EM é proposta como o mecanismo que resolve o problema da ligação, produzindo uma experiência consciente unificada.",
+    "associated_thinkers": [
+      "Richard Ambron"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Campo Eletromagnético",
+    "core_identity_tagline": "A consciência como ondas eletromagnéticas integradas",
+    "classification_tags": [
+      "electromagnetic field",
+      "neurobiology",
+      "pain",
+      "binding",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como ondas eletromagnéticas (EM) integradas, geradas por processos neuronais, que combinam os inputs sensoriais numa experiência unificada.",
+    "ontological_status": "Fisicalismo/Materialismo (A teoria é classificada nas Teorias Materialistas, afirmando que a consciência é inteiramente física.)",
+    "mind_body_relationship": "A mente (experiência consciente) deriva de, ou é idêntica a, os campos/ondas eletromagnéticos físicos gerados pela atividade neuronal complexa (potenciais de campo locais).",
+    "primitive_or_emergent_status": "Emergente (A consciência surge da organização e transformação complexas da informação neuronal em ondas EM.)",
+    "emergence_type": "Emergência fraca (Enquanto teoria materialista/neurobiológica específica, a consciência é, em princípio, explicável e previsível unicamente em termos dos campos físicos e das dinâmicas subjacentes.)",
+    "subjectivity_and_intentionality": "Não é explicitamente detalhado nas fontes. Infere-se que a subjetividade e a intencionalidade surgem das propriedades organizacionais e do conteúdo codificado na estrutura da onda EM maximamente integrada.",
+    "qualia_account": "Os qualia (por exemplo, a experiência específica da dor) são explicados pela informação integrada contida nas ondas eletromagnéticas resultantes.",
+    "ontological_commitments": "Potenciais de ação, transmissores neuroquímicos, potenciais de campo locais e as ondas eletromagnéticas propagadas geradas pela atividade neuronal cumulativa.",
+    "epistemic_access": "Acessível através de medidas objetivas na terceira pessoa da atividade neurofisiológica (por exemplo, potenciais de campo locais, ondas EM) correlacionadas com relatos introspetivos (por exemplo, a intensidade da dor), a par da testabilidade da hipótese.",
+    "constituents_and_structure": "Os blocos básicos de construção são os inputs sensoriais (codificados por potenciais de ação), que são transformados em ondas EM que interagem para formar uma estrutura coerente e unificada (o momento consciente)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenoménica (demonstrada especificamente através do mecanismo da perceção da dor) e unidade/ligação percetiva.",
+    "distinctive_mechanism_or_principle": "A transformação da informação sensorial (como os sinais de dor) codificada como potenciais de ação em ondas eletromagnéticas, seguida da integração dessas ondas.",
+    "dynamics_of_emergence": "A consciência é um processo dinâmico que surge da soma e integração rápidas e constantes de ondas EM através de diferentes sistemas sensoriais.",
+    "location_and_distribution": "Localizada no cérebro, ligada ao campo eletromagnético gerado pelas correntes neuronais (potenciais de campo locais), enquanto fenómeno que abarca todo o cérebro.",
+    "causation_and_functional_role": "Cria uma «versão unificada e coerente do mundo» e desempenha funções críticas de sobrevivência (por exemplo, priorizar a sensação de dor).",
+    "integration_or_binding": "O problema da combinação é resolvido assumindo que a informação dos inputs sensoriais individuais (transformada em ondas EM) se integra intrinsecamente ao combinar-se, explicando como estes criam uma experiência unificada.",
+    "information_flow_or_representation": "A informação, inicialmente codificada em potenciais de ação, flui e é representada através de ondas EM, permitindo a integração com informação de outros sentidos.",
+    "evolutionary_account": "A consciência, em particular a sensação de dor, é hipotetizada como tendo evoluído devido à sua prioridade e criticidade para a sobrevivência.",
+    "core_claims_and_evidence": [
+      "A dor é ideal para o estudo da consciência devido à sua criticidade para a sobrevivência.",
+      "A informação é transformada de potenciais de ação em ondas EM.",
+      "As ondas EM integradas explicam a unificação dos inputs sensoriais («problema da ligação/combinação»)."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiológica, hipótese/especulação, correlacional (inferida a partir do foco em sinais físicos verificáveis)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável (Ambron acredita que a sua hipótese pode ser testada.)",
+    "known_empirical_interventions_or_tests": "Testar a transformação específica dos potenciais de ação neuronais em ondas EM formadoras de consciência, e medir de que modo a integração das ondas EM se correlaciona com a experiência consciente, especialmente a intensidade da dor.",
+    "criticisms_and_tensions": "As críticas específicas não são detalhadas nas fontes. A teoria está sujeita à controvérsia e ao ceticismo gerais que rodeiam as Teorias do Campo Eletromagnético da Consciência (EMF-ToCs) nas comunidades da neurobiologia e da filosofia.",
+    "open_questions_and_limitations": "Tem de demonstrar empiricamente a hipotetizada transformação da informação neuronal em ondas EM coerentes e integradoras, suficientes para o conteúdo fenoménico, e provar que a integração das ondas EM é a verdadeira fonte da unidade consciente.",
+    "ontological_coherence": "Coerente com a ontologia materialista ao radicar a consciência num campo físico (energia/campo) gerado pela atividade neuronal."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sim",
+      "rationale": "Enquanto teoria materialista baseada em mecanismos físicos específicos (ondas EM) que surgem do processamento de informação, a consciência deveria, em princípio, ser replicável em hardware não biológico capaz de gerar e integrar campos análogos."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência está explicitamente ligada à função do cérebro biológico de gerar ondas EM a partir da atividade neuronal e, por conseguinte, cessa quando este substrato físico morre."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "A teoria enquadra-se no materialismo e explica a consciência em termos de imperativo biológico e criticidade para a sobrevivência (por exemplo, a dor), o que não oferece qualquer fundamento para um propósito último e cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Possível",
+      "rationale": "Se o mecanismo físico específico (as ondas EM integradas e os processos que as geram) puder ser perfeitamente medido, duplicado e simulado num meio não biológico, a imortalidade virtual é, em princípio, alcançável, de forma consistente com o materialismo."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory (CEMI)",
+        "relationship": "Sobreposição/Membro da mesma categoria (Ambas postulam campos/ondas EM como substrato da consciência.)"
+      },
+      {
+        "name": "Jones’s Electromagnetic Fields",
+        "relationship": "Sobreposição/Membro da mesma categoria (Ambas classificam a consciência na subcategoria do Campo Eletromagnético.)"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "Extensão/Alternativa (O processamento recorrente precede frequentemente a consciência; a teoria de Ambron sugere que as ondas EM são o resultado dessa atividade a formar a consciência.)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Toward the unknown: consciousness and pain",
+        "year": 2023,
+        "names": [
+          "Richard Ambron"
+        ]
+      },
+      {
+        "title_with_names": "How we experience pain may unlock the mystery of consciousness",
+        "year": 2023,
+        "names": [
+          "Richard Ambron"
+        ]
+      },
+      {
+        "title_with_names": "The Brain and Pain; Breakthroughs in Neuroscience",
+        "year": 2022,
+        "names": [
+          "Richard Ambron",
+          "Sinav"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoria de Ordem Superior da Consciência Emocional de LeDoux",
+    "summary": "Esta teoria propõe que as sensações emocionais conscientes, como o medo, não são fundamentalmente diferentes das experiências conscientes percetivas, defendendo que ambas decorrem de redes gerais de cognição de base cortical (GNC) que geram representações de ordem superior (HOR) de informação de ordem inferior. A essência da consciência fenoménica reside numa rerrepresentação de um estado de ordem superior anterior, designado HOROR (Representação de Ordem Superior de uma Representação).",
+    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "category": "Materialismo",
+    "subcategory": "Representacional",
+    "core_identity_tagline": "A consciência como representação de ordem superior de estados emocionais e percetivos",
+    "classification_tags": [
+      "neurobiology",
+      "emotion",
+      "higher-order",
+      "representation",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como um estado de terceira ordem (HOROR), especificamente a representação de ordem superior (HOR) adequada de informação de ordem inferior, instanciada por Redes Gerais de Cognição (GNC) de base cortical.",
+    "ontological_status": "Fisicalismo. A teoria é materialista, defendendo que a consciência decorre de um sistema no cérebro, instanciado em circuitos corticais.",
+    "mind_body_relationship": "Identidade/dependência causal. Os estados mentais (sensações emocionais conscientes e experiências percetivas) dependem inteiramente de, e estão instanciados em, processos e redes físicas específicas (GNC, circuitos corticais).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca (justificada: enquanto teoria neurobiológica/materialista detalhada centrada em mecanismos neurais descobríveis, assume-se que a complexidade da consciência é, em princípio, dedutível a partir de processos físicos.)",
+    "subjectivity_and_intentionality": "A subjetividade (a experiência emocional e autoconsciente) surge quando o eu é incluído no estado HOROR. A intencionalidade é alcançada porque a consciência é fundamentalmente representacional (HOR de informação).",
+    "qualia_account": "A experiência fenoménica consiste em ter a HOR adequada de informação de ordem inferior, que é um estado de tipo pensamento que instancia a experiência fenoménica, acedida introspetivamente. A teoria visa explicar o «como-é-ser» subjetivo mediado por estas representações de ordem superior.",
+    "ontological_commitments": "Redes Gerais de Cognição (GNC) de base cortical, representações de ordem superior (HOR), circuitos neurais (por exemplo, o córtex pré-frontal, o córtex sensorial) e informação de ordem inferior.",
+    "epistemic_access": "A introspeção (notar passivo e escrutínio ativo) conduz à experiência fenoménica. Os mecanismos subjacentes são acessíveis através da investigação neurobiológica e da modelação cognitiva.",
+    "constituents_and_structure": "Um modelo hierárquico de múltiplos estados que envolve estados primários de ordem inferior (córtex sensorial), estados secundários de ordem inferior (áreas de memória), estados sub-de-ordem-superior (córtex pré-frontal mesocortical) e estados de ordem superior (córtex pré-frontal granular) que indexam e rerrepresentam a informação para construir modelos mentais."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenoménica, consciência emocional (por exemplo, o medo), consciência percetiva, autoconsciência (enquanto «conjunto do ser») e agência consciente.",
+    "distinctive_mechanism_or_principle": "A instanciação de uma Representação de Ordem Superior de uma Representação (HOROR), que é o estado cognitivo de terceira ordem necessário à experiência consciente. Este mecanismo é de tipo pensamento e não inferencial, tornando uma HOR não consciente introspetivamente consciente.",
+    "dynamics_of_emergence": "A consciência é um produto de um processamento hierárquico complexo de múltiplos estados que surge dinamicamente através da interpretação cognitiva, servindo em particular para manter um sentido de unidade mental.",
+    "location_and_distribution": "Estruturas corticais, em particular o córtex pré-frontal (áreas granulares e sub-granulares), que aloja as GNC e os estados de ordem superior, interagindo com os córtices sensorial e de memória (estados de ordem inferior).",
+    "causation_and_functional_role": "A formação de HOROR permite a experiência consciente (sensações de medo, perceção), proporcionando agência consciente e possibilitando a expressão de narrativas abstratas em mentalês que impulsionam o comportamento manifesto e a expressão verbal.",
+    "integration_or_binding": "A integração ocorre através da montagem cognitiva em que inputs subcorticais não conscientes se conjugam com outros sinais neurais para formar experiências emocionais conscientes. Os estados de ordem superior rerrepresentam vários outros estados para construir modelos mentais unificados na memória de trabalho.",
+    "information_flow_or_representation": "A informação progride de representações percetivas/de ameaça de primeira ordem, através de HOR não conscientes, até HOROR conscientes, que são estados de tipo pensamento acessíveis à introspeção.",
+    "evolutionary_account": "A consciência emergiu tardiamente na evolução, construída sobre «reinos de existência» anteriores (corporal, neural, cognitivo), com os sistemas nervosos a evoluírem para potenciar a sobrevivência, conduzindo, em última análise, a cérebros conscientes sofisticados.",
+    "core_claims_and_evidence": [
+      "As experiências conscientes (emocionais e percetivas) decorrem de um único sistema no cérebro (as GNC de base cortical).",
+      "As sensações conscientes são estados de ordem superior instanciados em circuitos corticais.",
+      "A consciência fenoménica envolve ter um estado de terceira ordem (HOROR), que é uma consciência introspetiva de uma HOR não consciente.",
+      "A teoria rejeita a visão tradicional de que os estados emocionais estão inatamente programados exclusivamente em áreas subcorticais."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiológica, cognitiva"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável, em particular através do teste da correlação entre a experiência consciente e os padrões de atividade nas redes corticais hierárquicas específicas descritas (por exemplo, o envolvimento do córtex pré-frontal na geração de estados HOROR).",
+    "known_empirical_interventions_or_tests": "Baseia-se na identificação de atividade em estruturas corticais (por exemplo, o córtex pré-frontal e as áreas sensoriais/de memória) correspondente ao processamento de representação hierárquica, em consonância com a investigação sobre funções cognitivas e metacognitivas.",
+    "criticisms_and_tensions": "Enfrenta o desafio geral dirigido às Teorias de Ordem Superior (HOT) relativo à natureza do próprio estado de ordem superior, especificamente à forma como uma representação de tipo pensamento torna consciente um estado de primeira ordem (o «mistério» apontado por Block quanto à HOT em geral). Também põe em causa as visões tradicionais da localização da emoção.",
+    "open_questions_and_limitations": "A possibilidade de a agência consciente (livre-arbítrio) surgir do modelo mental consciente resultante continua a ser objeto de debate.",
+    "ontological_coherence": "Elevada. A teoria fornece um percurso neurocognitivo detalhado para a consciência e a experiência emocional que é altamente consistente com o materialismo e a explicação naturalista."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sim",
+      "rationale": "Enquanto teoria materialista e funcional baseada no processamento hierárquico de informação (GNC/HOROR), a consciência é, em princípio, replicável em sistemas não biológicos capazes de instanciar as estruturas computacionais e representacionais necessárias."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência é inteiramente um produto de sistemas biológicos altamente complexos e fisicamente instanciados (circuitos corticais e GNC), não oferecendo recursos para a sobrevivência para além da existência física do corpo."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanístico",
+      "rationale": "A consciência é um mecanismo biológico evoluído que potencia a sobrevivência e possibilita estados emocionais centrados no eu, mas a teoria não postula qualquer sentido ou propósito último, cósmico ou transcendental."
+    },
+    "virtual_immortality": {
+      "stance": "Sim",
+      "rationale": "Uma vez que o eu na primeira pessoa está fundado em estados cerebrais complexos, funcionais e representacionais, uma duplicação perfeita destes estados físicos através de tecnologia de carregamento (uploading) preservaria, em princípio, o eu e alcançaria a imortalidade virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Extensão"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "Compatível"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Traditional Higher-Order Thought Theory (HOT)",
+        "relationship": "Refinamento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, J. LeDoux and R. Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Four Realms of Existence - A New Theory of Being Human, J. LeDoux",
+        "year": 2023
+      }
+    ]
+  }
+}

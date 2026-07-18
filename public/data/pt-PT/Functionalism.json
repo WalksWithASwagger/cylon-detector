@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Funcionalismo",
+    "summary": "O Funcionalismo sustenta que os estados mentais são definidos pelas suas relações causais entre si, com as entradas sensoriais e com as saídas comportamentais, independentemente do suporte físico (substrato) no qual são realizados. A essência da consciência é determinada pelo modo como os estados mentais funcionam ou operam, e não por aquilo de que são materialmente compostos.",
+    "associated_thinkers": [
+      "Ned Block",
+      "J.J.C. Smart",
+      "Janet Levin"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Filosófico",
+    "core_identity_tagline": "Os estados mentais são estados funcionais definidos pelo seu papel causal",
+    "classification_tags": [
+      "functional role",
+      "multiple realizability",
+      "computational",
+      "causal relations"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Os estados mentais são identificados como estados funcionais, constituídos pelas suas relações causais, papéis, resultados e saídas, o que implica que são realizáveis em qualquer substrato que suporte essas funções.",
+    "ontological_status": "Fisicalismo (em sentido lato, agnóstico quanto à substância). A teoria é classificada no Materialismo, mas é metafisicamente agnóstica quanto a substâncias não físicas, centrando-se sobretudo na descrição funcional dos estados mentais.",
+    "mind_body_relationship": "Os estados mentais são estados funcionais idênticos aos papéis funcionais que são realizados ou instanciados num substrato físico, conduzindo a «teses de identidade de estados funcionais».",
+    "primitive_or_emergent_status": "Emergente. A consciência surge da organização funcional realizada por um substrato suficientemente complexo (como o tecido neuronal ou os chips de computador).",
+    "emergence_type": "Emergência fraca. Uma vez que a função é definível e potencialmente realizável de múltiplas formas em substratos diferentes, a propriedade mental emergente é, em princípio, explicável pela estrutura funcional subjacente e pelas leis físicas.",
+    "subjectivity_and_intentionality": "A subjetividade e a intencionalidade são explicadas em termos de organização funcional específica e de relações causais. Por exemplo, em teorias funcionalistas relacionadas, a intencionalidade é entendida através da representação de segunda ordem dos estados mentais.",
+    "qualia_account": "A teoria tem tradicionalmente dificuldade em explicar os qualia fenomenais, abordando-os frequentemente ao afirmar que a sensação qualitativa se esgota inteiramente no papel funcional, ou por conjugação com teorias representacionais.",
+    "ontological_commitments": "Os papéis funcionais ou as relações causais são as entidades essenciais. A teoria pressupõe a existência de substratos capazes de instanciar a informação e a arquitetura funcional, quer se trate de tecido neuronal quer de chips de computador.",
+    "epistemic_access": "A consciência é acedida e compreendida analisando o modo como os estados mentais operam através das suas relações causais com as entradas sensoriais e as saídas comportamentais, frequentemente associada a perspetivas computacionais e na terceira pessoa.",
+    "constituents_and_structure": "Os estados mentais são compostos por relações causais definidas entre entradas sensoriais, estados internos e saídas comportamentais. Estas relações constituem a estrutura funcional da mente."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Estados psicológicos (recordar, pensar, criar) e os requisitos estruturais da consciência fenomenal; fornece o fundamento para a consciência da inteligência artificial e para a imortalidade virtual.",
+    "distinctive_mechanism_or_principle": "O princípio da realizabilidade múltipla, que afirma que a realização de um estado mental é independente do substrato físico, estando dependente apenas de a função requerida ser instanciada.",
+    "dynamics_of_emergence": "A consciência é realizada como um processo ou atividade funcional sempre que as relações funcionais necessárias (como as definidas por algoritmos ou pelo fluxo causal) estão presentes num sistema físico.",
+    "location_and_distribution": "Distribuída onde quer que a organização funcional seja realizada com êxito, independentemente de o substrato ser tecido neuronal ou componentes de computação físicos.",
+    "causation_and_functional_role": "As funções, os papéis e as saídas são determinantes. Os estados mentais são causalmente eficazes porque são definidos pelas suas relações causais dentro do sistema (papel funcional).",
+    "integration_or_binding": "A integração é alcançada através da realização bem-sucedida de arquiteturas funcionais complexas nas quais múltiplas entradas e estados internos estão causalmente relacionados para produzir saídas unificadas.",
+    "information_flow_or_representation": "A informação é central, sobretudo no funcionalismo computacional, no qual os modelos computacionais clássicos (algoritmos) exemplificam os requisitos funcionais dos estados mentais.",
+    "evolutionary_account": "Não é abordado diretamente, mas é plenamente compatível com explicações evolutivas, uma vez que a teoria se enquadra no Materialismo, o que sugere que a consciência é um mecanismo evoluído que confere vantagens adaptativas ou de sobrevivência através de processos funcionais.",
+    "core_claims_and_evidence": [
+      "Os estados mentais são constituídos pelas suas relações causais entre si e com as entradas/saídas.",
+      "Os estados mentais são idênticos a estados funcionais (teses de identidade de estados funcionais).",
+      "A natureza do substrato não importa, apenas as funções desempenhadas.",
+      "Serve de fundamento teórico para a «imortalidade virtual»."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (definições conceptuais), computacional (através de teorias computacionais da mente)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptual e empiricamente testável. Experiências mentais (como a substituição do substrato) sondam os seus limites conceptuais, e a realização computacional (IA) testa a sua aplicação empírica.",
+    "known_empirical_interventions_or_tests": "A experiência mental da substituição por chips de silício é usada conceptualmente para testar se a consciência fenomenal é preservada quando o papel funcional se mantém através de uma mudança de substrato.",
+    "criticisms_and_tensions": "É fortemente criticada por não explicar a consciência fenomenal (qualia), descrevendo apenas o papel funcional, o que conduz ao desafio do «problema difícil» — o de que os papéis funcionais poderão não esgotar a natureza da experiência consciente.",
+    "open_questions_and_limitations": "A grande questão por resolver é saber se a experiência consciente se esgota inteiramente no papel funcional. Não é claro como é que as definições funcionais captam plenamente os aspetos subjetivos e qualitativos da experiência.",
+    "ontological_coherence": "Altamente coerente com ontologias fisicalistas amplas. Embora definida por um dos seus defensores como uma «rival incompatível» do Fisicalismo Redutivo por razões metafísicas, fornece a caracterização funcional exigida por projetos redutivos."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sim",
+      "rationale": "O Funcionalismo sustenta que a consciência assenta na função, não na biologia. Se as funções corretas puderem ser realizadas computacionalmente em substratos não biológicos, a consciência em IA é possível em princípio e certa se o Materialismo for verdadeiro."
+    },
+    "survival_beyond_death": {
+      "stance": "Condicional/Não",
+      "rationale": "Enquanto teoria fisicalista, a consciência está ligada ao substrato. A sobrevivência para além da morte do corpo biológico só é possível se o estado mental funcional puder ser transferido (carregado) com êxito para um novo substrato de continuidade (imortalidade virtual)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "O Funcionalismo descreve o mecanismo pelo qual a mente/consciência opera num mundo físico, fornecendo capacidades de agência e reflexão, mas não oferece qualquer fundamento para um sentido ou teleologia cósmica última, alinhando-se com a posição geral do Materialismo."
+    },
+    "virtual_immortality": {
+      "stance": "Alcançável",
+      "rationale": "O Funcionalismo serve de base teórica para a imortalidade virtual. Se o papel funcional do eu mental puder ser perfeitamente duplicado e carregado para um novo suporte, o eu mental na primeira pessoa é preservado."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Extensão"
+      },
+      {
+        "name": "Homuncular Functionalism (Lycan)",
+        "relationship": "Extensão"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "Compatível/rival"
+      },
+      {
+        "name": "Neurofunctionalism (Prinz)",
+        "relationship": "Extensão"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism? (N. Block)",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Is Functionalism? Consciousness, Function, and Representation (N. Block)",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Functionalism (J. Levin)",
+        "year": 2023
+      }
+    ]
+  }
+}

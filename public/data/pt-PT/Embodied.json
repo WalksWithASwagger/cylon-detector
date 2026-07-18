@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Cognição Corporizada",
+    "summary": "Este conceito postula que a mente é inerentemente corporizada, significando que a estrutura do pensamento e do significado depende fundamentalmente dos sistemas sensoriomotores e das experiências emocionais do corpo. Argumenta que o corpo e a sua interação com o ambiente são parte integrante daquilo que a consciência é, e não apenas daquilo que ela faz.",
+    "associated_thinkers": [
+      "George Lakoff",
+      "Mark Johnson"
+    ],
+    "category": "Teorias do Materialismo",
+    "subcategory": "Corporizado e Enativo",
+    "core_identity_tagline": "A consciência como experiência fundamentalmente corporizada",
+    "classification_tags": [
+      "embodiment",
+      "sensorimotor",
+      "cognition",
+      "materialism",
+      "non-reductive"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência e o pensamento são identificados como resultados significativos gerados por circuitos neuronais ligados ao corpo, caracterizando a experiência corporizada, em que a estrutura do pensamento provém da natureza do corpo.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "A mente é profundamente corporizada; a própria estrutura dos pensamentos assenta nos sistemas sensoriomotores e nas emoções do corpo, alargando o substrato necessário da mente para além do cérebro.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência Fraca (Inferida, pois trata-se de uma teoria materialista que implica que a consciência é em princípio redutível, ainda que a complexidade seja elevada.)",
+    "subjectivity_and_intentionality": "A subjetividade está ligada à experiência corporizada; a intencionalidade (a direcionalidade do pensamento) é inerente ao modo como as ideias abstratas e a linguagem são metaforicamente corporizadas pelos sistemas sensoriomotores.",
+    "qualia_account": "Os qualia são caracterizados pelos sistemas sensoriomotores e pelos sistemas emocionais do corpo, que dão origem à 'experiência corporizada' ou a constituem.",
+    "ontological_commitments": "Circuitos neuronais físicos, os sistemas sensoriomotores do corpo, as emoções e as metáforas derivadas da experiência corporal.",
+    "epistemic_access": "Acessível através do estudo das conexões entre os circuitos neuronais, o corpo e a experiência vivida, no seio de uma perspetiva naturalista e assente na ciência.",
+    "constituents_and_structure": "Circuitos neuronais ligados aos sistemas sensoriomotores e emocionais do corpo, que estruturam metaforicamente as ideias abstratas e a linguagem."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (enquanto parte integrante do corpo), Cognição, Ideias Abstratas, Linguagem, Emoções.",
+    "distinctive_mechanism_or_principle": "O princípio de que o pensamento é tornado significativo por circuitos neuronais ligados ao corpo, e de que a estrutura dos nossos pensamentos é determinada pela natureza dos sistemas do corpo (por exemplo, os sistemas sensoriomotores).",
+    "dynamics_of_emergence": "A consciência é um processo dinâmico em que os conceitos abstratos assentam fortemente em metáforas básicas derivadas da experiência corporal contínua.",
+    "location_and_distribution": "A mente está distribuída por todos os sistemas sensoriomotores do corpo físico, e não apenas localizada no cérebro.",
+    "causation_and_functional_role": "O papel funcional é fornecer um pensamento significativo, pois a compreensão não pode ocorrer sem envolver os sistemas do corpo. A consciência é parte integrante do funcionamento adaptativo.",
+    "integration_or_binding": "A integração ocorre através da conexão unificada dos circuitos neuronais ao corpo, ligando os sistemas sensoriais, motores e emocionais numa experiência corporizada coesa.",
+    "information_flow_or_representation": "A informação é representada em grande medida através de metáforas derivadas da experiência corporal, estruturando os conceitos abstratos com base nos sistemas sensoriomotores.",
+    "evolutionary_account": "Não é explicitamente pormenorizado na fonte, mas alinha-se com a perspetiva materialista de que a consciência evoluiu através de traços selecionados, alargando o âmbito da seleção de modo a incluir a interação corpo-ambiente.",
+    "core_claims_and_evidence": [
+      "A mente é inerentemente corporizada, indo além da necessidade trivial de um cérebro.",
+      "A própria estrutura dos nossos pensamentos provém da natureza do corpo.",
+      "Os conceitos abstratos são em grande medida metafóricos, baseados na experiência corporal."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, Linguística Cognitiva, Empírico (baseado na ligação da atividade neuronal à experiência corporal)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável (Inferido, pois lida com circuitos neuronais e sistemas fisiológicos mensuráveis).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "É criticada implicitamente ao notar-se que a cognição e a consciência não são a mesma coisa, o que levanta questões sobre se explicar o pensamento corporizado é suficiente para explicar a consciência fenomenal.",
+    "open_questions_and_limitations": "O meio preciso pelo qual a cognição corporizada se traduz em consciência fenomenal, dado que os conceitos de cognição e de consciência são frequentemente distintos.",
+    "ontological_coherence": "Altamente coerente no seio de uma ontologia fisicalista, abraçando especificamente uma forma alargada ou não-trivial de materialismo ao integrar a totalidade do corpo na estrutura do pensamento."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Se a consciência exige uma corporização específica, os sistemas artificiais só poderiam tornar-se conscientes se o materialismo conseguir construir um substrato não-biológico que replique perfeitamente os sistemas corporais e sensoriomotores necessários."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência depende intrincadamente da existência e das operações do corpo biológico e dos seus sistemas; não pode persistir uma vez que esses componentes físicos deixem de funcionar."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanístico",
+      "rationale": "Enquanto teoria materialista, alinha-se com a concepção de que não há um sentido cósmico último, mas a consciência fornece a base para a criação de um sentido e um valor autodeterminados."
+    },
+    "virtual_immortality": {
+      "stance": "Incerto",
+      "rationale": "A duplicação exige a reprodução da totalidade do sistema corporizado e dos seus mecanismos sensoriomotores, acrescentando ordens de complexidade significativas, e potencialmente intransponíveis, para além da mera replicação da atividade cerebral."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Enactivism",
+        "relationship": "Sobreposição"
+      },
+      {
+        "name": "Projective Consciousness Model (PCM)",
+        "relationship": "Influência"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Sobreposição"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Philosophy in the Flesh: the Embodied Mind and its Challenge to Western Thought, G. Lakoff and M. Johnson",
+        "year": 1999
+      },
+      {
+        "title_with_names": "How philosophy illuminates the physical world, G. Lakoff",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, and E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, E. Thompson",
+        "year": 2002
+      }
+    ]
+  }
+}

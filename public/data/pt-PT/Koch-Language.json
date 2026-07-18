@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "A Teoria de Koch de que a Consciência não Depende da Linguagem",
+    "summary": "Esta teoria afirma que a consciência fenomenal, ou a experiência interior básica, é funcionalmente independente da capacidade linguística. É sustentada por casos clínicos em que a capacidade linguística está gravemente comprometida ou perdida, embora a consciência fundamental se mantenha, conduzindo à conclusão de que a senciência básica é uma propriedade generalizada, partilhada com muitos animais não-linguísticos.",
+    "associated_thinkers": ["Christof Koch"],
+    "category": "Teorias do Materialismo",
+    "subcategory": "Relações com a Linguagem",
+    "core_identity_tagline": "A consciência é independente da linguagem",
+    "classification_tags": [
+      "phenomenal consciousness",
+      "language",
+      "neurobiology",
+      "animal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como um fenómeno físico/biológico no cérebro cujo mecanismo fundamental é distinto do processamento simbólico da linguagem, e independente dele.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "A mente (consciência fenomenal básica) está ligada aos processos físicos do cérebro, que são separados dos processos linguísticos.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca",
+    "subjectivity_and_intentionality": "A subjetividade básica (senciência) mantém-se mesmo sem linguagem. A linguagem contribui massivamente para o eu enquanto 'centro narrativo', que constitui os aspetos de ordem superior da subjetividade.",
+    "qualia_account": "Os qualia (experiência interior básica) existem em entidades não-linguísticas e são independentes das capacidades simbólicas.",
+    "ontological_commitments": "Cérebros biológicos e os mecanismos físicos subjacentes que geram a consciência básica.",
+    "epistemic_access": "Acedida através de observação em terceira pessoa, especificamente casos clínicos que mostram uma dissociação entre a perda da linguagem e a preservação da consciência.",
+    "constituents_and_structure": "A consciência surge de mecanismos cerebrais físicos que são independentes das estruturas cerebrais dedicadas à linguagem e ao discurso interior."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenomenal (experiência interior básica) e senciência.",
+    "distinctive_mechanism_or_principle": "O princípio da dissociação, em que o substrato neuronal necessário e suficiente para a consciência (CNC) é distinto dos correlatos neuronais da linguagem.",
+    "dynamics_of_emergence": "A consciência básica é um produto de processos biológicos que evoluíram independentemente da complexidade linguística humana.",
+    "location_and_distribution": "Localizada no cérebro biológico; distribuída amplamente pelas espécies (por exemplo, todos os mamíferos), independentemente da capacidade linguística.",
+    "causation_and_functional_role": "A consciência básica opera independentemente das funções da linguagem. O papel da linguagem é sobretudo o de reforçar as funções humanas de ordem superior, como o sentido do eu.",
+    "binding_and_unity": "A unidade da experiência fenomenal básica tem de ser alcançada através de mecanismos físicos ou neuronais não-linguísticos.",
+    "information_flow_or_representation": "O processamento de informação relacionado com a experiência bruta não exige representação linguística simbólica.",
+    "evolutionary_account": "A consciência evoluiu antes das capacidades linguísticas humanas, como o comprova a sua presença em animais não-linguísticos, o que sugere que o seu papel adaptativo não está dependente da linguagem.",
+    "core_claims_and_evidence": [
+      "A consciência não depende da linguagem.",
+      "Casos clínicos de lesão cerebral demonstram que a consciência se mantém quando a linguagem se perde.",
+      "A senciência é partilhada por todos os mamíferos, rejeitando a visão antropocêntrica de que apenas os humanos experienciam algo."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírico, clínico e filosófico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável através do estudo neurocientífico de animais não-linguísticos e da investigação clínica sobre vítimas de traumatismo cerebral que demonstram consciência persistente apesar de condições afásicas.",
+    "critiques_and_challenges": "Embora Koch argumente contra as visões clássicas que ligam a linguagem e a consciência, o consenso científico contemporâneo já concorda que a consciência básica não exige linguagem.",
+    "open_questions_and_limitations": "A teoria confirma aquilo de que a consciência *não* depende (a linguagem), mas não fornece uma solução positiva para o problema difícil da consciência (isto é, o que é literalmente a experiência fenomenal).",
+    "ontological_coherence": "Altamente coerente dentro da categoria materialista, particularmente para os argumentos que distinguem a consciência básica da autoconsciência complexa e mediada pela linguagem."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Uma vez que a linguagem não é necessária para a consciência, a capacidade linguística da IA (LLM) é irrelevante. A consciência da IA depende inteiramente de saber se o substrato físico não-linguístico necessário pode ser replicado em sistemas artificiais."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "Em consonância com a sua categorização materialista, a consciência está ligada a um substrato físico (o cérebro) e não pode persistir após a morte biológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "A consciência permite que o eu funcione como um centro narrativo através da linguagem, possibilitando um sentido criado pelos humanos, mas a realidade material subjacente não sugere qualquer propósito cósmico último."
+    },
+    "virtual_immortality": {
+      "stance": "Condicional",
+      "rationale": "Se a consciência está desligada da linguagem, o foco desloca-se inteiramente para a duplicação do substrato físico não-linguístico da consciência básica. Se esta estrutura neuronal não-linguística específica puder ser duplicada, a imortalidade virtual é possível."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Searle’s Language and Consciousness",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Andrews’s Consciousness Without Complex Brains",
+        "relationship": "Compatível"
+      },
+      {
+        "name": "Smith’s Language as Classifier of Consciousness",
+        "relationship": "Sobreposição"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t Be Computed",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Consciousness doesn’t depend on language, Christof Koch",
+        "year": 2019
+      }
+    ]
+  }
+}

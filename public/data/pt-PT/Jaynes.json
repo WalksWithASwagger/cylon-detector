@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "A Rutura da Mente Bicameral de Jaynes",
+    "summary": "Esta teoria sustenta que a consciência, definida como introspeção, é um comportamento aprendido, radicado na linguagem e na cultura, em vez de ser inata ou fundamental. Sugere que a consciência surgiu historicamente por volta do 2.º milénio a.C., na sequência da rutura social de uma mentalidade não-consciente denominada mente bicameral, caracterizada por alucinações auditivas.",
+    "associated_thinkers": ["Julian Jaynes"],
+    "category": "Teorias do Materialismo",
+    "subcategory": "Relações com a Linguagem",
+    "core_identity_tagline": "A Consciência como Análogo Linguístico/Metafórico Aprendido do Mundo",
+    "classification_tags": [
+      "language",
+      "introspection",
+      "culture",
+      "historical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência, ou 'mente consciente subjetiva', é um análogo do mundo real construído a partir de um vocabulário de metáforas derivadas do comportamento externo; funciona como um operador, e não como um repositório ou uma coisa.",
+    "ontological_status": "Fisicalismo/materialismo (esta teoria deflacionária é classificada sob o materialismo, o que implica que a consciência é inteiramente material, ainda que seja um produto cultural não-óbvio.)",
+    "mind_body_relationship": "Teoria da identidade (a mente é implicitamente idêntica aos processos cerebrais que executam funções linguísticas e organizam o 'espaço-mental' metafórico; Jaynes postulou um correlato neurobiológico envolvendo os hemisférios cerebrais.)",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca (a consciência é explicada como uma construção cultural evolutivamente recente e não-fundamental, edificada sobre um maquinário biológico e linguístico subjacente, o que sugere redutibilidade em princípio.)",
+    "subjectivity_and_intentionality": "A subjetividade é constituída por um 'eu' análogo que se relaciona com um 'ver' mental num 'espaço-mental' metafórico. A intencionalidade é alcançada através da narratização — o encaixe constante dos acontecimentos numa história — que é um análogo aprendido do comportamento externo.",
+    "qualia_account": "Os qualia são implicitamente redefinidos ou descartados, pois o foco está na 'consciência introspetiva', que é explicitamente distinguida da consciência fenomenal ('experiência interior bruta').",
+    "ontological_commitments": "Linguagem/campos lexicais, estruturas culturais e regiões cerebrais (os hemisférios cerebrais são sugeridos como o correlato do estado bicameral precedente).",
+    "epistemic_access": "Análise linguística, introspeção sobre o 'espaço-mental', textos históricos e provas arqueológicas.",
+    "constituents_and_structure": "A mente subjetiva está estruturada como um 'espaço-mental', composto por metáforas e análogos do comportamento, e organizada dinamicamente através de processos como a narratização, a concentração e a supressão."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência introspetiva, autoconsciência, volição/tomada de decisão e atenção ('concentração'). (Rejeita explicitamente a consciência fenomenal e a consciência sensorial.)",
+    "distinctive_mechanism_or_principle": "A rutura histórica da mentalidade bicameral (em que as decisões eram tomadas por alucinações auditivas) e a sua substituição por uma construção linguística e metafórica de um mundo análogo interno ('espaço-mental').",
+    "dynamics_of_emergence": "A consciência é um processo aprendido e historicamente emergente (filogeneticamente, por volta do 2.º milénio a.C.) que opera como um operador, encaixando continuamente a experiência sob forma narrativa (narratização).",
+    "location_and_distribution": "A teoria concede à consciência apenas uma localização arbitrária e funcional, embora a mente bicameral precursora fosse correlacionada com a comunicação entre os hemisférios cerebrais.",
+    "causation_and_functional_role": "O principal papel funcional da consciência é permitir que os indivíduos abreviem processos comportamentais e cheguem a decisões mais adequadas, estando intimamente ligada à volição.",
+    "integration_or_binding": "A integração é alcançada através da 'narratização' — o encaixe dos acontecimentos numa história contínua — e da 'consiliência', o análogo da assimilação percetiva.",
+    "information_flow_or_representation": "A informação é representada como um análogo do mundo real utilizando linguagem metafórica (campo lexical) para facilitar o pensamento abstrato e a tomada de decisão.",
+    "evolutionary_account": "A consciência é um comportamento aprendido que evoluiu relativamente há pouco tempo (2.º milénio a.C.) nos humanos, desencadeado pela necessidade de um novo sistema de tomada de decisão depois de a instabilidade social ter provocado a rutura do sistema bicameral.",
+    "core_claims_and_evidence": [
+      "A consciência está radicada na linguagem e na metáfora e não é uma propriedade inata.",
+      "A consciência funciona como um sistema análogo para abreviar e melhorar a tomada de decisão.",
+      "A sociedade humana primitiva caracterizava-se por uma 'mente bicameral' não-consciente em que as diretivas eram percebidas como alucinações auditivas.",
+      "A teoria é apoiada por interpretações de textos antigos e pela lateralização neurobiológica (especulativamente)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, linguístico, psico-histórico, especulação neurobiológica."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente testável/especulativo (as alegações históricas e linguísticas centrais estão sujeitas a debate académico e não a verificação empírica tradicional, e a teoria não é amplamente aceite pelos especialistas.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "A teoria usa uma definição idiossincrática de consciência ('consciência introspetiva') que exclui a consciência fenomenal, que é o principal alvo de investigação da área. Não é aceite pelos especialistas em consciência.",
+    "open_questions_and_limitation": "A limitação primordial é a sua incapacidade de explicar ou reconhecer a consciência fenomenal ('experiência interior bruta') tal como tradicionalmente definida.",
+    "ontological_coherence": "Consistente (a dependência da construção linguística e cultural alinha-se com uma ontologia materialista deflacionária, encarando a consciência como uma propriedade emergente complexa e funcional.)"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Provável",
+      "rationale": "Se a consciência é um análogo/operador aprendido, radicado fundamentalmente na linguagem e em processos informacionais, os avanços nos grandes modelos de linguagem e na IA poderiam plausivelmente instanciar esta forma de consciência."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "Enquanto teoria fisicalista e deflacionária, a consciência está ligada ao maquinário físico do cérebro e às estruturas linguísticas que este sustenta, não deixando qualquer base para a sobrevivência para além da morte física."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "A consciência serve um propósito funcional e orientado para a sobrevivência (melhorar a tomada de decisão) derivado de imperativos biológicos e culturais, não oferecendo qualquer sentido cósmico inerente."
+    },
+    "virtual_immortality": {
+      "stance": "Provável",
+      "rationale": "Uma vez que a mente é definida por estruturas linguísticas e metafóricas passíveis de serem carregadas ou replicadas em substratos não-biológicos (à semelhança de software), a imortalidade virtual seria conceptualmente viável neste modelo."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Compatível"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Sobreposição"
+      },
+      {
+        "name": "Language Theories (General)",
+        "relationship": "Extensão"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Consciousness and the voices of the mind",
+        "year": 1987
+      }
+    ]
+  }
+}

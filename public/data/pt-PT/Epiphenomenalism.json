@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoria do Epifenomenalismo",
+    "summary": "Esta teoria sustenta que a consciência é um produto não redutível do cérebro biológico, mas que os estados mentais não têm absolutamente nenhum poder causal sobre a realidade física. A nossa consciência subjetiva é real, contudo a nossa perceção de que os pensamentos causam ações é errónea, pois a consciência é inteiramente inerte, como a espuma sobre uma onda do oceano.",
+    "associated_thinkers": [
+      "David Chalmers (Classifier)",
+      "Frank Jackson (Related Thinker)"
+    ],
+    "category": "Teorias do Materialismo",
+    "subcategory": "Filosófico",
+    "core_identity_tagline": "A consciência é real mas causalmente inerte.",
+    "classification_tags": [
+      "property dualism",
+      "non-reductive physicalism",
+      "mental causation",
+      "causal closure",
+      "illusion"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como propriedades fenomenais que são ontologicamente distintas das propriedades físicas mas que delas dependem causalmente (Físico → Fenomenal).",
+    "ontological_status": "Forma fraca de Dualismo ou Fisicalismo Não Redutivo. Afirma o completo fecho causal do físico.",
+    "mind_body_relationship": "Os estados mentais são inteiramente produto dos cérebros biológicos. Os estados físicos causam estados fenomenais, mas os estados fenomenais não têm efeito causal sobre o físico (causação unidirecional).",
+    "primitive_or_emergent_status": "Emergente. A consciência é unicamente produto dos cérebros biológicos.",
+    "emergence_type": "As propriedades são irredutíveis e ontologicamente distintas das propriedades físicas, o que sugere uma forma de emergência forte para a propriedade fenomenal, ainda que esta seja causalmente inerte. (Justificado com base na alegação de irredutibilidade).",
+    "subjectivity_and_intentionality": "A consciência da experiência é real. A subjetividade (propriedades fenomenais) é ontologicamente distinta. O sentido de causação mental é ilusório.",
+    "qualia_account": "As propriedades fenomenais (qualia) são reais e ontologicamente distintas das propriedades físicas, mas são epifenómenos e, por isso, causalmente inertes.",
+    "ontological_commitments": "Estados físicos (cérebros) e propriedades fenomenais ontologicamente distintas (estados mentais) que deles emergem.",
+    "epistemic_access": "A consciência é conhecida através da introspeção, mas o sentido de agência causal que dela deriva é enganador (uma espécie de ilusão ou truque).",
+    "constituents_and_structure": "A consciência é uma propriedade emergente ou um subproduto do funcionamento do cérebro biológico, comparada a «espuma sobre uma onda do oceano»."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenomenal. Aborda explicitamente e nega a causação/agência mental.",
+    "distinctive_mechanism_or_principle": "O princípio do «fecho causal do físico» determina que os estados mentais, qualquer que seja a sua natureza, têm de ser subprodutos inteiramente inertes.",
+    "dynamics_of_emergence": "Os estados mentais são gerados dinamicamente apenas pelo cérebro biológico, envolvendo todos os eventos mentais conscientes um processamento inconsciente prévio.",
+    "location_and_distribution": "Inteiramente localizada no cérebro físico e biológico.",
+    "causation_and_functional_role": "Os estados mentais não têm poderes causais. A mente é inteiramente inerte e não existe «causação descendente»; a consciência é um subproduto não funcional.",
+    "integration_or_binding": "A unificação da experiência é alcançada implicitamente pelos processos físicos complexos subjacentes no cérebro que produzem o estado fenomenal unificado. (Justificado: o foco está na ausência de causalidade dirigida para o exterior, não na mecânica da unidade interna).",
+    "information_flow_or_representation": "O processamento de informação é inteiramente físico/inconsciente, e a experiência fenomenal é uma saída paralela e não causal desse processamento.",
+    "evolutionary_account": "Implicitamente compatível com a evolução, uma vez que a consciência é produto dos cérebros biológicos. A realidade da propriedade sugere que surgiu por via da evolução, embora a sua ausência de função signifique que não foi selecionada pela sua eficácia causal. (Justificado com base na classificação nas Teorias do Materialismo).",
+    "core_claims_and_evidence": [
+      "A consciência é inteiramente física, sendo unicamente produto dos cérebros biológicos.",
+      "Os estados mentais são ontologicamente distintos dos estados físicos (Dualismo de Propriedades).",
+      "Os estados mentais não possuem poder causal devido ao completo fecho causal do físico."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (impulsionada sobretudo pelo ónus explicativo da causação mental e pelo compromisso com o fecho causal físico)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente contestada. A sua alegação central — a de que os estados conscientes carecem de força causal — é contraintuitiva e difícil de testar empiricamente, pois implica provar uma ligação causal negativa.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "A teoria é contraintuitiva porque nos parece fortemente que os nossos estados fenomenalmente conscientes importam causalmente. Obriga a aceitar que o nosso sentido de causação mental (pensamentos a causar coisas) é uma «espécie de ilusão ou truque».",
+    "open_questions_and_limitations": "A integração da causação mental é central, pois o Epifenomenalismo resolve o problema negando a causação, mas isso exige aceitar um resultado altamente contraintuitivo.",
+    "ontological_coherence": "Elevada coerência dentro de uma ontologia materialista comprometida com o completo fecho causal do físico, alcançando uma forma fraca de dualismo ao mesmo tempo que evita os problemas interacionistas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Provável",
+      "rationale": "Se a consciência é apenas um subproduto não causal (espuma) dos processos físicos no cérebro, replicar esses processos físicos na IA deverá produzir os mesmos estados conscientes, sem que os estados mentais não causais dificultem a replicação funcional."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência é inteiramente física e unicamente produto dos cérebros biológicos. Esta dependência física exclui a sobrevivência para além da morte corporal."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "Enquanto teoria materialista filosófica, não fornece qualquer sentido ou propósito último. Uma vez que a consciência é causalmente inerte, não pode conferir valor teleológico cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Altamente provável",
+      "rationale": "A natureza inerte da consciência significa que carregar os estados físicos duplicaria necessariamente os estados mentais epifenomenais. A «espuma» inerte deverá ter pouco impacto na obtenção da imortalidade virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Forma fraca/tipo"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Forma mais fraca/sobreposição"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "Alternativa semelhante mas menos popular"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Contraste (o Dualismo Emergente afirma a eficácia causal, o Epifenomenalismo nega-a)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Facing up to the Problem of Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      }
+    ]
+  }
+}

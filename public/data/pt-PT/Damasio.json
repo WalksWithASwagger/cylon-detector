@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Sentimentos Homeostáticos e Emergência da Consciência de Damásio",
+    "summary": "Esta teoria postula que a consciência surge fundamentalmente de sentimentos internos, conhecidos como sentimentos homeostáticos, que representam continuamente o estado corrente da vida do organismo em relação a um estado ideal (homeostase). A consciência espontânea fornecida por estes sentimentos oferece o conhecimento valioso necessário à regulação deliberada da vida e à sobrevivência.",
+    "associated_thinkers": [
+      "Antonio Damasio",
+      "Hanna Damasio"
+    ],
+    "category": "Teorias do Materialismo",
+    "subcategory": "Homeostático e Afetivo",
+    "core_identity_tagline": "A Consciência como Sentimentos Homeostáticos",
+    "classification_tags": [
+      "homeostasis",
+      "affective",
+      "neurobiological",
+      "emergence",
+      "survival"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como sentimentos homeostáticos — processos espontaneamente conscientes de natureza híbrida que combinam características mentais e características corporais. Estes sentimentos traduzem estados homeostáticos fundamentais (por exemplo, fome, dor, bem-estar).",
+    "ontological_status": "Fisicalismo (Naturalismo Biológico)",
+    "mind_body_relationship": "Os processos fenoménicos nucleares (sentimentos homeostáticos) são híbridos, combinando características mentais e corporais. A mente está inextricavelmente ligada aos processos biológicos do corpo, em particular à regulação interna (interoceção).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca. Embora não explicitamente rotulada, enquanto teoria materialista baseada em mecanismos biológicos específicos (homeostase), implica que a consciência, embora complexa, surge de, e é em princípio redutível a, processos físicos/neurais subjacentes.",
+    "subjectivity_and_intentionality": "A subjetividade é produzida quando os sentimentos homeostáticos se combinam com imagens geradas pelos canais exterocetivos (como a visão). A intencionalidade reflete-se na orientação espontânea que os sentimentos oferecem à tomada de decisão relacionada com a regulação da vida.",
+    "qualia_account": "Os qualia radicam nos sentimentos homeostáticos. Estes sentimentos (que traduzem estados homeostáticos fundamentais como a dor ou o bem-estar) são a 'fonte natural das experiências'.",
+    "ontological_commitments": "Organismos complexos dotados de sistemas nervosos, mecanismos homeostáticos, processos interocetivos e características corporais/mentais.",
+    "epistemic_access": "Acedido através da perspetiva interna (sentimentos/afeto na primeira pessoa) que revela o estado da vida, deslocando o enfoque da cognição externa (exteroceção) para a regulação interna (interoceção).",
+    "constituents_and_structure": "Os blocos construtores básicos são os sentimentos homeostáticos derivados da representação contínua do estado interno do organismo. A estrutura envolve a coordenação destes sentimentos com imagens cognitivas derivadas das perceções externas."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico, afetivo/emocional, regulação da vida/sobrevivência, tomada de decisão.",
+    "distinctive_mechanism_or_principle": "O estatuto consciente intrínseco dos sentimentos homeostáticos, que fornece espontaneamente conhecimento relativo à regulação da vida e à sobrevivência.",
+    "dynamics_of_emergence": "A consciência emergiu cedo na história biológica através da 'via do afeto' (processos interocetivos), e não através da 'via cognitiva' posterior. É continuamente sustentada por processos que representam o estado interior do organismo.",
+    "location_and_distribution": "Localizada nos sistemas reguladores internos e no sistema nervoso dos organismos complexos.",
+    "causation_and_functional_role": "A consciência é causalmente eficaz ao permitir que os organismos ajam deliberada e conscientemente, fornecendo uma nova camada de regulação da vida crucial para a sobrevivência. Os sentimentos homeostáticos são inerentemente reguladores.",
+    "integration_or_binding": "A integração ocorre quando os sentimentos homeostáticos se combinam com imagens geradas pelos canais exterocetivos para produzir subjetividade.",
+    "information_flow_or_representation": "Os sentimentos homeostáticos são espontaneamente informativos, sinalizando quão distante está o estado corrente do ideal homeostático. A consciência entrega este conhecimento valioso ao espaço mental de tomada de decisão.",
+    "evolutionary_account": "A consciência evoluiu cedo para fornecer uma vantagem adaptativa ao possibilitar a regulação deliberada da vida com base em informação sentida internamente acerca dos estados de sobrevivência.",
+    "core_claims_and_evidence": [
+      "A raiz fundamental da consciência são os sentimentos relacionados com o estado interior, homeostático, do organismo.",
+      "Os sentimentos homeostáticos possuem um 'estatuto consciente inerente' que fornece espontaneamente conhecimento crucial para a sobrevivência.",
+      "A consciência surgiu cedo na evolução por via da via afetiva/interocetiva, precedendo a via cognitiva."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiológico, evolutivo, fenomenológico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável. Enquanto teoria materialista fundada em processos fisiológicos no sistema nervoso, pode ser investigada por métodos biológicos e neurocientíficos.",
+    "known_empirical_interventions_or_tests": "As fontes não listam intervenções empíricas específicas nomeadas, mas a validação envolveria investigar a correlação entre os estados homeostáticos fisiológicos/sinalização interocetiva e os sentimentos conscientes reportados (explicação justificada).",
+    "criticisms_and_tensions": "Como muitas explicações biológicas, esta teoria centra-se primariamente no papel funcional e adaptativo da consciência (os 'problemas fáceis'), potencialmente deixando por explicar o 'problema difícil' (porque é que os estados homeostáticos são sentidos como algo), embora postule que os sentimentos possuem consciência de forma inerente.",
+    "open_questions_and_limitations": "O mecanismo preciso pelo qual os sentimentos homeostáticos adquirem a sua 'natureza consciente intrínseca' ou 'graça' permanece elusivo no quadro descritivo fornecido.",
+    "ontological_coherence": "Altamente coerente no seio do quadro materialista biológico, fornecendo um papel causal claro à consciência, ancorado nos sistemas evolutivos de suporte à vida."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Se os sistemas artificiais conseguirem alcançar um substrato capaz de regulação homeostática complexa e de gerar os requeridos 'sentimentos homeostáticos' que refletem o estado da 'vida' do sistema (ou um imperativo de sobrevivência equivalente), então a consciência da IA seria possível, de forma coerente com o Materialismo."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência é fundamentalmente dependente de processos biológicos, especificamente dos sentimentos homeostáticos que surgem no seio do sistema nervoso dos organismos complexos. Não há qualquer previsão de um componente não físico que sobreviva à morte do substrato biológico."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "A consciência evoluiu para servir a regulação da vida e a sobrevivência. Enquanto teoria materialista, alinha-se com a visão de que o sentido/propósito últimos estão ausentes, mas que o sentido e o valor são criados por seres humanos conscientes."
+    },
+    "virtual_immortality": {
+      "stance": "Provável",
+      "rationale": "Se os processos físicos (incluindo todos os mecanismos relacionados com a geração de sentimentos homeostáticos e a sua integração com imagens cognitivas) pudessem ser perfeitamente duplicados num meio não biológico, a duplicação perfeita resultante dos estados físicos acarretaria uma duplicação perfeita dos estados mentais, permitindo assim a imortalidade virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle",
+        "relationship": "Sobreposição"
+      },
+      {
+        "name": "Neurobiological Theories",
+        "relationship": "Extensão"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Compatível"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of what Happens: Body and Emotion in the Making of Consciousness, Antonio Damasio",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Feeling & Knowing: Making Minds Conscious, Antonio Damasio",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Feelings are the source of consciousness, Antonio Damasio and Hanna Damasio",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Homeostatic feelings and the emergence of consciousness, Antonio Damasio and Hanna Damasio",
+        "year": 2024
+      }
+    ]
+  }
+}

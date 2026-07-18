@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "O Neurofuncionalismo de Prinz: A Atenção Engendra a Experiência",
+    "summary": "Esta teoria afirma que a consciência decorre da atenção, a qual facilita o fluxo de informação percetiva para os sistemas de memória numa fase intermédia do processamento. Este processo assenta fundamentalmente na descarga neuronal sincronizada e resulta numa representação integrada do estímulo, que preserva o ponto de vista.",
+    "associated_thinkers": ["Jesse Prinz"],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "A Consciência como Representação Intermédia Atendida",
+    "classification_tags": [
+      "attention",
+      "neurofunctionalism",
+      "perceptual",
+      "representational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como o processo pelo qual uma representação integrada de um estímulo, que preserva o ponto de vista, se torna disponível para a memória de trabalho graças ao mecanismo da atenção.",
+    "ontological_status": "Fisicalismo redutivo",
+    "mind_body_relationship": "Prinz propõe uma «resposta neurofuncional» ao problema mente-corpo, combinando papéis funcionais com a sua realização neurobiológica subjacente, de tal modo que os estados mentais ficam plenamente contidos no materialismo.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca",
+    "subjectivity_and_intentionality": "A subjetividade é intrínseca ao «formato que preserva o ponto de vista» da representação tornada disponível pelo processo da atenção. Toda a consciência é percetiva, o que significa que a intencionalidade (direcionalidade) é fulcral, mas a autoconsciência não é diretamente experimentada.",
+    "qualia_account": "A teoria procura sintetizar achados empíricos para oferecer uma explicação materialista completa que contrarie o problema difícil . Os qualia são explicados como as representações integradas resultantes do processo da atenção .",
+    "ontological_commitments": "Descarga neuronal sincronizada, fases do processamento percetivo e representações de informação .",
+    "epistemic_access": "Acessível por exploração e modelação empíricas com fundamento neurocientífico, combinando dados funcionais e neurobiológicos .",
+    "constituents_and_structure": "Os componentes fundamentais são representações integradas numa fase intermédia do processamento, restringidas e possibilitadas pela descarga neuronal sincronizada ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Percetivo .",
+    "distinctive_mechanism_or_principle": "A atenção, que altera o fluxo de informação ao recorrer à descarga neuronal sincronizada para tornar as representações intermédias de informação percetiva disponíveis aos sistemas de memória .",
+    "dynamics_of_emergence": "A consciência é um processo dinâmico que surge quando a informação percetiva atinge a fase «intermédia» específica e é objeto da ação do mecanismo da atenção .",
+    "location_and_distribution": "Localizada numa fase específica e intermédia do processamento percetivo .",
+    "causation_and_functional_role": "A consciência é causalmente eficaz, desempenhando a função de tornar a informação percetiva prontamente disponível aos sistemas que viabilizam o comportamento flexível .",
+    "integration_or_binding": "A integração é alcançada pelo processo da atenção, que unifica as propriedades do estímulo num único formato que preserva o ponto de vista e é acessível à memória de trabalho .",
+    "information_flow_or_representation": "O fluxo de informação é modificado pela atenção para conceder acesso aos sistemas de memória, e a consciência assenta inteiramente em representações integradas .",
+    "evolutionary_account": "A consciência evoluiu para tornar a informação percetiva disponível aos sistemas que permitem o comportamento flexível, conferindo uma vantagem adaptativa . (Justificação: baseado na função da consciência explicitamente enunciada de viabilizar o comportamento flexível.)",
+    "core_claims_and_evidence": [
+      "A consciência depende da atenção e surge na fase intermédia do processamento percetivo .",
+      "Este processo assenta na descarga neuronal sincronizada .",
+      "Toda a experiência consciente é percetiva, servindo para viabilizar o comportamento flexível .",
+      "A teoria oferece uma explicação completa no âmbito do materialismo, resolvendo o problema difícil de Chalmers ."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurocientífica, Funcional, Filosófica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável",
+    "known_empirical_interventions_or_tests": "A teoria é apoiada por evidência que liga a descarga neuronal sincronizada à unidade e à duração temporal da experiência, servindo de base às suas afirmações neurobiológicas .",
+    "criticisms_and_tensions": "A afirmação de Prinz de uma «teoria satisfatória e surpreendentemente completa» inteiramente no âmbito do materialismo é rejeitada por críticos como David Chalmers, que argumentam que nenhuma explicação puramente física pode dar conta da experiência consciente .",
+    "open_questions_and_limitations": "A limitação central, tal como abordada pela própria teoria, é convencer os críticos (como Chalmers) de que uma descrição puramente funcional e neurobiológica basta para explicar a experiência fenomenal, apesar dos argumentos filosóficos contra o fisicalismo .",
+    "ontological_coherence": "Altamente coerente, uma vez que combina explicitamente o funcionalismo e a neurobiologia num quadro materialista consistente, com o objetivo de resolver os desafios dualistas tradicionais ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Provável",
+      "rationale": "Uma vez que a teoria identifica a consciência como um processo neurofuncional específico de tornar a informação disponível à memória via atenção, esta função computacional deveria ser alcançável em sistemas não biológicos suficientemente avançados ."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "Enquanto teoria inteiramente contida no materialismo, a consciência depende plenamente da organização e dos processos biológicos do cérebro (p. ex., a descarga neuronal sincronizada) e por eles é gerada, cessando com a destruição do cérebro ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "A função da consciência é pragmática — tornar a informação percetiva disponível para o comportamento flexível . Opera num paradigma materialista que tipicamente implica que o sentido e o propósito são autocriados, não cósmicos ."
+    },
+    "virtual_immortality": {
+      "stance": "Sim",
+      "rationale": "Dado o seu fundamento no neurofuncionalismo e o seu objetivo de uma explicação materialista completa , a duplicação funcional perfeita do sistema representacional baseado na atenção num substrato não biológico deveria preservar o eu consciente original na primeira pessoa ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Extensão"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Compatível"
+      },
+      {
+        "name": "Chalmers’s hard problem of consciousness",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Sobreposição"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Brain: How Attention Engenders Experience, Jesse J. Prinz",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The conscious brain, Christopher Mole",
+        "year": 2013
+      }
+    ]
+  }
+}

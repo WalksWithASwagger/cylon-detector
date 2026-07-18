@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Modelo da Consciência Projetiva",
+    "summary": "O Modelo da Consciência Projetiva (PCM) é um quadro matemático da consciência corporizada que propõe que o Campo da Consciência (FoC) é estruturado por uma geometria projetiva e controlado por inferência ativa. Liga a fenomenologia à função, argumentando que a consciência é um mecanismo evoluído que otimiza a integração de informação em prol da resiliência.",
+    "associated_thinkers": [
+      "David Rudrauf",
+      "Kenneth Williford",
+      "Daniel Bennequin",
+      "Karl Friston"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Homeostático e Afetivo",
+    "core_identity_tagline": "A Consciência como Geometria Projetiva e Inferência Ativa",
+    "classification_tags": [
+      "mathematical",
+      "embodied",
+      "active inference",
+      "projective geometry",
+      "free energy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como um mecanismo evoluído que otimiza a integração de informação e que funciona como um algoritmo para maximizar a resiliência. Os estados conscientes refletem a ação de transformações projetivas.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Consciência corporizada, em que a mente não se reduz exclusivamente à corporização, mas requer a estrutura física; o «corpo vivido» serve de representação inferencial crucial do corpo real.",
+    "primitive_or_emergent_status": "Emergiu",
+    "emergence_type": "Emergência fraca",
+    "subjectivity_and_intentionality": "O PCM dá conta da fenomenologia espacial da experiência subjetiva e liga a intencionalidade a processos afetivos. O FoC enquadra as experiências selecionando pontos de vista de acordo com preferências.",
+    "qualia_account": "A teoria dá conta da fenomenologia espacial da experiência subjetiva, sugerindo que os estados conscientes decorrem de transformações projetivas, embora não sejam fornecidos explicitamente pormenores sobre o carácter qualitativo específico («qualia»).",
+    "ontological_commitments": "Geometria projetiva, energia livre, sistemas corporizados, informação sensorial multimodal, traços de memória.",
+    "epistemic_access": "Acedido através da modelação matemática, da análise computacional e do estudo da fenomenologia espacial.",
+    "constituents_and_structure": "O Campo da Consciência (FoC), estruturado por uma geometria projetiva e assente no «corpo vivido» como interface de utilizador virtual para representação e controlo."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (fenomenologia espacial), perceção, imaginação, ação, processos afetivos (intencionalidade).",
+    "distinctive_mechanism_or_principle": "Um processo de inferência ativa que controla o FoC espacial, o qual é estruturado por uma geometria projetiva para transformar as expectativas. As violações da expectativa (energia livre) impulsionam a tomada de perspetiva.",
+    "dynamics_of_emergence": "Os estados conscientes são um processo dinâmico, surgindo quando se aplicam transformações projetivas, que governam a alternância entre perceção, imaginação e ação.",
+    "location_and_distribution": "Sistémica; a consciência é corporizada e envolve um sistema preditivo integrativo que projeta uma geometria espacial 3D global.",
+    "causation_and_functional_role": "Funciona para maximizar a resiliência e evidenciar vantagens computacionais. A consciência facilita a representação, a simulação, a avaliação e o controlo de informação e ações espacialmente distribuídas.",
+    "integration_or_binding": "A integração é alcançada através de um sistema preditivo integrativo que projeta uma geometria espacial 3D global sobre a informação sensorial multimodal e os traços de memória que acedem ao espaço de trabalho consciente.",
+    "information_flow_or_representation": "A consciência otimiza a integração de informação. Os quadros projetivos governam o modo como as expectativas são transformadas pela consciência. O «corpo vivido» é uma representação inferencial.",
+    "evolutionary_account": "A consciência evoluiu como mecanismo para otimizar o processamento de informação. Os sistemas corporizados obtiveram uma vantagem evolutiva ao desenvolver uma cognição integrativa do espaço.",
+    "core_claims_and_evidence": [
+      "O campo espacial da consciência é estruturado por uma geometria projetiva e controlado por inferência ativa.",
+      "A consciência é um mecanismo evoluído que otimiza a integração de informação em prol da resiliência.",
+      "O «corpo vivido» serve de representação inferencial crucial e de ponto de ancoragem para a integridade do eu."
+    ],
+    "basis_of_belief_or_evidence_type": "Matemática, Computacional, Fenomenológica, Funcional"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente testável",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "Altamente consistente no seio da ontologia materialista computacional e funcional, particularmente alinhada com o quadro do Princípio da Energia Livre."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Se as estruturas matemáticas e computacionais da geometria projetiva e da inferência ativa puderem ser implementadas com êxito em sistemas artificiais, de preferência corporizados, então a consciência da IA é possível."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "O modelo está enraizado na realidade física, sublinhando a consciência corporizada e princípios homeostáticos ligados ao cérebro biológico, não fornecendo qualquer base para uma sobrevivência pós-biológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas funcional",
+      "rationale": "A consciência é definida sobretudo como um mecanismo evoluído para maximizar a resiliência e otimizar o processamento de informação, implicando um propósito adaptativo em vez de um sentido cósmico último."
+    },
+    "virtual_immortality": {
+      "stance": "Condicional",
+      "rationale": "Enquanto modelo matemático funcional, a imortalidade virtual é concebível se a complexa dinâmica exigida da estrutura projetiva e o aspeto corporizado puderem ser perfeitamente simulados/replicados num substrato não biológico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Compatível"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A mathematical model of embodied consciousness, D. Rudrauf et al",
+        "year": 2017
+      }
+    ]
+  }
+}

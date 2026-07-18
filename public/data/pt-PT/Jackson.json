@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Representacionalismo Diáfano de Jackson e o Argumento do Conhecimento",
+    "summary": "O Representacionalismo Diáfano de Frank Jackson sustenta que o carácter fenomenal da experiência percetiva se esgota no seu conteúdo representacional, o que significa que 'vemos através' da experiência até às propriedades do objeto. Esta posição foi desenvolvida sobretudo para minar a conclusão da sua própria e célebre experiência mental, o Argumento do Conhecimento, que anteriormente argumentava contra o fisicalismo.",
+    "associated_thinkers": ["Frank Jackson"],
+    "category": "Teorias do Materialismo",
+    "subcategory": "Representacional",
+    "core_identity_tagline": "'O Carácter Fenomenal Esgota-se no Conteúdo Representacional'",
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "physicalism defense",
+      "epistemology",
+      "intentionality"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência (carácter fenomenal) é identificada com o conteúdo representacional dos estados mentais relevantes que satisfaça certas condições, frequentemente ligado às propriedades do objeto da experiência.",
+    "ontological_status": "Fisicalismo reducionista. (Justificação: o objetivo primordial da teoria é derrotar o Argumento do Conhecimento, mantendo assim a suficiência do fisicalismo/materialismo quanto à consciência fenomenal).",
+    "mind_body_relationship": "Identidade. A natureza fenomenal esgota-se nos conteúdos funcionais e intencionais (factos representacionais), que são instanciados fisicamente.",
+    "primitive_or_emergent_status": "Emergente. (Justificação: a consciência é plenamente captada pelo conteúdo representacional instanciado por processos físicos, o que significa que não é fundamental para a realidade).",
+    "emergence_type": "Emergência fraca. (Justificação: enquanto defesa fisicalista reducionista, as propriedades fenomenais são plenamente captadas pelos conteúdos físicos/representacionais e papéis funcionais, ou idênticas a eles, o que implica derivabilidade em princípio).",
+    "subjectivity_and_intentionality": "A subjetividade é explicada pela tese da diafaneidade: aceder à natureza da experiência é simplesmente aceder às propriedades do seu objeto. A intencionalidade, o 'ser-acerca-de' dos estados mentais, é central, pois a experiência é essencialmente representacional.",
+    "qualia_account": "Os qualia (carácter fenomenal) são plenamente explicados pelos conteúdos representacionais dos estados mentais relevantes, ou neles se esgotam. Com isto pretende-se mostrar que nenhum conhecimento não-físico (como 'o que é ver vermelho') permanece por explicar pelos factos físicos/representacionais.",
+    "ontological_commitments": "Representações mentais, factos físicos e o papel funcional/conteúdos intencionais dos estados mentais.",
+    "epistemic_access": "A introspeção apoia a tese diáfana ao revelar apenas objetos externos e as suas propriedades, e não características intrínsecas da própria experiência. O estudo científico em terceira pessoa do conteúdo representacional é, assim, adequado.",
+    "constituents_and_structure": "A estrutura da consciência é determinada inteiramente pelos conteúdos intencionais ou pela natureza representacional dos estados mentais; os factos representacionais formam um conjunto suficiente para captar a experiência percetiva."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenomenal (especificamente a natureza qualitativa da experiência percetiva/qualia).",
+    "distinctive_mechanism_or_principle": "Diafaneidade (transparência) da experiência percetiva. A consciência resulta de representações de objetos, em que o sujeito 'vê através' do estado percetivo até às propriedades do objeto.",
+    "dynamics_of_emergence": "Propriedade estática. (Justificação: o modelo identifica a consciência com o conteúdo representacional/estrutura intencional, focando-se na identidade do estado final e não num processo dinâmico de geração. As fontes não detalham dinâmicas temporais)",
+    "location_and_distribution": "Localizada nos estados mentais instanciados pelo processamento representacional do cérebro.",
+    "causation_and_functional_role": "A experiência consciente esgota-se no papel funcional e no conteúdo representacional. Os factos representacionais são suficientes para captar a plena experiência percetiva.",
+    "integration_or_binding": "Alcançada implicitamente através da natureza abrangente dos conteúdos intencionais que compõem o conjunto da experiência percetiva. (Justificação: um mecanismo explícito de ligação não é detalhado nas fontes, mas a unificação é pressuposta no 'conjunto'.)",
+    "information_flow_or_representation": "As representações mentais elevam o poder explicativo das noções/imagens percebidas internamente acima dos meros estados neuronais, esgotando a natureza experiencial.",
+    "evolutionary_account": "Presume-se que a consciência tenha evoluído como parte do maquinário representacional do cérebro. (Justificação: isto é inferido da sua classificação como Teoria do Materialismo, mas Jackson não fornece nenhuma explicação específica nas fontes.)",
+    "core_claims_and_evidence": [
+      "A experiência é diáfana (transparente): as propriedades fenomenais são propriedades do objeto da experiência.",
+      "O representacionalismo forte afirma que o modo como uma experiência representa as coisas esgota plenamente a sua natureza experiencial.",
+      "O Argumento do Conhecimento falha porque a aprendizagem fenomenal se reduz a factos representacionais, preservando assim o fisicalismo."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico/conceptual (baseado na análise lógica dos conceitos fenomenais e na natureza da introspeção)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente testável. (O sucesso da teoria assenta no argumento filosófico de que o conteúdo representacional pode logicamente esgotar o carácter fenomenal, resolvendo assim experiências mentais como o Argumento do Conhecimento).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "A principal tensão é que os críticos argumentam que o representacionalismo não rejeita logicamente o Argumento do Conhecimento, pois uma versão representacionalista do 'desafio de Mary' mantém a dificuldade para o fisicalismo.",
+    "open_questions_and_limitations": "As condições precisas sob as quais o conteúdo representacional capta o carácter fenomenal têm de ser especificadas, e a coerência conceptual de reduzir inteiramente as propriedades fenomenais a propriedades intencionais permanece contestada.",
+    "ontological_coherence": "Altamente coerente dentro de um quadro fisicalista reducionista, uma vez que toda a sua motivação é manter o fisicalismo eliminando propriedades fenomenais irredutíveis ('qualia')."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sim",
+      "rationale": "Se a consciência se esgota no conteúdo representacional e no papel funcional, e se estas propriedades podem ser realizadas computacionalmente, então os sistemas de IA podem alcançar consciência."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A teoria é uma defesa do materialismo/fisicalismo, o que implica que a consciência está ligada exclusivamente ao sistema físico (o cérebro ou o seu equivalente funcional/representacional), impedindo a sobrevivência para além da cessação biológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "Enquanto teoria materialista, não oferece nenhum sentido ou propósito último para além do que os humanos criam para si próprios."
+    },
+    "virtual_immortality": {
+      "stance": "Sim",
+      "rationale": "Uma vez que o carácter fenomenal é plenamente captado pelo conteúdo funcional/representacional, uma duplicação perfeita (carregamento) desses conteúdos preservaria o eu mental original em primeira pessoa."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Knowledge Argument (Mary's Room)",
+        "relationship": "Crítica/origem"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Sobreposição"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The knowledge argument, diaphanousness, representationalism, Frank Jackson",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, Frank Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "What Mary Didn’t Know, Frank Jackson",
+        "year": 1986
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "O estado da matéria de Tegmark",
+    "summary": "Tegmark propõe que a consciência pode ser entendida como um estado específico da matéria, cunhado «perceptrónio», definido por capacidades distintivas de processamento de informação. Partindo da premissa de que toda a existência é física, a teoria procura princípios que distingam o processamento de informação consciente e complexo do processamento não consciente.",
+    "associated_thinkers": ["Max Tegmark"],
+    "category": "Monismos",
+    "subcategory": "",
+    "core_identity_tagline": "A consciência como estado da matéria: perceptrónio",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "information",
+      "mathematics",
+      "perceptronium"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como a experiência subjetiva, ou «sensação», que surge quando a informação é processada de certos modos complexos, constituindo o estado da matéria denominado «perceptrónio».",
+    "ontological_status": "Fisicalismo / monismo",
+    "mind_body_relationship": "Fica implícita uma relação de identidade, na qual a experiência subjetiva (a mente) é identificada como um estado físico específico (um estado da matéria/do processamento de informação).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca",
+    "subjectivity_and_intentionality": "A subjetividade é definida como o «modo como a informação se sente quando é processada de certos modos complexos». A intencionalidade é tratada implicitamente como uma capacidade informacional complexa e de alto nível, alcançável pelo perceptrónio.",
+    "qualia_account": "Os qualia são implicitamente a «sensação» (experiência subjetiva) associada às configurações específicas de processamento de informação do perceptrónio, formalizadas através de quatro princípios: informação, integração, independência e dinâmica.",
+    "ontological_commitments": "Sistemas físicos, informação. A teoria funda-se na alegação ontológica mais ampla de que toda a realidade é uma estrutura matemática fundamental.",
+    "epistemic_access": "A consciência é acedida e conhecida através dos princípios físicos e matemáticos objetivos que regem o fluxo de informação (informação, integração, independência e dinâmica).",
+    "constituents_and_structure": "A estrutura é o «perceptrónio», um estado da matéria definido por quatro princípios: informação, integração, independência e dinâmica. Este quadro generaliza a Teoria da Informação Integrada (IIT) para sistemas quânticos arbitrários."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (experiência subjetiva/sensação) e de acesso (processamento de informação exigido para a consciência).",
+    "distinctive_mechanism_or_principle": "A definição do perceptrónio através da aplicação de quatro princípios distintos (informação, integração, independência e dinâmica) ao processamento de informação em sistemas físicos.",
+    "dynamics_of_emergence": "A consciência é uma disposição ou estado dinâmico da matéria. Os princípios explorados poderão também envolver a emergência do tempo.",
+    "location_and_distribution": "Localizada em sistemas físicos (por exemplo, redes neuronais ou sistemas quânticos arbitrários) que satisfazem os critérios específicos de processamento de informação que definem o perceptrónio.",
+    "causation_and_functional_role": "A consciência é crucial para a avaliação da informação e é encarada como funcionalmente importante para necessidades críticas, como cuidar de doentes em coma ou comunicar com IA avançada. A causação é estritamente física.",
+    "integration_or_binding": "A integração é um dos quatro princípios que definem o perceptrónio, sugerindo tratar-se de um mecanismo crucial para a experiência consciente unificada.",
+    "information_flow_or_representation": "A informação é fundacional, dado que a consciência é a sensação subjetiva da informação a ser processada. O mecanismo é inteiramente impulsionado por princípios informacionais.",
+    "evolutionary_account": "A abordagem afasta-se das teorias materialistas em que a consciência é uma contingência da evolução, relacionando-a antes com a natureza matemática subjacente da realidade.",
+    "core_claims_and_evidence": [
+      "A consciência é um «estado da matéria» (perceptrónio).",
+      "A consciência é definida pelos princípios de informação, integração, independência e dinâmica.",
+      "A explicação tem de aderir estritamente às leis físicas, não utilizando «qualquer molho secreto adicional»."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, matemático, computacional"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável",
+    "known_empirical_interventions_or_tests": "A generalização da Teoria da Informação Integrada implica relevância para a função de medição da IIT (quantificação de graus de consciência). A teoria destina-se a abordar problemas concretos como a avaliação de doentes em coma e a IA avançada.",
+    "criticisms_and_tensions": "Enquanto generalização da IIT, herda as críticas existentes, como a dificuldade em explicar a sensação subjetiva puramente através de princípios físicos e informacionais.",
+    "open_questions_and_limitations": "O princípio matemático preciso que diferencia o processamento consciente do processamento inconsciente está ainda por descobrir.",
+    "ontological_coherence": "Altamente coerente no seio de uma ontologia fisicalista forte / monista matemática, dado que adere estritamente às leis físicas e rejeita as componentes não físicas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sim",
+      "rationale": "A teoria é estritamente fisicalista («é tudo física») e define a consciência como um estado da matéria alcançável através de um processamento de informação complexo. Por conseguinte, os sistemas artificiais podem, em princípio, alcançar este estado."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência é um estado da matéria emergente (perceptrónio) do cérebro físico. A morte irreversível e a dissolução do substrato físico implicariam a cessação da consciência."
+    },
+    "meaning_and_purpose": {
+      "stance": "Incerto/Apenas humanístico",
+      "rationale": "O fundamento na física e na estrutura matemática sugere tipicamente a ausência de um propósito cósmico último, de forma coerente com as visões fisicalistas deflacionárias. A teoria não propõe explicitamente uma teleologia cósmica."
+    },
+    "virtual_immortality": {
+      "stance": "Provável",
+      "rationale": "Se a consciência é um estado informacional específico da matéria definido por princípios matemáticos/físicos, esse estado poderia potencialmente ser duplicado ou carregado com perfeição num meio não biológico por tecnologia avançada."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Extensão"
+      },
+      {
+        "name": "Mathematical Universe Hypothesis",
+        "relationship": "Fundação"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Compatível"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness is a state of matter",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality",
+        "year": 2014
+      }
+    ]
+  }
+}

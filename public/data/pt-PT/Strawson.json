@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "A teoria do panpsiquismo de Strawson",
+    "summary": "Strawson argumenta que qualquer filósofo que adote uma visão realista do fisicalismo tem de aceitar que todos os fenómenos físicos são intrinsecamente experienciais ou fenoménicos, o que conduz ao panpsiquismo (ou panexperiencialismo) como conclusão necessária do «materialismo real». A existência da experiência consciente, sendo o facto mais certo, não pode ser negada por um fisicalismo genuíno .",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "Panpsiquismos",
+    "subcategory": "Panexperiencialismo",
+    "core_identity_tagline": "«O materialismo real acarreta o panpsiquismo»",
+    "classification_tags": [
+      "real materialism",
+      "panexperientialism",
+      "monism",
+      "physicalism",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência (experiência) é identificada como uma propriedade fenoménica intrínseca e não redutível de toda a substância física ou energia fundamental (panexperiencialismo).",
+    "ontological_status": "Monismo realista / materialismo real",
+    "mind_body_relationship": "Teoria da identidade (sentido forte). Os fenómenos mentais são considerados fenómenos físicos concretos porque o fisicalismo real abrange todos os fenómenos reais, incluindo a experiência.",
+    "primitive_or_emergent_status": "Primitiva/Fundamental",
+    "emergence_type": "N/A (a consciência é primitiva). A teoria assenta na impossibilidade da emergência «radical» para sustentar a sua afirmação de que o panpsiquismo é acarretado pelo fisicalismo .",
+    "subjectivity_and_intentionality": "O caráter subjetivo da experiência (as características do «como é ser») é um facto natural concreto, fundamental e dado, que tem de ser reconhecido por qualquer fisicalista realista.",
+    "qualia_account": "Os qualia são propriedades reais, concretas e físicas do mundo; a sua negação é considerada «a afirmação mais tola alguma vez feita».",
+    "ontological_commitments": "Últimos físicos (energia/substância física) e propriedades fenoménicas/experienciais que lhes são inerentes.",
+    "epistemic_access": "Principalmente através da introspeção (a experiência é o fenómeno cuja existência é mais certa) e do argumento filosófico, pelo qual o panpsiquismo é logicamente derivado de uma compreensão realista do fisicalismo.",
+    "constituents_and_structure": "Os constituintes básicos são a substância física, que é fundamentalmente algo que envolve experiência, de tal modo que toda a energia pode supor-se ser um fenómeno que envolve experiência ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenoménica (experiência/qualia).",
+    "distinctive_mechanism_or_principle": "O princípio de que todos os fenómenos concretos são físicos, combinado com o facto de a experiência ser um fenómeno concreto e não poder emergir radicalmente, dita que a experiência é intrínseca à física fundamental.",
+    "dynamics_of_emergence": "A consciência é fundamental, não dinamicamente emergente no sentido radical . Se a emergência radical for rejeitada, a teoria sustenta o panexperiencialismo .",
+    "location_and_distribution": "Ubíqua, associada a cada parte ou aspeto da realidade física, à semelhança dos campos e partículas fundamentais .",
+    "causation_and_functional_role": "A consciência, sendo física, integra-se sem problemas no mundo natural. (O papel causal específico das experiências individuais fica implícito através do seu estatuto físico, mas não é detalhado nas fontes).",
+    "integration_or_binding": "A teoria enfrenta o problema da combinação do panpsiquismo (como as experiências ao nível micro se combinam em sujeitos conscientes macroscópicos). Este problema tem de ser resolvido para que o panpsiquismo seja a teoria vencedora . (Nenhum mecanismo de solução específico é detalhado por Strawson nas fontes).",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "Strawson aceita a consciência como física e sugere que a resposta apropriada à sua natureza poderá ser a «aceitação sem expectativa de compreensão», à semelhança da dualidade onda-partícula .",
+    "core_claims_and_evidence": [
+      "A consciência é inteiramente física .",
+      "A negação da experiência consciente é a afirmação mais tola alguma vez feita .",
+      "O fisicalismo real acarreta o panpsiquismo dada a impossibilidade da emergência radical ."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, conceptual, fenomenológico"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente testável. É uma proposta metafísica derivada de premissas filosóficas sobre a natureza do mundo físico. Nagasawa observa que o panpsiquismo, mesmo que verdadeiro, pode chegar a um «beco sem saída cognitivo» porque não pode ser provado .",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Amplamente considerado «absurdo» por alguns críticos . Sofre do problema da combinação, exigindo uma explicação de como as experiências ao nível micro se agregam para produzir propriedades macrofenoménicas.",
+    "open_questions_and_limitations": "Encontrar uma solução razoável para o problema da combinação é necessário para que a perspetiva se torne a solução mais promissora para o problema mente-corpo .",
+    "ontological_coherence": "Altamente consistente no seio da definição alargada proposta de materialismo/fisicalismo («monismo realista»), visando resolver o problema mente-corpo integrando a consciência na realidade física última."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Provavelmente",
+      "rationale": "Se a consciência é uma propriedade irredutível de cada entidade física elementar, então a IA, sendo composta de matéria física, deveria também possuir uma consciência interior, desde que o problema da combinação possa ser resolvido e os aspetos micropsíquicos possam ser manipulados por tecnologia avançada ."
+    },
+    "survival_beyond_death": {
+      "stance": "Improvável (hipótese remota)",
+      "rationale": "Embora o mundo esteja imbuído de consciência, a sobrevivência exige reverter o processo complexo de coalescência de elementos microscópicos em consciência macroscópica, o que parece difícil para a sobrevivência na primeira pessoa após a dissolução do cérebro ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Possível",
+      "rationale": "O panpsiquismo posiciona-se entre o materialismo (sem propósito último) e o dualismo/idealismo (com propósito último), sugerindo possível sentido/propósito/valor último ."
+    },
+    "virtual_immortality": {
+      "stance": "Provavelmente",
+      "rationale": "Se a consciência é uma propriedade intrínseca e regular do tecido da realidade, a tecnologia avançada poderia potencialmente aprender as regularidades necessárias para agregar ou manipular as forças micropsíquicas de modo a duplicar ou carregar a consciência ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Panpsychism",
+        "relationship": "Compatível/Influência"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Sobreposição/Síntese"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism and Other Essays, Galen Strawson",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      }
+    ]
+  }
+}

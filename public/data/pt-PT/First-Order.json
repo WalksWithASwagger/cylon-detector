@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Representacionalismo de Primeira Ordem",
+    "summary": "O Representacionalismo de Primeira Ordem (FOR) procura explicar a consciência reduzindo-a a estados intencionais externos, dirigidos ao mundo. Alega que o carácter fenomenal da experiência é inteiramente determinado pelo conteúdo da representação, identificando os qualia com as propriedades externas que a experiência representa os objetos como possuindo.",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "Teorias do Materialismo",
+    "subcategory": "Representacional",
+    "core_identity_tagline": "A consciência enquanto estados intencionais externos, dirigidos ao mundo",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Os aspetos fenomenais das experiências percetivas são uma e a mesma coisa que as propriedades externas do mundo real que a experiência representa os objetos como possuindo.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Teoria da identidade/correlação reducionista. Os estados mentais são identificados com representações realizadas em estados cerebrais que adquirem funções informacionais específicas.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca",
+    "subjectivity_and_intentionality": "A intencionalidade (o carácter dirigido do pensamento) é primária. A subjetividade é inteiramente determinada pelo conteúdo representacional, uma vez que as representações sensoriais estão diretamente disponíveis para o sujeito.",
+    "qualia_account": "Os qualia (carácter fenomenal) são identificados com o conteúdo representacional (representacionalismo forte) ou com as propriedades externas representadas pela experiência, resolvendo assim o problema difícil através de uma explicação redutiva.",
+    "ontological_commitments": "Representações mentais, estados cerebrais que adquirem funções informacionais, circuitos sensoriais/percetivos.",
+    "epistemic_access": "Acessível através de métodos na terceira pessoa centrados nos correlatos neuronais e na difusão global das representações, complementados pelo autorrelato.",
+    "constituents_and_structure": "Representações sensoriais de primeira ordem e conteúdos não conceptuais, difundidos globalmente no cérebro."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenomenal, consciência de acesso, experiência sensorial.",
+    "distinctive_mechanism_or_principle": "A consciência surge quando os estados cerebrais adquirem, tipicamente por seleção natural, a função de transportar informação relevante para objetos externos, tornando-se assim representações mentais.",
+    "dynamics_of_emergence": "A consciência surge dinamicamente à medida que conteúdos não conceptuais são difundidos globalmente por todo o cérebro para acesso e utilização.",
+    "location_and_distribution": "Os correlatos neuronais da consciência específica incluem a atividade no córtex sensorial e em núcleos talâmicos específicos, associados ao processamento recorrente em áreas percetivas.",
+    "causation_and_functional_role": "A consciência funciona para tornar a informação percetiva disponível a sistemas que permitem comportamento flexível, formação de crenças e seleção de ações.",
+    "integration_or_binding": "A integração é alcançada através da disponibilidade da informação sensorial (representações) em redes cognitivas globais (coocorrendo com a difusão global).",
+    "information_flow_or_representation": "As representações de primeira ordem fluem diretamente dos estímulos externos; o processamento de informação é crucial para transformar estados cerebrais em representações adequadas à consciência.",
+    "evolutionary_account": "A consciência evoluiu por seleção natural, através da qual os estados cerebrais adquiriram a função de transportar informação que aumenta as capacidades adaptativas do organismo.",
+    "core_claims_and_evidence": [
+      "As propriedades fenomenais são idênticas às propriedades externas do mundo real representadas pela experiência.",
+      "A experiência consciente coocorre com a difusão global de conteúdos não conceptuais de primeira ordem no cérebro.",
+      "Os estados conscientes são representações cujo conteúdo determina plenamente a sensação subjetiva."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (redução conceptual, foco na intencionalidade) e empírica (dados neurocientíficos de correlação)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável",
+    "known_empirical_interventions_or_tests": [
+      "Mapeamento dos correlatos neuronais da consciência geral e específica (córtex sensorial, núcleos talâmicos)",
+      "Estudos que correlacionam a consciência com a difusão global de conteúdos de primeira ordem"
+    ],
+    "criticisms_and_tensions": "Enfrenta o desafio geral das teorias representacionais: explicar a fenomenologia puramente em termos de intencionalidade. Os críticos questionam como é que a mera representação ou o conteúdo informacional pode dar conta plenamente da sensação qualitativa (qualia).",
+    "open_questions_and_limitations": "O mecanismo preciso pelo qual o conteúdo de uma representação não conceptual determina o «como é» subjetivo permanece um hiato explicativo, embora os defensores argumentem que o aspeto fenomenal é resolvido pela identidade com as propriedades externas.",
+    "ontological_coherence": "Altamente coerente no âmbito de uma ontologia materialista redutiva e funcionalista."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sim",
+      "rationale": "Enquanto teoria materialista em que a consciência depende do conteúdo informacional e da arquitetura funcional, os sistemas artificiais poderiam instanciar a consciência caso realizassem as estruturas representacionais e as funções informacionais necessárias."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência é integralmente realizada por processos físicos do cérebro; a sobrevivência para além da destruição do substrato biológico está excluída."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "Enquanto teoria do Materialismo, não racionaliza qualquer sentido ou propósito cósmico último, apenas o sentido gerado pelos próprios agentes conscientes."
+    },
+    "virtual_immortality": {
+      "stance": "Sim",
+      "rationale": "Se o eu na primeira pessoa é inteiramente captado pelo conteúdo representacional e pelos estados informacionais, uma duplicação perfeita (carregamento) desses estados para um suporte não biológico deverá preservar o eu mental original."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Crítica/contraste"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Extensão/sobreposição"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Compatível/sobreposição"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Influência"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

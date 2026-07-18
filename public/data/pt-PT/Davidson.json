@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "Monismo Anómalo de Davidson",
+    "summary": "O Monismo Anómalo postula que todo o evento mental é idêntico a um evento físico (identidade de ocorrências), mantendo uma ontologia monista. Contudo, a teoria insiste em que não existem leis naturais estritas e sem exceções que liguem os conceitos mentais (tipos) aos conceitos físicos, o que conduz à irredutibilidade da psicologia à física. Esta dupla afirmação resolve o aparente conflito entre a causação mental e a completude causal do mundo físico.",
+    "associated_thinkers": ["Donald Davidson"],
+    "category": "Monismos",
+    "subcategory": "Monismo Anómalo",
+    "core_identity_tagline": "As ocorrências mentais são físicas, os tipos mentais são anómalos",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "token identity",
+      "property dualism",
+      "mental causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "As entidades mentais (objetos e eventos particulares, ligados ao tempo e ao espaço, ou ocorrências) são entidades físicas. Contudo, os conceitos mentais não são redutíveis aos conceitos físicos por definição ou por lei natural.",
+    "ontological_status": "Monismo (Fisicalismo de Identidade de Ocorrências/Dualismo de Propriedades). A teoria sustenta que os eventos mentais têm uma ontologia física.",
+    "mind_body_relationship": "Identidade de Ocorrências: os eventos mentais são idênticos a eventos físicos. Tal justifica-se argumentando pela impossibilidade de identidades de tipos entre propriedades mentais e físicas. A teoria é uma forma de dualismo de propriedades.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência Forte. (Justificação: as propriedades mentais são em princípio irredutíveis e não podem ser captadas por leis psicofísicas estritas, o que se alinha com uma irredutibilidade forte.)",
+    "subjectivity_and_intentionality": "A teoria aborda a essência intencional dos fenómenos mentais (por exemplo, o seu caráter de ser acerca de algo) como uma propriedade que distingue os fenómenos mentais das leis ou coisas físicas.",
+    "qualia_account": "O sentir qualitativo (qualia) é incorporado na categoria mais ampla das propriedades/conceitos mentais que são anómalos — o que significa que não estão sujeitos a redução por conceitos ou leis físicas.",
+    "ontological_commitments": "Entidades e eventos físicos (ocorrências); propriedades/conceitos mentais irredutíveis (tipos).",
+    "epistemic_access": "Conhecido através da análise filosófica da causalidade e das exigências próprias da explicação psicológica, que não pode gerar leis sem exceções como as da física.",
+    "constituents_and_structure": "Os constituintes são entidades/eventos físicos, mas a consciência é estruturada por conceitos/propriedades mentais que são irredutíveis."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Eventos mentais (ocorrências); causação mental; intencionalidade.",
+    "distinctive_mechanism_or_principle": "Anomalismo Mental: a afirmação de que não existem leis naturais que liguem os fenómenos mentais aos fenómenos físicos, ainda que os eventos mentais causem eventos físicos e todas as relações causais estejam sustentadas por leis naturais (a identidade de ocorrências justifica-se pela impossibilidade da identidade de tipos).",
+    "dynamics_of_emergence": "Os estados mentais conscientes surgem como eventos físicos únicos (ocorrências), caracterizados pelo facto de não poderem ser regidos por leis preditivas estritas como as da física de base.",
+    "location_and_distribution": "Os eventos mentais são entidades físicas, logo estão localizados no cérebro/substrato físico.",
+    "causation_and_functional_role": "Os eventos mentais possuem poderes causais genuínos e causam eventos físicos.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Os fenómenos mentais são definidos pela sua essência intencional, que parece radicalmente diferente das leis puramente físicas.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Os eventos mentais (ocorrências) são idênticos a eventos físicos.",
+      "As propriedades mentais (tipos) não são redutíveis a conceitos físicos ou a lei natural.",
+      "Os eventos mentais têm poderes causais genuínos e causam eventos físicos.",
+      "A psicologia não pode gerar leis sem exceções para prever os pensamentos e as ações humanas (anomalismo mental)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico (argumento dedutivo baseado em três premissas sobre a causalidade e o caráter nomológico)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptual/Filosófico. (Justificação: as afirmações centrais da teoria assentam na necessidade filosófica quanto à natureza da causalidade e da explicação psicológica.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "A principal tensão surge da conjunção de três afirmações: (i) a causação mental existe, (ii) toda a causação é sustentada por leis, e (iii) não existem leis psicofísicas. Esta conjunção parece, à primeira vista, inconsistente ou contraditória.",
+    "open_questions_and_limitations": "O quadro tem de dar conta plenamente de como a causação mental pode ocorrer se não existirem leis estritas que relacionem os tipos de propriedade mental com os tipos de propriedade física (o problema da eficácia causal das propriedades anómalas).",
+    "ontological_coherence": "A consistência interna alcança-se, desde que as três premissas fundadoras sejam aceites como válidas, uma vez que a conclusão da identidade de ocorrências está nelas contida. Partilha características com o Fisicalismo Não-Redutivo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possível",
+      "rationale": "Uma vez que a ontologia é fundamentalmente monista (todos os eventos mentais são eventos físicos), a consciência da IA é possível em princípio se os sistemas físicos complexos relevantes puderem ser replicados em meios artificiais, ainda que a ausência de leis mentais previsíveis (anomalismo) complique a avaliação."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "Os eventos mentais dependem de eventos físicos (identidade de ocorrências). A sobrevivência para além da destruição do substrato biológico fica excluída sob este pressuposto materialista."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanístico",
+      "rationale": "Enquanto teoria de monismo ontológico, alinha-se com as categorias materialistas que, em geral, não racionalizam um sentido ou propósito último para além do que os humanos criam para si próprios."
+    },
+    "virtual_immortality": {
+      "stance": "Provável",
+      "rationale": "Se o substrato físico (o padrão cerebral) for duplicado, os eventos mentais (que são idênticos a essas ocorrências) deveriam ser igualmente duplicados, tornando a imortalidade virtual alcançável, à semelhança de outras concepções fisicalistas não-redutivas."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Non-Reductive Physicalism", "relationship": "Sobreposição" },
+      { "name": "Property Dualism", "relationship": "Sobreposição" },
+      {
+        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Dualismo de Propriedades",
+    "summary": "O Dualismo de Propriedades sustenta que, embora a substância física seja a única substância fundamental, existem duas categorias irredutíveis de propriedades: as físicas e as mentais . As propriedades mentais, como a experiência consciente, são geradas pelos cérebros físicos, mas não podem ser reduzidas às propriedades físicas nem inteiramente explicadas apenas por elas .",
+    "associated_thinkers": [
+      "David Chalmers (for Naturalistic Dualism, a variant); historically influenced by numerous philosophers seeking to preserve mental reality within a monist substance framework."
+    ],
+    "category": "Dualismos",
+    "subcategory": "Dualismo de Propriedades",
+    "core_identity_tagline": "Uma Substância, Duas Propriedades Irredutíveis (Mental e Física)",
+    "classification_tags": [
+      "irreducible properties",
+      "non-reductive",
+      "physicalism",
+      "dualism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência consiste em propriedades ou aspetos mentais (p. ex., pensamentos, conceitos, ideias) que são fundamentalmente não redutíveis a propriedades físicas, ainda que ambos sejam instanciados por sistemas físicos (cérebros) .",
+    "ontological_status": "Fisicalismo (quanto à substância) / Dualismo de Propriedades (quanto às propriedades) .",
+    "mind_body_relationship": "A mente (as propriedades mentais) é não redutível e ontologicamente distinta das propriedades físicas, embora seja inteiramente gerada por estados físicos (cérebros) .",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência forte (uma vez que as propriedades mentais são, em princípio, irredutíveis e inexplicáveis apenas pelas leis físicas) .",
+    "subjectivity_and_intentionality": "A subjetividade (a experiência fenomenal na primeira pessoa) surge como uma propriedade/aspeto inerente e não redutível da pessoa humana física . A intencionalidade está implicitamente incluída como uma das propriedades/aspetos mentais fundamentais .",
+    "qualia_account": "Os qualia (as experiências qualitativas sentidas) são as propriedades mentais irredutíveis que resistem a ser definidas apenas em termos de propriedades microfísicas .",
+    "ontological_commitments": "Substância física (matéria) e propriedades mentais não redutíveis (incluindo pensamentos, conceitos, ideias) .",
+    "epistemic_access": "Acessível tanto pela observação na terceira pessoa da base física (cérebros) como pela introspeção na primeira pessoa das propriedades emergentes (a subjetividade).",
+    "constituents_and_structure": "A substância física é constituída pelos componentes da física fundamental, organizados em estruturas complexas (cérebros), que geram as propriedades mentais ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Propriedades fenomenais, pensamentos, conceitos e ideias .",
+    "distinctive_mechanism_or_principle": "O princípio da irredutibilidade das propriedades mentais, que sustenta que os aspetos fenomenais são distintos das propriedades físicas .",
+    "dynamics_of_emergence": "As propriedades mentais surgem quando a matéria física atinge um certo nível de complexidade (isto é, o cérebro).",
+    "location_and_distribution": "Localizadas em objetos físicos (pessoas humanas/cérebros) .",
+    "causation_and_functional_role": "As propriedades mentais são causalmente eficazes, afetando o mundo físico (uma posição que contrasta com o Epifenomenalismo) .",
+    "integration_or_binding": "Não é explicitamente detalhado. Presume-se que a integração ocorra no seio da estrutura cerebral física que produz a propriedade/aspeto mental unificado.",
+    "information_flow_or_representation": "As propriedades/aspetos mentais incluem conceitos e ideias , o que implica um envolvimento em processamento informacional/representacional complexo.",
+    "evolutionary_account": "Não é explicitamente detalhado. A emergência das propriedades está condicionada à evolução de uma complexidade biológica capaz de as gerar .",
+    "core_claims_and_evidence": [
+      "As pessoas humanas são objetos inteiramente físicos, compostos por componentes físicos fundamentais .",
+      "As propriedades mentais (p. ex., a consciência fenomenal) são geradas pelos cérebros físicos, mas são irredutíveis apenas às propriedades físicas .",
+      "A potencial falha da superveniência é demonstrada através de argumentos de concebibilidade (p. ex., os zombies filosóficos) ."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica; Conceptual (aborda a aparente insuficiência de um fisicalismo puramente redutivo) ."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptual/Filosófica (a testabilidade assenta na possibilidade lógica e nas implicações de cenários contrafactuais como os zombies filosóficos) .",
+    "known_empirical_interventions_or_tests": "Experiências mentais que envolvem «zombies» fisicamente indiscerníveis ou pessoas com espectros de cor invertidos (a falha da superveniência) .",
+    "criticisms_and_tensions": "Tem de esclarecer como estados mentais diferentes surgem exatamente do mesmo estado microfísico caso a superveniência falhe . Os críticos argumentam que as motivações do Dualismo de Propriedades conduzem, em última análise, ao Dualismo de Substâncias .",
+    "open_questions_and_limitations": "O modo preciso pelo qual as propriedades mentais exercem influência causal sobre o cérebro físico (a causação mental) permanece controverso e carece de especificação .",
+    "ontological_coherence": "Elevada consistência interna, mas enfrenta tensão ao manter rigorosamente que propriedades não redutíveis possam surgir exclusivamente de um mundo físico monista, e ser causalmente eficazes no seu interior ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "A IA poderia ser consciente se os sistemas não biológicos conseguissem instanciar a organização física complexa específica exigida para gerar as propriedades mentais irredutíveis descritas ."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência consiste em propriedades geradas pelo cérebro físico. Estas propriedades deixam de existir quando a substância física (cérebro/corpo) se dissolve com a morte ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Não enunciado/Neutro",
+      "rationale": "A teoria centra-se em categorias ontológicas e relações de propriedades; aceita uma substância fundamentalmente física e não subscreve inerentemente qualquer teleologia cósmica ."
+    },
+    "virtual_immortality": {
+      "stance": "Possível",
+      "rationale": "Se a consciência for uma propriedade emergente de uma organização física específica, replicar esse estado físico completo (a estrutura cerebral) num substrato não biológico deveria gerar as mesmas propriedades mentais ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Sobreposição/Compatível (frequentemente tratado como sinónimo ou intimamente relacionado)"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "Crítica/Contraste (rejeita o dualismo de substância mas mantém o dualismo de propriedade)"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Crítica/Contraste (o Dualismo de Propriedades geralmente concede eficácia causal aos estados mentais, ao contrário do Epifenomenalismo)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Dualism in the Philosophy of Mind, Dean Zimmerman",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Mind-Body Problem and Metaphysics: an Argument from Consciousness to Mental Substance, Ralph Weir",
+        "year": 2023
+      }
+    ]
+  }
+}

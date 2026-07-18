@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "A Consciência Sem Cérebros Complexos de Andrews",
+    "summary": "Esta perspetiva critica o enviesamento neurocêntrico dos estudos da consciência, que pressupõe que apenas cérebros mamíferos complexos podem sustentar a consciência. Propõe que a consciência é multiplamente realizável em diversos sistemas físicos e defende o estudo de animais mais simples (como as abelhas ou os polvos) para identificar as características fundamentais, e não contingentes, da senciência.",
+    "associated_thinkers": [
+      "Kristin Andrews"
+    ],
+    "category": "Teorias Materialistas",
+    "subcategory": "Evolução Filogenética",
+    "core_identity_tagline": "Consciência realizada através de múltiplos sistemas simples",
+    "classification_tags": [
+      "evolution",
+      "animal minds",
+      "multiple realizability",
+      "comparative cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como a capacidade subjacente que possibilita perfis comportamentais robustos (por exemplo, evitação da dor, procura de nutrientes), que podem ser instanciados por sistemas físicos muito distintos (realizabilidade múltipla).",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "A consciência correlaciona-se com processos físicos, e é instanciada por eles, mas esta relação é flexível, admitindo substratos neuronais não complexos e filogeneticamente distantes (realizabilidade múltipla), por contraste com as teorias de identidade estritas centradas apenas em cérebros complexos.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca",
+    "subjectivity_and_intentionality": "A subjetividade e a intencionalidade são inferidas a partir dos perfis comportamentais robustos exibidos pelos animais (por exemplo, o movimento intencional em direção a estímulos desejados), o que sugere que estas capacidades mentais estão ligadas a diversos mecanismos físicos.",
+    "qualia_account": "A abordagem pressupõe a existência de experiência fenoménica (senciência) em animais mais simples, procurando identificar a base física essencial da consciência, independentemente das características cerebrais complexas tradicionalmente associadas aos qualia.",
+    "ontological_commitments": "Sistemas físicos capazes de sustentar comportamento senciente, em particular sistemas neurológicos diversos (cefalópodes, artrópodes, vertebrados).",
+    "epistemic_access": "Acedido primordialmente através da observação e análise de um perfil robusto de comportamentos adaptativos em diversas espécies, a par de marcadores gerais de consciência (por exemplo, autorreconhecimento, reação à estimulação).",
+    "constituents_and_structure": "A estrutura física específica é variável (realizabilidade múltipla), centrando-se na organização necessária dentro dos sistemas biológicos, potencialmente incluindo circuitos neuronais simples, em vez de estruturas específicas como o córtex cerebral."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenoménica (senciência), comportamento adaptativo, aprendizagem, autoconsciência (tal como estudada através de marcadores).",
+    "distinctive_mechanism_or_principle": "O princípio da realizabilidade múltipla, que afirma que as capacidades mentais não se confinam à arquitetura neuronal mamífera complexa, orientando a investigação para a identificação de marcadores comportamentais universais da consciência em espécies filogeneticamente distantes.",
+    "dynamics_of_emergence": "Evoluiu através do desenvolvimento filogenético, tendo potencialmente surgido apenas uma vez num antepassado comum semelhante a um verme ou independentemente em linhagens distintas (por exemplo, artrópodes, cefalópodes, vertebrados).",
+    "location_and_distribution": "Distribuída por vários organismos na árvore da vida (por exemplo, abelhas, polvos, vermes), questionando o foco neurocêntrico na localização em mamíferos superiores.",
+    "causation_and_functional_role": "A consciência funciona como uma vantagem adaptativa, permitindo aos organismos resolver problemas de sobrevivência, como evitar a dor e procurar nutrientes, e sustentando o comportamento flexível.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "A investigação relacionada aborda temas-chave como a representação mental, mas o núcleo da teoria enfatiza os perfis comportamentais associados à experiência.",
+    "evolutionary_account": "A consciência surgiu através da evolução, selecionada pelo seu papel na promoção da sobrevivência; estudar múltiplas instâncias de consciência evoluída ajuda a distinguir as características essenciais das contingentes (o «problema N = 1»).",
+    "core_claims_and_evidence": [
+      "Concentrar-se exclusivamente em cérebros mamíferos complexos (como os dos primatas) resulta num «problema N = 1» que impede a identificação das características verdadeiramente essenciais da consciência.",
+      "A senciência provavelmente evoluiu apenas algumas vezes na Terra ou, talvez, apenas uma vez num antepassado comum distante.",
+      "Perfis comportamentais robustos (por exemplo, afastar-se de estímulos dolorosos) justificam a hipótese de que animais mais simples são conscientes."
+    ],
+    "basis_of_belief_or_evidence_type": "Biologia comparada, filosófica, empírica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável através de estudos comportamentais comparativos, ainda que desafiante devido às limitações da avaliação entre espécies.",
+    "known_empirical_interventions_or_tests": [
+      "Análise dos marcadores de consciência identificados na Declaração de Cambridge (por exemplo, circuitos cerebrais homólogos, autorreconhecimento no espelho)",
+      "Observação comportamental de respostas adaptativas (por exemplo, evitação da dor, procura de nutrientes)"
+    ],
+    "criticisms_and_tensions": "Contradiz o senso comum convencional predominante nos estudos da consciência, que exige um cérebro complexo para a consciência. Se a consciência for encontrada em antepassados distantes, as teorias que assentam em regiões cerebrais especializadas (como o córtex cerebral para a integração de informação) são postas em causa.",
+    "open_questions_and_limitations": "O «problema N = 1» permanece se a senciência evoluiu apenas uma vez num antepassado muito antigo, o que significa que a característica subjacente essencial relativa à senciência continua desconhecida.",
+    "ontological_coherence": "Coerente dentro de um quadro amplamente fisicalista, funcionando como uma crítica metodológica às teorias materialistas excessivamente específicas quanto ao substrato físico necessário."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Provável",
+      "rationale": "Se a consciência é multiplamente realizável em diversos sistemas biológicos, é altamente provável que possa ser instanciada em sistemas não biológicos (artificiais) que alcancem a organização funcional e a complexidade comportamental necessárias, embora a compreensão das mentes animais seja crucial para esse objetivo."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "Enquanto teoria enraizada no materialismo e na evolução filogenética, a consciência depende fundamentalmente de hardware físico/biológico e não postula uma substância não física capaz de sobreviver após a morte."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanista/Adaptativo",
+      "rationale": "O foco recai sobre o papel funcional e adaptativo evoluído da consciência na promoção da sobrevivência e do florescimento, o que sustenta um sentido humanista derivado da existência biológica, e não de uma teleologia cósmica."
+    },
+    "virtual_immortality": {
+      "stance": "Provável",
+      "rationale": "O conceito central de «realizabilidade múltipla» implica que o eu mental consciente poderia ser reproduzido em hardware não biológico, desde que as propriedades funcionais fossem duplicadas com exatidão."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Compatível"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Sobreposição"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is it like to be a crab?, Kristin Andrews",
+        "year": ""
+      },
+      {
+        "title_with_names": "How to Study Animal Minds, Kristin Andrews",
+        "year": 2020
+      },
+      {
+        "title_with_names": "What has feelings?, Kristin Andrews and Jonathan Birch",
+        "year": 2023
+      }
+    ]
+  }
+}

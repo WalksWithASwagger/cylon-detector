@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "A Teoria da Monitorização da Realidade Percetiva de Lau",
+    "summary": "Esta teoria de ordem superior, empiricamente fundamentada, propõe que a perceção consciente ocorre quando uma representação de ordem superior (ROS) específica valida uma representação sensorial de primeira ordem como um reflexo fiável do mundo externo. A ROS atua como uma interface entre a perceção e a cognição, fornecendo o sentido subjetivo de justificação para a experiência consciente.",
+    "associated_thinkers": ["Hakwan Lau"],
+    "category": "Materialismo",
+    "subcategory": "Representacional",
+    "core_identity_tagline": "'A Consciência como Monitorização da Realidade Percetiva'",
+    "classification_tags": [
+      "higher-order theory",
+      "representationalism",
+      "metacognition",
+      "functionalism",
+      "neurobiological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é um mecanismo funcional ou uma interface entre a perceção e a cognição, instanciada por representações de ordem superior que monitorizam a fiabilidade e o estatuto epistémico dos estados sensoriais de primeira ordem.",
+    "ontological_status": "Fisicalismo / funcionalismo",
+    "mind_body_relationship": "A consciência é idêntica à atividade funcional específica de mecanismos neuronais de ordem superior (provavelmente no córtex pré-frontal) que monitorizam as representações sensoriais de primeira ordem. Trata-se de uma explicação materialista baseada na função cerebral.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca. A consciência é uma função que surge de estruturas organizacionais complexas específicas (ROS) no cérebro, o que sugere que é explicável ou redutível em princípio, em consonância com a sua classificação materialista.",
+    "subjectivity_and_intentionality": "A subjetividade surge da conexão da consciência à formação de crenças e à justificação epistémica a um nível subjetivo. A intencionalidade é veiculada pela representação percetiva de primeira ordem que está a ser monitorizada.",
+    "qualia_account": "O 'como-é-ser' subjetivo é explicado por representações de ordem superior que acedem a sinais percetivos analógicos mais ricos e de nível inferior. A natureza analógica destes sinais determina a semelhança subjetiva relativamente a outras experiências possíveis.",
+    "ontological_commitments": "Representações percetivas de primeira ordem, representações de monitorização de ordem superior (ROS) e mecanismos neuronais específicos localizados sobretudo no córtex pré-frontal.",
+    "epistemic_access": "Acessível através de investigação empírica e de modelação neuronal, focada nas semelhanças entre a perceção consciente e os mecanismos de metacognição sensorial. A própria ROS é um processo subpessoal, mas a sua saída conduz a inferências subjetivamente justificadas para o agente.",
+    "constituents_and_structure": "A estrutura envolve um processo de dois níveis: representações de primeira ordem (sensoriais) que são etiquetadas ou monitorizadas por representações de ordem superior (cognitivas/metacognitivas), formando uma interface mecanicista entre a perceção e a cognição."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (perceção e qualia), cognitiva (metacognição, formação de crenças), de acesso (como consequência potencial).",
+    "distinctive_mechanism_or_principle": "O funcionamento de uma representação de ordem superior (ROS) como uma 'etiqueta ou rótulo' que indica a fiabilidade percebida das representações sensoriais de primeira ordem (Monitorização da Realidade Percetiva), distinguindo-a da fantasia ou do ruído neuronal.",
+    "dynamics_of_emergence": "A consciência surge dinamicamente com a instanciação do mecanismo funcional específico da ROS, servindo de interface crítica entre a entrada sensorial e o processamento cognitivo.",
+    "location_and_distribution": "O mecanismo reside provavelmente no córtex pré-frontal dos mamíferos, fora das regiões sensoriais primárias, sobrepondo-se a áreas responsáveis pela metacognição percetiva.",
+    "causation_and_functional_role": "A ROS atua como um mecanismo de comportas para encaminhar a informação sensorial fiável para processamento cognitivo posterior, assegurando que o agente consegue distinguir a realidade da fantasia de forma fiável.",
+    "integration_or_binding": "A representação de ordem superior acede a perceções analógicas mais ricas e de nível inferior das representações de primeira ordem, o que implica que este processo de monitorização facilita a integração necessária para uma experiência fenomenal unificada.",
+    "information_flow_or_representation": "A informação flui de representações sensoriais espacialmente 'analógicas' (de primeira ordem) para sistemas cognitivos de ordem superior, possibilitando vantagens computacionais e determinando o carácter qualitativo.",
+    "evolutionary_account": "A teoria é consistente com uma explicação evolutiva, uma vez que incorpora um discriminador (análogo à IA) que reforça a sobrevivência ao diferenciar de forma fiável as perceções verdadeiras do mundo das imagens autogeradas ou do ruído.",
+    "core_claims_and_evidence": [
+      "A perceção consciente exige uma representação de ordem superior que valide a entrada sensorial de primeira ordem como fiável.",
+      "Os mecanismos neuronais da perceção consciente sobrepõem-se aos da metacognição sensorial (córtices pré-frontal e parietal).",
+      "A teoria explica coerentemente a visão cega como a ocorrência de uma representação de primeira ordem sem a correspondente representação de ordem superior necessária."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírico/neurocientífico-cognitivo, funcionalista"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável ao mapear e comparar os correlatos neuronais da perceção consciente e da metacognição sensorial, e através do poder preditivo relativo aos fenómenos de visão cega.",
+    "known_empirical_interventions_or_tests": [
+      "Estudos de neuroimagiologia que correlacionam a atividade pré-frontal/parietal com a metacognição sensorial e a perceção consciente."
+    ],
+    "criticisms_and_tensions": "Lau critica os modelos rivais, posicionando a teoria como uma abordagem 'centrista' superior, intermédia entre a Teoria do Espaço de Trabalho Global (demasiado focada no acesso) e as teorias puramente locais/recorrentes (demasiado focadas nas áreas sensoriais precoces). Enfrenta a dificuldade habitual de explicar porque é que a monitorização/metacognição haveria de produzir o 'como-é-ser' qualitativo.",
+    "open_questions_and_limitations": "Necessita de fundamentar plenamente a ambiciosa alegação de que uma representação mecanicista e analógica, acedida por uma etiqueta de ordem superior, pode explicar cabalmente a qualidade subjetiva da experiência.",
+    "ontological_coherence": "Altamente coerente dentro de um quadro materialista neurobiológico e funcionalista."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Provável",
+      "rationale": "Enquanto teoria funcionalista, a consciência depende da implementação da arquitetura informacional/funcional correta (o mecanismo da ROS). Se esta arquitetura puder ser instanciada num robô ou programa de computador, a consciência artificial é possível."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência está explicitamente ligada a mecanismos neuronais específicos e especializados, localizados no cérebro biológico (por exemplo, o córtex pré-frontal), não deixando espaço para a persistência após a morte biológica."
+    },
+    "meaning_and_purpose": {
+      "stance": "Apenas humanista",
+      "rationale": "O papel primordial do mecanismo é funcional (distinguir a realidade da fantasia e encaminhar a informação). Não oferece qualquer propósito cósmico ou último para além das vantagens adaptativas conferidas por este mecanismo biológico."
+    },
+    "virtual_immortality": {
+      "stance": "Provável",
+      "rationale": "Se a arquitetura funcional e informacional específica, incluindo a natureza analógica das representações, puder ser perfeitamente carregada e executada num substrato não-biológico, o eu mental em primeira pessoa seria preservado, porque a consciência é definida por essa estrutura funcional."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Instância específica/extensão"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Crítica (posicionada como alternativa intermédia superior)"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Crítica (posicionada como alternativa intermédia superior)"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Compatível (partilha uma abordagem funcionalista/cognitiva para explicar as alegações de consciência)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness, metacognition, & perceptual reality monitoring, Hakwan Lau",
+        "year": 2019
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Is consciousness a battle between your beliefs and perceptions?, Hakwan Lau",
+        "year": 2019
+      }
+    ]
+  }
+}

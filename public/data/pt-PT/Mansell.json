@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoria do Controlo Percetivo (PCT) de Mansell",
+    "summary": "Esta teoria propõe que a consciência emerge do processo vital de reorganização necessário para modificar adaptativamente os sistemas de controlo. Esta modificação visa reduzir o erro nos mecanismos intrínsecos que regem variáveis essenciais, na sua maioria fisiológicas. A consciência abrange aspetos primários (fenoménico), secundários (de acesso) e terciários (autoconsciência), associados a funções de controlo hierárquicas.",
+    "associated_thinkers": ["Warren Mansell"],
+    "category": "Materialismo",
+    "subcategory": "Homeostática e Afetiva",
+    "core_identity_tagline": "A consciência como reorganização que minimiza o erro intrínseco",
+    "classification_tags": [
+      "homeostatic",
+      "control theory",
+      "emergentism",
+      "purposiveness",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência primária (fenoménica) é identificada como emergindo diretamente do processo de reorganização exigido pela modificação adaptativa dos sistemas de controlo que minimizam o erro nos sistemas fisiológicos intrínsecos.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "Emergentista. A mente decorre de processos de reorganização que ocorrem no interior de sistemas de controlo físicos (cérebro/corpo).",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca. Com base na sua classificação no materialismo, assume-se que os processos fundamentais que regem a consciência (reorganização, redução do erro) são explicáveis em princípio por leis físicas subjacentes.",
+    "subjectivity_and_intentionality": "A subjetividade decorre implicitamente do controlo de variáveis percetivas hierarquicamente organizadas. A intencionalidade é abordada através da «intencionalidade prática» (purposiveness), que é o controlo exercido sobre estas variáveis percetivas para alcançar um objetivo (valor de referência).",
+    "qualia_account": "A consciência primária (fenoménica) emerge do processo específico de reorganização exigido pela redução do erro nos sistemas intrínsecos que controlam as variáveis fisiológicas básicas.",
+    "ontological_commitments": "Sistemas de controlo hierárquicos, variáveis fisiológicas, variáveis percetivas e símbolos (para a consciência terciária).",
+    "epistemic_access": "Acedida através do estudo dos processos de modificação adaptativa (reorganização) e da associação das funções de controlo hierárquicas aos três níveis de consciência (primário, secundário, terciário).",
+    "constituents_and_structure": "A estrutura básica é um sistema de variáveis percetivas hierarquicamente organizadas, reguladas por outputs concebidos para contrariar perturbações e reduzir o erro entre o valor atual e o estado-objetivo."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (primária), acesso (secundária), autoconsciência (terciária)",
+    "distinctive_mechanism_or_principle": "A reorganização, definida como o processo que modifica adaptativamente os sistemas de controlo internos para manter as variáveis essenciais face a perturbações externas, gerando assim a consciência.",
+    "dynamics_of_emergence": "Processo dinâmico. A consciência secundária (de acesso) é sustentada pelo controlo da taxa de integração de nova informação através do comportamento exploratório, da atenção e da imaginação.",
+    "location_and_distribution": "Sistémica. A consciência decorre da dinâmica de reorganização ao longo dos sistemas de controlo hierárquicos do organismo (cérebro/corpo).",
+    "causation_and_functional_role": "A consciência tem o papel funcional da modificação adaptativa e da redução do erro. A consciência terciária (autoconsciência) proporciona reflexão e aprendizagem através de sistemas simbólicos.",
+    "integration_or_binding": "A integração é um processo ativamente gerido e controlado pela consciência secundária, especificamente através da gestão da taxa de integração de nova informação.",
+    "information_flow_or_representation": "A consciência terciária (autoconsciência) associa a informação percetiva sustentada internamente a símbolos (linguagem, lógica) para formar um sistema proposicional destinado à reflexão.",
+    "evolutionary_account": "A consciência evoluiu para contribuir para os processos não conscientes e colmatar as suas limitações, especificamente ao possibilitar a modificação adaptativa necessária para manter o controlo face a perturbações imprevisíveis.",
+    "core_claims_and_evidence": [
+      "A consciência emerge do mecanismo de reorganização que opera para reduzir os sinais de erro internos.",
+      "A consciência divide-se em três níveis: primário (fenoménico), secundário (de acesso) e terciário (autoconsciência).",
+      "A consciência terciária utiliza sistemas simbólicos (linguagem/lógica) associados a informação percetiva sustentada internamente.",
+      "A função primordial da consciência é possibilitar modificações adaptativas dos sistemas de controlo não conscientes com vista à sobrevivência."
+    ],
+    "basis_of_belief_or_evidence_type": "Conceptual, psicológica, neurofilosófica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente testável. A teoria baseia-se em processos psicológicos quantificáveis (atenção, imaginação) e em sinais fisiológicos de redução do erro.",
+    "known_empirical_interventions_or_tests": "Testável através de experiências concebidas para medir a taxa de modificação adaptativa (reorganização) em resposta a perturbações fisiológicas ou percetivas imprevisíveis, correlacionando estas alterações com as experiências fenoménicas ou de acesso relatadas.",
+    "criticisms_and_tensions": "Enfrenta provavelmente o desafio de explicar como um processo puramente funcional e redutor do erro (reorganização) dá inteiramente conta da sensação qualitativa (qualia) da consciência primária, uma crítica comum dirigida às teorias funcionalistas e computacionais.",
+    "open_questions_and_limitations": "A implementação física precisa do mecanismo de reorganização e a ligação explícita entre a redução do erro fisiológico e a emergência subjetiva da experiência fenoménica (qualia) são implícitas mais do que plenamente especificadas.",
+    "ontological_coherence": "Altamente coerente dentro de um quadro fisicalista que define a consciência com base no seu papel funcional adaptativo no controlo da interação de um organismo com o ambiente."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Provável",
+      "rationale": "Uma vez que a consciência é definida mecanisticamente por processos como a redução do erro, o controlo hierárquico e a manipulação simbólica (para a autoconsciência), estas funções são teoricamente realizáveis em sistemas computacionais artificiais suficientemente complexos."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência está intrinsecamente ligada à emergência dinâmica a partir da reorganização de sistemas de controlo biológicos (substrato implicitamente físico/neural), o que implica a sua cessação com a dissolução deste substrato."
+    },
+    "meaning_and_purpose": {
+      "stance": "Pragmático/existencial",
+      "rationale": "A existência da consciência é explicada pela sua função de promover o comportamento adaptativo, manter o controlo (intencionalidade prática) e colmatar as limitações da vida não consciente, sem postular um propósito cósmico ou último."
+    },
+    "virtual_immortality": {
+      "stance": "Possível",
+      "rationale": "Se a consciência é inteiramente captada pela estrutura informacional subjacente e pela dinâmica da hierarquia dos sistemas de controlo, este padrão funcional poderia potencialmente ser replicado e sustentado num substrato não biológico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Sobreposição"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "Sobreposição"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Influência"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Compatível"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "An Integrative Control Theory Perspective on Consciousness, W. Mansell",
+        "year": 2022
+      }
+    ]
+  }
+}

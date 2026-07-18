@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "A teoria relativista de Lahav",
+    "summary": "Esta teoria caracteriza a consciência como um fenómeno físico que é relativo às medições realizadas por um 'referencial cognitivo'. De forma análoga à velocidade na física, diferentes observadores que operam em diferentes referenciais cognitivos manifestarão propriedades físicas distintas (consciência para si próprio versus atividade cerebral medida por outro) ao observar o mesmo fenómeno.",
+    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "category": "Materialismo",
+    "subcategory": "Relacional",
+    "core_identity_tagline": "A consciência como fenómeno físico relativo a um referencial cognitivo",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "As experiências conscientes são identificadas como surgindo do processo de medição física relativa a um 'referencial cognitivo'.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "A relação é relativista: o mesmo fenómeno subjacente manifesta-se como consciência (a partir do referencial interno) ou como atividade cerebral (a partir de um referencial externo), consoante o contexto da medição. Isto sugere uma identidade ou correlação dependente do referencial.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Não detalhada explicitamente, mas provavelmente emergência fraca, pois assenta em princípios físicos estabelecidos (ou análogos) (relatividade, medição), em vez de postular novas leis fundamentais para a existência da própria consciência.",
+    "subjectivity_and_intentionality": "A subjetividade é inerente à definição de 'referencial cognitivo'; duas pessoas, estando em referenciais cognitivos diferentes, experienciam a consciência de forma diferente. A intencionalidade (direcionalidade do pensamento) não é abordada explicitamente nas fontes fornecidas.",
+    "qualia_account": "Os qualia são implicitamente explicados como propriedades físicas subjetivas manifestadas no seio de um referencial cognitivo específico, embora a natureza qualitativa intrínseca da própria experiência não seja detalhada.",
+    "ontological_commitments": "Realidade física, processos de medição física e um 'referencial cognitivo' analogado a partir da física relativista.",
+    "epistemic_access": "O acesso é dependente do referencial: no seio do próprio referencial cognitivo, a consciência é experienciada; a partir de um referencial cognitivo distinto, apenas a atividade cerebral pode ser medida.",
+    "constituents_and_structure": "A consciência é estruturada pelo próprio processo de medição física, resultando em propriedades ou manifestações físicas distintas consoante o referencial."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência, manifestação física de propriedades.",
+    "distinctive_mechanism_or_principle": "O princípio de que a consciência é relativa à medição física num referencial cognitivo, em vez de ser criada por computações.",
+    "dynamics_of_emergence": "A consciência surge dinamicamente do processo de medição física. Diferentes medições físicas em diferentes referenciais produzem diferentes manifestações da experiência consciente e da atividade cerebral.",
+    "location_and_distribution": "Localizada relativamente ao 'referencial cognitivo' do observador.",
+    "causation_and_functional_role": "As experiências conscientes surgem 'devido' ao próprio processo de medição física. A consciência não surge de processos computacionais realizados pelo cérebro.",
+    "integration_or_binding": "Não abordada explicitamente, mas assumida como unificada no seio de um único referencial cognitivo.",
+    "information_flow_or_representation": "O processamento de informação (computação) é explicitamente indicado como *não* sendo a origem das experiências conscientes; a consciência surge do processo subjacente de medição física.",
+    "evolutionary_account": "Este campo não é abordado no material de origem fornecido.",
+    "core_claims_and_evidence": [
+      "A consciência é um fenómeno físico que é relativo às medições de um referencial cognitivo.",
+      "As experiências conscientes surgem devido ao processo de medição física.",
+      "O cérebro não cria as experiências conscientes através de computações."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumento conceptual/teórico baseado na analogia com a física (relatividade)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente testável, uma vez que a teoria trata da definição de fenómenos físicos e da medição, embora o teste empírico dependa do desenvolvimento de mecanismos para testar a analogia do referencial cognitivo.",
+    "known_empirical_interventions_or_tests": "Não são listadas nas fontes intervenções ou testes empíricos específicos.",
+    "criticisms_and_tensions": "A fonte fornece uma descrição, e não uma secção de crítica. Uma potencial tensão reside em traduzir a analogia da relatividade física (como a velocidade) em processos cognitivos ou neurobiológicos verificáveis e não-metafóricos.",
+    "open_questions_and_limitations": "A instanciação e a definição físicas ou neuronais precisas do 'referencial cognitivo' permanecem uma questão em aberto.",
+    "ontological_coherence": "Coerente dentro de um quadro fisicalista que permite que propriedades físicas fundamentais sejam relativas a um observador ou processo de medição."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Condicional",
+      "rationale": "Uma vez que a teoria postula que a consciência surge da medição física, e não da computação, os sistemas de IA exigiriam processos de medição física não-computacionais que constituíssem um referencial cognitivo, tornando-a condicional a uma implementação de hardware para além da simples computação."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "Este campo não é abordado no material de origem fornecido."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "Este campo não é abordado no material de origem fornecido."
+    },
+    "virtual_immortality": {
+      "stance": "Improvável",
+      "rationale": "Uma vez que a consciência é não-computacional e dependente do processo de medição física, a imortalidade virtual padrão (carregamento de software/dados) é improvável, ainda que a duplicação física do sistema físico relativista pudesse teoricamente ser possível."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories of consciousness",
+        "relationship": "Sobreposição"
+      },
+      {
+        "name": "Computational Theories of Mind",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "Influência"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}

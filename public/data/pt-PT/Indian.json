@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoria do Dualismo Indiano",
+    "summary": "Esta teoria, derivada da antiga escola Samkhya da filosofia indiana, postula um dualismo metafísico estrito entre duas realidades eternas e fundamentais: *purusha* (a consciência senciente ou espírito) e *prakriti* (a natureza insenciente ou matéria). A mente e o corpo são formas subtis e grosseiras de *prakriti*, parecendo conscientes apenas porque o *purusha* as ilumina enquanto consciência-testemunha passiva.",
+    "associated_thinkers": [
+      "Samkhya philosophers",
+      "Swami Sarvapriyananda",
+      "Swami Medhananda",
+      "Swami Vivekananda"
+    ],
+    "category": "Dualismos",
+    "subcategory": "A Consciência Pessoal e Cósmica na Filosofia Indiana",
+    "core_identity_tagline": "A consciência como o Purusha eterno e senciente, distinto do Prakriti insenciente",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "purusha",
+      "prakriti",
+      "indian philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência (*purusha*) é identificada com o espírito ou eu eterno, absoluto, independente e senciente. É distinta de todos os aspetos materiais da realidade, incluindo a mente, que é mera matéria subtil.",
+    "ontological_status": "Dualismo Metafísico (especificamente, entre purusha/consciência e prakriti/matéria)",
+    "mind_body_relationship": "A mente é uma entidade material subtil (*prakriti*) que atua como órgão interno (antaḥkaraṇa). É passivamente iluminada pelo *purusha* (a consciência não-material), o que a faz parecer consciente, sem que os dois sejam idênticos ou redutíveis um ao outro.",
+    "primitive_or_emergent_status": "Primitivo",
+    "emergence_type": "N/A",
+    "subjectivity_and_intentionality": "A subjetividade (senciência) é a natureza inerente do *purusha*, que serve de consciência-testemunha. A intencionalidade (por exemplo, pensamentos, vontade) reside na mente (*prakriti*), que ganha a aparência de consciência através da iluminação pelo *purusha*.",
+    "qualia_account": "A sensação qualitativa é explicada pelo papel do *purusha* enquanto consciência-testemunha senciente, que ilumina a mente insenciente (onde residem as discriminações e experiências sensoriais), tornando-as assim experiências conscientes.",
+    "ontological_commitments": "Duas realidades fundamentais, universais e distintas: *purusha* (o espírito consciente) e *prakriti* (a natureza/matéria inconsciente, incluindo a mente).",
+    "epistemic_access": "O próprio *purusha* é absoluto, para além da perceção e impossível de descrever por palavras, o que sugere um acesso não-empírico (por exemplo, a realização filosófica). Os efeitos da sua interação com a mente são observados através da experiência subjetiva.",
+    "constituents_and_structure": "Os blocos básicos de construção são unidades individuais eternas de consciência (*purusha*) e o *prakriti* insenciente (composto pelas três *gunas*)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenomenal (experiência senciente) e o eu.",
+    "distinctive_mechanism_or_principle": "Iluminação/Reflexão. A própria consciência (*purusha*) não age, mas a sua 'luz' reflete-se na mente material, possibilitando a aparência de experiência.",
+    "dynamics_of_emergence": "A aparência de funcionamento consciente é alcançada pelo reflexo ou 'luz' do *purusha* fundamental e estático sobre as modificações dinâmicas e evolutivas do *prakriti* (a mente). A própria consciência é fundamental, e não dinamicamente emergente.",
+    "location_and_distribution": "O *purusha* é individual (cada pessoa é uma consciência individual), não-extenso e fundamentalmente distinto do corpo/cérebro espacialmente extenso (que é *prakriti*).",
+    "causation_and_functional_role": "O papel funcional do *purusha* é primariamente o de testemunha ou experienciador. Embora a mente e o corpo sejam ativos, o *purusha* confere a senciência necessária, sem a qual as atividades seriam puramente mecanicistas e inconscientes.",
+    "integration_or_binding": "A unificação da experiência é alcançada pela natureza unitária do *purusha* individual, que ilumina a totalidade do complexo mente/corpo como um todo.",
+    "information_flow_or_representation": "A informação é processada pelo órgão interno ou mente (*antaḥkaraṇa*, uma componente material). Este processamento é depois tornado senciente pela presença iluminadora do *purusha*.",
+    "evolutionary_account": "A consciência (*purusha*) é eterna e incriada. Só o *prakriti* (a natureza/matéria), incluindo a mente, sofre evolução e modificação.",
+    "core_claims_and_evidence": [
+      "Purusha (consciência) e Prakriti (matéria) são duas realidades fundamentais, universais e distintas.",
+      "A mente (antaḥkaraṇa) é matéria subtil que parece consciente apenas devido à iluminação proveniente do purusha.",
+      "O Purusha é absoluto, independente, senciente e atua como consciência-testemunha passiva."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófico, Lógico, Doutrina Tradicional Antiga"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativo/Filosófico. A afirmação central envolve uma entidade não-material (*purusha*) que não é acessível à observação científica padrão nem à testagem empírica.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Enfrenta o problema clássico do interacionismo: explicar o mecanismo causal pelo qual uma substância não-física e eterna (*purusha*) ilumina uma substância física e transitória (*prakriti*) ou se relaciona com ela. É também contestada quanto ao modo como a matéria insenciente (a mente) pode produzir conteúdo cognitivo e intencionalidade.",
+    "open_questions_and_limitations": "A natureza e o mecanismo específicos da 'iluminação' pela qual o *purusha* não-material interage com a mente material subtil para conferir consciência permanecem por explicar. O próprio *purusha* está para além da descrição convencional.",
+    "ontological_coherence": "Internamente coerente no âmbito das suas premissas fundadoras enquanto dualismo metafísico. Incompatível com o fisicalismo e o materialismo modernos estritos devido à afirmação de uma substância não-física irredutível."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Não",
+      "rationale": "A consciência (*purusha*) é uma substância eterna e não-material. Uma vez que os sistemas de IA são produtos da matéria (*prakriti*), careceriam necessariamente do *purusha* fundamental exigido para a verdadeira senciência."
+    },
+    "survival_beyond_death": {
+      "stance": "Sim",
+      "rationale": "O *purusha* (consciência/espírito) é eterno, existindo independentemente do corpo e da mente, e é a base da identidade pessoal ao longo dos ciclos de nascimento, morte e renascimento (reencarnação)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cósmico/Existencial",
+      "rationale": "A consciência é uma realidade fundamental, o que implica uma ordem cósmica última, embora o propósito seja frequentemente enquadrado pelas tradições indianas em termos de libertação do ciclo de renascimento, e não de uma teleologia do mundo físico."
+    },
+    "virtual_immortality": {
+      "stance": "Não",
+      "rationale": "A imortalidade virtual exige a duplicação do eu mental pela captura dos padrões neurais, mas esta teoria dualista exige uma substância não-física separada (*purusha*) que não pode ser duplicada nem transferida através de processos materiais."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "Sobreposição (Partilha o compromisso com uma substância não-física irredutível)"
+      },
+      {
+        "name": "Advaita Vedānta (Indian Cosmic Consciousness)",
+        "relationship": "Crítica (A Samkhya é dualista; a Advaita Vedānta é não-dualista, postulando a consciência como o único existente fundamental)"
+      },
+      {
+        "name": "Gaudíya Vaiṣṇava (GV) Vedānta",
+        "relationship": "Distinção (A Vedānta GV sugere que muitas propriedades da consciência podem ser instanciadas na matéria, ao passo que a Samkhya considera o complexo mente/corpo como matéria estritamente insenciente)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Personal and Cosmic Consciousness in Indian Philosophy (discussing Samkhya)",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Samkhya (Wikipedia)",
+        "year": 2024
+      }
+    ]
+  }
+}

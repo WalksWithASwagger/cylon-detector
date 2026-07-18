@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "A Sociedade da Mente de Minsky",
+    "summary": "A teoria postula que a cognição e a inteligência humanas emergem das interações paralelas e não conscientes de numerosos elementos funcionais especializados e semi-independentes, conhecidos como «agentes», localizados no cérebro. A própria consciência é encarada como um «termo-mala», usado de forma ambígua para rotular um conjunto destes variados processos cognitivos e de consciência, e não como uma entidade única e unificada.",
+    "associated_thinkers": ["Marvin Minsky"],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológica",
+    "core_identity_tagline": "«A consciência como termo-mala para agentes»",
+    "classification_tags": [
+      "computational",
+      "modularity",
+      "agents",
+      "functionalism",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é identificada como uma descrição coletiva, de alto nível, usada para uma variedade de processos e fenómenos emergentes (por exemplo, tipos de memória, formas especializadas de consciência atencional) gerados por agentes computacionais subjacentes no cérebro.",
+    "ontological_status": "Fisicalismo",
+    "mind_body_relationship": "A mente/consciência é inteiramente produzida por, e é uma descrição de alto nível da, organização física e das atividades de unidades computacionais especializadas («agentes») no cérebro. O crucial é a organização, e não o substrato material.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergência fraca (justificação: enquanto quadro materialista computacional, a estrutura e a organização dos estados mentais, embora complexas, são fundamentalmente redutíveis às interações definidas dos agentes não conscientes, o que não implica qualquer «magia» irredutível para além da descrição de alto nível.)",
+    "subjectivity_and_intentionality": "A subjetividade (o sentido de eu) surge como um processo de alto nível: a capacidade de o sistema fazer um modelo de si próprio enquanto ser num mundo e usar este modelo para pensar, de forma elevada, sobre o seu passado e o seu futuro. A intencionalidade é veiculada pelo output dos agentes especializados.",
+    "qualia_account": "Os qualia são implicitamente rejeitados como parte do enganador «termo-mala» da consciência, que desvia a atenção dos complexos processos subjacentes. A teoria disseca várias formas de consciência atencional (por exemplo, recordar uma sensação vs. recordar palavras), mas rejeita uma sensação fenoménica irredutível.",
+    "ontological_commitments": "Agentes cognitivos especializados, níveis organizacionais hierárquicos, estruturas cerebrais físicas (por exemplo, colunas corticais) e descrições computacionais de alto nível.",
+    "epistemic_access": "Sobretudo através do estudo da organização computacional, das funções e das relações dos componentes cerebrais de alto nível («agentes»), em vez de se centrar em neurónios de baixo nível ou na introspeção subjetiva.",
+    "constituents_and_structure": "Unidades de processamento simples, destituídas de mente e especializadas, designadas «agentes», organizadas numa vasta rede de máquinas cooperantes e semi-independentes, resultante da especialização e da associação ao longo da evolução."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Acesso, cognição, memória, autoconsciência (enquanto construção de modelos), planeamento, resolução de problemas, múltiplos tipos diferentes de consciência atencional.",
+    "distinctive_mechanism_or_principle": "A arquitetura da Sociedade da Mente, em que a funcionalidade complexa de alto nível é alcançada através da cooperação maciça e hierárquica e das subsequentes descrições de alto nível que decorrem de agentes simples e não conscientes.",
+    "dynamics_of_emergence": "Processo dinâmico. A consciência atencional desenvolve-se através do processo histórico de agrupamento de neurónios que se especializam e associam, conduzindo a uma organização hierárquica cada vez mais complexa (múltiplos níveis de organização cerebral).",
+    "location_and_distribution": "Distribuída por múltiplos níveis de organização no cérebro, concebido como uma grande rede de computadores especializados. Os defensores argumentam contra a procura de uma única localização física para a «consciência», porque esta é um termo compósito.",
+    "causation_and_functional_role": "A consciência descreve funções de controlo de alto nível, como reconhecer erros, desenvolver novos objetivos e construir modelos do eu para gerar propostas de planeamento e histórias contrafactuais. Esta função compósita proporciona valor adaptativo de sobrevivência.",
+    "integration_or_binding": "A integração ocorre implicitamente através das interações complexas entre as centenas de agentes especializados, cujos outputs são interpretados como descrições unificadas de alto nível (pensamentos de nível 5).",
+    "information_flow_or_representation": "A informação é processada hierarquicamente ao longo dos níveis organizacionais. As descrições de alto nível são fundamentais, exigindo maquinaria cognitiva especializada (agentes) muitos níveis acima da atividade neurofisiológica.",
+    "evolutionary_account": "A cognição/mente é o produto final de uma vasta história evolutiva em que o progresso foi feito pela especialização e pela associação entre neurónios primitivos, conduzindo, em última análise, a estruturas organizacionais complexas diferentes das dos animais anteriores.",
+    "core_claims_and_evidence": [
+      "A consciência é um rótulo compósito e metafórico para processos diversos (um «termo-mala»).",
+      "A arquitetura subjacente é uma grande rede de máquinas biológicas especializadas (agentes).",
+      "Compreender a atividade neuronal de baixo nível é insuficiente para explicar os pensamentos de alto nível e os processos cognitivos."
+    ],
+    "basis_of_belief_or_evidence_type": "Computacional, filosófica (perspetiva da IA), neurobiológica (hierarquia organizacional)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptual e computacionalmente testável (justificação: uma vez que a consciência é definida puramente através de mecanismos funcionais e de uma hierarquia organizacional, os princípios podem ser implementados e testados em sistemas artificiais avançados).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "A principal crítica dirigida à procura da consciência é que os investigadores desperdiçam o seu tempo à procura de um único «lugar no cérebro onde a consciência se localiza», quando esta é apenas uma palavra para muitos processos. Enfrenta também as críticas habituais ao funcionalismo redutivo relativas à rejeição de qualia subjetivos genuínos.",
+    "open_questions_and_limitations": "A limitação é a imensa tarefa de determinar com precisão como funciona cada um dos processos componentes agrupados sob o «termo-mala» e como se inter-relacionam.",
+    "ontological_coherence": "Altamente coerente dentro de um quadro fisicalista que enfatiza a organização computacional complexa e a decomposição funcional, alinhando-se com a posição filosófica do funcionalismo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Sim",
+      "rationale": "Se a consciência resulta das interações computacionais necessárias e das descrições de alto nível de agentes especializados, os sistemas artificiais capazes de instanciar esta forma específica de organização de alto nível deveriam ser conscientes."
+    },
+    "survival_beyond_death": {
+      "stance": "Não",
+      "rationale": "A consciência depende inteiramente da existência física e da organização funcional do cérebro/máquina biológico; a sua dissolução implica o fim permanente da mente."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanístico/pragmático",
+      "rationale": "O propósito funcional da organização cognitiva complexa (consciência) é ajudar o organismo a navegar no mundo, a fazer planos e a modelar-se a si próprio, proporcionando sentido subjetivo, mas não implicando qualquer propósito cósmico abrangente."
+    },
+    "virtual_immortality": {
+      "stance": "Sim",
+      "rationale": "Uma vez que a mente é definida pelos seus padrões informacionais e pela sua organização funcional (descrição de alto nível), a duplicação total ou o carregamento num meio não biológico capaz de replicar estas interações complexas transferiria a identidade consciente original."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Compatível"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Compatível"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Extensão"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Extensão"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Society of Mind, Marvin Minsky",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Why is Consciousness So Mysterious?, Marvin Minsky",
+        "year": 2007
+      }
+    ]
+  }
+}
