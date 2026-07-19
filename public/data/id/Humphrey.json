@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Representasi Mental dan Atraktor Otak menurut Humphrey",
+    "summary": "Teori materialistik ini memandang kesadaran fenomenal sebagai perkembangan evolusioner yang terlambat, hadir hanya pada spesies kompleks tertentu. Sensasi dihasilkan melalui proses dua-tahap: pengumpulan informasi sensoris, diikuti oleh \"pembacaan sadar\" yang interpretatif yang menghasilkan representasi mental yang memiliki properti fenomenal (qualia), sering distabilkan oleh keadaan atraktor kompleks di otak.",
+    "associated_thinkers": ["Nicholas Humphrey"],
+    "category": "Materialisme",
+    "subcategory": "Representasional",
+    "core_identity_tagline": "Kesadaran Fenomenal sebagai Representasi Mental Terevolusi dalam Atraktor",
+    "classification_tags": [
+      "evolutionary",
+      "representation",
+      "qualia",
+      "attractor states",
+      "phenomenal self"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai representasi mental (gagasan yang kita hasilkan) atas stimulus, khususnya properti-properti yang muncul selama tahap interpretatif (\"pembacaan sadar\") yang distabilkan menjadi keadaan atraktor kompleks di otak.",
+    "ontological_status": "Materialisme / Fisikalisme Reduktif",
+    "mind_body_relationship": "Keadaan-pikiran (sensasi/representasi) dihasilkan oleh otak fisik. Meskipun properti fenomenal bukan properti literal dari keadaan otak, ia merupakan keadaan-pikiran (representasi) yang dikhayalkan oleh otak, yang mengimplikasikan ketergantungan.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Subjektivitas muncul dari tahap interpretatif, yang menghasilkan rasa diri yang mengesankan secara psikologis—suatu \"diri fenomenal\"—berdasarkan representasi tentang bagaimana stimulus memengaruhi organisme. Intensionalitas melekat pada sensasi yang merupakan representasi atas stimulus.",
+    "qualia_account": "Qualia adalah \"properti fenomenal\" yang muncul hanya pada tahap interpretatif (pembacaan sadar). Ia dihasilkan sebagai representasi mental yang disempurnakan dan distabilkan oleh keadaan atraktor yang kompleks secara matematis di otak.",
+    "ontological_commitments": "Representasi mental, keadaan atraktor otak, salinan eferen, dan gelung umpan-balik neural yang menstabilkan representasi.",
+    "epistemic_access": "Dapat diakses melalui pendekatan objektif orang-ketiga, khususnya melalui rekonstruksi langkah-langkah evolusioner (rekayasa maju) dan penelaahan mekanisme neural, sekalipun pengalaman itu sendiri sangat subjektif (\"seperti apa rasanya menjadi diriku\").",
+    "constituents_and_structure": "Gelung umpan-balik neural yang menjadi rekursif dan terentang dalam waktu, distabilkan menjadi keadaan atraktor yang kompleks secara matematis, yang menghasilkan representasi internal (seperti teks internal) yang mengonstitusi pengalaman fenomenal."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kesadaran fenomenal (kebernyawaan), pembangkitan qualia, dan diri fenomenal.",
+    "distinctive_mechanism_or_principle": "Sistem pemrosesan dua-tahap (input sensoris diikuti pembacaan/penafsiran sadar) di mana representasi disempurnakan dan distabilkan oleh keadaan atraktor otak yang kompleks. Proses ini berasal dari pemantauan respons evaluatif primitif melalui 'salinan eferen'.",
+    "dynamics_of_emergence": "Kesadaran adalah proses dinamis yang muncul secara bertahap melalui seleksi alam, bermula dari respons evaluatif primitif dan berkembang melalui penyempurnaan dan penstabilan menjadi aktivitas neural yang kompleks dan rekursif.",
+    "location_and_distribution": "Terlokalisasi dalam otak biologis, khususnya dalam gelung umpan-balik neural yang mampu mendukung representasi mental dan keadaan atraktor yang kompleks. Ia dianggap sebagai penemuan evolusioner yang relatif terlambat, yang mengisyaratkan distribusi non-gradien (misalnya, hadir pada mamalia dan burung, tetapi tidak pada lobster atau katak).",
+    "causation_and_functional_role": "Peran fungsional utamanya adalah memberikan organisme keunggulan adaptif dalam \"permainan kebugaran\" melalui kemunculan diri fenomenal dan kemampuan memantau serta menafsirkan stimulus (suatu perasaan).",
+    "integration_or_binding": "Integrasi dicapai ketika gelung umpan-balik neural menstabil menjadi keadaan atraktor yang kompleks, yang menghasilkan kualitas terpadu dari qualia sensoris.",
+    "information_flow_or_representation": "Informasi mengalir dalam dua tahap: input sensoris (teks sensoris) diikuti oleh representasi interpretatif (pembacaan sadar), di mana otak menghasilkan representasi internal (teks internal) atas stimulus.",
+    "evolutionary_account": "Kesadaran adalah adaptasi evolusioner yang relatif terlambat yang ditemukan melalui seleksi alam ('rekayasa maju') dari respons hewani primitif, yang memberikan manfaat psikologis kepada subjek.",
+    "core_claims_and_evidence": [
+      "Kesadaran adalah representasi mental (gagasan) yang dihasilkan oleh otak, bukan pemetaan literal atas aktivitas otak.",
+      "Properti fenomenal (qualia) muncul hanya pada tahap interpretatif dari pemrosesan (pembacaan sadar).",
+      "Penemuan 'diri fenomenal' memberikan manfaat adaptif dalam permainan kebugaran.",
+      "Masalah sulit dianggap sebagai 'masalah yang keliru' karena ia secara tidak tepat mencari korelat neural yang memetakan ke properti fenomenal."
+    ],
+    "basis_of_belief_or_evidence_type": "Evolusioner, Neuropsikologis, Filosofis/Konseptual."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris. Teori ini mempostulatkan pos-pos pemeriksaan evolusioner dan dinamika otak spesifik (keadaan atraktor, salinan eferen) yang seharusnya berkorelasi dengan pengalaman fenomenal dan distribusi spesies.",
+    "known_empirical_interventions_or_tests": "Teori ini mengimplikasikan pengujian distribusi kesadaran fenomenal lintas spesies (misalnya, membedakan mamalia/burung dari hewan yang kurang kompleks seperti kadal/katak). Ia juga mengarahkan penelitian menjauh dari harapan akan adanya peta langsung antara aktivitas otak dan properti fenomenal.",
+    "criticisms_and_tensions": "Ketegangan potensial ada dalam bagaimana keadaan atraktor yang kompleks secara matematis memunculkan kualitas qualia sensoris yang tampak tak-terpertanggungjawabkan ('tiba-tiba begitu saja'). Humphrey juga menolak premis masalah sulit, yang tetap menjadi ketegangan kunci dengan posisi-posisi non-materialis.",
+    "open_questions_and_limitations": "Mendefinisikan secara persis titik batas evolusioner bagi spesies yang memiliki kesadaran fenomenal tetap merupakan pertanyaan terbuka. Mekanisme bagaimana keadaan atraktor kompleks diterjemahkan menjadi rasa kualitatif spesifik memerlukan perincian lebih lanjut.",
+    "ontological_coherence": "Koheren dalam kerangka materialis dan deflasioner yang ketat, karena ia berupaya menjelaskan-habis kesadaran dan qualia sebagai representasi yang kompleks tetapi pada akhirnya bersifat fisik, sehingga menyiasati kesulitan pikiran-tubuh tradisional yang ditimbulkan oleh masalah sulit."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Sebagai teori materialis di mana kesadaran direalisasikan oleh pemrosesan informasional yang kompleks, representasi, dan keadaan atraktor di otak, sistem buatan yang dapat mereplikasi mekanisme-mekanisme ini, pada prinsipnya, seharusnya dapat menjadi sadar."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran sepenuhnya bergantung pada otak biologis yang terevolusi dan mekanisme neural spesifiknya (representasi dan keadaan atraktor). Kematian otak berkonsekuensi pada terhentinya kesadaran, konsisten dengan materialisme."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Teori ini dibingkai secara ketat dalam konteks evolusioner, di mana kesadaran muncul demi manfaat adaptif dalam 'permainan kebugaran,' yang mengisyaratkan bahwa makna dan tujuan bersifat ciptaan-manusia atau subjektif, alih-alih kosmik atau tertinggi."
+    },
+    "virtual_immortality": {
+      "stance": "Mungkin",
+      "rationale": "Jika kesadaran sepenuhnya dapat dijelaskan oleh pola neural, representasi, dan keadaan atraktor spesifik yang dihasilkan oleh otak (Teori-teori Materialisme), maka penduplikasian sempurna atas dinamika fungsional ini ke dalam medium nonbiologis seharusnya dapat melestarikan diri-mental orang-pertama."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Thought Theory",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Tumpang tindih"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Sentience: the Invention of Consciousness, Nicholas Humphrey",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The invention of consciousness, Nicholas Humphrey",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Seeing and somethingness, Nicholas Humphrey",
+        "year": 2022
+      }
+    ]
+  }
+}

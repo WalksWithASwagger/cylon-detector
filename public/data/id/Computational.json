@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Komputasional",
+    "summary": "Teori-teori komputasional tentang pikiran mengusulkan bahwa pikiran beroperasi seperti komputer, memandang keadaan-keadaan mental sebagai peran fungsional yang didefinisikan oleh instruksi atau algoritma yang sistematis dan langkah-demi-langkah, terlepas dari substrat fisik yang mendasarinya. Teori-teori ini mendorong bangkitnya ilmu kognitif dengan mengemulasi kemampuan-kemampuan yang menyerupai pikiran seperti penalaran dan persepsi.",
+    "associated_thinkers": [
+      "Nick Bostrom",
+      "James Reggia"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Komputasional dan Informasional",
+    "core_identity_tagline": "Kesadaran sebagai Algoritma dan Komputasi",
+    "classification_tags": [
+      "computation",
+      "functionalism",
+      "AI",
+      "reductionism",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran (atau keadaan-keadaan mental secara umum) diidentifikasi dengan pelaksanaan komputasi dari jenis tertentu yang dapat ditemukan. Keadaan-keadaan mental didefinisikan oleh peran fungsional atau keluarannya, bukan oleh konstitusi internal atau substrat materialnya.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Identitas/Fungsionalis. Keadaan-keadaan mental adalah keadaan-keadaan fungsional yang dapat diinstansiasi (atau diwujudkan) dalam bentuk materi apa pun yang mampu mengolah informasi, seperti jaringan saraf atau keping komputer.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah. Konsisten dengan kerangka materialis, diandaikan bahwa sifat-sifat mental, meskipun bertingkat-tinggi, pada prinsipnya dapat dijelaskan sepenuhnya atau direduksi menjadi proses-proses komputasional dan fisik fundamental yang mendasarinya, sekalipun penjelasan praktisnya rumit.",
+    "subjectivity_and_intentionality": "Intensionalitas (keterarahan pikiran) dijelaskan melalui simbol-simbol kognitif yang dapat dimanipulasi untuk mendeskripsikan konsep. Subjektivitas (kesadaran fenomenal) tetap menjadi tantangan, karena fokusnya terutama pada fungsionalitas eksternal dan pengolahan informasi, alih-alih pengalaman batin.",
+    "qualia_account": "Tidak pasti/Deflasioner. Teori ini kesulitan memberikan demonstrasi yang meyakinkan tentang kesadaran fenomenal, alih-alih berfokus pada penangkapan korelat kognitif dan behavioral. Sebagian pendekatan yang selaras dengan pandangan ini mungkin memperlakukan qualia sebagai ilusif atau inkoheren, sementara yang lain menegaskan bahwa qualia berpadanan dengan keadaan-keadaan komputasional yang terintegrasi dan dapat dilaporkan.",
+    "ontological_commitments": "Algoritma, instruksi sistematis langkah-demi-langkah, mesin Turing (model abstrak komputasi), dan substrat fisik apa pun yang mampu menginstansiasi informasi.",
+    "epistemic_access": "Terutama melalui pemodelan komputasional, simulasi, dan pengukuran objektif atas kemampuan pengolahan informasi serta korelat behavioral.",
+    "constituents_and_structure": "Rutin-rutin instruksi sistematis langkah-demi-langkah (algoritma), yang biasanya dimodelkan menggunakan struktur komputasional abstrak seperti mesin Turing."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Akses (mis. akses global ke informasi), Memori, Struktur Pengetahuan, Persepsi, Penalaran, Pemecahan Masalah, dan Pemahaman Linguistik. Kesadaran fenomenal (qualia) kerap dikecualikan atau diperlakukan sebagai masalah yang belum terpecahkan.",
+    "distinctive_mechanism_or_principle": "Prinsip bahwa melaksanakan komputasi dari jenis tertentu (pengolahan algoritmik) merupakan syarat yang niscaya sekaligus memadai bagi kesadaran.",
+    "dynamics_of_emergence": "Algoritmik/Sistematis. Kesadaran timbul melalui pengolahan informasi yang sistematis melalui algoritma, memungkinkan emulasi kemampuan-kemampuan yang menyerupai pikiran.",
+    "location_and_distribution": "Lokasinya bersifat fungsional alih-alih material; kesadaran berdiam di mana pun fungsi-fungsi komputasional yang niscaya diinstansiasi, entah dalam jaringan saraf biologis maupun keping komputer non-biologis.",
+    "causation_and_functional_role": "Keadaan-keadaan mental bersifat efektif secara kausal karena merupakan keadaan-keadaan fungsional yang terwujud dalam dunia fisik. Peran fungsionalnya adalah mengorganisasi pengolahan informasi, memungkinkan kemampuan-kemampuan seperti perencanaan, pengambilan keputusan, dan pemecahan masalah.",
+    "integration_or_binding": "Secara implisit dicapai melalui pengolahan informasi yang kompleks dan integrasi fungsi-fungsi komputasional terspesialisasi yang niscaya bagi kemampuan-kemampuan kognitif seperti struktur pengetahuan dan penalaran.",
+    "information_flow_or_representation": "Keadaan-keadaan mental adalah informasi abstrak atau simbol-simbol kognitif yang dimanipulasi secara algoritmik oleh substrat fisik yang mendasarinya untuk menghasilkan pikiran dan pemahaman.",
+    "evolutionary_account": "Tidak ditangani secara eksplisit oleh teori inti dalam sumber-sumbernya, tetapi kompatibel dengan pandangan materialis umum bahwa kesadaran adalah produk evolusi dari kompleksitas neurobiologis, khususnya untuk pengolahan dan komputasi yang adaptif.",
+    "core_claims_and_evidence": [
+      "Melaksanakan komputasi dari jenis tertentu yang dapat ditemukan merupakan syarat yang niscaya sekaligus memadai bagi kesadaran.",
+      "Keadaan-keadaan mental ditentukan semata-mata oleh keluaran atau peran fungsionalnya, terlepas dari medium fisiknya.",
+      "Pemodelan komputasional merupakan metodologi yang diterima untuk mengkaji kesadaran secara ilmiah."
+    ],
+    "basis_of_belief_or_evidence_type": "Komputasional, Filosofis (Fungsionalisme), dan Logis."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Teruji secara empiris. Metodologinya melibatkan penggunaan pemodelan komputasional untuk menilai apakah sistem-sistem berhasil menyimulasikan korelat neurobiologis, kognitif, dan behavioral yang diketahui dari pemrosesan sadar.",
+    "known_empirical_interventions_or_tests": [
+      "Pengembangan dan pengujian model-model komputasional dan simulasi mesin atas korelat kognitif."
+    ],
+    "criticisms_and_tensions": "Dikritik sebagai analogi historis yang menyerupakan pikiran dengan 'sains pada zamannya'. Ketegangan utamanya adalah tiadanya demonstrasi yang meyakinkan tentang kesadaran mesin yang fenomenal, sehingga menimbulkan kritik bahwa ia hanya menangani 'masalah mudah' (fungsi) sembari mengabaikan 'masalah sulit' (pengalaman).",
+    "open_questions_and_limitations": "Isu tak terselesaikan yang utama adalah apakah melaksanakan komputasi, terlepas dari kompleksitasnya, sungguh-sungguh memadai untuk menghasilkan kesadaran fenomenal ('bagaimana rasanya').",
+    "ontological_coherence": "Koheren di dalam kerangka fisikalis reduktif dan fungsionalis, bertumpu pada premis bahwa seluruh realitas mental dapat direduksi menjadi pengolahan informasi atau struktur algoritmik."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ya",
+      "rationale": "Karena fungsionalisme komputasional mengandaikan bahwa kesadaran adalah hasil dari melaksanakan komputasi jenis yang tepat, kesadaran AI bukan hanya mungkin melainkan tak terelakkan, mengingat pertumbuhan eksponensial kecanggihan komputasional dalam kecerdasan non-biologis."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran tertaut pada perwujudan fisik atau fungsional dalam suatu substrat. Kelangsungan hidup tradisional setelah kematian disangkal, tetapi kesinambungan hanya mungkin melalui pengunggahan pikiran secara digital (keabadian virtual)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistik saja",
+      "rationale": "Sebagai Teori Materialisme, ia tidak menopang makna atau tujuan kosmis yang mutlak; makna dan nilai dianggap sebagai fenomena emergen yang diciptakan-sendiri yang timbul dari fungsi-fungsi kompleks makhluk yang sadar."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Jika kesadaran murni bersifat komputasional/fungsional (yang berarti esensinya bersifat algoritmik), maka duplikasi sempurna dari pola-pola fungsional otak dalam medium non-biologis akan mempertahankan diri mental orang-pertama, sehingga menjadikan keabadian virtual dapat dicapai secara prinsipil."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Prinsip inti"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The computational theory of mind, Michael Rescorla",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The rise of machine consciousness: studying consciousness with computational models, James Reggia",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Identitas Pikiran-Otak",
+    "summary": "Teori filosofis klasik tentang kesadaran ini menetapkan bahwa keadaan, peristiwa, atau proses mental secara ketat identik dengan keadaan, peristiwa, atau proses tertentu yang terjadi di dalam otak. Teori ini berfungsi sebagai teladan materialisme dengan mengklaim bahwa kesadaran sepenuhnya bersifat fisik.",
+    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "category": "Materialisme",
+    "subcategory": "Filosofis",
+    "core_identity_tagline": "Keadaan Mental Adalah Keadaan Otak",
+    "classification_tags": [
+      "identity",
+      "reductionism",
+      "physicalism",
+      "classical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran (keadaan/proses mental) secara harfiah identik dengan keadaan/proses fisik otak. Ini adalah klaim identitas dalam pengertian yang kuat, serupa dengan menyandingkan Bintang Fajar dan Bintang Senja dengan Venus.",
+    "ontological_status": "Fisikalisme/Materialisme Reduktif",
+    "mind_body_relationship": "Teori identitas: Peristiwa mental dan peristiwa fisik adalah hal yang sama, identik secara radikal, yang berarti 'keduanya' tidak dapat dipisahkan.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Subjektivitas dan intensionalitas secara ketat identik dengan keadaan fisik tertentu. Pandangan ini menyiratkan bahwa menanyakan mengapa suatu perasaan menyertai suatu keadaan fisik adalah keliru karena keduanya adalah satu dan sama.",
+    "qualia_account": "Qualia (pengalaman yang dirasakan), seperti nyeri atau melihat warna merah, secara harfiah identik dengan keadaan fisik tertentu otak, seperti pemicuan neuron yang spesifik-nosiseptif.",
+    "ontological_commitments": "Keadaan dan proses fisik otak. Teori ini berkomitmen pada kesadaran yang sepenuhnya bersifat fisik.",
+    "epistemic_access": "Pengetahuan tentang identitas-identitas ini berlandaskan penyelidikan empiris a posteriori, yang menuntut sains untuk menemukan keadaan fisik mana yang berkaitan dengan keadaan mental mana.",
+    "constituents_and_structure": "Kesadaran terdiri atas keadaan dan proses fisik tertentu yang ditemukan di dalam otak, yang terorganisasi sedemikian rupa sehingga sinonim dengan keadaan mental."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Akses",
+    "distinctive_mechanism_or_principle": "Prinsip relasi identitas yang ketat yang diterapkan untuk mengorelasikan jenis-jenis mental (mis. nyeri) dengan jenis-jenis fisik (mis. pemicuan serat-C).",
+    "dynamics_of_emergence": "Kesadaran adalah konsekuensi dari proses biologis, khususnya diidentifikasi dengan dinamika fisik otak.",
+    "location_and_distribution": "Terlokalisasi sepenuhnya di dalam otak.",
+    "causation_and_functional_role": "Kausasi mental terpecahkan secara implisit karena keadaan mental adalah keadaan fisik, yang memiliki efikasi kausal dan peran fungsional.",
+    "integration_or_binding": "Integrasi terealisasi dalam organisasi kompleks dari keadaan otak fisik yang identik itu. Sebagai klaim filosofis, teori ini tidak menetapkan mekanisme neurobiologis yang khas bagi pengikatan.",
+    "information_flow_or_representation": "Kandungan atau representasi mental ekuivalen dengan keadaan fisik yang mewujudkannya, dengan mematuhi hukum-hukum fisika.",
+    "evolutionary_account": "Kesadaran adalah produk fisik yang telah berevolusi yang muncul dari otak biologis.",
+    "core_claims_and_evidence": [
+      "Keadaan mental secara ketat identik dengan keadaan otak.",
+      "Identitas ini ditemukan secara a posteriori melalui bukti empiris yang mengaitkan peristiwa mental (mis. nyeri) dan aktivitas neuronal tertentu."
+    ],
+    "basis_of_belief_or_evidence_type": "Inferensi filosofis yang didukung oleh bukti empiris korelasi yang terus terhimpun."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris pada prinsipnya dengan memetakan korelasi antara keadaan mental dan fisik tertentu.",
+    "known_empirical_interventions_or_tests": "Bukti korelasi empiris (mis. mengaitkan nyeri dengan pemicuan neuron yang spesifik-nosiseptif).",
+    "criticisms_and_tensions": "Umumnya dianggap telah dilemahkan dalam bentuk aslinya oleh berbagai keberatan, yang paling menonjol adalah keterrealisasian-ganda (keadaan mental yang sama dapat direalisasikan oleh mekanisme fisik yang berbeda). Tantangan filosofis intinya adalah 'jurang penjelasan' atau mengapa keadaan otak terasa sebagai sesuatu.",
+    "open_questions_and_limitations": "Teori ini kesulitan menuntaskan intuisi bahwa zombi filosofis (makhluk yang identik secara fisik namun tanpa kesadaran) dapat dibayangkan, yang menyiratkan bahwa 'keduanya' dapat dipisahkan. Teori ini tidak secara jelas membedakan jenis aktivitas saraf mana yang membentuk kesadaran.",
+    "ontological_coherence": "Sangat koheren di dalam ontologi fisikalis reduktif yang ketat, tetapi menghadapi ketegangan dengan intuisi fenomenologis dasar mengenai subjektivitas dan qualia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ya",
+      "rationale": "Karena MBIT menegaskan bahwa kesadaran dapat direduksi menjadi proses fisik, jika proses fisik tertentu itu dapat direproduksi dalam substrat buatan yang non-biologis, kesadaran niscaya terwujud."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran secara ketat identik dengan keutuhan fungsional dan fisik otak; teruraiannya saat kematian mengakibatkan penghentian permanen diri yang sadar."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistik saja",
+      "rationale": "Sebagai teori materialis, MBIT tidak mengandung makna atau tujuan kosmis yang puncak. Makna dan nilai adalah properti emergen yang diciptakan oleh agen manusia yang sadar."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Jika kesadaran (pola fisik yang persis) dapat dipindai dan digandakan/diunggah secara sempurna ke medium fisik baru (digital atau lainnya), teori ini menjamin kelangsungan diri sadar yang identik."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Tye’s Contingentism",
+        "relationship": "Pengaruh"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mind/brain identity theory, J.J.C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "We must shed our metaphysical assumptions, David Papineau",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Mind-Brain Identity Theory, István Aranyosi",
+        "year": ""
+      }
+    ]
+  }
+}

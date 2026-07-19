@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Kesadaran tidak Bergantung pada Bahasa menurut Koch",
+    "summary": "Teori ini menegaskan bahwa kesadaran fenomenal, atau pengalaman batin dasar, secara fungsional independen dari kapasitas bahasa. Teori ini didukung oleh kasus-kasus klinis di mana kemampuan bahasa mengalami gangguan berat atau hilang, namun kesadaran fundamental tetap dipertahankan, sehingga mengarah pada kesimpulan bahwa keberperasaan dasar merupakan properti yang meluas yang dibagi dengan banyak hewan nonlinguistik.",
+    "associated_thinkers": ["Christof Koch"],
+    "category": "Teori Materialisme",
+    "subcategory": "Hubungan dengan Bahasa",
+    "core_identity_tagline": "Kesadaran independen dari bahasa",
+    "classification_tags": [
+      "phenomenal consciousness",
+      "language",
+      "neurobiology",
+      "animal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai fenomena fisik/biologis di dalam otak yang mekanisme fundamentalnya berbeda dari, dan independen terhadap, pemrosesan bahasa simbolik.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Pikiran (kesadaran fenomenal dasar) terikat pada proses otak fisik, yang terpisah dari proses linguistik.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Subjektivitas dasar (keberperasaan) tetap dipertahankan bahkan tanpa bahasa. Bahasa berkontribusi secara besar-besaran pada diri sebagai 'pusat naratif,' yang menyusun aspek-aspek subjektivitas tingkat-lebih-tinggi.",
+    "qualia_account": "Qualia (pengalaman batin dasar) ada dalam entitas nonlinguistik dan independen dari kapabilitas simbolik.",
+    "ontological_commitments": "Otak biologis dan mekanisme fisik yang mendasarinya yang membangkitkan kesadaran dasar.",
+    "epistemic_access": "Diakses melalui pengamatan orang ketiga, khususnya kasus-kasus klinis yang menunjukkan disosiasi antara hilangnya bahasa dan dipertahankannya kesadaran.",
+    "constituents_and_structure": "Kesadaran muncul dari mekanisme otak fisik yang independen dari struktur-struktur serebral yang dikhususkan bagi bahasa dan tutur batin."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kesadaran fenomenal (pengalaman batin dasar) dan keberperasaan.",
+    "distinctive_mechanism_or_principle": "Prinsip disosiasi, di mana substrat neural yang perlu dan cukup bagi kesadaran (NCC) berbeda dari korelat neural bahasa.",
+    "dynamics_of_emergence": "Kesadaran dasar merupakan produk proses biologis yang berevolusi secara independen dari kompleksitas linguistik manusia.",
+    "location_and_distribution": "Berlokasi di otak biologis; terdistribusi secara luas lintas spesies (misalnya, semua mamalia) terlepas dari kemampuan bahasa.",
+    "causation_and_functional_role": "Kesadaran dasar beroperasi secara independen dari fungsi-fungsi bahasa. Peran bahasa terutama adalah menyempurnakan fungsi-fungsi manusia tingkat-lebih-tinggi, seperti rasa keberadaan diri.",
+    "binding_and_unity": "Kesatuan pengalaman fenomenal dasar harus dicapai melalui mekanisme fisik atau neural yang nonlinguistik.",
+    "information_flow_or_representation": "Pemrosesan informasi yang berkaitan dengan pengalaman mentah tidak memerlukan representasi bahasa simbolik.",
+    "evolutionary_account": "Kesadaran berevolusi sebelum kapabilitas bahasa manusia, sebagaimana dibuktikan oleh kehadirannya pada hewan-hewan nonlinguistik, sehingga mengesankan peran adaptifnya tidak bergantung pada bahasa.",
+    "core_claims_and_evidence": [
+      "Kesadaran tidak bergantung pada bahasa.",
+      "Kasus-kasus klinis kerusakan otak menunjukkan bahwa kesadaran tetap dipertahankan ketika bahasa hilang.",
+      "Keberperasaan dibagi dengan semua mamalia, sehingga menolak pandangan antroposentris bahwa hanya manusia yang mengalami apa pun."
+    ],
+    "basis_of_belief_or_evidence_type": "Empiris, Klinis, dan Filosofis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris melalui kajian neurosaintifik atas hewan-hewan nonlinguistik dan riset klinis atas korban trauma otak yang menunjukkan kesadaran yang bertahan meskipun dalam kondisi afasik.",
+    "critiques_and_challenges": "Meskipun Koch berargumen menentang pandangan klasik yang mengaitkan bahasa dan kesadaran, konsensus ilmiah kontemporer sudah sepakat bahwa kesadaran dasar tidak memerlukan bahasa.",
+    "open_questions_and_limitations": "Teori ini menegaskan pada apa kesadaran *tidak* bergantung (bahasa) tetapi tidak menyediakan solusi positif bagi masalah sulit kesadaran (yakni, apa sebenarnya pengalaman fenomenal itu secara harfiah).",
+    "ontological_coherence": "Sangat koheren dalam kategori Materialis, khususnya bagi argumen yang membedakan kesadaran dasar dari kesadaran diri yang kompleks dan dimediasi-bahasa."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bersyarat",
+      "rationale": "Karena bahasa tidak diperlukan bagi kesadaran, kapabilitas linguistik AI (LLM) menjadi tidak relevan. Kesadaran AI sepenuhnya bergantung pada apakah substrat fisik nonlinguistik yang diperlukan dapat direplikasi dalam sistem buatan."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Konsisten dengan pengategoriannya sebagai materialis, kesadaran terikat pada substrat fisik (otak) dan tidak dapat bertahan setelah kematian biologis."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Kesadaran memungkinkan diri berfungsi sebagai pusat naratif melalui bahasa, sehingga membuka ruang bagi makna yang diciptakan manusia, tetapi realitas material yang mendasarinya mengesankan tiadanya tujuan kosmik yang ultimat."
+    },
+    "virtual_immortality": {
+      "stance": "Bersyarat",
+      "rationale": "Jika kesadaran dilepaskan dari bahasa, fokusnya sepenuhnya beralih pada penggandaan substrat fisik nonlinguistik dari kesadaran dasar. Jika struktur neural nonlinguistik yang spesifik ini dapat digandakan, keabadian virtual dimungkinkan."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Searle’s Language and Consciousness",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Andrews’s Consciousness Without Complex Brains",
+        "relationship": "Selaras"
+      },
+      {
+        "name": "Smith’s Language as Classifier of Consciousness",
+        "relationship": "Tumpang Tindih"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t Be Computed",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Consciousness doesn’t depend on language, Christof Koch",
+        "year": 2019
+      }
+    ]
+  }
+}

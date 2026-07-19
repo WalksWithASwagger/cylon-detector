@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Pemantauan Realitas Perseptual Lau",
+    "summary": "Teori orde-lebih-tinggi yang berlandaskan empiris ini mengusulkan bahwa persepsi sadar terjadi ketika suatu representasi orde-lebih-tinggi (HOR) yang spesifik memvalidasi suatu representasi sensoris orde-pertama sebagai cerminan yang andal atas dunia eksternal. HOR bertindak sebagai antarmuka antara persepsi dan kognisi, yang menyediakan rasa justifikasi subjektif bagi pengalaman sadar.",
+    "associated_thinkers": ["Hakwan Lau"],
+    "category": "Materialisme",
+    "subcategory": "Representasional",
+    "core_identity_tagline": "‘Kesadaran sebagai Pemantauan Realitas Perseptual’",
+    "classification_tags": [
+      "higher-order theory",
+      "representationalism",
+      "metacognition",
+      "functionalism",
+      "neurobiological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran adalah suatu mekanisme atau antarmuka fungsional antara persepsi dan kognisi, yang diinstansiasi oleh representasi orde-lebih-tinggi yang memantau keandalan dan status epistemik keadaan sensoris orde-pertama.",
+    "ontological_status": "Fisikalisme / Fungsionalisme",
+    "mind_body_relationship": "Kesadaran identik dengan aktivitas fungsional spesifik dari mekanisme neural orde-lebih-tinggi (kemungkinan di korteks prefrontal) yang memantau representasi sensoris orde-pertama. Ini merupakan penjelasan materialis yang berdasarkan pada fungsi otak.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah. Kesadaran adalah suatu fungsi yang muncul dari struktur organisasional kompleks yang spesifik (HOR) di dalam otak, sehingga mengesankan bahwa ia dapat dijelaskan atau direduksi secara prinsip, konsisten dengan klasifikasi materialisnya.",
+    "subjectivity_and_intentionality": "Subjektivitas muncul dari keterhubungan kesadaran dengan pembentukan keyakinan dan justifikasi epistemik pada tataran subjektif. Intensionalitas diusung oleh representasi perseptual orde-pertama yang sedang dipantau.",
+    "qualia_account": "'Bagaimana-rasanya' yang subjektif dijelaskan oleh representasi orde-lebih-tinggi yang mengakses sinyal perseptual analog tingkat-lebih-rendah yang lebih kaya. Sifat analog dari sinyal-sinyal ini menentukan keserupaan subjektif relatif terhadap pengalaman-pengalaman lain yang mungkin.",
+    "ontological_commitments": "Representasi perseptual orde-pertama, representasi pemantauan orde-lebih-tinggi (HOR), dan mekanisme neural spesifik yang berlokasi terutama di korteks prefrontal.",
+    "epistemic_access": "Dapat diakses melalui penyelidikan empiris dan pemodelan neural, yang berfokus pada keserupaan antara persepsi sadar dan mekanisme metakognisi sensoris. HOR itu sendiri merupakan proses subpersonal, tetapi keluarannya mengarah pada inferensi yang terjustifikasi secara subjektif bagi sang agen.",
+    "constituents_and_structure": "Strukturnya melibatkan proses dua tataran: representasi orde-pertama (sensoris) yang ditandai atau dipantau oleh representasi orde-lebih-tinggi (kognitif/metakognitif), yang membentuk suatu antarmuka mekanistik antara persepsi dan kognisi."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (persepsi dan qualia), Kognitif (metakognisi, pembentukan keyakinan), Akses (sebagai konsekuensi potensial).",
+    "distinctive_mechanism_or_principle": "Berfungsinya suatu representasi orde-lebih-tinggi (HOR) sebagai 'penanda atau label' yang menunjukkan keandalan yang dipersepsikan dari representasi sensoris orde-pertama (Pemantauan Realitas Perseptual), yang membedakannya dari fantasi atau derau neuronal.",
+    "dynamics_of_emergence": "Kesadaran muncul secara dinamis ketika mekanisme HOR fungsional yang spesifik diinstansiasi, yang berperan sebagai antarmuka kritis antara masukan sensoris dan pemrosesan kognitif.",
+    "location_and_distribution": "Mekanisme ini kemungkinan berada di dalam korteks prefrontal mamalia, di luar wilayah sensoris primer, yang tumpang tindih dengan area-area yang bertanggung jawab atas metakognisi perseptual.",
+    "causation_and_functional_role": "HOR bertindak sebagai mekanisme gerbang untuk mengarahkan informasi sensoris yang andal bagi pemrosesan kognitif lebih lanjut, sehingga memastikan sang agen dapat membedakan realitas dari fantasi dengan cara yang andal.",
+    "integration_or_binding": "Representasi orde-lebih-tinggi mengakses persepsi analog tingkat-lebih-rendah yang lebih kaya dari representasi orde-pertama, yang menyiratkan bahwa proses pemantauan ini memfasilitasi integrasi yang diperlukan bagi pengalaman fenomenal yang menyatu.",
+    "information_flow_or_representation": "Informasi mengalir dari representasi sensoris yang 'analog' secara ruang (orde-pertama) menuju sistem kognitif orde-lebih-tinggi, sehingga memungkinkan keunggulan komputasional dan menentukan karakter kualitatif.",
+    "evolutionary_account": "Teori ini konsisten dengan penjelasan evolusioner, karena ia memasukkan suatu pembeda (analog dengan AI) yang meningkatkan keselamatan hidup dengan secara andal membedakan persepsi sejati atas dunia dari citra atau derau yang dibangkitkan-sendiri.",
+    "core_claims_and_evidence": [
+      "Persepsi sadar memerlukan suatu representasi orde-lebih-tinggi yang memvalidasi masukan sensoris orde-pertama sebagai andal.",
+      "Mekanisme neural bagi persepsi sadar tumpang tindih dengan mekanisme bagi metakognisi sensoris (korteks prefrontal dan parietal).",
+      "Teori ini secara koheren menjelaskan blindsight sebagai terjadinya suatu representasi orde-pertama tanpa representasi orde-lebih-tinggi yang diperlukan yang berkorespondensi."
+    ],
+    "basis_of_belief_or_evidence_type": "Empiris/Neurosaintifik Kognitif, Fungsionalis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris dengan memetakan dan membandingkan korelat neural dari persepsi sadar dan metakognisi sensoris, serta melalui daya prediktif mengenai fenomena blindsight.",
+    "known_empirical_interventions_or_tests": [
+      "Studi pencitraan neural yang mengorelasikan aktivitas prefrontal/parietal dengan metakognisi sensoris dan persepsi sadar."
+    ],
+    "criticisms_and_tensions": "Lau mengkritik model-model saingan, dengan memposisikan teori ini sebagai pendekatan 'sentris' yang lebih unggul yang berada di antara Teori Ruang Kerja Global (terlalu berfokus pada akses) dan teori-teori yang murni lokal/rekuren (terlalu berfokus pada area sensoris dini). Teori ini menghadapi kesulitan standar dalam menjelaskan mengapa pemantauan/metakognisi harus menghasilkan 'bagaimana-rasanya' yang kualitatif.",
+    "open_questions_and_limitations": "Perlu sepenuhnya membuktikan klaim ambisius bahwa suatu representasi analog yang mekanistik yang diakses oleh suatu penanda orde-lebih-tinggi dapat sepenuhnya menjelaskan kualitas subjektif pengalaman.",
+    "ontological_coherence": "Sangat koheren dalam kerangka materialis yang neurobiologis dan fungsionalis."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Sebagai teori fungsionalis, kesadaran bergantung pada implementasi arsitektur informasional/fungsional yang benar (mekanisme HOR). Jika arsitektur ini dapat diinstansiasi dalam sebuah robot atau program komputer, kesadaran buatan dimungkinkan."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran secara eksplisit terikat pada mekanisme neural spesifik dan terspesialisasi yang berlokasi di otak biologis (misalnya, korteks prefrontal), sehingga tidak menyisakan ruang bagi kelangsungan setelah kematian biologis."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Peran utama mekanisme ini bersifat fungsional (membedakan realitas dari fantasi dan mengarahkan informasi). Ia tidak menawarkan tujuan kosmik atau ultimat di luar keunggulan adaptif yang dianugerahkan oleh mekanisme biologis ini."
+    },
+    "virtual_immortality": {
+      "stance": "Mungkin",
+      "rationale": "Jika arsitektur fungsional dan informasional yang spesifik, termasuk sifat analog dari representasi-representasi tersebut, dapat diunggah dan dijalankan secara sempurna pada substrat nonbiologis, diri mental orang pertama akan dipertahankan karena kesadaran ditentukan oleh struktur fungsional itu."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Instansi Spesifik/Perluasan"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Kritik (Diposisikan sebagai alternatif tengah yang lebih unggul)"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Kritik (Diposisikan sebagai alternatif tengah yang lebih unggul)"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Selaras (Berbagi pendekatan fungsionalis/kognitif dalam menjelaskan klaim-klaim sadar)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness, metacognition, & perceptual reality monitoring, Hakwan Lau",
+        "year": 2019
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Is consciousness a battle between your beliefs and perceptions?, Hakwan Lau",
+        "year": 2019
+      }
+    ]
+  }
+}

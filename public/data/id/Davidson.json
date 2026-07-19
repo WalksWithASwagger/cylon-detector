@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "Monisme Anomali Davidson",
+    "summary": "Monisme Anomali memosisikan bahwa setiap peristiwa mental identik dengan suatu peristiwa fisik (identitas token), sambil mempertahankan ontologi monistik. Namun, teori ini menegaskan bahwa tidak ada hukum alam yang ketat dan tanpa pengecualian yang menghubungkan konsep mental (tipe) dengan konsep fisik, yang menyebabkan ketidakteredusiran psikologi terhadap fisika. Penegasan ganda ini menyelesaikan konflik yang tampak antara kausasi mental dan kelengkapan kausal dunia fisik.",
+    "associated_thinkers": ["Donald Davidson"],
+    "category": "Monisme",
+    "subcategory": "Monisme Anomali",
+    "core_identity_tagline": "Token Mental Bersifat Fisik, Tipe Mental Bersifat Anomali",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "token identity",
+      "property dualism",
+      "mental causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Entitas mental (objek dan peristiwa partikular yang terikat ruang dan waktu, atau token) adalah entitas fisik. Namun, konsep mental tidak dapat direduksi menjadi konsep fisik melalui definisi atau hukum alam.",
+    "ontological_status": "Monisme (Fisikalisme Identitas Token/Dualisme Properti). Teori ini berpandangan bahwa peristiwa mental memiliki ontologi fisik.",
+    "mind_body_relationship": "Identitas Token: Peristiwa mental identik dengan peristiwa fisik. Hal ini dibenarkan melalui argumen mengenai kemustahilan identitas tipe antara properti mental dan properti fisik. Teori ini merupakan salah satu bentuk dualisme properti.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Kuat. (Justifikasi: Properti mental secara prinsip tidak dapat direduksi dan tidak dapat ditangkap oleh hukum psikofisik yang ketat, sejalan dengan ketidakteredusiran kuat.)",
+    "subjectivity_and_intentionality": "Teori ini menyoal esensi intensional fenomena mental (misalnya, keter-tentang-an/aboutness) sebagai properti yang membedakan fenomena mental dari hukum atau benda fisik.",
+    "qualia_account": "Rasa kualitatif (qualia) dimasukkan ke dalam kategori yang lebih luas berupa properti/konsep mental yang bersifat anomali—artinya, keduanya tidak tunduk pada reduksi oleh konsep atau hukum fisik.",
+    "ontological_commitments": "Entitas dan peristiwa fisik (token); properti/konsep mental yang tak-teredusi (tipe).",
+    "epistemic_access": "Diketahui melalui analisis filosofis atas kausalitas dan tuntutan unik penjelasan psikologis, yang tidak dapat menghasilkan hukum tanpa pengecualian seperti fisika.",
+    "constituents_and_structure": "Konstituennya adalah entitas/peristiwa fisik, tetapi kesadaran distruktur oleh konsep/properti mental yang tak-teredusi."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Peristiwa mental (token); kausasi mental; intensionalitas.",
+    "distinctive_mechanism_or_principle": "Anomalisme Mental: penegasan bahwa tidak ada hukum alam yang menghubungkan fenomena mental dengan fenomena fisik, meskipun peristiwa mental menyebabkan peristiwa fisik dan seluruh relasi kausal didukung oleh hukum alam (identitas token dibenarkan oleh kemustahilan identitas tipe).",
+    "dynamics_of_emergence": "Keadaan mental yang sadar muncul sebagai peristiwa fisik yang unik (token), yang dicirikan oleh kenyataan bahwa keduanya tidak dapat diatur oleh hukum prediktif yang ketat seperti hukum dalam fisika dasar.",
+    "location_and_distribution": "Peristiwa mental adalah entitas fisik, sehingga berlokasi di otak/substrat fisik.",
+    "causation_and_functional_role": "Peristiwa mental memiliki daya kausal yang sejati dan menyebabkan peristiwa fisik.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Fenomena mental didefinisikan oleh esensi intensionalnya, yang tampak berbeda secara radikal dari hukum yang murni fisik.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Peristiwa mental (token) identik dengan peristiwa fisik.",
+      "Properti mental (tipe) tidak dapat direduksi menjadi konsep fisik atau hukum alam.",
+      "Peristiwa mental memiliki daya kausal yang sejati dan menyebabkan peristiwa fisik.",
+      "Psikologi tidak dapat menghasilkan hukum tanpa pengecualian untuk memprediksi pikiran dan tindakan manusia (anomalisme mental)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis (Argumen deduktif berdasarkan tiga premis tentang kausalitas dan karakter nomologis)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konseptual/Filosofis. (Justifikasi: Klaim inti teori ini bersandar pada keniscayaan filosofis mengenai hakikat kausalitas dan penjelasan psikologis.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Ketegangan utama muncul dari gabungan tiga klaim: (i) kausasi mental itu ada, (ii) semua kausasi didukung hukum, dan (iii) tidak ada hukum psikofisik. Gabungan ini tampak tidak konsisten atau kontradiktif pada pandangan pertama.",
+    "open_questions_and_limitations": "Kerangka ini harus sepenuhnya menjelaskan bagaimana kausasi mental dapat terjadi jika tidak ada hukum ketat yang menghubungkan tipe properti mental dengan tipe properti fisik (masalah efikasi kausal dari properti yang anomali).",
+    "ontological_coherence": "Konsistensi internal tercapai, asalkan ketiga premis fundamentalnya diterima sebagai sahih, karena kesimpulan identitas token telah tertanam di dalamnya. Teori ini berbagi ciri dengan Fisikalisme Non-Reduktif."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Karena ontologinya pada dasarnya bersifat monis (semua peristiwa mental adalah peristiwa fisik), kesadaran AI secara prinsip dimungkinkan jika sistem fisik kompleks yang relevan dapat direplikasi dalam medium buatan, meskipun ketiadaan hukum mental yang dapat diprediksi (anomalisme) mempersulit penilaian."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Peristiwa mental bergantung pada peristiwa fisik (identitas token). Kelangsungan hidup setelah kehancuran substrat biologis tertutup di bawah asumsi materialis ini."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistis",
+      "rationale": "Sebagai teori monisme ontologis, teori ini sejalan dengan kategori materialis yang umumnya tidak merasionalisasi makna atau tujuan tertinggi di luar apa yang diciptakan manusia bagi dirinya sendiri."
+    },
+    "virtual_immortality": {
+      "stance": "Kemungkinan besar",
+      "rationale": "Jika substrat fisik (pola otak) diduplikasi, peristiwa mental (yang identik dengan token tersebut) semestinya turut terduplikasi, sehingga keabadian virtual dapat dicapai, serupa dengan pandangan fisikalis non-reduktif lainnya."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Non-Reductive Physicalism", "relationship": "Tumpang tindih" },
+      { "name": "Property Dualism", "relationship": "Tumpang tindih" },
+      {
+        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+    ]
+  }
+}

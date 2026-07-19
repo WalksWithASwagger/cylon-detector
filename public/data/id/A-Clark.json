@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "Pikiran Terperluas",
+    "summary": "Teori ini menyatakan bahwa proses-proses kognitif tidak secara ketat terbatas pada otak biologis, melainkan meluas ke lingkungan eksternal (eksternalisme aktif). Ketika suatu organisme manusia terhubung dengan entitas eksternal dalam interaksi dua arah, terbentuklah sistem terkopel yang bertindak sebagai sistem kognitif tersendiri. Menghilangkan komponen eksternal menurunkan kompetensi perilaku sistem tersebut, sebagaimana halnya menghilangkan sebagian otak.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "David Chalmers"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Relasional",
+    "core_identity_tagline": "‘Pikiran sebagai Sistem Kognitif Terkopel’",
+    "classification_tags": [
+      "externalism",
+      "embodiment",
+      "cognition",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai fungsi dari keseluruhan sistem kognitif terkopel, mencakup baik proses neural internal maupun perkakas/lingkungan eksternal, dengan menekankan ketergantungannya pada eksternalisme aktif.",
+    "ontological_status": "Fisikalisme (Fungsionalis/Relasional)",
+    "mind_body_relationship": "Korelasi/Perluasan. Pikiran merupakan properti emergen atau proses fungsional yang terdistribusi di seluruh otak, tubuh, dan lingkungan yang relevan, sehingga menantang pandangan tradisional bahwa pikiran terbatas di dalam tengkorak.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Sumber-sumber terutama berfokus pada peran fungsional kognisi dan kompetensi perilaku, tidak secara eksplisit membahas bagaimana subjektivitas fenomenal atau intensionalitas muncul. Subjektivitas secara implisit diperlakukan sebagai ciri dari sistem kognitif yang sedang berfungsi, di mana pun ia berada.",
+    "qualia_account": "Teori ini berfokus pada perluasan proses-proses kognitif dan pencapaian kompetensi perilaku, tetapi sumber-sumbernya tidak menjelaskan secara eksplisit bagaimana qualia fenomenal (dimensi kualitatif pengalaman) dijelaskan atau diperluas di dalam sistem terkopel.",
+    "ontological_commitments": "Otak, tubuh, objek/perkakas eksternal, dan lingkungan fisik, yang semuanya berpartisipasi dalam peran kausal aktif di dalam sistem terkopel.",
+    "epistemic_access": "Dapat diakses melalui kajian interaksi dua arah dan peran kausal aktif dari seluruh komponen dalam sistem terkopel, dengan berfokus pada kompetensi perilaku dan sirkuit kognitif.",
+    "constituents_and_structure": "Suatu ‘sistem terkopel’ yang tersusun dari organisme manusia (otak dan tubuh) yang terhubung dengan entitas eksternal (dunia sosial dan material) dalam interaksi dua arah, membentuk suatu keseluruhan yang mulus dan terintegrasi."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kognisi, Kompetensi Perilaku (Kesadaran fenomenal diisyaratkan berada di dalam sistem terperluas, tetapi fokusnya bersifat fungsional).",
+    "distinctive_mechanism_or_principle": "Eksternalisme Aktif, yang di dalamnya entitas eksternal memainkan peran kausal aktif dalam proses-proses kognitif, menciptakan ‘sistem terkopel’ yang terintegrasi secara fungsional.",
+    "dynamics_of_emergence": "Proses Dinamis. Pikiran muncul dari ‘arus penuh warna’ otak, tubuh, dan dunia sosial/material sebagai ‘keseluruhan yang secara mengejutkan mulus’.",
+    "location_and_distribution": "Terdistribusi/Terperluas. Proses-proses kognitif tersebar melampaui otak yang terbatas di dalam tengkorak, mencakup lingkungan dan perkakas eksternal.",
+    "causation_and_functional_role": "Komponen-komponen dalam sistem terkopel memainkan peran kausal aktif dan bersama-sama mengatur perilaku, sehingga memungkinkan pikiran memfasilitasi interaksi adaptif dengan dunia.",
+    "integration_or_binding": "Integrasi terjadi melalui interaksi dua arah aktif antara organisme dan entitas eksternal, membentuk suatu keseluruhan kognitif yang mulus dan terintegrasi.",
+    "information_flow_or_representation": "Pemrosesan informasi bertumpu pada representasi yang diperluas untuk mencakup peran partisipatif lingkungan dalam menggerakkan proses-proses kognitif.",
+    "evolutionary_account": "Teori ini konsisten dengan kerangka evolusioner yang di dalamnya kemampuan prediktif otak difasilitasi oleh kesadaran dan penyesuaian terhadap realitas eksternal, sehingga menyiratkan peran adaptif bagi perluasan kognitif.",
+    "core_claims_and_evidence": [
+      "Proses-proses kognitif meluas melampaui batas otak hingga mencakup entitas eksternal.",
+      "Sistem terkopel bertindak sebagai sistem kognitif tersendiri, dengan seluruh komponennya memainkan peran kausal aktif.",
+      "Menghilangkan komponen eksternal menurunkan kompetensi perilaku sistem tersebut."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumen Filosofis, Konseptual (Fungsionalis)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat Diuji Secara Konseptual/Bersyarat",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Teori ini menghadapi ketegangan filosofis mengenai lokasi dan batas pikiran yang tepat, yang menantang pengutamaan tradisional terhadap proses batin, biologis, dan neural.",
+    "open_questions_and_limitations": "Teori ini sangat berfokus pada proses-proses kognitif, sehingga menyisakan pertanyaan terbuka tentang bagaimana kesadaran fenomenal itu sendiri diperluas atau dialami di seluruh sistem terkopel.",
+    "ontological_coherence": "Sangat Koheren. Teori ini memberikan penjelasan materialis/fungsionalis yang konsisten dengan mendefinisikan ulang substrat yang dibutuhkan bagi kognisi hingga melampaui tengkorak."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Teori ini selaras dengan fungsionalisme komputasional, yang menyiratkan bahwa jika proses-proses kognitif dan relasi fungsional dapat diwujudkan secara artifisial, pikiran dapat disebarkan ke prostesis kognitif, sehingga menjadikan kesadaran AI masuk akal."
+    },
+    "survival_beyond_death": {
+      "stance": "Bersyarat",
+      "rationale": "Meskipun berakar pada Materialisme (yang umumnya menyangkal kelangsungan hidup), jika diri esensial didefinisikan oleh pola fungsional terdistribusi yang dapat bertahan terlepas dari substrat biologisnya, kelangsungan pola tersebut mungkin dapat terjadi."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Sebagai teori Materialisme, ia tidak menyiratkan adanya makna, tujuan, atau nilai kosmis; makna justru diciptakan oleh organisme manusia."
+    },
+    "virtual_immortality": {
+      "stance": "Mungkin",
+      "rationale": "Keabadian virtual masuk akal karena teori ini memandang pikiran sebagai pola fungsional yang secara inheren dapat diperluas melalui ‘prostesis kognitif’ eksternal, dan replikasinya dalam medium nonbiologis konsisten dengan basis fungsionalisnya."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied and Enactive Theories",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Computational functionalism",
+        "relationship": "Pengaruh"
+      },
+      {
+        "name": "Predictive Processing",
+        "relationship": "Kompatibel"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Extended Mind, Andy Clark and David Chalmers",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Supersizing the Mind: Embodiment, Action, and Cognitive Extension, Andy Clark",
+        "year": 2010
+      }
+    ]
+  }
+}

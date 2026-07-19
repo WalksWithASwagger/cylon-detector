@@ -1,0 +1,107 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Epifenomenalisme",
+    "summary": "Teori ini menyatakan bahwa kesadaran adalah produk otak biologis yang tak tereduksi, tetapi keadaan mental sama sekali tidak memiliki kekuatan kausal atas realitas fisik. Kesadaran subjektif kita nyata, namun persepsi kita bahwa pikiran kita menyebabkan tindakan adalah keliru, karena kesadaran sepenuhnya inert, seperti buih di atas gelombang samudra.",
+    "associated_thinkers": [
+      "David Chalmers (Classifier)",
+      "Frank Jackson (Related Thinker)"
+    ],
+    "category": "Teori Materialisme",
+    "subcategory": "Filosofis",
+    "core_identity_tagline": "Kesadaran itu nyata tetapi inert secara kausal.",
+    "classification_tags": [
+      "property dualism",
+      "non-reductive physicalism",
+      "mental causation",
+      "causal closure",
+      "illusion"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai properti fenomenal yang secara ontologis berbeda dari properti fisik tetapi bergantung secara kausal padanya (Fisik → Fenomenal).",
+    "ontological_status": "Bentuk lemah Dualisme atau Fisikalisme Non-Reduktif. Ia menegaskan ketertutupan kausal fisik yang lengkap.",
+    "mind_body_relationship": "Keadaan mental sepenuhnya merupakan produk otak biologis. Keadaan fisik menyebabkan keadaan fenomenal, tetapi keadaan fenomenal tidak memiliki efek kausal terhadap yang fisik (kausalitas satu arah).",
+    "primitive_or_emergent_status": "Emergen. Kesadaran semata-mata merupakan produk otak biologis.",
+    "emergence_type": "Properti tersebut tak tereduksi dan secara ontologis berbeda dari properti fisik, yang menunjukkan suatu bentuk emergensi kuat bagi properti fenomenal, sekalipun ia inert secara kausal. (Dijustifikasi berdasarkan klaim ketaktereduksian).",
+    "subjectivity_and_intentionality": "Kesadaran akan kesadaran itu nyata. Subjektivitas (properti fenomenal) secara ontologis berbeda. Rasa akan kausalitas mental bersifat ilusif.",
+    "qualia_account": "Properti fenomenal (qualia) nyata dan secara ontologis berbeda dari properti fisik, tetapi merupakan epifenomena sehingga inert secara kausal.",
+    "ontological_commitments": "Keadaan fisik (otak) dan properti fenomenal yang secara ontologis berbeda (keadaan mental) yang muncul darinya.",
+    "epistemic_access": "Kesadaran diketahui melalui introspeksi, tetapi rasa akan agensi kausal yang diturunkan dari introspeksi tersebut menyesatkan (semacam ilusi atau tipuan).",
+    "constituents_and_structure": "Kesadaran adalah properti emergen atau produk sampingan dari fungsi otak biologis, diibaratkan sebagai 'buih di atas gelombang samudra'."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kesadaran fenomenal (awareness). Ia secara eksplisit membahas dan menyangkal kausalitas/agensi mental.",
+    "distinctive_mechanism_or_principle": "Prinsip 'ketertutupan kausal fisik' menetapkan bahwa keadaan mental, apa pun sifatnya, harus sepenuhnya merupakan produk sampingan yang inert.",
+    "dynamics_of_emergence": "Keadaan mental dibangkitkan secara dinamis semata-mata oleh otak biologis, dengan semua peristiwa mental sadar melibatkan pemrosesan nirsadar sebelumnya.",
+    "location_and_distribution": "Sepenuhnya berlokasi di dalam otak fisik dan biologis.",
+    "causation_and_functional_role": "Keadaan mental tidak memiliki kekuatan kausal. Pikiran sepenuhnya inert dan tidak ada 'kausalitas dari atas ke bawah'; kesadaran adalah produk sampingan nonfungsional.",
+    "integration_or_binding": "Penyatuan pengalaman secara implisit dicapai oleh proses-proses fisik kompleks yang mendasari di dalam otak yang menghasilkan keadaan fenomenal yang tersatukan. (Dijustifikasi: Fokusnya pada ketiadaan kausalitas keluar, bukan mekanika kesatuan internal).",
+    "information_flow_or_representation": "Pemrosesan informasi sepenuhnya bersifat fisik/nirsadar, dan pengalaman fenomenal adalah keluaran paralel nonkausal dari pemrosesan ini.",
+    "evolutionary_account": "Secara implisit kompatibel dengan evolusi, karena kesadaran adalah produk otak biologis. Realitas properti itu menunjukkan bahwa ia timbul melalui evolusi, meski ketiadaan fungsinya berarti ia tidak diseleksi karena efikasi kausalnya. (Dijustifikasi berdasarkan klasifikasi di bawah Teori Materialisme).",
+    "core_claims_and_evidence": [
+      "Kesadaran sepenuhnya bersifat fisik, semata-mata produk otak biologis.",
+      "Keadaan mental secara ontologis berbeda dari keadaan fisik (Dualisme Properti).",
+      "Keadaan mental tidak memiliki kekuatan kausal karena ketertutupan kausal fisik yang lengkap."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis (didorong terutama oleh beban eksplanatif kausalitas mental dan komitmen pada ketertutupan kausal fisik)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Ditantang secara konseptual. Klaim utamanya—bahwa keadaan sadar tidak memiliki daya kausal—berlawanan dengan intuisi dan sulit diuji secara empiris, karena menyangkut pembuktian sebuah ketiadaan kaitan kausal.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Teori ini berlawanan dengan intuisi karena bagi kita sangat tampak bahwa keadaan sadar-fenomenal kita berperan secara kausal. Ia memaksa penerimaan bahwa rasa akan kausalitas mental kita (pikiran menyebabkan sesuatu) merupakan 'semacam ilusi atau tipuan'.",
+    "open_questions_and_limitations": "Integrasi kausalitas mental bersifat sentral, karena Epifenomenalisme memecahkan masalah dengan menyangkal kausalitas, tetapi ini menuntut penerimaan hasil yang sangat berlawanan dengan intuisi.",
+    "ontological_coherence": "Koherensi tinggi di dalam ontologi materialis yang berkomitmen pada ketertutupan kausal fisik yang lengkap, mencapai bentuk lemah dualisme sembari menghindari masalah interaksionis."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Kemungkinan besar",
+      "rationale": "Jika kesadaran hanyalah produk sampingan nonkausal (buih) dari proses-proses fisik di dalam otak, maka mereplikasi proses-proses fisik itu pada AI seharusnya menghasilkan keadaan sadar yang sama tanpa keadaan mental nonkausal menghambat replikasi fungsional."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran sepenuhnya bersifat fisik dan semata-mata produk otak biologis. Ketergantungan fisik ini menghalangi kelangsungan setelah kematian jasmani."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Sebagai teori materialisme filosofis, ia tidak memberikan makna atau tujuan yang tertinggi. Karena kesadaran inert secara kausal, ia tidak dapat menganugerahkan nilai teleologis kosmik."
+    },
+    "virtual_immortality": {
+      "stance": "Sangat mungkin",
+      "rationale": "Sifat inert kesadaran berarti bahwa mengunggah keadaan fisik akan otomatis menggandakan keadaan mental epifenomenal. 'Buih' yang inert seharusnya berdampak kecil terhadap pencapaian keabadian virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Bentuk/Tipe lemah"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Bentuk lebih lemah/Tumpang tindih"
+      },
+      {
+        "name": "Parallelism",
+        "relationship": "Alternatif serupa tetapi kurang populer"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Kontras (Dualisme Emergen menegaskan efikasi kausal, Epifenomenalisme menyangkalnya)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Facing up to the Problem of Consciousness",
+        "year": 1995
+      },
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      }
+    ]
+  }
+}

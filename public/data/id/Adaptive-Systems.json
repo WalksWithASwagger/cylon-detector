@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Model Sistem Adaptif Kompleks",
+    "summary": "Teori ini memodelkan kesadaran sebagai keluaran emergen dan adaptif dari otak, yang dipandang sebagai jaringan dinamis interaksi-interaksi kompleks dan nonlinier. Kesadaran mewujudkan karakteristik yang inheren pada sistem adaptif kompleks (SAK), seperti ketakterdugaan, dinamika kaotik, dan prinsip-prinsip pengorganisasian-diri.",
+    "associated_thinkers": [],
+    "category": "Materialisme",
+    "subcategory": "Komputasional dan Informasional",
+    "core_identity_tagline": "Kesadaran sebagai keluaran dinamis dan emergen dari suatu SAK",
+    "classification_tags": [
+      "complex systems",
+      "emergentism",
+      "non-linear",
+      "functionalism",
+      "computational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai perilaku cerdas, dinamis, dan adaptif yang dihasilkan dari interaksi-interaksi kompleks dan nonlinier di dalam otak, yang beroperasi sebagai Sistem Adaptif Kompleks.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Emergentis. Pikiran muncul sebagai properti emergen dari interaksi-interaksi yang sangat kompleks dan nonlinier dari sistem fisik (otak).",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah, cenderung ke arah kuat akibat sifat dinamika sistem yang sangat kaotik dan tak terduga.",
+    "subjectivity_and_intentionality": "Subjektivitas muncul secara implisit dari kompleksitas internal dan kapasitas sistem untuk pengorganisasian-diri; intensionalitas dijelaskan oleh kebutuhan untuk memediasi masukan indrawi dan keluaran perilaku guna memecahkan masalah (SAK cerdas).",
+    "qualia_account": "Qualia diidentifikasi sebagai properti emergen yang muncul secara langsung dari dinamika kolektif, kompleks, dan nonlinier dari substrat fisik yang mendasarinya.",
+    "ontological_commitments": "Jaringan dinamis, interaksi kompleks dan nonlinier, informasi, serta properti emergen yang dihasilkan.",
+    "epistemic_access": "Diakses melalui pengamatan dan pemodelan matematis atas dinamika sistem, khususnya perilaku yang tak terduga, kaotik, dan nonlinier yang menjadi ciri sistem kompleks.",
+    "constituents_and_structure": "Struktur dasarnya adalah jaringan dinamis dari komponen-komponen yang berinteraksi (neuron/rakitan neural) yang tertata secara hierarkis, dicirikan oleh nonlinearitas dan hubungan-hubungan kaotik."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (sebagai properti emergen), Akses (melalui adaptasi), dan Keagenan (saat sistem memecahkan masalah).",
+    "distinctive_mechanism_or_principle": "Prinsip-prinsip pengorganisasian-diri dan mekanisme adaptasi yang berbasis dinamika nonlinier, yang memungkinkan sistem mengubah perilakunya dan menciptakan kebaruan.",
+    "dynamics_of_emergence": "Proses dinamis. Kesadaran muncul dari peristiwa-peristiwa pemicu perubahan yang berlangsung terus-menerus dan mengorganisasi diri di berbagai tingkat organisasi, yang kerap melibatkan ambang batas dan interaksi rekursif.",
+    "location_and_distribution": "Sistemik. Kesadaran terdistribusi di seluruh jaringan dinamis otak/organisme.",
+    "causation_and_functional_role": "Kesadaran berfungsi sebagai ‘SAK cerdas’ yang tujuan utamanya adalah pemecahan masalah, memediasi masukan indrawi yang kompleks, dan menghasilkan keluaran perilaku yang lentur dan adaptif demi keberlangsungan hidup.",
+    "integration_or_binding": "Integrasi merupakan properti intrinsik sistem kompleks, yang di dalamnya ‘perilaku kolektif mungkin tidak dapat diprediksi dari perilaku komponen-komponennya’, sehingga menjamin kesatuan keluaran sadar.",
+    "information_flow_or_representation": "Pemrosesan informasi dicirikan oleh interaksi nonlinier dan rekursif, yang membedakannya dari pemrosesan linier atau algoritmik yang sederhana.",
+    "evolutionary_account": "Kesadaran berevolusi sebagai SAK cerdas untuk menghasilkan properti emergen yang diperlukan bagi pemecahan masalah kompleks dan keunggulan bertahan hidup dengan memediasi masukan dan keluaran.",
+    "core_claims_and_evidence": [
+      "Otak merupakan sistem adaptif kompleks yang keluaran sadarnya menampilkan nonlinearitas dan ciri-ciri kaotik.",
+      "Kesadaran bertumpu pada riwayat, ambang batas, dan interaksi rekursif, mencerminkan kodratnya sebagai SAK.",
+      "Memodelkan kesadaran sebagai SAK cerdas mengungkap peran adaptifnya dalam memecahkan masalah antara masukan indrawi dan keluaran perilaku."
+    ],
+    "basis_of_belief_or_evidence_type": "Komputasional, Pemodelan Matematis, Teori Sistem, Neurofilosofis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris dan komputasional, berdasarkan pengukuran kompleksitas, kekacauan, dan dinamika nonlinier di dalam jaringan neural.",
+    "known_empirical_interventions_or_tests": "Pengujian yang melibatkan analisis hubungan nonlinier dan kaotik antara masukan dan keluaran sistem kompleks, serta penilaian respons perilaku adaptif setelah gangguan.",
+    "criticisms_and_tensions": "Teori ini kerap dikritik, sebagaimana pendekatan fungsionalis lainnya, karena menjelaskan *struktur* perilaku sistem emergen tanpa menjelaskan kodrat fundamental pengalaman subjektif (qualia).",
+    "open_questions_and_limitations": "Ambang batas yang tepat atau karakteristik spesifik dalam dinamika kaotik yang diperlukan bagi kemunculan kesadaran fenomenal (berbeda dari pemrosesan kompleks yang tak sadar) masih belum ditentukan.",
+    "ontological_coherence": "Sangat koheren dalam kerangka fisikalis, dengan mendefinisikan kesadaran berdasarkan peran fungsional adaptifnya yang dihasilkan dari kompleksitas fisik."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Jika kesadaran terutama merupakan perilaku emergen dan adaptif dari suatu jaringan yang cukup kompleks dan mengorganisasi diri, atribut-atribut ini secara teoretis dapat direplikasi dalam sistem artifisial yang maju."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran berakar pada realitas fisik jaringan dinamis di dalam tubuh (otak), yang menyiratkan pemberhentiannya ketika substrat biologis terurai."
+    },
+    "meaning_and_purpose": {
+      "stance": "Pragmatis/Eksistensial",
+      "rationale": "Peran fungsional kesadaran adalah adaptasi dan pemecahan masalah demi keberlangsungan hidup, yang menyiratkan bahwa makna hanya inheren pada keberadaan sistem yang bertahan, bukan pada suatu rencana kosmis."
+    },
+    "virtual_immortality": {
+      "stance": "Mungkin/Bersyarat",
+      "rationale": "Keabadian virtual akan mungkin terjadi jika dinamika kompleks, nonlinier, dan mengorganisasi diri dari SAK biologis dapat direkam dan dipertahankan dalam medium nonbiologis."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Pengaruh"
+      },
+      {
+        "name": "Bunge’s Emergent Materialism",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Combs’s Chaotic Attractor and Autopoietic Systems",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Kompatibel"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness as an intelligent complex adaptive system: a neuroanthropological perspective, C. Laughlin",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Emergence and the mind, M. Bunge",
+        "year": 1977
+      }
+    ]
+  }
+}

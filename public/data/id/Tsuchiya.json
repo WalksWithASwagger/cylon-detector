@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Pendekatan Relasional Tsuchiya terhadap Kesadaran",
+    "summary": "Pendekatan ini pada dasarnya merupakan sebuah metodologi yang berupaya mencirikan dan mendefinisikan kesadaran melalui deskripsi menyeluruh atas relasi-relasinya dengan semua kesadaran lain. Ia memanfaatkan teori kategori, sebuah alat yang berlandaskan struktur matematis dan relasi-relasinya, untuk menggambarkan struktur dan keterkaitan fenomenologi sadar dengan presisi matematis.",
+    "associated_thinkers": ["Nao Tsuchiya", "Hayato Saigo"],
+    "category": "Teori Materialisme",
+    "subcategory": "Relasional",
+    "core_identity_tagline": "Kesadaran sebagai Relasi yang Dicirikan secara Matematis",
+    "classification_tags": [
+      "relational",
+      "category theory",
+      "mathematical",
+      "methodology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai suatu struktur relasi yang dicirikan oleh teori kategori (struktur matematis dan relasi-relasinya) yang diterapkan pada pengalaman fenomenal.",
+    "ontological_status": "Fisikalisme (Relasional). Justifikasi: Teori ini diklasifikasikan di bawah kategori payung Teori Materialisme.",
+    "mind_body_relationship": "Korelasi/Identitas berdasarkan relasi struktural yang kompleks. Justifikasi: Disimpulkan dari klasifikasinya di bawah Teori Materialisme/Relasional, dengan fokus pada pendefinisian struktur alih-alih substansi mental yang tak tereduksi.",
+    "primitive_or_emergent_status": "Emergen. Justifikasi: Disimpulkan dari klasifikasi pendekatan ini dalam Teori Materialisme.",
+    "emergence_type": "Emergensi Lemah. Justifikasi: Diasumsikan berdasarkan penempatannya yang konsisten dalam kerangka Materialisme, yang menunjukkan bahwa kompleksitas relasi muncul dari, dan pada prinsipnya dapat dijelaskan oleh, komponen-komponen fisik tingkat lebih rendah.",
+    "subjectivity_and_intentionality": "Tidak dirinci secara eksplisit, tetapi pendekatan ini mendefinisikan kategori-kategori kesadaran, yang secara implisit menstrukturkan konten fenomenal. Justifikasi: Metodologi ini berfokus pada pendefinisian konten dan tingkatan, bukan pada masalah sulit dari rasa subjektif itu sendiri.",
+    "qualia_account": "Qualia berkorespondensi dengan struktur fenomenologis relasional yang dapat didefinisikan dan dicirikan dengan presisi matematis. Justifikasi: Diturunkan dari fokus eksplisit teori ini pada pencirian struktur fenomenologi sadar melalui matematika.",
+    "ontological_commitments": "Struktur matematis (Teori Kategori), fenomenologi sadar, dan substrat fisik yang merealisasikan relasi-relasi ini (tersirat dari klasifikasi Materialisme).",
+    "epistemic_access": "Dapat diakses melalui deskripsi matematis, alat-alat konseptual yang diturunkan dari teori kategori, dan validasi empiris yang bersumber dari penelitian teoretis dan empiris lanjutan yang hendak diilhami oleh metode ini.",
+    "constituents_and_structure": "Struktur dasar kesadaran dicirikan secara matematis sebagai suatu 'kategori', berdasarkan properti struktural dan relasional yang ketat."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Tingkat dan konten kesadaran, dengan tujuan memperjelas konsep-konsep teoretis yang kompleks dalam filsafat dan psikologi.",
+    "distinctive_mechanism_or_principle": "Penggunaan Teori Kategori untuk mencapai deskripsi menyeluruh atas relasi-relasi kesadaran dengan semua kesadaran lain.",
+    "dynamics_of_emergence": "Tidak dirinci secara eksplisit. Pendekatan ini bersifat metodologis, berfokus pada pencirian struktur secara matematis alih-alih menggambarkan dinamika temporal.",
+    "location_and_distribution": "Lokasi didefinisikan oleh sistem fisik yang mendukung relasi-relasi yang diperlukan ini (tersirat sebagai sistem otak/tubuh, sebagaimana diklasifikasikan di bawah Materialisme).",
+    "causation_and_functional_role": "Tidak dirinci secara eksplisit, karena ini terutama merupakan pendekatan metodologis. Namun, pencirian relasi-relasi ini secara berhasil akan mendukung Teori Relasional tentang kesadaran.",
+    "integration_or_binding": "Integrasi ditangani secara implisit dengan menggambarkan keterkaitan antaranggota fenomenal dan struktur keseluruhan kesadaran sebagai satu kategori tunggal.",
+    "information_flow_or_representation": "Informasi dipahami sebagai relasi struktural antaranggota fenomenal, yang diformalkan dan digambarkan menggunakan teori kategori.",
+    "evolutionary_account": "Tidak dibahas secara eksplisit. Justifikasi: Materi sumber menyajikan teori ini sebagai kerangka metodologis untuk pendefinisian dan pencirian.",
+    "core_claims_and_evidence": [
+      "Kesadaran dapat dicirikan dan didefinisikan melalui deskripsi menyeluruh atas relasi-relasinya dengan semua kesadaran lain.",
+      "Teori kategori menyediakan struktur matematis yang diperlukan untuk menggambarkan fenomenologi sadar dengan presisi."
+    ],
+    "basis_of_belief_or_evidence_type": "Konseptual, Matematis, Metodologis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara konseptual dan empiris. Pendekatan ini bertujuan mengilhami penelitian teoretis dan empiris lebih lanjut.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Tidak dirinci secara eksplisit dalam sumber. Justifikasi: Teks menggambarkan pendekatan ini secara netral sebagai suatu metodologi.",
+    "open_questions_and_limitations": "Keterbatasan utamanya adalah apakah alat-alat konseptual yang diusulkan dapat berhasil memperjelas dan mendefinisikan kesadaran, dan apakah alat-alat itu dapat mengilhami validasi empiris yang menentukan.",
+    "ontological_coherence": "Koherensi internal yang tinggi berkat ketergantungannya pada formalisasi matematis yang ketat (Teori Kategori). Konsisten dengan kerangka fisikalis relasional."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Jika kesadaran pada dasarnya didefinisikan oleh relasi dan struktur yang dapat digambarkan secara presisi dengan matematika (melalui teori kategori), struktur-struktur ini semestinya dapat direalisasikan dalam sistem komputasional non-biologis yang canggih."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Teori ini dikategorikan di bawah Materialisme, yang menyiratkan bahwa kesadaran bergantung pada substrat fisik (kemungkinan otak) yang merealisasikan struktur relasional, yang berarti ia berhenti pada saat kematian biologis."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistik/Pragmatis",
+      "rationale": "Sebagai metodologi materialis yang bersifat struktural, ia menawarkan alat untuk mendefinisikan kesadaran tetapi tidak memberikan makna kosmis atau makna hakiki yang inheren di luar makna yang diciptakan oleh pengalaman manusia."
+    },
+    "virtual_immortality": {
+      "stance": "Mungkin",
+      "rationale": "Karena kesadaran dicirikan oleh relasi dan kategori yang dapat dikuantifikasi dan didefinisikan secara presisi, penggandaan struktur-struktur ini dalam substrat virtual atau digital semestinya, pada prinsipnya, memungkinkan kelangsungan diri yang sadar."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories",
+        "relationship": "Didukung Oleh"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "Terkait (Kategori yang sama)"
+      },
+      {
+        "name": "Category Theory in Mathematics",
+        "relationship": "Landasan"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relational approach to consciousness: categories of level and contents of consciousness, N. Tsuchiya and H. Saigo",
+        "year": 2021
+      }
+    ]
+  }
+}

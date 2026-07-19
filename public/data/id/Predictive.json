@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Prediktif (Top-Down)",
+    "summary": "Perspektif ini memandang otak sebagai mesin prediksi dinamis di mana persepsi sadar dihasilkan secara internal dengan memadukan ekspektasi top-down (prediksi) dengan data indrawi bottom-up (galat prediksi). Kesadaran muncul sebagai mekanisme fungsional yang memfasilitasi prediksi yang akurat, kesadaran, dan perilaku responsif demi kelangsungan hidup.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "Richard Gregory",
+      "Karl Friston",
+      "Rudolfo Llinas"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Homeostatik dan Afektif",
+    "core_identity_tagline": "Kesadaran sebagai Sintesis Prediksi Aktif",
+    "classification_tags": [
+      "prediction",
+      "computation",
+      "functionalism",
+      "top-down",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai sintesis kompleks antara ekspektasi prediktif dan masukan indrawi, yang muncul dari pensinyalan top-down yang menyampaikan prediksi tentang penyebab masukan indrawi.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Pikiran (persepsi sadar) adalah fungsi atau proses yang sepenuhnya berakar pada mekanisme fisik otak (pemrosesan prediktif), yang memediasi pengalaman tentang tubuh dan dunia.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Subjektivitas muncul dari sintesis internal antara prediksi dan sensasi, yang memungkinkan kesadaran dan responsivitas. Intensionalitas (keterarahan pemikiran) melekat dalam fokus sistem pada antisipasi hasil dan minimalisasi galat prediksi.",
+    "qualia_account": "Teori ini terutama berfokus pada fungsi dan proses persepsi melalui prediksi. Qualia secara implisit terkait dengan model atau representasi internal yang dihasilkan oleh otak prediktif, meski 'nuansa' subjektif tetap menjadi tantangan bagi pandangan yang murni mekanistik.",
+    "ontological_commitments": "Otak biologis, model prediktif, sinyal indrawi, galat ekspektasi, serta jalur pensinyalan top-down/bottom-up.",
+    "epistemic_access": "Diakses melalui pengembangan pemahaman sistematis tentang prediksi sebagai prinsip operasi inti otak, dengan menganalisis bagaimana data indrawi diintegrasikan dengan keyakinan yang sudah ada ('prior').",
+    "constituents_and_structure": "Sistem sadar terstruktur sebagai mesin prediksi dinamis yang menggunakan sinyal top-down (prediksi) dan sinyal bottom-up (galat prediksi)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (Persepsi), Kognisi, Tindakan, Kesadaran, Responsivitas",
+    "distinctive_mechanism_or_principle": "Prinsipnya adalah minimalisasi galat prediksi yang berkelanjutan (aproksimasi inferensi Bayesian), di mana kesadaran diasosiasikan dengan pensinyalan prediktif top-down yang aktif dalam otak.",
+    "dynamics_of_emergence": "Kesadaran muncul secara dinamis, memfasilitasi kapasitas biologis krusial untuk memprediksi dan merespons lingkungan secara berkelanjutan.",
+    "location_and_distribution": "Berbasis otak, terdistribusi dalam jaringan saraf yang terlibat dalam pensinyalan top-down dan jalur rekuren, sembari memperingatkan agar tidak menganut pandangan neurosentris yang murni 'terkurung dalam tengkorak'.",
+    "causation_and_functional_role": "Kesadaran memfasilitasi perilaku adaptif dan pemilihan tindakan optimal dengan memungkinkan perbandingan cepat antara peristiwa dunia nyata dan simulasi kontrafaktual. Fungsi menyeluruhnya adalah kelangsungan hidup dengan meminimalkan 'kejutan' lingkungan.",
+    "integration_or_binding": "Integrasi dicapai melalui sintesis berkelanjutan antara ekspektasi prediktif dan informasi indrawi yang masuk, sehingga menghasilkan persepsi yang koheren.",
+    "information_flow_or_representation": "Informasi mengalir melalui sinyal top-down yang menyampaikan prediksi dan sinyal bottom-up yang menyampaikan galat prediksi, yang mengaproksimasi inferensi Bayesian.",
+    "evolutionary_account": "Berevolusi dari pendorong biologis fundamental berupa kelangsungan hidup, yang memungkinkan kapasitas prediktif yang krusial bagi pergerakan aktif dan penavigasian lingkungan kompleks secara efektif.",
+    "core_claims_and_evidence": [
+      "Keadaan mental sadar diasosiasikan dengan pensinyalan top-down yang menyampaikan prediksi tentang penyebab indrawi",
+      "Otak beroperasi sebagai mesin prediksi yang kuat dan dinamis",
+      "Persepsi adalah sintesis kompleks antara ekspektasi prediktif dan masukan indrawi",
+      "Kesadaran muncul untuk memfasilitasi kapasitas prediktif yang esensial bagi kelangsungan hidup"
+    ],
+    "basis_of_belief_or_evidence_type": "Komputasional, Neurobiologis, Evolusioner"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris (bersyarat pada model mekanistik spesifik, misalnya yang terkait dengan Prinsip Energi-Bebas).",
+    "known_empirical_interventions_or_tests": "Metode yang tersirat melibatkan pengukuran respons neurologis yang terkait dengan pengodean prediktif dan pengujian dinamika galat ekspektasi (misalnya studi yang terkait dengan Inferensi Aktif).",
+    "criticisms_and_tensions": "Kritik utama, yang lazim bagi teori-teori fungsional, adalah kegagalan menjelaskan 'mengapa' yang subjektif—mengapa proses prediksi dan sintesis harus menghasilkan pengalaman yang terasa (qualia) alih-alih hanya keluaran fungsional.",
+    "open_questions_and_limitations": "Keterbatasan intinya adalah menjembatani kesenjangan antara deskripsi fungsional/komputasional tentang prediksi dan realisasi fenomenal kesadaran. Model ini banyak berfokus pada 'bagaimana' otak bekerja alih-alih 'apa' sebenarnya kesadaran itu secara fundamental.",
+    "ontological_coherence": "Sangat konsisten dengan ontologi materialis, fungsionalis, dan emergentis."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Jika kesadaran terutama dipahami sebagai fungsi komputasional untuk menghasilkan dan menguji prediksi guna mensintesis persepsi, maka sistem AI yang cukup kompleks yang menjalankan fungsi-fungsi ini seharusnya menjadi sadar."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Teori ini melandaskan kesadaran pada proses biologis otak yang telah berevolusi. Kesadaran terikat pada substrat fisik dan akan berhenti saat kematian biologis."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistik/Evolusioner",
+      "rationale": "Kesadaran berevolusi untuk memecahkan masalah biologis fundamental berupa kelangsungan hidup dan adaptasi, yang memberikan tujuan dalam memaksimalkan kebugaran (fitness), tetapi tidak melibatkan makna kosmis."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Hakikat komputasional dan fungsional teori ini menyiratkan bahwa, pada prinsipnya, organisasi prediktif yang membentuk diri dapat didigitalkan dan diciptakan kembali dalam substrat nonbiologis, sehingga memungkinkan kelangsungan fungsional."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Landasan"
+      },
+      {
+        "name": "Seth’s “Beast Machine” Theory",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Kontras"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Machine: How Our Minds Predict and Shape Reality, A. Clark",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Brain from inside Out, G. Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A Predictive Processing perspective on the mind-body problem, R.L. Kuhn",
+        "year": 2024
+      }
+    ]
+  }
+}

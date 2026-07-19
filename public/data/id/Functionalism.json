@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Fungsionalisme",
+    "summary": "Fungsionalisme menyatakan bahwa keadaan mental didefinisikan oleh relasi kausalnya satu sama lain, dengan masukan indrawi, dan dengan keluaran perilaku, terlepas dari media fisik (substrat) tempat ia terwujud. Esensi kesadaran ditentukan oleh bagaimana keadaan mental berfungsi atau beroperasi, alih-alih oleh apa penyusun materialnya.",
+    "associated_thinkers": [
+      "Ned Block",
+      "J.J.C. Smart",
+      "Janet Levin"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Filosofis",
+    "core_identity_tagline": "Keadaan mental adalah keadaan fungsional yang didefinisikan oleh peran kausalnya",
+    "classification_tags": [
+      "functional role",
+      "multiple realizability",
+      "computational",
+      "causal relations"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Keadaan mental diidentifikasi sebagai keadaan fungsional, yang dibentuk oleh relasi kausal, peran, hasil, dan keluarannya, yang mengimplikasikan bahwa ia dapat diwujudkan dalam substrat apa pun yang menopang fungsi-fungsi tersebut.",
+    "ontological_status": "Fisikalisme (secara luas, agnostik terhadap substansi). Teori ini diklasifikasikan di bawah Materialisme, tetapi secara metafisis agnostik mengenai substansi nonfisik, dengan fokus terutama pada deskripsi fungsional keadaan mental.",
+    "mind_body_relationship": "Keadaan mental adalah keadaan fungsional yang identik dengan peran fungsional yang diwujudkan atau diinstansiasi dalam substrat fisik, yang menuntun pada 'tesis identitas keadaan fungsional'.",
+    "primitive_or_emergent_status": "Emergen. Kesadaran timbul dari organisasi fungsional yang diwujudkan oleh substrat yang cukup kompleks (seperti jaringan neural atau cip komputer).",
+    "emergence_type": "Emergensi Lemah. Karena fungsi tersebut dapat didefinisikan dan berpotensi diwujudkan secara ganda lintas substrat yang berbeda, maka properti mental emergen itu, pada prinsipnya, dapat dijelaskan oleh struktur fungsional yang mendasarinya dan hukum-hukum fisika.",
+    "subjectivity_and_intentionality": "Subjektivitas dan intensionalitas dijelaskan dalam kerangka organisasi fungsional dan relasi kausal spesifik. Misalnya, dalam teori-teori fungsionalis terkait, intensionalitas dipahami melalui representasi orde-kedua atas keadaan mental.",
+    "qualia_account": "Teori ini secara tradisional kesulitan menjelaskan qualia fenomenal, sering menanganinya dengan menegaskan bahwa rasa kualitatif sepenuhnya terkuras oleh peran fungsional, atau dengan menggandengkannya dengan teori-teori representasional.",
+    "ontological_commitments": "Peran fungsional atau relasi kausal adalah entitas yang kritis. Teori ini mengasumsikan keberadaan substrat yang mampu menginstansiasi informasi dan arsitektur fungsional, entah itu jaringan neural atau cip komputer.",
+    "epistemic_access": "Kesadaran diakses dan dipahami dengan menganalisis bagaimana keadaan mental bekerja melalui relasi kausalnya dengan masukan indrawi dan keluaran perilaku, yang sering diasosiasikan dengan perspektif komputasional dan orang-ketiga.",
+    "constituents_and_structure": "Keadaan mental tersusun dari relasi kausal yang didefinisikan antara masukan indrawi, keadaan internal, dan keluaran perilaku. Relasi-relasi ini membentuk struktur fungsional pikiran."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Keadaan psikologis (mengingat, berpikir, mencipta) dan persyaratan struktural bagi kesadaran fenomenal; menyediakan fondasi bagi kesadaran kecerdasan buatan dan keabadian virtual.",
+    "distinctive_mechanism_or_principle": "Prinsip keterwujudan ganda, yang menyatakan bahwa perwujudan keadaan mental bersifat independen dari substrat fisik, hanya bergantung pada terinstansiasinya fungsi yang diperlukan.",
+    "dynamics_of_emergence": "Kesadaran terwujud sebagai proses atau aktivitas fungsional kapan pun relasi fungsional yang diperlukan (seperti yang didefinisikan oleh algoritma atau aliran kausal) hadir di dalam suatu sistem fisik.",
+    "location_and_distribution": "Terdistribusi di mana pun organisasi fungsional berhasil diwujudkan, terlepas dari apakah substratnya berupa jaringan neural atau komponen komputasi yang terpasang secara kabel.",
+    "causation_and_functional_role": "Fungsi, peran, dan keluaran bersifat menentukan. Keadaan mental efektif secara kausal karena ia didefinisikan oleh relasi kausalnya di dalam sistem (peran fungsional).",
+    "integration_or_binding": "Integrasi dicapai melalui perwujudan yang berhasil atas arsitektur fungsional kompleks di mana sejumlah masukan dan keadaan internal terkait secara kausal untuk menghasilkan keluaran yang tersatukan.",
+    "information_flow_or_representation": "Informasi bersifat sentral, terutama dalam fungsionalisme komputasional, di mana model komputasional klasik (algoritma) menjadi contoh persyaratan fungsional keadaan mental.",
+    "evolutionary_account": "Tidak ditangani secara langsung, tetapi sepenuhnya kompatibel dengan penjelasan evolusioner karena teori ini dikategorikan di bawah Materialisme, yang menunjukkan bahwa kesadaran adalah mekanisme berevolusi yang menganugerahkan keunggulan adaptif atau kelangsungan hidup melalui proses fungsional.",
+    "core_claims_and_evidence": [
+      "Keadaan mental dibentuk oleh relasi kausalnya satu sama lain dan dengan masukan/keluaran.",
+      "Keadaan mental identik dengan keadaan fungsional (tesis identitas keadaan fungsional).",
+      "Hakikat substrat tidak penting, hanya fungsi yang dijalankan.",
+      "Ia berperan sebagai fondasi teoretis bagi 'keabadian virtual'."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis (definisi konseptual), Komputasional (melalui teori komputasional pikiran)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara konseptual dan empiris. Eksperimen pikiran (seperti penggantian substrat) menyelidiki batas-batas konseptualnya, dan perwujudan komputasional (AI) menguji penerapan empirisnya.",
+    "known_empirical_interventions_or_tests": "Eksperimen pikiran penggantian cip silikon digunakan secara konseptual untuk menguji apakah kesadaran fenomenal terlestarikan ketika peran fungsional dipertahankan sepanjang perubahan substrat.",
+    "criticisms_and_tensions": "Ia dikritik keras karena gagal menjelaskan kesadaran fenomenal (qualia) dengan hanya mendeskripsikan peran fungsional, yang menuntun pada tantangan 'masalah sulit' bahwa peran fungsional mungkin tidak menguras habis hakikat pengalaman sadar.",
+    "open_questions_and_limitations": "Isu utama yang belum terselesaikan adalah apakah pengalaman sadar sepenuhnya terkuras oleh peran fungsional. Tidak jelas bagaimana definisi fungsional sepenuhnya menangkap aspek subjektif dan kualitatif pengalaman.",
+    "ontological_coherence": "Sangat koheren dengan ontologi Fisikalis yang luas. Meskipun didefinisikan oleh salah satu pendukungnya sebagai 'saingan yang tak sepadan' dengan Fisikalisme Reduktif atas dasar metafisik, ia menyediakan karakterisasi fungsional yang diperlukan bagi proyek-proyek reduktif."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ya",
+      "rationale": "Fungsionalisme berpendirian bahwa kesadaran berlandaskan fungsi, bukan biologi. Jika fungsi-fungsi yang tepat dapat diwujudkan secara komputasional dalam substrat nonbiologis, maka kesadaran AI mungkin pada prinsipnya dan pasti jika Materialisme benar."
+    },
+    "survival_beyond_death": {
+      "stance": "Bersyarat/Tidak",
+      "rationale": "Sebagai teori fisikalis, kesadaran terikat pada substrat. Kelangsungan setelah kematian tubuh biologis hanya mungkin jika keadaan mental fungsional dapat berhasil ditransfer (diunggah) ke substrat baru yang berlanjut (keabadian virtual)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Fungsionalisme mendeskripsikan mekanisme yang dengannya pikiran/kesadaran beroperasi di dalam dunia fisik, menyediakan kapasitas bagi agensi dan refleksi, tetapi tidak menawarkan rasionale bagi makna atau teleologi kosmik yang tertinggi, selaras dengan sikap umum Materialisme."
+    },
+    "virtual_immortality": {
+      "stance": "Dapat dicapai",
+      "rationale": "Fungsionalisme berperan sebagai basis teoretis bagi keabadian virtual. Jika peran fungsional diri mental dapat digandakan secara sempurna dan diunggah ke media baru, maka diri mental orang-pertama terlestarikan."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Homuncular Functionalism (Lycan)",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "Kompatibel/Saingan"
+      },
+      {
+        "name": "Neurofunctionalism (Prinz)",
+        "relationship": "Perluasan"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism? (N. Block)",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Is Functionalism? Consciousness, Function, and Representation (N. Block)",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Functionalism (J. Levin)",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Neurofungsionalisme menurut Prinz: Atensi Melahirkan Pengalaman",
+    "summary": "Teori ini mengklaim bahwa kesadaran muncul dari atensi, yang memfasilitasi aliran informasi perseptual ke sistem ingatan pada tahap pemrosesan menengah. Proses ini secara fundamental bergantung pada pelepasan saraf yang tersinkronisasi dan menghasilkan representasi stimulus yang terintegrasi serta mempertahankan sudut pandang.",
+    "associated_thinkers": ["Jesse Prinz"],
+    "category": "Materialisme",
+    "subcategory": "Neurobiologis",
+    "core_identity_tagline": "Kesadaran sebagai Representasi Menengah yang Diatensi",
+    "classification_tags": [
+      "attention",
+      "neurofunctionalism",
+      "perceptual",
+      "representational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai proses yang di dalamnya representasi stimulus yang terintegrasi dan mempertahankan sudut pandang menjadi tersedia bagi memori kerja berkat mekanisme atensi.",
+    "ontological_status": "Fisikalisme Reduktif",
+    "mind_body_relationship": "Prinz mengemukakan \"respons neurofungsional\" terhadap masalah pikiran-tubuh, dengan memadukan peran-peran fungsional dan realisasi neurobiologis yang mendasarinya, sehingga keadaan mental sepenuhnya termuat di dalam materialisme.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Subjektivitas bersifat intrinsik bagi 'format yang mempertahankan sudut pandang' dari representasi yang disediakan oleh proses atensi. Seluruh kesadaran bersifat perseptual, yang berarti intensionalitas (keterarahan) adalah kunci, tetapi kesadaran-diri tidak dialami secara langsung.",
+    "qualia_account": "Teori ini berupaya mensintesis temuan empiris untuk menawarkan penjelasan materialis yang lengkap yang menyanggah masalah sulit. Qualia dijelaskan sebagai representasi terintegrasi yang dihasilkan dari proses atensi.",
+    "ontological_commitments": "Pelepasan saraf yang tersinkronisasi, tahap-tahap pemrosesan perseptual, dan representasi informasi.",
+    "epistemic_access": "Dapat diakses melalui eksplorasi dan pemodelan empiris yang berlandaskan neurosains, dengan memadukan data fungsional dan neurobiologis.",
+    "constituents_and_structure": "Komponen fundamentalnya adalah representasi yang terintegrasi pada tahap pemrosesan menengah, yang dibatasi dan dimungkinkan oleh pelepasan saraf yang tersinkronisasi."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Perseptual.",
+    "distinctive_mechanism_or_principle": "Atensi, yang mengubah aliran informasi dengan menggunakan pelepasan saraf yang tersinkronisasi untuk membuat representasi informasi perseptual menengah tersedia bagi sistem ingatan.",
+    "dynamics_of_emergence": "Kesadaran adalah proses dinamis yang muncul ketika informasi perseptual mencapai tahap 'menengah' yang spesifik dan diolah oleh mekanisme atensi.",
+    "location_and_distribution": "Terlokalisasi pada tahap pemrosesan perseptual menengah yang spesifik.",
+    "causation_and_functional_role": "Kesadaran memiliki daya kausal, dengan mengemban fungsi membuat informasi perseptual siap tersedia bagi sistem-sistem yang memungkinkan perilaku fleksibel.",
+    "integration_or_binding": "Integrasi dicapai oleh proses atensi, yang menyatukan sifat-sifat stimulus menjadi satu format tunggal yang mempertahankan sudut pandang dan dapat diakses oleh memori kerja.",
+    "information_flow_or_representation": "Aliran informasi dimodifikasi oleh atensi untuk memberikan akses ke sistem ingatan, dan kesadaran sepenuhnya bergantung pada representasi terintegrasi.",
+    "evolutionary_account": "Kesadaran berevolusi untuk membuat informasi perseptual tersedia bagi sistem-sistem demi perilaku fleksibel, sehingga memberikan keunggulan adaptif. (Justifikasi: Berdasarkan fungsi kesadaran yang dinyatakan secara eksplisit dalam memungkinkan perilaku fleksibel.)",
+    "core_claims_and_evidence": [
+      "Kesadaran bergantung pada atensi dan muncul pada tahap pemrosesan perseptual menengah.",
+      "Proses ini bergantung pada pelepasan saraf yang tersinkronisasi.",
+      "Seluruh pengalaman sadar bersifat perseptual, yang berfungsi memungkinkan perilaku fleksibel.",
+      "Teori ini menawarkan penjelasan lengkap di dalam materialisme, yang memecahkan masalah sulit Chalmers."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurosaintifik, Fungsional, Filosofis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris",
+    "known_empirical_interventions_or_tests": "Teori ini didukung oleh bukti yang menautkan pelepasan saraf yang tersinkronisasi dengan kesatuan dan durasi temporal pengalaman, yang menjadi basis bagi klaim neurobiologisnya.",
+    "criticisms_and_tensions": "Klaim Prinz tentang 'teori yang memuaskan dan mengejutkan lengkap' sepenuhnya di dalam materialisme ditolak oleh pengkritik seperti David Chalmers, yang berpendapat bahwa tidak ada penjelasan yang murni fisik yang dapat menjelaskan pengalaman sadar.",
+    "open_questions_and_limitations": "Keterbatasan intinya, sebagaimana ditangani oleh teori itu sendiri, adalah meyakinkan para pengkritik (seperti Chalmers) bahwa deskripsi yang murni fungsional dan neurobiologis memadai untuk menjelaskan pengalaman fenomenal, terlepas dari argumen-argumen filosofis yang menentang fisikalisme.",
+    "ontological_coherence": "Sangat koheren, karena ia secara eksplisit memadukan fungsionalisme dan neurobiologi menjadi kerangka materialis yang konsisten, dengan tujuan menyelesaikan tantangan-tantangan dualis tradisional."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Karena teori ini mengidentifikasi kesadaran sebagai proses neurofungsional spesifik untuk membuat informasi tersedia bagi ingatan melalui atensi, fungsi komputasional ini seharusnya dapat dicapai dalam sistem nonbiologis yang cukup canggih."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Sebagai teori yang sepenuhnya termuat di dalam materialisme, kesadaran sepenuhnya bergantung pada dan dihasilkan oleh organisasi dan proses biologis otak (misalnya pelepasan saraf yang tersinkronisasi) serta berhenti saat kehancuran otak."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Fungsi kesadaran bersifat pragmatis—membuat informasi perseptual tersedia bagi perilaku fleksibel. Ia beroperasi dalam paradigma materialis yang lazimnya menyiratkan bahwa makna dan tujuan diciptakan sendiri, bukan bersifat kosmis."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Mengingat landasannya dalam neurofungsionalisme dan tujuannya untuk penjelasan materialis yang lengkap, duplikasi fungsional yang sempurna dari sistem representasional berbasis atensi dalam substrat nonbiologis seharusnya melestarikan diri sadar orang pertama yang asli."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Chalmers’s hard problem of consciousness",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Tumpang tindih"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Brain: How Attention Engenders Experience, Jesse J. Prinz",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The conscious brain, Christopher Mole",
+        "year": 2013
+      }
+    ]
+  }
+}

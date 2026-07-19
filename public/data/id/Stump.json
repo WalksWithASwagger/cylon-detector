@@ -1,0 +1,90 @@
+{
+  "id_and_class": {
+    "theory_title": "Dualisme Thomistik menurut Stump",
+    "summary": "Teori ini menyajikan penjelasan St. Thomas Aquinas tentang jiwa manusia sebagai suatu bentuk dualisme non-Cartesian. Ia menyatakan jiwa sebagai komponen yang pada dasarnya immaterial atau konfigurasional yang meskipun demikian direalisasikan di dalam komponen-komponen material, memungkinkan pendamaian antara kematerialan manusia dengan keberlangsungan roh setelah kematian tubuh.",
+    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "category": "Dualisme",
+    "subcategory": "Filosofis",
+    "core_identity_tagline": "Jiwa Immaterial Non-Cartesian yang Direalisasikan dalam Materi",
+    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran, atau jiwa/roh manusia, adalah substansi yang pada dasarnya immaterial atau konfigurasional yang direalisasikan dalam komponen-komponen material (tubuh).",
+    "ontological_status": "Dualisme Substansi (Varian Non-Cartesian/Thomistik)",
+    "mind_body_relationship": "Jiwa/roh yang immaterial direalisasikan dalam komponen-komponen material, mengakomodasi baik hakikat material manusia ('debu engkau adanya') maupun keberlangsungan roh setelah kematian ('roh akan kembali kepada Allah').",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Kuat/Non-reduktif (Justifikasi: Jiwa digambarkan mempertahankan esensi immaterial yang bertahan secara independen dari tubuh, menunjukkan bahwa ia tidak sepenuhnya tereduksi pada proses-proses material asal munculnya.)",
+    "subjectivity_and_intentionality": "Subjektivitas dan intensionalitas pada dasarnya berkedudukan dalam jiwa yang immaterial/konfigurasional, sebagaimana dibuktikan oleh kemampuannya bertahan sebagai roh setelah peluruhan tubuh.",
+    "qualia_account": "Qualia dikaitkan dengan properti-properti dari komponen jiwa immaterial/konfigurasional yang direalisasikan dalam tubuh material.",
+    "ontological_commitments": "Tubuh material (yang tunduk pada peluruhan, seperti 'debu') dan jiwa/roh yang pada dasarnya immaterial atau konfigurasional yang mampu bereksistensi secara independen.",
+    "epistemic_access": "Terutama diakses melalui argumen filosofis dan interpretasi teologis atas teks-teks fundamental atau intuisi mengenai kodrat manusia dan keberlangsungan spiritual.",
+    "constituents_and_structure": "Manusia adalah entitas komposit di mana jiwa bertindak sebagai bentuk atau struktur konfigurasional yang direalisasikan oleh komponen-komponen material tubuh."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Subjektivitas orang pertama, identitas personal, keberlangsungan melampaui kematian.",
+    "distinctive_mechanism_or_principle": "Hakikat non-Cartesian jiwa manusia memungkinkannya bersifat konfigurasional secara inheren, mengikat manusia fisik menjadi satu, sembari mempertahankan eksistensi independennya sebagai komponen immaterial, sehingga mengakomodasi baik eksistensi material maupun keberlangsungan spiritual.",
+    "dynamics_of_emergence": "Jiwa direalisasikan dalam tubuh material selama kehidupan. Saat kematian, sementara tubuh meluruh ('debu engkau adanya'), roh bertahan sebagai elemen non-material ('roh akan kembali kepada Allah').",
+    "location_and_distribution": "Jiwa secara intrinsik bersifat immaterial atau konfigurasional tetapi direalisasikan atau diinstansiasi dalam tubuh material selama kehidupan. Pascakematian, jiwa bersifat nonlokal relatif terhadap dunia fisik.",
+    "causation_and_functional_role": "Teori ini berfokus pada ontologi alih-alih fungsi, tetapi fungsi jiwa tersirat diperlukan bagi identitas personal yang koheren dan keberlangsungan sepanjang kehidupan dan sesudahnya.",
+    "integration_or_binding": "Jiwa/roh berperan sebagai prinsip pemersatu dan konfigurasional (bentuk) yang mengikat komponen-komponen material menjadi satu manusia tunggal.",
+    "information_flow_or_representation": "Teori ini berfokus pada komposisi ontologis (materi dan bentuk/roh) alih-alih mekanika pemrosesan informasional atau representasional.",
+    "evolutionary_account": "Teori ini dilandaskan pada filsafat skolastik historis, tetapi interpretasi modern kemungkinan akan mengakomodasi kompleksitas biologis sebagai kondisi yang diperlukan bagi realisasi jiwa, sehingga memungkinkan emergensi.",
+    "core_claims_and_evidence": [
+      "Jiwa bersifat non-Cartesian dan konfigurasional, direalisasikan dalam komponen-komponen material.",
+      "Manusia adalah objek material (selaras dengan Kejadian 3:19).",
+      "Manusia bertahan melewati kematian karena roh terus bereksistensi (selaras dengan Pengkhotbah 12:7)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis dan Teologis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Sebagian besar bersifat konseptual, berfokus pada koherensi filosofis dan konsistensi metafisik dengan doktrin-doktrin keagamaan mengenai kehidupan dan kematian.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Ia berupaya menanggapi kritik filosofis yang umum bahwa dualisme Cartesian tradisional secara luas dianggap keliru atau tidak koheren, khususnya menyangkut masalah interaksi.",
+    "open_questions_and_limitations": "Mekanisme persis yang melaluinya suatu esensi immaterial/konfigurasional 'direalisasikan' dalam komponen-komponen material, dan bagaimana esensi ini menopang kesadaran pascakematian, dibiarkan tak terdefinisi oleh bahan sumber.",
+    "ontological_coherence": "Koherensi tinggi di dalam kerangka metafisik Thomistiknya yang terdefinisi, yang secara khusus dirancang untuk menyelaraskan keberadaan tubuh material dengan elemen spiritual yang abadi."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bersyarat",
+      "rationale": "Jika kesadaran terikat pada jiwa yang pada dasarnya immaterial atau konfigurasional yang direalisasikan dalam materi biologis, sistem buatan yang dibangun hanya dari komponen fisik kemungkinan akan kekurangan konstituen non-fisik yang diperlukan ini, kecuali hukum-hukum psikofisik yang menghasilkan jiwa dapat berlaku bagi substrat non-biologis."
+    },
+    "survival_beyond_death": {
+      "stance": "Ya",
+      "rationale": "Teori ini secara eksplisit disusun untuk mengakomodasi keberlangsungan roh/jiwa, yang merupakan kedudukan kesadaran seseorang, setelah tubuh meluruh."
+    },
+    "meaning_and_purpose": {
+      "stance": "Kosmis/Teologis",
+      "rationale": "Kerangka ini berakar pada filsafat skolastik Kristen, mengintegrasikan doktrin-doktrin alkitabiah tentang penciptaan dan kembalinya roh kepada Allah, sehingga memberikan makna dan tujuan pamungkas."
+    },
+    "virtual_immortality": {
+      "stance": "Tidak",
+      "rationale": "Sebagai varian dualisme substansi yang mensyaratkan substansi nonfisik (jiwa), duplikasi hanya atas struktur fisik (seperti dalam keabadian virtual) akan menghilangkan komponen nonfisik esensial yang diperlukan bagi kontinuitas diri."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Perbedaan (Sementara dualisme properti menyangkal dualisme substansi, dualisme Thomistik berupaya melampaui dikotomi tradisional antara substansi dan reduksionisme material.)"
+      },
+      {
+        "name": "Substance Dualism (Cartesian)",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "Tumpang tindih"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Non-Cartesian Substance Dualism and Materialism Without Reductionism, Eleonore Stump",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Summa Theologiae, St. Thomas Aquinas",
+        "year": "c. 1265-1274"
+      }
+    ]
+  }
+}

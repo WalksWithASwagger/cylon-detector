@@ -1,0 +1,104 @@
+{
+  "id_and_class": {
+    "theory_title": "Panprotopsikisme",
+    "summary": "Panprotopsikisme adalah varian Panpsikisme yang berpandangan bahwa entitas-entitas fisik fundamental memiliki properti yang tidak sadar dengan sendirinya melainkan bersifat 'protofenomenal'. Properti protofenomenal ini harus berpadu dalam struktur yang kompleks (seperti otak) untuk menghasilkan kesadaran fenomenal yang emergen.",
+    "associated_thinkers": ["David Chalmers", "Philip Goff"],
+    "category": "Panpsikisme",
+    "subcategory": "Panprotopsikisme",
+    "core_identity_tagline": "Properti protofenomenal berpadu untuk menghasilkan kesadaran",
+    "classification_tags": [
+      "protophenomenal",
+      "panpsychism",
+      "emergence",
+      "qualia",
+      "russellian-monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai makropengalaman emergen yang dihasilkan dari perpaduan dan pengompleksan properti protofenomenal yang fundamental dan tidak sadar.",
+    "ontological_status": "Panpsikisme Emergen (sering diklasifikasikan di bawah Monisme Russellian)",
+    "mind_body_relationship": "Pikiran (kesadaran fenomenal) muncul secara kuat atau lemah dari substrat fisik, yang sifat intrinsiknya terdiri dari properti protofenomenal. Penautan ini bertujuan menghindari persoalan kausal dualisme tradisional.",
+    "primitive_or_emergent_status": "Emergen (Kesadaran fenomenal bersifat emergen, tetapi properti yang mendasarinya bersifat primitif/fundamental)",
+    "emergence_type": "Dapat berupa Emergensi Lemah atau Kuat, bergantung pada apakah properti fenomenal dapat dideduksi, bahkan secara prinsipiel, dari fakta-fakta protofenomenal yang tidak sadar.",
+    "subjectivity_and_intentionality": "Subjektivitas muncul hanya pada tataran makroskopis yang kompleks ketika elemen-elemen protofenomenal berpadu. Properti fundamental itu sendiri tidak teralami atau merupakan 'kualitas tipis yang tidak teralami'.",
+    "qualia_account": "Qualia (properti fenomenal) dihasilkan oleh perpaduan properti protofenomenal yang fundamental, yang beralih dari 'kualitas tipis yang tidak teralami' menjadi kualitas yang teralami.",
+    "ontological_commitments": "Properti protofenomenal (basis kategoris entitas fisik), medan-medan fisik fundamental, dan properti fenomenal yang emergen.",
+    "epistemic_access": "Terutama deduksi filosofis (memecahkan masalah sulit dengan menyatakan adanya properti intrinsik tersembunyi dari materi) dan analisis konseptual, alih-alih observasi empiris.",
+    "constituents_and_structure": "Entitas-entitas fisik fundamental yang memiliki properti protofenomenal yang terorganisasi menjadi makrostruktur kompleks (mis. otak) yang mampu menghasilkan kesadaran."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kesadaran fenomenal, Subjektivitas.",
+    "distinctive_mechanism_or_principle": "Mekanisme perpaduan yang krusial tetapi saat ini tidak diketahui yang diperlukan untuk mentransformasikan elemen-elemen protofenomenal yang tidak sadar menjadi pengalaman sadar yang terpadu dan kompleks.",
+    "dynamics_of_emergence": "Kesadaran muncul secara dinamis begitu tercapai tingkat perpaduan struktural yang kompleks tertentu dari properti protofenomenal yang fundamental.",
+    "location_and_distribution": "Properti protofenomenal ada di mana-mana dalam entitas-entitas fisik fundamental; kesadaran fenomenal terlokalisasi dalam sistem biologis yang kompleks (mis. otak) yang mampu memadukannya.",
+    "causation_and_functional_role": "Kesadaran fenomenal yang emergen umumnya memiliki daya kausal, yang mewarisi peran kausalnya melalui landasannya pada sifat intrinsik (protofenomenal) realitas fisik. Ini menganugerahkan peran fungsional (mis. keunggulan kelangsungan hidup adaptif) bagi kesadaran.",
+    "integration_or_binding": "Memerlukan solusi bagi 'masalah perpaduan': menjelaskan bagaimana elemen-elemen protofenomenal yang tidak sadar berintegrasi untuk membentuk makropengalaman subjektif yang terpadu.",
+    "information_flow_or_representation": "Melibatkan transformasi properti protofenomenal yang mendasari (yang merupakan basis kategoris struktur fisik dan disposisi relasional) menjadi struktur tataran makro yang dialami sebagai isi fenomenal.",
+    "evolutionary_account": "Mekanisme perpaduan diandaikan telah berevolusi dalam sistem biologis yang kompleks (seperti sistem saraf hewan) untuk menganugerahkan keunggulan adaptif melalui kesadaran emergen.",
+    "core_claims_and_evidence": [
+      "Kesadaran berlandaskan pada properti protofenomenal yang fundamental dan tidak sadar dari entitas-entitas tataran mikro.",
+      "Teori ini menghindari celah fisik materialisme dengan menyatakan adanya properti mental intrinsik dari materi.",
+      "Masalah perpaduan tetap menjadi tantangan konseptual utama bagi kelayakan teori ini."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis (Memecahkan celah eksplanatori dan masalah sulit, analisis konseptual atas properti fisik fundamental)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Sangat spekulatif/Dapat diuji secara konseptual. Berurusan dengan properti fundamental yang umumnya tak dapat diakses oleh sains empiris saat ini.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Ketegangan utamanya adalah 'masalah perpaduan': menjelaskan bagaimana properti fundamental yang tidak sadar bersatu untuk menghasilkan kesadaran subjektif yang kompleks. Para pengkritik berargumen bahwa memperkenalkan proto-kesadaran hanya menunda masalah sulit.",
+    "open_questions_and_limitations": "Sifat persis dari mekanisme perpaduan tetap menjadi pertanyaan yang terbuka, dan penentuan apakah kesadaran yang dihasilkan bersifat emergen kuat atau lemah belum terselesaikan.",
+    "ontological_coherence": "Dimaksudkan sebagai jalan tengah yang koheren antara materialisme dan dualisme, dengan melandasi mentalitas pada sifat intrinsik realitas sembari memungkinkan emergensi pada skala makroskopis."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Kemungkinan",
+      "rationale": "Jika kesadaran dihasilkan dari mekanisme perpaduan properti fundamental, maka sistem artifisial yang dibangun dari material fisik yang memiliki properti-properti ini dapat menjadi sadar, asalkan struktur perpaduan yang diperlukan dapat direkayasa."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak mungkin (Peluang tipis)",
+      "rationale": "Kesadaran fenomenal terikat pada struktur kompleks yang emergen (mis. otak); ketika struktur ini terurai saat kematian, kesadaran yang kompleks lenyap, dan hanya menyisakan substrat protofenomenal yang tidak sadar yang persisten."
+    },
+    "meaning_and_purpose": {
+      "stance": "Mungkin",
+      "rationale": "Sebagai varian panpsikisme, ia menyatakan adanya aspek mental yang fundamental pada realitas, yang menyiratkan kemungkinan bagi makna atau nilai kosmis di luar penjelasan yang ketat materialis."
+    },
+    "virtual_immortality": {
+      "stance": "Kemungkinan",
+      "rationale": "Jika aturan-aturan untuk memadukan properti protofenomenal yang ada di mana-mana menjadi suatu diri fenomenal dapat dipahami dan diduplikasi secara sempurna dalam substrat non-biologis, keabadian virtual semestinya dapat dicapai."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Panpsychism",
+        "relationship": "Kontras"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Micropsychism",
+        "relationship": "Kontras"
+      },
+      {
+        "name": "Panqualityism",
+        "relationship": "Tumpang tindih"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Panpsychism and Panprotopsychism, D. Chalmers",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Consciousness and its place in nature, D. Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Panpsychism, P. Goff, W. Seager, and S. Allen-Hermanson",
+        "year": 2022
+      }
+    ]
+  }
+}

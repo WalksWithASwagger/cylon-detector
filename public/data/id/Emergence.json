@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Emergensi (Prinsip Kesadaran)",
+    "summary": "Emergensi adalah klaim filosofis bahwa properti yang secara kualitatif baru, seperti kesadaran atau keadaan psikologis, muncul dari properti fisik yang mendasarinya yang sepenuhnya diatur oleh hukum fisika. Ia terutama dibedakan menjadi emergensi lemah, yang secara prinsip dapat direduksi, dan emergensi kuat, yang secara fundamental tak-teredusi dan mungkin meniscayakan hukum fisika yang baru.",
+    "associated_thinkers": [
+      "David Chalmers",
+      "Paul Davies",
+      "George Ellis"
+    ],
+    "category": "Teori Materialisme",
+    "subcategory": "Filosofis",
+    "core_identity_tagline": "Properti yang Secara Kualitatif Baru yang Muncul dari Sistem Fisik",
+    "classification_tags": [
+      "emergentism",
+      "reductionism",
+      "non-reductive",
+      "physicalism",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai suatu properti atau keadaan psikologis yang secara kualitatif baru yang muncul dari properti fisik. Konsep ini mendefinisikan relasi antara pikiran dan materi berdasarkan keteredusiran atau ketidakteredusiran ke fisika fundamental.",
+    "ontological_status": "Sangat bervariasi/Diperdebatkan. Emergensi Lemah mendukung Fisikalisme reduktif. Emergensi Kuat kerap menyiratkan Fisikalisme Non-Reduktif atau kebutuhan untuk memperluas konsepsi alam, yang berpotensi menuntut hukum-hukum fundamental yang baru (Dualisme Naturalistik atau Dualisme Properti).",
+    "mind_body_relationship": "Emergentis. Pikiran muncul dari tubuh (sistem fisik yang kompleks). Hakikat relasinya bergantung pada jenis emergensinya: Lemah menyiratkan reduksi secara prinsip; Kuat menyiratkan ketidakteredusiran bahkan secara prinsip, yang kerap melibatkan kausasi ke bawah.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Sekaligus Lemah dan Kuat. Emergensi lemah menyiratkan keteredusiran secara prinsip (meskipun sulit dalam praktik), sedangkan emergensi kuat menyiratkan bahwa fenomena itu mustahil dijelaskan melalui reduksi, bahkan secara prinsip, sehingga menuntut hukum psikofisik yang fundamental.",
+    "subjectivity_and_intentionality": "Emergensi menyediakan kerangka untuk *bagaimana* subjektivitas muncul dari bagian-bagian yang non-subjektif. Jika emergensi kuat terlibat, properti subjektif yang dihasilkan (seperti qualia) secara fundamental tak-terdeduksi dari hukum fisika yang mengatur domain tingkat-rendah.",
+    "qualia_account": "Qualia adalah properti yang baru dan secara kualitatif baru (misalnya, kualitas sensorik) yang muncul dari sistem fisik. Emergensi kuat memandang kesadaran (dan karenanya qualia) sebagai kasus paling jelas dari suatu fenomena yang emergen secara kuat, yang secara fundamental tak-teredusi ke fakta-fakta fisik yang mendasarinya.",
+    "ontological_commitments": "Properti fisik dan hukum fisika. Bagi Emergensi Kuat, komitmen ini meluas untuk mungkin mencakup hukum atau prinsip psikofisik fundamental yang baru, khususnya yang berkaitan dengan kausasi dari-atas-ke-bawah.",
+    "epistemic_access": "Bagi emergensi lemah, akses berpotensi dapat dicapai melalui sains fundamental (secara prinsip). Bagi emergensi kuat, fenomena itu tak-terakses secara epistemis atau tak-terdeduksi dari fisika tingkat-rendah, sehingga menimbulkan tantangan yang bertahan lama bagi penjelasan ilmiah.",
+    "constituents_and_structure": "Suatu sistem di mana entitas keseluruhan atau properti barunya (atau tampak) lebih dari sekadar jumlah semua bagiannya, yang muncul dari susunan kompleks atom-atom fisik, seperti neuron biologis."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Subjektivitas, Qualia. Ia menyoal keberadaan dan ketidakteredusiran properti sadar, sehingga memperkaya berbagai teori spesifik.",
+    "distinctive_mechanism_or_principle": "Prinsipnya adalah klaim bahwa properti yang baru dan secara kualitatif berbeda muncul pada tingkat kompleksitas yang lebih tinggi, yang kerap dikontraskan dengan asumsi reduktif sains arus utama.",
+    "dynamics_of_emergence": "Kesadaran adalah suatu properti dinamis yang muncul ketika suatu jenis susunan kompleks komponen fisik (misalnya, neuron biologis) berhimpun, yang menghasilkan properti yang tidak hadir dalam komponen-komponennya semata. Emergensi kuat mungkin melibatkan kausasi ke bawah.",
+    "location_and_distribution": "Umumnya terlokalisasi dalam sistem biologis yang kompleks (misalnya, otak), meskipun para pendukung emergensi kuat mungkin berargumen bahwa kesadaran AI dimungkinkan jika kompleksitas fisik yang memadai tercapai, terlepas dari substratnya.",
+    "causation_and_functional_role": "Bervariasi. Emergensi lemah sejalan dengan kausasi fisik standar. Emergensi kuat kerap memosisikan kausasi dari-atas-ke-bawah, di mana tingkat hierarkis emergen yang lebih tinggi mengerahkan daya kausal pada tingkat yang lebih rendah, sehingga memberi properti emergen tersebut daya kausal.",
+    "integration_or_binding": "Properti emergen yang dihasilkan itu sendiri merepresentasikan integrasi komponen-komponen tingkat-rendah menjadi suatu keseluruhan yang terpadu, yang menghasilkan properti yang tak-teredusi ke jumlah bagian-bagiannya.",
+    "information_flow_or_representation": "Informasi diimplikasikan sebagai medium bagi properti emergen (misalnya, dalam Teori Informasi Emergen, pikiran non-material memengaruhi tubuh melalui fenomena informasi yang hierarkis dan emergen) tetapi bukan merupakan mekanisme inti prinsip umumnya.",
+    "evolutionary_account": "Kesadaran, jika emergen, diandaikan muncul melalui tahap-tahap evolusioner ketika ambang kompleksitas fisik tertentu terlampaui, yang memberikan manfaat adaptif (misalnya, memungkinkan sistem yang lebih dari sekadar jumlah bagian-bagiannya).",
+    "core_claims_and_evidence": [
+      "Properti yang secara kualitatif baru muncul dari properti fisik (Klaim Umum).",
+      "Emergensi lemah mendukung fisikalisme dengan menunjukkan bahwa fenomena baru berlandaskan hukum-hukum sederhana (Klaim Lemah).",
+      "Emergensi kuat menuntut hukum psikofisik fundamental yang baru dan menyiratkan ketidakteredusiran, sehingga menantang fisikalisme (Klaim Kuat)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis, Konseptual"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekulatif dan kontroversial secara filosofis. Emergensi lemah secara prinsip selaras dengan sains. Emergensi kuat sulit diuji secara empiris karena ia memosisikan bahwa fenomena bersifat tak-terdeduksi dari sains fundamental.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Ia dikritik oleh para fisikalis reduktif (seperti para Materialis Eliminatif) sebagai memiliki nilai eksplanatif yang kecil, berlebihan, atau bertindak sebagai 'penyataan-ulang suatu mukjizat' yang gagal menjelaskan *bagaimana* kompleksitas tak-sadar menghasilkan kesadaran. Emergensi kuat secara khusus menantang ketertutupan kausal dunia fisik.",
+    "open_questions_and_limitations": "Distingsi fundamental antara emergensi lemah (keteredusiran secara prinsip) dan kuat (ketidakteredusiran secara prinsip) tetap menjadi masalah filosofis yang terbuka, yang menentukan apakah ia sekadar mendeskripsikan fenomena kompleks atau secara fundamental mengubah ontologi.",
+    "ontological_coherence": "Emergensi lemah koheren dalam ontologi Materialis/Fisikalis. Emergensi kuat sangat kontroversial, karena tuntutannya akan ketidakterdeduksian dan kausasi ke bawah menegangkan konsistensi dengan teori fisika standar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bersyarat/Kemungkinan besar",
+      "rationale": "Jika kesadaran bersifat emergen lemah, kesadaran AI pasti terjadi dengan kompleksitas yang memadai. Jika emergen kuat, kesadaran AI tetap mungkin jika properti non-fisik muncul dari kompleksitas fisik non-biologis, bergantung pada hukum meta-psikofisik yang terlibat."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak mungkin (Lemah); Mungkin (Kuat)",
+      "rationale": "Emergensi lemah, yang dekat dengan Materialisme, menutup kemungkinan kelangsungan hidup. Emergensi kuat, khususnya dalam bentuk Dualisme Emergen, secara teoretis dapat menghasilkan suatu substansi nonfisik (pikiran/jiwa) yang bergantung pada, tetapi tidak sepenuhnya identik dengan, otak fisik, yang membuka kemungkinan eksistensi independen setelah kematian, meskipun hal ini bersifat spekulatif."
+    },
+    "meaning_and_purpose": {
+      "stance": "Mungkin",
+      "rationale": "Emergensi, terutama emergensi kuat yang dipadukan dengan konsep seperti kausasi dari-atas-ke-bawah, menawarkan kerangka di mana properti tingkat-lebih-tinggi seperti kesadaran dan nilai-nilai yang terkait dengannya dapat memiliki daya kausal yang genuin, yang berpotensi mendukung tujuan atau makna kosmis, bergantung pada ontologi yang dihasilkan."
+    },
+    "virtual_immortality": {
+      "stance": "Kemungkinan besar (Lemah); Sangat Bersyarat (Kuat)",
+      "rationale": "Jika kesadaran bersifat emergen lemah, menduplikasi keadaan-keadaan fisik akan menduplikasi keadaan-keadaan mental (kemungkinan besar). Jika emergen kuat, properti yang tak-teredusi dan kemungkinan kausasi ke bawah perlu ditangkap dan diciptakan ulang secara sempurna dalam medium baru, sehingga menimbulkan tantangan teknis dan konseptual yang signifikan, dan barangkali tak-teratasi."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Reductionism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Biological Naturalism (Searle)",
+        "relationship": "Kompatibel"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Re-emergence of Emergence: the Emergentist Hypothesis from Science to Religion, P. Clayton and P. Davies",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Strong and weak emergence, D. Chalmers",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Why reductionism does not work, G.F.R. Ellis",
+        "year": 2019
+      }
+    ]
+  }
+}

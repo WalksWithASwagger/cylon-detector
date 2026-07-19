@@ -1,0 +1,108 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori-teori Kesadaran Orde-Lebih-Tinggi",
+    "summary": "Teori Orde-Lebih-Tinggi (HOT) mempostulatkan bahwa yang membuat suatu persepsi menjadi sadar adalah kehadiran keadaan kognitif yang menyertai tentang persepsi tersebut. Mekanisme ini merupakan proses dua-tingkat di mana kesadaran fenomenal adalah penginderaan tingkat-lebih-tinggi atas persepsi atau keadaan mental orde-pertama.",
+    "associated_thinkers": [
+      "Peter Carruthers",
+      "David Rosenthal",
+      "Joseph LeDoux",
+      "Hakwan Lau"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Representasional",
+    "core_identity_tagline": "Kesadaran sebagai Representasi Orde-Lebih-Tinggi",
+    "classification_tags": [
+      "representation",
+      "cognitive",
+      "two-level process",
+      "inner-sense theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran fenomenal diidentifikasi sebagai penginderaan atau representasi tingkat-lebih-tinggi (suatu keadaan kognitif atau pemikiran) yang diarahkan pada keadaan mental atau persepsi orde-pertama.",
+    "ontological_status": "Fisikalisme Reduktif/Fungsionalisme (Justifikasi: Sebagai teori Materialis, ia mereduksi kesadaran menjadi proses fungsional/kognitif yang diimplementasikan oleh otak, sering dibingkai dalam istilah mentalistik.)",
+    "mind_body_relationship": "Kesadaran muncul melalui hubungan kausal antara dua tingkat mental (keadaan orde-pertama dan orde-kedua), yang keduanya sepenuhnya direalisasikan oleh proses fisik di otak.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah (Justifikasi: Sebagai teori Materialis inti, kesadaran dianggap dapat direduksi pada prinsipnya, sekalipun reduksinya diungkapkan dalam istilah mentalistik atau fungsional alih-alih neurofisiologi langsung.)",
+    "subjectivity_and_intentionality": "Subjektivitas muncul ketika keadaan orde-pertama menjadi objek dari suatu pemikiran orde-kedua, yang memberikan dimensi 'tampak' atau kesadaran-diri. Intensionalitas beroperasi di kedua tingkat: orde-pertama (tentang dunia) dan orde-kedua (tentang keadaan orde-pertama).",
+    "qualia_account": "Qualia, atau karakter fenomenal, terhitung melalui kehadiran keadaan kognitif orde-lebih-tinggi yang menyertai tentang persepsi tersebut, yang bertujuan menjelaskan kesadaran fenomenal secara reduktif dalam istilah mentalistik.",
+    "ontological_commitments": "Keadaan mental orde-pertama (persepsi/sensasi), keadaan kognitif orde-kedua (pemikiran/representasi), dan jejaring kortikal yang kompleks (misalnya, korteks prefrontal) yang menginstansiasi representasi-representasi ini.",
+    "epistemic_access": "Dapat diakses melalui introspeksi (karena keadaan sadar adalah keadaan yang kita sadari) dan melalui pemodelan orang-ketiga atas arsitektur kognitif serta pola aktivasi neural yang terkorelasi (misalnya, pemantauan realitas perseptual).",
+    "constituents_and_structure": "Suatu struktur pemrosesan dua-tingkat yang terdiri atas representasi orde-pertama (informasi sensoris) dan representasi kognitif orde-kedua (pemikiran atau persepsi) yang diarahkan pada keadaan orde-pertama tersebut."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kesadaran fenomenal; Kesadaran-diri (sebagai kesadaran akan keadaan diri sendiri); Kesadaran emosional (dalam varian LeDoux).",
+    "distinctive_mechanism_or_principle": "Kehadiran suatu keadaan kognitif atau meta-keadaan yang menyertai (representasi atau pemikiran orde-lebih-tinggi) yang menyasar keadaan mental tingkat-lebih-rendah, sehingga mengubahnya dari tidak-sadar menjadi sadar.",
+    "dynamics_of_emergence": "Kesadaran adalah fenomena dinamis dan prosesual yang muncul dari hubungan dua-tingkat antara representasi sensoris dan struktur kognitif pemantau (misalnya, kausalitas aktual dalam HOT Aktualis, atau ketersediaan dalam HOT Disposisionalis).",
+    "location_and_distribution": "Terlokalisasi terutama di region kortikal yang terkait dengan fungsi kognitif orde-lebih-tinggi dan metakognisi, seperti korteks prefrontal (PFC), yang kontras dengan teori-teori 'bagian belakang kepala'.",
+    "causation_and_functional_role": "Keadaan orde-lebih-tinggi menganugerahkan kesadaran pada keadaan tingkat-lebih-rendah (HOT Aktualis). Peran fungsionalnya biasanya adalah membuat konten persepsi orde-pertama tersedia untuk pemrosesan kognitif yang fleksibel dan pelaporan.",
+    "integration_or_binding": "Integrasi diandaikan terjadi, mungkin secara implisit melalui integrasi fungsional yang dimungkinkan oleh representasi orde-lebih-tinggi yang terpadu, atau melalui mekanisme memori yang menautkan representasi perseptual (sebagaimana dicatat dalam varian Lau).",
+    "information_flow_or_representation": "Kesadaran dicapai melalui aliran informasi yang menghasilkan representasi atas representasi (representasi orde-kedua) yang 'menandai' atau mengategorikan input sensoris orde-pertama.",
+    "evolutionary_account": "Mekanisme sadar berevolusi dari proses yang lebih sederhana, berpotensi memungkinkan pengalaman emosional yang kompleks dan kesadaran yang berpusat-diri melalui jejaring umum kognisi yang berbasis kortikal.",
+    "core_claims_and_evidence": [
+      "Kesadaran fenomenal dimediasi oleh suatu keadaan kognitif tentang persepsi (proses dua-tingkat).",
+      "Keadaan sadar dibedakan dari keadaan tidak-sadar melalui kehadiran suatu representasi orde-lebih-tinggi.",
+      "Blindsight dijelaskan melalui keberadaan representasi orde-pertama tanpa representasi orde-lebih-tinggi yang bersesuaian."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis (menjelaskan pembedaan sadar/tidak-sadar), Kognitif, Pemodelan Neurosaintifik (misalnya, studi blindsight)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris (terutama mengenai perbedaan antara pemrosesan orde-pertama dan aktivitas orde-lebih-tinggi yang bersesuaian di korteks).",
+    "known_empirical_interventions_or_tests": "Bukti empiris sering dicari melalui perbandingan persepsi sadar vs. tidak-sadar (seperti blindsight) untuk menguji keberadaan atau aktivitas representasi orde-lebih-tinggi yang diperlukan.",
+    "criticisms_and_tensions": "Dikritik karena kesulitan menetapkan hubungan persis yang diperlukan antara pemikiran orde-lebih-tinggi dan persepsi orde-pertama untuk menganugerahkan kesadaran, yang menuntun pada ketidakcukupan dalam deskripsi konten. Pendekatan 'representasi ganda' dipandang misterius secara konseptual.",
+    "open_questions_and_limitations": "Sifat persis dari relasi yang harus berlaku antara keadaan orde-lebih-tinggi dan persepsi orde-pertama agar kesadaran muncul tetap merupakan pertanyaan terbuka. Ia juga menghadapi keberatan umum mengenai celah eksplanatoris bagi qualia.",
+    "ontological_coherence": "Sangat koheren dalam ontologi fisikalis/materialis dan fungsionalis, dengan bergantung pada konsep-konsep yang dapat ditangani secara ilmiah seperti representasi dan keadaan kognitif."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Sebagai teori Materialis yang berbasis pada struktur kognitif dan representasional, kesadaran pada dasarnya bersifat komputasional atau fungsional, yang berarti sistem AI canggih yang mampu memantau-diri dan membentuk representasi tingkat-tinggi dapat mencapai kesadaran."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran sepenuhnya direalisasikan oleh mekanisme otak yang kompleks dan berbasis kortikal; karena itu, ia tidak dapat bertahan melampaui kerusakan substrat biologis."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Karena muncul dari proses biologis yang emergen, kesadaran menyediakan refleksi-diri dan keagenan tetapi tidak mengimplikasikan teleologi kosmik tertinggi apa pun, selaras dengan sikap deflasioner Materialisme."
+    },
+    "virtual_immortality": {
+      "stance": "Mungkin",
+      "rationale": "Jika kesadaran sepenuhnya didefinisikan oleh hubungan representasional dan fungsional, penduplikasian serta pengunggahan yang sempurna atas keadaan-keadaan kognitif kompleks ini ke dalam medium nonbiologis seharusnya dapat melestarikan diri-mental orang-pertama."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "Perluasan"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Higher-Order Theories of Consciousness, Peter Carruthers",
+        "year": 2020
+      },
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, Joseph LeDoux and Richard Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      }
+    ]
+  }
+}

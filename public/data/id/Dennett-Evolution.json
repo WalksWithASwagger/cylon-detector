@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Evolusi Pikiran menurut Dennett",
+    "summary": "Kerangka ini memosisikan bahwa pikiran dan kesadaran sepenuhnya merupakan hasil evolusi melalui seleksi alam, dengan menekankan bahwa organisasi yang kompleks (rancangan, alasan, kompetensi) muncul tanpa memerlukan perancang atau penalar yang sadar. Kerangka ini menjelaskan perkembangan pikiran manusia melalui tingkat-tingkat abstraksi dan kompleksitas yang berurutan dan murni material.",
+    "associated_thinkers": [
+      "Daniel Dennett"
+    ],
+    "category": "Teori Materialisme",
+    "subcategory": "Evolusi Filogenetik",
+    "core_identity_tagline": "Pikiran yang Berevolusi melalui Seleksi Alam tanpa Sihir",
+    "classification_tags": [
+      "evolution",
+      "naturalism",
+      "phylogenetic",
+      "materialism",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran dan pikiran diidentifikasi sebagai proses fisik yang sangat kompleks—seperangkat perkakas berpikir yang berevolusi yang dibangun di atas proses material, di mana 'sihir' pikiran dicapai tanpa sihir.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Teori identitas/Reduksionis. Keadaan mental sepenuhnya merupakan produk otak biologis, dijelaskan seutuhnya oleh keadaan fisik, sejalan dengan sikap materialis Dennett yang lebih luas.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah. Kesadaran secara prinsip sepenuhnya dapat dijelaskan oleh proses fisik yang mendasarinya, dengan menolak kebutuhan akan emergensi kuat atau intervensi non-fisik.",
+    "subjectivity_and_intentionality": "Subjektivitas dikonstruksi melalui struktur organisasional yang berevolusi, seperti 'pusat gravitasi naratif'. Intensionalitas (keter-tentang-an) muncul ketika gumpalan molekul yang rumit mengevolusikan kapasitas untuk memiliki makna atau muatan.",
+    "qualia_account": "Qualia (rasa kualitatif) diperlakukan sebagai 'ilusi-pengguna' yang inkoheren dan ilusif—jaringan neural kompleks yang teraktivasi sebagai hasil proses evolusioner, alih-alih properti mental yang intrinsik dan tak-teranalisis.",
+    "ontological_commitments": "Dunia fisik, hukum alam, otak biologis, dan proses seleksi alam.",
+    "epistemic_access": "Perspektif orang ketiga sains, khususnya menggunakan metode heterofenomenologi untuk memperlakukan klaim introspektif sebagai data yang harus dijelaskan, bukan sebagai laporan yang benar tentang realitas mental.",
+    "constituents_and_structure": "Struktur pikiran terdiri atas perangkat 'perkakas berpikir' yang berevolusi secara rumit dan lapisan-lapisan organisasional hierarkis yang dibangun di atas evolusi biologis."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Asal-usul Filogenetik, Muatan, struktur Pikiran, Kesadaran (dikempiskan/ilusif), Kesadaran diri (sebagai konstruksi naratif).",
+    "distinctive_mechanism_or_principle": "Daya luar biasa dari evolusi melalui seleksi alam, yang menciptakan hasil-hasil yang dicirikan oleh 'alasan tanpa penalar, rancangan tanpa perancang, dan kompetensi tanpa pemahaman'.",
+    "dynamics_of_emergence": "Kesadaran muncul melalui proses perkembangan mental yang bertahap dan inkremental sepanjang sejarah filogenetik, yang dapat dilacak dari bentuk kehidupan awal hingga pikiran manusia.",
+    "location_and_distribution": "Terlokalisasi di otak kompleks organisme yang lebih tinggi, khususnya manusia, di mana organisasi aktivitas neural yang canggih menopang 'perkakas berpikir' yang kompleks.",
+    "causation_and_functional_role": "Pikiran muncul karena ia memberikan keunggulan adaptif yang meningkatkan kebugaran dalam lingkungan yang menantang. Fungsinya adalah memungkinkan perilaku dan kognisi yang kompleks, seperti refleksi diri.",
+    "integration_or_binding": "Integrasi dicapai melalui evolusi fiksasi dan propagasi muatan di dalam otak yang menyatu menjadi semacam kisah hidup atau 'pusat gravitasi naratif'.",
+    "information_flow_or_representation": "Evolusi memungkinkan otak memproses informasi sedemikian rupa sehingga region-region otak yang berbeda menghasilkan 'draf-draf ganda' yang bersaing memperebutkan perhatian (ketenaran dalam otak), membentuk suatu arus naratif.",
+    "evolutionary_account": "Kesadaran adalah suatu pencapaian evolusioner yang non-magis, di mana organisme mengembangkan kapabilitas kompleks seperti pemodelan, prediksi, dan simulasi, yang berpuncak pada introspeksi dan pemikiran abstrak manusia.",
+    "core_claims_and_evidence": [
+      "Asal-usul pikiran dapat dijelaskan oleh evolusi biologis tanpa berpaling pada unsur-unsur non-fisik.",
+      "Kompleksitas pikiran manusia adalah puncak evolusi, yang menghasilkan 'perkakas berpikir' yang terspesialisasi.",
+      "Properti fenomenal adalah ilusi inkoheren yang muncul dari aktivitas neural yang kompleks dan berevolusi."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumen Filosofis, Biologi Evolusioner, Logika"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara konseptual terhadap konsistensi biologis dan neo-Darwinian; secara tidak langsung didukung oleh temuan neurosains yang berkorelasi dengan model fungsionalis.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Dikritik karena mengelak dari 'masalah sulit' dengan menegaskan bahwa kesadaran (qualia) adalah ilusi atau pseudo-masalah. Para penentang mempertanyakan keunggulan evolusioner pengalaman subjektif jika ia sekadar ilusi atau epifenomenon.",
+    "open_questions_and_limitations": "Tidak menyediakan penjelasan langsung untuk rasa subjektif pengalaman, hanya penjelasan mengapa kita *melaporkan* memiliki pengalaman semacam itu.",
+    "ontological_coherence": "Sangat koheren, dengan menggunakan evolusi Darwinian sebagai 'asam universal' untuk melandasi seluruh aspek pikiran, termasuk konsep-konsep yang secara tradisional non-material, secara kokoh di dalam ontologi fisikalis yang ketat."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ya",
+      "rationale": "Karena kesadaran sepenuhnya material dan merupakan hasil organisasi yang kompleks (fungsionalisme/materialisme), tidak ada larangan berprinsip terhadap kecerdasan non-biologis untuk mencapai kesadaran jika kompleksitas yang tepat direplikasi."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran sepenuhnya terikat pada otak fisik; kematian mengakibatkan ketiadaan yang tak-terbalikkan dan permanen, kecuali diri dilestarikan secara digital (keabadian virtual)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistis",
+      "rationale": "Proses evolusioner beroperasi melalui 'rancangan tanpa perancang', yang berarti tidak ada makna atau tujuan kosmis yang inheren; makna diciptakan sendiri oleh manusia yang sadar."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Jika kesadaran sepenuhnya dijelaskan oleh organisasi fisik/fungsional otak yang berevolusi, maka duplikasi sempurna atas pola dan jalur neural ini dalam medium non-biologis semestinya melestarikan diri mental orang pertama."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Multiple Drafts Model",
+        "relationship": "Landasan"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Lycan’s Homuncular Functionalism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "Kompatibel"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Darwin’s Dangerous Idea: Evolution and the Meanings of Life, Daniel Dennett",
+        "year": 1995
+      }
+    ]
+  }
+}

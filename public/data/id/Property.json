@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Dualisme Properti",
+    "summary": "Dualisme Properti mengemukakan bahwa meskipun substansi fisik adalah satu-satunya substansi fundamental, terdapat dua kategori properti yang tak tereduksi: fisik dan mental. Properti mental, seperti pengalaman sadar, dihasilkan oleh otak fisik tetapi tidak dapat direduksi ke atau dijelaskan sepenuhnya oleh properti fisik semata.",
+    "associated_thinkers": [
+      "David Chalmers (for Naturalistic Dualism, a variant); historically influenced by numerous philosophers seeking to preserve mental reality within a monist substance framework."
+    ],
+    "category": "Dualisme",
+    "subcategory": "Dualisme Properti",
+    "core_identity_tagline": "Satu Substansi, Dua Properti yang Tak Tereduksi (Mental dan Fisik)",
+    "classification_tags": [
+      "irreducible properties",
+      "non-reductive",
+      "physicalism",
+      "dualism variant"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran terdiri atas properti atau aspek mental (misalnya pemikiran, konsep, gagasan) yang secara fundamental tak dapat direduksi ke properti fisik, meskipun keduanya diinstansiasi oleh sistem fisik (otak).",
+    "ontological_status": "Fisikalisme (dari segi substansi) / Dualisme Properti (dari segi properti).",
+    "mind_body_relationship": "Pikiran (properti mental) tak tereduksi dan berbeda secara ontologis dari properti fisik, namun sepenuhnya dihasilkan oleh keadaan fisik (otak).",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Kuat (karena properti mental tak tereduksi pada prinsipnya dan tak dapat dijelaskan semata-mata oleh hukum-hukum fisika).",
+    "subjectivity_and_intentionality": "Subjektivitas (pengalaman fenomenal orang pertama) muncul sebagai properti/aspek yang inheren dan tak tereduksi dari pribadi manusia yang bersifat fisik. Intensionalitas secara implisit tercakup sebagai salah satu properti/aspek mental yang fundamental.",
+    "qualia_account": "Qualia (pengalaman yang terasa secara kualitatif) adalah properti mental tak tereduksi yang menolak definisi murni dalam kaitannya dengan properti mikrofisik semata.",
+    "ontological_commitments": "Substansi fisik (materi) dan properti mental yang tak tereduksi (termasuk pemikiran, konsep, gagasan).",
+    "epistemic_access": "Dapat diakses baik melalui pengamatan orang ketiga atas basis fisik (otak) maupun introspeksi orang pertama atas properti emergen (subjektivitas).",
+    "constituents_and_structure": "Substansi fisik terdiri atas konstituen-konstituen fisika fundamental, yang terorganisasi menjadi struktur kompleks (otak), yang menghasilkan properti mental."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Properti fenomenal, pemikiran, konsep, dan gagasan.",
+    "distinctive_mechanism_or_principle": "Prinsip ketaktereduksian properti mental, yang berpandangan bahwa aspek-aspek fenomenal berbeda dari properti fisik.",
+    "dynamics_of_emergence": "Properti mental muncul ketika materi fisik mencapai tingkat kompleksitas tertentu (yaitu otak).",
+    "location_and_distribution": "Terlokalisasi dalam objek-objek fisik (pribadi manusia/otak).",
+    "causation_and_functional_role": "Properti mental memiliki daya kausal, dengan memengaruhi dunia fisik (posisi yang berkontras dengan Epifenomenalisme).",
+    "integration_or_binding": "Tidak dirinci secara eksplisit. Integrasi dianggap terjadi di dalam struktur otak fisik yang menghasilkan properti/aspek mental yang bersatu.",
+    "information_flow_or_representation": "Properti/aspek mental mencakup konsep dan gagasan, yang menyiratkan keterlibatan dalam pemrosesan informasional/representasional yang kompleks.",
+    "evolutionary_account": "Tidak dirinci secara eksplisit. Kemunculan properti bergantung pada evolusi kompleksitas biologis yang mampu menghasilkannya.",
+    "core_claims_and_evidence": [
+      "Pribadi manusia adalah objek yang sepenuhnya fisik yang tersusun dari konstituen-konstituen fisik fundamental.",
+      "Properti mental (misalnya kesadaran fenomenal) dihasilkan oleh otak fisik tetapi tak tereduksi ke properti fisik semata.",
+      "Potensi kegagalan supervenensi ditunjukkan melalui argumen keterbayangan (misalnya zombi filosofis)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis; Konseptual (Menangani ketidakmemadaian yang tampak dari fisikalisme yang murni reduktif)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konseptual/Filosofis (Keterujian bertumpu pada kemungkinan logis dan implikasi dari skenario kontrafaktual seperti zombi filosofis).",
+    "known_empirical_interventions_or_tests": "Eksperimen pikiran yang melibatkan 'zombi' yang secara fisik tak terbedakan atau orang dengan spektrum warna terbalik (kegagalan supervenensi).",
+    "criticisms_and_tensions": "Harus memperjelas bagaimana keadaan mental yang berbeda muncul dari keadaan mikrofisik yang persis sama jika supervenensi gagal. Para pengkritik berpendapat bahwa motivasi bagi Dualisme Properti pada akhirnya mengarah ke Dualisme Substansi.",
+    "open_questions_and_limitations": "Sarana persis yang melaluinya properti mental mengerahkan pengaruh kausal terhadap otak fisik (kausasi mental) masih menjadi perdebatan dan memerlukan spesifikasi.",
+    "ontological_coherence": "Konsistensi internal yang tinggi, tetapi menghadapi ketegangan dalam mempertahankan secara ketat bahwa properti yang tak tereduksi dapat muncul semata-mata dari, dan memiliki daya kausal di dalam, dunia fisik yang monistik."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bersyarat",
+      "rationale": "AI dapat menjadi sadar jika sistem nonbiologis mampu menginstansiasi organisasi fisik kompleks spesifik yang diperlukan untuk menghasilkan properti mental tak tereduksi yang dideskripsikan."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran terdiri atas properti yang dihasilkan oleh otak fisik. Properti-properti ini berhenti ada ketika substansi fisik (otak/tubuh) terurai saat kematian."
+    },
+    "meaning_and_purpose": {
+      "stance": "Tak dinyatakan/Netral",
+      "rationale": "Teori ini berfokus pada kategori ontologis dan relasi properti; ia menerima substansi yang secara fundamental fisik dan tidak secara inheren mendukung teleologi kosmis."
+    },
+    "virtual_immortality": {
+      "stance": "Mungkin",
+      "rationale": "Jika kesadaran adalah properti emergen dari organisasi fisik yang spesifik, mereplikasi keadaan fisik lengkap itu (struktur otak) dalam substrat nonbiologis seharusnya menghasilkan properti mental yang sama."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Non-Reductive Physicalism",
+        "relationship": "Tumpang tindih/Kompatibel (Kerap diperlakukan sebagai sinonim atau berkaitan erat)"
+      },
+      {
+        "name": "Substance Dualism",
+        "relationship": "Kritik/Kontras (Menolak dualisme substansi tetapi mempertahankan dualisme properti)"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Kritik/Kontras (Dualisme Properti umumnya memberikan daya kausal pada keadaan mental, tidak seperti Epifenomenalisme)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness and its place in nature, David Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Dualism in the Philosophy of Mind, Dean Zimmerman",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Mind-Body Problem and Metaphysics: an Argument from Consciousness to Mental Substance, Ralph Weir",
+        "year": 2023
+      }
+    ]
+  }
+}

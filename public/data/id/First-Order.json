@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Representasionalisme Orde-Pertama",
+    "summary": "Representasionalisme Orde-Pertama (FOR) berupaya menjelaskan kesadaran dengan mereduksinya menjadi keadaan intensional eksternal yang terarah pada dunia. Ia mengklaim bahwa karakter fenomenal pengalaman sepenuhnya ditentukan oleh muatan representasi, dengan mengidentifikasi qualia dengan properti eksternal yang oleh pengalaman direpresentasikan dimiliki oleh objek.",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "Teori Materialisme",
+    "subcategory": "Representasional",
+    "core_identity_tagline": "Kesadaran sebagai keadaan intensional eksternal yang terarah pada dunia",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Aspek fenomenal pengalaman perseptual identik dengan properti dunia-nyata eksternal yang oleh pengalaman direpresentasikan dimiliki oleh objek.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Teori identitas/korelasi Reduksionis. Keadaan mental diidentifikasi dengan representasi yang terwujud dalam keadaan otak yang memperoleh fungsi informasional spesifik.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Intensionalitas (keterarahan pikiran) bersifat primer. Subjektivitas sepenuhnya ditentukan oleh muatan representasional, karena representasi indrawi tersedia secara langsung bagi subjek.",
+    "qualia_account": "Qualia (karakter fenomenal) diidentifikasi dengan muatan representasional (representasionalisme kuat) atau properti eksternal yang direpresentasikan oleh pengalaman, sehingga memecahkan masalah sulit melalui penjelasan reduktif.",
+    "ontological_commitments": "Representasi mental, keadaan otak yang memperoleh fungsi informasional, sirkuit indrawi/perseptual.",
+    "epistemic_access": "Dapat diakses melalui metode orang ketiga yang berfokus pada korelat neural dan penyiaran global representasi, dilengkapi oleh laporan-diri.",
+    "constituents_and_structure": "Representasi indrawi orde-pertama dan muatan non-konseptual, yang disiarkan secara global di dalam otak."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kesadaran fenomenal, Kesadaran akses, Pengalaman indrawi.",
+    "distinctive_mechanism_or_principle": "Kesadaran timbul ketika keadaan otak memperoleh, biasanya melalui seleksi alam, fungsi membawa informasi yang relevan dengan objek eksternal, sehingga menjadi representasi mental.",
+    "dynamics_of_emergence": "Kesadaran timbul secara dinamis ketika muatan non-konseptual disiarkan secara global ke seluruh otak untuk diakses dan dimanfaatkan.",
+    "location_and_distribution": "Korelat neural kesadaran spesifik mencakup aktivitas di korteks indrawi dan nukleus talamus tertentu, yang terhubung dengan pemrosesan rekuren di area perseptual.",
+    "causation_and_functional_role": "Kesadaran berfungsi menyediakan informasi perseptual bagi sistem yang memungkinkan perilaku fleksibel, pembentukan keyakinan, dan pemilihan tindakan.",
+    "integration_or_binding": "Integrasi dicapai melalui ketersediaan informasi indrawi (representasi) lintas jaringan kognitif global (yang muncul berbarengan dengan penyiaran global).",
+    "information_flow_or_representation": "Representasi orde-pertama mengalir langsung dari stimulus eksternal; pemrosesan informasi krusial untuk mengubah keadaan otak menjadi representasi yang sesuai bagi kesadaran.",
+    "evolutionary_account": "Kesadaran berevolusi melalui seleksi alam, di mana keadaan otak memperoleh fungsi membawa informasi yang meningkatkan kemampuan adaptif organisme.",
+    "core_claims_and_evidence": [
+      "Properti fenomenal identik dengan properti dunia-nyata eksternal yang direpresentasikan oleh pengalaman.",
+      "Pengalaman sadar muncul berbarengan dengan penyiaran global muatan non-konseptual orde-pertama di dalam otak.",
+      "Keadaan sadar adalah representasi yang muatannya sepenuhnya menentukan rasa subjektif."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis (reduksi konseptual, fokus pada intensionalitas) dan Empiris (data korelasi neurosaintifik)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris",
+    "known_empirical_interventions_or_tests": [
+      "Pemetaan korelat neural kesadaran umum dan spesifik (korteks indrawi, nukleus talamus)",
+      "Studi yang mengorelasikan kesadaran dengan penyiaran global muatan orde-pertama"
+    ],
+    "criticisms_and_tensions": "Menghadapi tantangan umum bagi teori representasional: menjelaskan fenomenologi semata-mata dalam kerangka intensionalitas. Para pengkritik mempertanyakan bagaimana representasi belaka atau muatan informasi dapat sepenuhnya menjelaskan rasa kualitatif (qualia).",
+    "open_questions_and_limitations": "Mekanisme tepat mengenai bagaimana muatan suatu representasi non-konseptual menentukan 'bagaimana rasanya' yang subjektif tetap merupakan celah eksplanatif, meskipun para pendukungnya berargumen bahwa aspek fenomenal terselesaikan melalui identitas dengan properti eksternal.",
+    "ontological_coherence": "Sangat koheren di dalam ontologi materialis reduktif dan fungsionalis."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ya",
+      "rationale": "Sebagai teori materialis yang menjadikan kesadaran bergantung pada muatan informasional dan arsitektur fungsional, sistem artifisial dapat menginstansiasi kesadaran jika ia mewujudkan struktur representasional dan fungsi informasi yang diperlukan."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran sepenuhnya diwujudkan oleh proses otak fisik; kelangsungan setelah kehancuran substrat biologis dikesampingkan."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Sebagai Teori Materialisme, ia tidak merasionalisasi makna atau tujuan kosmik yang tertinggi, hanya makna yang dibangkitkan oleh agen sadar itu sendiri."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Jika diri orang-pertama sepenuhnya tertangkap oleh muatan representasional dan keadaan informasional, maka penggandaan sempurna (pengunggahan) keadaan-keadaan ini ke media nonbiologis seharusnya melestarikan diri mental asli."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Kritik/Kontras"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Perluasan/Tumpang tindih"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Kompatibel/Tumpang tindih"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Pengaruh"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

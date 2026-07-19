@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Darwinisme Neural dan Sirkuit Neural Reentran menurut Edelman",
+    "summary": "Ini adalah teori yang murni biologis dan materialistis yang memosisikan bahwa kesadaran muncul dari morfologi otak yang kompleks dan seleksi evolusioner. Mekanisme intinya melibatkan Inti Dinamis (Dynamic Core), yang didefinisikan oleh persinyalan rekursif yang berkelanjutan dan masif (reentri) antar-kelompok neuronal, khususnya dalam sistem talamokortikal, yang memungkinkan diskriminasi orde-tinggi.",
+    "associated_thinkers": [
+      "Gerald Edelman",
+      "Giulio Tononi"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Neurobiologis",
+    "core_identity_tagline": "‘Kesadaran sebagai Diskriminasi Neural Reentran’",
+    "classification_tags": [
+      "neural selectional system",
+      "reentry",
+      "dynamic core",
+      "biological",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai hasil diskriminasi orde-tinggi yang muncul dari interaksi reentran di dalam inti dinamis sistem talamokortikal.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Pikiran dan keadaan mental sepenuhnya bersifat fisik, semata-mata merupakan produk proses otak biologis (suatu teori yang sepenuhnya materialistis).",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Subjektivitas bersifat inheren pada aktivitas organisme individual, yang mencerminkan properti fenotipiknya yang unik dan riwayat hidupnya. Intensionalitas tercermin dalam sifat selektif sistem yang mengutamakan respons adaptif.",
+    "qualia_account": "Qualia didefinisikan sebagai diskriminasi orde-tinggi yang dimungkinkan oleh struktur dan dinamika neural yang mendasarinya. Masalah sulit qualia ditepis sebagai keliru-rumusan karena suatu teori deskriptif tidak dapat mereplikasi pengalaman subjektif yang dijelaskannya.",
+    "ontological_commitments": "Otak biologis, kelompok neuronal, sirkuit neural reentran, dan perubahan efikasi sinaptik.",
+    "epistemic_access": "Terutama diakses melalui penyelidikan ilmiah dan deskripsi orang ketiga atas struktur neuroanatomis dan dinamika neural, dengan mengakui bahwa hal ini tidak dapat mereplikasi pengalaman orang pertama.",
+    "constituents_and_structure": "Repertoar sirkuit varian, kelompok neuronal yang plastis secara fungsional, dan serat resiprokal paralel yang masif di dalam sistem talamokortikal (Inti Dinamis)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal, Kesadaran Primer (masa kini yang diingat), Kesadaran Orde-Lebih-Tinggi (rasa-diri, bahasa), Kesatuan/Pengikatan.",
+    "distinctive_mechanism_or_principle": "Darwinisme Neural (Teori Seleksi Kelompok Neuronal, TNGS) yang dipadukan dengan organisasi Inti Dinamis melalui sirkuit neural reentran.",
+    "dynamics_of_emergence": "Kesadaran adalah suatu proses dinamis yang muncul dari integrasi banyak input melalui interaksi reentran, yang menghasilkan urutan berkelanjutan berupa keadaan-keadaan metastabil yang berbeda dari waktu ke waktu.",
+    "location_and_distribution": "Terlokalisasi terutama dalam sirkuit talamokortikal (Inti Dinamis).",
+    "causation_and_functional_role": "Peran fungsionalnya adalah memungkinkan diskriminasi orde-tinggi, yang mengarah pada respons adaptif. Kesadaran orde-lebih-tinggi memungkinkan perencanaan dan kesadaran akan sedang sadar.",
+    "integration_or_binding": "Dicapai melalui reentri, yang membebankan korelasi pada kelompok-kelompok neuronal yang beragam dan berinteraksi, mengutamakan sirkuit yang aktif secara sinkron di seluruh area otak yang terdistribusi.",
+    "information_flow_or_representation": "Pemrosesan informasi bersifat selektif (Darwinian), bersandar pada seleksi sirkuit yang degenerat berdasarkan pengalaman, alih-alih bersifat instruksional.",
+    "evolutionary_account": "Kesadaran berevolusi dalam dua tahap: Kesadaran Primer muncul ketika kategorisasi perpetual terhubung melalui reentri ke memori ('masa kini yang diingat'); Kesadaran Orde-Lebih-Tinggi muncul kemudian bersama kinerja linguistik dan memori konseptual.",
+    "core_claims_and_evidence": [
+      "Kesadaran adalah hasil evolusioner yang murni biologis dan sepenuhnya materialistis dari seleksi evolusioner (Darwinisme Neural).",
+      "Inti Dinamis mengintegrasikan input untuk menghasilkan keadaan-keadaan sadar melalui sirkuit neural reentran.",
+      "Qualia adalah diskriminasi orde-tinggi yang diniscayakan oleh dinamika neural ini.",
+      "Reentri memecahkan masalah pengikatan dengan menyinkronkan aktivitas kortikal yang terdistribusi."
+    ],
+    "basis_of_belief_or_evidence_type": "Biologis, Evolusioner, Neurofisiologis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris",
+    "known_empirical_interventions_or_tests": [
+      "Studi yang menyelidiki peran aktivitas neural reentran dalam sistem talamokortikal.",
+      "Pengukuran struktur dan dinamika neural yang berkorelasi dengan perbedaan qualia."
+    ],
+    "criticisms_and_tensions": "Para pengkritik tetap tidak teryakinkan bahwa kerangka materialistis ini sepenuhnya menjelaskan eksistensi subjektif dan fenomenal qualia, dan memandang penepisan Edelman atas masalah sulit sebagai tidak memadai.",
+    "open_questions_and_limitations": "Teori ini, menurut definisinya, tidak dapat menyampaikan pengalaman orang pertama ('kemerahan merah') melalui deskripsi ilmiah orang ketiga, sehingga menyisakan jurang eksperiensial.",
+    "ontological_coherence": "Sangat koheren dalam kerangka ontologis yang secara ketat materialis, neurobiologis, dan Darwinian."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Kemungkinan besar",
+      "rationale": "Sebagai teori biologis yang mekanistik, kesadaran semestinya dimungkinkan dalam sistem buatan jika mekanisme sirkuit neural yang selektif dan reentran diimplementasikan secara memadai dan benar dalam substrat non-biologis. Para pendukungnya menyatakan bahwa merancang suatu artefak yang sadar dapat dilakukan."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran sepenuhnya bergantung pada operasi fisik otak biologis; karena itu, kesadaran berhenti saat kematian organisme."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistis",
+      "rationale": "Teori ini didasarkan pada fungsi evolusioner dan adaptif, yang menyiratkan bahwa makna dan tujuan adalah properti emergen yang diciptakan oleh agen-agen yang sadar alih-alih ciri kosmis yang fundamental."
+    },
+    "virtual_immortality": {
+      "stance": "Kemungkinan besar",
+      "rationale": "Karena kesadaran adalah produk dinamika dan fungsi fisik/struktural yang spesifik (Darwinisme Neural/Inti Dinamis), duplikasi atau pengunggahan sempurna atas mekanisme ini ke dalam medium digital akan melestarikan diri mental orang pertama."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Perluasan"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neural Darwinism: the Theory of Neuronal Group Selection, G.M. Edelman",
+        "year": 1987
+      },
+      {
+        "title_with_names": "A Universe of Consciousness: How Matter Becomes Imagination, G.M. Edelman and G. Tononi",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Naturalizing consciousness: a theoretical framework, G. Edelman",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Biology of consciousness, G. Edelman, J. Garlly, B. Baars",
+        "year": 2011
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Psikologi Ekologis Gibson",
+    "summary": "Gibson mengusulkan pendekatan yang tertubuh, tersituasi, dan non-representasional terhadap persepsi, dengan berargumen bahwa informasi tersedia secara langsung di dalam lingkungan (invarian) dan dipersepsi dalam kerangka afordansi. Pendekatan ini menawarkan jalan ketiga di luar kognitivisme dan behaviorisme, dan secara hati-hati dapat disimpulkan sebagai penjelasan bagi kesadaran.",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Tertubuh dan Enaktif",
+    "core_identity_tagline": "Kesadaran sebagai Persepsi Afordansi yang Tertubuh dan Tersituasi",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran dipahami secara perluasan sebagai fungsi dari interaksi berkelanjutan dan aliran informasional di dalam sistem organisme-lingkungan, yang dicirikan oleh persepsi langsung atas invarian dan afordansi, alih-alih representasi mental internal.",
+    "ontological_status": "Fisikalisme/Realisme Langsung",
+    "mind_body_relationship": "Pikiran/persepsi bersinambung dengan tindakan, dengan fokus pada sistem organisme-lingkungan sebagai unit analisis, menolak gagasan bahwa pikiran semata-mata tereduksi ke proses di dalam kepala.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Subjektivitas dibentuk oleh relasi dinamis dan tersituasi antara organisme dan lingkungan (sistem organisme-lingkungan). Intensionalitas (keterarahan pikiran) dijelaskan oleh persepsi afordansi, yaitu kemungkinan-kemungkinan tindakan yang inheren dalam lingkungan.",
+    "qualia_account": "Teori ini bersifat non-representasional dan umumnya selaras dengan pandangan yang menolak data indra internal (qualia) sebagaimana lazim dikonsepsikan, dengan lebih menyukai persepsi langsung atas properti lingkungan (invarian dan afordansi).",
+    "ontological_commitments": "Sistem organisme-lingkungan, informasi optik (invarian), afordansi.",
+    "epistemic_access": "Dapat diakses melalui pengkajian relasi antara organisme dan lingkungan sosio-fisiknya, alih-alih introspeksi yang berfokus pada keadaan internal.",
+    "constituents_and_structure": "Struktur kesadaran/persepsi berlandaskan relasi fungsional antara organisme dan lingkungan, dengan menekankan kesinambungan persepsi dan tindakan."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Persepsi/Kognisi, Fenomenal (melalui inferensi hati-hati)",
+    "distinctive_mechanism_or_principle": "Persepsi langsung atas invarian lingkungan (elemen-elemen yang tak berubah dalam aliran optik) dan afordansi (peluang tindakan yang disediakan oleh lingkungan).",
+    "dynamics_of_emergence": "Fokusnya pada aliran dinamis dan kesinambungan di dalam sistem organisme-lingkungan, alih-alih emergensi dari struktur neural yang diskret dan terlokalisasi.",
+    "location_and_distribution": "Tersituasi di dalam sistem organisme-lingkungan, meluas melampaui otak dan bagian dalam kepala.",
+    "causation_and_functional_role": "Persepsi berfungsi memandu perilaku adaptif dan meningkatkan kebugaran dengan mendeteksi invarian dan peluang bagi tindakan (afordansi).",
+    "integration_or_binding": "Integrasi inheren dalam pemahaman langsung dan tersatukan atas sistem organisme-lingkungan sebagai satu unit analisis tunggal.",
+    "information_flow_or_representation": "Menolak model pemrosesan informasi; informasi bersifat eksternal (invarian) dan diakses secara langsung oleh sistem perseptual tanpa perlu konstruksi representasi internal.",
+    "evolutionary_account": "Penekanan pada afordansi menunjukkan bahwa sistem perseptual ini berevolusi karena ia memberikan nilai kelangsungan hidup yang nyata dan meningkatkan kebugaran.",
+    "core_claims_and_evidence": [
+      "Persepsi terkait langsung dengan stimulus semata, tanpa memerlukan inferensi maupun representasi mental internal.",
+      "Objek persepsi yang utama adalah afordansi, bukan kualitas indrawi tertentu.",
+      "Unit analisis untuk memahami persepsi adalah sistem organisme-lingkungan.",
+      "Teori ini menolak premis kemiskinan stimulus yang lazim dalam model kognitivis."
+    ],
+    "basis_of_belief_or_evidence_type": "Eksperimental, Filosofis, Ekologis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris, khususnya di dalam psikologi ekologis dan studi persepsi.",
+    "known_empirical_interventions_or_tests": "Observasi empiris atas persepsi dan analisis terperinci atas medan-medan interaksi organisme-lingkungan.",
+    "criticisms_and_tensions": "Teori ini mengkritik teori-teori arus utama tentang persepsi, secara khusus menyerang baik behaviorisme maupun kognitivisme/pemrosesan informasi. Perluasannya ke kesadaran fenomenal bersifat spekulatif dan tunduk pada skeptisisme dari mereka yang berkomitmen pada teori representasi internal.",
+    "open_questions_and_limitations": "Teori intinya menangani persepsi dan kognisi; penerapan atau perluasan untuk menjelaskan kesadaran fenomenal (aspek 'bagaimana rasanya') memerlukan inferensi yang hati-hati.",
+    "ontological_coherence": "Sangat koheren di dalam ontologi materialis anti-reduksionis yang ekologis dan tersituasi, tetapi secara fundamental berbenturan dengan teori-teori yang bertumpu pada manipulasi simbol kognitif."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Jika kesadaran adalah produk interaksi langsung dan tersituasi di dalam suatu sistem organisme-lingkungan (sebagaimana diimplikasikan oleh teori Materialisme ini), maka AI dapat mencapai kesadaran jika direkayasa untuk mentubuh dan berinteraksi di dalam lingkungan fisik yang mampu mempersepsi afordansi."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Teori ini diklasifikasikan di bawah Materialisme, dengan fokus pada organisme biologis yang hidup dan lingkungan fisiknya. Tidak ada komponen nonfisik yang didalilkan yang dapat bertahan setelah kematian jasmani."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistik/Adaptif",
+      "rationale": "Peran fungsional utama persepsi adalah perilaku adaptif melalui pendeteksian afordansi, konsisten dengan pandangan Materialis di mana makna diciptakan oleh manusia di dalam lingkungannya demi kelangsungan hidup dan perkembangan."
+    },
+    "virtual_immortality": {
+      "stance": "Bersyarat",
+      "rationale": "Karena kesadaran terikat pada unit organisme-lingkungan fisik, keabadian virtual hanya dapat dicapai jika interaksi tertubuh dan non-representasional yang esensial dapat ditangkap dan disimulasikan secara sempurna dalam media fisik baru."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Direct Perception Theory",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

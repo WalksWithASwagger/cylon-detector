@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "Sentiensi menurut Pereira",
+    "summary": "Teori ini mengemukakan bahwa kesadaran memiliki dua modalitas yang berbeda: sentiensi fundamental, yang dicirikan oleh perasaan dasar seperti nyeri dan lapar, serta kesadaran kognitif tingkat lebih tinggi yang melibatkan pemikiran abstrak dan representasi. Klaim intinya adalah bahwa kapasitas kognitif bergantung pada keadaan sentien yang mendasari ini, yang secara biologis berlandaskan pada sistem homeostatik.",
+    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "category": "Materialisme",
+    "subcategory": "Homeostatik dan Afektif",
+    "core_identity_tagline": "Kesadaran sebagai sistem dua tingkat yang berlandaskan sentiensi",
+    "classification_tags": [
+      "sentience",
+      "homeostatic",
+      "neurobiological",
+      "dual-modality",
+      "clinical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran adalah sistem biologis komposit yang terdiri atas sentiensi (berkorelasi dengan kendali dinamis homeostasis biokimiawi) dan kesadaran kognitif (berkorelasi dengan pola aktivitas bioelektrik dalam jaringan saraf).",
+    "ontological_status": "Fisikalisme/Naturalisme (Disimpulkan dari penggolongannya di bawah Materialisme serta fokusnya pada korelat fisiologis/saraf)",
+    "mind_body_relationship": "Modalitas kesadaran (sentiensi dan kognisi) bergantung secara fungsional pada organisme biologis, dan memiliki korelat fisiologis yang presisi di dalamnya, khususnya sistem homeostatik dan jaringan saraf.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah (Dibenarkan oleh landasannya yang ketat pada proses biologis/fisiologis yang teramati dan terukur, yang menyiratkan bahwa pada prinsipnya ia dapat dijelaskan oleh hukum-hukum fisika, terlepas dari kompleksitasnya.)",
+    "subjectivity_and_intentionality": "Subjektivitas muncul dari sentiensi, yaitu kapasitas untuk merasakan sensasi dasar (misalnya lapar, nyeri). Intensionalitas hadir dalam kesadaran kognitif melalui elaborasi representasi linguistik dan citraan.",
+    "qualia_account": "Qualia dijelaskan melalui modalitas fundamental sentiensi, yang berkorespondensi langsung dengan kapasitas untuk merasakan sensasi dasar yang bersifat kualitatif (misalnya nyeri, haus).",
+    "ontological_commitments": "Sistem fisiologis yang mengendalikan homeostasis biokimiawi; pola aktivitas bioelektrik dalam jaringan saraf; organisasi saraf hierarkis.",
+    "epistemic_access": "Diakses melalui studi korelat fisiologis, khususnya dalam kaitannya dengan kendali dinamis homeostasis, dan secara klinis melalui pengamatan respons sentien dasar.",
+    "constituents_and_structure": "Sebuah sistem hierarkis dua tingkat: Sentiensi (landasan homeostatik tingkat rendah) dan Kesadaran Kognitif (pemrosesan representasional tingkat tinggi)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (sensasi dasar/sentiensi); Kesadaran Kognitif (pemikiran/representasi); diagnosis klinis gangguan kesadaran.",
+    "distinctive_mechanism_or_principle": "Prinsip ketergantungan fungsional, yakni kesadaran kognitif tingkat lebih tinggi secara ketat bergantung pada dan disokong oleh modalitas tingkat lebih rendah berupa sentiensi, yang berakar pada sistem homeostatik.",
+    "dynamics_of_emergence": "Kesadaran muncul melalui relasi hierarkis di mana keberadaan sentiensi dasar, yang terkait dengan kendali fisiologis, merupakan basis yang diperlukan bagi kemunculan fungsi kognitif.",
+    "location_and_distribution": "Korelat inti terdistribusi pada sistem fisiologis yang bertanggung jawab atas kendali homeostatik (untuk sentiensi) dan jaringan saraf (untuk pemrosesan kognitif).",
+    "causation_and_functional_role": "Sentiensi mengemban fungsi vital untuk mengatur proses fisiologis demi mempertahankan homeostasis dan kelangsungan hidup. Ia menyediakan umpan balik sadar yang diperlukan bagi regulasi biologis dasar.",
+    "integration_or_binding": "Tidak dispesifikasi. (Dibenarkan oleh fokus teori ini pada perbedaan dan relasi hierarkis antarmodalitas kesadaran, bukan pada mekanisme untuk menyatukan masukan indrawi.)",
+    "information_flow_or_representation": "Kesadaran kognitif melibatkan pemrosesan dan elaborasi representasi linguistik dan citraan, yang berlangsung dalam jaringan saraf.",
+    "evolutionary_account": "Tidak dirinci secara detail, tetapi disimpulkan bersifat adaptif dan evolusioner, yang menautkan modalitas kesadaran dengan imperatif biologis fundamental seperti kelangsungan hidup dan pemeliharaan homeostasis.",
+    "core_claims_and_evidence": [
+      "Kesadaran kognitif bergantung pada sentiensi, tetapi tidak sebaliknya.",
+      "Sentiensi berkorelasi dengan kapasitas untuk kendali dinamis homeostasis biokimiawi.",
+      "Kapasitas untuk merasakan sensasi dasar (sentiensi) adalah persyaratan minimal bagi kesadaran minimal (relevan untuk diagnosis klinis)."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurosaintifik, Klinis/Medis, Filosofis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris melalui asesmen dan intervensi klinis, khususnya dalam menganalisis kesadaran minimal pada keadaan vegetatif atau di bawah anestesi.",
+    "known_empirical_interventions_or_tests": [
+      "Menilai kapasitas untuk merasakan sensasi dasar (lapar, nyeri) sebagai standar untuk mendiagnosis gangguan kesadaran berkepanjangan."
+    ],
+    "criticisms_and_tensions": "Tidak ada kritik eksplisit yang disediakan dalam bahan sumber. (Justifikasi: bahan sumber bersifat deskriptif dan tidak memuat wacana kritis terhadap teori spesifik ini.)",
+    "open_questions_and_limitations": "Mekanisme fisiologis dan bioelektrik eksplisit yang mewujudkan batas-batas ketat dan ketergantungan hierarkis antara sentiensi dan kesadaran kognitif masih perlu dielusidasi sepenuhnya. Uji kognisi tingkat tinggi mungkin tidak memadai untuk menilai semua keadaan kesadaran.",
+    "ontological_coherence": "Sangat konsisten dalam batas-batas naturalisme, yang menautkan dua aspek kesadaran yang berbeda dengan sistem fisiologis yang konkret dan teramati."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bersyarat",
+      "rationale": "Jika sistem buatan mampu mereplikasi sepenuhnya sistem fisiologis yang mengatur homeostasis biokimiawi dinamis (yang diperlukan untuk sentiensi) dan aktivitas jaringan bioelektrik yang diperlukan (untuk kognisi), maka kesadaran buatan menjadi mungkin."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Karena kesadaran bergantung secara ketat pada sistem biologis yang berfungsi (kendali homeostasis dan jaringan saraf), ia dianggap berhenti ketika tubuh dan otak terurai secara tak terpulihkan."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Teori ini berfokus pada peran fungsional dan adaptif kesadaran dalam mempertahankan kestabilan biologis (homeostasis) dan memungkinkan kognisi yang fleksibel, tanpa memberikan landasan bagi tujuan kosmis atau tujuan puncak."
+    },
+    "virtual_immortality": {
+      "stance": "Bersyarat",
+      "rationale": "Secara teoretis mungkin hanya jika pola homeostatik dan bioelektrik dinamis spesifik yang diidentifikasi sebagai korelat sentiensi dan kognisi dapat didigitalkan dan direplikasi secara sempurna dalam medium nonbiologis."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Kompatibel"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The role of sentience in the theory of consciousness and medical practice, A. Pereira Jr.",
+        "year": 2021
+      }
+    ]
+  }
+}

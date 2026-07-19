@@ -1,0 +1,97 @@
+{
+  "id_and_class": {
+    "theory_title": "Inkompatibilisme Keras Sapolsky",
+    "summary": "Perspektif ini berpandangan bahwa kesadaran merupakan properti emergen yang kompleks yang timbul semata-mata dari mekanisme biologis, yang terpaut secara tak terpisahkan dengan aturan-aturan fisik alam semesta. Komitmen filosofis utamanya adalah inkompatibilisme keras, yang menegaskan determinisme biologis dan konsekuensinya menyangkal keberadaan kehendak bebas.",
+    "associated_thinkers": ["Robert Sapolsky"],
+    "category": "Materialisme",
+    "subcategory": "Neurobiologis",
+    "core_identity_tagline": "‘Kesadaran sebagai Properti Emergen yang Kompleks’",
+    "classification_tags": [
+      "determinism",
+      "neurobiology",
+      "physicalism",
+      "emergence",
+      "hard incompatibilism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai properti emergen yang kompleks yang timbul dari fisika dan kimia organisme biologis, khususnya otak, serta interaksinya dengan lingkungan.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Identitas/Korelasi Materialis: Pikiran dan diri secara ketat merupakan produk dari, atau identik dengan, proses-proses biologis, konsisten dengan aturan-aturan fisik.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah (Disimpulkan): Meskipun dideskripsikan sebagai 'properti emergen yang kompleks' yang sifatnya sukar dipahami, pelandasannya pada determinisme biologis yang ketat menyiratkan bahwa emergensinya harus, secara prinsip, sepenuhnya sesuai dengan hukum-hukum fisika.",
+    "subjectivity_and_intentionality": "Subjektivitas (apa itu kesadaran) diakui ada tetapi dinyatakan kurang dipahami dan sulit didefinisikan. Intensionalitas dan agensi (kehendak bebas) secara eksplisit ditolak sebagai tidak kompatibel dengan determinisme.",
+    "qualia_account": "Tak Terjelaskan: Rasa kualitatif pengalaman diakui tetapi dianggap berada di luar pemahaman neurobiologis saat ini, dideskripsikan secara ambigu sebagai 'properti emergen yang kompleks' yang 'menjelaskan segalanya dan sekaligus tidak menjelaskan apa pun'.",
+    "ontological_commitments": "Organisme biologis, struktur neurologis, dan aturan-aturan fisik alam semesta.",
+    "epistemic_access": "Dapat diakses melalui observasi keadaan-keadaan neurologis; namun, pemahaman tentang kesadaran fenomenal pada tataran neurobiologis diakui sangat terbatas.",
+    "constituents_and_structure": "Organisasi kompleks materi biologis, yang diatur oleh aturan-aturan fisik yang deterministik."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kehendak Bebas (Kritik/Penyangkalan); Fenomenal (Diakui ada tetapi tak terjelaskan); Fungsi neurologis (pengertian neurologis yang membosankan).",
+    "distinctive_mechanism_or_principle": "Prinsip inkompatibilisme keras, di mana semua peristiwa, termasuk peristiwa mental, sepenuhnya ditentukan oleh sebab-sebab biologis dan lingkungan yang mendahului, sehingga tidak menyisakan ruang bagi mekanisme non-biologis atau non-deterministik.",
+    "dynamics_of_emergence": "Kesadaran merupakan suatu Proses Dinamis yang timbul dari proses-proses otak yang kompleks dan terorganisasi.",
+    "location_and_distribution": "Terlokalisasi sepenuhnya di dalam otak dan organisme biologis.",
+    "causation_and_functional_role": "Kesadaran manjur secara kausal (ia bukan sekadar epifenomenon), tetapi tindakan-tindakan kausalnya sepenuhnya dibatasi oleh aliran deterministik proses-proses biologis.",
+    "integration_or_binding": "Secara implisit terintegrasi oleh organisasi kompleks dan operasi deterministik sistem biologis.",
+    "information_flow_or_representation": "Tersirat melalui fungsi biologis berdasarkan aturan-aturan fisik fundamental yang mengatur proses-proses biologis.",
+    "evolutionary_account": "Kesadaran merupakan produk evolusi biologis/filogenetik, konsisten dengan sifat organisme yang deterministik dan biologis.",
+    "core_claims_and_evidence": [
+      "Diri/pikiran tidak lebih dan tidak kurang dari biologi kita dan interaksinya dengan lingkungan.",
+      "Kehendak bebas secara filosofis mustahil didamaikan dengan determinisme biologis.",
+      "Kesadaran timbul sebagai properti emergen yang kompleks dari otak biologis.",
+      "Kesadaran bukanlah epifenomenon yang ilusif."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis (Komitmen a priori terhadap determinisme dan materialisme); Biologis/Neurosaintifik."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Premis filosofis (Determinisme); Terpaut secara empiris dengan Neurobiologi (karena semua fenomena bersifat biologis).",
+    "known_empirical_interventions_or_tests": "Tidak ada yang dirinci dalam sumber; bertumpu pada bukti biologis dan neurologis fondasional yang mendukung fisikalisme deterministik.",
+    "criticisms_and_tensions": "Sapolsky mengakui bahwa definisi kesadaran membingungkan dan bertumpu pada istilah ambigu 'properti emergen yang kompleks'. Secara eksternal, penyangkalan atas kehendak bebas (inkompatibilisme keras) merupakan posisi filosofis yang sangat kontroversial.",
+    "open_questions_and_limitations": "Sifat dan definisi persis kesadaran fenomenal tetap berada di luar kemampuan penulis untuk memahami atau menjelaskannya sepenuhnya.",
+    "ontological_coherence": "Tinggi, karena teori ini secara ketat berpegang pada ontologi fisikalis dan deterministik tanpa memasukkan unsur-unsur non-fisik."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Jika kesadaran merupakan properti emergen yang aktif secara kausal yang diatur oleh aturan-aturan fisik dari organisasi biologis yang kompleks, ia semestinya, secara prinsip, dapat dicapai dalam sistem buatan yang mereplikasi kompleksitas yang diperlukan."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran semata-mata merupakan produk otak biologis; oleh karena itu, kematian otak merupakan akhir yang tak dapat ditarik kembali dari keberadaan pribadi."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya Humanistik",
+      "rationale": "Sifat deterministik kesadaran berarti tidak ada makna atau tujuan kosmis tertinggi; makna atau nilai apa pun niscaya diciptakan oleh manusia sendiri."
+    },
+    "virtual_immortality": {
+      "stance": "Mungkin",
+      "rationale": "Karena kesadaran dapat direduksi menjadi dan bergantung pada keadaan-keadaan fisik yang kompleks, penggandaan sempurna atas keadaan-keadaan ini dalam substrat non-biologis akan menghasilkan keberlanjutan diri mental orang pertama, konsisten dengan Teori-Teori Materialisme."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mitchell’s Free Agents",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Flanagan’s Constructive Naturalism",
+        "relationship": "Tumpang tindih"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Determined: A Science of Life without Free Will, R. Sapolsky",
+        "year": 2023
+      },
+      {
+        "title_with_names": "From Stanford to Medspire: an Exclusive Interview with Robert Sapolsky, R. Sapolsky",
+        "year": 2023
+      }
+    ]
+  }
+}

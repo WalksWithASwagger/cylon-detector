@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Panpsikisme menurut Strawson",
+    "summary": "Strawson berargumen bahwa setiap filsuf yang menganut pandangan realistis tentang fisikalisme mesti menerima bahwa semua fenomena fisik secara intrinsik bercorak pengalaman atau fenomenal, yang menuntun pada panpsikisme (atau panexperientalisme) sebagai kesimpulan yang niscaya dari 'Materialisme Sejati'. Keberadaan pengalaman sadar, sebagai fakta yang paling pasti, tidak dapat disangkal oleh fisikalisme yang sejati .",
+    "associated_thinkers": ["Galen Strawson"],
+    "category": "Panpsikisme",
+    "subcategory": "Panexperientalisme",
+    "core_identity_tagline": "‘Materialisme Sejati Menyiratkan Panpsikisme’",
+    "classification_tags": [
+      "real materialism",
+      "panexperientialism",
+      "monism",
+      "physicalism",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran (pengalaman) diidentikkan sebagai properti fenomenal yang intrinsik dan tak tereduksi dari semua zat atau energi fisik fundamental (panexperientalisme).",
+    "ontological_status": "Monisme Realistis / Materialisme Sejati",
+    "mind_body_relationship": "Teori Identitas (Pengertian Kuat). Fenomena mental dianggap sebagai fenomena fisik konkret karena fisikalisme sejati mencakup semua fenomena yang nyata, termasuk pengalaman.",
+    "primitive_or_emergent_status": "Primitif/Fundamental",
+    "emergence_type": "Tidak berlaku (Kesadaran bersifat primitif). Teori ini bersandar pada kemustahilan emergensi 'radikal' untuk mendukung klaimnya bahwa panpsikisme disiratkan oleh fisikalisme .",
+    "subjectivity_and_intentionality": "Karakter subjektif pengalaman (ciri 'seperti-apa-rasanya') adalah fakta alamiah dasar yang konkret dan fundamental yang mesti diakui oleh setiap fisikalis realistis.",
+    "qualia_account": "Qualia adalah properti dunia yang nyata, konkret, dan fisik; penyangkalan terhadapnya dianggap 'klaim paling konyol yang pernah dibuat'.",
+    "ontological_commitments": "Entitas fisik pamungkas (energi/zat fisik) dan properti fenomenal/bercorak pengalaman yang melekat padanya.",
+    "epistemic_access": "Terutama melalui introspeksi (pengalaman adalah fenomena yang keberadaannya paling pasti) dan argumen filosofis, yang melaluinya panpsikisme diturunkan secara logis dari pemahaman realistis tentang fisikalisme.",
+    "constituents_and_structure": "Konstituen dasarnya adalah zat fisik, yang secara fundamental melibatkan pengalaman, sedemikian rupa sehingga semua energi dapat diandaikan sebagai fenomena yang melibatkan pengalaman ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kesadaran fenomenal (pengalaman/qualia).",
+    "distinctive_mechanism_or_principle": "Prinsip bahwa semua fenomena konkret bersifat fisik, dipadukan dengan fakta bahwa pengalaman adalah fenomena konkret dan tidak dapat muncul secara radikal, menetapkan bahwa pengalaman bersifat intrinsik bagi fisika fundamental.",
+    "dynamics_of_emergence": "Kesadaran bersifat fundamental, bukan muncul secara dinamis dalam pengertian radikal . Jika emergensi radikal ditolak, teori ini mendukung panexperientalisme .",
+    "location_and_distribution": "Ada di mana-mana, terkait dengan setiap bagian atau aspek realitas fisik, serupa dengan medan-medan dan partikel-partikel fundamental .",
+    "causation_and_functional_role": "Kesadaran, karena bersifat fisik, terpasang tanpa masalah ke dalam dunia alami. (Peran kausal spesifik dari pengalaman-pengalaman individual tersirat melalui status fisiknya tetapi tidak dirinci dalam sumber-sumber).",
+    "integration_or_binding": "Teori ini menghadapi masalah kombinasi panpsikisme (bagaimana pengalaman-pengalaman tingkat mikro bergabung menjadi subjek-subjek sadar makroskopis). Masalah ini mesti dipecahkan agar panpsikisme menjadi teori yang unggul . (Tidak ada mekanisme solusi spesifik yang dirinci oleh Strawson dalam sumber-sumber).",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "Strawson menerima kesadaran sebagai fisik, dan menyarankan bahwa tanggapan yang tepat terhadap hakikatnya mungkin adalah 'penerimaan tanpa harapan akan pemahaman', serupa dengan dualitas gelombang-partikel .",
+    "core_claims_and_evidence": [
+      "Kesadaran sepenuhnya bersifat fisik .",
+      "Penyangkalan terhadap pengalaman sadar adalah klaim paling konyol yang pernah dibuat .",
+      "Fisikalisme Sejati menyiratkan Panpsikisme mengingat kemustahilan emergensi radikal ."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis, Konseptual, Fenomenologis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara konseptual. Ia merupakan usulan metafisik yang diturunkan dari premis-premis filosofis tentang hakikat dunia fisik. Nagasawa mencatat bahwa panpsikisme, sekalipun benar, mungkin mencapai 'jalan buntu kognitif' karena ia tidak dapat dibuktikan .",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Secara luas dianggap 'absurd' oleh sebagian pengkritik . Ia menderita masalah kombinasi, yang menuntut penjelasan tentang bagaimana pengalaman-pengalaman tingkat mikro beragregasi untuk menghasilkan properti-properti makrofenomenal.",
+    "open_questions_and_limitations": "Menemukan solusi yang masuk akal bagi masalah kombinasi diperlukan agar pandangan ini menjadi solusi yang paling menjanjikan bagi masalah pikiran-tubuh .",
+    "ontological_coherence": "Sangat konsisten di dalam definisi Materialisme/Fisikalisme yang telah diperluas yang diusulkan ('Monisme Realistis'), yang bertujuan memecahkan masalah pikiran-tubuh dengan mengintegrasikan kesadaran ke dalam realitas fisik pamungkas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Kemungkinan besar",
+      "rationale": "Jika kesadaran adalah properti tak tereduksi dari setiap entitas fisik elementer, maka AI, karena tersusun atas materi fisik, juga seharusnya memiliki kesadaran batin, sepanjang masalah kombinasi dapat dipecahkan dan aspek-aspek mikropsikis dapat dimanipulasi oleh teknologi canggih ."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak mungkin (peluang sangat tipis)",
+      "rationale": "Meskipun dunia dipenuhi kesadaran, keberlangsungan menuntut pembalikan proses kompleks di mana elemen-elemen mikroskopis berpadu menjadi kesadaran makroskopis, yang tampak sulit bagi keberlangsungan orang pertama saat peluruhan otak ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Mungkin",
+      "rationale": "Panpsikisme diposisikan antara Materialisme (tanpa tujuan pamungkas) dan Dualisme/Idealisme (dengan tujuan pamungkas), menyiratkan kemungkinan adanya makna/tujuan/nilai pamungkas ."
+    },
+    "virtual_immortality": {
+      "stance": "Kemungkinan besar",
+      "rationale": "Jika kesadaran adalah properti intrinsik dan reguler dari tenunan realitas, teknologi canggih berpotensi mempelajari keteraturan yang diperlukan untuk mengagregasikan atau memanipulasi daya-daya mikropsikis guna menduplikasi atau mengunggah kesadaran ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Panpsychism",
+        "relationship": "Selaras/Pengaruh"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Tumpang tindih/Sintesis"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Kritik"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Realistic Monism: Why Physicalism Entails Panpsychism, Galen Strawson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Real Materialism and Other Essays, Galen Strawson",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Consciousness Deniers, Galen Strawson",
+        "year": 2018
+      }
+    ]
+  }
+}

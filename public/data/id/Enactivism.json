@@ -1,0 +1,111 @@
+{
+  "id_and_class": {
+    "theory_title": "Enaktivisme",
+    "summary": "Enaktivisme memosisikan bahwa aktivitas mental dan kognisi muncul dari interaksi yang dinamis dan resiprokal antara organisme hidup dan lingkungannya, yang dimediasi oleh proses sensorimotoriknya. Kesadaran dipandang sebagai suatu aktivitas yang tertubuh, sehingga membuat gagasan tentang pikiran tanpa tubuh menjadi inkoheren.",
+    "associated_thinkers": [
+      "Francisco Varela",
+      "Eleanor Rosch",
+      "Evan Thompson"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Tertubuh dan Enaktif",
+    "core_identity_tagline": "Kognisi melalui Interaksi Dinamis Organisme-Lingkungan",
+    "classification_tags": [
+      "embodied",
+      "cognition",
+      "dynamic",
+      "interaction",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Aktivitas mental diidentifikasi sebagai aktivitas tertubuh yang muncul dari pertukaran yang dinamis dan dua-arah antara organisme dan lingkungannya, yang diatur oleh proses sensorimotorik.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Pikiran dan kehidupan mental bercabang melalui tubuh dan lingkungan, yang berarti keduanya tidak dapat direduksi sekadar menjadi proses otak di dalam kepala. Relasinya merupakan relasi interaksi dinamis dan ko-relasi, yang kerap disebut 'dinamisme tertubuh'.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Alamiah. Kesadaran muncul melalui tahap-tahap evolusioner kognisi dan proto-kesadaran. Pendekatan ini berupaya menjelaskan transisi dari kehidupan ke pikiran menggunakan jenis proses yang sama yang memungkinkan transisi dari nir-kehidupan ke kehidupan.",
+    "subjectivity_and_intentionality": "Subjektivitas ditelusuri melalui keutamaan pengalaman terhayati (fenomenologi). Intensionalitas (keterarahan pemikiran) dijelaskan oleh gagasan bahwa pikiran secara aktif mengonstitusi objek-objeknya, membawa dunia ke dalam kesadaran atau menyingkapkannya melalui interaksi.",
+    "qualia_account": "Metodologi terkait teori ini, Neurofenomenologi, menekankan hakikat tak-teredusi pengalaman sadar dan pengalaman terhayati. Meskipun rincian mekanistik penghasilan qualia tidak dirinci secara eksplisit dalam teks yang tersedia, fokusnya adalah pada kualitas pengalaman yang langsung dan terhayati.",
+    "ontological_commitments": "Sistem hidup, interaksi organisme-lingkungan, proses sensorimotorik, dan kendala yang terorganisasi-sendiri. Pendekatan ini kadang dicirikan sebagai suatu terobosan ontologis yang menekankan keutamaan penubuhan.",
+    "epistemic_access": "Pengalaman terhayati adalah titik tolak yang diperlukan dan benang penuntun bagi penyelidikan ('neurofenomenologi'), yang harus dikaitkan secara sistematis dengan kemajuan dalam biologi dan sains kognitif.",
+    "constituents_and_structure": "Makhluk hidup yang menciptakan diri, mengorganisasi diri, menyesuaikan diri, dan mempertahankan diri yang pikirannya muncul dari interaksi resiprokal yang berkelanjutan (dinamisme tertubuh)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kesadaran fenomenal (dipelajari melalui neurofenomenologi), Kognisi (sebagai aktivitas tertubuh), dan Agensi (organisme sebagai agen aktif).",
+    "distinctive_mechanism_or_principle": "Pertukaran dua-arah yang berkelanjutan, iteratif, dan dinamis antara organisme dan lingkungannya, yang dimediasi oleh proses sensorimotorik.",
+    "dynamics_of_emergence": "Kesadaran adalah suatu proses temporal yang dinamis dan berkelanjutan, di mana keadaan-keadaan internal yang terorganisasi-sendiri muncul sebagai kompensasi yang dipicu oleh gangguan lingkungan, alih-alih semata-mata sebagai representasi internal.",
+    "location_and_distribution": "Lokasi kesadaran bersifat terdistribusi atau 'terletak di dunia', bercabang melalui tubuh dan lingkungan, melampaui batas-batas otak semata.",
+    "causation_and_functional_role": "Memungkinkan organisme menjadi agen aktif yang mengatur diri, mempertahankan integritas diri, dan secara persisten menciptakan ulang kapasitasnya untuk penciptaan-diri.",
+    "integration_or_binding": "Integrasi bersifat implisit dalam definisi sistem organisme-lingkungan sebagai unit analisis dan dalam sifat mengorganisasi-diri serta mempertahankan-diri yang dihasilkan dari organisme hidup.",
+    "information_flow_or_representation": "Kerap membingkai kognisi sebagai non-representasional, yang berlawanan dengan teori representasi internal. Keadaan-keadaan internal digambarkan sebagai kompensasi yang terorganisasi-sendiri yang dipicu oleh gangguan, bukan representasi dari hal-ihwal eksternal.",
+    "evolutionary_account": "Kesadaran berevolusi melalui tahap-tahap kognisi dan proto-kesadaran yang terseleksi karena sifat-sifat yang meningkatkan kebugaran dalam lingkungan yang menantang.",
+    "core_claims_and_evidence": [
+      "Kognisi/aktivitas mental dikonstitusi oleh aktivitas tertubuh.",
+      "Organisme secara aktif membentuk, dan dibentuk oleh, lingkungannya secara iteratif.",
+      "Neurofenomenologi, suatu perluasan enaktivisme, berupaya mengaitkan secara sistematis pengalaman terhayati yang tak-teredusi (orang pertama) dengan neurosains (orang ketiga)."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis (Fenomenologis), Teoretis, Biologis/Evolusioner."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris melalui penerapan Neurofenomenologi, yang mengoordinasikan deskripsi orang pertama dengan data neurobiologis orang ketiga.",
+    "known_empirical_interventions_or_tests": [
+      "Metode riset neurofenomenologis (mis. wawancara mikro-fenomenologis) ",
+      "Penyelidikan atas pengalaman batas-batas diri menggunakan data neurologis dan fenomenologis "
+    ],
+    "criticisms_and_tensions": "Tantangan metodologis utamanya terletak pada pengumpulan pelaporan dan interpretasi orang pertama yang akurat serta pengorelasiannya secara sistematis dengan data neurosaintifik yang objektif.",
+    "open_questions_and_limitations": "Tidak sepenuhnya menjembatani jurang eksplanatif dalam pengertian reduktif, melainkan berupaya memperbesar dan memperkaya sumber daya untuk menyoalnya.",
+    "ontological_coherence": "Tinggi. Pendekatan ini menggunakan fenomenologi untuk menaturalisasi penyelidikannya dengan menyelaraskannya dengan biologi dan sains kognitif, dengan mencari konsistensi internal antara dunia yang terhayati dan deskripsi ilmiah."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Kemungkinan besar",
+      "rationale": "Enaktivisme adalah Teori Materialisme (Tertubuh). Materialisme umumnya berpandangan bahwa kesadaran AI secara prinsip pasti dimungkinkan, asalkan kompleksitas organisasional fisik dan tertubuh yang diperlukan (termasuk kemampuan berinteraksi secara dinamis dengan lingkungan) direplikasi dalam sistem buatan."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran terikat erat pada organisme hidup yang tertubuh dan proses biologisnya. Karena organisme bersifat fisik, kesadaran diperkirakan berhenti saat kematian biologis (posisi Materialis standar)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistis",
+      "rationale": "Sebagai Teori Materialisme, Enaktivisme tidak menyediakan bukti bagi makna atau tujuan kosmis tertinggi, dan hanya mengakui makna serta nilai yang diciptakan manusia bagi dirinya sendiri melalui agensi dan interaksi."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Jika Enaktivisme benar, maka keabadian virtual akan dapat dicapai jika proses kompleks dan dinamis yang mengonstitusi pikiran yang tertubuh dan terorganisasi-sendiri dapat diduplikasi atau disimulasikan secara sempurna dalam medium non-biologis."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied Cognition",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Neurophenomenology",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Ecological Psychology (Gibson’s)",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Dynamic Systems Approach",
+        "relationship": "Pengaruh"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, Francisco Varela, Eleanor Rosch, Evan Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Enactivism, Daniel Hutto",
+        "year": 2023
+      }
+    ]
+  }
+}

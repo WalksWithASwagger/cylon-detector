@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "Model Draf Ganda menurut Dennett",
+    "summary": "Teori neurobiologis ini menolak gagasan tentang suatu 'Teater Cartesian' pusat tempat kesadaran diamati. Sebaliknya, teori ini memosisikan bahwa muatan sadar muncul dari arus pemrosesan informasi yang paralel dan berjalur ganda ('draf ganda') yang bersaing memperebutkan perhatian, dengan draf pemenang meraih 'ketenaran dalam otak'. Integrasi berkelanjutan atas momen-momen ini membentuk rasa diri yang subjektif, yang dicirikan sebagai 'pusat gravitasi naratif'.",
+    "associated_thinkers": [
+      "Daniel Dennett",
+      "Patricia Churchland",
+      "Paul Churchland",
+      "Keith Frankish"
+    ],
+    "category": "Teori Materialisme",
+    "subcategory": "Neurobiologis",
+    "core_identity_tagline": "Kesadaran sebagai Draf Ganda dan Gravitasi Naratif",
+    "classification_tags": [
+      "eliminative materialism",
+      "illusionism",
+      "functionalism",
+      "narrative",
+      "evolutionary"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai suatu 'arus atau urutan naratif' yang terus-menerus direvisi sebagai hasil proses interpretasi paralel di dalam otak. Properti fenomenal subjektif (qualia) didefinisikan sebagai 'ilusi-pengguna' atau konstruk neural yang inkoheren.",
+    "ontological_status": "Fisikalisme / Materialisme Eliminatif",
+    "mind_body_relationship": "Identitas/Reduksi. Keadaan mental sepenuhnya dapat direduksi menjadi keadaan fisik, dan pandangan akal-sehat tentang pikiran (psikologi rakyat) secara radikal keliru, yang pada akhirnya akan digantikan oleh neurosains.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah. Dibenarkan oleh kenyataan bahwa teori ini berpandangan kesadaran dapat sepenuhnya direduksi menjadi, atau dijelaskan oleh, proses fisik fundamental, yang mendukung pandangan materialis reduksionis dan menolak emergensi kuat secara prinsip.",
+    "subjectivity_and_intentionality": "Subjektivitas ('diri') dikonseptualisasikan sebagai konstruk fiktif yang terdistribusi yang disebut 'pusat gravitasi naratif'. Intensionalitas (muatan) diprioritaskan dan dipandang sebagai fungsi dari gumpalan molekul yang rumit, yang mendahului kebutuhan akan kesadaran.",
+    "qualia_account": "Qualia ditolak sebagai konsep yang ilusif dan inkoheren. Qualia dijelaskan sebagai 'ilusi-pengguna'—jaringan neural kompleks yang teraktivasi yang mengarahkan kita untuk meyakini bahwa kita memiliki properti fenomenal yang intrinsik dan tak-teranalisis.",
+    "ontological_commitments": "Otak biologis dan proses biologisnya. 'Pola-pola nyata' yang merupakan versi-versi berbeda dari apa yang benar-benar ada, yang direpresentasikan oleh citra ilmiah (fisika, kimia, biologi molekuler, dan neurofisiologi).",
+    "epistemic_access": "Secara eksklusif melalui perspektif orang ketiga sains, yang disebut 'heterofenomenologi'. Introspeksi orang pertama dan keyakinan tentang keadaan internal diperlakukan sebagai data yang harus dijelaskan, tidak serta-merta sebagai laporan yang benar tentang realitas mental.",
+    "constituents_and_structure": "Suatu 'kumpulan agensi semi-independen' atau region/modul otak, yang menghasilkan interpretasi paralel ('draf ganda') yang tunduk pada penyuntingan berkelanjutan."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (dikempiskan/dieliminasi); Akses; Kesadaran diri (sebagai struktur naratif); Muatan/Intensionalitas.",
+    "distinctive_mechanism_or_principle": "Penindasan atas metafora 'Teater Cartesian'. Mekanismenya melibatkan persaingan antar-region/modul otak yang berbeda (draf) untuk memperebutkan sumber daya pemrosesan, yang menghasilkan 'ketenaran dalam otak' bagi pemenangnya, yang menentukan muatan momen sadar tersebut.",
+    "dynamics_of_emergence": "Kesadaran adalah suatu proses dinamis—arus revisi editorial dan pembentukan naratif dari waktu ke waktu. Ia muncul secara bertahap melalui seleksi alam, dengan menekankan 'alasan tanpa penalar' dan 'rancangan tanpa perancang'.",
+    "location_and_distribution": "Terdistribusi di seluruh otak. Secara eksplisit menyangkal adanya satu lokasi pusat tunggal atau pengamat internal.",
+    "causation_and_functional_role": "Secara fungsional, kesadaran adalah keterlibatan informasional dan reaktif yang kompleks dengan dunia. Peran evolusionernya adalah menyediakan adaptasi internal yang meningkatkan kebugaran dan keberhasilan reproduktif.",
+    "integration_or_binding": "Integrasi dicapai secara retrospektif melalui penyatuan momen-momen sadar yang berkelanjutan menjadi suatu kisah hidup yang padu (the 'pusat gravitasi naratif').",
+    "information_flow_or_representation": "Pemrosesan interpretasi dan elaborasi yang paralel dan berjalur ganda, yang mengarah pada suatu arus naratif. Muatan mendahului kesadaran, yang memungkinkan gumpalan molekul yang kompleks memiliki makna.",
+    "evolutionary_account": "Kesadaran dan pikiran berevolusi melalui seleksi alam, bermula dari tingkat bakteri dan berkembang melalui penciptaan perkakas berpikir (seperti bahasa) yang diperlukan untuk memahami fenomena seperti kesadaran itu sendiri.",
+    "core_claims_and_evidence": [
+      "Tidak ada 'Teater Cartesian' atau saksi internal yang menonton pengalaman sadar.",
+      "Kesadaran tersusun atas 'draf ganda' yang bersaing memperebutkan 'ketenaran dalam otak'.",
+      "Diri yang subjektif adalah suatu konstruk fungsional ('pusat gravitasi naratif').",
+      "Qualia ditolak sebagai properti yang ilusif dan inkoheren."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis (Eliminativisme), Evolusioner/Biologis, Komputasional (Fungsionalisme), Sains Kognitif (Heterofenomenologi)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris. Dennett menganjurkan pengujian melalui metode orang ketiga yang objektif (heterofenomenologi) alih-alih bersandar pada introspeksi yang menyesatkan.",
+    "known_empirical_interventions_or_tests": "Sumber-sumbernya tidak mencantumkan intervensi eksperimental bernama tertentu, tetapi teori ini bersandar pada data pendukung yang dapat diperoleh melalui prosedur sains kognitif standar dan metodologi orang ketiga ('heterofenomenologi').",
+    "criticisms_and_tensions": "Kritik utamanya adalah bahwa teori ini gagal menyoal kesadaran fenomenal (masalah sulit) dengan menyatakannya sebagai ilusi, yang membuat para pengkritik berpendapat bahwa Dennett menyelesaikan 'masalah-masalah mudah' tetapi menghindari misteri intinya. Penyangkalannya atas qualia dianggap sebagai langkah kritis yang menuntut kepatuhan pada premis-premis yang berlawanan dengan intuisi.",
+    "open_questions_and_limitations": "Menuntut pengatasan intuisi akal-sehat tentang pengalaman internal, yang dianggap banyak orang sebagai 'tuntutan yang berat'. Kemungkinan bahwa Masalah Sulit mungkin tidak 'menguap' tetap menjadi ketegangan yang terbuka.",
+    "ontological_coherence": "Sangat koheren dalam kerangka materialis yang murni reduktif dan deflasioner, sejalan dengan keyakinan bahwa kesadaran dapat sepenuhnya dijelaskan oleh fisika dan neurosains."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ya",
+      "rationale": "Sebagai teori materialis yang kuat yang berakar pada fungsionalisme/komputasi, teori ini berpandangan bahwa kesadaran sepenuhnya bersifat fisik dan bahwa fungsionalisme komputasional itu benar. Karena itu, kecerdasan non-biologis yang mencapai AI super-kuat pada akhirnya pasti mencapai kesadaran."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Dalam Teori Materialisme, kematian otak dan tubuh biologis mengakibatkan ketiadaan pribadi yang tak-terbalikkan dan permanen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistis",
+      "rationale": "Teori Materialisme tidak merasionalisasi makna atau tujuan kosmis tertinggi, melainkan menekankan makna dan nilai humanistis yang diciptakan individu bagi dirinya sendiri."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Jika kesadaran sepenuhnya bersifat fisik dan dapat direduksi menjadi pemrosesan informasi (sebagaimana pandangan teori ini), diri mental orang pertama dapat diunggah/diduplikasi ke medium non-biologis, sehingga keabadian virtual dapat dicapai dengan teknologi yang memadai."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Tumpang tindih (Basis filosofis inti)"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "Kemiripan (Pendekatan fungsionalis)"
+      },
+      {
+        "name": "Global Workspace Theory (GWT)",
+        "relationship": "Perbandingan (Keduanya menolak Teater Cartesian dan berfokus pada akses informasional, meskipun berbeda dalam rinciannya)"
+      },
+      {
+        "name": "Higher-Order Thought Theories",
+        "relationship": "Tumpang tindih (Model Dennett kerap dianggap sebagai salah satu bentuk teori Orde-Lebih-Tinggi karena memprioritaskan muatan kognitif)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Explained, Daniel C. Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Eliminative Materialism and the Propositional Attitudes, Paul Churchland",
+        "year": 1981
+      }
+    ]
+  }
+}

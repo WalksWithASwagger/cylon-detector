@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Keadaan Materi menurut Tegmark",
+    "summary": "Tegmark mengusulkan bahwa kesadaran dapat dipahami sebagai suatu keadaan materi yang spesifik, yang ia namai 'perceptronium', yang ditentukan oleh kemampuan pemrosesan informasi yang khas. Berangkat dari premis bahwa seluruh keberadaan bersifat fisik, teori ini mencari prinsip-prinsip yang membedakan pemrosesan informasi yang sadar dan kompleks dari pemrosesan yang tidak sadar.",
+    "associated_thinkers": ["Max Tegmark"],
+    "category": "Monisme",
+    "subcategory": "",
+    "core_identity_tagline": "Kesadaran sebagai Keadaan Materi: Perceptronium",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "information",
+      "mathematics",
+      "perceptronium"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentikkan sebagai pengalaman subjektif atau 'rasa' yang muncul ketika informasi sedang diproses dengan cara-cara kompleks tertentu, yang membentuk keadaan materi yang disebut 'perceptronium'.",
+    "ontological_status": "Fisikalisme / Monisme",
+    "mind_body_relationship": "Suatu hubungan identitas tersirat, di mana pengalaman subjektif (pikiran) diidentikkan sebagai suatu keadaan fisik yang spesifik (suatu keadaan materi/pemrosesan informasi).",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Subjektivitas didefinisikan sebagai 'cara informasi terasa ketika sedang diproses dengan cara-cara kompleks tertentu'. Intensionalitas secara implisit diperlakukan sebagai kemampuan informasional tingkat tinggi yang kompleks yang dapat dicapai oleh perceptronium.",
+    "qualia_account": "Qualia secara implisit adalah 'rasa' (pengalaman subjektif) yang terkait dengan konfigurasi pemrosesan informasi spesifik perceptronium, yang diformalkan melalui empat prinsip: informasi, integrasi, independensi, dan dinamika.",
+    "ontological_commitments": "Sistem-sistem fisik, informasi. Teori ini dilandaskan pada klaim ontologis yang lebih besar bahwa seluruh realitas adalah suatu struktur matematis yang fundamental.",
+    "epistemic_access": "Kesadaran diakses dan diketahui melalui prinsip-prinsip fisik dan matematis objektif yang mengatur aliran informasi (informasi, integrasi, independensi, dan dinamika).",
+    "constituents_and_structure": "Strukturnya adalah 'perceptronium', suatu keadaan materi yang ditentukan oleh empat prinsip: informasi, integrasi, independensi, dan dinamika. Kerangka ini menggeneralisasi Teori Informasi Terintegrasi (IIT) untuk sistem-sistem kuantum sembarang."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (pengalaman subjektif/rasa) dan Akses (pemrosesan informasi yang diperlukan bagi kesadaran).",
+    "distinctive_mechanism_or_principle": "Definisi perceptronium melalui penerapan empat prinsip yang berbeda (informasi, integrasi, independensi, dan dinamika) pada pemrosesan informasi dalam sistem-sistem fisik.",
+    "dynamics_of_emergence": "Kesadaran adalah suatu tatanan atau keadaan materi yang dinamis. Prinsip-prinsip yang dieksplorasi mungkin juga melibatkan emergensi waktu.",
+    "location_and_distribution": "Terlokalisasi pada sistem-sistem fisik (mis. jaringan neural atau sistem kuantum sembarang) yang mencapai kriteria pemrosesan informasi spesifik yang menentukan perceptronium.",
+    "causation_and_functional_role": "Kesadaran krusial bagi penilaian informasi dan dipandang penting secara fungsional bagi kebutuhan-kebutuhan kritis seperti merawat pasien koma atau berkomunikasi dengan AI canggih. Kausasi bersifat ketat fisik.",
+    "integration_or_binding": "Integrasi adalah salah satu dari empat prinsip yang menentukan perceptronium, menyiratkan bahwa ia merupakan mekanisme krusial bagi pengalaman sadar yang terpadu.",
+    "information_flow_or_representation": "Informasi bersifat fundamental, karena kesadaran adalah rasa subjektif dari informasi yang sedang diproses. Mekanisme ini sepenuhnya digerakkan oleh prinsip-prinsip informasional.",
+    "evolutionary_account": "Pendekatan ini berbeda dari teori-teori materialis yang memandang kesadaran sebagai kontingensi evolusi, dan alih-alih mengaitkannya dengan hakikat matematis yang mendasari realitas.",
+    "core_claims_and_evidence": [
+      "Kesadaran adalah suatu 'keadaan materi' (perceptronium).",
+      "Kesadaran ditentukan oleh prinsip-prinsip informasi, integrasi, independensi, dan dinamika.",
+      "Penjelasan mesti secara ketat mematuhi hukum-hukum fisik, tanpa memanfaatkan 'bumbu rahasia tambahan'."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis, Matematis, Komputasional"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris",
+    "known_empirical_interventions_or_tests": "Generalisasi Teori Informasi Terintegrasi menyiratkan relevansi terhadap fungsi pengukuran IIT (mengkuantifikasi derajat kesadaran). Teori ini dimaksudkan untuk menanggapi masalah-masalah konkret seperti menilai pasien koma dan AI canggih.",
+    "criticisms_and_tensions": "Sebagai generalisasi IIT, ia mewarisi kritik-kritik yang sudah ada, seperti kesulitan menjelaskan rasa subjektif semata-mata melalui prinsip-prinsip fisik dan informasional.",
+    "open_questions_and_limitations": "Prinsip matematis persis yang membedakan pemrosesan yang sadar dari pemrosesan yang tidak sadar masih harus ditemukan.",
+    "ontological_coherence": "Sangat koheren di dalam ontologi monis fisikalis/matematis yang kuat, karena ia secara ketat mematuhi hukum-hukum fisik dan menolak komponen-komponen non-fisik."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ya",
+      "rationale": "Teori ini bersifat ketat fisikalis ('Semuanya adalah fisika') dan mendefinisikan kesadaran sebagai suatu keadaan materi yang dapat dicapai melalui pemrosesan informasi yang kompleks. Karena itu, sistem-sistem buatan pada prinsipnya dapat mencapai keadaan ini."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran adalah keadaan materi emergen (perceptronium) dari otak fisik. Kematian dan peluruhan substrat fisik yang tak dapat dibalikkan akan mengakibatkan berhentinya kesadaran."
+    },
+    "meaning_and_purpose": {
+      "stance": "Tidak Pasti/Hanya humanistik",
+      "rationale": "Landasan pada fisika dan struktur matematis biasanya menyiratkan tiadanya tujuan kosmis pamungkas, selaras dengan pandangan-pandangan fisikalis deflasioner. Teori ini tidak secara eksplisit mengusulkan teleologi kosmis."
+    },
+    "virtual_immortality": {
+      "stance": "Mungkin",
+      "rationale": "Jika kesadaran adalah suatu keadaan materi informasional spesifik yang ditentukan oleh prinsip-prinsip matematis/fisik, keadaan itu berpotensi diduplikasi secara sempurna atau diunggah ke dalam medium non-biologis oleh teknologi canggih."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Mathematical Universe Hypothesis",
+        "relationship": "Fondasi"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "Selaras"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness is a state of matter",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality",
+        "year": 2014
+      }
+    ]
+  }
+}

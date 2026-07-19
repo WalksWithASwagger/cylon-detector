@@ -1,0 +1,101 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Persepsi Langsung",
+    "summary": "Teori ini memosisikan bahwa seluruh informasi yang diperlukan untuk persepsi berada di luar pengamat dan bersumber semata-mata dari properti stimulus distal.\nKesadaran perseptual adalah relasi kesadaran yang langsung dan tak-teranalisis terhadap objek eksternal, yang beroperasi tanpa bantuan inferensi internal, memori, atau konstruksi representasi.",
+    "associated_thinkers": [
+      "Ned Block (as describer of direct realist/naïve realist views)"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Tertubuh dan Enaktif",
+    "core_identity_tagline": "‘Persepsi sebagai Kesadaran Langsung akan Stimulus Distal’",
+    "classification_tags": [
+      "perception",
+      "realism",
+      "non-representational",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran fenomenal, khususnya karakter perseptualnya, diidentifikasi sebagai relasi kesadaran langsung—kemungkinan suatu relasi perkenalan (acquaintance) yang primitif dan tak-teranalisis—terhadap objek atau properti di lingkungan.",
+    "ontological_status": "Realisme Langsung / Realisme Naif (Salah satu bentuk Fisikalisme).",
+    "mind_body_relationship": "Karakter fenomenal 'dikonstitusi-objek' dalam arti bahwa keberadaan dan pengindividuasian suatu pengalaman perseptual bergantung langsung pada objek eksternal, yang menunjukkan suatu relasi konstitutif yang langsung dan tanpa perantara.",
+    "primitive_or_emergent_status": "Primitif (Relasi kesadaran langsung itu sendiri disarankan sebagai suatu relasi perkenalan yang primitif dan tak-teranalisis).",
+    "emergence_type": "T/A (Relasi kesadaran inti digambarkan sebagai primitif dan tak-teranalisis, sehingga konsep emergensi tidak dapat diterapkan pada tindakan sadar yang segera itu sendiri).",
+    "subjectivity_and_intentionality": "Pengalaman subjektif orang pertama (karakter fenomenal) dikonstitusi secara langsung oleh objek eksternal (intensionalitas). Karena itu, intensionalitas bersifat non-representasional, dan mencapai keterarahannya semata-mata dengan bergantung pada objek eksternal itu sendiri.",
+    "qualia_account": "Rasa kualitatif (karakter fenomenal) dikonstitusi-objek. Jika suatu pengalaman adalah tentang objek yang berbeda, ia memiliki karakter fenomenal yang berbeda, bahkan jika secara subjektif tak-terbedakan (misalnya, dari suatu halusinasi yang sempurna).",
+    "ontological_commitments": "Stimulus distal (objek dan properti eksternal di lingkungan) dan suatu relasi perkenalan yang primitif dan tak-teranalisis (kesadaran langsung).",
+    "epistemic_access": "Pengetahuan tentang dunia diakses secara langsung melalui persepsi, alih-alih melalui representasi internal atau introspeksi atas keadaan-keadaan mental yang memerantarai.",
+    "constituents_and_structure": "Kesadaran distruktur oleh properti stimulus distal semata. Blok pembangun fundamentalnya adalah 'relasi perkenalan' langsung terhadap entitas yang khas (seperti data-indra/sense datum) atau terhadap objek/properti di lingkungan."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kesadaran fenomenal (khususnya kesadaran perseptual).",
+    "distinctive_mechanism_or_principle": "Ketiadaan pemrosesan perantara; kesadaran muncul dari deteksi langsung atas informasi eksternal tanpa bantuan proses kognitif internal (inferensi, memori, konstruksi representasi).",
+    "dynamics_of_emergence": "Teori ini berfokus pada hakikat relasi kesadaran yang segera sebagai sesuatu yang primitif, alih-alih menggambarkan suatu proses dinamis tentang bagaimana relasi ini muncul atau berubah dari waktu ke waktu.",
+    "location_and_distribution": "Informasi yang diperlukan untuk persepsi berada di luar pengamat (di luar otak/tubuh, bersemayam dalam stimulus distal). Namun, pengalaman fenomenal yang sadar diinstansiasi di dalam pengamat.",
+    "causation_and_functional_role": "Peran fungsional utamanya adalah memungkinkan pengamat mempersepsikan suatu objek secara akurat berdasarkan stimulus distal semata, dengan melewati proses kognitif tradisional yang mungkin mengonstruksi representasi.",
+    "integration_or_binding": "Tidak dijelaskan. Integrasi distingsi fenomenal diandaikan sebagai ciri dari relasi perkenalan yang primitif dan tak-teranalisis terhadap objek itu sendiri, alih-alih suatu proses pengikatan komputasional atau informasional.",
+    "information_flow_or_representation": "Informasi mengalir langsung dari dunia eksternal (stimulus distal) ke persepsi pengamat, dengan menolak keharusan konstruksi internal atas representasi mental.",
+    "evolutionary_account": "Tidak disoal secara eksplisit dalam sumber-sumber yang tersedia. (Varian psikologi ekologis, teori Gibson, menyiratkan kecocokan evolusioner antara organisme dan lingkungan, tetapi Teori Persepsi Langsung sendiri berfokus pada mekanisme non-representasional).",
+    "core_claims_and_evidence": [
+      "Persepsi didasarkan pada properti stimulus distal semata, tanpa bantuan inferensi atau memori.",
+      "Karakter fenomenal pengalaman dikonstitusi-objek; perubahan pada objek meniscayakan perubahan pada karakter fenomenal.",
+      "Relasi kesadaran adalah suatu relasi perkenalan yang primitif dan tak-teranalisis yang bukan merupakan persoalan representasi."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofis dan Konseptual (Pembelaan Realisme Naif terhadap teori representasional, dengan bersandar pada eksperimen pemikiran yang membedakan persepsi yang veridis dan halusinasi yang secara subjektif tak-terbedakan)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara konseptual (melalui eksperimen pemikiran). Pengujian empiris untuk mengisolasi suatu 'relasi perkenalan primitif yang tak-teranalisis' yang murni terpisah dari pemrosesan kognitif merupakan hal yang menantang.",
+    "known_empirical_interventions_or_tests": "Tidak ada yang dicantumkan secara eksplisit dalam sumbernya, yang berfokus pada implikasi konseptual teori ini, seperti membandingkan karakter fenomenal persepsi nyata dengan halusinasi yang secara subjektif tak-terbedakan.",
+    "criticisms_and_tensions": "Ketegangan utamanya adalah implikasi bahwa pengalaman yang secara subjektif tak-terbedakan (misalnya, melihat tomat nyata versus berhalusinasi tomat identik) niscaya harus memiliki karakter fenomenal yang berbeda karena pengalaman fenomenal bergantung pada keberadaan objek eksternal.",
+    "open_questions_and_limitations": "Hakikat presis dari 'relasi perkenalan primitif yang tak-teranalisis' tetap tak-terdefinisikan. Teori ini harus menjelaskan perbedaan karakter fenomenal antara objek nyata dan pengalaman ilusif atau halusinatif yang secara subjektif tak-terbedakan.",
+    "ontological_coherence": "Koheren dalam ontologi fisikalis/realis yang ketat yang menolak perantaraan properti fenomenal internal, tetapi ditantang oleh fakta-fakta fenomenologis seperti halusinasi, di mana sifat yang dikonstitusi-objek itu runtuh."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Tidak pasti",
+      "rationale": "Jika relasi perkenalan primitif secara fundamental bergantung pada struktur biologis spesifik yang diperlukan untuk berkopel langsung dengan stimulus distal, kesadaran AI mungkin mustahil. Karena teori ini bersifat fisikalis/materialis, jika mekanisme langsung yang mendasarinya dapat direproduksi, kesadaran AI dimungkinkan."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Teori ini menekankan ketergantungan pengalaman pada lingkungan fisik eksternal (stimulus distal) dan dikategorikan di bawah Materialisme, yang menunjukkan bahwa kesadaran terikat pada organisme fisik dan lingkungannya."
+    },
+    "meaning_and_purpose": {
+      "stance": "Bersyarat",
+      "rationale": "Teori ini terutama menyangkut mekanika persepsi, bukan realitas tertinggi atau keberadaan. Sebagai teori Materialis, ia secara baku merujuk pada makna, tujuan, dan nilai humanistis yang diciptakan oleh kita sendiri."
+    },
+    "virtual_immortality": {
+      "stance": "Tidak pasti",
+      "rationale": "Keabadian virtual menuntut duplikasi sempurna atas kesadaran. Karena karakter fenomenal dikonstitusi-objek, suatu diri virtual mungkin gagal mempertahankan karakter fenomenal aslinya jika ia tidak memiliki 'relasi kesadaran langsung' yang sejati terhadap lingkungan fisik yang nyata."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Naïve Realist Theories",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Tumpang tindih (berbagi sikap anti-representasional)"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "Kritik (menolak perantaraan oleh representasi)"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Kritik (tersirat, karena karakter fenomenal didasarkan pada konstitusi objek, bukan peran fungsional)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Direct Perception Theory",
+        "year": "APA website"
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking, N. Block",
+        "year": "2023"
+      }
+    ]
+  }
+}

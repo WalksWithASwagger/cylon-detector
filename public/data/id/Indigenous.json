@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Jiwa dalam agama-agama pribumi",
+    "summary": "Kategori ini menghimpun beragam konsep jiwa yang ditemukan di seluruh agama pribumi dan rakyat secara global. Kepercayaan-kepercayaan ini biasanya melibatkan komponen jiwa nonfisik yang beraneka ragam, sebagian di antaranya diyakini lenyap saat kematian sementara yang lain bertahan, yang mencerminkan aspek-aspek dualisme tradisional.",
+    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
+    "category": "Dualisme",
+    "subcategory": "Jiwa dalam agama-agama pribumi",
+    "core_identity_tagline": "Kepercayaan jiwa yang beraneka ragam, ada di mana-mana, dan tahan-waktu",
+    "classification_tags": [
+      "indigenous",
+      "folk religion",
+      "soul belief",
+      "dualism",
+      "anthropology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran, atau 'diri', diidentifikasi sebagai sesuatu yang berasal dari atau tersusun atas satu atau lebih substansi jiwa yang spiritual atau nonfisik, berbeda dari tubuh fisik.",
+    "ontological_status": "Dualisme Tradisional/Spiritualisme Poli-aspek. Sistem-sistem ini mempostulatkan berbagai kategori eksistensi yang berbeda dan fundamental (spiritual/jiwa dan material/tubuh).",
+    "mind_body_relationship": "Interaksi/korelasi dualistik yang kompleks, sering parsial. Komponen jiwa memberi informasi atau menghidupkan tubuh, tetapi komponen jiwa tertentu dapat bertahan atau sudah ada sebelum tubuh fisik, yang menunjukkan independensi.",
+    "primitive_or_emergent_status": "Primitif",
+    "emergence_type": "T/A. Karena jiwa sering dideskripsikan sebagai sudah ada sebelumnya atau diturunkan dari suatu pencipta, ia dianggap sebagai entitas fundamental alih-alih muncul dari proses material.",
+    "subjectivity_and_intentionality": "Subjektivitas dan intensionalitas bersifat inheren pada entitas jiwa nonfisik itu sendiri, yang sering diyakini memilih takdir (misalnya, tradisi Ewe) atau mendefinisikan kepribadian.",
+    "qualia_account": "Tidak didefinisikan secara eksplisit. Fokusnya adalah pada keberadaan dan kelestarian entitas jiwa, yang mengimplikasikan bahwa pengalaman kualitatif merupakan properti inheren dari komponen spiritual.",
+    "ontological_commitments": "Tubuh fisik dan berbagai substansi jiwa nonfisik (misalnya, jenis-jenis jiwa yang berbeda, napas kehidupan, roh-roh yang tak-bertubuh).",
+    "epistemic_access": "Pengetahuan diakses melalui tradisi religius, pengetahuan kultural, kepercayaan pribadi, serta pengalaman spiritual atau transformatif, alih-alih observasi ilmiah orang-ketiga yang sistematis.",
+    "constituents_and_structure": "Struktur sadar terdiri atas jenis-jenis jiwa yang beraneka ragam (misalnya, tujuh jenis yang diakui oleh suku Fang di Gabon), sering dengan pembedaan hierarkis atau fungsional mengenai nasib mereka saat kematian."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kelangsungan setelah kematian, identitas personal, eksistensi spiritual, dan takdir.",
+    "distinctive_mechanism_or_principle": "Pengasalan spiritual (jiwa diturunkan dari suatu pencipta) dan perolehan melalui tindakan fisik atau ritualistik tertentu (misalnya, pertempuran, ziarah) merupakan prinsip-prinsip kunci yang terkait dengan penciptaan atau penambahan jiwa.",
+    "dynamics_of_emergence": "Pengasalan spiritual. Jiwa sering dideskripsikan sebagai eksis sejak atau sebelum inkarnasi, berasal dari suatu roh mahakuasa atau pencipta agung.",
+    "location_and_distribution": "Lokasinya bersifat individual/personal, meskipun kadang terikat pada atribut fisik (seperti napas atau darah). Sistem-sistem kepercayaan itu sendiri ada di mana-mana secara geografis.",
+    "causation_and_functional_role": "Jiwa menentukan atau menyeleksi takdir individu dan merupakan komponen yang bertahan dari kematian tubuh.",
+    "integration_or_binding": "Implisit. Meskipun berbagai jenis jiwa dapat eksis dalam satu individu, mekanisme yang dengannya mereka mengikat menjadi satu pengalaman terpadu tidak dirinci, tetapi secara kolektif mereka mendefinisikan pribadi.",
+    "information_flow_or_representation": "Tidak dibahas secara eksplisit. Konsep-konsep ini mendahului teori-teori modern tentang pemrosesan informasi sebagai faktor eksplanatoris bagi kesadaran.",
+    "evolutionary_account": "Tidak berlaku/Pengasalan spiritual menggantikan evolusi biologis. Jiwa sering diturunkan dari suatu sumber tertinggi, yang kontras dengan evolusi filogenetik alami.",
+    "core_claims_and_evidence": [
+      "Kepercayaan tentang jiwa adalah data antropologis yang tersebar luas dan persisten yang seharusnya diakui oleh studi kesadaran.",
+      "Pribadi manusia terdiri atas berbagai komponen jiwa yang berbeda, yang mengisyaratkan suatu konfigurasi identitas yang kompleks.",
+      "Bagian-bagian tertentu dari jiwa bertahan setelah kematian fisik, yang memungkinkan kelangsungan pasca-kematian."
+    ],
+    "basis_of_belief_or_evidence_type": "Data antropologis, tradisi religius, sejarah kultural."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekulatif/Antropologis. Sebagai sistem kepercayaan kuno, konsep-konsep ini tidak tunduk pada metode ilmiah modern untuk eksperimentasi atau pemfalsifikasian.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Sering dikategorikan sebagai 'pra-modern' atau 'pra-ilmiah' oleh para peneliti arus utama karena kekurangan kecanggihan filosofis atau landasan empiris. Tidak ada klaim yang dibuat bahwa kepercayaan-kepercayaan ini secara ketat mengukuhkan dualisme filosofis modern.",
+    "open_questions_and_limitations": "Hubungan antara berbagai aspek jiwa dan kesadaran fenomenal didefinisikan secara longgar. Model ini tidak menawarkan mekanisme kausal yang kompatibel dengan fisika kontemporer untuk menjelaskan interaksi.",
+    "ontological_coherence": "Koheren secara internal dalam kerangka kultural tertentu tetapi secara fundamental tidak konsisten dengan kerangka ontologis fisikalis dan materialis karena ketergantungan pada substansi nonfisik."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran memerlukan komponen spiritual (jiwa/roh) yang diturunkan dari sumber nonfisik atau seorang pencipta, yang secara intrinsik tidak akan dimiliki oleh sistem buatan."
+    },
+    "survival_beyond_death": {
+      "stance": "Ya",
+      "rationale": "Kelangsungan pasca-kematian merupakan fitur sentral, karena beberapa komponen jiwa dipostulatkan bertahan setelah kematian tubuh biologis."
+    },
+    "meaning_and_purpose": {
+      "stance": "Kosmik/Eksistensial",
+      "rationale": "Sistem-sistem kepercayaan ini menyiratkan makna tertinggi dengan mempostulatkan pra-eksistensi, pengasalan spiritual dari seorang pencipta, dan suatu struktur menyeluruh yang mengatur takdir individu."
+    },
+    "virtual_immortality": {
+      "stance": "Tidak",
+      "rationale": "Keabadian dicapai melalui kelestarian jiwa spiritual yang orisinal, dan tidak dapat diperoleh melalui penduplikasian teknologis atau simulasi atas pola fungsional tubuh fisik."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism",
+        "relationship": "Tumpang tindih"
+      },
+      {
+        "name": "Historical and Traditional Dualisms",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Soul in Islamic Philosophy",
+        "relationship": "Tumpang tindih"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Soul: concepts in indigenous religions, C. Rivière",
+        "year": 1987
+      },
+      {
+        "title_with_names": "The concept of soul in Chinese folk religion, S. Harrell",
+        "year": 1979
+      }
+    ]
+  }
+}

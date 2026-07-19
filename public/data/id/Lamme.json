@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori Pemrosesan Rekuren Lamme",
+    "summary": "Teori Pemrosesan Rekuren (RPT) Lamme menyatakan bahwa kesadaran bersifat sekaligus perlu dan cukup ketika koneksi umpan balik timbal-balik (rekuren) terjadi di antara area-area neural, khususnya dalam sistem sensoris. Pemrosesan ini, yang berlangsung secara lokal di area sensoris dan pascasensoris (Tahap 3), membangkitkan pengalaman fenomenal tanpa memerlukan akses penyiaran global.",
+    "associated_thinkers": ["Victor Lamme"],
+    "category": "Materialisme",
+    "subcategory": "Representasional",
+    "core_identity_tagline": "‘Kesadaran sebagai Pemrosesan Rekuren dalam Sistem Sensoris’",
+    "classification_tags": [
+      "neuroscience",
+      "visual system",
+      "recurrent connections",
+      "first-order theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kesadaran diidentifikasi sebagai suatu keadaan pemrosesan rekuren spesifik yang berlaku di dalam sirkuit neural yang relevan, seperti sistem visual.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Pendekatan Identitas/Reduksionis, yang berargumen bahwa gagasan tentang pikiran harus bergerak menuju gagasan tentang otak, dan kesadaran identik dengan suatu keadaan pemrosesan rekuren dalam sirkuit fisik.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Emergensi Lemah",
+    "subjectivity_and_intentionality": "Subjektivitas (kesadaran fenomenal) adalah keadaan pemrosesan rekuren itu sendiri. Intensionalitas diusung oleh muatan yang direpresentasikan di dalam gelung-gelung ini (Disimpulkan sebagai teori Representasional/Orde-Pertama).",
+    "qualia_account": "Qualia dibangkitkan ketika suatu keadaan pemrosesan rekuren tertentu berlaku pada sirkuit visual yang relevan, sehingga menjadikan keadaan visual itu sadar.",
+    "ontological_commitments": "Sistem sensoris otak, sirkuit neural (sirkuit visual), koneksi umpan-maju dan umpan-balik.",
+    "epistemic_access": "Dapat diakses melalui ukuran neural dan perilaku, yang menurut Lamme semestinya ditempatkan pada pijakan yang setara.",
+    "constituents_and_structure": "Sirkuit neural yang saling terhubung secara masif (gelung rekuren) yang melibatkan koneksi umpan-maju dan umpan-balik."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal",
+    "distinctive_mechanism_or_principle": "Pemrosesan rekuren (koneksi umpan-balik) di area sensoris dan pascasensoris (Tahap 3) dianggap cukup bagi kesadaran.",
+    "dynamics_of_emergence": "Proses dinamis. Keadaan sadar merupakan hasil dari aktivitas dinamis yang dihasilkan oleh koneksi umpan-balik yang menghubungkan area-area visual dengan wilayah-wilayah otak lainnya.",
+    "location_and_distribution": "Terlokalisasi di area sensoris dan pascasensoris, khususnya aktivasi rekuren di 'bagian belakang kepala'.",
+    "causation_and_functional_role": "Kesadaran adalah keadaan pemrosesan rekuren spesifik itu sendiri. Tujuan mendasarnya tersirat untuk menggeser pemahaman tentang pikiran menuju otak.",
+    "integration_or_binding": "Integrasi dicapai secara lokal di dalam gelung-gelung rekuren di area-area perseptual.",
+    "information_flow_or_representation": "Informasi melibatkan suatu sapuan maju awal (registrasi tidak sadar) yang diikuti oleh koneksi umpan-balik yang menghasilkan pemrosesan rekuren (kesadaran).",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Kesadaran memerlukan sistem sensoris yang saling terhubung secara masif yang melibatkan koneksi umpan-maju dan umpan-balik (pemrosesan rekuren).",
+      "Pemrosesan rekuren di area sensoris dan pascasensoris bersifat perlu dan cukup bagi kesadaran fenomenal.",
+      "Persepsi sadar diidentifikasi dengan aktivasi rekuren di bagian belakang kepala (teori orde-pertama)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empiris, Neurobiologis, Konseptual"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara empiris",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Mengkritik Teori Ruang Kerja Global (GWT) sebagai 'seluruhnya tentang akses tetapi bukan tentang melihat'. Ia sendiri dikritik oleh Ned Block sebagai 'bentuk terpangkas dari penjelasan ruang kerja global'.",
+    "open_questions_and_limitations": "Aktivasi rekuren hanya cukup bagi kesadaran jika ada 'kondisi latar' tertentu seperti konektivitas yang utuh dengan struktur-struktur subkortikal.",
+    "ontological_coherence": "Sangat koheren dalam ontologi Materialis dengan melandaskan kesadaran sepenuhnya pada mekanisme neural yang spesifik dan teridentifikasi."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Mungkin",
+      "rationale": "Sebagai Teori Materialisme, kesadaran AI pada prinsipnya harus dimungkinkan jika pola pemrosesan rekuren yang diperlukan dapat digandakan secara buatan dalam substrat nonbiologis."
+    },
+    "survival_beyond_death": {
+      "stance": "Tidak",
+      "rationale": "Kesadaran terikat pada aktivitas otak fisik dan sirkuit neural yang spesifik (keadaan pemrosesan rekuren), sehingga mengesankan berhentinya kesadaran ketika kematian tubuh."
+    },
+    "meaning_and_purpose": {
+      "stance": "Hanya humanistik",
+      "rationale": "Teori ini berfokus pada penjelasan pengalaman fenomenal yang murni fisikalis dan neurobiologis serta tidak mendukung makna atau tujuan kosmik yang ultimat."
+    },
+    "virtual_immortality": {
+      "stance": "Ya",
+      "rationale": "Karena kesadaran adalah keadaan pemrosesan rekuren itu sendiri, penggandaan sempurna atas proses tersebut ke medium baru (pengunggahan) akan membangkitkan diri orang pertama, sehingga memungkinkan keabadian virtual."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Perluasan"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "Tumpang Tindih"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a true neural stance on consciousness, Victor Lamme",
+        "year": 2006
+      },
+      {
+        "title_with_names": "How neuroscience will change our view on consciousness, Victor Lamme",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Wu, 2018 (Discussing Lamme's RPT)",
+        "year": 2018
+      }
+    ]
+  }
+}

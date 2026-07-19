@@ -1,0 +1,91 @@
+{
+  "id_and_class": {
+    "theory_title": "Teori relativistik Lahav",
+    "summary": "Teori ini mencirikan kesadaran sebagai fenomena fisik yang relatif terhadap pengukuran yang dilakukan oleh suatu 'kerangka acuan kognitif'. Analog dengan kecepatan dalam fisika, pengamat-pengamat berbeda yang beroperasi dalam kerangka kognitif yang berbeda akan memanifestasikan properti fisik yang berbeda (kesadaran sadar bagi diri sendiri versus aktivitas otak terukur bagi yang lain) ketika mengamati fenomena yang sama.",
+    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "category": "Materialisme",
+    "subcategory": "Relasional",
+    "core_identity_tagline": "Kesadaran sebagai fenomena fisik yang relatif terhadap suatu kerangka acuan kognitif",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Pengalaman sadar diidentifikasi sebagai muncul akibat proses pengukuran fisik yang relatif terhadap suatu 'kerangka acuan kognitif'.",
+    "ontological_status": "Fisikalisme",
+    "mind_body_relationship": "Hubungannya bersifat relativistik: fenomena mendasar yang sama termanifestasikan sebagai kesadaran sadar (dari kerangka internal) atau aktivitas otak (dari kerangka eksternal) bergantung pada konteks pengukuran. Ini mengesankan suatu identitas atau korelasi yang bergantung-kerangka.",
+    "primitive_or_emergent_status": "Emergen",
+    "emergence_type": "Tidak dirinci secara eksplisit, tetapi kemungkinan Emergensi Lemah, karena ia bertumpu pada prinsip-prinsip fisik yang mapan (atau analog) (relativitas, pengukuran) alih-alih mengandaikan hukum-hukum fundamental baru bagi keberadaan kesadaran itu sendiri.",
+    "subjectivity_and_intentionality": "Subjektivitas melekat dalam definisi 'kerangka acuan kognitif'; dua orang, karena berada dalam kerangka kognitif yang berbeda, mengalami kesadaran secara berbeda. Intensionalitas (keterarahan pikiran) tidak ditangani secara eksplisit dalam sumber-sumber yang disediakan.",
+    "qualia_account": "Qualia secara implisit dijelaskan sebagai properti fisik subjektif yang termanifestasikan di dalam suatu kerangka acuan kognitif yang spesifik, meskipun hakikat kualitatif intrinsik dari pengalaman itu sendiri tidak dirinci.",
+    "ontological_commitments": "Realitas fisik, proses pengukuran fisik, dan suatu 'kerangka acuan kognitif' yang dianalogikan dari fisika relativistik.",
+    "epistemic_access": "Akses bergantung-kerangka: di dalam kerangka kognitif seseorang sendiri, kesadaran sadar dialami; dari kerangka kognitif yang terpisah, hanya aktivitas otak yang dapat diukur.",
+    "constituents_and_structure": "Kesadaran distrukturkan oleh proses pengukuran fisik itu sendiri, sehingga menghasilkan properti atau manifestasi fisik yang berbeda bergantung pada kerangka acuannya."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Kesadaran sadar, manifestasi fisik properti.",
+    "distinctive_mechanism_or_principle": "Prinsip bahwa kesadaran bersifat relatif terhadap pengukuran fisik dalam suatu kerangka acuan kognitif, alih-alih diciptakan oleh komputasi.",
+    "dynamics_of_emergence": "Kesadaran muncul secara dinamis dari proses pengukuran fisik. Pengukuran fisik yang berbeda dalam kerangka acuan yang berbeda menghasilkan manifestasi pengalaman sadar dan aktivitas otak yang berbeda.",
+    "location_and_distribution": "Terlokalisasi secara relatif terhadap 'kerangka acuan kognitif' sang pengamat.",
+    "causation_and_functional_role": "Pengalaman sadar muncul 'akibat' proses pengukuran fisik itu sendiri. Kesadaran tidak muncul dari proses komputasional yang dilakukan otak.",
+    "integration_or_binding": "Tidak ditangani secara eksplisit, tetapi diandaikan menyatu di dalam satu kerangka acuan kognitif tunggal.",
+    "information_flow_or_representation": "Pemrosesan informasi (komputasi) secara eksplisit dicatat *bukan* sebagai asal-usul pengalaman sadar; kesadaran muncul dari proses pengukuran fisik yang mendasarinya.",
+    "evolutionary_account": "Bidang ini tidak ditangani dalam bahan sumber yang disediakan.",
+    "core_claims_and_evidence": [
+      "Kesadaran adalah fenomena fisik yang relatif terhadap pengukuran suatu kerangka acuan kognitif.",
+      "Pengalaman sadar muncul akibat proses pengukuran fisik.",
+      "Otak tidak menciptakan pengalaman sadar melalui komputasi."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumen konseptual/teoretis berdasarkan analogi dengan fisika (relativitas)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Dapat diuji secara konseptual, karena teori ini berkenaan dengan pendefinisian fenomena fisik dan pengukuran, meskipun pengujian empiris bertumpu pada pengembangan mekanisme untuk menguji analogi kerangka kognitif.",
+    "known_empirical_interventions_or_tests": "Tidak ada intervensi atau uji empiris spesifik yang tercantum dalam sumber-sumber.",
+    "criticisms_and_tensions": "Sumber menyediakan suatu deskripsi, bukan bagian kritik. Ketegangan potensial terletak pada penerjemahan analogi relativitas fisik (seperti kecepatan) menjadi proses kognitif atau neurobiologis yang dapat diverifikasi dan nonmetaforis.",
+    "open_questions_and_limitations": "Instansiasi dan definisi fisik atau neural yang tepat dari 'kerangka acuan kognitif' tetap menjadi pertanyaan terbuka.",
+    "ontological_coherence": "Koheren dalam kerangka fisikalis yang membuka ruang bagi properti fisik fundamental untuk bersifat relatif terhadap seorang pengamat atau proses pengukuran."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bersyarat",
+      "rationale": "Karena teori ini mengandaikan kesadaran muncul dari pengukuran fisik, bukan komputasi, sistem AI akan memerlukan proses pengukuran fisik nonkomputasional yang menyusun suatu kerangka acuan kognitif, sehingga menjadikannya bersyarat pada implementasi perangkat keras yang melampaui komputasi sederhana."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "Bidang ini tidak ditangani dalam bahan sumber yang disediakan."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "Bidang ini tidak ditangani dalam bahan sumber yang disediakan."
+    },
+    "virtual_immortality": {
+      "stance": "Tidak mungkin",
+      "rationale": "Karena kesadaran bersifat nonkomputasional dan bergantung pada proses pengukuran fisik, keabadian virtual standar (mengunggah perangkat lunak/data) tidak mungkin, meskipun penggandaan fisik atas sistem fisik relativistik itu secara teoretis mungkin dilakukan."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories of consciousness",
+        "relationship": "Tumpang Tindih"
+      },
+      {
+        "name": "Computational Theories of Mind",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "Pengaruh"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}
