@@ -1,13 +1,11 @@
 name: Adversarial challenge proposal
 description: Propose a versioned phenomenon for a MAC Bench release.
 title: "challenge: "
-labels:
-  - challenge-proposal
 body:
   - type: markdown
     attributes:
       value: |
-        Proposals begin as `draft`. Publication under MAC's name requires MAC review. A published version is immutable; substantive changes receive a new version.
+        Ordinary proposals begin as `draft`. Publication under MAC's name requires independent review and a decision by MAC's designated human approver. Published and retired bytes are immutable; corrections, replacements, and published retirements use a higher version with `supersedes`. Keep private deliberations and sensitive personal details out of this public form.
   - type: input
     id: slug
     attributes:
@@ -17,48 +15,79 @@ body:
     validations:
       required: true
   - type: input
-    id: title
+    id: version
     attributes:
-      label: Name
+      label: Proposed semantic version
+      description: Use a new version such as 0.1.0. Ordinary new versions start as draft.
+      placeholder: 0.1.0
     validations:
       required: true
   - type: textarea
-    id: phenomenon
+    id: scientific_case
     attributes:
-      label: Overview
-      description: Describe the consciousness-related phenomenon without assuming a theory.
+      label: Phenomenon, adversarial prompt, and rationale
+      description: Give each item its own heading. Describe the phenomenon without assuming a theory, then state what a strong theory must explain.
+      placeholder: |
+        Title:
+        Phenomenon:
+        Adversarial prompt:
+        Rationale:
     validations:
       required: true
   - type: textarea
-    id: why
+    id: boundaries
     attributes:
-      label: Why this is adversarial
-      description: What should a strong theory explain, mechanize, predict, falsify, and make measurable?
+      label: Assumptions, confounds, and commitments
+      description: Give each list its own heading and make the pressure-tested theory commitments explicit.
+      placeholder: |
+        Assumptions:
+        Known confounds:
+        Target commitments:
     validations:
       required: true
   - type: textarea
-    id: assumptions
+    id: evidence
     attributes:
-      label: Assumptions and known confounds
+      label: Empirical anchors and change-my-mind observation
+      description: Cite a primary source with a stable DOI or direct URL when available. Label contextual sources honestly and state what observation would weaken or overturn the challenge.
+      placeholder: |
+        Empirical anchors:
+        What observation would change our minds:
     validations:
       required: true
   - type: textarea
-    id: commitments
+    id: stewardship
     attributes:
-      label: Target commitments
-      description: Which commitments of a theory does this challenge pressure-test?
+      label: Public authorship and challenge steward
+      description: Name each contributor and role, plus the human steward responsible for draft-to-provisional review. This does not designate MAC's publication approver.
+      placeholder: |
+        Authors and roles:
+        Proposed challenge steward:
     validations:
       required: true
   - type: textarea
-    id: anchors
+    id: conflicts
     attributes:
-      label: Empirical anchors
-      description: Provide primary-source links or DOI values.
+      label: Conflicts and recusals
+      description: Give only the public conflict category and recusal status. Do not paste private deliberations or unnecessary sensitive facts.
+      placeholder: No known conflicts; no recusals.
     validations:
       required: true
   - type: textarea
-    id: change_mind
+    id: version_history
     attributes:
-      label: What observation would change your mind?
+      label: Version history and public governance receipts
+      description: Identify any exact superseded ID/version, explain a correction, replacement, or retirement, and add public review or approval permalinks when they exist. Write "new proposal; decisions pending" if none exist yet.
     validations:
       required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Proposal confirmations
+      options:
+        - label: "The challenge will use the five fixed demands in canonical order: explanation, mechanism, novel prediction, falsifier, and measurable witness."
+          required: true
+        - label: I understand that approval, recusals, dissent, and private deliberations stay outside benchmark bytes in inspectable governance records.
+          required: true
+        - label: I understand that publication is not consensus, a score, or an automatic verdict.
+          required: true

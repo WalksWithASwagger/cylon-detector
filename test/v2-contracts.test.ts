@@ -5,11 +5,15 @@ import {
   challengeDefinitionV2Schema
 } from '@/bench/v2/contracts'
 import {
-  assertPublishedChallengeImmutable,
   resolveBenchmark
 } from '@/bench/v2/registry'
 import { sha256Text } from '@/bench/hash'
 import { stableStringify } from '@/bench/artifact'
+import {
+  assertChallengeLifecycleTransition,
+  assertInitialChallengeLifecycle,
+  assertReplacementLinks
+} from '../scripts/validate-benchmark-registry'
 
 const challenge = challengeDefinitionV2Schema.parse({
   schemaVersion: 'mac-challenge-definition/v2',
@@ -50,15 +54,153 @@ describe('v2 challenge and benchmark contracts', () => {
     }).success).toBe(false)
   })
 
-  it('rejects mutation of an already published challenge version', () => {
-    expect(() => assertPublishedChallengeImmutable(challenge, {
+  it('rejects any mutation of an already published challenge version', () => {
+    expect(() => assertChallengeLifecycleTransition(challenge, {
       ...challenge,
       rationale: 'A rewritten rationale.'
     })).toThrow(/immutable/i)
-    expect(() => assertPublishedChallengeImmutable(challenge, {
+    expect(() => assertChallengeLifecycleTransition(challenge, {
       ...challenge,
       lifecycle: 'retired'
+    })).toThrow(/immutable/i)
+    expect(() => assertChallengeLifecycleTransition(
+      challenge,
+      challenge,
+      '{"same":"meaning"}',
+      '{ "same": "meaning" }'
+    )).toThrow(/immutable/i)
+  })
+
+  it('permits only forward editable lifecycle transitions', () => {
+    const draft = { ...challenge, lifecycle: 'draft' as const }
+    const provisional = { ...challenge, lifecycle: 'provisional' as const }
+
+    expect(() => assertChallengeLifecycleTransition(draft, provisional)).not.toThrow()
+    expect(() => assertChallengeLifecycleTransition(provisional, challenge)).not.toThrow()
+  })
+
+  it('rejects skipped and backward lifecycle transitions', () => {
+    const draft = { ...challenge, lifecycle: 'draft' as const }
+    const provisional = { ...challenge, lifecycle: 'provisional' as const }
+
+    expect(() => assertChallengeLifecycleTransition(draft, challenge)).toThrow(/invalid lifecycle transition/i)
+    expect(() => assertChallengeLifecycleTransition(provisional, draft)).toThrow(/invalid lifecycle transition/i)
+  })
+
+  it('accepts a forward replacement that links to an immutable version', () => {
+    const replacement = {
+      ...challenge,
+      version: '1.1.0',
+      lifecycle: 'draft' as const,
+      supersedes: { id: challenge.id, version: challenge.version }
+    }
+
+    expect(() => assertReplacementLinks([challenge, replacement])).not.toThrow()
+  })
+
+  it('accepts a higher-version retired tombstone for a published version', () => {
+    const retirement = {
+      ...challenge,
+      version: '1.1.0',
+      lifecycle: 'retired' as const,
+      supersedes: { id: challenge.id, version: challenge.version }
+    }
+
+    expect(() => assertInitialChallengeLifecycle(retirement)).not.toThrow()
+    expect(() => assertReplacementLinks([challenge, retirement])).not.toThrow()
+  })
+
+  it('requires ordinary new challenge versions to begin as drafts', () => {
+    expect(() => assertInitialChallengeLifecycle(challenge)).toThrow(/must start as draft/i)
+    expect(() => assertInitialChallengeLifecycle({
+      ...challenge,
+      lifecycle: 'draft'
     })).not.toThrow()
+  })
+
+  it('rejects replacement links that are missing, self-referential, or non-forward', () => {
+    const missingTarget = {
+      ...challenge,
+      version: '1.1.0',
+      lifecycle: 'draft' as const,
+      supersedes: { id: challenge.id, version: '0.9.0' }
+    }
+    const selfReference = {
+      ...challenge,
+      supersedes: { id: challenge.id, version: challenge.version }
+    }
+    const nonForward = {
+      ...challenge,
+      version: '0.9.0',
+      lifecycle: 'draft' as const,
+      supersedes: { id: challenge.id, version: challenge.version }
+    }
+
+    expect(() => assertReplacementLinks([challenge, missingTarget])).toThrow(/does not exist/i)
+    expect(() => assertReplacementLinks([selfReference])).toThrow(/itself/i)
+    expect(() => assertReplacementLinks([challenge, nonForward])).toThrow(/newer semantic version/i)
+  })
+
+  it('requires a newer version of the same challenge to declare its predecessor', () => {
+    const unlinkedReplacement = {
+      ...challenge,
+      version: '1.1.0',
+      lifecycle: 'draft' as const
+    }
+
+    expect(() => assertReplacementLinks([challenge, unlinkedReplacement])).toThrow(/must declare supersedes/i)
+  })
+
+  it.each([
+    '01.0.0',
+    '1.0.0-01',
+    '1.0.0-a..b'
+  ])('rejects invalid SemVer replacement version %s', invalidVersion => {
+    const replacement = {
+      ...challenge,
+      version: invalidVersion,
+      lifecycle: 'draft' as const,
+      supersedes: { id: challenge.id, version: challenge.version }
+    }
+
+    expect(() => assertReplacementLinks([challenge, replacement])).toThrow(/invalid semantic version/i)
+  })
+
+  it('uses SemVer prerelease precedence for replacement links', () => {
+    const releaseCandidate = {
+      ...challenge,
+      version: '2.0.0-rc.2'
+    }
+    const laterCandidate = {
+      ...challenge,
+      version: '2.0.0-rc.10',
+      lifecycle: 'draft' as const,
+      supersedes: { id: challenge.id, version: releaseCandidate.version }
+    }
+    const release = {
+      ...challenge,
+      version: '2.0.0',
+      lifecycle: 'draft' as const,
+      supersedes: { id: challenge.id, version: releaseCandidate.version }
+    }
+
+    expect(() => assertReplacementLinks([releaseCandidate, laterCandidate])).not.toThrow()
+    expect(() => assertReplacementLinks([releaseCandidate, release])).not.toThrow()
+  })
+
+  it('does not treat build metadata as replacement precedence', () => {
+    const buildOne = {
+      ...challenge,
+      version: '2.0.0+build.1'
+    }
+    const buildTwo = {
+      ...challenge,
+      version: '2.0.0+build.2',
+      lifecycle: 'draft' as const,
+      supersedes: { id: challenge.id, version: buildOne.version }
+    }
+
+    expect(() => assertReplacementLinks([buildOne, buildTwo])).toThrow(/newer semantic version/i)
   })
 
   it('resolves exact challenge versions and rejects benchmark digest mismatch', async () => {
