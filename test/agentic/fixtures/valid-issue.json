@@ -1,0 +1,9 @@
+{
+  "repository": "WalksWithASwagger/cylon-detector",
+  "number": 4,
+  "title": "Build a deterministic field-release QA evidence harness",
+  "state": "OPEN",
+  "url": "https://github.com/WalksWithASwagger/cylon-detector/issues/4",
+  "labels": [{"name": "agent:ready"}],
+  "body": "## Context\nBuild deterministic field-release evidence.\n\n## Dependencies\n- Parent: #2\n\n## Ownership Surface\n- `test/e2e/field-release.spec.ts`\n- `scripts/validate-field-evidence.ts`\n- `docs/operations/field-qa.md`\n- `playwright.config.ts`\n- `package.json`\n\n## Acceptance Criteria\n- [ ] The evidence flow is deterministic.\n\n## Tests/Evals\n- A forbidden request fails the harness.\n\n## Verification\n```bash\nnpm run verify\n```\n\n## Agent Instructions\n- Keep the lane scoped.\n\n## Human Checkpoints\n- A maintainer reviews the evidence.\n\n## Out of Scope\n- Deployment."
+}

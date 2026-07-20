@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "repository": "WalksWithASwagger/cylon-detector",
+  "branch_prefix": "codex/",
+  "labels": {
+    "ready": "agent:ready",
+    "in_progress": "in-progress",
+    "blocked": "blocked",
+    "needs_human": "needs-human",
+    "review_ready": "review-ready",
+    "auto_merge": "agent:auto-merge",
+    "issue_readiness": ["agent:ready", "in-progress", "blocked", "needs-human"],
+    "pr_readiness": ["review-ready", "agent:auto-merge", "blocked", "needs-human"],
+    "stop": ["in-progress", "blocked", "needs-human"]
+  },
+  "limits": {
+    "max_ownership_paths": 12,
+    "max_changed_files": 24,
+    "max_changed_lines": 2000,
+    "one_active_issue_per_lane": true
+  },
+  "issue_quality": {
+    "required_sections": ["Context", "Dependencies", "Ownership Surface", "Acceptance Criteria", "Tests/Evals", "Verification", "Agent Instructions", "Human Checkpoints", "Out of Scope"],
+    "acceptance_shape": "unchecked_markdown_checklist",
+    "verification_shape": "executable_commands",
+    "ownership_shape": "repository_relative_paths"
+  },
+  "verification": {
+    "issue_contract_command": "python3 -m unittest discover -s test/agentic -p 'test_*.py'",
+    "required_pr_checks": ["verify"],
+    "passing_conclusions": ["SUCCESS", "NEUTRAL", "SKIPPED"],
+    "passing_context_states": ["SUCCESS"]
+  },
+  "authority": {
+    "agent_safe": [
+      "read repository and public issue metadata",
+      "edit only the issue ownership surface",
+      "run local deterministic tests",
+      "open a focused pull request when explicitly dispatched"
+    ],
+    "human_gates": {
+      "deployment": "Deploying a preview or production build requires explicit approval.",
+      "vendor": "Provisioning vendors, changing spend, or injecting secrets requires explicit approval.",
+      "licensing": "Sending license requests, applying licenses, or making open-source claims requires explicit approval.",
+      "benchmark_publication": "Publishing a benchmark under MAC's name requires MAC review and a human decision.",
+      "research": "OSF writes, live interventions, human data collection, or deceptive trials require explicit ethics and owner approval."
+    },
+    "prohibited_external_actions": [
+      "deploy or change production settings",
+      "provision Upstash, OpenAI, Vercel, or another vendor",
+      "create, expose, rotate, or inject production secrets",
+      "send an upstream licensing request or apply a license",
+      "publish or mutate a MAC benchmark release",
+      "write to OSF or another external archive",
+      "collect human-subject data or run deceptive provenance trials",
+      "change repository labels, permissions, or branch protection",
+      "enable GitHub auto-merge without agent:auto-merge and a passing gate"
+    ]
+  },
+  "protected_paths": [
+    {
+      "pattern": "agentic/**",
+      "gate": "agentic control-plane review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "scripts/agentic/**",
+      "gate": "agentic control-plane review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": ".github/workflows/**",
+      "gate": "repository automation review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/.env.schema",
+      "gate": "secret-boundary review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/.env",
+      "gate": "secret-material review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/.env.*",
+      "exclude": [
+        "**/.env.schema"
+      ],
+      "gate": "secret-material review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/.vercel/.env*",
+      "gate": "secret-material review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/credentials.json",
+      "gate": "credential-material review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/*-credentials.json",
+      "gate": "credential-material review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/service-account*.json",
+      "gate": "credential-material review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/*.token",
+      "gate": "credential-material review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/*.pem",
+      "gate": "credential-material review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/*.key",
+      "gate": "credential-material review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "**/.npmrc",
+      "gate": "credential-material review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "vercel.json",
+      "gate": "deployment-boundary review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "docs/licensing-boundary.md",
+      "gate": "licensing review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "benchmarks/**",
+      "gate": "benchmark-governance review",
+      "deny_auto_merge": true
+    },
+    {
+      "pattern": "indicators/**",
+      "gate": "research and welfare review",
+      "deny_auto_merge": true
+    }
+  ],
+  "auto_merge": {
+    "native_only": true,
+    "explicit_opt_in": "agent:auto-merge",
+    "require_non_draft": true,
+    "require_linked_issue": true,
+    "require_issue_ready": true,
+    "require_review_ready": true,
+    "require_passing_checks": true,
+    "deny_protected_paths": true,
+    "mergeable_file_statuses": ["added", "modified", "removed"]
+  }
+}
