@@ -1,0 +1,44 @@
+[
+  {
+    "number": 4,
+    "title": "Build a deterministic field-release QA evidence harness",
+    "state": "OPEN",
+    "labels": [{"name": "agent:ready"}],
+    "body": "## Context\nReady.\n\n## Dependencies\n- None.\n\n## Ownership Surface\n- `docs/example.md`\n\n## Acceptance Criteria\n- [ ] Done.\n\n## Tests/Evals\n- A focused test.\n\n## Verification\n```bash\nnpm test\n```\n\n## Agent Instructions\n- Keep it scoped.\n\n## Human Checkpoints\n- A maintainer reviews it.\n\n## Out of Scope\n- Deployment."
+  },
+  {
+    "number": 5,
+    "title": "Canonical receipt conformance kit",
+    "state": "OPEN",
+    "labels": [{"name": "agent:ready"}, {"name": "in-progress"}],
+    "body": ""
+  },
+  {
+    "number": 6,
+    "title": "Cross-machine collaboration kit",
+    "state": "OPEN",
+    "labels": [{"name": "blocked"}],
+    "body": ""
+  },
+  {
+    "number": 7,
+    "title": "MAC benchmark governance",
+    "state": "OPEN",
+    "labels": [{"name": "needs-human"}],
+    "body": ""
+  },
+  {
+    "number": 8,
+    "title": "Dry-run invite provisioning tooling",
+    "state": "OPEN",
+    "labels": [{"name": "enhancement"}],
+    "body": ""
+  },
+  {
+    "number": 9,
+    "title": "Invalid ready claim",
+    "state": "OPEN",
+    "labels": [{"name": "agent:ready"}],
+    "body": "## Context\nMissing the rest of the execution contract."
+  }
+]

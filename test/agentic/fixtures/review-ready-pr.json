@@ -1,0 +1,26 @@
+{
+  "repository": "WalksWithASwagger/cylon-detector",
+  "number": 21,
+  "title": "Add field-release evidence harness",
+  "body": "Closes #4",
+  "state": "OPEN",
+  "baseRefName": "master",
+  "headRefName": "codex/4-field-evidence",
+  "headRefOid": "1111111111111111111111111111111111111111",
+  "isDraft": false,
+  "labels": ["review-ready", "agent:auto-merge"],
+  "linkedIssueNumber": 4,
+  "additions": 180,
+  "deletions": 35,
+  "changedFiles": 5,
+  "files": [
+    {"path": "test/e2e/field-release.spec.ts", "status": "modified"},
+    {"path": "scripts/validate-field-evidence.ts", "status": "modified"},
+    {"path": "docs/operations/field-qa.md", "status": "modified"},
+    {"path": "playwright.config.ts", "status": "modified"},
+    {"path": "package.json", "status": "modified"}
+  ],
+  "statusCheckRollup": [
+    {"name": "verify", "status": "COMPLETED", "conclusion": "SUCCESS"}
+  ]
+}

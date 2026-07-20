@@ -1,0 +1,20 @@
+[
+  {
+    "number": 21,
+    "title": "Add field-release evidence harness",
+    "body": "Closes #4",
+    "headRefName": "codex/4-field-evidence",
+    "isDraft": false,
+    "labels": [{"name": "review-ready"}],
+    "statusCheckRollup": [{"name": "verify", "status": "COMPLETED", "conclusion": "SUCCESS"}]
+  },
+  {
+    "number": 22,
+    "title": "Draft receipt work",
+    "body": "Closes #5",
+    "headRefName": "codex/5-receipts",
+    "isDraft": true,
+    "labels": [{"name": "review-ready"}],
+    "statusCheckRollup": []
+  }
+]
