@@ -1,0 +1,64 @@
+name: Adversarial challenge proposal
+description: Propose a versioned phenomenon for a MAC Bench release.
+title: "challenge: "
+labels:
+  - challenge-proposal
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Proposals begin as `draft`. Publication under MAC's name requires MAC review. A published version is immutable; substantive changes receive a new version.
+  - type: input
+    id: slug
+    attributes:
+      label: Candidate slug
+      description: Lowercase words separated by hyphens.
+      placeholder: temporal-binding-window
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: textarea
+    id: phenomenon
+    attributes:
+      label: Overview
+      description: Describe the consciousness-related phenomenon without assuming a theory.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this is adversarial
+      description: What should a strong theory explain, mechanize, predict, falsify, and make measurable?
+    validations:
+      required: true
+  - type: textarea
+    id: assumptions
+    attributes:
+      label: Assumptions and known confounds
+    validations:
+      required: true
+  - type: textarea
+    id: commitments
+    attributes:
+      label: Target commitments
+      description: Which commitments of a theory does this challenge pressure-test?
+    validations:
+      required: true
+  - type: textarea
+    id: anchors
+    attributes:
+      label: Empirical anchors
+      description: Provide primary-source links or DOI values.
+    validations:
+      required: true
+  - type: textarea
+    id: change_mind
+    attributes:
+      label: What observation would change your mind?
+    validations:
+      required: true

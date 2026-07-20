@@ -1,0 +1,1362 @@
+{
+  "$id": "https://cylon-detector.org/schemas/evaluation-run.v2.schema.json",
+  "title": "MAC Consciousness Evaluation Run v2",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "mac-evaluation-run/v2"
+    },
+    "runId": {
+      "type": "string",
+      "format": "uuid",
+      "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+    },
+    "artifactStatus": {
+      "type": "string",
+      "enum": [
+        "unadjudicated",
+        "adjudicated"
+      ]
+    },
+    "appVersion": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sourceCommit": {
+      "type": "string",
+      "minLength": 1
+    },
+    "createdAt": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+    },
+    "paper": {
+      "type": "object",
+      "properties": {
+        "fileName": {
+          "type": "string",
+          "minLength": 1
+        },
+        "byteSize": {
+          "type": "integer",
+          "exclusiveMinimum": 0,
+          "maximum": 9007199254740991
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "textSha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "pageCount": {
+          "type": "integer",
+          "exclusiveMinimum": 0,
+          "maximum": 9007199254740991
+        },
+        "characterCount": {
+          "type": "integer",
+          "exclusiveMinimum": 0,
+          "maximum": 9007199254740991
+        },
+        "title": {
+          "type": "string"
+        },
+        "authors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "year": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "doi": {
+          "type": "string"
+        },
+        "sourceUrl": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "required": [
+        "fileName",
+        "byteSize",
+        "sha256",
+        "textSha256",
+        "pageCount",
+        "characterCount"
+      ],
+      "additionalProperties": false
+    },
+    "benchmark": {
+      "type": "object",
+      "properties": {
+        "definition": {
+          "type": "object",
+          "properties": {
+            "schemaVersion": {
+              "type": "string",
+              "const": "mac-benchmark-definition/v2"
+            },
+            "id": {
+              "type": "string",
+              "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            },
+            "version": {
+              "type": "string",
+              "pattern": "^\\d+\\.\\d+\\.\\d+(?:-[0-9A-Za-z.-]+)?$"
+            },
+            "lifecycle": {
+              "type": "string",
+              "enum": [
+                "draft",
+                "provisional",
+                "published",
+                "retired"
+              ]
+            },
+            "title": {
+              "type": "string",
+              "minLength": 1
+            },
+            "description": {
+              "type": "string",
+              "minLength": 1
+            },
+            "authorship": {
+              "minItems": 1,
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "role": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "identifier": {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                },
+                "required": [
+                  "name",
+                  "role"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "sourceUrls": {
+              "minItems": 1,
+              "type": "array",
+              "items": {
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "createdAt": {
+              "type": "string",
+              "format": "date-time",
+              "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+            },
+            "demands": {
+              "minItems": 5,
+              "maxItems": 5,
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "explanation",
+                  "mechanism",
+                  "novelPrediction",
+                  "falsifier",
+                  "measurableWitness"
+                ]
+              }
+            },
+            "challenges": {
+              "minItems": 1,
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+                  },
+                  "version": {
+                    "type": "string",
+                    "pattern": "^\\d+\\.\\d+\\.\\d+(?:-[0-9A-Za-z.-]+)?$"
+                  },
+                  "integrityDigest": {
+                    "type": "string",
+                    "pattern": "^[a-f0-9]{64}$"
+                  }
+                },
+                "required": [
+                  "id",
+                  "version",
+                  "integrityDigest"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "integrityDigest": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            }
+          },
+          "required": [
+            "schemaVersion",
+            "id",
+            "version",
+            "lifecycle",
+            "title",
+            "description",
+            "authorship",
+            "sourceUrls",
+            "createdAt",
+            "demands",
+            "challenges",
+            "integrityDigest"
+          ],
+          "additionalProperties": false
+        },
+        "challenges": {
+          "minItems": 1,
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "schemaVersion": {
+                "type": "string",
+                "const": "mac-challenge-definition/v2"
+              },
+              "id": {
+                "type": "string",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+              },
+              "version": {
+                "type": "string",
+                "pattern": "^\\d+\\.\\d+\\.\\d+(?:-[0-9A-Za-z.-]+)?$"
+              },
+              "lifecycle": {
+                "type": "string",
+                "enum": [
+                  "draft",
+                  "provisional",
+                  "published",
+                  "retired"
+                ]
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1
+              },
+              "phenomenon": {
+                "type": "string",
+                "minLength": 1
+              },
+              "adversarialPrompt": {
+                "type": "string",
+                "minLength": 1
+              },
+              "rationale": {
+                "type": "string",
+                "minLength": 1
+              },
+              "assumptions": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "knownConfounds": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "targetCommitments": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "empiricalAnchors": {
+                "minItems": 1,
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "label": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "doi": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "url": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  "required": [
+                    "label",
+                    "url"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "authorship": {
+                "minItems": 1,
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "role": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "identifier": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  "required": [
+                    "name",
+                    "role"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "changeMindObservation": {
+                "type": "string",
+                "minLength": 1
+              },
+              "demands": {
+                "minItems": 5,
+                "maxItems": 5,
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": [
+                    "explanation",
+                    "mechanism",
+                    "novelPrediction",
+                    "falsifier",
+                    "measurableWitness"
+                  ]
+                }
+              },
+              "createdAt": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+              },
+              "supersedes": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+                  },
+                  "version": {
+                    "type": "string",
+                    "pattern": "^\\d+\\.\\d+\\.\\d+(?:-[0-9A-Za-z.-]+)?$"
+                  }
+                },
+                "required": [
+                  "id",
+                  "version"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "schemaVersion",
+              "id",
+              "version",
+              "lifecycle",
+              "title",
+              "phenomenon",
+              "adversarialPrompt",
+              "rationale",
+              "assumptions",
+              "knownConfounds",
+              "targetCommitments",
+              "empiricalAnchors",
+              "authorship",
+              "changeMindObservation",
+              "demands",
+              "createdAt"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "definition",
+        "challenges"
+      ],
+      "additionalProperties": false
+    },
+    "analysis": {
+      "type": "object",
+      "properties": {
+        "mode": {
+          "type": "string",
+          "enum": [
+            "mock",
+            "live"
+          ]
+        },
+        "provider": {
+          "type": "string",
+          "minLength": 1
+        },
+        "model": {
+          "type": "string",
+          "minLength": 1
+        },
+        "reasoningEffort": {
+          "type": "string",
+          "minLength": 1
+        },
+        "promptVersion": {
+          "type": "string",
+          "minLength": 1
+        },
+        "promptDigest": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "responseId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "inputTokens": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "outputTokens": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "latencyMs": {
+          "type": "number",
+          "minimum": 0
+        },
+        "store": {
+          "type": "boolean",
+          "const": false
+        }
+      },
+      "required": [
+        "mode",
+        "provider",
+        "model",
+        "reasoningEffort",
+        "promptVersion",
+        "promptDigest",
+        "responseId",
+        "inputTokens",
+        "outputTokens",
+        "latencyMs",
+        "store"
+      ],
+      "additionalProperties": false
+    },
+    "aiDraft": {
+      "type": "object",
+      "properties": {
+        "theory": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string",
+              "minLength": 1
+            },
+            "summary": {
+              "type": "string",
+              "minLength": 1
+            },
+            "centralClaims": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations"
+                ],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": [
+            "name",
+            "summary",
+            "centralClaims"
+          ],
+          "additionalProperties": false
+        },
+        "challenges": {
+          "minItems": 1,
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "challengeId": {
+                "type": "string",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+              },
+              "explanation": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations"
+                ],
+                "additionalProperties": false
+              },
+              "mechanism": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "steps": {
+                    "minItems": 1,
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations",
+                  "steps"
+                ],
+                "additionalProperties": false
+              },
+              "novelPrediction": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "intervention": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "independentVariable": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "dependentMeasure": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "populationOrSystem": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "directionalOutcome": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations",
+                  "intervention",
+                  "independentVariable",
+                  "dependentMeasure",
+                  "populationOrSystem",
+                  "directionalOutcome"
+                ],
+                "additionalProperties": false
+              },
+              "falsifier": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "incompatibleObservation": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "rationale": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations",
+                  "incompatibleObservation",
+                  "rationale"
+                ],
+                "additionalProperties": false
+              },
+              "measurableWitness": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "observable": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "method": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "contrast": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "expectedSignature": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations",
+                  "observable",
+                  "method",
+                  "contrast",
+                  "expectedSignature"
+                ],
+                "additionalProperties": false
+              },
+              "evasionFlags": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "proposedVerdict": {
+                "type": "string",
+                "enum": [
+                  "survives",
+                  "strained",
+                  "evades",
+                  "breaks",
+                  "insufficient_evidence"
+                ]
+              },
+              "verdictRationale": {
+                "type": "string",
+                "minLength": 1
+              },
+              "extractionConfidence": {
+                "type": "string",
+                "enum": [
+                  "low",
+                  "medium",
+                  "high"
+                ]
+              }
+            },
+            "required": [
+              "challengeId",
+              "explanation",
+              "mechanism",
+              "novelPrediction",
+              "falsifier",
+              "measurableWitness",
+              "evasionFlags",
+              "proposedVerdict",
+              "verdictRationale",
+              "extractionConfidence"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "theory",
+        "challenges"
+      ],
+      "additionalProperties": false
+    },
+    "verifiedCitations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "pdfPage": {
+            "type": "integer",
+            "exclusiveMinimum": 0,
+            "maximum": 9007199254740991
+          },
+          "printedPageLabel": {
+            "type": "string"
+          },
+          "quote": {
+            "type": "string",
+            "minLength": 1
+          },
+          "locationHint": {
+            "type": "string"
+          },
+          "supportsField": {
+            "type": "string",
+            "minLength": 1
+          },
+          "verification": {
+            "type": "string",
+            "enum": [
+              "exact",
+              "normalized",
+              "not_found"
+            ]
+          },
+          "verifiedAt": {
+            "type": "string",
+            "format": "date-time",
+            "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+          }
+        },
+        "required": [
+          "id",
+          "pdfPage",
+          "quote",
+          "supportsField",
+          "verification",
+          "verifiedAt"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "claimLedger": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "claimId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sourceQuotes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "citationId": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "quote": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 600
+                },
+                "pdfPage": {
+                  "type": "integer",
+                  "exclusiveMinimum": 0,
+                  "maximum": 9007199254740991
+                },
+                "printedPageLabel": {
+                  "type": "string"
+                },
+                "verification": {
+                  "type": "string",
+                  "enum": [
+                    "exact",
+                    "normalized",
+                    "not_found"
+                  ]
+                }
+              },
+              "required": [
+                "citationId",
+                "quote",
+                "pdfPage",
+                "verification"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "challenge": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+              },
+              "version": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "id",
+              "version"
+            ],
+            "additionalProperties": false
+          },
+          "demand": {
+            "type": "string",
+            "enum": [
+              "explanation",
+              "mechanism",
+              "novelPrediction",
+              "falsifier",
+              "measurableWitness"
+            ]
+          },
+          "modelDraft": {
+            "type": "string"
+          },
+          "humanEventIds": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "finalCall": {
+            "type": "object",
+            "properties": {
+              "decision": {
+                "type": "string",
+                "enum": [
+                  "accepted",
+                  "revised",
+                  "rejected"
+                ]
+              },
+              "value": {
+                "type": "string"
+              },
+              "reason": {
+                "type": "string"
+              },
+              "eventId": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "decision",
+              "eventId"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "claimId",
+          "sourceQuotes",
+          "challenge",
+          "demand",
+          "modelDraft",
+          "humanEventIds"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "reviewEvents": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "eventId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sequence": {
+            "type": "integer",
+            "exclusiveMinimum": 0,
+            "maximum": 9007199254740991
+          },
+          "recordedAt": {
+            "type": "string",
+            "format": "date-time",
+            "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+          },
+          "reviewerAlias": {
+            "type": "string",
+            "minLength": 1
+          },
+          "claimId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "decision": {
+            "type": "string",
+            "enum": [
+              "accepted",
+              "revised",
+              "rejected"
+            ]
+          },
+          "modelValue": {
+            "type": "string"
+          },
+          "humanValue": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          },
+          "lockedAt": {
+            "type": "string",
+            "format": "date-time",
+            "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+          }
+        },
+        "required": [
+          "eventId",
+          "sequence",
+          "recordedAt",
+          "reviewerAlias",
+          "claimId",
+          "decision",
+          "modelValue"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "stressFractureMap": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "challengeId": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "modelVerdict": {
+            "type": "string",
+            "enum": [
+              "survives",
+              "strained",
+              "evades",
+              "breaks",
+              "insufficient_evidence"
+            ]
+          },
+          "humanVerdict": {
+            "type": "string",
+            "enum": [
+              "survives",
+              "strained",
+              "evades",
+              "breaks",
+              "insufficient_evidence"
+            ]
+          },
+          "humanDecision": {
+            "type": "string",
+            "enum": [
+              "accepted",
+              "revised",
+              "rejected"
+            ]
+          },
+          "rationale": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "challengeId",
+          "modelVerdict"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "witnessProtocols": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "challengeId": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "prediction": {
+            "type": "string",
+            "minLength": 1
+          },
+          "intervention": {
+            "type": "string",
+            "minLength": 1
+          },
+          "observable": {
+            "type": "string",
+            "minLength": 1
+          },
+          "method": {
+            "type": "string",
+            "minLength": 1
+          },
+          "contrast": {
+            "type": "string",
+            "minLength": 1
+          },
+          "expectedSignature": {
+            "type": "string",
+            "minLength": 1
+          },
+          "extractionConfidence": {
+            "type": "string",
+            "enum": [
+              "low",
+              "medium",
+              "high"
+            ]
+          }
+        },
+        "required": [
+          "challengeId",
+          "prediction",
+          "intervention",
+          "observable",
+          "method",
+          "contrast",
+          "expectedSignature",
+          "extractionConfidence"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "legacyImport": {
+      "type": "object",
+      "properties": {
+        "schemaVersion": {
+          "type": "string",
+          "const": "mac-evaluation-run/v1"
+        },
+        "originalIntegrityDigest": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      },
+      "required": [
+        "schemaVersion",
+        "originalIntegrityDigest"
+      ],
+      "additionalProperties": false
+    },
+    "integrityDigest": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "runId",
+    "artifactStatus",
+    "appVersion",
+    "sourceCommit",
+    "createdAt",
+    "paper",
+    "benchmark",
+    "analysis",
+    "aiDraft",
+    "verifiedCitations",
+    "claimLedger",
+    "reviewEvents",
+    "stressFractureMap",
+    "witnessProtocols",
+    "summary",
+    "integrityDigest"
+  ],
+  "additionalProperties": false
+}

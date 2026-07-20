@@ -1,0 +1,249 @@
+{
+  "$id": "https://cylon-detector.org/schemas/review-contribution.v1.schema.json",
+  "title": "Review Contribution v1",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "review-contribution/v1"
+    },
+    "contributionId": {
+      "type": "string",
+      "format": "uuid",
+      "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+    },
+    "packetIntegrityDigest": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "reviewerAlias": {
+      "type": "string",
+      "minLength": 1
+    },
+    "blindLock": {
+      "type": "object",
+      "properties": {
+        "lockedAt": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+        },
+        "calls": {
+          "minItems": 1,
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "blindClaimId": {
+                "type": "string",
+                "minLength": 1
+              },
+              "judgment": {
+                "type": "string",
+                "enum": [
+                  "supported",
+                  "strained",
+                  "unsupported",
+                  "insufficient_evidence"
+                ]
+              },
+              "confidence": {
+                "type": "string",
+                "enum": [
+                  "low",
+                  "medium",
+                  "high"
+                ]
+              },
+              "responseTimeMs": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "blindClaimId",
+              "judgment",
+              "confidence",
+              "responseTimeMs",
+              "reason"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "integrityDigest": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      },
+      "required": [
+        "lockedAt",
+        "calls",
+        "integrityDigest"
+      ],
+      "additionalProperties": false
+    },
+    "provenanceReveal": {
+      "type": "object",
+      "properties": {
+        "envelopeIntegrityDigest": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "revealedAt": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+        },
+        "secondCalls": {
+          "minItems": 1,
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "blindClaimId": {
+                "type": "string",
+                "minLength": 1
+              },
+              "judgment": {
+                "type": "string",
+                "enum": [
+                  "supported",
+                  "strained",
+                  "unsupported",
+                  "insufficient_evidence"
+                ]
+              },
+              "confidence": {
+                "type": "string",
+                "enum": [
+                  "low",
+                  "medium",
+                  "high"
+                ]
+              },
+              "responseTimeMs": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "blindClaimId",
+              "judgment",
+              "confidence",
+              "responseTimeMs",
+              "reason"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "deltas": {
+          "minItems": 1,
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "blindClaimId": {
+                "type": "string",
+                "minLength": 1
+              },
+              "changed": {
+                "type": "boolean"
+              },
+              "firstJudgment": {
+                "type": "string",
+                "enum": [
+                  "supported",
+                  "strained",
+                  "unsupported",
+                  "insufficient_evidence"
+                ]
+              },
+              "secondJudgment": {
+                "type": "string",
+                "enum": [
+                  "supported",
+                  "strained",
+                  "unsupported",
+                  "insufficient_evidence"
+                ]
+              },
+              "firstConfidence": {
+                "type": "string",
+                "enum": [
+                  "low",
+                  "medium",
+                  "high"
+                ]
+              },
+              "secondConfidence": {
+                "type": "string",
+                "enum": [
+                  "low",
+                  "medium",
+                  "high"
+                ]
+              },
+              "firstResponseTimeMs": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "secondResponseTimeMs": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "humanReason": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "blindClaimId",
+              "changed",
+              "firstJudgment",
+              "secondJudgment",
+              "firstConfidence",
+              "secondConfidence",
+              "firstResponseTimeMs",
+              "secondResponseTimeMs",
+              "humanReason"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "envelopeIntegrityDigest",
+        "revealedAt",
+        "secondCalls",
+        "deltas"
+      ],
+      "additionalProperties": false
+    },
+    "integrityDigest": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "contributionId",
+    "packetIntegrityDigest",
+    "reviewerAlias",
+    "blindLock",
+    "integrityDigest"
+  ],
+  "additionalProperties": false
+}

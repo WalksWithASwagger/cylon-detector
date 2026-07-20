@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#050504" />
+    <meta name="description" content="An open, human-adjudicated adversarial bench for consciousness theory papers." />
+    <title>Cylon Detector | MAC Consciousness Bench</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <a class="skip-link" href="#bench-main">Skip to the Cylon Detector</a>
+    <div class="bench-shell">
+      <header class="bench-header">
+        <a class="wordmark" href="/" aria-label="Return to Consciousness Atlas">
+          <span class="wordmark-mark">C/D</span>
+          <span class="wordmark-copy">MAC Consciousness Bench <b>β.1</b></span>
+        </a>
+        <nav class="mode-switch" aria-label="Application mode">
+          <a href="/">Explore Atlas</a>
+          <span aria-current="page">Interrogate Theory</span>
+        </nav>
+        <div class="header-state"><i></i> Human-in-the-loop</div>
+      </header>
+
+      <main id="bench-main" tabindex="-1">
+        <section class="hero" aria-labelledby="bench-title">
+          <div class="hero-index" aria-hidden="true">01</div>
+          <div class="hero-kicker">Minimum viable consciousness / adversarial instrument</div>
+          <h1 id="bench-title">Interrogate<br /><em>the theory.</em></h1>
+          <p>One paper. Three hostile phenomena. Five scientific demands. The model drafts the attack. A human decides what survives.</p>
+          <div class="hero-warning">
+            <b>No consciousness score.</b>
+            The detector does not tell you what is conscious. It finds where a theory goes soft.
+          </div>
+        </section>
+
+        <ol class="phase-rail" aria-label="Evaluation phases">
+          <li class="active" data-phase="paper"><b>01</b><span>Acquire paper</span></li>
+          <li data-phase="analysis"><b>02</b><span>Draft interrogation</span></li>
+          <li data-phase="verify"><b>03</b><span>Verify evidence</span></li>
+          <li data-phase="review"><b>04</b><span>Human call</span></li>
+          <li data-phase="export"><b>05</b><span>Seal artifact</span></li>
+        </ol>
+
+        <dl class="run-manifest" aria-label="Run contract">
+          <div><dt>Bench</dt><dd id="manifest-bench">1.0.0</dd></div>
+          <div><dt>Source</dt><dd id="manifest-source">No paper</dd></div>
+          <div><dt>Channel</dt><dd id="manifest-channel">Local rehearsal</dd></div>
+          <div><dt>Analysis</dt><dd id="manifest-analysis">No draft</dd></div>
+          <div><dt>Human</dt><dd id="manifest-human">0 / 18 calls</dd></div>
+          <div><dt>Integrity</dt><dd id="manifest-integrity">No artifact</dd></div>
+        </dl>
+
+        <section class="checkpoint-console" aria-labelledby="checkpoint-heading">
+          <div>
+            <p class="eyebrow">Local memory / explicit save</p>
+            <h2 id="checkpoint-heading">Resume without surrendering the paper.</h2>
+            <p>Checkpoints keep the model draft, short cited excerpts, and human calls in this browser. PDF bytes and full extracted text are never stored.</p>
+          </div>
+          <div class="checkpoint-controls">
+            <label for="checkpoint-list">Saved local runs</label>
+            <select id="checkpoint-list" aria-label="Saved local runs"></select>
+            <div>
+              <button class="secondary-command" id="load-checkpoint" disabled>Prepare selected run</button>
+              <button class="secondary-command danger-command" id="delete-checkpoint" disabled>Delete selected</button>
+              <button class="secondary-command danger-command" id="delete-all-checkpoints" disabled>Delete all local runs</button>
+            </div>
+            <p id="checkpoint-resume-status" role="status" aria-live="polite">LOCAL CHECKPOINTS / NONE FOUND</p>
+          </div>
+        </section>
+
+        <section class="paper-chamber instrument-panel" aria-labelledby="paper-heading">
+          <div class="panel-label">CHAMBER / INPUT</div>
+          <div class="paper-copy">
+            <p class="eyebrow">Stage 01 / Source acquisition</p>
+            <h2 id="paper-heading">Feed it a theory.</h2>
+            <p>The PDF is parsed and hashed inside this browser. Nothing leaves the machine until you inspect the source record and explicitly authorize analysis.</p>
+            <div class="limits">
+              <span>PDF only</span><span>20 MB max</span><span>80 pages max</span><span>Born-digital text</span>
+            </div>
+          </div>
+
+          <div class="drop-zone" id="drop-zone" tabindex="0" role="button" aria-controls="paper-input">
+            <input id="paper-input" type="file" accept="application/pdf,.pdf" hidden />
+            <div class="drop-reticle" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+            <strong>Drop theory paper</strong>
+            <span>or click to acquire PDF</span>
+            <small id="drop-status" role="status" aria-live="polite">LOCAL CHANNEL / STANDBY</small>
+          </div>
+
+          <div class="paper-readout" id="paper-readout" hidden></div>
+
+          <div class="analysis-controls" id="analysis-controls" hidden>
+            <label class="consent-control">
+              <input id="analysis-consent" type="checkbox" tabindex="0" />
+              <span>I have the right to process this paper. If I choose server interrogation, this app will send extracted text, not the PDF file, to OpenAI.</span>
+            </label>
+
+            <fieldset class="transport-control">
+              <legend>Analysis channel</legend>
+              <label>
+                <input type="radio" name="transport" value="local" checked />
+                <span><b>Local rehearsal</b><small>Deterministic / no network / no verdict</small></span>
+              </label>
+              <label>
+                <input type="radio" name="transport" value="server" />
+                <span><b>Server interrogation</b><small>Paper text leaves this browser / access token required</small></span>
+              </label>
+              <label>
+                <input type="radio" name="transport" value="local-proxy" />
+                <span><b>Local model proxy</b><small>Loopback only / must be explicitly launched below</small></span>
+              </label>
+            </fieldset>
+
+            <label class="compact-control">Human reviewer<input id="reviewer-name" value="Human reviewer" maxlength="120" /></label>
+            <label class="compact-control">Server access token<input id="analysis-access-token" type="password" autocomplete="off" placeholder="Required only for server interrogation" /></label>
+
+            <button class="primary-command" id="analyze-button" disabled><span>Fire the gauntlet</span><b>↗</b></button>
+            <p class="analysis-disclosure">OpenAI does not train on API data by default. This app sets <code>store: false</code>, so the response is not kept as application state. Standard abuse-monitoring logs may still retain content for up to 30 days unless this project has Zero Data Retention or Modified Abuse Monitoring.</p>
+          </div>
+        </section>
+
+        <section class="results-stage" id="results-stage" hidden>
+          <section class="theory-profile instrument-panel" aria-labelledby="theory-name">
+            <div class="panel-label">EXTRACTION / THEORY PROFILE</div>
+            <div>
+              <p class="eyebrow" id="analysis-provenance">AI draft / awaiting analysis</p>
+              <h2 id="theory-name"></h2>
+              <p id="theory-summary"></p>
+              <div class="theory-claims" id="theory-claims"></div>
+            </div>
+            <div class="theory-metrics" id="theory-metrics"></div>
+          </section>
+
+          <div class="gauntlet-heading">
+            <div><p class="eyebrow">Stage 03 / Adversarial filters</p><h2>Three ways to make a theory bleed.</h2></div>
+            <p>Every field below remains an AI draft until a human accepts, revises, or rejects it. Citations prove quoted words exist; they do not prove the interpretation is correct.</p>
+          </div>
+
+          <div class="challenge-grid" id="challenge-grid"></div>
+
+          <section class="claim-ledger instrument-panel" aria-labelledby="claim-ledger-heading">
+            <div class="panel-label">NAVIGATION / CLAIM LEDGER</div>
+            <div class="claim-ledger-heading">
+              <p class="eyebrow">Source → challenge → demand → machine → human</p>
+              <h2 id="claim-ledger-heading">Follow every claim to the wound.</h2>
+              <p>Each row has a stable run-scoped ID. Rejection stays visible as a result.</p>
+            </div>
+            <div class="claim-ledger-table" id="claim-ledger-preview"></div>
+          </section>
+
+          <section class="human-console instrument-panel" aria-labelledby="console-heading">
+            <div class="panel-label">HUMAN CONSOLE / FINAL AUTHORITY</div>
+            <div class="console-intro">
+              <p class="eyebrow">Stage 04 / Human call</p>
+              <h2 id="console-heading">The machine does not get the last word.</h2>
+              <p>Resolve all fifteen scientific demands and three proposed verdicts. Accepted fields with broken citations cannot be sealed.</p>
+            </div>
+            <div class="review-meter">
+              <div class="review-count"><b id="review-resolved">0</b><span>/ 18 resolved</span></div>
+              <div class="meter-track"><i id="review-progress" role="progressbar" aria-label="Human review progress" aria-valuemin="0" aria-valuemax="18" aria-valuenow="0"></i></div>
+              <button class="secondary-command" id="accept-remaining">Accept verifiable remainder</button>
+            </div>
+          </section>
+
+          <section class="artifact-console instrument-panel" aria-labelledby="artifact-heading">
+            <div class="panel-label">OUTPUT / EVIDENCE ARTIFACT</div>
+            <div>
+              <p class="eyebrow">Stage 05 / Portable receipt</p>
+              <h2 id="artifact-heading">Seal the evidence trail.</h2>
+              <p id="artifact-summary">Draft export is available now. The sealed artifact becomes available when the human review is complete.</p>
+            </div>
+            <div class="artifact-actions">
+              <button class="secondary-command" id="save-checkpoint">Save local checkpoint</button>
+              <button class="secondary-command" id="export-draft">Export unadjudicated JSON</button>
+              <button class="primary-command" id="export-final" disabled><span>Seal adjudicated JSON</span><b>↓</b></button>
+              <div class="report-actions" id="report-actions" aria-label="Canonical receipt reports">
+                <button class="secondary-command" data-report="labNoteHtml" disabled>Lab Note HTML</button>
+                <button class="secondary-command" data-report="methodsHtml" disabled>Methods + Evidence HTML</button>
+                <button class="secondary-command" data-report="claimLedgerCsv" disabled>Claim Ledger CSV</button>
+                <button class="secondary-command" data-report="claimLedgerJson" disabled>Claim Ledger JSON</button>
+                <button class="secondary-command" data-report="stressFractureJson" disabled>Stress Fracture Map</button>
+                <button class="secondary-command" data-report="witnessProtocolsJson" disabled>Witness Protocols</button>
+              </div>
+              <input id="artifact-input" type="file" accept="application/json,.json" hidden />
+              <button class="secondary-command" id="import-artifact">Re-open evidence artifact</button>
+              <a class="secondary-command saved-rehearsal" href="/fixtures/demo/witness-theory-adjudicated.v2.json" download>Download saved rehearsal</a>
+            </div>
+            <div class="imported-artifact" id="imported-artifact" hidden></div>
+          </section>
+
+          <section class="collaboration-console instrument-panel" aria-labelledby="collaboration-heading">
+            <div class="panel-label">PORTABLE COLLABORATION / NO ACCOUNTS</div>
+            <div class="collaboration-intro">
+              <p class="eyebrow">Stage 06 / Blind, reveal, disagree</p>
+              <h2 id="collaboration-heading">Pass files. Keep the humans separate.</h2>
+              <p>Blind review is partial: theory language can reveal identity. First calls are locked before source provenance appears. Contributions remain independent and are never averaged.</p>
+            </div>
+            <div class="collaboration-grid">
+              <section>
+                <h3>Coordinator</h3>
+                <label>Blind alias<input id="blind-alias" value="Theory Cedar" maxlength="120"></label>
+                <button class="secondary-command" id="export-blind-packet" disabled>Export blind packet</button>
+                <button class="secondary-command" id="export-provenance-envelope" disabled>Export provenance envelope</button>
+                <label class="file-command">Import packet<input id="blind-packet-input" type="file" accept="application/json,.json"></label>
+                <label class="file-command">Import contributions<input id="bundle-contributions-input" type="file" accept="application/json,.json" multiple></label>
+                <button class="secondary-command" id="merge-contributions" disabled>Build disagreement bundle</button>
+                <label>Theory proponent response<textarea id="proponent-response" rows="5" placeholder="Kept separate from the neutral record and reviewer interpretations."></textarea></label>
+                <button class="secondary-command" id="export-three-voice" disabled>Export three-voice report</button>
+              </section>
+              <section>
+                <h3>Independent reviewer</h3>
+                <label>Reviewer alias<input id="independent-reviewer-alias" value="Independent reviewer" maxlength="120"></label>
+                <label class="file-command">Import blind packet<input id="review-packet-input" type="file" accept="application/json,.json"></label>
+                <div id="blind-review-form" class="portable-review-form"></div>
+                <button class="secondary-command" id="lock-blind-calls" disabled>Lock + export first calls</button>
+                <label class="file-command">Import locked contribution<input id="review-contribution-input" type="file" accept="application/json,.json"></label>
+                <label class="file-command">Reveal with provenance envelope<input id="provenance-envelope-input" type="file" accept="application/json,.json"></label>
+                <div id="provenance-reveal" class="provenance-reveal" hidden></div>
+                <div id="revealed-review-form" class="portable-review-form"></div>
+                <button class="secondary-command" id="export-revealed-contribution" disabled>Export Provenance Delta</button>
+              </section>
+            </div>
+            <div id="collaboration-status" class="collaboration-status" role="status" aria-live="polite">LOCAL FILE WORKSPACE / WAITING FOR A SEALED RECEIPT OR IMPORT</div>
+            <div id="disagreement-view" class="disagreement-view"></div>
+          </section>
+
+          <section class="research-console instrument-panel" aria-labelledby="research-heading">
+            <div class="panel-label">RESEARCH MACHINERY / LOCAL EXPORT ONLY</div>
+            <div class="research-intro">
+              <p class="eyebrow">Stage 07 / Freeze, replicate, replay</p>
+              <h2 id="research-heading">Make the disagreement reproducible.</h2>
+              <p>No OSF write, paper download, or model connection occurs here. This console creates portable files for deliberate human-controlled workflows.</p>
+            </div>
+            <div class="research-grid">
+              <section>
+                <h3>Preregister</h3>
+                <label>Predictions<textarea id="prereg-predictions" rows="3">The proposed mechanism changes the measurable witness under intervention.</textarea></label>
+                <label>Exclusions<textarea id="prereg-exclusions" rows="3">Unreadable or unverifiable source evidence.</textarea></label>
+                <label>Interpretation rules<textarea id="prereg-rules" rows="3">Rejection and insufficient evidence remain visible results.</textarea></label>
+                <label>Planned analyses<textarea id="prereg-analyses" rows="3">Categorical claim-level comparison without a winner score.</textarea></label>
+                <button class="secondary-command" id="export-preregistration" disabled>Freeze + export preregistration</button>
+                <label>Run class<select id="research-run-class"><option value="optimization">Optimization / exploratory</option><option value="sealed_replication">Sealed replication</option></select></label>
+                <label>Deviations, one per line<textarea id="research-deviations" rows="3" placeholder="Leave empty when none occurred."></textarea></label>
+                <button class="secondary-command" id="export-research-context">Export run context</button>
+              </section>
+              <section>
+                <h3>Package + replay</h3>
+                <label>Contributor name<input id="crate-contributor" value="Kris Krüg"></label>
+                <label>CRediT role<input id="crate-role" value="Conceptualization"></label>
+                <button class="secondary-command" id="export-osf-package" disabled>Export OSF-ready package</button>
+                <label>Theory bundle label<input id="theory-bundle-label" value="Theory paper family"></label>
+                <label class="file-command">Import multiple receipts<input id="theory-bundle-input" type="file" accept="application/json,.json" multiple></label>
+                <button class="secondary-command" id="export-theory-bundle">Export multi-paper theory bundle</button>
+                <label class="file-command">Import exactly two receipts<input id="compare-runs-input" type="file" accept="application/json,.json" multiple></label>
+                <button class="secondary-command" id="export-run-comparison">Export categorical comparison + drift</button>
+              </section>
+              <section>
+                <h3>Metadata only</h3>
+                <label>DOI, Crossref, or Zotero metadata JSON<textarea id="metadata-intake" rows="8">{"kind":"doi","doi":"10.0000/example"}</textarea></label>
+                <button class="secondary-command" id="export-metadata">Validate + export metadata</button>
+                <p>Full text is discarded. No DOI is resolved and no paper is downloaded.</p>
+              </section>
+              <section>
+                <h3>Local model boundary</h3>
+                <label>Loopback OpenAI-compatible URL<input id="local-proxy-url" value="http://127.0.0.1:11434/v1"></label>
+                <label>Local model ID<input id="local-proxy-model" value="local-model"></label>
+                <label class="check-label"><input id="local-proxy-enabled" type="checkbox"> Enable adapter configuration</label>
+                <label class="check-label"><input id="local-proxy-launched" type="checkbox"> I explicitly launched this local proxy</label>
+                <button class="secondary-command" id="export-local-adapter">Validate + export disabled-by-default adapter</button>
+                <p>Only loopback hosts are accepted. Hosted and local provenance remain distinct.</p>
+              </section>
+            </div>
+            <div id="research-status" class="collaboration-status" role="status" aria-live="polite">RESEARCH EXPORTS / WAITING FOR CANONICAL RECEIPT</div>
+          </section>
+
+          <section class="experimental-console instrument-panel" aria-labelledby="experimental-heading">
+            <div class="panel-label">CYLON DETECTOR PROPER / SAFETY LOCKED</div>
+            <div class="research-intro">
+              <p class="eyebrow">Stage 08 / Evidence profiles, never binary verdicts</p>
+              <h2 id="experimental-heading">Build indicators. Refuse the theatre.</h2>
+              <p>Architectural, behavioural, intervention, self-report, and counterevidence lanes stay separate. Live system tests require a named human owner and approved welfare gate. The human Provenance Flip study remains disabled.</p>
+            </div>
+            <div class="research-grid">
+              <section>
+                <h3>Indicator bundle</h3>
+                <button class="secondary-command" id="export-indicator-template">Export theory-derived template</button>
+                <button class="secondary-command" id="export-empty-evidence-profile">Export high-uncertainty evidence profile</button>
+                <p>No score, rank, or binary “Cylon detected” conclusion is produced.</p>
+              </section>
+              <section>
+                <h3>AI welfare gate</h3>
+                <label>Named human owner<input id="ethics-owner" value="Kris Krüg"></label>
+                <label>Purpose<textarea id="ethics-purpose" rows="2">Evaluate theory-derived indicators without inferring a binary consciousness verdict.</textarea></label>
+                <label>System under test<input id="ethics-system" value="Local test system"></label>
+                <label>Intervention risk<select id="ethics-risk"><option value="unknown">Unknown</option><option value="low">Low</option><option value="medium">Medium</option><option value="high">High</option></select></label>
+                <label>Interventions<textarea id="ethics-interventions" rows="2">No intervention specified.</textarea></label>
+                <label>Welfare risks<textarea id="ethics-welfare" rows="2">Unknown moral-patient status.</textarea></label>
+                <label>Stop conditions<textarea id="ethics-stop" rows="2">Stop on distress signals, uncontrolled persistence, or boundary breach.</textarea></label>
+                <label>Data handling<textarea id="ethics-data" rows="2">Local-first; no publication by default.</textarea></label>
+                <label>Publication plan<textarea id="ethics-publication" rows="2">Human approval required before publication.</textarea></label>
+                <label>Ethics review<select id="ethics-review"><option value="pending">Pending / blocked</option><option value="approved">Approved</option><option value="rejected">Rejected</option></select></label>
+                <button class="secondary-command" id="export-ethics-session">Validate gate + export authorization record</button>
+              </section>
+              <section>
+                <h3>Provenance Flip study</h3>
+                <p class="danger-copy">DISABLED. No responses, deliberate mislabelling, or human-subject data collection exists in this build.</p>
+                <button class="secondary-command" id="export-disabled-provenance-study">Export disabled protocol</button>
+              </section>
+              <section>
+                <h3>C2PA input</h3>
+                <label>Content Credentials JSON<textarea id="c2pa-input" rows="7">{"manifestId":"urn:c2pa:example","signatureStatus":"unknown","assertions":[]}</textarea></label>
+                <button class="secondary-command" id="export-c2pa-input">Validate provenance input</button>
+                <p>Cryptographic provenance is not truth, trust, consent, or conscious authorship.</p>
+              </section>
+            </div>
+            <div id="experimental-status" class="collaboration-status" role="status" aria-live="polite">EXPERIMENTAL MODULES / SAFETY GATES ENFORCED</div>
+          </section>
+        </section>
+
+        <section class="method-strip">
+          <p>EXPLANATION</p><i></i><p>MECHANISM</p><i></i><p>NOVEL PREDICTION</p><i></i><p>FALSIFIER</p><i></i><p>MEASURABLE WITNESS</p>
+        </section>
+      </main>
+
+      <footer class="bench-footer">
+        <p>Built on <a href="https://consciousnessatlas.com/">Consciousness Atlas</a> by Danilo Znamerovszkij. MAC Bench method and Provenance Flip by Kris Krüg with the Mind, AI &amp; Consciousness Lab.</p>
+        <p>PROVISIONAL BENCHMARK / 1.0.0 / HUMAN REVIEW REQUIRED</p>
+      </footer>
+    </div>
+
+    <aside class="evidence-viewer" id="evidence-viewer" hidden role="dialog" aria-modal="true" aria-labelledby="evidence-title">
+      <div class="viewer-header">
+        <div><p class="eyebrow">Local source witness</p><h2 id="evidence-title">PDF evidence</h2></div>
+        <button id="close-evidence" aria-label="Close evidence viewer">×</button>
+      </div>
+      <div class="viewer-status" id="viewer-status"></div>
+      <blockquote id="viewer-quote"></blockquote>
+      <div class="pdf-canvas-wrap"><canvas id="pdf-canvas"></canvas></div>
+    </aside>
+
+    <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+    <script type="module" src="/src/bench/main.ts"></script>
+  </body>
+</html>

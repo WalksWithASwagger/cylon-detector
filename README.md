@@ -2,7 +2,30 @@
 
 ![Consciousness Atlas](./public/banner.png)
 
-An interactive web application that visualizes Robert Lawrence Kuhn's "Landscape of Consciousness" - mapping over 300+ theories of phenomenal consciousness in an explorable sunburst chart.
+An interactive web application that visualizes Robert Lawrence Kuhn's *Landscape of Consciousness* taxonomy and interrogates theory papers with an auditable adversarial bench.
+
+## Cylon Detector / MAC Consciousness Bench skunkworks beta
+
+Open `/bench` to pressure-test a consciousness paper without an account or hosted paper database. The browser parses and hashes the PDF locally. Local rehearsal is deterministic and makes no network request. Invite-gated server analysis sends extracted text only after explicit consent; invite infrastructure fails closed while local rehearsal continues.
+
+The model drafts. A human accepts, revises, or visibly rejects every demand. New exports use the canonical `mac-evaluation-run/v2` receipt with stable Claim Ledger IDs, append-only review events, categorical Stress Fracture results, Witness Protocol cards, and an integrity digest that proves byte stability—not reviewer identity. There is no consciousness score, leaderboard, automatic verdict, or synthetic consensus.
+
+Local browser checkpoints exclude PDF bytes and full extracted text and reconnect only after the original PDF hashes match. Portable files support partial blind review, locked pre-reveal calls, Provenance Deltas, independent contributions, disagreement bundles, preregistration, OSF-ready local packages, RO-Crate provenance, and five-lane AI indicator profiles. Human-subject collection and the live Provenance Flip study are disabled.
+
+Public versioned contracts live in `benchmarks/`, `schemas/`, and `indicators/`. The synthetic v2 rehearsal is `fixtures/demo/witness-theory-adjudicated.v2.json`; the original alpha receipt remains only as a tested v1 importer fixture. Regenerate contracts with `npm run generate:schemas` and `npm run generate:fixtures`.
+
+Local verification:
+
+```bash
+PATH=/opt/homebrew/opt/node@22/bin:$PATH npm run verify
+PATH=/opt/homebrew/opt/node@22/bin:$PATH npm run test:e2e
+PATH=/opt/homebrew/opt/node@22/bin:$PATH npm audit --audit-level=moderate
+PATH=/opt/homebrew/opt/node@22/bin:$PATH npm exec -- varlock load --agent --show-all
+```
+
+- [Product roadmap](docs/roadmap/cylon-detector-roadmap.md)
+- [Research receipts](docs/research/product-research-2026-07-20.md)
+- [Voice audit](docs/voice-audit/00-summary.md)
 
 ## Tech Stack & Architecture
 
@@ -154,7 +177,7 @@ The Consciousness Atlas is a free web app that transforms Kuhn's 2024 academic p
 
 ## Features
 
-- 🧠 **Interactive Sunburst Chart** - Visualize 325+ consciousness theories in a hierarchical layout
+- 🧠 **Interactive Sunburst Chart** - Explore Kuhn's consciousness taxonomy in a hierarchical layout
 - 📚 **Detailed Theory Entries** - Click any theory to read structured summaries with sources
 - 🔍 **Search Functionality** - Find specific theories quickly
 - 📱 **Responsive Design** - Optimized for desktop and mobile viewing
@@ -184,6 +207,6 @@ It does not advocate for any particular theory of consciousness and should not b
 ConsciousnessAtlas.com by Danilo Znamerovszkij.  
 https://consciousnessatlas.com (accessed [date]).
 
-## License
+## License status
 
-MIT
+The upstream README labels Consciousness Atlas as MIT, but this fork currently has no inherited `LICENSE` file. Upstream authorship is preserved and the open-source status of the combined fork should be treated as provisional until that licensing boundary is confirmed. Newly authored MAC Bench materials are prepared for an open release, not represented here as already relicensed.

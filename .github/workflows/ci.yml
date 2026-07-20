@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm exec varlock load --agent --show-all
+      - run: npm run type-check
+      - run: npm run validate:data
+      - run: npm run validate:registry
+        env:
+          CHALLENGE_BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before }}
+      - run: npm run validate:schemas
+      - run: npm test
+      - run: npm run test:e2e
+      - run: npm run build
+      - run: npm run validate:build
+      - run: npm audit --audit-level=moderate

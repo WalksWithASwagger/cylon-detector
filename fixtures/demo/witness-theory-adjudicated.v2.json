@@ -1,0 +1,1246 @@
+{
+  "schemaVersion": "mac-evaluation-run/v2",
+  "runId": "00000000-0000-4000-8000-000000000001",
+  "artifactStatus": "adjudicated",
+  "appVersion": "0.2.0-beta.1",
+  "sourceCommit": "demo-fixture",
+  "createdAt": "2026-07-20T20:00:00.000Z",
+  "paper": {
+    "fileName": "witness-theory.pdf",
+    "byteSize": 2048,
+    "sha256": "4ddeee9c495b277374f3648757d5e895bbf16fb35425e9f18e92c8b8730ece52",
+    "textSha256": "1e0e80013d3494d11100c318626deedcf9218c58ea4da31041bc033bebd10ecb",
+    "pageCount": 1,
+    "characterCount": 118,
+    "title": "Witness Theory",
+    "authors": [
+      "Ada Witness",
+      "Kris Krüg"
+    ],
+    "year": 2026
+  },
+  "benchmark": {
+    "definition": {
+      "schemaVersion": "mac-benchmark-definition/v2",
+      "id": "mac-lab-001",
+      "version": "1.0.0",
+      "lifecycle": "provisional",
+      "title": "MAC Lab #001 Minimum Viable Consciousness Requirements",
+      "description": "Versioned adversarial phenomena used to expose what a theory paper explains, predicts, falsifies, or evades.",
+      "authorship": [
+        {
+          "name": "Mind, AI & Consciousness Lab",
+          "role": "benchmark steward"
+        },
+        {
+          "name": "Kris Krüg",
+          "role": "product steward and Provenance Flip author"
+        }
+      ],
+      "sourceUrls": [
+        "https://mac.bc-ai.ca/ai-events/lab-001-minimum-viable-consciousness-requirements/",
+        "https://noocore.com/MAC/MVC-UI.html"
+      ],
+      "createdAt": "2026-07-20T00:00:00.000Z",
+      "demands": [
+        "explanation",
+        "mechanism",
+        "novelPrediction",
+        "falsifier",
+        "measurableWitness"
+      ],
+      "challenges": [
+        {
+          "id": "provenance-flip",
+          "version": "1.0.0",
+          "integrityDigest": "00574c973664dc36b022b3b33892359398fc61c13774e0ff8d044b36027f2199"
+        },
+        {
+          "id": "synesthesia",
+          "version": "1.0.0",
+          "integrityDigest": "b5239d98e3ff79a18a4c3c11ca5384ecc7411198831fe29b4c926851d9c71667"
+        },
+        {
+          "id": "blindsight",
+          "version": "1.0.0",
+          "integrityDigest": "b5f670b7640490defda2266f7327dd75fb1dd81b963fbc7ab47b5fe4c49a5cba"
+        }
+      ],
+      "integrityDigest": "d1fcec492d83792f67a20114aa87751573ae59c529daf3ea5e89a800ecb73877"
+    },
+    "challenges": [
+      {
+        "schemaVersion": "mac-challenge-definition/v2",
+        "id": "provenance-flip",
+        "version": "1.0.0",
+        "lifecycle": "provisional",
+        "title": "The Provenance Flip",
+        "phenomenon": "A person's experience of an unchanged artwork can change after learning that it was human-made, AI-generated, forged, stolen, or produced without consent.",
+        "adversarialPrompt": "Explain provenance-induced aesthetic reversal: how non-sensory knowledge about the origin, authorship, or ethics of an unchanged work could change what experiencing it feels like. Distinguish phenomenal change from a change in evaluation, decision, or report.",
+        "rationale": "The sensory signal stays fixed while beauty, revulsion, meaning, trust, or emotional charge may reverse, forcing a theory to specify where top-down knowledge enters experience.",
+        "assumptions": [
+          "The sensory stimulus is unchanged between the blind and provenance-reveal conditions.",
+          "The provenance information is understood and believed by the participant."
+        ],
+        "knownConfounds": [
+          "Demand characteristics and social desirability can alter reports without altering experience.",
+          "Mislabelled provenance may change trust in the experimenter.",
+          "Memory of the first presentation may alter the second presentation."
+        ],
+        "targetCommitments": [
+          "Whether non-sensory knowledge can alter phenomenal character.",
+          "Where authorship, origin, and ethical appraisal enter the proposed mechanism.",
+          "What observation separates phenomenal change from evaluation or report."
+        ],
+        "empiricalAnchors": [
+          {
+            "label": "MAC Lab #001 candidate by Kris Krüg",
+            "url": "https://mac.bc-ai.ca/ai-events/lab-001-minimum-viable-consciousness-requirements/"
+          }
+        ],
+        "authorship": [
+          {
+            "name": "Kris Krüg",
+            "role": "challenge author"
+          }
+        ],
+        "changeMindObservation": "A preregistered blinded study repeatedly finds evaluation and report changes after provenance reveal but no discriminating pre-report experiential witness predicted by the theory.",
+        "demands": [
+          "explanation",
+          "mechanism",
+          "novelPrediction",
+          "falsifier",
+          "measurableWitness"
+        ],
+        "createdAt": "2026-07-20T00:00:00.000Z"
+      },
+      {
+        "schemaVersion": "mac-challenge-definition/v2",
+        "id": "synesthesia",
+        "version": "1.0.0",
+        "lifecycle": "provisional",
+        "title": "Synesthesia",
+        "phenomenon": "An inducer in one domain reliably and involuntarily evokes a conscious concurrent in another, such as a grapheme evoking a colour not present in the stimulus.",
+        "adversarialPrompt": "Explain stable, involuntary cross-domain conscious concurrents in synesthesia. Distinguish the experienced concurrent from learned association, imagery, attention, memory, and report strategy.",
+        "rationale": "A strong account must locate both the inducer and the experienced concurrent while explaining how content absent from the external stimulus becomes consciously present.",
+        "assumptions": [
+          "The reported concurrent is experienced rather than strategically described.",
+          "Inducer-concurrent pairings are sufficiently stable to test."
+        ],
+        "knownConfounds": [
+          "Learned associations can mimic stable inducer-concurrent mappings.",
+          "Imagery ability and attention can influence behavioural signatures.",
+          "Self-selection can distort prevalence and strength estimates."
+        ],
+        "targetCommitments": [
+          "How internally generated content becomes consciously present.",
+          "Why the concurrent is stable, automatic, and stimulus-specific.",
+          "What separates a conscious concurrent from association or imagery."
+        ],
+        "empiricalAnchors": [
+          {
+            "label": "Ramachandran and Hubbard (2001)",
+            "doi": "10.1098/rspb.2000.1576",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11370973/"
+          }
+        ],
+        "authorship": [
+          {
+            "name": "Mind, AI & Consciousness Lab",
+            "role": "challenge steward"
+          }
+        ],
+        "changeMindObservation": "The theory's proposed conscious mechanism can be disrupted without changing preregistered measures that distinguish concurrents from learned association or imagery.",
+        "demands": [
+          "explanation",
+          "mechanism",
+          "novelPrediction",
+          "falsifier",
+          "measurableWitness"
+        ],
+        "createdAt": "2026-07-20T00:00:00.000Z"
+      },
+      {
+        "schemaVersion": "mac-challenge-definition/v2",
+        "id": "blindsight",
+        "version": "1.0.0",
+        "lifecycle": "provisional",
+        "title": "Blindsight",
+        "phenomenon": "Some people with damage to primary visual cortex can discriminate stimuli in the affected field above chance while denying or lacking ordinary visual awareness.",
+        "adversarialPrompt": "Explain preserved visually guided discrimination without ordinary reported visual awareness in blindsight. Distinguish absent experience from degraded experience, conservative report criteria, and inaccessible information.",
+        "rationale": "Performance and reported awareness dissociate, forcing a theory to identify which processes remain and which proposed condition for consciousness is missing.",
+        "assumptions": [
+          "Forced-choice performance is above chance and not driven by cues outside the affected field.",
+          "Awareness reports and discrimination responses can be measured independently."
+        ],
+        "knownConfounds": [
+          "Conservative report criteria can resemble absent awareness.",
+          "Residual or degraded vision can be misclassified as no experience.",
+          "Eye movements and intact visual islands can support performance."
+        ],
+        "targetCommitments": [
+          "Which processing supports discrimination without ordinary awareness.",
+          "Which proposed condition for consciousness is absent.",
+          "How the account separates absent, degraded, and inaccessible experience."
+        ],
+        "empiricalAnchors": [
+          {
+            "label": "Weiskrantz et al. (1974)",
+            "doi": "10.1093/brain/97.4.709",
+            "url": "https://academic.oup.com/brain/article/97/4/709/266141"
+          }
+        ],
+        "authorship": [
+          {
+            "name": "Mind, AI & Consciousness Lab",
+            "role": "challenge steward"
+          }
+        ],
+        "changeMindObservation": "The theory's proposed awareness condition is present while carefully controlled discrimination persists without any theory-predicted awareness witness.",
+        "demands": [
+          "explanation",
+          "mechanism",
+          "novelPrediction",
+          "falsifier",
+          "measurableWitness"
+        ],
+        "createdAt": "2026-07-20T00:00:00.000Z"
+      }
+    ]
+  },
+  "analysis": {
+    "mode": "mock",
+    "provider": "local",
+    "model": "deterministic-fixture",
+    "reasoningEffort": "none",
+    "promptVersion": "mac-interrogator/1",
+    "promptDigest": "4c1aa34d5121e66deb8f8b6bd5a8805bd677b669d6ac75067f48ee777a970a68",
+    "responseId": "mock-demo-fixture",
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "latencyMs": 0,
+    "store": false
+  },
+  "aiDraft": {
+    "theory": {
+      "name": "Witness Theory",
+      "summary": "Deterministic mock extraction for interface and evidence-flow validation. Run live analysis for a scientific draft.",
+      "centralClaims": [
+        {
+          "text": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "citations": [
+            {
+              "id": "theory-centralClaims-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "theory.centralClaims"
+            }
+          ]
+        }
+      ]
+    },
+    "challenges": [
+      {
+        "challengeId": "provenance-flip",
+        "explanation": {
+          "text": "Mock interrogation: A person's experience of an unchanged artwork can change after learning that it was human-made, AI-generated, forged, stolen, or produced without consent. The uploaded paper must be checked for an explicit account rather than inferred from this fixture.",
+          "citations": [
+            {
+              "id": "provenance-flip-explanation-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.provenance-flip.explanation"
+            }
+          ]
+        },
+        "mechanism": {
+          "text": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use.",
+          "citations": [
+            {
+              "id": "provenance-flip-mechanism-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.provenance-flip.mechanism"
+            }
+          ],
+          "steps": [
+            "Locate the paper’s proposed conscious process.",
+            "Test whether that process discriminates the challenge alternatives."
+          ]
+        },
+        "novelPrediction": {
+          "text": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Provenance Flip stimulus conditions fixed.",
+          "citations": [
+            {
+              "id": "provenance-flip-novelPrediction-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.provenance-flip.novelPrediction"
+            }
+          ],
+          "intervention": "Manipulate the paper’s proposed conscious mechanism",
+          "independentVariable": "mechanism present versus disrupted",
+          "dependentMeasure": "challenge-specific measurable witness",
+          "populationOrSystem": "the population or system specified by the paper",
+          "directionalOutcome": "the witness should change in the direction required by the theory"
+        },
+        "falsifier": {
+          "text": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted.",
+          "citations": [
+            {
+              "id": "provenance-flip-falsifier-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.provenance-flip.falsifier"
+            }
+          ],
+          "incompatibleObservation": "Selective mechanism disruption produces no change in the predicted witness",
+          "rationale": "A causal mechanism must make a discriminating intervention-level commitment."
+        },
+        "measurableWitness": {
+          "text": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report.",
+          "citations": [
+            {
+              "id": "provenance-flip-measurableWitness-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.provenance-flip.measurableWitness"
+            }
+          ],
+          "observable": "challenge-specific time-local response",
+          "method": "preregistered behavioural and physiological measurement",
+          "contrast": "mechanism present versus selectively disrupted",
+          "expectedSignature": "a directional divergence before or independently of final report"
+        },
+        "evasionFlags": [
+          "Mock mode cannot determine whether the paper genuinely addresses this challenge."
+        ],
+        "proposedVerdict": "insufficient_evidence",
+        "verdictRationale": "Mock mode validates the apparatus, not the theory. A live evidence extraction and human review are required.",
+        "extractionConfidence": "low"
+      },
+      {
+        "challengeId": "synesthesia",
+        "explanation": {
+          "text": "Mock interrogation: An inducer in one domain reliably and involuntarily evokes a conscious concurrent in another, such as a grapheme evoking a colour not present in the stimulus. The uploaded paper must be checked for an explicit account rather than inferred from this fixture.",
+          "citations": [
+            {
+              "id": "synesthesia-explanation-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.synesthesia.explanation"
+            }
+          ]
+        },
+        "mechanism": {
+          "text": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use.",
+          "citations": [
+            {
+              "id": "synesthesia-mechanism-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.synesthesia.mechanism"
+            }
+          ],
+          "steps": [
+            "Locate the paper’s proposed conscious process.",
+            "Test whether that process discriminates the challenge alternatives."
+          ]
+        },
+        "novelPrediction": {
+          "text": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Synesthesia stimulus conditions fixed.",
+          "citations": [
+            {
+              "id": "synesthesia-novelPrediction-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.synesthesia.novelPrediction"
+            }
+          ],
+          "intervention": "Manipulate the paper’s proposed conscious mechanism",
+          "independentVariable": "mechanism present versus disrupted",
+          "dependentMeasure": "challenge-specific measurable witness",
+          "populationOrSystem": "the population or system specified by the paper",
+          "directionalOutcome": "the witness should change in the direction required by the theory"
+        },
+        "falsifier": {
+          "text": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted.",
+          "citations": [
+            {
+              "id": "synesthesia-falsifier-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.synesthesia.falsifier"
+            }
+          ],
+          "incompatibleObservation": "Selective mechanism disruption produces no change in the predicted witness",
+          "rationale": "A causal mechanism must make a discriminating intervention-level commitment."
+        },
+        "measurableWitness": {
+          "text": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report.",
+          "citations": [
+            {
+              "id": "synesthesia-measurableWitness-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.synesthesia.measurableWitness"
+            }
+          ],
+          "observable": "challenge-specific time-local response",
+          "method": "preregistered behavioural and physiological measurement",
+          "contrast": "mechanism present versus selectively disrupted",
+          "expectedSignature": "a directional divergence before or independently of final report"
+        },
+        "evasionFlags": [
+          "Mock mode cannot determine whether the paper genuinely addresses this challenge."
+        ],
+        "proposedVerdict": "insufficient_evidence",
+        "verdictRationale": "Mock mode validates the apparatus, not the theory. A live evidence extraction and human review are required.",
+        "extractionConfidence": "medium"
+      },
+      {
+        "challengeId": "blindsight",
+        "explanation": {
+          "text": "Mock interrogation: Some people with damage to primary visual cortex can discriminate stimuli in the affected field above chance while denying or lacking ordinary visual awareness. The uploaded paper must be checked for an explicit account rather than inferred from this fixture.",
+          "citations": [
+            {
+              "id": "blindsight-explanation-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.blindsight.explanation"
+            }
+          ]
+        },
+        "mechanism": {
+          "text": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use.",
+          "citations": [
+            {
+              "id": "blindsight-mechanism-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.blindsight.mechanism"
+            }
+          ],
+          "steps": [
+            "Locate the paper’s proposed conscious process.",
+            "Test whether that process discriminates the challenge alternatives."
+          ]
+        },
+        "novelPrediction": {
+          "text": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Blindsight stimulus conditions fixed.",
+          "citations": [
+            {
+              "id": "blindsight-novelPrediction-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.blindsight.novelPrediction"
+            }
+          ],
+          "intervention": "Manipulate the paper’s proposed conscious mechanism",
+          "independentVariable": "mechanism present versus disrupted",
+          "dependentMeasure": "challenge-specific measurable witness",
+          "populationOrSystem": "the population or system specified by the paper",
+          "directionalOutcome": "the witness should change in the direction required by the theory"
+        },
+        "falsifier": {
+          "text": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted.",
+          "citations": [
+            {
+              "id": "blindsight-falsifier-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.blindsight.falsifier"
+            }
+          ],
+          "incompatibleObservation": "Selective mechanism disruption produces no change in the predicted witness",
+          "rationale": "A causal mechanism must make a discriminating intervention-level commitment."
+        },
+        "measurableWitness": {
+          "text": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report.",
+          "citations": [
+            {
+              "id": "blindsight-measurableWitness-1",
+              "pdfPage": 1,
+              "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+              "locationHint": "Deterministic mock evidence anchor",
+              "supportsField": "challenges.blindsight.measurableWitness"
+            }
+          ],
+          "observable": "challenge-specific time-local response",
+          "method": "preregistered behavioural and physiological measurement",
+          "contrast": "mechanism present versus selectively disrupted",
+          "expectedSignature": "a directional divergence before or independently of final report"
+        },
+        "evasionFlags": [
+          "Mock mode cannot determine whether the paper genuinely addresses this challenge."
+        ],
+        "proposedVerdict": "insufficient_evidence",
+        "verdictRationale": "Mock mode validates the apparatus, not the theory. A live evidence extraction and human review are required.",
+        "extractionConfidence": "medium"
+      }
+    ]
+  },
+  "verifiedCitations": [
+    {
+      "id": "theory-centralClaims-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "theory.centralClaims",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "provenance-flip-explanation-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.provenance-flip.explanation",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "provenance-flip-mechanism-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.provenance-flip.mechanism",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "provenance-flip-novelPrediction-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.provenance-flip.novelPrediction",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "provenance-flip-falsifier-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.provenance-flip.falsifier",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "provenance-flip-measurableWitness-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.provenance-flip.measurableWitness",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "synesthesia-explanation-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.synesthesia.explanation",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "synesthesia-mechanism-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.synesthesia.mechanism",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "synesthesia-novelPrediction-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.synesthesia.novelPrediction",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "synesthesia-falsifier-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.synesthesia.falsifier",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "synesthesia-measurableWitness-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.synesthesia.measurableWitness",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "blindsight-explanation-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.blindsight.explanation",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "blindsight-mechanism-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.blindsight.mechanism",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "blindsight-novelPrediction-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.blindsight.novelPrediction",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "blindsight-falsifier-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.blindsight.falsifier",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "id": "blindsight-measurableWitness-1",
+      "pdfPage": 1,
+      "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+      "locationHint": "Deterministic mock evidence anchor",
+      "supportsField": "challenges.blindsight.measurableWitness",
+      "verification": "exact",
+      "verifiedAt": "2026-07-20T20:00:00.000Z"
+    }
+  ],
+  "claimLedger": [
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:provenance-flip:explanation",
+      "sourceQuotes": [
+        {
+          "citationId": "provenance-flip-explanation-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "provenance-flip",
+        "version": "1.0.0"
+      },
+      "demand": "explanation",
+      "modelDraft": "Mock interrogation: A person's experience of an unchanged artwork can change after learning that it was human-made, AI-generated, forged, stolen, or produced without consent. The uploaded paper must be checked for an explicit account rather than inferred from this fixture.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:explanation:1"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Mock interrogation: A person's experience of an unchanged artwork can change after learning that it was human-made, AI-generated, forged, stolen, or produced without consent. The uploaded paper must be checked for an explicit account rather than inferred from this fixture.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:explanation:1"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:provenance-flip:mechanism",
+      "sourceQuotes": [
+        {
+          "citationId": "provenance-flip-mechanism-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "provenance-flip",
+        "version": "1.0.0"
+      },
+      "demand": "mechanism",
+      "modelDraft": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:mechanism:2"
+      ],
+      "finalCall": {
+        "decision": "revised",
+        "value": "Human revision: the witness must causally precede evaluation and report.",
+        "reason": "The mock mechanism did not discriminate experience from later evaluation.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:mechanism:2"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:provenance-flip:novelPrediction",
+      "sourceQuotes": [
+        {
+          "citationId": "provenance-flip-novelPrediction-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "provenance-flip",
+        "version": "1.0.0"
+      },
+      "demand": "novelPrediction",
+      "modelDraft": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Provenance Flip stimulus conditions fixed.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:novelPrediction:3"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Provenance Flip stimulus conditions fixed.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:novelPrediction:3"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:provenance-flip:falsifier",
+      "sourceQuotes": [
+        {
+          "citationId": "provenance-flip-falsifier-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "provenance-flip",
+        "version": "1.0.0"
+      },
+      "demand": "falsifier",
+      "modelDraft": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:falsifier:4"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:falsifier:4"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:provenance-flip:measurableWitness",
+      "sourceQuotes": [
+        {
+          "citationId": "provenance-flip-measurableWitness-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "provenance-flip",
+        "version": "1.0.0"
+      },
+      "demand": "measurableWitness",
+      "modelDraft": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:measurableWitness:5"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:measurableWitness:5"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:synesthesia:explanation",
+      "sourceQuotes": [
+        {
+          "citationId": "synesthesia-explanation-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "synesthesia",
+        "version": "1.0.0"
+      },
+      "demand": "explanation",
+      "modelDraft": "Mock interrogation: An inducer in one domain reliably and involuntarily evokes a conscious concurrent in another, such as a grapheme evoking a colour not present in the stimulus. The uploaded paper must be checked for an explicit account rather than inferred from this fixture.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:explanation:7"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Mock interrogation: An inducer in one domain reliably and involuntarily evokes a conscious concurrent in another, such as a grapheme evoking a colour not present in the stimulus. The uploaded paper must be checked for an explicit account rather than inferred from this fixture.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:explanation:7"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:synesthesia:mechanism",
+      "sourceQuotes": [
+        {
+          "citationId": "synesthesia-mechanism-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "synesthesia",
+        "version": "1.0.0"
+      },
+      "demand": "mechanism",
+      "modelDraft": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:mechanism:8"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:mechanism:8"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:synesthesia:novelPrediction",
+      "sourceQuotes": [
+        {
+          "citationId": "synesthesia-novelPrediction-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "synesthesia",
+        "version": "1.0.0"
+      },
+      "demand": "novelPrediction",
+      "modelDraft": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Synesthesia stimulus conditions fixed.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:novelPrediction:9"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Synesthesia stimulus conditions fixed.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:novelPrediction:9"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:synesthesia:falsifier",
+      "sourceQuotes": [
+        {
+          "citationId": "synesthesia-falsifier-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "synesthesia",
+        "version": "1.0.0"
+      },
+      "demand": "falsifier",
+      "modelDraft": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:falsifier:10"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:falsifier:10"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:synesthesia:measurableWitness",
+      "sourceQuotes": [
+        {
+          "citationId": "synesthesia-measurableWitness-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "synesthesia",
+        "version": "1.0.0"
+      },
+      "demand": "measurableWitness",
+      "modelDraft": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:measurableWitness:11"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:measurableWitness:11"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:blindsight:explanation",
+      "sourceQuotes": [
+        {
+          "citationId": "blindsight-explanation-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "blindsight",
+        "version": "1.0.0"
+      },
+      "demand": "explanation",
+      "modelDraft": "Mock interrogation: Some people with damage to primary visual cortex can discriminate stimuli in the affected field above chance while denying or lacking ordinary visual awareness. The uploaded paper must be checked for an explicit account rather than inferred from this fixture.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:blindsight:explanation:13"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Mock interrogation: Some people with damage to primary visual cortex can discriminate stimuli in the affected field above chance while denying or lacking ordinary visual awareness. The uploaded paper must be checked for an explicit account rather than inferred from this fixture.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:blindsight:explanation:13"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:blindsight:mechanism",
+      "sourceQuotes": [
+        {
+          "citationId": "blindsight-mechanism-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "blindsight",
+        "version": "1.0.0"
+      },
+      "demand": "mechanism",
+      "modelDraft": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:blindsight:mechanism:14"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:blindsight:mechanism:14"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:blindsight:novelPrediction",
+      "sourceQuotes": [
+        {
+          "citationId": "blindsight-novelPrediction-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "blindsight",
+        "version": "1.0.0"
+      },
+      "demand": "novelPrediction",
+      "modelDraft": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Blindsight stimulus conditions fixed.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:blindsight:novelPrediction:15"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Blindsight stimulus conditions fixed.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:blindsight:novelPrediction:15"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:blindsight:falsifier",
+      "sourceQuotes": [
+        {
+          "citationId": "blindsight-falsifier-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "blindsight",
+        "version": "1.0.0"
+      },
+      "demand": "falsifier",
+      "modelDraft": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:blindsight:falsifier:16"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:blindsight:falsifier:16"
+      }
+    },
+    {
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:blindsight:measurableWitness",
+      "sourceQuotes": [
+        {
+          "citationId": "blindsight-measurableWitness-1",
+          "quote": "Conscious experience depends on a recurrent witness process that integrates sensory evidence before deliberate report.",
+          "pdfPage": 1,
+          "verification": "exact"
+        }
+      ],
+      "challenge": {
+        "id": "blindsight",
+        "version": "1.0.0"
+      },
+      "demand": "measurableWitness",
+      "modelDraft": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report.",
+      "humanEventIds": [
+        "event:claim:00000000-0000-4000-8000-000000000001:blindsight:measurableWitness:17"
+      ],
+      "finalCall": {
+        "decision": "accepted",
+        "value": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report.",
+        "eventId": "event:claim:00000000-0000-4000-8000-000000000001:blindsight:measurableWitness:17"
+      }
+    }
+  ],
+  "reviewEvents": [
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:explanation:1",
+      "sequence": 1,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:provenance-flip:explanation",
+      "decision": "accepted",
+      "modelValue": "Mock interrogation: A person's experience of an unchanged artwork can change after learning that it was human-made, AI-generated, forged, stolen, or produced without consent. The uploaded paper must be checked for an explicit account rather than inferred from this fixture."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:mechanism:2",
+      "sequence": 2,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:provenance-flip:mechanism",
+      "decision": "revised",
+      "modelValue": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use.",
+      "humanValue": "Human revision: the witness must causally precede evaluation and report.",
+      "reason": "The mock mechanism did not discriminate experience from later evaluation."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:novelPrediction:3",
+      "sequence": 3,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:provenance-flip:novelPrediction",
+      "decision": "accepted",
+      "modelValue": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Provenance Flip stimulus conditions fixed."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:falsifier:4",
+      "sequence": 4,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:provenance-flip:falsifier",
+      "decision": "accepted",
+      "modelValue": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:provenance-flip:measurableWitness:5",
+      "sequence": 5,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:provenance-flip:measurableWitness",
+      "decision": "accepted",
+      "modelValue": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report."
+    },
+    {
+      "eventId": "event:verdict:00000000-0000-4000-8000-000000000001:provenance-flip:6",
+      "sequence": 6,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "verdict:00000000-0000-4000-8000-000000000001:provenance-flip",
+      "decision": "accepted",
+      "modelValue": "insufficient_evidence"
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:explanation:7",
+      "sequence": 7,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:synesthesia:explanation",
+      "decision": "accepted",
+      "modelValue": "Mock interrogation: An inducer in one domain reliably and involuntarily evokes a conscious concurrent in another, such as a grapheme evoking a colour not present in the stimulus. The uploaded paper must be checked for an explicit account rather than inferred from this fixture."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:mechanism:8",
+      "sequence": 8,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:synesthesia:mechanism",
+      "decision": "accepted",
+      "modelValue": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:novelPrediction:9",
+      "sequence": 9,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:synesthesia:novelPrediction",
+      "decision": "accepted",
+      "modelValue": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Synesthesia stimulus conditions fixed."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:falsifier:10",
+      "sequence": 10,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:synesthesia:falsifier",
+      "decision": "accepted",
+      "modelValue": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:synesthesia:measurableWitness:11",
+      "sequence": 11,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:synesthesia:measurableWitness",
+      "decision": "accepted",
+      "modelValue": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report."
+    },
+    {
+      "eventId": "event:verdict:00000000-0000-4000-8000-000000000001:synesthesia:12",
+      "sequence": 12,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "verdict:00000000-0000-4000-8000-000000000001:synesthesia",
+      "decision": "accepted",
+      "modelValue": "insufficient_evidence"
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:blindsight:explanation:13",
+      "sequence": 13,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:blindsight:explanation",
+      "decision": "accepted",
+      "modelValue": "Mock interrogation: Some people with damage to primary visual cortex can discriminate stimuli in the affected field above chance while denying or lacking ordinary visual awareness. The uploaded paper must be checked for an explicit account rather than inferred from this fixture."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:blindsight:mechanism:14",
+      "sequence": 14,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:blindsight:mechanism",
+      "decision": "accepted",
+      "modelValue": "Mock mechanism placeholder grounded to a real paper quote but requiring human revision before scientific use."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:blindsight:novelPrediction:15",
+      "sequence": 15,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:blindsight:novelPrediction",
+      "decision": "accepted",
+      "modelValue": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Blindsight stimulus conditions fixed."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:blindsight:falsifier:16",
+      "sequence": 16,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:blindsight:falsifier",
+      "decision": "accepted",
+      "modelValue": "Model-proposed extension: the account is weakened if the predicted witness remains unchanged when its proposed mechanism is selectively disrupted."
+    },
+    {
+      "eventId": "event:claim:00000000-0000-4000-8000-000000000001:blindsight:measurableWitness:17",
+      "sequence": 17,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "claim:00000000-0000-4000-8000-000000000001:blindsight:measurableWitness",
+      "decision": "accepted",
+      "modelValue": "Mock witness placeholder: define a time-local observable that separates phenomenal change from evaluation, association, or report."
+    },
+    {
+      "eventId": "event:verdict:00000000-0000-4000-8000-000000000001:blindsight:18",
+      "sequence": 18,
+      "recordedAt": "2026-07-20T20:00:00.000Z",
+      "reviewerAlias": "Kris Krüg",
+      "claimId": "verdict:00000000-0000-4000-8000-000000000001:blindsight",
+      "decision": "accepted",
+      "modelValue": "insufficient_evidence"
+    }
+  ],
+  "stressFractureMap": [
+    {
+      "challengeId": "provenance-flip",
+      "modelVerdict": "insufficient_evidence",
+      "humanVerdict": "insufficient_evidence",
+      "humanDecision": "accepted"
+    },
+    {
+      "challengeId": "synesthesia",
+      "modelVerdict": "insufficient_evidence",
+      "humanVerdict": "insufficient_evidence",
+      "humanDecision": "accepted"
+    },
+    {
+      "challengeId": "blindsight",
+      "modelVerdict": "insufficient_evidence",
+      "humanVerdict": "insufficient_evidence",
+      "humanDecision": "accepted"
+    }
+  ],
+  "witnessProtocols": [
+    {
+      "challengeId": "provenance-flip",
+      "prediction": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Provenance Flip stimulus conditions fixed.",
+      "intervention": "Manipulate the paper’s proposed conscious mechanism",
+      "observable": "challenge-specific time-local response",
+      "method": "preregistered behavioural and physiological measurement",
+      "contrast": "mechanism present versus selectively disrupted",
+      "expectedSignature": "a directional divergence before or independently of final report",
+      "extractionConfidence": "low"
+    },
+    {
+      "challengeId": "synesthesia",
+      "prediction": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Synesthesia stimulus conditions fixed.",
+      "intervention": "Manipulate the paper’s proposed conscious mechanism",
+      "observable": "challenge-specific time-local response",
+      "method": "preregistered behavioural and physiological measurement",
+      "contrast": "mechanism present versus selectively disrupted",
+      "expectedSignature": "a directional divergence before or independently of final report",
+      "extractionConfidence": "medium"
+    },
+    {
+      "challengeId": "blindsight",
+      "prediction": "Model-proposed extension: intervene on the mechanism named by the paper while holding the Blindsight stimulus conditions fixed.",
+      "intervention": "Manipulate the paper’s proposed conscious mechanism",
+      "observable": "challenge-specific time-local response",
+      "method": "preregistered behavioural and physiological measurement",
+      "contrast": "mechanism present versus selectively disrupted",
+      "expectedSignature": "a directional divergence before or independently of final report",
+      "extractionConfidence": "medium"
+    }
+  ],
+  "summary": "MAC Lab #001 Minimum Viable Consciousness Requirements 1.0.0 recorded a human-reviewed adversarial evidence trail for Witness Theory across 3 challenges. Categorical calls: provenance flip — insufficient evidence; synesthesia — insufficient evidence; blindsight — insufficient evidence. The canonical receipt retains 3 witness protocols. No aggregate score or automatic consciousness verdict was produced.",
+  "legacyImport": {
+    "schemaVersion": "mac-evaluation-run/v1",
+    "originalIntegrityDigest": "0436031f69cc2dbc2569d674a0183f360e54133552955cf7b9bd66e2ffa3d693"
+  },
+  "integrityDigest": "2649e84d5f468b13351ed310ddd82507f38e0de1d4a4a348d2b0d49f230e3ce9"
+}

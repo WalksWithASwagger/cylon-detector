@@ -1,0 +1,18 @@
+{
+  "tool": "kk-voice/scripts/voicecheck.py",
+  "checkedAt": "2026-07-20",
+  "files": [
+    "bench.html",
+    "README.md",
+    "src/bench/main.ts",
+    "src/bench/mockAnalysis.ts",
+    "src/bench/artifact.ts",
+    "benchmarks/mac-lab-001/0.1.0-alpha.1.json",
+    "docs/roadmap/cylon-detector-roadmap.md",
+    "docs/research/product-research-2026-07-20.md"
+  ],
+  "result": {
+    "hits": 0,
+    "findings": []
+  }
+}

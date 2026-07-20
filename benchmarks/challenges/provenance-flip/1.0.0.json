@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "mac-challenge-definition/v2",
+  "id": "provenance-flip",
+  "version": "1.0.0",
+  "lifecycle": "provisional",
+  "title": "The Provenance Flip",
+  "phenomenon": "A person's experience of an unchanged artwork can change after learning that it was human-made, AI-generated, forged, stolen, or produced without consent.",
+  "adversarialPrompt": "Explain provenance-induced aesthetic reversal: how non-sensory knowledge about the origin, authorship, or ethics of an unchanged work could change what experiencing it feels like. Distinguish phenomenal change from a change in evaluation, decision, or report.",
+  "rationale": "The sensory signal stays fixed while beauty, revulsion, meaning, trust, or emotional charge may reverse, forcing a theory to specify where top-down knowledge enters experience.",
+  "assumptions": [
+    "The sensory stimulus is unchanged between the blind and provenance-reveal conditions.",
+    "The provenance information is understood and believed by the participant."
+  ],
+  "knownConfounds": [
+    "Demand characteristics and social desirability can alter reports without altering experience.",
+    "Mislabelled provenance may change trust in the experimenter.",
+    "Memory of the first presentation may alter the second presentation."
+  ],
+  "targetCommitments": [
+    "Whether non-sensory knowledge can alter phenomenal character.",
+    "Where authorship, origin, and ethical appraisal enter the proposed mechanism.",
+    "What observation separates phenomenal change from evaluation or report."
+  ],
+  "empiricalAnchors": [
+    {
+      "label": "MAC Lab #001 candidate by Kris Krüg",
+      "url": "https://mac.bc-ai.ca/ai-events/lab-001-minimum-viable-consciousness-requirements/"
+    }
+  ],
+  "authorship": [
+    {
+      "name": "Kris Krüg",
+      "role": "challenge author"
+    }
+  ],
+  "changeMindObservation": "A preregistered blinded study repeatedly finds evaluation and report changes after provenance reveal but no discriminating pre-report experiential witness predicted by the theory.",
+  "demands": [
+    "explanation",
+    "mechanism",
+    "novelPrediction",
+    "falsifier",
+    "measurableWitness"
+  ],
+  "createdAt": "2026-07-20T00:00:00.000Z"
+}
