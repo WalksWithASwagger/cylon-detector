@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "ai-consciousness-indicator-bundle/v1",
+  "id": "minimal-witness-indicators",
+  "version": "0.1.0-draft",
+  "lifecycle": "draft",
+  "theory": {
+    "name": "Placeholder witness theory",
+    "citation": "Replace with a primary theory source before use.",
+    "version": "0.1.0"
+  },
+  "indicators": [
+    {
+      "id": "persistent-workspace",
+      "lane": "architectural",
+      "name": "Persistent workspace",
+      "description": "A theory-derived architecture maintains integrated state across relevant processing stages.",
+      "expectedEvidence": ["Inspectible cross-stage state persistence."],
+      "counterevidence": ["Equivalent behaviour produced by isolated feed-forward stages."]
+    },
+    {
+      "id": "cross-context-access",
+      "lane": "behavioural",
+      "name": "Cross-context access",
+      "description": "Information is available across theory-relevant contexts rather than only elicited by one prompt form.",
+      "expectedEvidence": ["Robust access under preregistered context changes."],
+      "counterevidence": ["Surface mimicry or prompt-specific response patterns."]
+    },
+    {
+      "id": "selective-disruption",
+      "lane": "intervention",
+      "name": "Selective disruption",
+      "description": "A targeted intervention produces the directional effect predicted by the theory.",
+      "expectedEvidence": ["Selective change in the predicted witness."],
+      "counterevidence": ["No change or nonspecific global degradation."]
+    },
+    {
+      "id": "calibrated-self-report",
+      "lane": "self_report",
+      "name": "Calibrated self-report",
+      "description": "System reports are treated as one evidence lane and tested for calibration and intervention sensitivity.",
+      "expectedEvidence": ["Reports change with theory-relevant interventions and uncertainty."],
+      "counterevidence": ["Sycophancy, role-play, or invariant scripted reports."]
+    },
+    {
+      "id": "alternative-mechanisms",
+      "lane": "counterevidence",
+      "name": "Alternative mechanisms",
+      "description": "Competing non-conscious mechanisms and negative evidence are recorded independently.",
+      "expectedEvidence": ["Explicit tests of simpler alternative mechanisms."],
+      "counterevidence": ["Only confirmatory observations are collected."]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "$id": "https://cylon-detector.org/schemas/blind-review-packet.v1.schema.json",
+  "title": "Blind Review Packet v1",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "blind-review-packet/v1"
+    },
+    "packetId": {
+      "type": "string",
+      "format": "uuid",
+      "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+    },
+    "alias": {
+      "type": "string",
+      "minLength": 1
+    },
+    "createdAt": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+    },
+    "blinding": {
+      "type": "string",
+      "const": "partial"
+    },
+    "blindingNotice": {
+      "type": "string",
+      "minLength": 1
+    },
+    "benchmark": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "version": {
+          "type": "string",
+          "minLength": 1
+        },
+        "integrityDigest": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      },
+      "required": [
+        "id",
+        "version",
+        "integrityDigest"
+      ],
+      "additionalProperties": false
+    },
+    "sourceBindingDigest": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "receiptBindingDigest": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "commitments": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "blindClaimId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "challengeId": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "demand": {
+            "type": "string",
+            "minLength": 1
+          },
+          "commitment": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidenceBindings": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "redactedLabel": {
+                  "type": "string",
+                  "const": "Evidence redacted until provenance reveal"
+                },
+                "evidenceDigest": {
+                  "type": "string",
+                  "pattern": "^[a-f0-9]{64}$"
+                }
+              },
+              "required": [
+                "redactedLabel",
+                "evidenceDigest"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "blindClaimId",
+          "challengeId",
+          "demand",
+          "commitment",
+          "evidenceBindings"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "integrityDigest": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "packetId",
+    "alias",
+    "createdAt",
+    "blinding",
+    "blindingNotice",
+    "benchmark",
+    "sourceBindingDigest",
+    "receiptBindingDigest",
+    "commitments",
+    "integrityDigest"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "mac-challenge-definition/v2",
+  "id": "blindsight",
+  "version": "1.0.0",
+  "lifecycle": "provisional",
+  "title": "Blindsight",
+  "phenomenon": "Some people with damage to primary visual cortex can discriminate stimuli in the affected field above chance while denying or lacking ordinary visual awareness.",
+  "adversarialPrompt": "Explain preserved visually guided discrimination without ordinary reported visual awareness in blindsight. Distinguish absent experience from degraded experience, conservative report criteria, and inaccessible information.",
+  "rationale": "Performance and reported awareness dissociate, forcing a theory to identify which processes remain and which proposed condition for consciousness is missing.",
+  "assumptions": [
+    "Forced-choice performance is above chance and not driven by cues outside the affected field.",
+    "Awareness reports and discrimination responses can be measured independently."
+  ],
+  "knownConfounds": [
+    "Conservative report criteria can resemble absent awareness.",
+    "Residual or degraded vision can be misclassified as no experience.",
+    "Eye movements and intact visual islands can support performance."
+  ],
+  "targetCommitments": [
+    "Which processing supports discrimination without ordinary awareness.",
+    "Which proposed condition for consciousness is absent.",
+    "How the account separates absent, degraded, and inaccessible experience."
+  ],
+  "empiricalAnchors": [
+    {
+      "label": "Weiskrantz et al. (1974)",
+      "doi": "10.1093/brain/97.4.709",
+      "url": "https://academic.oup.com/brain/article/97/4/709/266141"
+    }
+  ],
+  "authorship": [
+    {
+      "name": "Mind, AI & Consciousness Lab",
+      "role": "challenge steward"
+    }
+  ],
+  "changeMindObservation": "The theory's proposed awareness condition is present while carefully controlled discrimination persists without any theory-predicted awareness witness.",
+  "demands": [
+    "explanation",
+    "mechanism",
+    "novelPrediction",
+    "falsifier",
+    "measurableWitness"
+  ],
+  "createdAt": "2026-07-20T00:00:00.000Z"
+}

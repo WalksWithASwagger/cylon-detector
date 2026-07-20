@@ -1,0 +1,1115 @@
+{
+  "$id": "https://cylon-detector.org/schemas/evaluation-run.v1.schema.json",
+  "title": "MAC Consciousness Evaluation Run v1",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "mac-evaluation-run/v1"
+    },
+    "runId": {
+      "type": "string",
+      "format": "uuid",
+      "pattern": "^([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$"
+    },
+    "artifactStatus": {
+      "type": "string",
+      "enum": [
+        "unadjudicated",
+        "adjudicated"
+      ]
+    },
+    "appVersion": {
+      "type": "string",
+      "const": "0.1.0-alpha.1"
+    },
+    "sourceCommit": {
+      "type": "string",
+      "minLength": 1
+    },
+    "createdAt": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+    },
+    "paper": {
+      "type": "object",
+      "properties": {
+        "fileName": {
+          "type": "string",
+          "minLength": 1
+        },
+        "byteSize": {
+          "type": "integer",
+          "exclusiveMinimum": 0,
+          "maximum": 9007199254740991
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "textSha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "pageCount": {
+          "type": "integer",
+          "exclusiveMinimum": 0,
+          "maximum": 9007199254740991
+        },
+        "characterCount": {
+          "type": "integer",
+          "exclusiveMinimum": 0,
+          "maximum": 9007199254740991
+        },
+        "title": {
+          "type": "string"
+        },
+        "authors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "year": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "doi": {
+          "type": "string"
+        },
+        "sourceUrl": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "required": [
+        "fileName",
+        "byteSize",
+        "sha256",
+        "textSha256",
+        "pageCount",
+        "characterCount"
+      ],
+      "additionalProperties": false
+    },
+    "benchmark": {
+      "type": "object",
+      "properties": {
+        "schemaVersion": {
+          "type": "string",
+          "const": "mac-benchmark-definition/v1"
+        },
+        "id": {
+          "type": "string",
+          "const": "mac-lab-001"
+        },
+        "version": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "type": "string",
+          "const": "provisional"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "authors": {
+          "minItems": 1,
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "role": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "name",
+              "role"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "sourceUrls": {
+          "minItems": 1,
+          "type": "array",
+          "items": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+        },
+        "demands": {
+          "minItems": 5,
+          "maxItems": 5,
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "explanation",
+              "mechanism",
+              "novelPrediction",
+              "falsifier",
+              "measurableWitness"
+            ]
+          }
+        },
+        "challenges": {
+          "minItems": 3,
+          "maxItems": 3,
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "enum": [
+                  "provenance-flip",
+                  "synesthesia",
+                  "blindsight"
+                ]
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "shortName": {
+                "type": "string",
+                "minLength": 1
+              },
+              "phenomenon": {
+                "type": "string",
+                "minLength": 1
+              },
+              "adversarialPrompt": {
+                "type": "string",
+                "minLength": 1
+              },
+              "rationale": {
+                "type": "string",
+                "minLength": 1
+              },
+              "empiricalAnchors": {
+                "minItems": 1,
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "label": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "doi": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  "required": [
+                    "label",
+                    "url"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "demands": {
+                "minItems": 5,
+                "maxItems": 5,
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": [
+                    "explanation",
+                    "mechanism",
+                    "novelPrediction",
+                    "falsifier",
+                    "measurableWitness"
+                  ]
+                }
+              }
+            },
+            "required": [
+              "id",
+              "name",
+              "shortName",
+              "phenomenon",
+              "adversarialPrompt",
+              "rationale",
+              "empiricalAnchors",
+              "demands"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "schemaVersion",
+        "id",
+        "version",
+        "status",
+        "title",
+        "description",
+        "authors",
+        "sourceUrls",
+        "createdAt",
+        "demands",
+        "challenges"
+      ],
+      "additionalProperties": false
+    },
+    "benchmarkDigest": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "analysis": {
+      "type": "object",
+      "properties": {
+        "mode": {
+          "type": "string",
+          "enum": [
+            "mock",
+            "live"
+          ]
+        },
+        "provider": {
+          "type": "string",
+          "minLength": 1
+        },
+        "model": {
+          "type": "string",
+          "minLength": 1
+        },
+        "reasoningEffort": {
+          "type": "string",
+          "minLength": 1
+        },
+        "promptVersion": {
+          "type": "string",
+          "minLength": 1
+        },
+        "promptDigest": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "responseId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "inputTokens": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "outputTokens": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "latencyMs": {
+          "type": "number",
+          "minimum": 0
+        },
+        "store": {
+          "type": "boolean",
+          "const": false
+        }
+      },
+      "required": [
+        "mode",
+        "provider",
+        "model",
+        "reasoningEffort",
+        "promptVersion",
+        "promptDigest",
+        "responseId",
+        "inputTokens",
+        "outputTokens",
+        "latencyMs",
+        "store"
+      ],
+      "additionalProperties": false
+    },
+    "aiDraft": {
+      "type": "object",
+      "properties": {
+        "theory": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string",
+              "minLength": 1
+            },
+            "summary": {
+              "type": "string",
+              "minLength": 1
+            },
+            "centralClaims": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations"
+                ],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": [
+            "name",
+            "summary",
+            "centralClaims"
+          ],
+          "additionalProperties": false
+        },
+        "challenges": {
+          "minItems": 3,
+          "maxItems": 3,
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "challengeId": {
+                "type": "string",
+                "enum": [
+                  "provenance-flip",
+                  "synesthesia",
+                  "blindsight"
+                ]
+              },
+              "explanation": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations"
+                ],
+                "additionalProperties": false
+              },
+              "mechanism": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "steps": {
+                    "minItems": 1,
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations",
+                  "steps"
+                ],
+                "additionalProperties": false
+              },
+              "novelPrediction": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "intervention": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "independentVariable": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "dependentMeasure": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "populationOrSystem": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "directionalOutcome": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations",
+                  "intervention",
+                  "independentVariable",
+                  "dependentMeasure",
+                  "populationOrSystem",
+                  "directionalOutcome"
+                ],
+                "additionalProperties": false
+              },
+              "falsifier": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "incompatibleObservation": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "rationale": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations",
+                  "incompatibleObservation",
+                  "rationale"
+                ],
+                "additionalProperties": false
+              },
+              "measurableWitness": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "citations": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "pdfPage": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0,
+                          "maximum": 9007199254740991
+                        },
+                        "printedPageLabel": {
+                          "type": "string"
+                        },
+                        "quote": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 600
+                        },
+                        "locationHint": {
+                          "type": "string",
+                          "maxLength": 240
+                        },
+                        "supportsField": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 240
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "pdfPage",
+                        "quote",
+                        "supportsField"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "observable": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "method": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "contrast": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "expectedSignature": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "text",
+                  "citations",
+                  "observable",
+                  "method",
+                  "contrast",
+                  "expectedSignature"
+                ],
+                "additionalProperties": false
+              },
+              "evasionFlags": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "proposedVerdict": {
+                "type": "string",
+                "enum": [
+                  "survives",
+                  "strained",
+                  "evades",
+                  "breaks",
+                  "insufficient_evidence"
+                ]
+              },
+              "verdictRationale": {
+                "type": "string",
+                "minLength": 1
+              },
+              "extractionConfidence": {
+                "type": "string",
+                "enum": [
+                  "low",
+                  "medium",
+                  "high"
+                ]
+              }
+            },
+            "required": [
+              "challengeId",
+              "explanation",
+              "mechanism",
+              "novelPrediction",
+              "falsifier",
+              "measurableWitness",
+              "evasionFlags",
+              "proposedVerdict",
+              "verdictRationale",
+              "extractionConfidence"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "theory",
+        "challenges"
+      ],
+      "additionalProperties": false
+    },
+    "verifiedCitations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "pdfPage": {
+            "type": "integer",
+            "exclusiveMinimum": 0,
+            "maximum": 9007199254740991
+          },
+          "printedPageLabel": {
+            "type": "string"
+          },
+          "quote": {
+            "type": "string",
+            "minLength": 1
+          },
+          "locationHint": {
+            "type": "string"
+          },
+          "supportsField": {
+            "type": "string",
+            "minLength": 1
+          },
+          "verification": {
+            "type": "string",
+            "enum": [
+              "exact",
+              "normalized",
+              "not_found"
+            ]
+          },
+          "verifiedAt": {
+            "type": "string",
+            "format": "date-time",
+            "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+          }
+        },
+        "required": [
+          "id",
+          "pdfPage",
+          "quote",
+          "supportsField",
+          "verification",
+          "verifiedAt"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "humanAdjudication": {
+      "type": "object",
+      "properties": {
+        "reviewer": {
+          "type": "string",
+          "minLength": 1
+        },
+        "startedAt": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+        },
+        "completedAt": {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d(?::[0-5]\\d(?:\\.\\d+)?)?(?:Z))$"
+        },
+        "challenges": {
+          "type": "object",
+          "propertyNames": {
+            "type": "string",
+            "enum": [
+              "provenance-flip",
+              "synesthesia",
+              "blindsight"
+            ]
+          },
+          "additionalProperties": {
+            "type": "object",
+            "properties": {
+              "fields": {
+                "type": "object",
+                "propertyNames": {
+                  "type": "string",
+                  "enum": [
+                    "explanation",
+                    "mechanism",
+                    "novelPrediction",
+                    "falsifier",
+                    "measurableWitness"
+                  ]
+                },
+                "additionalProperties": {
+                  "type": "object",
+                  "properties": {
+                    "decision": {
+                      "type": "string",
+                      "enum": [
+                        "pending",
+                        "accepted",
+                        "revised",
+                        "rejected"
+                      ]
+                    },
+                    "aiValue": {
+                      "type": "string"
+                    },
+                    "adjudicatedValue": {
+                      "type": "string"
+                    },
+                    "reason": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "decision",
+                    "aiValue"
+                  ],
+                  "additionalProperties": false
+                },
+                "required": [
+                  "explanation",
+                  "mechanism",
+                  "novelPrediction",
+                  "falsifier",
+                  "measurableWitness"
+                ]
+              },
+              "verdict": {
+                "type": "object",
+                "properties": {
+                  "decision": {
+                    "type": "string",
+                    "enum": [
+                      "pending",
+                      "accepted",
+                      "revised",
+                      "rejected"
+                    ]
+                  },
+                  "aiValue": {
+                    "type": "string"
+                  },
+                  "adjudicatedValue": {
+                    "type": "string"
+                  },
+                  "reason": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "decision",
+                  "aiValue"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "fields",
+              "verdict"
+            ],
+            "additionalProperties": false
+          },
+          "required": [
+            "provenance-flip",
+            "synesthesia",
+            "blindsight"
+          ]
+        }
+      },
+      "required": [
+        "reviewer",
+        "startedAt",
+        "challenges"
+      ],
+      "additionalProperties": false
+    },
+    "finalVerdicts": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "enum": [
+          "provenance-flip",
+          "synesthesia",
+          "blindsight"
+        ]
+      },
+      "additionalProperties": {
+        "type": "string",
+        "enum": [
+          "survives",
+          "strained",
+          "evades",
+          "breaks",
+          "insufficient_evidence"
+        ]
+      },
+      "required": [
+        "provenance-flip",
+        "synesthesia",
+        "blindsight"
+      ]
+    },
+    "experimentQueue": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "challengeId": {
+            "type": "string",
+            "enum": [
+              "provenance-flip",
+              "synesthesia",
+              "blindsight"
+            ]
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "prediction": {
+            "type": "string",
+            "minLength": 1
+          },
+          "witness": {
+            "type": "string",
+            "minLength": 1
+          },
+          "extractionConfidence": {
+            "type": "string",
+            "enum": [
+              "low",
+              "medium",
+              "high"
+            ]
+          }
+        },
+        "required": [
+          "challengeId",
+          "title",
+          "prediction",
+          "witness",
+          "extractionConfidence"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "artifactSha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "runId",
+    "artifactStatus",
+    "appVersion",
+    "sourceCommit",
+    "createdAt",
+    "paper",
+    "benchmark",
+    "benchmarkDigest",
+    "analysis",
+    "aiDraft",
+    "verifiedCitations",
+    "humanAdjudication",
+    "experimentQueue",
+    "summary",
+    "artifactSha256"
+  ],
+  "additionalProperties": false
+}

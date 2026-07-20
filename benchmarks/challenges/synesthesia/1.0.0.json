@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "mac-challenge-definition/v2",
+  "id": "synesthesia",
+  "version": "1.0.0",
+  "lifecycle": "provisional",
+  "title": "Synesthesia",
+  "phenomenon": "An inducer in one domain reliably and involuntarily evokes a conscious concurrent in another, such as a grapheme evoking a colour not present in the stimulus.",
+  "adversarialPrompt": "Explain stable, involuntary cross-domain conscious concurrents in synesthesia. Distinguish the experienced concurrent from learned association, imagery, attention, memory, and report strategy.",
+  "rationale": "A strong account must locate both the inducer and the experienced concurrent while explaining how content absent from the external stimulus becomes consciously present.",
+  "assumptions": [
+    "The reported concurrent is experienced rather than strategically described.",
+    "Inducer-concurrent pairings are sufficiently stable to test."
+  ],
+  "knownConfounds": [
+    "Learned associations can mimic stable inducer-concurrent mappings.",
+    "Imagery ability and attention can influence behavioural signatures.",
+    "Self-selection can distort prevalence and strength estimates."
+  ],
+  "targetCommitments": [
+    "How internally generated content becomes consciously present.",
+    "Why the concurrent is stable, automatic, and stimulus-specific.",
+    "What separates a conscious concurrent from association or imagery."
+  ],
+  "empiricalAnchors": [
+    {
+      "label": "Ramachandran and Hubbard (2001)",
+      "doi": "10.1098/rspb.2000.1576",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11370973/"
+    }
+  ],
+  "authorship": [
+    {
+      "name": "Mind, AI & Consciousness Lab",
+      "role": "challenge steward"
+    }
+  ],
+  "changeMindObservation": "The theory's proposed conscious mechanism can be disrupted without changing preregistered measures that distinguish concurrents from learned association or imagery.",
+  "demands": [
+    "explanation",
+    "mechanism",
+    "novelPrediction",
+    "falsifier",
+    "measurableWitness"
+  ],
+  "createdAt": "2026-07-20T00:00:00.000Z"
+}

@@ -1,0 +1,24 @@
+{
+  "tool": "kk-voice/scripts/voicecheck.py",
+  "checkedAt": "2026-07-20",
+  "files": [
+    "bench.html",
+    "README.md",
+    "src/bench/main.ts",
+    "src/bench/mockAnalysis.ts",
+    "src/bench/artifact.ts",
+    "benchmarks/mac-lab-001/0.1.0-alpha.1.json"
+  ],
+  "result": {
+    "hits": 8,
+    "findings": [
+      { "file": "bench.html", "line": 8, "pattern": "em_dash" },
+      { "file": "bench.html", "line": 50, "pattern": "em_dash" },
+      { "file": "bench.html", "line": 71, "pattern": "em_dash", "count": 2 },
+      { "file": "bench.html", "line": 107, "pattern": "em_dash" },
+      { "file": "bench.html", "line": 116, "pattern": "em_dash" },
+      { "file": "bench.html", "line": 130, "pattern": "em_dash" },
+      { "file": "src/bench/main.ts", "line": 270, "pattern": "unlock" }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "mac-benchmark-definition/v2",
+  "id": "mac-lab-001",
+  "version": "1.0.0",
+  "lifecycle": "provisional",
+  "title": "MAC Lab #001 Minimum Viable Consciousness Requirements",
+  "description": "Versioned adversarial phenomena used to expose what a theory paper explains, predicts, falsifies, or evades.",
+  "authorship": [
+    {
+      "name": "Mind, AI & Consciousness Lab",
+      "role": "benchmark steward"
+    },
+    {
+      "name": "Kris Krüg",
+      "role": "product steward and Provenance Flip author"
+    }
+  ],
+  "sourceUrls": [
+    "https://mac.bc-ai.ca/ai-events/lab-001-minimum-viable-consciousness-requirements/",
+    "https://noocore.com/MAC/MVC-UI.html"
+  ],
+  "createdAt": "2026-07-20T00:00:00.000Z",
+  "demands": [
+    "explanation",
+    "mechanism",
+    "novelPrediction",
+    "falsifier",
+    "measurableWitness"
+  ],
+  "challenges": [
+    {
+      "id": "provenance-flip",
+      "version": "1.0.0",
+      "integrityDigest": "00574c973664dc36b022b3b33892359398fc61c13774e0ff8d044b36027f2199"
+    },
+    {
+      "id": "synesthesia",
+      "version": "1.0.0",
+      "integrityDigest": "b5239d98e3ff79a18a4c3c11ca5384ecc7411198831fe29b4c926851d9c71667"
+    },
+    {
+      "id": "blindsight",
+      "version": "1.0.0",
+      "integrityDigest": "b5f670b7640490defda2266f7327dd75fb1dd81b963fbc7ab47b5fe4c49a5cba"
+    }
+  ],
+  "integrityDigest": "d1fcec492d83792f67a20114aa87751573ae59c529daf3ea5e89a800ecb73877"
+}
