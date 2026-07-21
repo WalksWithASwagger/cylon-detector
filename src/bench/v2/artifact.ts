@@ -310,16 +310,6 @@ async function upgradeV1(run: EvaluationRun, eventOverride?: ReviewEventV2[]): P
     expectedSignature: challenge.measurableWitness.expectedSignature,
     extractionConfidence: challenge.extractionConfidence
   }))
-  const humanCalls = stressFractureMap.flatMap(fracture => fracture.humanVerdict
-    ? [`${fracture.challengeId.replace(/-/g, ' ')} — ${fracture.humanVerdict.replace(/_/g, ' ')}`]
-    : [])
-  const reviewState = humanCalls.length === stressFractureMap.length
-    ? 'human-reviewed'
-    : humanCalls.length > 0
-      ? 'partially reviewed'
-      : 'unadjudicated'
-  const summary = `${defaultBenchmarkV2.title} ${defaultBenchmarkV2.version} recorded a ${reviewState} adversarial evidence trail for ${run.aiDraft.theory.name} across ${stressFractureMap.length} challenges. ${humanCalls.length > 0 ? `Categorical calls: ${humanCalls.join('; ')}.` : 'No final human calls have been recorded.'} The canonical receipt retains ${witnessProtocols.length} witness protocols. No aggregate score or automatic consciousness verdict was produced.`
-
   const unsigned = {
     schemaVersion: 'mac-evaluation-run/v2' as const,
     runId: run.runId,
@@ -339,7 +329,7 @@ async function upgradeV1(run: EvaluationRun, eventOverride?: ReviewEventV2[]): P
     reviewEvents,
     stressFractureMap,
     witnessProtocols,
-    summary,
+    summary: run.summary,
     legacyImport: {
       schemaVersion: 'mac-evaluation-run/v1' as const,
       originalIntegrityDigest: run.artifactSha256
