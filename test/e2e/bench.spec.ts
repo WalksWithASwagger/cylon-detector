@@ -243,6 +243,99 @@ test('exports a frozen preregistration and OSF-ready local package without an ex
   expect(osf.files.some((file: { name: string }) => file.name === 'ro-crate-metadata.json')).toBe(true)
 })
 
+test('keeps critical hero content inside the mobile viewport without a webfont', async ({ page }, testInfo) => {
+  const pageErrors: string[] = []
+  page.on('pageerror', error => pageErrors.push(error.message))
+  await page.addInitScript(() => {
+    Object.defineProperty(document.fonts, 'load', {
+      configurable: true,
+      value: () => Promise.reject(new Error('Synthetic display font rejection'))
+    })
+  })
+  await page.route(/https:\/\/fonts\.(?:googleapis|gstatic)\.com\/.*/, route => route.abort('blockedbyclient'))
+  await page.setViewportSize({ width: 375, height: 812 })
+  await page.goto('/bench')
+  await page.addStyleTag({ content: '@media (max-width: 760px) { #bench-title { font-family: monospace !important; letter-spacing: 0 !important; } }' })
+  await page.evaluate(() => document.fonts.ready)
+  await expect(page.locator('#bench-title')).toHaveCSS('font-family', 'monospace')
+  await expect(page.locator('#bench-title')).toHaveCSS('font-size', '48.75px')
+  expect(await page.locator('html').evaluate(element => element.classList.contains('display-font-ready'))).toBe(false)
+  expect(pageErrors).toEqual([])
+  await page.locator('.hero').screenshot({ path: testInfo.outputPath('hero-mobile.png') })
+
+  for (const selector of ['#bench-title', '.hero > p', '.hero-warning']) {
+    const target = page.locator(selector)
+    await expect(target).toBeVisible()
+    await expect(target).toBeInViewport({ ratio: 1 })
+    const bounds = await target.boundingBox()
+    expect(bounds, `${selector} should have visible bounds`).not.toBeNull()
+    expect(bounds!.x, `${selector} should not cross the left viewport edge`).toBeGreaterThanOrEqual(0)
+    expect(bounds!.x + bounds!.width, `${selector} should not cross the right viewport edge`).toBeLessThanOrEqual(375)
+    const contentBounds = await target.evaluate(element => {
+      const range = document.createRange()
+      range.selectNodeContents(element)
+      return Array.from(range.getClientRects(), rect => ({ left: rect.left, right: rect.right }))
+    })
+    for (const content of contentBounds) {
+      expect(content.left, `${selector} content should not cross the left viewport edge`).toBeGreaterThanOrEqual(0)
+      expect(content.right, `${selector} content should not cross the right viewport edge`).toBeLessThanOrEqual(375)
+    }
+  }
+
+  await page.setViewportSize({ width: 1280, height: 800 })
+  expect(await page.locator('#bench-title').evaluate(element => getComputedStyle(element).fontFamily)).not.toBe('monospace')
+  await page.locator('.hero').screenshot({ path: testInfo.outputPath('hero-desktop.png') })
+  for (const selector of ['#bench-title', '.hero > p', '.hero-warning']) {
+    const target = page.locator(selector)
+    await expect(target).toBeVisible()
+    await expect(target).toBeInViewport({ ratio: 1 })
+    const bounds = await target.boundingBox()
+    expect(bounds, `${selector} should retain visible desktop bounds`).not.toBeNull()
+    expect(bounds!.x + bounds!.width, `${selector} should remain inside the desktop viewport`).toBeLessThanOrEqual(1280)
+  }
+})
+
+test('restores the large mobile title only after the display font reports loaded', async ({ page }, testInfo) => {
+  await page.addInitScript(() => {
+    Object.defineProperty(document.fonts, 'load', {
+      configurable: true,
+      value: async () => [{ status: 'loaded' }]
+    })
+  })
+  await page.route(/https:\/\/fonts\.(?:googleapis|gstatic)\.com\/.*/, route => route.abort('blockedbyclient'))
+  await page.setViewportSize({ width: 375, height: 812 })
+  await page.goto('/bench')
+  await page.addStyleTag({ content: '@media (max-width: 760px) { #bench-title { font-family: monospace !important; letter-spacing: -.3em !important; } }' })
+  await page.locator('.hero').screenshot({ path: testInfo.outputPath('hero-font-ready.png') })
+
+  await expect(page.locator('html')).toHaveClass(/display-font-ready/)
+  const title = page.locator('#bench-title')
+  await expect(title).toHaveCSS('font-size', '86.25px')
+  await expect(title).toBeVisible()
+  await expect(title).toBeInViewport({ ratio: 1 })
+  const contentBounds = await title.evaluate(element => {
+    const range = document.createRange()
+    range.selectNodeContents(element)
+    return Array.from(range.getClientRects(), rect => ({ left: rect.left, right: rect.right }))
+  })
+  expect(contentBounds.every(bounds => bounds.left >= 0 && bounds.right <= 375)).toBe(true)
+})
+
+test('keeps the safe mobile title when the Font Loading API is absent', async ({ page }) => {
+  const pageErrors: string[] = []
+  page.on('pageerror', error => pageErrors.push(error.message))
+  await page.addInitScript(() => {
+    Object.defineProperty(document, 'fonts', { configurable: true, value: undefined })
+  })
+  await page.route(/https:\/\/fonts\.(?:googleapis|gstatic)\.com\/.*/, route => route.abort('blockedbyclient'))
+  await page.setViewportSize({ width: 375, height: 812 })
+  await page.goto('/bench')
+
+  await expect(page.locator('#bench-title')).toHaveCSS('font-size', '48.75px')
+  expect(await page.locator('html').evaluate(element => element.classList.contains('display-font-ready'))).toBe(false)
+  expect(pageErrors).toEqual([])
+})
+
 test('supports keyboard completion, screen-reader state, reduced motion, mobile layout, and 200 percent zoom', async ({ page }, testInfo) => {
   const pdfPath = testInfo.outputPath('accessible-witness.pdf')
   await writeFile(pdfPath, pdfFixture(

@@ -29,6 +29,21 @@ import { mountExperimentsWorkspace } from './experimentsUi'
 
 declare const __SOURCE_COMMIT__: string
 
+async function markDisplayFontReady() {
+  const fontSet = document.fonts
+  if (!fontSet || typeof fontSet.load !== 'function') return
+  try {
+    const faces = await fontSet.load('16px "Bebas Neue"', 'INTERROGATE THE THEORY')
+    if (faces.length > 0 && faces.every(face => face.status === 'loaded')) {
+      document.documentElement.classList.add('display-font-ready')
+    }
+  } catch {
+    return
+  }
+}
+
+void markDisplayFontReady()
+
 const demandLabels: Record<DemandKey, string> = {
   explanation: 'Explanation',
   mechanism: 'Mechanism',

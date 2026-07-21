@@ -352,8 +352,9 @@ main { width: min(1560px, 100%); margin: 0 auto; padding: 0 32px; }
   .mode-switch { display: none; }
   .header-state { font-size: 0; }
   main { padding: 0 16px; }
-  .hero { min-height: 540px; padding-top: 85px; }
-  .hero h1 { font-size: clamp(68px, 23vw, 110px); }
+  .hero { min-height: 540px; padding-top: 85px; grid-template-columns: minmax(0, 1fr); }
+  .hero h1 { font-size: 13vw; }
+  .display-font-ready .hero h1 { font-size: clamp(68px, 23vw, 110px); }
   .hero-index { font-size: 180px; }
   .hero::after { width: 150px; height: 150px; }
   .phase-rail { overflow-x: auto; grid-template-columns: repeat(5, minmax(118px, 1fr)); }
