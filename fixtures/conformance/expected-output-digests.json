@@ -1,0 +1,34 @@
+{
+  "synthetic-v2": {
+    "schemaVersion": "cylon-receipt-conformance/v1",
+    "originalSchemaVersion": "mac-evaluation-run/v2",
+    "exportedSchemaVersion": "mac-evaluation-run/v2",
+    "receiptIntegrityDigest": "0f45bd99a4c0c6282989241af49a5f70fe07b7d6400376fdca7f805fa5ae2843",
+    "benchmarkIntegrityDigest": "d1fcec492d83792f67a20114aa87751573ae59c529daf3ea5e89a800ecb73877",
+    "outputs": {
+      "canonical-receipt.v2.json": "eeb72f88e7a168c94c26fbbea5eba0a4407fc976a0c485476a856125e4516ec2",
+      "lab-note.html": "04d8d1dff8818b3973dec4c5807daf39935ad8d448d656f223404045dccb673f",
+      "methods-and-evidence.html": "f353bf6b3e2851645846f5cbc301a1177aea5c0cb0d115990ff54d852224feef",
+      "claim-ledger.csv": "56f192b8f36dfbaee92fc7463661141f6a1dd28df09514636701252efb534b95",
+      "claim-ledger.json": "65935a08035b681057759941c93058f8803187afedaec83220708c4d51863066",
+      "stress-fracture-map.json": "6d16ccc76ee99d44f39bd74fa4b9cee99b1194259adc4d048ec5ebf21b935078",
+      "witness-protocols.json": "e0ad797996cb51ba267832484e93e5c6202bff81366d1b5839be5754fd1c7ae9"
+    }
+  },
+  "synthetic-v1-normalized": {
+    "schemaVersion": "cylon-receipt-conformance/v1",
+    "originalSchemaVersion": "mac-evaluation-run/v1",
+    "exportedSchemaVersion": "mac-evaluation-run/v2",
+    "receiptIntegrityDigest": "e13712d8d799c639a8125f68d386706bfff12f9de27a763be88b2fc91a195b67",
+    "benchmarkIntegrityDigest": "d1fcec492d83792f67a20114aa87751573ae59c529daf3ea5e89a800ecb73877",
+    "outputs": {
+      "canonical-receipt.v2.json": "a99b2094cf2ab6f960030b6b0085901f5fa42b9672776ecff5972a58c05abc6d",
+      "lab-note.html": "17b12a5b53bc4adfa764c29dfa89d0ce33d0dfcbebaa79322722d660b6422906",
+      "methods-and-evidence.html": "b63047caab4a06610d6799d1f22d1e25f347e90830924332ec7c4d12a521aae4",
+      "claim-ledger.csv": "a8463fcfbc0db5a48e767e1a3735718cc1138b31301f6034fd7c78fe269dd97e",
+      "claim-ledger.json": "407d81e79e66cabaa24a22674993d48d5c5e61e03608a06a89ffcc0da6e92b8b",
+      "stress-fracture-map.json": "56bc6608d6ce5f43c5c8483454f3bd9345d456d80ea469f437f24ca3bd6e993f",
+      "witness-protocols.json": "e0ad797996cb51ba267832484e93e5c6202bff81366d1b5839be5754fd1c7ae9"
+    }
+  }
+}

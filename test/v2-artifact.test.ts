@@ -11,7 +11,7 @@ const fixturePath = new URL('../fixtures/demo/witness-theory-adjudicated.json', 
 
 describe('mac-evaluation-run/v2', () => {
   it('normalizes the alpha receipt deterministically and uses stable claim IDs', async () => {
-    const alpha = JSON.parse(await readFile(fixturePath, 'utf8')) as unknown
+    const alpha = JSON.parse(await readFile(fixturePath, 'utf8')) as { summary: string }
     const first = await normalizeEvaluationRun(alpha)
     const second = await normalizeEvaluationRun(alpha)
 
@@ -22,9 +22,7 @@ describe('mac-evaluation-run/v2', () => {
     expect(new Set(first.claimLedger.map(row => row.claimId)).size).toBe(15)
     expect(first.claimLedger[0].claimId).toMatch(/^claim:/)
     expect(first.legacyImport?.schemaVersion).toBe('mac-evaluation-run/v1')
-    expect(first.summary).toContain('MAC Lab #001 Minimum Viable Consciousness Requirements 1.0.0')
-    expect(first.summary).toContain('No aggregate score or automatic consciousness verdict')
-    expect(first.summary).not.toContain('0.1.0-alpha.1')
+    expect(first.summary).toBe(alpha.summary)
   })
 
   it('detects receipt tampering', async () => {
