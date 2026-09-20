@@ -1,5 +1,7 @@
 export const mockApiSubmit = async (data: { name: string; email: string; message: string }) => {
-  await new Promise(resolve => setTimeout(resolve, 1000))
+  await new Promise(resolve => {
+    setTimeout(resolve, 1000)
+  })
   
   console.log('📨 Mock form submission:', {
     name: data.name || 'Not provided',

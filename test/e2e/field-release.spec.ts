@@ -86,7 +86,7 @@ async function mobileContainmentIssues(page: Page): Promise<string[]> {
   }), selectors)
 }
 
-test('field evidence guards reject tampering, privacy traffic, duplicate screenshots, and dirty-state lies', async ({}, testInfo) => {
+test('field evidence guards reject tampering, privacy traffic, duplicate screenshots, and dirty-state lies', async (_fixtures, testInfo) => {
   const injected: NetworkEvidence[] = [
     { method: 'GET', url: 'https://api.mixpanel.com/track' },
     { method: 'POST', url: 'https://storage.example.test/put', body: Buffer.from(sourceSentence).toString('base64') },

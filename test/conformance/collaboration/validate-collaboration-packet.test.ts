@@ -138,7 +138,9 @@ describe('collaboration packet conformance', () => {
     const events: string[] = []
     const first = withNetworkDisabled(async () => {
       events.push('first:start')
-      await new Promise(resolveDelay => setTimeout(resolveDelay, 20))
+      await new Promise(resolveDelay => {
+        setTimeout(resolveDelay, 20)
+      })
       events.push('first:end')
     })
     const second = withNetworkDisabled(async () => {

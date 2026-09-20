@@ -138,7 +138,11 @@ export class LanguagePopup {
   }
 
   toggle() {
-    this.isVisible ? this.hide() : this.show()
+    if (this.isVisible) {
+      this.hide()
+    } else {
+      this.show()
+    }
   }
 
   isOpen(): boolean {
