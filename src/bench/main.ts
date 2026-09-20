@@ -1,28 +1,38 @@
 import './styles.scss'
-import { applyReviewDecision, canExportAdjudicated, createReviewState, type ReviewState } from './adjudication'
+import { canExportAdjudicated } from './adjudication'
 import { requestAnalysis, type AnalysisTransport } from './apiClient'
 import { createEvaluationRun, reviewFieldKeys } from './artifact'
 import { benchmarkDefinition } from './benchmark'
 import { verifyCitations } from './citationVerifier'
 import {
   browserCheckpointDatabase,
-  checkpointPaperMatches,
-  createCheckpoint,
-  type BenchCheckpoint
+  createCheckpoint
 } from './checkpoint'
-import { extractPaper, renderPdfPage, type PaperSession } from './pdf'
-import { type AiDraft, type ChallengeId, type CitationDraft, type DemandKey, type VerifiedCitation, type Verdict } from './schema'
+import { extractPaper, renderPdfPage } from './pdf'
+import { type AiDraft, type ChallengeId, type CitationDraft, type DemandKey, type Verdict } from './schema'
 import type { AnalysisResponse } from './analysis'
 import {
-  appendReviewEvent,
   evaluationFileNameV2,
-  normalizeEvaluationRun,
-  type ReviewEventV2
+  normalizeEvaluationRun
 } from './v2/artifact'
+import {
+  applyAllLocalCheckpointsDeleted,
+  applyAnalysisResult,
+  applyCanonicalRun,
+  applyCheckpointArmed,
+  applyCheckpointResume,
+  applyLocalCheckpointDeleted,
+  applyLocalCheckpointSaved,
+  applyNewPaper,
+  applyReviewProgress,
+  createSessionState,
+  matchingPendingCheckpoint,
+  resolvedReviewCount,
+  totalReviewCalls
+} from './sessionState'
 import { analysisRequestV2Schema } from './v2/contracts'
-import { defaultBenchmarkV2, defaultChallengeDefinitions } from './v2/defaultRegistry'
+import { defaultBenchmarkV2 } from './v2/defaultRegistry'
 import { generateReportBundle, type ReportBundle } from './v2/reports'
-import type { EvaluationRunV2 } from './v2/artifact'
 import { mountCollaborationWorkspace } from './collaborationUi'
 import { mountResearchWorkspace } from './researchUi'
 import { mountExperimentsWorkspace } from './experimentsUi'
@@ -60,17 +70,8 @@ const verdictLabels: Record<Verdict, string> = {
   insufficient_evidence: 'Insufficient evidence'
 }
 
-let paperSession: PaperSession | null = null
-let analysisResponse: AnalysisResponse | null = null
-let review: ReviewState | null = null
-let verifiedCitations: VerifiedCitation[] = []
-let pendingCheckpoint: BenchCheckpoint | null = null
-let activeCheckpointId: string | null = null
-let lastIntegrityDigest: string | null = null
+let session = createSessionState()
 let evidenceReturnTarget: HTMLElement | null = null
-let currentRunId: string | null = null
-let lastCanonicalRun: EvaluationRunV2 | null = null
-let reviewEvents: ReviewEventV2[] = []
 const checkpointDatabase = browserCheckpointDatabase()
 
 function element<T extends HTMLElement>(id: string): T {
@@ -147,20 +148,9 @@ function formatBytes(bytes: number): string {
   return bytes < 1024 * 1024 ? `${(bytes / 1024).toFixed(1)} KB` : `${(bytes / (1024 * 1024)).toFixed(2)} MB`
 }
 
-function resolvedReviewCount(): number {
-  if (!review) return 0
-  return Object.values(review.challenges).reduce((total, challenge) =>
-    total + Object.values(challenge.fields).filter(field => field.decision !== 'pending').length +
-    (challenge.verdict.decision === 'pending' ? 0 : 1), 0)
-}
-
-function totalReviewCalls(): number {
-  return (analysisResponse?.draft.challenges.length ?? defaultChallengeDefinitions.length) * (reviewFieldKeys().length + 1)
-}
-
 function updateManifest() {
-  manifestSource.textContent = paperSession
-    ? `${paperSession.paper.pageCount} ${paperSession.paper.pageCount === 1 ? 'page' : 'pages'} / ${paperSession.paper.sha256.slice(0, 12)}`
+  manifestSource.textContent = session.paperSession
+    ? `${session.paperSession.paper.pageCount} ${session.paperSession.paper.pageCount === 1 ? 'page' : 'pages'} / ${session.paperSession.paper.sha256.slice(0, 12)}`
     : 'No paper'
   const transport = document.querySelector<HTMLInputElement>('input[name="transport"]:checked')?.value ?? 'local'
   manifestChannel.textContent = transport === 'server'
@@ -168,11 +158,11 @@ function updateManifest() {
     : transport === 'local-proxy'
       ? 'Local loopback proxy / human launched'
       : 'Local rehearsal'
-  manifestAnalysis.textContent = analysisResponse
-    ? `${analysisResponse.analysis.mode} / ${analysisResponse.analysis.model} / ${analysisResponse.analysis.promptVersion}`
+  manifestAnalysis.textContent = session.analysisResponse
+    ? `${session.analysisResponse.analysis.mode} / ${session.analysisResponse.analysis.model} / ${session.analysisResponse.analysis.promptVersion}`
     : 'No draft'
-  manifestHuman.textContent = `${resolvedReviewCount()} / ${totalReviewCalls()} calls`
-  manifestIntegrity.textContent = lastIntegrityDigest ? `SHA-256 / ${lastIntegrityDigest.slice(0, 12)}` : 'No artifact'
+  manifestHuman.textContent = `${resolvedReviewCount(session)} / ${totalReviewCalls(session)} calls`
+  manifestIntegrity.textContent = session.lastIntegrityDigest ? `SHA-256 / ${session.lastIntegrityDigest.slice(0, 12)}` : 'No artifact'
 }
 
 async function renderCheckpointList(selectedId?: string) {
@@ -196,19 +186,19 @@ async function renderCheckpointList(selectedId?: string) {
 }
 
 async function saveLocalCheckpoint() {
-  if (!paperSession || !analysisResponse || !review) return
+  if (!session.paperSession || !session.analysisResponse || !session.review) return
   try {
     const checkpoint = await createCheckpoint({
-      checkpointId: activeCheckpointId ?? crypto.randomUUID(),
-      ...(currentRunId ? { runId: currentRunId } : {}),
-      paper: paperSession.paper,
-      analysis: analysisResponse,
-      verifiedCitations,
-      review,
-      reviewEvents
+      checkpointId: session.activeCheckpointId ?? crypto.randomUUID(),
+      ...(session.currentRunId ? { runId: session.currentRunId } : {}),
+      paper: session.paperSession.paper,
+      analysis: session.analysisResponse,
+      verifiedCitations: session.verifiedCitations,
+      review: session.review,
+      reviewEvents: session.reviewEvents
     })
     await checkpointDatabase.put(checkpoint)
-    activeCheckpointId = checkpoint.checkpointId
+    session = applyLocalCheckpointSaved(session, checkpoint.checkpointId)
     await renderCheckpointList(checkpoint.checkpointId)
     checkpointResumeStatus.textContent = 'CHECKPOINT SAVED / PAPER BYTES AND FULL TEXT EXCLUDED'
     showToast('CHECKPOINT SAVED LOCALLY / PAPER BYTES AND FULL TEXT NOT STORED')
@@ -220,12 +210,13 @@ async function saveLocalCheckpoint() {
 async function prepareCheckpointResume() {
   if (!checkpointList.value) return
   try {
-    pendingCheckpoint = await checkpointDatabase.get(checkpointList.value) ?? null
-    if (!pendingCheckpoint) throw new Error('Checkpoint not found')
+    const checkpoint = await checkpointDatabase.get(checkpointList.value) ?? null
+    if (!checkpoint) throw new Error('Checkpoint not found')
+    session = applyCheckpointArmed(session, checkpoint)
     checkpointResumeStatus.textContent = 'RESELECT THE ORIGINAL PDF / HASH MATCH REQUIRED'
     showToast('Checkpoint armed. Reselect the original PDF to prove the source match.')
   } catch {
-    pendingCheckpoint = null
+    session = applyCheckpointArmed(session, null)
     showToast('That local checkpoint could not be opened.', 'error')
   }
 }
@@ -233,8 +224,7 @@ async function prepareCheckpointResume() {
 async function deleteSelectedCheckpoint() {
   if (!checkpointList.value || !window.confirm('Delete this local checkpoint? This cannot be undone.')) return
   await checkpointDatabase.delete(checkpointList.value)
-  if (activeCheckpointId === checkpointList.value) activeCheckpointId = null
-  pendingCheckpoint = null
+  session = applyLocalCheckpointDeleted(session, checkpointList.value)
   await renderCheckpointList()
   showToast('Local checkpoint deleted.')
 }
@@ -242,8 +232,7 @@ async function deleteSelectedCheckpoint() {
 async function deleteEveryCheckpoint() {
   if (!window.confirm('Delete every Cylon Detector checkpoint stored in this browser? This cannot be undone.')) return
   await checkpointDatabase.clear()
-  activeCheckpointId = null
-  pendingCheckpoint = null
+  session = applyAllLocalCheckpointsDeleted(session)
   await renderCheckpointList()
   showToast('All local checkpoints deleted.')
 }
@@ -256,30 +245,19 @@ async function acquirePaper(file: File) {
   setPhase('paper')
 
   try {
-    await paperSession?.document.cleanup()
-    paperSession = await extractPaper(file)
-    analysisResponse = null
-    review = null
-    verifiedCitations = []
-    reviewEvents = []
-    currentRunId = null
-    lastCanonicalRun = null
+    await session.paperSession?.document.cleanup()
+    const extracted = await extractPaper(file)
+    session = applyNewPaper(session, extracted)
     setReportAvailability(false)
-    const paper = paperSession.paper
-    const resumeCheckpoint = pendingCheckpoint && checkpointPaperMatches(paper, pendingCheckpoint)
-      ? pendingCheckpoint
-      : null
-    if (pendingCheckpoint && !resumeCheckpoint) {
+    const resumeCheckpoint = matchingPendingCheckpoint(session, extracted.paper)
+    if (session.pendingCheckpoint && !resumeCheckpoint) {
       checkpointResumeStatus.textContent = 'HASH MISMATCH / REVIEW NOT RESTORED'
       showToast('This PDF does not match the checkpoint. The saved review remains untouched.', 'error')
     }
     if (resumeCheckpoint) {
-      paper.title = resumeCheckpoint.paper.title
-      paper.authors = resumeCheckpoint.paper.authors
-      paper.year = resumeCheckpoint.paper.year
-      paper.doi = resumeCheckpoint.paper.doi
-      paper.sourceUrl = resumeCheckpoint.paper.sourceUrl
+      session = applyCheckpointResume(session, resumeCheckpoint, () => crypto.randomUUID())
     }
+    const paper = session.paperSession!.paper
     paperReadout.innerHTML = `
       <div class="readout-title"><span>SOURCE LOCKED</span><label>Paper title<input id="paper-title" value="${escapeHtml(paper.title ?? paper.fileName)}" maxlength="500" /></label>
         <div class="metadata-edits">
@@ -296,39 +274,32 @@ async function acquirePaper(file: File) {
       </dl>
       <p><i></i> Original PDF bytes remain in this browser.</p>`
     element<HTMLInputElement>('paper-title').addEventListener('input', event => {
-      if (!paperSession) return
+      if (!session.paperSession) return
       const title = (event.target as HTMLInputElement).value.trim()
-      paperSession.paper.title = title || undefined
+      session.paperSession.paper.title = title || undefined
     })
     element<HTMLInputElement>('paper-authors').addEventListener('input', event => {
-      if (!paperSession) return
+      if (!session.paperSession) return
       const authors = (event.target as HTMLInputElement).value.split(';').map(author => author.trim()).filter(Boolean)
-      paperSession.paper.authors = authors.length ? authors.slice(0, 50) : undefined
+      session.paperSession.paper.authors = authors.length ? authors.slice(0, 50) : undefined
     })
     element<HTMLInputElement>('paper-year').addEventListener('input', event => {
-      if (!paperSession) return
+      if (!session.paperSession) return
       const year = Number((event.target as HTMLInputElement).value)
-      paperSession.paper.year = Number.isInteger(year) && year >= 1600 && year <= 2200 ? year : undefined
+      session.paperSession.paper.year = Number.isInteger(year) && year >= 1600 && year <= 2200 ? year : undefined
     })
     element<HTMLInputElement>('paper-doi').addEventListener('input', event => {
-      if (!paperSession) return
+      if (!session.paperSession) return
       const doi = (event.target as HTMLInputElement).value.trim()
-      paperSession.paper.doi = doi || undefined
+      session.paperSession.paper.doi = doi || undefined
     })
     paperReadout.hidden = false
     analysisControls.hidden = false
     analysisConsent.checked = false
     dropStatus.textContent = 'LOCAL PARSE / COMPLETE'
     dropZone.classList.add('loaded')
-    if (resumeCheckpoint) {
-      analysisResponse = resumeCheckpoint.analysis
-      verifiedCitations = resumeCheckpoint.verifiedCitations
-      review = resumeCheckpoint.humanReview
-      reviewEvents = resumeCheckpoint.reviewEvents ?? []
-      activeCheckpointId = resumeCheckpoint.checkpointId
-      currentRunId = resumeCheckpoint.runId ?? crypto.randomUUID()
-      pendingCheckpoint = null
-      renderTheory(analysisResponse)
+    if (resumeCheckpoint && session.analysisResponse) {
+      renderTheory(session.analysisResponse)
       renderChallenges()
       resultsStage.hidden = false
       checkpointResumeStatus.textContent = 'HASH MATCH / REVIEW RESTORED'
@@ -361,7 +332,7 @@ function renderTheory(response: AnalysisResponse) {
   element<HTMLElement>('analysis-provenance').textContent = `${response.analysis.mode.toUpperCase()} DRAFT / ${response.analysis.model} / ${Math.round(response.analysis.latencyMs)} MS`
   element<HTMLElement>('theory-metrics').innerHTML = `
     <div><b>${response.draft.theory.centralClaims.length}</b><span>central claims</span></div>
-    <div><b>${verifiedCitations.filter(citation => citation.verification !== 'not_found').length}</b><span>located quotes</span></div>
+    <div><b>${session.verifiedCitations.filter(citation => citation.verification !== 'not_found').length}</b><span>located quotes</span></div>
     <div><b>${response.analysis.inputTokens + response.analysis.outputTokens}</b><span>provider tokens</span></div>`
 }
 
@@ -372,13 +343,13 @@ function fieldText(draft: AiDraft['challenges'][number], field: DemandKey): stri
 function citationMarkup(citations: CitationDraft[]): string {
   if (citations.length === 0) return '<span class="citation-empty">NO SOURCE CITATION</span>'
   return citations.map(citation => {
-    const state = verifiedCitations.find(candidate => candidate.id === citation.id)?.verification ?? 'not_found'
+    const state = session.verifiedCitations.find(candidate => candidate.id === citation.id)?.verification ?? 'not_found'
     return `<button class="citation-chip ${state}" data-citation-id="${escapeHtml(citation.id)}"><b>p.${citation.pdfPage}</b><span>${state.replace('_', ' ')}</span></button>`
   }).join('')
 }
 
 function decisionMarkup(challengeId: ChallengeId, field: DemandKey | 'verdict', aiValue: string): string {
-  const fieldReview = field === 'verdict' ? review?.challenges[challengeId].verdict : review?.challenges[challengeId].fields[field]
+  const fieldReview = field === 'verdict' ? session.review?.challenges[challengeId].verdict : session.review?.challenges[challengeId].fields[field]
   const decision = fieldReview?.decision ?? 'pending'
   const finalValue = fieldReview?.adjudicatedValue
   const editor = field === 'verdict'
@@ -401,8 +372,8 @@ function decisionMarkup(challengeId: ChallengeId, field: DemandKey | 'verdict', 
 }
 
 function renderChallenges() {
-  if (!analysisResponse || !review) return
-  challengeGrid.innerHTML = analysisResponse.draft.challenges.map((draft, index) => {
+  if (!session.analysisResponse || !session.review) return
+  challengeGrid.innerHTML = session.analysisResponse.draft.challenges.map((draft, index) => {
     const definition = benchmarkDefinition.challenges.find(challenge => challenge.id === draft.challengeId)!
     const demands = reviewFieldKeys().map((field, fieldIndex) => `
       <article class="demand-card" data-challenge-card="${draft.challengeId}" data-field-card="${field}">
@@ -435,16 +406,16 @@ function renderChallenges() {
 }
 
 function renderClaimLedgerPreview() {
-  if (!analysisResponse || !review || !currentRunId) {
+  if (!session.analysisResponse || !session.review || !session.currentRunId) {
     claimLedgerPreview.innerHTML = ''
     return
   }
-  const rows = analysisResponse.draft.challenges.flatMap(challenge =>
+  const rows = session.analysisResponse.draft.challenges.flatMap(challenge =>
     reviewFieldKeys().map(demand => {
-      const field = review!.challenges[challenge.challengeId].fields[demand]
+      const field = session.review!.challenges[challenge.challengeId].fields[demand]
       const citation = challenge[demand].citations[0]
       const source = citation
-        ? `p.${citation.pdfPage} / ${verifiedCitations.find(candidate => candidate.id === citation.id)?.verification ?? 'not found'}`
+        ? `p.${citation.pdfPage} / ${session.verifiedCitations.find(candidate => candidate.id === citation.id)?.verification ?? 'not found'}`
         : 'No source quote'
       const call = field.decision === 'pending'
         ? 'Awaiting human call'
@@ -453,7 +424,7 @@ function renderClaimLedgerPreview() {
           : field.decision === 'rejected'
             ? field.reason ?? 'Rejected'
             : field.aiValue
-      const id = `claim:${currentRunId}:${challenge.challengeId}:${demand}`
+      const id = `claim:${session.currentRunId}:${challenge.challengeId}:${demand}`
       return `<tr id="preview-${escapeHtml(id)}"><td>${escapeHtml(id)}</td><td>${escapeHtml(source)}</td><td>${escapeHtml(challenge.challengeId)}</td><td>${escapeHtml(demandLabels[demand])}</td><td>${escapeHtml(field.aiValue)}</td><td><span class="${field.decision}">${escapeHtml(field.decision)}</span><br>${escapeHtml(call)}</td></tr>`
     })
   ).join('')
@@ -461,28 +432,28 @@ function renderClaimLedgerPreview() {
 }
 
 function hasBrokenAcceptedCitation(challengeId: ChallengeId, field: DemandKey): boolean {
-  if (!analysisResponse || !review) return true
-  if (review.challenges[challengeId].fields[field].decision !== 'accepted') return false
-  const draft = analysisResponse.draft.challenges.find(challenge => challenge.challengeId === challengeId)!
-  return draft[field].citations.some(citation => verifiedCitations.find(candidate => candidate.id === citation.id)?.verification === 'not_found')
+  if (!session.analysisResponse || !session.review) return true
+  if (session.review.challenges[challengeId].fields[field].decision !== 'accepted') return false
+  const draft = session.analysisResponse.draft.challenges.find(challenge => challenge.challengeId === challengeId)!
+  return draft[field].citations.some(citation => session.verifiedCitations.find(candidate => candidate.id === citation.id)?.verification === 'not_found')
 }
 
 function updateReviewMeter() {
-  if (!review) return
+  if (!session.review) return
   let resolved = 0
   let blocked = false
   for (const challengeId of ['provenance-flip', 'synesthesia', 'blindsight'] as ChallengeId[]) {
-    const challenge = review.challenges[challengeId]
+    const challenge = session.review.challenges[challengeId]
     resolved += Object.values(challenge.fields).filter(field => field.decision !== 'pending').length
     resolved += challenge.verdict.decision === 'pending' ? 0 : 1
     blocked ||= reviewFieldKeys().some(field => hasBrokenAcceptedCitation(challengeId, field))
   }
   reviewResolved.textContent = String(resolved)
-  const total = totalReviewCalls()
+  const total = totalReviewCalls(session)
   reviewProgress.style.width = `${(resolved / total) * 100}%`
   reviewProgress.setAttribute('aria-valuenow', String(resolved))
   reviewProgress.setAttribute('aria-valuemax', String(total))
-  const ready = canExportAdjudicated(review) && !blocked
+  const ready = canExportAdjudicated(session.review) && !blocked
   exportFinal.disabled = !ready
   if (ready) {
     setPhase('export')
@@ -496,7 +467,7 @@ function updateReviewMeter() {
 }
 
 async function runAnalysis() {
-  if (!paperSession || !analysisConsent.checked) return
+  if (!session.paperSession || !analysisConsent.checked) return
   const transport = (document.querySelector<HTMLInputElement>('input[name="transport"]:checked')?.value ?? 'local') as AnalysisTransport
   const request = analysisRequestV2Schema.parse({
     schemaVersion: 'mac-analysis-request/v2',
@@ -505,7 +476,7 @@ async function runAnalysis() {
       version: defaultBenchmarkV2.version,
       integrityDigest: defaultBenchmarkV2.integrityDigest
     },
-    paper: paperSession.paper
+    paper: session.paperSession.paper
   })
   analyzeButton.disabled = true
   analyzeButton.classList.add('working')
@@ -520,11 +491,14 @@ async function runAnalysis() {
       model: element<HTMLInputElement>('local-proxy-model').value.trim(),
       launchedByHuman: element<HTMLInputElement>('local-proxy-launched').checked
     }
-    analysisResponse = await requestAnalysis(request, transport, analysisAccessToken.value, localConfiguration)
+    const analysisResponse = await requestAnalysis(request, transport, analysisAccessToken.value, localConfiguration)
     setPhase('verify')
-    verifiedCitations = verifyCitations(paperSession.paper.pages, allDraftCitations(analysisResponse.draft))
-    review = createReviewState(analysisResponse.draft, reviewerName.value.trim() || 'Human reviewer')
-    currentRunId = crypto.randomUUID()
+    session = applyAnalysisResult(session, {
+      analysisResponse,
+      verifiedCitations: verifyCitations(session.paperSession.paper.pages, allDraftCitations(analysisResponse.draft)),
+      reviewer: reviewerName.value.trim() || 'Human reviewer',
+      currentRunId: crypto.randomUUID()
+    })
     renderTheory(analysisResponse)
     renderChallenges()
     resultsStage.hidden = false
@@ -542,14 +516,14 @@ async function runAnalysis() {
 }
 
 function handleReviewAction(button: HTMLButtonElement) {
-  if (!review) return
+  if (!session.review) return
   const challengeId = button.dataset.challenge as ChallengeId
   const field = button.dataset.field as DemandKey | 'verdict'
   const action = button.dataset.reviewAction
   if (action === 'accept') {
-    if (field !== 'verdict' && analysisResponse) {
-      const draft = analysisResponse.draft.challenges.find(candidate => candidate.challengeId === challengeId)!
-      const broken = draft[field].citations.some(citation => verifiedCitations.find(candidate => candidate.id === citation.id)?.verification === 'not_found')
+    if (field !== 'verdict' && session.analysisResponse) {
+      const draft = session.analysisResponse.draft.challenges.find(candidate => candidate.challengeId === challengeId)!
+      const broken = draft[field].citations.some(citation => session.verifiedCitations.find(candidate => candidate.id === citation.id)?.verification === 'not_found')
       if (broken) return showToast('The quote is not on the cited page. Revise or reject this field.', 'error')
     }
     commitReviewDecision({ challengeId, field, decision: 'accepted' })
@@ -565,7 +539,7 @@ function handleReviewAction(button: HTMLButtonElement) {
 }
 
 function saveReview(button: HTMLButtonElement) {
-  if (!review) return
+  if (!session.review) return
   const challengeId = button.dataset.challenge as ChallengeId
   const field = button.dataset.field as DemandKey | 'verdict'
   const editor = button.closest<HTMLElement>('.review-editor')!
@@ -580,65 +554,39 @@ function saveReview(button: HTMLButtonElement) {
   }
 }
 
-function commitReviewDecision(update: Parameters<typeof applyReviewDecision>[1]) {
-  if (!review || !analysisResponse || !currentRunId) return
-  review = applyReviewDecision(review, update)
-  const challenge = analysisResponse.draft.challenges.find(candidate => candidate.challengeId === update.challengeId)!
-  const modelValue = update.field === 'verdict'
-    ? challenge.proposedVerdict
-    : fieldText(challenge, update.field)
-  const claimId = update.field === 'verdict'
-    ? `verdict:${currentRunId}:${update.challengeId}`
-    : `claim:${currentRunId}:${update.challengeId}:${update.field}`
-  reviewEvents = appendReviewEvent(reviewEvents, {
-    eventId: `event:${currentRunId}:${reviewEvents.length + 1}`,
-    sequence: reviewEvents.length + 1,
-    recordedAt: new Date().toISOString(),
-    reviewerAlias: review.reviewer,
-    claimId,
-    decision: update.decision,
-    modelValue,
-    ...(update.adjudicatedValue ? { humanValue: update.adjudicatedValue.trim() } : {}),
-    ...(update.reason ? { reason: update.reason.trim() } : {})
-  })
+function commitReviewDecision(update: Parameters<typeof applyReviewProgress>[1]) {
+  session = applyReviewProgress(session, update)
 }
 
 function acceptRemaining() {
-  if (!review || !analysisResponse) return
-  let next = review
+  if (!session.review || !session.analysisResponse) return
   let skipped = 0
-  for (const draft of analysisResponse.draft.challenges) {
+  for (const draft of session.analysisResponse.draft.challenges) {
     for (const field of reviewFieldKeys()) {
-      if (next.challenges[draft.challengeId].fields[field].decision !== 'pending') continue
-      const broken = draft[field].citations.some(citation => verifiedCitations.find(candidate => candidate.id === citation.id)?.verification === 'not_found')
+      const review = session.review
+      if (!review || review.challenges[draft.challengeId].fields[field].decision !== 'pending') continue
+      const broken = draft[field].citations.some(citation => session.verifiedCitations.find(candidate => candidate.id === citation.id)?.verification === 'not_found')
       if (broken) skipped += 1
-      else {
-        review = next
-        commitReviewDecision({ challengeId: draft.challengeId, field, decision: 'accepted' })
-        next = review!
-      }
+      else commitReviewDecision({ challengeId: draft.challengeId, field, decision: 'accepted' })
     }
-    if (next.challenges[draft.challengeId].verdict.decision === 'pending') {
-      review = next
+    if (session.review?.challenges[draft.challengeId].verdict.decision === 'pending') {
       commitReviewDecision({ challengeId: draft.challengeId, field: 'verdict', decision: 'accepted' })
-      next = review!
     }
   }
-  review = next
   renderChallenges()
   showToast(skipped ? `${skipped} ${skipped === 1 ? 'field still needs' : 'fields still need'} a human call because the cited quote was not found.` : 'You accepted every remaining draft with a verified source quote.')
 }
 
 async function showEvidence(citationId: string) {
-  if (!paperSession) return
-  const citation = verifiedCitations.find(candidate => candidate.id === citationId)
+  if (!session.paperSession) return
+  const citation = session.verifiedCitations.find(candidate => candidate.id === citationId)
   if (!citation) return
   viewerStatus.innerHTML = `<b>PDF PAGE ${citation.pdfPage}</b><span class="${citation.verification}">${citation.verification.replace('_', ' ')}</span>`
   viewerQuote.textContent = citation.quote
   evidenceReturnTarget = document.activeElement instanceof HTMLElement ? document.activeElement : null
   evidenceViewer.hidden = false
   element<HTMLButtonElement>('close-evidence').focus()
-  await renderPdfPage(paperSession.document, citation.pdfPage, pdfCanvas, Math.min(720, window.innerWidth - 48))
+  await renderPdfPage(session.paperSession.document, citation.pdfPage, pdfCanvas, Math.min(720, window.innerWidth - 48))
 }
 
 function closeEvidence() {
@@ -648,19 +596,19 @@ function closeEvidence() {
 }
 
 async function exportArtifact(expectAdjudicated: boolean) {
-  if (!paperSession || !analysisResponse || !review) return
-  const { pages: _pages, ...paper } = paperSession.paper
+  if (!session.paperSession || !session.analysisResponse || !session.review) return
+  const { pages: _pages, ...paper } = session.paperSession.paper
   const alphaRun = await createEvaluationRun({
-    runId: currentRunId ?? crypto.randomUUID(),
+    runId: session.currentRunId ?? crypto.randomUUID(),
     sourceCommit: __SOURCE_COMMIT__,
     paper,
     benchmark: benchmarkDefinition,
-    draft: analysisResponse.draft,
-    verifiedCitations,
-    review,
-    analysis: analysisResponse.analysis
+    draft: session.analysisResponse.draft,
+    verifiedCitations: session.verifiedCitations,
+    review: session.review,
+    analysis: session.analysisResponse.analysis
   })
-  const run = await normalizeEvaluationRun(alphaRun, reviewEvents)
+  const run = await normalizeEvaluationRun(alphaRun, session.reviewEvents)
   if (expectAdjudicated && run.artifactStatus !== 'adjudicated') return showToast('This run is not ready to seal. Finish the review and repair broken citations.', 'error')
 
   const blob = new Blob([JSON.stringify(run, null, 2)], { type: 'application/json' })
@@ -670,8 +618,7 @@ async function exportArtifact(expectAdjudicated: boolean) {
   link.download = evaluationFileNameV2(run)
   link.click()
   URL.revokeObjectURL(url)
-  lastIntegrityDigest = run.integrityDigest
-  lastCanonicalRun = run
+  session = applyCanonicalRun(session, run)
   setReportAvailability(true)
   collaborationWorkspace.setCanonicalRun(run)
   researchWorkspace.setCanonicalRun(run)
@@ -695,8 +642,7 @@ async function importArtifact(file: File) {
       <dl><div><dt>Benchmark</dt><dd>${escapeHtml(run.benchmark.definition.version)}</dd></div><div><dt>Integrity digest</dt><dd title="${run.integrityDigest}">${run.integrityDigest.slice(0, 16)}…</dd></div></dl>`
     importedArtifact.hidden = false
     resultsStage.hidden = false
-    lastIntegrityDigest = run.integrityDigest
-    lastCanonicalRun = run
+    session = applyCanonicalRun(session, run)
     setReportAvailability(true)
     collaborationWorkspace.setCanonicalRun(run)
     researchWorkspace.setCanonicalRun(run)
@@ -726,9 +672,9 @@ function downloadText(fileName: string, content: string, type: string) {
 }
 
 function exportReport(key: keyof ReportBundle) {
-  if (!lastCanonicalRun) return
-  const reports = generateReportBundle(lastCanonicalRun)
-  const slug = lastCanonicalRun.runId
+  if (!session.lastCanonicalRun) return
+  const reports = generateReportBundle(session.lastCanonicalRun)
+  const slug = session.lastCanonicalRun.runId
   const definitions: Record<keyof ReportBundle, [string, string]> = {
     labNoteHtml: [`cylon-detector_${slug}_lab-note.html`, 'text/html'],
     methodsHtml: [`cylon-detector_${slug}_methods-evidence.html`, 'text/html'],
@@ -751,7 +697,7 @@ dropZone.addEventListener('dragover', event => { event.preventDefault(); dropZon
 dropZone.addEventListener('dragleave', () => dropZone.classList.remove('dragging'))
 dropZone.addEventListener('drop', event => { event.preventDefault(); dropZone.classList.remove('dragging'); const file = event.dataTransfer?.files[0]; if (file) void acquirePaper(file) })
 paperInput.addEventListener('change', () => { const file = paperInput.files?.[0]; if (file) void acquirePaper(file) })
-analysisConsent.addEventListener('change', () => { analyzeButton.disabled = !analysisConsent.checked || !paperSession })
+analysisConsent.addEventListener('change', () => { analyzeButton.disabled = !analysisConsent.checked || !session.paperSession })
 analyzeButton.addEventListener('click', () => void runAnalysis())
 challengeGrid.addEventListener('click', event => {
   const target = event.target as HTMLElement
