@@ -86,6 +86,8 @@ async function mobileContainmentIssues(page: Page): Promise<string[]> {
   }), selectors)
 }
 
+// Playwright requires fixture object destructuring even when no fixtures are used.
+// eslint-disable-next-line no-empty-pattern -- official Playwright signature for testInfo-only tests
 test('field evidence guards reject tampering, privacy traffic, duplicate screenshots, and dirty-state lies', async ({}, testInfo) => {
   const injected: NetworkEvidence[] = [
     { method: 'GET', url: 'https://api.mixpanel.com/track' },

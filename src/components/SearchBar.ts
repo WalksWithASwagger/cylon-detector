@@ -18,7 +18,7 @@ export class SearchBar {
     }
     this.container = element
     this.router = router
-    this.loadTheories()
+    void this.loadTheories()
     this.render()
     this.attachEventListeners()
   }
@@ -154,7 +154,7 @@ export class SearchBar {
       item.addEventListener('click', () => {
         const theoryName = item.getAttribute('data-theory')
         if (theoryName) {
-          this.loadAndNavigateToTheory(theoryName)
+          void this.loadAndNavigateToTheory(theoryName)
           this.input.value = ''
           this.hideDropdown()
         }
@@ -166,7 +166,7 @@ export class SearchBar {
           e.preventDefault()
           const theoryName = item.getAttribute('data-theory')
           if (theoryName) {
-            this.loadAndNavigateToTheory(theoryName)
+            void this.loadAndNavigateToTheory(theoryName)
             this.input.value = ''
             this.hideDropdown()
           }

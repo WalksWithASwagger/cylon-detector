@@ -18,7 +18,7 @@ import './components/MetainfoContainer.scss'
 
 echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
 
-;(async () => {
+void (async () => {
   await initI18n()
 
   globalState.initialize()

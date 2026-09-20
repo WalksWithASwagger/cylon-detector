@@ -41,7 +41,7 @@ export class Router {
 
   private constructor() {
     this.setupPopstateListener()
-    this.parseCurrentURL()
+    void this.parseCurrentURL()
   }
 
   public static getInstance(): Router {
@@ -61,7 +61,7 @@ export class Router {
 
   private setupPopstateListener() {
     window.addEventListener('popstate', () => {
-      this.parseCurrentURL()
+      void this.parseCurrentURL()
     })
   }
 
@@ -112,7 +112,7 @@ export class Router {
   public navigateToTheory(category: string, theory: string) {
     const newPath = buildLocalizedPath(`/${category}/${theory}`, this.currentLocale)
     window.history.pushState({}, '', newPath)
-    this.parseCurrentURL()
+    void this.parseCurrentURL()
   }
 
   public getCurrentTheory(): TheoryData | null {
@@ -121,7 +121,7 @@ export class Router {
 
   public goHome() {
     window.history.pushState({}, '', buildLocalizedPath('/', this.currentLocale))
-    this.parseCurrentURL()
+    void this.parseCurrentURL()
   }
 
   public async getAllTheories(): Promise<Array<{category: string, theory: string, title: string}>> {

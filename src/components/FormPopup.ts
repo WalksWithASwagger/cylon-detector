@@ -97,7 +97,9 @@ export class FormPopup {
       }
     })
 
-    this.form.addEventListener('submit', (e) => this.handleSubmit(e))
+    this.form.addEventListener('submit', (e) => {
+      void this.handleSubmit(e)
+    })
 
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape' && this.isVisible) {
