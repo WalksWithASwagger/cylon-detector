@@ -119,7 +119,7 @@ describe('invite dry-run provisioning', () => {
 
     expect(result.plan.redisKey).toBe(inviteStorageKey(digest))
     expect(result.plan.redisKey).toBe(`cylon:invite:${digest}`)
-    expect(upstashSource).toContain('cylon:invite:${codeDigest}')
+    expect(upstashSource).toContain(`cylon:invite:\${codeDigest}`)
     expect(result.plan.fields).toEqual({
       id: 'mac-lab-pilot',
       enabled: 'true',
