@@ -27,6 +27,7 @@
     "validate:field-evidence": "tsx scripts/validate-field-evidence.ts",
     "validate:collaboration": "tsx scripts/validate-collaboration-packet.ts",
     "verify:receipt": "tsx scripts/verify-canonical-receipt.ts",
+    "invites": "tsx scripts/invites/cli.ts",
     "test:conformance": "vitest run test/conformance",
     "verify": "npm run type-check && npm run validate:data && npm run validate:registry && npm run validate:schemas && npm run validate:collaboration && npm test && npm run build && npm run validate:build",
     "vercel-build": "npm run generate-sitemap && npm run build",

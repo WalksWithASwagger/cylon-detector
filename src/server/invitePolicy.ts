@@ -85,8 +85,100 @@ const emptyUsage = (): AggregateUsage => ({
   latencyMs: 0
 })
 
-export async function digestInviteCode(code: string, pepper: string): Promise<string> {
+export const INVITE_STORAGE_PREFIX = 'cylon:invite:'
+
+export const INVITE_RECORD_FIELD_NAMES = [
+  'id',
+  'enabled',
+  'expiresAt',
+  'maxRuns',
+  'usedRuns',
+  'maxInputCharacters',
+  'attempts',
+  'successes',
+  'failures',
+  'inputCharacters',
+  'inputTokens',
+  'outputTokens',
+  'latencyMs'
+] as const
+
+export type InviteRecordFieldName = typeof INVITE_RECORD_FIELD_NAMES[number]
+
+export type InviteRecordFields = {
+  id: string
+  enabled: 'true' | 'false'
+  expiresAt: string
+  maxRuns: string
+  usedRuns: string
+  maxInputCharacters: string
+  attempts: string
+  successes: string
+  failures: string
+  inputCharacters: string
+  inputTokens: string
+  outputTokens: string
+  latencyMs: string
+}
+
+const digestPattern = /^[a-f0-9]{64}$/
+
+export function digestInviteCodeSync(code: string, pepper: string): string {
   return createHmac('sha256', pepper).update(code).digest('hex')
+}
+
+export async function digestInviteCode(code: string, pepper: string): Promise<string> {
+  return digestInviteCodeSync(code, pepper)
+}
+
+export function inviteStorageKey(codeDigest: string): string {
+  if (!digestPattern.test(codeDigest)) {
+    throw new Error('Invite storage key requires a 64-character hex digest')
+  }
+  return `${INVITE_STORAGE_PREFIX}${codeDigest}`
+}
+
+export function zeroedInviteCounters(): Pick<
+  InviteRecordFields,
+  'usedRuns' | 'attempts' | 'successes' | 'failures' | 'inputCharacters' | 'inputTokens' | 'outputTokens' | 'latencyMs'
+> {
+  return {
+    usedRuns: '0',
+    attempts: '0',
+    successes: '0',
+    failures: '0',
+    inputCharacters: '0',
+    inputTokens: '0',
+    outputTokens: '0',
+    latencyMs: '0'
+  }
+}
+
+export function hashedInviteRecord(input: {
+  code: string
+  pepper: string
+  id: string
+  enabled?: boolean
+  expiresAtMs: number
+  maxRuns: number
+  maxInputCharacters: number
+}): { redisKey: string; fields: InviteRecordFields } {
+  const codeDigest = digestInviteCodeSync(input.code, input.pepper)
+  return {
+    redisKey: inviteStorageKey(codeDigest),
+    fields: {
+      id: input.id,
+      enabled: input.enabled === false ? 'false' : 'true',
+      expiresAt: String(input.expiresAtMs),
+      maxRuns: String(input.maxRuns),
+      maxInputCharacters: String(input.maxInputCharacters),
+      ...zeroedInviteCounters()
+    }
+  }
+}
+
+export function disableInviteRecord(fields: InviteRecordFields): InviteRecordFields {
+  return { ...fields, enabled: 'false' }
 }
 
 function sameDigest(left: string, right: string): boolean {
@@ -118,7 +210,7 @@ export class InMemoryInvitePolicy implements InvitePolicy {
   }): InMemoryInvitePolicy {
     const invites = input.invites.map(invite => ({
       ...invite,
-      codeDigest: createHmac('sha256', input.pepper).update(invite.code).digest('hex'),
+      codeDigest: digestInviteCodeSync(invite.code, input.pepper),
       usedRuns: 0,
       code: undefined
     })).map(({ code: _code, ...invite }) => invite)
