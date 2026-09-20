@@ -24,144 +24,129 @@ PATH=/opt/homebrew/opt/node@22/bin:$PATH npm exec -- varlock load --agent --show
 ```
 
 - [Product roadmap](docs/roadmap/cylon-detector-roadmap.md)
+- [Field-release workplan](docs/roadmap/field-release-workplan.md)
+- [Release handoff and gates](docs/operations/release-handoff.md)
 - [Research receipts](docs/research/product-research-2026-07-20.md)
 - [Voice audit](docs/voice-audit/00-summary.md)
 
 ## Tech Stack & Architecture
 
-- **Frontend**: TypeScript + Vite with ESBuild
-- **Charts**: ECharts 6.0 with Sunburst visualization (SVG/Canvas renderers)
-- **Styling**: SCSS with responsive design and mobile optimization
-- **Deployment**: Vercel with SPA routing and file-based routing
-- **Form Submissions**: Telegram Bot API integration for feedback collection
-- **Dependencies**: Minimal - only ECharts, Vite, TypeScript, and SCSS
+This repository is one Vite app with two public surfaces.
 
-## Technical Features
+**Consciousness Atlas** (`/`, `/paper`) is the inherited taxonomy explorer: TypeScript, Vite 6, SCSS, and ECharts 6 sunburst rendering of Kuhn's landscape. Atlas pages keep client-side routing, theory search, and the mystic color system.
 
-- 🚀 **Minimal Bundle Size** - Tree-shaking and code splitting (only SunburstChart, SVGRenderer, CanvasRenderer, TitleComponent)
-- 📱 **Responsive Design** - Dynamic label positioning and mobile-optimized interactions
-- 🎨 **Dynamic Color System** - Mystic-themed palette with automatic hierarchy-based color variations
-- 🔄 **SPA Routing** - Client-side routing with history API fallback
-- 📊 **High Performance** - SVG renderer for crisp scaling, Canvas fallback
-- 🤖 **Telegram Integration** - Form submissions sent directly to Telegram bot
+**MAC Consciousness Bench** (`/bench`) is the later experimental instrument. The browser parses and hashes a PDF with `pdfjs-dist`, runs a deterministic local mock by default, and writes canonical `mac-evaluation-run/v2` receipts. Zod plus generated JSON Schemas validate requests, runs, collaboration packets, and preregistrations. Optional hosted analysis lives in `api/analyze.ts` and `src/server/`; it fails closed unless live analysis and an invite policy are explicitly enabled.
 
-## Form Submissions & Telegram Integration
+Shared runtime pieces that actually ship:
 
-The feedback form uses a serverless API endpoint (`api/submit.ts`) that forwards submissions to a Telegram bot:
+- **Frontend**: TypeScript 5.8, Vite 6, ESBuild, `vite-tsconfig-paths`
+- **Atlas charts**: ECharts 6 (Sunburst, SVG/Canvas)
+- **Bench parsing and contracts**: `pdfjs-dist`, Zod 4
+- **Tests**: Vitest 4, Playwright, Python 3 agent-contract tests
+- **Schema tooling**: `tsx`, Ajv
+- **Hosting shape**: Vercel SPA routes in `vercel.json` (`/`, `/paper`, `/bench`, `/api/*`). Presence of that config is not a deployment or custom-domain claim.
 
-- **API Endpoint**: `/api/submit` - Handles POST requests with form data
-- **Telegram Bot**: Sends formatted messages to a designated Telegram chat
-- **Error Handling**: Graceful fallback with user feedback
-- **Security**: Basic validation and sanitization of form inputs
+Mock local rehearsal is the safe default. `.env.schema` records:
 
-## Analytics 
-
-Mixpanel integration tracks page views, clicks (buttons, links), and form submissions. Set `VITE_MIXPANEL_TOKEN` environment variable to enable. Tracks only in production.
-
-## Project Structure
-
-```
-src/
-├── components/          # UI components
-│   ├── TheoryChart.ts   # Main sunburst chart component
-│   ├── SearchBar.ts     # Theory search functionality
-│   ├── FormPopup.ts     # Feedback form modal
-│   └── ItemDetailsPanel.ts # Theory detail viewer
-├── config/             # Configuration files
-│   ├── appConfig.ts     # App settings and environment variables
-│   └── chartConfig.ts   # Chart data, colors, and ECharts options
-├── data/               # Data files
-│   ├── theoryNames.ts   # Theory name mappings
-│   └── THEORY.md       # Theory documentation
-├── pages/              # Page-specific styles
-│   └── theory.scss     # Theory detail page styling
-├── styles/             # Global styles
-│   ├── main.scss       # Main stylesheet
-│   └── _mixins.scss    # SCSS mixins
-├── types/              # TypeScript definitions
-│   ├── theory.ts       # Mind Theory Taxon Schema (MTTS) interface
-│   └── chart.ts        # Chart-related types
-├── utils/              # Utility functions
-│   ├── routing.ts      # Client-side routing
-│   ├── globalState.ts  # Application state management
-│   ├── chartUtils.ts   # Chart helper functions
-│   ├── slugUtils.ts    # URL slug utilities
-│   └── apiMock.ts      # Mock API for development
-└── main.ts             # Application entry point
+```text
+MAC_ANALYSIS_MODE=mock
+MAC_LIVE_ANALYSIS_ENABLED=false
+MAC_INVITE_POLICY=disabled
+VITE_USE_ANALYSIS_API=false
 ```
 
-## Getting Started
+`npm run dev` serves the Vite app on port 8080 and keeps analysis in the browser. It does not start `/api/analyze` or `/api/submit`.
 
-### Prerequisites
+### Optional integrations
 
-- Node.js 22.x
-- npm
+These libraries and routes exist in the tree. None of them are configured, provisioned, or authorized by this README.
 
-### Installation
+| Boundary | Code | When it is inert |
+| --- | --- | --- |
+| OpenAI | `openai` via `src/server/analyzePaper.ts` | `MAC_ANALYSIS_MODE` is not `live`, or `OPENAI_API_KEY` is unset |
+| Upstash Redis / ratelimit | `@upstash/redis`, `@upstash/ratelimit` via `src/server/invitePolicyFactory.ts` | `MAC_INVITE_POLICY` is `disabled` (default) or Upstash credentials are absent |
+| Telegram | `api/submit.ts` (`TG_BOT_TOKEN`, `TG_CHAT_ID`) | Tokens unset; the Atlas feedback form logs locally instead |
+| Mixpanel | `mixpanel-browser` via `src/utils/analytics.ts` (`VITE_MIXPANEL_TOKEN`) | Token unset, or the build is not production |
 
-```bash
-# Install dependencies
-npm install
+Invite-gated server analysis sends extracted text only after explicit consent. The analyze route returns 503 while live analysis is off or invite access is unavailable. Local rehearsal continues either way. Vendor provisioning, spend limits, and secret injection stay behind [invite operations](docs/operations/invite-operations.md) and the [release handoff](docs/operations/release-handoff.md).
 
-# Start development server (runs on port 8080)
-npm run dev
+## Project map
 
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
-
-# Type checking
-npm run type-check
 ```
+api/                      Vercel functions: analyze (invite-gated) and submit (Atlas feedback)
+src/bench/                MAC Bench UI, PDF parse, mock analysis, receipts, collaboration
+src/server/               Hosted analysis, prompts, invite policy (static / Upstash / disabled)
+src/components/           Atlas chart, search, theory panel, language and feedback chrome
+src/config/               Atlas app and chart config
+src/data/                 Theory name mappings
+src/pages/                Atlas page styles
+src/styles/               Global SCSS
+src/types/                Atlas TypeScript types
+src/utils/                Routing, i18n, analytics, local form mock
+src/shared/               Shared site helpers
+src/main.ts               Atlas entry
+src/paper.ts              Paper-page entry
+benchmarks/               Versioned MAC Lab and challenge records
+schemas/                  Public JSON Schemas for receipts, reviews, and preregistration
+fixtures/                 Demo v2 receipt, collaboration packets, conformance kits
+indicators/               Draft AI-indicator profile templates
+test/                     Vitest, Playwright e2e, receipt/collaboration conformance, agentic Python
+agentic/contract.json     Agent delivery contract
+docs/AGENTIC-DELIVERY.md  How that contract is used
+docs/operations/          Release, invite, receipt, and portable-rehearsal runbooks
+docs/governance/          Benchmark publication rules (no published MAC release is implied)
+docs/roadmap/             Product and field-release plans
+docs/licensing-boundary.md  Inherited Atlas vs original bench licensing notes
+scripts/                  Schema/fixture generation and validators
+```
+
+Public versioned contracts live in `benchmarks/`, `schemas/`, and `indicators/`. The synthetic v2 rehearsal is `fixtures/demo/witness-theory-adjudicated.v2.json`.
 
 ## Development
 
-The project uses:
-- **Path mapping** for clean imports (`@/components/*`, `@/config/*`, `@/types/*`)
-- **Tree-shaking** - Only imports required ECharts components (SunburstChart, SVGRenderer, CanvasRenderer)
-- **Code splitting** - ECharts is automatically chunked for better performance
-- **SCSS** - Modular styling with mixins and responsive design
-- **TypeScript** - Strict typing
+Requires **Node.js 22.x** (`engines.node` in `package.json`; CI uses Node 22).
+
+```bash
+npm install
+
+# Mock local rehearsal (safe default). Vite on port 8080. No API functions.
+npm run dev
+
+# Same port, with local Vercel functions for /api/analyze and /api/submit.
+# Still mock and fail-closed unless you change the env contract above.
+npm run dev:full
+
+npm run type-check
+npm test
+npm run test:e2e
+npm run verify
+```
+
+`npm test` runs Vitest, then `test:agentic` (Python 3 unittest under `test/agentic/`). `npm run verify` is the local package gate: type-check, data/registry/schema/collaboration validation, tests, production build, and build validation. CI in [`.github/workflows/ci.yml`](.github/workflows/ci.yml) adds Playwright, Varlock (`npm exec varlock load --agent --show-all`), and `npm audit --audit-level=moderate`.
+
+```bash
+npm run generate:schemas
+npm run generate:fixtures
+npm run build
+npm run preview
+```
+
+TypeScript path aliases (`@/*`, `@/components/*`, `@/config/*`, `@/types/*`) still apply. ECharts remains a manual chunk. Atlas SCSS and the bench stylesheet stay separate.
+
+Deployment, licensing, MAC benchmark publication, and research activation are not development steps. They stay behind the [release handoff](docs/operations/release-handoff.md), [licensing boundary](docs/licensing-boundary.md), [benchmark governance](docs/governance/benchmark-governance.md), and the field-release workplan. `vercel.json` describes SPA routing and headers only; this README does not authorize a preview or production deploy.
 
 ## Chart Configuration
 
-The sunburst chart is configured in `src/config/chartConfig.ts`:
+The Atlas sunburst is configured in `src/config/chartConfig.ts`:
 
 - **Data Structure**: Hierarchical theory organization (10 main categories → subcategories → individual theories)
 - **Color Palette**: Mystic-themed colors with automatic lightening/desaturation for hierarchy levels
 - **Label Positioning**: Dynamic positioning based on device type and hierarchy level
 - **Interactive Features**: Tooltips, click handlers, and responsive behavior
 
-## Deployment
-
-The project is configured for Vercel deployment:
-
-```bash
-# Build for production
-npm run build
-
-# Deploy to Vercel (if using Vercel CLI)
-vercel --prod
-```
-
-The `vercel.json` configuration includes:
-- SPA routing with history API fallback
-- Asset caching headers
-- Build command configuration
-
-## Performance Features
-
-- **Tree-shaking**: Only loads required ECharts components (SunburstChart, SVGRenderer, CanvasRenderer, TitleComponent)
-- **Code splitting**: ECharts automatically chunked for better loading performance
-- **Responsive rendering**: SVG renderer for crisp scaling, Canvas fallback
-- **Optimized builds**: ESBuild for fast development and production builds
-- **Mobile optimization**: Dynamic label visibility and positioning
-
 ## Customization
 
-To modify the chart:
+To modify the Atlas chart:
 
 1. **Data**: Edit `baseData` in `src/config/chartConfig.ts`
 2. **Colors**: Modify `mysticPalette` and color utility functions
