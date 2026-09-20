@@ -2,14 +2,40 @@
 
 Use this runbook after a maintainer has approved a scoped issue for execution. The machine-readable authority is [`agentic/contract.json`](../../agentic/contract.json); this document explains the human operating sequence.
 
+## Local toolchain preflight
+
+Run this read-only check before claiming a lane or querying GitHub. It compares the interactive Node major to `.nvmrc` and `package.json`, compares standalone Varlock to the project pin, and reports GitHub CLI ambiguity. It never edits git remotes, `gh` defaults, environment files, or GitHub state.
+
+```bash
+PATH=/opt/homebrew/opt/node@22/bin:$PATH npm exec -- tsx scripts/validate-local-toolchain.ts
+```
+
+Exact operator commands when a check fails:
+
+```bash
+# Node 22 — matches .nvmrc 22.12.0 and package.json engines.node 22.x
+PATH=/opt/homebrew/opt/node@22/bin:$PATH node --version
+
+# Project-local Varlock 1.11.0, not a standalone/global binary
+PATH=/opt/homebrew/opt/node@22/bin:$PATH npm exec -- varlock load --agent --show-all
+PATH=/opt/homebrew/opt/node@22/bin:$PATH npm exec -- varlock scan --staged
+
+# Explicit repository — do not rely on gh's default remote
+gh -R WalksWithASwagger/cylon-detector issue list
+gh -R WalksWithASwagger/cylon-detector api --paginate repos/WalksWithASwagger/cylon-detector/pulls/<number>/files
+```
+
+If Node is 26, standalone Varlock is 1.10.0, or `remote.upstream.gh-resolved=base`, use the matching command above in that shell. Do not run `git config`, `gh repo set-default`, or a global Varlock upgrade as part of this preflight.
+
 ## Before claiming a lane
 
-1. Refresh open issues and PRs with `scripts/agentic/status_report.py`.
-2. Confirm the issue has no `needs-human`, `blocked`, or `in-progress` label.
-3. Save the issue body to a local file and run `issue_lint.py` with the intended `agent:ready` label.
-4. Confirm dependencies and the complete ownership surface.
-5. Confirm no active lane owns an overlapping path.
-6. Start from current `master` in an isolated `codex/<issue>-<slug>` branch or worktree.
+1. Run the local toolchain preflight and keep Node 22 plus project-local Varlock on PATH.
+2. Refresh open issues and PRs with `scripts/agentic/status_report.py` using `gh -R WalksWithASwagger/cylon-detector` when the default remote is ambiguous.
+3. Confirm the issue has no `needs-human`, `blocked`, or `in-progress` label.
+4. Save the issue body to a local file and run `issue_lint.py` with the intended `agent:ready` label.
+5. Confirm dependencies and the complete ownership surface.
+6. Confirm no active lane owns an overlapping path.
+7. Start from current `master` in an isolated `codex/<issue>-<slug>` branch or worktree.
 
 The scripts do not apply labels. A maintainer reviews the contract result and makes the GitHub state change.
 
@@ -42,7 +68,7 @@ The issue snapshot contains `repository`, `number`, `body`, `labels`, and `state
 GitHub's PR GraphQL view does not expose file change status consistently, so capture the same-head REST pull-files response and normalize each `filename` to `path` while retaining `status`. Auto-merge accepts only `added`, `modified`, and `removed`; `renamed`, `copied`, unknown, or missing status and any `previousFilename` require human review. A removed file is checked under its deleted path. This prevents a protected origin from escaping review through a safe-looking rename.
 
 ```bash
-gh api --paginate repos/WalksWithASwagger/cylon-detector/pulls/<number>/files
+gh -R WalksWithASwagger/cylon-detector api --paginate repos/WalksWithASwagger/cylon-detector/pulls/<number>/files
 ```
 
 For required checks, retain the canonical GitHub union shape. CheckRun records use `name`, `status`, and `conclusion` and pass only when status is `COMPLETED`. StatusContext records use `context` and `state` and pass only at `SUCCESS`. Do not flatten the two shapes or discard status.
