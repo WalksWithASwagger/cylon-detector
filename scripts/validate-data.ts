@@ -1,7 +1,7 @@
 import { execFileSync } from 'node:child_process'
 import { readdir, readFile } from 'node:fs/promises'
 
-const EXPECTED_THEORY_PROFILES = 211
+const EXPECTED_THEORY_PROFILES = 210
 const dataDirectory = new URL('../public/data/', import.meta.url)
 const entries = await readdir(dataDirectory, { withFileTypes: true })
 const files = entries
