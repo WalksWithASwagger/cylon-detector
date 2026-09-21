@@ -37,7 +37,7 @@ The committed schema source of truth is the MTTS v5.0 TypeScript interfaces in `
 ## Key hygiene
 
 - When a UI dictionary key is added, renamed, or removed in the English source, every other locale file must be updated to match in the same change — no missing keys, no orphaned keys left behind.
-- Run the layer-1 validation script (see `docs/i18n/progress/`) after every batch, before marking it done.
+- Run the layer-1 checker after every batch, before marking it done: `node scripts/i18n-check.js {locale}` or `node scripts/i18n-check.js {locale} --files a.json,b.json`. Progress state lives in `docs/i18n/progress/STATUS.json`; that directory is not the checker.
 - Watch for accidental cross-locale contamination — a locale file must never contain another locale's strings.
 
 ## Locale-specific notes

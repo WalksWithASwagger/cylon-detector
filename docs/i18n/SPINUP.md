@@ -8,11 +8,14 @@ gate (step 5 below).
 
 ---
 
-## 1. Current state (as of Malay completion)
+## 1. Current state (as of 2026-09-21)
 
-**Shipped (10):** `en` (source) · `es` `fr` `de` `uk` `hi` `ms` `zh-CN` `zh-TW` `ar`
+**Shipped (18):** `en` (source) · `es` `fr` `de` `it` `nl` `pt-PT` `ru` `uk` `tr` `ar` `he` `hi` `zh-CN` `zh-TW` `ja` `id` `ms`
 
-**Remaining (14):** `it` `nl` `pl` `pt-BR` `pt-PT` `ru` `tr` `he` `bn` `ja` `ko` `id` `vi` `th`
+These match `AVAILABLE_LOCALES` in `src/shared/site.ts` and are `done` /
+`qa_layer1: passed` in `docs/i18n/progress/STATUS.json`.
+
+**Remaining (`not_started`, 6):** `pl` `pt-BR` `bn` `ko` `vi` `th`
 
 Source of truth for progress: `docs/i18n/progress/STATUS.json`. On any resume,
 read it first; the first non-`done` locale is the next one. A locale is only
@@ -28,11 +31,11 @@ Per-locale deliverables (all under known paths):
 Everything else (routing, middleware hreflang, RTL, OG-locale map, sitemap
 hreflang) already handles all 24 `SUPPORTED_LOCALES` generically — no per-locale
 code. `middleware.OG_LOCALE_MAP` already has all 24; `RTL_LOCALES` already has
-`he`.
+`ar` and `he`.
 
 ---
 
-## 2. The proven pipeline (what worked for the last 9 locales)
+## 2. The proven pipeline (what worked for the shipped locales)
 
 Two steps per locale, in order:
 
@@ -50,28 +53,30 @@ One agent translates the three small dicts and seeds the glossary. It must:
   `docs/i18n/glossary.json` (this seeds terminology consistency for step B).
 - Validate: `node scripts/i18n-check.js {locale}` → 0 hard failures.
 
-### Step B — 210 theory content files (12-agent workflow)
+### Step B — 210 theory content files
 
-Use the Workflow tool. The reusable template lives at:
-`~/.claude/projects/-Users-dan-Repositories-c-atlas/<session>/workflows/scripts/translate-ms-theories-wf_*.js`
+The reusable file split lives in this repository at
+`docs/i18n/progress/theory-chunks.json` (18 chunks × up to 12 real on-disk
+filenames). Use those filenames, not chart leaf names (see §6). The `ALL`
+filename list (210 real on-disk filenames) is the union of those chunks and is
+**identical for every locale** — do not regenerate it.
 
-To adapt for a new locale, copy that script and change only:
-1. `meta.name` / `meta.description` — swap `ms`/Malay.
-2. In `buildPrompt`: the locale code `ms` → `{locale}`, the language name
-   ("formal academic Bahasa Melayu") → target language + register note (see §4),
-   and the script/surname convention line (see §4 — Latin-script vs. own-script).
-3. The `--files` in the validation command and the write dir
-   `public/data/ms/` → `public/data/{locale}/` are already parameterized off the
-   locale string in the prompt — just make sure the write-path locale matches.
+There is no in-repo reusable Claude Workflow template. Do not look for
+`~/.claude/projects/.../translate-ms-theories-wf_*.js` — that path is
+machine-local and is not part of this tree. `scripts/i18n-wf-he.js` and
+`scripts/i18n-wf-id.js` are leftover one-shots for already-shipped locales
+(hardcoded machine paths); they are not the runbook.
 
-The `ALL` filename list (210 real on-disk filenames) is embedded in the
-template and is **identical for every locale** — do not regenerate it. It's the
-resolved on-disk names, NOT chart leaf names (see §6). Same 12-way split each
-time.
-
-Run it: `Workflow({ scriptPath: "<the copied script>" })`. 12 agents translate
-~18 files each and self-validate. Expect `{groups:12, done:12}`, 0 hard
-failures.
+For each remaining locale, translate the 18 chunks in `STATUS.json` order:
+1. Read `docs/i18n/TRANSLATION_GUIDE.md` and `docs/i18n/glossary.json`.
+2. For each filename in the next `not_started` chunk, write
+   `public/data/{locale}/{filename}` from the English source at
+   `public/data/{filename}`. Apply the §4 register note for the locale.
+3. Validate the batch:
+   `node scripts/i18n-check.js {locale} --files <comma-list>` → 0 hard
+   failures.
+4. Only the orchestrator marks that chunk `done` in `STATUS.json` after
+   validation.
 
 ---
 
@@ -129,9 +134,9 @@ Feed the right note into both step A and step B prompts:
 | `vi` | Academic Vietnamese | Latin (diacritics) — verbatim |
 | `th` | Academic Thai | Thai script |
 
-**`he` is the only remaining RTL locale.** `RTL_LOCALES` already contains it;
-middleware sets `dir="rtl"` automatically. No extra code. The layer-1 check has
-RTL/script-purity heuristics — trust its warnings.
+**No remaining RTL locales.** `ar` and `he` are both shipped. `RTL_LOCALES`
+already contains both; middleware sets `dir="rtl"` automatically. No extra
+code. The layer-1 check has RTL/script-purity heuristics — trust its warnings.
 
 ---
 
@@ -139,9 +144,9 @@ RTL/script-purity heuristics — trust its warnings.
 
 - **Chart leaf name ≠ on-disk filename** for ~40 theories (`Buzsáki` →
   `Buzsaki.json`, `Brain Circuits` → `Brain-Circuits.json`, `A. Clark` →
-  `A-Clark.json`). Always use the resolved filenames in `theory-chunks.json` /
-  the workflow `ALL` list. Never derive a fetch path from a raw chart name — an
-  unmatched static path returns `index.html` with a 200, not a 404.
+  `A-Clark.json`). Always use the resolved filenames in `theory-chunks.json`.
+  Never derive a fetch path from a raw chart name — an unmatched static path
+  returns `index.html` with a 200, not a 404.
 - **Never edit English source** (`public/data/*.json`, `public/i18n/*/en.json`).
   Only add locale-suffixed files.
 - **Preserve each file's exact shape** — keys, nesting, string-vs-array, empty
@@ -170,11 +175,12 @@ comm -23 <(ls public/data/en 2>/dev/null || ls public/data/*.json | xargs -n1 ba
 ```
 
 (Simpler in practice: `ls public/data/{locale}/*.json | wc -l` — if <210, diff
-against the `ALL` list and re-run a workflow whose `ALL` is just the missing
-files.) Re-running only the gap is safe; completed files are byte-stable.
+against the filenames in `theory-chunks.json` and translate only the missing
+ones.) Re-running only the gap is safe; completed files are byte-stable.
 
-The Malay run completed clean in one pass (no gap-fill needed) — the 12-agent
-workflow is the reliable default. Prefer it over hand-spawning agents.
+The Malay run completed clean in one pass (no gap-fill needed). Re-run only
+the missing filenames from `theory-chunks.json`; prefer chunked batches over
+hand-spawning one file at a time.
 
 ---
 

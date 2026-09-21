@@ -1,15 +1,15 @@
 # Cylon Detector release handoff
 
-Status: Git delivery authorized through the `ship-it` closeout. The pull request is the live receipt for commit, push, review, checks, and merge state. Deployment, licensing, vendor provisioning, public release, and research activation remain withheld.
+Status: Git delivery of the Thursday-killer alpha (#1, 2026-07-20) and the 2026-09-20 instrument drain (#30–#39) is on `master`. The live receipt is `master` plus CI on that tip, not a leftover feature branch or an open implementation PR. Deployment, licensing, vendor provisioning, public release, and research activation remain withheld.
 
 ## Preserved alpha
 
-- Working branch: `codex/thursday-killer-alpha`
+- Historical working branch: `codex/thursday-killer-alpha` (not the current delivery surface; leftover remote ref only)
 - Preserved baseline commit: `5c2b541a7199dcb6521af6a4abb220c3bc86b2cf`
 - Preserved staged-diff SHA-256: `55b7bd64953c10e2f3e6e38c9cd86303c2881c361167a5c0b617e46d9cc782cb`
 - The pre-existing alpha index remained byte-for-byte intact while the skunkworks beta was implemented and verified around it.
 
-Before delivery, the branch, baseline, staged digest, full diff, and untracked files must be re-checked. The intended delivery is one reviewed pull request into `master`; do not reconstruct, reset, clean, or split the preserved alpha without a fresh decision.
+The intended historical delivery was one reviewed pull request into `master` (#1). Do not reconstruct, reset, clean, or split the preserved alpha without a fresh decision.
 
 ## Local verification packet
 
@@ -32,7 +32,7 @@ Manual inspection covers desktop, mobile, 200 percent zoom, reduced motion, keyb
 
 ### Git and preview
 
-The `ship-it` instruction authorizes committing, pushing, and opening the single pull request. It does not authorize a Vercel preview or production deployment. The first approved preview must remain mock-only:
+The original `ship-it` closeout authorized the alpha PR into `master` (#1). Later instrument work landed as separate reviewed PRs on the same branch. None of that authorizes a Vercel preview or production deployment. The first approved preview must remain mock-only:
 
 ```text
 MAC_ANALYSIS_MODE=mock
@@ -66,7 +66,7 @@ Provisioning Upstash, changing OpenAI or Vercel spending limits, injecting produ
 
 ## Release decision sequence
 
-1. Deliver the reviewed local diff through one pull request into `master`.
+1. Deliver the reviewed local diff through one pull request into `master`. **Done:** #1 (2026-07-20), plus #30–#39 on 2026-09-20. New work still lands as reviewed PRs on `master`.
 2. Prove required checks against the exact head commit and record the merge state in GitHub.
 3. Separately authorize a mock-only preview.
 4. Complete visual and privacy review on that preview.
