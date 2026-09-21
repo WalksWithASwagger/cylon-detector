@@ -187,10 +187,14 @@ Based on Robert Lawrence Kuhn's 2024 paper "A Landscape of Consciousness" publis
 This project is an exploratory and educational visualization.  
 It does not advocate for any particular theory of consciousness and should not be interpreted as an authoritative scientific classification.
 
+## Canonical site origin
+
+The chosen canonical origin is `https://www.consciousnessatlas.com`. That is what `SITE_ORIGIN` in `src/shared/site.ts`, `public/sitemap.xml`, and the `index.html` / `paper.html` canonical links emit. Apex `https://consciousnessatlas.com` is citation shorthand only. This README does not change DNS.
+
 ## How to Cite
 
 ConsciousnessAtlas.com by Danilo Znamerovszkij.  
-https://consciousnessatlas.com (accessed [date]).
+https://www.consciousnessatlas.com (accessed [date]).
 
 ## License status
 

@@ -19,9 +19,11 @@ The next phase is a release-and-learning problem, not a feature-volume contest. 
 - No open-source claim is made until the inherited Atlas licensing boundary is resolved.
 - No OSF write, live AI-system intervention, human response collection, or deceptive provenance trial is authorized here.
 
-## Workstream 1: Land a reviewable baseline
+## Workstream 1: Land a reviewable baseline — done
 
 **Outcome:** One coherent pull request lands on `master` without losing the preserved alpha or hiding inherited-file changes.
+
+**Status:** Done. Merged as #1 on 2026-07-20 (`10c7f49`). Later instrument work landed in the 2026-09-20 drain (#30–#39). This workstream is not open delivery.
 
 Exit evidence:
 
@@ -181,7 +183,7 @@ Do not run all four lanes in parallel. Pick the one whose evidence would most ch
 
 ## First decision queue
 
-1. Review and land the current implementation pull request.
+1. Review and land the current implementation pull request. **Done** in #1 (2026-07-20); later instrument work landed in #30–#39. Not open work.
 2. Decide whether to authorize a mock-only Vercel preview.
 3. Nominate one permitted paper or synthetic source for the portable MAC rehearsal.
 4. Decide who can approve a MAC benchmark publication.

@@ -1,6 +1,6 @@
 # Cylon Detector product roadmap
 
-Status: long-range product direction. The local skunkworks beta now implements the major instrument surfaces described below. Current release execution lives in [the field-release workplan](field-release-workplan.md).
+Status: long-range product direction. The local skunkworks beta now implements the major instrument surfaces described below — they are **landed on `master`**, not upcoming build. What remains is field-prove (preview, stranger QA, governance, licensing, invite pilot), not another land-the-PR pass. Current release execution lives in [the field-release workplan](field-release-workplan.md). Implementation checkboxes: [skunkworks-v2-tasks.md](../specs/skunkworks-v2-tasks.md).
 
 ## The true line
 
@@ -22,7 +22,7 @@ Every feature must strengthen at least one of these promises:
 
 ## What the original alpha got right
 
-The current alpha is a real end-to-end instrument, not a Figma promise:
+The preserved alpha (merged in #1; still the Atlas + early bench on `master`) is a real end-to-end instrument, not a Figma promise:
 
 - It accepts a local PDF, extracts text, and hashes the source in the browser.
 - It keeps the paper local until the reviewer gives explicit consent.
@@ -37,15 +37,19 @@ The visual language is already its own thing: part field instrument, part punk z
 
 ## Roadmap at a glance
 
-| Horizon | Outcome | The killer feature |
-|---|---|---|
-| Alpha hardening | A Thursday demo nobody can accidentally break | Run manifest and complete evidence receipt |
-| Public bench | A paper can be challenged, reviewed, and shared | Claim Ledger with source-page proof |
-| Collaborative lab | Independent humans can disagree without losing the plot | Blind Chamber and three-voice report |
-| Research-grade protocol | Predictions are frozen before results are seen | Preregistered optimization and replication runs |
-| Cylon Detector proper | AI systems can be examined without pretending certainty | Theory-derived indicator bundles with ethics gates |
+Local-beta status below is from `docs/specs/skunkworks-v2-tasks.md` (`[x]`) and the README. Field-prove is still open.
+
+| Horizon | Outcome | The killer feature | Local beta |
+|---|---|---|---|
+| Alpha hardening | A Thursday demo nobody can accidentally break | Run manifest and complete evidence receipt | Landed; field-prove open |
+| Public bench | A paper can be challenged, reviewed, and shared | Claim Ledger with source-page proof | Landed; field-prove open |
+| Collaborative lab | Independent humans can disagree without losing the plot | Blind Chamber and three-voice report | Landed; field-prove open |
+| Research-grade protocol | Predictions are frozen before results are seen | Preregistered optimization and replication runs | Landed locally; external write still gated |
+| Cylon Detector proper | AI systems can be examined without pretending certainty | Theory-derived indicator bundles with ethics gates | Landed as disabled/gated profiles |
 
 ## 1. Interface roadmap
+
+Except the open-source license gate, the P0/P1 surfaces in this section (run manifest, Claim Ledger, machine-said/human-called, Blind Chamber) and the P2 three-voice view are **landed in the local beta**. The text below is the product contract, not a to-build list.
 
 ### P0: Make the alpha bulletproof
 
@@ -119,6 +123,8 @@ Do not merge these into one synthetic paragraph. Let the tension live.
 Allow two papers, theory versions, models, or review rounds to be viewed side by side. Compare categorical outcomes, evidence coverage, predicted experiments, and reviewer disagreements. Never total them into one winner number.
 
 ## 2. Output roadmap
+
+The P0 Run Receipt and P1 ledger / stress-map / witness / provenance exports are **landed in the local beta**. The text below is the product contract, not a to-build list.
 
 ### P0: Run Receipt
 
@@ -309,7 +315,7 @@ The detector needs a big red stop button. Responsible science is part of the ins
 
 ## Build order
 
-The alpha hardening, Claim Ledger, printable reports, Blind Chamber, portable collaboration, research packaging, and gated indicator machinery now exist in the local beta. The next work is to land and field-prove them, not quietly add more surface area. Follow the [field-release workplan](field-release-workplan.md).
+The alpha hardening, Claim Ledger, printable reports, Blind Chamber, portable collaboration, research packaging, and gated indicator machinery now exist in the local beta on `master`. They are landed. The next work is to field-prove them, not land another implementation PR or quietly add more surface area. Follow the [field-release workplan](field-release-workplan.md).
 
 The implemented arc is:
 
