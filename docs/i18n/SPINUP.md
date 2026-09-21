@@ -63,9 +63,10 @@ filename list (210 real on-disk filenames) is the union of those chunks and is
 
 There is no in-repo reusable Claude Workflow template. Do not look for
 `~/.claude/projects/.../translate-ms-theories-wf_*.js` — that path is
-machine-local and is not part of this tree. `scripts/i18n-wf-he.js` and
-`scripts/i18n-wf-id.js` are leftover one-shots for already-shipped locales
-(hardcoded machine paths); they are not the runbook.
+machine-local and is not part of this tree. The Hebrew/Indonesian one-shot
+helpers (`scripts/i18n-wf-he.js`, `scripts/i18n-wf-id.js`) were deleted in
+#47 after those locales shipped; they are not in this tree and are not
+the runbook.
 
 For each remaining locale, translate the 18 chunks in `STATUS.json` order:
 1. Read `docs/i18n/TRANSLATION_GUIDE.md` and `docs/i18n/glossary.json`.
