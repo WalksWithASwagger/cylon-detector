@@ -33,9 +33,10 @@ The default operator tool is offline. It prepares or inspects hashed records and
 ```bash
 # Prepare a hashed record. Pepper comes from a Varlock-loaded environment.
 # Generated codes print once on TTY stderr only.
+# --expires-at must be in the future. A past timestamp mints an immediately expired invite.
 varlock run -- npm run invites -- dry-run \
   --id mac-lab-pilot \
-  --expires-at 2026-08-01T00:00:00.000Z \
+  --expires-at 2027-12-31T00:00:00.000Z \
   --max-runs 5 \
   --max-input-characters 200000 \
   --handoff-stderr
@@ -43,7 +44,7 @@ varlock run -- npm run invites -- dry-run \
 # Accept an existing high-entropy code from stdin. Never pass --code or --pepper.
 printf '%s' "$EXISTING_CODE" | varlock run -- npm run invites -- dry-run \
   --id mac-lab-pilot \
-  --expires-at 2026-08-01T00:00:00.000Z \
+  --expires-at 2027-12-31T00:00:00.000Z \
   --code-stdin
 
 # Audit only safe configuration and aggregate counters.
