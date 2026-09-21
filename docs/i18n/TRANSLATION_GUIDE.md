@@ -26,7 +26,9 @@ This guide governs every translation of Consciousness Atlas content — UI strin
 
 ## Schema preservation — the single most important rule
 
-When translating a theory content file (`public/data/{locale}/{TheoryName}.json`), the output must have **exactly** the same keys, the same nesting, and the same value types (string vs. array) as the English source file — even where that source file deviates from the documented MTTS v5.0 schema (`src/data/THEORY.md`). About 7.5% of the 211 source files have a missing, renamed, or misplaced field, or a string-vs-array mismatch on a field that's usually the other type. **Do not "fix" this.** Translate the values that are there, in the shape they're in. Adding, removing, or renaming a key, or changing a field's JSON type, is treated as a translation error even if the result looks more correct.
+When translating a theory content file (`public/data/{locale}/{TheoryName}.json`), the output must have **exactly** the same keys, the same nesting, and the same value types (string vs. array) as the English source file — even where that source file deviates from the documented MTTS v5.0 schema (`src/types/theory.ts`). About 7.5% of the 211 source files have a missing, renamed, or misplaced field, or a string-vs-array mismatch on a field that's usually the other type. **Do not "fix" this.** Translate the values that are there, in the shape they're in. Adding, removing, or renaming a key, or changing a field's JSON type, is treated as a translation error even if the result looks more correct.
+
+The committed schema source of truth is the MTTS v5.0 TypeScript interfaces in `src/types/theory.ts`. `src/data/THEORY.md` is a local-only, gitignored working note (never tracked; no generate script in this repo). A clone will not contain it — do not treat that path as documentation.
 
 - If a field is empty (`""` or `[]`) in the source, it stays empty in the translation. Don't fill it in.
 - `associated_thinkers`, `sources_and_references[].title_with_names`, `sources_and_references[].year` are copied byte-for-byte from the source — see "Proper names and citations" above.
