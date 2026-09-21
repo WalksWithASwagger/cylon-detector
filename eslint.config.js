@@ -71,16 +71,6 @@ export default tseslint.config(
     }
   },
   {
-    files: ['scripts/i18n-wf-*.js'],
-    languageOptions: {
-      globals: {
-        agent: 'readonly',
-        parallel: 'readonly',
-        phase: 'readonly'
-      }
-    }
-  },
-  {
     files: typedProject,
     languageOptions: {
       parserOptions: {
