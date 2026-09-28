@@ -202,7 +202,7 @@ Unused Atlas leftovers still in the schema (no in-repo reader after `appConfig` 
 
 ## Deploy
 
-Hosting shape is a Vercel SPA (`vercel.json`: `/`, `/paper`, `/bench`, `/api/*`). That file is not permission to deploy.
+Hosting shape is a Vercel SPA (`vercel.json`: `/`, `/paper`, `/bench`, `/api/*`). That file is not permission to deploy. The package build hook is `npm run vercel-build` (`generate-sitemap` then `build`).
 
 Canonical origin in code is `https://www.consciousnessatlas.com` (`src/shared/site.ts`). Apex `https://consciousnessatlas.com` is citation shorthand only. This repo does not authorize a preview, production promote, or DNS change.
 
